@@ -4,6 +4,7 @@ from sys import argv
 from classes import Movie, Character
 
 SRCFOL = '../1_cleaned_data'
+DESTFOL = '../2_parsed_data'
 
 #-------------------------------------------------------------------------------
 
@@ -94,9 +95,9 @@ def main():
             continue
 
         filename = str(movie.year())
-        outFem = open('fem/%s.txt' % (filename), mode='a+',
+        outFem = open('%s/fem/%s.txt' % (DESTFOL, filename), mode='a+',
             encoding='ISO-8859-1')
-        outMale = open('male/%s.txt' % (filename), mode='a+',
+        outMale = open('%s/male/%s.txt' % (DESTFOL, filename), mode='a+',
             encoding='ISO-8859-1')
 
         for char in movie.characters():
@@ -134,14 +135,14 @@ def main():
     print('\tMale:\t\t%d' % (len(males)))
     print('\tFemale:\t\t%d' % (len(females)))
     print('\tUnknown:\t%d' % (len(unknowns)))
+    print()
 
-    print('----------------------------------------')
     print('NUMBER OF LINES SPOKEN')
     print('\tMale:\t\t%d' % (maleLines))
     print('\tFemale:\t\t%d' % (femLines))
     print('\tUnknown:\t%d' % (unkLines))
+    print()
 
-    print('----------------------------------------')
     print('NUMBER OF WORDS SPOKEN')
     print('\tMale:\t\t%d' % (maleWords))
     print('\tFemale:\t\t%d' % (femWords))

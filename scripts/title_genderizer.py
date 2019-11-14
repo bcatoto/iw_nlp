@@ -2,6 +2,8 @@
 
 from sys import argv, stderr
 
+FOL = '../1_cleaned_data'
+
 #-------------------------------------------------------------------------------
 
 def title_genderizer(name, titles, gender):
@@ -14,8 +16,9 @@ def title_genderizer(name, titles, gender):
 
 def main():
 
-    inLines = open('1_characters_clean.txt', mode='r', encoding='ISO-8859-1')
-    outLines = open('2_characters_gendered_title.txt', mode='w',
+    inLines = open('%s/1_characters_clean.txt' % (FOL), mode='r',
+        encoding='ISO-8859-1')
+    outLines = open('%s/2_characters_gendered_title.txt' % (FOL), mode='w',
         encoding='ISO-8859-1')
 
     FEMALE = ['female', 'woman', 'girl', 'mrs.', 'ms.', 'miss', 'wife', 'mom',

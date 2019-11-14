@@ -2,19 +2,20 @@
 
 from sys import argv, stderr
 
-
+FOL = '../1_cleaned_data'
 
 #-------------------------------------------------------------------------------
 
 # makes gender lowercase, replaces 0 in position with '?'
 def clean_characters():
-    inLines = open('0_movie_characters_metadata.txt', mode='r',
+    inLines = open('%s/0_movie_characters_metadata.txt' % (FOL), mode='r',
         encoding='ISO-8859-1')
-    outLines = open('1_characters_clean.txt', mode='w', encoding='ISO-8859-1')
+    outLines = open('%s/1_characters_clean.txt' % (FOL), mode='w',
+        encoding='ISO-8859-1')
 
     for line in inLines:
         fields = line.rsplit('\t')
-        
+
         fields[4] = fields[4].lower() # gender
         fields[5] = '0\n' if fields[5] == '?\n' else fields[5] # position
 
@@ -29,9 +30,10 @@ def clean_characters():
 # removes '/I' from year and removes single quotes and square brackets from
 # genres
 def clean_movies():
-    inLines = open('0_movie_titles_metadata.txt', mode='r',
+    inLines = open('%s/0_movie_titles_metadata.txt' % (FOL), mode='r',
         encoding='ISO-8859-1')
-    outLines = open('1_titles_clean.txt', mode='w', encoding='ISO-8859-1')
+    outLines = open('%s/1_titles_clean.txt' % (FOL), mode='w',
+        encoding='ISO-8859-1')
 
     for line in inLines:
         fields = line.rsplit('\t')
@@ -49,8 +51,10 @@ def clean_movies():
 
 # splits data by tab instead of '+++$+++'
 def clean_lines():
-    inLines = open('0_movie_lines.txt', mode='r', encoding='ISO-8859-1')
-    outLines = open('1_lines_clean.txt', mode='w', encoding='ISO-8859-1')
+    inLines = open('%s/0_movie_lines.txt' % (FOL), mode='r',
+        encoding='ISO-8859-1')
+    outLines = open('%s/1_lines_clean.txt' % (FOL), mode='w',
+        encoding='ISO-8859-1')
 
     for line in inLines:
         fields = line.rsplit(' +++$+++ ')

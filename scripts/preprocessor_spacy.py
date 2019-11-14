@@ -5,8 +5,8 @@ import re
 from in_out import read_file, read_list, read_folder, write_file, write_word_pos
 import spacy
 
-SRCFOL = '2_parsed_data'
-DESTFOL = '3_preprocessed_data_spacy'
+SRCFOL = '../2_parsed_data'
+DESTFOL = '../3_preprocessed_data_spacy'
 REMOVE_WORDS = ['yeah', 'maybe', 'huh', 'uh']
 
 #-------------------------------------------------------------------------------

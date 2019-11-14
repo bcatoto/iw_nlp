@@ -4,6 +4,9 @@ from sys import argv, stderr
 from genderize import Genderize
 import config
 
+INFILE = '../../1_cleaned_data/2_characters_gendered_title.txt'
+OUTFILE = '../../1_cleaned_data/3_characters_gendered_genderize.txt'
+
 #-------------------------------------------------------------------------------
 
 def getGender(genderize, name):
@@ -18,12 +21,10 @@ def getGender(genderize, name):
 
 def main():
 
-    inFile = '../2_characters_gendered_title.txt'
-    inLines = open(inFile, mode='r', encoding='ISO-8859-1')
-
-    unknown = []
+    inLines = open(INFILE, mode='r', encoding='ISO-8859-1')
 
     # create array of unknown gender characters
+    unknown = []
     for line in inLines:
         fields = line.rsplit('\t')
         if fields[4] == '?':
@@ -35,16 +36,13 @@ def main():
         user_agent='GenderizeDocs/0.0',
         api_key=config.api_key,
         timeout=60)
-
     results = []
     for name in unknown:
         results.append(getGender(genderize, name.split(' ')))
 
     # sets pointer to beginning of file
     inLines.seek(0)
-
-    outLines = open('../3_characters_gendered_genderize.txt', mode='w',
-        encoding='ISO-8859-1')
+    outLines = open(OUTFILE, mode='w', encoding='ISO-8859-1')
 
     # counts
     changed = 0
@@ -71,7 +69,7 @@ def main():
         newline = '\t'.join(fields)
         outLines.write(newline)
 
-    print('--------------------')
+    print('----------------------------------------')
     print('TOTAL UNKNOWN:\t\t%d' % (len(unknown)))
     print('TOTAL CHANGED:\t\t%d' % (changed))
     print('TOTAL UNCHANGED:\t%d' % (unchanged))
