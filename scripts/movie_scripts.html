@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script>
+          const mss = require('movie-script-scraper');
+
+          const options = {
+            genre: 'Comedy'
+          };
+
+          mss(options)
+            .then(filePaths => {
+              console.log(filePaths);
+            })
+            .catch(err => {
+              console.error('There was a problem');
+            });
+        </script>
+    </head>
+    <body>
+    </body>
+</html>

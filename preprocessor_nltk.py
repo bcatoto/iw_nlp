@@ -2,12 +2,12 @@
 
 from sys import argv, stderr
 import re
-from pre_io import read_file, read_list, read_folder, write_file, write_word_pos
+from in_out import read_file, read_list, read_folder, write_file, write_word_pos
 from pre_nltk import simplify, tokenize, pos_tagger, remove_stopword, lemmatize
 
 # from preprocess_spacy import tokenize, pos_tagger, remove_stopword, lemmatize
 
-DESTFOL = '2_preprocessed_data_nltk'
+DESTFOL = '3_preprocessed_data_nltk'
 
 #-------------------------------------------------------------------------------
 

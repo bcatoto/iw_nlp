@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from sys import argv
+from sys import argv, stderr
 
 #-------------------------------------------------------------------------------
 
@@ -14,15 +14,14 @@ def title_genderizer(name, titles, gender):
 
 def main():
 
-    inLines = open(argv[1], mode='r', encoding='ISO-8859-1')
-    outLines = open(argv[2], mode='w', encoding='ISO-8859-1')
+    inLines = open('1_characters_clean.txt', mode='r', encoding='ISO-8859-1')
+    outLines = open('2_characters_gendered_title.txt', mode='w',
+        encoding='ISO-8859-1')
 
-    female = ['female', 'woman', 'girl', 'mrs.', 'ms.', 'miss', 'wife', 'mom',
+    FEMALE = ['female', 'woman', 'girl', 'mrs.', 'ms.', 'miss', 'wife', 'mom',
         'mother', 'sister']
-    male = ['male', ' man', 'man ', 'boy', 'guy', 'mr.', 'husband', 'dad',
+    MALE = ['male', ' man', 'man ', 'boy', 'guy', 'mr.', 'husband', 'dad',
         'father', 'brother']
-
-    test = ''
 
     # updates gender of characters
     for line in inLines:
@@ -32,11 +31,11 @@ def main():
 
         # genderize by female title
         if (fields[4] == '?'):
-            fields[4] = title_genderizer(name, female, 'f')
+            fields[4] = title_genderizer(name, FEMALE, 'f')
 
         # genderize with male title
         if (fields[4] == '?'):
-            fields[4] = title_genderizer(name, male, 'm')
+            fields[4] = title_genderizer(name, MALE, 'm')
 
         # print updated character metadata
         newline = '\t'.join(fields)

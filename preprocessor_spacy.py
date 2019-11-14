@@ -2,11 +2,11 @@
 
 from sys import argv, stderr
 import re
-from pre_io import read_file, read_list, read_folder, write_file, write_word_pos
+from in_out import read_file, read_list, read_folder, write_file, write_word_pos
 import spacy
 
-DESTFOL = '2_preprocessed_data_spacy'
-
+SRCFOL = '2_parsed_data'
+DESTFOL = '3_preprocessed_data_spacy'
 REMOVE_WORDS = ['yeah', 'maybe', 'huh', 'uh']
 
 #-------------------------------------------------------------------------------
@@ -23,7 +23,8 @@ def preprocess(text, gender, year):
     lemma = []
     for token in doc:
         if not token.is_stop and token.text not in REMOVE_WORDS and \
-            token.lemma_ is not '-PRON-' and token.pos_ is not 'PROPN':
+            token.lemma_ is not '-PRON-' and token.pos_ is not 'PROPN' and \
+            len(token.text) > 2:
             lemma.append(token.lemma_)
     print('%s: Finished extracting lemmatized forms...' % (year))
 
@@ -34,15 +35,13 @@ def preprocess(text, gender, year):
 
 def main():
 
-    if 'female' in argv:
-        females = read_folder('1_cleaned_data/fem_lines')
-        for year, text in females.items():
-            preprocess(text, 'fem', year)
+    females = read_folder('%s/fem' % (SRCFOL))
+    for year, text in females.items():
+        preprocess(text, 'fem', year)
 
-    if 'male' in argv:
-        males = read_folder('1_cleaned_data/male_lines')
-        for year, text in males.items():
-            preprocess(text, 'male', year)
+    males = read_folder('%s/male' % (SRCFOL))
+    for year, text in males.items():
+        preprocess(text, 'male', year)
 
 if __name__ == '__main__':
     main()

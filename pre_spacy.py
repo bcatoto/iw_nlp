@@ -4,7 +4,6 @@ from spacy.lang.en import English
 from spacy.tokenizer import Tokenizer
 from spacy.pipeline import Tagger
 
-
 nlp = English()
 
 #-------------------------------------------------------------------------------

@@ -1,0 +1,100 @@
+u0	BIANCA	m0	10 things i hate about you	f	4
+u1	BRUCE	m0	10 things i hate about you	?	0
+u2	CAMERON	m0	10 things i hate about you	m	3
+u3	CHASTITY	m0	10 things i hate about you	?	0
+u4	JOEY	m0	10 things i hate about you	m	6
+u5	KAT	m0	10 things i hate about you	f	2
+u6	MANDELLA	m0	10 things i hate about you	f	7
+u7	MICHAEL	m0	10 things i hate about you	m	5
+u8	MISS PERKY	m0	10 things i hate about you	f	0
+u9	PATRICK	m0	10 things i hate about you	m	1
+u10	SHARON	m0	10 things i hate about you	?	0
+u11	WALTER	m0	10 things i hate about you	m	9
+u12	ALONSO	m1	1492: conquest of paradise	?	0
+u13	AROJAZ	m1	1492: conquest of paradise	?	0
+u14	BEATRIX	m1	1492: conquest of paradise	?	0
+u15	BOBADILLA	m1	1492: conquest of paradise	?	0
+u16	COLUMBUS	m1	1492: conquest of paradise	m	1
+u17	FERNANDO	m1	1492: conquest of paradise	?	0
+u18	ISABEL	m1	1492: conquest of paradise	?	0
+u19	MARCHENA	m1	1492: conquest of paradise	m	6
+u20	MENDEZ	m1	1492: conquest of paradise	?	0
+u21	MOXICA	m1	1492: conquest of paradise	?	0
+u22	PINZON	m1	1492: conquest of paradise	?	0
+u23	SAILOR	m1	1492: conquest of paradise	?	0
+u24	SANCHEZ	m1	1492: conquest of paradise	?	0
+u25	UTAPAN	m1	1492: conquest of paradise	?	0
+u26	CUTLER	m2	15 minutes	m	0
+u27	DAPHNE	m2	15 minutes	f	8
+u28	DUFFY	m2	15 minutes	?	0
+u29	EDDIE	m2	15 minutes	m	1
+u30	EMIL	m2	15 minutes	m	6
+u31	HAWKINS	m2	15 minutes	?	0
+u32	HONEY	m2	15 minutes	?	0
+u33	IMMIGRATION OFFICER	m2	15 minutes	?	0
+u34	JORDY	m2	15 minutes	m	2
+u35	KORFIN	m2	15 minutes	m	9
+u36	LEON	m2	15 minutes	?	0
+u37	MAGGIE	m2	15 minutes	?	0
+u38	MAX	m2	15 minutes	?	0
+u39	MILOS	m2	15 minutes	?	0
+u40	MUGGER	m2	15 minutes	?	0
+u41	NICOLETTE	m2	15 minutes	f	5
+u42	OLEG	m2	15 minutes	m	7
+u43	ROBERT HAWKINS	m2	15 minutes	?	0
+u44	ROSE	m2	15 minutes	?	0
+u45	SECONDARY OFFICER	m2	15 minutes	?	0
+u46	STEPHEN GELLER	m2	15 minutes	?	0
+u47	TOMMY	m2	15 minutes	?	0
+u48	VENDOR	m2	15 minutes	?	0
+u49	B20	m3	2001: a space odyssey	?	0
+u50	BOWMAN	m3	2001: a space odyssey	m	1
+u51	C12	m3	2001: a space odyssey	?	0
+u52	CHILD	m3	2001: a space odyssey	?	0
+u53	CO-PILOT	m3	2001: a space odyssey	?	0
+u54	ELENA	m3	2001: a space odyssey	?	0
+u55	FLOYD	m3	2001: a space odyssey	?	0
+u56	HAL	m3	2001: a space odyssey	m	7
+u57	MICHAELS	m3	2001: a space odyssey	?	0
+u58	MILLER	m3	2001: a space odyssey	?	0
+u59	PILOT	m3	2001: a space odyssey	?	0
+u60	POOLE	m3	2001: a space odyssey	m	2
+u61	SMYSLOV	m3	2001: a space odyssey	?	0
+u62	ATTENDANT	m4	48 hrs.	?	0
+u63	BARTENDER	m4	48 hrs.	?	0
+u64	BILLY	m4	48 hrs.	?	0
+u65	CANDY	m4	48 hrs.	?	0
+u66	CASEY	m4	48 hrs.	?	0
+u67	CATES	m4	48 hrs.	m	1
+u68	ELAINE	m4	48 hrs.	f	3
+u69	GANZ	m4	48 hrs.	?	0
+u70	HADEN	m4	48 hrs.	?	0
+u71	HAMMOND	m4	48 hrs.	m	2
+u72	HENRY	m4	48 hrs.	?	0
+u73	KEHOE	m4	48 hrs.	?	0
+u74	LISA	m4	48 hrs.	?	0
+u75	LUTHER	m4	48 hrs.	?	0
+u76	SOSNA	m4	48 hrs.	?	0
+u77	YOUNG COP	m4	48 hrs.	?	0
+u78	CORNELIUS	m5	the fifth element	m	3
+u79	DAVID	m5	the fifth element	?	0
+u80	DIVA	m5	the fifth element	?	0
+u81	FINGER	m5	the fifth element	?	0
+u82	GIRL	m5	the fifth element	f	0
+u83	KOMMANDER	m5	the fifth element	?	0
+u84	KORBEN	m5	the fifth element	m	1
+u85	LEELOO	m5	the fifth element	f	4
+u86	LOC RHOD	m5	the fifth element	?	0
+u87	MACTILBURGH	m5	the fifth element	?	0
+u88	MOTHER	m5	the fifth element	f	0
+u89	MUGGER	m5	the fifth element	?	0
+u90	MUNRO	m5	the fifth element	?	0
+u91	PRESIDENT	m5	the fifth element	?	0
+u92	PRIEST	m5	the fifth element	?	0
+u93	PROFESSOR	m5	the fifth element	?	0
+u94	SECRETARY	m5	the fifth element	?	0
+u95	SHADOW	m5	the fifth element	?	0
+u96	STAEDERT	m5	the fifth element	?	0
+u97	THAI	m5	the fifth element	?	0
+u98	VOICE	m5	the fifth element	?	0
+u99	ZORG	m5	the fifth element	?	0
