@@ -1,10 +1,18 @@
 #!/usr/bin/env python
 
 from sys import argv
+import os
 from classes import Movie, Character
 
 SRCFOL = '../1_cleaned_data'
 DESTFOL = '../2_parsed_data'
+
+#-------------------------------------------------------------------------------
+
+def remove_files(folder):
+    filelist = [ file for file in os.listdir(folder) if file.endswith('.txt') ]
+    for file in filelist:
+        os.remove(os.path.join(folder, file))
 
 #-------------------------------------------------------------------------------
 
@@ -79,6 +87,11 @@ def read_data(movies, characters, females, males, unknowns):
 #-------------------------------------------------------------------------------
 
 def main():
+
+    # removes all files in fem and male
+    remove_files('../2_parsed_data/fem')
+    remove_files('../2_parsed_data/male')
+    print('Finished removing files...')
 
     movies = []
     characters = []

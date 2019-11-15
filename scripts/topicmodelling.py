@@ -1,13 +1,15 @@
 #!/usr/bin/env python
 
 from sys import argv
-from pre_io import read_folder
+from in_out import read_folder
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 
 # number of topics and top words
 n_topics = 5
 n_words = 5
+
+SRCFOL = '../3_preprocessed_data'
 
 #-------------------------------------------------------------------------------
 
@@ -42,24 +44,16 @@ def nmf(texts, gender):
 #-------------------------------------------------------------------------------
 
 def main():
-    if 'female' in argv:
-        females = read_folder('2_preprocessed_data_spacy/fem')
-        texts = [*females.values()]
 
-        if 'lda' in argv:
-            lda(texts, 'Female')
-        if 'nmf' in argv:
-            nmf(texts, 'Female')
+    females = read_folder('%s/fem' % (SRCFOL))
+    texts = [*females.values()]
+    lda(texts, 'Female')
+    nmf(texts, 'Female')
 
-    if 'male' in argv:
-        males = read_folder('2_preprocessed_data_spacy/male')
-        texts = [*males.values()]
-
-        if 'lda' in argv:
-            lda(texts, 'Male')
-        if 'nmf' in argv:
-            nmf(texts, 'Male')
-
+    males = read_folder('%s/male' % (SRCFOL))
+    texts = [*males.values()]
+    lda(texts, 'Male')
+    nmf(texts, 'Male')
 
 if __name__ == '__main__':
     main()
