@@ -40,3 +40,7 @@ This program contains the function `clear_dir`, which creates the year directori
 This program reads in all the cleaned movies, characters, and lines data and sorts movie lines. All lines are sorted into folders by year and written to either the `fem` or `male` folders depending on the gender of the character who spoke the line. Each of the files in the gender/year folders are titled by movie title.
 
 The program also prints to standard output the number of characters of each gender (male, female, unknown) and the number of lines and words spoken by each gender.
+
+## Preprocessed Data
+
+This stage of my project reads in all the data and preprocesses the text using [spaCy](https://spacy.io/).
