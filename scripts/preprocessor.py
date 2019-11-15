@@ -2,7 +2,7 @@
 
 from sys import argv, stderr
 import re
-from in_out import read_file, read_list, read_folder, write_file, write_word_pos
+from helper import clear_dir, read_folder_dict, write_file
 import spacy
 
 SRCFOL = '../2_parsed_data'
@@ -11,14 +11,16 @@ REMOVE_WORDS = ['yeah', 'maybe', 'huh', 'uh']
 
 #-------------------------------------------------------------------------------
 
-def preprocess(text, gender, year):
+def preprocess(movie, gender):
+    title = movie['title']
+
     regex = re.compile('([^\s\w]|_)+')
-    text = regex.sub('', text.lower())
-    print('%s: Finished simplifying text...' % (year))
+    text = regex.sub('', movie['text'].lower())
+    print('%s: Finished simplifying text...' % (title))
 
     nlp = spacy.load('en_core_web_sm')
     doc = nlp(text)
-    print('%s: Finished processing text...' % (year))
+    print('%s: Finished processing text...' % (title))
 
     lemma = []
     for token in doc:
@@ -26,22 +28,30 @@ def preprocess(text, gender, year):
             token.lemma_ is not '-PRON-' and token.pos_ is not 'PROPN' and \
             len(token.text) > 2:
             lemma.append(token.lemma_)
-    print('%s: Finished extracting lemmatized forms...' % (year))
+    print('%s: Finished extracting lemmatized forms...' % (title))
 
-    write_file('%s/%s/%s.txt' % (DESTFOL, gender, year), ' '.join(lemma))
-    print('%s: Finished printing.' % (year))
+    write_file('%s/%s/%s/%s' % (DESTFOL, gender, movie['year'], title),
+        ' '.join(lemma))
+    print('%s: Finished printing.' % (title))
 
 #-------------------------------------------------------------------------------
 
 def main():
 
-    females = read_folder('%s/fem' % (SRCFOL))
-    for year, text in females.items():
-        preprocess(text, 'fem', year)
+    # Creates year folders if they don't exist; clears them if they do
+    for year in range(1975, 2006):
+        clear_dir(DESTFOL, 'fem', year)
+        clear_dir(DESTFOL, 'male', year)
 
-    males = read_folder('%s/male' % (SRCFOL))
-    for year, text in males.items():
-        preprocess(text, 'male', year)
+    # Preprocesses data by gender, year, and movie
+    for year in range(1975, 2006):
+        females = read_folder_dict('%s/fem/%d' % (SRCFOL, year), year)
+        for movie in females:
+            preprocess(movie, 'fem')
+
+        males = read_folder_dict('%s/male/%d' % (SRCFOL, year), year)
+        for movie in males:
+            preprocess(movie, 'male')
 
 if __name__ == '__main__':
     main()

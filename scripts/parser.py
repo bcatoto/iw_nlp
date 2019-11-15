@@ -3,16 +3,10 @@
 from sys import argv
 import os
 from classes import Movie, Character
+from helper import clear_dir
 
 SRCFOL = '../1_cleaned_data'
 DESTFOL = '../2_parsed_data'
-
-#-------------------------------------------------------------------------------
-
-def remove_files(folder):
-    filelist = [ file for file in os.listdir(folder) if file.endswith('.txt') ]
-    for file in filelist:
-        os.remove(os.path.join(folder, file))
 
 #-------------------------------------------------------------------------------
 
@@ -25,7 +19,7 @@ def read_data(movies, characters, females, males, unknowns):
     inLines = open('%s/1_lines_clean.txt' % (SRCFOL), mode='r',
         encoding='ISO-8859-1')
 
-    # stores movie metadata
+    # Stores movie metadata
     for line in inMovies:
         fields = line.replace('\n', '').rsplit('\t')
 
@@ -40,7 +34,7 @@ def read_data(movies, characters, females, males, unknowns):
         movies.append(movie)
     print('Finished reading in movies...')
 
-    # stores character metadata
+    # Stores character metadata
     for line in inChars:
         fields = line.replace('\n', '').rsplit('\t')
 
@@ -55,7 +49,7 @@ def read_data(movies, characters, females, males, unknowns):
         movie.add_character(character)
         characters.append(character)
 
-        # adds character to Characters object corresponding to gender
+        # Adds character to Characters object corresponding to gender
         if (character.gender() == 'f'):
             females.append(character)
         elif (character.gender() == 'm'):
@@ -64,11 +58,11 @@ def read_data(movies, characters, females, males, unknowns):
             unknowns.append(character)
     print('Finished reading in characters...')
 
-    # stores lines with corresponding character
+    # Stores lines with corresponding character
     for line in inLines:
         fields = line.replace('\n', '').rsplit('\t')
 
-        # if no line is spoken
+        # Continue if no line is spoken
         if (len(fields) < 5):
             continue
 
@@ -88,10 +82,10 @@ def read_data(movies, characters, females, males, unknowns):
 
 def main():
 
-    # removes all files in fem and male
-    remove_files('../2_parsed_data/fem')
-    remove_files('../2_parsed_data/male')
-    print('Finished removing files...')
+    # Creates year folders if they don't exist; clears them if they do
+    for year in range(1975, 2006):
+        clear_dir(DESTFOL, 'fem', year)
+        clear_dir(DESTFOL, 'male', year)
 
     movies = []
     characters = []
@@ -99,18 +93,19 @@ def main():
     males = []
     unknowns = []
 
-    # reads in movies, characters, and lines data
+    # Reads in movies, characters, and lines data
     read_data(movies, characters, females, males, unknowns)
 
-    # prints all movie lines separated by gender and year
+    # Parses all movie lines by gender, year, and movie
     for movie in movies:
         if movie.year() < 1975 or movie.year() > 2005:
             continue
 
-        filename = str(movie.year())
-        outFem = open('%s/fem/%s.txt' % (DESTFOL, filename), mode='a+',
+        year = str(movie.year())
+        title = movie.title()
+        outFem = open('%s/fem/%s/%s.txt' % (DESTFOL, year, title), mode='a+',
             encoding='ISO-8859-1')
-        outMale = open('%s/male/%s.txt' % (DESTFOL, filename), mode='a+',
+        outMale = open('%s/male/%s/%s.txt' % (DESTFOL, year, title), mode='a+',
             encoding='ISO-8859-1')
 
         for char in movie.characters():
@@ -123,7 +118,7 @@ def main():
         outMale.close()
         print('Finished parsing %s...' % (movie.title()))
 
-    # counts
+    # Counts
     maleLines = 0
     femLines = 0
     unkLines = 0
