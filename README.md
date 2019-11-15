@@ -27,10 +27,16 @@ This program uses the Genderize.io API to sort the remaining ungendered characte
 
 ## Parsed Data
 
-This stage of my project reads through the cleaned up data and sorts the movie lines by character's gender and year movie was released. All female lines are written to the `fem` folder and male lines are written to the `male` folder, each in files titled by year (.e.g `1975.txt`).
-
-The program prints the number of characters of each gender (male, female, unknown) and the number of lines and words spoken by each.
+This stage of my project reads through the cleaned up data and sorts the movie lines into folders by character's gender and year the movie was released and into files by movie title.
 
 All data is written to `2_parsed_data`.
 
-## 
+#### `helper.py`
+
+This program contains the function `clear_dir`, which creates the year directories in the `fem` and `male` folders or clears them of files if they already exist.
+
+#### `parser.py`
+
+This program reads in all the cleaned movies, characters, and lines data and sorts movie lines. All lines are sorted into folders by year and written to either the `fem` or `male` folders depending on the gender of the character who spoke the line. Each of the files in the gender/year folders are titled by movie title.
+
+The program also prints to standard output the number of characters of each gender (male, female, unknown) and the number of lines and words spoken by each gender.
