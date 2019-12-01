@@ -1,4 +1,11 @@
 config.py
+
+# Files
 .DS_STORE
-__pycache__/
 *.pyc
+
+# Folders
+__pycache__/
+html/
+txt/
+parsed_html/

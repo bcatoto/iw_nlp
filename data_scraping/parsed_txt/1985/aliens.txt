@@ -1,0 +1,304 @@
+Aliens
+
+LEADER	Internal pressure positive.  Assume nominal hull integrity.  Hypersleep capsules, style circa late twenties...
+LEADER	Lights are green.  She's alive.  Well, there goes out salvage, guys.
+MED-TECH	Why don't I open the viewport? Watch your eyes.
+MED-TECH	And how are we today?
+WOMAN	Terrible.
+MED-TECH	Just terrible?  That's better than yesterday at least.
+WOMAN	How long have I been on Gateway station?
+MED-TECH	Just a couple of days.  Do you feel up to a visitor?
+WOMAN	Jones!
+WOMAN	Come here Jonesy you ugly old moose...you ugly thing.
+MAN	Nice room.  I'm Burke.  Carter Burke. I work for the company, but other than that I'm an okay guy.  Glad to see you're feeling better.  I'm told the weakness and disorientation should pass soon.  Side effects of the unusually long hypersleep, or something like that.
+WOMAN	How long was I out there?  They won't tell me anything.
+BURKE	Well, maybe you shouldn't worry about that just yet.
+WOMAN	How long?
+BURKE	All right.  My instinct says you're strong enough to handle this...Fifty-seven years.
+WOMAN	Fifty-seven...oh, Christ...
+BURKE	You'd drifted right through the core systems.  It's blind luck that deep-salvage team caught you when they...are you all right?
+MED-TECH	Code Blue!  415.  Code Blue!
+WOMAN	No...noooo!
+DOCTOR	Hold her...Get me an airway, stat! And fifteen cc's of...Jesus!
+MED-TECH	Bad dreams again?  Do you want something to help you sleep?
+WOMAN	No.. I've slept enough.
+WOMAN	We made it, Jones.  We made it.
+WOMAN	Dumbshit.
+BURKE	Sorry...I've been running behind all morning.
+WOMAN	Have they located my daughter yet?
+BURKE	Well, I was going to wait until after the inquest...
+WOMAN	Is she...?
+BURKE	Amanda Ripley-McClaren.  Married name, I guess.  Age:  sixty-six ...at time of death.  Two years ago. I'm sorry.
+WOMAN	Amy.
+BURKE	Cancer.  Hmmmm.  They still haven't licked that one.  Cremated.  Interred Parkside Repository, Little Chute, Wisconsin.  No children.
+WOMAN	I promised her I'd be home for her birthday.  Her eleventh birthday.  I sure missed that one. Well...she has already learned to take my promises with a grain of salt.  When it came to flight schedules, anyway.
+WOMAN	You always think you can make it up to somebody...later, you know. But now I never can.  I never can.
+BURKE
+WOMAN	You read my deposition...it's complete and accurate.
+BURKE	Look, I believe you, but there are going to be some heavyweights in there.  You got Feds, you got interstellar commerce commission, you got colonial administration, insurance company guys...
+WOMAN	I get the picture.
+BURKE	Just tell them what happened.  The important thing is to stay cool and unemotional.
+WOMAN	Do you people have earwax, of what?  We have been here three hours.  How many different ways do you want me to tell the same story?
+VAN LEUWEN	Look at it from our perspective. You freely admit to detonating the engines of, and thereby destroying, an M-Class star-freighter.  A rather expensive piece of hardware...
+INSURANCE INVESTIGATOR 	Forty-two million in adjusted dollars. That's minus payload, of course.
+VAN LEUWEN	The shuttle's flight recorder corroborates some elements of your account.  That the Nostromo set down on LV-426, an unsurveyed planet, at that time.  That repairs were made.  That it resumed its course and was subsequently set for self-destruct.  By you.  For reasons unknown.
+WOMAN	Look, I told you...
+VAN LEUWEN	It did not, however, contain any entries concerning the hostile life form you allegedly picked up.
+WOMAN	Then somebody's gotten to it... doctored the recorder.  Who had access to it?
+ECA REP	Would you just listen to yourself for one minute.
+VAN LEUWEN	The analysis team which went over your shuttle centimeter by centimeter found no physical evidence of the creature you describe...
+WOMAN	That's because I blew it out the Goddamn airlock! Like I said.
+INSURANCE MAN	Are there any species like this 'hostile organism' on LV-426?
+ECA REP	No.  It's a rock.  No indigenous life larger than a simple virus.
+WOMAN	I told you, it wasn't indigenous. There was an alien spacecraft there. A derelict ship.  We homed on its beacon...
+ECA REP	To be perfectly frank, we've surveyed over three hundred worlds and no one's ever reported a creature which, using your words... ...'gestates in a living human host' and has 'concentrated molecular acid for blood.'
+WOMAN	Look, I can see where this is going.  But I'm telling you those things exist.  Back on that planetoid is an alien ship and on that ship are thousands of eggs.  Thousands. Do you understand?  I suggest you find it, using the flight recorder's data.  Find it and deal with it -- before one of your survey teams comes back with a little surprise...
+VAN LEUWEN	Thank you, Officer Ripley.  That will be...
+WOMAN	...because just one of those things managed to kill my entire crew, within twelve hours of hatching...
+VAN LEUWEN	Thank you, that will be all.
+WOMAN	That's not all, Goddamnit!  If those things get back here, that will be all.  Then you can just kiss it good-bye, Jack!  Just kiss it goodbye.
+BURKE	You had them eating out of your hand, kiddo.
+WOMAN	They had their minds made up before I even went in there. They think I'm a head case.
+BURKE	You are a head case.  Have a donut.
+VAN LEUWEN	It is the finding of this board of inquiry that Warrent Officer Ellen Ripley, NOC-14672. has acted with questionable judgment and is unfit to hold an ICC license as a commercial flight officer.
+VAN LEUWEN	Said license is hereby suspended indefinitely.  No criminal charges will be filed at this time and you are released on own recognizance for a six month period of psychometric probation, to include monthly review by an ICC psychiatric tech...
+WOMAN	Why won't you check out LV-426?
+VAN LEUWEN	Because I don't have to.  The people who live there checked it out years ago and they never reported and 'hostile organism' or alien ship.  And by the way, they call it Acheron now.
+WOMAN	What are you talking about. What people?
+VAN LEUWEN	Terraformers...planet engineers. It's what we call a shake 'n' bake colony.  They set up atmosphere processors to make the air breathable...big job.  Takes decades.  They've already been there over twenty years.  Peacefully.
+WOMAN	How many colonists?
+VAN LEUWEN	Sixty, maybe seventy families.
+WOMAN	Sweet Jesus.
+ELEVATOR PASSENGER	Do you mind?
+LYDECKER	You remember you sent some wildcatters out to that plateau, out past the Ilium range, a couple days ago?
+SIMPSON	Yeah.  What?
+LYDECKER	There's a guy on the horn, mom-and-pop survey team.  Says he's homing on something and wants to know if his claim will be honored.
+SIMPSON	Christ.  Some honch in a cushy office on Earth says go look at a grid reference in the middle of nowhere, we look.  They don't say why, and I don't ask.  I don't ask because it takes two weeks to get an answer out here and the answer's always 'don't ask.'
+LYDECKER	So what do I tell this guy?
+SIMPSON	Tell him, as far as I'm concerned, he finds something it's his.
+JORDEN	Look at this fat, juicy magnetic profile.  And it's mine, mine, mine.
+ANNE	Half mine, dear.
+NEWT	And half mine!
+JORDEN	I got too many partners.
+NEWT	Daddy, when are we going back to town?
+JORDEN	When we get rich, Newt.
+NEWT	You always say that.  I wanna go back.  I wanna play 'Monster Maze.'
+TIM	You cheat too much.
+NEWT	Do not.  I'm just the best.
+TIM	Do too!  You go in places we can't fit.
+NEWT	So!  That's why I'm the best.
+ANNE	Knock it off!  I catch either of you playing in the air ducts again I'll tan your hides.
+NEWT	Mom.  All the kids play it...
+JORDEN	Holy shiiit!
+JORDEN	Folks, we have scored big this time.
+ANNE	You kids stay inside.  I mean it!  We'll be right back.
+ANNE	Shouldn't we call in?
+JORDEN	Let's wait till we know what to call it in as.
+ANNE	How about 'big weird thing'?
+TIM	Cheater!
+NEWT	Timmy...they've been gone a long time.
+TIM	It'll be okay, Newt.  Dad knows what he's doing.
+ANNE	Mayday!  Mayday!  This is Alpha Kilo Two Four Niner calling Hadley Control. Repeat.  This is...
+VOICE FROM VIDEO	Hey, Bob!  I heard you and the family are heading off for the colonies!
+BON	Best decision I ever made, Bill. We'll be starting a new life from scratch, in a clean world. No crime.  No unemployment...
+BURKE	Hi, Ripley.  This is Lieutenant Gorman of the...
+BURKE	Ripley we have to talk. They've lost contact with the colony on Acheron.
+WOMAN	No.  There's no way!
+BURKE	Hear me out...
+WOMAN	I was reamed, steamed and dry-cleaned by you guys...and now you want me to go back out there?  Forget it.
+BURKE	Look, we don't know what's going on out there.  It may just be a down transmitter.  But if it's not, I want you there...as an advisor.  That's all.
+GORMAN	You wouldn't be going in with the troops.  I can guarantee your safety.
+BURKE	These Colonial Marines are some tough hombres, and they're packing state-of-the-art firepower. Nothing they can't handle...right, Lieutenant?
+GORMAN	We're trained to deal with these kinds of situations.
+WOMAN	What about you?  What's your interest in this?
+BURKE	Well, the corporation co-financed that colony with the Colonial Administration, against mineral rights.  We're getting into a lot of terraforming...'Building Better Worlds.'
+WOMAN	Yeah, yeah.  I saw the commercial.
+BURKE	I heard you were working in the cargo docks.
+WOMAN	That's right.
+BURKE	Running loaders, forklifts, that sort of thing?
+WOMAN	It's all I could get.  Anyway, it keeps my mind off of... everything.  Days off are worse.
+BURKE	What if I said I could get you reinstated as a flight officer? And that the company has agreed to pick up your contract?
+WOMAN	If I go.
+BURKE	If you go. It's a second chance, kiddo.  And it'll be the best thing in the world for you to face this fear and beat it.  You gotta get back on the horse...
+WOMAN	Spare me, Burke.  I've had my psych evaluation this month.
+BURKE	Yes, and I've read it.  You wake up every night, sheets soaking, the same nightmare over and over...
+WOMAN	No!  The answer is no.  Now please go.  I'm sorry.  Just go, would you.
+BURKE	Think about it.
+BURKE	Yello?  Oh, Ripley.  Hi...
+WOMAN	Burke, just tell me one thing. That you're going out there to kill them.  Not study.  Not bring back.  Just burn them out...clean ...forever.
+BURKE	That's the plan.  My word on it.
+WOMAN	All right.  I'm in.
+WOMAN	And you my dear, are staying right here.
+SPUNKMEYER	Arrgh.  I'm getting too old for this shit.
+DRAKE	They ain't payin' us enough for this.
+DIETRICH	Not enough to have to wake up to your face, Drake.
+DRAKE	Suck air.  Hey, Hicks...you look like I feel.
+HUDSON	This floor's freezing.
+APONE	Christ.  I never saw such a buncha old women.  You want me to fetch your slippers, Hudson?
+HUDSON	Would you, Sir?
+HUDSON	Hey, Vasquez...you ever been mistaken for a man?
+VASQUEZ	No.  Have you?
+FROST	Hey, hand job, you take my towel?
+SPUNKMEYER	I need some slack, man.  How come they send us straight back out like this?  We got some slack comin', man.
+HICKS	You just got three weeks.
+SPUNKMEYER	I mean breathing, not this frozen shit.
+DIETRICH	Yeah, 'Top'...what about it?
+APONE	You know it ain't up to me. Awright!  Let's knock off the grabass.  First assembly's in fifteen...let's shag it.
+VASQUEZ	Who's the fresh meat again?
+FERRO	She's supposed to be some kinda consultant... (exaggerated) ...She was an alien once.
+HUDSON	Whoooah!  No shit?  I'm impressed.
+APONE	Let's go...let's go.  Cycle through!
+HUDSON	Hey, 'Top.'  What's the op?
+APONE	Rescue mission.  There's some juicy colonists' daughters we gotta rescue from virginity.
+SPUNKMEYER	Shee-it.  Dumbass colonists. What's this crap supposed to be?
+WIERZBOWSKI	Cornbread, I think.  Hey, I wouldn't mind getting me some more a that Arcturan poontang.  Remember that time?
+HICKS	Looks like that new Lieutenant's too good to eat with us grunts.
+WIERZBOWSKI	Yeah.  Got a corn cob up his ass, definitely.
+BISHOP	I'm sorry you feel that way about Synthetics, Ripley.
+WOMAN	You never said anything about an android being here!  Why not?
+BURKE	Well, it didn't occur to me.  It's been policy for years to have a synthetic on board.
+BISHOP	I prefer the term 'artificial person' myself.  Is there a problem?
+BURKE	A synthetic malfunctioned on her last trip out.  Some deaths were involved.
+BISHOP	I'm shocked.  Was it an older model?
+BURKE	Cyberdyne Systems 120-A/2.
+BISHOP	Well, that explains it.  The A/2's were always a bit twitchy. That could never happen now with out behavioral inhibitors.  Impossible for me to harm or, by omission of action, allow to be harmed a human being. More cornbread?
+WOMAN	Just stay away from me, Bishop! You got that straight?
+WIERZBOWSKI	She don't like the cornbread either.
+APONE	Tench-hut!
+GORMAN	At ease.  I'm sorry we didn't have time to brief before we left Gateway but...
+HUDSON	Sir?
+GORMAN	Yes, Hicks?
+HUDSON	Hudson, Sir.  He's Hicks.
+GORMAN	What's the question?
+HUDSON	Is this going to be a stand-up fight, Sir, on another bug-hunt?
+GORMAN	All we know is that there's still no contact with the colony and that a xenomorph may be involved.
+WIERZBOWSKI	A what?
+HICKS	It's a bug-hunt. So what are these things?
+WOMAN	I've dictated what I know on these.
+APONE	Tease us a bit.
+SPUNKMEYER	Yeah...previews.
+WOMAN	Okay.  It's important to understand this organism's life cycle.  It's actually two creatures.  The first form hatches from a spore...a sort of large egg, and attaches itself to its victim.  Then it injects an embryo, detaches and dies. It's essentially a walking sex organ. The --
+HUDSON	Sounds like you, Hicks.
+WOMAN	The embryo, the second form, hosts in the victim's body for several hours.  Gestating.  Then it... ...then it...emerges.  Moults. Grows rapidly --
+VASQUEZ	I only need to know one thing.
+WOMAN	Yes?
+VASQUEZ	Where they are.
+DRAKE	Yo!  Vasquez.  Kick ass!
+VASQUEZ	Anytime.  Anywhere.
+HUDSON	Somebody said alien...she thought they said illegal alien and signed up.
+VASQUEZ	Fuck you.
+HUDSON	Anytime.  Anywhere.
+WOMAN	Am I disturbing you conversation Mr. Hudson?
+WOMAN	I hope you're right.  I really do.
+BURKE	I suggest you study the disks Ripley has been kind enough to prepare for you.
+GORMAN	Are there any questions?  Hudson?
+HUDSON	How do I get out of this chicken-shit outfit?
+GORMAN	All right.  I want this to go smooth and by the numbers.  I want DCS and tactical database assimilation by 0830. Ordnance loading, weapons strip and drop-ship prep details will have seven hours...
+BISHOP	Attention.  This concluded final maneuvering operations.  Thank you for your cooperation.  You may resume work.
+BURKE	Still nothing from the colony?
+GORMAN	Dead on all channels.
+FROST	Clear, please.
+HUDSON	Excuse me.
+WOMAN	I feel like a fifth wheel here.  Is there anything I can do?
+APONE	I don't know.  Is there anything you can do?
+WOMAN	I can drive that loader.  I've got a Class Two rating.  My latest career move.
+WOMAN	Where you want it?
+APONE	Let's move it, girls!  On the ready line.  Let's go, let's go.
+HUDSON	I am ready, man.  Ready to get it on.  Check-it-out.  I am the ultimate badass...state of the badass art.  You do not want to fuck with me.  Hey, Ripley, don't worry.  Me and my squad of ultimate badasses will protect you. Check-it-out...
+HUDSON	Independently targetting particle-beam phalanx.  VWAP! Fry half a city with this puppy. We got tactical smart-missles, phased-plasma pulse-rifles, RPG's.  We got sonic eeelectronic ballbreakers, we got nukes, we got knives...sharp sticks --
+HICKS	Save it.
+HUDSON	Sure, Hicks.
+BURKE	Here we go.
+FERRO	Initiate release sequencer on my mark.  Three.  Two.  One.  Mark!
+FERRO	Switching to DCS ranging.
+SPUNKMEYER	Two-four-o.  Nominal to profile. Picking up some hull ionization.
+FERRO	Got it.  Rough air ahead.
+FERRO	Stand by for some chop.
+WOMAN	How may drops is this for you, Lieutenant?
+GORMAN	Thirty-eight...simulated.
+VASQUEZ	How many combat drops?
+GORMAN	Well...two.  Three, including this one.
+FERRO	Turning on final.  Coming around to a seven-zero-niner.  Terminal guidance locked in.  Where's the damn beacon?
+GORMAN	Let's see.  Everybody on line. Drake, check you camera.  There seems to be a...
+GORMAN	...that's better.  Pan it around a bit.
+APONE	Awright.  Fire-team A.  Gear up. Let's move.  Two minutes. Somebody wake up Hicks.
+WOMAN	That the atmosphere processor?
+BURKE	Uh-hunh.  One of thirty or so, all over the planet.  They're completely automated.  We manufacture them, by the way.
+GORMAN	Hold at forty.  Slow circle of the complex.
+WOMAN   	The structure seems intact.  They have power.
+GORMAN	Okay, let's do it.
+APONE	Awright!  I want a nice clean dispersal this time.
+VASQUEZ	You staying in here?
+WOMAN	You bet.
+VASQUEZ	Figures.
+GORMAN	Set down sixty meters this side of the telemetry mast.  Immediate dust off on my 'clear,' then stay on station.
+APONE	Ten seconds, people.  Look sharp!
+GORMAN	First squad up, on line.  Hicks, get yours in a cordon.  Watch the rear.
+APONE	Vasquez, take point.  Let's move.
+APONE	Sealed.  Hudson, run a bypass.
+APONE	First squad, assemble on me at the main lock.
+GORMAN	Second team, move up. Flanking positions.
+GORMAN	Quarter and search by twos.  Second team move inside.  Hicks, take the upper level.  Use your motion trackers.
+HICKS	Nothing.  No movement.
+BURKE	Looks like my room in college.
+WOMAN	Wait!  Tell him to... ...Hicks.  Back up.  Pan left. There!
+HICKS
+BURKE	Hmm.  Acid for blood.
+HICKS	Looks like somebody bagged them one of Ripley's bad guys here.
+HUDSON	Hey, if you like that, you're gonna love this...
+APONE	Second squad?  What's your status?
+HICKS	Just finished our sweep. Nobody home.
+APONE	The place is dead, Sir.  Whatever happened, we missed it.
+GORMAN	All right, the area's secured. Let's go in and see what their computer can tell us. First team head for operations. Hudson, see if you can get their CPU on line.  Hicks, meet me at the south lock by the up-link tower...
+GORMAN	...We're coming in.
+HUDSON	He's coming in.  I feel safer already.
+VASQUEZ	Pendejo jerkoff.
+HUDSON	Sir, the CPU is on-line.
+GORMAN	Okay, stand by in operations. Let's go.
+WOMAN	Burke!
+WIERZBOWSKI	Scare you?
+WOMAN	Christ, Wierzbowski!
+WIERZBOWSKI	Sorry.  Hicks said to keep an eye on you.
+GORMAN	Looks like you company can write off its share of this colony.
+BURKE	It's insured.
+FRONT	Sir, you should check this out...
+FROST	Right ahead here...
+WIERZBOWSKI	Last stand.
+GORMAN	No bodies?
+FROST	No, Sir.  Looks like it was a helluva fight.
+WOMAN	Over there.
+BURKE	Are these the same...?
+WOMAN	Watch it, Burke...
+HICKS	It likes you.
+BURKE	These are dead.  There's just the two alive.
+WOMAN	Removed surgically before embryo implantation.  Subject:  Marachuk, John L.   Died during procedure. They killed him getting it off.
+HICKS	Poor bastard.
+HICKS	Behind us.
+WOMAN	One of us?
+GORMAN	Apone...where are your people? Anybody in D-Block?
+APONE	Negative.  We're all in Operations.
+HICKS	It's moving.
+VASQUEZ	Which way?
+VASQUEZ	You fuck!
+WOMAN	Come on out.  It's all right...
+HICKS	Ow!  Shit.  Watchit, she bites.
+WOMAN	It's okay, it's okay.  It's over... you're going to be all right now... it's okay...you're safe...
+GORMAN	What's her name again?
+DIETRICH	Rebecca.
+GORMAN	Now think, Rebecca. Concentrate.  Just start at the beginning...
+GORMAN	Where are your parents?  You have to try...
+WOMAN	Gorman!  Give it a rest would you.
+GORMAN	Total brain-lock.
+DIETRICH	Physically she's okay. Borderline malnutrition, but I don't think any permanent damage.
+GORMAN	Come on, we're wasting our time.
+WOMAN	Here, try this.  A little instant hot chocolate.
+WOMAN	Poor thing.  You don't talk much do you?  That's okay by me.  Most people do a lot of talking and they wind up not saying very much.
+WOMAN	Uh oh.  I made a clean spot here.  Now I've done it.  Guess I'll just have to do the whole thing.
+WOMAN	Hard to believe...there's a little girl under all this. And a pretty one at that.
+BURKE	What's he scanning for?
+GORMAN	PDT'S.  Personal-Data Transmitters. Every adult colonist had one surgically implanted.
+HUDSON	If they're within twenty klicks we'll read it out here, but so far...zip.
+WOMAN	I don't know how you managed to stay alive but you're one brave kid, Rebecca.
+NEWT	N-newt.
+WOMAN	What did you say?
+NEWT	Newt.  My n-name's Newt. Nobody calls me Rebecca except my dork brother.

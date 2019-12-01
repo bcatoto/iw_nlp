@@ -8,8 +8,7 @@ import os
 def get_files(folder):
     files = []
     for file in os.listdir(folder):
-        if file.endswith('.txt'):
-            files.append(file)
+        files.append(file)
     return files
 
 #-------------------------------------------------------------------------------
@@ -35,6 +34,7 @@ def read_folder_dict(folder, year):
         })
     return list
 
+# Reads in text from folders and returns list of scripts
 def read_folder_text(folder):
     list = []
     files = get_files(folder)
