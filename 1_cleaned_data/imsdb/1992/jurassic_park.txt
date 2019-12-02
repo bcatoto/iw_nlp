@@ -1,0 +1,708 @@
+GRANT	m	Right calcaneus of an adult female raptor.  Mild stress fractures.  What's this tell me?
+STUDENT	m	Dr. Sattler!  Dr. Grant is thinking!
+GRANT	m	So, what can we stay for sure?  Stress fractures in the heel ...
+ELLIE	f	She jumps.
+ELLIE	f	A defensive posture against a vicious, blood-thirsty T-Rex?
+GRANT	m	Perhaps.  Or maybe to select the smaller, more tender leaves in the higher branches with which to suckle her young?
+ELLIE	f	I bet is was a mating ritual.
+GRANT	m	The science of paleontology can't answer these questions.  Novelists and artists who dream a vision of the Jurassic period can attempt these questions with their imaginations.  What we scientists can say is considering the mass and kinetic articulation of these bones, this animal had a vertical leap Not as entertaining as fiction, but absolutely fact without prejudice.
+ELLIE	f	Excuse me, Dr. Grant.  But ... fact is, we're late.  There's the car.
+GRANT	m	Jim, you keep making up the plaster batches.  Whatever ratio you're using, it's perfect.  Nora, no digging after five - when the temperature drops, those bones are just too brittle.  Bill, I don't want any tourists walking over my raptor - I don't care if the Governor of Montana is with them, just you guys.
+ELLIE	f	You know, if ev method like you, there would be no body of theory - no quasars, no big bang -
+GRANT	m	Jesus, a limousine.  We're re-entering Hammond's world, that's for sure.  (beat) Remind me why we're doing this, Ellie.
+ELLIE	f	We're leaving the raptor dig -
+GRANT	m	- at a critical time -
+ELLIE	f	- because Gennaro is paying us sixty thousand dollars to observe some resort of Hammond's in Costa Rica. And that's -
+GRANT	m	- enough money to keep us free of commercial affiliations for two summers. All right, all right.  Good.
+GRANT	m	Financial with the enemy?  (beat)  I'll do it.
+GRANT	m	This is all could come up with, Skip?
+GRANT	m	Wise guy.  Let's go, Ellie.
+MOUTH	m	Five hundred thousand is peanuts!
+NEDRY	m	I'm not reneging.  I'm re-evaluating.
+NEDRY	m	You think I'm a scumbag, I know.
+NEDRY	m	Look pal, you make a career in biogenetic industrial espionage, and you're bound to run across a scumbag or two.  Guaranteed! Part of the job description.  Look, who's to say, who is the real scumbag?  After all, I know what you guys need so bad. I've heard of reverse engineering.
+NEDRY	m	Let the other guy put in all the work, all the R and D.  You take the finished product, work backwards, breaking it down to reveal its genetic code.  Presto!  In a few measly months you have know-how that took researchers ten years to determine.  You know how much Hammond has invested of his own personal wealth? Over five billion dollars!  And if you guys get the jump on his - in no time, the market's wide-open.
+NEDRY	m	But, boy, he's really got his product! Oh yes siree, massive, gargantuan, money- making, never-heard-of-profit-like-that product.  It is a sight!  Yes, indeedy!
+BAKER	m	Scumbag.  We have a deal.  That deal is not open to renegotiation.  Or even re- evaluation.
+BAKER	m	The deal stands.  Take it or leave it.
+BAKER	m	I'll give you a few minutes to decide.
+BAKER	m	Make sure the eggs are on that supply ship.  Just make sure!
+ROSS	m	We can't trust Hammond anymore.  He's under too much pressure.  There's the EPA, he's behind schedule, and the in- vestors are getting nervous.  There have been too many rumors, too many accidents. We can't screw around with this.
+GENNARO	m	I've asked Hammond to arrange independent site inspections every week for the next three weeks.
+GENNARO	m	Insists nothing's wrong on the island.
+ROSS	m	You know him.  Do you believe him?
+ GENNARO	m	No, I don't.  I spent a lot of time with him five years ago when we raised the capital.  And it was a wild ride.  He's unpredictable, a dreamer.
+ROSS	m	Potentially dangerous.  We should never have gotten involved.  What's our position?
+GENNARO	m	The firm owns five percent.
+ROSS	m	General or limited?
+GENNARO	m	General.
+ROSS	m	We should have never done that.
+GENNARO	m	It seemed wise at the time.  We all wanted the park to happen.  It was in lieu of fees.
+ROSS	m	Will they tell the truth?
+GENNARO	m	I think so.  That guy Grant's a hotshot in his field, always goes his own way -
+ROSS	m	- Good.  You're making all the arrangements?
+GENNARO	m	Hammond asked to place the calls himself. I think he wants to pretend the park is not in trouble.  That it's just a social invitation, showing off the island.
+ROSS	m	All right ... Good.  But let's be very clear about one thing.  I don't know how bad this situation actually is, Donald. But if there's a problem on that island - don't be afraid to screw Hammond and burn Jurassic Park to the ground.
+ROSS	m	Costa Rica, my ass.
+PILOT	m	That's Isla Nublar.  Buckle up, the descent is a little hairy.
+ELLIE	f	This is exciting!
+GRANT	m	What is, Ellie?  Where are we going?
+GRANT	m	Looks like Alcatraz.
+PILOT	m	There's bad wind shear on this peak.
+ELLIE	f	How the hell is he landing this thing?
+ELLIE	f	This is not fun.
+GRANT	m	Relax, Ellie.  I'm sure they wouldn't land if it weren't safe.
+GRANT	m	Gennaro?  This guy knows what he's doing, Right?  Hey, Gennaro?  I'm talking to you!
+GENNARO	m	No problem.  Relax, relax.
+GRANT AND ELLIE	m	Whoa!!!!
+ELLIE	f	I don't like this feeling ...
+NEDRY	m	Just think, Gennaro - - you gotta agree it's funny!  These two, they dig up dinosaurs!  It's wonderful, isn't it?
+NEDRY	m	Dr. Bones, you're going to love this place.
+REGIS	m	Hi!  Ed Regis.  Real big welcome to Isla Nublar, Dr. Grant, Dr. Sattler.  Little tough landing here, I know.  But you did it!  Come on down, we're so happy to have you.  Now, watch your step.
+ED REGIS	m	This is Robert Muldoon, great African big game hunter.  And he's working for us now. Doing a bang-up job, too.
+MULDOON	m	Ed's a little more BS than PR.  Mr. Gennaro, nice to have you back.
+GRANT	m	Mr. Regis, what is the nature of this park?
+ELLIE	f	Aggressive growth, huh?
+GRANT	m	Hammond's trademark.
+REGIS	m	Out animals are greeting you!
+GRANT	m	I hope this isn't one of those animatronic exhibits in a Jurassic botanical setting.
+NEDRY	m	Nope.
+REGIS	m	There's the Visitor's Center.
+REGIS	m	Mr. Hammond is dying to see you guys.
+GENNARO	m	Hot, hot, hot.  Ten billion bucks and the air conditioning sucks.
+ELLIE	f	The audicity of man to get here at the last second and think he runs the show.
+HAMMOND	m	Welcome, ladies and gentlemen.  Welcome to an ancient and mysterious world, a world long before humankind inhabited it with all out remarkable dreams and questions.  Enter a world that existed one hundred million years ago.  When our changing earth was the abode of magnificent creations. Today, the late twentieth century has witnessed a scientific gold rush of astonishing proportions:  the headlong and furious haste to un of genetic engineering has become more than just a subject for science fiction writers.
+GRANT	m	- the furious haste to commercialize genetic engineering.
+HAMMOND	m	Biotechnology promises the greatest revolution in human history.  It will outdistance atomic power and computers in its effects on our everyday lives.  We'll see square trees for easy lumbering and white trout for super visibility to fisherman.  Why it will transform every aspect of human life: out medical care, our food, our health, even our very entertainment.
+GRANT	m	Here we go.
+HAMMOND	m	... Jurassic Park.  What we do here is made possible through the miracle of DNA replication, commonly known as cloning. To explain what cloning means, I'm going to need my own clone - John Hammond.
+2ND HAMMOND	m	Hi, John!
+HAMMOND	m	Hi, John.
+HAMMOND	m	Okay John, hold out your finger.
+2ND HAMMOND	m	Why?
+HAMMOND	m	I need some of your
+2ND HAMMOND	m	Now just a minute here, John.
+HAMMOND	m	Your genetic material is the same in every cell of your body.  You have a hundred billion cells.  You won't miss a couple.
+2ND HAMMOND	m	OW!!!  That hurt!  Hey, what's -
+HAMMOND	m	John, let's look into your blood, the river of life.  There's your white cells, exquisitely evolved to clean up bodily wastes.  And there's a mighty nucleus, the heart and brain of a cell.  This nucleus has an amazing property.  It can sp That's how it grows.  And then those two can do it again.  And again.  Making copy after copy of itself.
+NEW HAMMOND'S	m	Hi, I'm John Hammond.  Hey, I'm John Hammond.  No, I am.  I am.
+HAMMOND	m	Come on, that's enough of this!  And I thought to reproduce myself I had to do it the old-fashioned way.
+HAMMOND	m	That's all we've got so far.  A lot of fun, isn't it, Mr. Gennaro?
+REGIS	m	You bet!
+HAMMOND	m	It's been a long time, Alan.  I know the preceding was not your sort of enter- tainment.  Popular science -
+GRANT	m	No, I don't mind popular science.  I dislike the commercialization of science.  It breeds a sloppiness, a disregard for method.
+HAMMOND	m	Well, I don't disregard method.  But think of mutation - which is nothing more than sloppy communication on the cellular level.  Think how triumphant mutations have been in natural selection. Oh, but I know what you're saying.  It's true that I have never been afraid to make money with science.  I've always considered profit to be a measure of success, a barometer of public reaction.
+GRANT	m	Mr. Hammond, the essential truth of a scientific law ha public reaction.  Water freezes at thirty-two degrees, whether you pay for it or not.
+HAMMOND	m	Donald, in bringing my old friend, Alan Grant, you've brought an excellent critic to observe the viability of my island and out venture.  I look forward to winning you over, Dr. Grant.
+ELLIE	f	Just what is it you're trying to clone?
+LEX	m	Grandpa!
+GENNARO	m	Mr. Hammond, this is a serious investiga- tion of the island, not a weekend excursion or a social outing.  We're talking about the safety of this place!
+HAMMOND	m	I'm aware of that.  But I built this place for children.  You can't investigate it without their reactions. They're what this place is all about.
+HAMMOND	m	My grandchildren.  Genetics were kind. They're more like my ex-wife than me.
+GRANT	m	Who makes a windows ... smaller?
+TIMMY	m	I know you.  You wrote my book.  Lost World of The Dinosaurs.  It's awesome.
+LEX	m	Timmy's got dinosaurs on the brain.
+GRANT	m	Don't worry - he'll grow out of it.
+ELLIE	f	Dr. Grant's embarrassed that his book was so widely successful.  He wrote if for gra
+HAMMOND	m	Although Dr. Grant suspects otherwise, this is not an ill-conceived, half-baked, poorly funded plan that I've headed. This is a plan to which I committed all of my personal resources, literally billions of dollars.  And Donald Gennaro here has kindly helped me raise that sum again from wealthy Japanese.  They love theme parks.  I have recruited pre- eminent scientific minds from hallowed universities and we've taken the time to do things right.
+HAMMOND	m	Jurassic Park is the most advanced amusement park in the world.  We work with genetics - life's essential building blocks - to create new  to make biological attractions.  Living attractions.  Attractions so astonishing that they'd capture the imagination of the entire world.
+GRANT	m	What exactly do you mean ... biological attractions?
+HAMMOND	m	As you well know, long ago, creatures ten times larger than whales roamed our adolescent Earth.  And then mass, mysterious extinction created a time barrier unscalable until ... now.
+GRANT	m	Yes?
+HAMMOND	m	Dinosaurs. I've been cloning dinosaurs!
+HAMMOND	m	Ladies and Gentlemen, Jurassic Park.  Not a resort, not a scien just a little piece of pre-history that every child in the whole wide world will insist on visiting.
+GENNARO	m	At least every rich child.
+HAMMOND	m	Apatosaurs in the lowland.  Gallimimus in the grassy plain.  Dilophosaurus above the river.  The mighty Tyrannosaurus Rex! 238 fabulous creatures so far!
+TIMMY	m	Real dinosaurs, Grandpa?  Don't they want to just kill each other?
+HAMMOND	m	Timmy, there's electric fences and moats and video surveillance at all times. There whatever we could plant them on the island.  A computer to tabulate it all.
+ELLIE	f	You created dinosaurs?  Who gave you the right to do that?
+HAMMOND	m	I didn't create them.  I found a way to wake them up, to stir them out of their prehistoric slumber.
+GRANT	m	We don't have the science.  There's no source of dinosaur DNA.
+HAMMOND	m	Yes ... there is.
+HAMMOND	m	Glitches.
+HAMMOND	m	And this is the right side of my brain. The entire park is safely controlled from here.  John Arnold, that genius over there, is the m John, don't smoke so much, you're far too valuable a man to me.
+ARNOLD	m	Oh, you'd survive just fine without me.
+HAMMOND	m	Everything's controlled from here. Remote everything. Cars, feeding programs, medicine dispensers, fecal clean up - and that can be tons in a park like this.  We run this place with twenty workers.  This computer does it all.  And it polices each and every single animal out there.
+ELLIE	f	Who polices the computer?
+NEDRY	m	Thanks for the kind word, Mr. Hammond.
+ARNOLD	m	Come on, Dennis, he knows your technical contributions have made it all possible.
+NEDRY	m	Right.
+TIMMY	m	That stuff turns you into a mutant!
+HAMMOND	m	Don't mind the signs.  They're only legal precautions.
+LEX	m	It's ... gold!
+TIMMY	m	It's amber.  Fossilized tree sap.
+LEX	m	Grandpa found gold.
+HAMMOND	m	You're both right.  Amber is our gold. The alpha or our alchemic alphabet.  The precious course of our genetic material. You already know amber is the fossilized resin of prehistoric tree sap, of course.
+HAMMOND	m	Imagine - millions of years ago, tree sap flowing over insects, as it does now as I speak, in thousands of forests and backyard trees everywhere.  Imagine that ancient sap trapping a little struggling insect and consuming it in a syrupy death.  Millions and millions of years pass and we come along and discover this prehistoric insect. If we're lucky, he's perfectly preserved in a fossil form inside the hardened sap which is now amber.  And as we examine more and more amber, we find many perished insects, including among them, biting insects -
+GRANT	m	Like mosquitos -
+HAMMOND	m	Like mosquitos, precisely, Dr. Grant.
+GRANT	m	Mosquitos that sucked the blood of dinosaurs.  That's your source of DNA
+HAMMOND	m	The extraction room speaks for itself.
+GRANT	m	It does?
+LEX	m	That's a million year old mosquito?
+ELLIE	f	Put in a piece of amber, find a mosquito, drill it out.  Right?
+HAMMOND	m	Right.  You are witnessing the extraction of tissue from the thorax of this humble insect.  If this mosquito has ingested any foreign red blood cells - say it bit a hadrosaur or a stegosaurus or a T-Rex -  we will extract those blood cells and obtain paleo-DNA, the how-to-build instruction book of an extinct creature. So you see, Ellie, I'm not creating dino- saurs. Fossils left behind the information, the map of how to bring them back.  I'm helping them escape from the confined of time.
+GRANT	m	But even thousands of mosquitos wouldn't give you enough tissue to determine a complete DNA strand.
+HAMMOND	m	Ah, I knew you two would hit it off!  Dr. Grant, this is Dr. Wu, my chief geneticist.
+WU	m	Finally, you are here!  I've been working without the encouragement of my peers for too long.  Welcome, welcome!
+WU	m	Mr. Hammond never lets me publish and he's interested only in results, not in science.
+HAMMOND	m	Don't forget to thank me when you pick up your Nobel prize.
+HAMMOND	m	You are standing in the middle of the most powerful genetics factory created since the expulsion from Eden.
+WU	m	These are Hamachi-Hood automated gene sequencers, those are Cray XMP's, supercomputers that take DNA information and organize it.  In this room, we take fragmented or incomplete DNA strands and compare them to other incomplete strands.
+HAMMOND	m	It's like finding the missing pieces of a jigsaw puzzle.
+WU	m	The computers make sever calculations to provide us with a complete DNA strand - the genetic code of an extinct animal.
+GRANT	m	Okay, you have your "complete" DNA strand.  How do you grow it?
+WU	m	We use unfertilized crocodile ova as our breeding medium.
+HAMMOND	m	Our primordial soup.
+GRANT	m	And how do you know what it is you're growing?
+WU	m	Well, we have computer techniques to try and map out finds on an evolutionary basis.  But mostly, we just grow it and find out what it is.  If it's something we're interested in, and it  keep it.
+GENNARO	m	And if you're not interested?
+LEX	m	Come look!
+WU	m	This is the incubation room.  We keep the temperature at ninetynine degrees and a relative humidity of one hundred percent.
+GRANT AND TIMMY	m	Jurassic atmosphere.
+WU	m	We up to thirty-three percent, so if you feel faint, please tell me right away.
+LEX	m	I'm ... melting!
+WU	m	Reptile eggs contain large amounts of yolk but no water at all.  The embryos must extract water from the surrounding environment.
+GRANT	m	That's why you create the mist.
+GRANT	m	What kind of eggs are these?  Are these shells plastic?
+WU	m	Yes, they are,  The embryos are mechanically inserted and then hatched in this room.  But we've managed to sufficiently mimic the actual biological process - these creatures rupture the plastic membrane that they're contained in when they're born.  Like real births.
+WU	m	Eggs that are determined viable spend their last couple days in our specially- designed incubators, which help accelerate the pre-natal developmental stages.  Which is interesting becaus we're having a problem with the adult animals -
+HAMMOND	m	There's no problem Dr. Wu can't handle. Now who wants to see the real thing?
+GENNARO	m	... so naturally, Hammond's going to present everything in the best light.  I need to know that this park is safe.
+ELLIE	f	I'll tell you something that troubles me from the start.  The carnivores are all well-fed and kept separated from their natural prey.  That'll keep 'em alive, but it won't keep 'em happy.
+GENNARO	m	How do you mean?
+ELLIE	f	The carnivores will want to hunt.  It's an instinct.  And that instinct will have to be satisfied or suppressed.
+HAMMOND	m	Gennaro is putting negative ideas into Ellie's head.  He's a naysayer.  I have no affection for that type of thinking.
+GRANT	m	Don't worry.  Ellie makes her own judgments.
+REGIS	m	Hey!  Great day for a tour!
+GENNARO	m	Looks like rain to me.
+HAMMOND	m	Kids, mind Mr. Regis.  He's in charge now.
+HAMMOND	m	Gennaro, for once in your life, let something really move you.
+GENNARO	m	Ever get the feeling we're just Hammond's damn guinea pigs?
+GRANT	m	I like to wait and see.
+PRE-RECORDED VOICE	m	Welcome to Jurassic Park.  You are now entering the lost world of the prehistoric past, a world of mighty creatures long gone from the face of the earth, which you are privileged to see for the first time ...
+PRE-RECORDED VOICE	m	We'll begin our tour today with the herbivores ...
+PRE-RECORDED VOICE	m	... and the grasses are a species of juniper, and samples can be purchased at the gift shop.  Now, if everyone will take a look to the right ...
+REGIS	m	Look ...
+LEX AND TIMMY	m	I don't see anything.  Do you see anything?  There's nothing there.
+REGIS	m	Something's out there ...
+GRANT	m	Ellie!  Can you imagine the excavation team seeing this!
+REGIS	m	Congratulations. You're the first kids in the whole wide world ever to see real dinosaurs.
+ELLIE	f	Alan?  Alan? He fainted!
+GENNARO	m	My God, we're going to make a fortune here!
+HAMMOND	m	He fainted.  I've waited fifteen years to impress that young man.
+ARNOLD	m	Oh Mr. Hammond, I'm sorry to interrupt you, but Muldoon needs you by the pit.
+HAMMOND	m	Oh, balls.
+ PRE-RECORDED VOICE	m	... Gallimimus, known as the ostrich dinosaur for the shape of its shoulders, have a very strong nesting instinct ...
+GRANT	m	Ellie?  What the hell are we going to do with the rest of our lives?
+ELLIE	f	What to you mean?
+GRANT	m	Can't you see it, Ellie?  We're the ones that are extinct now.
+PRE-RECORDED VOICE	m	... lots more to see in the herbivore section of our park.  But as we come alongside out Jurassic jungle river to the left, let's try and catch a glimpse of a very unusual and dangerous carnivore. Look across the river and above ...
+PRE-RECORDED VOICE	m	And there they are!
+ALL THREE	m	Dilophosaurus!
+PRE-RECORDED VOICE	m	Dilophosaurus is one of the earliest carnivores.  Scientists once thought their jaw muscles were too weak to kill, but now, through the miracle of their cloning, we know Dilophosaurs spit venom, a poison which causes blindness and then unconsciousness.
+GENNARO	m	Poisonous d issue without a lot of precedent.
+GRANT	m	It's like a Gila monster of a cobra.  It's a poison ...
+ELLIE	f	Spitter!
+ELLIE	f	Are we dreaming all this?
+HAMMOND	m	A bullet?  Muldoon - no!  Now what?  I have five left?
+MULDOON	m	John, they're mean as scorpions and smart as chimps.  Their little fingers make them natural cage-breakers.  We should terminate the raptor program.  They're just too smart.  Too damn smart.
+HAMMOND	m	Oh balls.  I will not terminate the raptors just because they're behaving normally. They're hunters.  Why can't we contain them properly?
+MULDOON	m	John, remember back in '88, when we started to build the containment devices?
+HAMMOND	m	It's just a zoo, Muldoon.  A zoo.  Figure out a way to contain them.  And we'll sit down and have a nice long discussion about raptors - after my guests leave, okay?
+MULDOON	m	Okay!  Get a 'dozer, start digging round the pit.  We're gonna bury some fence. And wear your rifle when you're working!
+HAMMOND	m	Wh
+ARNOLD	m	They'll be by the trike's in a moment. Trike's sick again.
+HAMMOND	m	How can you say it so matter-of-factly? The trike's.  You casually accept it, but I never can.  You know what it means when you say "by the trikes"?  "By the trike's" means that they're out there by the species:  triceratops horridus.  It astounds me every time what I've done here.  What magic, what alchemy.  We turned a piece of a rock into a dinosaur. I will never be complacent about that.
+RADIO	m	Don't want to be stuck here if this chop gets much worse.
+NEDRY	m	Coffee anyone?
+HAMMOND	m	Hello skipper, John Hammond, how are you tonight?  I certainly don't want to imperil anyone.  But can you give us one more container of food?  Then we'll feel comfortable is the storm delays your return.  Could you help us out here?  Of course, if it looks too choppy just go, but you'd be doing us a big favor.
+LEX	m	I feel so sorry for her.  She's so sick.
+VET	m	We don't know what's wrong with Freda. Every six we
+REGIS	m	Oh, she'll be up and around in no time. After a big night, I feel the same way.
+GRANT	m	Poor girl.  What's the matter?  Ellie, look at this.
+ELLIE	f	Microvesicles.  Interesting.
+LEX	m	Doesn't she have a mommy and a daddy?
+HARDING	m	We make these dinosaurs in the lab, sweetheart.  But they do form attachments. Freda has a little one that follows her around, thinks Freda's his mom.
+ELLIE	f	What does sh
+HARDING	m	Animal this size takes in a minimum of six hundred pounds of plants a day.  We truck in hay and meadow grasses seven times a day.  That's all she touches.
+ELLIE	f	West Indian Lilacs!
+GRANT	m	These'd give anybody a stomachache.
+HARDING	m	I'm telling you, the animals don't eat don't eat that stuff.
+TIMMY	m	Dr. Grant, sir?  How 'bout these? There'
+GRANT	m	Hey, Ellie take a look at his.  Good work, Timmy.
+ELLIE	f	Extremely smooth.  Purple stains, could be those lilac berries.
+HARDING	m	I don't get it.
+GRANT	m	Looks like your trike swallows stones to help her digest her food.  Walking around, she crushes berries against the stones.  And even just a little crushed berry is eventually enough,
+ELLIE	f	So, she poisons herself periodically.
+HARDING	m	Bet we tested her saliva for any trace of -
+GRANT	m	But with th and probably bypasses any mucosal contact.  Straight to the stomach.  I would test her excrement.
+LEX	m	Yo, yuk!
+GENNARO	m	Hey Regis, where are your rain gods? It's gonna pour.  Let's finish our tour.
+ELLIE	f	I'm staying.
+GRANT	m	Soil samples?
+ELLIE	f	You read my mind. I think she's sicker then they're saying. Her skin is dry and flaky.  And her gums are pale.  I'm going to talk to Dr. Wu.
+TOUR	m	The mighty T-Rex arose late in dinosaur history.  Dinosaurs ruled the earth for a hundred and twenty million years, but there were tyrannosaurs for only the last fifteen million years of that period ...
+GRANT	m	Maybe she's down hunting apatosaurs.
+GRANT	m	Then where is she?
+MULDOON	m	Just checking in.  Everything ok?
+HAMMOND	m	Look at them.  Leaning out the windows, so eager.  They can't wait to see it. They have come for the danger.
+MULDOON	m	That's what I'm afraid of.
+LEX	m	What's going to happen to the goat?  Is the T-Rex gonna come eat the goat?
+GRANT	m	He's here.
+REGIS	m	Looks like the Rex will have its snack a little later today.
+RECORDED VOICE	m	The sensors don't see the Rex around. She usually comes within five minutes of hearing dinner. If she doesn't, that means she's sleeping - we might have access to her at the picnic area.
+LEX	m	I didn't want to see him get eaten.  I liked the goat.
+HAMMOND	m	Damn those people.  They are so negative.
+ARNOLD	m	It's natural.  They can't fully appreciate that we've engineered the animals and the park for total safety.
+HAMMOND	m	They comb this island like a bunch of accountants.  They don't experience the wonder, the awe of it all.
+ARNOLD	m	You can't make people experience wonder.
+HAMMOND	m	It's like the Garden of Eden out there. This is the most beautiful time of day.
+ARNOLD	m	Better rout the tour back.  They can start again sun-up tomorrow morning.
+HAMMOND	m	Yup.  Call the kitchen.  Those kids'll be hungry when they get in.
+NEDRY	m	Sorry 'bout that.  I've taken all the lines to upload some data.
+NEDRY	m	I'll clear a couple of lines for you at the end of the next transmission, sir. Here you go now, this will make it all better, Mr. Hammond.
+PRE-RECORDED VOICE	m	... enjoy a healthy snack.  This is also a good time to ...
+LEX	m	Hey, is that bathroom working?
+REGIS	m	Sure. Rest stop.
+GRANT	m	Is that still the T-Rex paddock?
+REGIS	m	Yes.  But she never comes here.  I don't know why not.  Probably too much construction.
+NEDRY	m	Yup!  Looks like a never-ending weekend for me.  I'm gonna get a Diet Coke. Don't touch my console, ok?  Line will be clear in five minutes.
+HAMMOND	m	Slob!
+ARNOLD	m	Well, at least he knows what he's doing.
+REGIS	m	Everything's just fine.  It's a temporary glitch due to the rain.  No doubt, they're going to re-rout some circuits back at the mainframe.  We'll have the power back on in moments.  Let's get back in the cruisers, they may start up, and I'd like us all to be seated in them.
+GENNARO	m	I knew we shouldn't have kids here.
+LEX	m	Mr. Regis, are dinosaurs ... nocturnal?
+REGIS	m	No, darling, of course not.
+LEX	m	Mr. Regis?  What's ... nocturnal?
+REGIS	m	Don't you worry about d all very safe in their paddocks just like animals in a big, strong zoo.  They're not going anywhere we don't tell them to go.
+NEDRY	m	Okay, little ones!  Here we go!
+HAMMOND	m	What's going on, Arnold?  I want those lights on.  I don't want my grandchildren scared.
+ARNOLD	m	Jesus, the computer's gone
+HAMMOND	m	Well, I want the computer up.  This is the wrong weekend for glitches.
+ARNOLD	m	That's not the worst of it.
+HAMMOND	m	Oh yeah?  Please tell me what's worse than the lights going out?
+WU	m	All the security doors are open.  Someone has been in my laboratory and the eggs have been disturbed.
+HAMMOND	m	Where the hell is Nedry?  Where is he? Did anybody check the damn john?
+MULDOON	m	John, the generator's shut down.  Who cut the power?
+NEDRY	m	Oh, shit!
+MULDOON	m	Get out, get out!  I need this jeep. There's a problem with the tour.  Ellie, Hammond'll fill you in.
+ELLIE	f	No!  I'm going with you, Muldoon.
+CAPTAIN FARRELL	m	Good.  Glad to see you.  Were you seen?
+NEDRY	m	Nah.  I'm back in five minutes, they'll never know I was gone. Careful with that thing!  It's worth more than the ship. When's the copter meeting you?
+CAPTAIN FARRELL	m	It's not.  The storm's coast-to-coast,
+NEDRY	m	Shit!  What's the backup?  I don't like this.  Maybe we should do it another time, I don't like it.  I just don't like -
+CAPTAIN FARRELL	m	Shhh!  I wired Baker, he'll have a man at the dock in Puntaremas.  We should be able to make that in time.
+NEDRY	m	Ten hours?
+CAPTAIN FARRELL	m	Yeah, now relax.  I got a lot riding on this too, you know.  No one's going to mess up now.  Baker's not going to mess up.  His people won't let him.
+NEDRY	m	Ok.  Ok.  Here.
+NEDRY	m	Look, this is insulating spray.
+NEDRY	m	In about eight hours, spray down all the eggs with this stuff.  It'll keep 'em warm but not too warm.  I hope Baker has it together with the dock.
+TIMMY	m	Hey, these thing work great.  I can see in the dark and I can see far.
+TIMMY	m	Hey!  I wonder if that boat's still there?  It is. I think they're getting ready to go.
+REGIS	m	Timmy, can you
+TIMMY	m	Want to look at the boat, Lex?
+LEX	m	Hey, that fat guy's down there. Is he gonna come get us and take us to Grandpa?
+LEX	m	They have one of those things from the room with all the eggs - you know, where they help the baby eggs grow up.
+TIMMY	m	You mean an incubator?
+REGIS	m	Let me see.  Give them to men, sweetheart.
+TIMMY	m	We saw that computer guy helping 'em load an incubator onto the ship.
+GRANT	m	I wouldn't like to see dinosaurs running around Costa Rica.
+GENNARO	m	When's the damn power coming on?
+MULDOON	m	Strong legs.
+ELLIE	f	Lot of track in college.
+  LEX	m	I'm hungry.  When can we get going?
+REGIS	m	When the electricity comes back on, honey.  These cars run on electric cables buried in the road.
+REGIS	m	Must be turning on the electricity.
+LEX	m	Feels like a vibration.
+REGIS	m	Jesus Christ.
+LEX	m	Bad language.
+LEX	m	Is that bad?
+TIM	m	Mr. Regis!  Mr. Regis, where are you going?
+LEX	m	He just left us.  He just left us all alone.  Timmy, Timmy how could he do that?  We're all alone!  We're all alone!
+GENNARO	m	Holy shit!  Any suggestions what we do now?
+GRANT	m	Don't move.
+LEX	m	It's too, too dark out there.
+LEX	m	No, it's mine.  Please, I need it.
+TIMMY	m	Are you ok?  Be quiet and don't move.
+TIMMY	m	Lex?  Lex?
+GENNARO	m	Extinct animals should stay extinct!
+GRANT	m	Lex, are you okay?
+LEX	m	Timmy's unconscious, he won't move.
+LEX	m	Timmy!
+GRANT	m	Let ... go ... please.
+NEDRY	m	Shit. I'm going to have to change clothes.
+NEDRY	m	I hope this is one of them herbivores.
+NEDRY	m	Gross.
+NEDRY	m	I'm blind, I'm blind.
+TIMMY	m	Oh shit!
+TIMMY	m	Oh shit, oh shit, oh shit, oh shit!
+GRANT	m	Timmy.  Are you ok?
+TIMMY	m	Thank God you're here.  Where's Lex?
+GRANT	m	Below.  She's fine.  Let's get you down.
+GRANT	m	Try the door you're leaning against. Nice and slow.
+GRANT	m	Crawl this way.  Slowly.
+GRANT	m	We're going to have to make a jump for it, Timmy.  Okay?
+GRANT	m	One, two, three, jump.
+TIMMY	m	Thanks, Dr. Grant.
+GRANT	m	You owe me one.
+GRANT	m	Where'd Lex go?
+TIMMY	m	There's Lex.
+GRANT	m	Come on out now, Lex.
+TIMMY	m	It's your turn to wear the goggles, Lex.
+TIMMY	m	I found your baseball.
+LEX	m	You did?
+GRANT	m	Cone on, Lex, it must be cold in there. And tight.  Why don't you come out?
+LEX	m	I'm afraid of the "animals".
+TIMMY	m	The "animals" are gone.
+LEX	m	Where did it go?
+TIMMY	m	I don't kno
+LEX	m	Are there any grownups out there?
+GRANT	m	I'm a grownup, Lex.  Come on out.  Gimmie you hand, come on, here you go.
+LEX	m	I'm hungry.
+GRANT	m	Me, too.  We've got to get ourselves back to civilization.
+REGIS	m	Noooooo!
+TIMMY	m	What's going on?
+GRANT	m	It's Regis and the Rex is after him.  But it's okay.  Regis knows the Rex can't see him.  Evidently, he can only see move- ment.  Regis'll be ok if he stays still.
+GRANT	m	Let's go!
+ELLIE	f	Oh, My God!  Where's the other one?
+MULDOON	m	Ellie!
+MULDOON	m	Wait up.
+MULDOON	m	T-Rex tracks.
+ELLIE	f	Then they must be out there.  They must be out there.  I know it.
+MULDOON	m	Perhaps.
+ELLIE	f	No!  They're out there.
+MULDOON	m	I've seen a lot of animal attacks in the bush.  It's not as gory and horrifying to see as you'd think.  No pools of blood or exposed bones.  There is usually little or no evidence left behind.  And if are small, a predator can kill by just shaking the little thing to death, eating it, and leave not so much as a button.
+MULDOON	m	Thank God.  (beat)  We have to carry him. First I have to ...
+MULDOON	m	He's losing a lot of blood.  Help me.
+ELLIE	f	Looks like you've been through this before.
+MULDOON	m	I told you I've seen big game attacks in Africa.
+ELLIE	f	Right.
+WU	m	Why?
+ARNOLD	m	Because Nedry messed with the code. That's why I'm checking it.
+ARNOLD	m	That's true.  Keychecks will give me a record of every button Nedry pushed.
+ARNOLD	m	Jesus, that's all he did all afternoon? He was just dicking around, maybe waiting to get his nerve up.
+WU	m	What's that?
+ARNOLD	m	Some sort of object.  Let's see if we can trace it.
+WU	m	What's it mean?
+ARNOLD	m	It wasn't a bug.  It was a trap door that fat bastard left for himself.  When he hit WHTE-RBT. OBJ, it initiates a set of commands that turned the whole goddamn park off.  Hammond was right about him.
+WU	m	If I did that I'd leave a way to turn it back on.  In case I had to.  I'm sure Nedry did.  You're find it.
+MULDOON	m	We found Gennaro.  He'd badly injured. Harding's tending to him in your quarters.  He'll be all right if we can
+HAMMOND	m	I'm sure you'll find them.
+MULDOON	m	I certainly hope so.
+HAMMOND	m	I'm sure we will.  After all, I keep telling everyone, this park is made for children.
+MULDOON	m	Just so you understand that they're missing, sir.
+HAMMOND	m	Missing?  Of course I know they're missing.  You just said that.  Look, Bob, let's not get carried away.  We've had a little breakdown from the storm or whatever, and as a result we've had a regrettable, unfortunate accident.  And that's all that happened.  We're dealing with it.  Arnold will get the computers cleaned up, and open.  You'll find those kids and my good friend, Dr. Grant.  I'm sure they'll want some of this ice cream.  It's very good.
+GENNARO	m	That Rex didn't even give me his full attention.  That's what hurts.  I was just an afterthought.  I gave him my full attention.
+HARDING	m	He's had a lot of morphine.
+GENNARO	m	Not enough.
+ELLIE	f	I need to find Wu.  I have to run a few tests in his lab.
+HARDING	m	He's probably in the control room, get- ting in the way while Arnold tries to put things together.
+GENNARO	m	Yo ho, I'll close this place down ...
+LEX	m	I'm tired.
+TIMMY	m	You're too big to be carried.
+LEX	m	But I'm tired-tired.
+GRANT	m	Okay, Lex.
+GRANT	m	Oof!  You're heavy.
+GRANT	m	I think we're still in his paddock.
+GRANT	m	What?
+LEX	m	Don't you see?  Don't you see?
+GRANT	m	What?
+LEX	m	The fence.
+GRANT	m	No.
+TIMMY	m	Oh I do, right there!
+LEX	m	Timmy's scared of heights.
+TIMMY	m	Shut up.
+LEX	m	'Fraid of heights.
+GRANT	m	A herbivore grazing area.  Excellent.
+ TIM	m	We gonna walk all night?
+GRANT	m	Twelve hours before that ship reaches the mainland.
+TIM	m	We need sleep.
+GRANT	m	Up there.
+TIM	m	Climb?  Again?  I can't climb again?
+GRANT	m	Sure you can.
+TIMMY	m	It's ok, Lex.  Everything's gonna be okay.
+WU	m	What is taking Arnold so long?  This room is too cold.  My eggs will be damaged.
+ELLIE	f	No sign of those berries.  Really interesting.  There are indications of a similar virus in every tissue sample. But it's not in the ground.  Could I look at some of the discarded embryos?
+WU	m	I'm sure you'll find your virus ... or a similar one.  All animals carry many viruses  almost impossible to say with certainty which are the same strains.
+ELLIE	f	And yet from what Harding tells me, many of you animals have similar symptoms - besides the microvesicles, a lack of hunger, loss of reproductive urges, sores in the mouth and gums.
+WU	m	What the hell does Harding know?  He's a veterinarian, not a pathologist.
+MULDOON	m	What is it?
+ARNOLD	m	That's it.
+MULDOON	m	That's what?
+MULDOON	m	The fences and the power?
+ARNOLD	m	Right.  And it does something else. It erases the code lines that refer to it.  It destroys all evidence it was ever there.
+MULDOON	m	Nedry could steal the eggs, get back and reset the whole show.  No one would ever miss him.
+ARNOLD	m	Watch this.
+ARNOLD	m	Hot damn!
+MULDOON	m	Are the fences back on?
+ARNOLD	m	You bet they are.  It will take a few seconds to get up to full power, because we've got fift and the generator has to feed the capacitors along the way.  But in a half a minute we'll be back in business.
+MULDOON	m	Motion sensors?
+ARNOLD	m	Got them too.It will be a few minutes while the computer counts.  Then I'll tell you where Grant and the kids are and you can go and get them.  But every- thing's working.  Half past ten and we've got the whole thing back up and running.
+MULDOON	m	Just hiss.
+MULDOON	m	What is taking so damn long?  Where are they?
+ARNOLD	m	There's a lot of extraneous movement out there.  Branches blowing, birds, back- ground movement.  It may take, ah, okay, count's finished.
+ARNOLD	m	Hmmmm.  I don't see them.  Maybe they're out of range of a sensor.
+MULDOON	m	Shit.  I don't know where they are.  I wish I could go out thereBut I haven't got anything to use on the Rex.  My rocket launcher's in the jeep Nedry stole.  And going out with a big gun in the dark would be suicide
+ELLIE	f	Why don't you get some sleep, Dr. Wu? I'm just going to run a couple more tests and then I'm going to turn in myself.
+WU	m	No point in everyone being exhausted.
+WU	m	I'm sure Muldoon will find Dr. Grant as soon as there is light.
+LEX	m	He gonna eat us?
+GRANT	m	I don't think so.  She's a ...
+GRANT AND TIMMY	m	... herbivore.
+LEX	m	Come here, babies!  Get your b
+GRANT	m	Like the trike.  Maybe it's not the stones.
+MULDOON	m	Where the hell are they going?
+MULDOON	m	Let's see what's up.
+GRANT	m	Tim, I think there's a motion sensor across the field and down there.
+TIM	m	Where's Lex?
+LEX	m	C'mere boy, c'mere.
+LEX	m	C'mere boy, c'mere.
+TIM	m	Dr. Grant, Dr. Grant, look.
+LEX	m	Whoa!
+LEX	m	Giddyup!
+LEX	m	Whoa!!  Take is easy!
+LEX	m	I can't swim!
+LEX	m	Oh, let him stay.  He likes me to ride him.  He could carry me instead of you, Dr. Grant.  Please, let him stay,
+GRANT	m	Go!  Go away.  Go!  Get out of here!
+LEX	m	Will I ever play with him again?
+GRANT	m	We gotta get to that motion detector. It's still a ways.
+MULDOON	m	I found Nedry!
+HAMMOND	m	He, Donald.  Glad you're awake.  I hope you're not going to take this little mishap you had and hold it against my park.  It would be terrible if the finishing funds were in any way held up.
+HAMMOND	m	You really shouldn't have gotten out of the vehicle.  The park is actually quite safe.  A disenchanted worker sabotaged some equipment.  Arnold, Muldoon, and Wu, all loyal employees, are righting damage
+GENNARO	m	Oh good, 'cause I love the park!  It's more than we ever dreamed!  Those brachiosaurs are so big!  And those Spitters - - incredible!  I only have one problem. Aren't we going to have pterodactyls? Oh, they'd fly away!
+HAMMOND	m	Take a look at these, Donald.  Have you seen these?  These are great.
+HAMMOND	m	Wind-up toys.  Spitter umbrellas.
+HAMMOND	m	I got some great t-shirts.  Dinosaur bingo, hey ...
+HAMMOND	m	Wu says he can make a foot high
+HARDING	m	You'll have to bear with him, Mr. Hammond. He's doped to infinity and back.
+WU	m	Who gave you permission -
+ELLIE	f	I'm here to investigate this park. And there's
+WU	m	That's absurd.
+ELLIE	f	These bones aren't fully formed.
+WU	m	You're qualified to interpret x-rays of living dinosaurs?  I doubt it.  It took me many months to learn.
+Y	m	I'll tell you something else, Freda isn't an adult, just a huge juvenile.
+WU	m	You're making a lot of assumptions here.
+ELLIE	f	Right.  What the hell is going on, Wu?
+WU	m	She didn't have a right to explore my lab.
+HAMMOND	m	Let's not argue, Wu, we have a serious problem. These animals don't last.  There is a regularity, a predictability about when they die.  It's always ... very young. We don't know why.  Given time, I'm sure Wu will figure it out.  It's just ...
+WU	m	Just some adjustment in the code is required.
+HAMMOND	m	But there are deadlines.  The park opens next summer. And it requires full-grown specimens.  So Wu uses growth hormones to achieve the desired size in a short amount of time.  But they all keep dying and we don't know how to stop it.
+HAMMOND	m	I was going to tell you all this myself, Dr. Sattler, after Gennaro stopped breathing down my neck.  That's why I wanted you and Dr. Grant  island - you have to help me keep the dinosaurs alive.  Won't you please help me?
+ELLIE	f	Gennaro's losing a lot of blood.  needs transfusions.  We gotta get a rescue helicopter.  Arnold, what's with the phones?
+ARNOLD	m	Ah hell. I just can't find it.
+ELLIE	f	Find what?
+ARNOLD	m	Nedry jammed all the communication lines. He inserted some command, a lockout into the program code.  I can't find it, because I gave that restore command and it erased part of the program listings.
+WU	m	So?  Just reset - shut the system down and you'll clear the memory.  Everything will be in the normal wakeup mode.
+ARNOLD	m	Shut the system down?
+WU	m	And reset.
+ARNOLD	m	I've never done that before.  And I'm reluctant to do it.  Maybe it's tr systems will come on, but maybe they won't.
+ELLIE	f	Look, there is a sick man here who needs medical attention or he'll die.  Four people are out there, missing in your park.  We need search teams.  We have to have a phone or radio.
+ELLIE	f	Well?
+ARNOLD	m	Well, it's just that the safety systems don't function with the computer shut down and -
+ELLIE	f	- turn the goddamn safety systems off! Can't you get it through your head that we have no choice?
+ARNOLD	m	Okay.
+ARNOLD	m	You asked for it.  And you got it.
+ELLIE	f	How long do we have to wait?
+ARNOLD	m	Thirty seconds.
+GRANT	m	What is it?
+LEX	m	I hear something.
+GRANT	m	Come on.
+LEX	m	Hear it now?
+TIMMY	m	You're hearing things.  Come on, we gotta get back and warn them about the boat.
+TIMMY	m	What's going on?
+GRANT	m	They're agitated.
+LEX	m	I told you I heard something!
+GRANT	m	Outta the way, kids! Run!
+ARNOLD	m	Memory should be cleared by now.
+ARNOLD	m	Damn.
+ELLIE	f	What's wrong?
+ARNOLD	m	Oh hell!  I have to turn the safety switches back on before I restart the power.
+ARNOLD	m	Thank God!
+ELLIE	f	Arnold!  They're still not working.
+ARNOLD	m	No, it sounds dead but after a reset, all system modules have to be brought on line manually.
+WU	m	Arnold's about to get the phones up.
+ARNOLD	m	Okay, we're up again!
+ELLIE	f	No we're not.  Phones still dead.
+ARNOLD	m	Can't be -
+ELLIE	f	What's happening?
+ARNOLD	m	The duckbills.
+WU	m	My good God.
+ELLIE	f	What?
+ARNOLD	m	It's the Rex ...
+HAMMOND	m	They've stampeded ...
+TIMMY	m	Let's go.  Now!
+HAMMOND	m	No!  Oh no!  He make a kill.  He killed one of my animals!  Where's Muldoon?
+ARNOLD	m	I'm sorry, Mr. Hammond.
+HAMMOND	m	My animals!  My animals!
+HAMMOND	m	Where have you been?  My Rex killed a hadrosaur.  You should be out there, doing something.
+GRANT	m	We'll walk by the river.  That leads back to the Visitor's center.
+LEX	m	Not me.  I'm not walking anymore.
+TIMMY	m	Come on Lex, I'll carry you.
+LEX	m	Nope.  Too scared.
+GRANT	m	You ready?
+LEX	m	Can we go on the raft?  Then we don't have to walk so close to the animals!
+GRANT	m	What raft?
+LEX	m	Where I found Freda's baby.
+GRANT	m	It's still mid-morning.  I bet we have at least ten miles to go.  If we take the raft along the river, we can make much faster progress.
+TIMMY	m	Let's do it.
+GRANT	m	Lex, I don't see any raft.
+TIMMY	m	Keep going.
+GRANT	m	Bullseye!
+LEX	m	Told you!
+GRANT	m	No raft. Where did you see it, Lex?
+LEX	m	Actually, I never really saw one. Just assumed.
+GRANT	m	Assumed?
+TIMMY	m	Lex!  Lex!  You're okay, you're okay!
+GRANT	m	I'm afraid there's no raft.
+GRANT	m	Looks pretty calm.
+LEX	m	I'll row, Dr. Grant.
+GRANT	m	No.
+LEX	m	Hey, we're still moving.
+GRANT	m	There's a current.
+LEX	m	You can't sleep.
+GRANT	m	I'm not sl
+LEX	m	I'll do it!
+TIMMY	m	We gotta warn them about the boat.
+TIMMY	m	Cool!
+TIMMY	m	Thought
+GRANT	m	Guess I was wrong.
+LEX	m	I can't swim!
+GRANT	m	Hold on real tight.
+TIMMY	m	Hold my hand.  Hold my hand when we go.
+TIMMY	m	Don't let go!
+GRANT	m	I'm trying.  I'm trying ... Ooooo!!! ....
+GRANT	m	No!!!!!
+MULDOON	m	Son-of-a-bitch.  He's taking a nap. Hasn't been this well fed ... ever.
+HAMMOND	m	Could he drown in that position?  That's a very valuable animal.
+MULDOON	m	I know it's a valuable animal.
+WU	m	What's that, John?
+ELLIE	f	You running on auxiliary power?
+ARNOLD	m	I'm not.
+WU	m	Looks like you are.
+ARNOLD	m	Can't be.
+WU	m	Print the system status log.
+HAMMOND	m	What the hell is going on?
+HAMMOND	m	You're ruining my ordered, precise park!
+HAMMOND	m	Fix my park, Arnold!  Fix it!
+ARNOLD	m	I know it's hard, I know it's hard, but I'm going to put it all back together for you - I promise.  I will
+LEX	m	The waterfall stopped.
+TIMMY	m	Waterfalls aren't supposed to stop.
+GRANT	m	I think they cut the power.  Hey -
+GRANT	m	Well, there's our pot of gold.  Let's go, kids.
+HAMMOND	m	Told him, fix my park, fix my park.
+WU	m	You shut down as six thirty-four this morning, and when you started back up, it was with auxiliary power.
+ARNOLD	m	Jesus.  The auxiliary generator fires up first and then that's used to start the main generator because it needs a heavy charge.  The main generator has to be manually reset.
+WU	m	Outside?  In
+MULDOON	m	This doesn't mean the fences have been off since six-thirty, does it?
+ARNOLD	m	Backup power doesn't generate enough amperage to power the electrified fences, so they were automatically kept off. That's also why we had no phones or radio.
+MULDOON	m	All of the fences?
+ARNOLD	m	Yes.
+MULDOON	m	Including the velociraptor mesh?
+ARNOLD	m	Yes, yes, yes.
+HAMMOND	m	Do you mean those raptor
+ARNOLD	m	I'm afraid so.
+MULDOON	m	No, no way.  Last time, it took 'em two days to chew through that mesh.  But give 'em enough time, they'll get out.  We better get that power on now.
+HAMMOND	m	Regardless, check the pit.  Make sure there' five of them there.
+ARNOLD	m	What's that steam coming out of my generator room?
+MULDOON	m	Just go and turn on your generator, then get right back to the control room.
+MULDOON	m	Raptors chewed their way out.  All five are out there.
+ELLIE	f	Arnold's not with you?
+MULDOON	m	I was hoping he was ba
+HAMMOND	m	This is why my quarters were specially fortified.  To assist in an emergency just like this one.  Let's go.  Muldoon, round up the workers.  They'll go with us too.
+ELLIE	f	Wait.  What about Arnold?
+TIMMY	m	We're home!
+GRANT	m	Sorry, Tim.  We gotta climb up.
+TIM	m	That's all right, Dr. Grant.  You owe me
+MULDOON	m	Okay Wu, I'll have you covered at every moment.  But this shell carries quite a punch, so if you're too close, it'll take a piece of you.  Ellie's on the headset with you.  If another ones come at you, let her know.  Then Ellie - you start jumping and yelling.  The buggers are easily distracted.  They'll come running and let Wu get that power on.  Then both of you, get behind this fence as quick as possible.
+MULDOON	m	Wu, get away.  Give me room to shoot.
+ELLIE	f	Hey you cretaceous dromaeosaur, you can't catch me.  Hey, come and get me, you flat-snouted Mongolian beast.  Hey!
+MULDOON	m	You ok?
+WU	m	Now, there's four.
+ELLIE	f	I'm going in.  Muldoon, cover the door after I go in.  Wu, guide me!
+ELLIE	f	Damn, I banged my head.
+ELLIE	f	One -
+ELLIE	f	Two -
+ELLIE	f	Three!
+LEX	m	We did it!
+TIM	m	We made it!
+ELLIE	f	Raptor!
+WU	m	Keep it open!  I'm coming!
+ELLIE	f	Come on, Wu!  Come on!  Run!
+ELLIE	f	They're coming inside!
+WU	m	Help!
+MULDOON	m	No they're not, Ellie.
+MULDOON	m	I couldn't compromise everyone's safety.
+ELLIE	f	Why didn't the power go on?
+MULDOON	m	You just reset the power.  Now the computer has to be booted.
+LEX	m	Where did everybody go?
+GRANT	m	Probably your grandfather's quarters. Let's go.
+GRANT	m	Actually, stay here.
+LEX	m	No, I want to stay with you.
+GRANT	m	No, keep an eye on things round here for me.  I'll be back with the others.
+GRANT	m	I'll radio the ship as soon as I find somebody.  (beat)  You're in charge now. Don't move from here ... unless you have to, ok?
+LEX	m	Goody!  I'm gonna rest.
+TIMMY	m	Tired!  He carried you the whole way.
+GRANT	m	Be right back.
+ELLIE	f	Why don't you just nail that bastard?
+MULDOON	m	No more ammo.  I requisitioned six charges but the bean-counter - - cut it down to two.
+LEX	m	Any candy behind the counter?
+TIMMY	m	Hungry?
+LEX	m	Starved.
+TIMMY	m	Nothing.
+LEX	m	Let's go to the kitchen.
+TIMMY	m	Dr. Grant said -
+LEX	m	- let's go.  We'll come right back.
+TIMMY	m	Nope.  We're waiting here t gets back.  He'll help us get some -
+TIMMY	m	Start winding now!
+LEX	m	Where are we going?
+TIM	m	The kitchen!
+ELLIE	f	How long?
+MULDOON	m	Well, they seem to be getting faster all the time. I would say - fifteen minutes.
+ELLIE	f	There's a raptor on the roof of this building.  Open that gate and you're a dead man.
+GRANT	m	Ellie, I'm go glad -
+ELLIE	f	Shut up and listen.  We have about fifteen minutes here.  The computer has to be rebooted.  That'll turn on the electric fences.  Besides the r stuck in here with us, there are four more ...
+TIMMY	m	We'll freeze to death in there.
+LEX	m	He's going to eat us!
+TIMMY	m	PUSH!
+LEX	m	What is it, Timmy?
+TIMMY	m	I just remembered something.  Rapto born in large litters.  There's probably more coming.  We gotta hide.
+GRANT	m	Timmy, you know anything about computers?
+TIMMY	m	Well, I just got an XT at home.  I told my Dad I wanted a 386.
+GRANT	m	Ok good, you're elected.
+GRANT	m	Tim, you got to book the system.  They reset the power and there are no phones. We gotta turn on the fences and we gotta stop that ship.
+LEX	m	Are they going to be ok?
+GRANT	m	If we can get help very soon.
+TIMMY	m	Sshh, you guys, I'm thinking.
+TIM	m	I think this is the boat.  They called it the Queen Anne or something.
+GRANT	m	Queen Anne, do you read me?  Queen Anne?
+RADIO	m	This is the Queen Anne B?  I copy. What's up?
+GRANT	m	Report your position!
+RADIO	m	Ah, we're just about to dock here in Puntaremas.  Who wants to know?  Please identify yourself.
+GRANT	m	Try this for identification, Captain Farrell.  You are in possession of stolen biological materials.  If you don't turn that boat around and return to Isla Nublar immediately with your contraband cargo, you will be found in violation of Section 509 of the Uniform Maritime Act, you will be subject to revocation of license, penalties in excess of fifty thousand dollars, and five years in jail. Do you copy?
+GRANT	m	Do you copy, Captain Farrell?
+RADIO	m	I copy.  All ahead stern.
+TIMMY	m	What's the Uniform Maritime Code?
+LEX	m	What good does that do?  To have the ship turn around?
+GRANT	m	Well it gives us ten more hours. Let's see if we can raise the Costa Rican Coast Guard on that thing.
+GRANT	m	And then there were none.
+GRANT	m	We have to leave now.
+HAMMOND	m	Oh you don't know.  There are wonderful plans in the works, sites already purchased for Euro-Jurassic and Jurassic Japan.
+HAMMOND	m	Don't you see I've exalted human potential here?  You must see it.  You must feel it.  I called back a life form. Listen, Dr. Grant, don't go.  Be a part of this.  I'm inviting you to do just that - let the others go, if they want.
+GRANT	m	You interrupted natural law.  There are regulations, that make her knowable.
+HAMMOND	m	You mean there are rules that nature follows that create barriers to our knowledge.
+GRANT	m	Barriers?  Like the seasons?  The earth spinning, orbiting the sun?  The entire solar system in interlocking motion.  Our own beings in biological step with it all.  Mr. Hammond, you've disrupted the pattern and look what it's done!
+HAMMOND	m	I know what it's done.  I've made triceratops and gallimimus and a T-Rex. I've got a batch of iguanadons being born on Tuesday.  What do you say to that?
+GRANT	m	Don't count on it.  Now get in.
+GRANT	m	You created mutant forms that you further mutated to create amus You made biological puppets with heartbeats and an early death sentence.
+HAMMOND	m	I created genetic miracles!
+GRANT	m	You created a park to generate a profit- making merchandising operation.
+HAMMOND	m	The merchandise is just a by-product. Souvenirs for people to reflect on the wonder.  You fainted when you saw the brachiosaur.  Alan, look, let's not argue.  The problem is that my employees were not up to par with my dream.  They failed me.  The park, I promise you, is safe.  It really is.
+GRANT	m	You park is doomed.  Now come with me.
+HAMMOND	m	It is not!  It's blooming!  In the throes of labor!  You are one more more negative voice in a  You'll amount to nothing.  You'll be a bone-brusher all your life.  I pity you.
+GRANT	m	Come back, Mr. Hammond!  It's over!
+ELLIE	f	They're so beautiful.  They're condemned, aren't they?  Even those embryo fragments had the same viral contamination.
+GRANT	m	I have a theory.
+ELLIE	f	You have a theory?
+ELLIE	f	So the very process itself was flawed.
+

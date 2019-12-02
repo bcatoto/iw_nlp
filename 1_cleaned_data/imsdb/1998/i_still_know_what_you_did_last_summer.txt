@@ -1,0 +1,653 @@
+JULIE	f	Bless me, Father, for I have sinned. It's been a year since my last confession... I've never told anyone this. Not my mom, not the poice, not even my friends -- except for the ones who were there and they...well they're not around anymore. You see I...I...
+PRIEST	m	Yes?
+JULIE	f	I killed a man. Well, I thought I had...then... You've got to understand...It was all an accident. A terrible accident. It's been a whole year. I've tried to get past this, but I just can't.
+PRIEST	m	Go on...
+JULIE	f	I have these dreams...horrible dreams. And this man is always there with me.
+PRIEST	m	I know...
+JULIE	f	You see, he was a killer. He murdered Helen and Barry, and he would have killed me too, if I hadn't...gotten away with it. I don't know, I guess I just need to deal with the fear, the guilt...to finally say his name. Ben Willis. His name was Ben Willis...
+PRIEST	m	I know...
+JULIE	f	You know? But how could you...
+PROFESSOR	m	Nice to see you find Political Science so stimulating --
+JULIE	f	I'm sorry --
+WILL	m	Julie! Wait! You okay?
+JULIE	f	I'm fine.
+WILL	m	You sure?
+JULIE	f	I'm fine.
+WILL	m	You don't seem fine.
+JULIE	f	I had another dream, Will.
+WILL	m	The shower again?
+JULIE	f	It was in a church...it was so real. I mean, I could feel his breath on me.
+WILL	m	I'm sorry.
+JULIE	f	I thought I was over the dreams for good. I really did. I hadn't had one for months.
+WILL	m	It just takes time, Julie. It's gonna get better.
+JULIE	f	It can't get worse. I mean, it's not like this was the first time I freaked out in class. I hardly ever get a full night's sleep, my grades suck, I'm this close from being thrown out of school.
+JULIE	f	It was one year ago...
+WILL	m	It's...the anniversary. That's what's going on...Take it easy on yourself.
+JULIE	f	I'm trying. I really am...Sometimes I don't even know why I came up here in the first place.
+WILL	m	To get out of Southport?
+JULIE	f	Right. Now I remember. Are you getting out of town on the fourth?
+WILL	m	Nah. I'll probably just be here studying for finals. The joys of summer school... Are you okay?
+JULIE	f	I'm okay.
+WILL	m	Are you sure?
+JULIE	f	Thanks for the talk, Will. You're good to me.
+WILL	m	Um...Okay. Bye.
+JULIE	f	Oh, my god, Ray. You scared me.
+RAY	m	I got in early. I was excited... Who was that guy?
+JULIE	f	Oh, that's Will. He's a friend. You'd like him.
+RAY	m	Yeah.
+JULIE	f	Ray, we're just friend.
+RAY	m	Every guy in history who tried to pick up a girl did the good-friend thing first.
+JULIE	f	Why are you being like this?
+RAY	m	Hey, I'm sorry. You're right. Are you ready to go? I've got the old truck. You know the drill...Crab boil at Ollie's. Croaker Queen Pageant...It's only small-town fun, but it's still nice. People really miss you. I miss you.
+JULIE	f	Ray, I can't...
+RAY	m	Can't what?
+JULIE	f	I just feel like some part of me hasn't healed up enough to go back. Like some critical piece is missing. Please understand...
+RAY	m	I understand something.
+JULIE	f	It's not like that. It's not you. It's me. My head. I want to go back. I want to be with you. I want to be fine. I want everything to be like it used to be. It just isn't. Hey, why don't you stay up here? They have fireworks over the river. And...there's a million things to do.
+RAY	m	I have to work, Julie. My boat's in Southport, remember? But, I get it. You need your space from Craokerland. And maybe from me, too. You know where to find me.
+JULIE	f	Ray? Ray? At least come up for a while.
+RAY	m	It's okay. I'm just gonna go.
+JULIE	f	Ray, I'm sorry. I didn't mean... I'm just scared...that's all.
+JULIE	f	Okay. Okay. Face your fears... There's nothing... Quiet.
+KARLA	f	I thought you were out of town!
+JULIE	f	What are you doing in my closet?
+KARLA	f	I thought you were out of town!
+JULIE	f	What are you doing in my closet?
+KARLA	f	i just wanted your black pants, but I'm not ready to die for them!
+JULIE	f	That was heart attack time, Karla.
+KARLA	f	No. When I put these skinny pants on my body...Now, that's heart attack time. And we're going to put away the utensils and you're coming with me.
+JULIE	f	I'm not going anywhere. I'm fat, ugly, and depressed.
+KARLA	f	Yeah, right -- whatever.
+JULIE	f	I think I just really hurt Ray's feelings.
+KARLA	f	Listen to me, Julie. Ray's a great guy, nothing against old Ray, but he's so...Ray. I mean, he lives in Southport. Will's a nice guy, too, and he lives right down the street.
+JULIE	f	There's nothing between Will and me.
+KARLA	f	Yet. Nothing yet. What we gotta do is keep moving. No time to mope. I'm working at the club tonight. And you, dancing queen, are coming with me. 
+JULIE	f	No I'm not.
+KARLA	f	Fine, then be fat, ugly, and depressed.
+TYRELL	m	You know what I want to do to you ...right now, don't you? There's gotta be somewhere we can be alone.
+KARLA	f	I don't think so. It's pretty crowded.
+TYRELL	m	Just for a minute, baby. I got something I wanna tell you.
+KARLA	f	If you can say all you gotta say in a minute then I don't wanna hear it.
+TYRELL	m	I'll talk real slow.
+KARLA	f	Ask her to dance. Go on.
+TYRELL	m	You're the most beautiful woman in the bar tonight, Jules.
+JULIE	f	Tyrell, you are an unstoppable force of nature.
+TYRELL	m	That's right. It's how the species survives. You'll never convince me otherwise. Wanna dance?
+KARLA	f	Say yes.
+JULIE	f	No.
+KARLA	f	No means yes.
+JULIE	f	Tyrell, I appreciate it, but have you seen my people dance? We make the mouth face, we move the fingers --
+TYRELL	m	Worse comes to worse, you can stand there and watch me.
+KARLA	f	Come on, I'll take a break and we'll all dance.
+JULIE	f	Karla! Did you tell him I'd be here?
+KARLA	f	Nope. I told him that you absolutely, positively would not be here at this bar between ten o'clock and eleven o'clock tonight. And then he came anyway.
+WILL	m	This was not my idea.
+JULIE	f	What?
+WILL	m	I said, this...Do you want a drink?
+TYRELL	m	Where I come from, you want to snatch the goodies, you got to at least talk to them first.
+WILL	m	How about a drink?
+WILL	m	You okay? Hey Julie?
+JULIE	f	Ben...
+SLICKER GUY	m	Hye, baby. You following me up here? Well, all right.
+JULIE	f	That could break the machine.
+KARLA	f	Julie, people who end up making rules like that end up beating their kids with wire hangers. It's a fact. It's Tyrell.
+JULIE	f	The number's unlisted...
+KARLA	f	Would you relax? We've been dating three months. He ain't stalking your butt.
+JULIE	f	Okay, okay. You're right.
+KARLA	f	I know it, and it feels good. Hi, Ty.
+MARK	m	This is Mark in the Morning for Magic 96.7 Radio Station! Who am I speaking with?
+KARLA	f	Mark in the Morning! Magic 96.7! Oh my God! I'm Karla. Karla Wilson. Jules, it's Mark in the Morning.
+MARK	m	Well, Karla, what're you doin' at home over the long fourth weekend?
+KARLA	f	Well, I'm in school and --
+MARK	m	How'd you like to win a Magic 96.7 Quicky Getaway?
+KARLA	f	Yes!
+MARK	m	Good, then I hope you remember your geography, Karla, because all you have to do to win is tell me the capital of Brazil.
+KARLA	f	Brazil? Um... You don't know?! You have to know. You know everything...
+MARK	m	C'mon, Karla, one easy question, one great getaway!
+JULIE	f	...South America...Carnival...
+MARK	m	Karla, we need an answer. No looking it up.
+KARLA	f	Still here...thinking... You mean Brazil, the country?
+MARK	m	Okay, Karla, five seconds. Five...Four... Three...Two...
+KARLA	f	Rio de Janeiro!
+MARK	m	Oh, no...Did you say Rio?
+KARLA	f	No. Yes?
+MARK	m	You just won Magic 96.7's Quickie Getaway...a trip for four to Tower Bay Island in the fabulous Bahamas.
+KARLA	f	Waaaaahhhhhhhhhh!
+MARK	m	We'll call you back with all the details...So what's your favorite radio station?
+KARLA AND JULIE	f	Magic 96.7!
+KARLA	f	I won. I won...I won, I won, I won. Now, let's see...There's Tyrell, that's one. And, there's my parents ...And I got some cousins. Okay, Julie, you can come, but Mark said four tickets. That means you gotta get yourself a date.
+DAVE	m	Hey, Ray...phone!
+JULIE	f	Hi.
+RAY	m	Hey. I'm really glad you called... I'm sorry.
+JULIE	f	No, you don't have to be sorry. I'm the one --
+RAY	m	No, I shouldn't have left so fast... I was just...
+JULIE	f	It's okay.
+DAVE	m	Julie, I love you. I know I'm only a humble fish, but if you really look at it, you're a fish, too. Oh, Ray, you're right...Do me like a snapper. Hey, something smells like fish...
+JULIE	f	Ray, Karla won a trip to the Bahamas! An island called Tower Bay. And she wants us to come with her.
+RAY	m	What? The Bahamas? You're kidding.
+JULIE	f	We'd have a long weekend just to sit in the sun, drink fruity drinks, and swim, and... You know...
+RAY	m	This weekend?
+RAY	m	You'll go away with you're college friends, but you won't go away with me?
+DAVE	m	Idiot. Idiot. Idiot.
+JULIE	f	It's not you, it's Southport. And it's the Bahamas! And it's free!
+KARLA	f	You gotta sell his butt on the Bahamas?
+JULIE	f	Ray, come on. I want us to be together.
+RAY	m	Julie, we're working a big run up here. It's been crazy. We probably have to go out again tonight. I don't think I can do it.
+JULIE	f	Will you try...for me, please?
+RAY	m	Okay, I'll try. But, listen... If I don't make it up, then you go ahead and have a great time.
+JULIE	f	Ray...please try. I really miss you. Okay. Bye.
+KARLA	f	That boy has got fish on the brain. Hey, cheer up, Charlie. We're going to the Bahamas. Bahama Mama, yeah...
+DAVE	m	Man, what is your problem? We haven't caught anything for days. Pull the big ugly stick out of your butt. She asked you to go to the Bahamas! Man, you gotta go. We'll both drive up. I got friends I can see up there.
+RAY	m	Stupid. Stupid.
+DAVE	m	Stupid. What were you thinkng?
+RAY	m	You wanna see what I've been thinking?
+DAVE	m	Jeez, Ray, fourth and forty, throw the bomb.
+RAY	m	I should go up there. I should call her back, tell her I'm coming.
+DAVE	m	No way, man. Surprise her. She'll be psyched.
+DAVE	m	Man, I love AM radio. You got right-wing conspiracy, tips for pregnant womem, Single-A baseball games, and real country music... None of that new crap... "...Mamas, don't let your babies grow up to be cowboys, don't let 'em pick guitars and drive them old trucks. Let 'em be doctors and lawyers and such."
+DAVE	m	I don't know, man. Maybe we should keep going, find a phone --
+RAY	m	No.
+DAVE	m	The guy looks dead.
+RAY	m	Maybe not.
+RAY	m	Hey! Buddy, what's up?
+RAY	m	Hey, can you hear me?
+RAY	m	DAVE!
+RAY	m	...Dave?
+KARLA	f	Girl, it's gettin' down to the wire.
+JULIE	f	He's not coming. I thought he was just...
+KARLA	f	Julie, you left four messages... Four.
+JULIE	f	But, he said he'd try.
+KARLA	f	He said he'd try. Try is like maybe. Try is nothing!
+JULIE	f	He does work hard.
+KARLA	f	Work hard, huh? He's breaking your heart just because he can. And I don't want to have to say I told you so...
+JULIE	f	Then, don't.
+TYRELL	m	Hey, baby, we gonna get tropical or we gonna get tropical?
+JULIE	f	Oh!
+KARLA	f	Hey, sorry... He's my friend, too. And that ticket is not going to waste.
+WILL	m	Julie, is everything cool? Karla said...
+KARLA	f	I said we start having fun. And that means now.
+TYRELL	m	Is there a problem here?
+KARLA	f	Where there's a Will, there's a way. Come on.
+JULIE	f	You know what? This rocks. We're going to the Bahamas!
+KARLA	f	We goin' Bahamas, I'm Ty's Bahama Mama. We goin' Bahamas...
+JULIE	f	Just take deep breaths and think of something happy from childhood.
+WILL	m	What if I don't have anything happy from childhood...Sorry, I can't relax going five hundred miles an hour, or four thousand, four hundred feet a minute... Which is over seven hundred feet a second. Imagine hitting something at seven hundred feet a second.
+JULIE	f	Deep breaths --
+WILL	m	Fumes build up in the fuel tanks. You can by surface-to-air missiles over the internet. Planes use O-rings...which freeze in tap water. Planes fall from the sky for practically no reason at all.
+JULIE	f	You've got a better chance of getting hit by lightning.
+WILL	m	Right. Planes get hit by lightning. They get hit by meteors. They hit other planes.
+TYRELL	m	Something is gonna hit your butt if you don't quit complaining.
+KARLA	f	Honey, some folks just can't fly.
+JULIE	f	I'm the King of the World.
+KARLA	f	No, I'm the King of the World.
+KARLA	f	Remind me to study real hard so someday this is normal and all that back there is somethin' I do for a weekend once every ten years.
+JULIE	f	I will, and you remind me of the same thing.
+WILL	m	You just gotta breathe.
+TYRELL	m	Can't talk right now.
+WILL	m	See, it's not a macho thing. It's about equilibrium in your inner ear. You could've used a patch, but it's too late now. Get used to it. Some folks just can't sail.
+PAULSEN	m	That's too bad, too, because it's the only way on or off the island. Unless you have an accident. And then they call the Coast Guard.
+JULIE	f	It's pretty remote here.
+PAULSEN	m	Yep. That's what the tourists pay for -- sun, sea, and solitude.
+TYRELL	m	Are we there yet?
+PAULSEN	m	Few more minutes.
+TYRELL	m	I feel like I'm still on that thing.
+DERRICK	m	That way for a complimentary Planter's Punch to get you readjusted.
+TYRELL	m	I can get used to this.
+DERRICK	m	Welcome, Fair Princess, to Tower Bay. I'm Derrick. At your service for the duration of your stay.
+PAULSEN	m	I'm at your service, Princess.
+DERRICK	m	Season's over old man. So I gotta work fast.
+PAULSEN	m	If Marine Radio's right about the weather, you're already out of time.
+KARLA	f	Check it out.
+TYRELL	m	Yes, ma'am.
+RASTA VOICE	m	Anybudorsomethin'?
+TITUS	m	My brother, can I interest you in the islands finest ganja?
+WILL	m	Hey, Tyrell, we found you brother.
+TYRELL	m	Not possible.
+TITUS	m	Who be wantin' the kind, the uber- sticky, the Bwana, The depth-charge, the Up-All-Night-Laughing-With-Your- Friends? Who wants it? 'Cause Titus got it.
+WILL	m	No, thanks.
+TITUS	m	Come on, man. Everybody wants something. How 'bout you, ladies? Lovely ladies. Something I can do for you?
+KARLA	f	Take a bath, maybe.
+TITUS	m	That's cold, but if that's how you want it. Anybudorsomethin' you come and see me.
+KARLA	f	Hello? Hello?
+JULIE	f	Where is everyone? I'll ask --
+TYRELL	m	I'll scare somebody up. Whoa!
+BROOKS	m	What can I do for you?
+KARLA	f	Checking in...Karla Wilson.
+BROOKS	m	Ah, yes. Roll out the red carpet. Our contest winners are here at last.
+TYRELL	m	Nice dog.
+BROOKS	m	Not really. I've found peices of guys like you in his stool.
+TYRELL	m	What's your problem, buddy?
+BROOKS	m	I don't have a problem in the world.
+JULIE	f	It sure is a beautiful old hotel.
+BROOKS	m	Built in 1948 for a member of the Rockefeller clan. The tile work was imported from Spain. A lot of history in these walls...Judy Garland stayed here...Hemmingway fished for marlin right off that dock --
+TYRELL	m	Okay, we get it...It's old.
+BROOKS	m	It'll outlive you, I'm sure. Wilson comma Karla... Oh --
+KARLA	f	Oh, what?
+BROOKS	m	You're in 201 and 202.
+KARLA	f	Is that bad?
+BROOKS	m	Not at all. Those are our honeymoon suites.
+JULIE	f	Your what?
+BROOKS	m	Honeymoon suites. I take it you kids haven't exchanged vows, yet?
+JULIE	f	We haven't exchanged anything.
+KARLA	f	Julie, we're talkin' suites! That'll be just fine with us.
+BROOKS	m	And, while you're here, our marginally trained, off-season staff of five will attend to your every need.
+KARLA	f	Wait...Did you say off-season?
+BROOKS	m	July fourth weekend. Storm season starts today. The clouds roll in like clockwork.
+JULIE	f	Storm season?
+BROOKS	m	It's our version of winter. 201 and 202. There's Scrabble and Parcheesi in the lobby. Enjoy.
+KARLA	f	Ain't nothin' free in this world. Everybody says it, and it's true. I wanted you all to have a good trip.
+TYRELL	m	We will, baby...All this means is we got the whole island to ourselves.
+WILL	m	And it's been blue skies all day. It might be perfect all weekend.
+JULIE	f	It beets being on the mainland.
+KARLA	f	Oooh, the mainland --
+TYRELL	m	Somebody's gone tropical on us, baby. Tropical!
+ESTES	m	201 and 202...Who put you in...? Don't use these much --
+JULIE	f	Why's that?
+ESTES	m	No real reason. Pretty fancy rooms for kids your age.
+KARLA	f	We won a competition.
+ESTES	m	Oh, yeah? What you have to do?
+TYRELL	m	Guess the capital of Brazil --
+KARLA	f	Rio, baby!
+ESTES	m	Ahh, good for you, girl. ...And, where would you like me to put the bags?
+KARLA	f	Their stuff in there... ...and ours in here.
+JULIE	f	Karla! You promised.
+KARLA	f	I also promised Tyrell.
+TYRELL	m	Promised me what, baby? I made all my promises to William. Sweetie, you brought your nightie, didn't you?
+WILL	m	Forward! A girl needs time to make up his mind. Julie, look, if it's cool, I'll sleep on the couch and they can have their own room to practice for that real honeymoon.
+WILL	m	I'll take those.
+ESTES	m	No, I've been doing this since before you were a dream in your father's eye.
+WILL	m	You sure it's okay with you?
+JULIE	f	Sure. It's fine. As long as you don't snore.
+WILL	m	You can toss a shoe at me if it gets out of hand.
+COP	m	He's beaten up pretty bad --
+DOCTOR	m	Yes, but he seemed certain his friend was killed out on the highway by somebody named Ben Willis. He said he has a hook on his hand. He said he was driving a BMW.
+COP	m	There's no body. And there was no other vehical involved. He fell asleep at the wheel...and ran his old truck into a guardrail. He got thrown way the hell down into a ditch. He's damn lucky.
+DOCTOR	m	He suffered a severe head trauma --
+COP	m	Probably once he rests up, it'll all come back to him.
+NURSE	f	That's your number twelve -- Get me some help down here. We got a flatline, room twelve.
+NANCY	f	You guys lost?
+TYRELL	m	Tell me this ain't the bar scene.
+NANCY	f	Wanna drink?
+WILL	m	We didn't get all dressed up for nothing.
+TYRELL	m	Planter's Punch, Singapore Sling, or how about a Mai-Tai?
+NANCY	f	How about some ID? Kidding.
+WILL	m	The guy at the desk said the place would be quiet, not dead.
+NANCY	f	Didn't anyone tell you this is --
+TYRELL	m	The last day of the season. Yeah, we heard.
+WILL	m	So why are you still here?
+NANCY	f	That's none of your business.
+TYRELL	m	What's the matter, boy trouble?
+NANCY	f	Not anymore.
+TYRELL	m	He leave you?
+NANCY	f	No. I shot him. What you want is a Dark and Stormy: Vernon's rum, ginger beer, and a touch of Tabasco. Sailors drink it for luck in the hurricane season, trust me.
+JULIE	f	Am I bad? I mean, he's really great, and he's cute --
+KARLA	f	He's cute...And he's got a crush on you... But...
+JULIE	f	I miss Ray...I tried to call him.
+KARLA	f	Ray made up his own mind...so, you're free to make up yours. For the next foury-eight hours... Your smile is a frown...turned upside down.
+TYRELL	m	Pretty cool bar.
+KARLA	f	They all start to look the same once you've worked in one. Am I right, sister?
+JULIE	f	I'm Julie. This is Karla.
+NANCY	f	Nancy. Welcome to Tower Bay's most happenin' hotspot.
+NANCY	f	Four Dark and Stormies...
+KARLA	f	To a great weekend --
+WILL	m	Yeah, a great weekend. Forget the weather!
+KARLA & JULIE	f	I'll drink to that!
+KARLA	f	So what do you do around here for fun?
+NANCY	f	Make fun of tourists mainly. Or let them make fun of themselves...
+KARLA	f	Karaoke -- perfect.
+JULIE	f	Don't even think about it.
+KARLA	f	Okay, I won't.
+TYRELL	m	Go baby! Go!
+KARLA	f	Oh, this ain't for me, baby, this is for somebody who really needs it. Ah-hah! One single with extra cheese!
+NANCY	f	Everyone thinks their a singer.
+JULIE	f	No way.
+KARLA	f	Yes.
+JULIE	f	No.
+KARLA	f	Yes.
+JULIE	f	Not me...no way...
+WILL	m	Come on, it'll be fun.
+KARLA	f	Ladies and gentlemen, please put your hands together for my friend, my very best friend, Julie James.
+KARLA, TYRELL, & WILL	m	Ju-lie! Ju-lie! Ju-lie!
+JULIE	f	You asked for it. Song number thirty-nine. First I was afraid...I was petrified... I will survive...I will survive...
+WILL	m	Julie? What's wrong?
+JULIE	f	It's...him.
+WILL	m	What do you mean, Julie?
+JULIE	f	He did something to the screen...it, it, said... Nothing. Nothing, I'm sorry...
+KARLA	f	Julie...
+JULIE	f	There's no way...just stop it right now... Closet. Bed. Bathroom. No need to panic.
+JULIE	f	Oh, Will! I'm sorry.
+WILL	m	It's my fault. I shouldn't have...I didn't think...
+JULIE	f	No, no, no. This was really sweet...
+WILL	m	I scared you -- I crossed the line --
+JULIE	f	No -- it's not that. It's...I'm just a little on edge. I'm really sorry.
+WILL	m	Hey, you don't have to appologize to me. I'm the one. I understand. I'm going to take a walk and dry off.
+JULIE	f	Are you sure? I really appreciate it.
+WILL	m	I just really like you and I want you to feel good about everything...You know? I want you to be happy.
+WILL	m	Dork.
+KARLA	f	Tha's it. I've decided. I'm changing my major to finance. And going to Wall Street.
+TYRELL	m	Why?
+KARLA	f	'Cause that's the only way I'm ever gonna be able to afford a big bed like this. Jacuzzi.
+TYRELL	m	Ah, baby, let's stay right here.
+KARLA	f	I spent a hundred bucks on it...even if it's just so you can pull it off.
+TYRELL	m	I like the sound of this.
+DERRICK	m	Damn. I should've brought my pole.
+DERRICK	m	Get lost, you scared me.
+TITUS	m	Fish are all over the water...Come on, let us take a boat out.
+DERRICK	m	Titus, you're so stoned, you'd end up in Spain.
+TITUS	m	That's why you'll come with Titus, mon.
+DERRICK	m	There's a storm comin', Titus. No boats are going out.
+TITUS	m	Storm is what makes it interesting. Thass why all the fish are up. Less hook us a couple big ones.
+DERRICK	m	I got work to do. Take the bake elsewhere.
+TITUS	m	Up-tighteous and self-righteous.
+DERRICK	m	Hello, little sea bass. You're lucky I'm busy or I'd hook you myself.
+KARLA	f	You sure you didn't pick up my hair tie?
+TYRELL	m	Hello?
+KARLA	f	Okay, I just didn't wanna get my hair wet.
+TYRELL	m	Baby, I finally got you alone in this Jacuzzi and I don't wanna be discussin' hair care.
+KARLA	f	Don't you get feisty...
+TYRELL	m	Too late for that. We're miles from anywhere, baby. No one's gonna hear you scream.
+KARLA	f	I used to be a lifeguard...I'd hate to have to blow my whistle.
+TYRELL	m	I'd hate for you to have to blow...your whistle.
+TITUS	m	No water sports after midnight. Hotel policy.
+TYRELL	m	What's the policy on burnin' herb?
+TITUS	m	We got one for that, too. It's don't try until you buy. You don't buy any, you don't get any.
+TYRELL	m	There's ten people on this whole island and they're all gonna end up in this Jacuzzi with us.
+WILL	m	How's the water?
+TYRELL	m	Crowded.
+KARLA	f	Ty!
+WILL	m	Ahh, that feels great.
+KARLA	f	How's Julie?
+WILL	m	Alone. In the room. Got any advise?
+TYRELL	m	Yeah. Find another Jacuzzi.
+KARLA	f	Your not out yet, slugger. You gotta just get back up there and keep swingin'.
+RAY	m	I need an international operator.
+JULIE	f	Will...?
+JULIE	f	Will? Is that you?
+JULIE	f	It's happening again! There's a body!
+WILL	m	What? What are you talking about? Where?
+JULIE	f	It's in my room!
+BROOKS	m	I don't find this at all funny.
+JULIE	f	There was a body! I swear it!
+WILL	m	Julie, you said you were tired. Waybe you were dreaming.
+JULIE	f	I wasn't dreaming.
+BROOKS	m	I knew you people were goining to be trouble. I knew from the first time I laid eyes on you.
+JULIE	f	Listen to me. He's here.
+BROOKS	m	Who? Who is here?
+NANCY	f	What's going on?
+TYRELL	m	Julie thinks there's a dead guy in the closet.
+NANCY	f	Cool.
+TYRELL	m	The rest of us see bathrobes.
+JULIE	f	I am not crazy, Tyrell. He was right there.
+TYRELL	m	Fine. Show me the body.
+KARLA	f	Think about this, Julie. What did you actually see?
+JULIE	f	The dockhand guy. Hanging by his neck from up there.
+BROOKS	m	In the morning we'll talk to Derrick, the "dockhand guy," and put the whole thing to rest. Now, let's slow down on the Dark and Stormies and get some sleep.
+NANCY	f	Don't look at me --
+JULIE	f	I want off this island.
+BROOKS	m	Not possible, I'm afraid. The last ferry left hours ago. And we got a storm coming. There won't be another one for days.
+TYRELL	m	There's a storm coming?
+BROOKS	m	'Tis the season, like I told you. It's a big one.
+JULIE	f	Then I'll call the mainland for a charter.
+BROOKS	m	Phones went down a few minutes ago.
+JULIE	f	It's dead.
+BROOKS	m	Duh. The next couple of days is gonna be rough, but we'll make it.
+KARLA	f	What about a radio?
+BROOKS	m	Sorry. Emergencies only.
+KARLA	f	What the hell would you call this?
+BROOKS	m	I'd call this four spoiled city kids who wouldn't know a hurricane if it blew up their butts. All we can do now is batten down and ride it out. If things get really bad, there's a storm shelter.
+OLGA	f	Housekeeping. Housekeeping.
+MAC	m	Jeez, that's a full carat --
+RAY	m	How much?
+MAC	m	Well, there's some flaws in her...
+RAY	m	How much?
+MAC	m	Don't really have the market for something like this... I can go two...two-fifty.
+RAY	m	Make it three hundred. And throw that in, too.
+MAC	m	Hell, that's worth three, easy. And you got your waiting period.
+RAY	m	I'm not waiting...So give me the gun and keep the ring.
+MAC	m	Fine, buddy.
+RAY	m	Is it loaded? Load it.
+TYRELL	m	This ain't the romantic weekend I had in mind.
+KARLA	f	You get any sleep at all?
+JULIE	f	Some.
+TYRELL	m	Oh, look. Another day in paradise with Julie-your-tour-director...Miss Psychotic Episode.
+KARLA	f	Hey --
+TYRELL	m	See any dead bodies out there? Any fresh kill? How 'bout Freddy, Jason?
+WILL	m	Leave her alone.
+TYRELL	m	I'm just saying what all of you are thinking. It's bad enough gettin' rained out without having to hold her hand the whole time.
+WILL	m	You don't have to be a jerk.
+JULIE	f	It's okay...He doesn't believe me. That's his right. I'm starting to think I'm crazy, too.
+KARLA	f	Hey, slow down, turn off the little motor up in there...What do you say we go to the gym and work off a little stress?
+JULIE	f	Nice move.
+KARLA	f	I'll be givin' your fisherman some of that and see how he likes it.
+TYRELL	m	Where is everybody?
+WILL	m	They're all dead...Dead, I tell you. Ahhhh, we're all deaaaddddd. Tyrellll, joinnnn usss.
+TYRELL	m	Shut up.
+WILL	m	Hello? There's nobody here, Tyrell.
+TYRELL	m	They're around...They just don't care about us 'cause we're the contest winners. Let's go find Stoner Boy...Make his lazy butt hook us up with fishing poles or Ping-Pong paddles or something.
+WILL	m	You know, the greenhouse effect has caused the gulf stream to shift and almost every meteorological expert expects a dramatic increase in tropical depression --
+TYRELL	m	Hey -- shut up, okay?
+WILL	m	I don't like to fish.
+TYRELL	m	You coming?
+KARLA	f	Come on, Vampira. I got just the thing for you.
+JULIE	f	Cancer in a box.
+KARLA	f	No, this is the safe sun. It's better than a day at the beach. Come on, a little photosynthesis and you'll feel like a new --
+JULIE	f	Houseplant.
+KARLA	f	Exactly.
+JULIE	f	Karla!
+KARLA	f	Just kidding.
+TYRELL	m	Hey, Bong Marley. Come here.
+TYRELL	m	I'm gonna kill you, Bong Boy.
+WILL	m	Come on. Jump. I've got you.
+TYRELL	m	Thanks. I gotta find me a pool boy.
+KARLA	f	Gee, Karla...That'll break the machine... Damn. How many pairs you got in there?
+JULIE	f	You say something? Karla! Somebody? Hey, this isn't funny.
+TYRELL	m	Take this.
+WILL	m	And do what with it?
+TYRELL	m	Julienne of pool boy.
+TYRELL	m	Hey, pool boy.
+TYRELL	m	What the -- ?
+WILL	m	That's chlorine and muriatic acid. Put the two together and you get cyanide.
+TYRELL	m	Cyanide? Like poison gas? You mean, somebody really killed him...Omigod. Think...Think...
+TYRELL	m	Get back --
+KARLA	f	Julie!
+JULIE	f	Oh, God, get me out. Get me out.
+TYRELL	m	Hang on...
+JULIE	f	I'm not crazy...I'm not crazy. He's here... We've got to get to the radio and call for help.
+KARLA	f	I think we can classify this as an emergency situation.
+TYRELL	m	Yo, Brooks, listen up -- Whoa --
+TYRELL	m	Somebody...is a sick, fingerpainting psycho.
+KARLA	f	We gotta get out of here. Now.
+WILL	m	Julie!
+KARLA	f	There were boats here? Refresh my memory, there were boats...
+TYRELL	m	They were cut loose.
+WILL	m	Julie? Wanna tell us what is going on here?
+JULIE	f	We're all going to die. He's going to kill us one by one.
+TYRELL	m	Who?
+JULIE	f	Ben Willis.
+KARLA	f	Oh, stop it! He's dead. You killed him. Now, get over it. We gotta think here.
+JULIE	f	They never found the body. Two summers ago. We lied to the authorities. We hit Ben Willis with our car. Ray, me, Barry, and Helen ...We threw the body in the water to cover it up --
+KARLA	f	Julie...
+JULIE	f	Only he wasn't dead. He killed Barry and Helen last July Fourth. I thought Ray and I killed him on the boat, but we didn't and now he's back to finish up the job.
+TYRELL	m	We're on an island, miles from anywhere. I don't give a crap about you're fisherman. There's dead bodies pilling up everywhere and there's one guy missing --
+WILL	m	The porter...what's his name? Old Asbestos --
+TYRELL	m	Estes! That's exactly who it is. That old guy knows something. We can sit here and wait for him to pick us off or we can go find him first.
+KARLA	f	Julie, we have to do something.
+JULIE	f	It's not him.
+OLD LADY	m	People live healthy in Miami. It's the future down there every day of the week...The future.
+RAY	m	I'll keep that in mind.
+TYRELL	m	Yo, Freak Boy --
+WILL	m	He's not here.
+TYRELL	m	We're gonna find some weird crap in here.
+JULIE	f	Voodoo.
+TYRELL	m	I told you.
+TYRELL	m	Missing a hair tie?
+TYRELL	m	We found our guy.
+TYRELL	m	We gotta find flashlights, torches, guns if they got 'em, anything that'll help.
+TYRELL	m	Wait. Maybe he's down there collecting the body parts.
+WILL	m	Let's go.
+WILL	m	We'll only be a second, okay?
+TYRELL	m	Yeah, wait right here, it's the safest place.
+KARLA	f	Julie, where are you going?
+WILL/ESTES/TYRELL	?	Let go. I got him. That's me. It's him. We got you...
+JULIE	f	Leave him alone.
+TYRELL	m	Here's youre killer --
+ESTES	m	No --
+WILL	m	We found your voodoo crap --
+ESTES	m	No -- I found the bodies this morning...I tried to use the radio, but he already destroyed it.
+JULIE	f	Let him go. I believe him.
+KARLA	f	Come on, Julie. You saw his room.
+ESTES	m	I haven't hurt anyone...I stole those things to help you. To protect you.
+JULIE	f	He's telling the truth. He could've easily killed me. He didn't. Look, we didn't even answer the radio question right...This whole thing was a setup.
+KARLA	f	What do you mean?
+JULIE	f	Rio isn't the capital of Brazil. It was the wrong answer. Sorry, we lose.
+TYRELL	m	You've got all these theories but where is he? Where? Where's your fisherman killer?
+JULIE	f	I don't know.
+TYRELL	m	You never do...The guy at the nightclub, the body in your room last night. Little notes that only mean something to you. How do we even know you're not the one behind this --
+JULIE	f	How do we know you're not?
+ESTES	m	I know who you're talking about. He used to work here at the hotel. And I've seen him around again. Out in the woods by the orchard.
+ESTES	m	I can't remeber his name, but I don't forget a face. I can show you...
+WILL	m	How do we know you're not setting us up?
+ESTES	m	Where else you gonna go, son?
+KARLA	f	I know I don't want to stay in here.
+JULIE	f	We'll be better off in the open. If we stick together, maybe we can kill this creep for good.
+TYRELL	m	Show us.
+PAULSEN	m	What the...
+RAY	m	I need to get to Tower Bay Island.
+PAULSEN	m	We're closed.
+RAY	m	I need to get there, now.
+PAULSEN	m	Did you happen to notice what's going on outside?
+RAY	m	I'm not looking for a weather report, I'm looking for a boat. So which one's yours?
+ESTES	m	He worked here for many years. He had a nice family. A pretty wife and two little ones. A boy and a girl. They'd be about your age, now. One day his wife went missing. Maid found blood all over the honeymoon suite -- Room 201. Eventually, they found her body. Pieces. A leg in the swamp. An arm washed up on Three Mile Beach. And the head they found much later. Careful --
+JULIE	f	Did he do it?
+ESTES	m	People say she was running around on him. People say he caught her in bed with other men. People say a lot of things. He disappeared, taking the two small ones with him. At least they were never found. We're here.
+KARLA	f	Be careful, Julie.
+JULIE	f	I've got to see.
+KARLA	f	...Today's July fourth.
+JULIE	f	I'm not dying on this island, Will. Do you hear me? You want me, Ben Willis? Come and get me. I'm right here. My grave stays empty!
+KARLA	f	Julie, the boats are gone, the phones are down. There's no way off this place.
+JULIE	f	Then, we fight --
+WILL	m	Where'd Estes go?
+TYRELL	m	What is up with that weirdo?
+WILL	m	I'll go find him.
+KARLA	f	Why? He can't help us.
+WILL	m	He's probably the only one who can help us.
+TYRELL	m	I'll come with you.
+KARLA	f	Are you crazy? We're not staying here on our own.
+WILL	m	It's okay. He couldn't have gone far. I'll catch up with you later.
+KARLA	f	Maybe we should just wait here? Hide in a tree?
+TYRELL	m	I'm not hiding up no tree. I'm with her. Let's arm ourselves to the teeth and kick this psycho's butt.
+TYRELL	m	What I need is a gun. Not a steak knife. You gonna clean vegetables? You gonna stir-fry? You need something that'll get his attention.
+KARLA	f	I'm your best friend...You could have told me the truth about what happened. I would've understood.
+JULIE	f	Karla, I just wanted the whole thing to be over. I didn't want to involve anybody else.
+KARLA	f	It's too late for that.
+JULIE	f	I'm so sorry. I brought this on everyone. It's my fault.
+TYRELL	m	Forget that. You didn't do nothing. This fisherman's a piece of scum. I should've been listening to you... I'm sorry. Now, let's take a look at the pantry.
+KARLA	f	You think that's a good place to hide?
+TYRELL	m	I don't know, but I'm starving.
+WILL	m	Hey Estes. Estes? Where'd you go? You abandoning us? How come you didn't tell us you had a boat?
+ESTES	m	This has to end. Now.
+WILL	m	What -- ?
+TYRELL	m	Steel door...Food...Perfect.
+TYRELL	m	It's just a --
+KARLA	f	Ty!
+TYRELL	m	Don't kill me --
+JULIE	f	Wait, it's Nancy --
+NANCY	f	I'm sorry, but you could've been the one doing all of this --
+TYRELL	m	And so could you -- crazy fool.
+NANCY	f	You stumbled into my hiding place.
+TYRELL	m	Must have missed the sign.
+NANCY	f	Excuse me, but this island didn't have a murder rate until you people showed up. I've never seen a dead body before.
+JULIE	f	Get used to it.
+NANCY	f	Who's doing this?
+TYRELL	m	Don't even get her started...It's a long, long story and you probably wouldn't believe a word of it. I mean, all I know for sure is this is the worst vacation of my life... I'm tired, and I'm hungry, and I personally haven't seen one damn psycho killer...
+RAY	m	Come in...This is Summer Breeze requesting emergency assistance for Tower Bay island. I repeat...This is Summer Breeze...
+NANCY	f	I know where we can hide.
+NANCY	f	Give me a boost up --
+JULIE	f	There's no way to lock it.
+KARLA	f	What do we do?
+NANCY	f	There's no way to grip this thing.
+NANCY	f	Watch your step...
+BEN	m	You'd be amazed by what you'd see. My wife with every man on the island, for example. And you, sexy...I loved watching you.
+JULIE	f	You sick freak.
+KARLA	f	Oh, god, no --
+JULIE	f	Karla!
+KARLA	f	Oww...
+KARLA	f	It's locked!
+NANCY	f	It's gotta be one of these.
+JULIE	f	He's inside.
+KARLA	f	Please! Hurry!
+JULIE	f	Come on...
+KARLA	f	Hurry!
+JULIE	f	Nancy...
+NANCY	f	It's jammed!
+KARLA	f	Come on!!
+JULIE	f	No way!!
+JULIE	f	Move!
+JULIE	f	Come on, gimme a shot --
+KARLA	f	Julie, come on.
+NANCY	f	It's over there.
+KARLA	f	I don't know...
+JULIE	f	Come on, you can make it.
+NANCY	f	There's a light somewhere.
+KARLA	f	Julie?
+JULIE	f	I'm right here. Grab my hand.
+NANCY	f	This place has emergency power. Just ease you way down the stairs and I'll find the light.
+JULIE	f	Okay. I'm at the bottom. Karla, just get my hand.
+KARLA	f	I'm holding your hand!
+JULIE	f	No, you're not.
+KARLA	f	...Nancy?
+JULIE	f	All right --
+WILL	m	It's you guys, thank god. Is everyone okay?
+KARLA	f	Help's here. Help's here.
+WILL	m	Come on. We're gonna be okay.
+JULIE	f	Did you get help? What happened?
+WILL	m	Estes came after me with a gaffing hook.
+JULIE	f	He's in it with Willis?
+WILL	m	I guess so.
+JULIE	f	Your stomach, you're hurt --
+WILL	m	When I was coming back I saw your slicker friend looking for you guys down by the water. Let's hurry and get inside...
+JULIE	f	Oh, my god, you're bleeding to death. We need a first-aid kit.
+NANCY	f	I saw one in the lobby. I'll come with you.
+WILL	m	You'll be okay. It's over.
+JULIE	f	Will, just hold on. We'll get you fixed up.
+NANCY	f	Look up there. I'll look over here.
+JULIE	f	You've got blood everywhere, but I can't find the wound.
+WILL	m	That's because it's not my blood. It's time you woke up, Julie.
+ESTES	m	Will...He's in on it. He's --
+NANCY	f	Help me.
+KARLA	f	Come on, come on.
+WILL	m	Look at the bright side, Jules. We finally get to spend some quality time together.
+JULIE	f	Why are you doing this to me?
+WILL	m	Me, me, me. It's always about you. I'm having bad dreams. I can't sleep. I'm not doing well in school. I'm having trouble with my boyfriend.
+JULIE	f	I trusted you.
+WILL	m	We had a connection, didn't we? I can tell you one thing, though. Ray didn't trust me. He was right. He's dead, but he was right. What'd you have to do that for?
+JULIE	f	...Why?
+WILL	m	Why? Come on, Julie. Think. You'll get it. Will Benson -- Ben's son. Hi, Dad.
+JULIE	f	OMIGOD --
+BEN	m	That's my boy.
+JULIE	f	No, no, no --
+BEN	m	Shush, now. No more screaming...No more running. Time to die. Let go of her! Now!
+WILL	m	You gotta be kiddin' me.
+BEN	m	What're you gonna do, boy? Call us names?
+RAY	m	Let her go. Now.
+BEN	m	Think about it, boy. You're no killer. That's my job.
+RAY	m	Stop right there.
+BEN	m	You don't have it in you.
+WILL	m	We haven't missed you down here, Ray boy. I got to know Julie real well. Think of all the things I'm gonna do to her. Dad, finish him.
+BEN	m	Gonna blind you first.
+JULIE	f	Just...Die.
+BEN	m	You can't kill me. I'll always be with you.
+KARLA	f	Oh, god, it's you --
+JULIE	f	You're okay. Thank god.
+KARLA	f	Is he? You know, it's true what they say about package vacations...You get what you pay for. Now, how about we get off this piece of crap island.
+JULIE	f	We don't have to tell anyone it rained the whole time. It can just be our little secret.
+JULIE	f	Ray...what are you doing?
+RAY	m	Oh...it's not working right. You're home early. Did I scare you?
+JULIE	f	Never do that again.
+RAY	m	Hey -- I didn't know you were here. It's okay. We got the refrigerator in. Come see.
+JULIE	f	I love it here.
+RAY	m	It's gonna be great.
+RAY	m	Checking the locks again?
+JULIE	f	You know me to well.
+JULIE	f	What is my problem?
+

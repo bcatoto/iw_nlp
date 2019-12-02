@@ -2,21 +2,23 @@
 
 from sys import argv
 import os
+import config
 from classes import Movie, Character
-from helper import clear_dir
+from helper import clear_dir, read_folder_dict
 
-SRCFOL = '../1_cleaned_data'
+CORNELL_SRCFOL = '../1_cleaned_data/cornell'
+IMSDB_SRCFOL = '../1_cleaned_data/imsdb'
 DESTFOL = '../2_parsed_data'
 
 #-------------------------------------------------------------------------------
 
 def read_data(movies, characters, females, males, unknowns):
 
-    inMovies = open('%s/1_titles_clean.txt' % (SRCFOL), mode='r',
+    inMovies = open('%s/1_titles_clean.txt' % (CORNELL_SRCFOL), mode='r',
         encoding='ISO-8859-1')
-    inChars = open('%s/3_characters_gendered_genderize.txt' % (SRCFOL),
+    inChars = open('%s/3_characters_gendered_genderize.txt' % (CORNELL_SRCFOL),
         mode='r', encoding='ISO-8859-1')
-    inLines = open('%s/1_lines_clean.txt' % (SRCFOL), mode='r',
+    inLines = open('%s/1_lines_clean.txt' % (CORNELL_SRCFOL), mode='r',
         encoding='ISO-8859-1')
 
     # Stores movie metadata
@@ -80,12 +82,11 @@ def read_data(movies, characters, females, males, unknowns):
 
 #-------------------------------------------------------------------------------
 
-def main():
-
+def cornell():
     # Creates year folders if they don't exist; clears them if they do
-    for year in range(1975, 2006):
-        clear_dir(DESTFOL, 'fem', year)
-        clear_dir(DESTFOL, 'male', year)
+    for year in range(1975, 2016):
+        clear_dir('%s/fem/%d' % (DESTFOL, year))
+        clear_dir('%s/male/%d' % (DESTFOL, year))
 
     movies = []
     characters = []
@@ -139,6 +140,7 @@ def main():
         unkWords += unk.word_count()
 
     print('----------------------------------------')
+    print('CORNELL MOVIE DIALOG DATABASE:')
     print('NUMBER OF CHARACTERS')
     print('\tMale:\t\t%d' % (len(males)))
     print('\tFemale:\t\t%d' % (len(females)))
@@ -155,6 +157,52 @@ def main():
     print('\tMale:\t\t%d' % (maleWords))
     print('\tFemale:\t\t%d' % (femWords))
     print('\tUnknown:\t%d' % (unkWords))
+
+#-------------------------------------------------------------------------------
+
+def imsdb():
+    for year in range(1975, 2016):
+        print('Parsing movies in %d...' % (year))
+
+        movies = read_folder_dict('%s/%d' % (IMSDB_SRCFOL, year), year)
+
+        for movie in movies:
+            characters = {}
+            title = movie['title']
+            lines = movie['text'].split('\n')
+
+            outFem = open('%s/fem/%d/%s' % (DESTFOL, year, title),
+                mode='w', encoding='ISO-8859-1')
+            outMale = open('%s/male/%d/%s' % (DESTFOL, year, title),
+                mode='w', encoding='ISO-8859-1')
+
+            for line in lines:
+                fields = line.split('\t')
+
+                if len(fields) < 3:
+                    continue
+
+                gender = fields[1]
+
+                if gender == 'f':
+                    outFem.write(fields[2] + ' ')
+                elif gender == 'm':
+                    outMale.write(fields[2] + ' ')
+
+            outFem.close()
+            outMale.close()
+
+            print('Finished %s...' % (title))
+        print('----------------------------------------')
+
+#-------------------------------------------------------------------------------
+
+def main():
+    if 'cornell' in argv:
+        cornell()
+
+    if 'imsdb' in argv:
+        imsdb()
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,850 @@
+JACK	m	(to the townsfolk) Hello. Hello. Good evening, ma'am. Ma'am?
+JACK	m	Oh, ah, excuse me, can you tell me where I am?
+JACK	m	Hello! Hello!
+NORTH	m	Yes! Guardians Screening Script 9/6/12 Avid 4.
+NORTH	m	Ah, finally!
+YETI	m	Arghbal...
+NORTH	m	Ach!
+NORTH	m	How many times have I told you to knock?
+YETI	m	Warga blarghgha!
+NORTH	m	What...? The Globe?
+NORTH	m	Shoo with your pointy heads. Why are you always under boot? Guardians Screening Script 9/6/12 Avid 5.
+NORTH	m	What is this?
+NORTH	m	Have you checked the axis? Is rotation balanced?
+YETI	m	Wardle bawddrel.
+NORTH	m	Can it be? (then calls off) Dingle!
+NORTH	m	Make preparations! We are going to have company. Des Moines, we've got a cuspid at 23 Maple. Head out!
+TOOTH	f	It's her first tooth. Have you ever seen a more adorable lateral incisor in all of your life?! Look how she flossed!
+BUNNYMUND	?	Ah, it's freezing.
+BUNNYMUND	?	I can't feel my feet! I can't feel my feet!
+NORTH	m	Sandy, thank you for coming.
+NORTH	m	I know, I know, but I obviously wouldn't have called you all here unless it was serious.
+NORTH	m	The Boogie Man was here - at the Pole.
+TOOTH	f	Pitch? Pitch Black? Here?!
+NORTH	m	Yes! There was black sand covering the globe.
+BUNNYMUND	?	What, what...what do you mean black sand?
+NORTH	m	And then a shadow!
+BUNNYMUND	?	Hold on, hold on, I thought you said you saw Pitch.
+NORTH	m	Well, ah, not exactly... Guardians Screening Script 9/6/12 Avid 10.
+BUNNYMUND	?	Not exactly? Can you believe this guy?
+BUNNYMUND	?	Yeah, you said it, Sandy.
+NORTH	m	Look, he is up to something very bad. I feel it, in my belly.
+BUNNYMUND	?	(his eyes narrow) Hang on, hang on, you mean to say, you summoned me here THREE DAYS BEFORE EASTER - because of your belly? Mate, if I did this to you three days before Christmas--
+TOOTH	f	(to her fairies) Argentina. Priority alert! A batch of bicuspids in Buenos Aires.
+NORTH	m	Please. Bunny. Easter is not Christmas.
+BUNNYMUND	?	Here we go... North, I, I don't have time for this. I've still got two million eggs to finish up.
+BUNNYMUND	?	Look, mate, I'm dealing with perishables. Right. You've got all year to prepare.
+TOOTH	f	(to her fairies) Pittsburg, boy eight, two molars. Saltwater taffy.
+NORTH	m	Why are rabbits always so nervous.
+BUNNYMUND	?	And why are you always such a blowhard!
+NORTH	m	(turning his attention) Tooth! Can't you see we're trying to argue.
+TOOTH	f	Sorry, not all of us get to work one night a year. Am I right, Sandy?
+TOOTH	f	(to her fairies) San Diego, sector two! Five incisors, a bicuspid and a really loose molar on stand-by. Guardians Screening Script 9/6/12 Avid 12.
+BUNNYMUND	?	Come on, mate, Pitch went out with the dark ages. We made sure of that - remember?
+NORTH	m	Aah! Man in Moon! Sandy, why didn't you say something?
+NORTH	m	(to Man in Moon) It's been a long time old friend! What is big news?
+BUNNYMUND	?	It is Pitch.
+NORTH	m	(back up to the moon) Manny...what must we do? Guardians Screening Script 9/6/12 Avid 13.
+TOOTH	f	Ah, guys, you know what this means?
+NORTH	m	He's choosing a new Guardian.
+BUNNYMUND	?	What?! Why?
+NORTH	m	Must be big deal! Manny thinks we need help!
+BUNNYMUND	?	Since when do we need help?!
+TOOTH	f	I wonder who it's gonna be?
+TOOTH	f	Maybe the Leprechaun?
+BUNNYMUND	?	Please not the groundhog, please not the groundhog.
+NORTH	m	Jack Frost.
+BUNNYMUND	?	Ah, I take it back! The Groundhog's fine! Guardians Screening Script 9/6/12 Avid 14.
+TOOTH	f	(caught admiring Jack) Well, ah, as long he helps to ah...to protect the children, right?
+BUNNYMUND	?	Jack Frost!? He doesn't care about children! All he does is freeze water pipes and mess with my egg hunts. Right? He's an irresponsible, selfish...
+NORTH	m	Guardian.
+BUNNYMUND	?	Jack Frost is many things, but he is not a Guardian.
+RUSSIAN BOY	m	(tongue stuck to frozen
+ICE)	?	Aahhhhh...! Guardians Screening Script 9/6/12 Avid 15.
+JACK	m	Ah, now that, that was fun. Hey wind...
+JACK	m	Take me home!
+JACK	m	Woooooohoooooooooo!
+JACK	m	SNOOOOOWWWW DAAAAYYYYYY!!!
+JAMIE	m	Whoa, whoa.
+JACK	m	Huh, that looks interesting. Good book?
+JACK	m	You're welcome!
+JAMIE	m	(goes running after them) Hey guys, wait up! Are you guys coming to the egg hunt Sunday?
+CALEB	m	Yeah, free candy!
+CLAUDE	m	I hope we can find the eggs with all this snow!
+CALEB	m	Stop!
+CLAUDE	m	No, you stop! Guardians Screening Script 9/6/12 Avid 17.
+JAMIE	m	Whoa, it says here that they found Big Foot hair samples and DNA, in Michigan. That's like, super close!
+CLAUDE	m	Here we go again.
+JAMIE	m	You saw the video too Claude, he's out there!
+CALEB	m	That's what you said about aliens.
+CLAUDE	m	And the Easter Bunny.
+JAMIE	m	(grabs his sled) Wow, the Easter Bunny is real!
+JACK	m	Oh he's real alright. Real annoying, real grumpy, and really full of himself.
+CLAUDE	m	Come on, you guys believe anything.
+SOPHIE	f	EASTER BUNNY! HOP-HOP-HOP! Ow!
+JAMIE	m	Mom! Sophie fell again! Guardians Screening Script 9/6/12 Avid 18.
+JAMIE'S MOM	f	You okay, Soph?
+CLAUDE	m	Are we sledding or what?
+JAMIE'S MOM	f	Jamie, hat? We don't want Jack Frost nipping at your nose.
+JAMIE	m	Who's Jack Frost?
+JAMIE'S MOM	f	No one, honey. It's just an expression.
+JACK	m	(smile drops - offended) Hey.
+JACK	m	Who's Jack Frost?
+JAMIE	m	Okay, who threw that? Guardians Screening Script 9/6/12 Avid 19.
+JACK	m	Well, wasn't bigfoot kiddo.
+MONTY	m	Ow!
+PIPPA	f	Jamie Bennett! No fair!
+JAMIE	m	You struck first!
+CLAUDE	m	Oh!
+JACK	m	Free for all!
+JACK	m	Alright, who needs ammo?
+JACK	m	Look at that. Guardians Screening Script 9/6/12 Avid 20.
+CUPCAKE	f	Grrrrrrrrrrrr...
+PIPPA	f	Crud, I hit Cupcake.
+MONTY	m	She hit Cupcake.
+CLAUDE	m	You hit Cupcake?
+CLAUDE	m	Oh!
+CALEB	m	Did you throw that?
+MONTY	m	No.
+PIPPA	f	Wasn't me.
+JAMIE	m	Hey, come on. Stop!
+CLAUDE	m	You can't catch me.
+JACK	m	Ooh, little slippery!
+JAMIE	m	Whooaaooah!!! Guardians Screening Script 9/6/12 Avid 21.
+KIDS	m	Whoaaa. Jamie, watch out! Stop!
+JAMIE	m	Aha, whoa!
+KIDS	m	Jamie! Turn, turn! That's the street! What are you doing? Stop! There's traffic!
+JAMIE	m	Whoa!
+JACK	m	Whoa, don't worry kid, I gotcha.
+JACK	m	Hold on. It's gonna be alright.
+JAMIE	m	Ahhhh. No, no, no, no...
+JACK	m	Keep up with me kid! Take a left.
+JAMIE	m	Whoa, no, no, no, no... Guardians Screening Script 9/6/12 Avid 22.
+JACK	m	Yeah!
+JAMIE	m	Whoa, whoa, whoa, whoa...
+JACK	m	There you go!
+JAMIE	m	No! No!
+JACK	m	Whoa.
+JAMIE	m	AAAAHHHHHHHH!
+JACK	m	Yeah! Guardians Screening Script 9/6/12 Avid 23.
+KIDS	m	Wow, that looks serious! Jamie! Jamie, are you alright? Is he okay?
+JAMIE	m	Whoaaa! Did you guys see that? It was amazing! I slid - I did a jump and I slid under a car�-ERF!!
+JACK	m	Whoops.
+KIDS	m	Ooooh!
+JAMIE	m	Cool! A Tooth!
+KIDS	m	Dude, that means cash! Tooth Fairy cash! I love the Tooth Fairy!
+JACK	m	(his fun cut short) Oh, no...
+KIDS	m	That's totally awesome. You lucky bug! Lucky!
+JACK	m	No!
+JAMIE	m	I gotta put this under my pillow!
+KIDS	m	I wish I lost my tooth. Guardians Screening Script 9/6/12 Avid 24.
+JACK	m	Ah, wait a minute! Come on, hold on, hold on! What about all that fun we just had? That wasn't the Tooth Fairy, that was me!
+KIDS	m	I lost two teeth in one day once - remember that?! What are you gonna spend your money on? What are you gonna buy? How much do you think she's going to leave?
+KIDS	m	Let's go...I'm cooold! My ears are freezing. I can't feel my toes. Ah, it's hot cocoa time.
+JACK	m	What's a guy gotta do to get a little attention around here!
+CUPCAKE	f	(walla; mocking her
+FRIENDS)	?	"Oh, I'm cold, I'm cold, I'm co- old." Somebody take a picture. Hey, stop! That was really awesome.
+JAMIE	m	-- and then BAM! The sofa hit me, and, and see? (opens mouth, tries to say `my tooth came out!) Ah hoo hay ow!
+JAMIE'S MOM	f	Alright you, tooth under your pillow?
+JAMIE	m	Yeah. I'm ready.
+JAMIE'S MOM	f	Now don't stay up trying to see her, Jamie, or she won't come.
+JAMIE	m	But I can do it this time! You wanna help me, Soph? We can hide and see the Tooth Fairy! Guardians Screening Script 9/6/12 Avid 26.
+SOPHIE	f	Hide, hide, hide, hide!
+JAMIE'S MOM	f	Uh uh, straight to bed now, mister.
+JAMIE	m	Mom...
+JACK	m	If there's something I'm doing wrong, can you, can you just tell me what it is? Because I've tried everything, and no one ever sees me. You put me here, the least you can do is tell me, tell me why.
+JACK	m	Right on time, Sandman. Guardians Screening Script 9/6/12 Avid 27.
+PITCH	m	Ohhhh, I thought I heard the clippity-clop of a unicorn. What an adorable dream!
+PITCH	m	(leans down to Cupcake) And look. At. Her. Precious child. So sweet, so full of hope and wonder. Why, there's only one thing missing...a touch of fear.
+PITCH	m	Hahaha! That never gets old!
+PITCH	m	Feel your fear. Come on. Come on, that's right.
+PITCH	m	Yesss. What a pretty little Nightmare.
+PITCH	m	Now, I want you to go tell the others the wait is over. Guardians Screening Script 9/6/12 Avid 28.
+PITCH	m	Don't look at me like that, old friend. You must have known this day would come. My Nightmares are finally ready. Are your Guardians?
+JACK	m	Whoa! Did you leave the windows open again? The garage door is wide open.
+BUNNYMUND	?	Been a long time. Blizzard of 68, I believe? Easter Sunday, wasn't it?
+JACK	m	Bunny? You're not still mad about that...are yah?
+BUNNYMUND	?	Yes.
+BUNNYMUND	?	But this is about something else. Fellas...
+JACK	m	Hey!
+YETI	m	Durbha wahla.
+JACK	m	Put me down! What the...
+YETI	m	Durtal bardla burdlew.
+YETI	m	Dwbard urghwetee.
+BUNNYMUND	?	Me? Not on your nelly. See you back at the pole. Guardians Screening Script 9/6/12 Avid 30.
+YETIS	m	Bwardla arghl.
+JACK	m	Ahhhhhhhhh!
+TOOTH	f	(to another fairy) Walla Walla, Washington. We've got a trampoline mishap at 1340 Ginger Lane.
+NORTH	m	Quiet.
+NORTH	m	Hey, there he is! Jack Frost!
+JACK	m	Wow, you gotta be kidding me.
+JACK	m	Hey, hey. Whoa, put me down.
+NORTH	m	I hope the yetis treated you well?
+JACK	m	Oh, yeah. I love being shoved in a sack and tossed through a magic portal.
+NORTH	m	Oh, good! That was my idea! You know Bunny, obviously.
+JACK	m	Obviously.
+NORTH	m	And the Tooth Fairy?
+TOOTH	f	Hello, Jack. I've heard a lot about you. And your teeth.
+JACK	m	My, my what?
+TOOTH	f	(moves in way too close) Open up! Are they really as white as they say? Yes! Guardians Screening Script 9/6/12 Avid 32.
+TOOTH	f	Oh, they really do sparkle like freshly fallen snow.
+TOOTH	f	Girls, pull yourselves together... Let's not disgrace the uniform.
+NORTH	m	And Sandman. (sees Sandy is snoozing) Sandy! Sandy! Wake up!
+JACK	m	Hey! Ho! Anyone wanna tell me why I'm here?
+JACK	m	That's not really helping. But thanks, little man. I musta done something really bad to get you four together.
+JACK	m	Am I on the naughty list?
+NORTH	m	On naughty list? You hold record! But no matter. We overlook. Now we are wiping clean the slate.
+JACK	m	How come?
+BUNNYMUND	?	(more to North) Ah, good question.
+NORTH	m	How come? I tell you how come! Because now...you are Guardian! Guardians Screening Script 9/6/12 Avid 33.
+JACK	m	What are you doing! Get, get that offa me!
+NORTH	m	This is the best part!
+JACK	m	Huh?
+JACK	m	What makes you think I want to be a Guardian?
+NORTH	m	Of course you do! (to the elves) Music!
+JACK	m	No music! Guardians Screening Script 9/6/12 Avid 34.
+JACK	m	Look, this is all very flattering, but ah...you don't want me. You're all hard work and deadlines, and I'm snowballs and fun times. I'm not a Guardian.
+BUNNYMUND	?	Yeah, that's exactly what I said!
+TOOTH	f	Jack...I don't think you understand what it is we do.
+TOOTH	f	Each of those lights is a child.
+NORTH	m	A child who believes. And good or bad, naughty or nice, we protect them. Tooth...fingers out of mouth.
+TOOTH	f	Oh, sorry. They're beautiful.
+NORTH	m	Okay, no more wishy-washy! Pitch is out there doing who knows what!
+JACK	m	You mean the Boogeyman?
+NORTH	m	Yes! When Pitch threatens us, he threatens them as well. Guardians Screening Script 9/6/12 Avid 35.
+JACK	m	All the more reason to pick someone more qualified!
+NORTH	m	Pick? You think we pick? No, you were chosen like we were all chosen. By Man in Moon.
+JACK	m	(stares, dumbstruck) What?
+TOOTH	f	Last night, Jack. He chose you.
+BUNNYMUND	?	Maybe.
+JACK	m	The Man in the Moon, he talks to you?
+NORTH	m	You see, you can not say no. It is destiny.
+JACK	m	But why, why wouldn't he tell me that himself? After 300 years this is his answer? To spend eternity like you guys cooped up in some, some hideout thinking of, of new ways to bribe kids? No no, that's not for me. No offense.
+BUNNYMUND	?	How is that not offensive? Guardians Screening Script 9/6/12 Avid 36.
+BUNNYMUND	?	You know what I think? I think we just dodged a bullet. I mean, what's this clown know about bringing joy to children anyway?
+JACK	m	Uhh, you ever hear of a snow day? I know it's no hard-boiled egg, but kids like what I do.
+BUNNYMUND	?	But none of 'em believe in you. (leans in to him) Do they? You see, you're invisible, mate. It's like you don't even exist.
+TOOTH	f	Bunny! Enough!
+JACK	m	No, the kangaroo's right.
+BUNNYMUND	?	The, the what -- what'd you call me? I am not a kangaroo, mate.
+JACK	m	Oh. And this whole time I thought you were. If you're not a kangaroo, what are you?
+BUNNYMUND	?	I'm a bunny. The Easter Bunny. People believe in me.
+NORTH	m	Jack. Walk with me.
+JACK	m	It's nothing personal, North. What you all do, it's just, it's not my thing.
+NORTH	m	Man in Moon says it is your thing. We will see!
+JACK	m	Slow down, wouldja? I've been trying to bust in here for years, I want a good look.
+NORTH	m	(peeved - still rushing) What do you mean, "bust in?"
+JACK	m	Oh, don't worry, I never got past the yetis.
+YETI	m	Rwwarrrrrr.
+JACK	m	Oh, hey Phil.
+NORTH	m	Keep up, Jack! Keep up! Guardians Screening Script 9/6/12 Avid 38.
+JACK	m	Whoa! I always thought the elves made the toys.
+NORTH	m	We just let them believe that.
+NORTH	m	Very nice! Keep up good work!
+NORTH	m	I don't like it. Paint it red.
+NORTH	m	Step it up, everybody.
+NORTH	m	Fruit cake?
+JACK	m	Ah, no, thanks. Guardians Screening Script 9/6/12 Avid 39.
+NORTH	m	Now we get down to tacks of brass!
+JACK	m	Tacks of brass?
+NORTH	m	Who are you, Jack Frost? What is your center?
+JACK	m	My center?
+NORTH	m	If Man in Moon chose you to be a Guardian, you must have something very special inside.
+NORTH	m	Hmmmm?
+NORTH	m	Here. This is how you see me, no? Very big, intimidating. But if you get to know me a little-- (hands the doll to Jack) Well, go on.
+JACK	m	You are downright jolly.
+NORTH	m	Ah, but not just jolly... Guardians Screening Script 9/6/12 Avid 40.
+NORTH	m	I am also mysterious. (twist - smaller doll) And fearless. (twist - smaller doll) And caring. And at my center...
+JACK	m	There's a tiny wooden baby?
+NORTH	m	Look closer. What do you see?
+JACK	m	You have big eyes?
+NORTH	m	Yes! Big eyes. Very big. Because they are full! Of wonder! That is my center. It is what I was born with. Eyes that have always seen the wonder in everything!
+NORTH	m	Eyes that see lights in the trees, and magic in the air!
+NORTH	m	This wonder is what I put into the world, and what I protect in children. Guardians Screening Script 9/6/12 Avid 41.
+NORTH	m	It is what makes me a Guardian. It is my center. What is yours?
+JACK	m	I don't know.
+BUNNYMUND	?	We have a problem, mate! Trouble at the Tooth Palace. Boys, ship shape. As soon as impossible.
+JACK	m	North, North! I told you, I'm not going with you guys! There is no way I'm climbing into some rickety old...
+JACK	m	...sleigh.
+JACK	m	Whoa! Guardians Screening Script 9/6/12 Avid 42.
+NORTH	m	Hey! Moi deti, moi deti. Quiet, quiet.
+JACK	m	Okay, one ride, but that's it.
+NORTH	m	Everyone loves the sleigh.
+NORTH	m	Bunny, what are you waiting for?
+BUNNYMUND	?	I think my tunnels might be faster, mate. And um, and safer.
+NORTH	m	Ah, get in. (hoists Bunnymund up) Buckle up!
+BUNNYMUND	?	Whoa, whoa, whoa, where are the bloody seatbelts?!
+NORTH	m	That was just expression!
+NORTH	m	Are we ready?
+NORTH	m	Good! Let's go! Clear! (cracks the reigns) Hyah! Guardians Screening Script 9/6/12 Avid 43.
+NORTH	m	Out of the way!
+NORTH	m	Hyah!
+BUNNYMUND	?	Ohhhhhh no!
+BUNNYMUND	?	Slow down, slow down!
+NORTH	m	I hope you like the loopty loops!
+BUNNYMUND	?	I hope you like carrots.
+NORTH	m	Here we go!
+JACK	m	WOOO-HOOOOOO!!!!!!
+NORTH	m	Klasno! Guardians Screening Script 9/6/12 Avid 44.
+JACK	m	Whoa!
+JACK	m	Hey, Bunny--
+JACK	m	Check out this view--
+JACK	m	Awww...you do care.
+BUNNYMUND	?	Ah, rack off you bloody show pony!
+NORTH	m	Hold on everyone, I know a shortcut.
+BUNNYMUND	?	Oh strewth, I knew we should have taken the tunnels.
+NORTH	m	I say, Tooth Palace.
+NORTH	m	Hyah! Guardians Screening Script 9/6/12 Avid 45.
+NORTH	m	What!?
+NORTH	m	What are they!?
+BUNNYMUND	?	Whoa!
+JACK	m	They're taking the tooth fairies!
+JACK	m	Hey little Baby Tooth, you okay? Guardians Screening Script 9/6/12 Avid 46.
+NORTH	m	Here, take over!
+BUNNYMUND	?	Huh?
+JACK	m	Hyah!
+NORTH	m	Yah!
+BUNNYMUND	?	They're stealing the teeth!
+NORTH	m	Jack, look out!
+JACK	m	Aaaahhhh!
+NORTH	m	Tooth! Are you alright? Guardians Screening Script 9/6/12 Avid 47.
+TOOTH	f	They, they took my fairies! And the teeth! All of them! Everything is gone! Everything.
+TOOTH	f	Oh thank goodness! One of you is alright!
+PITCH	m	The Big Four, all in one place. I'm a little star-struck. Did you like my show on the globe, North? Got you all together, didn't I?
+TOOTH	f	Pitch, you have got thirty seconds to return my fairies!
+PITCH	m	You'll stick a quarter under my pillow?
+NORTH	m	Why are you doing this?
+PITCH	m	Maybe I want what you have. To be believed in. Guardians Screening Script 9/6/12 Avid 48.
+PITCH	m	Maybe I'm tired of hiding under beds.
+BUNNYMUND	?	Maybe that's where you belong.
+PITCH	m	Ah, go suck an egg, rabbit! Since when are you all so chummy?
+JACK	m	We're not.
+PITCH	m	Oh good.
+PITCH	m	A neutral party. Then I'm going to ignore you. But, you must be used to that by now.
+BUNNYMUND	?	Pitch! You shadow sneaking rat- bag! Come here!
+TOOTH	f	Ahhhhhhhhhhhhhh!
+PITCH	m	Whoa! Hey, easy, girl. Easy. Guardians Screening Script 9/6/12 Avid 49.
+PITCH	m	Look familiar, Sandman? Took me a while to perfect this little trick. Turning dreams into Nightmares.
+PITCH	m	Don't be nervous, it only riles them up more. They smell fear you know.
+BUNNYMUND	?	What fear? Of you!? No one's been afraid of you since the Dark Ages!
+PITCH	m	Oh, the Dark Ages. Everyone frightened. Miserable. Such happy times for me. Oh, the power I wielded!
+PITCH	m	Well that's all about to change.
+PITCH	m	Oh look, it's happening already.
+JACK	m	What is?
+JACK	m	What's going on?
+TOOTH	f	They, they don't believe in me anymore. Guardians Screening Script 9/6/12 Avid 51.
+PITCH	m	Didn't they tell you, Jack? It's great being a Guardian -- but there's a catch. If enough kids stop believing, everything your friends protect - wonder, hopes and dreams - it all goes away. And little by little, so do they.
+PITCH	m	No Christmas, or Easter, or little fairies that come in the night. There will be nothing. But fear and darkness and me! It's your turn not to be believed in!
+NORTH	m	He's gone.
+JACK	m	I'm sorry, about the fairies.
+TOOTH	f	(not her bubbly self) You should've seen them. They put up such a fight.
+JACK	m	Why would Pitch take the teeth?
+TOOTH	f	It's not the teeth he wanted. It's the memories inside them.
+JACK	m	What do you mean?
+TOOTH	f	That's why we collect the teeth, Jack. They hold the most important memories of childhood.
+TOOTH	f	My fairies and I watch over them and when someone needs to remember what's important, we help them.
+TOOTH	f	We had everyone's here. Yours too.
+JACK	m	My memories?
+TOOTH	f	From when you were young. Before you became Jack Frost.
+JACK	m	But, I wasn't anyone before I was Jack Frost. Guardians Screening Script 9/6/12 Avid 53.
+TOOTH	f	Of course you were. We were all someone before we were chosen.
+JACK	m	What?
+NORTH	m	You should've seen Bunny.
+BUNNYMUND	?	Hey, I told you never to mention that!
+JACK	m	That night at the pond...I just, why I assumed...Are you saying, are you saying I had a life before that? With a home? And a family?
+TOOTH	f	You really don't remember?
+JACK	m	All these years, and the answers were right here. If I find my memories, then I'll know why I'm here. You have to show me.
+TOOTH	f	I...I can't, Jack. Pitch has them.
+JACK	m	Then we have to get them back!
+TOOTH	f	Oh no! Guardians Screening Script 9/6/12 Avid 54.
+TOOTH	f	The children. We're too late.
+NORTH	m	No! No! No such thing as too late! Wait, wait, wait, wait, wait, wait, wait. Idea!! HAHH!!
+NORTH	m	We will collect the teeth!
+TOOTH	f	What?
+NORTH	m	We get teeth! Children keep believing in you!
+TOOTH	f	We're talking seven continents! Millions of kids!
+NORTH	m	Give me break! You know how many toys I deliver in one night?
+BUNNYMUND	?	And eggs I hide in one day?
+NORTH	m	And Jack, if you help us, we will get you your memories.
+JACK	m	I'm in.
+NORTH	m	Quickly! Quickly!
+BUNNYMUND	?	Here we go, here we go...
+JACK	m	Hop to it rabbit, I'm five teeth ahead!
+BUNNYMUND	?	Yeah right, look, I'd tell you to stay outta my way, but really what's the point -- because you won't be able to keep up anyway.
+JACK	m	Is that a challenge, cottontail?
+BUNNYMUND	?	Oh, you don't wanna race a rabbit, mate.
+NORTH	m	A race? Is it a race??
+NORTH	m	This is going to be... Guardians Screening Script 9/6/12 Avid 56.
+NORTH	m	EPIC!!
+TOOTH	f	Four bicuspids over there! An incisor two blocks east! Is that a molar? They're EVERYWHERE!
+TOOTH	f	Ow!
+JACK	m	Ah, you okay?
+TOOTH	f	Fine...sorry, it's been a really long time since I've been out in the field.
+JACK	m	How long is a long time?
+TOOTH	f	Ah, four hundred forty years...give or take.
+JACK	m	Hmm...
+TWINS	m	Yipa!!
+BUNNYMUND	?	Jackpot!
+BUNNYMUND	?	Looks like you're a bit of a brumby, hey mate.
+NORTH	m	Is piece of pie! Guardians Screening Script 9/6/12 Avid 58.
+BUNNYMUND	?	Ow!
+NORTH	m	That's my tooth! Sandy! Sandy!
+TOOTH	f	Whoa, whoa, whoa! Take it easy there, champ! He's one of us! Part of the European division. (to the mouse) Ca va?
+BUNNYMUND	?	Huh? Guardians Screening Script 9/6/12 Avid 59.
+BUNNYMUND	?	Crikey!
+JACK	m	Yes!
+JACK	m	No!
+BUNNYMUND	?	Haha! Ho, ho, ho!
+TOOTH	f	Wow! You guys collect teeth and leave gifts as fast as my fairies.
+TOOTH	f	You guys have been leaving gifts, right?
+PITCH	m	The lights...why aren't they going out?
+PITCH	m	They're collecting the teeth?
+PITCH	m	Oh pipe down, or I'll stuff a pillow with you!
+PITCH	m	Fine, have your last hurrah. For tomorrow, all you pathetic scrambling will be for nothing. Guardians Screening Script 9/6/12 Avid 62.
+JACK	m	Kids, huh?
+TOOTH	f	This was always the part I liked most - seeing the kids. Why did I ever stop doing this?
+JACK	m	It's a little different up close, huh?
+TOOTH	f	Thanks for being here, Jack. I wish I had known about your memory, I could've helped you. Guardians Screening Script 9/6/12 Avid 63.
+JACK	m	Yeah, well, look let's just get you taken care of. Then it's Pitch's turn, huh?
+NORTH	m	Here you are!
+TOOTH	f	SSHHHHHHHH!!
+NORTH	m	Oh, what gives slowpokes!?
+NORTH	m	How you feeling, Toothy?
+TOOTH	f	Believed in.
+NORTH	m	Haha! That's what I want to hear.
+BUNNYMUND	?	All working together to make sure the rabbit gets last place.
+NORTH	m	SSSHHHHHHHHH!!!
+JACK	m	You think I need help to beat a bunny? Check it out, Peter Cottontail. Guardians Screening Script 9/6/12 Avid 64.
+BUNNYMUND	?	You call that a bag of choppers? (lifting larger sack) Now that's a bag of choppers.
+NORTH	m	Gentlemen! Gentlemen! This is about Tooth. It's not a competition! But if it was -- (reveals even larger sack) I win. YEEEEEHAAAHH!
+NORTH	m	Oh no... Santa Claus?
+JAMIE	m	The Easter Bunny?...Sandman...The Tooth Fairy! I knew you'd come!
+TOOTH	f	Surprise! We came!
+JACK	m	He can see us?
+BUNNYMUND	?	Most of us.
+TOOTH	f	Shhh! You guys, he's still awake.
+BUNNYMUND	?	Sandy! Knock him out!
+JAMIE	m	Huh? Guardians Screening Script 9/6/12 Avid 65.
+BUNNYMUND	?	With the Dreamsand, ya gumbies.
+JAMIE	m	No, stop that's the Easter Bunny. What are you doing, Abbey? Down!
+BUNNYMUND	?	Alright, nobody panic.
+JACK	m	But that's a um, that's a greyhound. Do you know what greyhounds do to rabbits?
+BUNNYMUND	?	I think it's a pretty safe bet he's never met a rabbit like me -
+BUNNYMUND	?	Six foot one, nerves of steel, master of tai-chi and the ancient
+BUNNYMUND	?	Crikey.
+JAMIE	m	Stop! Sit!
+JAMIE	m	Down girl, down! Guardians Screening Script 9/6/12 Avid 66.
+NORTH	m	Sandy, Sandy!
+NORTH	m	Ah!
+TOOTH	f	Hey, this is not proper Tooth Fairy behavior!
+BUNNYMUND	?	Oh no.
+NORTH	m	Candy canes...
+JAMIE	m	Whoaaaaaaaaaa! Guardians Screening Script 9/6/12 Avid 67.
+JACK	m	Whoops...
+JACK	m	Oh, I really wish I had a camera right now. Sandy, c'mon! We can find Pitch.
+SOPHIE	f	Pretty!
+SOPHIE	f	Bunny! Hop! Hop! Hop! Guardians Screening Script 9/6/12 Avid 68.
+SOPHIE	f	Ow!
+NORTH	m	Whuh-huh...?
+JACK	m	Wahooo! Haha! Yes!
+JACK	m	Waaahahoooo! Guardians Screening Script 9/6/12 Avid 69.
+JACK	m	HAAAH! I got it!
+JACK	m	Sandy! Sandy, did you see that?!? Look at this thing!
+PITCH	m	Frost?
+PITCH	m	You know, for a "neutral party" you spend an awful lot of time with those weirdos. This isn't your fight, Jack.
+JACK	m	You made it my fight when you stole those teeth.
+PITCH	m	Teeth? Why do you care about the teeth? Guardians Screening Script 9/6/12 Avid 70.
+PITCH	m	Now this is who I'm looking for--
+PITCH	m	Whoa--??
+JACK	m	Remind me not to get on your bad side.
+PITCH	m	(looks up, pleading) Okay, easy! You can't blame me for trying, Sandy. You don't know what it's like to be weak and hated. It was stupid of me to mess with your dreams. So I'll tell you what-
+PITCH	m	You can have `em back! Guardians Screening Script 9/6/12 Avid 71.
+JACK	m	You take the ones on the left, I'll take the ones on the right?
+PITCH	m	Boo!
+NORTH	m	Ah!
+BUNNYMUND	?	Get outta my warren! (realizes he's awake now) Huh?
+NORTH	m	Ha. Ha. Ha. Come on!
+JACK	m	Aaaaaaaah!
+BUNNYMUND	?	(coolly, to Jack) You might want to duck. Guardians Screening Script 9/6/12 Avid 73.
+JACK	m	We gotta help Sandy!
+NORTH	m	Hyah!
+JACK	m	Noooo!
+NORTH	m	Jack!
+PITCH	m	Hahahahaha!...Don't fight the fear, little man.
+NORTH	m	Hurry, hurry!
+PITCH	m	I'd say sweet dreams, but there aren't any left.
+NORTH	m	Sandy...
+JACK	m	No...NOOOOOO!!!! Guardians Screening Script 9/6/12 Avid 75.
+JACK	m	Ahhhhhh!!!!!
+PITCH	m	AAAHH!!!!
+NORTH	m	Jack! Guardians Screening Script 9/6/12 Avid 76.
+TOOTH	f	Jack, how did you do that?
+JACK	m	I, I didn't know I could.
+PITCH	m	Finally! Someone who knows how to have a little FUN!
+NORTH	m	Are you alright?
+JACK	m	I just, I wish I could've done something.
+NORTH	m	Done something? Jack, you stood up to Pitch. You saved us.
+JACK	m	But Sandy wo--
+NORTH	m	(putting his hand on
+JACK'S SHOULDER)	m	Would be proud of what you did.
+NORTH	m	I don't know who you were in your past life, but in this life you are Guardian.
+JACK	m	But how can I know who I am, until I find out who I was?
+NORTH	m	You will. I feel it, in my belly.
+TOOTH	f	Look how fast they're going out.
+JACK	m	It's fear. He's tipped the balance.
+BUNNYMUND	?	(twirling his boomerang) Hey, buck up ya sad-sacks. Come on! We can still turn this around! Guardians Screening Script 9/6/12 Avid 78.
+BUNNYMUND	?	Easter is tomorrow and I need your help. I say we pull out all the stops and we get those little lights flickering again!
+NORTH	m	Bunny is right. As much as it pains me to say old friend, this time Easter is more important than Christmas!
+BUNNYMUND	?	Hey! Did everyone hear that?!
+NORTH	m	We must hurry to the Warren. Everyone, to the sleigh!
+BUNNY	f	Ohh no, mate. My warren my rules. Buckle up.
+NORTH	m	Shostakovich!
+NORTH	m	"Buckle up." Is very funny.
+BUNNYMUND	?	Welcome to the warren--
+BUNNYMUND	?	Something's up.
+BUNNYMUND	?	Ahhhh!
+JACK	m	Sophie?
+SOPHIE	f	Elf, elf, elf!
+BUNNYMUND	?	What is SHE doing HERE!!?
+NORTH	m	Ah, snow globe.
+BUNNYMUND	?	Crikey! Somebody do something!
+JACK	m	Don't look at me, I'm invisible, remember? Guardians Screening Script 9/6/12 Avid 80.
+TOOTH	f	Don't worry, Bunny. I bet she's a fairy fan. (flies up to Sophie) It's okay little one.
+SOPHIE	f	Pretty!
+TOOTH	f	Awww! You know what, I got something for you. Here it is. (she pulls something out) Look at all the pretty teeth with little blood and gum on them.
+JACK	m	Blood and gums? When was the last time you guys actually hung out with kids?
+SOPHIE	f	Peek-a-boo.
+NORTH	m	We are very busy bringing joy to children! We don't have time... ...for children.
+JACK	m	If one little kid can ruin Easter, then...we're in worse shape than I thought.
+SOPHIE	f	Weeee! Weee, weee, weee! Guardians Screening Script 9/6/12 Avid 81.
+BUNNYMUND	?	You wanna paint some eggs? Yeah?
+SOPHIE	f	Okay!
+BUNNYMUND	?	Come on then!
+NORTH	m	Rimsky Korsakov! That's a lot of eggs.
+JACK	m	Uh, how much time do we have?
+SOPHIE	f	Weeeeee!
+BUNNYMUND	?	Woooohoooo!
+NORTH	m	Single file!
+NORTH	m	Okay, that's little strange.
+BUNNYMUND	?	Naw, mate -- Guardians Screening Script 9/6/12 Avid 83.
+BUNNYMUND	?	That's adorable.
+BUNNYMUND	?	There will be springtime! On every continent! And I'm bringing hope with me!
+BUNNYMUND	?	Too Christmas-y, mate, paint `em blue.
+BUNNYMUND	?	That's a beauty!
+BUNNYMUND	?	Now all we gotta do is get him and his little mates through the tunnels, to the top, and we'll have ourselves Easter.
+JACK	m	Not bad.
+BUNNYMUND	?	Not bad yourself.
+JACK	m	Look, I'm sorry about that whole, you know, the "kangaroo" thing.
+BUNNYMUND	?	It's the accent, isn't it?
+BUNNYMUND	?	Ah, poor little ankle-biter. Look at her, all tuckered out.
+TOOTH	f	I love her! Guardians Screening Script 9/6/12 Avid 85.
+TOOTH	f	I think it's time to get her home.
+JACK	m	How about I take her home?
+TOOTH	f	Jack, no! Pitch is--
+JACK	m	--no match for this. (twirls his staff)
+BUNNYMUND	?	Which is why we need you here, with us.
+JACK	m	Trust me, I'll be quick as a bunny.
+JACK	m	We should get back. Guardians Screening Script 9/6/12 Avid 86. Jack...
+JACK	m	That voice, I know that voice...
+JACK	m	Don't worry, there's still time. Guardians Screening Script 9/6/12 Avid 87.
+JACK	m	(waving Baby Tooth off) Baby Tooth, Baby...come on! I have to find out what that is.
+JACK	m	Shhhh! keep it down. (leaps to another cage) I'm gonna get you out of here, just as soon as I --
+JACK	m	(under his breath) As I can --
+JACK	m	Afraid?
+JACK	m	I'm not afraid of you!
+PITCH	m	Maybe not. But you are afraid of something.
+JACK	m	You think so, huh? Guardians Screening Script 9/6/12 Avid 89.
+PITCH	m	I know so. It's the one thing I always know.
+PITCH	m	People's greatest fears. Yours is that no one will ever believe in you.
+PITCH	m	Well fear not, for the answer to that...
+PITCH	m	Is right here.
+PITCH	m	Do you want them, Jack? Your memories? Guardians Screening Script 9/6/12 Avid 90.
+PITCH	m	...in this little box.
+PITCH	m	Why did you end up like this? Unseen. Unable to reach out to anyone. You want the answers so badly. You want to grab them, and fly off with them. But you're afraid of what the Guardians will think.
+PITCH	m	You're afraid of disappointing them. Well let me ease your mind about one thing. They'll never accept you. Not really.
+JACK	m	(trying to scramble away) Stop it! Stop it!
+PITCH	m	After all, you're not one of them.
+JACK	m	You don't know what I am! Guardians Screening Script 9/6/12 Avid 91.
+PITCH	m	Of course I do. You're Jack Frost. You make a mess wherever you go. Why, you're doing it right now.
+JACK	m	What did you do?
+PITCH	m	More to the point Jack, what did you do?
+JACK	m	Baby Tooth!
+JACK	m	No.
+BRITISH KIDS	m	There are no eggs. There's none anywhere. I give up. Come on, let's go. I don't understand.
+BRITISH GIRL	f	Maybe he just hid them really well this year.
+BRITISH BOY	m	I checked everywhere! There's nothing!
+BUNNYMUND	?	(steps towards them) Yes there is! There is! I mean these aren't my best lookin' googies, but they'll do in a pinch!
+BRITISH GIRL	f	I can't believe it.
+BUNNYMUND	?	I know.
+BRITISH GIRL	f	There's no such thing as the Easter Bunny.
+BUNNYMUND	?	What? Easter's over. Forget this. Guardians Screening Script 9/6/12 Avid 93.
+BUNNYMUND	?	No! Wrong! Not, not true! I'm right in front of ya, mate!
+BRITISH KIDS	m	There's no such thing. I know. Now come on. I don't understand. Why wouldn't he come? Let's get out of here. Easter Bunny, where are you? This is the worst Easter ever.
+BUNNYMUND	?	They don't see me. They don't see me.
+NORTH	m	The Nightmares attacked the tunnels. They smashed every egg, crushed every basket. Nothing made it to the surface.
+TOOTH	f	Where did you get that?
+JACK	m	I was...it's... Guardians Screening Script 9/6/12 Avid 94.
+TOOTH	f	Where's Baby Tooth? Oh Jack, what have you done?
+NORTH	m	That is why you weren't here?
+NORTH	m	You were with Pitch?
+JACK	m	No, listen, listen...I'm sorry. I didn't mean for this to happen. He has to go.
+JACK	m	What?
+BUNNYMUND	?	We should never have trusted you! Easter is new beginnings, new life. Easter is about hope. And now it's gone.
+JAMIE	m	Whoaaa, whoa, whoa...aaaah!
+JAMIE	m	Let's check the park again.
+CALEB	m	Really?
+CLAUDE	m	For what, the Easter Bunny?
+JAMIE	m	Guys, I told you - I saw him! He's way bigger than I thought, and he's got these cool boomerang-things-
+CALEB	m	Grow up, Jamie.
+CLAUDE	m	Ah man, seriously.
+JAMIE	m	What's happened to you guys?
+CALEB	m	It was a dream. You should be happy you still get dreams like that and not... Guardians Screening Script 9/6/12 Avid 96.
+CUPCAKE	f	Nightmares.
+PIPPA	f	Forget it, Jamie. There's just no Easter this year.
+JAMIE	m	He really is real!
+JAMIE	m	I know he is.
+PITCH	m	They never really believed in you. I was just trying to show you that. But I understand. Guardians Screening Script 9/6/12 Avid 97.
+JACK	m	You don't understand anything!
+PITCH	m	No? I don't know what it's like to be cast out?
+PITCH	m	All those years in the shadows I thought, no one else knows what this feels like. But now I see I was wrong.
+PITCH	m	We don't have to be alone, Jack.
+PITCH	m	I believe in you. And I know children will too.
+JACK	m	In me?
+PITCH	m	Yes! Look at what we can do! Guardians Screening Script 9/6/12 Avid 98.
+PITCH	m	What goes together better than cold and dark?
+PITCH	m	We can make them believe. We'll give them a world where everything, everything is...
+JACK	m	Pitch black...
+PITCH	m	And Jack Frost too. They'll believe in both of us.
+JACK	m	No, they'll fear both of us. And that's not what I want.
+JACK	m	Now for the last time, leave me alone.
+PITCH	m	Very well. You want to be left alone? Done. But first...
+JACK	m	Baby Tooth! Guardians Screening Script 9/6/12 Avid 99.
+PITCH	m	The staff, Jack.
+PITCH	m	You have a bad habit of interfering. Now hand it over. And I'll let her go.
+BABY TOOTH	f	(twitters - Don't give it to him!)
+JACK	m	(re: Baby Tooth) Alright, now let her go.
+PITCH	m	No. You said you wanted to be alone. So be alone!
+JACK	m	No!
+JACK	m	Baby Tooth!
+JACK	m	You alright?
+JACK	m	Sorry, all I can do is keep you cold.
+JACK	m	Pitch was right - I make a mess of everything.
+JACK	m	Hey?
+JACK'S MOTHER	f	Come on Jack, you can't have fun all the time.
+JACK'S SISTER	f	Jack, get down from there!
+JACK'S MOTHER	f	Be careful.
+JACK	m	We will.
+JACK	m	(calm, serious) It's okay. It's okay. Don't look down, just look at me.
+JACK'S SISTER	f	Jack, I'm scared.
+JACK	m	I know, I know...but you're gonna be alright. You're not gonna fall in. We're gonna have a little fun instead.
+JACK'S SISTER	f	No we're not!
+JACK	m	Would I trick you?
+JACK'S SISTER	f	(fighting back tears) Yes! You always play tricks!
+JACK	m	Well, alright. Well, not, not this time. I promise. I promise, you're gonna be...you're gonna be fine.
+JACK	m	You have to believe in me. Guardians Screening Script 9/6/12 Avid 103.
+JACK	m	(casual, playfully) You wanna play a game? We're going to play Hopscotch! Like we play every day!
+JACK	m	It's as easy as...one...whoaaaa...
+JACK	m	Two... (the next jump) Three!
+JACK	m	Alright...
+JACK	m	Now it's your turn.
+JACK	m	One...
+JACK	m	That's it, that's it...two...
+JACK	m	Three. Guardians Screening Script 9/6/12 Avid 104.
+JACK	m	Whoa...
+JACK'S SISTER	f	Jack!
+JACK	m	Did you -- did you see that?
+JACK	m	It -- it was me! I had a family! I had a sister!
+JACK	m	I saved her!
+JACK	m	(whispers up to Manny) That's why you chose me. I'm, I'm a Guardian. Guardians Screening Script 9/6/12 Avid 105.
+JACK	m	We have to get out of here.
+JACK	m	Come on Baby Tooth! I owe you one.
+JACK	m	Come on, let's go.
+JACK	m	What's wrong?!
+JACK	m	None of you can fly?
+JACK	m	The lights... Guardians Screening Script 9/6/12 Avid 106.
+PITCH	m	You're all free to go! We won't be needing any Christmas toys this year, thank you! Nor ever again!
+JACK	m	They're all going out...
+PITCH	m	Only six left! Six precious children who still believe in the Guardians with all their h-- (a lights blinks out) Make that, five. Oo! Four! Three! TWO!
+PITCH	m	One.
+JACK	m	Jamie!
+JAMIE	m	Okay look, you and I are obviously at what they call a crossroads, so here's what's gonna happen -
+JAMIE	m	If it wasn't a dream and if you are real, then you have to prove it. Like right now. Guardians Screening Script 9/6/12 Avid 108.
+JAMIE	m	(desperation creeping in) I've believed in you for a long time, okay? Like my whole life in fact. So you kinda owe me now.
+JAMIE	m	You don't have to do much, just a little sign so I know. Anything. Anything at all.
+JAMIE	m	I knew it.
+JAMIE	m	(seeing the window) Huh?
+JAMIE	m	He's real.
+JAMIE	m	Whoa... Guardians Screening Script 9/6/12 Avid 109.
+JAMIE	m	Whoa!
+JAMIE	m	Snow?
+JAMIE	m	Jack Frost?
+JACK	m	(a stunned beat) Did he just say--?
+JAMIE	m	Jack Frost.
+JACK	m	He said it again. He said -- You said...
+JAMIE	m	Jack Frost.
+JACK	m	That's right! But-but that's me! Jack Frost! That's my name! You said my name!
+JACK	m	Wait, can you hear me? Can you... Can you see me? He sees me. He sees me! Guardians Screening Script 9/6/12 Avid 110.
+JAMIE	m	You just made it snow.
+JACK	m	I know!
+JAMIE	m	In my room.
+JACK	m	I know!
+JAMIE	m	You're real?
+JACK	m	Yeah! Who do you think brings you all the blizzards and snow days, and you remember when you went flying on that sled the other day?!
+JAMIE	m	That was you?
+JACK	m	That was me!
+JAMIE	m	Cool!
+JACK	m	Right?!
+JAMIE	m	But what about the Easter Bunny and the Tooth Fairy I mean--
+JACK	m	Real-real-real! Every one of us is real!
+JAMIE	m	I knew it!
+JAMIE	m	Um...Jack Frost. Guardians Screening Script 9/6/12 Avid 111.
+NORTH	m	Ah, moi deti! Come back!
+TOOTH	f	North! Are you okay?
+NORTH	m	Is official. My powers are kaput.
+TOOTH	f	Look! Jack!
+TOOTH	f	(flies to him) Jack--!
+JACK	m	You okay? Guardians Screening Script 9/6/12 Avid 112.
+NORTH	m	What are you doing here?
+JACK	m	Same as you.
+NORTH	m	The last light!
+JAMIE	m	(to North and Tooth) Wow! It is you! I mean it is you! I knew it wasn't a dream.
+NORTH	m	Jack! He sees you!
+JACK	m	Wait, but, where's Bunny?
+NORTH	m	Losing Easter took its toll on all of us. Bunny most of all.
+JACK	m	Oh...no...
+JAMIE	m	That's the Easter Bunny?
+BUNNYMUND	?	Now somebody sees me! I mean, where were you about an hour ago, mate?
+JAMIE	m	What happened to him? He used to be huge and cool! And now he's cute.
+BUNNYMUND	?	Oh, that's good. Guardians Screening Script 9/6/12 Avid 113.
+BUNNYMUND	?	Did you tell him to say that? (hops over to Jack) That's it! Let's go! Me and you! Come on!
+JAMIE	m	No! Actually he told me you were real. Just when I started to think that maybe you weren't.
+BUNNYMUND	?	He made you believe? In me?
+JACK	m	(to the others) Get Jamie out of here.
+NORTH	m	Be careful, Jack!
+PITCH	m	Jack Frost! Let's end this, shall we?
+PITCH	m	That little trick doesn't work on me anymore.
+BUNNYMUND	?	Quick, this way this way!
+BUNNYMUND	?	Dead end. Other way other way!
+JAMIE	m	Jack!
+NORTH	m	That was good try, Jack! A for effort!
+JACK	m	(groaning in pain) He's stronger. I can't beat him.
+PITCH	m	Very well. There are other ways to snuff out a light.
+BUNNYMUND	?	If you want him, you're gonna have to go through me!
+PITCH	m	(laughing, genuinely) Look how fluffy you are! Would you like a scratch behind the ears?
+BUNNYMUND	?	Don't you even think about it!
+PITCH	m	I can't tell you how happy it makes me to see you all like this. You look awful.
+JAMIE	m	Jack, I'm scared.
+JACK	m	We're gonnna have a little fun, instead. That's it. That's my center.
+PITCH	m	So what do you think, Jamie? Do you believe in the Boogiema...
+JACK	m	Now let's go get your friends.
+JACK	m	Yeah! Come on!
+JAMIE	m	Whoa! Cool!
+PIPPA	f	Jamie, how are you doing that?!
+JAMIE	m	Jack Frost! Come on, we need your help!
+PIPPA	f	Hey is, is that?
+CLAUDE	m	Huh?!
+BUNNYMUND	?	Happy Easter!
+TOOTH	f	Don't forget to floss!
+CLAUDE	m	Cupcake?
+CLAUDE	m	Yeah!
+CALEB	m	The Easter Bunny's real!
+CLAUDE	m	And Santa!
+MONTY	m	Whoa, yeaaaaaaaah!!! (sees Pitch, makes U-Turn) Ahhhhhhhhhhhh!
+PITCH	m	You think a few children can help you? Against this!
+JACK	m	They're just bad dreams, Jamie.
+BUNNYMUND	?	And we'll protect you, mate.
+PITCH	m	Aww, you'll protect them. But who will protect you?
+JAMIE	m	I will.
+CUPCAKE	f	I will.
+PIPPA	f	And me.
+MONTY	m	I'll try.
+PITCH	m	Still think there's no such thing as the boogeyman?
+JAMIE	m	I do believe in you. I'm just not afraid of you.
+KIDS	m	Whoa...whoaaaa!
+CUPCAKE	f	Yeah, Tooth Fairy! Whooaaa! Guardians Screening Script 9/6/12 Avid 121.
+MONTY	m	Whoa, yeah!
+PITCH	m	No! Get them!
+PITCH	m	Do your jobs!
+BUNNYMUND	?	Oh yeah, come on, come on!
+BUNNYMUND	?	Oh, crikey!
+BUNNYMUND	?	I'm just a bunny! Guardians Screening Script 9/6/12 Avid 122.
+BUNNYMUND	?	G'day, mate!
+CALEB	m	Whoa!
+BUNNYMUND	?	Come on! Wooooohoooo!
+CUPCAKE	f	Let's get `em!
+KIDS	m	Aaaaaahhhhhh!
+CUPCAKE	f	Come on guys, we can do it!
+BUNNYMUND	?	All yours, mate.
+JACK	m	Thanks, Tooth!
+BUNNYMUND	?	Ho, ho, HO! Guardians Screening Script 9/6/12 Avid 124.
+NORTH	m	Hyah! Wrong roof.
+CALEB	m	Look at that!
+JAMIE	m	(gets an idea) I got it. (off their confused looks) Guardians Screening Script 9/6/12 Avid 125.
+JAMIE	m	I know what we have to do! Guys, come on!
+JACK	m	It's over Pitch! There's no place to hide.
+BUNNYMUND	?	Jack, look out! Whoa! The Sandman!
+KIDS	m	Man, this is so cool! Yeah, alright! Wahoo! Wow! Guardians Screening Script 9/6/12 Avid 126.
+NORTH	m	Welcome back, old friend!
+JACK	m	Sandy.
+TOOTH	f	Oh, Sandy. You're alright!
+BUNNYMUND	?	Sandy, come here!
+JACK	m	Yeah!
+BUNNYMUND	?	Mate, you are a sight for sore eyes!
+SOPHIE	f	Pretty!
+CUPCAKE	f	Whoa...
+MONTY	m	Yeah!
+CLAUDE	m	Oh yeah? Bring it on!
+NORTH	m	Your center?
+JACK	m	It took awhile, but I figured it out. Guardians Screening Script 9/6/12 Avid 128.
+NORTH	m	You're all on naughty list. Bunny, think fast!
+PITCH	m	No.
+PITCH	m	You dare have fun in my presence! I am the Boogeyman! AND YOU WILL
+PITCH	m	Noooo!
+PITCH	m	(under his breathe) No. Guardians Screening Script 9/6/12 Avid 129.
+NORTH	m	Leaving the party so soon?
+TOOTH	f	You didn't even say goodbye.
+PITCH	m	A quarter?
+TOOTH	f	And that's for my fairies.
+PITCH	m	You can't get rid of me! Not forever! There will always be fear!
+NORTH	m	So what? As long as one child believes, we will be here to fight fear!
+PITCH	m	Really? Then what are they doing here?
+NORTH	m	They can't be my Nightmares, I'm not afraid.
+JACK	m	Looks like it's your fear they smell. Guardians Screening Script 9/6/12 Avid 130.
+PITCH	m	Ahhh, no....AAAAAHHHHHH!!
+PITCH	m	No, no, nooooooo!
+NORTH	m	Are you ready now, Jack? To make it official.
+NORTH	m	Then is time you take Oath. Guardians Screening Script 9/6/12 Avid 131.
+NORTH	m	"Will you, Jack Frost...vow to watch over the children of the world?
+NORTH	m	To guard them with your life - their hopes, their wishes, and their dreams? For they are all that we have, all that we are and all that we will ever be."
+JACK	m	I will.
+NORTH	m	Then congratulations, Jack Frost - for you are now and forevermore...a Guardian.
+KIDS	m	Oh man! Woo! Yeah, Jack! Yeah, Jack! Yeah! Wooo!
+NORTH	m	Yippa!
+BUNNYMUND	?	Yeah! Wooo! Good job, mate. Good job!
+KIDS	m	Alright! Yeah! Go, Jack! Alright! Woo. Alright! Guardians Screening Script 9/6/12 Avid 132.
+NORTH	m	Klasno!
+BUNNYMUND	?	That's my boy! Woo!
+KIDS	m	Alright Jack. Yeah! Awesome!
+TOOTH	f	Keep it together, girls.
+KIDS	m	Jack! You did it Jack! Wooo! You're in the Guardians! Yeah, Jack! Yay! Yeah! You earned it! You're Jack Frost! Yay! Awesome, yay!
+CALEB	m	You guys, look!
+MONTY	m	That's Santa's sleigh.
+KIDS	m	Wow, it's real. That is wicked! Whoa, that was awesome! Ohh...can you believe this? Whoa, did you guys see that? That's awesome! Wow! Whoa! Guardians Screening Script 9/6/12 Avid 133.
+BUNNYMUND	?	(to North, wryly) Everyone loves the sleigh.
+KIDS	m	Wow! Look at that! So totally insane!
+NORTH	m	Time to go.
+KIDS	m	Whoa! It's beautiful. Wow, that was awesome!
+BUNNYMUND	?	Happy Easter ya little anklebiter. I'm gonna miss yah.
+SOPHIE	f	Bye, bye, bunny.
+JAMIE	m	You're leaving? But, what if Pitch comes back?
+JAMIE	m	What if we stop believing again? If I can't see you --
+JACK	m	Hey, hey, slow down, slow down. You telling me you stop believing in the moon when the sun comes up? Guardians Screening Script 9/6/12 Avid 134.
+JAMIE	m	(considers, then) No.
+JACK	m	Okay, well do you stop believing in the sun when clouds block it out?
+JAMIE	m	No.
+JACK	m	We'll always be there, Jamie. And now...we'll always be here. (points to Jamie's heart) Which kind of makes you a Guardian too.
+KIDS	m	I can't keep my eyes open. I think I gotta go home. Let's go home. What time is it? I'm sleepy.
+JAMIE	m	Jack!
+NORTH	m	Hyah!
+KIDS	m	Woooo! Yeah! Yay! Guardians Screening Script 9/6/12 Avid 135.
+

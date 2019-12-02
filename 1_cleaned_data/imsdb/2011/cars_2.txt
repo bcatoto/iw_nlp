@@ -1,0 +1,1034 @@
+LELAND TURBO	m	This is Agent Leland Turbo. I have a flash transmission for Agent Finn McMissile.
+LELAND TURBO	m	Finn. My cover's been compromised. Everything's gone pear-shaped.
+LELAND TURBO	m	You won't believe what I've found out here.
+LELAND TURBO	m	This is bigger than anything we've ever seen. And no one even knows it exists. Finn, I need backup. But don't call the cavalry - it could blow the operation. And be careful. It's not safe out here!
+LELAND TURBO	m	Transmitting my grids now. Good luck!
+CRABBY	m	Alright buddy, we're here. Right where you paid me to bring you. Question is, why?
+FINN	m	I'm looking for a car.
+CRABBY	m	A car? Hey pal, you can't get any further away from land than out here.
+FINN	m	Exactly where I want to be.
+CRABBY	m	Well I got news for you, buddy. There's nobody out here but us.
+COMBAT SHIP	m	What are you doing out here?
+CRABBY	m	What does it look like, genius? I'm crabbing!
+COMBAT SHIP	m	Well turn around and go back where you came from.
+CRABBY	m	Yeah? And who's gonna make me?
+CRABBY	m	Alright, alright! Don't get your prop in a twist. (as he turns to leave) What a jerk. Sorry, buddy. Looks like it's the end of the line. Buddy?
+PROFESSOR ZUNDAPP	m	(in German and English) Too many cars here. Out of my way!
+FINN	m	Professor Zundapp?
+NOSY PACER	m	You wanted to see this before we load it?
+PROFESSOR ZUNDAPP	m	Ah, yes. Very carefully...
+NOSY PACER	m	Oh. A TV camera. What does it actually do?
+PROFESSOR ZUNDAPP	m	This camera is extremely dangerous.
+FINN	m	What are you up to now, Professor?
+PROFESSOR ZUNDAPP	m	This is valuable equipment. Make sure it is properly secured for the voyage.
+NOSY PACER	m	You got it.
+GREM	m	This is one of those British spies we told you about.
+ACER	m	Yeah. This one we caught sticking his bumper where it didn't belong.
+PROFESSOR ZUNDAPP	m	Agent Leland Turbo.
+PROFESSOR ZUNDAPP	m	It's Finn McMissile! He's seen the camera! Kill him!!
+GREM	m	Get to the boats.
+ACER	m	He's getting away!
+COMBAT SHIP	m	Not for long.
+PROFESSOR ZUNDAPP	m	Wunderbar. With Finn McMissile gone, who can stop us now?
+MATER	m	Mater. Tow Mater, that's who... is here to help you!
+MATER	m	Hey, Otis!
+OTIS	m	Hey, Mater. Gosh, I'm so sorry. I thought I could make it this time, but... (he tries to start his engine, stalls) Smooth like pudding, huh? Ah, who am I kidding? I'll always be a lemon.
+MATER	m	Well dadgum, you're leaking oil again. Must be your gaskets. Hey, look on the bright side: This is your tenth tow this month, so that means it's on the house.
+OTIS	m	You're the only one that's nice to lemons like me, Mater.
+MATER	m	Don't sweat it. These things happen to everybody, Otis.
+OTIS	m	But you never leak oil.
+MATER	m	Yeah, but I ain't perfect. Don't tell nobody, but I think my rust is starting to show through.
+OTIS	m	Hey, is Lightning McQueen back yet?
+MATER	m	Not yet.
+OTIS	m	He must be crazy-excited about winning his fourth Piston Cup. Four! Wow!
+MATER	m	Yeah, we're so dadgum proud of him. But I sure wish he'd hurry up and get back `cause we got a whole summer's worth of best friend fun to make up for. Just me and --
+MATER	m	--- McQueen!
+OTIS	m	Uh, Mater? I'm in no hurry. You don't need to go so fast!
+LUIGI	m	Oh, Lightning. Welcome home.
+FLO	m	Good to have you back, honey.
+FILLMORE	m	Congratulations, man.
+SARGE	m	Welcome home, soldier.
+SHERIFF	m	The place wasn't the same without you, son.
+LIZZIE	f	What? Did he go somewhere?
+MCQUEEN	m	It's good to be home, everybody.
+MCQUEEN	m	Mater!
+MATER	m	McQueen!
+OTIS	m	Woaahhhhh!
+RAMONE	m	Hey. How far'd you make it this time, Otis?
+OTIS	m	Halfway to the county line.
+RAMONE	m	Not bad, man.
+OTIS	m	I know, I can't believe it either!
+MATER	m	McQueen, welcome back!
+MCQUEEN	m	Mater, it's so good to see you.
+MATER	m	You too, buddy.
+MATER	m	Oh, man. You ain't gonna believe the things I got planned for us.
+MACK	m	(to Lizzie, an aside) These best friend greetings get longer every year.
+MATER	m	You ready to have some serious fun?
+MCQUEEN	m	Well, actually I've got something to show you first.
+MATER	m	Wow. I can't believe they renamed the Piston Cup after our very own Doc Hudson.
+MCQUEEN	m	I know Doc said these things were just old cups, but to have someone else win it just didn't feel right, you know?
+MATER	m	Well, Doc would've been real proud of you. That's for sure.
+MCQUEEN	m	Alright, pal. I've been waiting all summer for this. What've you got planned?
+MATER	m	You sure you can handle it?
+MCQUEEN	m	Come on, you know who you're talking to? This is Lightning McQueen. I can handle anything.
+MCQUEEN	m	Uh.... Mater?!
+MATER	m	Just remember, your brakes ain't gonna work on these!
+MCQUEEN	m	Come on, come on! Faster, faster!
+MATER	m	This is gonna be good!
+MATER	m	Uh-oh. This ain't gonna be good.
+MATER	m	Boy, this was the best day ever! And my favorite souvenir?
+MATER	m	This new dent!
+MCQUEEN	m	Boy, Mater. Today was, uh...
+MATER	m	Shoot, that was nothing. Wait til you see what I got planned for tonight.
+MCQUEEN	m	Mater, Mater. Whoa. I was kind of thinking of just a quiet dinner.
+MATER	m	That's exactly what I was thinking.
+MCQUEEN	m	No, I... I meant with Sally, Mater.
+MATER	m	Even better! You, me and Miss Sally going out for supper.
+MCQUEEN	m	Mater, I meant it would be just me and Sally.
+MATER	m	Oh.
+MCQUEEN	m	It's just for tonight. We'll do whatever you want tomorrow.
+MATER	m	Okay.
+MCQUEEN	m	Thanks for understanding.
+MATER	m	Yeah, sure. Y'all go on and have fun now.
+MCQUEEN	m	Alright, then. See ya soon, amigo!
+SALLY	f	This is so nice.
+MCQUEEN	m	I can't tell you how good it is to be here alone. Just the two of us. Finally, you and me ---
+MATER	m	My name is Mater and I'll be your waiter. Mater the waiter. That's funny right there.
+MCQUEEN	m	Mater, you work here?
+MATER	m	Well yeah I work here. What'd you think, I just snuck in here when nobody was looking and pretended to be your waiter, just so I could hang out with you?
+MCQUEEN	m	Oh, yeah. How ridiculous would that be?
+MATER	m	Now, can I start you two lovebirds off with a couple drinks?
+MCQUEEN	m	Yes. I'll have my usual.
+SALLY	f	You know what? I'm going to have that too.
+MATER	m	Uh, right. Your usual.
+MATER	m	Guido! What's McQueen's usual?
+GUIDO	m	(in Italian, subtitled) How should I know?
+MATER	m	Perfect! Give me two of `em.
+SARGE	m	Quiet! My program's on.
+MATER	m	What happened to the dinosaurs, now?
+SARGE	m	Uh-oh...
+MCQUEEN	m	Hey, what's going on over there?
+MCQUEEN	m	Oh, it's that Italian Formula car. His name is ---
+SALLY	f	Francesco Bernoulli. No wonder there's a crowd.
+MCQUEEN	m	Wait, why do you know his name? And don't say it like that. It's three syllables, not ten.
+SALLY	f	What? He's nice to look at. You know, open-wheeled and all.
+MCQUEEN	m	What's wrong with fenders? I thought you like my fenders.
+MCQUEEN	m	Mater?
+MATER	m	Ha ha! That shows what you know. Dump trucks is dumb.
+MCQUEEN	m	Those are strong words from a car that is so fragile.
+MCQUEEN	m	"Not so fast." What is that, your new motto?
+MCQUEEN	m	Well, I would love to. The only thing is my crew's off for the season so ---
+GUIDO	m	Pit stop.
+MCQUEEN	m	You know what? They just got back. Deal me in, baby. Ka-chow!
+MCQUEEN	m	I know, I know. I just got back. But we won't be long and ---
+SALLY	f	Oh, no, don't worry about me. I've got enough to do here. Mater's going to have a blast though. (off McQueen's silence) You're bringing Mater, right? You never bring him to any of your races.
+SALLY	f	Just let him sit in the pits, give him a headset. C'mon, it'll be a thrill of a lifetime for him.
+MATER	m	Your drinks, sir.
+MCQUEEN	m	Mater.
+MATER	m	I didn't taste it!
+MCQUEEN	m	How'd you like to come and see the world with me?
+MATER	m	You mean it?
+MCQUEEN	m	You got me into this thing. You're coming along.
+LUIGI	m	Guido, look! Ferraris and tires! Let's go!
+MCQUEEN	m	Hey, look at this. Okay now Mater, remember: best behavior.
+MATER	m	You got it, buddy. Hey, what's that?
+MCQUEEN	m	Mater!
+LEWIS HAMILTON	m	Hey, McQueen, over here!
+MCQUEEN	m	Hey, Jeff. Lewis!
+MATER	m	Hey! You done good! You got all the leaves!
+JEFF GORVETTE	m	Check out that tow truck.
+LEWIS HAMILTON	m	I wonder who that guy's with?
+MCQUEEN	m	Will you guys excuse me just for one little second?
+MCQUEEN	m	Mater, listen. This isn't Radiator Springs.
+MATER	m	You're just realizing that? Boy, that jet-lag really done a number on you.
+MCQUEEN	m	Mater, look -- things are different over here. Which means maybe you should, you know, act a little different too.
+MATER	m	Different than what?
+MCQUEEN	m	Well, just... help me out here, buddy. I ---
+MATER	m	You need help? Shoot, why didn't you just say so? That's what a tow truck does. Hey, looky there, it's Mr. San Francisco!
+MATER	m	I'll introduce you.
+MCQUEEN	m	Mater, no.
+MATER	m	(already on his way) Look at me -- I'm helping you already!
+MATER	m	Hey Mr. San Francisco, I'd like you to meet ---
+FRANCESCO	m	Lightning McQueen! Buona sera.
+MCQUEEN	m	Nice to meet you, Francesco.
+FRANCESCO	m	Yeah, nice to meet you too. You are very good-looking. Not as good as I thought, but you're good.
+MATER	m	Excuse me. Can I get a picture with you?
+FRANCESCO	m	Anything for McQueen's friend.
+MATER	m	Miss Sally is gonna flip when she sees this. She's Lightning McQueen's girlfriend.
+FRANCESCO	m	Oooh.
+MATER	m	She's a big fan of yours.
+FRANCESCO	m	Hey, she has good taste.
+MCQUEEN	m	Mater's prone to exaggeration. I wouldn't say she's a "big" fan.
+MATER	m	You're right. She's a huge fan. She goes on and on about your open wheels here.
+MCQUEEN	m	Mentioning it once doesn't qualify as going "on and on."
+FRANCESCO	m	Francesco is familiar with this reaction to Francesco. Women respect a car that has nothing to hide.
+MCQUEEN	m	Yeah, uh...
+FRANCESCO	m	Let us have a toast.
+MCQUEEN	m	Let's.
+FRANCESCO	m	(raising a drink) I dedicate my win tomorrow... to Miss Sally.
+MCQUEEN	m	Oh, sorry. I already dedicated MY win tomorrow to her. So if we both do it, it's really not so special. Besides, I don't have a drink.
+MATER	m	I'll go get you one. You mind if I borrow a few bucks for one of them drinks?
+MCQUEEN	m	(could kill him) They're free, Mater.
+MATER	m	Free? Well, shoot, what am I doing here?
+MCQUEEN	m	I should probably go keep an eye on him. See you at the race.
+FRANCESCO	m	Yes, you will see Francesco. But not like this.
+FRANCESCO	m	You will see him like this, as he drives away from you.
+MCQUEEN	m	That's cute. So you had one of those made up for all the racers?
+FRANCESCO	m	No.
+MCQUEEN	m	Okay.
+MCQUEEN	m	He is so getting beat tomorrow.
+VOICE	m	Ladies and gentlecars... Sir Miles Axlerod!
+MILES AXLEROD	m	It is my absolute honor to introduce to you the competitors in the first-ever World Grand Prix. From Brazil. Number eight...
+HOLLEY	f	A Volkswagen Karmann Ghia has no radiator.
+FINN	m	That's because it's air-cooled.
+HOLLEY	f	I'm Agent Shiftwell, Holley Shiftwell from the Tokyo Station. I have a message from London.
+FINN	m	Not here. You must try the canapes on the mezzanine!
+FINN	m	So the lab boys analyzed the photo I sent? What did they learn about the camera?
+HOLLEY	f	It appears to be a standard television camera. They said if you could get closer photos next time, that would be great.
+FINN	m	This was London's message?
+HOLLEY	f	Oh -- no, no. No sir. Um, the oil platforms you were on? Turns out they're sitting on the biggest oil reserve in the world.
+FINN	m	How did we miss that?
+HOLLEY	f	They'd been scrambling everyone's satellites. The Americans actually discovered it just before you did. They placed an agent on that platform, under deep cover. He was able to get a photo of the car who's running the entire operation.
+FINN	m	Who is it? Has anyone seen the photo yet?
+HOLLEY	f	No, not yet. The American is here tonight to pass it to you. He'll signal you when he's ready.
+FINN	m	Oh no.
+HOLLEY	f	What is it?
+FINN	m	Change of plan. You're meeting the American.
+HOLLEY	f	What, me?
+FINN	m	Those thugs down there were on the oil platform. If they see me, the whole mission is compromised.
+HOLLEY	f	No, no. I'm technical, you see. I'm in Diagnostics. I'm not a field agent.
+FINN	m	You are now.
+MATER	m	I'll take one of them.
+MATER	m	Never know which one McQueen'll have a hankering for.
+MATER	m	Hey, what you got here that's free? How about that pistachio ice cream?
+SUSHI CHEF	m	No, no. Wasabi.
+MATER	m	Oh, same ol', same ol'. What's up with you? That looks delicious.
+MATER	m	Uh, a little more, please. It is free, right? (the chef adds more) Keep it coming. A little more. Come on, let's go, it's free! You're getting there... Scoop scoop!
+MATER	m	There you go. Now THAT's a scoop of ice cream.
+SUSHI CHEF	m	(in Japanese, subtitles) My condolences.
+MILES AXLEROD	m	... and now, our last competitor --- Number 95, Lightning McQueen!
+MCQUEEN	m	Thank you so much for having us, Sir Axlerod. I really look forward to racing. This is a great opportunity.
+MILES AXLEROD	m	Oh, the pleasure is all ours, Lightning. You and your team bring excellence and professionalism to this competition.
+MATER	m	Somebody get me water!
+MATER	m	Sweet relief...
+MATER	m	(to the crowd) Whatever you do, do not eat the free pistachio ice cream. It has turned!
+MCQUEEN	m	Sir Axlerod, I can explain. This is Mater.
+MILES AXLEROD	m	I know him. This is the bloke that called into the television show. You're the one I have to thank.
+MATER	m	No, thank you. This trip's been amazing.
+MILES AXLEROD	m	He's a little excited, isn't he?
+MCQUEEN	m	Mater!
+MATER	m	But wait, I... oh, shoot.
+MCQUEEN	m	Mater, you have to get a hold of yourself. You're making a scene.
+MATER	m	But I never leak oil. Never.
+MCQUEEN	m	Go take care of yourself right now.
+MATER	m	Coming through! Excuse me, leakin' oil. Where's the bathroom? Thank you. I gotta go!
+MATER	m	What the...
+MATER	m	Sorry ladies!
+MATER	m	I never leak I never leak I never leak...
+MATER	m	Wowee...
+MATER	m	What in the---
+MATER	m	Hey, that tickles.
+ROD REDLINE	m	Okay, McMissile. I'm here. It's time for the drop.
+HOLLEY	f	Oh, you've got to be joking.
+FINN	m	What's the problem, Shiftwell?
+HOLLEY	f	He's in the loo.
+FINN	m	So go in!
+HOLLEY	f	I can't just go into the men's loo.
+FINN	m	Time is of the essence, Shiftwell.
+MATER	m	(out of breath) Whatever you do, I would not go in there.
+MATER	m	A Gremlin and a Pacer!
+MATER	m	(to Grem and Acer) No offense to your makes and models, but you guys break down harder than my cousin Betsy after she got left at the ---
+MATER	m	(as he's goosed) --- altar!
+MATER	m	Are you okay?
+ROD REDLINE	m	I'm fine.
+GREM	m	Hey. Tow truck.
+GREM	m	We'd like to get to our private business here, if you don't mind.
+MATER	m	Oh, yeah. Don't let me get in the way of your "private business." Oh! A little advice: When you hear her giggle and see that waterfall, you best press that green button.
+GREM	m	Thank you.
+MATER	m	It's to adjust the temperature.
+ACER	m	Got it.
+MATER	m	Remember it's in Celsius, not Fahrenheit.
+MATER	m	Alright then.
+MATER	m	Excuse me, ma'am.
+MATER	m	Dadgum pistachio ice cream.
+MATER	m	(driving off, to himself) Look out, ladies. Mater's fittin' to get funky!
+HOLLEY	f	Hello.
+MATER	m	Well, hello.
+HOLLEY	f	A Volkswagen Karmann Ghia has no radiator.
+MATER	m	Well of course it doesn't. That's `cause it's air-cooled!
+HOLLEY	f	Perfect. I'm from the Tokyo Station
+MATER	m	Course, Karmann Ghia's weren't the only ones. Besides the Beetles you had your Type-3 Squarebacks, with the pancake motors...
+HOLLEY	f	Yeah. Okay, I get it---
+MATER	m	... And before both of them, there's the Type-2 buses - my buddy Fillmore's one of them.
+HOLLEY	f	Listen! We should find somewhere more private.
+MATER	m	Uh, gee. Don't you think that's a little, uh ---
+HOLLEY	f	You're right. Impossible to know which areas here are compromised. So, when can I see you again?
+MATER	m	Well, let's see. Tomorrow I'll be out there at the races.
+HOLLEY	f	Got it. We'll rendezvous then.
+MCQUEEN	m	There you are. Where have you been?
+MATER	m	What's a rendezvous?
+LUIGI	m	It's like a date.
+MATER	m	A date?!
+MCQUEEN	m	Mater, what's going on?
+MATER	m	Well, what's going on is I've got me a date tomorrow.
+LUIGI	m	Guido don't believe you.
+MATER	m	Well, believe it. My new girlfriend just said so. Hey, there she is.
+MATER	m	Hey! Hey lady!
+MATER	m	See ya tomorrow!
+LUIGI	m	Guido still don't believe you.
+GREM	m	--- you tricked us real good.
+ACER	m	And we don't like being tricked.
+ACER	m	Hey, what's so funny?
+ROD REDLINE	m	Well, you know, I was just wearing a disguise. You guys are stuck looking like that.
+ROD REDLINE	m	Allinol? Thanks, fellas. I hear this stuff is good for you.
+PROFESSOR ZUNDAPP	m	Allinol by itself is good for you.
+PROFESSOR ZUNDAPP	m	But after microscopic examination, I have found that it has one small weakness. When hit with an electromagnetic pulse, it becomes extremely dangerous.
+GREM	m	--- for the camera.
+ROD REDLINE	m	Is that all you want? I got a whole act.
+PROFESSOR ZUNDAPP	m	You were very interested in this camera on the oil platform. Now you will witness what it really does.
+ROD REDLINE	m	Whatever you say, Professor.
+ACER	m	You talked up a lot of cars last night. Which one's your associate?
+ROD REDLINE	m	Your mother. Oh no, I'm sorry. It was your sister. You know, I can't tell them apart these days.
+GREM	m	Could I start it now, Professor?
+PROFESSOR ZUNDAPP	m	Fifty percent power. (to Rod Redline) This camera is actually an electromagnetic pulse emitter.
+ACER	m	(re: a girl on the TV) What about her? Did you give it to her?
+PROFESSOR ZUNDAPP	m	The Allinol is now heating to a boil, dramatically expanding, causing the engine block to crack under the stress, forcing oil into the combustion chamber.
+ACER	m	(re: a guy on the TV) How about him? You talk to him?
+ROD REDLINE	m	(to Professor Zundapp) What do I care? I can replace an engine block.
+PROFESSOR ZUNDAPP	m	You may be able to, but after full impact of the pulse, unfortunately, there will be nothing to replace.
+ACER	m	How about him? Does he have it?
+PROFESSOR ZUNDAPP	m	That's him. He's the one.
+GREM	m	Roger that, Professor Z.
+ROD REDLINE	m	No!
+PROFESSOR ZUNDAPP	m	The project is still on schedule. You will find this second agent ---
+PROFESSOR ZUNDAPP	m	--- and kill him.
+BRENT MUSTANGBURGER	m	I'm Brent Mustangburger, here with racing legends Darrell Cartrip and David Hobbscap. There's never been a competition like this before. 41.
+DAVID HOBBSCAP	m	Really, Darrell, I think you need to clean your windshield. You're clearly not seeing this for what it is: Francesco's race to lose.
+MCQUEEN	m	Speed. I am speed.
+FRANCESCO	m	Really? You are "speed"? Then Francesco is triple speed. (closes his eyes) Francesco. Is. Triple speed. Francesco likes this, McQueen. It's really getting him into the zone!
+MCQUEEN	m	He is so getting beat today.
+SARGE	m	His suspension stats look good.
+LUIGI	m	Tire pressure is excellent.
+FILLMORE	m	He's got plenty of fuel.
+MATER	m	And he's awesome!
+HOLLEY	f	Why is he in the pits? He's so exposed.
+FINN	m	It's his cover. One of the best I've seen, too. Look at the detail on that rust. It must have cost him a fortune.
+HOLLEY	f	But why hasn't he contacted us yet?
+FINN	m	There's probably heat on him. Be patient.
+HOLLEY	f	Right, of course. He'll signal us when he can.
+FINN	m	And then we find out who's behind all this.
+MATER	m	McQueen! It's time to make your move. Get on the outside and show 'em what Doc done taught you.
+MCQUEEN	m	Nice call, Mater. Keep it up!
+GREM	m	Roger that.
+GREM	m	You gotta be kidding me.
+ACER	m	What is it?
+GREM	m	It's that tow truck from the bathroom.
+ACER	m	The one from the bathroom?
+GREM	m	Yeah, the one the American Agent passed the device to.
+ACER	m	What about him?
+GREM	m	What about him? He's in the pits!
+ACER	m	Not for long.
+HOLLEY	f	Hold on. I think I've got something.
+FINN	m	What is it?
+HOLLEY	f	The Pacer from the party last night.
+HOLLEY	f	Cross-referencing with the photos from the oil derricks... Yep. His VIN numbers match.
+FINN	m	Anyone with him? He won't be alone.
+HOLLEY	f	Conducting analysis on the target.
+HOLLEY	f	He's not the only one here. Three... five... they're everywhere. And they're all closing in on... oh no.
+HOLLEY	f	Finn? Finn, where are you?
+MATER	m	Wow! Some of them fellers is really loud.
+MATER	m	Uh, what?
+MCQUEEN	m	Guys, a little too much chatter. Let's keep this line clear.
+MATER	m	Is there gonna be cable where you is so I can watch the rest of the race?
+HOLLEY	f	I'm trying. Get out now!
+MATER	m	Well, all right but I usually like to have a proper detailing done before I meet a lady friend.
+ACER	m	Finn McMissile? But you're dead!
+FINN	m	Then this shouldn't hurt at all.
+FINN	m	Miss Shiftwell?
+HOLLEY	f	I've got him in the back alleys east of the garages. Multiple assailants are closing in quickly.
+MATER	m	Hey, new lady friend? You like flowers?
+MCQUEEN	m	What?
+MATER	m	Stay outside. Gotcha.
+MCQUEEN	m	Outside?
+FRANCESCO	m	Grazie and arrivaderci!
+ACER	m	This time I'm gonna make sure you stay dead.
+MATER	m	What's that? You want me to head toward that ruckus?
+MATER	m	Wow! A live karate demonstration!
+MCQUEEN	m	Stop it, Mater. Just sign off.
+MATER	m	That was cool! Hey, can I get your autograph?
+MATER	m	Hey, where'd he go?
+MATER	m	Dadgum, did I miss our date?
+DARRELL CARTRIP	m	Francesco, over here! Hey, what was your strategy today?
+FRANCESCO	m	Strategia? Francesco needs no strategy, it's very simple. You start the race, wait for Lightning McQueen to choke, pass him, then win. Francesco always wins. It's boring.
+DARRELL CARTRIP	m	I gotta tell you, dude. You were in trouble for awhile. That dirt track section had you crawling!
+FRANCESCO	m	To truly crush one's dream, you must first raise their hopes very high.
+MATER	m	Maybe if I, I don't know, talked to somebody and explained what happened I could help.
+MCQUEEN	m	I don't need your help. I don't want your help.
+PRESS	m	- McQueen, you had it in the bag! - Yeah, what happened?
+MCQUEEN	m	I made a mistake. But I can assure you, it won't happen again.
+MCQUEEN	m	Look, guys. We know what the problem is and we've taken care of it.
+BRENT MUSTANGBURGER	m	Lightning McQueen loses in the last lap to Francesco Bernoulli in the first race of the World Grand Prix and three, count em, three cars flamed out leading some to suggest that their fuel, Allinol, might be to blame.
+MILES AXLEROD	m	Allinol is safe! Alternative fuel is safe! There is no way my fuel caused these cars to flame out!
+DARRELL CARTRIP	m	Well the jury may still be out on whether Allinol caused these accidents, but one thing's for sure: Lightning McQueen blew this race.
+BRENT MUSTANGBURGER	m	Team McQueen can't be happy right now.
+SECURITY CAR	m	(in Japanese and English) Come with me please, sir.
+MATER	m	But I'm gonna miss my plane.
+SECURITY CAR	m	Right this way.
+MATER	m	Doggone it. This is about my hook, isn't it? I know I should've checked it, but I can't really, look -- it's attached to me.
+MATER	m	Hey, I know you. You're that feller from the karate demonstration.
+FINN	m	I never properly introduced myself. Finn McMissile. British Intelligence.
+MATER	m	Tow Mater. Average intelligence.
+FINN	m	Who are you with? FBI, CIA?
+MATER	m	Let's just say I'm triple-A affiliated. You know, I know some karate. I don't wanna brag or nothing, but I've got me a black fan belt.
+MATER	m	Hey, you wanna see some moves I made up?
+FINN	m	You're being followed.
+MATER	m	This first one I can reach into a car's hood, pull out his battery, and show it to him before he stalls. I call it, "What I accidentally did to my friend Luigi once."
+GREM	m	There he is!
+MATER	m	(eyes the clock) Look, I probably ought to go. I'm about to miss my flight.
+FINN	m	Don't worry.
+FINN	m	I've taken care of that. Hang on.
+MATER	m	This is First Class service. You don't even have to go through the terminal.
+MATER	m	Your karate partners are back here. They kinda look like they're trying to catch up!
+FINN	m	Drive forward. Whatever you do, don't stop.
+MATER	m	(only hearing this) Is everything okay back there?
+FINN	m	Roger that.
+MATER	m	You remember that whole thing about me not stopping no matter what?
+MATER	m	I knew I should've done carry-on!
+FINN	m	Thanks, old boy!
+MATER	m	Hey, doggone it. It's my imaginary girlfriend!
+HOLLEY	f	Come on! Get in here!
+MATER	m	Boy I tell you what, you really do want this first date, don't ya? That's a no-quit attitude right there.
+FINN	m	Hold on, Sid!
+SIDDELEY	?	Finn, it's now or never!
+SIDDELEY	?	Hold on!
+MCQUEEN	m	"I'm so sorry for what I did. I don't want to be the cause of you losing any more races. I want you to go prove to the world what I already know - that you are the greatest race car in the whole wide world. Your best friend, Mater."
+MCQUEEN	m	I didn't really want him to leave.
+LUIGI	m	Wait, there's more here. "P.S. Please tell the hotel I didn't mean to order that movie. I thought it was just a preview and I didn't realize I was paying for it. P.P.S... That's funny right there --
+MCQUEEN	m	Well, at least I know if he's at home he'll be safe.
+FINN	m	Now that's how I like to start the day! You never feel more alive than when you're almost dead.
+HOLLEY	f	I hope that device didn't fall off.
+MATER	m	That's the closest I ever been to missing my flight! That was ---
+MATER	m	Yow!
+HOLLEY	f	Still in one piece, great.
+MATER	m	I gotta go to a doctor. I keep getting these sharp pains in my undercarriage.
+HOLLEY	f	Downloading the photo now.
+MATER	m	Hey, lemme introduce you two. This here is Finn McSomething-or- other. He's a First Class VIP airport whatchamacallit. And Finn, this here's my date. I never did get your name.
+HOLLEY	f	Oh yes, sorry. It's Shiftwell. Holley Shiftwell.
+MATER	m	It's Shiftwell. Holley ---
+FINN	m	Finally. Time to see who's behind all this.
+HOLLEY	f	(to Mater, expectantly) What is this?
+MATER	m	Well, that's one of the worst engines ever made. It's an old aluminum V8 with a Lucas electrical system and Whitworth bolts. Shoot, them Whitworth bolts is a pain, tell you what. Them ain't metric, they ain't inches...
+HOLLEY	f	Yes, OK, right. But who's engine is this, Mater?
+MATER	m	Well, it's kinda hard to tell from this picture, ain't it?
+HOLLEY	f	But you're the one who took it.
+FINN	m	Holley.
+HOLLEY	f	Oh, right. Yes, of course. "A good agent gets what he can, then gets out before he's killed." Sorry.
+MATER	m	Agent? You mean like insurance agent, like, `Like a good neighbor, Mater is there'? Wait, you mean secret agents. You guys is spies!
+FINN	m	Holley, in how many makes and models did this type of engine appear?
+HOLLEY	f	It was standard in seven models over a 12-year period. At least 35,000 cars were made with this engine.
+MATER	m	You're pretty.
+HOLLEY	f	Yes, alright. Thank you.
+MATER	m	And so nice.
+HOLLEY	f	Just pay attention.
+FINN	m	This seems like a dead end. If there were something in the photo that could narrow this down a bit I'd be a lot happier.
+MATER	m	You might not be happy, but I bet this feller is. See how he's had most of his parts replaced? And see all them boxes over there? Them's all original parts. They ain't easy to come by.
+HOLLEY	f	Rare parts.
+FINN	m	That's something we can track.
+HOLLEY	f	Exactly!
+FINN	m	Well done, Mater! I would never have seen that. I know of a black-market parts dealer in Paris, a treacherous lowlife. But, he's the only car in the world who can tell us whose engine this is. Mater, what would you say to setting up an informal task force on this one?
+MATER	m	Wait, what?
+FINN	m	You obviously have plenty of experience in the field.
+MATER	m	Well yeah I live right next to one. (thinks about it) I don't know, Finn. I ain't exactly been much help to anybody recently.
+FINN	m	You're helping me. Please, Mater.
+MATER	m	Well, okay. But you know I'm just a tow truck, right?
+FINN	m	Right. And I'm just in the import/export business. Siddeley?
+SIDDELEY	?	Yes, Finn?
+FINN	m	Paris. Tout de suite.
+MATER	m	Yeah, two of them sweets for me too, Sid! You know, I always wanted to be a spy.
+HOLLEY	f	Really? Me too.
+SIDDELEY	?	Afterburners, sir?
+FINN	m	Is there any other way?
+FINN	m	Once we're inside, stay close. Don't bother checking VIN numbers for criminal records, they're all dodgy here.
+HOLLEY	f	No VIN scans. Got it.
+FINN	m	Don't talk to anyone. Don't look at anyone. And absolutely, positively no idling. Are we clear?
+HOLLEY	f	Yes, right. No idling. Yes, sir.
+FINN	m	Mater?
+MATER	m	Yeah, Finn?
+FINN	m	We're not here to go shopping.
+MATER	m	Shopping? What do you mean? Why would I ---
+MATER	m	Dadgum.
+MERCHANTS	m	- Parts for sale, Monsieur! - Monsieur! Parts for sale!
+MATER	m	You gotta be kidding me - they've got everything here. Look at them hoods! I could use a hood.
+MATER	m	Sorry fellers, I gotta go.
+MATER	m	Excuse me. What are you selling?
+FINN	m	There you are.
+MATER	m	Man, there are some great ---
+FINN	m	Mater, get back!
+MATER	m	Hey, wait for me!
+FINN	m	Have you lost your mind?!
+HOLLEY	f	But I thought ---
+FINN	m	Mater! This chap needs a tow. Hook him up.
+MATER	m	Sure thing.
+TOMBER	m	You rusty piece of junk, get your dirty hook off me!
+FINN	m	(to the cars) Allez! Maintenant - vite!
+TOMBER	m	Electroshock! Are you kidding me??
+FINN	m	Easy, Tomber. This is her first field assignment - she didn't know you were my informant.
+HOLLEY	f	Informant?
+TOMBER	m	A rookie, eh? I never liked new car- smell.
+FINN	m	Tomber was doing 20 to life in a Moroccan impound the first time I saved him, if I recall correctly.
+TOMBER	m	Speaking of recalls, you're getting up there in mileage aren't you, Finn?
+HOLLEY	f	Alright, we get it. You both know each other, you're both old. So.
+HOLLEY	f	There you go, informant. Inform us.
+TOMBER	m	That is the worst motor ever made.
+TOMBER	m	Wait. That oil filter... those wheel bearings.
+FINN	m	Do those parts look familiar, Tomber?
+TOMBER	m	They should. I sold them.
+HOLLEY	f	To whom?
+TOMBER	m	No idea. He's my best customer, but he always does his business over the phone. I was always wondering why he needs so many parts. Now I know.
+MATER	m	Well, a lemon needs parts. Ain't nothing truer than that.
+FINN	m	"Lemon?"
+MATER	m	Yeah, you know. Cars that don't ever work right. Lemons is a tow truck's bread and butter. Like them Gremlins and Pacers we run into at the party and the race and the airport.
+FINN	m	Holley, pull up the pictures from the oil platform. I want to know what other type of cars were out there.
+HOLLEY	f	Right. Let's see. There were Hugos. And Trunkovs.
+FINN	m	Mater, are these cars considered lemons?
+MATER	m	Is the Popemobile Catholic?
+HOLLEY	f	Finn. Everyone involved in this plot is one of history's biggest loser cars.
+FINN	m	And they're all taking their orders from the car behind this engine.
+TOMBER	m	This explains it!
+FINN	m	What, Tomber?
+TOMBER	m	Gremlin, Pacer, Hugo and Trunkovs never get together. But they're having a secret meeting in two days.
+FINN	m	Where's this meeting taking place?
+TOMBER	m	Porto Corsa, Italy.
+MATER	m	That's where the next race is!
+FINN	m	Then there's a good chance our mystery engine will be there too.
+TOMBER	m	Your chances are more than good. I just sent him a new clutch assembly yesterday... to Porto Corsa.
+FINN	m	Holley, contact Stephenson and have him meet us at Gare de Lyon. Good work.
+MATER	m	You never see this many lemons in one town. Unless there's a swap meet, or something.
+	?	70.
+MATER	m	Hey, how'd you get all them pictures?
+HOLLEY	f	Well, I remotely reprogrammed Porto Corsa's red light cameras to do recognition scans.
+MATER	m	Wow, not only is you the prettiest car I ever met, but you the smartest too.
+HOLLEY	f	Thank you. I think.
+MATER	m	That's a familiar sight.
+MATER	m	A Hugo being towed. But he looks absolutely perfect.
+FINN	m	Of course. They must be the heads of the lemon families.
+MATER	m	Makes sense. If I was rich and broke down every day, I'd hire me to tow me around all the time too.
+FINN	m	We've got to infiltrate that meeting. It's the only way to find out who's behind all this.
+HOLLEY	f	Hang on a minute.
+MATER	m	What?
+HOLLEY	f	Hold still.
+MATER	m	Ahh!
+FINN	m	Good job, Miss Shiftwell.
+HOLLEY	f	Thank you, Finn.
+MATER	m	Boy, I sure wish my friends could see me now.
+LUIGI	m	Guido, your eyes do not deceive you. We are in Italy. We are home!
+FILLMORE	m	Hey, Luigi. Which way to the hotel, man?
+LUIGI	m	What? No friends of mine will stay in a hotel in my village. You will stay with my --- Uncle Topolino!
+SARGE	m	How do they do it? These are the same ingredients as back home, but it tastes so good.
+FILLMORE	m	It's organic, man.
+SARGE	m	Tree hugger.
+UNCLE TOPOLINO	m	You look so down, so low. Is like you have flat tires.
+UNCLE TOPOLINO	m	She said you look like you're starving. That she's going to make you a big meal, and fatten you up.
+MCQUEEN	m	No, Mama Topolino, please. You don't need to make a fuss!
+UNCLE TOPOLINO	m	Capisco. I understand. Is a problem, yes? Between you and a friend?
+MCQUEEN	m	How'd you know that?
+UNCLE TOPOLINO	m	A wise car hears one word and understands two.
+UNCLE TOPOLINO	m	That, and Luigi told me. While Mama cooks, come and take a stroll with me.
+MCQUEEN	m	I brought my friend Mater along on the trip. And I told him he needed to act different, that we weren't in Radiator Springs.
+UNCLE TOPOLINO	m	This Mater. He's a close friend?
+MCQUEEN	m	He's my best friend.
+UNCLE TOPOLINO	m	Then why would you ask him to be someone else?
+MCQUEEN	m	What did I do? I said some things during our fight...
+UNCLE TOPOLINO	m	You know, back when Guido and Luigi used to work for me, they would fight over everything.
+UNCLE TOPOLINO	m	They fight over what Ferrari was the best Ferrari; which one of them look more like a Ferrari... There were even some non-Ferrari fights.
+UNCLE TOPOLINO	m	So I tell them, va bene. It's okay to fight. Everybody fights now and then, especially best friends.
+UNCLE TOPOLINO	m	But you gotta make up fast.
+UNCLE TOPOLINO	m	No fight more important than friendship.
+UNCLE TOPOLINO	m	Chi trova un'amico, trova un tesoro.
+MCQUEEN	m	What does that mean?
+MAMA TOPOLINO	f	Whoever find a friend, find a treasure.
+MAMA TOPOLINO	f	Now, mangia! Eat!
+STEPHENSON	m	Finn, one hour to Porto Corsa.
+FINN	m	Thank you, Stephenson.
+HOLLEY	f	That should just about do it.
+FINN	m	Perfect.
+HOLLEY	f	So Mater, it's voice-activated. But you know, everything's voice- activated these days.
+MATER	m	What? I thought you was supposed to be making me a disguise.
+MATER'S COMPUTER	m	Voice recognized. Disguise Program Initiated.
+MATER	m	Cool! Hey, computer. Make me a German truck!
+MATER'S COMPUTER	m	Request acknowledged.
+MATER	m	Check it out. I'm wearing Materhosen. Make me a monster truck!
+MATER'S COMPUTER	m	Request acknowledged.
+MATER	m	I vant to siphon your gas. Now make me a taco truck!
+MATER'S COMPUTER	m	Request acknowledged.
+MATER	m	A funny car!
+MATER'S COMPUTER	m	Request acknowledged.
+FINN	m	The idea is to keep a low profile, Mater.
+MATER	m	So I just go in, pretend to be this truck.
+FINN	m	And leave the rest to us.
+HOLLEY	f	Now hold still.
+HOLLEY	f	I have to do the final fitting on your disguise.
+HOLLEY	f	Oh dear. That's no good.
+MATER	m	Hey, what are you doing?
+HOLLEY	f	The disguise won't calibrate effectively without a smooth surface to graft onto.
+MATER	m	Oh. For a second there I thought you was trying to fix my dents.
+HOLLEY	f	I was.
+MATER	m	Well then no thank you. I don't get them dents buffed, pulled, filled or painted by nobody. They're way too valuable.
+HOLLEY	f	Your dents are valuable?
+MATER	m	I come by each one of them with my best friend Lightning McQueen. 77.
+MATER	m	I don't fix these. I want to remember these dents forever.
+HOLLEY	f	So you were being serious in Paris? McQueen isn't just part of your cover?
+FINN	m	Friendships can be dangerous in our line of work, Mater.
+MATER	m	But my line of work is towing and salvage.
+FINN	m	Right. And Miss Shiftwell's is designing iPhone apps.
+MATER	m	No, I meant for real. I ---
+HOLLEY	f	It's okay. Say no more. I'll work around the dent.
+FINN	m	In the meantime...
+FINN	m	You look a little light on weapons.
+BRENT MUSTANGBURGER	m	The big news continues to be Allinol. Sir Miles Axlerod spoke to the press earlier today to answer questions about its safety.
+MILES AXLEROD	m	An independent panel of scientists has determined that Allinol is completely safe. Okay? Safe! There it is.
+BRENT MUSTANGBURGER	m	So the race will go on, folks.
+DARRELL CARTRIP	m	But the question everyone is asking: Will the real Lightning McQueen show up today?
+FRANCESCO	m	(to the crowd) Bellissima! Thank you for your support. And your big mistake, McQueen!
+LUIGI	m	McQueen? Is everything okay?
+FILLMORE	m	If you're worried about your fuel, man, don't. It's perfectly safe.
+MCQUEEN	m	No, guys, I just really wish Mater were here.
+MCQUEEN	m	Oh, great. Here it comes. What've you got, Francesco?
+FRANCESCO	m	For famous race cars like Francesco and well... you, to be far away from home is not easy.
+MCQUEEN	m	I think you forgot the insulting part of that insult.
+FRANCESCO	m	Is no insult. When Francesco is away from home, he misses his mama just like you miss your tow truck amico.
+MCQUEEN	m	Gee, I maybe misjudged you, because that's exactly how I ---
+FRANCESCO	m	Of course, I am at home. And my mama is right here.
+FRANCESCO	m	Mama! Don't worry, Mama! 81.
+FRANCESCO	m	McQueen is very sad! I will beat his cry-baby bottom today!
+MCQUEEN	m	And there's the insult we were missing. Grazie!
+ALEXANDER HUGO	m	Gremlins. Man, those are some ugly cars. Look like someone stole their trunks.
+HOLLEY	f	Scusatemi, tutti! Signori!
+HOLLEY	f	Mio nonno, my grandfather, has broken down. If one of you would help I would be so thankful.
+ANOTHER HUGO	m	She was talking to me, Ivan.
+HOLLEY	f	No, no, don't fight over me.
+HOLLEY	f	Signore Tow Truck, per favore?
+FINN	m	You're on any moment now.
+MATER	m	I don't know about this, Finn. What if I screw things up?
+MATER	m	It's just that them guys look pretty tough and --- Wait, did you say "idiot"? Is that how you see me?
+HOLLEY	f	Why aren't you in disguise?
+MATER	m	I, uh---
+HOLLEY	f	Come on, there's no time. Go!
+MATER	m	Okay, okay. Computer: disguise.
+MATER'S COMPUTER	m	Request acknowledged.
+ALEXANDER HUGO	m	It's the boss! He is coming!
+VICTOR HUGO	m	Ivan!
+VICTOR HUGO	m	Ivan, why do you insult me so by making me wait?
+HOLLEY	f	He's in.
+MATER	m	Wow, this place looks like it's made out of gold.
+MATER	m	Why is that? What do you mean don't talk to you? (more talking from Holley which we cannot hear) So you want me to stop talking to you. Right now?
+ALEXANDER HUGO	m	You are acting strange today, Ivan.
+MATER	m	I have no idea what you're talking about...
+MATER	m	...Alexander Hugo, aka "Chop Shop Alex."
+MATER	m	Hey, you got a lot of aka's, Alex. But I guess that makes sense seeings how you's wanted in France, Germany, the Czech Republic...
+HOLLEY	f	(cutting in to his
+DISPLAY)	?	Mater! Stop it!
+ALEXANDER HUGO	m	Okay, okay. Keep your voice down. You're gonna make me arrested. (to the other Hugos) Don't mess with Ivan today. He's in a bad mood.
+FINN	m	He's so good.
+VLADIMIR TRUNKOV	m	Victor!
+TUBBS PACER	m	Hey, Victor!
+VLADIMIR TRUNKOV	m	Come in, come in.
+VICTOR HUGO	m	Is the big boss here yet?
+VLADIMIR TRUNKOV	m	No, not yet.
+TUBBS PACER	m	He's supposed to be here any minute.
+FINN	m	Here we go.
+PROFESSOR ZUNDAPP	m	Guten Tag!
+TUBBS PACER	m	It's just the Professor.
+VICTOR HUGO	m	Zundapp, when is he coming?
+PROFESSOR ZUNDAPP	m	He's already here.
+VOICE	m	Welcome, everyone.
+ENGINE VOICE	m	I wish I could be with you on this very special day but... my clutch assembly broke. You know how it is.
+TUBBS PACER	m	Been there.
+VLADIMIR TRUNKOV	m	We know how you feel.
+FINN	m	Descramble that voice!
+HOLLEY	f	(already on it) I'm trying... It's too sophisticated!
+ENGINE VOICE	m	We are here to celebrate. Today all your hard work pays off. The world turned their backs on cars like us. They stopped manufacturing us, stopped making our parts. The only thing they haven't stopped doing is laughing at us. They've called us terrible names...
+ENGINE VOICE	m	Jalopy. Rustbucket.
+ENGINE VOICE	m	Heap. Clunker.
+ENGINE VOICE	m	Junker, beater, wreck.
+ENGINE VOICE	m	Rattletrap.
+ENGINE VOICE	m	Lemon. But their insults just give us strength. Because today, my friends...
+ENGINE VOICE	m	...that all ends.
+FINN	m	What just happened?
+HOLLEY	f	(analyzing the data) I'm working on it.
+ENGINE VOICE	m	They laughed at us. But now it's our turn to laugh back.
+FINN	m	Holley?
+HOLLEY	f	I'm detecting an extremely strong electromagnetic pulse.
+HOLLEY	f	Finn, it's the camera!
+FINN	m	Where?
+HOLLEY	f	On the tower.
+ENGINE VOICE	m	And we, the owners of the world's largest untapped oil reserve, will become the most powerful cars in the world!
+FINN	m	Get out of the way! Andate!
+ENGINE VOICE	m	They will come to us and they will have no choice, `cause they will need us.
+ACER	m	We figured you might stop by.
+FINN	m	No!
+ENGINE VOICE	m	Long live Lemons!
+HOLLEY	f	Finn.
+MCQUEEN	m	Yeah!
+FRANCESCO	m	Dah! This is impossible!
+MCQUEEN	m	That's what I'm talking about. Kachow! Hey, where are all the other cars?
+FRANCESCO	m	What is going on?
+MCQUEEN	m	Oh no.
+BRENT MUSTANGBURGER	m	Sir Axlerod! Is the final race in London still going to take place?
+VLADIMIR TRUNKOV	m	Shh, quiet!
+VLADIMIR TRUNKOV	m	Here it comes.
+PROFESSOR ZUNDAPP	m	A toast! To the death of Allinol and alternative fuel forever!
+HOLLEY	f	Mater. Abort the mission. They've got Finn. Get out of there. Get out of there right now!
+ALEXANDER HUGO	m	Isn't this a great party, Ivan?
+MATER	m	Oh yeah, it's unbelievable.
+ALEXANDER HUGO	m	You are not leaving, are you?
+MATER	m	Uh, of course I ain't leavin'.
+MATER	m	McQueen?
+LEMONHEADS	?	- What?! - Did he just say Allinol? After today?
+PROFESSOR ZUNDAPP	m	Yes, sir. Of course.
+PROFESSOR ZUNDAPP	m	Allinol must be finished for good. McQueen cannot win the last race. Lightning McQueen must be killed.
+MATER	m	No!
+PROFESSOR ZUNDAPP	m	It's the American spy!
+MATER	m	Dadgum.
+MATER'S COMPUTER	m	"Gatling gun" request acknowledged.
+MATER	m	Shoot. I didn't mean ---
+MATER'S COMPUTER	m	Request acknowledged.
+VLADIMIR TRUNKOV	m	Get down!
+MATER	m	Whoa!!
+MATER	m	Wait wait! I didn't mean that kind of shoot!
+MATER'S COMPUTER	m	Correction acknowledged. Deploying chute.
+MATER	m	McQueen!
+ITALIAN MOTORBOAT	m	Aspetti!
+MATER	m	Lemme through! Lemme through!
+MATER	m	You gotta let me in! I gotta get through to warn McQueen!
+ITALIAN SECURITY #1	m	You cannot come through here. Back up, signore.
+ITALIAN SECURITY #2	m	(into a walkie-talkie) We have a lunatic at Gate Nove.
+MATER	m	No, listen! I was disguised as a tow truck to infiltrate this Lemonhead meeting and my weapons system misinterperated what I was
+ITALIAN SECURITY #2	m	I repeat. Lunatic at Gate Nove.
+MATER	m	McQueen! McQueen!
+PRESS LIAISON	m	Right this way, signore. McQueen!
+MCQUEEN	m	Mater?
+MATER	m	McQueen!
+ITALIAN SECURITY #1	m	Back up, sir. Stop moving! Stop!
+ITALIAN SECURITY #1	m	Oy! Stop! Ferma li!
+MATER	m	McQueen!
+MCQUEEN	m	That really sounded like Mater. Mater?
+PRESS LIAISON	m	Signore...
+MATER	m	McQueen, they're gonna kill you!!
+MCQUEEN	m	Mater?!
+MCQUEEN	m	Excuse me.
+PRESS LIAISON	m	No, no, where are you going? Please, Mr. McQueen!
+MCQUEEN	m	Scusi. Mater! Scusi...
+MCQUEEN	m	Mater, I'm so glad to see you. I'm so sorr ---
+MCQUEEN	m	Oh, I'm sorry. I thought I heard---
+MCQUEEN	m	What? Oh. I mean, thanks.
+PRESS LIAISON	m	Right this way, signore ---
+MCQUEEN	m	(as he's pulled away) I really thought I heard my friend. In England you'll be finished. At the finish line.
+MCQUEEN	m	Wait, what?
+PRESS LIAISON	m	Please, the world press is waiting. You come with me, please.
+MATER	m	Let me go!
+PROFESSOR ZUNDAPP	m	You actually care about that race car. A pity you didn't warn him in time.
+MATER	m	Domo arigato!
+MATER	m	You done good! You got all the leaves!
+JEFF GORVETTE	m	Check out that tow truck.
+LEWIS HAMILTON	m	I wonder who that guy's with?
+MCQUEEN	m	Will you guys excuse me just for one little second?
+MATER	m	Now that's a scoop of ice cream!
+MCQUEEN	m	Mater?!
+MATER	m	I never leak oil. Never.
+MCQUEEN	m	Mater, you have to get a hold of yourself. You're making a scene!
+MATER	m	Wait a minute. I didn't screw you up, did I?
+MCQUEEN	m	I lost the race because of you!
+MATER	m	Maybe if I talked to somebody, or---
+MCQUEEN	m	I don't need your help. I don't want your help!
+MATER	m	Bang a gong, get it on!
+MCQUEEN	m	Listen, this isn't Radiator Springs. This is exactly why I don't bring you along to these things!
+MATER	m	Holley! Finn! Where are we?
+FINN	m	We're in London, Mater. Inside Big Bentley.
+MATER	m	Woaaaah! ---
+MATER	m	This... this is all my fault.
+FINN	m	Don't be a fool, Mater.
+MATER	m	But I am, remember? You said so.
+FINN	m	When did I... Oh. Mater, I was complimenting you on what a good spy you are.
+MATER	m	I'm not a spy!
+MATER	m	I've been trying to tell you that the whole time. I really am just a tow truck.
+HOLLEY	f	Finn, he's not joking.
+FINN	m	I know.
+MATER	m	You were right, Finn. I'm a fool. And what's happened to McQueen is `cause I'm such a big one. This is all my fault.
+GREM	m	Good, you're up!
+ACER	m	And just in time!
+GREM	m	Professor Z wanted you to have a front row seat for the death of Lightning McQueen.
+MATER	m	He's still alive?
+ACER	m	Not for much longer.
+MCQUEEN	m	I called to talk to Mater. It never occurred to me that he wouldn't be there.
+RAMONE	m	Sheriff is talking to Scotland Yard right now.
+FLO	m	And Sarge is in touch with his friends in the British military.
+SALLY	f	You just need to focus on the race.
+MCQUEEN	m	I know, but Sal, with everything going on I'm not sure I should---
+MCQUEEN	m	Sir Axlerod.
+MILES AXLEROD	m	I'm sorry to interrupt.
+MCQUEEN	m	No, no, it's all right.
+MILES AXLEROD	m	I just wanted to come down here and personally thank you. Because after Italy, I was finished. And then you gave me one last shot.
+MCQUEEN	m	Listen, I ---
+MILES AXLEROD	m	And I probably shouldn't be saying this at all but... I hope you win today. Show the world that they've been wrong about Allinol.
+SALLY	f	Mater would want you to race.
+MCQUEEN	m	All right. For Mater.
+GREM	m	Here he comes!
+GREM	m	I don't know, Professor.
+ACER	m	What did you do?
+GREM	m	I didn't do nothin'. Shh! I'm talking to the Professor---
+ACER	m	You broke it.
+GREM	m	Quiet! I understand, sir. Yes.
+ACER	m	What'd he say?
+GREM	m	We go to the backup plan.
+MATER	m	Backup plan??
+GREM	m	We snuck a bomb in McQueen's pit!
+ACER	m	The next time he makes a stop, instead of saying "ka-chow," he's gonna go "ka-boom"!
+GREM	m	Don't feel bad, tow truck. You couldn't have saved him.
+ACER	m	Oh, wait. You could have!
+MATER	m	Dadgum lemons.
+MATER'S COMPUTER	m	Request acknowledged.
+GREM	m	What, you didn't think we'd take your bullets?
+ACER	m	That's right! You got nothin'.
+GREM	m	(as the elevator descends) Who's the lemon now, huh?
+FINN	m	Nice try, Mater.
+MATER	m	Dadgum!
+MATER	m	Dadgum! Dadgum! Dadgum!
+HOLLEY	f	Mater!
+MATER	m	I gotta get you all out of there!
+FINN	m	There's no time. McQueen needs your help, Mater.
+MATER	m	But I can't, I'm just a tow truck.
+FINN	m	It's up to you. Go to the pits and get everyone out. You can do that.
+MATER	m	What about you guys?
+FINN	m	We'll be okay.
+HOLLEY	f	Go and get some more dents, Mater.
+HOLLEY	f	So we'll be "okay"? Really?
+FINN	m	He wouldn't have left if I'd told him the truth. (re: his death trap) Being killed by a clock. Gives a whole new meaning to "your time has come."
+HOLLEY	f	Time. That's it!
+FINN	m	What are you doing?
+HOLLEY	f	Trying to turn back time. If I can just reverse the polarity...
+FINN	m	Good job! Quick thinking, Holley!
+MATER	m	What's everybody on the wrong side of the road for?!
+HOLLEY	f	Oh no!
+FINN	m	Drive!
+FINN	m	Burn rubber!!
+FINN	m	We've got to get to the course. Calculate the fastest way to ---
+HOLLEY	f	Done.
+FINN	m	Miss Shiftwell.
+HOLLEY	f	They're standard issue now.
+FINN	m	You kids get all the good hardware.
+HOLLEY	f	Oh no. That's Mater's.
+FINN	m	I knew his escape was too easy.
+LUIGI	m	Mater!
+MATER	m	Everybody get out! Get out now! Y'all gotta get out the pits!
+MATER	m	Hey, what are you guys doing here?
+SALLY	f	We're here because of you, Mater.
+FLO	m	Is everything okay?
+MATER	m	No! Everything's not okay! There's a bomb in here! Y'all gotta get out! Now!
+EVERYONE	m	- A bomb? - Huh? - Woah.
+FINN	m	Mater, listen to me. The bomb is on you.
+FINN	m	They knew you'd try to help McQueen. When we were knocked out they planted it in your air filter.
+MATER	m	Uh-oh.
+MCQUEEN	m	Mater! There you are!
+MATER	m	Stop right there!
+MCQUEEN	m	Oh man, I've been so worried about you!
+MATER	m	Don't come any closer!
+MCQUEEN	m	Are you okay?
+MATER	m	No, I'm not okay. Stay away from me!!
+MCQUEEN	m	No, wait. Wait!
+MCQUEEN	m	Mater, wait!
+MCQUEEN	m	Mater, wait!
+MATER	m	Stay back! If you get close to me, you gonna get hurt real bad!
+MCQUEEN	m	I know I made you feel that way before, but none of that matters because we're best friends!
+MATER	m	McQueen, you don't get it. I'm the bomb!
+MCQUEEN	m	Yes, Mater! You are the bomb! That's what I'm trying to say here. You've always been the bomb! And you'll always be the bomb.
+MATER	m	Stay away!
+MCQUEEN	m	No! Never!
+PROFESSOR ZUNDAPP	m	Almost there...
+MCQUEEN	m	I'm not...letting you...
+MCQUEEN	m	...get away again!
+MATER	m	Gotta keep away from McQueen.
+MATER'S COMPUTER	m	Request acknowledged.
+MCQUEEN	m	Oh my gosh!
+FRANCESCO	m	What is happening? It's a bad dream.
+TUBBS PACER	m	Someone's gotta get McQueen.
+VLADIMIR TRUNKOV	m	Get McQueen!!
+FINN	m	Holley. I'll get Zundapp, you help Mater.
+HOLLEY	f	Got it!
+FRANCESCO	m	What is happening?!
+COMBAT SHIP	m	Hurry, Professor!
+FINN	m	Do you really think I'm going to let you float away, Professor?
+MATER	m	McQueen, let go!
+MCQUEEN	m	Never!
+PROFESSOR ZUNDAPP	m	Give it up, McMissile!
+HOLLEY	f	Mater, stop!
+MATER	m	No way! You could get hurt!
+HOLLEY	f	Oh no.
+HOLLEY	f	Mater, we've got to get that bomb off you.
+MCQUEEN	m	Bomb?
+MATER	m	Yeah, they strapped it to me to kill you as a back-up plan.
+MCQUEEN	m	Back-up plan? Mater, who put a bomb on you?
+PROFESSOR ZUNDAPP	m	You. Why didn't my death ray kill you?
+MCQUEEN	m	Death ray?
+FINN	m	Turn off the bomb, Zundapp!
+PROFESSOR ZUNDAPP	m	Are you all so dense? It's voice- activated. Everything is voice- activated these days.
+MATER	m	Deactivate! Deactivate!
+PROFESSOR ZUNDAPP	m	Oops. Did I forget to mention that it can only be disarmed by the one who activated it?
+HOLLEY	f	Say it!
+PROFESSOR ZUNDAPP	m	Deactivate.
+PROFESSOR ZUNDAPP	m	I am not the one who activated it. Would anyone else like to try?
+FINN	m	You read my mind.
+HOLLEY	f	He was getting on my nerves.
+MCQUEEN	m	What do we do?
+VICTOR HUGO	m	You blow up.
+MCQUEEN	m	I'm gonna go out on a limb here. These are the guys that want me dead, correct?
+VLADIMIR TRUNKOV	m	It's nothing personal.
+MATER	m	(to the Lemons) Fellers, listen. 120.
+MATER	m	I know what you're going through. Everybody's been laughing at me my whole life too ---
+MATER	m	--- but becoming powerful and rich beyond your wildest dreams ain't gonna make you feel better.
+GUIDO	m	Pit stop.
+SHERIFF	m	Not today, boys!
+TUBBS PACER	m	Retreat!
+SARGE	m	Thanks for the help, Corporal.
+BRITISH CORPORAL	m	Anything for one of pop's mates.
+MCQUEEN	m	What's he saying?! What's wrong!?
+LUIGI	m	None of his wrenches fit the bolts!
+MATER	m	I get it. I get it! I know what needs to be done.
+MCQUEEN	m	Then do it!
+MATER	m	What? No, I can't do it. Look, nobody takes me seriously. I know that now. This ain't Radiator Springs.
+MCQUEEN	m	Yes it is.
+MCQUEEN	m	You're yourself in Radiator Springs. Be yourself here. And if people aren't taking you seriously, then they need to change. Not you. I know that, because I was wrong before. Now you can do this. You're the bomb.
+MATER	m	Thanks, buddy.
+MCQUEEN	m	No no no, you're the actual bomb. Now let's go!
+MATER	m	Oh, right! Hang on!
+FINN	m	Where's he going?
+MATER	m	Computer!
+MATER'S COMPUTER	m	Yes, Agent Mater.
+MATER	m	I need that thing you done before to get me away from McQueen!
+MATER'S COMPUTER	m	Request acknowledged.
+MCQUEEN	m	Mater...
+MATER	m	Now I need you to do the chute, the second kind not the first!
+MATER'S COMPUTER	m	Deploying chute.
+QUEEN	f	Who's winning the race?
+QUEEN'S GUARD	f	Back up! Back away!
+QUEEN	f	It's Lightning McQueen!
+QUEEN'S GUARDS	f	Get back!
+MCQUEEN	m	No, no, it's okay! Tell them, Mater. Explain.
+MATER	m	Okay! Somebody's been sabotaging the racers and hurting the cars and I know who. Oh wait... Your Majesty.
+QUEEN'S GUARDS	f	- Bomb! - It's a bomb! - Everybody down! - Look out!
+FINN	m	Mater, I don't know what you're doing but stand down now!
+MATER	m	(aside, to McQueen) This ain't nothing at all like Radiator Springs.
+MCQUEEN	m	Mater, just cut to the chase!
+MATER	m	Okay.
+MATER	m	It's him.
+MILES AXLEROD	m	What? Me? You've got to be crazy.
+MATER	m	I figured it out when I realized you all attached this ticking time bomb with Whitworth bolts. The same bolts that hold together that old British engine from the photograph. Holley! Show that picture.
+HOLLEY	f	O-kay...
+MATER	m	And then I remembered what they say about old British engines - "If there ain't no oil under `em, there ain't no oil in `em."
+MILES AXLEROD	m	What is he talking about?
+MATER	m	It was you leaking oil at the party in Japan. You just blamed it on me.
+MILES AXLEROD	m	Electric cars don't use oil, you twit.
+MATER	m	Then you're faking it. You didn't convert to no electric. We pop that hood we gonna see that engine from that picture right there.
+MILES AXLEROD	m	This lorry's crazy. He's going to kill us all!
+MILES AXLEROD	m	Stay away!
+HOLLEY	f	But Sir Axlerod created the race, Mater. Why would he want to hurt anyone?
+MATER	m	To make Allinol look bad so everybody'd go back to using oil. I mean, he said it himself with that disguised voice.
+MILES AXLEROD	m	"Dee-sguised voice?" What are you talking about? You're nuts, you are!
+PRINCE WHEELIAM	m	This is going nowhere fast. We really should go, Grandmother.
+QUEEN	f	One moment. I'd like to see where this is going.
+FINN	m	Mater, he created Allinol.
+MATER	m	Yeah, but what if he found that huge oil field just as the world was trying to find something else?
+MATER	m	What if he came up with Allinol just to make alternative fuel look bad?
+MILES AXLEROD	m	"What if?" You're basing this on a "What if"?!
+GUARD	m	Okay, that's it.
+MILES AXLEROD	m	Wait! Somebody save me! The lorry's crazy!
+MILES AXLEROD	m	Keep away, you idiot!
+FINN	m	Mater!
+HOLLEY	f	Mater!
+MILES AXLEROD	m	Someone do something!
+MILES AXLEROD	m	You're insane, you are! Deactivate!!
+FINN	m	The engine from the photo.
+HOLLEY	f	It's a perfect match!
+MILES AXLEROD	m	How did the tow truck figure it out?
+MCQUEEN	m	It's official. You're coming to all my races from now on.
+MATER	m	Now you're talking!
+MCQUEEN	m	Mater, let's go. You're on.
+LORD STEWARD	m	Your Majesty. May I present for the investiture of honorary Knighthood of the British Realm. Tow Mater of Radiator Springs.
+MCQUEEN	m	Go get `em, buddy.
+QUEEN	f	I hereby dub thee "Sir Tow Mater."
+MATER	m	"Sir?" Shoot, you can just call me Mater, Your Majesty. I don't wanna hear none of this "Sir" business. By the way, have y'all met each other? Queen? McQueen. McQueen, Queen. McQueen? McMissile. 128.
+MATER	m	McMissile, McQueen. Queen? McMissile.
+MATER	m	So there I was: rocket jets going full blast, McQueen hanging on for dear life when suddenly them two nasty lemons come out of nowhere, guns drawed. We was goners. But then out of nowhere, this beautiful spy car swoops in from the sky to save us!
+MINNY	f	That's a very entertaining story, young man.
+VAN	m	Oh, Minny, please. Come on, none of this happened. Rocket jets? Flying spy cars?
+HOLLEY	f	No, you're quite right. It does sound a bit far-fetched.
+MATER	m	Holley! Finn!
+HOLLEY	f	Hello, Mater. It's so nice to see you again.
+MATER	m	What're you doing here?
+FINN	m	Our satellites picked up an urgent communique.
+LUIGI	m	So you got my e-mail.
+MATER	m	Oh, man. Y'all is gonna have a great time. Everybody! This here's Finn McMissile. He's a secret agent. Don't tell nobody. And this is Holley Shiftwell. She's ---
+HOLLEY	f	I'm Mater's girlfriend. It's so nice to meet you all.
+LUIGI	m	Guido believe you now.
+FLO	m	Whoa, honey. You got a nasty dent there.
+VAN	m	(already crushing on her) Was that from when you swooped in and saved them in London?
+MINNY	f	Van!
+VAN	m	What? I'm just asking.
+FLO	m	Don't you worry, sweet pea. My baby Ramone can get that fixed up for you in no time.
+RAMONE	m	Yeah, sure thing. No problemo. Just let me go get my tools.
+HOLLEY	f	Oh no no. I'm keeping that dent. It's way too valuable.
+LIZZIE	f	A "valuable" dent? Oh, she's as crazy as Mater.
+MACK	m	Those two are perfect for each other.
+MCQUEEN	m	You know, there's one thing I still don't get. The bad guys hit me with the beam from the camera, right? So why didn't I, you know...
+MATER	m	Explode in a fiery inferno?
+MCQUEEN	m	Yeah.
+FINN	m	We couldn't figure that one out either.
+HOLLEY	f	Our investigation proved that Allinol was actually gasoline. And Miles Axlerod engineered it so that when it got hit by the beam it would explode.
+MCQUEEN	m	Wait a second. Fillmore, you said my fuel was safe.
+FILLMORE	m	If you're implying that I switched out that rotgut excuse for alternative fuel with my all- natural, sustainable, organic biofuel just because I never trusted Axlerod, you're dead wrong, man. It was him.
+SARGE	m	Once Big Oil, always Big Oil. Man.
+FILLMORE	m	Tree hugger.
+SHERIFF	m	The Radiator Springs Grand Prix is about to begin! All spectators clear the starting line!
+LEWIS HAMILTON	m	Man, I can't wait to get rockin'. This is gonna be wicked.
+JEFF GORVETTE	m	Yeah, we should do this every year.
+MCQUEEN	m	I just figured, we never found out who the world's fastest car is. Plus: no press, no trophy. Just racing - the way I like it.
+FRANCESCO	m	Francesco likes it like this too.
+MCQUEEN	m	Francesco. I'd like you to meet ---
+FRANCESCO	m	Signorina Sally. It is official: Lightning McQueen is the luckiest car in the world.
+SALLY	f	Why, thank you ---
+FRANCESCO	m	Which he will have to be to have a chance against Francesco today.
+FRANCESCO	m	See you at the finish line, Mc---
+FRANCESCO	m	What is that?
+MCQUEEN	m	It's just something I had made up for the occasion.
+FRANCESCO	m	Is good, McQueen. Very funny. It was funnier when I did it, but it's very funny. What are you going to do next? Are you going to take off your fenders? Try it. You'll like it.
+SALLY	f	So he's not so good-looking.
+MCQUEEN	m	Yeah. Nice try.
+SALLY	f	I'm serious.
+MCQUEEN	m	That's why I love you, Sally. (as he leaves) Wish me luck.
+SALLY	f	You don't need it!
+FLO	m	Mmm-mmm. That Francesco is fine- looking.
+SALLY	f	And those open wheels.
+FLO	m	I'm gonna have to go get myself some coolant.
+MATER	m	Go McQueen!! Whoo-hoo!!!
+HOLLEY	f	Finn, time to go. Siddeley's gassed, geared and ready to fly.
+MATER	m	You're leaving already?
+FINN	m	We've got another mission, Mater. Just stopped by here to "pick something up."
+MATER	m	Something tells me you're not talking about souvenir bumper stickers.
+FINN	m	Her Majesty asked for you personally, Mater.
+MATER	m	But I told you all before. I'm not a spy.
+HOLLEY	f	We know.
+FINN	m	Spy or not, you're still the smartest, most honest chap we've ever met.
+HOLLEY	f	Don't forget massively charming.
+MATER	m	Well, thanks. But as much fun as it was hanging with y'all, this...
+MATER	m	This is home.
+HOLLEY	f	That's alright, we understand. But I'll be back. You still owe me that first date.
+FINN	m	If there's ever anything I can do for you, just let me know.
+MATER	m	Well, I sure appreciate that, thank you. Actually... there is one thing.
+MATER	m	Whoo-hoo!!!
+OTIS	m	Whoa!!!
+FRANCESCO	m	Impossible!
+MCQUEEN	m	Mater!?
+MATER	m	Check it out. They let me keep the rockets!
+MCQUEEN	m	I'll see you at the finish line, buddy!
+MATER	m	Not if I see you first!
+

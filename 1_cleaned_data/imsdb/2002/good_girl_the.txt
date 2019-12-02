@@ -1,0 +1,581 @@
+JUSTINE	f	(v.o.) As a girl, you see the world  like a giant candy store, filled with  sweet candy and such. But one day you  look around and see a prison and you're  on death row. You wanna run, or scream  or cry. But something's locking you  up. Are the other folks cows, chewing  cud till the hour come and their heads  roll? Or are they just keeping quiet,  like you... Planning their escape? 
+GWEN	f	On your left, honey. 
+JUSTINE	f	What's that cashier's name? 
+GWEN	f	Can't say. 
+JUSTINE	f	When did he start working here? 
+GWEN	f	Don't know. Yesterday? 
+JUSTINE	f	Who is he? 
+GWEN	f	Don't know. Can't say. 
+JUSTINE	f	What are you doing? 
+GWEN	f	It's called work, princess. Kind of  fun. You might want to give it a go  someday. 
+CHERYL	f	Attention, shoppers. There's a Retail  Rodeo special on aisle three. Liquid  drain cleaner. Two 12-ounce cans for  $5. Liquid drain cleaner has churning  power and will churn right through your  pipes. Ladies, shove something clean  and new up your filthy pipes. Liquid  drain cleaner on aisle three. Have a  good day and thank you for shopping  at Retail Rodeo. 
+CORNY	m	Hey, Justine. Can I talk to you for  a second? 
+JUSTINE	f	Yeah. 
+CORNY	m	I was just curious. Have you ever been  to a Bible study? 
+JUSTINE	f	Yeah. 
+CORNY	m	We got a good one going on every Wednesday  at the First Church of Nazarine. Rodney  comes, Benita comes. You got any interest  in reading the Bible? 
+JUSTINE	f	I have my own, you know, beliefs. 
+CORNY	m	We don't preach fire and brimstone.  Just the Ten Commandments. We’re not  interested in scaring people. We’re  about loving Jesus. 
+JUSTINE	f	I kinda like my nights to myself. 
+CORNY	m	Well, maybe you'll have nights of eternal  hellfire to yourself. Just kidding you.  Drive safe. 
+JUSTINE	f	Bye-bye. 
+BUBBA	m	Hey, Justine. 
+PHIL	m	Hey, Teeny. How was your day? 
+JUSTINE	f	The same. How was yours? 
+BUBBA	m	The wind was flipping paint in our eyes. 
+PHIL	m	Paint stings. Feel like I've been attacked  by hornets in my eyeballs. 
+JUSTINE	f	Bubba, stand up. 
+BUBBA	m	Why? 
+JUSTINE	f	For Christ's sakes. Look at that couch,  Phil. Y'all got paint all over it. This  ain't gonna come off. Damn it, Phil. 
+TV REPORTER	m	...including this gorgeous eggplant... 
+PHIL	m	I think we got most of it out. 
+JUSTINE	f	You two were stoned. You, keep frying  your brain liike that, you'll slip off  a ladder and crack open your head bone.  You do really stupid things when you're  high, Phil. 
+PHIL	m	Like what? 
+JUSTINE	f	Like sitting on my couch with your big  blue ass. Everything just turns to shit.  You finally get nice things, then everything  just gets messed up. Why is this TV  buzzing? 
+PHIL	m	It's the wind doing that. They the wind's  coming in different lately. 
+JUSTINE	f	Different from what? 
+JUSTINE	f	What you reading? 
+HOLDEN	m	Catcher in the Rye’ I'm named after  it. 
+JUSTINE	f	What's your name? Catcher? 
+HOLDEN	m	Holden. After Holden Caulfield. He's  the main character. 
+JUSTINE	f	What's he do? 
+HOLDEN	m	He's put upon by society. Hypocrisy  of the world. 
+JUSTINE	f	I notice that you're, uh, not very social. 
+HOLDEN	m	I'm a writer. 
+JUSTINE	f	What do you write? 
+HOLDEN	m	Novels, plays, screenplays, stories,  poetry. 
+GWEN	f	(to costumer) That's good. Justine will  be right with you. Where is she? 
+JUSTINE	f	I better go. What happens at the end  of your book? 
+HOLDEN	m	Oh, he has a nervous breakdown. Goes  to a mental hospital. 
+GWEN	f	You don't get paid to pick your crack.  You get paid to work. 
+JUSTINE	f	I'm not sure I can do makeovers. 
+GWEN	f	Oh, come on! A little pancake, eyeliner,  mascara, rouge on the cheeks and powder  it up. Then you take a moist tissue,  roll it in a ball and toss it in their  face! Jeez, Louise... I'm talking to a  tree stump! Girl, where are you?! 
+JUSTINE	f	Sorry, I’m just a little tired. 
+GWEN	f	It's the food you eat, Justine. Look  at me. I am 10 years older than you  and have 10 times your energy. Cause  I don't eat meat and I don't eat dairy.  It's probably why you can't get pregnant,  honey. And why you have that hung-jaw  look on your face. It's the cheese in  your pizza and the chicken in your salad. 
+JUSTINE	f	I went to the doctor. He says I'm fertile.  He says I could repopulate the entire  planet. 
+GWEN	f	Then what's the deal here? Did he say  you get enough vitamins? 
+JUSTINE	f	He didn't say. 
+PHIL	m	You could make paint where, at different  angles, the house is different colours.  You stand at the front door and the  house is red. You stand at the street  and the house is green. Or you could  make, like, an invisible paint. Make  the whole house disappear. 
+BUBBA	m	What would be really neat is a paint  that could change the molecular structure  of a house, like a chemical acid deal. 
+PHIL	m	What do you think, Teeny? 
+JUSTINE	f	I think you two are a pair of potheads. 
+CHERYL	f	You getting a whole one of these or  a half? 
+CUSTOMER	m	That oneright there. 
+CHERYL	f	You didn't bring this into the store? 
+CUSTOMER	m	No. 
+CHERYL	f	Well then, I'll charge you for it. This  is a hand lotion. So don't put it anywhere  else, even if you need lubrication.  We try to keep frivolous lawsuits to  a minimum, unless, ofcourse, the customer  is at fault. Here's your change and  Fuck you very much. 
+CUSTOMER	m	Excuse me? 
+CHERYL	f	Thank you very much. 
+GWEN	f	Good as new, I'll tell ya, good as new. 
+JUSTINE	f	Now, you might be interested in purchasing  some of the products I used today... 
+CUSTOMER	m	Oh, I'm not buying anything today. 
+GWEN	f	Well, that'd be a mistake. These are  bargain prices. 
+CUSTOMER	m	I didn't bring my purse. 
+JUSTINE	f	I hate my job. 
+HOLDEN	m	That makes two of us. 
+JUSTINE	f	I hate everyone here. I hate Gwen. I  don't know what the hell she's so happy  about. I'm sorry I don't understand  why maniacs get shotguns and shoot everybody  to pieces. 
+HOLDEN	m	Maybe you're a maniac. 
+JUSTINE	f	Maybe so. You know you're lips are real  pouty, like a woman. And how your eyes  droop off to the side. How old are you? 
+HOLDEN	m	Twenty two. 
+JUSTINE	f	I'm an old lady next to you. 
+HOLDEN	m	How old are you? 
+JUSTINE	f	How old do you think? 
+HOLDEN	m	I don't know. 
+JUSTINE	f	I am thirty years old. 
+HOLDEN	m	How long you been workin' here for? 
+JUSTINE	f	Forever and a day! 
+JUSTINE	f	You don't have a car? 
+HOLDEN	m	Oh, I live right down the street. 
+JUSTINE	f	Well, you can ride in here, there's  room. 
+HOLDEN	m	You wanna come in? 
+JUSTINE	f	I don't know. I'm in a funk. 
+HOLDEN	m	Well, I'm not gonna beg ya. 
+HOLDEN	m	I'll be in my room. 
+MOTHER	f	Okay, Tom. 
+JUSTINE	f	They call you Tom? 
+HOLDEN	m	It's my slave name. Holden's what I  call myself. This is my room. 
+JUSTINE	f	Not aolt to look at. What are your folks  like? 
+HOLDEN	m	They're okay. They don't get me. I mean,  they're alright. 
+JUSTINE	f	My husband doesn't get me. 
+HOLDEN	m	Since when do you have a husband? 
+JUSTINE	f	Since seven years. He's a painter. 
+HOLDEN	m	What's he paint? 
+JUSTINE	f	Houses. He's a pig. He talks but he  doesn't think. You go to college? 
+HOLDEN	m	Um, I had to drop out. I had a problem  with drinkin' and stuff. I'll go back.  I just gotta prove to my parents that  I can fly staright. You go to college? 
+JUSTINE	f	No, I was afraid I'd lose Phil if I  went. Now that'd be reason enough to  go. I saw you in the store and I liked  how you kept to yourself. I can see  in your eyes that you hate the world.  I hate it too. You know what I'm talkin'  about? 
+JUSTINE	f	After livin in the dark for so long  a glimspe of the light can make you  giddy. Strange thought come into your  head and you'd better think 'em. Has  a special fate been callin' you and  you not listenin? Is there a secret  message right in front you, and you're  not reading it? Is this your last, best  chance? Are you gonna take it? Or are  you goin' to the grave with unlived  lives in your vains? 
+PHIL	m	Teeny, you're pretty. Bubba, isn't Teeny  pretty? 
+BUBBA	m	I've seen better, I've seen worse. Nah.  That's why I ain't never married. You  got yourself the best fish in the sea. 
+PHIL	m	I wonder what it'd be like to be a woman.  All that smooth skin and long hair. 
+BUBBA	m	If I was a woman, I'd be a slut. A lesbian  slut. 
+JUSTINE	f	Gwen says smokin' marijuana lowers your  sperm. 
+PHIL	m	Lowers it to where? 
+JUSTINE	f	Maybe you're the infertile one 'round  here. Maybe every time you smoke a little  dooby, you're killin' our unborn children. 
+GWEN	f	Alright, close. 
+JUSTINE	f	Why you limping. 
+HOLDEN	m	I twisted up my ankle on the stairs.  I was wonderin', maybe you could give  me a ride home? 
+JUSTINE	f	Yeah, sure okay. 
+HOLDEN	m	Alright I'll talk to you about it later. 
+GWEN	f	All I know is, everyone should have  one beau, before anyone has two beaus. 
+JUSTINE	f	He's not my beau, he's my friend. 
+CHERYL	f	Happy Halloween Retail Rodeo shoppers!  There's a Retail Rodeo special on all  bulk candy on aisle four. Ghouls and  goblins, witches and warlocks, wandering  these aisles, day after day. I'll put  a Halloween curse on you. 
+GWEN	f	Night Corny. Happy Halloween. 
+CORNY	m	Well I'm not a pagen but thanks all  the same. 
+GWEN	f	Which ankle did you twist, Holden? 
+HOLDEN	m	My, uh, left. 
+GWEN	f	Maybe you should put some cold water  on it so it doesn't sweel up and inflame. 
+HOLDEN	m	Okay. 
+JUSTINE	f	You're a writer so you have yourself  a goal. I used to lie in bed and imagine  other cities, other jobs I could have.  Other husbands. Now I don't even know  what to imagine anymore. Holden, I have  a husband. 
+HOLDEN	m	You said he was a pig. 
+JUSTINE	f	Well, Holden. I don't want to hurt anybody. 
+PHIL	m	I was thinking about what you were sayin'  about my sperm bein' low. I mean, I  know I got good sperm. It's baby-makin  sperm. I suppose it couldn't hurt to  have it confirmed by an expert. 
+JUSTINE	f	Oh who gives a shit, who needs a F&$%'  baby around here anyways? If you wanna  make yourself useful, why don't you  get that goddamn TV fixed?! 
+PHIL	m	What the hell? 
+JUSTINE	f	It sounds like a helicopter is landin'  in here. 
+GWEN	f	You want a blackberry, honey? A man  was sellin' 'em on the road. 
+JUSTINE	f	No thank you. 
+CORNY	m	This is for you Justine. It's from Holden. 
+JUSTINE	f	Well where is he? 
+CORNY	m	He's got the day off. He came by this  morning with it. 
+JUSTINE	f	Thanks. 
+CORNY	m	Don't mention it. Hey, Gwen. 
+GWEN	f	Hey sugar. 
+HOLDEN	m	Dear Justine. Because of you I'll be  quitting the Retail Rodeo. The last  two days have been the most god-awful  days of my life. I've not been able  to get rid of you in my head. I never  wanted anything so bad, and I have wanted  many things. I'd given up long ago on  being gotten by someone else, and then  you came along. The idea of being gotten,  because of circumstance, will never  get got is the worst feeling I've ever  felt, and I have felt many bad feelings.  I'm sorry I can never see you again,  Justine, forgive me for being so weak,  but that is who I am. Goodbye, Holden  Wurther. If for some reason, you could  change your mind and want to be with  me, body and soul, meet me after work.  I will be waiting for you at five PM  outside Chuck E.Cheese. If you are not  there at five, you will never see me  in your lifetime. 
+JUSTINE	f	Gwen? What's wrong? 
+JUSTINE	f	Gwen? Gwen you sick? 
+JACK	m	Justine? Justine what's goin' on in  here? Gwen, you sick? We gotta get her  to a hospital. Justine you drive her. 
+JUSTINE	f	Well what time is it? 
+JACK	m	It's aquarter to five. Why, you gotta  be somewhere? 
+JUSTINE	f	Gwen? 
+GWEN	f	Oh, I had a dream. I had dream that  I sprouted a beard made of bean sprouts. 
+JUSTINE	f	I'm gonna let you off here, okay? 
+GWEN	f	Okay,You'll meet me inside? 
+JUSTINE	f	Yeah, you know what I'm gonna do? I'm  gonna park the car, then I'm gonna meet  you inside. 
+GWEN	f	Okay. Your a doll. 
+HOLDEN	m	Hey. Oh god, I'm really glad you came. 
+JUSTINE	f	I just ditched Gwen at the hospital. 
+HOLDEN	m	Oh god, thank god. 
+JUSTINE	f	Where are we goin'? 
+HOLDEN	m	Let's go to my house. 
+JUSTINE	f	No, with your folks there? 
+HOLDEN	m	Let's just park somewhere. 
+JUSTINE	f	This isn't well planned. 
+HOLDEN	m	Look. I don't know. I don't care I just  wanna hold you. 
+HOTEL GUY	m	That's fourty five dollars even. And  I need you to fill this out for me. 
+JUSTINE	f	I can't do it. 
+HOLDEN	m	We'll be back here before you know it. 
+JUSTINE	f	I don't wanna... I don't wanna go. 
+HOLDEN	m	Justine. I'm yours. I'm all yours. 
+PHIL	m	Hey. 
+JUTSINE	f	Hey. 
+PHIL	m	Were you been? 
+JUSTINE	f	Gwen got real sick today. She was throwin'  up all over the store. I had to take  her to the hositpal, and sat with her. 
+PHIL	m	Did she sick up on you? 
+JUSTINE	f	No. 
+PHIL	m	Did she sick up on anybody? (chuckles) 
+JUSTINE	f	It's not funny, Phil, this is serious.  I'm gonna go up there tomorrow too.  And the next day. 
+JACK	m	Justine? What happened to you? 
+JUSTINE	f	What? 
+JACK	m	I went down to St. Catherine's to check  up on Gwen. I looked all over for you,  she was askin' for you. 
+JUSTINE	f	Well, how is she? 
+JACK	m	She was heavin' up until there was nothin'  left to heave. Doctor said she must've  eaten somethin' with some kind of parasite  in it or somethin'. 
+JUSTINE	f	I bet it was those blackberries. 
+JACK	m	They're gonna keep her in there until  she gets better so you're gonna have  to supervise cosmetics. 
+JUSTINE	f	Stop it, somebody's gonna see! 
+HOLDEN	m	Who cares, I don't care. I crave you.  I wanna know everything about you. Who  are you? 
+JUSTINE	f	I'm just this woman. I moved to Texas  when I was eleven. My daddy was in the  Air Force. 
+HOLDEN	m	I wanna knock open your head and see  what's inside. I've had so much pain  in my life. I know you have too, I can  see it. 
+JUSTINE	f	Holden gave me two of his stories to  read. It's like what a story would be.  I was about a boy who was put upon,  his mother was cold and selfish, and  his father wanted him to play football.  Other people didn't get him, especially  girls. Then the boy comes to believe  no one can ever really know him. So  he starts actin' out, drinkin', and  doin' all kinds of drugs. At the end  the boy kills himself but jumpin' over  abridge. The second story was pretty  much the same as the first. Except at  the end, the boy kills himself by drinkin'  a bottle of bug poison. 
+JUSTINE	f	Your stories are intense. 
+HOLDEN	m	I just wanna leave some kind of legacy.  Somethin' great. After that I don't  care what happens to me. 
+JUSTINE	f	Don't say that. I wish there was a story  about me. I don't know who would read  it though. 
+HOLDEN	m	I would. 
+JUSTINE	f	I like this. I like havin' a secret.  You gave me a secret Holden. 
+HOLDEN	m	Seee, now that you met me you're mysterious.  And dark and twisted. 
+JUSTINE	f	I'm going to hell, aren't I? 
+HOLDEN	m	Yes, you are. 
+JUSTINE	f	That's Bubba's truck. Get in the car.  Phil takes that truck to work everyday.  Bubba picks him up, and drops him off.  Why, why would that truck be parked  there? 
+HOLDEN	m	I don't know. 
+JUSTINE	f	If he finds out about us.... 
+HOLDEN	m	I won't let him hurt you. 
+JUSTINE	f	He's big, Holden. He'll kill you. He'll  beat me, but he'll kill you. 
+HOLDEN	m	You can't worry about somethin' that  hasn't even happened yet. 
+JUSTINE	f	I gotta go to the hospital. 
+HOLDEN	m	Okay. (leans in to kiss her; she pulls  away) 
+JUSTINE	f	Don't! I mean he could be followin'  us. 
+CORNY	m	Justine! Poor lady. She just passed. 
+JUSTINE	f	Who? 
+CORNY	m	Gwen! She just passed away. 
+JUSTINE	f	What do you mean? I thought she had  a stomach ache? 
+CORNY	m	It got worse. She was on life support  all day. 
+JUSTINE	f	I don't understand. 
+CORNY	m	It's God's will, Justine. No one can  understand it. It was just Gwen's time  to fly away home. 
+JUSTINE	f	Gwen died today. 
+PHIL	m	What? Are you kiddin? What for? 
+JUSTINE	f	Parasite. Somethin' she ate. 
+PHIL	m	You okay? 
+JUSTINE	f	Where were you this afternoon? 
+PHIL	m	Paintin' on Bovery. Why? 
+JUSTINE	f	What time did Bubba bring you home? 
+PHIL	m	We knocked off early 'bout four. Bubba  had a date with a stewardess, why? 
+JUSTINE	f	Oh. I can't believe she's dead. I wasn't  a very good friend to her. 
+PHIL	m	Don't say that, Teeny. 'Course you were.  'Course you were. 
+JACK	m	Retail Rodeo employees this is Jack  Fields, your store manager. Before we  open today, I just want to share some  terrible and shocking news. One of our  best employees, Gwen Jackson, died yesterday.  Gwen was a real class act. She had a  good attitude, she had ideas. We're  all gonna miss her. Now, if any of y'all  need to collect you thoughts and remember  Gwen. GWEN, then today's the day. You'll  be excused from work and we'll just  have to do without you. Gwen, this one's  for you. 
+JUSTINE	f	Holden had the notion to go to Gabler's  Creek, skinny dippin' and makin' love.  He said we'd be like Adam and Eve, rollin'  around around in the sticks and the  dirt and bein' one with nature. He was  so fixed on the idea thateven when the  clouds started rollin' in, and the sky  was gettin; dark, he kept on swimmin'.  All my thoughts turned to death. I thought  of Gwen's body, rottin' away. I thought  of how nice a person she was, so full  of life and good will. If there was  a heaven, Gwen would be there. Givin'  makeovers and offerin' up helpful advice.  I thought if I died today, what would  happen to me? A hateful girl. A selfish  girl. An adultress. A liar. 
+JUSTINE	f	What are we doin'? 
+HOLDEN	m	Makin' one out of two. 
+JUSTINE	f	(sighs) I haven't thought this through. 
+HOLDEN	m	Justine, will you leave him? 
+JUSTINE	f	And go where? 
+HOLDEN	m	Away. With you on my arm, my folks'll  think I've changed. They'll stop thinkin'  I'm suck a loner, I got a girlfriend,  a pretty one, who knows me and likes  me. And they'll be so happy, they'll  give me money to write my novel. 
+JUSTINE	f	But where will we GO? 
+HOLDEN	m	We'll be like... Catcher in the Rye.  Only by me. I'll be immortal and then  like JD Salinger I'll just vanish. 
+PHIL	m	Hey, Teeny. We've been up to no good.  We got the day off on account of the  rain. 
+JUSTINE	f	I thought you might. 
+BUBBA	m	So I heard about your friend bein' dead,  and all. I'm sorry. 
+JUSTINE	f	Yeah. She was real healthy too. 
+BUBBA	m	Well, at least you were with her when  she went. (intense voice and look) Ain't  that right? You were... with her, when  she went? 
+JUSTINE	f	Yeah. 
+PHIL	m	Oh, I wish it would rain every day from  here on out. Never have to paint again. 
+JACK	m	Hey Justine. How you holding up? 
+JUSTINE	f	Fine. 
+JACK	m	Real shocker. I decided to move Cheryl  over to cosmetics. She got a little  too creative on the P.A. Maybe she'll  watch her P's and Q's over here. If  not she's out on her but. Now you listen  to Justine, sister. 
+HOLDEN	m	You want me to help you get stuff out  of storage? 
+JUSTINE	f	Not right now, maybe later. 
+HOLDEN	m	Well, are you gonna give me a ride home?  My ankle's actin' up. 
+JUSTINE	f	I gotta get home. Maybe Cheryl can. 
+CHERYL	f	What, you need a ride? 
+HOLDEN	m	Forget it. 
+JUSTINE	f	I think we gotta take a breather. I'm  nervous. 
+HOLDEN	m	Well, can't we go to the motel? 
+JUSTINE	f	Not today. 
+HOLDEN	m	Well, let's go in the store room. 
+JUSTINE	f	Just be patient, Holden! 
+JUSTINE	f	I was wonderin', when was that, uh,  bible study? 
+CORNY	m	Tomorrow night at eight. We'd love to  have ya. 
+JUSTINE	f	Can I bring my husband? 
+CORNY	m	'Course! A couple that prays together  stays together. 
+PHIL	m	What's this? 
+JUSTINE	f	The Holy Bible. There's one for you,  and one for me. 
+PHIL	m	Not very light is it? 
+JUSTINE	f	We're goin' to Bible study. A couple  that prays together, stays together. 
+PHIL	m	I heard it was the couple that lays  together stays together. 
+JUSTINE	f	Well you heard wrong. 
+JUSTINE	f	Cheryl? You think you can take this  one? 
+CHERYL	f	Sure... Sit right down here ma'am, we're  gonna make you pretty. Now how do you  like your hair? 
+CUSTOMER	m	Wait, you gonna do my hair? 
+CHERYL	f	No, I just need to know if that's your  usual way of wearing it all big and  high. If it is then I'll just put more  makeup on your chin to off-set. Now,  you're gonna want to take a whole bottle  of this home wtih you. It's got quite  alot of ingredients in it so you're  getting a good deal. It's got Ginco  extract in it, do you know what that  is? 
+CUSTOMER	m	No. 
+CHERYL	f	It's extract of the Ginco and it makes  your skin real slick so that any liquid  will roll right off, be it water or  lemon juice or urine. I'll put that  in a bag for you. 
+JUSTINE	f	Phil, what the hell are you doin'? We're  gonna be late for Bible study. You're  stoned, you got paint in your hair,  would you just get in the shower? 
+PHIL	m	I completely didn't remember... 
+JUSTINE	f	Get in the shower. 
+BUBBA	m	Workin' on your spiritual life? 
+JUSTINE	f	Yeah, I guess. 
+BUBBA	m	Ain't that a hoot and a holler. 
+JUSTINE	f	What do you mean? 
+BUBBA	m	I saw you, Justine. 
+JUSTINE	f	Saw me what? 
+BUBBA	m	I saw you. We got some things to talk  about, you and me. You come by my place  after work. If you knwo what's good  for ya. 
+PHIL	m	Hey. Where's Bubba? 
+JUSTINE	f	He left. 
+PHIL	m	Well, I'm ready. Let's go. 
+PHIL	m	I don't know what to say about Jesus.  I'm stoned. 
+JUSTINE	f	Just let the other people do the talking. 
+PHIL	m	Jeez. We forgot the Bibles, Justine. 
+JUSTINE	f	Well, that's alright, they'll forgive  us. 
+CORNY	m	Hi. Welcome. Hey there people! Glad  you could make it! 
+JUSTINE	f	Hi Corny. This is my husband, Phil. 
+CORNY	m	Y'all are in for a treat. We got a good  discussion going tonight. If man is  made in God's image, what does that  say about God? 
+PHIL	m	Yeah, that sounds like a good one. 
+JUSTINE	f	Phil, come with me to the car. 
+PHIL	m	What? 
+JUSTINE	f	Come with me to the car, I gotta get  somethin'. 
+PHIL	m	What's goin' on? 
+JUSTINE	f	Just get in the car. Get in the car,  Phil. 
+PHIL	m	What the hell? 
+JUSTINE	f	I don't want to go to Bible study. 
+PHIL	m	Why not? 
+JUSTINE	f	Because I don't want to. Now, can we  please just get out of here? 
+PHIL	m	Justine, this is embarassing. We're  runnin' away from Bible study like a  couple of Devil worshippers. 
+JUSTINE	f	I don't care. I'm not in the mood. 
+PHIL	m	You are freakin' me out, man. Why? 
+JUSTINE	f	Why? Beacause we forgot our Bibles is  why. 
+PHIL	m	You just said a few minutes ago they'll  forgive us. 
+JUSTINE	f	Yeah, well, they may not, alright. So  can we please just get the shit outta  here? 
+PHIL	m	I'm never goin' back to Bible study  again. 
+JUSTINE	f	I don't care, fine by me. 
+CUSTOMER	m	I think I look too white, don't you  think? 
+CHERYL	f	I'm just tryin' to match your face with  your hair, I was thinkin' you're not  white enough. 
+CUSTOMER	m	I think I look kinda wierd. 
+CHERYL	f	Well, the first rule of fashion is that  you have to look wierd. What I'm doing  here has come straight from France. 
+CUSTOMER	m	Oh. 
+CHERYL	f	It's called circ du face, meaning circus  of the face and it's all the rage with  the Frenchies. 
+CUSTOMER	m	Well, you're the professoinal. 
+CHERYL	f	That's right. 
+CORNY	m	Justine, what happened to you? I looked  up and I saw you two drivin' off like  vampires in the night. 
+JUSTINE	f	Oh geez, we forgot our Bibles. 
+CORNY	m	You coulda looked off your neighbor.  It's a church, you know. You can't make  water without bumpin' your nut on a  bible. 
+JUSTINE	f	Oh. Well, we felt bad. 
+CORNY	m	(looks at the customer) What in blazes?! 
+CUSTOMER	m	Do you like it? 
+JUSTINE	f	I can't go. 
+HOLDEN	m	What? 
+JUSTINE	f	I can't go today. There's something  important I need to tend to. 
+HOLDEN	m	I thought you said we'd go today. 
+JUSTINE	f	Well, something came up. 
+HOLDEN	m	What came up? 
+JUSTINE	f	Um, okay. I think, maybe, somebody's  found out about us. 
+HOLDEN	m	I'm starting to wonder if you even want  to go. I'm startin' to think you don't  get me. 
+JUSTINE	f	Well, maybe I don't get you. 
+HOLDEN	m	You do, you do get me you just don't  want to me 'cause I'm too intensified  for you! Justine, who cares, who cares  if someone finds out. We don't have  to live like this, Justine. I know what  it's like to go home every night and  feel like you're hidin' out. We can  leave all this behind... 
+JUSTINE	f	That's easy for you to say, Holden,  you are not married. 
+HOLDEN	m	You just, you just gonna give up?! You  gonna go crawlin' back?! 
+JUSTINE	f	Holden, you are gonna get us caught! 
+HOLDEN	m	You're so fucking afraid it makes me  sick. Don't give up on us. 
+JUSTINE	f	I won't. 
+JUSTINE	f	I'll see you tomorrow, okay? Okay? 
+HOLDEN	m	Okay. Good luck on your important thing. 
+JUSTINE	f	Thanks. 
+BUBBA	m	Easy Bitz, easy Bitz. Back in your corner!  Back in your corner! Back in your corner,  Bitz! Come on in. I wanna show you somethin'.  Sit. (Yells at dog again) I'm in shock. 
+JUSTINE	f	Why? 
+BUBBA	m	You know why. 
+JUSTINE	f	Bubba sat like that for what seemed  like ten years before he began to speak.  Finally, when he opened his mouth, he  talked a blue streak about the ruin  that was his life. He talked about how  he loved Phil, and how he loved me.  And how he always wanted a girlfriend  just like me, and to be a guy like Phil,  to this imaginary girl like me, that  he never found. Then he wen on about  givin' up your dreams and how it's all  a part of gettin' older. Bubba had given  up on his dream to be like Phil, and  accepted his fate as Bubba, always and  forever. Then, last week, a door that  remained shut swung wide open. Bubba  thought this no chance coincidence,  a cosmic force was at work. The sounds  of me makin' love to a man that wasn't  Phil was like a shout in Bubba's ear  from the creator himself. What it meant,  or what to do, or why Bubba didn't know.  All he knew was that he hated me for  poisoning the well of idealism that  he had drunk from for so long. I was  no longer Bubba's image of perfection.  To him I was just a liar, and a whore,  and that sickened him. But on the other  hand he loved me for opening his eyes  and releasing him from the bitter chains  of evny that bound him to Phil. Phil  was no superman, just a cuckhold, and  a foll, and that was beautiful. Bubba  felt that there was just one thing left  for us to do. Something that would solve  both our problems and end this whole  tragic cycle. 
+JUSTINE	f	Bubba, I am not gonna sleep with you. 
+BUBBA	m	But don't you see? This is my chance,  for liberation. 
+JUSTINE	f	But, one person's liberation is another  person's, well, badness. There's just  no way. 
+BUBBA	m	I'm gonna have to tell Phil then. 
+JUSTINE	f	Why? 
+BUBBA	m	He's my best friend. I can't keep him  in the dark about somethin' this big.  He's a cuckhold. 
+JUSTINE	f	You wanna cuckhold him yourself! 
+BUBBA	m	Well that's different. That isn't about  him. That's about my salvation. Look,  you've got your choice to make. Either  destroy your marriage, and break your  husband's heart. Or have sex with me  right now. 
+JUSTINE	f	Oh god! There was someone in the window!  Did you not see? 
+BUBBA	m	You're paranoid. 
+JUSTINE	f	I gotta go. 
+BUBBA	m	Phil is never gonna find out about any  of this. Don't fret. (the dog is still  barking) 
+JUSTINE	f	Get this damn dog away from me! 
+BUBBA	m	You're lookin' at a free man, Justine.  A free man. 
+JUSTINE	f	Great. Good for you. 
+BUBBA	m	Thank you. (Yelling at dog again.) 
+PHIL	m	I'm nervous. 
+JUSTINE	f	You're nervous? Why? 
+PHIL	m	'Cause I gotta go to that doctor tomorrow  and jism into a cup, that's why. What  if I can't do it? 
+JUSTINE	f	You can do it. 
+PHIL	m	You know, If you said you'd help me  I'd feel alot less nervous. It's gonna  be on your lunch hour anyway. 
+JUSTINE	f	Okay. 
+PHIL	m	You didn't even say nothing about the  TV bein' fixed. 
+JUSTINE	f	Oh. Is it? Thanks. 
+PHIL	m	You're welcome. 
+JACK	m	Well aren't you a fright? Justine, you  talked to Holden lately? He didn't show  up for work today, I wanna know what  gives. I know you two are friends. 
+JUSTINE	f	We're not friends. 
+JACK	m	You eat lunch together every day. 
+JUSTINE	f	No, we don't. 
+JACK	m	Well, if you see him, tell him Jack  Fields is lookin' for him. 
+JUSTINE	f	Oh my god. What are you doin'? 
+HOLDEN	m	You're a hooker, you hooker. 
+JUSTINE	f	I saw you. You followed me. 
+HOLDEN	m	So, how many guys you gettin' with?  You gettin' with every guy in the state? 
+JUSTINE	f	No, Holden, this is all because of you.  He had me over a barrel. If I didn't  sleep with him he was gonna tell Phil  about us! 
+HOLDEN	m	I'm so alone! 
+JUSTINE	f	You've gotta get a hold of yourself!  Are you drunk? 
+HOLDEN	m	Yes, I'm drunk! And I'll be drunk every  day until the day I die! What do you  care?! You jump on any pecker that's  put in front of you! 
+JUSTINE	f	It's not what you think. 
+HOLDEN	m	I saw everything. Oh god. Oh god. 
+JUSTINE	f	Look, go home. Sober up. And meet me  after work. 
+HOLDEN	m	Where you goin'? 
+JUSTINE	f	I gotta help Phil with his sperm. 
+HOLDEN	m	What? 
+JUSTINE	f	Just go. Go! 
+HOLDEN	m	I can't share you, Justine! Maybe with  one man but not with a whole bunch of  'em! 
+JUSTINE	f	Great. 
+NURSE	f	Mr. Last? Would you come with me? 
+PHIL	m	Wish me luck. 
+JUSTINE	f	Good luck, honey. 
+BUBBA	m	Knock 'em dead, partner. (Justine and  Bubba watch Phil walk into one of the  rooms) You look nice. 
+JUSTINE	f	No, I don't. 
+BUBBA	m	I know you're angry and I can figure  why. But, from where I stand, what happened  yesterday was a wonderful thing. 
+JUSTINE	f	Nothin' happened yesterday, so drop  it. 
+BUBBA	m	Well, I'm awful grateful to ya, Justine. 
+JUSTINE	f	Bubba, I mean it. 
+BUBBA	m	Let me just ask you one thing. How do  I stack up against Phil? You know, how  do I stack up where it counts? 
+NURSE	f	Ma'am? Your husband asked me to request  for your presence. 
+PHIL	m	Who's there? 
+JUSTINE	f	It's Justine. (gets into the room) 
+PHIL	m	C'mon. I can't do this on my own. I  need help. 
+JUSTINE	f	You've never done it on your own? 
+PHIL	m	Not in a place like this! Not where  I have to hand over the results! Just,  let me hold your boob. 
+JUSTINE	f	Ah, they're sore. (Justine looks fed  up with everything) 
+CHERYL	f	What's wrong with you? You look like  death. 
+JUSTINE	f	My stomach's crampin'. I feel sore. 
+CHERYL	f	Is it your period? 
+JUSTINE	f	Nah, it's stress. 
+CHERYL	f	This job is stressful. I'm breaking  out. 
+JUSTINE	f	You're breakin' out 'cause you put so  much makeup on your face. 
+CHERYL	f	Maybe you're pregnant. 
+JUSTINE	f	What?... No... (thinks about it) 
+HOLDEN	m	You know, sometimes, I think to myself,  at least it can't get any worse. But  it can. I can worse. As long as you  can say you've hit rock bottom you can. 
+JUSTINE	f	Oh my god, Blackberries. 
+HOLDEN	m	A blind man can go deaf. A widow can  lose her children. Babies starve and  they never get food. They never get  any food. They just come into the world  and they die. 
+JUSTINE	f	Calm down, Holden! 
+HOLDEN	m	I can't calm down! I'd be easy if I  was a hooker like you. I could calm  down all over town. 
+JUSTINE	f	Hey, hey! I am not a hooker. 
+HOLDEN	m	I know you're not. I'm in agony. 
+JUSTINE	f	Why? 
+HOLDEN	m	What do you mean 'why'? I thought you  hated your life. 
+JUSTINE	f	I do. I mean I'm depressed but... You  are really depressed. 
+HOLDEN	m	I'll kill him. I'll murder him in his  sleep. I'll kill my parents, I'll steal  the money whatever it takes. You just,  just whatever you want as long as it's  you and me. Please don't forsake me  Justine. 
+JUSTINE	f	Oh... I, I promise. (car is parked somewhere;  Justine and Holden are sitting on the  car, Holden's smoking) 
+JUSTINE	f	I realized then that Holden was at best  a child, and at worst a demon. If I  was ever gonna go straight I'd have  to ditch him. Sometimes, to get back  on the road to redemption, you have  to make a few pit stops. 
+JUSTINE	f	How much are the blackberries? 
+BLACKBERRY MAN	m	A tin for two dollars, miss. (gives  her the blackberries) There you go. 
+JUSTINE	f	Thank you. 
+JUSTINE	f	Have a blackberry. 
+HOLDEN	m	We need a plan. We can't keep livin'  day to day. We gotta chart a course  and we just gotaa stick.... 
+JUSTINE	f	Have a blackberry, Holden! 
+HOLDEN	m	But, they're dirty. (hesitating, he  eats a blackberry and then smiles) They're  sweet. If I could only get my hands  on some money, someone could just tell  me the answer. I gotta do. But If I  ever do, I end up thinking about it  instead. I gotta do. But do what? (Justine  pushes the blackberry he's about to  eat away from his mouth) What...? What  was that for? 
+JUSTINE	f	They looked dirty. I, I think I saw  a bug in them or something. 
+JUSTINE	f	I'm worried about Holden. Tom. I'm worried  about Tom. I just befriended Tom, recently,  and now, well, I think he's mentally  ill. He has this idea in his head that  we've had some sort of affair. Which  is crazy because I'm, I'm married. He's  been sayin' all sorts of strange things,  and makin' threats. And drinkin'. And,  and I just think he would be better  off in a place where people, professionals,  could take care of him. Otherwise, he's  just gonna get himself in trouble. 
+PHIL	m	What are you doin' in here? What's that? 
+JUSTINE	f	It's a home pregnancy test. 
+PHIL	m	Why you takin' it? 
+JUSTINE	f	'Cause I still haven't gotten my period. 
+PHIL	m	What's it say? 
+JUSTINE	f	Well, I haven't taken it yet. Could  you give me a minute please? 
+PHIL	m	I wanna be here when you find out. 
+JUSTINE	f	Okay. 
+PHIL	m	The little plastic doohickey's turnin'  blue. What's that mean? 
+JUSTINE	f	Blue? 
+PHIL	m	Bright blue. 
+JUSTINE	f	It means I'm pregnant. 
+PHIL	m	ALRIGHT! 
+PHIL	m	I knew it. Waste of time going to that  sperm doctor. We did it. We're gonna  have ourselves a baby. 
+JUSTINE	f	Maybe. 
+PHIL	m	And tomorrow, we're gonna celebrate  at Senor Tuna. Yes we are. I'm gonna  bring Bubba. You can bring some of your  friends from work. Or Bible study guy.  Whoever. Too bad Gwen's dead. 
+JUSTINE	f	The test could be wrong, Phil. It's  a little early to be havin' a party. 
+PHIL	m	Let's do it mellow then. You sure don't  seem too excited. 
+JUSTINE	f	No, I'm excited. It's just, a lot of  worries come with havin' a baby... 
+PHIL	m	Don't think negative. Think positive.  We could have ourselves a tiny Phil.  Or a tiny Teeny. Teeny's gonna have  a tiny weeny Teeny. 
+JUSTINE	f	Do you think anything's gonna change  havin' a baby? 
+PHIL	m	What do you mean? Everything's gonna  change. 
+JUSTINE	f	Yeah, but I mean, do you think anything's  really gonna change? 
+PHIL	m	What do ya mean? 
+HOLDEN	m	(picks up the phone) Hello? 
+WOMAN	f	Hi, this is Dr. Williams returning the  call of Jean Worther. I'm calling from  the Holland County psychiatric hospital.  (Holden hangs up) 
+MOTHER	f	Who was it, Tom? 
+HOLDEN	m	It was a wrong number. 
+JACK	m	Either of you seen Holden? Boy is out  on his ass! 
+CHERYL	f	Justine, somethin's goin' on. Something  is definately happening. 
+JUSTINE	f	Go find out. 
+CHERYL	f	It's big. It's very big. 
+JUSTINE	f	C'mon Cheryl, I'm gonna kill you. 
+CHERYL	f	Someone stole fifteen thousand dollars  from the safe. They blew the thing open  with a gun. 
+JUSTINE	f	Oh my god. 
+CHERYL	f	Not only that but the cops know who  did it. 
+JUSTINE	f	Who? 
+CHERYL	f	Somebody who works here. 
+JUSTINE	f	Cheryl! 
+CHERYL	f	Holden, Holden did it. Fool left his  cashier key in the door. 
+JUSTINE	f	Oh my god. 
+CHERYL	f	They can't find him though. They say  he robbed his folks too. You in on it? 
+JUSTINE	f	What?! No! 
+CHERYL	f	I know you two played hookie in the  store room. I never rat on ya, I've  done some things myself. But, still.  You in on it? 
+JUSTINE	f	I don't know what you're talkin' about. 
+CHERYL	f	Suit yourself. 
+CORNY	m	Justine. Can we talk to you for a second? 
+JACK	m	Hi, Justine. Go ahead and have a seat. 
+CORNY	m	Justine, you like workin' at the Retail  Rodeo don't you? Like the company, like  the people? You wouldn't want to jeopardize  that by makin' some silly error in judgement  would ya? 
+JACK	m	Holden stole fifteen thousand dollars  from the safe last night. Did you have  anything to do with it? 
+JUSTINE	f	No. I don't know anything. 
+CORNY	m	'Cause we know you're pretty tight with  Holden. 
+JUSTINE	f	I hardly know him. 
+CORNY	m	I've seen you in the store room with  him Justine. On many the occasion. I  think you know him pretty well. 
+JUSTINE	f	I don't know anything. 
+HOLDEN	m	Justine! Justine! 
+HOLDEN	m	I did it! I finally did somethin'! 
+JUSTINE	f	Holden, the police are lookin' for you! 
+HOLDEN	m	Oh, who cares? I'm proud of myself.  Fuck them, Fuck all of them! 
+JUSTINE	f	Hey! They think that I'm in on it, too!  Corny's got a camera in that storage  room. That Bible thumpin' pervert's  been watchin' us the whole time. 
+HOLDEN	m	Well, we're outta here! Justine, I got  over twenty thousand dollars! I got  a gun, what else?! 
+JUSTINE	f	I'm gettin' all goosey. I think I'm  gonna crash. (takes a right turn and  stops the car) I'm pregnant, Holden. 
+HOLDEN	m	It's my baby. 
+JUSTINE	f	Not necessarily. 
+HOLDEN	m	Yes, it is. You know it is. 
+JUSTINE	f	Even if it is, you cannot raise a baby  on the run. 
+HOLDEN	m	Yes, you can. I mean, you can't raise  a baby here. You know that. Justine.  You hate your husband. You hate your  job. You love me, so let's go. 
+JUSTINE	f	I can't go tonight. I gotta pack my  things and I'd have to get more money. 
+HOLDEN	m	Well, then tomorrow. I'll go to the  motel and wait for you. Just be there  by noon. 
+JUSTINE	f	This is all going too fast. 
+HOLDEN	m	Justine, what have you got to lose? 
+JUSTINE	f	Nothin'. 
+HOLDEN	m	So be there by noon. 
+JUSTINE	f	Okay. 
+HOLDEN	m	I love you, Justine. This is all gonna  work out. I know it. I almost forgot.  This is a story of your life. You inspired  me. (they kiss and Holden gets out of  the car) 
+PHIL	m	Hey Teeny! 
+JUSTINE	f	Hey. 
+PHIL	m	We were gettin' worried about ya! 
+JUSTINE	f	Sorry. 
+BUBBA	m	Justine, this is Liberta. Liberta, this  is Justine. 
+JUSTINE	f	Hi. 
+LIBERTA	?	Hi. 
+BUBBA	m	Congratulations, on your expectation. 
+JUSTINE	f	Thanks. 
+LIBERTA	?	Do you think it's a girl or a boy? 
+PHIL	m	Doesn't matter. As long as it plays  quarterback for the Cowboys. 
+BUBBA	m	Well, I hear Senor Tuna callin'. (phone  rings) 
+PHIL	m	(picks up the phone) Hello. Yeah. Well,  that's not right. What's that supposed  to mean? Hey look. No. You don't know  shit okay. Justine's pregnant. You got  that? Well, look you better check your  records again, pal, then call me! (hangs  up) Some doctor says my sperm's no good.  Does that mean Justine's not pregnant? 
+BUBBA	m	No. That just means they got it wrong,  is all. They don't know everything. 
+JUSTINE	f	They just got it wrong, so... 
+PHIL	m	Looks like that wind's pickin' up again. 
+JUSTINE	f	How it all came down to this, only the  devil knows. Retail Rodeo was at the  corner on my left, the motel was down  the road to my right. I closed my eyes  and tried to peer into the future. On  my left I saw days upon days of lipstick  and ticking clocks. Dirty looks and  quiet whisperings. and burning secrets  that won't ever die away. And on my  right, what could I picture? The blue  sky, the desert earth streching out  into the eerie infinity. A beautiful,  never ending nothing. 
+CHERYL	f	Hey Justine. 
+JUSTINE	f	I know where you can find him. 
+JACK	m	Holden? 
+JUSTINE	f	He's at the Hotel Glen Capri, and he'll  be there till noon. 
+JACK	m	You done good. You're a good girl. 
+PHIL	m	Hey. 
+JUSTINE	f	Hey. 
+PHIL	m	What's going on in the bedroom? Looks  like a twister hit it. 
+JUSTINE	f	Oh yeah. I was doin' laundry. 
+PHIL	m	I thought we were robbed. Why aren't  you at work? 
+JUSTINE	f	They gave me the day off. 
+PHIL	m	Retail Rodeo? You know that guy? 
+JUSTINE	f	No. 
+JACK	m	Attention Retail Rodeo employees this  is JAck Fields, your store manager.  As most of you all know by now, We lost  another employee yesterday. Holden was  a thief and a disturbed young man, and  what happened was a sad thing. Perhaps  we can learn a lesson from this tragedy,  like don't steal and don't be disturbed.  The important is to move on. Like dozens  of those who quit. This one's for you  Holden. 
+CHERYL	f	I thought we were gonna get a day off  and go to the movies.... 
+JUSTINE	f	What? 
+BUBBA	m	I was just at your house and the mail  came. Phil was opening letters, and  he opened this bill from the credit  card company. And F&$%. Please don't  tell him about us, Justine. Please.  Please. I love Phil. I love him more  than myself. Please have mercy on me. 
+JUSTINE	f	Hey Phil. 
+PHIL	m	Have you been sleepin' around behind  my back? 
+JUSTINE	f	What? 
+PHIL	m	I said, have you been sleepin' around  behind my back? 
+JUSTINE	f	Yes. (he slaps her) 
+PHIL	m	Why? Why? 
+JUSTINE	f	I don't know why. 
+PHIL	m	Don't you love me? Don't you love me  at all? 
+JUSTINE	f	You're the only man alive that I love. 
+PHIL	m	Oh god. Please don't tell me it's not  my baby. 
+JUSTINE	f	It's your baby. 
+PHIL	m	Are you sure? 
+JUSTINE	f	It is. I swear. I swear to God. 
+PHIL	m	Who is he? 
+JUSTINE	f	It doesn't matter. 
+PHIL	m	Yes, it does. Was it some guy from work? 
+JUSTINE	f	Yes. 
+PHIL	m	Yeah, I know who it was. It was that  Bible guy, wasn't it? The Nazarine.  That's why you were actin' so spooked. 
+JUSTINE	f	Yeah, yeah. 
+PHIL	m	I'm gonna beat his ass. 
+JUSTINE	f	Don't. 
+PHIL	m	You're gettin' all swollen. I'm sorry  I hit you, baby. 
+JUSTINE	f	I'm sorry, Phil. 
+PHIL	m	I need to get stoned. 
+JUSTINE	f	Okay. Get stoned. 
+PHIL	m	I just gotta escape, you know. You ever  feel like that? Like you gotta escape? 
+JUSTINE	f	What are those? 
+CHERYL	f	Fake eyelashes. Extra long. 
+JUSTINE	f	Just do it normal for once? 
+CHERYL	f	You want me to make the other cheek  purple to even it out? 
+JUSTINE	f	No. 
+CHERYL	f	D'you hear about Corny? He was goin'  home after Bible study last night and  two beefy guys with painted faces pulled  up in a truck and jumped him. 
+JUSTINE	f	That's terrible. 
+JUSTINE	f	That day I read the story Holden wrote  for me. It was kinda different from  the other one, but kinda the same. It  was about a woman who was put upon.  Whose job was a prison, and whose life  had lost all meaning. Other people don't  get her, especially her husband. One  day she meets a boy who is also put  upon, and they fall in love. After spending  their whole lives not getting got, with  one look they get eachother completely.  In the end, the boy and the girl run  away together in the wilderness, never  to be heard from again.   
+

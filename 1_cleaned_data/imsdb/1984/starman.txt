@@ -1,0 +1,938 @@
+   "STARMAN"	?	
+  DRAFT SCRIPT	m	
+GUARD	m	It's coming up... Slow down... There, right there... 
+OFFICER	m	Benny, God, take it easy... 
+BENNY 	m	I don't want to scare them away. 
+SECOND OFFICER	m	Smells smoke... 
+BENNY	m	I told you. 
+BENNY	m	There!! Up on the hill!! 
+BENNY	m	Right in line with that burning tree. 
+OFFICER	m	I don't see anything. 
+BENNY	m	It's there. The fog's thicker now,  but it's there. What do you think  started those fires? 
+OFFICER	m	Benny, there's nothing there. 
+BENNY	m	There is. They came out of the belly  of the ship and then went to the  first terrace and flew down into the  houses. 
+OFFICER	m	Flew?! Oh, come on Benny... 
+OFFICER	m	You hear that, Mike? Now he's telling  us... 
+MIKE 	m	What's that? 
+BENNY	m	What did I tell you? 
+OFFICER	m	Probably kids. 
+MIKE	m	Probably... 
+BENNY	m	Don't you think you should call a  backup? 
+OFFICER	m	No, we can handle this. 
+OFFICER	m	This is the police. Identify  yourselves. 
+BENNY	m	There's one over here... 
+BENNY	m	Stop!! Police!! 
+MIKE	m	What happened? 
+BENNY	m	I think I shot one. 
+MIKE	m	Jesus, Benny. What are you doing? 
+OFFICER	m	You see anything, Mike? 
+OFFICER	m	This is the police. Identify  yourselves. 
+BENNY	m	You wanna give me some help over  here. 
+MIKE	m	Okay... 
+OFFICER	m	Mike, call for back-up. Benny, you all right? 
+BENNY	m	I don't think so... 
+OFFICER	m	Benny, this is me. I'm going to take  a look. 
+BENNY	m	Don't leave me. I'm coming. 
+SUBTITLE	?	Lander four to Mapmaker Wind. Fix  position for rescue. Repeat. Fix  position for rescue. 
+PARTNER	m	What the hell was it anyway? 
+DRIVER	m	Damned if I know. 
+PARTNER 	m	Come on. I'm getting wet. 
+DRIVER 	m	It musta been a bird. 
+PARTNER 	m	How about if I drive now? 
+MAN	m	Major Aaron Bell... 
+SHERMIN	f	Marc Shermin, National Security  Agency. 
+SHERMIN	f	This has always been my favorite  time of day. 
+MAJOR BELL 	m	Very beautiful country up here... 
+SHERMIN	f	Any signs of biological contamination,  excessive radiation, anything like  that? 
+MAJOR BELL	m	Not on the landscape. We're trying  to get a tube under the faceplate  for a reading on possible deadly  lifeforms but it's hard going. 
+SHERMIN	f	Can you see under the faceplate? 
+MAJOR BELL	m	No. 
+SHERMIN	f	There's a good chance you could be  wrong about this thing then... 
+MAJOR BELL	m	Wait'll you see it. 
+MAJOR BELL	m	We had a flight of F16's play tag  with the spaceship over Michigan for  an hour. Then it shot straight up  and disappeared. 
+SHERMIN	f	Was there visual contact? 
+MAJOR BELL	m	No, sir. Radar. 
+SHERMIN	f	It could have been anything. 
+MAJOR BELL	m	After I called in, I had a chance to  sit down with the three locals. They  swear there's another one that didn't  make the ship... It might be alive. 
+SHERMIN	f	People have made mistakes in these  situations before. 
+MAJOR BELL	m	I've been investigating sightings  for seventeen years, Mr. Shermin.  This one's real. We have a dead extra- terrestrial in that tent and another  one in the area that might be alive.  We've been visited. It's finally  happened and the sooner Washington  accepts that and starts figuring out  how we're going to deal with these  beings, the better off we're going  to be. 
+MAJOR BELL	m	Look at the hands. 
+SHERMIN	f	Oh, Jesus. 
+MAJOR BELL	m	We better get it into the box. Come  on... 
+SUBTITLE	?	Mapmaker Wind. Do you hear me? 
+SHERMIN	f	The other one is alive! 
+STAR MAN	m	Mapmaker Wind. Do you hear me? 
+STAR MAN	m	Mapmaker Wind. Do you hear me? 
+STAR MAN	m	Mapmaker Wind. Do you hear me? 
+LYMAN	m	Is it for real? 
+SHERMIN	f	Get Fox. 
+SHERMIN	f	It's real, George. 
+FOX	m	There's no mistake? You're absolutely  sure? 
+SHERMIN	f	I saw it with my own eyes. We've  killed an extraterrestrial and... 
+FOX	m	Is there any possibility that it's a  hoax? Could you be mistaken? 
+SHERMIN	f	None. And there's another one in the  area that's alive. I don't know if  it's the only one. I don't know if  it was left here by accident or it's  part of an inva... 
+FOX	m	Get the body out of there. Load it  on the Air Force chopper and get it  to Wright Patterson. They'll take it  from there... We didn't expect this,  Shermin. 
+SHERMIN	f	Neither did I. 
+FOX	m	We're going... Damn! We'll tell the press that there was  an accident. Chemical warfare spill.  That cover cannot be violated in any  way. Understand me, Shermin? 
+MAJOR BELL	m	Major Bell here, sir. We have to  tell these people that we're friendly.  That this whole thing was a mistake.  Is anyone trying to contact the ship? 
+FOX	m	Shermin, I want you and Bell to start  looking for the one on the ground. 
+SHERMIN	f	We'll need a lot of help, George.  You could hide an army up here. 
+FOX	m	I'm going to the White House right  now. I'll try and get you everything  you need. 
+SHERMIN	f	Wait, wait... What are my orders if  we find this thing? 
+FOX	m	Contain it and get back to me. 
+SHERMIN	f	What do you mean by 'contain?' 
+FOX	m	Just what I said. 
+VOICES	m	It was great to have you back... The  kids loved it. We loved it. You're  doing the right thing... 
+JENNY	f	I hope so... We'll see... See you  tomorrow... Bye. Bye. 
+VOICE	m	Remember you're required to have a  lesson planned tomorrow. 
+STAR MAN	m	Iron channel message. Suit and rockets  destroyed. Radical mixture of this  atmosphere and ours in helmet allowed  chemo-ion response time to adapt my  body to this air. Am going to attempt  extreme transformation in order to  cross land mass to site of our  practice landings. If transformation  is not fatal, second message ball by  next darkness. 
+SHERMIN	f	Aghh... I'm supposed to umpire a  little league game tomorrow. 
+LYMAN	m	I wouldn't worry about it... There  might not be any little league  tomorrow. 
+MAJOR BELL	m	I'm telling you they're probably  friendly. 
+LYMAN	m	Then why did they try and sneak in  the back door? Tell me that. Why  didn't they contact us first and  say... 
+RADAR TECHNICIAN	m	UFO coming out of the grass. 
+SHERMIN	f	Lock in. 
+RADAR TECHNICIAN	m	Got it. 
+LYMAN	m	This is crazy. What were we going to  do if that had been the ship? We  have two thirty calibre machine guns,  three M16's and some handguns. 
+SHERMIN	f	Give it a rest, Lyman. 
+MAJOR BELL	m	I've never once heard of anybody  being hurt by an extraterrestrial... 
+LYMAN	m	That's because the ones that were  hurt, died. They couldn't talk to  you. 
+SHERMIN	f	Any reports about monsters, people  in Halloween masks, anything like  that? 
+TECHNICIAN	m	No, but there sure were a lot of  people who saw lights in the sky  last night. Reports are still coming  in. 
+MAJOR BELL	m	I've heard of blood being drawn,  sometimes they were taken for a ride  in the ship, a lot of times they  said they had sex... But nobody was  ever hurt... 
+LYMAN	m	But you decided those weren't real.  This one is. 
+LYMAN	m	Fox. 
+FOX	m	I've got something for you. 
+FOX	m	Recognize this? 
+MAJOR BELL	m	It's a copy of the plaque NASA sent  into space on the Pioneer probes. 
+FOX	m	Houston found it in the  extraterrestrial's suit. 
+MAJOR BELL	m	They must have picked it up in space. 
+SHERMIN	f	Then it's not an accident that they  found us. 
+FOX	m	We don't think that's necessarily  bad. At least it's a point of contact. 
+SHERMIN	f	Not necessarily bad! If they knew we  were here why didn't they let us  know they were coming? 
+FOX	m	We'll get those answers when you  find the one you're looking for. 
+SHERMIN	f	That's not going to happen, George,  unless you get us the help you  promised us. 
+FOX	m	We've been back and forth on this  all day and keeping in mind the panic  that would occur if this got to the  general public, it's been decided  not to expand the search at this  time. 
+SHERMIN	f	Don't let them do it this way, George.  It's too important. We can't find  this thing alone. 
+FOX	m	You have to. We're trying to contact  the ship. If we do, I'll let you  know immediately. Good luck. 
+RADAR TECHNICIAN	m	You get the feeling we're expendable? 
+SHERMIN	f	We always were. 
+STAR MAN	m	Wehave... Wehave... Wehave... 
+JENNY	f	Damn! 
+STAR MAN	m	Wehave... 
+STAR MAN	m	Wehave... 
+JENNY	f	Please don't hurt me... please...  please. 
+JENNY	f	It's got to be here... it's got to  be here... 
+JENNY	f	No... please don't... 
+DR. BERGEN	f	The creature was hit three times... 
+DR. BERGEN	f	...the arm, the abdomen and the upper  chest, the one in the chest being  the cause of death. It shattered,  for want of a better term, the  creature's backbone. It's not really,  because it's not jointed. It's simply  a hollow shaft of very pliable  silicate material, as is its entire  endoskeleton. The creature seems to  have tremendous regenerative powers.  Although it must have died within  minutes of receiving the fatal wound,  the arm and abdomen wounds are almost  totally healed and the bullet here... has begun to dissolve... 
+DR. BERGEN	f	It has veins but no blood. We think,  and this is just speculation, that  some form of energy flows from the  brain, which is much more  sophisticated than ours, throughout  the rest of the body... We don't  think there is any danger of bacterial  contamination. Our biochemistries  are too different... 
+DR. BERGEN 	f	The flesh is gelatinous, the skin is  very porous and very moist. This is  another guess, but it probably comes  from a planet that receives only  reflected light, perhaps from a ring  of moons. Its atmospheric pressure  is slightly less than ours and it  contains a great deal more water... 
+FOX 	m	Dr. Bergen, George Fox here in  Washington. Can you give us an idea  of why they're here? 
+DR. BERGEN 	f	They're so advanced... I... eh...  can't imagine what they would want  from us. I know they could be  dangerous. But they could also be  the greatest thing that ever happened  to mankind... 
+STAR MAN	m	Please... 
+JENNY	f	Don't... don't do this... please... 
+JENNY	f	You're hurting me. Stop. 
+JENNY	f	Oh, God, no! I'm not leaving this  house with you. You're going to hurt  me, I know... 
+JENNY	f	I can't. I'd like to help. You look  like Scott, but I know you're not. I  don't know what you are. You gotta  understand, I'm afraid of you... 
+STAR MAN	m	Please. 
+JENNY	f	Why are you doing this to me? I'll  give you whatever... 
+STAR MAN	m	Please... 
+JENNY	f	Which way do you want to go? 
+JENNY	f	You can go that way... That way... That way... 
+STAR MAN	m	That way. 
+JENNY	f	God, what are you? 
+JENNY	f	I'm sorry... 
+JENNY	f	That green dot, that's us, isn't  it... and the red's where you want  to go?... You don't understand me,  do you? 
+JENNY	f	I gotta get out of here. 
+JENNY	f	What? 
+STAR MAN	m	What. 
+JENNY	f	Ah... no... 
+STAR MAN	m	Ah no. 
+JENNY	f	Steering wheel... 
+STAR MAN	m	What. 
+JENNY	f	Steering wheel. 
+STAR MAN	m	Steering wheel. 
+JENNY	f	Gear shift. 
+STAR MAN	m	Gear shift. 
+JENNY	f	Dashboard. 
+STAR MAN	m	Dashboard. 
+STAR MAN	m	What?! 
+JENNY	f	Eh... police. 
+STAR MAN	m	Police... 
+JENNY	f	What?... 
+JENNY	f	Steering wheel... What? 
+STAR MAN	m	Steering wheel... gear shift...  dashboard... 
+JENNY	f	Good. 
+STAR MAN	m	Good. 
+JENNY 	f	Which way? 
+STAR MAN 	m	That way. 
+STAR MAN 	m	Good. 
+STAR MAN	m	What? 
+JENNY	f	Flashlight. 
+STAR MAN	m	What? 
+JENNY	f	Coupons. 
+STAR MAN	m	What? 
+JENNY	f	Pancakes. 
+STAR MAN	m	Pancakes. 
+STAR MAN	m	What? 
+STAR MAN	m	What? 
+MAN	m	You stupid son of a bitch!! 
+JENNY	f	Help me!! 
+MAN	m	You could have killed us both!! 
+JENNY	f	He's kidnapping me!!! 
+MAN	m	Jesus Christ!! You crazy people... 
+JENNY	f	Call the police!! 
+MAN	m	Hey buddy... let her go... 
+JENNY	f	Help me!!! 
+MAN	m	Hey, she doesn't want to go with  you. Come on. 
+MAN	m	Oh God, man... don't shoot me... My  mistake... I'm sorry... 
+JENNY	f	He doesn't understand... just walk  away... 
+MAN	m	I promise I'm not going to tell  anybody about this... None of my  business... I'm going to move now,  okay... You guys want to fight, that's up to  you... I'm leaving now... I won't say a  word... 
+STAR MAN	m	Go. 
+JENNY	f	Could you put the gun down? 
+JENNY	f	Gun... Down... Down. 
+JENNY	f	Thank you. 
+SHERMIN	f	There's nothing... No reports of  sightings or landings or anything...  in the other parts of the country or  overseas... Seems like a totally  isolated incident. 
+MAJOR BELL	m	It was only an accident that we  discovered them. 
+SHERMIN	f	I know, but... 
+SHERMIN	f	You married, Major? 
+MAJOR BELL	m	Twenty-eight years. 
+SHERMIN	f	To the same woman? 
+MAJOR BELL	m	Yes. 
+SHERMIN	f	I tried it once... Fourteen years  ago... 'I was a lousy husband and a  worse father. The only thing I'm  good at is this... At least until  yesterday. 
+SHERMIN	f	How would you describe the sounds we  heard coming out of that thing's  helmet? 
+MAJOR BELL	m	It was kind of like clicking, maybe  a language wasn't it? 
+SHERMIN	f	Listen to this. A woman was kidnapped in Eau Claire  this morning. When a citizen went to  her rescue the kidnapper threatened  him with a gun and shouted at him in  a strange 'clicking gibberish'... 
+MAJOR BELL	m	It was a man though... right? 
+SHERMIN	f	The police think he was high on  drugs... 
+SHERMIN	f	What do you think? 
+MAJOR BELL	m	Nothing up there... The grass is  matted down in a few places, but  that could have been anything. 
+SHERMIN	f	It was the husband. The police finally  got a hold of the witness at work  and showed him a picture of the woman. 
+MAJOR BELL	m	It's the right area, that's for sure. 
+SHERMIN	f	Why the clicking language though? 
+SHERMIN	f	Sorry to disturb you, sir, but there's  been some trouble next door. I'd  like to ask you a few questions. 
+MAN	m	What happened? 
+SHERMIN	f	There's a possibility that Mrs.  Haydn's been kidnapped. We're hoping  you might have seen something. 
+WOMAN	f	I told you... 
+MAN	m	Judy, that's stupid. 
+WOMAN	f	Well, maybe these men won't think  so. We were asleep when a helicopter  woke me up. It made me so nervous I  went into the kitchen for something  to eat. I happened to look out the  window and there was Scott Haydn  with this green thing draped over  his arm pulling Jenny down the walk  to the car. 
+MAN	m	You know that's impossible! 
+WOMAN	f	I know what I saw. I've seen him  enough times. 
+MAN	m	Scott Haydn is dead. He died about  three months ago. We went to the  funeral. 
+STAR MAN 	m	R-r-S-s... 
+STAR MAN	m	T-t-U... 
+STAR MAN	m	u-V-v... 
+STAR MAN	m	Cow... Dog... Pig... 
+STAR MAN	m	W-w... 
+STAR MAN	m	What? 
+JENNY	f	
+JENNY	f	What's so funny about X? 
+SHERMIN 	f	George, we've just confirmed the  existence of the live  extraterrestrial. 
+FOX	m	When can we expect containment? 
+SHERMIN 	f	Well, we're in pursuit of a green  Mustang... 
+FOX	m	It's in a green Mustang? 
+SHERMIN 	f	Yes. It's kidnapped a woman at  gunpoint and from what we can make  out is forcing her to drive it  somewhere. 
+MILITARY MAN	m	This one has a weapon. 
+SHERMIN 	f	No, no... A .45, it probably got it  in the woman's house. They were last  seen in downtown Eau Claire... 
+FOX	m	Why did you let it get into a  populated area? 
+SHERMIN 	f	It's taken on a disguise. 
+FOX	m	Clarify that. 
+SHERMIN 	f	It's made itself look like the woman's  dead husband. 
+FOX	m	Repeat the last item. 
+SHERMIN 	f	The extraterrestrial now looks like  this. 
+FOX	m	Oh shit!!! 
+STAR MAN 	m	The United States of America. In God  We Trust. Ten dollars. 
+JENNY	f	Money. 
+STAR MAN	m	Money. 
+JENNY	f	Money. 
+STAR MAN	m	Mi-chi-gan driver li-see-ens...  Jennyhaydn... Money? 
+JENNY	f	We're going to have to stop for gas  soon. 
+STAR MAN	m	What? 
+JENNY	f	Smile. 
+STAR MAN	m	Smile... good? 
+JENNY	f	Yes. 
+STAR MAN	m	What?! 
+JENNY	f	Minneapolis. 
+STAR MAN	m	Minneapolis... Minneapolis... 
+JENNY	f	What are you doing? 
+JENNY	f	...What's that? 
+STAR MAN	m	Minneapolis... good. 
+JENNY	f	You're full of tricks, aren't you? 
+JENNY	f	We need gas. 
+JENNY	f	No gas. 
+STAR MAN	m	No gas. 
+JENNY	f	This car runs on gas. 
+JENNY	f	Gas... 
+JENNY	f	No gas. 
+JENNY	f	
+JENNY	f	
+JENNY	f	
+JENNY	f	
+JENNY	f	No gas... car dead. We need gas. I don't want to get  shot for running out of gas. 
+STAR MAN	m	Gas good? 
+JENNY	f	Yes. Very good. 
+JENNY	f	Gas... 
+STAR MAN	m	Go. 
+JENNY	f	It's closed... closed. We need one  that's open. 
+STAR MAN	m	Closed? 
+JENNY	f	You'll see. 
+STAR MAN	m	What? 
+JENNY	f	Not what. Who. What is for things. What? What? What? What? For people  you use who. Who is he? Who is she? Who are you? 
+STAR MAN	m	Who is he? Who is she? Who are you?  Who am I? Who are you? 
+JENNY	f	I am Jenny Haydn. 
+STAR MAN	m	Jennyhaydn. 
+JENNY	f	Who are you? 
+STAR MAN	m	I am... 
+JENNY	f	That's a big help. Where are you  from? 
+STAR MAN	m	From? 
+JENNY	f	Are you from up there? Space? 
+STAR MAN	m	Space? 
+JENNY	f	Up there... I... eh... can't  explain... But that's the only place you could  be from. 
+STAR MAN	m	Gas. 
+JENNY	f	Closed. 
+STAR MAN	m	No gas. 
+JENNY	f	I know. 
+STAR MAN	m	Who? 
+JENNY	f	My... husband. 
+STAR MAN	m	I am husband? 
+JENNY	f	No. I don't know what you are, but  you're not Scott. 
+JENNY	f	Shit. 
+STAR MAN	m	Shit? 
+JENNY	f	No, no... don't say that. Bad word. 
+STAR MAN	m	Shit... shit... what shit? 
+JENNY	f	Stop!! Enough!! Jesus! You're worse  than a parrot!! 
+JENNY	f	Mouth closed... closed. 
+JENNY	f	I see it. 
+STAR MAN	m	Who? 
+JENNY	f	Attendant. He'll give us gas. Put  the gun down. Under the seat. Under  the seat... 
+STAR MAN	m	No. 
+JENNY	f	Oh God! You're going to get us both  killed. Okay... in your pocket... 
+JENNY	f	In your pocket... pocket... 
+JENNY	f	In your pocket, please... 
+STAR MAN	m	You. Mouth closed. 
+JENNY	f	Okay. 
+ATTENDANT	?	Morning, folks. Fill her up? 
+STAR MAN	m	...Gas... 
+ATTENDANT	?	You got it. 
+JENNY	f	I'm going to the ladies' room. You  stay here. 
+JENNY	f	Go back to the car. 
+JENNY	f	See. It's a bathroom. I'm not trying  to escape. I just have to go to the  bathroom. 
+JENNY	f	Satisfied? Now get out. Out. 
+STAR MAN	m	No. 
+JENNY	f	Women... me. 
+JENNY	f	Men. You go in here. 
+JENNY	f	Come on. 
+RIDER	m	Do I need a key for the head? 
+ATTENDANT	?	It's open. 
+RIDER	m	Fill it up. 
+ATTENDANT	?	You got it. 
+JENNY	f	Just a minute. 
+RIDER	m	Howdy... can't get her out. 
+STAR MAN	m	Gas. 
+RIDER	m	I know how she feels. 
+JENNY	f	It's still a toilet. Hasn't become a  ballroom. 
+STAR MAN	m	Kid-nap-ped... go-ing W o-n... 
+JENNY	f	That's very good. 
+STAR MAN	m	Money. 
+JENNY	f	Yes. 
+STAR MAN	m	What? 
+JENNY	f	Candy. 
+STAR MAN	m	Money... candy. 
+ATTENDANT	?	That'll be fifteen fifty, sir. 
+JENNY	f	Here. 
+ATTENDANT	?	Thank you. 
+STAR MAN	m	Thank you. 
+STAR MAN	m	What is... ...Coke? 
+JENNY	f	A drink. 
+STAR MAN	m	
+JENNY	f	You want to try it? 
+STAR MAN	m	I want to try it. 
+JENNY	f	This stuff could kill... Be my guest. 
+STAR MAN	m	Good. 
+JENNY	f	Eh... you keep it. I've had enough. 
+JENNY	f	What's the matter? 
+STAR MAN	m	Shit! 
+STAR MAN	m	What is kidnapped? 
+STAR MAN	m	Kidnapped!!! 
+STAR MAN	m	Kidnapped!!! What is kidnapped?!! 
+JENNY	f	Kidnapped is what you're doing to me  now!!! Kidnapped is pointing a gun  at me and taking me from my house!  Kidnapped is changing yourself into  my husband. I don't know what you  are and I don't care. I just want to  get away from you! 
+STAR MAN	m	Jennyhaydn. 
+STAR MAN	m	I am good. 
+STAR MAN	m	What is that? 
+JENNY	f	Horses. 
+STAR MAN	m	Horses. 
+STAR MAN	m	What? 
+JENNY	f	Music. 
+JENNY	f	What are you doing?! 
+STAR MAN	m	Iron channel message. Transmute was  successful. Have captured one of  them. It is taking me to the pick-up  point in a land vehicle. I think I can control it by mastering  its language, which is primitive and  easy to learn. Will arrive on time.  Wait for me. 
+FOX 	m	I just came from a meeting with the  Security Council and in view of the extraterrestrial's  radical change and the fact that all  our efforts to contact its ship remain unanswered,  it was decided to issue a ten state  'all points bulletin' for Scott Haydn,  Jenny Haydn and the green Mustang.  The officers have been instructed  not to approach the people or the  vehicle but to contact you. You will  then move in and contain the subjects. 
+SHERMIN	f	You sure you want this, because...  that's putting an awful lot of faith  in people we have no control over... 
+FOX 	m	I'm afraid the situation demands  that kind of risk. 
+SHERMIN	f	I don't like it, George... 
+FOX 	m	Dammit Shermin. Earlier you were  asking for help. What's changed? 
+SHERMIN	f	It's messy... the thing's got a gun...  We're just asking for somebody to  get killed... 
+FOX 	m	We don't know what else to do. We  need results. 
+SHERMIN	f	You'll get results one way or the  other, that's for sure... Okay. 
+FOX 	m	I'm gonna be here if you need  anything. 
+MAJOR BELL	m	They're gonna let some local cop  blow him away. 
+LYMAN	m	Save us all a lot of trouble. 
+MAJOR BELL	m	Jesus Lyman, you're an ignorant fool. 
+LYMAN	m	Bullshit! 
+MAJOR BELL	m	You have no conception of this, do  you? 
+LYMAN	m	You jerk! You look at all the  sweetness and light and goodness you  think'll come out of this. You know  what's gonna come out of this... The  end of religion, the end of  civilization, the end of the earth.  We could become slaves, we could  become a colony of these things.  Don't you see that? Are you too stupid  to see that? 
+SHERMIN	f	Are you ladies through?... 
+SHERMIN	f	Good... It looks like we might be  the welcoming committee, so I think  we should try and figure out what  we're gonna do if we have to come  face to face with this creature. 
+LYMAN	m	Bell wants us to get down on our  knees and bow. 
+SHERMIN	f	Did your people have any contingencies  rehearsed? 
+MAJOR BELL	m	No... I guess we never thought it  would happen. 
+SHERMIN	f	Terrific. 
+JENNY	f	Red light! 
+JENNY	f	Stop!!! 
+JENNY	f	That was a red light!! I told you  you have to stop at a red light!! 
+STAR MAN	m	It was yellow. 
+JENNY	f	You didn't even see it. 
+STAR MAN	m	I will see it next time. 
+JENNY	f	You better. 
+JENNY	f	Why are you going here? What is here? 
+STAR MAN	m	My... ...car will take me... ...up there... home. 
+JENNY	f	When do you have to be here? 
+STAR MAN	m	I do not understand. 
+JENNY	f	How will I do this one?... 
+JENNY	f	Sun... 
+STAR MAN	m	Yes. 
+JENNY	f	Sun... day. No sun... night. You  understand? 
+STAR MAN	m	Yes. Day... night. 
+JENNY	f	How many days and nights do you have  to go... ...here? 
+STAR MAN	m	Three nights... two days. 
+JENNY	f	That's not much time. I'll just slow  you down. I have to sleep. I'm very  tired. And I have to wash and eat.  You don't... 
+STAR MAN	m	I need you. 
+JENNY	f	I won't tell anybody if that's what  you're worried about. I promise.  You'll keep... 
+STAR MAN	m	No. 
+JENNY	f	You'll keep the car. I'll take a  bus... Am I going up there with you... in  your ship... up there? 
+STAR MAN	m	No. 
+JENNY	f	Then let me go. You don't need me. 
+STAR MAN	m	No. 
+JENNY	f	I feel like I'm going crazy here.  You're Scott. But he's dead. I don't  know what's real anymore. I can't be  here with you. 
+JENNY	f	Do you understand what I'm saying to  you? You can keep the car. That should be enough for gas from  here to there. Please let me go. 
+STAR MAN	m	When we get here. 
+JENNY	f	You bastard. 
+STAR MAN	m	Jennyhaydn! 
+YOUNG MAN	m	Hey!! 
+MOTHER	f	My baby!!! He's stealing my baby!  Burt!! 
+MOTHER	f	Burt!! Somebody stop him!! He was  stealing my baby!! 
+MAN	m	Where you think you're going? 
+STAR MAN	m	Please. 
+MOTHER	f	He was trying to steal Gloria. 
+BURT	m	Is that right? Huh? 
+STAR MAN	m	Please. 
+BURT	m	Is that right? Come on. Answer me. 
+BURT	m	Were you trying to steal my baby?  Huh? Answer me! 
+STAR MAN	m	Jennyhaydn! 
+STAR MAN	m	Jennyhaydn! 
+JENNY 	f	Stop it!!! Stop it!!! 
+JENNY	f	Get away from him!! Leave him alone!!  You stupid jerks!! He's retarded!!  Can't you see that?!! Get away from  him!! 
+MOTHER	f	He was stealing my baby... 
+JENNY	f	You're wrong!! He would never do  anything like that!! Let's go... 
+MOTHER	f	He had Gloria in his hands! 
+JENNY	f	He's retarded! I shouldn't have left  him alone! 
+JENNY	f	Get out of my way. 
+JENNY	f	Are you okay? 
+STAR MAN	m	Thank you. 
+CLERK	m	Gate three. It's boarding now. 
+JENNY	f	Thank you. 
+CLERK	m	Have a nice trip. 
+JENNY	f	The closest I was able to get you  was Lathrop Wells... 
+STAR MAN	m	Is that a baby? 
+JENNY	f	Yes. 
+STAR MAN	m	A baby is a new person? 
+JENNY	f	Eh... yes... 
+STAR MAN	m	Do you have a baby? 
+JENNY	f	No... The closest... 
+STAR MAN	m	Why? 
+JENNY	f	I'd love to have a baby. But I  can't... 
+STAR MAN	m	Why? 
+JENNY	f	I can't... Forget the baby. Okay?  The closest I was able to get you  was Lathrop Wells. You'll have to  hitchhike the rest of the way. 
+STAR MAN	m	But I must go here. 
+JENNY	f	I know that. But the buses don't go  there. 
+STAR MAN	m	What is hitchhike? 
+JENNY	f	That's easy. I'll explain that in a  minute. This is your ticket. When  you get on the bus here, the driver  will take this part. You will ride  to Omaha. When you get to Omaha, ask  the driver. 'Salt Lake City, please.  I do not speak English.' 
+JENNY	f	Say it. 
+STAR MAN	m	'Salt Lake City, please. I do not  speak English.' 
+JENNY	f	The driver will... 
+STAR MAN	m	But I speak English. 
+JENNY	f	Will you please do it my way? You'll  get into trouble if you don't. If  anybody talks to you, tell them... I  do not speak English. 
+STAR MAN	m	I do not speak English. 
+JENNY	f	Right. In Omaha the driver will put  you on the bus for Salt Lake City  and the new driver will take... ...this part. When you get to Salt  Lake City, ask the driver, 'Las Vegas,  please'... 
+STAR MAN	m	'Las Vegas, please. I do not speak  English.' What is hitchhike? 
+JENNY	f	You want this ticket? 
+STAR MAN	m	Yes. 
+JENNY	f	Then don't be smart. 
+P.A. SYSTEM 	m	Last call for bus 33 to Vermillion,  Sioux City and Omaha... loading at  Gate 3. 
+JENNY	f	That's your bus. When you get to Las Vegas, ask the  driver. 'Lathrop Wells, please. I do  not speak English.' 
+STAR MAN	m	'Lathrop Wells, please. I do not  speak English.' 
+JENNY	f	You keep this. Now this is hitch- hike... You stand on the side of the road,  the highway... you understand? And  you face the cars going in the  direction you want to go. When you  see a car or a truck coming, you  stick out your thumb like this... 
+JENNY	f	Your thumb tells the driver that you  want a ride. 
+STAR MAN	m	The car will stop? 
+JENNY	f	Not every car, but... a car will  stop... Maybe not the first car...  maybe number eight, number fifteen... 
+STAR MAN	m	When do I get to Lathrop Wells? 
+JENNY	f	Tomorrow morning. Start hitch-hiking  right away and... 
+JENNY	f	...you'll have plenty of time to get  to where you want to go. 
+JENNY	f	Don't worry. They're not going to  hurt you. Come on. Only show this to the driver. Nobody  else. And don't lose it. 
+STAR MAN	m	Can I have the gun? 
+JENNY	f	No. 
+JENNY	f	You might need this. 
+JENNY	f	Don't be afraid. Do what I told you  and you'll be okay. 
+STAR MAN	m	Yes. 
+JENNY	f	Well... I'm going to go now. 
+STAR MAN	m	Go? 
+JENNY	f	Yes. I have a long ride ahead of  me... Goodbye. 
+STAR MAN	m	Goodbye. 
+STAR MAN	m	Jennyhaydn. 
+JENNY	f	Yes? 
+STAR MAN	m	Please stay. 
+JENNY	f	I'll stay till you get on the bus. 
+DRIVER	m	Ticket? 
+JENNY	f	See? You're going to be okay. 
+JENNY	f	Goodbye. 
+STAR MAN	m	What? 
+JENNY	f	It's a kiss... Goodbye... 
+DRIVER	m	Let's go. 
+JENNY	f	Oh no... 
+JENNY	f	What happened? 
+STAR MAN	m	I was afraid. 
+JENNY	f	Okay, you win. Get in. 
+SHOPKEEPER	f	This kind of thing's real bad for  business... 
+TOUGH	m	He couldn't even speak English. 
+MOTHER	f	Those kind of people should be shot. 
+ONLOOKER	m	What happened? 
+WAITRESS	?	I think he was just lost... 
+BURT	m	Who's side are you on? 
+TOUGH	m	No way he was going to get away from  me. 
+LYMAN	m	Where's that?... And it was one  person, one way... 
+SECURITY GUARD	m	Eyewitnesses are the worst. You get  two of them together. You got three  stories. You know what I mean? 
+SECURITY GUARD	m	Is there a reward in this? 
+SHERMIN	f	Huh?... Eh... no, there isn't 
+SECURITY GUARD	m	Because I'm the one who called the  police, you know. 
+SHERMIN	f	Yeah, thanks. We appreciate that. 
+SECURITY GUARD	m	Hey, it's none of my business why  you're chasing a retard... You want  my opinion, it's the girl. She had  to hold the guy's hand all the way  to the car like he was a kid. 
+SHERMIN	f	You saw that? 
+SECURITY GUARD	m	Hey... he didn't look like no big  time criminal to me. 
+SECURITY GUARD	m	Eh... the store tells you to call  when there's trouble, so they won't  get sued... But that shouldn't matter  if there's a reward, right? 
+SHERMIN	f	I wouldn't think so. 
+SECURITY GUARD	m	That's what I thought. So remember  it was me because sometimes rewards  come late, you know. 
+SHERMIN	f	We will. Something's wrong here. She's helping  him now. 
+LYMAN	m	I know. She bought him a ticket for  Lathrop Wells and put him on the  bus. He didn't stay on though and  they drove off together. 
+SHERMIN	f	Doesn't make sense. 
+LYMAN	m	Maybe he's turned her into one of  them. They enter the crowd around  the helicopter. 
+JENNY 	f	Why did your ship land on this  planet... on Earth? 
+STAR MAN 	m	It was a mistake. 
+JENNY	f	You thought we were a different  planet?! 
+STAR MAN	m	No. My ship was doing a map of all  the suns and... 
+JENNY	f	Stars... When a sun is far away, we  call it a 'star.' 
+STAR MAN	m	We were doing a map of the stars and  all the other things up there when  we saw a small ship. My... eh... we  kidnapped it. On it there was a map  that said how to come to Earth. This  was very important. Before then, we  thought we were the only people in  all the stars. 
+JENNY	f	You did? That's funny. So did we. 
+STAR MAN	m	Yes? 
+JENNY	f	Yes. 
+STAR MAN	m	We told our home, and the people who  tell us what to do on my planet said  to come and look but not to talk,  not to land, not to shoot. Just to  look from up there. We came and...  the driver of my ship... 
+JENNY	f	The captain... 
+STAR MAN	m	The captain wanted to land to see  close and to get some things from  Earth to take home. The police came  and shot at us. One of the people  from my ship was killed. 
+JENNY	f	Oh, that's terrible. I'm sorry. Was  he a good friend? 
+STAR MAN	m	I don't understand 'friend.' 
+JENNY	f	A friend is a person that is good to  you... someone you like to be with...  someone you like to laugh with... 
+STAR MAN	m	He was a good friend... The captain  took the ship away fast and I was  not in the ship. 
+JENNY	f	The police shouldn't have started  shooting. But you can hardly blame  them. You surprised them. They didn't  know you were up there. When they  saw you, they thought you were here  to hurt us. 
+STAR MAN	m	I understand. 
+JENNY	f	Sounds like your captain's going to  get hell when he gets back home. 
+STAR MAN	m	What is hell? 
+JENNY	f	It's bad. 
+STAR MAN	m	He will. 
+JENNY	f	What are you doing? 
+STAR MAN	m	Are you my friend? 
+JENNY	f	Yes. 
+STAR MAN	m	I am your friend. 
+PREACHER 	m	God is your creator. God is your  master. God is you savior. God is  the only reason that you exist. If  God... 
+STAR MAN	m	Who is God? 
+JENNY	f	Nobody knows. 
+STAR MAN	m	Why? 
+JENNY	f	I don't know. 
+STAR MAN	m	I like this music. 
+JENNY	f	I've noticed... Do you understand  what they're saying? 
+STAR MAN	m	Not all... but it feels like a kiss. 
+JENNY	f	Do you have music up there? 
+STAR MAN	m	Yes. 
+JENNY	f	I'd like to hear it. Can you sing  something? 
+STAR MAN	m	I do not want to. 
+JENNY	f	Don't be afraid... I'd really like  to hear it. 
+JENNY	f	Please. 
+STAR MAN	m	I am not a good singer. 
+JENNY	f	That was beautiful. 
+STAR MAN	m	You liked my singing? 
+JENNY	f	Yes. Sing some more. 
+CLERK	m	What can I do for you folks? 
+JENNY	f	How much are your rooms? 
+CLERK	m	Thirty-seven fifty for one person,  forty-nine fifty for two. 
+JENNY	f	You have one with two beds? 
+CLERK	m	Sure. 
+JENNY	f	I'll take that. 
+CLERK	m	Fill this out. Will this be cash or credit card? 
+JENNY	f	Credit card. 
+CLERK	m	I'll have to run your card off now. 
+JENNY	f	We're only going to be here a few  hours... 
+CLERK	m	It's still the full price. 
+STAR MAN	m	Jenny, look... 
+JENNY	f	Put that back. 
+STAR MAN	m	But I have never seen this before. I  am not complete. 
+JENNY	f	Put it back. 
+CLERK	m	You can park your car in front of  the room. 
+DRIVER	m	What did these two do? 
+SECOND DRIVER	m	All anybody knows is that they're  armed and dangerous. 
+SECOND OFFICER	m	Be a piece of cake for us to take  'em. 
+THIRD DRIVER	m	National Security folks should be  here any minute. Let them take care  of it. That's what they get the big  bucks for. 
+STAR MAN	m	I want a drink. May I have two  quarters? 
+JENNY	f	You shouldn't drink so much of that  stuff. It's bad for you. 
+STAR MAN	m	On the radio they say it's good. 
+JENNY	f	Hurry up. 
+STAR MAN	m	The machine gave me two. Should I  put one back? 
+JENNY	f	No. Get in. 
+STAR MAN	m	You can have one. 
+JENNY	f	I'm not sleepy anymore. Let's drive  for a little while longer. 
+STAR MAN	m	Are you angry at me? 
+JENNY	f	No. I'm just not tired. Let's go. 
+SECOND DRIVER	m	They made us. Let's get 'em. 
+JENNY	f	No. 
+JENNY	f	No!!! No!!! 
+DRIVER	m	He's got a gun!! 
+STAR MAN	m	Jennyhaydn! Jennyhaydn!! 
+LYMAN	m	One of them must be pretty badly  hurt. 
+SHERMIN	f	Get this back to the copter. 
+SHERMIN	f	Mrs. Haydn, please come out. We don't  want to hurt you or your friend.  Please put down your weapon and come  out. 
+SHERMIN	f	Okay, fan out. These people have a  gun but we want them alive.  Understand? 
+THIRD DRIVER	m	Over here! They're over here! 
+STAR MAN	m	You will be all right. 
+SHERMIN	f	Mrs. Haydn, we don't want to hurt  you. Put down your gun and come out.  We just want to talk to your friend. 
+STAR MAN	m	Iron channel message. Almost caught  by pursuers. This may hinder escape.  Wait for me. 
+WOMAN	f	Don't forget to tell the boys where  you had a good time. 
+DRIVER	m	You weren't that good. 
+SHERMIN	f	Tell him I'm not here. 
+LYMAN	m	I did. 
+SHERMIN	f	Get me a radio. At least I won't  have to look at his face. 
+FOX 	m	We're growing very concerned back  here. There's no use pretending  otherwise. We're rapidly approaching  a 'condition red.' People are  beginning to ask difficult questions. 
+SHERMIN	f	I'll make this as simple as I can,  George. They disappeared. 
+FOX 	m	I don't care where you're from you  just can't disappear into thin air. 
+SHERMIN	f	George, listen to what you're saying.  This thing's changed itself into a  man. Disappearing may not be that  big a deal. 
+FOX 	m	So far you've let it cross the heart  of America. For two days it has been  absorbing information that is  detrimental to our security. I don't  see the humor in that. 
+SHERMIN	f	Maybe... look, this is just something  to think about... from what I got at  the shopping center, it was more  scared than anything else... I don't  feel it's as big a threat as you  think it is... 
+FOX 	m	Is that what's affecting your  performance? 
+SHERMIN	f	I'm not being unpatriotic, and I'm  doing my damndest to catch them.  Bell's up on 80 and I'm down here on  70 past Grand Junction. They're  heading west. If they're not flying  we have a damn good chance of getting  them. All I'm asking is that you  people think about it. 
+FOX 	m	You just do your job, Shermin. We'll  make the policy. 
+JENNY	f	Hello... hello. 
+JENNY	f	Hello. Where are you? 
+STAR MAN 	m	Jennyhay... 
+STAR MAN 	m	...nd. You are all fixed. I'm sorry  you were shot. I was a big problem  for you. Thank you for your help. I  can go to my ship alone now. 
+JENNY	f	Where did you stop last? 
+DRIVER	m	What the hell do you think you're  doing? 
+JENNY	f	Where did you stop last? 
+DRIVER	m	Stay right there... 
+JENNY	f	What was your last stop? 
+DRIVER	m	Elmo's... 
+JENNY	f	Where's that? 
+DRIVER	m	About five miles back. 
+DRIVER	m	Are there any more in there? 
+MAN	m	Where are you going? 
+STAR MAN	m	Las Vegas, please. I do not speak  English. 
+MAN	m	Hop in. 
+MAN	m	I can only take you to Grand Junction,  but you'll have a better chance to  get a ride from there. 
+MAN	m	Where you from? 
+STAR MAN	m	I don't understand. 
+MAN	m	Parlez vous Francais?... Habla  Ingles?... Sprechen zie deutsch? 
+MAN	m	Good job, neither do I. What do you  do for a living? 
+STAR MAN	m	I don't understand. 
+MAN	m	I'm a cook. Do you understand 'cook?' 
+STAR MAN	m	No. 
+COOK 	m	Food. Eat. I prepare food. I work as  a cook. That's how I make money. 
+STAR MAN	m	I understand. 
+COOK	m	What do you do? 
+STAR MAN	m	I make maps. 
+COOK	m	Hey, that sounds interesting. You  like it? 
+STAR MAN	m	Eh... yes. 
+COOK	m	Make any money? 
+STAR MAN	m	No. 
+COOK	m	You don't get rich as a cook, either,  believe me. I got a girl going to  college this fall. The wife had to  go back to nursing to help pay for  it. 
+COOK	m	Smoke? 
+COOK	m	She wants to become a doctor. She's  a bright kid. Hard worker. I think  she'll make it. But the damned  inflation's driven the tuition up so  high it makes it real tough on a  family like ours. 
+COOK	m	I got two other kids. I don't know  what we'll do when they get old enough  for college. 
+COOK	m	Everybody blames it on the oil crisis.  That might be where it starts. But I  think a lot of people are just using  that as an excuse to rip the rest of  us off. I see it every day in the  kitchen. Peaches. We use the gallon  cans. The price has gone up three  times in the last year. And now the  cans are only half full. 
+COOK	m	Do you have children? 
+STAR MAN	m	No. 
+COOK	m	They're damned expensive and a pain  in the ass sometimes, but I wouldn't  trade having them for anything. 
+COOK	m	What do you think of America? 
+STAR MAN	m	It is beautiful. 
+JENNY 	f	I'm looking for a guy about this  tall, with brown hair and really  gray eyes... 
+JENNY	f	He had on tan cords, a plaid shirt  and a baseball cap... probably  hitchhiking. 
+ATTENDANT	?	I don't pay much attention to those  guys. 
+JENNY	f	In the last hour or so... 
+ATTENDANT	?	Nope. 
+JENNY	f	This is him. 
+ATTENDANT	?	Sorry. 
+SECOND ATTENDANT	m	I don't know... I'm not sure. I might  have seen him up the road a piece on  my way in. He's long gone by now. 
+JENNY	f	You know if anybody here's going to  Wisconsin? 
+SECOND ATTENDANT	m	Ask inside. 
+JENNY	f	Anybody going to... 
+JENNY	f	Anybody going to Wisconsin? 
+JENNY	f	I need a ride. 
+OLDER MAN	m	I'm going to Des Moines. If you can  wait till I finish here, you're  welcome to ride along. 
+JENNY	f	I can wait. 
+JENNY	f	Where's the phone? 
+OPERATOR 	m	Operator... may I help you? 
+JENNY	f	Could you give me the highway patrol,  please? 
+MALE 	m	Sergeant Packert, Highway Patrol. 
+JENNY	f	My name's Jenny Haydn. I think you're  looking for me. I was kidnapped in  Eau Claire, Wisconsin a couple of  days ago. But I'm free now. 
+SERGEANT 	m	What was your name again? 
+JENNY	f	Jenny Haydn. I'm on my way home and  I don't want anybody I'm with shot  at when you... 
+SERGEANT 	m	Hold on. 
+SHERMIN	f	You trace it yet? 
+TECHNICIAN	m	All we know right now is that it's  east of here. 
+SHERMIN	f	This is Marc Shermin. Where are you,  Mrs. Haydn? 
+JENNY	f	I don't know. Someplace called Elmo's.  Look, I just wanted to tell you that  I'm all right and I'm on my way home. 
+SHERMIN 	f	You've been through quite an ordeal,  Mrs. Haydn. Why don't you stay where  you are and let us pick you up? We'll  fly you home. 
+JENNY	f	No. You'll want to ask a lot of  questions I don't want to answer  right now. I already have a ride. 
+JENNY 	f	I only called to tell you I was free  and not to shoot anybody I was with  if you see me. 
+SHERMIN	f	Is the man who kidnapped you there  now? 
+JENNY 	f	I told you. He let me go. I'm on my  way home. 
+SHERMIN	f	Get a highway patrol unit over there. 
+SHERMIN 	f	Mrs. Haydn, I'm going to have to ask  you to stay where you are. 
+OLDER MAN	m	Ready? 
+JENNY	f	Mr... I'm sorry, what was your name  again? 
+SHERMIN 	f	Marc Shermin. 
+JENNY	f	Mr. Shermin, I'm hanging up now. If  you want to ask me any questions,  call me at home in a couple of days.  I'm in the book. 
+SHERMIN 	f	Do you know what you were kidnapped  by? 
+SHERMIN 	f	Mrs. Haydn... 
+JENNY	f	He doesn't want to hurt anybody.  Please leave him alone. 
+SHERMIN 	f	Is he on his way to Lathrop Wells? 
+SHERMIN 	f	What's he planning to do in Lathrop  Wells? Is he meeting someone there? 
+JENNY	f	I changed my mind. Thanks. 
+JENNY	f	It's me again... 
+JENNY	f	I need a fast ride west. 
+JENNY	f	You sure this is your car? 
+TEENAGER	m	My grandmother's rich. 
+JENNY	f	Slow down, slow down. 
+TEENAGER	m	Geez, Mrs. Haydn, we just got going. 
+JENNY	f	I told you I'm looking for someone. 
+TEENAGER	m	In the cars, too?! 
+JENNY	f	I don't know where he is. 
+TEENAGER	m	This is going to be a real drag. I  thought you wanted to go fast. 
+TEENAGER	m	They after you? 
+JENNY	f	What? No, of course not. 
+TEENAGER	m	Would be kinda neat if they were. I  think I could outrun them. Maybe get  my picture in the papers. 
+COOK	m	Well, here we are... You go down  that ramp there, you're sure to get  a ride. 
+STAR MAN	m	Thank you. 
+COOK	m	And don't be shy about your English.  You speak better than a lot of people  I know. Take care of yourself. 
+VOICES 	m	Flash for all you good buddies heading  west on 70. Smoky's got a roadblock  just beyond Grand Junction... Better  dump your dope, they're going through  everything... He's right. I was just  there and I'm still sore... 
+VOICES 	m	Ah loves to be frisked! What are  they looking for? I'm holding. Any  way around it? Where are you? Oh  no!! There it is!! 
+TEENAGER	m	I bet you we find your friend at the  roadblock. 
+JENNY	f	We better find him before that. 
+PATROLMAN	?	The girl's not here, Mr. Shermin.  Seems right after she talked to you,  she got a ride west with a kid. 
+SHERMIN	f	You get that, Lyman? 
+LYMAN 	m	We're ready. 
+LONG HAIR	m	Where you going? 
+STAR MAN	m	Las Vegas, please. 
+LONG HAIR	m	We're going to L.A. 
+LONG HAIR	m	Sure. Get in. We can drop you in  Vegas or get you darn close. 
+TEENAGER	m	I'm telling you, you're going to  find him at the roadblock, or right  after, or not at all. 
+JENNY	f	If he didn't want to go through the  roadblock, is there any other way to  get to Vegas? 
+TEENAGER	m	Fly. 
+TEENAGER	m	The five-fifty. We already passed  it. But it'll take him way out of  his way. 
+JENNY	f	Pull over. I've got to get back there. 
+TEENAGER	m	Why wouldn't he want to go through  the roadblock?... What did you guys  do?... I won't tell anybody. 
+JENNY	f	It's easier not to tell if you don't  know. 
+TEENAGER	m	Wait. Could I have your autograph? 
+JENNY	f	Sure. 
+TEENAGER	m	I have nothing to do. I'd like to  help you. 
+JENNY	f	Don't worry. I'll be all right. 
+STAR MAN	m	JENNYHAYDN!!! 
+STAR MAN	m	I told you goodbye. Why are you here? 
+JENNY	f	The police are waiting for you up  ahead. There's a roadblock. You have  to go back. 
+STAR MAN	m	This car will take me to Las Vegas.  I cannot go back. 
+JENNY	f	The police know about Lathrop Wells.  We have to go another way. Come on. 
+STAR MAN	m	If I don't meet the ship, my people  will go home without me. 
+JENNY	f	Please understand. If you go this  way, you'll never get to your ship.  The police know about Lathrop Wells.  We have to go another way. I'll get  you to your ship. I promise. 
+STAR MAN	m	I will go. But not you. 
+JENNY	f	You shit! I'll decide if I go or  not. Not you. I don't know what you  do on your planet, but I didn't think  that was very nice walking out on me  like you did. 
+STAR MAN	m	I don't want you to be hurt. 
+JENNY	f	Come on. 
+JENNY	f	I didn't ask to come along on this  trip, but I sure as hell am going to  be the one to say when I get off. 
+SHERMIN	f	Any sign of either of them yet? 
+LYMAN	m	I don't think they're going to show. 
+SHERMIN	f	Okay. Tell the highway patrol to  block all major arteries off 70 from  here to Elmo's. 
+STAR MAN	m	The Cook said I speak good English. 
+JENNY	f	Where are you going? 
+STAR MAN	m	I must meet my ship. 
+JENNY	f	Why can't we wait here for a ride? 
+STAR MAN	m	I feel better if I move. 
+JENNY	f	We're hundreds of miles from where  you have to be. 
+JENNY	f	Even if we walk five miles, it's not  going to make any difference. 
+STAR MAN	m	Asshole!! 
+JENNY	f	Where did you learn that? 
+STAR MAN	m	The cook. 
+JENNY	f	We're not going to get a ride tonight. 
+STAR MAN	m	I can't stay on this planet. 
+JENNY	f	No one's traveling in this weather. 
+STAR MAN	m	You promised you would get me to my  ship. 
+JENNY	f	I will. I will. We still have another  day. 
+STAR MAN	m	You promised. 
+JENNY	f	What do you want from me? There are  no cars on this road. I didn't ask  for this stupid storm. 
+JENNY	f	What are you saying? 
+STAR MAN	m	You can stop. I will go on alone. 
+JENNY	f	We're too far away to walk. Don't  you understand? 
+STAR MAN	m	I can't stay here. I want to go home.  I don't want this skin. I don't want  to look like this. 
+JENNY	f	Why don't you send one of your radio  balloons and tell your captain that  you might be late? 
+STAR MAN	m	I used the last one to jump off the  cliff... 
+JENNY	f	Let's find a place out of the rain.  I'm sure we'll get a ride in the  morning. 
+STAR MAN	m	I can't be late. I don't know if the  radio balloons work above your planet.  I don't know if my words went to the  ship. If I'm not there, the captain  will think I'm dead and go. 
+JENNY	f	We'll get a ride in the morning. 
+JENNY	f	Can you close the door? 
+STAR MAN	m	You are cold. 
+JENNY	f	You're damn right I am. 
+STAR MAN	m	I do not get cold. 
+JENNY	f	Open your shirt. 
+JENNY	f	Oh, you're warm... put your arms  around me. 
+JENNY	f	Take your shirt off. 
+STAR MAN	m	What? 
+JENNY	f	Nothing. 
+JENNY	f	Good morning. 
+STAR MAN	m	Horses. 
+JENNY	f	You don't forget anything, do you? 
+STAR MAN	m	No. 
+JENNY	f	Hello... hello. How are you this  morning? 
+STAR MAN	m	Do they talk?! 
+JENNY	f	No, they don't talk... We talk to  them. 
+STAR MAN	m	I understand. 
+JENNY	f	Oh, you're pretty... 
+STAR MAN	m	I gave you a baby last night. 
+STAR MAN	m	They are beautiful. 
+JENNY	f	Yes, they are. 
+STAR MAN	m	You have been very good to me,  Jennyhaydn. You said you wanted a baby, so I  gave you one. 
+JENNY	f	But... 
+STAR MAN	m	It will be human and it will look  like this. But when it comes it will know  everything I know and everything you  know. That is something from my planet  that I want your baby to have. 
+JENNY	f	I told you it's impossible for me to  have a baby. 
+STAR MAN	m	You will have this baby. If you want  it. If you don't, I can stop it now. 
+JENNY	f	I want it. 
+SHERMIN	f	Hello George. 
+FOX	m	Shermin... 
+SHERMIN	f	What's all this for? 
+FOX	m	We have a new directive. I'm taking  over. 
+SHERMIN	f	We don't have to do it that way. We  can catch him this time. 
+FOX	m	Washington thinks it's too late for  that. 
+SHERMIN	f	I've never been taken off an  assignment in my life. Give me twenty- four hours and I'll have him for  you. 
+FOX	m	You're not hearing me. 
+SHERMIN	f	You can change a directive, George.  You've done it before. Listen to me.  He's going somewhere in Death Valley.  Lathrop Wells was never anything but  a bus stop. East is the nuclear site.  There are no roads in there. She was  teaching him to hitchhike. I'm telling  you. We block the four roads into  Death Valley and we got him. 
+FOX	m	We'll do that. But how are we going  to hold him? He can change himself  into a man. He can disappear. 
+SHERMIN	f	That's the chance we have to take. 
+FOX	m	No, we don't. 
+SHERMIN	f	Then you're going to have to do it  without me. 
+FOX	m	You're a career intelligence officer,  Shermin. You'll be in the air with  us. 
+SHERMIN	f	You're talking about taking a life.  The most unique life form on this  planet. I think we're better than  that. 
+STAR MAN	m	Is this gambling? 
+STAR MAN	m	The cowboys were right. You can make  money fast gambling. 
+JENNY	f	You don't make money gambling. You  lose it. 
+JENNY 	f	Do you have a good map of Death  Valley? 
+CLERK 	m	We should have. Let me see. 
+STAR MAN	m	May I have twenty-five cents, please? 
+JENNY	f	What for? 
+STAR MAN	m	I want to gamble. 
+JENNY	f	Here are two quarters. When you lose  these, you're not going to get  anymore. 
+STAR MAN	m	I understand. Thank you. 
+JENNY	f	This is crazy. We don't have time  for this. 
+STAR MAN	m	I know how to gamble now. 
+JENNY	f	You won ten dollars. Big deal. If we  don't get a good ride before dark we  could miss your ship. 
+STAR MAN	m	I want to get money for you and the  baby. 
+JENNY	f	I don't need any money for the baby.  I'll be fine. 
+STAR MAN	m	Inflation, tuition, college. Children  are damned expensive. I know. 
+JENNY	f	The cook again? 
+STAR MAN	m	Yes. 
+JENNY	f	If I ever run into that guy, I'm  going to kick his ass. 
+JENNY	f	It'll tell you pretty much everything  about us... 
+STAR MAN	m	This is very interesting. We are  born knowing our history. We have  other books. But not a book like  this. 
+JENNY	f	Any words you don't know you can  find in the dictionary. 
+STAR MAN	m	I understand. 
+JENNY	f	It'll give you the different  countries, how they came to be, what  they are now, how America came to  be, the governments, the languages...  everything. 
+STAR MAN	m	Many of my people will not believe  those things are possible. On my  planet there is only one government,  one people, one language. I will be  asked a lot of questions. 
+JENNY	f	What will you say about us? 
+STAR MAN	m	I will say that we can be friends. 
+JENNY	f	We can. 
+JENNY	f	This is yours... 
+STAR MAN	m	If you want to keep it, you can. 
+JENNY	f	I'd like to... 
+JENNY	f	Would you put some of your singing  in this for the baby? 
+STAR MAN	m	You want the baby to laugh at me. 
+JENNY	f	Yes. 
+JENNY	f	How long will it take you to get  home? 
+STAR MAN	m	Many, many days and nights... 
+JENNY	f	Would you like to listen to some  music? 
+JENNY	f	I'm sure we could find a country and  western station. 
+STAR MAN	m	No, thank you. 
+JENNY	f	Don't worry. Everything's going to  be fine. 
+JENNY	f	Which star is yours? 
+STAR MAN	m	There. 
+JENNY	f	Where? 
+STAR MAN	m	The yellow one. 
+JENNY	f	Oh, wow... I'll tell you what. When  the baby is born, we'll go out in my  back yard and wave to you. 
+STAR MAN	m	I will wave to you. 
+STAR MAN	m	Oh, shit! 
+JENNY	f	They're trying to get him. 
+JENNY	f	What are you doing?!! 
+FOX 	m	Mrs. Haydn... 
+FOX	m	This is George Fox... 
+JENNY 	f	I want to speak to Marc Shermin. 
+FOX	m	You can speak to me, Mrs. Haydn. I'm  in charge of this operation now. 
+JENNY	f	If I don't speak to Mr. Shermin, I'm  hanging up. 
+FOX 	m	Okay... 
+JENNY	f	Mr. Shermin wants to speak to you. 
+JENNY 	f	Here he is. 
+SHERMIN	f	Hello... 
+STAR MAN 	m	I must get to my ship, Mr. Shermin. 
+SHERMIN	f	We can't let you do that. 
+STAR MAN 	m	I don't want to hurt anybody. I just  want to go home. 
+SHERMIN 	f	All the roads into Death Valley are  blocked. We'd like to talk to you. 
+STAR MAN 	m	If I talk to you, I will miss my  ship. 
+SHERMIN 	f	Hold on a minute... Let's take the  chance, George. 
+FOX	m	No deal. 
+SHERMIN 	f	I'm afraid we can't let you go. 
+STAR MAN	m	I understand. 
+JENNY	f	Where do you think you're going? 
+STAR MAN	m	Thank you, Jennyhaydn. You are good.  I must go alone now. 
+JENNY	f	I said I would get you to your ship  and that's where we're going to say  goodbye. 
+JENNY	f	I hope that works. 
+JENNY	f	It works. 
+STAR MAN	m	I do not know how many times I can  do this. 
+STAR MAN	m	If my ship is not here, we are in  trouble. 
+STAR MAN	m	That's where we landed last time.  Right under that mountain. 
+JENNY	f	In front!!! In front!!! 
+JENNY	f	Hang on. 
+FOX	m	Over there. 
+STAR MAN	m	I can't shoot anymore. 
+JENNY	f	I won't let anyone hurt you. 
+FOX	m	Watch it. They're coming out. 
+FOX 	m	End it, Shermin. 
+SHERMIN	f	George... Do you hear me, George? 
+FOX 	m	What? 
+SHERMIN	f	I just retired. 
+FOX 	m	Shermin!! Shermin!!! 
+SHERMIN	f	Let's get out of here. 
+FOX	m	Shermin!!! 
+FOX	m	Lock in. 
+JENNY	f	Well... 
+STAR MAN	m	I must go. 
+STAR MAN	m	What do I do now? 
+JENNY	f	You say you love me and kiss me  'goodbye.' 
+STAR MAN	m	I love you. 
+JENNY	f	I'm never going to see you again, am  
+STAR MAN	m	No. 
+JENNY	f	I love you. 
+STAR MAN	m	Tell the baby about me. 
+JENNY	f	I will. 
+STAR MAN	m	Goodbye. 
+JENNY	f	Wait!! 
+STAR MAN	m	Thank you, Jennyhaydn. 
+

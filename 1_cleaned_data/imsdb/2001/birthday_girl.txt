@@ -1,0 +1,585 @@
+JOHN	m	Hello.
+JOHN	m	Hello, hello. Hello...
+JOHN	m	I don't believe in perfect love. You  know, love that comes out of the sky  like a thunderbolt and uh... This is  ridiculous.
+JOHN	m	No. No no no. Nope.
+JOHN	m	Running. Reading. Going out. Staying  in. The countryside. Films, if they're  good.
+JOHN	m	Thoughtful. Outgoing. Ambitious.  Well-read. Reasonably popular.  Balanced. Trusting. Quite attractive.  Outgoing.
+JOHN	m	Someone intelligent, of course. Kind.  Pretty I suppose. But its not  critical.
+JOHN	m	Someone with a sense of humour.  Someone you can communicate with on  the same level. Someone you can really  talk to. I think communication is  key.
+JOHN	m	I think that by the time most people  turn thirty they know where they're  going.
+JOHN	m	And where they've been. I suppose  they have some baggage stroke history.
+JOHN	m	We all have someone in our past who  uh... one skeleton, if you like.  We've all got at least one person,  as it were, under the patio. Not  literally of course. I suppose I  only say this because I always thought  people who did this sort of thing  were... I had an image that they  were losers. Not losers. A bit sad.  But I think this is the modern world.  And I think really it's quite a brave  move. Quite a brave, reasonable thing  to do.
+JOHN	m	Sorry can we start again?
+JOHN	m	Nadia?
+JOHN	m	I'm John.
+JOHN	m	Welcome. Well. Look I didn't have a speech  but...
+JOHN	m	Is that everything?
+NADIA	f	Yes.
+JOHN	m	Right. Okay. Good.
+JOHN	m	We can talk in the car.
+JOHN	m	It's about forty miles from here. I  don't know if you've looked at a  map, it's close to London but it's a  city in itself. A Roman city. It's a  nice house. I'm having a problem  with ants. I uh... It's the warmer  weather. I can't seem to find the  nest. Sorry, do you understand "ants"?
+NADIA	f	Yes.
+JOHN	m	I just can't find a nest. The root  of the problem. I've looked  everywhere. What's the Russian for  ant? Sorry that's a stupid... Sorry.  This is strange isn't it.
+NADIA	f	Yes.
+JOHN	m	I'm pretty nervous. Are you?
+NADIA	f	Yes.
+JOHN	m	I mean... "Ants." "I've got a problem  with ants."
+JOHN	m	I had this...
+JOHN	m	As a joke but uh...
+JOHN	m	So. Is it different to how you  imagined it?
+NADIA	f	Yes.
+JOHN	m	I bet. What about me? Am I how you imagined?
+NADIA	f	Yes.
+JOHN	m	And how was the flight. Sorry, am I  speaking too fast for you?
+NADIA	f	Yes.
+JOHN	m	Do uh... Sorry. Can you follow me?  Do you understand what I'm saying?
+NADIA	f	Yes.
+JOHN	m	Good. Or should I speak slower?
+NADIA	f	Yes.
+JOHN	m	Do you follow or should I speak  slower?
+NADIA	f	Yes.
+JOHN	m	Uh... Are you a giraffe?
+NADIA	f	Yes.
+JOHN	m	Oh Jesus.
+JOHN	m	Oh Jesus.
+JOHN	m	Lounge.
+JOHN	m	Kitchen.
+JOHN	m	Bathroom.
+JOHN	m	Bedroom.
+JOHN	m	The uh... the other bedroom...
+JOHN	m	I'll get an ashtray.
+ANSWER MACHINE	m	You have reached From Russia with  Love. Our office reopens on Monday.  If you are interested in our  services... Thank You.
+JOHN	m	This is John Buckingham from St  Albans. I need to speak to you  urgently. There's a critical problem.  It's... Call me back as soon as  possible. It's critical.
+JOHN	m	I don't know what to say. Your letters  were in English. Good English. You  said you'd studied English.
+JOHN	m	I can't take this.
+JOHN	m	I can't take it. I'm not really a  ring guy.
+JOHN	m	Okay. No big deal. Thank you. Yes  thanks. Thank you.
+JOHN	m	If anyone gets this message please  call as soon as possible. It's an  emergency.
+JOHN	m	Good night.
+JOHN	m	You should go now. We'll talk in the  morning.
+ANSWER MACHINE	m	You have reached From Russia With  Love. If you are interested...
+JOHN	m	Nadia. This isn't going to work. I'm  sorry. It's been a terrible mistake.  You must go.
+JOHN	m	I'm booking a flight for tomorrow.  I'm sorry.
+CLARE	f	Good weekend?
+JOHN	m	Uh. Yeah. Pretty good.
+CLARE	f	Do anything special?
+JOHN	m	Uh. No.
+BRANCH MANAGER	m	When communicating he is good at  selecting the most efficient methods  and displays effective verbal  communication skills...
+BRANCH MANAGER	m	On one occasion John showed first  class communication skills in a  delicate customer situation.
+BRANCH MANAGER	m	Initiative. John is reasonably quick  to volunteer whenever others need  help. Although he is sometimes  reluctant and or unwilling to ask  for it himself...
+BRANCH MANAGER	m	He is adequate at resolving difficult  or emotional customer situations...
+BRANCH MANAGER	m	He usually fulfills commitments made  to customers within expected time  frames.
+BRANCH MANAGER	m	Customer Service. John shows a high  degree of respect for customers...
+BRANCH MANAGER	m	John still has some reluctance to /  or has problems in, carving out new  relationships face to face.
+BRANCH MANAGER	m	Judgment -- John makes able decisions  in most areas of his job.
+BRANCH MANAGER	m	John follows instructions  conscientiously and responds well to  personal directions.
+BRANCH MANAGER	m	John is normally very punctual and  in most situations assumes  responsibility for his own actions  and outcomes.
+JOHN	m	Thank you -- I think that's very  fair.
+TRAINER	m	Good. Again.
+TRAINER	m	Very good. How does that feel John?
+JOHN	m	It feels good. Weird.
+TRAINER	m	It's called Trust and Letting Go.
+TRAINER	m	Trust and Letting Go.
+JOHN	m	Are you O.K.?
+NADIA	f	Today is bath day.
+JOHN	m	Sorry?
+NADIA	f	Today is bath day.
+JOHN	m	Bath day?
+JOHN	m	I don't understand.
+NADIA	f	Happy bath day.
+JOHN	m	Today?
+JOHN	m	Syevodnya?
+NADIA	f	Syevodnya
+JOHN	m	Happy Birthday. Happy Birthday.
+NADIA	f	Party. Party. Syevodnya.
+JOHN	m	Yes. Party. Party syevodnya.
+JOHN	m	...It might just be a twenty-four  hour bug...
+CLARE	f	Well you just get better. I'll tell  Beaky. You just get some rest, ok?
+JOHN	m	Happy Birthday to you. Happy Birthday  to you. Happy Birthday dear Nadia...
+YURI	m	You must be John. You seem very nice.  Excuse me.
+YURI	m	How's that? We can't drink our piss  can we?
+JOHN	m	Hang on hang on, sorry, but like,  who are you?
+YURI	m	You must find some glasses, small,  for the toast, and some plates.
+JOHN	m	What are you doing here?
+YURI	m	Sorry. You've lost me...
+JOHN	m	I'm asking what you're here for.
+YURI	m	What?
+YURI	m	You don't speak Russian? Pratsteetye!  This explains your cold eyes.
+NADIA	f	"Frenzy".
+JOHN	m	Yes I know.
+YURI	m	Yuri. Alexei. Alexei and Yuri.
+JOHN	m	What did he say?
+YURI	m	He says he feels safe here.
+YURI	m	She says she wanted to tell you but  her English is shit. And no one speaks  Russian, it's very hard for her. The  light please.
+JOHN	m	I need to know who you are first  please.
+YURI	m	Oh. We are Russian.
+JOHN	m	Yes. I know.
+YURI	m	Good.
+JOHN	m	And...
+YURI	m	And what? You mean from the beginning?  Jesus. Can I uh okay, as we say in  Russia can I cut a long story short.  Okay. Nadia is my little cousin.  Except she's not. But we say cousin.  This is for you.
+JOHN	m	Hold on.
+YURI	m	Toast first then we talk seriously,  I can see you are serious about us.
+YURI	m	Just kidding.
+JOHN	m	So hang on. You're both Nadia's  cousins?
+YURI	m	Of course not. Alexei, he's is my  problem.
+JOHN	m	Right.
+YURI	m	We better watch him. He's crazy.
+JOHN	m	Right.
+YURI	m	I am actor, he is actor, although he  is an actor stroke musician. I just  noodle along, I'm not so good. He  makes me look like a retard -- He  smokes me. I don't mean he smokes  me.
+YURI	m	I mean he smokes me. Do you say  "smoke" in U.K.?
+JOHN	m	No.
+YURI	m	Right. So I can say he smokes me.  So.
+JOHN	m	So?
+YURI	m	So I come to England with other actors  to make shows, I meet this freak  from Novgorod I tell him of you and  Chicken and the birthday here we  are.
+JOHN	m	What was that?
+YURI	m	I asked her if you were happy to see  us. I find it hard to tell with you.
+JOHN	m	Yes it's okay. Thank you for the  food.
+YURI	m	She says you are a little shy. I  think I know this.
+JOHN	m	So how long will you be in England?
+YURI	m	Plans are for the architects,  politicians and so forth.
+JOHN	m	You must have a visa or something...
+YURI	m	You're asking for my documents?
+JOHN	m	No, no...
+YURI	m	We are all Europeans here. Europe,  Tony Blair and Maggie Thatcher!
+YURI	m	So. You have nothing to say to your  Fiancee? Maybe to wife of forty years  it's understandable. Come on. You  speak and I will translate.
+JOHN	m	Hello.
+YURI	m	She says 'Hello' to you. Go for it  John!
+JOHN	m	Uh. Do you like England?
+YURI	m	Classic! Thank God. She says 'Yes!'
+JOHN	m	Uh...
+JOHN	m	I can't think of anything. Hang on.
+YURI	m	She says she has a secret to tell.
+JOHN	m	What?
+YURI	m	She says she watched you at the  airport.
+JOHN	m	When?
+YURI	m	"I saw you waiting there, by the  gate."
+JOHN	m	I...
+YURI	m	"I have these uh..." She explains to  you... "When I was a little girl my  father had these beautiful old  glasses." Like... I don't know the  word. Like for watching uh... for  watching the birds.
+JOHN	m	Binoculars.
+YURI	m	Binoculars. He had these Binoculars  he has kept from the war.
+YURI	m	I would run around with them taking  pictures of things I liked with my  mind. If I saw something beautiful I  would take a picture.
+YURI	m	The day before I left Russia my father  gave me the old binoculars. He said  that when I saw you I was to stand  far away and look at you with these,  and to examine your face closely.  And if you were a bad person I could  run away.
+YURI	m	She says she took a picture.
+ALEXEI	m	Nasyekski.
+JOHN	m	What was that?
+YURI	m	Oh nothing.
+JOHN	m	Tell me.
+YURI	m	No. It is too judgmental.
+JOHN	m	Tell me what he said.
+YURI	m	He says why did you send to Russia  for a wife.
+YURI	m	You are not ashamed of it? It's no  surprise to want to love.
+JOHN	m	No. It's not that.
+YURI	m	Do you believe in love?
+JOHN	m	I suppose it's... I mean define your  terms.
+YURI	m	It's very strange. How many people  are truly themselves with their love?  It is the greatest human disaster  and it is never in the newspapers.  There are no Marches Against  Heartache, no Ministries Against  Loneliness, no Concerts Against  Disappointment. We look away. And  still we know in secret that nothing  is more important to us. The one  thing we all share but don't say.  Look John I will show you something.
+YURI	m	Here look, something beautiful from  Russia. Here is Life, there, take  it.
+YURI	m	Here is bread. Khylep. This is work.  We all need this, here eat.
+YURI	m	Good. But we cannot survive with  just work, so here is meat and blood.  Myasa. This is family and country,  flesh, strength, eat.
+YURI	m	But again this is not life. Here is  joy and pain. Chyesnok. Without these  life has no flavour, is too serious.  Eat.
+YURI	m	But this vodka. Is love. Only this magic changes you  inside. The moon and the stars and  the sun.
+YURI	m	This is a love song, a soldier's  song to his beloved -- Alexei, he's  Afghanstya, a veteran of Afghanistan.  He saw terrible things.
+BRANCH MANAGER	m	Quick word John?
+BRANCH MANAGER	m	This is sensitive. Your car. Lovely  car. Doesn't necessarily give the  right impression.
+JOHN	m	Ch...
+BRANCH MANAGER	m	To customers approaching the bank  from the rear
+JOHN	m	Right.
+BRANCH MANAGER	m	You can see why it's sensitive?
+JOHN	m	Uh... Yes.
+BRANCH MANAGER	m	I'll leave it on your desk.
+YURI	m	John. We can see you hiding.
+YURI	m	How is bank?
+JOHN	m	Fine. I thought you were leaving  today.
+YURI	m	To be indoors on such a day. It's  crime.
+JOHN	m	Hey.
+YURI	m	He's just having fun. He's maybe too  strong you know...
+NADIA	f	They go. John. They go.
+JOHN	m	What's wrong?
+NADIA	f	They go.
+JOHN	m	Of course. They go. Yes. Yes.
+NADIA	f	They go.
+YURI	m	I understand. I'm so sorry
+JOHN	m	You can stay tonight.
+YURI	m	I have brought you trouble. Maybe I  should have come alone.
+JOHN	m	Good night.
+YURI	m	John. You must call the Police.
+JOHN	m	What are you doing?
+YURI	m	John, I'm sorry. It's my fault.
+JOHN	m	What's he doing? What the fuck are  you doing? Leave her alone.
+YURI	m	He says sit down. Or he'll cut her.
+YURI	m	Sit down please.
+JOHN	m	Tell him to stop and let her go, and  we'll talk.
+JOHN	m	Put the fucking kettle down.
+YURI	m	John.
+JOHN	m	Put the fucking kettle down. Tell,  Yuri, tell him put it down or I'm  going to make him.
+YURI	m	He says you scare him so much he  must go to the toilet in his trousers.  John, he is a soldier. A trained  killer. We must do what he says.
+JOHN	m	What? What does he want?
+JOHN	m	What did he say? Tell me!
+YURI	m	He says you are very sad ridiculous  man. I don't agree of course. And  that you must pay someone to have  sex like a prostitute. Nadia is a  prostitute. I'm sorry.
+JOHN	m	What does he want. The Russian  shithead. What do you want ?
+YURI	m	He wants money.
+JOHN	m	Tell him to put the kettle down and  I'll give him money.
+YURI	m	He wants a lot of money.
+JOHN	m	I'll give him money. Tell him to put  the...
+YURI	m	He wants the money from your bank.
+JOHN	m	I'll fuckin' give it to him! We'll  go down there.
+YURI	m	You don't understand. He wants all  the money that is in your bank.
+JOHN	m	I've got eight hundred pounds. Oh  Jesus.
+JOHN	m	Oh Jesus.
+YURI	m	He is sure you can do this. Of course  you can not.
+JOHN	m	Oh Jesus. Of course I can't.
+JOHN	m	Just leave her alone.
+YURI	m	I'm so sorry.
+JOHN	m	Leave her alone.
+BRANCH MANAGER	m	Ah John. This is Robert Moseley,  Head of South East New Business.  Robert, this is John Buckingham.
+MOSELEY	m	Hello John.
+JOHN	m	Hello.
+BRANCH MANAGER	m	I thought you could give us the tour  this morning. Sort of be our Indian  Guide.
+JOHN	m	Right.
+MOSELEY	m	Do you play?
+JOHN	m	Yes. I do.
+CLARE	f	That's John. He's always surprising  you with hidden talents.
+MOSELEY	m	I used to be in a band. Keyboards.  Sort of like very loud, uh -- very  loud Marillion.
+CLARE	f	Well, Maestro, give us a tune.
+JOHN	m	I'll give you a tune later.
+BRANCH MANAGER	m	Take the ball and run with it John.
+JOHN	m	This is uh... This is the uh...
+PASSING COLLEAGUE	m	Morning John. Give us a tune.
+JOHN	m	I'll give you a tune later.
+JOHN	m	This is where we're doing Trust and  uh... Trust and Letting Go.
+MOSELEY	m	We're not doing this till the fourth  quarter -- Has it, uh -- any results,  has it been been beneficial?
+JOHN	m	Yes.
+CLARE	f	It's weird at first. Sort of exciting  and frightening at the same time.  Wouldn't you say John?
+JOHN	m	Yes.
+BRANCH MANAGER	m	We're starting to see results. This  is Karen, who's uh... taking uh...  it.
+JOHN	m	Excuse me.
+COLLEAGUE	?	Morning John. Hey, Moseley's here.
+JOHN	m	I'll give you a tune later.
+MOSELEY	m	It's weird isn't it.
+NADIA	f	So?
+ALEXEI	m	You first.
+YURI	m	Fifty thousand. Almost exactly.
+NADIA	f	Sixty four thousand, eight hundred.
+ALEXEI	m	There's over eighty thousand here.
+YURI	m	Sweet Jesus...
+ALEXEI	m	Put it in the cases. Split it up.  And don't forget you owe me �150.
+YURI	m	What for?
+ALEXEI	m	You know what for.
+YURI	m	No I don't.
+ALEXEI	m	I got you those trousers from Paul  Smith.
+YURI	m	I've been buying you stuff all week.  I've been buying him stuff all week.
+ALEXEI	m	Such as?
+YURI	m	When we went to the Hard Rock Cafe.  Who paid? When we went to see 'Cats'.  Who paid?
+ALEXEI	m	Those aren't presents. That's normal  friendship stuff
+YURI	m	I paid for those guitar cases.
+NADIA	f	What was 'Cats' like?
+YURI	m	It was alright.
+ALEXEI	m	Yeah it was okay.
+YURI	m	Yeah. It was quite good actually.  Some bits I really liked.
+ALEXEI	m	The sets were good.
+YURI	m	The sets were excellent. Everything  was big, you know, all the rubbish,  coke cans, sweet wrappers, dustbins,  so when you were watching it you  felt cat size. It was really clever.
+ALEXEI	m	So. How many times did you have to  fuck him?
+YURI	m	How you doing?
+YURI	m	I'll show you something. It should  make all this easier I think.
+YURI	m	Not all these bastards were like  you, believe me. You should not too  feel bad.
+NADIA	f	It's enough isn't it?
+ALEXEI	m	What do you mean?
+NADIA	f	You know what I mean babe, It's  enough. We can stop.
+ALEXEI	m	Do you want to stop?
+NADIA	f	Yes.
+ALEXEI	m	We'll stop then.
+ALEXEI	m	What's this?
+NADIA	f	It's nothing. I burnt myself.
+ALEXEI	m	That's not a burn.
+NADIA	f	It is. I did it cooking.
+ALEXEI	m	On both wrists?
+NADIA	f	What? I did it cooking.
+NADIA	f	What?
+NADIA	f	Listen, I made you something.
+NADIA	f	Put it on.
+NADIA	f	It's taken me weeks. I want to see  you in it.
+NADIA	f	Do you like it?
+ALEXEI	m	Yeah.
+NADIA	f	Say thank you.
+ALEXEI	m	Thank you.
+NADIA	f	We're going to have a baby.
+ALEXEI	m	What?
+NADIA	f	You heard what I said. I'm pregnant.  I've been throwing up for weeks.
+NADIA	f	We're having a baby.
+ALEXEI	m	A baby? What are we supposed to do  with a baby?
+NADIA	f	Name it.
+NADIA	f	Great. You've split my fuckin, lip.
+WAITRESS	?	Good morning. What can I get you?
+NADIA	f	I'll have an espresso, with a small  pastry, a croissant or something.
+WAITRESS	?	We only do a croissant with the  Continental breakfast.
+NADIA	f	Just get me a coffee.
+WAITRESS	?	One coffee. And for you Sir ?
+NADIA	f	He'll have a coffee.
+JOHN	m	You can't smoke in here.
+JOHN	m	YOU CAN'T SMOKE IN HERE!
+NADIA	f	I don't expect you to understand.
+JOHN	m	Oh, I don't know. In my job as Deputy  Assistant of New Business at the  bank would have to listen to the  problems of a great many individuals.  This took a lot of understanding and  sympathy, to try to work out solutions  to their problems. But, you see, I'm  not in that line of work anymore.  Nowadays I'm a bank robber.
+NADIA	f	You don't understand anything.
+JOHN	m	I think that about covers it. I think  I have grasped the part about you  being dumped though. That's got to  hurt, I imagine. That's got to smart  a bit. I mean strictly in my  observer's capacity it seemed you  two were getting on Pretty Fucking  Famously.
+JOHN	m	Unless. Unless this is part of the  routine. You get tied up, stick  around, distract me, they both bust  in and Steal My Cup Of Coffee.
+NADIA	f	It's makes it easier. Okay.
+JOHN	m	I don't want to know.
+NADIA	f	It makes it faster. If I don't speak  to the men, they fall faster. It's  pretty obvious why.
+JOHN	m	That's a relief. It's nice to know  I'm a regular guy.
+NADIA	f	So what are you going to do?
+JOHN	m	I'm going to drink my coffee. Then,  we're going to the police station.  Where there will be lawyers, loss of  job, house, humiliation, gutter press,  and probably prison.
+NADIA	f	They don't blame you. When a bank  employee does this they understand.  You get your life back. Anyway I bet  you hated that bank.
+JOHN	m	Even so I always felt the decision  to burst in and rob it very much  remained with me.
+NADIA	f	Why else would you send off for me?  If you just wanted sex just go to a  prostitute.
+JOHN	m	Well as it turns out I did.
+WAITRESS	?	More coffee?
+JOHN	m	Yes please.
+NADIA	f	No.
+JOHN	m	Splendid. Thank you.
+WAITRESS	?	Pleasure.
+NADIA	f	John, I need your help.
+JOHN	m	You must think... I'm the biggest  pillock... In the world.
+NADIA	f	No I don't.
+JOHN	m	In the world.
+NADIA	f	I know you just want to punish me --
+JOHN	m	I do. I want to very badly.
+NADIA	f	So you're just going to be vindictive
+JOHN	m	In every sense. If at all possible.
+NADIA	f	You can't hurt me more than I'm hurt  already.
+JOHN	m	Well, Nadia, It it's all the same to  you, I'd like to give it a bash.
+NADIA	f	My name isn't Nadia.
+NADIA	f	Where's the restroom?
+JOHN	m	What?
+NADIA	f	I'm going to be sick. Where's the...
+JOHN	m	What? No you're not..
+NADIA	f	I'm going... I am... I'm going to be  sick.
+JOHN	m	No you're not. How... Nice one. How  dumb do you think I am ?
+NADIA	f	Where's the restroom?
+SERGEANT	m	The what, love?
+NADIA	f	The toilet. Where's...
+SERGEANT	m	Down there on the left.
+JOHN	m	You're pregnant.
+POLICEMAN	m	Can I help you?
+POLICEMAN	m	Sir? Can I help you?
+JOHN	m	No.
+NADIA	f	What are you doing?
+JOHN	m	Get in the car.
+NADIA	f	Plenty of women have babies in prison.
+NADIA	f	You don't have to do this. I can  look after myself.
+JOHN	m	Have you got your passport?
+NADIA	f	What?
+JOHN	m	Shut up. Have you got your passport?
+NADIA	f	Yes.
+JOHN	m	We've got to get off this motor-way.
+JOHN	m	Give me some money.
+NADIA	f	I don't have any money.
+JOHN	m	What?
+NADIA	f	I said I don't have any.
+JOHN	m	Give me your sunglasses.
+JOHN	m	So, uh, Alexei, which I know isn't  his name...
+NADIA	f	I don't want to talk about him.
+JOHN	m	Fine.
+NADIA	f	It's none of your business.
+JOHN	m	Fine. Absolutely. Must be  disappointing though. Must come as a  hell of a shock.
+JOHN	m	So uh...
+NADIA	f	Look, if you want to know is he better  in bed than you then yes he is.
+JOHN	m	Oh Jesus.
+NADIA	f	If what you want to know is does he  have a bigger cock than you, then  yes he does.
+JOHN	m	Of course. Of course. Of course he  does. Of course. Thank you. Thanks.
+NADIA	f	But, you know, so what?
+JOHN	m	It's his baby I take it.
+JOHN	m	Not the kids type then is he? Not  that broody. You must be pretty  miffed.
+NADIA	f	He will come back.
+JOHN	m	Excuse me?
+NADIA	f	He left me my passport and ticket.  It's pretty clear he wants to see me  again.
+JOHN	m	Yeah. I tend to tie up and abandon  women I really want to see again  too.
+NADIA	f	No. But you tend to tie them up.
+JOHN	m	Fuck off.
+JOHN	m	Fuck off. You started it.
+JOHN	m	I don't want to talk about it.
+NADIA	f	Why not?
+JOHN	m	Shut up. I'm not listening.
+NADIA	f	You don't want to talk about it.
+JOHN	m	No.
+NADIA	f	Okay we won't talk about it.
+NADIA	f	We'll pretend it never happened.
+JOHN	m	So. What's it like having to fuck  men you hate?
+NADIA	f	I don't hate you.
+JOHN	m	Okay. Let's... Okay. Okay. You have  had sex with people you don't like  haven't you? For money. To make money.
+NADIA	f	And? What are you saying?
+JOHN	m	And. It's wrong.
+NADIA	f	And who says what is wrong.
+JOHN	m	And that would be Morals. That would  be one's own moral sense of decency.
+NADIA	f	What's a moral orgasm John? Tell me  how it feels exactly.
+JOHN	m	So. What then? You just detach sex  from everything..
+NADIA	f	Whereas "Wet 'n' Wild" is an emotional  journey. "Tied and Tethered". It's  pretty moving huh? Like Anna Karenina.
+JOHN	m	Listen. I didn't go rooting around  in your private stuff.
+NADIA	f	Funny. Usually it's the first thing  they do.
+JOHN	m	So what? Do you just switch off in  your head or do you imagine you're  with him, or what?
+NADIA	f	Sometimes.
+JOHN	m	Sometimes which?
+NADIA	f	Sometimes neither.
+JOHN	m	Some... What does that mean?
+NADIA	f	There's nothing wrong in liking sex,  John.
+JOHN	m	I don't like sex. I don't think I'll  be having sex ever again.
+NADIA	f	Why?
+JOHN	m	Well, it's just that the thought  trying to charm up an erection in  front of a woman, or alone for that  matter, makes me want to die.
+NADIA	f	So now you hate all women?
+JOHN	m	I think it's my safest bet, don't  you?
+NADIA	f	Oh. I think you will recover okay. I  think you got what you paid for.
+JOHN	m	What?
+NADIA	f	You...
+JOHN	m	I got what I paid for.
+NADIA	f	You didn't mind too much.
+JOHN	m	It wasn't what I wanted.
+NADIA	f	So what did you want? I think we  understand each other, no?
+JOHN	m	You don't understand me.
+NADIA	f	You don't understand you either.
+NADIA	f	It's no big thing. You are the same  as most men. You are a man so you  are a savage. Not a monster, but  half animal. You put on a tie and  you go to the bank, but really you  are a beast. But also you are from  woman so you have a soul. Half beast,  half soul. But you hide your beast  in the bottom of the wardrobe. It's  not so healthy. It's fucked you up,  no?
+JOHN	m	Get out.
+NADIA	f	Excuse me?
+JOHN	m	Get out
+NADIA	f	You are throwing me out.
+JOHN	m	Get out.
+NADIA	f	You prefer your women mute.
+NADIA	f	Car trouble?
+NADIA	f	It's another twenty miles. It's going  dark.
+NADIA	f	What now?
+JOHN	m	Jesus. You weren't even on the plane.
+NADIA	f	You know, in Russia, there's no work  for women. It's a different world.
+JOHN	m	You don't have to say anything
+NADIA	f	What? I... I wasn't saying...
+JOHN	m	Please, there's no... Oh.
+NADIA	f	I wasn't saying anything.
+JOHN	m	Then okay. So how old were you when you met  him?
+NADIA	f	Fifteen. You don't know him. He was  very kind and strong.
+JOHN	m	Yeah. He's a smashing bloke.
+NADIA	f	The rest of the world, John, it's  not all like St. Albans.
+JOHN	m	Thank Christ for that.
+NADIA	f	You are pretty naive if you think it  is.
+JOHN	m	I'm pretty naive? Look at you. You  have to do all this, and what have  you got to show for it? Nothing.
+NADIA	f	I don't have nothing.
+JOHN	m	Well what have you got?
+NADIA	f	I have my baby.
+JOHN	m	Do you know if it's a boy or a girl?
+NADIA	f	No.
+JOHN	m	Have you had any before?
+NADIA	f	No.
+JOHN	m	Are you scared?
+NADIA	f	Not really. Maybe a little.
+NADIA	f	Listen. I think it's a fox.
+NADIA	f	It sounds close.
+NADIA	f	I can't see anything. It's too dark.
+NADIA	f	What happened between you and the  blonde?
+JOHN	m	What?
+NADIA	f	The thin... the girl with small eyes.  The one in your cupboard.
+JOHN	m	It's none of your business. She didn't  have small eyes.
+NADIA	f	Did she leave you? Come on. It's  nothing to be ashamed of. Who did  she leave you for? Your best friend?  Her boss? A woman? Did she leave you  for a woman, John?
+JOHN	m	She's dead.
+NADIA	f	I'm sorry. I didn't mean to hurt  you. I'm sorry. That's awful. Forgive  me.
+NADIA	f	I'm sorry.
+JOHN	m	I don't know why I said that. She's  not dead at all.
+NADIA	f	What?
+JOHN	m	I don't know why I said it. I'm sorry.
+NADIA	f	She's alive?
+NADIA	f	She's alive!! She is not dead?
+JOHN	m	Laugh it up.
+JOHN	m	You should stop smoking. You're  pregnant. You smoke like a fucking  lab dog.
+NADIA	f	I'm trying to quit.
+JOHN	m	I've got news for you. It's not  working.
+NADIA	f	I smoke more these days. I smoke  more when I'm unhappy.
+JOHN	m	Nobody's that unhappy.
+NADIA	f	Maybe I want to die. Don't you want  me to die?
+JOHN	m	I don't want anyone to die.
+NADIA	f	Except for Small Eyes.
+JOHN	m	Except for Small Eyes.
+NADIA	f	So why did it end?
+JOHN	m	I don't know.
+NADIA	f	What was her name?
+JOHN	m	What's your name?
+NADIA	f	Listen. It's definitely a fox. Now  I'm scared.
+NADIA	f	You know you can come under the  blanket.
+JOHN	m	It's alright.
+NADIA	f	I've got an hour. Can I buy you a  coffee?
+JOHN	m	No. I think I better just go.
+NADIA	f	Okay. Thank you.
+JOHN	m	Whatever.
+NADIA	f	John. These are for you.
+JOHN	m	Yeah. No thanks.
+NADIA	f	Please. Why not?
+JOHN	m	Because it was a lie.
+NADIA	f	No it wasn't.
+NADIA	f	Goodbye.
+JOHN	m	Oh Jesus.
+ALEXEI	m	I love you. I don't need to tell you  that.
+ALEXEI	m	I wouldn't leave my child would I?  You know that. I was confused. That's  all.
+ALEXEI	m	It wasn't easy for me. You know what  I'm like. I needed to know what I  wanted. Now I know. It's simple. I'm  happy.
+ALEXEI	m	You still love me? Eh? Of course you  do. Come here. Yuri won't be here  for a while. Come on babe.
+NADIA	f	What are you doing here?
+ALEXEI	m	What the fuck is he doing here?
+ALEXEI	m	That's that cigarette lighter I gave  you isn't it?
+NADIA	f	Stop.
+ALEXEI	m	What? What are you doing?
+NADIA	f	What are you doing here?
+NADIA	f	Stop it!
+ALEXEI	m	What. You're what? You're with this  creep now.
+NADIA	f	Leave him!
+ALEXEI	m	You have. You've actually fallen for  this prick.
+NADIA	f	No I haven't.
+ALEXEI	m	Babe it's me. I won't let you get  away.
+NADIA	f	I'll kill you if you try.
+SUBTITLE	?	Fuck a duck.
+NADIA	f	Get their passports.
+ALEXEI	m	Don't do this.
+NADIA	f	Get your money.
+ANNOUNCEMENT	?	Last Call for Aeroflot flight 1311  to Moscow. Proceed immediately to  Gate 12.
+JOHN	m	Are you okay?
+JOHN	m	Okay. Goodbye.
+NADIA	f	Goodbye.
+JOHN	m	What will you do now?
+NADIA	f	Something else.
+JOHN	m	Okay. Promise?
+NADIA	f	Promise.
+JOHN	m	You can probably buy them on the  flight.
+NADIA	f	I'm quitting. This will be my last  one. So. Goodbye.
+JOHN	m	Goodbye.
+NADIA	f	You didn't deserve me John Buckingham.
+JOHN	m	Whatever.
+NADIA	f	I'm sorry.
+JOHN	m	Please.
+NADIA	f	You prefer your women...
+ANNOUNCEMENT	?	Gate closing for Flight 1311 to  Moscow. Please have your tickets  ready.
+NADIA	f	It's not mine.
+JOHN	m	It's not mine either.
+NADIA	f	It's what you came back for.
+NADIA	f	You're a big surprise, you know.
+JOHN	m	Yeah, you see when I said I didn't  speak Russian I wasn't actually just  making it up.
+JOHN	m	Why?
+NADIA	f	I'm not asking you to marry me.
+JOHN	m	No. What? No. I know.
+NADIA	f	It's more like a date.
+JOHN	m	It's a long way to go for a date.
+NADIA	f	Tell me about it.
+NADIA	f	All that matters is to try...
+NADIA	f	We can only try. Say it.
+JOHN	m	What does it mean?
+NADIA	f	Maybe you will find out.
+NADIA	f	Hurry. I'll wait for you here.
+JOHN	m	Right.
+JOHN	m	Is the flight full?
+OFFICIAL	m	I'm sorry Sir. I believe the flight  is closed.
+JOHN	m	Please check. Is it full? Please  could you check.
+OFFICIAL	m	You have excellent English.
+JOHN	m	Thanks.
+OFFICIAL	m	How do you want to pay?
+JOHN	m	Cash.
+POLICE 1	m	Excuse me Sir...
+POLICE 2	m	Okay. Come with us now.
+POLICE 1	m	He doesn't speak English. He's  epileptic or something.
+POLICE 2	m	Can he walk? Can you walk?
+JOHN	m	Kam. Kapsi. Schta.
+NADIA	f	My name's Sophia.
+JOHN	m	Sophia. Hello Sophia. Mine's still  John.
+SOPHIA	f	Hello John.
+WOMAN'S VOICE	f	Nadia!
+WOMAN'S VOICE	f	Nadia!
+

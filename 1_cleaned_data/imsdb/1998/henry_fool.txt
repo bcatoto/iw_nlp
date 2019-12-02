@@ -1,0 +1,970 @@
+WARREN	m	You want some?
+FAY	f	Where the hell have you been? Mom, come on and eat.
+MARY	f	I'm not hungry.
+FAY	f	Then why'd I cook!
+MARY	f	I don't know why you cooked! I don't  know why you bother!
+FAY	f	Sit down and eat, Simon.
+FAY	f	God, I wanna get fucked.
+FAY	f	You OK?
+FAY	f	See ya later.
+HENRY	m	Get up off your knees.
+HENRY	m	Where you gotta go to get a six-pack  of beer around here?
+AMY	f	Say something.
+WARREN	m	She's mute.
+AMY	f	What?
+WARREN	m	She don't -- you know -- talk.
+AMY	f	Kiss my ass.
+WARREN	m	Oh, shit!
+MR DENG	m	Stay the hell out of my store, you  good-for-nothing punks!
+MR DENG	m	Look at this! What's going on here?  Simon, get up off the floor! Is this  beer paid for?
+HENRY	m	Centuries ago it had an 'e' at the  end.
+SIMON	m	Where do you come from?
+HENRY	m	Nowhere in particular.
+HENRY	m	I go where I will and I do what I  must. That's why I'm in trouble. I'm sort've  what you might call... 'in exile'.
+SIMON	m	Why are you in trouble?
+HENRY	m	An honest man is always in trouble,  Simon. Remember that.
+SIMON	m	How do you know my name?
+SIMON	m	I am not retarded.
+HENRY	m	Well... I'll take your word for that.
+SIMON	m	People. I mean. They think. You know.  Because.
+HENRY	m	I see.
+HENRY	m	Here. Take this. And...
+HENRY	m	...this. Keep them with you at all  times. You ever feel like you got  something to say and you can't get  it out, stop and write it down. OK?
+SIMON	m	What are these?
+HENRY	m	This? This is my life's work. My  memoirs. My 'Confession'.
+SIMON	m	What have you done?
+HENRY	m	I've been bad. Repeatedly. But why brag? The details of my  exploits are only a pretext for a  far more expansive consideration of  general truths. What is this? It's a philosophy. A  poetics. A politics, if you will. A  literature of protest. A novel of  ideas. A pornographic magazine of  truly comic-book proportions. It is,  in the end, whatever the hell I want  it to be. And when I'm through with  it, it's gunna blow a hole this wide  straight through the world's own  idea of itself!
+HENRY	m	Come on, let's go break their arms!
+SIMON	m	No!
+SIMON	m	If I'm quiet.
+HENRY	m	Once. I forget where I was. Central  America maybe. Somewhere hot. Stupid  job. Bad pay. Dangerous location and  water so foul the natives wouldn't  even piss in it. This crowd of drunken  motherfuckers hired by the local  drug cartel shows up at my hotel  room and threatens to tear me limb  from limb. And I say, listen, hombres,  OK, you've got me outnumbered four  to one and you're gunna kill me here  tonight and not a soul in this dimly  lit world is ever gunna notice I'm  gone. Fine. But one of you... one of  you... one of you is gunna have his  eye torn out. Period. Silence. I  repeat myself. One of you poor,  underpaid jerks is gunna have an eye  ripped out of its socket. I promise.  It's a small thing, perhaps, all  things considered. But I will succeed.  Because it's the only thing I have  left to do in this world. So why  don't you just take a good look at  one another one last time and think  it over for a few minutes more. They sober up a little, look at their  shoes in confusion, then step out  into the hall to talk among  themselves.
+SIMON	m	What happened?
+HENRY	m	Well, here I am, still, after all.
+MARY	f	Did you throw up all over some girl?
+MARY	f	They were throwing bottles at the  house.
+MARY	f	She's got some ex-con in there she  met at the bar. Tattoos all over  himself and a big red bloated nose.
+SIMON	m	Did you take your pills?
+SIMON	m	You want me to tell her to be quiet?
+MARY	f	What's the use? She might as well  get it while she can. She's not always  gunna have the ass she has now, you  know. That's just how life is.
+HENRY	m	Good morning, Simon! Glorious day,  huh? Here, have a donut. Can you  lend me twenty dollars?
+HENRY	m	Thanks. Where's the library in the  scruffy little burgh?
+SIMON	m	Down the highway about a mile and a  half and then make a left.
+HENRY	m	Excellent! I'm polishing up the final  chapters of my 'Confession' and I  need a reasonably well-stocked  reference section.
+HENRY	m	What's this?
+SIMON	m	I thought. Um. I was. I wanted to.  Maybe.
+HENRY	m	Can I take this?
+HENRY	m	I'll correct the spelling.
+SIMON	m	One of you is gunna lose an eye.
+SIMON	m	One of you is gunna lose an eye!
+SIMON	m	One of you. I promise.
+SIMON	m	You can set me on fire. But one of  you is gunna have an eye torn out of  your head. I promise.
+WARREN	m	Fuck.
+AMY	f	Take me home.
+HENRY	m	Simon! Who did this to you?
+SIMON	m	I was gunna tear out their eyes. I  knew I could do it.
+HENRY	m	Whose eyes?
+SIMON	m	I told them. Like you said. I told  them. And I knew I could do it.
+MR DENG	m	You should take him home. He smells  like a toilet.
+FAY	f	Shit, Mom, we gotta get him to a  hospital!
+SIMON	m	No!
+FAY	f	Oh, shut up! Turn around.
+MARY	f	This kinda thing has happened before.
+HENRY	m	It won't happen again.
+MARY	f	How do you know?
+HENRY	m	This your husband?
+MARY	f	Stop that.
+MR DENG	m	Mr Fool, what is this?
+HENRY	m	It's poetry.
+MR DENG	m	Are you sure?
+HENRY	m	Of course I'm sure. I corrected the  spelling myself.
+MR DENG	m	It made my daughter sing.
+HENRY	m	Yeah, well, you know -- that's what  poetry does.
+MR DENG	m	But she has never spoken in her life.
+SIMON	m	Owww!!!
+FAY	f	Keep still!
+SIMON	m	Let me do it!
+FAY	f	Fine! You do it, Simon! I don't care!
+FAY	f	Mom! Simon's got a broken rib, his  shoulder's dislocated or something,  and he won't let me disinfect the  gash in his head!
+MARY	f	Fay, just take him to the hospital,  will ya!
+FAY	f	But he won't go!
+MARY	f	Simon Grim, you go to the hospital  with Fay right now, do hear me!
+HENRY	m	We gotta talk.
+HENRY	m	What the hell were you trying to do  when you wrote this thing?
+SIMON	m	Nothing.
+HENRY	m	Well, you know you wrote it in a  kind of iambic pentameter.
+SIMON	m	Iambic what?
+HENRY	m	Verse.
+HENRY	m	Look, in my opinion, this is pretty  powerful stuff. Though your spelling  is Neanderthal, and your reasoning a  little naive, your instincts are  profound. But the whole thing needs  to be given a more cohesive shape.  It can be expanded. Followed through.  Unified. You see what I'm getting at?
+HENRY	m	Are you willing to commit yourself  to this? To really work on it? To  give it its due? In the face of  adversity and discouragement? To  rise to the challenge you yourself  have set?
+HENRY	m	And don't gimme that wonderstruck  'I'm-only-a-humble-garbage-man'  bullshit, either.
+SIMON	m	It hurts to breathe.
+HENRY	m	Of course it does.
+SIMON	m	Like this?
+HENRY	m	Yeah. No. OK?
+SIMON	m	Wait!
+HENRY	m	Don't move! Fuck. There.
+SIMON	m	Are you sure that's right?
+HENRY	m	Yes. Now shut up and lie back.
+SIMON	m	Is this gunna hurt?
+HENRY	m	Yes.
+HENRY	m	You gunna be alright?
+HENRY	m	Here. Bite on this.
+SIMON	m	What's that?
+HENRY	m	It's blood. From your head. Lie back.  Shove that in your mouth and hold on  to something.
+HENRY	m	Okay. You ready?
+SIMON	m	Aaagghhh!!!!!!!
+FAY	f	So, do you have, like, you know, a  girlfriend, Henry?
+HENRY	m	No.
+FAY	f	Do you find me attractive?
+HENRY	m	Yes, I do.
+FAY	f	I look young for my age, don't I?
+HENRY	m	How old are you?
+FAY	f	How old do you think I am?
+HENRY	m	You look young.
+FAY	f	How young?
+HENRY	m	I don't know. Young.
+FAY	f	But how... I mean, do I look more  like twenty, or... you know, thirty?
+HENRY	m	Thirty.
+FAY	f	Listen, you geek, after a couple of  drinks plenty of people mistake me  for eighteen!
+VICKY	f	Hey, Warren, are you a registered  voter?
+WARREN	m	Bug off, Vicky!
+WARREN	m	'Saving America From Itself.' What  the fuck is this?
+VICKY	f	It's everything you need to know  about the upcoming elections and  congressman Owen Feer and all the  really good things he wants to do  for our country.
+WARREN	m	Oh yeah, like what?
+VICKY	f	He wants to win back this country  for us Americans, Warren, and restore  some kind of cultural-moral standard  to our way of life.
+WARREN	m	What time's your kid go off to school?
+VICKY	f	Nine o'clock.
+WARREN	m	How about I come over and visit you  later?
+VICKY	f	Well, I don't know, Warren. I mean...
+WARREN	m	Come on. I mean it. I'm trying to  change.
+VICKY	f	How dare you put something like this  up where anyone can see it!
+MR DENG	m	It's poetry.
+VICKY	f	It's pornography! The product of a  diseased mind! You oughta be ashamed  of yourself, Mr Deng!
+MR DENG	m	It made Gnoc sing.
+VICKY	f	It's disgusting! There oughta be a  law or something!
+HENRY	m	There's no accounting for taste, is  there, Mr Deng?
+HENRY	m	See, Simon, there are three kinds of  there. There's 'There'. T-H-E-R-E.  There are the donuts. Then there's T- H-E-I-R; which is the possessive. It  is their donut. Then, finally, there's  'they're'. T-H-E-Y-'-R-E. A  contraction, meaning they are. They're  the donut people. Get it?
+SIMON	m	Uh-huh.
+HENRY	m	And look, if you're gunna read  Wordsworth you've gotta get a more  up-to-date edition. This odoriferous  tome you're so attached to doesn't  even have all fourteen books of the  Prelude. And you need notes.  Commentary. I'll go to the library  and find you the best edition they  have.
+SIMON	m	Thank you, but that's OK. I'll stop  there on my way back from work. Well,  yes, maybe not today, but, you know,  tomorrow, probably.
+HENRY	m	Quit.
+SIMON	m	My job?
+HENRY	m	Yeah.
+SIMON	m	Why?
+HENRY	m	You need time to write, Simon. To  study. To reflect.
+SIMON	m	But I like my job.
+HENRY	m	We all have to make sacrifices. A  vocation like ours, Simon, is not a  nine to five thing. You can't put a  fence around a man's soul. We think  and feel where and when we can think  and feel. We are the servants of our  muse and we toil where she commands.
+SIMON	m	She's clinically depressed.
+HENRY	m	Yeah, and what's that mean?
+SIMON	m	I guess it means it's not her fault.
+HENRY	m	You ever think of leaving?
+SIMON	m	Here?
+HENRY	m	Yeah.
+SIMON	m	To go where?
+HENRY	m	Out there. You know, into the world.  Where ever.
+SIMON	m	Yeah, I guess.
+HENRY	m	'Opportunity will step away and make  room for a man to pass it by.'
+SIMON	m	Is that from your book?
+HENRY	m	No. I found it in a fortune cookie.
+SIMON	m	Can I read your confession?
+HENRY	m	No. Not yet. Soon. We'll see.
+SIMON	m	Is it almost finished?
+HENRY	m	Well, you know, Simon, a piece of  work like this, it's... A vocation  like ours... You can't put a fence  around a man's soul. What I'm trying  to achieve, it's... Well, it takes a  lifetime really. It's a life's work. But soon. Don't worry. I'd appreciate  your feedback. I gotta go. See ya.
+MARY	f	What are you doing there, Simon?
+SIMON	m	I'm writing a poem.
+PAT	m	So what? It ain't so great.
+CHRIS	m	That him?
+AMY	f	Pardon me, Simon.
+AMY	f	Uhm. Look, ah... I'm the editor of  the high school newspaper now and...
+PAT	m	One of the editors.
+AMY	f	One of the editors, and we...
+PAT	m	You.
+AMY	f	I... wanted to know if we could print  your poem in this month's issue.
+SIMON	m	Why?
+AMY	f	Because I think it's great.
+PAT	m	I don't.
+CHRIS	m	Who cares what you think?
+TED	m	You're a drag.
+CHRIS	m	A well-known drag.
+AMY	f	Please?
+FAY	f	Ma, you take your medication?
+FAY	f	Guess so.
+HENRY	m	Evening, Fay.
+FAY	f	What do you want?
+HENRY	m	I've got these books for Simon.
+FAY	f	Well, leave 'em there on the counter,  then.
+WARREN	m	Hey, Simon, you a registered voter?
+WARREN	m	Immigrant.
+FAY	f	Where is he?
+FAY	f	Henry?
+FAY	f	Mommy!!!!!
+MARY	f	You bastard!
+HENRY	m	What?
+MARY	f	Get out!
+HENRY	m	Listen. I know a man. He's a big  shot in the publishing business.  Angus James. Smart, adventurous and  tons of integrity. When this thing  is ready, I'll recommend he reads  it. He'll respect my opinion.
+SIMON	m	A man was here today looking for  you.
+HENRY	m	What man?
+SIMON	m	I don't know. He drove by the house  a few times.
+HENRY	m	Why do they torment me like this?  Why? They're like a bunch of fucking  mosquitoes!
+SIMON	m	What do they want from you?
+HENRY	m	They want to suffocate me, Simon!  They wanna extinguish me like a flame!
+TIM	m	But why?
+HENRY	m	They're afraid, that's why! They're  afraid of what I might do! What I  might say! Think! They're afraid of  my ideas!
+HENRY	m	You and I are alike in this way,  Simon.
+SIMON	m	Yeah?
+HENRY	m	We're outsiders. We think and feel  too much and too deeply. And the  world can't handle that. Our mere  existence is a threat to its illusion  of security. Sure, they'll name a  wing of a new library after us when  we're dead! But now... Now, when  we're alive... Now, they wanna burn  us at the stake!
+HENRY	m	Scram.
+HENRY	m	For example, I made love to your  mother about half an hour ago and  now I'm beginning to think that maybe  it wasn't such a good idea.
+HENRY	m	I mean to say, I think Fay may be  jealous.
+SIMON	m	I don't want to think about this.
+HENRY	m	Bad move, Simon.
+HENRY	m	A poet has got to be able to think  about anything.
+SIMON	m	Am I really a poet?
+HENRY	m	Of course you are! A great poet! But  you need experience. You need to do  something to be ashamed of every  once in a while, for cryin' out loud.
+HENRY	m	Come on! Let's go out! There's a den  of iniquity right across the street!  You got any money?
+MARY	f	That man's a bad influence.
+SIMON	m	On who?
+HENRY	m	Simon. Hey, Simon. Come on. I got ya some coffee.
+SIMON	m	What's this?
+HENRY	m	It's a computer. You write on it.
+HENRY	m	Here's the manual.
+SIMON	m	Where'd you get it?
+HENRY	m	I stole it. Now listen. Remember how  yesterday we discussed the relative  desirability of cadence in relation  to the readability of...
+FAY	f	Oh, shit! Not you again!
+HENRY	m	Simon, I can't work under these  conditions.
+FAY	f	Yeah! Get outta here, you freak!
+HENRY	m	Get a life!
+FAY	f	Eat shit and die, Henry!
+MARY	f	Beast! Fiend! Rapist!
+FAY	f	Oh, shut up, Mom!
+SIMON	m	Henry, wait up!
+HENRY	m	I am not a rapist!
+HENRY	m	Shit. Come on, this way.
+HENRY	m	Keep a look out. Tell me when he's  gone.
+SIMON	m	Henry, what's going on? Who is that  guy? What's he want?
+HENRY	m	He wants to help me! He wants to be  my friend.
+SIMON	m	Help you with what?
+HENRY	m	Shhh!
+HENRY	m	What's wrong?
+FATHER HAWKES	m	I doubt.
+HENRY	m	So, you're an honest man. Why beat  yourself up about it?
+FATHER HAWKES	m	I don't know if there are grounds  for faith. Is my vocation relevant?  Does it make a difference?
+SIMON	m	A difference in what?
+FATHER HAWKES	m	The world. The way it is. Is this a  way to help relieve suffering?
+HENRY	m	Your vocation makes a difference.
+FATHER HAWKES	m	How can you be so sure?
+HENRY	m	Because vocation is the difference.  Only someone who really cares doubts.  Listen, father, as I was about to  tell my friend Simon here, I am,  without doubt, the biggest sinner  within a hundred miles of this parish.  But still, I've gotta stay up late  at night to outdo the unending parade  of mundane little atrocities I see  committed every day right out in the  open spaces of this loud and sunlit  culture we call home.
+FATHER HAWKES	m	You seem to me to be a sensitive and  generous man.
+HENRY	m	I like to think so. But the fact is  I appreciate depravity. Nevertheless,  I insist your vocation makes a  difference, because to hold out  anything other than a spiritual  yardstick to reality is to be jerking  off grandly into the abyss. Listen,  have you got any money? Let's go  have a drink.
+WARREN	m	Excuse me, miss, are you a registered  voter?
+MISS	f	Oh God, really I don't know.
+WARREN	m	Well, I'd like to give you some  information about Congressman Owen  Feer. This man is gunna make a big  difference in the lives of every  American in the years to come...
+MISS	f	Thanks, sure. I gotta go, thanks.
+WARREN	m	Pardon me, sir...
+BILL	m	Fuck off!
+WARREN	m	Right.
+WARREN	m	What time's your mother get off work?
+WARREN	m	Fay, are you a registered voter?
+FAY	f	Don't you dare talk that way to me!  And keep your hands off my brother.  Pearl, what are you doing here?
+WARREN	m	I'm watchin' her.
+FAY	f	You and Vicky get back together?
+WARREN	m	I gotta regular job now and  everything.
+FAY	f	I saw this retard on TV this morning.
+WARREN	m	He's gunna be the next president of  the United States of America, Fay.
+FAY	f	Keep dreamin' Warren. The guy's a  Nazi.
+WARREN	m	I like him!
+FAY	f	Gimme a light.
+WARREN	m	He's a decent man. He takes  complicated issues and totally  simplifies them. And I appreciate  that.
+FAY	f	You still sell dope?
+WARREN	m	No. You know what the problem is  with this country, Fay? Me. I'm the  problem. We live in a culture of  poverty and crime, where the work  ethic is undermined and male  responsibility is made irrelevant.
+FAY	f	Come on, Pearl, let's go play at my  house.
+WARREN	m	She gives you any trouble, Fay, you  just let me know.
+FATHER HAWKES	m	Do you think human beings are innately  bad?
+HENRY	m	Worse than bad! Monstrous! But I  love that about them. Wake up, Simon!
+WARREN	m	Jesus Christ, Simon, you're letting  yourself go to hell! You read that  flyer I gave you?
+SIMON	m	What?
+WARREN	m	Simon, wake up and smell the coffee,  huh! It's up to guys like you and me  to help create a better tomorrow!
+WARREN	m	Why would I steal a computer from  the campaign office?
+VICKY	f	I'm not saying you did, I'm just  saying one was and since you do have  this criminal background...
+WARREN	m	Don't judge me!
+BU�UEL	?	Look, I know you know him. People  have seen you around together.
+BU�UEL	?	I'm his parole officer.
+SIMON	m	What did he do?
+BU�UEL	?	I'm not supposed to talk about that  stuff with people.
+SIMON	m	He's my. Friend.
+BU�UEL	?	Mr Deng says you're some sort of a  poet, or something.
+BU�UEL	?	You tell Henry to call me -- Officer  Bu�uel -- pronto! Or they're gunna  chuck his ass straight back into  jail! Got it?
+WARREN	m	Vicky, look I'm sorry.
+VICKY	f	Don't you even come near me!
+FAY	f	What do you mean, you quit?
+SIMON	m	I quit my job.
+FAY	f	Why!
+SIMON	m	There are things I want to do.
+FAY	f	Like what?
+SIMON	m	'Opportunity will step out of the  way to let a man... pass it by.'
+FAY	f	Are you drunk?
+SIMON	m	Now you have to go out and get a  job!
+FAY	f	I am not gettin' a job! Who's gunna look after Mom!
+SIMON	m	I will.
+FAY	f	Pearl, go outside.
+SIMON	m	If you treat Mom like a sick person,  she's gunna stay like... you know, a  sick person.
+FAY	f	Simon, don't be retarded...
+SIMON	m	I am not retarded!
+SIMON	m	I can see with my own eyes.
+FAY	f	Mom can't be left alone with no one  to keep an eye on her.
+SIMON	m	Well, who's been keeping an eye on  her while you've been out getting  fucked by every OTB winner in town?
+SIMON	m	Aggghhhh!!!
+FAY	f	What happened to her, Simon? How did  she get this way? Will it happen to  me too? Huh? Why are we so fucked  up?
+SIMON	m	Henry?
+HENRY	m	Simon! What are you doing here?
+SIMON	m	Henry... Your parole officer, Officer  Bu�uel, came by again today.
+SIMON	m	He told me to tell you that if you  don't call him they're gunna put you  back in jail.
+HENRY	m	Simon...
+SIMON	m	He gave me this number...
+HENRY	m	Simon...
+SIMON	m	He was talking to Mr Deng too, and,  well, you know, I was thinking...
+HENRY	m	Simon, just shut the fuck up!
+HENRY	m	Forgive me.
+HENRY	m	Forgive me, Simon.
+SIMON	m	Call him, Henry. Please.
+HENRY	m	OK. Look, do me a favor. You got a  library card?
+SIMON	m	Yeah.
+HENRY	m	Check this out for me.
+HENRY	m	Milton. Seventeenth century. English.  You see, Simon, it's important my  'Confession' dig up the past, comb  previous evidence and help chart the  historic -- even the aesthetic --  inevitability of my ideas. And...
+HENRY	m	This place is crawling with chicks,  Simon. Wander around. Leer a little.  Cop a feel. Impose yourself on 'em.  See what happens.
+SIMON	m	I make girls uncomfortable.
+HENRY	m	Bullshit! You've got a rough hewn  charm that sets 'em on edge. Now,  listen, I gotta go.
+SIMON	m	Henry?
+SIMON	m	What did you do?
+HENRY	m	I got caught.
+SIMON	m	'Whereto with speedy words the arch- fiend replied Fallen Cherub, to be  weak is miserable...'
+SIMON	m	Why is it this beautiful girl makes  me sad? Does she know how beautiful  she is? Do people tell her? Does she  ever feel stupid?
+SIMON	m	Why don't I smile when she looks at  me? I look away. Ashamed of myself.
+SIMON	m	Her figure makes me violent. I want  to somehow break her. But tenderly.  How is this possible? Ask Henry.
+SIMON	m	I can't breathe.
+SIMON	m	Why do I do this to myself? And why  do I reduce you to only one  possibility? These are not even  questions anymore. I know the answers  myself. This isn't a page of notes.  It's a letter. A letter to you. A  desperate act. You are a miracle to  me. I can't breathe.
+BU�UEL	?	How are you, Henry?
+HENRY	m	Peachy. Gimme a light.
+BU�UEL	?	Have you found a job?
+BU�UEL	?	How 'bout those Alcoholics Anonymous  meetings, did you go over and visit  them yet?
+HENRY	m	What happened to this assistant  librarian position you were supposed  to set me up with?
+BU�UEL	?	I tried, Henry. I really did.
+HENRY	m	So what happened?
+BU�UEL	?	Henry, with your background... Well,  I mean, with your record, they didn't  think it'd be right to have you at  the neighborhood library.
+HENRY	m	Why not?
+BU�UEL	?	They thought you'd be a bad influence  on the kids.
+BU�UEL	?	Or worse.
+HENRY	m	So my word is not enough. My promise  worthless. The fact I've served my  time nothing but the emblem of my  continuing guilt.
+BU�UEL	?	Apparently.
+FAY	f	What's up?
+SIMON	m	Nothing.
+FAY	f	I'm creating my r�sum�. This  computer's got a program especially  for it. I bought some special  stationery too. It's scented. Look.
+FAY	f	It's roses.
+SIMON	m	Can you type my poem into that thing?
+FAY	f	That's your poem?
+SIMON	m	Yeah.
+FAY	f	Simon, Mom's right about you. A poem's  supposed to be a small, delicate  kinda thing. Kinda feminine. Gentle.  Look at this. You've made a fuckin'  telephone book.
+HENRY	m	I was caught. Yes, I was caught...  once. I was caught in flagranti  delicto screwing a thirteen-year-old  girl named Susan. She was an ugly  and mean-spirited kid, but she knew  how to play upon my weaknesses which,  I admit, are deep and many.
+HENRY	m	You appear shocked.
+SIMON	m	Sorry.
+HENRY	m	It was a pathetic little conspiracy.  A transparently desperate attempt to  discredit me and my ideas; to label  me a mere pedophile. As if I'd be  ashamed of such a thing. As if  Socrates himself hadn't been taken  out of circulation for corrupting  the youth of Athens!
+HENRY	m	Seven years. Seven years for one  afternoon of blissful transgression.  But what of it? Who cares? Prison's  not so bad; particularly if one's a  sex offender, free from the popular  and conventional horror of sodomy.
+HENRY	m	They were not 'lost years'.
+HENRY	m	I put them to good use. I began my  major work. My opus.
+HENRY	m	Believe me, Simon, this incident  with the girl, prison... It pales to  insignificance in the wider context  of my career.
+HENRY	m	Nothing in comparison to the day my  'Confession' is unleashed. What an orgy we'll have then, huh?  What shouts of outrage from the  offended populace, from the  sanctimonious purveyors of culture  and quality, the righteous defenders  of what ever inane and haphazard  notion of progress then in vogue.  They'll be beside themselves with  fiercely reasoned critical analysis.  Apoplectic with indignation!
+HENRY	m	Their feelings will be hurt.
+HENRY	m	Yes, like a mirror which reflects  only the inside of the person before  it, my 'Confession' will lovingly  render humanity's common monstrosity  in all of its lurid wide screen glory.
+HENRY	m	Why should I blush or feel shame  before the common lot of humanity,  anyway, for a few banal and, again I  admit, inelegant transgressions?
+HENRY	m	After all, really, I'm doing  civilization a favor.
+SIMON	m	When can I read it?
+HENRY	m	Soon.
+FATHER HAWKES	m	We are told not to judge. But to  forgive. Not to look into our  neighbor's eye to find the bad, but  to find the good. Now this is difficult. I admit. But having a good friend is not always  easy.
+SIMON	m	Yes, but... do you think Henry is...  dangerous?
+FATHER HAWKES	m	He needs help. Our help. Yours  especially.
+SIMON	m	But what can I do?
+FATHER HAWKES	m	The best parts of himself come to  the surface when he's helping someone  learn. I've seen this. Let yourself  be taught. Show your appreciation  for his guidance. In this way, you  know, perhaps. Well. There's hope  for everyone. Even. Even Henry.
+FAY	f	Gnoc, gimme a value pack of Kleenex,  will ya?
+TIM	m	The violence of the imagery reminds  me of early Clash, while the lyricism  of the verse recalls, for me, Walt  Whitman.
+BIBI	f	I would have said Dickinson, maybe  even Eliot, and so on. But I agree  with the punk roots...
+HENRY	m	The greats all say the same thing:  little. And what little there is to  be said is immense. Or, in other  words, follow your own genius to  where it leads without regard for  the apparent needs of the world at  large, which, in fact, has no needs  as such, but, rather, moments of  exhaustion in which it is incapable  of prejudice. We can only hope to collide with  these moments of unselfconsciousness.  This divine fatigue... this...
+FAY	f	Push over.
+HENRY	m	As I tried to make plain in Paris:  'Nous savons que nous avons chut�  parce que nous savons qui nous  sommes.' 'We know we have fallen  because we know who we are.'
+FAY	f	When were you in Paris?
+HENRY	m	That's beside the point. But did  they listen to me? Of course not!
+SIMON	m	You alright, Fay?
+FAY	f	No, I'm not alright! Your poem brought  my period on a week and half early!  So just shut up. Everybody just shut  up!
+HENRY	m	For is this not the best of all  possible worlds? Are not the evils  of this world necessary components  of a cosmos that could not exist  without them?
+CHRIS	m	So, do you believe in God?
+HENRY	m	Unfortunately.
+FAY	f	Yeah, but when were you in Paris?
+HENRY	m	At. One. Time.
+CHRIS	m	Simon, can I have your autograph?
+HENRY	m	Go ahead. But never let yourself be  flattered.
+FAY	f	So what about this friend of yours,  Hot Shot? The publisher.
+HENRY	m	Who?
+SIMON	m	Angus James.
+FAY	f	Yeah. Angus James. How about sending  this poem to him?
+HENRY	m	Because it's not done yet.
+FAY	f	When's it gunna be done, Simon?
+SIMON	m	I don't know.
+FAY	f	Well, you oughta be home writing  instead of hanging out over here  with all your groupies.
+AMY	f	Hey, I'm not a groupie.
+FAY	f	Pardon me, swivel-hips. Is that your  PowerBook?
+AMY	f	Yeah.
+FAY	f	Can I see it?
+HENRY	m	The thing to do is to send parts of  it to different magazines and literary  journals first. That kinda thing.  You know. Substantiate it.
+AMY	f	What's 'scatalogical' mean?
+HENRY	m	Filth, child. A preoccupation with  excrement. Why?
+AMY	f	That's what the Board of Education  called Simon's poem, yesterday;  scatological.
+EDNA	f	Hello?
+FAY	f	Yeah, I'm listening.
+EDNA	f	My name is Edna Rodriguez and I write  the human interest column for the  Queens County Examiner and I was  just wondering if I could have a  word with Simon Grim?
+FAY	f	Simon!
+EDNA	f	Thank you.
+FAY	f	You can't talk to him for, you know,  too long or anything, 'cause he's  gotta, you know... he writes all  day. That's all he does. Can you  believe that?
+FAY	f	Hey! Simon! Get down here!
+FAY	f	Simon, this is Edna. She's from the  newspaper.
+EDNA	f	Simon, the Parents' Association at  the local high school are calling  your poem pornography. The teachers  are defending the students' right to  exercise their critical tastes and  sensibilities. The county agrees  with the Church and considers the  poem emblematic of modern society's  moral disintegration. How do you  feel about these controversial  reactions to your poem?
+FAY	f	Simon, answer the woman.
+MARY	f	I need my prescription filled.
+FAY	f	Mom, this is Edna. Edna, Mom.
+EDNA	f	Mrs Grim, what was Simon like as a  child?
+MARY	f	We all thought he was retarded.
+FAY	f	Everyone did.
+MARY	f	Never said a word.
+FAY	f	He masturbated constantly.
+MARY	f	Had no friends.
+FAY	f	Till he met Henry.
+MARY	f	And that's when all the trouble really  started.
+SIMON	m	Dear Mr Grim, we here at the magazine  consider ourselves and the publication  open-minded and cutting edge and  have consistently printed the work  of the most brilliant and farseeing  young talent of the day. Every week  we are forced to return writing which  we can not for one reason or another  publish and include a brief but polite  refusal. But this tract you've sent  us demands a response as violent as  the effect your words have had upon  us. Drop dead. Keep your day job.  Sincerely, The Editors.
+HENRY	m	De gustibus non disputandum est.
+SIMON	m	You can't argue with taste?
+HENRY	m	About taste. You can't argue about  taste. God, Simon.
+SIMON	m	The other twenty-five are almost as  bad. I don't know why I bother.
+HENRY	m	What do you mean you don't know why  you bother? You bother because you  know the poem is excellent!
+SIMON	m	Do I?
+HENRY	m	Of course you do!
+SIMON	m	I'm not so sure sometimes.
+HENRY	m	Can you sit there, look me straight  in the eye, and tell me you don't  think this poem is great? That it is  not at once a work of great lyrical  beauty and ethical depth? That it is  not a genuine, highly individual,  and profound meditation on the miracle  of existence?
+SIMON	m	I, ah...
+HENRY	m	Can you?
+SIMON	m	No. I can't.
+HENRY	m	So, you see, you have no choice!
+SIMON	m	Can you recommend it to your friend,  the publisher?
+SIMON	m	Henry? Can you recommend the poem to  him?
+SIMON	m	I mean, I think it's finished and,  for better or worse, it is book  length.
+HENRY	m	That might not be as easy as it seems.
+SIMON	m	Why?
+HENRY	m	Well, it's been a long time. My name  might not carry as much weight as it  once did with Angus.
+SIMON	m	But he's your friend, right?
+HENRY	m	We were close at one time.
+SIMON	m	You said he respected your opinion.
+HENRY	m	Look, Simon, opinions come and go.
+HENRY	m	To be honest; my ideas, my writing,  they haven't always been received  well or even calmly. They're  upsetting. I'm a controversial man.
+HENRY	m	You see, what I'm doing is too  radical. Too uncompromising. It'll  take time for people to see its value.  It's ahead of its time, perhaps, or  maybe just... A recommendation from me might do  you as much harm as it does good.
+SIMON	m	Henry, why can't I read the  'Confession'?
+HENRY	m	Because certain work needs to be  experienced all at once in order for  one to appreciate the full force of  its character.
+FAY	f	Simon, wake up! The guy's in a dream  world!
+SIMON	m	He's afraid that his reputation will  prevent people from giving my work  an honest chance.
+FAY	f	His reputation as what?
+SIMON	m	As a writer.
+FAY	f	Gimme a break.
+SIMON	m	He's kinda like in exile. Marginalized  on account of his ideas.
+FAY	f	If he's such a great big fat genius,  why doesn't he write books? Like you  do.
+SIMON	m	He has. He's written a book. It's  almost completed. He's been working  on it for years. It's just not  published.
+FAY	f	Yeah, I bet. It's probably disgusting.
+SIMON	m	It's a quite serious and difficult  piece of work, apparently.
+FAY	f	Have you read it?
+SIMON	m	No. Not yet. Soon. Certain work needs  to be experienced all at once in  order for one to appreciate the full  force of its character.
+FAY	f	Yeah, well, what ever. Listen, Simon,  forget Henry. Go straight up to this  Angus James character yourself and  make him read your poem.
+FAY	f	I'm gunna apply for a job at the one- hour photo joint and then go over to  the Mall to see about that job in  the bank. Make sure Mom takes her  pills. See ya.
+SIMON	m	Please don't stop.
+SIMON	m	That was nice what you were playing.
+MARY	f	Yes, it was nice. But it was  unremarkable.
+SIMON	m	Does that matter?
+MARY	f	Yes. It does.
+MARY	f	Simon?
+LAURA	f	Hi, I'll take that.
+LAURA	f	Aren't you the messenger?
+SIMON	m	No.
+LAURA	f	Are you here to fix the plumbing?
+SIMON	m	I'm here to see Mr. Angus James.
+LAURA	f	Are you?
+SIMON	m	I'm not a plumber. Or a messenger. I  was once a garbage man. But now I'm  a poet.
+BARRY	m	The book, as we know it, Angus, will  be a thing of the past within the  next few years. Novels, articles,  newspapers will all be downloaded on  to our personal computers anyway.
+ANGUS	m	So you're telling me to get out of  the publishing business?
+STEVE	m	No. But we've got to re-invent the  publishing business for the electronic  age.
+ANGUS	m	Yes, Laura?
+LAURA	f	I'm sorry to disturb you, gentlemen,  but... Angus, there's a particularly  wound-up young garbage man out here  who seems to have written a poem. A  long poem. And I recall how, at last  month's meeting, you stressed the  need for us to be on the look-out  for more marginalized verse from  unestablished quarters of the American  scene.
+ANGUS	m	Did I say that?
+STEVE	m	Yeah. You did.
+BARRY	m	Twice.
+ANGUS	m	Well, OK. Make an appointment, Laura.  Sometime next month.
+LAURA	f	Right-e-o.
+ANGUS	m	So, anyway, how is the digital  revolution going to help me sell  books?
+SIMON	m	Why can't I see him now?
+LAURA	f	Because he's a very important man  and, well, you're not.
+LAURA	f	Be reasonable.
+SIMON	m	Why?
+ANGUS	m	I don't think people are going to  prefer reading books on television,  Steve.
+STEVE	m	It won't be television!
+BARRY	m	It'll be interactive.
+STEVE	m	Angus, look, we have a number of  charts here...
+BARRY	m	In every home in America the PC will  be where the TV used to be.
+STEVE	m	And it'll be a direct connection to  all forms of media.
+BARRY	m	An unprecedented transformation of  American social life...
+STEVE	m	We'll all become better informed,  more literate, increasingly  productive, and... Well, and, like I  said, we have a number of charts...
+LAURA	f	Sorry to disturb you again, gentlemen,  but... Angus, I'd like to call  security for this one. Though, before  I do, I just wanted to ask just how  marginal the as yet undiscovered  voice of American poetry should be?
+ANGUS	m	Pretty damn marginal, I'd think.
+BARRY	m	Down right controversial, probably.
+ANGUS	m	How's he strike you?
+LAURA	f	He's been denounced by his local  Board of Education.
+BARRY	m	Oh, I read about him in the paper.  Hangs out in a delicatessen somewhere  and writes pornography.
+ANGUS	m	Hello, and why do you think I should  take valuable time out of my busy  schedule to read...
+ANGUS	m	This?
+SIMON	m	Because it's a masterpiece.
+ANGUS	m	Really?
+SIMON	m	Yes.
+ANGUS	m	Are you hearing this?
+LAURA	f	He's adorable.
+SIMON	m	I wouldn't want to waste your time.
+ANGUS	m	I'm sure you wouldn't and I appreciate  you being so straightforward.
+SIMON	m	Thank you.
+ANGUS	m	I assume you can take straightforward  criticism?
+LAURA	f	Just say 'Yes'.
+SIMON	m	Maybe.
+ANGUS	m	Get him a coffee, Laura.
+LAURA	f	Have a seat, Mr Grim.
+ANGUS	m	Hold my calls for the next half hour.
+LAURA	f	What about Steve?
+ANGUS	m	He doesn't drink coffee. Steve, do  you drink coffee?
+STEVE	m	Angus, listen to me!
+HENRY	m	In the infinite amplitude of his  love, God wants to create the largest  number of best elements that can  exist together in one cosmos... OK.
+HENRY	m	In an instantaneous calculation made  in eternity, God computes the best  possible world and creates it. Fine.  This 'decision' by God is uncontingent  and eternal rather than temporally  or ontologically sequential.
+AMY	f	How do you spell that?
+HENRY	m	What?
+AMY	f	Ontologically.
+HENRY	m	O-N-T... Don't you have some kinda  spell-check on that thing?
+AMY	f	Never mind.
+HENRY	m	It is impossible for every perfect  good to be compatible with every  other perfect good. The intense beauty  of the mountain must be set off by  the fertility of the plain, so to  speak.
+HENRY	m	The good of freewill must entail  real choices for sin.
+HENRY	m	Listen, Amy, back off. I'm on parole.
+AMY	f	You feel the same way. I can tell. I  can see it when you look at me.
+HENRY	m	Hey! I don't look at you.
+AMY	f	Yes you do. In the street. In the  parking lot yesterday. That night on  the highway.
+HENRY	m	I look at a lot of people that way.
+AMY	f	You think I'm stupid.
+HENRY	m	No, as a matter of fact, I think  you're a real bright kid and I like  that about you.
+AMY	f	You do?
+HENRY	m	I like it so much I've got half a  mind to do perverse things to you.  Right here. Right now. Things you  might just learn to like.
+ANGUS	m	This is really quite unbelievably  bad, my friend. I mean, I'm all for  experimentation and I've made a career  out of a healthy disregard for  convention, but... Look, this is  profoundly irrelevant material. This  is only my opinion. But it's an  opinion I value highly. Goodnight,  Laura. Call Norton Press. We're still  on for tomorrow.
+ANGUS	m	I've been wrong before as a publisher.  But I refuse to admit I've ever been  wrong as a reader. You have talent,  I admit. You have an innate sense of  the musicality of language. A good  ear, maybe. But you do nothing  significant with it. And this twisted  reasoning that poses as... conviction  or insight, it's... well, it's  embarrassing.
+ANGUS	m	Why did you bring this thing to me,  anyway?
+SIMON	m	A friend of mine spoke of you. He  said you had a lot of integrity.
+ANGUS	m	Yes, well, of course, I do. But I'm  not crazy, am I? Who is this person?  Do I know him?
+SIMON	m	Henry Fool.
+ANGUS	m	Never heard of him.
+LAURA	f	I remember Henry.
+LAURA	f	He used to be the janitor here.
+MR DENG	m	Henry, put those magazines back.
+HENRY	m	I'm just looking at the pictures.
+MR DENG	m	It's not good for you.
+HENRY	m	I learn so much from these magazines,  Mr Deng. I refuse to discriminate  between modes of knowing.
+MR DENG	m	And you can't smoke in here anymore.
+HENRY	m	Why not!
+MR DENG	m	It's the law.
+HENRY	m	This place is losing all its charm,  Mr Deng.
+MR DENG	m	Business is good. The kids, they  hang out all day and drink coffee,  talk about art and read poetry.
+HENRY	m	It's just a fad, Mr Deng. These kids  today, they're just slaves to fashion.
+FAY	f	Anybody home? Mom?
+FAY	f	Ma, that you?
+HENRY	m	Come on, Mr Deng! How much do I owe  you?
+MR DENG	m	Twenty-five dollars.
+HENRY	m	That can't be right! And so what? My  credit's good.
+WARREN	m	Henry!
+HENRY	m	Hey, Warren, you gotta couple of  bucks I can borrow?
+WARREN	m	Listen, Henry, I wanna remind you to  vote this Thursday.
+HENRY	m	Ah, yes, of course. When noble minds  shrink from the task of leadership  scoundrels will rush in to fill the  void. Thanks.
+WARREN	m	It's every American's right. A  blessing. Yet another opportunity to  save America from itself.
+FAY	f	Hey, Henry, you in there? Gimme a  cigarette.
+FAY	f	Henry?
+AMY	f	Henry?
+HENRY	m	Yeah.
+AMY	f	What kind of... Well, I mean... What  kind of... perverse things would you  do to me?
+HENRY	m	Take a powder, cupcake.
+AMY	f	No, really.
+HENRY	m	Evaporate!
+FATHER HAWKES	m	Let us pray. Lord, grant that peace  be within reach for our friend, Mary.  May the pain and confusion she endured  on earth be fought through in the  after life, so that she may enter  the Kingdom of Heaven and live in  the light of God. Amen.
+HENRY	m	So I was a janitor! So what?
+SIMON	m	But Angus James said he didn't even  know you!
+HENRY	m	Well, I mean, we weren't like bosom  buddies or anything. But we used to  talk sometimes. In the elevator. In  the morning. He said he liked my  ideas. Being a janitor's a good job  if you're a writer. Especially the  night shift; all that time to think  and develop my ideas.
+SIMON	m	Do it.
+SIMON	m	Anyway, he hated my poem.
+HENRY	m	Well, what the hell does he know? He  wouldn't know a vital piece of  literary art if it came up and bit  him in the leg. To hell with him!  He's not the only publisher in the  world!
+SIMON	m	But nobody likes it.
+HENRY	m	It's true. A prophet is seldom heeded  in his own land. Remember that.
+SIMON	m	Do it.
+HENRY	m	Hey, look, treasure!
+HENRY	m	What is this?
+SIMON	m	Brass maybe. Some kinda copper.
+HENRY	m	It's a ring. Jewelry.
+SIMON	m	I think it's a gasket. A fitting  from off of that old refrigerator  over there.
+HENRY	m	Hey, Warren, I found Pearl wandering  around by the garbage dump.
+WARREN	m	He lost.
+HENRY	m	Who lost?
+WARREN	m	Congressman Feer.
+HENRY	m	Oh. Well, you know. Somebody's gotta  lose.
+WARREN	m	What's the fucking use. You make  sacrifices. You try to be a decent  human being. Try to contribute  something meaningful to society. And  what happens? They lose to a bunch  of cultural elite liberal fuck-ups.  I don't give a shit anymore. People  deserve what they get.
+HENRY	m	Vicky?
+HENRY	m	What happened to you?
+VICKY	f	He's a good man, Henry. Nobody's  perfect.
+HENRY	m	I guess not.
+VICKY	f	He's terribly disappointed.
+HENRY	m	I found Pearl wandering around with  no shoes on her feet.
+VICKY	f	Thanks. She gets scared.
+HENRY	m	And you don't?
+VICKY	f	I love him.
+HENRY	m	Where's the beer?
+MR DENG	m	No more beer. Coffee. Espresso!  Cappuccino! Caf� au lait. Carrot  juice. Herbal tea.
+HENRY	m	A double espresso and a jelly donut,  Gnoc. You mind paying? My credit's no good  here anymore, apparently.
+BU�UEL	?	Did you go to the employment agency  today, Henry?
+HENRY	m	No, but it's OK. Simon's gunna try  to get me a job on the garbage truck.
+BU�UEL	?	Listen, I'm a little concerned about  your friend.
+HENRY	m	Simon?
+BU�UEL	?	Seems he gave an obscene note to a  girl in the library.
+HENRY	m	Get outta here! When?
+BU�UEL	?	I'm not sure.
+HENRY	m	It couldn't have been Simon.
+BU�UEL	?	It almost certainly is. He mentions  you. Look...
+HENRY	m	'Her figure makes me violent. I want  to somehow break her. But tenderly.  How is this possible? Ask Henry.'
+HENRY	m	Bu�uel, this is obviously a love  letter.
+BU�UEL	?	We've had complaints.
+HENRY	m	Where did you get it?
+BU�UEL	?	She posted it on the Internet.
+HENRY	m	Oh, the slut!
+BU�UEL	?	She was trying to warn other girls  about a potential rapist.
+HENRY	m	Is all this true about the Internet?  About how you can get pornography on  it?
+BU�UEL	?	Well, yeah, sure. It's a big problem.  You can send dirty pictures and  everything.
+HENRY	m	On the Internet?
+BU�UEL	?	Yeah.
+HENRY	m	No kiddin'?
+BU�UEL	?	See you on Thursday, Henry.
+HENRY	m	Sure. See you. Gnoc, gimme one of these double  espressos to go, will ya?
+HENRY	m	Hello, Fay.
+FAY	f	Go away.
+HENRY	m	You gotta get outta the house, Fay.  You can't blame yourself for not  being here. You did all you could  for her.
+FAY	f	Is there something you want?
+HENRY	m	You got the Internet on that  contraption?
+FAY	f	Yeah. So what?
+HENRY	m	Look Fay, about, you know, between  us -- what happened...
+FAY	f	I don't wanna talk about it, Henry!
+HENRY	m	Type a part of Simon's poem onto the  Internet.
+FAY	f	What?
+HENRY	m	Go ahead.
+FAY	f	No.
+HENRY	m	Why not?
+FAY	f	Because.
+HENRY	m	Come on, Fay. It's a great idea.
+FAY	f	I don't know if he would want us to  do that.
+HENRY	m	Sure he would. Just the first ten  verses.
+FAY	f	I don't know.
+HENRY	m	He'll thank you for it later.
+FAY	f	Henry...
+HENRY	m	Gimme another one of those tall double  espressos, Mr Deng.
+MR DENG	m	You gunna buy that?
+HENRY	m	I'm just looking.
+MR DENG	m	Well then put it back.
+HENRY	m	There's this fascinating story about  a famous rock band and how they tied  a friend of theirs to a bed in their  hotel room and inserted a live fish  into her vagina.
+HENRY	m	They say she had numerous orgasms.
+MR DENG	m	Henry, you need to do something with  your life. Get a job, or something.
+HENRY	m	I mean, it wasn't the entire fish,  it was just, you know, the nose. The  nose of the fish.
+HENRY	m	You don't find that interesting?
+MR DENG	m	No.
+HENRY	m	You ever wonder what it would be  like to have sex with an animal, Mr  Deng?
+MR DENG	m	That coffee is free. Just take it  and get out of here.
+HENRY	m	I mean, some dogs are almost as big  as people and often more attractive.
+SIMON	m	Did you see him?
+FAY	f	He came by this afternoon.
+SIMON	m	Did you talk?
+FAY	f	No.
+SIMON	m	You've got to tell him, Fay.
+FAY	f	He thinks I'm a slut.
+SIMON	m	Henry?
+HENRY	m	Simon, I don't feel so good.
+SIMON	m	What's wrong?
+HENRY	m	I feel all kinda clammy. And damp.
+SIMON	m	How many of these did you have?
+HENRY	m	Seven.
+SIMON	m	Henry, we have to talk.
+HENRY	m	Can I use your toilet?
+SIMON	m	Fay's taking a shower.
+HENRY	m	How much you think I can get for  this?
+SIMON	m	Henry, Fay's pregnant.
+SIMON	m	Fay's pregnant with your child.
+FAY	f	Jesus, Henry!
+FAY	f	Hey, Henry. You OK?
+FAY	f	Oh. Oh, Henry.
+FATHER HAWKES	m	I, Henry, take you, Fay to be my  wife.
+HENRY	m	I, Henry, take you, Fay to be my  wife.
+FATHER HAWKES	m	And do promise before God and these  witnesses...
+HENRY	m	And do promise before God and these  witnesses...
+FATHER HAWKES	m	To be your loving and faithful  husband.
+HENRY	m	To be your loving and faithful  husband.
+FATHER HAWKES	m	In plenty and in want.
+HENRY	m	In plenty and in want.
+FATHER HAWKES	m	In joy and in sorrow.
+HENRY	m	In joy and in sorrow.
+FATHER HAWKES	m	In sickness and in health.
+HENRY	m	In sickness and in health.
+FATHER HAWKES	m	For as long as we both shall live.
+HENRY	m	For as long as we both shall live.
+FATHER HAWKES	m	Bless, O Lord, this ring, that he  who gives it and she who wears it  may abide in your peace and continue  in your favor until their life's  end.
+FATHER HAWKES	m	Whom God has joined, let no man  separate.
+HENRY	m	Oh, shit.
+FAY	f	Simon, do something.
+AMY	f	Look.
+SIMON	m	Where did you get this?
+AMY	f	It's all over the Internet.
+AMY	f	They're even talking about it on the  TV news.
+FAY	f	Simon?
+AMY	f	There's a guy from the radio station  over at World of Donuts and a story  in the newspaper about some kids  burning down a school near Boston!
+REPORTER	m	It all started right here in Queens,  Jim, at World of Donuts about one  year ago today, when local garbage  man, Simon Grim, put pencil to paper  and began to compose what many have  come to regard as vicious, antisocial  and pornographic poetry -- 112 lines  of unrhymed free meter verse which  would one day serve to spark the  flames of controversy across the  nation and -- indeed -- the world.
+OWEN FEER	m	This is outrageous! Measures must be  taken. Have we debased our culture  to such an extent that a garbage man  with a head full of sick ideas is  legitimately referred to as a poet,  and where the filth he spews can be  accessed by any child old enough to  turn on a computer? Is this what we  have come to? Not the transmission  of our highest ideals, but a cynical,  atheistic delirium!
+POET LAUREATE	m	Poetry of this kind, and this poem  in particular, is, I think, a worthy  form of desperation; a digression on  the extremes of human experience; of  solitude, of community. It is perhaps  alarming, even upsetting to some --  myself included -- but it must be  allowed to exist.
+ANCHORMAN	m	Meanwhile, in Rome today, the Pope  issued a message of hope for believers  in their fight against what he termed  the godless and lost. He did not  mention Simon Grim by name, but  offered a prayer for the young whom  he described as sadly in need of  faith and not the illusion of  conviction offered by rock music,  drugs and contemporary poetry.
+FAY	f	God, Simon, I mean, like, you're a  total fucking rock star.
+ANGUS	m	I'm willing to negotiate, Simon.
+SIMON	m	I know, it's just...
+ANGUS	m	You've had other offers.
+SIMON	m	Well, yes. But.
+ANGUS	m	What?
+SIMON	m	Why have you reconsidered?
+ANGUS	m	Because I think your writing will be  tremendously successful.
+SIMON	m	But you don't like it?
+ANGUS	m	It's growing on me.
+SIMON	m	What made you change your mind?
+ANGUS	m	Other people's responses. I don't  live in a vacuum, you know. Two months  ago I didn't have the proof of your  poem's appeal. Now I do.
+ANGUS	m	Consider my offer carefully. Get  some professional advice. I'll call  you tomorrow.
+FATHER HAWKES	m	What were the terms?
+SIMON	m	A hundred thousand in cash up front.
+FATHER HAWKES	m	Royalties?
+SIMON	m	A seventy/thirty split.
+FATHER HAWKES	m	Well, that could be better. But it  is a hundred thousand dollars up  front. Guaranteed money. You could  use that.
+SIMON	m	So it's a good deal?
+FATHER HAWKES	m	Of course it's good.
+SIMON	m	So I should take it?
+FATHER HAWKES	m	No. Try to get him up to a hundred  and fifty thousand.
+HENRY	m	I've let myself down, Simon! I've  let myself be caught in the bloody  maw of banal necessity! How did I  get here? How did this happen to me?  I'm going to be somebody's father! I  need time to think. To write. Time  to finish my 'Confession'! I can't  work for a living! It's impossible!  I tried once. My genius will be wasted  trying to make ends meet!
+HENRY	m	This is how great men topple, Simon.  Their hearts are in the right place  too much of the time! They get  sidetracked! Distracted. Oh! How  could I have been so careless!
+SIMON	m	Henry, please, let me read the  'Confession'.
+HENRY	m	No. Not now. It's not done. I'm all  washed up. I'm finished!
+SIMON	m	Angus James is convinced my poem is  going to make him incredibly wealthy.  He'll read your book and seriously  consider publishing it. If I ask him  to. I'm certain.
+HENRY	m	Really? You really think so?
+SIMON	m	I'll insist he publish the  'Confession'.
+SIMON	m	Or I won't let him publish my poem.
+HENRY	m	You'd do that? You'd do that for me?
+SIMON	m	You saved my life.
+HENRY	m	Do you realize what you're saying?
+SIMON	m	I owe you everything.
+HENRY	m	OK.
+FAY	f	It's really that bad?
+SIMON	m	It's terrible.
+ANGUS	m	You've read this?
+SIMON	m	Yes.
+ANGUS	m	And you want me to consider publishing  it?
+SIMON	m	Yes.
+ANGUS	m	As part of our deal?
+SIMON	m	Yes.
+ANGUS	m	Simon, this book, it's... It's really  quite bad.
+SIMON	m	That's what you said about my poem.
+ANGUS	m	I'm offering you a very real  expression of my faith in your  writing. Two hundred thousand dollars  and a sixty/forty split.
+SIMON	m	But just exactly what is the nature  of your faith in my writing?
+ANGUS	m	Look, Simon, you don't require my  admiration. You require my experience  as a publisher. And that experience  leads me to believe your poem will  make more money than any book of  poetry ever published. In history.  Virtually make you a household name  within two years. You'll never have  to work on a garbage truck again, I  assure you. Or do anything else for  that matter. Whereas this 'Confession'  by Henry Fool...
+ANGUS	m	The most I can say for this is...  The man is a scoundrel.
+SIMON	m	He taught me everything I know.
+ANGUS	m	No! He encouraged all that was  expressive in you to become manifest.  He inspired you to act. He influenced  your perception.
+SIMON	m	How about if my advance is only a  hundred thousand?
+ANGUS	m	It's not about money, Simon.
+SIMON	m	We could split the royalties  seventy/thirty.
+ANGUS	m	I will not publish Henry Fool's  'Confession'.
+ANGUS	m	Will you sign the contract?
+HENRY	m	Simon? You're here.
+SIMON	m	What happened?
+HENRY	m	It's a boy.
+SIMON	m	And Fay?
+HENRY	m	She's alright.
+HENRY	m	Thanks.
+HENRY	m	How did it go?
+SIMON	m	Listen, Henry, Angus James didn't  like your 'Confession'.
+HENRY	m	Ah. I see. Well, what now?
+SIMON	m	What do you mean?
+HENRY	m	Did he suggest changes?
+SIMON	m	No. He didn't.
+HENRY	m	I mean, after all, there are things  I can do to make it more accessible.
+SIMON	m	Accessible?
+HENRY	m	I can soften up some of the language  and make it read easier. Take out  some of the more intratextual  references and popularize the  underlying Sturm und Drang, so to  speak. I can change its mode. Make  it more of a conventional novel  instead.
+SIMON	m	No. Don't.
+HENRY	m	Oh, Simon, don't be such a purist! I  appreciate your protectiveness, but  the integrity of the work gives it a  durability that can sustain such  things.
+SIMON	m	No. Really, Henry. Don't.
+HENRY	m	What are you saying; that it doesn't  merit revision?
+SIMON	m	I'm saying... Angus James didn't  like it.
+HENRY	m	Well, did you tell him what you think?
+SIMON	m	What I think doesn't matter.
+HENRY	m	Yes, it does. You've got to use your  influence with him.
+SIMON	m	I gave it to him to read and he hated  it. What more can I do?
+HENRY	m	You can refuse to let him publish  your poem.
+SIMON	m	I can't do that.
+HENRY	m	You said you would.
+SIMON	m	That was before I read your book.
+HENRY	m	Oh.
+SIMON	m	I signed the contract, Henry.
+SIMON	m	Look, Henry, what did you expect?
+HENRY	m	I... I don't know. Honesty, perhaps.
+SIMON	m	Look, if I had told you, when at  first I read it, that I thought it  was no good, what would you have  done?
+HENRY	m	I would have respected your opinion.
+SIMON	m	And insisted that there's no  accounting for taste.
+HENRY	m	Well, is there?
+SIMON	m	I don't know. I didn't bring it to  Angus because I thought it was good.  I brought it to Angus because you're  my friend.
+HENRY	m	Oh how perfectly enormous of you,  Simon.
+SIMON	m	Look, Henry, I did it! I wrote. I  wrote poetry because you told me to!  I worked! I worked while you sat  back and comfortably dismissed the  outside world as too shallow, stupid  and mean to appreciate your ideas.
+HENRY	m	Is that such a priority? Is that  some sort of measure of a man's worth?  To drag what's best in him out into  the street so every average slob  with some pretense to taste can poke  it with a stick?
+SIMON	m	Maybe. Maybe it is.
+HENRY	m	You must be pretty impressed with  yourself, huh? The all too obviously  talented new man, the important new  voice, the early clue to a new  direction, or whatever, etc., etc.,  etc! A popular new trend conveniently  packaged for the distracted young  herd! You want to be liked more than  you know, Simon Grim! You'd be nowhere  without me and you know it.
+SIMON	m	I'm leaving.
+HENRY	m	Yes. It's time you left.
+HENRY	m	I saw you for what you were in the  beginning, Simon. I hold no grudge  and I'm certain you will, in time,  leave some serious and small dent in  this world.
+SIMON	m	The world is full of shit.
+HENRY	m	The world is full of shit. It's true.  And you have to walk through it.  That's your part. I'm sorry. But  you're no good at it. Perhaps I'm  not. Perhaps I wasn't made to walk  through shit. Go on now. Leave. Do  what you're good at. Go.
+FAY	f	Play!
+PATTY	f	Henry, what did I tell you about  bringing the kid in here!
+HENRY	m	Say hello to Patty, Ned.
+NED	m	Hi.
+PATTY	f	How you doin', sweetie? You wanna  Coke?
+HENRY	m	So what did you learn at school today,  Ned? Anything?
+HENRY	m	Here, I'll teach you something.
+HENRY	m	Horrible, isn't it?
+NED	m	It burns.
+HENRY	m	See. That'll teach ya. Here, sip  this.
+FAY	f	Ned!
+FAY	f	Ned!
+WARREN	m	I'm warning you, Pearl!
+HENRY	m	That's it. That's it. Perfect!
+BILL	m	Hey, Fool, it's about your friend --  what's his name. Your brother-in- law.
+HENRY	m	What about him?
+BILL	m	The controversial and reclusive  American poet Simon Grim has been  awarded the Nobel Prize in Literature.  The Swedish Academy, who will confer  the award late next week, praised Mr  Grim for works of great and difficult  striving, for the rendering of the  desperate, the ugly and the mundane  in a language packed with our shared  human frailties...
+HENRY	m	God, they must be hard up for geniuses  to pin medals on because, listen, I  gotta tell you, when I first met  this guy he didn't even know what an  iambic pentameter was.
+BILL	m	He's a fraud.
+HENRY	m	Keep a lid on it, Bill, you're outta  your league.
+BILL	m	Stir things up so as to stay in the  newspapers. That's his racket.
+HENRY	m	He's a great American poet, you dumb  fuck!
+BILL	m	Poet, my ass! I could puke all over  a piece a loose leaf and be more  profound than he is!
+HENRY	m	Come over here and say that and I'll  cripple ya in three different ways,  you boozed-up Philistine!
+FAY	f	Henry!
+FAY	f	Listen, you degenerate, I've had  about enough of this! Ned, have you been drinking?
+HENRY	m	His throat hurt from smoking.
+FAY	f	Henry, don't come home tonight! I'm  warning you! Don't come home at all!  Ever!
+HENRY	m	Who's winning?
+MR DENG	m	Nobody.
+HENRY	m	What's going on in there?
+MR DENG	m	We gotta have rock 'n' roll shows  these days, Henry. The poetry readings  just don't pay the bills no more.
+HENRY	m	What did I tell you! It was just a  fad. I told you that! I told everyone!
+MR DENG	m	Did you hear about Simon? It was on  the news today.
+HENRY	m	Yeah yeah yeah. So what? A Nobel  Prize. Anybody can get one of them  these days. That's the problem, with  this world, Mr Deng... Nobody's got  any standards anymore. You seen Fay?
+MR DENG	m	You better sleep in my office tonight,  Henry. She was very angry. You've  gotta let her cool off.
+HENRY	m	I can't sleep in there with that  racket!
+MR DENG	m	Suit yourself.
+HENRY	m	What are you doing here, Pearl?
+PEARL	f	You want some?
+HENRY	m	Some what?
+HENRY	m	Shit!
+PEARL	f	Come sit here.
+PEARL	f	That's what my dad always says.
+HENRY	m	What?
+PEARL	f	'You want some?'
+PEARL	f	People say you were once in jail for  having sex with a girl my age.
+HENRY	m	That was a long time ago.
+PEARL	f	You want some?
+HENRY	m	You oughta get outta here, Pearl.
+PEARL	f	I was here first.
+HENRY	m	Go home.
+PEARL	f	You go home.
+HENRY	m	Fine.
+PEARL	f	Wait!
+PEARL	f	I can't go home.
+HENRY	m	Why not?
+PEARL	f	He beat her up again.
+HENRY	m	Warren beat up your mom?
+HENRY	m	Is she alright?
+PEARL	f	Do you think I'm pretty?
+HENRY	m	Does she need help?
+PEARL	f	I'll suck your cock if you kill him  for me.
+HENRY	m	Vicky! Vicky, it's Henry from across  the street! Vicky!
+HENRY	m	Vicky?
+VICKY	f	What do you think you're doing, you  idiot!
+WARREN	m	Hey!
+HENRY	m	It's about Pearl.
+VICKY	f	Mind your own business, Henry.
+WARREN	m	Yeah, who the hell do you think you  are, anyway?
+WARREN	m	Ah.
+WARREN	m	Fuck.
+LAWYER	m	It is true your husband served seven  years in prison for statutory rape.
+FAY	f	Yes. It is.
+LAWYER	m	And when was that?
+FAY	f	That was... I dunno. Fifteen...  Sixteen years ago.
+LAWYER	m	And when were you married?
+FAY	f	We were married seven years ago.
+LAWYER	m	Were you aware at all of the victim's  relationship with his daughter?
+FAY	f	Pardon me?
+LAWYER	m	The girl, the daughter, Pearl. She  had been having sexual relations  with her father.
+FAY	f	I didn't know that. No.
+LAWYER	m	Pearl claims she offered your husband  sexual favors if he would kill her  father.
+LAWYER	m	I'm just repeating what she said,  Mrs Fool. The victim's wife, Vicky,  claims your husband broke into the  house and forcefully entered her  bedroom.
+LAWYER	m	Fay, I know this isn't easy. But we  need your help here. The girl claims  she asked your husband to kill her  father in exchange for, well, I guess  the promise of sexual relations with  her.
+NED	m	Mom?
+FAY	f	Yeah.
+NED	m	Where's Dad?
+FAY	f	I don't know, honey. Leave me alone  a minute, I gotta think.
+NED	m	Mom?
+FAY	f	What!
+NED	m	Is Dad in trouble?
+FAY	f	Yes, Ned, he is. He's in big trouble.  Now just be quiet for two minutes.
+NED	m	Mom?
+FAY	f	I'm warning you, Ned.
+NED	m	Mom, can I be a mailman when I grow  up?
+FAY	f	Sure you can, honey. You can be  anything you want.
+CONCIERGE	m	Yeah, what do you want?
+NED	m	My uncle.
+CONCIERGE	m	What's his name?
+NED	m	Simon Grim.
+CONCIERGE	m	There ain't no one here by that name.
+NED	m	Room 423.
+CONCIERGE	m	This is post marked five years ago.
+CONCIERGE	m	What does he look like?
+NED	m	I don't know.
+CONCIERGE	m	Sorry, kid. Can't help ya.
+CONCIERGE	m	Hey!
+SIMON	m	Get up off your knees.
+LAURA	f	Promise me you'll be on that plane  at seven, Simon.
+SIMON	m	I'll see you in Stockholm.
+HENRY	m	Look, Simon, the world's a scary  place. I admit it. But it's not my  fault. I swear!
+SIMON	m	I'm sorry, Henry.
+HENRY	m	Don't be. You had things to do.
+SIMON	m	So did you.
+HENRY	m	Gotta light?
+HENRY	m	Take care of your mom and don't start  trouble you can't finish.
+HENRY	m	I love you, Fay.
+FAY	f	Yeah, well, tough.
+AIRLINE TICKET CLERK	m	Passport and ticket, please.
+AIRLINE TICKET CLERK	m	It's an honor to meet you, Mr Grim.  Really. I mean, God. Congratulations  on the Nobel Prize.
+HENRY	m	Thanks.
+AIRLINE TICKET CLERK	m	I know all your work by heart. It  changed my life.
+HENRY	m	Yeah, well. Look, thanks, but..
+AIRLINE TICKET CLERK	m	Yes. Of course.
+AIRLINE TICKET CLERK	m	You'll have to hurry, sir. They're  holding the plane for you on the  runway.
+AIRLINE REP #1	m	This way, please, this way! This  way, Mr Grim! This way! Excuse me!
+SIMON	m	Go on.
+AIRLINE REP	m	Mr Grim, please, the plane is waiting!  We have to hurry!
+AIRLINE REP	m	This way, Mr Grim! This way!
+SIMON	m	Run.
+

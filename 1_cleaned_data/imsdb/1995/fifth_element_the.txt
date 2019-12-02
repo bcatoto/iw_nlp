@@ -1,0 +1,944 @@
+PROFESSOR	m	(deciphering) "..when the three planets are in eclipse.."
+PROFESSOR	m	"..the black hole like a door is open... Evil comes ... sowing terror and chaos..." See?  The snake, Billy.  The Ultimate Evil ... make sure you get the snake!
+BILLY	m	And when is this door opening snake act supposed to occur?
+PROFESSOR	m	..if this is the five..and this the thousand..
+PROFESSOR	m	Every five thousand years..
+BILLY	m	(kidding) So I have some time..
+PRIEST	m	I will take it to them my son.
+PRIEST	m	Go with God.. be safe from Evil..
+PROFESSOR	m	"..then arrange the elements of life against the Terror just so.."
+PROFESSOR	m	"..Water..fire..earth..air..four elements around the fifth.."
+PROFESSOR	m	Aziz!  Light!
+PRIEST	m	Lord forgive me.. they already know too, much..
+PROFESSOR	m	"..in which all the history of the Universe resides ..all the strength..all the hope..Protect us from
+PRIEST	m	Amen..
+PROFESSOR	m	Father.. it in the most extraordinary thing.. the greatest find in history..can you imagine the implications.
+PRIEST	m	Only too well... here you must be parched..
+PROFESSOR	m	I mean look.. it is like a battle plan..
+PROFESSOR	m	Here the Good.. Here the Evil..
+PROFESSOR	m	Here..
+PROFESSOR	m	A weapon against evil.  Amazing!  I am going to be famous.
+PRIEST	m	Then let us toast to your fame!  Here Billy..
+PRIEST	m	Drink!
+PROFESSOR	m	To fame.. salud..
+PROFESSOR	m	We cannot toast with water.. Billy ! In my sack.. the Grappa!
+PROFESSOR	m	"..this perfect person.. this perfect being.." I do not understand this.. perfect?
+PROFESSOR	m	Where is that boy? Billy!
+PROFESSOR	m	And this divine Light they talk about.. what is Divine light?
+PROFESSOR	m	(without turning) Aziz light!
+PROFESSOR	m	Better.. this is the most unbelievable thing I have ever seen..
+PROFESSOR	m	(uncomprehending) ...Uh, yes?
+PRIEST	m	Master... He was about to discover everything, but I had the situation under control.
+PROFESSOR	m	(in a panic) Who are you?  Are you Germans?  Sprechen Sie Deutsch?
+PRIEST	m	What did I do wrong?
+KOMMANDER	m	Servant, you and the thousand guards before you... You have done your work well, but we have to recover the elements. War will soon engulf your planet. We must keep them safe.
+PROFESSOR	m	Unbelievable!!!
+PRIEST	m	(to himself) The Fifth Element...
+KOMMANDER	m	Take them and put them in a safe place.
+PRIEST	m	(moved) Will the elements be gone now forever from this place?
+KOMMANDER	m	When mankind comes to its senses. We will return.
+PRIEST	m	Knowing mankind as I do, that could take centuries!
+KOMMANDER	m	Time is of no importance, only life is important.
+KOMMANDER	m	When EVIL returns so shall we.
+PRIEST	m	(head lowered) We will be ready, Lord.
+BILLY	m	Stop.
+PRIEST	m	No!!!  Don't!!!
+CLERK	m	Hurry, Kommander!  The wall's closing!!!
+KOMMANDER	m	A mission is a mission, Savoia. You'll learn that.
+KOMMANDER	m	My apologies to General Kroi -- and my wife..
+STAEDERT	?	Don't you have anything?  Not even a temperature?
+CAPTAIN	m	The thermo-analyzers have jammed. One of them reads over a million degrees, the other's at minus 5000... Never seen anything like it.
+TECHNICIAN	m	It's taking shape.
+CAPTAIN	m	(in awe) What the hell can it be?
+TECHNICIAN	m	Hook-up with the president in one minute, General.
+STAEDERT	?	...Send out a probe.
+AIDE	f	On air in 30 seconds.
+CAPTAIN	m	President on line sir..
+PRESIDENT	m	Staedert, do you read me?
+STAEDERT	?	I can hear you, Mr. President, but I can't see you .
+PRESIDENT	m	(exasperated) Is that better?
+STAEDERT	?	Perfect, Mr. President.
+PRESIDENT	m	I have to address the Supreme Council in 10 minutes. Just the facts, General.
+STAEDERT	?	There are no results from the chemical and molecular analysis as of yet, all the calibers are overshot..we're hoping a thermo nucleatic imaging..
+PRESIDENT	m	(exasperated) What you are saying is you don't know what this..thing..is.
+STAEDERT	?	Not yet Sir..The only thing we know is it just keeps getting bigger!
+PRESIDENT	m	Options.
+STAEDERT	?	Wait or act.
+PRESIDENT	m	Recommendations.
+STAEDERT	?	My philosophy Mr. President is shoot first ask questions later. I don't like uninvited guests.
+PRESIDENT	m	Gentlemen?
+HEAD CHEMISTS	m	I think it would be foolish to shoot at an organism that seems alive, without first taking the time to study it more! Besides, it has shown no signs of hostility.
+PRESIDENT	m	(worried) No... it's just getting bigger.
+HEAD CHEMISTS	m	So do people, but that's no reason to shoot them.
+PRESIDENT	m	(exasperated) The security of the Federated Territories is and remains number one priority. (to the military) I suppose General Staedert's "philosophy" is acceptable to you?
+PRESIDENT	m	All right, then! Staedert?
+PRIEST	m	Mr. President?
+PRESIDENT	m	...Yes?
+PRIEST	m	Cornelius, Vito Cornelius. 50th level parish. I have a different theory to offer you, Mr. President.
+PRESIDENT	m	I'm listening.
+CORNELIUS	m	Imagine for a moment that this. thing is not anything that can be identified because it prefers not to be, because it is the antithesis of all we are. Because it is evil.. TOTAL EVIL.
+PRESIDENT	m	(a little sarcastically) One more reason to shoot first eh?
+CORNELIUS	m	Evil begets evil, Mr. President. Shooting would only make it stronger.
+TECHNICIAN	m	The probe will attain its objective in five seconds.
+STAEDERT	?	Mr. President, we're at crisis point.
+PRESIDENT	m	Your theory is interesting Father but I don't think we have time to go into it right now!
+CORNELIUS	m	Time is of no importance, Mr. President. Only life is important.
+PRESIDENT	m	(exasperated) That's exactly what we are going to try and do: Protect the lives of some 200 billion of our fellow citizens! General? You may fire when ready.
+STAEDERT	?	(cold) (to the CAPTAIN) ..Up front loading of a 120 ZZR missile. Marker lights on the objective.
+SCIENTIST	m	(consulting new data) Its structure has just solidified on the surface,  as if the object felt something.  If that's the case, we are undoubtedly dealing with an intelligence.
+CORNELIUS	m	The most terrible intelligence imaginable, Mr. President.
+CAPTAIN	m	...The ship is in combat formation. The missile is loaded, General.
+PRESIDENT	m	(uneasy) Staedert?  Give me a minute... I have a doubt.
+STAEDERT	?	(cold) I don't, Mr. President.
+STAEDERT	?	Load a series of 740 missiles. Maximum shield protection.
+CAPTAIN	m	Yes, Sir.
+PRESIDENT	m	Staedert?  What's going on?  Did you destroy it?
+STAEDERT	?	I'm about to, Mr. President.
+SCIENTIST	m	The planet's diameter has greatly increased and it's moving toward the ship.
+PRESIDENT	m	Staedert?  Get out of there immediately! I don't want an incident, do you hear me, Staedert?
+STAEDERT	?	(worried) ...What do we have that's bigger than 240?
+CAPTAIN	m	Nothing, General.
+PRESIDENT	m	Staedert, get out of there!  That's an order!
+STAEDERT	?	(eyes wide) ... Good God!
+KORBEN	m	(to the cat) I'm coming.
+KORBEN	m	(on the phone) Yeah?
+FINGER	m	Hey bud! Finger here.
+KORBEN	m	(to the cat) Hi sweetie!
+FINGER	m	I love you too Major, but you haven't called me that since basic training.
+KORBEN	m	I was talking to the cat.
+FINGER	m	Oh, yeah, I forgot.You still prefer your cat to the real thing.
+KORBEN	m	At least, the cat comes back.
+FINGER	m	(ironical) You still pining for that two timing bitch. Forget her. There are a million women out there.
+KORBEN	m	I don't want a million - I just want one.  A perfect one.
+FINGER	m	Don't exist bud.
+KORBEN	m	I just found a picture of you.
+FINGER	m	How do I look?
+KORBEN	m	Like shit.
+FINGER	m	 Must be an old picture.. Listen, you gotta bring me your hack for the 6 month overhaul.  A.S.A.P.
+KORBEN	m	(sighs) I don't need one.
+FINGER	m	You forgetting who sat next to you for a thousand missions. I know how you drive.
+KORBEN	m	Finger!  I'm driving a cab now, not a space fighter!!
+FINGER	m	How many points you got left on your license?
+KORBEN	m	(lying) Uh... at least fifty.
+FINGER	m	In your dreams! See you tonight!
+KORBEN	m	Cheers!
+CORNELIUS	m	(to the President) We have forty-eight hours, the time it needs to adapt itself to our living conditions.
+PRESIDENT	m	(worried) And then?
+CORNELIUS	m	And then it will be too late. The goal of evil is to wipe out life! All forms of life. For all eternity...Life upsets it.
+PRESIDENT	m	Is there anything that can stop it?
+CORNELIUS	m	(knowing) Yes..thank God..
+CORNELIUS	m	(to the President) The Mondoshawans don't belong to the Federated Territories, but they are peaceful... in their possession are the four elements of life. These elements when they are gathered around a fifth: The Supreme Being, ultimate warrior, created to protect life......
+CORNELIUS	m	..will produce what the ancients called the light of creation, the light of total goodness which is the only thing that can defeat EVIL.
+PRESIDENT	m	But what happens if instead of this... Ultimate Warrior... it is EVIL who stands here?
+CORNELIUS	m	White turns to black.  Light to Dark. Life to Death.  For all eternity.
+CAPTAIN	m	Sir, we have a Mondoshawan spaceship at the frontier requesting permission to enter  our territory.
+PRESIDENT	m	I guess I should make a decision..
+CORNELIUS	m	They are the only ones who can help..
+GENERAL	m	Sir..the Mondoshawan do not belong to the federation. We do not know their intention.. I must recommend a full trinuclear assault..
+PRESIDENT	m	(yells) Did you see that..thing..swallow our battleship like a gum drop?  You can't even tell me what it is! I ask you for options you give me bullshit. Give them permission to enter our territories with my warmest regards.
+CORNELIUS	m	(relieved) Thank you, Mr. President.
+FIRST OFFICER	m	Two non-identified ships approaching.
+CAPTAIN	m	Must be the welcoming committee.
+CAPTAIN	m	We've been hit! General alert!!!
+CAPTAIN	m	We're losing control! We have to land fast!
+CAPTAIN	m	Send out a distress signal!!! Activate the emergency landing procedure!
+FIRST OFFICER	m	Impact in less than ten seconds!
+CAPTAIN	m	Time is of no importance...
+KORBEN	m	Don't watch it all day, it'll rot your mind. Bye sweetie..
+MUGGER	m	The cash man!
+KORBEN	m	Been here long?
+MUGGER	m	Don't fuck with me man or I'll blow you into tomorrow!
+KORBEN	m	Isn't that a Z140? Alleviated titanium. Neuro charged assault model?
+MUGGER	m	(off balance) Uh..
+KORBEN	m	You know you could hurt someone with this puppy..good thing it's not loaded..
+MUGGER	m	It's not?
+KORBEN	m	You gotta push the little yellow button...
+MUGGER	m	Thanks..
+KORBEN	m	You're welcome..
+KORBEN	m	..you know these things are VERY illegal.. you could get in a shit load of trouble.. I better hang onto it for you..
+VOICE	m	Please enter your license..
+VOICE	m	Welcome on board Mr. Dallas..
+KORBEN	m	How you doing this morning?  Sleep OK? I didn't.
+VOICE	m	Fuel level 6.03..Propulsion 2x4...
+KORBEN	m	I had the worst goddamn nightmare.
+VOICE	m	You have nine points left on your license..
+KORBEN	m	Thanks for reminding me..
+VOICE	m	Have a nice day..
+KORBEN	m	Right..
+CORNELIUS	m	We are lost!
+GENERAL MUNRO	m	Mr. President, the attack was launched by two unregistered warships.
+PRESIDENT	m	Close all borders and declare a state of general alert.
+GENERAL MUNRO	m	Yes, sir.
+PRESIDENT	m	(to another OFFICER) Try to contact these Mondoshawans.  We owe them an explanation.
+CORNELIUS	m	(lost, to himself) What are we going to do?
+PRESIDENT	m	This is government business now. You ought to go home and get some rest, Father.
+PRESIDENT	m	I promise to keep you informed.
+PRESIDENT	m	(to the CAPTAIN) ...Has the rescue team found any survivors?
+MUNRO	m	This is all that survived?
+MACTILBURGH	?	Actually only one cell survived..
+MUNRO	m	Have you identified it?
+MACTILBURGH	?	It's not that easy..we've never encountered anything like it before..you see normal human beings have 40 DNA memo groums..which is more than enough for any species to perpetuate itself..This one has 200,000.
+MUNRO	m	Talk English Doc.
+MACTILBURGH	?	This cell is like a huge library. It has infinite genetic knowledge stored inside. Almost like it was...engineered.
+MUNRO	m	Sounds like a freak of nature to me.
+MACTILBURGH	?	Yes... I can't wait to meet him.
+MACTILBURGH	?	(rather fascinated) The compositional elements of his DNA chain are the same as ours, there are simply more of them tightly packed. His knowledge is probably limitless..
+MUNRO	m	(worried) Is there any danger? Some kind of virus?
+MACTILBURGH	?	We put it through the cellular hygiene detector. The cell is for lack of a better word... perfect.
+MUNRO	m	OK, go ahead! But Mr. Perfect better be polite... otherwise I turn him into cat food.
+DOCTOR	m	Three seconds to ultra-violet protection.
+MACTILBURGH	?	(to Munro) ...This is the crucial phase, The reconstruction of pigment. Cells are bombarded with slightly greasy solar atoms which forces the body cells to react, to protect themselves. That means growing skin. Clever, eh?
+MUNRO	m	(disgusted) Wonderful!
+ASSISTANT	m	... End of reconstruction, beginning of reanimation .
+MACTILBURGH	?	(pushing a button) Activate life support system.
+ASSISTANT	m	Life support system activated.
+MACTILBURGH	?	Remove the shield.
+MACTILBURGH	?	(with a smile) I told you ... perfect!
+MUNRO	m	...I'd, uh , like to get a few pictures for the before she wakes up.
+GIRL	f	(very angry) Ouacra cocha o dayodomo binay ouacra mo cocha ferji akba ligounai makta keratapla. Tokemata tokemata!  Seno santonoi-aypa! Minoi ay Cheba!  Givomana seno!
+MUNRO	m	(worried) What's she saying?
+MACTILBURGH	?	(to his ASSISTANT) Activate the phonic detector.
+MACTILBURGH	?	And give her a light sedative... and something to wear!
+MUNRO	m	(to Mactilburgh) This thing solid?
+MACTILBURGH	?	(smiling) An elephant couldn't crack it.
+GIRL	f	(angrily) Teno akta chataman assin-omekta!
+MUNRO	m	(with a smile) You're gonna have to learn to communicate better than that angel if you want out.
+CHIEF	m	Get me a chair or a stepladder The rest of you go through the main ventilation!
+CHIEF	m	(to his men) Go on follow her!
+COP	m	...No way.
+VOICE	m	This in the police.  Your status is illegal. Please put up your hands and follow our instructions!
+COP	m	(in the car.) Christ! She dove off!
+VOICE	m	You have just had an accident. Seven points have been temporarily removed...
+VOICE / KORBEN	m	You have one point left on your license. Have a good day.
+GIRL	f	Akina delutan, nou-shan.
+KORBEN	m	(lost) ...'Scuse me?
+COP	m	(over a loudspeaker) You have an unauthorized passenger in your vehicle.  We are going to arrest her. Please leave your hands on the wheel. Thank you for your cooperation.
+KORBEN	m	(obeying) Sorry, Hon, but I only got one point left on my license and I gotta get to the garage!
+GIRL	f	(irresistible) Please... HELP...
+KORBEN	m	Don't put me in this position... I can't... I'm late as it is...
+KORBEN	m	Finger's gonna kill me.
+VOICE	m	Your license has been revoked. Would you please....
+KORBEN	m	I hate when people cry... I got no defense...
+GIRL	f	Daya deo dono Dato.  Dalutan!
+KORBEN	m	It there's one thing I don't need advice on, it's how to drive.
+COP	m	Shit! Attention all-patrol cars!
+KORBEN	m	We'll wait till things quiet down a bit. You mind?
+GIRL	f	(weak) ...Priest...
+KORBEN	m	You're not that bad... Come on we'll get you to a doctor.
+GIRL	f	(weak) Vito... Cor... Ni-lious... Priest...
+KORBEN	m	Vito Cornelius?
+KORBEN	m	(embarrassed) Excuse me, I'm looking for a priest.
+CORNELIUS	m	(tired) Weddings are one floor down. Congratulations.
+KORBEN	m	She's not my bride, she's my fare. She's looking for this Vito Cornelius. According to the phone guide he lives here.
+CORNELIUS	m	(curious) That's me.  But I don't know who she is... where did you find her?
+KORBEN	m	She dropped in on me... holding this.
+CORNELIUS	m	(staggered) The fifth element.
+KORBEN	m	(sighing) Finger's gonna kill me...
+CORNELIUS	m	(with a start) Who are you?
+KORBEN	m	I brought the girl remember?
+CORNELIUS	m	The girl?
+KORBEN	m	Yeah! She dropped in on me. I mean on my taxi... talking... this... this bizarre language...
+CORNELIUS	m	(eyes riveted on her) He's a she!
+KORBEN	m	(bemused) You noticed...
+CORNELIUS	m	(face shining) There's not a moment to lose! Wake her up, but be gentle about it!  This woman is mankind's most precious possession! She is... perfect!
+KORBEN	m	So you do know her.
+CORNELIUS	m	Uh yes, we're cousins..distant cousins..
+KORBEN	m	Perfect...
+CORNELIUS	m	It's a miracle!!!
+DAVID	m	(worried) What is?
+CORNELIUS	m	(babbling crazily) I can't wear these clothes! This calls for dignity! I have to dress the part!
+GIRL	f	(angry) Eto Akta Gamat!
+KORBEN	m	(embarrassed) I'm sorry, it's just that... I was told to wake you up gently, so I figured...
+KORBEN	m	You're right, I was wrong! I shouldn't have kissed you... especially since we haven't been introduced and... (he pulls out a business card) Here, it's a bit late, but... my name is Korben, Korben Dallas. Keep it, you never know, maybe... you'll need a cab one day.  I'll be happy to open the door this time!.
+DAVID	m	Father, will you please explain what's going on?
+CORNELIUS	m	The Supreme Being, the fifth element is here, in our parish!!! It's a miracle!!!
+KORBEN	m	...What's your name?
+GIRL	f	(after a moment) Leeloo Minai Lekarariba-Laminai-Tchai Ekbat De Sebat.
+KORBEN	m	(polite) Hey,  that's... cute... Do you have a nickname, something a little... shorter?
+GIRL	f	...Leeloo.
+KORBEN	m	That's... really cute...
+CORNELIUS	m	Appipulai Leeloo Minai..
+LEELOO	f	Corn-i-Lius?
+CORNELIUS	m	(bowing) At your service.
+DAVID	m	Father.  You sure she's the Supreme Being?
+CORNELIUS	m	Absolutely sure There's the triple suns on her gloves!
+KORBEN	m	They all like this in your family, father?
+CORNELIUS	m	She's an exception..
+CORNELIUS	m	Thank you so much for your help Mr...?
+KORBEN	m	Dallas. Korben Dallas.
+CORNELIUS	m	Yes. That's fine! Thank you very much. A thousand times over!
+KORBEN	m	I might call to check up on her, you know... to see if she's better?
+CORNELIUS	m	She's fine, really..don't you worry.. just needs some rest..she's had a very long trip.
+KORBEN	m	I know. I was there when she arrived.
+KORBEN	m	Excuse me! Just one thing!  She said something to me a while ago and... I don't really get it... Akta Gamat?
+CORNELIUS	m	It means, "Never without my permission".
+KORBEN	m	That's what I thought.
+KORBEN	m	...Thanks.
+KORBEN	m	Evening...
+NEIGHBOR	m	Fuck you!
+KORBEN	m	...Thanks... You, too.
+KORBEN	m	Oh god. I forgot your food ... I'm really sorry! How about a nice Thai nosh to apologize? How does that sound, huh?
+KORBEN	m	Hello?
+FINGER	m	Hey bud...I'm waiting all day here.
+KORBEN	m	Finger..man..I'm sorry..listen..I was on the way over but I had a fare fall into my lap.. y'know one of those big fares you just can't resist..
+FINGER	m	(suspicious) So, just how big was this fare?
+KORBEN	m	5'7", green eyes... long legs... great skin... perfect..
+FINGER	m	Uh huh..and I don't suppose you got the name of this..perfect fare..
+KORBEN	m	(dreamy) Leeloo..
+DAVID	m	What's she doing?
+CORNELIUS	m	Learning our history! The last 5000 years that she missed! She's been out of circulation a while, you know.
+CORNELIUS	m	What're you laughing about?
+LEELOO	f	(pronouncing badly) Napoleon... small.
+DAVID	m	(hesitant) Uh father, I know she's been through a lot... but the sacred stones..we don't have much time..
+CORNELIUS	m	Yes. Of course..
+CORNELIUS	m	Leeloo..I'm sorry to interrupt you but..
+CORNELIUS	m	(serious) The case..with the stones... Where is it?
+LEELOO	f	San Agamat chay bet... envolet!
+CORNELIUS	m	The case was stolen?
+CORNELIUS	m	(shocked) Who in gods name would do such a thing?
+RIGHT ARM	m	Excuse me sir, the council is worried about the economy heating up.  They wondered if it would be possible to fire 500...
+ZORG	m	Fire 1000.
+RIGHT ARM	m	But... 500 is all they need, sir.
+RIGHT ARM	m	1000! Fine, sir! Sorry to have disturbed you.
+CORNELIUS	m	There was this guy with a limp who came a month ago..said he was an art dealer ... Asking all these questions about the Sacred Stones..at the time I didn't think anything of it.. What was his name? I'm so bad with names...
+DAVID	m	(to Leeloo, timid) I didn't know your size.
+DAVID	m	They really made her...
+CORNELIUS	m	Perfect.
+LEELOO	f	(to David) Domo danko!
+CORNELIUS	m	Leeloo?  The Stones... We must get them back.
+LEELOO	f	Ikset-kiba.  Me imanetaba oum dalat!
+CORNELIUS	m	You know exactly where they are!
+ZORG	m	(pretending to be worried) Aknot?  Is that you?
+ZORG	m	...What an ugly face! Doesn't suit you at all! Take it off...
+ZORG	m	That's better! Never be ashamed of who you are... You're warriors... be proud...
+ZORG	m	So what if the Federal Army crushed your entire race and scattered your people to the wind... Your time for revenge is at hand... Voila... the ZF1.
+ZORG	m	(very fast) ...It's light... the handle's adjustable for easy carrying... good for righties and lefties.
+ZORG	m	... Breaks down into four parts, undetectable by X-rays.. It's the ideal weapon for quick, discreet interventions.  A word on fire power: Titanium recharger. 3000 round clip with bursts of 3 to 300. With the replay button, another Zorg innovation, it's even easier... one shot.
+ZORG	m	... and replay sends every following shot to the same location...
+ZORG	m	(even faster) I recharge, but the enemy has launched a cowardly sneak attack from behind, the automirror takes care of that.  Gives me the time to turn around and finish the job. 300 round bursts, then there are the Zorg oldies...
+ZORG	m	...Rocket launcher.  The always efficient flame thrower... My favorite. Our famous net launcher, the arrow launcher, with exploding or poisonous gas heads - very practical. And for the grand finale, the all-new ice-cube system!
+ZORG	m	...Four full crates, delivered right on time! What about you, my dear Aknot, did you bring me what I asked you for?
+ZORG	m	...Magnificent.
+CORNELIUS	m	(astonished) What do you mean empty?
+ZORG	m	Alright..I've got an open mind here.. anyone care to explain?
+CORNELIUS	m	(translating) She says that the Guardians never really had much faith in humans. They were afraid of being attacked. The stones were given to someone they could trust who took another route. She's supposed to contact this person in a little less than twelve hours from now in a hotel. She's looking for the address!
+LEELOO	f	Dot!
+DAVID	m	Planet Fhloston, in the Angel constellation
+CORNELIUS	m	...We're saved!
+ZORG	m	I'm fucked!
+AKNOT	m	You asked for a case. We brought you a case.
+ZORG	m	(shouting) A case with four stones in it. Not one! Not two or three! But four!!! Four stones!!! What the fuck am I supposed to do with an EMPTY case?!!
+AKNOT	m	(tense) ...We are warriors, not merchants!
+ZORG	m	(humored) But you can still count.  Look... my fingers.
+ZORG	m	...Four stones, four crates... Zero stones... (yelling)
+AKNOT	m	(icily) We risked our lives. I believe a little compensation is in order.
+ZORG	m	(smiling) So, you are a merchant, after all. (to his men) Leave them one crate.  For the cause!
+ZORG	m	I don't like warriors!  They're too narrow-minded, no sublety.  Worse, they fight for hopeless causes..for honor! Honor has killed millions of people but hasn't saved a single one. (pause) You know what -- do I like though, I like killer.   A real dyed in the wool killer.  Cold-blooded. Clean.  Methodical.  Thorough.  A killer, when he picked up the ZF1, would've immediately asked about the little red button on the bottom of the gun.
+ZORG	m	(impassive) Bring the priest.
+KORBEN	m	So you forgive me?
+THAI	m	Not going to open?
+KORBEN	m	I've never gotten a message that wasn't bad news.
+THAI	m	How someone strong like you scared from a message? Is good news I sure!
+KORBEN	m	The last two messages I got?  The first one was from my wife telling me she was leaving! And the second was from my lawyer telling me he was leaving too... with my wife.
+THAI	m	You right that is bad.. but mathematically luck must change! Grandfather say: "It never rain every day." This is good news guarantee.. I bet you lunch!
+THAI	m	...You're fired. Oh!
+KORBEN	m	At least I won lunch.
+THAI	m	Good philosophy..see good in bad.. I like..I prepare number one dessert.. special for you and pussy..
+DAVID	m	I got it!  Everything  here we need to know about Fhloston Paradise Hotel... and a detailed blueprint of the entire hotel!
+CORNELIUS	m	Good work, my son.  Now all we need is a way to get there.
+CORNELIUS	m	I'll get it.  Finish your work my son.
+RIGHT ARM	m	Father Cornelius?
+CORNELIUS	m	My son?
+RIGHT ARM	m	Mr. Zorg would like a word with you.
+CORNELIUS	m	Mr. Who?
+ZORG	m	Zorg. Jean-Baptiste Emmanuel Zorg... nice to see you again
+CORNELIUS	m	I remember you now..the so called art dealer.
+ZORG	m	I'm glad you got your memory back, Father... Because you're going to need it... Where are the stones?
+CORNELIUS	m	...Why on earth do the stones interest you?
+ZORG	m	Personally, they are of no interest to me, I'd rather sell weapons..but I have a customer... so tell me...
+CORNELIUS	m	Even it I did know where the stones were I would never tell somebody like you.
+ZORG	m	Why?  What's wrong with me?
+CORNELIUS	m	...I'm a priest! I'm here to serve life, All you want to do is destroy it.
+ZORG	m	Ah, Father... You are so wrong. Let me explain...
+ZORG	m	...would you like a drink?
+CORNELIUS	m	No thank you.
+ZORG	m	Follow me.. Life, which you so nobly serve, comes from destruction. Look at this empty glass.
+ZORG	m	Here it is... peaceful... serene... but if it is...
+ZORG	m	Destroyed...
+ZORG	m	...Look at all these little things... so busy all of a sudden. Notice how each one is useful. What a lovely ballet, so full of form and color.  So full of..life!
+CORNELIUS	m	They are robots!
+ZORG	m	Yes but... by that simple gesture of destruction. I gave work to at least fifty people today. The engineers, the technicians, the mechanics. Fifty people who will be able to feed their children so they can grow up big and strong.  Children who will have children of their own, adding to the great cycle of life!
+ZORG	m	Father, by creating a little destruction, I am, in fact, encouraging life!  So, in reality, you and I are in the same business!
+CORNELIUS	m	Destroying a glass is one thing..killing people with the weapons you produce is quite another.
+ZORG	m	Let me reassure you Father..I will never kill more people in my entire life than religion has killed in the last 2000 years.
+CORNELIUS	m	(mocking) Where's the robot to pat your back?
+CORNELIUS	m	Can I give you a hand?
+ZORG	m	You saved my life... So, I'm going to spare yours. (to the GUARDS) Throw him out!
+CORNELIUS	m	You are a monster, Zorg!
+ZORG	m	(complimented) I know...
+ZORG	m	...Torture whoever you want, the president if you have to but I want those Stones. You have an hour.
+CAPTAIN	m	(observing) It's gobbling up all the communication satellites in the galaxy!
+PRESIDENT	m	Why the hell is it eating up all those satellites like that?
+HEAD SCIENTIST	m	(desperate) ...We're working on it, Mr. President. We're working on it.
+PRESIDENT	m	It should only choke on them.
+MUNRO	m	I managed to contact the Mondoshawan. They deplore the incident, but accept our apologies.
+PRESIDENT	m	(relieved) And the Stones?  Did you find them in the wreckage?
+MUNRO	m	The-Stones weren't aboard the ship.
+PRESIDENT	m	(surprised) ...What do you mean?
+MUNRO	m	The Mondoshawan never fully trusted the human race..they felt we're too unpredictable.. so they gave up the Stones to somebody they do trust. Her name is Plavalaguna. She's a Diva and she's going to sing at the charity ball on Fhloston Paradise in a few hours.  She has the Stones with her.
+PRESIDENT	m	(taking off a shoe) Excellent!
+PRESIDENT	m	I want your best man on this!
+MUNRO	m	Don't worry, Sir. I have the perfect one.
+THAI	m	Stewed jellyfish cake.. my speciality..
+KORBEN	m	Saved by the bell.
+KORBEN	m	...Hello?
+MOTHER	f	You're the nastiest dirtbag I know in this stinking City!
+KORBEN	m	(resigned) Hi Ma...
+MOTHER	f	I've been playing twice a week for 20 years, 20 years I've been eating those shitty croquettes.
+MOTHER	f	You wouldn't even eat one to help your poor mother, and you win the big prize? Know something? The whole thing makes me sick!
+MOTHER	f	Are you listening to me, you ingrate!
+KORBEN	m	(resigned) Yes ma..
+KORBEN	m	(to the Thai) Go on... This is gonna take a while!
+KORBEN	m	Other than that... You all right?
+MOTHER	f	...And now you're making fun of me? I'm warning you! If you don't take me after all these years of sacrifice, I'll never forgive you!!
+KORBEN	m	(to the cat) I'm coming!. Ma, what're you talking about?
+MOTHER	f	I get it! You want to make me beg, is that it?
+KORBEN	m	All I want is an explanation! I just got in, I lost my job. I smashed my cab. I got mugged, but other than that everything's peachy, Ma, thanks for asking!! Now settle down and explain to me calmly..
+MOTHER	f	You just won a trip, you dolt! Ten days in Fhloston Paradise for two!
+KORBEN	m	Ma. If I'd won, I'd know about it. Someone would have notified me.
+MOTHER	f	They've been blaring out your name on the radio for the last hour, blockhead!
+KORBEN	m	Ma.. it's the door. I'll call you back.
+MUNRO	m	(clipped) Major Dallas, if our calculations are correct you still have 57 hours owed to the Federal Army on your enlistment which is more than you will need for a mission of the utmost importance.
+KORBEN	m	What mission?
+MUNRO	m	To save the world.
+KORBEN	m	Where have I heard this song before?
+MUNRO	m	You're to leave immediately for Fhloston Paradise. Retrieve four Stones from the Diva Plavalaguna. And bring them back with the utmost discretion as possible. Any questions'?
+KORBEN	m	(a little bewildered) Just one... why me?
+MUNRO	m	Three reasons... One: As part of The Elite Special Forces Unit of the Federated Army you are an expert in the use of all weapons and spacecraft needed for this mission.
+MUNRO	m	Two: Of all the members of your unit you were the most highly decorated.
+KORBEN	m	And the third one?
+MUNRO	m	You're the only one left alive...
+MUNRO	m	Don't you open your messages?
+KORBEN	m	I've had enough good news for today
+MUNRO	m	(by rote) You have won the annual Gemini contest and a trip to Fhloston Paradise. For two. Congratulations. Here are your tickets.
+KORBEN	m	You rigged the contest?
+MUNRO	m	Major Iceborg will accompany you... as your wife...
+KORBEN	m	(sarcastic) You couldn't come up with something a little more discreet?
+MUNRO	m	Old tricks are the best tricks eh?
+KORBEN	m	I'm not going.
+MUNRO	m	Why not?
+KORBEN	m	One reason... I want to stay the only one left alive.
+KORBEN	m	...Scuse me.
+KORBEN	m	...Shit!
+MUNRO	m	(worried) What is it?
+KORBEN	m	It's my wife.
+MUNRO	m	I thought you were divorced.
+KORBEN	m	I mean my future.. my ex.. My future ex.. if she sees you here I'm finished.  She hates you guys. It's what killed us in the first place. Please...
+KORBEN	m	...Sorry, General, but we've got no choice! It'll only take a minute! Let me set up another meeting and I'll be back.
+MUNRO	m	Three of us will never fit in there!
+KORBEN	m	(pushing him) Oh, yes you will...
+KORBEN	m	...Coming!
+LEELOO	f	Apipoulai!
+KORBEN	m	I suppose that means "Hi" ?
+CORNELIUS	m	I'm sorry to have to resort to such methods, but we heard about your good luck on he radio and we need the tickets to Fhloston.
+KORBEN	m	Is that the usual way priests go on vacation?
+CORNELIUS	m	We're not going on vacation..we're on a mission..
+KORBEN	m	What kind of mission?
+CORNELIUS	m	(sincere) We have to save the world.
+KORBEN	m	(skeptical) Good luck..
+CORNELIUS	m	Of course.
+KORBEN	m	Father, I was in the Army for awhile and every time they told us we were on a mission to save the world the only thing that changed was I lost a lot of friends. So thanks for the offer.. but no thanks.
+KORBEN	m	I'm sorry..
+VOICE	m	This is a police control action..
+VOICE	m	This is not an exercise. This is a police control.
+CORNELIUS	m	Oh my god oh my god..
+KORBEN	m	Leeloo, hide in here and don't move!
+CORNELIUS	m	What are you doing?
+KORBEN	m	Trying to save your ass so you can save the world.
+VOICE	m	...Spread your legs and place your hands in the yellow circles, please.
+COP 1	m	Put your hands in the yellow circles, please.
+COP 1	m	(to COP 2) Sir? Are you a human?
+KORBEN	m	No, I'm a meat popsicle.
+COP 3	m	(at the other end of the hall) I found him!
+COP 1	m	Sir, this is a control.  Please put your hands in the yellow circles.
+NEIGHBOR	m	Fuck you!!
+KORBEN	m	Wrong answer.
+COP	m	OK, we got the guy under wraps.
+COP	m	It was not easy, but we bagged him!. Thanks for the tip!
+RIGHT ARM	m	(smiling) Glad to help.
+RIGHT ARM	m	They just arrested the guy for Uranium smuggling. Everything's going as planned.
+RIGHT ARM	m	All I have to do now is to go to the airport and take his place.  I should be in Fhloston in less than four hours.
+ZORG	m	Don't come back without the Stones.
+KORBEN	m	I'm really sorry.. there wasn't time.
+KORBEN	m	Here let me wrap you up.
+KORBEN	m	..It's funny.  I've met you twice today  and you've ended up in my arms both times.
+LEELOO	f	(nicely) Valo massa... Chacha hamas.
+KORBEN	m	Uh..you're welcome.
+KORBEN	m	Coffee!  That's what you need! A nice, hot cup of coffee!
+KORBEN	m	With some honey!  You'll see, honey's great!...
+KORBEN	m	A hot cup of coffee... with honey...
+KORBEN	m	(nervously) I've got this great honey somewhere. You know about honey?  There used to be these little animals who made it with antenna...
+KORBEN	m	..and these other animals who ate it.. one were bees the other were bears..
+KORBEN	m	I forget which ate it and which made it but..
+KORBEN	m	Here it is!
+KORBEN	m	Taste this...
+KORBEN	m	It... melts in your mouth, doesn't it?
+KORBEN	m	You hear that?
+LEELOO	f	(licking) Cornelius..
+KORBEN	m	Oh god!
+KORBEN	m	I'm really sorry.. let me help you..
+LEELOO	f	Achta ge lumitai de matala..
+KORBEN	m	What?
+LEELOO	f	(displeased) Vano da, mechteba?! Soun domo kala chon hammas!
+CORNELIUS	m	No, I'm not proud of myself... But we don't have the luxury of choice.
+AKANIT	?	Korben Dallas!  We got him.
+AKNOT	m	Perfect... Take command, Akanit. Go to Fhloston and get the Stones... If Zorg really wants them... He'll have to negotiate.  Revenge is at hand.
+KORBEN	m	Jesus!... Some priest!
+KORBEN	m	Yeah?
+MOTHER (V.O)	f	Have you pulled yourself together?
+KORBEN	m	...Not yet.
+KORBEN	m	I'll take the mission.
+SECURITY GUARD	m	Illegal gathering in Zone 4.
+CORNELIUS	m	Leeloo, be careful.
+CORNELIUS	m	Did you get them?
+CORNELIUS	m	Excellent... Leeloo Dallas.
+CORNELIUS	m	And Korben David Dallas.
+LEELOO	f	Akta dedero ansila do mektet.
+CORNELIUS	m	I can't pretend to be your husband... David's in great shape.
+CORNELIUS	m	He'll protect you. Go on... See the Diva... get the Stones... See you at the temple... God be with you.
+CHECK-IN ATTENDANT	m	Congratulations on winning the contest.
+KORBEN	m	(friendly) Hey! I really thought I was going to miss my flight! (to David) Thanks, kid! You put the luggage on the conveyor belt?
+DAVID	m	(freaking) Uh... yeah.
+KORBEN	m	(smiling) Great! Now beat it!
+KORBEN	m	Excuse me.  I was so afraid I'd miss the flight that I sent the kid here to pick up my boarding card.
+KORBEN	m	...My cousin David...
+CHECK-IN ATTENDANT	m	(looking at Leeloo's ID) Your wife?
+KORBEN	m	Uh, yes... Newlyweds. (aside) You know how it is... Love at first sight. You meet, something goes tilt,. you get married, you hardly know each other. Right, darling?
+LEELOO	f	(sharply) Dinoine chagantakat!
+KORBEN	m	Took the words right out of my mouth. Go on... I'll be right with you. (to Check-in Attendant) It's our honeymoon. We're going to use the trip to get to know each other better.
+COP	m	(to pig) Come on, snyffer, go root!
+CORNELIUS	m	(to the bartender) I feel so guilty sending her to do the dirty work. I know she was made to be strong but she's also so fragile... So human. You know what I mean?
+CHECK-IN ATTENDANT	m	(surprised) Dallas... Korben...
+NEIGHBOR	m	(in a different voice) Yes, that's me.
+CHECK-IN ATTENDANT	m	(smiling) Just a minute, please.
+NEIGHBOR	m	We'll be right back ... we're gonna check out the duty free...
+ROBOT	m	The same?
+CORNELIUS	m	Yeah...
+DAVID	m	Make that two...
+CORNELIUS	m	Where's Leeloo?
+DAVID	m	On the plane... with Mr. Dallas... the real one.
+CORNELIUS	m	It's all my fault.  I'm the servant... It's my mission! Here!
+CORNELIUS	m	Here's the key to the Temple.. Prepare for our arrival!
+NEIGHBOR	m	(to the tawdry girl) Tell Aknot plan A flopped. Tell him to go to plan B.
+COP	m	(into walkie-talkie) ...Send in a back-up unit, Zone 7!
+STEWARDESS	f	You are so lucky... Loc Rhod is the coolest DJ in the universe.
+KORBEN	m	Listen... I don't want to be interviewed. I'd prefer to remain anonymous.
+STEWARDESS	f	Forget anonymous.  You'll be doing Loc Rhod's live show every day from 5 to 7!
+KORBEN	m	(expression changes) You gotta be kidding!
+LOC RHOD	m	(speedy, in rhythm) Korben Dallas! Here he is The most hated man in the universe. The one and only winner of the Gemini Croquette contest! Ladies, start melting 'cause the boy's hot! Hot! Hot! The boy is perfect.. (he feels his muscles) ...The right size, right build, right hair.  Right on! Say something-to those 50 billion pair of ears out there D-man!
+KORBEN	m	(hesitant) ...Hi.
+LOC RHOD	m	Does it get any better or what!
+LOC RHOD	m	...Quiver ladies, he's gonna set the world on fire right here from 5 to 7! You'll know everything there is to know about the D-man. His dreams, his desires, his most intimate of intimates.  And from what I'm looking at intimate is the stud muffin's middle name. So tell me my main man... you nervous in the service?
+KORBEN	m	Uh... not really.
+LOC RHOD	m	Freeze those knees, my chickadees, 'cause Korben is on the case with a major face...
+LOC RHOD	m	...Start drooling, ladies! My man here is a sharp-tongued Sire who's gonna stroke your every desire.
+LOC RHOD	m	Yesterday's unknown will be tomorrow's Prince of Fhloston Paradise, the hotel of a thousand and one follies, home of luxury and beauty.  A magic fountain flowing with non-stop wine, women and Bootchie Koochie Koo...
+LOC RHOD	m	Beware out there puppy dogs my man is on the prowl. Owwww!
+LOC RHOD	m	...And start licking your stamps little girls, this guy's gonna have you writing home to Momma! Tomorrow from 5 to 7, I'll be your voice, your tongue and I'll be hot on the tail of the sexiest man of the year... D-man... Your man... My man.
+VOCODER	m	End of transmission.
+LOC RHOD	m	Korben sweetheart do me a favor I know this is probably the biggest thing that ever happened to you in your inconsequential life. But I've got a show to do here and it's got to pop. So tomorrow, when we're on air, give me a hand... Try to make believe you have more than a one word vocabulary. OK pal?
+KORBEN	m	(pissed) I didn't come here to play Dumbo on the radio. So tomorrow between 5 and 7 give yourself a hand, that clear pal?
+LOC RHOD	m	(petrified) Crystal.
+CHECK-IN ATTENDANT	m	(alter a moment, reading) ...Mr. Dallas... Korben Dallas?
+RIGHT ARM	m	That's right.
+CHECK-IN ATTENDANT	m	The problem is I only have one Korben Dallas on my list... and he's already checked in.
+RIGHT ARM	m	That's impossible!  He's in j... I mean, there must be some mistake. I have my ticket! I'm the real Korben Dallas!
+CHECK-IN ATTENDANT	m	(smiling) I'm sorry, sir, boarding is finished.
+RIGHT ARM	m	I want to see your boss!  Get rid of this fucking window! Somebody's made a mistake, goddamnit!
+VOICE	m	This is not an exercise.  This is a police control. Put your hands in the nearest yellow circles...
+RIGHT ARM	m	(slowing down) Sorry, my fault... Just a little overexcited... that's all... I'm calm now.
+LEELOO	f	Apipoulai!
+KORBEN	m	Not hard to find you...just follow the Chaos...
+KORBEN	m	Leeloo, listen to me... these tickets... they're not mine... I mean they are, but not for vacation like everyone thinks... I'm on an operation... and if I didn't come get you, you'd be in a shitload of trouble... I'd love to be on vacation with you... but now.... now I've got to work... And Leeloo... I would love to work in peace.
+LEELOO	f	Love...
+KORBEN	m	Yes! But "love" isn't the operative word here, PEACE is!
+LEELOO	f	(rather pleased) Peace... and love...
+KORBEN	m	Sometimes you can't learn everything from a screen..sometimes it's better to ask someone who has experience..
+LEELOO	f	(quite happy) What is... Make Love?
+KORBEN	m	Know what? On that subject maybe you'd be better off asking the screen.
+VOICE	m	...to make your flight as short and agreeable as possible, our flight attendants are switching on the timing sleeper which will regulate your sleep during the trip...
+LEELOO	f	(switching off the screen) OK! Finished!
+KORBEN	m	Finished what?
+LEELOO	f	Learning language.
+KORBEN	m	Which one?
+LEELOO	f	All 900.
+KORBEN	m	You learned 900 languages in five minutes?!
+LEELOO	f	(pleased) Yes! Now it's your turn! I learned your language, you have to learn mine!
+KORBEN	m	I know how to say "Hello". Teach me how to say "Good-bye", that's all I need.
+LEELOO	f	Apipoussan!
+KORBEN	m	Apipoussan?
+LEELOO	f	Good! Do you know how we say "make love"?
+KORBEN	m	(fumbling) Uh...
+LEELOO	f	...Hoppi-hoppa.
+KORBEN	m	(to himself) Help...
+STEWARDESS	f	Sweet dreams, Mr. Dallas!
+STEWARDESS 2	f	Mr. Loc Rhod you have to assume your individual position.
+LOC RHOD	m	(hugging her) I don't want an individual position, I want all positions!
+STEWARDESS 2	f	(resisting somewhat) We're going to take off soon, Mr. Rhod!
+LOC RHOD	m	Now you're talking!
+COPILOT	m	(on the radio) Molecular axis authorization. Vector 130. Destination Fhloston.
+STEWARDESS 1	f	Zone 1. 217 locked. The sleep regulator is OK.
+PILOT	m	(checking her out) Thanks, Miss.
+MECHANIC	m	Tell the ground crew we've got parasites in the landing gear.
+GROUND CREW MEMBER	m	Disinfecting!
+RIGHT ARM	m	Yeah, it's me... Put Zorg on.
+ZORG	m	(cold) I'm listening.
+RIGHT ARM	m	The real Korben Dallas is on the plane! He took my place.
+ZORG	m	This is a joke, right?
+LOC RHOD	m	No!! I swear to God! I've never been this sincere with a human before!
+GROUND CREW MEMBER	m	You're fueled and ready to go. Have a nice flight.
+PILOT	m	(to copilot) Everything ready for liftoff?
+STEWARDESS	f	(weakly, to Loc Rhod) No, no... I'm not ready! I'd like to talk first...
+ZORG	m	I cannot hear you. We have a bad connection here.  What's your number?
+RIGHT ARM	m	278-500-645-321
+ZORG	m	I'll call you back.
+COPILOT	m	Anti static pressure?
+MECHANIC	m	Primed.
+ZORG	m	(typing the number)
+COPILOT	m	10 seconds...
+PILOT	m	Power increase.
+ZORG	m	3... 2... 1...
+PILOT	m	Liftoff.
+COPILOT	m	(relaxing) Landing gear secure.  Let's light one up.
+TECHNICIAN	m	All right! We're finally getting something!
+HEAD SCIENTIST	m	The thing is sending out radio wavelengths!
+PRESIDENT	m	What the hell does it want with radio waves?
+HEAD SCIENTIST	m	...Probably wants to make a call!
+SECRETARY	f	Mr. Shadow on the line.
+ZORG	m	Yes... Zorg here.
+SHADOW	m	Am I disturbing you?
+ZORG	m	No... not at all.  Where are you?
+SHADOW	m	...Not far, now.
+ZORG	m	Really? Maybe I can get you on my screen and see you at last!
+SHADOW	m	Do you have the picture now Mr. Zorg?
+ZORG	m	Got it.
+SHADOW	m	How's our deal coming along?
+ZORG	m	(ill at ease) Fine, just fine!  I'll have the 4 pieces you asked for any time now.  But it wasn't easy. My costs have tripled.
+SHADOW	m	Money is of no importance... I want the Stones!
+ZORG	m	The Stones will be here. I'll see to it personally!
+SHADOW	m	...I can't wait to be among you.
+STEWARDESS	f	Ladies and gentlemen, we have begun our descent toward Fhloston Paradise...
+STEWARDESS	f	(timidly) I wanted to tell you that...
+PILOT	m	Shit! Parasites in Zone 1. Take a look.
+PILOT	m	Docking activated. You can let the passengers out.
+KORBEN	m	(jostling everybody) Pardon me.  Excuse me. I'm trying to reach my wife.. Sorry!
+HOSTESS	f	(smiling) Welcome to Paradise.
+HOST	m	(playful) If you don't have the code you can't open it!
+LOC RHOD	m	(relieved) My main man! Please don't leave me here alone. My head's killing me and my adoring fans are gonna tear me apart! Get me outta here!
+KORBEN	m	I'll take you to the bar, after that, you're on your own.
+LOC RHOD	m	(hanging on to Korben) Oh, yes! Do that! You treat me right, man. Tell me all about yourself, your roots, your personal life, your childhood dreams...
+KORBEN	m	I don't think this is a good time...
+LOC RHOD	m	...You got brothers and sisters? What about your dad? Tell me about your dad! What was he like? Physically? Big, I suppose?
+KORBEN	m	(evasive) Yeah, very big, a giant.
+LOC RHOD	m	I didn't have a dad... never saw him... never even heard him. 50 billion people listen to me every day... and he doesn't hear me...
+KORBEN	m	For the concert it says formal attire... I didn't bring...
+HOSTESS	f	(looking him over) Here's some champagne. I'll drop by after the concert to open it.
+KORBEN	m	Hello?
+MOTHER	f	You little sleaze bag!
+KORBEN	m	...Ma???
+MOTHER	f	Don't you ever ask me for another thing in my life again, you've killed your poor mother with your own hands!
+KORBEN	m	...Ma!!!
+FOG	m	The Diva's ship is coming in.
+CHIEF OF POLICE	m	I want maximum security.
+FOG	m	Yes. Sir!
+CHIEF OF POLICE	m	(to Cornelius) OK, let's hear it.
+CORNELIUS	m	Where was I?
+CHIEF OF POLICE	m	(bored) ...You open the door. There's a cabby with a girl in his arms.
+CHIEF OF POLICE	m	What happened? A bomb go off in your face?
+BEAT-UP COP	m	Yeah... A 5 foot 7 inch bomb... with green eyes.
+CORNELIUS	m	And the smile of an angel?
+CORNELIUS	m	(to Chief) May I speak to you alone.
+DIVA'S ASSISTANT	m	Please forgive this little incident. She wants you to know that she senses great powers in you... in the service of a noble cause... She will give you what you have come to get, but she wants to sing first... One last time...
+DIVA'S ASSISTANT	m	(nodding) Miss.
+FOG	m	Hello, I'm head of security. Everything is in order. You can...
+FOG	m	...make yourselves at home safely. If you need anything...give it a knock!
+KORBEN	m	Listen, Ma! I've only got a few days vacation and I'll be damned if I'm gonna spend them on the phone.
+KORBEN	m	...Hang on, it's the door. No! I told you I didn't bring anybody! I'm all alone... as usual!
+KORBEN	m	(to his mother) ...I'll call you back.
+KORBEN	m	Here we go again...
+LEELOO	f	(by rote) You know women normally change five times more than men.
+KORBEN	m	You get that off the screen?
+LEELOO	f	Yes... you know there's a lot of differences between men women.
+KORBEN	m	You noticed..
+LEELOO	f	OK, you can turn around!
+KORBEN	m	Where you going?
+LEELOO	f	I'm going to see the Diva sing. What's the matter?... Do I look bad?
+KORBEN	m	No, not at all!  I mean, just the opposite, you're... you're beautiful!
+LEELOO	f	Do you know how this works?
+KORBEN	m	I have an idea.
+KORBEN	m	I told you I need to work in peace. Remember? I need to concentrate.
+LEELOO	f	And you can't concentrate with me around?.
+KORBEN	m	It's difficult.
+KORBEN	m	Army issue. I'm sorry.
+LEELOO	f	(seething) You're nothing but a... a...
+KORBEN	m	The words you're looking for weren't in the dictionary you studied. I won't be long.
+LOC RHOD	m	Hey Stud we gotta...
+LOC RHOD	m	Korben my man what's happening here? Who's the chick? What's the gig? We free forming here? Getting funky with the monkey? Can I get in on this?
+KORBEN	m	No..to all of the above.
+LOC RHOD	m	(broadcasting) We have just walked into what is probably the most beautiful concert hall in the universe. Totally awesome! Magnificent paintings on the ceiling. I don't know who painted them, but he must have busted his balls! I see a row of former ministers, more sinister than minister! A few generals practicing how to sleep. And there's Baby Ray, star of stage and screen, drowning in a sea of nymphets. He's not gonna get much out of this concert, he's stone-deaf!
+BABY RAY	f	...to who?
+LOC RHOD	m	(moving down the aisle) ...And over there is Roy Von Bacon, the king of laserball and the best paid player in the League. (shakes hands as he goes by) ...And over there is the Emperor Kodar Japhet whose daughter Aachen is still at the bar. "I love to sing, too, but in the shower", she recently confessed to me. She will no doubt prove to be as generous tonight as she always is.
+AKANIT	?	It's showtime!
+MANAGER	m	(ugly mood) Yeah!?
+VOICE	m	Flowers for the Diva.
+MANAGER	m	She's allergic to flowers!!!
+VOICE	m	There's champagne as well...
+CORNELIUS	m	...My God!
+CAPTAIN	m	Commander, I have a ship with a main malfunction. He requests permission to dock for repairs.
+COMMANDER	m	Did you check out his registration number?
+CAPTAIN	m	Everything's in order.
+COMMANDER	m	Put him in the docking garage and inform the police.
+CAPTAIN	m	Permission granted. Dock 575.  You have an hour. Will that be enough time'?
+ZORG	m	(cold) More than enough.
+CORNELIUS	m	(in a panic) Mangalores! The Diva's suite! They want the Sacred Stones! They must be stopped. We must stop them!. I'm going to free you but you must promise to help me!
+MANGALORE	m	I have it.
+LEELOO	f	(smiling) Apipoulai!
+MANGALORE	m	They were waiting for us! It was an ambush!
+AKANIT	?	If it's war they want it's war they'll get! Enact the Final Plan!
+ZORG	m	My compliments, little lady! ...And thanks for doing all the dirty work! I couldn't have done it any better myself! (sharply) ...Now hand over the Stones!
+ZORG	m	Nice knowing you.
+ZORG	m	(with a crafty smile) You can run but you can't hide...
+AKANIT	?	Nobody move! We're taking over this ship!
+CORNELIUS	m	(pleased with himself) I told you...
+MANGALORE 1	m	Everyone down!
+LOC RHOD	m	(broadcasting, panic stricken) Ladies and gentlemen, I think we're being... attacked.  The place is crawling with warriors.
+ZORG	m	You want something done, do it yourself!
+LOC RHOD	m	(voice low, panicked) They're hideous. They've got a crest on the head, the eyes of a toad and fingers all over their hands. Totally hideous!
+MUNRO	m	(worried) ...Mangalores!
+PRESIDENT	m	Send a battalion out immediately!
+KORBEN	m	(to the Diva) I was sent by the government to help you.
+DIVA	f	Don't worry.  This is my fate... How was the concert?
+KORBEN	m	I've never heard anything so beautiful in my life.
+DIVA	f	(weak) You're a good man... She was right to have chosen you...
+KORBEN	m	Who?
+DIVA	f	The Fifth Element... The Supreme Being... Your wife...
+KORBEN	m	Leeloo... is... she's...
+DIVA	f	Yes, and more than that... You must give her the Stones, she's the only one who knows how to use them.
+KORBEN	m	(to himself, suddenly realizing) ...So Cornelius was telling the truth!
+CORNELIUS	m	(to the Chief of Police) Of course I was telling you the truth!... If you had listened to me in the first place, we wouldn't be in this predicament now!
+DIVA	f	She needs you. She needs your help and your love. She's more fragile than she seems...
+KORBEN	m	...Yeah, so am I.
+DIVA	f	She was taught to love the life of others... but not her own. You have to teach her to love if you want her to truly live!
+KORBEN	m	(uncomfortable) I'll help her, I promise, but I think you should tell me where the Stones are!
+DIVA	f	Do you love her?
+KORBEN	m	I... I don't know! We hardly know each other... it takes time!
+DIVA	f	I don't have time... I need to know.
+KORBEN	m	Listen, the last time I admitted to a woman I loved her ... I never saw her again.
+DIVA	f	I would like to have died in peace...
+KORBEN	m	You tell me to save the world then you go off and leave me in the shit!
+KORBEN	m	Come on! You're not gonna die in peace! You're not going to die at all! You hear me? Where are the Stones?
+KORBEN	m	I'm sorry, but... the Stones...
+DIVA	f	(very weak) They are... with me...
+MANGALORE 2	m	Stay calm and nobody will get hurt! Hands on your head and into the hall!
+KORBEN	m	(to himself) ...The Stones are with me?
+KORBEN	m	...In me?
+LOC RHOD	m	Don't you think we'd better be going?
+MANGALORE	m	Hey, you! With the others!
+KORBEN	m	That's it... I've had... all day people have been sticking guns in my face...
+LOC RHOD	m	Korben man... These dudes are going to waste us if we don't do what they say.
+KORBEN	m	You don't do what I say... I'll waste you myself. Got it?
+LOC RHOD	m	Got it...
+AKANIT	?	What's the situation in the hall?
+MUGGER	m	(into walkie-talkie) There's no more resistance. Everything's under control.
+KORBEN	m	Everybody down!
+LOC RHOD	m	This is amazing! Korben, Korben Dallas, the winner of the Gemini Croquette contest just killed three warriors like he was swatting flies...
+LOC RHOD	m	It's Roy von Bacon, the Lions center forward joining in the battle...
+PRINCESS AACHEN	f	(hot to trot) All this is terribly exciting, hmmm?
+LOC RHOD	m	GET OFF MY BACK!
+KORBEN	m	Toss me the balls!
+BABY RAY	f	(terrified, still deaf) What?
+KORBEN	m	The balls for Christ's sake!
+EMPEROR JAPHET	m	He wants the balls! You deaf or something?
+KORBEN	m	How far is he from here?
+EMPEROR	m	I'd say about thirty yards to the left.
+LOC RHOD	m	...And our man Korben has literally knocked out the opposition with an amazing 90 foot pitch.
+FOG	m	Thanks for your help.
+KORBEN	m	Forget it.
+KORBEN	m	Leeloo???
+LEELOO	f	(feeble) Kor... ban...
+COP 1	m	Hey, who are you?
+KORBEN	m	The winner of the Gemini Croquette contest.
+KORBEN	m	Seven to the left. Five to the right.
+COP	m	What's he doing?
+KORBEN	m	Six to the left. One to the right.
+LOC RHOD	m	He's on vacation.
+KORBEN	m	(reloading) We got to find the leader. Mangalores don't fight without a leader.
+AKANIT	?	One more shot and we start killing hostages, got that?
+KORBEN	m	Found him...
+AKANIT	?	(tense) Send someone to negotiate!
+KORBEN	m	Mind if I go? I'm an excellent negotiator.
+COP 1	m	Uh... Sure, go ahead.
+COP 1	m	We're sending someone in who's authorized to negotiate.
+KORBEN	m	Anyone else want to negotiate?
+COP 2	m	(to another Cop) Where'd he learn to negotiate like that?
+MUNRO	m	From us!
+CORNELIUS	m	You're probably very angry with me and I quite understand. But I want you to know I'm fighting for a noble cause.
+KORBEN	m	Yeah, I know... to save the world... but right now all I want to do is save Leeloo.
+CORNELIUS	m	Leeloo's in trouble?
+KORBEN	m	When is she not in trouble?
+CORNELIUS	m	Uh.. Have you tried the Diva's suite?
+POLICEMAN	m	More trouble?
+ZORG	m	Nothing I can't fix myself.
+KORBEN	m	(loudly) Leeloo?
+LEELOO	f	Korben...
+LOC RHOD	m	Korben man... what the hell is this?
+KORBEN	m	A molecular bomb.
+LOC RHOD	m	(increasingly worried) And, uh, what're these numbers clicking by?
+CORNELIUS	m	Probably the time remaining before it explodes.
+LOC RHOD	m	(weak smile) You're just saying that to scare me! Right? If it was a bomb, an alarm would've gone off. There's bomb detectors in all these hotels!
+VOICE	m	This is a Type A alert. For security reasons the hotel must be evacuated. Please proceed calmly to the lifeboats located in the main hallways.
+LOC RHOD	m	Maybe we oughta be going, what do you think?
+KORBEN	m	Not without Leeloo.
+LOC RHOD	m	Like D-Man, I hate to bother you but uh, like, we're down to 2 minutes here...
+KORBEN	m	It's the latest model.. I've never seen one before... it works off a magnetic coded card... Let's see if I can rig it up.
+LOC RHOD	m	Hey! What are you doing? The bomb!
+KORBEN	m	Don't worry, I'm here now!
+KORBEN	m	Just relax. I've got the Stones. Everything's going to be fine.
+LOC RHOD	m	(falling to pieces) Like Korben, can I have 30 seconds of your time here?
+KORBEN	m	(to Leeloo) I'll be right back.
+ZORG	m	(smiling) Allow me...
+ZORG	m	Just for the fun of it.
+ZORG	m	Well, what do we have here? Is this Korben Dallas? The famous winner of the Gemini Croquette contest? Or is this Korben Dallas from Special Section sent by old Lindberg himself.
+ZORG	m	...In any event, whoever you are, I was glad to meet you.
+ZORG	m	...A 3000 round clip! I didn't fire off 3000 rounds... did I?
+KORBEN	m	Don't you know how to count. It's not all that hard. Watch!
+KORBEN	m	One! That's for trying to kill me!
+KORBEN	m	Two! That's for firing me! Three! That's for pushing around a priest! And the rest is for what you did to my wife!
+KORBEN	m	We're outta here!
+LOC RHOD	m	Are you nuts, Father? That hurts! I can't feel my teeth.
+CORNELIUS	m	Doesn't matter all you need are your legs.
+VOICE	m	Two minutes to complete evacuation...
+ZORG	m	I didn't fire three thousand rounds...
+VOICE	m	One minute to total evacuation...
+LOC RHOD	m	You know how to fly this thing?
+KORBEN	m	(concentrating) It's like a cab isn't it?
+VOICE	m	30 seconds...
+KORBEN	m	Anyone know how to release the lines on this crate?
+ZORG	m	(loudly) Maximum Protection.
+VOICE	m	6... 5...
+KORBEN	m	Found it?
+LOC RHOD	m	I don't even know what I'm looking for!
+KORBEN	m	Fuck it! Hold tight!
+KORBEN	m	Solid little jobs, aren't they?
+LOC RHOD	m	(broadcasting, exhausted) Dear listeners, your favorite DJ is alive and kicking. It's seven o'clock and time for the news. Tune in tomorrow for another adventure.
+VOCODER	m	Beep. End of transmission.
+LOC RHOD	m	(to the others) The best show I ever did!
+ZORG	m	How's that? Can you hear me better now?
+SECRETARY	f	Yes, Mr. Zorg, I hear you perfectly! So, how was the concert?
+ZORG	m	Who gives a shit! I didn't come here to listen to music! Listen up instead of running off at the mouth! The batteries on my phone are almost gone.
+SECRETARY	f	Yes, Sir!
+ZORG	m	Dispatch me another ZFX200 immediately. Someone stole mine.
+SECRETARY	f	Right away, Sir. I'll send you a new one to the hotel.
+ZORG	m	I'm not at the hotel!
+ZORG	m	Hello?...
+BEEPER	m	Battery dead.
+ZORG	m	(to himself) Stay calm.... stay calm...
+MUNRO	m	Major Dallas has the Five Elements on board. The priest is guiding them directly to the temple.
+PRESIDENT	m	Thank God! We've been saved!
+SCIENTIST	m	Mr. President.
+PRESIDENT	m	Yes? Now, what?
+PRESIDENT	m	What do you mean, "its advancing"?!
+COMMANDER	m	It's not only advancing, but it's moving at incredible speed! We're having trouble following it.
+PRESIDENT	m	(to Scientist) ...And... Do you have any idea where it's heading?
+KORBEN	m	(gentle, loving) Apipoulai..
+LEELOO	f	I'm so very sad.
+KORBEN	m	Why? We did pretty well, wouldn't you say?
+LEELOO	f	Five hundred wars... Arms... Drugs... Money... Everything you create is used to destroy...
+KORBEN	m	I told you not to read all that crap!
+LEELOO	f	Protect life... Until death.
+CORNELIUS	m	There's a General on the phone... His name's Mambo, I think.
+MUNRO	m	Munro here. President Lindberg wants to talk to you.  Hold the line.
+PRESIDENT	m	Major, first off, I want to thank you, in my name and in the name of the Federation...
+PRESIDENT	m	For the praiseworthy courage you have shown us! I'd like to congratulate General Munro for his choice. He found the ideal man for such a...
+KORBEN	m	(to the point) So now what's the problem?
+PRESIDENT	m	There's a ball of fire 1,200 miles in diameter heading straight for the earth. And we have no idea how to stop it! ...That's the problem.
+KORBEN	m	How much time before the collision?
+SCIENTIST	m	If its speed remains constant... in an hour and 57 minutes.
+KORBEN	m	I'll call you back in two hours.
+DAVID	m	You're all safe. Thanks be to God!
+CORNELIUS	m	Later, David! Later! There's not a minute to lose!
+KORBEN	m	Excuse me, Father, but... could we pray later?
+MUNRO	m	They just landed in the desert.
+PRESIDENT	m	(sweating) How much time is left?
+SCIENTIST	m	About nine minutes.
+CORNELIUS	m	(panic-stricken) Uh, this one... must be water!
+KORBEN	m	Don't tell me you don't know how all this works?
+CORNELIUS	m	Theoretically, yes! The four Stones form the beam and the Fifth Element is supposed to stand in the middle there, but... I don't have the reference book. I've never seen the Stones work!
+KORBEN	m	Match the symbols!
+LOC RHOD	m	What is this some kinda game? Like chess?
+KORBEN	m	No. It's much simpler. If we don't figure out where these Stones go in five minutes, we're all dead! Think you got it?
+KORBEN	m	There's no light! You told me there were supposed to be four beams of light.
+CORNELIUS	m	(lost) Yes, of course, but... The Stones are shut! They have to be open for it to work.
+KORBEN	m	And you don't know how they open, is that what you are saying?
+CORNELIUS	m	That's what I'm saying.
+KORBEN	m	Leeloo? The Stones! We have to open them! How does it work?
+LEELOO	f	(feeble) The wind blows... the fire burns...
+KORBEN	m	I know all that, Leeloo! I'm talking about the Stones.
+LEELOO	f	...The rain falls...
+KORBEN	m	The rain falls... the wind blows?
+KORBEN	m	Try and figure out how this fucking thing opens, instead of staring at me like that!
+LOC RHOD	m	(afraid) I'm looking, I'm looking.
+SCIENTIST	m	...Three minutes.
+MUNRO	m	We've lost contact with them.
+LOC RHOD	m	...we'll never make it.
+LOC RHOD	m	It... it moved! Korben! Korben!
+KORBEN	m	What did you say? What did you do?
+LOC RHOD	m	Nothing! Swear to God, I didn't do nothing!
+KORBEN	m	Look, you did something that set it off. Try to remember. Concentrate. Tell me exactly what you did!!
+LOC RHOD	m	I was like this... With my hands here and... I said, "We'll never make it!" That's all!
+KORBEN	m	Is that all?
+LOC RHOD	m	Yeah... then I sighed... like this.
+KORBEN	m	The wind! The wind blows...
+KORBEN	m	Quickly, everyone on a Stone! Water for water!  Fire for fire! Earth for earth!
+LOC RHOD	m	(shaking) I don't have a light.  I stopped smoking last week! If we'd come a bit sooner...
+KORBEN	m	Don't breathe.
+SCIENTIST	m	Two more minutes.
+KORBEN	m	It's up to you now, Angel!
+LEELOO	f	I'm so tired...
+KORBEN	m	You can sleep tomorrow... come on...
+LEELOO	f	I want to sleep... forever...
+KORBEN	m	Leeloo! Listen to me! I'll take you on a vacation afterwards! A real vacation, this time, for as long as you want. Come on! You can do it!
+CORNELIUS	m	Come on Leeloo! Come on!
+SCIENTIST	m	It'll be entering the atmosphere in one minute.
+KORBEN	m	Leeloo! If you don't get on with the program we're all gonna die! And that's not on my agenda for today.
+LEELOO	f	(weak) What's the use of saving lives... when you see what you do with them!
+KORBEN	m	You're right but there are lots of good things... beautiful things...
+LEELOO	f	...Like love...
+KORBEN	m	Exactly.
+LEELOO	f	But I don't know love... I'm like a machine programmed to save other people's lives but never to have one of my own.
+LEELOO	f	I have thousands of memories but none of them are mine... There is no need for me other than this. I'm immortal but I have no life.
+KORBEN	m	Yes, you do! I need you. More than you can imagine! Stand up straight!
+LEELOO	f	Why?... Why would you need me?
+KORBEN	m	Because...
+CORNELIUS	m	(to himself) Tell her, for God's sake!
+KORBEN	m	Because...
+LEELOO	f	Tell me...
+KORBEN	m	I love you...
+LEELOO	f	Now you're allowed to kiss me.
+SCIENTIST	m	The planet seems to have stopped at... 62 miles from impact.
+LOC RHOD	m	This guy is a killer with the babes. I knew it from the moment I laid eyes on him.
+MUNRO	m	Mr. President, let me introduce you to Professor Mactilburgh, who runs the center.
+MACTILBURGH	?	It's an honor to receive you. Mr. President.
+PRESIDENT	m	(beaming) Yes.. Well? Where are our two heroes?
+MACTILBURGH	?	They were so tired from their ordeal that we put them in the reactor this morning..
+PRESIDENT	m	I have 19 more meetings after this one Professor..
+PROFESSOR	m	Of course.. Let me see if they're revived.
+AIDE	f	We go live in one minute, Mr. President.
+MACTILBURGH	?	I.. uh.. they need five more minutes, Mr. President.
+AIDE	f	No ma'am... I tried... No ma'am...
+PRESIDENT	m	Who is it?
+AIDE	f	Some woman... claims she's Korben's mother...
+PRESIDENT	m	Give it here...
+PRESIDENT	m	Mrs. Dallas, this in the President. On behalf of the entire Federation, I would like to thank...
+MOTHER	f	Don't pull that crap with me, Finger... I'd recognize that trash can voice of yours in a dark alley during a rain storm. You tell that worthless no account son of mine he should plotz for the way he's ignored his mother... when I think of all I sacrificed for him...
+

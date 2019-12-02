@@ -1,0 +1,215 @@
+NARRATOR	m	Legend has it, that it was written by the dark ones:
+NARRATOR	m	To trace the origin of the Book, we must go back...back...to a day when spirits ruled the earth.
+NARRATOR	m	When the seas ran red with blood.
+NARRATOR	m	It was this blood that was used to ink the book.
+NARRATOR	m	The Book of the Dead was last seen in 1300 A.D.
+NARRATOR	m	It was then that the dark spirits again rose up to battle the living.
+NARRATOR	m	It is said that a hero came from the sky.  A man who defeated this evi and buried the Book in the Castle of Kandar. And there it lay for 700 years...
+NARRATOR	m	...Waiting.
+NARRATOR	m	And then...
+NARRATOR	m	Professor Raymond Knowby and his wife, HENRIETTA, brought the book to a small cabin where they could study it undisturbed.
+RAYMOND	m	Kanda...Es-trata...Ta-toon...Hazan sobar...Ear-Grets, Gat, ...Nos-feratos ...Amantos...Kanda!
+NARRATOR	m	It was one week later that a group of college students came to the cabin. 
+LINDA	f	Ash, what's that you're playing?
+ASH	m	Our song.
+LINDA	f	Ow!
+LINDA	f	I really love it.  I'll never take it off.
+NARRATOR	m	It was in the cabin's cellar that they found the Professor's tape recorder, and the Book of the Dead.
+PROFESSOR KNOWBY	m	Kan Da, Es-trata ta-toon hazan sobar ...Ear-Grets, Gat...
+PROFESSOR KNOWBY	m	...Nos-Feratos...Amantos...Kanda!
+NARRATOR	m	One by one, they fell to the possession of the dark spirits.
+NARRATOR	m	One man, Ash, destroyed the Book.
+NARRATOR	m	But the evil that had been resurrected from it, lives on.
+ASH	m	It's gone.
+ASH	m	Sun's driven it away... for now.  Gotta get the hell out of here... before night falls.
+ED	m	Annie!
+ANNIE	f	Hi.
+ED	m	How'd everything go on the expedition?
+ANNIE	f	Terrific.  I found the additional pages from the Book of the Dead.
+ED	m	So you said in the telegram.  What condition are they in?
+ED	m	Haven't aged a day in three thousand years.
+ANNIE	f	Maybe longer.
+ED	m	When do we begin the translations?
+ANNIE	f	Tonight.  Is everything all set with my father?
+ED	m	Should be, but I haven't spoken to him in a week, what with no phone in that cabin.  Take us about an hour to get there.
+ED	m	We'll take my car.
+ED	m	Annie, you hinted in your telegram that your father was on to something with the first part of his translations.  What's the big mystery?  What has he found in The Book of the Dead?
+ANNIE	f	Maybe nothing.  But just possibly... the doorway to another world?
+LINDA	f	DANCE WITH ME!
+ASH	m	That's all.  Just a crummy dr-
+LINDA'S HEAD	m	Hello lover, I came from the other side of your dream to dance with you.
+LINDA'S HEAD	m	Even now we have your darling Linda's soul!  She suffers in torment!
+LINDA	f	Please Ash, help me.  I love you, please don't hurt me.
+LINDA	f	You promised me we'd always be together.  You swore to me!
+ASH	m	NO!
+LINDA'S HEAD	m	YES!  YOU LIED TO HER! YOU LIED TO
+ASH	m	Eat chainsaw.
+ASH	m	I'm fine... I'm fine...
+REFLECTION	?	I don't
+ASH	m	You bastards.  Give me back my hand.
+ASH	m	Can't... can't be happening.
+ASH	m	Who's laughing now?
+ASH	m	Who's laughing now!?
+ANNIE	f	Excuse me.  This the road to the Knowby's cabin?
+JAKE	m	Thas' right.  But you ain't goin' there.
+ANNIE	f	And why not?
+ANNIE	f	What happened?
+JAKE	m	Lady, I ain't never seen nothin' like it.
+ED	m	Terrific.  Now what?
+ANNIE	f	There must be another way in. Another road or something.
+BOBBY JOE	m	Sure ain't no, road.
+BOBBY JOE	m	Hell you wanna go there for, anyway?
+ANNIE	f	None of your business.
+JAKE	m	Hey!  I just remembered... Yeah, that's right... There is a trail. You could follow Bobby Joe and me.
+ED	m	That sounds all right.
+JAKE	m	But, it'll cost ya.
+ANNIE	f	How much?
+JAKE	m	Forty Fi...
+JAKE	m	Hundred bucks.
+ANNIE	f	Tell you what.  You take my bags you got a deal.
+JAKE	m	Sure!
+JAKE	m	Jesus H. Christ!  I thought she was talkin' 'bout them two goddamn little pieces!
+ASH	m	Ha!
+JAKE	m	You gonna be alright, honey?
+BOBBY JOE	m	I don't know.
+JAKE	m	You just sit still fer a minute.
+JAKE	m	You know this son of a bitch?
+ED	m	No.  We thought her -
+ANNIE	f	Oh my God.  Where are my parents?
+ANNIE	f	What the hell did you do to them?
+JAKE	m	We'll throw him in there.
+JAKE	m	Crazy buck's gone blood simple.
+ASH	m	Wait... I made... a mistake...
+JAKE	m	Damn right, you flat mouthed son of a bitch.
+BOBBY JOE	m	I hope you rot down there!
+ASH	m	N... No.
+ANNIE	f	These are my father's things.
+PROFESSOR KNOWBY	m	Last night Henrietta tried to kill me.
+PROFESSOR KNOWBY	m	I cannot bring myself to dismember my wife, yet I know that I must, to halt the evil that lives within her.
+ANNIE	f	No.
+PROFESSOR KNOWBY	m	It is October 1, 4:33 p.m.  Henrietta is dead.  I could not bring myself to dismember her corpse.  But I buried her.
+PROFESSOR KNOWBY	m	I . . . buried her . . . in the cellar.
+PROFESSOR KNOWBY	m	God help me, I buried her in the earthen floor of the fruit cellar!
+ED	m	Somebody's down there with him.
+ANNIE	f	No.  Can't be.
+ASH	m	Let me out!
+ANNIE	f	Let him out.
+JAKE	m	It's a trick.  I know it.
+ANNIE	f	LET HIM OUT!
+HENRIETTA	f	Come to me.  Come to sweet Henrietta.
+ASH	m	No.
+HENRIETTA	f	Yesssssss.  You and I.  We shall spend eternity together.
+ANNIE	f	For God's sake!  That's my mother!
+RAYMOND KNOWBY	m	I fear that whatever I have resurrected from this book, is sure to come calling for me.
+ASH	m	There's something out there.  That... witch in the cellar is only part of it. It lives out in those woods.  In the Dark. Something that's come back from the dead.
+BOBBY JOE	m	Jake, let's beat it the hell out o'here, right now.  I gotta get out!
+JAKE	m	Now Bobby, you ain't in no condition.
+ASH	m	Nobody goes out that door.  Not till daylight.
+HENRIETTA	f	Remember that song Annie?  I used to sing it to you when you were a baby.
+HENRIETTA	f	Let me out, dear.  It's so cold and dark in here.
+ANNIE	f	Mother?
+HENRIETTA	f	Unlock these chains.  Quickly.
+ANNIE	f	No.  No.  I don't know what you are but you're not my mother.
+VOICE OF HENRIETTA	m	How can you say that to me Annie?
+ANNIE	f	No!
+VOICE OF HENRIETTA	m	You were born September 2nd, 1962.  I remember it well because it was snowing.  So strange that it would be snowing in September.
+ANNIE	f	That thing in the cellar is not my mother!
+ED	m	We are the things that were. And shall be again! HA HA HA HA HA! Spirits of the book. We want what is yours!  LIFE!
+ED	m	Dead by dawn! Dead by dawn!
+HENRIETTA	f	Dead by dawn!  Dead by dawn!
+HENRIETTA	f	Free me!  Unlock these chains!
+ED	m	We see you!
+ASH	m	Start up that saw and hand it here! We're gonna cut him up.
+ANNIE	f	No.
+ASH	m	START IT UP!
+ANNIE	f	NO!
+BOBBY JOE	m	Jake, I can't take no more of this.
+JAKE	m	That's funny.
+BOBBY JOE	m	What?
+JAKE	m	That trail we came in here on... well, it just ain't there no more. Like the woods jus' swallowed it.
+ANNIE	f	It's so quiet.
+JAKE	m	What the hell is it?
+ASH	m	Maybe something... Something trying to force its way into our world.
+BOBBY JOE	m	It's in there.
+ASH	m	We'll all go in together.
+JAKE	m	Hell no, you're the curious one.
+ANNIE	f	I'll go with you.
+RAYMOND	m	Annie.
+JAKE	m	Holy Mother O'Mercy.
+RAYMOND	m	There is a dark spirit here that wants to destroy you.  Your salvation lies in the pages from the Book of the Dead.
+RAYMOND	m	Recite the passages.  Dispel the evil. Save my soul... And your own lives.
+BOBBY JOE	m	Jake, you squeezing my hand too tight.
+JAKE	m	I ain't got your hand, baby.
+BOBBY JOE	m	Then who...?
+JAKE'S VOICE	m	Somebody get the light!
+JAKE	m	Hey.  Bobby Joe's gone!
+TREE FACE	m	BAHHHH!
+JAKE	m	Where the hell is she?
+JAKE	m	We gotta go out there and find her!
+ASH	m	If she went out in those woods, she's not coming back.
+ANNIE	f	What is it?
+ASH	m	Felt like someone just walked over my grave.  It's that picture.
+ANNIE	f	In 1300 AD.  This was the "Hero from the Sky," who was prophesized to destroy this Evil.
+ASH	m	He didn't do a very good job. What about the passages?
+ANNIE	f	Here it is.  Two passages.
+ANNIE	f	We've got it!
+ANNIE	f	Recitation of the first passage will make this "Dark Spirit" manifest itself in the flesh.
+ASH	m	Why the hell would we want to do that?
+ANNIE	f	Recitation of the second passage creates a kind of rift in time and space, and the physical manifestation of this spirit can be forced back through this rift... to an earlier time and place.  At least that's the best translation I can ....
+JAKE	m	I'm runnin' the show now.
+JAKE	m	We're goin' outside into those woods to look for Bobby Joe, an' once we find her, we're gettin' the hell outta here.
+ASH	m	If you want to look for her, go ahead.
+JAKE	m	You two comin' with me.  I ain't goin' out there alone.
+ASH	m	NO, YOU IDIOT.  You'll kill us all. She's dead by now.  With these pages we can...
+JAKE	m	Those pages don't mean shit.
+JAKE	m	'Sides.  Now you ain't got no, choice.
+JAKE	m	Now move!
+JAKE	m	Move you son of a bitch!
+ASH	m	No trail.  Which way do you intend to go?
+JAKE	m	Bobby Joe!
+JAKE	m	Bobby Joe, where are you girl?
+JAKE	m	Bobby Joe!  Bobby Joe!
+ASH	m	You'll get us all killed.
+JAKE	m	Shaddup!
+JAKE	m	Bobby Joe!
+POSSESSED ASH	m	JOIN US!
+ANNIE	f	No!
+JAKE	m	Get the axe.  Kill it.  Kill it.
+LINDA	f	I'll never take it off.
+ASH	m	No.  WAIT!
+ASH	m	Listen to me!  I'm all right now.  That thing is gone.
+ASH	m	GOD DAMN IT!  I said I was all right!!
+ANNIE	f	Okay.
+ANNIE	f	Are you sure?
+ASH	m	You'll be the first to know. I'm fine.
+ANNIE	f	Yeah, but for how long? If we're going to beat this thing, we need those pages.
+ASH	m	Then let's head down into that cellar...
+ASH	m	Groovy.
+ASH	m	Those pages are down there somewhere.
+ANNIE	f	Did you find her?
+ASH	m	She's playing hard to get...
+ASH	m	... rid of.
+ASH	m	She got hungry.
+ANNIE	f	Nos-feratos-allo-memnon-kanda!
+HENRIETTA	f	Free!  Free at last!
+HENRIETTA	f	I'll swallow your soul, swallow your soul!
+HENRIETTA	f	Swallow your soul!
+ASH	m	Swallow this.
+ASH	m	May she rest in pieces.
+ANNIE	f	No!  I only completed the
+ASH	m	You didn't finish it?!
+ANNIE	f	There's still the second passage. The one to open the rift and send the evil back.
+ASH	m	Start reciting it.
+ANNIE	f	Tar-tra Kanda-Estra!  Hudsucker Proxy -- Kanda!
+ANNIE	f	Aton-Neran-Ofas!
+ASH	m	Finish it!
+ANNIE	f	Kanda!  Samonda Roba Areda Gyes Indy En-zeen, Nos-Feratos -
+ASH	m	No!
+ANNIE	f	Nos-feratos - Amen-non.  Ak-adeem! Razin - Arozonia!
+ANNIE	f	....Kanda!
+WARRIOR #1	m	Slay the beast!
+WARRIOR #2	m	'Tis a deadite!
+WARRIOR #1	m	Hail he, who has come from the sky, to deliver us from the terrors of the deadites!
+WARRIOR #4	m	Hail!
+WARRIOR #5	m	Hail!
+

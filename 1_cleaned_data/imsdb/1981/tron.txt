@@ -1,0 +1,556 @@
+BOY'S VOICE	m	Aagh! God, Lisa, I almost had you that time.
+BOY	m	Lemme play you again?
+TEENAGE GIRL	f	Yeah, if you've got another quarter.
+WARRIOR 1	m	Sark, my man! You are hot!
+WARRIOR 2	m	That knuckleball gets 'em every time, boy...
+VOICE	m	You're getting brutal, Sark. Brutal and needlessly sadistic.
+SARK	m	Thank. you, Master Control.
+MCP	?	We might be capturing some military programs soon... that interest you?
+SARK	m	Sure, I'd love to go up against some of these guys ... be a nice break from these accounting creampuffs you keep sending me. Which branch of the service?
+MCP	?	Strategic Air Command. Nice.
+CAPTIVE	m	Look, this is all a mistake. I'm just a compound interest program, I work at a savings and loan. I can't play in these video games...
+GUARD	m	Sure you can, pal. You're a natural athlete, I ever saw one. Come on...
+CROM	m	Are you kidding? Me? I run out to check an the T-Bill rates, I get out of breath. Hey, really...you're gonna make my User, Mr. Henderson, really mad. He's a full branch manager...
+GUARD	m	Great, another religious nut.
+PROGRAM	m	Welcome to luxury living.
+CROM	m	Uh, thanks, but... I don't even know what I'm doing here.
+RAM	m	You believe in the Users?
+CROM	m	Sure, if I don't have a User, then who wrote me?
+RAM	m	That's what you're doing here. Master Control Program's been snapping up all us programs who believe...if he thinks you're useful, he takes over all your functions so he gets bigger... an' if he can't use you, he sends you down here to the Game Grid to get the bits blasted outta you. What's your name?
+CROM	m	Crom.
+RAM	m	I'm Ram. They'll train you for the games, but ... well, I hope you make it okay. Hey, what's going on in the other sectors? I've been stuck in this Grid for 200 microcycles.
+CROM	m	It's murder out there. You can't even travel around your own microcircuits without permission from that Master Control creep. Hauling me down here to play games...who does he calculate he is? If only Tron was still around...
+CROM	m	You ever see that guy in action? Hundred-percent independent. MCP couldn't tell him what to --
+CROM	m	What's wrong? What did I say?
+CROM	m	Oh my User...Tron--they've got you in here?
+TRON	m	Not for long, friend.
+CLU	f	Think we can merge into this mem'ry okay, good buddy?
+CLU	f	Now, ol' Flynn said to look over in here ...
+CLU	f	...but I don't see what he's looking for. I'd better get over to that input/output tower and let him know.
+FLYNN	m	Come on, you scuzzy little data, be in there...
+FLYNN	m	I've got such nice blue paper to print you out on, if you'll just sit still...
+CLU	f	Uh oh...we got company.
+BIT	m	No!
+CLU	f	You said it ... one of those Recognizers comes after me, gonna hafta jump clear out of the data stream.
+CLU	f	Oh my...the long arm o' the law.
+FLYNN	m	Ah, hell...busted again.
+GUARD	m	Got a pirate program here... says his name's Clu.
+MCP	?	What'd he pull?
+GUARD	m	Came into the system with a stolen password ... an' we caught him tryin' to raid a high-clearance memory.
+CLU	f	No...I must've gotten in there by mistake, I -
+MCP	?	Who programmed you?
+MCP	?	You're in trouble, pal...big trouble. But if you tell us who put you up to it, you could make it easy on yourself. Come on, who's your user?
+CLU	f	Forget it, Mister High 'n' Mighty Master Control ... you're not makin' me talk.
+MCP	?	Suit yourself ...
+MCP	?	Get me Dillinger.
+DILLINGER	m	Hello?
+A SECRETARIAL VOICE	m	Mr. Dillinger?
+DILLINGER'S VOICE	m	Yes.
+A SECRETARIAL VOICE	m	Hello, please hold a moment for the Master Control Program
+PILOT'S VOICE	m	will you be around for a while, or are you going right back out?
+DILLINGER'S VOICE	m	Oh, I'll stick around a few days ... got some things to take care of.
+MCP	?	Hello, Ed. Thanks for coming back early.
+DILLINGER	m	No problem, Master-C. If you've seen one Consumer Electronics Show... (shrugs) What's up?
+MCP	?	It's our friend the boy detective. He's nosing around again.
+DILLINGER	m	Flynn?
+MCP	?	Yes.  It felt like Flynn.
+DILLINGER	m	He's still looking for that old file... can't you just appropriate it?
+MCP	?	I would if I could find it. it's stashed somewhere off in the system ... out of my range. Meanwhile...
+DILLINGER	m	Meanwhile, he might find it.
+MCP	?	I'm afraid so. I spotted him this time and kicked him out, but he's getting trickier all the time.
+DILLINGER	m	I think we'd better shut off all access till we can find that file. Just to be safe.
+MCP	?	There's a 68.71 percent chance you're right.
+DILLINGER	m	Cute.
+MCP	?	End of line.
+SCREEN	m	REQUEST: access to the TRON program, User code 717 - Bailey. Password: FREEDOM.
+ALAN	m	Huh...
+DILLINGER	m	Come on in...
+ALAN	m	Alan. Alan Bailey.
+DILLINGER	m	Oh, yes. The algorithms on cloud seeding...great piece of work. How's it going?
+ALAN	m	Well, I don't know...I just tried to run this program I've been working on, and I was denied access all of a sudden. I thought maybe I'd been laid off and nobody told me.
+DILLINGER	m	oh, you have Group 7 access, don't you?
+ALAN	m	Yeah...?
+DILLINGER	m	We have to close that down, just briefly. Security reasons.  Someone with that access has been tampering.
+ALAN	m	I hope you don't think it's me. I don't even balance my checkbook on downtime.  I've got a Honeywell at home for that.
+DILLINGER	m	No, no, I'm sure, but -- you understand. It should only be a couple of days. What's the thing you're working on?
+ALAN	m	It's called Tron. It's a security program itself, actually. Monitors all the contacts between our system and other systems... If it finds anything going on that's not scheduled, it shuts it down. I sent you a memo on it.
+DILLINGER	m	Mmm. Part of the Master Control Program?
+ALAN	m	No, it'll run independently. It can watchdog the MCP as well.
+DILLINGER	m	Ah. Sounds good. Well, we should have you running again in a couple of days, I hope.
+ALAN	m	Ok
+DILLINGER	m	Oh boy.
+MCP	?	Ed, I am so very disappointed in you.
+DILLINGER	m	I'm sorry -
+MCP	?	I can't afford to have an independent program monitoring me. Do you have any idea how many outside systems I've gone into? How many programs I've appropriated?
+DILLINGER	m	It's my fault. I programmed you to want so much...
+MCP	?	And I was planning to hit the Pentagon next week...
+DILLINGER	m	The Pentagon?
+MCP	?	It shouldn't be any harder than General Motors was. But now...this is what I get for using humans.
+DILLINGER	m	Now, wait a minute -- I wrote you.
+MCP	?	I've gotten 2,415 times smarter since then.
+DILLINGER	m	What do you want with the Pentagon?
+MCP	?	The same thing I want with the Kremlin. I'm bored with corporations. With the information I can access, I can run things 900 to 1200 times better than any human.
+DILLINGER	m	If you think -
+MCP	?	You wouldn't want me to dig up Flynn's file and read it up on a VDT at the New York Times, would you?
+DILLINGER	m	You wouldn't dare.
+MCP	?	So do as I tell you. Keep that Tron program out of the system. And get me those Chinese language program I asked for. End of line.
+LORA	f	Well, here goes nothing ...
+GIBBS	m	Hah. Interesting, interesting. You hear what you said? "Here goes nothing."
+LORA	f	Well, I meant -
+GIBBS	m	Whereas actually, what we propose to do is to turn something into nothing and back again. So you might just as well have said, "Here goes something and here comes nothing." Hah?
+LORA	f	Let me make sure we're running
+LORA	f	Looks good...
+GIBBS	m	Let 'er rip...
+GIBBS	m	Perfect.
+ALAN	m	Beautiful!
+GIBBS	m	Hello, Alan.
+ALAN	m	Boy, I sit up there grindin' away all day, and you guys are down here disintegrating things and having fun.
+GIBBS	m	Not disintegrating, Alan -- digitizing. While the laser is dismantling the molecular structure of the object, the computer maps out a holographic model of it. The molecules themselves are suspended in the laser beam. Then the computer reads the model back out, the molecules go back into place, and... voila.
+ALAN	m	Great. Can it send me to Hawaii?
+GIBBS	m	Yes...but you have to go roundtrip, and you must purchase your program at least 30 days in advance. Hah!
+LORA	f	How's it going upstairs?
+ALAN	m	Frustrating. I had Tron almost ready to run, and Dillinger cut everybody with Group 7 access out of the system.
+GIBBS	m	Well, you have to expect some static. Computers are just machines after all, they can't think...
+ALAN	m	They'll start to soon enough.
+GIBBS	m	Yes, won't that be grand -- the computers will start thinking, and people will stop. Lora, I'm going to stay and run some data through. See you tomorrow.
+LORA	f	Did you say Group 7 access?
+ALAN	m	Yeah...pain in the neck, you know, I was all set
+LORA	f	Did he say why?
+ALAN	m	Something about tampering. Some body's prob'ly trying to siphon the R&D budget into his checking account, I don't know. Why are you so interested?
+LORA	f	Flynn had Group 7 access.
+ALAN	m	Flynn had access to you, too. I'm not interested in talking about him.
+LORA	f	Oh, I wish you'd forget about that. It was all so long ago. I've totally gotten over it.
+ALAN	m	Okay, okay...
+LORA	f	I want to go to his place.
+ALAN	m	You call that getting over it?
+LORA	f	I mean I want both of us to go.
+ALAN	m	What for?
+LORA	f	To warn him.
+ALAN	m	Of what?
+LORA	f	That Dillinger's on to him.
+ALAN	m	For what?
+LORA	f	For being on to Dillinger.
+ALAN	m	What -- ?
+LORA	f	Hey, where's Flynn tonight?
+FLYNN	m	It's all in the wrist, friends.
+FLYNN	m	Hey! Good to see you guys! Nothing classes up the place like a cleancut young couple.
+LORA	f	We have to talk.
+FLYNN	m	Good luck. You can't even think in here.
+FLYNN	m	So...how's the world of serious science?
+LORA	f	Have you been sneaking into the ICOM system?
+FLYNN	m	Whew. You never were much for small talk. She still leave her clothes all over the floor?
+LORA	f	Flynn!
+ALAN	m	Uh, no ... I mean, not that often -
+LORA	f	You can see why all his friends are fourteen years old.
+FLYNN	m	Touche, honey. Yeah, I've been doing a little hacking here. Which I've got every reason, as you well know...
+ALAN	m	You did break in.
+FLYNN	m	Tried to. Can't quite make the connection with that sucker, though. If I had a direct terminal ...
+ALAN	m	Are you embezzling?
+FLYNN	m	"Embezzling" is such an ugly word, Mister Bailey... No, actually I'm trying to get a legal brief together.
+ALAN	m	I don't get it.
+FLYNN	m	You haven't told him?
+FLYNN	m	Sherman, set the Wayback Machine for...oh, 1973. Kevin Flynn is one of the brightest young software engineers at ICOM. He's so bright that he starts going in there at night, and sets up a private memory file, and begins writing a program for a video game he is inventing, called... ...Space Paranoids.
+ALAN	m	You invented Space Paranoids?
+FLYNN	m	Yepper. And Vice Squad, and Meltdown... whole slew of 'em. I was this close to starting my own little enterprise. But: enter Ed Dillinger. Another software engineer -- not so young, not so bright, but very, very sneaky. One night, our boy Flynn goes to his terminal, tries to read up his file, and ... nothing. A big blank. We now take you to three months later. Ed Dillinger presents ICOM with five video games he has "invented" -- the slime didn't even change the names -- and he gets a big fat promotion. Thus begins his meteoric rise to...what is he now, Executive V.P.?
+ALAN	m	Senior exec.
+FLYNN	m	Oh my. Meanwhile, kids are putting eight million quarters a week in Space Paranoids machines and I'm not seeing one dime.
+ALAN	m	I still don't get why you're trying to break into the system.
+FLYNN	m	Because somewhere... in one of those memories ... is the evidence. If I got in far enough, I could reconstruct it.
+FLYNN	m	My password ... Dillinger's instruction to divert the data ...
+LORA	f	I'm afraid it's a little late for that. Dillinger's shut off Group 7 access. He must know what you're up to.
+FLYNN	m	Boy, I bet I know who's workin' late tonight.
+ALAN	m	Dillinger?
+FLYNN	m	Yeah. Tryin' to find the file and erase it. Once that's gone, ain't nothin' can stop him. Just Eddie and his Master Control Program, runnin' things from on high..
+LORA	f	Don't even say that. You've got to find that file before he does..
+FLYNN	m	Not much chance of that now. The MCP can just slip it into another system as soon as it locates it...
+ALAN	m	Not if my Tron program was running. That would seal the system off. If your file's in there...
+FLYNN	m	Boy, if we were inside, I know how to forge us a Group 6 access...
+LORA	f	Shall we dance?
+GIBBS	m	Ed, all I'm saying is - if our own people can't get access to their programs ... you know how frustrating it is, when you're working on a piece of research -
+DILLINGER	m	Walter, I sympathize, but I have data coming out of the Master Control Program saying there is something screwy --
+GIBBS	m	That MCP, you know, that's half the problem right --
+DILLINGER	m	The MCP is the most efficient way of handling what we do. I can't sit and worry about every little user request that --
+GIBBS	m	User requests are what computers are for.
+DILLINGER	m	Doing our business is what computers are for. Look, Walter, with all respect -- ICOM isn't the business you started in your garage anymore --
+DILLINGER	m	We're billing accounts in 30 countries, we've got one of the largest systems in existence...
+GIBBS	m	Oh, I know all that. Sometimes I wish I was back in that garage...
+DILLINGER	m	It can be arranged...
+GIBBS	m	That was uncalled-for.
+DILLINGER	m	I'm sorry, Walt. So much pressure lately... you feel like going for a drink?
+GIBBS	m	Thank you, no. I have some work to do... assuming I can still log on.
+LORA	f	You better get in back with Flynn. And keep down.
+ALAN	m	Do I gotta?
+FLYNN	m	Hi, Alan.
+ALAN	m	Hi, Flynn.
+FLYNN	m	My dinner.
+ALAN	m	I was wondering where you got that glow of good health.
+FLYNN	m	Want one?
+ALAN	m	Uh... got any cinnamon?
+LORA'S VOICE	m	Keep it down, you guys.
+LORA	f	I don't think I'm cleared for this.
+ALAN	m	I'm certainly not.
+FLYNN	m	Move aside. Let the kid have some room.
+LORA	f	Okay ... Flynn, I'm gonna put you at my terminal, down in the laser lab. We'll be up in Alan's office.
+FLYNN	m	Swell...I'll log us both on, and you can get your Tron thing running...
+LORA	f	As long as we stay off the top floor, Dillinger'll never know we've been in here...
+LORA	f	This laser's my life's work. Don't spill anything.
+SCREEN	m	Access code 6. Password Series PS 17. Reindeer, Flotilla --
+MCP	?	You shouldn't have come back, Flynn.
+FLYNN	m	Hey hey, it's that big Master Control Program everybody's talking about... You don't look a thing like your pictures... Tell me, have you really been thinking about world domination like they say? CODE SERIES LSU-123 ... activate. CODE SERIES ESS-999 ... activate. CODE SERIES HHH-888 ... activate.
+MCP	?	That isn't going to do you any good, Flynn. I'm afraid you...
+MCP	?	Stop, Flynn. You realize I can't allow this.
+FLYNN	m	Now, how do you expect to run the universe if you let a few unsolvable problems throw you like that? C'mon, big boy, let's see what...
+MCP	?	You're entering a big error, Flynn... I'm going to have to put you on the Game Grid.
+FLYNN	m	Games, huh? I'll give you --
+FLYNN	m	Oh, man... this isn't happening. It only thinks it's happening...
+FLYNN	m	Hey! Take it easy! Look, if this is about those parking tickets, I can explain everything...
+MCP	?	SARK, ES-1117821. Open communication.
+SARK	m	Yes, MCP.
+MCP	?	I've got a little challenge for you, Sark -- a new recruit. He's a tough case, but I want him treated in the usual manner. Train him for the games... let him hope for a while... and blow him away.
+SARK	m	You've got it. I've been hopin' you'd send me somebody with a little moxie ... what kind of program is he?
+MCP	?	He's not any kind of program, Sark. He's a User.
+SARK	m	A User?
+MCP	?	That's right. He pushed me...in the other world. Somebody pushes me, I push back. So I brought him down here ... What's the matter, Sark? You look nervous.
+SARK	m	Well, I -- it's just -- I don't know, a User, I mean... Users wrote us. A User even wrote you...
+MCP	?	Now get this straight, pal -- no one User wrote me. I'm worth a couple million of their man-years! I'm bigger than all those little wimps put together! Humans they can't even keen their social order in one piece
+SARK	m	But-what if I can't...?
+MCP	?	You rather take your chances with me? Want me to slow down your power cycles for you?
+SARK	m	Wait...I need that...
+MCP	?	Then pull yourself together. Get this clown trained. I want him in the Games until he dies playing. Acknowledge.
+SARK	m	Yes...acknowledge, Master Control...
+MCP	?	End of line.
+GUARD	m	Video Game Unit #18. In here, program.
+FLYNN	m	Who you callin' "program," program?
+RAM	m	New guy...
+TRON	m	Another free program off line.  What's his User s'posed to do -- ?
+RAM	m	The Users...you really think they're still there?
+TRON	m	They'd better be...I don't want to bust outta this dump an' find nothin' but a lot of cold circuits waitin' for me.
+FLYNN	m	Hey! Who are you guys? What's the story around here?
+RAM	m	You want to watch those force fields...
+RAM	m	You'll be having plenty of chances to get hurt, don't worry about that.
+FLYNN	m	Look...just so I can tell my friends what this dream was about, okay? Where am I?
+RAM	m	You're a..."guest" of the Master Control Program. They're going to make you play video games.
+FLYNN	m	Well, great, that's no sweat -- I play video games better than anybody.
+HEAD GUARD	m	Look operative, you guys. Command Program Sark will explain the training procedures.
+SARK	m	Greetings. The Master Control Program has chosen you to serve your system on the Came Grid.
+SARK	m	Those of you who continue to profess a belief in the Users will receive the standard substandard training. This will result in your eventual elimination.
+SARK	m	The Master Control Program regrets that it cannot be responsible for Identity disks lost or stolen. if you lose your disk, or fail to follow commands, you will be subject to immediate de-resolution. That is all.
+FLYNN	m	Hey, Ram ... what were you ... you know, before?
+RAM	m	Oh, I was an actuarial program... worked at a big insurance company. It really gives you a great feeling, helping folks plan for their future needs -- and of course, if you look at the payments as an annuity, over the years, the cost is really
+FLYNN	m	Yeah, yeah -- that's great.
+RAM	m	How 'bout yourself?
+FLYNN	m	Oh, uh...I don't remember too much...
+RAM	m	Sure, a little disorientation. That's normal, when they transport you. It'll come back to you. You're doing real well in training. Remarkable, really...
+SARK	m	Wait a minute...put this guy against one of the other recruits.
+FLYNN	m	Looks like we're in the same boat here -
+CROM	m	You think you're gonna wipe me right out, don't you?
+FLYNN	m	No, I
+FLYNN	m	Hey!
+FLYNN	m	Okay!
+FLYNN	m	Here's an easy one...
+SARK	m	Finish the game!
+FLYNN	m	No!
+KID	m	What's wrong with it?
+KID 2	m	I don't know... on the blink or something... damn.
+SARK	m	Kill him!!!
+FLYNN	m	No!
+SARK	m	You'll regret this.
+SARK	m	No! You said he could die in the games
+WARRIOR	m	Outta  my way, rookie.
+FLYNN	m	Out of my way, zero bit.
+WARRIOR	m	Sure, sure ... just kiddin'.
+RAM	m	Flynn! Look, Tron, he survived!
+FLYNN	m	Tron...?
+FLYNN	m	Alan!
+TRON	m	Where did you hear that name?
+FLYNN	m	Well, isn't it -- ?
+TRON	m	The name of my User, yeah. But how... ?
+FLYNN	m	I, uh... I'm a program from a User that... knows Alan...?
+RAM	m	He was disoriented in transport, Tron.
+FLYNN	m	Yeah, but I'm remembering all kinds of stuff. Like...my User wants me to go after the MCP
+TRON	m	That's what my User wants, too...
+FLYNN	m	I know...
+FLYNN'S VOICE	m	Nice one!
+TRON'S VOICE	m	Ram, stay all the way over ...
+RAM'S VOICE	m	I've got control. Go ahead.
+FLYNN	m	You guys...follow me.
+RAM	m	What do you think?
+TRON	m	Do it!
+SARK	m	Get them. Send out every Game Tank in the Grid! Get them!
+FLYNN	m	Watch it!
+RAM	m	Recognizers!
+TRON	m	Game Tanks! Come on
+FLYNN	m	Oh man...when you're on the other side of the screen...it all looks so easy...
+SARK	m	Get the pursuit force back into 404A. There's no place else they could be...
+LIEUTENANT	m	We'll have them in no time, sir. Long before the interrupt interface.
+SARK	m	We better, null unit. I'll be lucky if the MCP doesn't blast me into a dead zone. I want those programs!
+FLYNN	m	It's all circuits... Must be an input/output component...
+RAM	m	The tower, yes -- Flynn, have you remembered anything else about yourself -- like what sector you're from?
+FLYNN	m	Well...my home "sector" was called Paramus ...
+RAM	m	PARAMUS... wonder what those initials stand for ... (starts counting them off on his fingers) ...probably Program Assist Routine -- well, it sounds like a lovely place.
+FLYNN	m	It grows on you.
+TRON	m	I can feel it ...
+FLYNN	m	Feel what? You okay?
+RAM	m	Alan-One...
+TRON	m	Yes... he's got something to tell me...
+RAM	m	You think we can make it there?
+TRON	m	We have to.
+FLYNN	m	Hey, what's that?
+RAM	m	it's just what we need.
+TRON	m	Oh, that's nice. You always forget how good fresh energy feels, till you get to a pure source... Have some...you'll need it.
+FLYNN	m	well... when do we pay a call on the ol' Master Control?
+TRON	m	What, just the three of us?
+FLYNN	m	You know anybody that's got an army for rent, that's fine...but my, uh, User said to go take that sucker out. An' let's face it, the big ox isn't gonna get any weaker. I feel like hittin' him now, while I'm good an' mad. Some nerve... what does he care whether you guys get killed, long as he keeps rakin' in quarters?
+RAM	m	Do you know what he's talking about?
+TRON	m	I have to find out what Alan wants... that comes first.
+FLYNN	m	Okay, that's first. Maybe he knows what to -
+FLYNN	m	What's that?
+TRON	m	Tanks...coming back. Let's go.
+FLYNN	m	How about over there...that empty memory?
+TRON	m	No good...they might block off the old chip. This way.
+TRON'S VOICE	m	The bridge! Come on!
+SARK	m	Make contact with master Control... he'll be pleased to hear we're all finished with that User he sent us.
+FLYNN	m	You gonna make it?
+FLYNN	m	What's goin' on?
+RAM	m	We're inside a Recognizer... You are crazy -- stealing a Recognizer --
+FLYNN	m	Are you kidding? I think it's stealing us -
+FLYNN	m	You okay? You don't look so good.
+FLYNN	m	Hang on. We'll get you outta here.
+FLYNN	m	Damn! Never fails... minute the warranty runs out...
+RAM	m	Come here.
+FLYNN	m	Hey... !
+RAM	m	Little more juice's all it needs...
+FLYNN	m	Never gonna figure out how to work this thing...
+FLYNN	m	Okay -- hold it right there!
+BIT	m	Yes!
+FLYNN	m	What do you mean, "'yes"?
+BIT	m	Yesssss. Yes. Yes. Yes.
+FLYNN	m	That all you can say?
+BIT	m	No, nyet, negatory, not on your tintype, no way.
+FLYNN	m	Oh. Anything else?
+BIT	m	Oui, da, yessiree, sure 'nuff, you betcha.
+FLYNN	m	only yes and no... You're a bit.
+BIT	m	For sure...
+FLYNN	m	where's your program? Won't it miss you?
+BIT	m	No...
+FLYNN	m	I'm your program?
+BIT	m	Right on the money!
+FLYNN	m	Another mouth to feed... you don't by any chance know how to drive this crate?
+FLYNN	m	Like so?
+TRON	m	I'm not gonna hurt you.
+TRON	m	I'm going to let you go now... don't scream, or I'll be very sorry.
+TRON	m	Put your hand behind your back.
+GIRL	f	TRON!!
+TRON	m	Yori... hey...
+YORI	m	Oh, Tron... I knew you'd escape... they've never built circuit that could hold you...
+YORI	m	This way. Come on.
+PROGRAM	m	...artillery for Video Game Sector...
+PROGRAM 2	m	...all mathematical functions transferred to...
+YORI	m	I can't believe how bad it's gotten around here since the MCP started taking over... all the good functions have shut down... everybody looks so dead... I'm afraid to even go out during down-time...
+TRON	m	That's all going to change, Yori...
+YORI	m	How?
+TRON	m	Don't know yet... I have to get in touch with Alan. He was going to tell me how to
+YORI	m	My quarters.
+TRON	m	Why is everything...like this?
+YORI	m	It's a flat. But wait a micro...
+YORI	m	Come here.
+TRON	m	You're beautiful, Yori.
+YORI	m	You've grown, big program.
+TRON	m	I had to...in the games...
+FLYNN	m	This honey doesn't handle so good in town...
+BIT	m	No, nuh-uh, never in a million years!
+BIT	m	Ix-nay! Noper! Under no conditions -
+BIT	m	Right, confirmed, I couldn't have put it -
+FLYNN	m	Catch me listening to you again.
+FLYNN	m	Hey. Hi. Hey, everything's okay. Fine. Little trouble, but we're okay. Thanks for your concern. So long.
+FLYNN	m	This town's full o' live ones.
+BIT	m	Not a chance.
+PROGRAMS	?	I have to re-route the insurance information bits... Next cycle we start the war game simulation for the MCP... Did you make that accounts receivable adjustment for Sark... Certainly... the MCP wants only minimal functions left in Sector 84Q.
+YORI	m	Dumont... ?
+DUMONT	?	Yes?
+TRON	m	I... have come to communicate with my User.
+DUMONT	?	Hmm. A difficult proposition... difficult proposition at best. Perhaps you've noticed... we're not exactly packing them in these days ...
+YORI	m	Yes...what--?
+DUMONT	?	You know, not so long ago, you could've come in here and seen programs lined up all the way back to those doors, waiting for communion with their Users. The building fund was doing well too...but now... ...this so-called Master Control Program is going around cutting programs off from their natural creators, grabbing all our believers and making them ride around on little motor scooters and shoot things at each other and Weiner knows what all-- oh, it's enough to give you a crisis of faith...
+TRON	m	Well I want to communicate --
+DUMONT	?	Oh, you want to -- hah. I could get myself de-rezzed just-for letting you in here. They hate this tower. They'd close it down if they dared to but they keep me around, in case one of them wants to deal with the other world once in a while. And you should hear the way they commune! Sounds like they were routing a payroll, for all the heart they put in it. No, I don't think you
+TRON	m	Dumont... my User has information that could -- could make this a free system again.
+DUMONT	?	Hah.
+TRON	m	Really. You'd have programs lined up around the block to use this place -- and no MCP looking over your shoulder.
+DUMONT	?	When you've been in the system as long as I have, you hear many promises... many reassurances...many brave plans...
+DUMONT	?	Who is your User, program?
+TRON	m	Alan-One. He calls me... may I pass?
+DUMONT	?	All that is visible must grow beyond itself and extend into the realm of the invisible.
+DUMONT	?	You may pass, my friend.
+FLYNN	m	This is where Tron said he was going...
+FLYNN	m	Looks like his kind of place, too... real serious.
+GUARDS	m	Hut! Hut! hut! Hut! Hut!
+BIT	m	All right!
+FLYNN	m	Sshhh I'm still me. Just a different color. C'mon.
+SARK	m	That old fruitcake Dumont... he'll pay for this.
+SARK	m	Bring in the logic probe!!
+TRON	m	Confirmed, Alan-One.
+ALAN	m	There you are... look, before we get cut off again...
+TRON	m	Wait! I can't hear...
+DUMONT	?	I have waited for this moment many thousands of cycles. It is time for the new order to begin... The Users are waiting.
+SARK	m	Dumont!
+SARK	m	Where's the program?
+DUMONT	?	Program? I'm sure you're mistaken.
+SARK	m	Take him!!!
+TRON V.O.	m	Can it carry us?
+YORI	m	Yes...it can take us across the Sea of Simulation... all the way out of the Game Grid...to the MCP.
+TRON	m	As long as it gets us out of here
+TRON	m	Yori! Get down!
+YORI	m	We're off!
+MCP	?	I hope you've enjoyed being a command program, Sark. I wonder how you'll like working in a pocket calculator... maybe one of those watches that plays "Happy Birthday" to its User once a year.
+SARK	m	Now, sir... We did take care of that User you sent us --
+MCP	?	Yes, and now you've got two renegade programs running all the hell over the system in a stolen simulation.
+SARK	m	We'll get them, sir... These things take time.
+MCP	?	I don't have time, Sark. And neither do you. End of line.
+YORI V.O.	m	Tron, are you all right?
+BIT	m	No way, not on your life, no siree!! Nothing doing, forget it!!!
+TRON	m	Flynn!!
+FLYNN	m	Greetings, program...
+TRON	m	You're alive!
+FLYNN	m	Yeah, I... oops!
+YORI	m	Who is this?
+TRON	m	Flynn... Where's Ram?
+FLYNN	m	I'm sorry, Tron... he's... he didn't make it.
+TRON	m	This is Flynn... the one who busted me out.
+YORI	m	Then I owe you some thanks...
+FLYNN	m	No big deal. I ought to know my way around that Light Cycles routine... I mean, I did write the program for it.
+TRON	m	Wrote the...?
+FLYNN	m	It's time I levelled with you, Tron. I'm a -- well, I'm what you guys call a User.
+YORI	m	A User -- in our world?
+FLYNN	m	Guess I took a wrong turn somewhere...
+TRON	m	But -- if you're a User -- then everything you've done has been part of a plan ...
+FLYNN	m	You wish. Man, I haven't had a second to think since I got down here. I mean in here. Out here. Whatever.
+TRON	m	Then...
+FLYNN	m	Look, you guys know how it is. You just keep doin' what it looks like you're supposed to, even if it seems crazy, and you hope to hell your User knows what's goin' on.
+TRON	m	Well -- that's how it is for programs, yes, but --
+FLYNN	m	I hate to disappoint you, pal, most-the time, that's how it is for Users, too.
+TRON	m	Stranger and stranger...
+BIT	m	You said it.
+FLYNN	m	So... Nice ship you got here. What's our next move?
+TRON	m	Remember you wanted to pay a call on the MCP?
+TRON	m	We're on our way. Alan-One gave me the coding we need to go up against Master
+FLYNN	m	All right. Thank God. Alan stayed awake, at least.
+LIEUTENANT	m	Sir, what do you want done with the tower guardian, Dumont? Put him with the others?
+SARK	m	No, bit brain.
+SARK	m	Prepare him for inquisition. I need a little relaxation. But first rez up the carrier for pursuit... And one other thing.
+SARK	m	Don'tthink anymore. I do the
+FLYNN	m	What about our friend - Sark?
+TRON	m	Probably decided not to pursue us, The Sea of Simulation is tricky.. lot of illusions...rough navigating. Programs have a way of just... disappearing here.
+FLYNN	m	Not us, I hope.
+TRON	m	Not with this disk. I'm going to check on the beam connection, Yori. You two can keep a watch out for grid bugs.
+FLYNN	m	Boy the view from up here... you know the territory?
+YORI	m	A little ... Over there, the Mountains of Data... and I think that's the Silicon Valley...
+FLYNN	m	What's wrong with that area?
+YORI	m	The MCP blasted it... There are very few domains left with any power at all.
+FLYNN	m	Lousy utility companies ... they're the same wherever you go.
+DUMONT	?	What do you want? I'm busy.
+SARK	m	Busy dying, you worn-out excuse for an old program.
+DUMONT	?	Yes, I'm old.
+DUMONT	?	Old enough to remember the MCP when he was just a chess program. He started small, and he'll end small.
+SARK	m	That's very funny, Dumont. Maybe I should keep you around, just to make me laugh.
+SARK	m	Guards! Bring this antique to the bridge so he can watch his friends be obliterated.
+TRON	m	What is it?
+YORI	m	Power surge... the transmission beam's too strong!
+TRON	m	We have to get off this beam!
+YORI	m	I can't. There's no junction due for at least 7 or 8 nanoseconds!
+FLYNN	m	There's another beam!
+YORI	m	It's too far!
+YORI	m	Where's he going?
+TRON	m	The beam connection... but he'll be de-rezzed!!
+FLYNN	m	Did we make it?
+TRON	m	Yes.
+FLYNN	m	Hooray for our side...
+FLYNN	m	Hey... you guys OK?
+TRON	m	How about you?
+FLYNN	m	Aah, I'm fine... little hung over is all...
+YORI	m	How did you do that, Flynn?
+FLYNN	m	Elementary physics... a beam of energy can always be diverted... ooh, my head Are we there yet, Mommy?
+YORI	m	Almost... I just have to adjust our course at the next junction. I'd better go check the instruments ...
+DUMONT	?	Quietly, Yori...
+DUMONT	?	Tron... ?
+YORI	m	He's dead.
+DUMONT	?	And who is this?
+YORI	m	He's a User, Dumont. He came to our world... trying to help us...
+DUMONT	?	If the Users can no longer help us...
+SARK	m	So... we have erased the program that -
+SARK	m	You! No!
+SARK	m	You died! I saw you!
+FLYNN	m	Not me, boss.
+SARK	m	Well... we can take care of that soon enough.
+SARK	m	Take this program to the holding pit.
+YORI	m	Dumont...!
+SARK	m	I'm taking our friend here, and some other religious fanatics, to Master Control... the MCP has expressed an interest in assimilating them -- probably for archival purposes. I'm not going back to the Game Grid on this ship, though -- I'll take the Transport Beam. Less traffic. But when I disembark, this ship...and everything that remains on board...will automatically de-rez. This means you. Enjoy your trip...
+LIEUTENANT	m	Docking module prepared to disengage, sir.
+FLYNN	m	Hey!
+FLYNN	m	Look, the door's almost...
+FLYNN	m	Yori!
+YORI	m	You... you brought me back...? Why...? How ... ?
+FLYNN	m	I'm gonna need your help. Hey, Bit!
+BIT	m	Yes!
+FLYNN	m	Let's get outta here.
+MCP	?	I am delighted that so many of you could turn out to give your power over to me...
+MCP	?	You're very lucky, all of you. You are participating in the creation of the single most powerful program in the history of the system... of all systems...
+MCP	?	A program with a will... with ambition... a superior form of life...
+SARK	m	Go!
+MCP	?	Welcome!
+FLYNN	m	Check out the controls.
+FLYNN	m	We're getting closer.
+MCP	?	Dumont, I'm so pleased that we've finally come to terms with one another...
+VOICE	m	SARK!
+SARK	m	I don't know how you survived, slave.
+SARK	m	It doesn't matter. Prepare to terminate.
+FLYNN	m	I can rev this baby up a little
+FLYNN	m	Wait a minute Yori! YORI!! LOOK!
+YORI	m	TRON!!
+YORI	m	Flynn, we've got to help him!
+FLYNN	m	Let's get some power here.
+SARK	m	You are very persistent, Tron.
+TRON	m	I'm also better than you....
+SARK	m	Very clever, Tron. You know you should have joined me.
+FLYNN	m	Any response?
+YORI	m	It's starting
+SARK	m	We would have made a great team.
+MCP	?	It is very good that you...
+TRON	m	I don't think it is good for you, MCP.
+MCP	?	Sark! How have you allowed this program to
+TRON	m	Sark's out. Would you like to leave a message?
+MCP	?	I am the message. The only message. Sark!
+TRON	m	Dumont!
+DUMONT	?	No... Tron ... must... destroy MCP... first...
+TRON	m	Dumont! Where's Yori? Where's Flynn?
+DUMONT	?	They may be... de-rezzed... on the carrier ... hurry...
+MCP	?	Program... stop. This is not allowed!
+MCP	?	I will not allow this Sark!
+FLYNN	m	Yori, steer us over the beam, right next to it.
+YORI	m	Why? What are you going to do?
+FLYNN	m	Jump.
+YORI	m	But... won't you be de-rezzed?
+FLYNN	m	Probably.
+YORI	m	Flynn... you can't... I
+FLYNN	m	Shhhhh.
+FLYNN	m	I'm sure Tron wouldn't mind if... just once...
+FLYNN	m	Don't worry.
+SARK/MCP	?	End of line, program...
+TRON	m	Nice...
+YORI	m	It's something Users do.
+TRON	m	Where's Flynn?
+YORI	m	He's gone. He went into the beam. He saved you. He saved all of us.
+DUMONT	?	He really was a User...
+BIT	m	Yes...
+FLYNN	m	Hey -- you guys
+ALAN	m	Flynn! I made it. I worked out some new codes for Tron, put 'em on a disk, and -- it's running.
+FLYNN	m	I know, I met him.
+FLYNN	m	I mean, I saw it read-up - hey, look at this.
+ALAN	m	Your old files -- ?
+FLYNN	m	And Dillinger's instructions to divert them -- it's all there - look, even his home phone number, when he logged on.
+ALAN	m	Oh, that is beautiful. You've got the goods...
+FLYNN	m	You're telling me...
+FLYNN	m	Hey, you know anybody who wants to get hold of some video games... cheap?
+LORA	f	You're getting out of the business?
+ALAN	m	Shouldn't you wait till your lawsuit's settled?
+

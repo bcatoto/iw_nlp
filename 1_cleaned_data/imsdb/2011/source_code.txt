@@ -1,0 +1,791 @@
+COLTER	m	Ma'am? Nothing.
+COLTER	m	Excuse me... ma'am? She looks up. Blank stare.
+COLTER	m	What is this?
+CHRISTINA	f	What's what?
+COLTER	m	Where am I?
+CHRISTINA	f	(looks out the window) Almost at Newark. Goes back to her journal.
+COLTER	m	What's Newark? A city?
+CHRISTINA	f	It's more of a hell hole. But Colter still doesn't understand. He gets up. Nausea slams into him. He hangs on to the seat.
+COLTER	m	Woah. I think I'm going to puke.
+CHRISTINA	f	(gestures, alarmed) Okay, bathroom's that way. Colter looks down the aisle, hesitating.
+CHRISTINA	f	Go. Seriously. Colter eases himself into the aisle. Totters down the length of the car until he finds the RESTROOM. The door is LOCKED. The latch reads "OCCUPIED."� Bracing himself, he lurches forward into...
+CONDUCTOR	m	Ticket? A heavy-set CONDUCTOR stands in the aisle. A jangling of keys. Colter just stares at him. Dazed.
+CONDUCTOR	m	May I see your ticket? The last thing on his mind. Bewildered, he searches his pockets.
+COLTER	m	I don't think I...
+CONDUCTOR	m	Have to write you up then. He pulls out a citation pad.
+COLTER	m	Is this...? From inside his sports coat he pulls out a TRAIN TICKET. The conductor snips his ticket and brushes past.
+COLTER	m	Wait a sec. I'm a little out of it here. Where's this train headed?
+CONDUCTOR	m	New York. Penn Station.
+COLTER	m	New York? Why would he be going to New York? How can this be happening? Fear starts to grip him as the hallucination simply continues.
+COLTER	m	Do you know where I got on? The conductor examines his ticket again.
+CONDUCTOR	m	Princeton Junction.
+COLTER	m	Where's that?
+CONDUCTOR	m	"�Bout ten minutes back.
+COLTER	m	But I've never been to Princeton Junction. See... I don't remember waking up or buying a ticket or getting on the train or anything else. It's just a blank.
+CONDUCTOR	m	Lucky you. The jaded conductor moves on. Colter is alone with his confusion. Takes a deep breath. The nausea has eased slightly.
+COLTER	m	Okay. You're gonna figure this out.
+DEREK	m	Trust me, by one o'clock, the bridge is going to be jammed... A COLLEGE STUDENT, slumped against a window, eyes shut, listens to an MP-3 player. An OLD MAN with a faded wool suit clutches a cane. A BACKPACKER, female, European, 20s, hiking boots, examines a guidebook. A dowdy OFFICER MANAGER type sorts supermarket coupons into a tabbed file box. An African American EXECUTIVE reads a newspaper. None of them pays any attention to Colter. A WHOOSH of AIR -- he turns to An AIR-CONDITIONING VENT. The HISS of AIR sound sinister. Like the exhalations of a creature. A SCRAPE. He looks to see A woman FILING HER NAILS. Colter cringes. Every detail, every sensory impression seems heightened, near the point of overload. He reaches Christina again. Eases back in the seat across from her. She writes in her journal, ignoring him.
+COLTER	m	Sean Fentress? Who the hell's that? And why does he have this guy's wallet? He leans forward to speak with Christina again.
+COLTER	m	Ma'am? She lowers her journal, annoyed. We see she hasn't been writing but DRAWING. A well-executed sketch of a face.
+CHRISTINA	f	Why do you keep calling me ma'am? How old do you think I am, anyway?
+COLTER	m	I'm having a little problem here. I'm trying not to freak out, but I think something's happened to me.
+CHRISTINA	f	Like what?
+COLTER	m	Like, total memory loss. Complete. I don't know how I got here.
+CHRISTINA	f	So you drank too much last night. So did I. Unfortunately, I remember the whole thing.
+COLTER	m	That's not it. See... I'm a pilot. I fly helicopters in Iraq. I'm in the army. She waits for more. As if he's telling a joke.
+COLTER	m	I was on a mission. Right before I woke up here I was in the middle of a mission...
+CHRISTINA	f	Boy, you really did drink a lot last night.
+COLTER	m	I'm telling you the truth.
+COLTER	m	These aren't my clothes. And this wallet here... He holds up the driver's license. One final attempt to convince her.
+COLTER	m	You see this? This isn't me.
+CHRISTINA	f	Of course it is.
+COLTER	m	What?
+CHRISTINA	f	Take a look in the mirror, good sir. The mirror? She goes back to her sketchbook. Determined not to be interrupted again. Anxiety ripples through Colter.
+COLTER	m	This can't be happening. The train lurches to a stop.
+THE MIRROR	m	Staring back is SEAN FENTRESS'S FACE. Not his own. He's frozen there. Heart pounding. Seized by cosmic panic. He SLAPS himself in the face. Hard.
+COLTER	m	Wake up! The restroom rattles and tilts with the motions of the train, obliging him to hang on. This isn't a dream. At least not one he can wake up from. The other guy's face stares back at him. Blinks when he blinks.
+CHRISTINA	f	Hey. You okay in there?
+CHRISTINA	f	You left your bag on the seat. Which is a flagrant violation of rail security, leaving a suspicious package behind and all that. I probably saved you a huge fine. No answer.
+CHRISTINA	f	I'll just leave it right out here for you. She places the bag beside the door. She hesitates at the door. The oddness of this situation.
+COLTER	m	Three months?!
+COLTER	m	Jesus.
+COLTER	m	Where am I?
+COLTER	m	I'm dizzy.
+COLTER	m	What is this? Who am I talking to? More confusion. No idea how to react. Just as on the train.
+COLTER	m	When?
+COLTER	m	I was on a train.
+COLTER	m	And... There was a bomb. What the hell is going on?!
+GOODWIN	m	Standby for thread one of alpha memory pattern.
+COLTER	m	Who are you?
+GOODWIN	m	You already have that information, Captain. Now think. Recall my name. A long moment. A name floats into his head.
+COLTER	m	Goodwin?
+GOODWIN	m	Correct.
+COLTER	m	How do I know that? I have no idea how I know your name's Goodwin.
+GOODWIN	m	Commencing memory pattern.
+COLTER	m	Listen to me. Something's wrong. I was flying a mission. I was in a chopper. Then I woke up on a train. Now I'm here. Can you explain that? What unit is this?
+GOODWIN	m	You're with Beleaguered Castle.
+COLTER	m	Who?
+GOODWIN	m	You're with friends. The exercises will assist you. Are you ready? Just like with the train, he seems to have no choice but to go along with it.
+GOODWIN	m	Memory Thread One. Listen to the following passage: "When Lily woke, she had the bed to herself. She sat up, bewildered by the strangeness of her surroundings; then memory returned, and she looked about her with a shiver.
+GOODWIN	m	In the cold slant of light reflected from the back wall of a neighboring building, she saw her evening dress and opera cloak lying on a tawdry heap on a chair."� End of thread one. Silence. Is it Colter's turn to speak?
+COLTER	m	I don't get it. Is this a Red Flag exercise?
+GOODWIN	m	Thread Two. Listen. I am holding the following hand of cards: Queen of spades. Four of clubs. Nine of clubs. Three of hearts. Nine of hearts. I repeat: Queen of spades. Four of clubs. Nine of clubs. Three of hearts. Nine of hearts. End of thread two. Beads of sweat on Colter's forehead. What the hell?
+GOODWIN	m	Thread Three. The following is a recording of a Western Screech-Owl: A rather spooky BIRD CALL plays -- a short whistle, followed by a long trill. The call is repeated twice more.
+GOODWIN	m	End of Thread Three. End of pattern. Acknowledge. Unexpectedly, in the back of his mind, a reply is there.
+COLTER	m	A... Acknowledge. End of pattern. How did he know to say that? A conditioned response?
+GOODWIN	m	Stand by to initiate pattern recall.
+COLTER	m	Go for pattern recall. The response comes to him more quickly. Like lines from an old script. Even if it still baffles him.
+COLTER	m	Queen, two nines, four and a three.
+GOODWIN	m	That is correct. The passage I read contained mention of a woman's name. What was that name?
+COLTER	m	Laurie. No. Lily. Her name was Lily. At each answer, Goodwin makes notations and adjusts gauges.
+GOODWIN	m	That is correct. End of pattern. Goodwin leans forward to flip a switch and EVERYTHING GOES
+GOODWIN	m	Please list the primary specifications of the aerial platform you've been trained to operate. Colter mulls his options. Should he talk? Keep silent? He tugs against the steel harness holding him in. A HATCH, like the kind used on submarines, seals the capsule. Goodwin's voice grows slightly louder over his headset.
+GOODWIN	m	Please list the primary specifications of the aerial platform you've been trained to operate.
+COLTER	m	Is someone going to tell me what's going on here?
+GOODWIN	m	Please list the primary --
+COLTER	m	The UH-60 Blackhawk Helicopter weighs 20,250 pounds with a maximum exterior load capacity of 8,000 pounds. It has a range of 320 nautical miles and is armed with two 7.62 millimeter machine guns.
+GOODWIN	m	That is correct. Who bombed the train?
+COLTER	m	The train.
+GOODWIN	m	Who bombed the train, Captain?
+COLTER	m	I have no idea.
+GOODWIN	m	Whom do you suspect bombed the train?
+COLTER	m	I don't know!
+GOODWIN	m	You didn't see?
+COLTER	m	Will you tell me what the hell is going on here?
+GOODWIN	m	The Screech-Owl song can be seen as a progression of musical notes. Did the notes go up, down or remain at the same pitch?
+COLTER	m	I don't know. Just tell me --
+GOODWIN	m	How many times was the bird call repeated?
+COLTER	m	What does this have to do with the train?
+GOODWIN	m	How many times was the bird call repeated?
+COLTER	m	Twice.
+GOODWIN	m	Incorrect. Who bombed the train, Captain?
+COLTER	m	I don't know who bombed the train! Colter is seething now. Had it with these games.
+GOODWIN	m	You have seventeen minutes. Use them. Find the bomber. ON SCREEN -- Goodwin leans forward to press a button and --
+COLTER	m	It's a goddamn simulation. Christina's pen stops sketching. She glances up.
+COLTER	m	A three dimensional, completely immersive scenario. Touch, taste, sound, sight and smell. A measure of relief. A way to think about all this.
+CHRISTINA	f	Are you talking to me?
+COLTER	m	Complete with pretty girl.
+CHRISTINA	f	Pretty girl.
+COLTER	m	Every combat simulator has one. In the middle of a fire fight a pop-up window starts playing a porno. You're an unusual choice for a distraction.
+CHRISTINA	f	And you're a moron. Disregarding her, Colter gets up. Pursuing a new line of action. The only way he can make sense of this. He starts walking up the rows.
+COLTER	m	Find the bomber. Find the bomber. The conductor approaches him.
+CONDUCTOR	m	Ticket? Expecting this now, Colter hands over his ticket to be punched.
+COLTER	m	Everything okay today, chief?
+CONDUCTOR	m	Say what?
+COLTER	m	Anything out of the ordinary? The conductor frowns at him. Who is this guy?
+CONDUCTOR	m	Please take a seat, sir. Colter moves on. He looks for suspects. We've seen the faces before -- the Computer Engineer, the Secretary, the Stock Broker, the Backpacker and so on. All seems normal. He finds himself focusing on a jumble of unfiltered details -- Suits. Ties. Shoes. Skirts. Watches. Newspapers. Coffee cups. Litter. Sudden dizziness. He grabs a seatback for support. Sensory details slam into him. We go EXTREMELY CLOSE ON: The STITCHING on a leather purse. A FOUNTAIN PEN rattling in a fold-out tray. AIR CONDITIONING hissing from a vent. A CRUMPLING SOUND as the Overweight Man crushes an empty soda can. TAP, TAP, TAP -- the Computer Engineer tapping his foot on the floor. Faster and faster. Derek, the Wall Street Type, talks on his phone:
+DEREK	m	Trust me, by one o'clock, the bridge is going to be jammed... Then... the CLICK of a LOCK UNLATCHING.
+COLTER	m	How's it going? Colter stands in front of him, arms crossed. Behind his dark glasses, Guzman ignores him, but he's visibly uncomfortable.
+COLTER	m	What's your name? Guzman is stock still. Beads of sweat on his forehead. The conductor appears, accosting Colter.
+CONDUCTOR	m	Didn't I tell you to take a seat?
+COLTER	m	Goodwin? Where are you? It's over. I found him. Appealing to Goodwin's invisible presence. But nothing happens.
+CONDUCTOR	m	Who are you talking to? An edgy silence. Other passengers looking over. Colter's about to retort, about to accuse Guzman, when he stops. It's too easy. Colter senses the uproar he's about to create. Which just might be a mistake. He reconsiders.
+COLTER	m	Sorry. This guy seemed a little... anxious. I was worried about him.
+GUZMAN	m	I am minding my business. Tell him to mind his.
+CONDUCTOR	m	You feeling all right, sir? With a pained smile, Guzman loosens his collar.
+GUZMAN	m	Motion sickness, I'm afraid. I believe I will get off at the next stop.
+CONDUCTOR	m	Very well. The conductor turns back to Colter.
+COLTER	m	Okay. I'm sitting down. Turning away, he finds a seat. He studies Guzman out of the corner of his eye.
+COLLEGE STUDENT	m	Hey, you dropped this.
+DEREK	m	(relieved, takes back the
+WALLET)	?	Wow. Thanks. The College Student waits to get off. Colter now eyes him closely. As the train pulls to a stop, Guzman forcefully pushes forward towards the doors, moving with a barely contained urgency.
+GUZMAN	m	Excuse me... Please let me through...
+COLTER	m	Jesus, he's running away.
+COLTER	m	A guy just came through here. Did you see where he went?
+CLERK	m	(not looking up) Lots of guys come through here. Windows look out over the station's parking lot. There's no sign of Guzman out there.
+COLTER	m	He was just here. A Middle Eastern- looking guy. Through the platform doors comes Derek, followed by the College Kid. Derek heads for the parking lot, while the College Kid mills around the newspaper stand. A muffled COUGH. Colter spins. Sees a door marked "MEN'S ROOM."�
+COLTER	m	All better now? Guzman's face hardens. He goes to the sink to wash his hands.
+COLTER	m	Don't much care for trains myself.
+GUZMAN	m	I resent this. This is harassment. You obviously work for someone. I expected this reception in your country.
+COLTER	m	How are you going to pull this off? That bomb has a cell phone detonator. And I don't see a pay phone around here. So I'm betting you got a phone on you with the number already programmed in.
+GUZMAN	m	I have no idea what you're talking about. I am an international business man. An executive. The tracks begin to VIBRATE. In the distance comes the HORN of an EXPRESS TRAIN approaching.
+COLTER	m	Open your briefcase. Prove to me there's no phone in there.
+GUZMAN	m	I will prove nothing to you. Leave me alone. WHAM! Colter PUNCHES Guzman with tremendous force, sending Guzman sprawling to the ground. Colter's hand throbs from the force of the punch. The simulation's reality stuns Colter all over again. Crouching down, Colter pops open Guzman's briefcase. Inside is a corporate IDENTIFICATION BADGE with Guzman's name and photograph on it. The company is Shell Oil.
+COLTER	m	"Hasnan Guzman, Vice President, Shell Oil."� Must be a cover.
+COLTER	m	Where the hell's your phone? Another look at HIS WATCH -- 20 SECONDS. Grabbing Guzman, Colter goes through his suit pockets. He triumphantly pulls out GUZMAN'S CELL PHONE and steps back. Guzman looks up at him, eyes moist with humiliation and malice.
+COLTER	m	I thought so. Now let's see you try to -- A distant THUD rattles the station windows. Colter pivots, looks down the tracks. The first thing he sees is
+COLTER	m	You didn't do it. Disbelief. As the din of the distant explosion is drowned out by the ROAR of
+COLTER	m	Holy fuck!
+GOODWIN	m	Do you need to urinate?
+COLTER	m	A fucking train just ran over me.
+GOODWIN	m	Do you need to urinate?
+COLTER	m	How are you doing this? Am I on some kind of drug?
+GOODWIN	m	Did you find the bomber?
+COLTER	m	I didn't find the bomber. You fooled me with the Middle Eastern guy. I went for the diversion. What kind of freaky simulation is this? Let me out of here!
+GOODWIN	m	Which Middle Eastern guy? Be specific.
+COLTER	m	Guzman. Shell Oil. Look, I don't have intel experience. Why do you have me doing this?
+GOODWIN	m	You've already been told what you need to know. Discipline your memory. Limit your operational awareness to the tasks we assign you. Everything else is irrelevant.
+COLTER	m	Irrelevant? Killing me each time is irrelevant?
+GOODWIN	m	You do not die. As you can see, you simply return to us.
+COLTER	m	How? How can you do that? Silence.
+COLTER	m	Who's the man with the pipe?
+GOODWIN	m	Say again?
+COLTER	m	There was a man smoking a pipe. I saw him on the monitor. Who's he? How does he fit into this?
+GOODWIN	m	The man with the pipe isn't here right now.
+COLTER	m	Let me talk to him. This isn't right. I'm not your prisoner. Goodwin makes technical adjustments to dials and gauges.
+GOODWIN	m	You feel unsatisfied with our relationship?
+COLTER	m	What is this? Why are you talking like that? Is this some kind of script?
+GOODWIN	m	If Guzman, the Middle Eastern man, is innocent, as you maintain, who might be the guilty party?
+COLTER	m	Who cares? I'm tired of this.
+GOODWIN	m	This isn't a game, Captain.
+COLTER	m	Then what is it? Don't you already know who the bomber is? Don't you have all the answers?
+GOODWIN	m	We have no answers. Only corpses. A weird beat.
+COLTER	m	Corpses? Whose corpses? The passengers?
+GOODWIN	m	Some were too badly burned to be identified.
+GOODWIN	m	The heat from the explosion fused many of them completely into the wreckage. Is this the truth? Or another evasive answer? His mind pulled in all kinds of unpleasant directions.
+COLTER	m	These were real people?
+GOODWIN	m	Yes.
+COLTER	m	This really happened?
+GOODWIN	m	Yes.
+COLTER	m	When?
+GOODWIN	m	Today.
+COLTER	m	Today?! The train blew up today?
+GOODWIN	m	It was attacked this morning, at 7:57 a.m., Eastern Standard Time. Six miles outside of New York City. Colter's head is spinning.
+COLTER	m	You're lying. I don't believe it.
+GOODWIN	m	What do your senses tell you? His senses tell him it's true. But how can he accept it?
+COLTER	m	Where am I, right now, as we speak?
+GOODWIN	m	With Beleaguered Castle.
+COLTER	m	My unit's still in Iraq. I'm flying missions in Iraq. I flew one yesterday!
+GOODWIN	m	Your unit was rotated Stateside three weeks ago. The news comes like a slap in the face. Colter clearly has no memory of this.
+COLTER	m	Then why do I still have Iraqi dirt underneath my fingernails? Goodwin simply makes another adjustment on the controls.
+COLTER	m	Talk to me! Three weeks? I've been back three weeks? How'd I get in here? Have I seen my family? Does my father know I'm home? "�Cause I'd kinda like to tell him if that's the case.
+GOODWIN	m	Listen up, soldier. Goodwin hunches forward, putting his elbows on his desk. As he does so, he inadvertently reveals a glimpse of his military unit SHOULDER PATCH. The insignia contains wings and a lightning bolt against a background of stars. Underneath it is written "CAOC-N."�
+GOODWIN	m	The train is just the beginning. Our intel says there are more attacks are coming today. And they're linked with the train. Time is of the essence. Do you understand? Colter barely hears. He's fixated on that shoulder patch.
+GOODWIN	m	Captain?
+COLTER	m	I'm listening.
+GOODWIN	m	D.N.I. Counterterrorism has come up with the five most likely follow-up targets in the New York area.
+GOODWIN	m	They are, in no order of importance, the Holland Tunnel, Newark International Airport, the Brooklyn Bridge, Penn Station and the Empire State Building. It could be any of them, it could be none of them. Whatever it is, if you find the bomber and learn his plan, the next one we might be in a position to prevent. Those are your orders. It's too much information to process. Colter's head spins with questions.
+COLTER	m	Wait. If I'm somehow on that train before it blows up, why don't I just dismantle the bomb?
+GOODWIN	m	Those are not your orders.
+COLTER	m	But all those people dying...
+GOODWIN	m	Those are not your orders. You are not to influence events any more than you need to in order to accomplish your mission. Military priorities. Defying comprehension.
+COLTER	m	I didn't volunteer for this shit.
+GOODWIN	m	Would you like to see the release form you signed?
+COLTER	m	How do I know it's real? How do I know you didn't force me to sign it? And how the hell can I be put on a train over and over again -- a train I never was really on?! He might as well be talking to a wall.
+COLTER	m	I don't believe in time travel, Goodwin. There's no such thing.
+GOODWIN	m	Only one way forward, Captain. Seventeen minutes. Find the truth.
+COLTER	m	Why seventeen? Why me? Why anything? The capsule begins to SHAKE.
+COLTER	m	Let me out! Don't send me back there! SFX: UP ON a HUGE ROAR as --
+COLTER	m	Shit. This is not happening. He leans back in his seat, as if just another beaten down office worker on the train.
+CHRISTINA	f	Ain't life grand? Across from him, Christina sketching. A gentle smirk. He focuses in on her. Not knowing where else to begin.
+COLTER	m	You an artist?
+CHRISTINA	f	I went to art school. Doesn't make me an artist.
+COLTER	m	Can I see what you're working on?
+CHRISTINA	f	I'd rather not. He looks down at his watch. 7:41 a.m. He's been back for one minute. Adjusting the settings, he changes the digital display to COUNT DOWN the remaining SIXTEEN MINUTES. He tries again for human contact.
+COLTER	m	You don't look like you belong here. The way you're dressed.
+CHRISTINA	f	You certainly do.
+COLTER	m	I'd really like to see what you're working on. Unless you're worried I won't like it.
+CHRISTINA	f	It's private. And your opinion doesn't interest me.
+COLTER	m	So you scribble away on that thing so as not to deal with people. She scowls. Tosses the sketch pad onto his lap. Surprised, Colter opens it. It's full of faces -- thumbnail portraits of other passengers riding the train. They're exquisitely observed, darkly stylized into expressions of loneliness.
+COLTER	m	They're amazing.
+CHRISTINA	f	I wouldn't go that far.
+COLTER	m	Seriously, they're really good, Miss...?
+CHRISTINA	f	Christina.
+COLTER	m	My name's Colter. How many of these passengers have you drawn?
+CHRISTINA	f	All of them, practically. She leans forward, eyes glinting conspiratorially.
+CHRISTINA	f	I know all about them.
+COLTER	m	You know all about them?
+CHRISTINA	f	I'm a collector of moments. That woman over there? She's a patent attorney with three kids and a summer place on Long Island. More important, however, she colors her hair herself and wears the same houndstooth check suit every third Wednesday. The nebbishy fellow behind her always calls into his office three minutes before we go into the tunnel. And the guy with the shaved head and leather jacket eating a scone has a profile identical to that of Julius Caesar. A click of the restroom door opening. Guzman emerges from the bathroom and returns to his seat.
+CHRISTINA	f	I haven't seen him before today. He's cranky. Thinks the worst of people.
+COLTER	m	Dangerous?
+CHRISTINA	f	Everyone's dangerous.
+COLTER	m	You see anything unusual happen this morning? Anything out of the ordinary?
+CHRISTINA	f	I'm not sure I know what you mean.
+COLTER	m	Has anyone else come out of that bathroom that you remember? She takes a closer look at him. A puzzled smile.
+CHRISTINA	f	Who are you? Colter hesitates. Debating.
+COLTER	m	Don't you know? Haven't you seen me here every day for, what, three months?
+CHRISTINA	f	Something's different about you today.
+COLTER	m	If I told you that there's a terrorist on this train, that I was sent here to catch him, would you believe me?
+CHRISTINA	f	Most fervently.
+COLTER	m	Then tell me which one you'd arrest. Christina pages through her sketch pad again. Considering different faces.
+CHRISTINA	f	They're all so utterly normal. That's what's terrifying about them. Perhaps there's more than one. A team at work. The patent attorney in cahoots with Julius Caesar and the nebbishy guy. And don't forget the sullen college kid. He's the expendable one. But they're all controlled by this good- looking stock broker. She shows him her sketch of Derek, the Stock Broker.
+CHRISTINA	f	Blond, blue eyed, hyper alert. The perfect Machiavellian operative. Out for himself. He'll betray them all in the end. She's not taking him seriously.
+COLTER	m	Never mind. He gets up. Foolish of him to confide in her. His watch now reads THIRTEEN MINUTES.
+CHRISTINA	f	He's getting away...! Colter moves aside to let them walk past.
+COLTER	m	Thanks for your help, ma'am.
+CHRISTINA	f	Ma'am? How old do you think I am?
+COLTER	m	I don't know. Thirty two? Her icy glare tells him he's guessed too high.
+COLTER	m	What happened, Fentress? Who are you? How can I be you? FLASHCUT -- Back in the isolation unit. On the monitor, the glimpse of Goodwin's SHOULDER PATCH INSIGNIA. The unit initials "CAOC-N."� Back to scene. Colter churning over the thought.
+COLTER	m	"CAOC-N."� What unit is that? A KNOCK on the door.
+CHRISTINA	f	Who were you talking to?
+COLTER	m	Leave me alone. Colter walks off. Irked at his change in tone, she follows him, carrying his messenger bag.
+CHRISTINA	f	My pleasure, okay? It's just that you left your bag on your seat. (trying to be cute) It's a flagrant violation of rail security, leaving a suspicious package behind and all that. Maybe you're the terrorist. This is too much. Colter turns on her. Paranoid.
+COLTER	m	Terrorist? Why did you say that?
+CHRISTINA	f	I was joking.
+COLTER	m	Stop joking. Who are you? Are you an operative?
+CHRISTINA	f	I had no idea you were so thoroughly weird. I'm not entirely sure I like it.
+COLTER	m	Why do you have sketches of everybody on board? Are you part of this?
+CHRISTINA	f	Part of what?
+COLTER	m	I can have you arrested. Maybe that's the only way you'll drop the bullshit and talk. Stay put. I'm getting help. She sees he's serious and drops her arch playfulness. Speaks in a flat, sober voice.
+CHRISTINA	f	Who am I? I'll tell you. I'm twenty seven years old. I have no savings and no health insurance. He turns back. Waits. The more she speaks, the angrier she gets.
+CHRISTINA	f	Six months ago I moved back in with my parents because I ran out of money. I got A's in line drawing and advanced oil painting but no one's buying my stuff. Two weeks ago I put away all my paints. My little sketch book is the last thing left. You see, I'm not a artist. I'm a receptionist in a law firm. The only thing I operate is a phone switchboard.
+CHRISTINA	f	Now let me tell you about you. You work at the New York Public Library. You've been eyeing me for months on this train but haven't said a word to me. You're bland and colorless and predictable. And now I see you're delusional, too. Colter doesn't hear her. He's still looking out the window.
+COLTER	m	Son of a bitch. "CAOC-N."� That's not army. That's Air Force. Combined Air and Space Operations Center. Nellis Air Force Base!
+CHRISTINA	f	Are you mocking me?
+COLTER	m	They're running this whole thing out of Nellis Air Force Base in Nevada. Fucking Nevada! Tears in Christina's eyes. That Colter would persist in this delusion after what she's confessed about herself.
+COLTER	m	(racking his brain) What's there? What's on that base? B-52s. KC tankers. Air Combat Command. Predator Drones. Remote operations. (something to this) This a remote operation. What if it is time travel?
+COLTER	m	What did he say? A WARNING ALARM begins beeping. Passengers look around uneasily. Christina, however, focuses her anger on Colter.
+CHRISTINA	f	Do me a favor. Don't ever talk to me again. She drops his messenger bag at his feet and walks away. Colter looks down at his watch. THE LAST SECONDS TICK AWAY --
+COLTER	m	Christina! He grabs her -- she struggles against him --
+CHRISTINA	f	Get off me! But he HOLDS HER TIGHT, shielding her with his body and squeezing his eyes shut as --
+COLTER	m	Goodwin? What's happening? Come in. Can you read me? It's goddamn cold in here. He hits a few buttons. Almost at random. The VENTS which had been blowing in air FALL SILENT.
+COLTER	m	Goodwin, I'm losing oxygen. The monitor fizzles out. The light from the controls FADES.
+COLTER	m	Goodwin! It's now COMPLETELY DARK. He BANGS on the side of the capsule. Just a muffled thump. A terrifying silence. The SNAP of a harness releasing. A THUD as Colter falls to the floor of the capsule. Cursing. Some sounds of thrashing around. Then... The SPARK of a BLUE FLARE illuminates Colter's face. He's activated a miniature signal light on his flight suit. It begins to BLINK. Like a beacon for downed pilots afloat in the sea. It is the only light in the otherwise dead capsule. Up on his knees, he grasps the release handles of the EXIT HATCH. Using all his strength he TURNS... But the handles don't budge. The hatch remains sealed. He gets to his feet. Can't stand up fully. The capsule is incredibly cramped. Rifling through a cabinet, he discovers OPERATIONAL MANUALS in small, almost illegible type. And a small set of TOOLS. He spreads them out on the tiny ledge. Taking a wrench, he BANGS on the escape hatch. A deep, clanging ECHO in the hull.
+LATER	m	Icicles have appeared over dormant air vents. Colter, ice crystals in his hair, is shivering more violently. Much of the capsule's electronics lay open and exposed. Using copper wires, he's attempting to revive a row of BATTERIES. They spark once... twice... Nothing.
+COLTER	m	Come on! Another SPARK. It shocks him. There's a puff of blue smoke. He's burned his fingers. But the battery now has a tiny BLINKING GREEN LIGHT. Working fast, Colter attaches the copper wires to the leads on the battery. From inside the engines comes a faint electric HUM. FFFT. The monitor awakens. Like a film projector it throws the image of a PLAYING CARD onto the opposite side of the craft. Colter begins replacing the monitor components. As he does, a pre-recorded AUDIO FILE comes on:
+COLTER	m	Hello? Anyone out there? It's me. He toggles an audio jack. Then a MAN comes walking up. Frowns into the camera, as if through the foggy lens of another world. It's the MAN WITH THE PIPE. The elusive Bohemian scientist whom Colter glimpsed once before. He will be known as
+COLTER	m	Can you hear me? Rutledge is tinkering with the camera. The image shakes for a moment as he adjusts it. Then puts on a headset.
+RUTLEDGE	?	Project designer initiating sequence and drives check.
+COLTER	m	I'm here! I'm okay! Rutledge checks his headset. Not sure he heard right.
+RUTLEDGE	?	Is someone there?
+COLTER	m	Yeah. It's me. Colter. Rutledge blinks in surprise. The blue eyes sparkling.
+RUTLEDGE	?	Wow! It's you.
+COLTER	m	The capsule lost power. It's still pretty cold in here.
+RUTLEDGE	?	We've been working towards you from the other side. Nice to have you with us again. You feeling all right?
+COLTER	m	I think so. Who are you?
+RUTLEDGE	?	The name's Rutledge.
+COLTER	m	They wouldn't let me talk to you before.
+RUTLEDGE	?	No, I guess not. They're pretty anal around here. (lights his pipe) Don't tell them you saw me smoking in here, okay? His genial eccentricity is completely at odds with the military environment. And then it occurs to Colter:
+COLTER	m	You're the inventor of this thing.
+RUTLEDGE	?	I prefer the term project designer. And sorry for all the secrecy. Goodwin will be thrilled you re- established contact.
+COLTER	m	I don't want to deal with Goodwin anymore.
+RUTLEDGE	?	What?
+COLTER	m	Don't you understand? He's torturing me. I'm helpless. Can't you get me out of here? Rutledge looks uneasy. As a scientist, he's ill-equipped to deal with personnel issues.
+RUTLEDGE	?	Why would Goodwin have it in for you?
+COLTER	m	He's a remote operator. And remote operators are risk averse pussies who sit at control screens in the rear while actual pilots like me put their asses on the line in the field.
+RUTLEDGE	?	He seems pretty devoted to the mission.
+COLTER	m	And just what kind of mission is this? Talk to me, man. Why won't he let me save those people on the train?
+RUTLEDGE	?	Because they can't be saved.
+COLTER	m	Why not? I know what's going to happen. I could take apart the bomb. Stop the train.
+RUTLEDGE	?	Yeah but you'd be doing it in the Source Code, not here. Not in our own past. Mystery upon mystery.
+COLTER	m	What's the difference?
+RUTLEDGE	?	I'm not sure I should be telling you this.
+COLTER	m	Telling me what? Coaxing the scientist in him.
+RUTLEDGE	?	It's quantum physics. Linear algebra. Parabolic calculus. It would take weeks to explain.
+COLTER	m	Is Source Code time travel?
+RUTLEDGE	?	It's gone out again.
+COLTER	m	Why can't I save those people on the train?
+RUTLEDGE	?	Think of it like this: events in our past can never be undone. Einstein proved that.
+COLTER	m	So...
+RUTLEDGE	?	So Source Code opens up another past for you. A parallel past. It looks the same but it has no intersection with our own world. In essence, by sending you back, an entirely new but utterly parallel world is created. It looks identical to ours, but nothing you do there has any effect on this reality. At last some useful information. Colter races to process it.
+COLTER	m	What happens to the Source Code world after I leave it?
+RUTLEDGE	?	I don't know. You can never know that because you're not there to observe it. Maybe it vanishes. Maybe not. I should tell them you're okay.
+COLTER	m	What about the bicycle?
+RUTLEDGE	?	What bicycle?
+COLTER	m	I see it each time. Right after the bomb goes off. Like an after image.
+COLTER	m	There's a bicycle and a stone wall and a girl. It's a girl from the train. I don't know where any of it is supposed to be, but -- Rutledge removes the pipe from his mouth.
+RUTLEDGE	?	Wait. You see all this after you leave the train?
+COLTER	m	Yeah. Just for a split second. Rutledge is stunned. Like he's discovered some strange new property to his invention.
+RUTLEDGE	?	Please tell me you're not making this up.
+COLTER	m	No. It's there. What do you think it means?
+RUTLEDGE	?	I don't know. Rutledge looks off camera for a moment.
+RUTLEDGE	?	They're here. There's no more time to talk. Make sure he sends you back in. Find out about the after images. Goodwin appears. Rutledge reluctantly takes off his headset.
+COLTER	m	Rutledge, wait. Don't leave me. Rutledge steps away. A pointed look at Colter. Goodwin settles back into his seat, donning the headset.
+GOODWIN	m	Welcome back. How are you feeling?
+COLTER	m	I'm alive. No thanks to you.
+GOODWIN	m	You find the bomber?
+COLTER	m	You're a brick wall, Goodwin. A fucking brick wall.
+GOODWIN	m	Lower your pulse. The situation has worsened. The fire on the tracks caused one of the freight cars to blow up and release some kind of gas. As a precaution they're having to evacuate all of lower Manhattan. Evacuate lower Manhattan? The enormity of this. Having to take it on faith.
+GOODWIN	m	We may have lost the initiative.
+COLTER	m	What do you mean? Let's keep going.
+GOODWIN	m	We were expecting more from you.
+COLTER	m	I can give you more. Let me think for a second. But Goodwin ignores him. Absorbed in paperwork.
+COLTER	m	The freight car blows up from the fire. It spews gas, or what could be gas -- it might be chlorine, so they can't take any chances. Anxious now. Trying to make up lost ground. Whatever it takes to get sent back in.
+COLTER	m	So they decide to play it safe and evacuate parts of New York City. And maybe that's part of the terrorists' plan, right? So... so who benefits from that? What's vulnerable? What's down there in lower Manhattan? Wall Street.
+COLTER	m	Wall Street. That's what they're going to hit next. The financial markets. Goodwin considers this. For the first time, slightly impressed.
+GOODWIN	m	I want to show you something.
+COLTER	m	Did she die, too?
+GOODWIN	m	Yes. This drivers license photo was found with her body. We're creating a database of recovered identifications as they come in from the site. A pang of sorrow. Moving among ghosts.
+COLTER	m	You sure she's dead?
+GOODWIN	m	Would you like to see her morgue photos?
+COLTER	m	She was sitting across from me.
+COLTER	m	I told you I didn't want to see her! The camera ZOOMS IN on a corpse. Its burned face, like a piece of rotted fruit, fills the screen. Nevertheless, we recognize it. And it's not Christina. It's someone else.
+COLTER	m	That's...
+COLTER	m	He died on the train.
+GOODWIN	m	Would you like to see the other passenger photos? Perhaps that would help you.
+COLTER	m	You still have Christina's body? The other things she was carrying?
+COLTER	m	I want to know about her. Everything I can. She's not just another victim. She's connected to all this.
+COLTER	m	Thirty six dollars and eleven cents. She looks up at him.
+COLTER	m	In your wallet. Right now. Thirty six dollars and eleven cents.
+CHRISTINA	f	Is this a magic trick or something?
+COLTER	m	Yes. In five seconds, a guy's going to open a can of soda.
+COLTER	m	We're about to pass a street with willow trees. Two girls will be jumping rope. A white dog's going to run out behind them. A Dalmatian mix. In a moment, they pass a scene exactly as Colter described. Christina's befuddled smile.
+CHRISTINA	f	You want to tell me how you're doing this?
+COLTER	m	Close observation. You could say I'm a collector of moments.
+CHRISTINA	f	A collector of moments?
+COLTER	m	Yes.
+CHRISTINA	f	That's the cheesiest line I've ever heard. She resumes her drawing.
+COLTER	m	You trained to be an artist. No response.
+COLTER	m	You got A's in line drawing and oil painting. But your work didn't sell. You took a job answering phones in a law firm.
+COLTER	m	Six months ago you moved back in with your parents. Two weeks ago you put your paints away for good. The sketch book is all you have left.
+CHRISTINA	f	Who the hell are you? Who have you been talking to?
+COLTER	m	You.
+CHRISTINA	f	Me? No. I haven't ever talked to you.
+COLTER	m	But we have, Christina. You've drawn all these people here. You know their routines. At one point you thought you were different from all of them. But now you're not so sure. Christina has gone white. Utterly incredulous.
+CHRISTINA	f	Okay, you've got my attention. Now tell me what this is all about.
+COLTER	m	I need your help.
+CHRISTINA	f	Are you selling something?
+COLTER	m	Listen to me. I can't use up any more time trying to convince you. I just need you to believe everything I'm about to tell you.
+CHRISTINA	f	This better be good.
+COLTER	m	Bear with me. (beat, where to begin?) Your sketch book. Is there a drawing of me in there?
+CHRISTINA	f	I'm not sure.
+COLTER	m	Please, Christina.
+CHRISTINA	f	Yes, fine! Here. She flips through it. Shows him a sketch of SEAN FENTRESS.
+CHRISTINA	f	I did it last week.
+COLTER	m	The thing is, that's not me.
+CHRISTINA	f	Give me a little credit.
+COLTER	m	No. You drew what you saw, but the person you're seeing now is someone else. I'm not Sean Fentress. I'm not really on this train.
+CHRISTINA	f	You're not really on this train.
+COLTER	m	I'm taking someone's place. Borrowing it. My name is Colter. I'm a soldier. And I'm being held prisoner. And this is the only way -- the only time and place I have -- to figure out how to escape. She gives him a blank look.
+CHRISTINA	f	After three months of riding the train, this is how you introduce yourself to me?
+COLTER	m	I'm serious. Elements in the American military are using me for an experiment. I'm not sure exactly how it all happened, but I'm at a facility on Nellis Air Force Base in Nevada. Right now. As we speak. It's a project called Source Code.
+CHRISTINA	f	Source Code.
+COLTER	m	It's a program. It shifts identities. It also performs small amounts of time travel. Or "time engineering."� I don't know the jargon. He's not getting through to her. It's too bizarre.
+COLTER	m	I've been put on this train to look for someone. A criminal. And I need to find out just enough about him to keep them putting me back on this train. Because right here's only place I can figure out what's really happening. But I have very little time. And each time I come back, you won't remember me and I'll have to go through this all over again.
+CHRISTINA	f	You are, I think, deliciously mad.
+COLTER	m	Then how do I know all those things about you if we've never spoken before? She doesn't have an answer. Can't easily dismiss him.
+CHRISTINA	f	Why tell all this to me? There's lots of people around for you to talk to.
+COLTER	m	Because I think you have the answer to this whole thing.
+CHRISTINA	f	Believe me, I don't have the answer for anything.
+COLTER	m	There's a vision. I keep having it. It's very powerful. And you're in it. And there's a bicycle. And this... old stone wall. And it's very peaceful. Does this sound familiar? Like where you live, maybe?
+CHRISTINA	f	Stone walls? My parents live in a house with aluminum siding and an American eagle over the door. The only bike is a Harley which the guy down the street revs at three in the morning.
+COLTER	m	The vision must mean something. It's the only time when I'm not on the train or in the capsule. Why else would Rutledge be so interested?
+CHRISTINA	f	Who's Rutledge?
+COLTER	m	Someone who was trying to help me understand something. Until they got to him. He lowers his head. A dead end. No answer. The train begins to slow down.
+CHRISTINA	f	I saw a program on TV. It was about psychics. They say psychics have a lot of paranoia.
+COLTER	m	I don't believe in that shit.
+CHRISTINA	f	Don't you have people you can go to for help? Friends, family? The train begins to move again.
+COLTER	m	Most of my friends are in the military. My dad runs a melon farm in Alabama.
+CHRISTINA	f	Maybe now's the time to reach out to him. She hands him her cell phone. Colter just holds it in his hand.
+COLTER	m	Me and my dad, we don't see eye to eye. We're just two different people.
+CHRISTINA	f	As opposed to being the exact same person?
+COLTER	m	Are you always this sarcastic?
+CHRISTINA	f	This is so not about me. Colter reluctantly dials. As it rings --
+COLTER	m	What day is it?
+CHRISTINA	f	June 11th.
+COLTER	m	June? One more thing to puzzle him. The call connects. An OLDER MAN, DONALD STEVENS, answers. The gravelly voice of a Midwestern farmer.
+COLTER	m	Dad? Donald doesn't respond.
+COLTER	m	Dad, it's me. It's Colter. Again, silence.
+COLTER	m	Been a while, huh? I'd been meaning to call you, but -- Click. The line goes dead. Colter looks at Christina.
+COLTER	m	He wanted me to stay on and take over the farm but... I had other ideas.
+CHRISTINA	f	You're intimidated by him.
+COLTER	m	What?
+CHRISTINA	f	You're scared of him. I can see it.
+COLTER	m	The hell I am. Challenged, he redials. Braced for conflict. The call connects.
+COLTER	m	Dad, don't hang up. We're going to talk. I need your help.
+DONALD	m	Now you listen to me. Whoever you are, never call here again. Donald hangs up.
+CHRISTINA	f	He's still mad at you, huh?
+COLTER	m	No... it was like he didn't even know who I was. Troubled, he hands back her phone. Outside, the EXPRESS TRAIN flashes by.
+CHRISTINA	f	I don't know how to help you. She feels bad for him. And something inside Colter closes. Retreating inside himself.
+COLTER	m	Sorry to have bothered you. He gets up to go. Christina stays where she is.
+CHRISTINA	f	She works at the New York Times. Her name's Stephanie. She's just a proofreader, but she wants to be made a reporter. She's always saying she needs a good story to bring in so she gets noticed. Something like this, with a crazy paranoid angle could really interest her.
+COLTER	m	Forget it.
+CHRISTINA	f	She could do some poking around. She's already quite suspicious of the government. Christina's dialing her phone. Colter turns back to the window.
+CHRISTINA	f	I'm getting voice mail. (into the phone) Steph, it's Christina. You know that story you're always looking to write? I might just have something for you. I met a guy. His name is Colter Stevens. He says he's in the army. He flies helicopters in Iraq, but now they've put him into a secret project called Source Code. Maybe you can look into it a bit, okay? Call me. She hangs up. Pleased with herself.
+CHRISTINA	f	She'll call back. Just wait. None of it will do Colter any good, but he manages a smile.
+COLTER	m	Thank you, ma'am.
+CHRISTINA	f	Ma'am? How old do you think I am? He gives her a wary look. Considers.
+COLTER	m	Twenty five? She smiles, pleased.
+CHRISTINA	f	No, but thanks. What did you mean, there's a criminal on the train? How do you know that? Colter looks away. Careful.
+COLTER	m	I just do.
+CHRISTINA	f	How can I help you if you don't tell me everything about this?
+COLTER	m	You said you wanted to know.
+CHRISTINA	f	Can't you just tell me? He gives her an imploring look. She sighs and squeezes in next to him.
+CHRISTINA	f	Try anything and I'll kill you.
+COLTER	m	Shut the door. As she shuts the door, Colter gets up on the sink.
+CHRISTINA	f	What are you doing? He wrenches back the ventilation panel, then steps aside.
+COLTER	m	It's up here. He holds out his hand. She grabs hold and steps up on the sink. She's not quite tall enough to see into the crawlspace, so he steps up behind her and lifts her the rest of the way.
+CHRISTINA	f	(startled, feels his hands
+ON HER)	m	What are you --
+COLTER	m	Just look. Her blouse brushes his face as he holds her up. A long beat as she looks inside the overhead space at the bomb.
+CHRISTINA	f	Is that...?
+COLTER	m	Acetone Peroxide. It's a liquid explosive. There's fourteen cannisters of it. Simple detonator. Cell phone signal closes the circuit and boom. He lowers her. An incredulous beat.
+CHRISTINA	f	Did you put this here?
+COLTER	m	No. It was someone else. They don't know who. That's why I'm here. To find out. Watching her. Will she believe him?
+CHRISTINA	f	We have to tell someone. We have to stop this.
+COLTER	m	It won't matter. The train's already...
+CHRISTINA	f	Already what?
+COLTER	m	I've been sent here. It sounds crazy, but it's true. I've been sent from the future -- from five hours in the future. This train's already been blown up. She backs up. Scared of him. Every right to be.
+COLTER	m	You wanted to know. Now you know. She turns and hurries for the exit doors.
+CHRISTINA	f	This isn't happening. I've got to get off. Colter catches up with her inside the exit vestibule. She's stabbing at the door release button.
+CHRISTINA	f	Why won't it open?! Her phone is RINGS. They both stop. She looks at the number.
+CHRISTINA	f	It's Steph. I told you she'd be interested. Hi. Her eyes are fixed suspiciously on Colter as she listens. Colter looks outside. Recognizes the terrain. Looks down at
+THE BOMB	m	Sits in the semi-darkness, faintly illuminated by the bathroom's fluorescent light. As he grabs hold of the bomb, he hears --
+COLTER	m	Look. Now the fucking thing can't go off.
+HIS WATCH	m	Reads 20 SECONDS.
+CHRISTINA	f	Stephanie did a computer search. Something in her expression worries him.
+CHRISTINA	f	She's got a database of all newspaper articles going back to forever.
+COLTER	m	Source Code's classified. It wouldn't be in a newspaper.
+CHRISTINA	f	No. But you were. She found you.
+COLTER	m	She found me? What does that mean? She stops. Not wanting to go on. From outside comes the HORN from the approaching freight train.
+COLTER	m	Jesus Christ, Christina, are you going to spit it out? In his hand, the CELL PHONE RINGS. Colter's eyes light up in amazement -- the DISPLAY SCREEN is showing the name and number of the bomber. But before he can read what's there, Christina's voice finds its way to the back of his brain:
+CHRISTINA	f	According to the notice, you were killed in action two months ago. The world stops. A SEARING PAIN SLAMS INTO him. He drops the phone and doubles over. She runs to him --
+GOODWIN	m	Are you comfortable? Are you warm? Colter clings to his harness as if to keep from vanishing entirely from existence.
+GOODWIN	m	Do you need to urinate? Colter swallows. Too terrorized to speak.
+GOODWIN	m	Beleaguered Castle is waiting for your report. Goodwin taps his pen on his clipboard. Impatient. He flips a switch. A blocky COMPUTER VOICE, something out of the 1970s, comes on:
+GOODWIN	m	Captain, I know you can hear me. Did you find the bomber? Goodwin keys in some commands. Forever adjusting.
+GOODWIN	m	As you're collecting your thoughts, I should tell you there's been another development. A terrorist group has taken responsibility for bombing the train.
+GOODWIN	m	This began broadcasting over the Internet a half hour. We've traced it to central Asia.
+MUJAHIDEEN FIGHTER	m	(on camera, in accented
+ENGLISH)	?	By now you have suffered a taste of divine vengeance. God willing, you will soon suffer another. Colter does not raise his head. No idea whether he's even listening.
+MUJAHIDEEN FIGHTER	m	These attacks will show you that you will never be safe. You can secure your borders. But what can you do against one of your own citizens? One who looks like you, who is blameless, living already among you, who takes eighty million of our dollars, a trifle, and carries out our bidding? You cannot stop this. Time has run out. The image freezes. Then switches back to the live feed of Goodwin.
+COLTER	m	Let me talk to Rutledge.
+GOODWIN	m	So you've decided to speak.
+COLTER	m	Rutledge. Get him.
+GOODWIN	m	We appreciate your desire for further discussion. Perhaps at a later date.
+COLTER	m	Will you let me out of here? Goodwin ignore the question. Continues making notations.
+GOODWIN	m	Frankly, Captain, we're disappointed.
+COLTER	m	Find Rutledge! Now!
+GOODWIN	m	I have to say that we expected more from you.
+COLTER	m	Stop! Stop reading from your goddamn script!
+GOODWIN	m	Perhaps we overestimated your abilities.
+COLTER	m	I swear to fucking Christ!
+GOODWIN	m	Please accept the criticism in the spirit it was given. Perhaps a few memory exercises would help.
+COLTER	m	I don't need your criticism and I don't need your memory exercises, you gutless freak. And by the way, that bomb is detonated by a cell phone. When activated, the phone's display screen displays caller ID information. Caller ID. I wonder if that information would be useful to Beleaguered Castle. For a split second, Goodwin looks thrown. But the mask of the cold clinician goes back up.
+GOODWIN	m	Very well. We're ready for that information.
+COLTER	m	You'll have to send me back. I didn't get a good look at it. But I will next time. Goodwin hesitates. Skeptical.
+GOODWIN	m	What assurance do we have you'll be able to read the screen before the device detonates?
+COLTER	m	Goodwin, there's no time left. Send... me... back. Goodwin's pale, inscrutable face fills the monitor. His eyes are unblinking. Unfeeling. Nothing behind them.
+COLTER	m	Who's walking off with the guy's cell phone. Behind him, the Computer Engineer gets up.
+COMPUTER ENGINEER	m	Hey, do you have my phone? People turn to look. Among them is Christina. Colter just starts walking faster.
+COMPUTER ENGINEER	m	Dude, give me back my phone!
+COLTER	m	Sorry. Wrong turn. Reversing gears, Colter backs out of the compartment.
+COLTER	m	Las Vegas, Nevada. Nellis Air Force Base.
+COLTER	m	Is this... Nellis Air Force Base?
+COLTER	m	I'm trying to reach... Captain Colter Stevens. Calling himself. Strange. No idea where this is going.
+COLTER	m	Then give me the Combined Air and Space Ops Center.
+COLTER	m	Who is this?
+COLTER	m	I'm calling for Rutledge. It's urgent.
+COLTER	m	This is Captain Colter Stevens. An eerie pause.
+COLTER	m	Colter Stevens. Captain Colter Stevens.
+COLTER	m	Let me talk to Rutledge.
+GOODWIN	m	Where are you? How did you find us?
+COLTER	m	I'm on the train. The train pulls to a stop.
+COLTER	m	You don't know. It hasn't happened yet.
+COLTER	m	The explosion.
+COLTER	m	Don't you understand? I'm in it, Goodwin. I'm calling you from inside the mission. Inside the Source Code. A beat of stunned silence. The train begins moving.
+COLTER	m	Goodwin, I'm trapped in this and I can't get out.
+COLTER	m	No! Wait! Don't hang up! Forget authorization. There's no time. Soon you're going to find out what happened on this train. And then your own day is going to start. But not until then. Right now it's just you and me talking. And you're a different Goodwin than the one I'm going to go back to in a few minutes. You're separate from him. Separate worlds. Do you understand?
+COLTER	m	Good. Now there's a lot of secrecy in all of this, and you have your reasons for that.
+COLTER	m	But here and now, just this once, I need to ask you something. And you need to tell me the truth.
+COLTER	m	I'm going to ask it.
+COLTER	m	Jesus, Goodwin, how can I get through to you? You're not just a soldier. Somewhere inside you're a human being, too. Somewhere inside you've got to know that this is wrong. Source Code is wrong. And if you can't grasp that, if you just follow orders, then you're just as much a prisoner as I am. The car SHUDDERS as the EXPRESS TRAIN FLASHES BY. Quiet returns as it recedes.
+COLTER	m	Did I survive that helicopter crash in Iraq? Silence. Colter shuts his eyes.
+COLTER	m	Answer me. Did I survive that crash? Another pause. This is crushing Colter.
+COLTER	m	Goodwin.
+COLTER	m	What?
+GOODWIN	m	You did not physically survive the crash. A terrible chill comes over Colter. He swallows. Trying to stay brave.
+COLTER	m	Not physically? Fuck. At least give me an answer I can understand.
+COLTER	m	But... the capsule I'm in...
+COLTER	m	You had no right.
+COLTER	m	I was a soldier. Then. But now? After death? What is the status of your mission? Is it a success?
+COLTER	m	You really want to know?
+COLTER	m	That's what we do. Keep stuff from each other. Will this ever end?
+COLTER	m	How can I get out of this?
+COLTER	m	How?
+COLTER	m	And then what?
+COLTER	m	How many times have I done this?
+COLTER	m	No one knows I'm here. No one can help me.
+COLTER	m	You can't do this. I served my country. I already gave my life.
+COLTER	m	What?
+COLTER	m	Military court or civilian court?
+COLTER	m	Does that make it any less wrong? No answer. Colter looks down at his watch. Time is running out. And there's absolutely nothing he can do.
+COLTER	m	Goodwin?! Rutledge appears. Drops into the seat and puts on the headset. Fiddles with his pipe as a way to avoid looking at the camera.
+RUTLEDGE	?	How's it going? Any breakthroughs?
+COLTER	m	I finally get it, Rutledge. You're the good guy, Goodwin's the bad guy. Working together, you get what you want out of me. Why didn't I see it before?
+RUTLEDGE	?	Believe me, Captain, I'm on your side.
+COLTER	m	Drop it. I know about the helicopter crash. I know what they've done with me.
+RUTLEDGE	?	Look, it's been a long day. For all of us. But now we've got to bring this home and catch a killer.
+COLTER	m	What's in it for me?
+RUTLEDGE	?	Come on. These guys are serious. Help me out. My ass is on the line, too, you know.
+COLTER	m	You can do better than that. They sent you here to offer me a deal.
+RUTLEDGE	?	If you think I'm enjoying this, you're wrong.
+COLTER	m	What's their offer? What can they possibly threaten me with after so colossally fucking me? Spit it out, you spineless turd. Rutledge's face goes red. Quite possibly no one has ever spoken to him like this before. After a sputtering pause, Rutledge's mouth hardens.
+RUTLEDGE	?	The government can decide to take an interest in people. People like your father with his struggling farm. It can discover things like unpaid property taxes. It can call in his equipment loans or tie him down for years in environmental litigation. On the other hand, it can pay him handsomely for mineral deposits he never knew were there. As distant and problematic as your relationship was, surely you'd like the chance to do something for him. A beat of silent outrage from Colter.
+COLTER	m	Those after images I saw. You never knew about them. They weren't part of Source Code architecture, were they?
+RUTLEDGE	?	They're meaningless. Nerves firing. Brain chemistry.
+COLTER	m	You don't believe that. I've been to places you haven't. I've crossed and recrossed that line between living and dying. And when I do, that veil gets lifted for just a second. And what's there is real. Maybe it's a vision of the next world, but I can see it.
+RUTLEDGE	?	You can see it. But you can never get there without our help.
+COLTER	m	Get there? What do you mean?
+RUTLEDGE	?	Our offer. Maybe we can get you there. In return for your completing the mission. They'll let you die. I'll shut off your life support and you'll simply slip away.
+RUTLEDGE	?	Just like the good Lord intended you to do a few months back. A fearful beat. Negotiating over his own soul.
+COLTER	m	You'd never do it. You wouldn't have to. You could just flip the switch and start me back up again unaware. For all I know, you've made this deal with me before.
+RUTLEDGE	?	Actually, we haven't. Your operational awareness has become too great. If you found out the truth about yourself once, you might do so again. As for Source Code, I'm sure we can find other servicemen coming back from overseas with wounds just like yours. Do you have the courage to serve your country one final time? Colter's eyes bore into Rutledge.
+COLTER	m	I'm going to find you, Rutledge. Someday. Somewhere.
+RUTLEDGE	?	(retreating from the
+CONFRONTATION)	?	The display screen on the detonator was a useful and exciting insight you made. This time, make it pay off. Get the information on the screen. But let the bomb explode. We need the force of the explosion to help integrate you quickly back into the present. The Source Code machinery is already beginning to HUM. Rutledge excitedly keying in system commands.
+COLTER	m	You hear me? Somehow, I'm going to find you.
+RUTLEDGE	?	I doubt that.
+RUTLEDGE	?	Captain? Colter JOLTS AWAKE. Disoriented. Thrashing to get free.
+RUTLEDGE	?	It's okay. Calm yourself. You're back. Colter exhales. Shuddering. He's just completed another Source Code.
+RUTLEDGE	?	What happened? The tentacles of the nightmare slowly releasing. Replaced by the oppression of being back in the capsule. Back in Rutledge's power.
+RUTLEDGE	?	Was the bomber's identity on the cell phone?
+COLTER	m	I think so. But there wasn't time to read the screen. As soon as it rang the bomb went off.
+RUTLEDGE	?	What about the phone itself? Make, model, product identification number.
+COLTER	m	I was unable examine the phone without separating it from the detonator -- which I was instructed not to do. His delivery is different now. Impersonal. Distant.
+RUTLEDGE	?	Did you make any other progress? What in heck's name did you do for those seventeen minutes? Colter does not answer. The machinery again STARTS UP. Colter tenses, bewildered. Eyes dart accusingly to the screen.
+COLTER	m	Wait. What are you --
+RUTLEDGE	?	We can do this all day. Until you get it right.
+COLTER	m	Please... I don't feel good...
+RUTLEDGE	?	I don't doubt it. Who's the bomber?
+COLTER	m	I don't know... I honestly... I can't keep... The HUMMING again. He's helpless. An insect on a pin. Colter tears at his restraints, ready to bash his brains out against the controls. He SCREAMS...
+CHRISTINA	f	Hey!
+CHRISTINA	f	You want to get off me? The Overweight Man, wide eyed in surprise, has his finger poised to open his can of soda.
+COLTER	m	Go ahead! Open your fucking soda! CHK-THOCK! The Overweight Man complies. Some half-muttered reproaches, then most people go back to what they were doing.
+CHRISTINA	f	What's wrong with you, anyway? She glares at him at he stands up. He can't respond. Despair surges through him. He stumbles off down the aisle. But where can he go? There is no freedom. No escape. Imprisoned in both worlds. From her seat, Christina watches him go. Sensing the torment in him.
+EXIT AREA	m	Colter is slumped in a corner. Christina appears. Taps him on the shoulder.
+CHRISTINA	f	You okay? He eyes her furtively. Like a cave man who's never seen another human being before.
+CHRISTINA	f	You're not okay. He's ghastly pale. He's sweating profusely.
+COLTER	m	Ma'am, please... return to your seat. Footsteps. The sound of jangling KEYS.
+CONDUCTOR	m	Ticket.
+CONDUCTOR	m	Ticket, please.
+CHRISTINA	f	He's not feeling well.
+CONDUCTOR	m	He still needs a ticket. Colter makes no move to respond. No more concern for anything.
+CONDUCTOR	m	Have it your way, pal. He takes out his book to write Colter up.
+CHRISTINA	f	Wait. I'll pay it.
+CONDUCTOR	m	I have no idea where he got on. Full fare's $22.50.
+CHRISTINA	f	All right, all right. Getting out her wallet, she pays the conductor. He eyes her with disapproval, then shambles off.
+CHRISTINA	f	I see customer service is alive and well on New Jersey Transit.
+COLTER	m	Why did you just do that?
+CHRISTINA	f	The ticket? I don't know. You looked a little lost. The gratitude in his look makes her self conscious. She turns to go.
+COLTER	m	Will you do me a favor?
+CHRISTINA	f	What's that?
+COLTER	m	Get off the train.
+CHRISTINA	f	What?
+COLTER	m	Please. Just get off the train. Her puzzled look. The train begins to SLOW DOWN.
+CHRISTINA	f	This isn't my stop.
+COLTER	m	You shouldn't have been on this train, Christina. You should be living another life. Not spending it answering phones for lawyers.
+CHRISTINA	f	How do you...? A group of passengers approaches the exit area. We've seen them all before: Derek, the Old Man, the College Kid. And the small encounters: shuffling around, positioning at the doors, and the College Kid tapping Derek on the arm, holding out Derek's wallet.
+COLLEGE STUDENT	m	Hey, you dropped this.
+DEREK	m	(relieved, takes it back) Wow. Thanks. The train stops. The doors OPEN.
+COLTER	m	Everyone has a destiny. And this isn't yours. He steps out onto the platform. Holds out his hand for her to join him. A coaxing look. She's incredulous. This guy. His words. This whole moment.
+CHRISTINA	f	Who in the world are you?
+COLTER	m	Just do it. Stop being afraid. Believe in yourself. He waits for her. Only two steps away.
+CHRISTINA	f	Leave me alone. She retreats back into the car. Colter is heartbroken. About to pursue her, he happens to look over and see
+DEREK	m	Instead of going directly to the station house, Derek continues walking down the platform alongside the train, as if intending to reboard further down. And then it happens. With a quick motion Derek TOSSES SOMETHING through an open door of another car, then heads quickly away towards the station house. With no time to think, Colter slips back on board just as the doors slide shut.
+EXIT DOORS	m	There's nothing there. Whatever Derek tossed inside is gone. Did someone pick it up? Colter looks up the aisle and then the other way into the next car. No one there. Once more he examines the exit area. Gets down on his knees. Then he spots it -- an OPENING between the floor and one of the wall panels, only a few inches high. And there something lies. Colter slides it out. Derek's WALLET. Intentionally left here. The same wallet the College Kid gave back to Derek earlier. Opening it, Colter pulls out Derek's DRIVER'S LICENSE.
+RUTLEDGE	?	They've searched the wreckage and found the wallet. It was under the wall panel. Just as you said. An awkward dynamic between them. They despise each other but have to work together.
+COLTER	m	Believe me, he's our guy. He tossed his own wallet back on the train. Only reason he'd do that...
+RUTLEDGE	?	(finishing his thought) ...is if he wanted us to think he died in the explosion. I know. We looked into his profile.
+RUTLEDGE	?	Derek Frost is a commodities trader, with a wife, two children and a promotion one month old. He's an emergency preparedness volunteer on his office floor, for God's sake.
+COLTER	m	You saw that terrorist video -- they said it was one of us. One of our own.
+RUTLEDGE	?	If he's really the one, you can find out the rest of his plan.
+COLTER	m	How?
+RUTLEDGE	?	By any means necessary. There is no Geneva Convention in the Source Code.
+COLTER	m	Torture him, you mean.
+RUTLEDGE	?	Find out the plan, before it happens here. And then I'll let you die. Their grisly bargain.
+RUTLEDGE	?	In the conductor's compartment there's a fully loaded 9 millimeter handgun locked in a safe. Think you can remember the combination?
+GUZMAN	m	Excuse me.
+COLTER	m	Assalam'alaikoom. Squeezing past, Guzman does a double take to hear the standard Arabic reply.
+COLTER	m	The New York Times.
+CHRISTINA	f	Hello?
+CHRISTINA	f	Going to work. Why?
+CHRISTINA	f	What? The train begins to SLOW DOWN.
+CHRISTINA	f	I don't understand.
+CHRISTINA	f	I'm fine. Everything's normal. Is there something on the news? Some kind of alert?
+CHRISTINA	f	I'll be late for work.
+CHRISTINA	f	It's probably a joke. A weirdo guy from somewhere. She sees Colter down in the exit area. They lock eyes. And somehow she knows. He made the call. Colter quickly disappears into the other car.
+CHRISTINA	f	No. I'll call you back. She hangs up. Disturbed. As if she's failed some test. But what test? Why this weird feeling?
+CONDUCTOR	m	Huh? The metal door to THE SAFE has been OPENED.
+COLTER	m	You forget something?
+DEREK	m	Gosh. Is that my wallet? As he goes to take it, Colter GRABS HIM.
+DEREK	m	What the hell, man? What the hell???
+COLTER	m	You see this? Colter pulls out the DETONATOR CELL PHONE -- the one he took off the bomb. Holds it inches from Derek's face.
+COLTER	m	Now you can't blow it up.
+DEREK	m	What is this? Get away from me! The BARREL of a 9 MM PISTOL. Aimed right at him.
+COLTER	m	Believe me, I'm very accurate with one of these things.
+DEREK	m	Jesus. Derek raises his hands. Sweating. All fright. Like a decent man, terrorized. It gives Colter pause. Does he have the right guy? A toilet FLUSHES. The last stall door opens and Guzman emerges. Stops cold as Colter swings the pistol at him.
+COLTER	m	Stay there, my man.
+DEREK	m	Don't hurt me.
+COLTER	m	Stop acting, for Chrissakes.
+DEREK	m	Keep my wallet. Take my watch. Take anything you want. Unprompted, Guzman takes out his own wallet and sets it on the counter. Calmer than Derek. Accustomed to trouble.
+GUZMAN	m	There. Now you have two wallets. Take them and go.
+COLTER	m	Shut up! Tensing. This isn't supposed to happen like this.
+DEREK	m	Please. I have a family.
+COLTER	m	What about those other passengers? Don't you think they had families?
+GUZMAN	m	Just what is this about?
+COLTER	m	This man's a terrorist. He planted a bomb on the train.
+DEREK	m	What? Click. Colter pulls back the hammer and savagely JAMS the barrel of the pistol into Derek's cheek.
+COLTER	m	What's the next attack? Who else are you going to kill today, huh?
+DEREK	m	Oh God... Oh God... Guzman takes a step towards Colter.
+COLTER	m	One more step, asshole.
+GUZMAN	m	Don't treat him like this. He's not an animal. Neither are you.
+DEREK	m	Listen to him. For God's sake I'm not a terrorist...! A URINE STAIN spreads on Derek's pants. He looks down, ashamed. Colter keeps the gun on him.
+COLTER	m	Piss all you want. You took eighty million dollars to kill hundreds of people today.
+DEREK	m	Eighty million dollars? I swear to you...
+COLTER	m	Then what about the wallet, huh? Why the fuck did you twice try to leave your wallet on board?
+COLTER	m	Time's up! What is it?! What is the next attack! So help me, I'll put this bullet through your brain.
+DEREK	m	I don't know what you're talking about!
+COLTER	m	I'm going to do it. Tightening his finger around the trigger. Tears are streaming down Derek's face. But he's not going to talk.
+DEREK	m	I would never hurt anyone. I have a family. I guess you'll have to kill me. But Colter can't. He can't shoot him. He lowers the gun. Disgusted with himself. Why can't he do it?
+GUZMAN	m	You see? You are a human being. Speaking gently. Trying to calm him. Even as Colter feels like he's failed.
+GUZMAN	m	This can be worked out. We can listen to each other. The temperature cooling. Derek's nodding with him.
+DEREK	m	Anything you want... Please... The detonator CELL PHONE RINGS, startling all of them. Confused, he answers the phone.
+COLTER	m	Hello.
+COLTER	m	Christina?
+COLTER	m	How can you be calling this number?
+COLTER	m	I was trying to warn you.
+COLTER	m	I'm not sure that it matters now.
+COLTER	m	I'm right here, okay? Don't be afraid.
+CHRISTINA	f	Why didn't I get off the train? I knew I should have driven in today. But then there's the bridges, right? You never know when they'll be jammed. That stirs something in the back of Colter's mind.
+COLTER	m	What did you say?
+CHRISTINA	f	The bridges. You just never know when they'll be jammed. His heart starts racing.
+FLASHBACK	m	On the train. Earlier. Derek in his seat, on his cell phone. Colter nearby, overhearing him:
+DEREK	m	Trust me, by one o'clock, the bridge is going to be jammed...
+COLTER	m	"By one o'clock, the bridge is going to be jammed."� That's what you said. You knew. You knew there was going to be an evacuation. You knew before it happened. All those people walking across the... The realization hits.
+COLTER	m	They're going to bomb the bridges. While they're full of people.
+ON DEREK	m	A slight flicker travels across Derek's face. Like a disturbance on a surface of deep water.
+COLTER	m	Christina? Just hang in there. You'll be okay. A HAND closes over his gun. Before Colter can react, Derek
+RUTLEDGE	?	Yes... We appreciate that... I just hope the information has come in time to clear the bridges... Thank you, sir. When he hangs up, he turns to Goodwin and a few other TECHNICIANS. Naked ambition courses through him.
+RUTLEDGE	?	Whether or not they can stop the bridge attack, we came up with the intelligence. And that virtually assures all of our futures. This is just the beginning, guys. You did a great job, Goodwin. You operated our captain with skill and professionalism. What's that you have? Goodwin opens an envelope and slides out a CITATION.
+GOODWIN	m	The Army investigated Colter's helicopter crash in Iraq. Apparently he stayed behind to fly protective cover for a disabled convoy until he ran out of fuel.
+RUTLEDGE	?	What's this, then? Some kind of posthumous reprimand for reckless flying?
+GOODWIN	m	No. It's the Silver Star. Something in Goodwin's voice momentarily checks Rutledge's breezy good humor.
+RUTLEDGE	?	Send it on to his father. It'll ease the pain of his son's death.
+GOODWIN	m	I thought I might inform the captain of the citation.
+RUTLEDGE	?	Better not. We can't risk acquainting him with the citation in case the memory wipe isn't entirely clean.
+GOODWIN	m	The memory wipe?
+TECHNICIAN	m	I thought we were going to let him die.
+RUTLEDGE	?	I know, I know. But now the Director of National Intelligence is sure to want a closer look at our program, and until we train up another candidate, we'll need to keep Colter around to demonstrate it.
+TECHNICIAN	m	Oh.
+RUTLEDGE	?	This thing is much bigger than any one of us. Goodwin, please clear Colter's memories and re-initialize Source Code. Rutledge walks away. The technician gives Goodwin a look of disgust. Goodwin carefully replaces the citation into the envelope.
+GOODWIN	m	Captain, this is Beleaguered Castle. Acknowledge transmission.
+RUTLEDGE	?	Thank you, sir... I appreciate your faith in me... It's a great day for our country.
+GOODWIN	m	How are you feeling? Are you comfortable?
+COLTER	m	Just do it.
+GOODWIN	m	Come again?
+COLTER	m	Just do it. I knew they wouldn't let me die. At least you can make me forget all of this. I hope. Goodwin stares at his hands. Unmoving.
+COLTER	m	What are you waiting for? You're just doing your job. I'd do the same thing if I was you. At least you've got a shot at saving those people on the bridges.
+GOODWIN	m	I doubt it.
+COLTER	m	You don't think they'll save them?
+GOODWIN	m	No. I meant, I doubt you'd be doing this, if you were me. An unusually personal statement, coming from Goodwin.
+COLTER	m	Look, someone had to be where you're sitting, and someone had to be in here. Turned out it was you and me. Just do it. I'm tired.
+GOODWIN	m	Would you like to see Christina again? One last time? Colter's not sure he heard him right.
+COLTER	m	I don't understand.
+GOODWIN	m	Seventeen minutes. That's all I could give you. No mission to fulfill. Just... the two of you.
+COLTER	m	Why would you do that?
+GOODWIN	m	As a favor. One prisoner to another.
+COLTER	m	Prisoner?
+GOODWIN	m	You were right. About me. And about Source Code. We've kept too much from each other. An odd sensation comes over Colter.
+GOODWIN	m	I usually report in at 0600. Today I was there early. I was there when the call came in. Your call. His call? They share a long look.
+COLTER	m	No... There's no way... There's no way you could have... Goodwin just smiles.
+COLTER	m	How? The Source Code was a parallel world! You told me so! It's hermetically sealed. Nothing I did on that train would have any effect on this reality!
+GOODWIN	m	You were on the train. I was not.
+COLTER	m	But...
+GOODWIN	m	We didn't know if any bleed- throughs could occur. The implications would be staggering. That's why you were told to avoid unduly influencing events.
+COLTER	m	You're saying I could have saved those people?!
+GOODWIN	m	No. Not in our world. The time currents are too strong. But minor alterations, here and there, a phone call, say, those might slip through. We didn't know for sure. But you proved it. Colter is thunderstruck. Unable to grasp it.
+GOODWIN	m	I've been thinking about the things you said on that call. As the day passed, the more I understood them. And now, I guess we've caught up to each other.
+COLTER	m	Man. Just when I think I understand this...
+GOODWIN	m	There's not much time. They think I'm re-initializing the system. One last look at her. That's all I can give you. If that.
+COLTER	m	They'll nail your ass for this.
+GOODWIN	m	If I had any feelings, I'd worry about that. But, as you've maintained, I do not. The strange path of their relationship. Ending at last at simple, grudging respect.
+COLTER	m	Roger that.
+GOODWIN	m	This is Beleaguered Castle signing off. Acknowledge final transmission.
+COLTER	m	Final transmission acknowledged. Thank you, Goodwin. Goodwin interrupts his preparation for a last look at Colter. The noise gets louder. The capsule begins to shake. Colter touches the monitor. His fingers imparting to the last image of his world a quiet benediction.
+RUTLEDGE	?	This is Rutledge. He listens. His face darkens.
+RUTLEDGE	?	Shit. He SLAMS down the phone and starts RUNNING.
+RUTLEDGE	?	What is this? Who authorized this?
+TECHNICIAN	m	We don't know, sir. But Source Code is up and running again.
+RUTLEDGE	?	Where's Goodwin? The chair at the console is EMPTY.
+TECHNICIAN	m	No idea, sir. A DIGITAL CLOCK ticks down from 17 minutes: 15:28... 15:27...
+RUTLEDGE	?	What the hell is he doing?
+RUTLEDGE	?	Shut it down.
+TECHNICIAN	m	Sir?
+RUTLEDGE	?	Shut down the Source Code. Right now. The technician hesitates.
+TECHNICIAN	m	I wouldn't do that. Rutledge gives a dismissive snort. And yet he pauses.
+RUTLEDGE	?	And why not?
+TECHNICIAN	m	We've never interrupted Source Code in mid run. We'd have to literally pull the plug. It could damage the processors.
+RUTLEDGE	?	Let it finish, then. No harm in that, I guess. All of you are in deep shit, I promise you. As for Goodwin, he'll never make it off this base. Rutledge picks up a phone.
+TECHNICIAN	m	I don't think that's where he's headed. Rutledge considers. And then catches on.
+RUTLEDGE	?	He wouldn't. Looks up at the technician. Grows more and more uneasy. Snapping his attention back to
+RUTLEDGE	?	Seal the ICU. I want a detachment of MPs meeting me on the way there.
+COLLEGE STUDENT	m	Hey, you dropped this.
+DEREK	m	Wow. Thanks. Keeping his composure, Derek accepts the wallet. Colter steps aside, allowing them to pass. Allowing it all to happen. The station slides into view. No one on the platform.
+RUTLEDGE	?	What?! He tries again. Red. The door stays LOCKED.
+POLICE COMMANDER	m	Derek Frost. Derek goes to get back on the train. The doors, however, SLIDE SHUT in his face. Through the closed doors, Derek looks in at Colter, still on the train. They stare at one another through the window.
+POLICE COMMANDER	m	Mr. Frost. Please turn to face us. An entire PHALANX OF POLICE OFFICERS is on the platform.
+DEREK	m	Of course. What's this about? Unseen by the officers, Derek has taken out his CELL PHONE and is DIALING IT as he turns around. The police approach, cautiously.
+POLICE COMMANDER	m	Place your hands in the air.
+DEREK	m	My pleasure. Raising his hands, he pushes SEND on his phone. On board the train there's a RINGING.
+RUTLEDGE	?	I want to know who reprogrammed this lock. And if you don't get this open in ten seconds I'll see that you're busted back down to private.
+LOCKSMITH	m	I'm already a private, sir.
+RUTLEDGE	?	Just open it! A man's life is at stake. The key pad goes GREEN and the pressure lock releases. Rutledge tears open the door.
+MEDIC #1	m	Sorry, I can't let you pass. Goodwin removes the patch on his uniform to reveal the insignia of a major.
+GOODWIN	m	Step aside. That's an order.
+MEDIC #1	m	We all know your rank, Goodwin, but I have explicit orders from Rutledge not to -- BAM! Goodwin drops the Medic with a splintering HEADBUTT.
+GOODWIN	m	I'm glad you know my rank. Were you also aware I'm in the Special Forces?
+DETECTIVE	m	So you have no idea how your cell phone was used to call in the tip?
+COMPUTER ENGINEER	m	No! People mill about waiting for the buses, groaning and complaining. Christina accosts a passing transit employee.
+CHRISTINA	f	What now? How do we get to work? You guys have some busses or something? The transit employee ignores her and walks away.
+CHRISTINA	f	Hey! I'm talking to you! She stands there in exasperation. This whole thing has been designed to thwart her. Nearby, Colter sits on a bench.
+COLTER	m	Ain't life grand? Looking over, she notices him.
+CHRISTINA	f	Yeah. Now I'm going get fired for being late.
+COLTER	m	Maybe that's a good thing. She gives him a sharp look.
+RUTLEDGE	?	Shoot him if you have to, you hear me? The MPs exchange a look of annoyance at being ordered around by this guy.
+GOODWIN	m	Hello, Captain. As Goodwin edges forward, we reveal the bare foot of someone lying there. A DIGITAL TIMER reads 1 MINUTE.
+LOCKSMITH	m	Give me twenty seconds.
+RUTLEDGE	?	Make it ten. Rutledge looks at HIS WATCH. It reads 52 SECONDS.
+CHRISTINA	f	Could this day get any worse?
+COLTER	m	That train was taking you to a place you didn't want to be. But then you got off. And maybe that's a sign.
+CHRISTINA	f	Yeah. If only. She takes out her cell phone. The stress of her day.
+CHRISTINA	f	I'm calling a cab. Maybe I'll only be somewhat late for work. Colter watches her, a quiet ache inside. Maybe some people don't want to be saved.
+GOODWIN	m	Thank you for your service. Time to go home. Goodwin's hand goes to the switch to shut off life support. His eyes on the clock. It reads 30 SECONDS.
+COLTER	m	Hey. She turns. Colter gets up.
+COLTER	m	You can do anything you want with your life. Starting right now. She's taken aback. He starts walking off.
+CHRISTINA	f	Wait. Colter turns. She crosses her arms archly.
+CHRISTINA	f	You can't just expect someone to change her life just like that. At the very least... you'd have to buy that person coffee and explain your reasons. She waits for his response. Uneasy at putting herself out there. Colter's watch ticks down to the final seconds. His last moments in this world. He has only time enough for a final look of reassurance.
+COLTER	m	Maybe some other time. Disappointment flickers on her face. She turns to go. Behind her is a STONE WALL. A BICYCLE is parked against it. Colter's breath catches in his throat. This is it! This is the mysterious scene he's been seeing! HIS WATCH - Hits ZERO.
+RUTLEDGE	?	Arrest him! Goodwin backs away from the gurney, hands in the air. The BEEPING has given way to a MONOTONE. All of Colter's vital signs have FLATLINED.
+RUTLEDGE	?	He's dying...! Rutledge frantically goes to reconnect the machines -- but Goodwin has turned off too many of them.
+RUTLEDGE	?	Get a medical team in here! Move! But the MPs just stare at the appalling sight of Colter's exposed brain.
+RUTLEDGE	?	What are you standing there for?! Do it! We can save him!!! No one moves. Rutledge rashly grabs for one of the MP's rifles.
+RUTLEDGE	?	I guess force is the only thing you people understa --
+MP	m	Back away, sir, now! The MP has leveled his rifle at Rutledge. Who steps back, aghast. His authority has vanished with Colter's life. Goodwin shuts off the monitors. Silence fills the room. Colter is dead. Rutledge stares sorrowfully at Colter's body. Then at Goodwin with burning hatred.
+RUTLEDGE	?	You're a murderer. Goodwin offers his hands to the MP.
+GOODWIN	m	Go ahead and arrest me. But the MP does nothing.
+GOODWIN	m	I'll be around. Whenever you want me. They part as he walks out of the room. A look of grim satisfaction on his face.
+CHRISTINA	f	You okay? Colter turns to her. How can this be? He's afraid to even speak. As if that alone could break the enchantment. But the world is here. It goes on. That's all he knows. Finally he swallows. Finding his voice.
+COLTER	m	You're right. The least I can do is buy you coffee. This pleases Christina, although she tries not to show it.
+CHRISTINA	f	Okay, well, come on then. Walking forward, he joins her. The two of them disappear down the tunnel. A beautiful morning.
+

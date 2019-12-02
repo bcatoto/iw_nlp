@@ -3,6 +3,8 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
+FOL = '../1_scraped_data'
+
 #-------------------------------------------------------------------------------
 
 def getYear(title):
@@ -46,7 +48,7 @@ def main():
     td = soup.find_all('h1')[1].parent
     links = td.find_all('p')
 
-    outFile = open('../data_scraping/movie_script_urls.txt', mode='w',
+    outFile = open('%s/movie_script_urls.txt' % (FOL), mode='w',
         encoding='ISO-8859-1')
 
     for link in links:

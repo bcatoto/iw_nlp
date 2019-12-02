@@ -1,0 +1,502 @@
+MIKE	m	You ate snake?
+JOSHUA	m	When you're thirty klicks out from the nearest firebase. Humpin' through the wake-up with your finger on the trigger. Charlie doesn't give you time to stop for cutlet.
+CHARLIE	m	Charlie, don't surf!
+JOSHUA	m	Quiet, bird.     We're working.
+JOSHUA	m	The sun is going down, my nocturnal hunters. It's time to come out and feed.
+JOSHUA	m	I've calculated a growth factor of twelve percent over the last forty-eight hours. But that seems to be accelerating.
+MIKE	m	All from eating these bugs?   Maybe I should try some.
+MIKE	m	Run, little guys.
+JOSHUA	m	They can't outrun the food chain.
+MIKE	m	I could get away.
+JOSHUA	m	Imagine yourself the size of that fly. A scytodes spitter would be as big as a Cadillac. You'd be spider chow, kid.
+MIKE	m	Are the new tarantulas in here?
+JOSHUA	m	Took me forever to get a breeding set of Chilean reds. I must have bribed every customs agent from Vegas to Santiago.
+MIKE	m	That is too cool.
+JOSHUA	m	Male tarantulas compete for the female's attention.
+JOSHUA	m	Each one tries to bring her the best present. Bugs, rats, even the occasional parrot.
+JOSHUA	m	The prey is cocooned alive so she can eat them in her nest. You know how women love breakfast in bed.
+JOSHUA	m	Take a look, the female of the species is three times as big as the male.
+JOSHUA	m	Say hello to Consuela.
+JOSHUA	m	She fills her prey with digestive acid to liquify the internal organs. Now watch... She'll drink her victim from the inside out. While it's still alive!
+MIKE	m	And you wonder why my mom doesn't like me hanging out with you.
+JOSHUA	m	Arachnids have been roaming the earth for millions of years. And they'll be here long after the human race is dead and buried.
+MIKE	m	Bad!   Bad Consuela!
+CHRIS	m	Hope you like bologna!
+MIKE	m	You   should see them, Mom. Each one   has a unique feeding behavior. The   spitters fire poisonous snot. The   tarantulas mummify their prey. The   jumpers can...
+SAM	m	Why does he have all those things?
+MIKE	m	He studies them. NASA uses spider webs in outer space. And for medicine. They've been here forever, and they'll be here long after we're all dead.
+SAM	m	You're givin' me nightmares.
+MIKE	m	Nightmares are cool.
+SAM	m	U.P.S. brought this to the station.
+MIKE	m	It's from Dad! He didn't forget my birthday. I told you he wouldn't.
+SAM	m	Better late than never.
+MIKE	m	Rockin'!
+SAM	m	Is that the one you wanted?
+MIKE	m	Cassiopeia 2304 with 64 megs of ram. Integrated modem. Voice recording capability. This baby is tight.
+SAM	m	What's wrong?
+MIKE	m	He forgot to send the batteries.
+SAM	m	I told him to send batteries.
+BRET	m	Hang on, babydoll!
+ASHLEY	f	Oh shit.
+SAM	m	Hang on.
+MIKE	m	Why?
+SAM	m	Party's over, gentlemen.   Off the bikes.
+BRET	m	There is something very sexy about an older woman in uniform.
+LARRY	m	Her nine-millimeter gives me a stiffy.
+ASHLEY	f	Don't antagonize her, you guys.
+SAM	m	I told you not to act like kamikazes. Especially with Ashley riding behind. That is unacceptable, Bret.
+BRET	m	I could always ride her from behind.
+SAM	m	You just bought yourself a reckless.
+ASHLEY	f	Can't you give 'em a break?
+SAM	m	Get in the car, Ashley.       Now.
+ASHLEY	f	But, Mom!
+BRET	m	No sweat, babydoll.       We'll hook up later.
+SAM	m	Over my dead body.
+MIKE	m	You have the right to remain silent. Anything you say can and will be used...
+ASHLEY	f	Shut up, dork.
+BRET	m	Larry, do we know anybody at City Hall who can mark this go away?
+LARRY	m	Your Dad is the Mayor.
+BRET	m	Oh, yeah. He signs your paycheck.
+SAM	m	The next time you put my daughter's life in danger, I'll show you exactly how little that means to me.
+BRET	m	Relax, bee-otch. It's all good.
+SAM	m	I want both wheels on the ground.
+MIKE	m	I read her her rights.
+SAM	m	I can always count on you, Mike.
+ASHLEY	f	Do you get off on humiliating me?
+SAM	m	This bad girl act doesn't suit you, Ash.
+ASHLEY	f	I'm just trying to have fun. Don't you remember what it's like to grow up here?
+SAM	m	That's what scares me.
+SAM	m	I told you to keep this with you.
+ASHLEY	f	You are so over protective.
+SAM	m	A mother's job is to protect her children.
+ASHLEY	f	You need to start trusting me.
+SAM	m	I'd like to. But you keep skipping classes to go to the dunes with Bret.
+ASHLEY	f	Why do you hate him so much?
+SAM	m	I don't hate him. I just want you to have a future. I thought you wanted to get out of town. Go to med school.
+ASHLEY	f	Maybe I want to stay. I could get pregnant by nineteen. Then divorce with a couple of kids I can't handle. Slap on a badge and be a trailer trash sheriff.
+SAM	m	Thanks for the flashback.
+HARLAN	m	... listening to W.F.R.E. Freedom radio. We've put aside the U.F.O.'s and conspiracy theories...
+WADE	m	I may have overestimated the need for 100,000 square feet of outlet shopping.
+HARLAN	m	And your ostrich ranch?
+WADE	m	If the government subsidies hadn't dried up, I'd still be rolling in cash.
+WADE	m	With one phone call I could put together a deal that would make us all very rich.
+HARLAN	m	They say money doesn't buy happiness.
+WADE	m	They probably don't have any.
+WADE	m	... lunatics...
+WADE	m	... certifiably nuts...
+WADE	m	... at the very least...
+WADE	m	... those McCormicks are just plain-old dumb.
+CHRIS	m	I've warned you not to talk about my family!
+HARLAN	m	We have a surprise guest in the studio.
+CHRIS	m	My family built this town!
+WADE	m	Am I supposed to be grateful?
+SAM	m	That's enough!
+CHRIS	m	Stay out of this, Sam!
+CHRIS	m	Did you hear what he said?
+SAM	m	I heard.
+WADE	m	I want him locked up!
+SAM	m	Let's all calm down.
+WADE	m	We have no economy! People are barely scraping by! And now we've been offered the deal of a lifetime. You don't have the right to stand in our way!
+CHRIS	m	Those mines are full of gas. One spark in the wrong place could blow this entire valley sky high. Do you really want to load that gun with toxic waste?
+WADE	m	Chem-Tech did seismic analysis, vapor checks, groundwater reads, soil sampling. They found isolated methane pockets, but no benzene or hydrogen sulfide.
+CHRIS	m	How could they run tests? I didn't give them permission to go into the mines.
+CHRIS	m	I asked you a question, you greedy son of a bitch!
+WADE	m	I'm greedy?! You're the one keeping us down so you can search for gold!
+SAM	m	Don't take another step.
+CHRIS	m	You're taking his side?
+SAM	m	I'm trying to keep the peace.
+WADE	m	You're crazy!    Just like your father!
+CHRIS	m	He wasn't crazy.
+SAM	m	It's okay.
+ASHLEY	f	Maybe you're not gay after all.
+SAM	m	What are you talking about?
+ASHLEY	f	You can't take your eyes off his butt.
+SAM	m	Where did you learn that it's okay to talk to me like this?
+GLADYS	f	Did you pop him one?
+CHRIS	m	He had it comin'. But Sam Palmer... That woman abuses her power.
+GLADYS	f	Why? Because she stopped you from givin' Wade another pop?
+CHRIS	m	I'm not proud of it.
+CHRIS	m	I thought you were trying the patch.
+GLADYS	f	I am.
+CHRIS	m	That burner's on the fritz again.
+GLADYS	f	Oh something's broken? What else is new? You need to pay these by the end of the month.
+CHRIS	m	Today... For a split second... I actually thought I had it.
+GLADYS	f	Another vein of iron pyrite?
+CHRIS	m	Yeah... Then a rat stole my lunch. I practically blew myself up trying to get it back.
+GLADYS	f	I'm glad you like my bologna sandwiches. Maybe you should talk to Wade.
+CHRIS	m	What are you saying?
+GLADYS	f	Honey, if he really does have a buyer...
+CHRIS	m	You of all people know how much my dad wanted to find that mother lode.
+GLADYS	f	Your daddy wanted to    get rich. I don't think he cared    how that happened. If he was     still alive, maybe he'd sell those    mines.
+CHRIS	m	And maybe you didn't know him so well after all.
+GLADYS	f	You're right... I'm just worried about how we're going to pay these bills.
+CHRIS	m	Don't give up on me, Gladys. I promised him I'd find the gold. And I will.
+HARLAN	m	Good morning, Prosperity, Nevada. It's another beautiful day on the frontier.
+JOSHUA	m	Charlie... Semper fidelis.
+SAM	m	Work it, babe.
+SAM	m	It's all yours.
+ASHLEY	f	Ladies first.
+MIKE	m	What's your excuse!?
+SAM	m	You still want a ride, Mike?
+MIKE	m	I'm just going to the mall.
+SAM	m	Have fun.
+EMMA	f	Why do you need to do that as six in the morning!? Do you hate me that much!?
+HANK	m	I want to finish before I go to work.
+EMMA	f	You've been saying that for six months!
+HANK	m	I can't finish if you keep interrupting!
+HANK	m	I've got him by the tail.
+NORMAN	m	Hey, dude. Yeah. You.
+NORMAN	m	Wanna buy some smoke?
+MIKE	m	A pack of cigarettes?
+NORMAN	m	Smoke to get high, not to die. My stuff is hydroponically grown in a top secret location. No artificial flavors. No preservatives. Just 110 percent homegrown.
+MIKE	m	Where's this secret location?
+NORMAN	m	I could have a dime bag for you toot sweet. But if I tell you where exactly, I'd have to kill you.
+MIKE	m	Norman, you know my mom's the sheriff.
+NORMAN	m	Oh yeah... Right on... Does she get high?
+CLERK	m	The bug spray is on aisle five!
+MIKE	m	What?
+CLERK	m	You want mousetraps!?       Is that it?! Aisle five!
+CLERK	m	Oh.     I thought you wanted...
+OLD LADY	m	Excuse me, young man. Where can I find the bug spray?
+CLERK	m	Aisle five!
+CLERK	m	All bug spray, rodent traps, ant poison and fly paper is on aisle five!
+CLERK	m	That'll be three fifty-two.
+MIKE	m	Where's aisle five?
+MIKE	m	Animal tracks. Definitely too big to be spiders. Could be rats.
+CHRIS	m	What am I, the Pied Piper...
+SAM	m	I don't know, Travis. We're gonna keep an eye out. But we're not gettin' anywhere like this. You should go back out there and look for your animals. If they haven't shown up by tonight. I'll call Fish and Game. Okay?
+MIKE	m	Mom! Mom!   All Josh's spiders are gone!
+SAM	m	I can't do this right now, Mike! Everyone's having pest problems!
+MIKE	m	But Joshua is gone!
+SAM	m	Maybe he's out looking for his spiders?
+MIKE	m	Mom, I'm serious! You're not listening!
+SAM	m	Mike... I've got missing pets. Spiders in the plumbing. Rats and mice coming out of basements. And your sister's about to end up on a milk carton. I can't have you losing...
+SAM	m	Hello? Wade... wait a second... your ostriches?
+WADE	m	You like it? I'll take you for a ride.
+SAM	m	These birds are insured.   Right?
+WADE	m	I didn't kill my birds, Sam.      Is that what you think?
+WADE	m	... reject... absolutely not...
+MIKE	m	I've found more tracks.    Even larger now.
+SAM	m	If I find anything I'll let you know. So you can fill out that insurance form.
+MIKE	m	We have to go back.
+SAM	m	Mike?
+MIKE	m	That was a trapdoor spider's burrow.
+SAM	m	What are you talking about?
+MIKE	m	Joshua was feeding his spiders bugs from the creek. And they were getting bigger.
+MIKE	m	What if they didn't stop growing? What if they broke out of their tanks. Ate Joshua. And went into the mines?
+MIKE	m	That could be why the other species are coming out into the open. They're trying to get away from the giant spiders. The ecosystem is out of balance.
+SAM	m	Have you been overdosing your Ritalin?
+MIKE	m	Maybe I am losing it...
+ASHLEY	f	Woo-hoo!
+ASHLEY	f	Haven't you had enough of that?
+BRET	m	No such thing.     Norman's bud is da'kine.
+BRET	m	When I medal at the X-Games, Honda will give me full sponsorship. Then I'll take you with me on the Supercross tour.
+BRET	m	Are you still thinking about going away?
+ASHLEY	f	I don't know. I want to do something with my life, Bret. Help people. Maybe med school is still an option.
+BRET	m	Not if you keep hanging out with me.
+ASHLEY	f	Thanks, Mom.
+ASHLEY	f	Slow down...
+BRET	m	I thought you loved me.
+ASHLEY	f	I do!
+BRET	m	Then what's the problem? You want to leave town. You don't want to make out.
+ASHLEY	f	I don't feel...
+BRET	m	What?
+ASHLEY	f	I don't want to lose my virginity in the front seat of a monster truck.
+BRET	m	Why didn't you say so? We can go outside. I've got a blanket in the back.
+ASHLEY	f	No... I guess... I'm just not ready.
+BRET	m	Tammy and Larry do it every night!
+ASHLEY	f	Then call them! Have a menage a trois!
+BRET	m	Come on,   Ashley. Mommy's not around.    You don't have to play the good   girl. Let Daddy give you what you   really want.
+ASHLEY	f	Please, Bret... Please don't...
+BRET	m	My balls? Ahh! My balls! I pissed myself?! Damn, bee-otch!
+ASHLEY	f	I told you to back off!
+BRET	m	Ashley, wait!
+ASHLEY	f	Screw you, Bret. I'm going home.
+BRET	m	Please!   Open the door!     I'm sorry!
+ASHLEY	f	I can't believe my mom was right about you. Do you know how embarrassing that is?
+BRET	m	Open the door, baby!      I love you! I want to marry you!      Have my children! Please!
+SELF-HELP TAPE	m	I will live every moment of my life as if it were my last.
+PIG PEN	m	I will live every moment of my life as if it were my last.
+MIKE	m	Hello?   Hello?
+GLADYS	f	What are you doing home?
+CHRIS	m	Need some rat traps.
+GLADYS	f	Try the basement.
+CHRIS	m	What is all this?
+GLADYS	f	I wanted to surprise you with a special dinner. Turkey De La Gladys.
+CHRIS	m	I'll have mine without Nicotine.
+GLADYS	f	Not as good that way.
+CHRIS	m	Rats...
+GLADYS	f	I'm not kidding. I got more action than those chicks on VIP. So when I tell you Sam thinks your butt is U.S.D.A. choice...
+CHRIS	m	This is where I throw up.
+GLADYS	f	Don't tell me you don't think she's a fox.
+GLADYS	f	See you for dinner.
+SAM	m	Nothing yet. I'm sorry.     We're still trying to get...
+SAM	m	Let me call you back. This has been one crazy day. We've got missing pets, dead ostriches. God only knows what's next.
+CHRIS	m	I'm sorry about yesterday. Wade is... He knows how to push my buttons.
+SAM	m	I wanted to ask you...
+CHRIS	m	On a date?
+CHRIS	m	I'm kidding.   What did you want to ask?
+SAM	m	Have you noticed anything strange in the mines?
+CHRIS	m	Define strange.
+SAM	m	I had spiders in my house. Hector had roaches in his basement. Some mice...
+CHRIS	m	How about stampeding rats?
+SAM	m	Were they running away from something?
+CHRIS	m	Could have been. Never saw them do that before. I guess it qualifies as strange.
+CHRIS	m	Sam... Do you want to go out sometime?
+SAM	m	Are you asking me out on a date?
+CHRIS	m	Only if you're going to say yes.
+CHRIS	m	So that's a 'No.'
+SAM	m	My kids are the world to me, Chris. When their dad left... it really took a toll. On all of us. I can't go through that again. I won't.
+CHRIS	m	No... I understand... I don't know what I was thinking... Gladys has some crazy ideas. I'm gonna kill her.
+PETE	m	The museum's on fire!
+CHRIS	m	No!   Let me go! Gladys!   Let me go!
+SAM	m	Maybe she got out.
+CHRIS	m	She was cooking. The stove was broken.
+SAM	m	Why don't you come home with me? We'll get you cleaned up.
+TRAVIS	m	Get away from there, Mike!
+MIKE	m	Holy God...
+MIKE	m	Mom!   Wait!
+TV DOCTOR	m	One... two... three...
+TV DOCTOR	m	Helping people never gets old.
+SAM	m	Is Bret here?
+ASHLEY	f	No.
+SAM	m	Then why is his truck out front?
+ASHLEY	f	Don't worry about it.
+SAM	m	What do you mean?     What happened?
+ASHLEY	f	Nothing.
+ASHLEY	f	Nothing happened, alright!
+MIKE	m	Spiders shed their skins when they grow.
+MIKE	m	Like snakes.
+CHRIS	m	Gladys is dead.
+MIKE	m	Maybe not.
+MIKE	m	This is a tarantula's leg. Or it was. It's an exoskeleton, to be scientific.
+CHRIS	m	It's a little large.
+MIKE	m	See! Male tarantulas wrap their prey in webbing. Tight like a mummy. The food stays alive so they can eat it later.
+SAM	m	Mike, please.    Now isn't the time.
+CHRIS	m	They keep their food alive.
+SAM	m	What is this?
+MIKE	m	A spider's leg!
+MIKE	m	Careful!
+SAM	m	No. That's a piece of cactus. Look... It's covered with spines.
+MIKE	m	Those are quills! Tarantulas can flick them at you like darts!
+SAM	m	Giant tarantulas?
+MIKE	m	Tarantulas! Wolfs! Trapdoors! Joshua had a ton of exotics!
+CHRIS	m	If there were giant spiders roaming the desert, don't you think somebody would've seen them by now?
+MIKE	m	The jumpers hunt in daylight. But not the others. They only come out when the sun goes down!
+SAM	m	I guess I should watch more 'Oprah.' It must be a textbook 'no-dad' kind of thing.
+CHRIS	m	That one looks kind of scratchy.
+SAM	m	All Jason cared about was getting out and starting over. I guess that included buying a new wardrobe.
+CHRIS	m	Gladys thought I should sell... but you know... I never wanted to get rich. If it was about the money, I would have sold out to Wade a long time ago.
+CHRIS	m	I think I just wanted to prove the gold was down there. That my family wasn't crazy to keep looking. Even after we'd lost so much. And now... she's gone, too.
+SAM	m	I'm sorry, Chris.
+CHRIS	m	Do you know what I'm trying to say?
+SAM	m	It wasn't about spending the gold, it was about finding it.
+CHRIS	m	That's right.    That's exactly right.
+CHRIS	m	Remind me never to let you do my laundry.
+SAM	m	They look great.
+MIKE	m	Can't you turn that down?!
+MIKE	m	I'm doing spider research!
+ASHLEY	f	Spider... Mike... Spider...
+MIKE	m	Watch its fangs! The spitter's fangs move from side to side as it fires!
+CHRIS	m	I'll keep that in mind.
+MIKE	m	Get under it! Stab it in the abdomen! They don't have any armor down there!
+CHRIS	m	How am I supposed to do that!?
+CHRIS	m	I'm gonna need some new pants.
+SAM	m	Ever used one of these?
+CHRIS	m	I'm a fast learner.
+MIKE	m	I told you! I told you all!     But nobody ever listens to Mike! Still think I'm crazy, Mom?
+SAM	m	I'm sorry I didn't believe you.
+SAM	m	Calm down, baby.
+ASHLEY	f	There aren't enough wine coolers in the world to calm me down!
+SAM	m	I won't let anything happen to you.
+CHRIS	m	What other spiders did Joshua have?
+MIKE	m	Spitters, jumpers, orb weavers, tarantulas...
+CHRIS	m	Why couldn't he keep goldfish like a normal person?
+SAM	m	We need to warn people.
+CHRIS	m	How about the radio station?
+SAM	m	Good one.    We'll go to Harlan's.
+ASHLEY	f	Outside?    You want to go outside?
+SAM	m	It's okay...
+HARLAN	m	... I'm saying the invasion has already occurred. The aliens are among us. But they've taken common forms. They hide in plain sight.
+SAM	m	We need to make an emergency broadcast.
+HARLAN	m	What happened?
+MIKE	m	Giant spider invasion.
+CHRIS	m	What are you going to say?   You can't tell them the truth.
+SAM	m	Is this thing on? Hello? This is Sam Palmer. We have an emergency situation.
+SAM	m	A pack of rabid coyotes is loose in town.
+SAM	m	They are extremely dangerous.
+SAM	m	Arm yourselves with any weapons you can find.
+MIKE	m	Trapdoors!    They're all around us!
+SAM	m	How can we spot them?
+MIKE	m	I didn't download that part!
+ASHLEY	f	You dork!
+TRAVIS	m	Help... me... please...
+CHRIS	m	Keep going!
+ASHLEY	f	Mom!
+MIKE	m	Hurry up!
+SAM	m	Shut the other entrances!
+NORMAN	m	Trick or treat.
+CHRIS	m	We're sealed up at both ends.
+SAM	m	You pump the slide to jack in a fresh round. Point at your target and squeeze.
+WADE	m	Watch it!
+CHRIS	m	Like that?
+SAM	m	Try not to cut yourself.
+WADE	m	Why didn't we see them earlier?
+MIKE	m	For the last time! They can't handle the sunlight. They were waiting in the mines for the sun to go down!
+CHRIS	m	Then at daybreak they'll go back inside. We can walk out the front door.
+MIKE	m	We won't make it that long.
+ASHLEY	f	They're gonna come in after us?
+MIKE	m	They're growing very fast. They need food to sustain that kind of development.
+HANK	m	Someone should go out and get help.
+EMMA	f	You go, Sam.
+SAM	m	Me?
+WADE	m	You're the sheriff.
+SAM	m	I don't have that many handcuffs.
+PETE	m	What about the police radio?
+SAM	m	You're not goin' back out there, Pete. None of us are.
+CHRIS	m	Radio Shack is full of cell phones.
+WADE	m	But the signal won't get out of the valley. That's why we couldn't sell any of the damn things.
+HARLAN	m	My antenna...
+HARLAN	m	I could climb up to the top. I bet I could get a signal out.
+WADE	m	Great idea.    You should do that.
+CHRIS	m	I'll cover you, Harlan.
+SAM	m	Are you sure you can handle this?
+CHRIS	m	While I'm gone, do you think you could find me a size 32?
+SAM	m	I'll do my best. Uhh... Do you want to go out sometime?  Dinner? Maybe a movie?
+WADE	m	Hey, loverboy... you've got a town to save.
+ASHLEY	f	You're not really going to get him bigger pants are you?
+SAM	m	No way.
+CHRIS	m	Don't even think about locking this door.
+WADE	m	I'll be right here waiting.
+CHRIS	m	It looks clear.
+ASHLEY	f	I didn't know you wore cologne.
+MIKE	m	I don't.   It's spider repellent.
+SAM	m	Let's stay together, guys.
+ASHLEY	f	Can I get this?
+SAM	m	Move it!
+CHRIS	m	We've got company!
+CHRIS	m	This always looks so easy on TV!
+HARLAN	m	I've got a signal!
+CHRIS	m	They're coming!
+OPERATOR	m	911 Emergency.
+HARLAN	m	I'm calling from Prosperity Nevada! We're being attacked by giant spiders! The entire town has been overrun!
+CHRIS	m	No!   Don't say that!
+OPERATOR	m	This is Emergency Services. Not dial-a-joke.
+CHRIS	m	What happened?
+HARLAN	m	They didn't believe me!
+CHRIS	m	What a shock!     Try again!
+OPERATOR	m	911 Emergency.
+HARLAN	m	There was a massive explosion! Everybody's dead!
+OPERATOR	m	Sir, your number has been flagged as a source of a crank call. I'm afraid I must terminate this conversation.
+HARLAN	m	She hung up on me!
+CHRIS	m	Climb!
+SAM	m	Oh my God...
+ASHLEY	f	They're inside!
+WADE	m	Over here!
+CHRIS	m	I've got you!
+HARLAN	m	Defend the human race!
+CHRIS	m	No!
+SAM	m	Ashley!   Mike!
+FLOYD	m	Having a bad hair day?!
+FLOYD	m	How about a little off the top!
+CHRIS	m	You're going down!
+MIKE	m	Arac attack!
+SAM	m	Did you get help?!    Is anybody coming!?
+CHRIS	m	We're on our own!
+ASHLEY	f	I can't stay in here!
+ASHLEY	f	What are they doing?
+MIKE	m	They're trapping us like ants in a log! Once they have all the exits blocked, they'll come in through the last one!
+MIKE	m	We've gotta go!
+ASHLEY	f	Here!
+WADE	m	Where are you taking us?
+NORMAN	m	To Shangri-la.
+NORMAN	m	You aren't going to arrest me for this are you?
+SAM	m	Not today.
+WADE	m	Oh great! Now you've trapped us!
+CHRIS	m	We should be able to hold them off for a little while.
+ASHLEY	f	They're coming through the wall!
+CHRIS	m	What the hell?
+BRET	m	I didn't touch her!     I swear!
+ASHLEY	f	Don't waste your bullets.
+WADE	m	I thought you were a goner, boy!
+CHRIS	m	We can get out this way!
+ASHLEY	f	Aren't the spiders in there?
+MIKE	m	Not until daylight.
+BRET	m	You're going back in there?!       Are you all crazy!?
+WADE	m	Come on, Bret!
+BRET	m	No way!   I'm not going!
+SAM	m	You put all of us at risk.
+WADE	m	I didn't have a choice! I was broke! They gave me a hundred grand!
+SAM	m	I think our lives are worth a little more than that.
+CHRIS	m	We're wasting time.
+CHRIS	m	One end of these lights should be connected to a generator. That'll be near the entrance.
+WADE	m	My birds! You see, Sam? I wasn't lying! That's what I can put on the insurance form... giant spiders!
+ASHLEY	f	Ewww... what's that smell?
+CHRIS	m	Methane.   This cavern is full of gas.
+ASHLEY	f	What does that mean?
+CHRIS	m	One spark and we're all dead.
+MIKE	m	That's what I was talking about, Chris. Presents from the male tarantula to the female.
+BRET	m	So the female's around here?
+SAM	m	That one just moved!
+CHRIS	m	There's somebody in here!
+CHRIS	m	Gladys!
+CHRIS	m	Gladys, please... Can anybody help her?!
+ASHLEY	f	Her breathing is shallow.       She's going into arrest.
+CHRIS	m	It's okay.    It's okay.
+GLADYS	f	Am I... dead?
+CHRIS	m	You're okay.
+GLADYS	f	I'm not in heaven?
+CHRIS	m	No...
+GLADYS	f	Then what's with all the gold?
+WADE	m	Gold! Gold!     Look!    It's everywhere!
+SAM	m	Is it real?
+CHRIS	m	Jesus... it's the mother lode... He was right. My dad was right...
+GLADYS	f	So were you.
+WADE	m	Get as much as you can!
+BRET	m	Nice work, Doc.
+SAM	m	You saved my life.
+GLADYS	f	Have you got a smoke, kid?
+NORMAN	m	The man says this cavern is full of highly flammable methane gas. I smoke to get high, not to die.
+SAM	m	Spiders!
+NORMAN	m	What's the big deal?
+MIKE	m	I think you should stop.
+NORMAN	m	Why?
+MIKE	m	They're giant babies!
+MIKE	m	Consuela.
+CHRIS	m	Consuela?
+NORMAN	m	Bummer...
+CHRIS	m	Go!
+CHRIS	m	Leave it!
+WADE	m	So you can keep it all!?   Hell no!
+BRET	m	Dad!
+CHRIS	m	Bret, come on!
+ASHLEY	f	Bret!
+BRET	m	I'm sorry I...
+SAM	m	We have to get out!
+CHRIS	m	This is our chance to kill them all.
+CHRIS	m	When the power comes on, the bulb will ignite the methane and torch them!
+SAM	m	Where did you get an idea like that!?
+GLADYS	f	I blew up the kitchen.
+CHRIS	m	Keep going up the tunnel. There should be a generator at the exit. Start it up and await for my signal to throw the switch.
+SAM	m	And the toxic waste...
+CHRIS	m	Will be buried under tons of rock! Go!
+SAM	m	What about you?
+CHRIS	m	I need to set the fuse as close to the spiders as I can. That should give us time to get clear.
+SAM	m	He has a cute butt.    Don't you think?
+GLADYS	f	U.S.D.A. choice.
+CHRIS	m	Bingo.
+MIKE	m	Mom!
+SAM	m	Keep going!
+CHRIS	m	I hate spiders.
+ASHLEY	f	Hurry!
+ASHLEY	f	Oh shit.
+SAM	m	Banzai!
+MIKE	m	It needs gas!
+GLADYS	f	There's a ranch!
+MIKE	m	It needs gas!
+ASHLEY	f	Hurry!
+CHRIS	m	Start the generator!
+GLADYS	f	Let's get the fuck out of here!
+MIKE	m	Oh no... she's molting!
+MIKE	m	Consuela!   No!     Bad!   Bad Consuela!
+

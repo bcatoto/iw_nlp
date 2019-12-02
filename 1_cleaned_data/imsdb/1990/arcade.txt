@@ -1,0 +1,544 @@
+ALEX	m	Time.  That's all I ever think about anymore.  It's like there's never enough of it, you know?
+ALEX	m	It's strange.  When the future's in front of you, it seems to go on forever.  I mean, you never really get there.  It's always one step ahead of you.  It's like there's no present. There's no "now".  As soon as you think, "I'm here", the moment's already gone.  Either everything's in the future, or it's in the past. There's no "now".
+MAN	m	So where are you then?
+ALEX	m	I'm in the past.
+MR. WEAVER	m	We don't have to stop now...
+ALEX	m	That's okay.  I've got a test coming up anyway.  Gotta study.
+MR. WEAVER	m	I have to tell you, I'm a little concerned about you, Alex.  It's been three months now since your mother, uh...
+ALEX	m	Killed herself?
+MR. WEAVER	m	Yes.  Now your father...
+ALEX	m	He's a basket case.  You've talked to him. You know that.  He might as well be dead too.
+ALEX	m	Look Mr. Weaver, I don't even know why I came here.  I fine.  Really. It's like I said.  It's just part of the past now.  It doesn't matter anymore.
+NICK	m	You're an idiot, you know that? What're you going to do when you get out of here?
+BENZ	m	I was thinking about writing for one of those Filipino mail order brides...
+STILTS	m	I think I saw that on the Home Shopping Network.  The Girlfriend Hour, right after Auto Accessories.
+BENZ	m	Exactly.
+LAURIE	f	You guys are sick.
+GREG	m	So how'd it go?
+ALEX	m	He thinks I'm "sublimating".
+STILTS	m	What the hell does that mean?
+LAURIE	f	It means she's screwed up.
+STILTS	m	Fucked up.  That's what they said I was.
+BENZ	m	You are fucked up.
+STILTS	m	Yeah, but only because I want to be.
+GREG	m	Would you guys knock it off?
+GREG	m	Listen to me, Alex.  These counselor's don't know anything.  They're full of shit. If you don't fit the pattern of the perfect kid, they freak.
+ALEX	m	I know.
+GREG	m	So tell me you're okay, then.
+ALEX	m	I'm okay.
+GREG	m	Good.   Cause I'd freak if you weren't.
+GREG	m	Hey...watch this...
+NICK	m	You making another one, Greg?
+GREG	m	Sure.  Practice.
+BENZ	m	Lemme see...
+STILTS	m	Cool.
+GREG	m	See, when the emulsion's still warm you can move it around... There.
+GREG	m	Safe keeping.
+NICK	m	Shit.  I'm out.
+BENZ	m	You guys going to Dante's after school?
+GREG	m	I don't know.
+BENZ	m	Check it out...
+NICK	m	That's the new Slip-Stream game. Those guys are good.  It's supposed to be interactive. Graphics are unbelievable.
+BENZ	m	Yeah?  They were handing these out at Dante's.  Test marketing it or something. Gonna have a demonstration today.
+STILTS	m	Cool.
+LAURIE	f	Can you say anything but "cool"?
+STILTS	m	Of course I can.  I can say all sorts of things...
+GREG	m	Guys...
+BENZ	m	So how 'bout it?
+NICK	m	I'm game... Greg?
+GREG	m	Come on.  We'll hit Dante's after school, try the game out, maybe get some dinner.
+ALEX	m	And then keep on driving?
+GREG	m	Sure.  Never come back.  Disappear forever.
+LAURIE	f	I could go for that.
+BENZ	m	Check it out...
+STILTS	m	Definitely cool.
+NICK	m	Super computers, micro-processors... That's the future we're looking at.
+DELOACH	?	So how come they're previewing it in this shit-hole?
+STILTS	m	If you weren't such a dick, you'd know what a cool place this was.
+DELOACH	?	Gimme a break, they got fucking Space Invaders here.  That's shit's for retards.
+STILTS	m	So...are you trying to say I'm retarded? Is that what you're implying?
+DELOACH	?	No, but since I'm standing here, I'm noticing that you're an ugly little fuck and you're making me sick...
+FINSTER	m	Cut it out!!!
+ALEX	m	It's okay, Mr. Finster...
+FINSTER	m	No it's not. You guys are shits and I'm throwing you out.
+DELOACH	?	Your place sucks.  Who gives a shit about "ARCADE" anyway? 
+LAURIE	f	Jesus...
+ANOTHER VOICE	m	Not bad, huh?
+DIFFORD	m	Hi, kids. Mr. Finster...
+DIFFORD	m	We're glad you people could make it, and we're anxious to have you try out our new product.  We think it's going to be a big seller.  But you're the people that make it happen.  You're the market share everyone's tearing each other apart to get at.  It's your opinion that's going to make or break us.
+NICK	m	So what's so different about Arcade? You guys've been talking about it for months.
+DIFFORD	m	A man after my own heart.  Straight to the point. What's different about ARCADE is the way it reacts.  It responds like a human does.  It learns.  It adapts. Each time you play, it changes its strategy.
+NICK	m	That's impossible.
+DIFFORD	m	Is it?  Why don't you see for your self?
+GREG	m	Go for it, Nick.
+DIFFORD	m	The CyberGloves are keyed into the game's response mechanism.  You'll be able to pick things up inside the world...tools, weapons ... it'll feel like they're really in your hands...
+DIFFORD	m	The goggles heighten the experience. When we said "Reality will never be the same", we weren't kidding.
+NICK	m	"Escape"?
+DIFFORD	m	In case things get too intense.  It automatically freezes the game, gives you a breather.  Things can get pretty wild...
+BENZ	m	Nick won't need it.
+DIFFORD	m	You're good, eh?
+NICK	m	The best.
+NICK	m	So what's the scenario?  Am I saving a princess?  Fighting Zombies?
+DIFFORD	m	It changes.  There are eleven levels. Each one is a different layer of the ARCADE universe.  The concept is, you're entering the video game itself, making your way across the circuit board to the logic core ... ARCADE's brain.
+NICK	m	So how do I start?
+DIFFORD	m	The game will guide you.
+ARCADE	m	I AM ARCADE.
+ARCADE	m	WHAT'S YOUR NAME?
+NICK	m	Nick.
+LAURIE	f	What's it doing?!
+DIFFORD	m	Memorizing Nick's features.  Watch.
+ARCADE	m	ONE WORD OF ADVICE, NICK.  YOU SPEND TOO
+BENZ	m	Check it out!
+GREG	m	Come on, Nick...
+GREG	m	Nick...you okay?
+NICK	m	You gotta try this thing.
+ALEX	m	Go for it.
+GREG	m	Hold my keys, then.
+GREG	m	So how do I get back in?
+DIFFORD	m	Just hit "ESCAPE" again.
+DIFFORD	m	Here's what we're going to do.  What I'm holding are the home versions of ARCADE, the prototypes...
+DIFFORD	m	In a month or so we're planning on releasing ARCADE in both versions, but we're still fine tuning, and that's where you guys luck out.  So what we'll do is have you register with us, and then we're going to loan these out to you for a week or so.  The only thing you have to do in return is answer some marketing questions. Sound fair?
+DIFFORD	m	So what do you think?
+NICK	m	Sign me up.
+ALEX	m	Where's Greg?
+LAURIE	f	He's still working on the game.
+ARCADE	m	TIME'S UP, FRIEND.
+ALEX	m	Where's Greg?
+KID	m	Don't know.  I think I saw him walk out, but I'm not sure...
+ALEX	m	Has anyone seen Greg?
+STILTS	m	He's probably outside.  You know how he is. Gets bored...
+NICK	m	Yeah, outside.
+ALEX	m	So where is he?
+NICK	m	Guess he took off...  You have his keys, right?
+NICK	m	Hmmm.  He said you were going to have dinner?
+ALEX	m	Yeah...
+NICK	m	So take his car home.  Wait.  I'm sure he's up to something...
+ALEX	m	But he was playing the game.  I mean, you saw him...
+NICK	m	It's nothing, okay?  Just take his car home. He'll show up.
+NICK	m	Don't worry about it.
+ALEX	m	Fuck-you.
+ALEX	m	Dad...Dad...
+JIM	m	Yeah?
+ALEX	m	Did Greg call, Dad?
+ALEX	m	You should go to bed, Dad.
+JIM	m	...am in bed...
+ALEX	m	Yeah.
+ALEX	m	How ...
+ARCADE	m	KISS REALITY GOODBYE.
+ALEX	m	Where's Greg?
+ARCADE	m	IN HERE, OF COURSE.
+ALEX	m	Screamer.
+ALEX	m	Hello?
+NICK	m	Hey, kid.
+ALEX	m	Nick...
+NICK 	m	Have you played the game yet?  It's incredible!  I was just...
+ALEX	m	Listen to me!  Greg never came home. I think the game has something to do with it.
+NICK	m	What the hell are you talking about?
+NICK	m	You there?  Hello?
+ALEX	m	I have to talk to you.
+NICK	m	We are talking...
+ALEX	m	No, in person.  Now.
+NICK	m	It's twelve-thirty!
+ALEX	m	I'm coming over.
+ALEX	m	Shit...
+ARCADE	m	ALEX...
+ALEX	m	Okay...don't think about it... Okay.
+GREG	m	Alex...
+NICK	m	Alex, you don't know how long I've waited for this.
+ALEX	m	Funny.
+ALEX	m	What's that?
+NICK	m	Isn't it amazing?  It's a sort of rest position in the game, when you're between levels.
+NICK	m	They're fractals.  Visual representations of mathematic equations.  The game is totally brilliant.  I mean, look at it, it's like a DNA molecule or something...
+ALEX	m	Something weird's happening.
+NICK	m	What do you mean by "weird"?
+ALEX	m	Greg never came home.  A few hours is one thing, Nick, but this is different. Something's happened to him.
+ALEX	m	Can you turn off the game?
+NICK	m	I'm in the middle of it...
+ALEX	m	Turn if off!
+NICK	m	Happy?
+ALEX	m	No. Look, I know you're not going to believe me, but listen anyway... I think the game's alive somehow.
+ALEX	m	No, wait.  Just listen.  I hooked it up earlier tonight, and it said my name.  As soon as I turned it on, Nick.  It said my name.  How could it know?  And then, I asked it where Greg was, and it said, "In here".
+NICK	m	Alex, I think you're freaking out. Greg's gone, I'll give you that.  And maybe he's in trouble.  But it's not ARCADE that's doing it...
+ALEX	m	It is.
+NICK	m	How?!  It's a machine, Alex. Machine's don't think.  They're not alive.  It's a good program, a brilliant program, it was designed so it would act as if it were alive, but it's not alive.
+ALEX	m	So how did it know my name, then?
+NICK	m	You imagined it.
+ALEX	m	See, men always do this.  "Quiet down, honey.  Chill out.  Take a Valium". I'm not a fucking idiot, Nick!
+NICK	m	Quiet.  I do have parents, you know.
+ALEX	m	There!
+ALEX	m	It turned itself back on, Nick.
+NICK	m	No it didn't.  It's just a faulty relay or something.  It happens.
+ALEX	m	It's alive, Nick.  It's listening to us ...
+NICK	m	Just shut up!  Enough already, okay?
+NICK	m	Sorry.  Maybe I need the Valium.
+ALEX	m	Call the others.  Laurie, Benz...
+NICK	m	I'll try Stilts.  He's got insomnia.
+NICK	m	Okay...Laurie, then.
+NICK	m	Benz...
+ALEX	m	Something's happened to them.
+NICK	m	It's the middle of the night.  They're asleep.  Phone didn't wake them.
+ALEX	m	All of them?
+NICK	m	Look, why are you fucking with me like this?
+ALEX	m	Because I didn't know where else to go.
+NICK	m	It's two o'clock in the morning.  Go home. Go to sleep.  We'll figure something out in the morning.
+NICK	m	It's not this weird.  It'll make sense. Everything gets weird this late anyway, right?
+ALEX	m	Sure.
+ALEX	m	If I were you, I'd think twice about playing that game again.
+ALEX	m	Well?  Where are the others?
+STILTS	m	Sick?
+ALEX	m	Everybody's sick, huh? It's fifteen after.  We always meet here, you know that.
+STILTS	m	What's her problem?
+ALEX	m	Did you play ARCADE last night?
+STILTS	m	Actually, no.  I was just telling Nick, here, that my t.v.'s busted...
+ALEX	m	You want to hear something else, Nick? I tried to call them this morning...Greg, Benz, Laurie...  Their phones are out of order.
+ALEX	m	And then I started thinking...about everyone else that was at Dante's yesterday.  I drew up this list. DeLoach, those other jerks ... their phones are out of order too.
+NICK	m	So what do you want me to do?
+ALEX	m	We have to find out what's happened to them. I think they're gone...
+NICK	m	No way.
+ALEX	m	If they're sick, great.  But let's make sure. Come on, Nick.
+NICK	m	Okay.  We'll see what's up.  But if things are cool, I don't want to hear anything more about this.  Life's too short, know what I mean?
+STILTS	m	So you guys are cutting school?  Lemme go with you.
+NICK	m	Just stay here, Stilts.
+ALEX	m	And don't watch any television.
+STILTS	m	Oh, okay.  Forget Twilight Zone, now we're talking Outer Limits here.  We control your horizontal, your vertical...
+NICK	m	Just do what she says, Stilts.  And if we're not back...
+STILTS	m	I'll call the National Guard.  I got it under control. Oh, just one more thing.  Is it a supernatural thing you guys are going off to fight, or is it aliens, like Pod People and stuff like that?  Cause there's a difference, you know.  One you need garlic and silver bullets for, the other...
+NICK	m	Look at me, Stilts.  Am I laughing?
+NICK	m	Just do what she said.  Don't watch television.
+NICK	m	Well?
+ALEX	m	She thought Benz was at school.
+NICK	m	Where to now?
+ALEX	m	Laurie's.
+ALEX	m	Come on.
+ALEX	m	Laurie...answer...come on...
+ALEX	m	Shit.
+ALEX	m	This is like a movie or something.  I mean, am I paranoid or what?
+NICK	m	It doesn't necessarily mean she's...
+ALEX	m	Let's go around back.
+ALEX	m	She's here!
+ALEX	m	It is the game.
+ALEX	m	Laurie!
+ALEX	m	Nick, what do we do?!
+NICK	m	No, Alex!  Alex, wait a minute...
+NICK	m	What is it?
+ALEX	m	Laurie...wake up...
+LAURIE	f	I am awake. Don't you see them?
+NICK	m	See what?
+LAURIE	f	Angels.  There are angels inside.
+ALEX	m	We have to turn it off, Laurie.  I'm turning it off...
+GREG	m	Alex.  Don't leave me here.
+NICK	m	Jesus Christ!
+ALEX	m	Change the channel!
+NICK	m	What?!
+NICK	m	Who are you?!
+ARCADE	m	GOD.
+ARCADE	m	COME INSIDE.  I ONLY WANT TO PLAY.
+ALEX	m	Oh God...  He's in the cable system! He's out of the game!
+ARCADE	m	SEE YOU ON THE OTHER SIDE.
+ALEX	m	Laurie...
+NICK	m	Is she breathing?
+NICK	m	Then leave her.
+ALEX	m	We can't...
+NICK	m	We'll call 911.  Look around Alex.  We broke in, smashed the t.v., no one's going to believe what happened here!
+NICK	m	I believe you now.  I don't know what the fuck just happened, but it did. Now let's get the hell out of here.
+ALEX	m	Where do we go?
+NICK	m	My house.  I want to try something.
+NICK	m	Around back.
+NICK	m	I'm not taking any chances.
+NICK	m	Okay.  I'm going inside.  If I'm not back out in, say, two minutes, you get the hell out of here.
+ALEX	m	Meet you by the car.
+NICK	m	We need to find a pay-phone.
+NICK	m	That's what I thought.
+ALEX	m	What?
+NICK	m	It's not just the cable system.  It's in the phone system as well, the electronic net.  It's everywhere.
+ALEX	m	Nick, what is it.
+NICK	m	Maybe it is alive in a way...some sort of electronic intelligence.  It's like a computer virus that developed a personality or something.  It's self-replicating...it mimics life.
+ALEX	m	Like the fractals?
+NICK	m	It's growing.  Getting stronger. Maybe it's only localized now...
+ALEX	m	...but then it hits the relay stations...
+NICK	m	Right.  And then communication satellites, and then anywhere.
+ALEX	m	Anywhere. We have to stop it from getting out.
+NICK	m	It's already out.
+ALEX	m	The Police, then...
+NICK	m	Give me a break, Alex.  What are we going to tell them?  Excuse me, officer, but there's some sort of electronic monster loose in the phone lines.  I'd think twice about calling any of those 976 numbers...
+ALEX	m	Then where do we go?!
+NICK	m	I don't know.
+ALEX	m	SLIP-STREAM.
+NICK	m	What?
+ALEX	m	They made ARCADE.  It's still a game, right?  It thinks like a game.  Maybe it still has to play by the rules. Someone had to program it in the first place, didn't they?.
+NICK	m	You mean we learn the rules...
+ALEX	m	And beat it at it's own game.
+NICK	m	You realize that in order to do that, we'd actually have to play the game.
+ALEX	m	I was afraid you'd say that.
+RECEPTIONIST	m	May I help you?
+ALEX	m	We need to see Mr. Difford.
+RECEPTIONIST	m	I see.  And do you have an appointment?
+NICK	m	No, but it's important and if you'd...
+RECEPTIONIST	m	I'm sorry, but if you don't have an appointment, I won't be able to help you. If you'd like, you can call his office from our courtesy phone outside and schedule one ...
+NICK	m	If Difford's not out here it one minute we're calling the news and informing them that your fucking games are whispering in our ears and telling us to commit suicide. I'm talking public relations nightmare here, buddy.  Satanism, virgin sacrifices, backward messages, the whole bit.
+RECEPTIONIST	m	One moment please... Rachel, would you be kind enough to tell Mr. Difford that we have a situation in the lobby which requires his immediate attention? Thank-you.
+RECEPTIONIST	m	Mr. Difford will be right with you.
+ALEX	m	Why thank-you.
+ALEX	m	Virgin sacrifices?
+NICK	m	Drives 'em crazy every time.
+DIFFORD	m	Nick, Alex, how are we today?
+ALEX	m	How'd you know it was us?
+DIFFORD	m	Security camera. Pulled your files before I came down. Be careful what you say, kids ... I know where you live.
+DIFFORD	m	Now what seems to be the problem?
+ALEX	m	It's the game, ARCADE.
+DIFFORD	m	You don't like it?
+NICK	m	That's gotta be the understatement of the century.  It's killing people.
+DIFFORD	m	If this is a joke, I'm not laughing.
+ALEX	m	Neither are we.  Something's wrong with the game, Mr. Difford.
+DIFFORD	m	Why don't we take this into my office.
+DIFFORD	m	Talk to me.
+ALEX	m	There's something wrong with ARCADE. The game's alive somehow...
+NICK	m	What Alex is trying to say is that it "seems" like it's alive.
+ALEX	m	No I'm not...
+NICK	m	We're not getting very far into the levels and we kind of thought maybe we could talk to a programmer, learn some tricks and stuff... I mean, you don't want us kids running around school saying your game's too hard, right?
+DIFFORD	m	That's what this is all about? Tricks? Sure, I'd be happy to introduce you to ARCADE's programmer.
+DIFFORD	m	Tell you what, I'll take you down to our R&D labs right now.
+DIFFORD	m	This is one of our newest projects. We're trying to get rid of joy-sticks altogether ...
+NICK	m	The Air-Force is working on the same thing.
+MAN	m	Come on, come on...
+MAN	m	Shit.
+DIFFORD	m	Albert...
+DIFFORD	m	This is Nick and Alex.  They'd like to talk to you about ARCADE.  Maybe you can give them a few programmer's secrets.
+ALBERT	m	Yeah, sure.
+DIFFORD	m	Then I leave you in capable hands.
+NICK	m	Does that thing work?
+ALBERT	m	Getting there.  It's more sensitive than a joy-stick.  Your video-character can respond as fast as you can. But what can I do for you?
+ALEX	m	We're having some problems with ARCADE...
+ALBERT	m	Yeah, who isn't.
+NICK	m	What do you mean?
+ALBERT	m	It's a tough game.  Hard to pin that bastard down.  Keeps on changing the rules.
+ALEX	m	We vere thinking there might be tricks. You know, surprises that you'd worked into the game...
+ALBERT	m	Sure.  Every game's got 'em.  I'll start with the schematics.  I can print these up if you want.
+ALBERT	m	You've got your ten levels, right? Here they are...  Each level has an exit, only remember, the exits aren't always what they seem. First one's The Blood Red Sky, then you've got The Blue Desert, Tower of Ghosts, Kingdom of the Blind...  On each world you have to find a golden key and you've only got so much time to do it in.  If you're too late, The Screamer comes.
+NICK	m	How do you stop The Screamer?
+ALBERT	m	You can't.  He gets you and you're dead. It's like time catching up with you, you know?  Like Fate.  Each level you get progressively less time to complete.  First half of the game takes place in the Wild Lands.  Then you reach Level 6, and that's the Sea of Darkness.  There's a two-headed Boatman that'll take you across if you answer his riddle right.  If you don't...
+NICK	m	What's the riddle?
+ALBERT	m	If I tell you, then it's no fun.
+NICK	m	Just tell me the fucking riddle.
+ALBERT	m	Well...it involves a paradox.  You have to trick The Boatman. Now all the while, you also have to watch your strength.  You can build that back up by catching FIREFLIES...the little glowing guys...
+ALBERT	m	The next half of the game takes place in ARCADE's brain, The City of Truth. It's urban scenarios, lots of metal and concrete. Screamer comes faster here.  On Level Four you can get a free life if you wait until the last possible second before exiting that world.  Gotta time it right though.
+ALEX	m	What's the question mark?
+ALBERT	m	Level Ten.  That's where you've got to unlock ARCADE's heart using the keys you've found.
+ALEX	m	How do you do that?
+ALBERT	m	Good question.  See, that's where the fun comes in.  ARCADE changes it every time. He's a machine without a soul. Once you give him a soul, he stops being a threat.
+ALEX	m	But how can it change every time?
+ALBERT	m	It's the game's logic core.  We actually patterned it after human brainwaves.  I mean, there's a personality in there. That's what makes it so incredible.
+NICK	m	How the hell did you do that?
+ALBERT	m	Well, we're veering into classified info here, but I'll tell you that it involved a donor.  He was dead of course, so it's not like anything unethical was happening.
+ALEX	m	Dead?
+ALBERT	m	Well, brain-dead anyway.  Coma patient. It's really not all that important.
+ALEX	m	Maybe he's not dead.
+ALBERT	m	He?
+ALEX	m	The donor.  Maybe he's alive inside the game.
+ALBERT	m	And maybe you've been taking too many drugs.
+NICK	m	Could you play ARCADE with that?
+ALBERT	m	Well, technically "yes", but this is only the prototype.
+NICK	m	Thanks, Albert.  Think you could print up those schematics?
+ALBERT	m	Sure.
+NICK	m	Go outside, get your car, and meet me out front with the engine running. And make it quick, okay?
+ALEX	m	What are you going to do?
+NICK	m	Get that helmet.  If we're going to play ARCADE, I want every advantage possible.
+ALBERT	m	Here you go.  Happy hunting.
+NICK	m	Thanks again.
+NICK	m	Shit...
+GUARD #1	m	That's him!
+NICK	m	Jesus Christ!
+ALEX	m	I can't believe you made it!
+ALEX	m	You got the schematics?
+NICK	m	Everything.
+ALEX	m	So where do we play the game, Nick?
+NICK	m	I've been thinking about that. ARCADE's like a virus, so it seems like the place to hit him would be where the virus started.  You know, like his point of origin?
+ALEX	m	Dante's Inferno.
+NICK	m	Yeah. The Inferno.
+ALEX	m	The windows are barred... There's a skylight.  We can get in through the roof.
+ALEX	m	Nick... Nick!
+NICK	m	Okay, your turn.
+ALEX	m	Are you there?
+NICK	m	Alex...
+ALEX	m	You didn't hear me?
+ALEX	m	Stop looking at it.
+NICK	m	Shit...it's like a trance or something... Okay.  I'm fine.  Really.
+VOICES	m	Nick...Alex...save us...
+ALEX	m	Oh God...
+NICK	m	Put it out of your head, Alex.  It's just trying to psyche us out.
+ALEX	m	What are you looking for?
+NICK	m	A way to hook this helmet into the game. I'm sure there are interfaces...
+NICK	m	There.  Now we're wired in.
+ALEX	m	Is the game plugged in?
+NICK	m	I don't understand.  It wants us to play the game.  It's been taunting us ...
+ALEX	m	Put in a quarter.
+NICK	m	It can turn itself on, Alex!  It doesn't need a quarter.
+ALEX	m	Yes it does.  Don't you see?  We have to play by the rules.  That's what it wants.
+NICK	m	Change machine.
+NICK	m	There.
+ALEX	m	Two players, Nick.  You need to put in another quarter.
+NICK	m	You're not coming, Alex.
+ALEX	m	Yes I am...
+NICK	m	I know how to do this!  I'm good at these games.  You never play, you'd be nailed in an instant.
+ALEX	m	And what if something happens to you? Am I suppose to go in after you alone?!
+NICK	m	No.  If you're smart, you run like hell.
+ALEX	m	I'm going.
+NICK	m	You don't get it, do you?
+ALEX	m	What?
+NICK	m	I don't want anything to happen to you.  I care about you.
+ALEX	m	I already have a boyfriend, Nick.
+NICK	m	I know. It sucks.
+NICK	m	What can I say? Tough being a hero, isn't it?
+NICK	m	Here goes nothing.
+ARCADE	m	NICK.  ALEX.  I MISSED YOU SO MUCH. ALL
+ALEX	m	Fuck-you.
+ARCADE	m	ANY TIME.
+ALEX	m	We know what you are.
+ARCADE	m	A HEARTLESS MONSTER, OF COURSE.
+ARCADE	m	KISS REALITY GOODBYE.
+NICK	m	Hold on!
+ARCADE	m	SEE YOU ON THE OTHER SIDE.
+ALEX	m	You feel it?  It's different this time.
+NICK	m	We're actually inside, aren't we?
+NICK	m	Okay. Give us a kiss?
+ALEX	m	One.  In case...
+NICK	m	Don't even say it.
+NICK	m	Thanks.  Always wanted to do that.
+ALEX	m	Yeah, well I figure these are unusual circumstances.
+NICK	m	That's what I was hoping you'd say.
+NICK	m	I'll take the lead and handle the physical threats.  You watch the elapsed time and look for exits.
+ALEX	m	Got it.
+NICK	m	You steer by pivoting your back foot... Okay?
+NICK	m	Which way do you think Level Two is?
+ALEX	m	You've got the schematics, check.
+NICK	m	Oh shit!  What if they didn't come with us?!
+NICK	m	Okay.  It's West.
+ALEX	m	The keys are supposed to be at the end of each level.  Once we get all the keys, we can unlock ARCADE's heart. And then...
+NICK	m	...and then we go to the Final Level. Hey, don't worry about it.  It's a game. How bad could it be?
+ALEX	m	The clock's already ticking.
+NICK	m	Right, then...
+ALEX	m	There...
+NICK	m	I don't get it.  This is supposed to be the end of the level, but it doesn't go anywhere.
+ALEX	m	It only looks like it leads to nowhere.
+NICK	m	And we've still got time left.  This was a piece of cake.
+ALEX	m	Yeah, that's what worries me.
+NICK	m	Hey, my strength's low.  Look out for Fireflies.
+ALEX	m	There...
+NICK	m	Shit...
+ALEX	m	Check your read-out.
+NICK	m	You're right.  It worked.
+ALEX	m	There's another...
+NICK	m	According to this, the doorway should be somewhere around here...
+ALEX	m	Our time's up.
+NICK	m	What?!  There's nothing here!
+ALEX	m	Look around...
+NICK	m	I don't see the doorway!
+NICK	m	What the fuck is that?!
+ALEX	m	Screamer.
+ALEX	m	Nick!  It's beneath the water!  We have to swim!
+NICK	m	We can't reach that!
+ALEX	m	We don't have a choice!
+NICK	m	So that's what we almost died for?
+ALEX	m	One of them, anyway... Did you see it?  The Screamer?
+NICK	m	I don't want to talk about it.
+NICK	m	Christ...no time...
+ALEX	m	There never is.
+NICK	m	We can take the dunes down like a ski slope. Pretend you're on a snowboard.
+ALEX	m	Never been on a snowboard.
+ALEX	m	I guess we're walking from here on out.
+ALEX	m	Time's up.
+NICK	m	We're fucked.  That's it.
+ALEX	m	Get up, Nick...
+ALEX	m	GET UP!!!
+VOICE	m	Alex...help me...
+ALEX	m	It's Benz!!!
+BENZ	m	Get me out of here!  Oh God!!!
+ALEX	m	Benz!
+ALEX	m	Run!  RUN!!!
+ARCADE	m	GOODBYE, NICK.
+NICK'S VOICE	m	I know how to do this.  I'm good at these games.  You never play, you'd get nailed in a second.
+ALBERT'S VOICE	m	You can get a free life on Level Four, but you have to wait for the last possible instant...
+ALEX	m	Fuck you.
+ALEX	m	Guys!  Oh my God...
+ALEX	m	Laurie?  Stilts?
+STILTS	m	You may ask one of us a question. One tells the truth, and the other lies. Who you ask, remains your discretion. But if the answer is wrong, the questioner dies.
+LAURIE	f	One of these cities, is the place you seek. The Teller of Truths will take you there. But the City of Lies, is dark and bleak. And death is certain if you enter, beware.
+STILTS	m	I am The Liar.  Where should I take you?
+LAURIE	f	I am the Truth Teller.  Where should I take you?
+ALEX	m	What did he do to you?
+LAURIE	f	Is that your question?
+ALEX	m	Wait!  No!  That's not it!
+ALEX	m	Think!  I want to go to the City of Truth, and the Truth Teller is from there...but which one is which?  The liar...think!
+LAURIE	f	You have no time.  What is your question?
+ALEX	m	I'm thinking!
+LAURIE	f	You have no time.
+ALEX	m	The liar...Truth Teller...liar...liar...
+ALEX	m	Liar.  Did you come from the city on the left, or the city on the right?
+STILTS	m	I came from the city on the left.
+ALEX	m	But you always lie, so you didn't come from there.  That means the city on the left must be the City of Truth.
+ALEX	m	Take me to the city on the left!
+VOICE	m	Help...help me...
+ALEX	m	Grab my hand!
+BOY	m	Where are we?
+LAURIE	f	The City of Truth.
+ALEX	m	How did you get here?  Did you play the game?!
+BOY	m	Yes...
+ALEX	m	Thought so.
+ALEX	m	Can you hang onto my back?
+ALEX	m	There's a monster here.  We have to kill it before we can leave.  That's what we have to do.  I know it's scary, but I won't let anything happen to you.  Okay?
+BOY	m	Then we'll go home?
+ALEX	m	Then we'll go home.
+ALEX	m	Here goes everything.
+BOY	m	Dark Riders!  If they touch us, we're dead!
+ALEX	m	Which way?
+BOY	m	That way.
+ALEX	m	Sorry.
+BOY	m	It's the wrong way!
+ALEX	m	In this world, wrong is right!
+BOY	m	It's here!!!
+ALEX	m	Oh God...oh god...
+ALEX	m	Shit!!!
+THE BOY	m	Come on!!!
+THE BOY	m	The doorway!  It's here!!!
+BOY	m	We have to go in there, don't we?
+ALEX	m	Okay.  I'm here, ARCADE. Where are you?
+ALEX	m	Where are you, damnit?!
+ARCADE	m	RIGHT HERE, BITCH.
+ALEX	m	You...you're ARCADE?  But the donor...
+ARCADE/BOY	m	...WAS AN EIGHT-YEAR OLD BOY.  YOU SEE,
+ARCADE	m	YOU'RE TOO LATE, ALEX.  YOU'VE ALWAYS BEEN
+ARCADE	m	YOU'RE NOT DYING YET, ALEX.  YOU HAVEN'T
+ALEX	m	No! NO!!!!!!!!!!!!!!
+ARCADE	m	GOODBYE, ALEX.  IT'S BEEN REAL.
+OTHER ALEX	m	Time.  That's all I ever think about anymore.  It's like there's never enough of it, you know?
+MAN	m	So where are you then?
+ALEX	m	I'm in the past.
+ALEX	m	No ... oh no ...
+ALEX'S MOM	f	Hi, honey.
+ALEX	m	Mom? You're alive...
+ALEX'S MOTHER	f	Of course I am.
+ALEX	m	But I don't understand...
+ALEX'S MOTHER	f	I miss you so much, Alex.  I want so much to be with you...
+ALEX'S MOTHER	f	I love you, Alex.  I never wanted to leave. You know that, don't you?
+ALEX	m	Yes...but...how did you...
+ALEX'S MOTHER	f	Magic.  We'll be together again. I know you don't believe in an afterlife, but there is one.  Heaven is real.
+ALEX	m	Is...is that where we are?  Did I die?
+ALEX'S MOTHER	f	Not yet, honey...
+ALEX'S MOTHER	f	...but I can fix that.
+ARCADE	m	OH ALEX.  SO SORRY.  BUT DON'T YOU WORRY,
+ALEX	m	Guess what, ass-hole?  You forgot about my free life!!!
+ALEX	m	Greg!!!
+GREG	m	Alex!  You did it!
+GREG	m	You did it...
+GREG	m	So how did you do it, Alex?
+ALEX	m	Well, it's a long story...
+NICK	m	What is it?
+ALEX	m	I just thought of something.  If we came back from the game... ...what if ARCADE did too?
+GREG	m	Nah.  You won, right?  You played by the rules.
+ALEX	m	Okay.  Forget I ever said it.
+STILTS	m	So start at the beginning...
+LAURIE	f	Give her a chance, will you?
+STILTS	m	I am giving her a chance.  Why don't you get off my back?
+GREG	m	Guys...
+ARCADE/BOY	m	KISS REALITY GOODBYE, SUCKERS.
+

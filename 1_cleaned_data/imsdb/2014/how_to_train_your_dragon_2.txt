@@ -1,0 +1,657 @@
+SNOTLOUT	?	Oh, I'm sorry, Fishlegs! Did you want that?
+FISHLEGS	?	Snotlout! That's mine!
+SNOTLOUT	?	Here ya go, babe.
+SNOTLOUT	?	Did I tell you that you look amazing today? `Cause you do.
+RUFFNUT	?	Come on, Barf. It's starting to stink around here.
+TUFFNUT	?	Nope. Still hates you. Let's blow this place, Belch!
+STOICK	m	That's nine for the Twins, Astrid lags with three, Fishlegs and Snotlout trail with NONE!
+STOICK	m	And Hiccup is... nowhere to be found. Hmmm. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 3.
+GOBBER	m	Scared him off with the big talk, didn't ya, Stoick?
+ASTRID	f	What are you doing, Snotlout?! They're going to win now!
+SNOTLOUT	?	She's my princess! Whatever she wants, she gets.
+ASTRID	f	Ruffnut?! Didn't she try to bury you alive?!
+SNOTLOUT	?	Only for a few hours!
+STOICK	m	It's time, Gobber.
+GOBBER	m	Righty-ho! (aloud, to the crowd) Last lap!
+ASTRID	f	The black sheep! Come on, Stormfly! We can still win this thing!
+RUFFNUT	?	Come on, Barf!
+TUFFNUT	?	Let's go!
+FISHLEGS	?	Go, Meatlug!
+GOBBER	m	This is your big moment. Have a nice flight!
+ASTRID	f	Up, up, up!
+ASTRID	f	No!
+FISHLEGS	?	Good job, Meatlug!
+FISHLEGS	?	Here you go, darling. Mine's worth ten! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 5.
+RUFFNUT	?	Yeah! The Black Sheep!
+ASTRID	f	You guys are fighting for Ruffnut?!
+RUFFNUT	?	I'm totally winning!
+FISHLEGS	?	We're winning together!
+RUFFNUT	?	No one can stop me now!
+TUFFNUT	?	Except for me. We're attached, genius!
+TUFFNUT	?	Quit trying to steal all my glory!
+STOICK	m	Get `em, Astrid!
+ASTRID	f	Gotcha!
+RUFFNUT	?	Astrid! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 6.
+STOICK	m	Well played! Hahaha! (gloating, to the crowd) That's my future daughter-in-law!
+SNOTLOUT	?	Uh, excuse me.
+ASTRID	f	Stormfly!
+STOICK	m	That's thirteen! Astrid takes the game!
+HICCUP	?	Yeah!
+HICCUP	?	What do you think, bud? Wanna give this another shot?
+HICCUP	?	Toothless! It'll be fine.
+HICCUP	?	Ready? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 8.
+HICCUP	?	This is amazing!
+HICCUP	?	No longer amazing! Toothless!
+HICCUP	?	Oh, no!
+HICCUP	?	That really came out of nowhere.
+HICCUP	?	We gotta work on your solo gliding there, bud. That locked-up tail makes for some pretty sloppy rescue maneuvers, eh? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 9.
+HICCUP	?	Looks like we found another one, bud.
+HICCUP	?	Oh, what? Do you want an apology? Is that why you're pouting, big baby boo? Well... try this on!
+HICCUP	?	Ya feeling it yet? Huh? Picking up on all my heartfelt remorse?
+HICCUP	?	Oh, come on. You wouldn't hurt a
+HICCUP	?	You're right! You're right! You win! You win!
+HICCUP	?	He's down! And it's ugly! Dragons and Vikings, enemies again, locked in combat to the bitter -- URFFF!
+HICCUP	?	Gaaaaagh! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 10.
+HICCUP	?	You KNOW that doesn't wash out.
+HICCUP	?	So what should we name it?
+HICCUP	?	"Itchy Armpit" it is.
+HICCUP	?	Whaddya reckon, bud? Think we might find a few Timberjacks in those woods? The odd Whispering Death or two in the rocks? Who knows... maybe we'll finally track down another Night Fury. Wouldn't that be something? So, whaddya say? Just keep going?
+HICCUP	?	`Afternoon m'lady. Where have you been?
+ASTRID	f	Winning races. What else? The real question is... where have YOU been?
+HICCUP	?	Avoiding my dad.
+ASTRID	f	Oh, no. What happened now?
+HICCUP	?	Oh, you're gonna love this. I wake up. The sun's shining. Terrible Terrors are singing on the rooftop. I saunter down to breakfast, thinking all is right with the world, and I get...
+HICCUP	?	... Son, we need to talk.
+ASTRID	f	Not now, Dad. I've got a whole day of goofing off to get started.
+HICCUP	?	Okay, first of all, I don't sound like that. What is this character? And second... what is that thing you're doing with my shoulders? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 12.
+HICCUP	?	A truly flattering impersonation. Anyway, he goes... (resuming Stoick's brogue) You're the pride of Berk, son, and I couldn't be prouder...
+ASTRID	f	(continuing her impression
+OF HICCUP)	?	Aw, thanks, Dad. I'm pretty impressed with myself, too.
+HICCUP	?	WHEN have I ever done that with my hands?
+ASTRID	f	You just did.
+HICCUP	?	Okay... just... (holding her arms, mock-
+STERN)	?	Hold still. It's very serious.
+HICCUP	?	(resuming Stoick's brogue) You're all grown up, and since no chief could ask for a better successor, I've decided--
+ASTRID	f	--TO MAKE YOU CHIEF! Oh, my gods!
+ASTRID	f	Hiccup, that's amazing!
+HICCUP	?	You're gonna wear out the spring coil. The calibration is very sensitive! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 13.
+HICCUP	?	Yeah, so... this is what I'm dealing with.
+ASTRID	f	What did you tell him?
+HICCUP	?	I didn't. By the time he turned around, I was gone.
+ASTRID	f	Well, it's a lot of responsibility. The map will have to wait for sure, and I'll need to fly Toothless, since you'll be too busy...
+HICCUP	?	It's not me, Astrid. All those speeches, and planning, and running the village... that's his thing.
+ASTRID	f	I think you're missing the point. I mean, chief. What an honor. I'd be pretty excited.
+HICCUP	?	I'm not like you. You know exactly who you are. You always have. But...
+HICCUP	?	I'm still looking. I know that I'm not my father... and I never met my mother... so, what does that make me? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 14.
+ASTRID	f	What you're searching for... isn't out there, Hiccup.
+ASTRID	f	It's in here. Maybe you just don't see it yet.
+HICCUP	?	Maybe. But, y'know... there is something out there.
+ASTRID	f	Hiccup...
+HICCUP	?	Stay close.
+HICCUP	?	What happened here? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 15.
+HICCUP	?	Easy, bud.
+ASTRID	f	Hiccup!
+HICCUP	?	Astrid! Look out!
+ERET	?	Watch the tail!
+ERET	?	Tie those legs up!
+ERET	?	Is that what I think it is? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 16.
+ERET	?	Back again?
+ERET	?	Soil my britches... that is a Night Fury. Thought they were all gone for good. (to his fellow trappers) Looks like our luck's had a turn for the better, lads! Don't think Drago has one of those in his dragon army.
+ASTRID	f	Dragon army?
+HICCUP	?	Look, we don't want any trouble.
+ERET	?	Ha! You should've thought of that before you stole all of our dragons and blasted our fort to bits!
+HICCUP	?	Wait...
+ASTRID	f	What are you talking about? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 17.
+HICCUP	?	You think we did this?
+ERET	?	Dragon trapping is hard enough work as it is, without do-gooder dragon riders sneaking in to rescue them.
+HICCUP	?	What do-gooder -- there are other dragon riders?
+ERET	?	You mean, other than your thieving friend from last night? You tell me.
+ERET	?	You may have an ice-spitting dragon on your side, but we still have a quota to fill. How do you suppose we explain this mess to Drago Bludvist?
+HICCUP	?	Drago what-fist? Does anything you say make sense?
+TEENY	f	He's expecting a new shipment of dragons for his army by tomorrow.
+NO-NAME	m	And Drago don't take well to excuses.
+ERET	?	This is what he gave me last time I showed up empty-handed. He promised to be far less understanding in the future.
+HICCUP	?	Look, we don't know anything about a dragon thief, or an ice-spitting dragon, or your lunatic boss and his dragon army, okay? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 18.
+HICCUP	?	Just give us back our dragon, and we'll go, strange, hostile person whom we've never met.
+ERET	?	Oh, where are my manners? I'm Eret. Son of Eret. Finest dragon trapper alive.
+ERET	?	After all, it's not just anyone who can capture a Night Fury.
+HICCUP	?	And this is Toothless. He says we're going. Now.
+ERET	?	Heh. They all say that.
+ASTRID	f	Stormfly! C'mon, go! Go!
+STOICK	m	Any sign of him?
+GOBBER	m	Ah, he's probably flown off the edge of the world by now. You sure you want that kid running the village? You can still delay your retirement.
+STOICK	m	Oh, he's ready. You'll see.
+STOICK	m	Haha! There he is! (to Gobber, proving his
+POINT)	?	Huh? The pride of Berk!
+GOBBER	m	Who finally decided to show up for work. Yay.
+HICCUP	?	Sorry. Got held up. (privately, to Stoick) Hey, Dad, could I have a word?
+STOICK	m	Something you're itching to tell me? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 20.
+HICCUP	?	Not quite the itch you're thinking of, but yes.
+STOICK	m	Good man! Now, lesson one. A chief's first duty is to his people. So...
+STOICK	m	Forty one? Forty --
+HICCUP	?	Could we just talk in private for--
+STARKARD	?	--That's me! That's me! I'm next! (pushing his way through) I was ahead of you! Excuse me, I've been here all day!
+STARKARD	?	Okay, I want one of those high seaters, with lots of spikes and a big stowage compartment.
+STOICK	m	Absolutely! You got it, sir!
+HICCUP	?	Dad, this is actually a little more important than building saddles.
+STOICK	m	Ah-ah! Lesson two. No task is too small when it comes to serving your people. Excuse us, Grump.
+GOBBER	m	Grump! You let the forge die down again! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 21.
+GOBBER	m	That's it, Grump. You're going up for adoption!
+STOICK	m	One of these. And this...
+STOICK	m	-- There you go! Go on. Have away.
+HICCUP	?	But, seriously, I really need to tell you about this new land we came across.
+GOBBER	m	Another one?!
+FISHLEGS	?	Any new dragons?
+HICCUP	?	We didn't stick around to find out. These folks weren't particularly friendly.
+GOBBER	m	Oh, really? Your Night Fury and Deadly Nadder didn't bring them cheering to the rooftops?
+HICCUP	?	No, this was different. Not the standard run-for-the-hills hoo-ha I've come to enjoy. These guys were trappers. Dragon trappers. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 22.
+ASTRID	f	You should've seen their fort. All blown apart and stuck in giant spikes of ice. It was weird.
+HICCUP	?	I've never seen anything like it. And worst of all, they thought we did it!
+GOBBER	m	Y'know, you two are gonna get yourselves in SERIOUS trouble one of these days. Not everyone appreciates this way of life.
+STOICK	m	Gobber's right, son. Best we keep to our own. Besides, you'll have more important uses for your time --
+STOICK	m	(sing-songy, under his
+BREATH)	?	Once we make the big announcement!
+HICCUP	?	They are building a dragon army.
+HICCUP	?	Or at least the guy they work for is. Dargo Bloody Fist or something.
+TUFFNUT	?	I'll bloody his fist with my face if he tries to take my dragon!
+RUFFNUT	?	Or mine. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 23.
+TUFFNUT	?	You're such a moron.
+FISHLEGS	?	A beautiful moron.
+SNOTLOUT	?	Yeah...
+STOICK	m	Bludvist? Drago Bludvist?
+HICCUP	?	Uh, yeah. Wait. You know him?
+HICCUP	?	What? Why?!
+HICCUP	?	Whoa, whoa, whoa. Wait! What is happening?
+GOBBER	m	You heard the man! Lock it down!
+STOICK	m	No DRAGON or VIKING sets foot off this island until I give the word! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 24.
+HICCUP	?	Because some guy you knew is stirring up trouble in some faraway land?
+STOICK	m	Because Drago Bludvist is a madman. Without conscience or mercy. And if he's built a dragon army... gods help us all.
+STOICK	m	Get them into their pens! Quickly!
+HICCUP	?	Then let's ride back out there. We'll follow those trappers to Drago and talk some sense into him.
+STOICK	m	No. We fortify the island.
+HICCUP	?	It's our duty to keep the peace!
+STOICK	m	Peace is over, Hiccup. I must prepare you for war.
+HICCUP	?	War? Dad, if Drago's coming for our dragons, we can't wait around for him to get here. Let's go find him and change his mind.
+STOICK	m	Some minds won't be changed, Hiccup. Berk is what you need to worry about. A chief protects his own.
+ASTRID	f	Hiccup, don't.
+HICCUP	?	I have to.
+HICCUP	?	Come on!
+STOICK	m	Hiccup!
+ERET	?	Keep your eyes peeled, lads! With this wind, we'll reach Drago by daybreak, so best we fill this ship up with dragons and quick! It's no time to be picky. Not if we want to keep our -- HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 26.
+UG	m	Uh... Eret?
+ERET	?	Net `em, lads! Take `em down!
+ERET	?	You're not getting away this time.
+ERET	?	And here I was worried we might turn up empty-handed.
+HICCUP	?	Nope. It's your lucky day. We give up.
+HICCUP	?	That's one Night Fury, one Deadly Nadder, and...
+HICCUP	?	... two of the finest dragon riders west of Luk Tuk. That oughtta make the boss happy, right?
+HICCUP	?	Excuse us. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 27.
+ASTRID	f	What are you doing?
+HICCUP	?	Toothless, stay.
+HICCUP	?	The dragons don't really care for cramped spaces, so they'll just hang out with you. They won't be any trouble.
+HICCUP	?	Unless you do that. Wooden boat, big ocean. How's your swimming?
+NO-NAME	m	Not good.
+HICCUP	?	Oops. Almost forgot. Can't have armed prisoners!
+ASTRID	f	How is this a plan?
+HICCUP	?	Just what every dragon trapper needs. One end coats the blade in Monstrous Nightmare saliva. The other sprays Hideous Zippleback gas. All it takes is a spark and... HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 28.
+HICCUP	?	Oh, yeah, there you go!
+HICCUP	?	Once they see you as one of their own, even the testiest dragons can be trained, right, bud?
+ERET	?	Give me that!
+ERET	?	What game are you playing?
+HICCUP	?	No game. We just want to meet Drago.
+ERET	?	Why?
+HICCUP	?	Because I'm going to change his mind about dragons.
+ASTRID	f	He can be really persuasive.
+HICCUP	?	Once you've earned his loyalty, there is nothing a dragon won't do for you.
+ERET	?	Puh! You won't be changing any minds around here. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 29.
+HICCUP	?	I can change yours. Right here. Right now.
+HICCUP	?	May I?
+ERET	?	Dragon riders!
+HICCUP	?	Put me down! Snotlout! What are you doing?
+SNOTLOUT	?	See how well I protect and provide?
+TUFFNUT	?	Aggh! What is with all the nets?!
+RUFFNUT	?	Hey watch it! That was close...
+TRANSITION TO:	m	HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 30.
+RUFFNUT	?	Oh, my.
+RUFFNUT	?	Me likey.
+RUFFNUT	?	Take me.
+GOBBER	m	We're here to RESCUE you!
+HICCUP	?	I DON'T NEED to be rescued!
+ERET	?	Well, didn't you just pick the wrong ship, eh? I am Eret, son of -- HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 31.
+ERET	?	(panting, suffocated) Get... this... thing... off... me!
+GOBBER	m	Anyone else?
+GOBBER	m	That's what I figured.
+STOICK	m	You. Saddle up. We're going home.
+HICCUP	?	No.
+STOICK	m	Of all the irresponsible --
+HICCUP	?	-- I'm trying to protect our dragons and stop a war! How is that irresponsible?
+STOICK	m	Years ago, there was a great gathering of chieftains to discuss the dragon scourge we all faced.
+RUFFNUT	?	Stupid.
+TUFFNUT	?	Good one.
+STOICK	m	Aye. We laughed, too...
+STOICK	m	Until he wrapped himself in his cloak and cried out, "Then see how well you do without me!"
+STOICK	m	I... was to only one to escape.
+STOICK	m	Men who kill without reason cannot be reasoned with.
+HICCUP	?	Maybe.
+STOICK	m	Hiccup...
+HICCUP	?	I'm still going to try.
+HICCUP	?	This is what I'm good at. And if I could change your mind... I can change his, too. Come on.
+ASTRID	f	Let's go.
+STOICK	m	NO! Lead the others back to Berk. I've had enough mutiny for one day.
+RUFFNUT	?	Ooh, I like that.
+STOICK	m	Ruffnut! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 34.
+RUFFNUT	?	Ugh! Okay!
+HICCUP	?	Don't worry, bud. I'm not gonna let anything happen to you. I promise.
+HICCUP	?	Okay. No sudden moves. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 35.
+HICCUP	?	Hold on, hold on.
+HICCUP	?	Toothless!
+HICCUP	?	We have to head back for my dragon!
+HICCUP	?	Who are you? The Dragon Thief? Drago Bludvist?
+HICCUP	?	Do you even understand what I'm saying? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 37.
+HICCUP	?	Toothless!
+HICCUP	?	It's okay. I'm glad to see you, too, bud. You really had me worried there.
+WARRIOR	m	(whispered, shaken) Hiccup? Could it be? After all these years? How is this possible?
+HICCUP	?	Uh, should I... should I know you?
+WARRIOR	m	No. You were only a babe...
+VALKA	f	... but a mother never forgets. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 38.
+VALKA	f	Come...
+STOICK	m	Boar-headed! Just like his mother! She could never stay put either.
+GOBBER	m	Ah, he's just twenty. And a Viking. I mean, could there be a worse combination? Ha! When I think of how stubborn and senseless YOU were back in the day... well, not much has changed, actually.
+STOICK	m	You know what he's like. He won't give up, Gobber. And if Hiccup finds Drago, before we find him...
+GOBBER	m	Bah! NOTHING can hurt Hiccup so long as that Night Fury's around. It's a Night Fury!
+STOICK	m	Find him, Skullcrusher. Find him. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 39.
+HICCUP	?	Hold on! Wait just a minute! Come back here!
+VALKA	f	This way. Come.
+HICCUP	?	You can't just say something like that and run off! You're my mother?! I mean, what the -- do you grasp how INSANE it sounds?! I have questions!
+VALKA	f	Come. Quickly!
+HICCUP	?	Where have you been all this time?
+HICCUP	?	What've you been doing?! They said you were dead! Everyone thinks you were eaten by...
+HICCUP	?	This is where you've been for twenty years?
+HICCUP	?	You've been rescuing them.
+HICCUP	?	Unbelievable.
+VALKA	f	You're not upset?
+HICCUP	?	What? No. I don't know. It's a bit much to get my head around, to be frank. It's not every day you find out your mother is some kind of crazy, feral, vigilante dragon lady.
+VALKA	f	At least I'm not boring... right?
+HICCUP	?	I suppose there is that... (feeble, trailing off) ... one... specific... thing...
+VALKA	f	Do you like it?
+HICCUP	?	I don't have the words.
+VALKA	f	Can I... ? He's beautiful! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 41.
+VALKA	f	Incredible. He might very well be the last of his kind.
+VALKA	f	And look, he's your age! No wonder you get along so well.
+VALKA	f	And retractable teeth? Ah! How did you manage to--
+HICCUP	?	--I found him in the woods. He was shot down and wounded.
+VALKA	f	This Snafflefang lost his leg to one of Drago Bludvist's iron traps. This Raincutter had her wing sliced by razor netting. And this poor Hobblegrunt was blinded by a tree snare... then left to die alone and scared. (re: Toothless' tail) And what of this? Did Drago or his trappers do this, too?
+HICCUP	?	Heh. Well, crazy thing is... I'm actually the one who shot him down.
+HICCUP	?	It's okay though. He got me back. (playfully, to Toothless) Right, bud? You couldn't save all of me, could you? You just had to make it even. So... peg leg! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 42.
+VALKA	f	What did your father think of your Night Fury friend?
+HICCUP	?	He didn't take it all that well.
+HICCUP	?	But then... he changed. They all did. Pretty soon everyone back home had dragons of their own.
+VALKA	f	If only it were possible.
+HICCUP	?	No, really, I --
+VALKA	f	-- Believe me, I tried, as well. But people are not capable of change, Hiccup. Some of us... were just born different.
+VALKA	f	Stop! You'll only make it worse!
+VALKA	f	Hiccup!
+STOICK	m	Valka, run! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 44.
+VALKA	f	Don't!
+STOICK	m	Hold on!
+VALKA	f	Stoick!
+STOICK	m	Valka...
+VALKA	f	You and your father nearly died that night, all because I couldn't kill a dragon.
+HICCUP	?	Yeah, it runs in the family.
+VALKA	f	It broke my heart to stay away, but I believed you'd be safer if I did. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 45.
+HICCUP	?	How did you survive?
+VALKA	f	Oh, Cloudjumper never meant to harm me. He must've thought I belonged here...
+VALKA	f	In the home of the great Bewilderbeast. The alpha species. One of very few that still exist. Every nest has its queen, but this is king of all dragons.
+VALKA	f	With his icy breath, this graceful giant built our nest. A safe haven for dragons everywhere.
+HICCUP	?	Wait, that's the ice-spitter? He's responsible for all that destruction?
+VALKA	f	He protects us. We all live under his care. And his command.
+VALKA	f	All but the babies, of course... HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 46.
+VALKA	f	... who listen to no one.
+VALKA	f	I've lived among them for twenty years, Hiccup, learning their ways, discovering their secrets...
+VALKA	f	He likes you.
+HICCUP	?	Wow.
+VALKA	f	You must be hungry.
+HICCUP	?	Uh, yeah. I could eat.
+VALKA	f	Good. It's feeding time.
+ASTRID	f	I don't like it. They should've been back with Hiccup by now. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 47.
+RUFFNUT	?	I don't like it either. Eret son of Eret was the man of my dreams. My everything!
+SNOTLOUT	?	But, baby, I grew facial hair for you.
+FISHLEGS	?	Me, too.
+ASTRID	f	What if Drago shot them down? What if they need our help? We have to find them.
+FISHLEGS	?	What? But Stoick said...
+ASTRID	f	It doesn't matter what he said, if they've all been captured. Come on!
+NO-NAME	m	Do we go back?
+ERET	?	We've nowhere to go! Nothing to sell! And no heads to call our own, if we don't turn up with dragons and fast --
+ASTRID	f	Careful what you wish for!
+ERET	?	What is this?!
+ASTRID	f	A kidnapping.
+RUFFNUT	?	Yay! Can he ride with me? Can he? Can he?
+ASTRID	f	You're gonna show us the way to Drago.
+ERET	?	And help dragon riders sneak into Drago's camp? Just kill me now.
+ASTRID	f	That can be arranged. Stormfly, drop it.
+ASTRID	f	Good girl! Stormfly, fetch.
+ASTRID	f	Works every time. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 49.
+HICCUP	?	Hey, I thought we were going to eat?
+VALKA	f	(with a mischievous grin) Oh, we are.
+HICCUP	?	And from Dragon Island, I found this archipelago... HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 50.
+VALKA	f	When I'm up here, I don't even feel the cold. I just feel...
+HICCUP	?	Free.
+VALKA	f	This is what it is to be a dragon, Hiccup.
+HICCUP	?	It's all well and good to call yourself a dragon.
+HICCUP	?	But can you fly? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 51.
+HICCUP	?	Oh no. Toothless!
+HICCUP	?	Man! Almost! We just about had it that time!
+VALKA	f	Incredible.
+HICCUP	?	Well, not bad yourself.
+VALKA	f	All this time, you took after me. And where was I? I'm so sorry, Hiccup. Can we start over? Will you give me another chance? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 52.
+VALKA	f	I can teach you all I've learned, these past twenty years. Like...
+VALKA	f	Now you can make those tight turns.
+HICCUP	?	Did YOU know about this?
+VALKA	f	Every dragon has its secrets.
+VALKA	f	And I'll show them all to you. We'll unlock every mystery, find every last species, together, as mother and son. This gift we share, Hiccup... it bonds us. This is who you are, son. Who we are. We will change the world for all dragons! We will make it a better, safer place!
+HICCUP	?	That sounds... amazing.
+HICCUP	?	This is so great! Now you and I can go talk to Drago -- together! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 53.
+VALKA	f	What? There's no talking to Drago.
+HICCUP	?	But we have to --
+VALKA	f	-- No. We must protect our own.
+VALKA	f	Now come on, we should be getting back.
+ERET	?	Agghh! Okay! I got you here, now get this thing off me!
+ASTRID	f	Never take a toy from a dragon. Don't you know anything?
+ERET	?	Gah! Why does this keep happening to me? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 54.
+ASTRID	f	What's down there?
+FISHLEGS	?	Large diameter bubbles, massive lungs, cold water deep dweller, I'm thinking class five leviathan, maybe six.
+HICCUP	?	Meatlug! What's wrong, girl?
+ERET	?	Get off me!
+ERET	?	Always great to see you, my friend! Keeping warm up here? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 55.
+ERET	?	Well, as you can see, I'm right on time with a new batch of dragons, just like I promised.
+SOLDIER #1	m	Watch out! He's waking up! Keep him steady!
+SOLDIER #2	m	Give me some backup here!
+DRAGO	m	Drop the ropes.
+SNOTLOUT	?	Hookfang!
+RUFFNUT	?	Hey!
+ASTRID	f	What are you doing? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 56.
+DRAGO	m	(quiet, to the dragon) You belong to me now.
+ERET	?	And as an added bonus, I also caught you their riders. No extra charge.
+ASTRID	f	What?! Are you kidding me?!
+RUFFNUT	?	But you were so perfect!
+ERET	?	Turns out, there's a whole bunch of them out there. They --
+DRAGO	m	How many?
+ASTRID	f	Drago doesn't have them after all.
+ASTRID	f	Hundreds! A whole island full!
+ERET	?	I wouldn't worry about it. My men are hunting them down as we speak. They won't know where you're hiding. I promise you that.
+ASTRID	f	Oh, yes they will! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 57.
+ASTRID	f	They know we're missing and they have tracking dragons. If you so much as touch us, Hiccup is gonna
+DRAGO	m	-- Hiccup?
+ERET	?	He's not a problem. Really. Trust me.
+ASTRID	f	He's only the son of Stoick the Vast...
+ASTRID	f	... his heir to the throne of Berk... and the greatest dragon master this world has ever seen!
+DRAGO	m	Dragon master? I ALONE control the dragons!
+TUFFNUT	?	Nope.
+FISHLEGS	?	Sorry!
+ASTRID	f	And unless you let us go, right now, he will blast through here on his Night Fury and blow your entire fleet of ships to splinters!
+RUFFNUT	?	Then they'll be crying like babies!
+SNOTLOUT	?	Funny and beautiful.
+FISHLEGS	?	Good one, babe! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 58.
+TUFFNUT	?	Yeah. Like babies. They always cry. Real tiny ones...
+DRAGO	m	First there was one rider. And now all of Berk. And YOU led them to me.
+ERET	?	Drago!
+ERET	?	You're overreacting!
+DRAGO	m	And get rid of him.
+ERET	?	Drago, please...
+HICCUP	?	Well, bud, we can't wait around for Drago to attack this place. We've gotta find him first. Let's go.
+STOICK	m	Easy now.
+HICCUP	?	Are you kidding me? How'd you get in here?
+STOICK	m	The same way we're getting you out.
+HICCUP	?	We?
+GOBBER	m	All clear!
+STOICK	m	Toothless. Come.
+HICCUP	?	Dad! There's something you need to know!
+STOICK	m	Yeah, yeah, tell me on the way.
+HICCUP	?	This isn't an on-the-way kind of update, actually... HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 60.
+STOICK	m	I've heard ENOUGH, Hiccup.
+HICCUP	?	... more of the earth-shattering development variety.
+STOICK	m	Yeah, just add it to the pile.
+HICCUP	?	Dad, unlike most surprises I spring on you, this is one you'll like. I promise! You just have to handle it delicately, so...
+GOBBER	m	Uh, you might want to take this one. Oh, boy.
+HICCUP	?	Dad, can you put the sword away... please?
+VALKA	f	I know what you're going to say, Stoick. How could I have done this? Stayed away all of these years. And why didn't I come back to you? To our son.
+VALKA	f	Well, what sign did I have that you could change, Stoick? That anyone on Berk could? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 61.
+VALKA	f	I pleaded so many times to stop the fighting, to find another answer, but did any of you listen?
+GOBBER	m	This is why I never married. This and one other reason.
+VALKA	f	I know that I left you to raise Hiccup alone... but I thought he'd be better off without me. And I was wrong, I see that now, but...
+VALKA	f	Oh stop being so stoic, Stoick. Go on... SHOUT, SCREAM, SAY SOMETHING!
+STOICK	m	You're as beautiful as the day I lost you.
+SNOTLOUT	?	Could this day get any worse?
+TUFFNUT	?	Uh, let me see. You'll jump into freezing cold water and then die from drowning.
+ERET	?	Looks refreshing.
+ERET	?	Please, ladies first.
+ASTRID	f	You are a steaming heap of dragon --
+ERET	?	-- Duck.
+SOLDIER	m	Warn the others!
+RUFFNUT	?	Get `em, you son of an Eret! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 63.
+RUFFNUT	?	Okay, I love you again.
+TUFFNUT	?	Ugh. Pathetic. You can still jump.
+ERET	?	So? Are we going to save your dragons and get out of here or not?
+ERET	?	Check every trap. They're here somewhere.
+ASTRID	f	Meatlug?
+ERET	?	Anyone coming?
+RUFFNUT	?	I don't know. You just keep doing what you're doing. Keep crankin'... HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 64.
+ERET	?	Thank you for saving my life. Now let me return the favor.
+HICCUP	?	Mom, you'd never recognize it! Where we used to make weapons, we now build saddles, wing slings -- we even fix dragon teeth! You wouldn't believe how much everything's changed!
+STOICK	m	Our son's changed Berk for the better. I think we did well with this one, Val.
+HICCUP	?	Thanks, Dad.
+VALKA	f	I'm... a little out of practice.
+STOICK	m	Well, y'know... I didn't marry you for your cooking.
+GOBBER	m	(to Hiccup and Grump) I hope not. Her meatballs could kill more beasts than a battle axe. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 65.
+GOBBER	m	I've still got a few knocking around in here. Ha ha!
+HICCUP	?	And once you move back in, with all of your dragons, Drago won't even stand a chance. Everything will be okay!
+STOICK	m	Slow down, son. It's a lot to take in.
+HICCUP	?	Oh. Gotcha.
+GOBBER	m	Oh, I love this one!
+STOICK	m	Remember our song, Val?
+STOICK	m	I'll swim and sail on savage seas, with ne'er a fear of drowning. And gladly ride the waves of life, if you will marry me. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 66.
+STOICK	m	No scorching sun, nor freezing cold
+GOBBER	m	-- will stop me on my journey! (catching himself,
+EMBARRASSED)	?	Sorry.
+STOICK	m	If you will promise me your heart...
+STOICK	m	And love...
+VALKA	f	And love me for eternity.
+VALKA	f	My dearest one, my darling dear, you mighty words astound me. But I've no need of mighty deeds, when I feel your arms around me.
+STOICK	m	But I would bring you rings of gold. I'd even sing you poetry. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 67.
+STOICK	m	And I would keep you from all harm, if you'd stay here beside me.
+VALKA	f	I have no use for rings of gold. I care not for your poetry. I only want your hand to hold. I only want you near me.
+GOBBER	m	C'mon, Hiccup! To love and kiss, to sweetly hold. For the dancing and the dreaming. Through all life's sorrows and delights, I'll keep your love inside me. I'll swim and sail through savage seas, with ne'er a fear of drowning. And gladly ride the waves of life, if you will marry me!
+GOBBER	m	I'm still going...
+HICCUP	?	Gobber!
+GOBBER	m	I'm done.
+STOICK	m	Ah... I thought I'd have to die before we'd have that dance again. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 68.
+VALKA	f	No need for drastic measures.
+STOICK	m	For you, my dear... anything.
+STOICK	m	Will you come home, Val? Will you be my wife once again?
+STOICK	m	We can be a family! What do you say?
+VALKA	f	Yes!
+GOBBER	m	Great! I'll do the cooking!
+STOICK	m	Thank Odin you didn't listen to me, son. We never would have found each other.
+HICCUP	?	Toothless?
+HICCUP	?	What's happening? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 69.
+HICCUP	?	Oh, no...
+STOICK	m	Val! It's all right, it's all right. We're a team now. Now what do you want to do?
+VALKA	f	We have to save the dragons.
+STOICK	m	Aye. You got it!
+STOICK	m	Come on, son.
+DRAGO	m	Whatever comes, keep hitting the mountain! We need to draw the alpha out. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 70.
+DRAGO	m	Ready the traps!
+TUFFNUT	?	Surprise! Yeah!
+ASTRID	f	You really are full of surprises.
+ASTRID	f	Let's go!
+TUFFNUT	?	Dragon Riders coming through!
+RUFFNUT	?	Eret, son of Eret! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 71.
+ASTRID	f	Up, girl! To the left, Eret! That's it! Look out!
+ARCHER	m	Take `em down!
+GOBBER	m	Heads up!
+DRAGO	m	Dragon Master.
+HICCUP	?	Welcome aboard, dragon rider!
+ERET	?	Thanks. I think.
+ASTRID	f	Where have you been?
+HICCUP	?	Oh, y'know. Catching up with Mom. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 72.
+ERET	?	Whoa...
+ASTRID	f	That's your mother?!
+HICCUP	?	Well, now you know where I get my dramatic flair.
+DRAGO	m	The alpha! Now we have a fight!
+HICCUP	?	There! Come on, Toothless! Show them what you got, bud.
+HICCUP	?	Thatta boy!
+DRAGO	m	I've waited a long time for this! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 73.
+VALKA	f	You cannot take our dragons! They are controlled by the alpha!
+DRAGO	m	Then it's a good thing I brought a challenger.
+HICCUP	?	Another one?
+VALKA	f	No. No.
+DRAGO	m	Come on! Take down the alpha!
+VALKA	f	Thank you.
+STOICK	m	For you, my dear... anything. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 74.
+STOICK	m	Val, do you think you can stop them?
+VALKA	f	I'll do my best! Come on, Cloudjumper!
+DRAGO	m	You... I watched you burn!
+STOICK	m	It takes more than a little fire to kill me!
+GOBBER	m	Stoick!
+VALKA	f	No!
+DRAGO	m	We've won. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 75.
+DRAGO	m	Now finish her!
+STOICK	m	No!
+STOICK	m	Hold on!
+STOICK	m	Skullcrusher, go! Come on, Gobber!
+GOBBER	m	Right behind ya, Stoick!
+HICCUP	?	STOP! Stop! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 76.
+DRAGO	m	This... is the great dragon master? The son of Stoick the Vast? What shame he must feel.
+HICCUP	?	All of this loss, and for what? To become unstoppable? To rule the world?
+HICCUP	?	Dragons are kind, amazing creatures that can bring people together.
+DRAGO	m	Or tear them apart.
+DRAGO	m	You see, I know what it is to live in fear. To see my village burned, my family taken.
+DRAGO	m	But even as a boy, left with nothing, I vowed to rise above the fear of dragons and liberate the people of this world.
+HICCUP	?	Then why a dragon army?
+DRAGO	m	(grinning, smug) Well, you need dragons to conquer other dragons.
+HICCUP	?	Or maybe you need dragons to conquer people. To control those who follow you... and to get rid of those who won't. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 77.
+DRAGO	m	Clever boy.
+HICCUP	?	The world wants peace. And we have the answer, back on Berk. Just let me show you.
+DRAGO	m	NO! Let ME show YOU.
+STOICK	m	What...?
+STOICK	m	Hiccup!
+STOICK	m	Come on, Gobber!
+GOBBER	m	Okay, change of plans.
+DRAGO	m	No dragon can resist the alpha's command. So he who controls the alpha, controls them all. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 78.
+HICCUP	?	Toothless? You okay, bud? What's going on?
+DRAGO	m	Witness true strength. The strength of will over others. In the face of it, you are nothing.
+HICCUP	?	Uh, what did he just tell you?
+HICCUP	?	Toothless, what's the matter with you? What're you doing?
+HICCUP	?	Knock it off! Stop! Snap out of it!
+HICCUP	?	Toothless! No! Toothless! Don't! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 79.
+STOICK	m	Hiccup!
+HICCUP	?	Dad!
+VALKA	f	Stoick...
+HICCUP	?	No... you...
+HICCUP	?	No! Get away from him! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 80.
+VALKA	f	It's not his fault. You know that.
+HICCUP	?	Toothless!
+VALKA	f	No, don't!
+DRAGO	m	Move out! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 81.
+HICCUP	?	I'm sorry, Dad.
+HICCUP	?	I'm not the chief that you wanted me to be. And I'm not peacekeeper I thought I was. I don't know... HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 82.
+VALKA	f	You came early into this world. You were such a wee thing. So frail, so fragile. I feared you wouldn't make it.
+VALKA	f	But your father... he never doubted. He always said you'd become the strongest of them all. And he was right. You have the heart of a chief and the soul of a dragon. Only you can bring our worlds together. That is who you are, son.
+HICCUP	?	I was so afraid of becoming my dad. Mostly because I thought I never could. How do you become someone that great? That brave? That selfless? I guess you can only try. (to the others) A chief protects his own. We're going back.
+TUFFNUT	?	Uh, with what?
+RUFFNUT	?	He took all the dragons.
+HICCUP	?	Not all of them.
+RUFFNUT	?	Fly straight!
+FISHLEGS	?	I don't want to die!
+TUFFNUT	?	We can't fly these things!
+FISHLEGS	?	Yeah, no kidding!
+ASTRID	f	But won't that Bewilderbeast just take control of these guys, too?
+HICCUP	?	They're babies. They don't listen to anyone!
+TUFFNUT	?	Yeah, just like us!
+GOBBER	m	This... is... very dangerous!
+GOBBER	m	Some might suggest this is poorly conceived.
+HICCUP	?	Well, it's a good thing that I never listen.
+GOBBER	m	So what IS your plan?!
+HICCUP	?	Get Toothless back and kick Drago's- HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 84.
+GOBBER	m	Heads up!
+HICCUP	?	And that thing.
+HOARK	?	Ah, that's a good boy!
+HOARK	?	Watch the furniture! Where are you going? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 85.
+DRAGO	m	Your chief is dead.
+DRAGO	m	No one can protect you now.
+HICCUP	?	No...
+FISHLEGS	?	He took all the dragons!
+HICCUP	?	Distract the alpha. Try to keep his focus off of Toothless.
+TUFFNUT	?	Uh... how?
+ERET	?	Have you forgotten who you're riding with? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 86.
+ERET	?	There isn't a dragon alive that I can't wrangle!
+ERET	?	Except for this one!
+SNOTLOUT	?	Amateur.
+VIKING #1	m	Look, it's Hiccup!
+DRAGO	m	What?
+RUFFNUT	?	Keep `em coming!
+SNOTLOUT	?	Black sheep, baby! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 87.
+SNOTLOUT	?	Ten points!
+SNOTLOUT	?	Uh-oh...
+FISHLEGS	?	I'm okay!
+DRAGO	m	You certainly are hard to get rid of. I'll say that.
+HICCUP	?	Toothless? It's me, bud. It's me. I'm right here. Come back to me.
+DRAGO	m	He is not yours anymore. He belongs to the alpha!
+DRAGO	m	But, please, oh great dragon master, try to take him. He will not miss a second time. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 88.
+HICCUP	?	It wasn't your fault, bud. They made you do it.
+HICCUP	?	You'd never hurt him. You'd never hurt me.
+DRAGO	m	How are you doing that?
+HICCUP	?	Please. You are my best friend, bud.
+HICCUP	?	My best friend.
+HICCUP	?	Thatta boy! That's it! I'm here!
+DRAGO	m	No!
+HICCUP	?	Yeah! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 89.
+HICCUP	?	Hang on!
+HICCUP	?	Almost there, buddy. Almost there!
+DRAGO	m	Do something!
+HICCUP	?	We need to get those two apart.
+HICCUP	?	We gotta block him out, Toothless. Do you trust me, bud?
+HICCUP	?	We can do this. You and me. As one.
+HICCUP	?	That's it. Now let's try this one more time! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 90.
+ASTRID	f	Take them down, babe!
+VALKA	f	Go get `em.
+DRAGO	m	Take control of it!
+HICCUP	?	Shut it out, Toothless!
+HICCUP	?	Not again.
+HICCUP	?	Come on, bud!
+HICCUP	?	Hold on!
+HICCUP	?	Yeah! We did it!
+DRAGO	m	Agghh!
+HICCUP	?	Hold him there Toothless!
+HICCUP	?	It's all over now.
+DRAGO	m	Or is it?
+HICCUP	?	Oh, no! HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 92.
+VALKA	f	No! No...
+HICCUP	?	He's challenging the alpha!
+VALKA	f	To protect you. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 93.
+DRAGO	m	No, no, no, no! Fight back! Fight!
+DRAGO	m	(to the defecting dragons) What's the matter with you?
+HICCUP	?	Now do you get it? This is what it is to earn a dragon's loyalty. Let this end now.
+DRAGO	m	Never! Come on!
+HICCUP	?	The alpha protects them all. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 94.
+HICCUP	?	You never cease to amaze me, bud. Thank you.
+HICCUP	?	Toothless! You know that doesn't wash out.
+ASTRID	f	Stormfly!
+GOBBER	m	Oh, give me a cuddle, Grumpy!
+FISHLEGS	?	Who's my little princess? HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 95.
+FISHLEGS	?	I missed you so much!
+SNOTLOUT	?	Don't you ever leave again, Hookfang!
+RUFFNUT	?	Oh Barf!
+RUFFNUT	?	Not you.
+ERET	?	That was some pretty fine dragon wrangling back there. You'd make a good trapper.
+HICCUP	?	Y'know, Skullcrusher's gonna need somebody to look after him now.
+ERET	?	Me?
+ERET	?	I'd be honored.
+VALKA	f	Your father... he'd be every bit as proud as I am. HTTYD 2 (D. DeBlois) - FINAL DRAFT - 05/05/14 96.
+HICCUP	?	Thank you. I'm really glad you're here, Mom.
+VALKA	f	And here I'll stay.
+ASTRID	f	See? I told you it was in here.
+HICCUP	?	Ha, ha. Still doing that one? That's hilarious. Come here, you.
+GOBBER	m	Ooh.
+GOBBER	m	The chief has come home!
+

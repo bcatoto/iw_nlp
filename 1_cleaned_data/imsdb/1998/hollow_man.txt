@@ -1,0 +1,848 @@
+SEBASTIAN	m	Damnit. Damnit.
+SEBASTIAN	m	I am a goddamn genius.
+LINDA	f	Sebastian, do you know what time it  is?
+SEBASTIAN	m	You know Da Vinci never slept. Said it  was waste of time.
+LINDA	f	What is it this time?
+SEBASTIAN	m	Who s that?
+LINDA	f	Not your business. Not anymore.
+SEBASTIAN	m	Touche.
+LINDA	f	So you calling about anything in  particular, or were you just hoping to  catch me sleeping in the nude?
+SEBASTIAN	m	I cracked the reversion.
+LINDA	f	You cracked it?
+SEBASTIAN	m	Look at this.
+SEBASTIAN	m	Watch this.
+LINDA	f	You sure?
+SEBASTIAN	m	91% sure.
+LINDA	f	Eleven months with no progress and you  suddenly come up with it out of the  blue? How?
+SEBASTIAN	m	The usual. Coffee and twinkies.
+LINDA	f	I hate you.
+SEBASTIAN	m	I know. You think you could hunt down  Matt and get to the lab early. I want  Isabelle prepped for a live test.
+LINDA	f	Yeah, I think I can find him. What are  you going to do?
+SEBASTIAN	m	Well y know. It s daylight in  Switzerland. I gotta call the Nobel Committee and tell them to get our prizes ready. See you in a few.
+LINDA	f	Hey... come on.
+MATT	m	What?
+LINDA	f	Sebastian just called. We gotta get to  the lab.
+MATT	m	Shit! You didn t tell him I was here,  did you?
+LINDA	f	Give me some credit, will ya.
+MATT	m	So what s the rush?
+LINDA	f	He cracked reversion.
+MATT	m	Wanna ride down?
+LINDA	f	We better take our own cars.
+MATT	m	You re gonna have to tell him about us  eventually.
+LINDA	f	I know. It s just You re his best  friend. He ll feel betrayed.
+MARINE GUARD	f	Morning, sir.
+SEBASTIAN	m	Morning, Ed.
+MARINE GUARD	f	Your team s in early. Something  special going on?
+SEBASTIAN	m	Sorry, Ed. You know the rules.
+MARINE GUARD	f	Have a good day, sir.
+ELEVATOR	m	Authorization please.
+SEBASTIAN	m	Caine zero zero two seven.
+ELEVATOR	m	Authorization verified. Good morning,  Dr. Caine.
+MATT	m	Isabelle ... Calm down baby. Calm down. It s  okay... It s okay, baby. It s okay. I m not  going to hurt you. Come here. Just hold still.   Ow, shit.
+LINDA	f	You okay?
+MATT	m	She bit me.
+LINDA	f	Yeah. She s become a lot more  aggressive in the last few days. Go take care of that bite. I ll get  her.
+MATT	m	And give you a chance to pull ahead?  Never.
+MATT	m	Shh. Be vewy, vewy quiet. I m hunting  simians.   heheheheh.
+LINDA	f	Knock it off. Isabelle!
+MATT	m	Good shootin , Tex.
+LINDA	f	What s that make it?
+MATT	m	I m still ahead. 6 to 5.
+LINDA	f	But I m catching up.
+SARAH	f	Can I have a word?
+SEBASTIAN	m	Most normal people say good morning.
+SARAH	f	Don t you think you should test the  protocol on the liver samples before  you inject Isabelle?
+SEBASTIAN	m	How many tissue samples have we  successfully regressed? Hundreds,  right? How many have gone on to work  on the full system? None.
+SARAH	f	That s beside the point.
+SEBASTIAN	m	No, that is the point. I m not going  to waste six months of my life on an  outmoded testing procedure. This thing  works. I know it. I feel it.
+SARAH	f	Fine. You can mop up afterward.
+SEBASTIAN	m	You think I m going to kill Isabelle?
+SARAH	f	Kill? More like liquefy.
+SEBASTIAN	m	Sarah, thank you for your opinion, but  I m the project leader. Understand?
+SARAH	f	Yes, Sir.
+SEBASTIAN	m	How did you ever convince me to hire  her?
+LINDA	f	You said you wanted the beat vet in  the country.
+SEBASTIAN	m	Yeah, well she cares more about the  animals than the research.
+LINDA	f	Maybe that s why she s so good.
+SEBASTIAN	m	Who da Man? You da Man.
+MATT	m	As we pull out we see we are.
+MATT	m	Protocol is hot.
+SEBASTIAN	m	Vitals?
+SARAH	f	Normal.
+BOOMING VOICE	m	THIS IS GOD. YOU ARE DISTURBING THE
+SEBASTIAN	m	How many times do I have to tell you,  Frank you aren t God. I am.
+FRANK	m	Sorry, Boss. Forgot.
+SEBASTIAN	m	You guys ready to roll?
+FRANK	m	We are live and in color. On your  mark.
+SEBASTIAN	m	Okay. Roll  em.
+JANICE	f	Okay. We are rolling record on videos  one through twelve.
+FRANK	m	Subject Isabelle Two. Currently in  phase shift... one hundred twenty six  days, eighteen hours.
+LINDA	f	Testing De-Phase protocol. Injecting  serial protein Caine One Two Five.
+MATT	m	Maybe if you stopped naming them after  yourself, you d have better luck.
+SEBASTIAN	m	Why thank you, Dr. Kensington, for  that keen scientific observation. I ll  be sure to include it in my memoirs.
+MATT	m	A whole mention? And I thought I was  just gonna be a footnote.
+MATT	m	Okay.
+SEBASTIAN	m	Ready.
+LINDA	f	Propped.
+MATT	m	Let s make some history.
+SEBASTIAN	m	Nice try, Sparky.
+LINDA	f	Come on, Isabelle. You can do this.
+SARAH	f	Elevated heartbeat.
+JANICE	f	We re still in the green.
+FRANK	m	Confirmed. Vitals still in the normal  range.
+MATT	m	It s reacting.
+SEBASTIAN	m	Do you see this?
+LINDA	f	It s working. It s actually working.
+SARAH	f	Heart rate s up. She s scared. It's okay, baby. It's okay.
+SEBASTIAN	m	Subject began manifesting almost  Immediately. Protocol is reacting  quickly.
+LINDA	f	Subject may be in pain or extreme  discomfort.
+SARAH	f	Goddamnit. Blood pressure elevating.  Brain activity going through the roof.  We ve got a problem.
+SEBASTIAN	m	What? What problem!
+SARAH	f	It s her heart. We can see the heart  beating in the ape s
+FRANK	m	I got an erratic heart beat.
+SARAH	f	She s going into cardiac arrest.
+LINDA	f	Got the crash cart.
+SARAH	f	We re losing her.
+SEBASTIAN	m	No! It s got to work.
+LINDA	f	Clear!
+SARAH	f	We ve got something! Still. erratic.
+LINDA	f	Come on Isabelle. Come on. You can do  it. You can fucking do it.
+SARAH	f	Come on, monkey.
+MATT	m	Do it. Do it. Come on.
+SARAH	f	Stabilizing.
+FRANK	m	Brain activity returning to normal.
+LINDA	f	Welcome back, Isabelle.
+SEBASTIAN	m	How is she?
+SARAH	f	I think she s gonna be okay
+CARTER	m	Amazing. She's normal, absolutely  healthy. If you didn't know any  better, you'd think nothing had  happened to her.
+MATT	m	Yeah. I can't wait to slice up her  brain and trace her neural pathways.
+SARAH	f	Screw you, Matt.
+MATT	m	Well maybe not right away.
+LINDA	f	We should celebrate.
+SEBASTIAN	m	To the finest research team I've ever  known.
+SEBASTIAN	m	Hey...
+LINDA	f	I thought you'd gone.
+SEBASTIAN	m	Where would I go? Twenty years ago there were no  computers, no fax machines, no cell  phones. I was just wondering what the  world will be like twenty years from  now... if what we're doing will change  everything.
+LINDA	f	A little "I am become death... the  shatterer of worlds"?
+SEBASTIAN	m	Something like that.
+LINDA	f	Since the day I met, all you wanted to  do was change the world. Listen, I know we've... I mean... well  ... I just want you to know how proud  I am of you. I know it probably  doesn't mean a lot...
+SEBASTIAN	m	Actually it does. I guess since you were there from the  beginning, you know me better than  anyone else on this godforsaken  planet.
+LINDA	f	You're positively maudlin. You should  be happy. Do you have any idea what  you've accomplished?
+SEBASTIAN	m	Yeah... but I was working so hard, I  didn't realize I'd have no one to  share it with. I don't suppose we could turn back the  clock for a night and you could come  home with me? Right. Sorry. Too much champagne.
+MATT	m	What was that about?
+LINDA	f	Nothing. It's just... He is who he is.  Sometimes I just have to be reminded.
+SEBASTIAN	m	What's it like? Talk goddamnit! Tell  me what it's like!
+SEBASTIAN	m	Six years ago, this committee  commissioned me with a very specific  task...
+SEBASTIAN	m	To successful phase-shift a human  being out of quantum sync with the  visible universe and then return him  safely, with no after affects. Well, we found out sending them to  "never-never-land" was easy, it's the  getting back that's hard. Every time we've tried to bring a test  subject back from phase-shift.  Cellular bonds would dissolve, the  primary DNA strands would decay. But  now... But now...
+KRAMER	m	But now?
+SEBASTIAN	m	But now... But now, we feel we are closer than  ever to resolving this issue. We've  been experimenting with a new  regression formula that looks rather  promising. A FOUR STAR GENERAL leans forward.
+GENERAL	m	How long?
+SEBASTIAN	m	Sir?
+GENERAL	m	Son, as you can imagine, we are very  anxious to field test this tactical  asset. How long till you resolve this  issue?
+SEBASTIAN	m	Shouldn't be more than another year,  Sir. Maybe sooner.
+MATT	m	Yo. Reality check! What the hell was  that about?
+SEBASTIAN	m	Keep your voice down.
+MATT	m	The protocol works. Why'd you tell  them it didn't?
+SEBASTIAN	m	I wasn't ready for them to know.
+MATT	m	But they're the oversight committee.  They're supposed to know.
+LINDA	f	I'm sure he had a reason. You did have a reason, didn't you,  Sebastian?
+SEBASTIAN	m	I had more than a reason. I had a  goddamn epiphany. What do you think they'd do if they  know we could send a subject into  phase shift and pull it back out  again? How many seconds would it take  for them to take over the whole  project, bringing in their soldiers to  test the formula on. We'd have lost  control of it by the end of the week.
+LINDA	f	It's their money, Sebastian. It's  going to happen eventually.
+SEBASTIAN	m	I know. But not yet. There's too much  for us to learn. I don't want my hands  tied by their political agenda when we  go to phase three.
+MATT	m	Well, then... mind telling us how  you're gonna get a human test-subject  for phase three without the committee  finding out?
+SEBASTIAN	m	That's easy. I've decided to test the  procedure ...
+SEBASTIAN	m	... on myself.
+FRANK	m	Are you nuts?
+SEBASTIAN	m	Was Jonas Salk nuts?
+FRANK	m	Yeah. Pretty sure he was.
+CARTER	m	And remember, for every Jonas Salk,  there are a bunch of guys who aren't  famous cuz they died.
+SEBASTIAN	m	If we're that unsure, how can we  morally justify testing it on someone  else?
+JANICE	f	Isn't it a little soon to be moving  into phase three anyway?
+SARAH	f	She's right. We haven't even finished  collating the phase two research.
+SEBASTIAN	m	We'll have plenty of time to collate  and cross-reference later. Monkey data  doesn't matter anyway. The only real  data is human data.
+SARAH	f	You don't even know if any of the  protocols will work on humans.
+SEBASTIAN	m	How are we gonna find out? Besides,  we've succeeded with a gorilla and  their DNA is 98% the same as humans.  And the 2% is not that significant.
+LINDA	f	Sebastian ... humans can talk, build  houses and cook in microwave ovens.  Gorilla's live in trees. That's a  helluva 2% if you ask me.
+SEBASTIAN	m	We're all concerned. I know that. But  if we're gonna move forward ever, this  is something we have to do.
+LINDA	f	Why you? Why not one of us?
+SEBASTIAN	m	The risks. I couldn't ask...
+MATT	m	What if we volunteer?
+LINDA	f	What if you're too valuable to lose?
+SEBASTIAN	m	I'm Project Leader. It's my formula  and my call. The best way to express  your concern is to make damn sure you  do your best work. I'll want about  four weeks to...
+FRANK	m	To put your affairs in order?
+SEBASTIAN	m	To run some more reversions and tissue  tests and then we'll attempt the phase  shift. I'll stay shifted for three  days of testing and then we'll perform  a quantum regression.
+SEBASTIAN	m	Come in. What?
+LINDA	f	In the past six years, I've never once  challenged your decisions, but this  ... Sebastian. I don't think you  should do this.
+SEBASTIAN	m	You don't understand.
+LINDA	f	Oh please. How long were we together?  You must've said it a million times  ... Nobody knows who built the lunar  lander. All they remember in the first  man on the moon. But what if something happens to  you... what about the project?
+SEBASTIAN	m	Lin, trust me... nothing's going to  happen.
+LINDA	f	He refuses to listen to reason.
+MATT	m	Can we talk about this later? I'm  trying to make love to you.
+LINDA	f	Sorry. I just can't let it go.
+MATT	m	I know how you're feeling. Hell, he  and I've been friends since freshman  year.
+LINDA	f	So how can we let him do this?
+MATT	m	What if you were given the opportunity  to be the first person on ,Mars, would  you go?
+LINDA	f	In a heartbeat.
+MATT	m	What if they didn't know whether or  not they could get you home? This is his chance to be Chuck Yeager  or Christopher Columbus. Well, if I  were him I'd do the same thing.
+LINDA	f	Let me ask another question.
+MATT	m	Is about who gets to be on top?
+LINDA	f	Is the human race really ready for  what we're doing?
+MATT	m	Why do you always get philosophical  before we're about to get physical?
+LINDA	f	No really. Is it ready? We're  barrelling down a road that begs moral  and ethical questions that I don't  think we can answer.
+MATT	m	They said the same thing about the  bomb. They said we'd never survive the  nuclear age... but here we are.
+LINDA	f	This night is still young. I mean, when you think about it, it's  creepy. Do we really want to live in a  world where people can just disappear  in the blink of an eye?
+MATT	m	We made our deal with the devil years  ago. Might as well stick around to  cash in.
+SEBASTIAN	m	Yes?
+MATT	m	We're ready.
+SEBASTIAN	m	Okay.
+MATT	m	It's not too late to back out. I'm  happy to take your place.
+SEBASTIAN	m	No. I'm ready.
+MATT	m	Nervous?
+SEBASTIAN	m	A little.
+MATT	m	Ever tell you the one about Superman  and Wonder Woman?
+SEBASTIAN	m	I don't think so.
+MATT	m	So Superman's flying around the city,  and he's horny as hell.  Lo and behold  he looks down and sees Wonder Woman,  completely nude, sunning herself up on  the roof of the Justice League. I mean  she is lying there naked and spread  eagle. So Superman starts thinking,  "man... this is too easy. I could go  down there, do a little fast pumping  and be gone before she even sees me."  After all he is faster than a speeding  bullet, right? Anyway, he swoops down,  takes care of business so quick, you  can't even see him. Well ... I tell  ya. Wonder Woman looks up, surprised  as hell and says "What the hell was  that." And the Invisible Man replies  "I dunno know, but it sure hurt like  hell."
+SEBASTIAN	m	You know, that could be the last joke  I ever hear.
+MATT	m	C'mon, man. That's funny shit.
+LINDA	f	O.K. How're you feeling?
+SEBASTIAN	m	Fine.
+SARAH	f	Pulse 88, BP 140 over 95. A bit  elevated.
+SEBASTIAN	m	To be expected.
+SARAH	f	No reason for concern. He's ready.
+SEBASTIAN	m	Hey... it's gonna be okay.
+LINDA	f	Start recording.
+JANICE	f	We're hot. All systems nominal,  Houston.
+FRANK	m	Okay, kids. Let's make some history.
+LINDA	f	Subject: Male, Age 29, weight 166 lbs.
+MATT	m	Ready. If the tests are any indication it  should work quickly.
+SEBASTIAN	m	I'll inject myself. If anything goes  wrong, they can't blame you.
+LINDA	f	We can still shut down, Sebastian.
+MATT	m	Any last words?
+SEBASTIAN	m	Yeah. If I'm killed, pretend I said  something deep and clever.
+LINDA	f	Injection was administered at
+SEBASTIAN	m	Nothing so far.
+SARAH	f	Vitals are stable.
+LINDA	f	Nothing's happening.
+MATT	m	Human DNA structure is slightly more  complex... it's possible that it may  take more time...
+LINDA	f	Maybe we overlooked something.
+SEBASTIAN	m	Recheck the protocol. It can't be non-  reactive.
+CARTER	m	Kinda like a firecracker with a bad  fuse... Don't know if it'll go off.
+LINDA	f	Frank?
+FRANK	m	No change in bio-electric.
+SEBASTIAN	m	Goddammit. Okay wait, my arm... it's getting a  bit warm... yeah, it's ... it's  starting to tingle... Okay... it's spreading to my back...  like, like a fever...
+LINDA	f	Here we go.
+SEBASTIAN	m	Shit... it's starting to burn... Oh  god. It hurts. I didn't think it would  hurt.
+SARAH	f	Heartbeat's elevated. Pulse at 100.
+LINDA	f	What do you feel? Keep talking. KEEP
+SEBASTIAN	m	Pain!
+SARAH	f	Pulse is 165 ... 170 Blood pressure  180 over 100. ...
+CARTER	m	He's going to blow out his heart.
+LINDA	f	Prop the crash cart.
+MATT	m	We've got to stop it!
+LINDA	f	We can't!
+JANICE	f	Something's happening.
+FRANK	m	Listen up! Electric activity  increasing in all limbs. Brainwaves  are through the roof.
+JANICE	f	I didn't think the human brain could  spike that high.
+FRANK	m	Maybe it can't.
+SEBASTIAN	m	No. Oh god! NO! STOP IT! STOP IT!
+SARAH	f	Pulse is 180 .... holding stable.
+CARTER	m	 Holy shit.
+SARAH	f	Pulse is dropping. 170..
+LINDA	f	Bio-quantum phase shift occurred at
+MATT	m	Is he dead?
+LINDA	f	No. He passed out from the trauma.
+SARAH	f	Vitals returning to normal. Pulse 110  ... dropping. Blood pressure 130 over
+FRANK	m	Electrical activity is stabilizing.
+SARAH	f	Pulse steady at 70.
+MATT	m	Un-fucking-believable.
+LINDA	f	You did it, Sebastian. You're the  first.
+CARTER	m	Let's get him into recovery.
+MATT	m	S'okay. You nodded off.
+LINDA	f	His breathing's hypnotic. How long's  it been?
+MATT	m	Seventeen hours.
+LINDA	f	Where are the others?
+MATT	m	In the lab crunching numbers. We've  got enough data there for two  lifetimes of research.
+LINDA	f	I keep looking at that hole, wondering  if he's really there. Did you see...
+MATT	m	He may be coming out of it.
+SEBASTIAN	m	The lights! Turn off the goddamn  lights! Ah Christ! I can't... I can't close my eyes. I  can't close my eyes.
+LINDA	f	Your eyelids are transparent.
+SEBASTIAN	m	So I ... I'm...
+LINDA	f	Yes.
+SEBASTIAN	m	My arms. I can.. where? ... I can feel  them...
+LINDA	f	Your arms ... your whole body... It  worked, Sebastian. It worked.
+SEBASTIAN	m	Mirror. I ... I want to see.
+MATT	m	Over here in the corner. What was it like?
+SEBASTIAN	m	I ... It's hard to think. The transformation... I remember every  molecule in my body shattering.
+MATT	m	It was painful?
+SEBASTIAN	m	At first... but then everything went  black. I couldn't see or hear or feel  anything. It was all just black...  like I wasn't connected.
+LINDA	f	Your system received quite a shock.
+SEBASTIAN	m	At least my senses are starting to  return... You're wearing your  Shalimar, aren't you?
+LINDA	f	Sebastian.
+SEBASTIAN	m	This is weird. I'm looking through  myself at the floor. I'm looking right  through myself. I can't tell ... ... where my body is.
+LINDA	f	Sebastian?
+MATT	m	Sebastian?
+SEBASTIAN	m	You really can't see me. Can you?
+LINDA	f	Gimme symptoms. Dizziness, nausea,  headache, body-ache, disorientation.
+SEBASTIAN	m	No, just tired. It's funny. I can see everything...  more than before... but I can't see  myself.
+CARTER	m	Hey. How's he doing?
+LINDA	f	Why don't you ask him?
+SARAH	f	Sebastian, how do you feel.
+SEBASTIAN	m	Not to bad, considering. Odd, isn't it?
+LINDA	f	He can't close his eyes so they're  sensitive to light.
+JANICE	f	So, what was it like?
+SEBASTIAN	m	Over here.
+LINDA	f	C'mon Sebastian. Knock it off.
+SEBASTIAN	m	Sorry. Couldn't resist.
+FRANK	m	I feel like we're playing Marco Polo.
+MATT	m	Well, I see the procedure hasn't  changed your personality.
+FRANK	m	No worries. I'm on it. Gotcha, big man.
+SEBASTIAN	m	Boy, you people have no sense of  humor. Show me. So ...
+SEBASTIAN	m	Stop there. Index that. That was when it started  burn. Epidermal reaction.
+JANICE	f	Index Mark. 112125.
+LINDA	f	It's late. Time you got some rest.
+SEBASTIAN	m	Just a little longer.
+LINDA	f	Hate to pull rank, but you're my  patient now and you need rest. We've  got a busy day tomorrow.
+SEBASTIAN	m	Fine.
+LINDA	f	We've set up a thermal camera for  observation and I've arranged one of  us to be here 24/7 in case you need  anything. The team's gonna be on alpha- call alert for the duration. If  anything goes wrong, we can all be  here within...
+SEBASTIAN	m	Thirty minutes. Yes,,_I know. I wrote  the procedure.
+LINDA	f	I was trying to be reassuring.
+SEBASTIAN	m	You like this don't you?
+LINDA	f	What's that?
+SEBASTIAN	m	Being in charge.
+LINDA	f	Please. I'm just doing my job.
+LINDA	f	You gonna be okay?
+SARAH	f	Fine. It's not like I have anything  else going on in my sad pathetic life.
+LINDA	f	Carter'll be in at six to spell you  and I'll be in by nine. Call me if  anything happens, okay?
+SARAH	f	I'm fine. Go on ahead.
+CARTER	m	Man, I'm tired. That was a long day.
+LINDA	f	Days only get longer from here.
+SEBASTIAN	m	Sarah. Are you awake? Hmm.
+SARAH	f	Dr. Caine! Goddamnit, Dr. Caine! Are  you in here? Dr. Caine?
+SARAH	f	Dr. Caine, please report in.
+SARAH	f	Dr. Caine, report in please!
+SARAH	f	Shit.  Dr. Caine? Sebastian? Come on, this  isn't funny. I know you're in here.  I must be going crazy.
+SARAH	f	I found him later in the lab, running  samples.
+LINDA	f	Why didn't you call me?
+SARAH	f	Because I wasn't sure. I'm still not.  I mean, I could've easily been  dreaming.
+MATT	m	It doesn't sound like something  Sebastian would do.
+SARAH	f	God, I feel so stupid.
+LINDA	f	I can talk to him.
+SARAH	f	No. I mean... It was probably nothing. I  shouldn't've mentioned it.
+MATT	m	You sure?
+SARAH	f	Yeah, I'm sure. I mean, y'know, why  would he do that, right? Just, this  place at night can be kinda creepy,  y'know.
+MATT	m	So, how was your first night?
+SEBASTIAN	m	Restless. Hard to sleep when you can't  close your eyes.
+MATT	m	Yeah? What'd you do?
+SEBASTIAN	m	Got up a couple of times. Knocked  about.
+MATT	m	Yeah, Sarah mentioned you weren't in  your cubicle. She said she called you  over the intercom and you didn't  respond.
+SEBASTIAN	m	I guess I didn't hear. I had the radio  on.
+MATT	m	It'd be helpful to us if you'd tell  whoever's on duty where you're going  to. I mean, if something were to  happen, we'd want to know where to  find you.
+SEBASTIAN	m	I didn't think it was a problem.
+MATT	m	It isn't. I just don't want it to  become one. Readings are normal.
+SEBASTIAN	m	Next I want to run a VV and UVF  analysis of the platelets.
+MATT	m	We'll have to draw some more blood.
+SEBASTIAN	m	You okay?
+SARAH	f	Yeah. Why?
+SEBASTIAN	m	You just seem a little nervous.
+SARAH	f	No. I...I'm fine. Hold still. This  might hurt a bit. Dr. Caine... this might sounds stupid,  but are you... are you looking at me.
+SEBASTIAN	m	No. I was looking at the clock. Why?
+SARAH	f	Just felt like someone was staring at  me.
+LINDA	f	Sebastian? Goddamnit.
+SEBASTIAN	m	You've no idea how much fun I've had.  I'm going to hate going back.
+LINDA	f	That's what worries me.?
+SEBASTIAN	m	How so?
+LINDA	f	What happens when we turn the project  over to the Army. Ever wonder how much  fun they're gonna have?
+SEBASTIAN	m	Maybe we won't give it to them. His  voice comes from behind her now. I was thinking... tonight's my last  night. Ever fantasize about making  love to an invisible man?
+LINDA	f	Stop it, Sebastian. It's not funny.
+SEBASTIAN	m	Well, don't do it for me. Do it for  science.
+LINDA	f	Grow up.
+SEBASTIAN	m	Oh well. Missed your big chance.
+LINDA	f	Got some sleep. Big day tomorrow.
+LINDA	f	Recording?
+FRANK	m	Recording. Subject Doctor Sebastian  Caine. Currently in phase shift...  Three days, seven hours.
+LINDA	f	De-Phase protocol. Injecting Serial  Protein Caine One Two Seven. Ready?
+SEBASTIAN	m	Not really. I was just starting to  enjoy myself.
+LINDA	f	Tough.
+MATT	m	Okay, man. Here we go.
+SEBASTIAN	m	Wait... something... something doesn't  feel right.
+SARAH	f	Heartbeat elevated.
+FRANK	m	Vitals still nominal..
+SEBASTIAN	m	I can't br... br...
+LINDA	f	What's wrong?
+SARAH	f	He's not breathing.
+MATT	m	Subject manifesting.
+SARAH	f	Pulse erratic.
+LINDA	f	Carter! Sebastian! Sebastian! Sebastian!
+MATT	m	Get a tranq. Stat.
+LINDA	f	He's reverting. Got him on the table.  Get me a I.V. of A.G. seven.
+SARAH	f	I got no pulse. No pulse.
+MATT	m	Start CPR.
+CARTER	m	Getting a pulse.
+MATT	m	Holy shit. What happened?
+LINDA	f	Sebastian... can you hear me? Can you  hear me? How are his pupils?
+MATT	m	I can't see his goddamn pupils!
+SARAH	f	I think he's going into shock.
+MATT	m	Just got the tissue sample results.  Cellular cohesion is stable. How bout you? You gonna be okay?
+LINDA	f	Guess so. I was just thinking about the Apollo  missions. Y'know? Grissom, White and  Chaffee... What it was like for them  on that launch pad that day, thinking  they were gonna reach the stars only  to burn to death.
+MATT	m	Sometimes the test pilots make  history. Sometimes the planes crash  and people die.
+LINDA	f	But he didn't die, did he? What if we can't bring him back? What  then?
+MATT	m	It's just a little hitch is all. He'll  be the first to tell that he'll crack  it and I'm sure he will. It'll just  take time. Listen, let's got out of here. We  could drive up to the old observatory.  We'll take some wine and go count the  stars and forget all this for awhile.
+LINDA	f	No. I want to be here for him.
+SEBASTIAN	m	Hey...
+LINDA	f	Hey...
+SEBASTIAN 	m	So I guess it didn't work.
+SEBASTIAN	m	You look worried. It must've been bad.
+LINDA	f	You almost died.
+SEBASTIAN	m	Well, remember your Nietchze. Whatever  doesn't kill me, makes me stronger.
+LINDA	f	I should be making you feel better.  Not vice versa.
+SEBASTIAN	m	I guess if I'm going to be stuck this  way for awhile, I'd better make some  adjustments.
+MATT	m	Not too bad.
+SEBASTIAN	m	The latex'll limit the amount of light  delivered to my optic nerves.
+LINDA	f	You could almost pass for human.
+SEBASTIAN	m	Well, it gives you a face to talk to  at least, and we can all work in  normal light again.
+SEBASTIAN	m	The testing's making me sick.
+LINDA	f	Could be the barium or the radiation.
+MATT	m	You're physiology has changed and,  well, all bets are off.
+SEBASTIAN	m	I can't believe I have to spend  another night here. Suppose you're gonna go home now, meet  up with that boyfriend of yours now.
+LINDA	f	Do you want me to stay?
+SEBASTIAN	m	No. That's okay. It's just, being a  guinea pig is more work than I  thought. I'll be fine.
+CARTER	m	Dr. Caine. What's up?
+SEBASTIAN	m	Just stopped by to let you know, I'm  going out for a bit.
+CARTER	m	Going out? Hey wait a sec!
+CARTER	m	What do you mean going out for a bit?
+SEBASTIAN	m	If I don't get out of here, I'm gonna  go crazy.
+CARTER	m	But you're not supposed to leave the  compound.
+SEBASTIAN	m	Why not?
+CARTER	m	That's the rule.
+SEBASTIAN	m	Yes, but I made that rule. It's my  rule and I'm changing it.
+CARTER	m	You can't just change it.
+SEBASTIAN	m	Carter, I was suppose to be like this  for three days. Three fucking days and  I'll be damned if I'm going to spend  the rest of my life as a prisoner in  this godforsaken dump. Now I'm going  out. I'll be back in a couple of  hours. Okay?
+CARTER	m	Shit.
+CARTER	m	Yeah, it's Carter. We got a problem.
+MARINE GUARD	f	Hey, Doc. Haven't seen you for awhile?
+SEBASTIAN	m	Yeah, well. You know how it in  sometimes.
+MARINE GUARD	f	You got that right, sir. I was  beginning to worry 'cause your car  hadn't moved.
+SEBASTIAN	m	Thanks, but everything's cool.
+MATT	m	He could be anywhere. Hell he could be  right behind us.
+LINDA	f	I'll meet you at the lab. I'm gonna  swing by his place, just in case.
+MATT	m	See you there.
+LINDA	f	I don't want him to see.
+MATT	m	What a mess.
+SEBASTIAN	m	Shit. Don't even think it... Once...just once.
+LINDA	f	Sebastian?
+LINDA	f	Sebastian?
+LINDA	f	Oh shit. Yeah, Matt, it's me. He was here. No.  He's taken his make-up off. I don't  know...He must be outside somewhere. I don't know where he went. I'm coming  back to the lab. How? How'm I supposed  to do that? I CAN'T FUCKING SEE HIM!  We're going on alpha call.  I want  everyone at the lab now. We're gonna  need thermal visors and we may need  tranqs.
+JANICE	f	What are the tranqs for?
+LINDA	f	Use your imagination.
+JANICE	f	Are you saying he's dangerous?
+MATT	m	We're just saying we need to be  cautious.
+LINDA	f	The Metro stops running after midnight  and he's on foot, so he can't have  gotten too far.
+CARTER	m	Look, this isn't a monkey we're  talking about. It's Dr. Caine. Don't  you think you're over reacting?
+LINDA	f	This program is classified. If he's  out there it means someone might find  out about him. He could destroy the  whole program.
+SEBASTIAN	m	Relax, Linda. No one's gonna find out.
+MATT	m	Where the hell have you been?
+SEBASTIAN	m	I got a little stir crazy, so I went  to my apartment to pick up some stuff.
+LINDA	f	Bullshit! I went to your apartment and  I happen to know you did a helluva lot  more than pick some stuff up.
+SEBASTIAN	m	What are you talking about?
+LINDA	f	You, of all people How could you?  You put yourself and this project at  risk.
+SEBASTIAN	m	Just what did you see in my apartment?
+LINDA	f	I saw your face and your clothes.
+MATT	m	It was bad enough you left without an  escort, but to take off the... out in public?
+SEBASTIAN	m	Don't make a mountain out of molehill.  I didn't let anyone see me.
+LINDA	f	That's not good enough. When you're  outside the lab there are a thousand  variables none of us can control. It's  just not safe for you to be out there.
+SEBASTIAN	m	Come on, Linda. You don't expect me to  be some kind of prisoner.
+LINDA	f	You volunteered for this, Sebastian.  You knew going in there could be  consequences. For the security of this project, I'm  gonna have to ask you to confine  yourself to the compound.
+SEBASTIAN	m	I'm still Project Leader, Linda. It's  my decision to make.
+LINDA	f	You're right. It's your decision. But  if you leave the compound again, I'll  notify the oversight committee. Then  they can make the decision. You  understand?
+SEBASTIAN	m	Matt?
+MATT	m	Sorry, man. You'd do the same if it  were the other way around.
+LINDA	f	Pack 'em up... Everyone go home.
+LINDA	f	Hold still.
+SEBASTIAN	m	How much blood do you think you've  taken so far?
+LINDA	f	Not enough to worry about.
+SEBASTIAN	m	Every day... feels like you're sucking  me dry. It's funny. All these years I've known  you, I never pegged you for a  megalomanic.
+LINDA	f	What are you talking about?
+SEBASTIAN	m	The shoe being on the other foot. You  getting to run things.
+LINDA	f	I didn't ask for this, Caine. But when  a classified experiment disappears in  the middle of the night, someone's  gotta run the show. Look, I know how hard this has been  for you.
+SEBASTIAN	m	Don't patronize me. And for the record, you've got no idea  what it's like. I get up every morning  and you people stick needles in me.  You bombard me with radiation until I  vomit. And then at six it's over for  you. You get to go home. But Sebastian  is still here. Sebastian can't leave,  or else. That's the worst part, you  know. Here I have this ... this GIFT  and I can't even use it.
+LINDA	f	Now it's a gift?
+SEBASTIAN	m	You're goddamn right it's a gift. And  if you weren't so goddamned short  sighted, I'd be out there right now  trying to master it.
+LINDA	f	Where're you going?
+SEBASTIAN	m	Looks like I'm going nowhere.
+MATT	m	Come on, man. We've got a ton of tests  scheduled today.
+SEBASTIAN	m	Do them yourself.
+LINDA	f	Want to talk about it?
+SEBASTIAN	m	No.
+LINDA	f	"We are the hollow men, the stuffed  men, headpieces filled with straw."
+SEBASTIAN	m	Funny, huh? I've become a literal  metaphor.
+LINDA	f	I don't want to fight you. I just want  what's best for the program.
+SEBASTIAN	m	I know. And you being right doesn't  make it any easier for me.
+LINDA	f	You can be scared. That's okay.
+SEBASTIAN	m	I'm not scared of being stuck this  way. With a little more make-up and  practice, I could... ... pass. Y'know, get by in the world.  But the testing...
+LINDA	f	You're talking like you've given up.  It's only been a few months.
+SEBASTIAN	m	What if it's years? I don't know how  much more testing I can take.
+MATT	m	60% reversion. 70% ... 75% ... 80% ...
+SEBASTIAN	m	We've got it. We've got it.
+MATT	m	93% ... 95%... 95%
+LINDA	f	That's all we need.
+SEBASTIAN	m	Come on, baby. Come on.
+MATT	m	Full quantum cascade at 95%. I'm sorry.
+SEBASTIAN	m	You're sorry? You're fucking sorry?  Six weeks of this shit and you're  sorry!
+JANICE	f	I don't blame him.
+LINDA	f	I'll go talk to him.
+MATT	m	Leave him alone. He just needs to blow  off some steam.
+FRANK	m	Yeah?
+SEBASTIAN	m	I'm going to the lab.
+FRANK	m	Don't you sleep?
+SEBASTIAN	m	Waste of time. Da Vinci never slept.
+FRANK	m	Okay. I'm here if you need me.
+MATT	m	How'd it go?
+FRANK	m	Quiet. He worked in the lab till about  10:30 and then went to sleep.
+SEBASTIAN	m	Ah, my two favorite people. Good  morning.
+LINDA	f	Good morning.
+MATT	m	Why so cheery this morning?
+SEBASTIAN	m	You know some days you just wake up  feeling the world is full of  potential. Like your eyes have been  opened.
+MATT	m	I'm happy if I make it to my coffee  machine.
+LINDA	f	I restructured the third genome on  your radiated protein strand. Thought  you might want to take look.
+SEBASTIAN	m	Cook up a batch and let's see where we  go.
+LINDA	f	I thought you'd want to take a look at  it.
+SEBASTIAN	m	I trust you. Now if you'll excuse me,  I need to have my head examined.
+LINDA	f	I'm telling you, I know him.  Something's going on.
+MATT	m	Think he knows about us.
+LINDA	f	If he knew about us, he'd be angry and  that wasn't angry.
+SEBASTIAN	m	When you were a kid, you ever dream  about being invisible?
+CARTER	m	Sure... all the time.
+SEBASTIAN	m	What did you imagine you'd do?
+CARTER	m	The usual.
+SEBASTIAN	m	What's the usual?
+CARTER	m	Hanging out in the girl's locker room.  Kicking Jimmy Margiani's ass.
+SEBASTIAN	m	Jimmy Margiani?
+CARTER	m	School asshole. Drove a red Trans Am.  Back then, I was the size of a small  planet and made a rather large target.
+SEBASTIAN	m	Ever think up anything along the grand  scale?
+CARTER	m	Sure. World domination. Manipulating  stock markets, consolidating a  political power base. But those are  more recent fantasies.
+SEBASTIAN	m	And what if it weren't fantasy? What  if you were out there in the world and  could do whatever you wanted with no  consequences whatsoever. How far would  go? I mean... if it were real?
+CARTER	m	I don't know, man. Out in the real  world... I mean, there's a  responsibility...
+SEBASTIAN	m	Let's say you saw a woman with amazing  tits. Would you brush against them?
+CARTER	m	Hell, I try and do that now.
+SEBASTIAN	m	Human nature. So if you could get away  with more, would you do more?
+CARTER	m	I read that in a survey at a major  university they asked college students  "Would you steal if you were  guaranteed to get away with it?" 82%  said yes.
+SEBASTIAN	m	Eighty two percent? Makes you wonder  if the world's ready for what we're  doing.
+CARTER	m	So, Doc what did you do?
+SEBASTIAN	m	What do you mean?
+CARTER	m	When you were out.
+SEBASTIAN	m	I just walked around. Y'know.
+CARTER	m	Aw, you just walked around? Come on.  There's more, right?
+SEBASTIAN	m	Like what?
+CARTER	m	Man, I'd be walking up to people  saying shit like "This is God, go,get  a haircut." Or hanging out in the  changing room at Victoria's Secret.
+SEBASTIAN	m	Kind of sophomoric, don't you think.  Besides, it was late and I wasn't out  that long.
+CARTER	m	Well, did you see anybody?
+SEBASTIAN	m	There was this one girl.
+CARTER	m	Yeah? And did you mess with her?
+SEBASTIAN	m	Naw... Well maybe a little. I tell you though, a man could get  used to it.
+SEBASTIAN	m	Goodnight. Sorry, didn't mean to frighten you.
+LINDA	f	It's fine. I just didn't know you were  there. Goodnight.
+LINDA	f	What was it?
+MATT	m	I don't know. I don't see anything.  It's like something hit it.
+CARTER	m	Hello? No. No. He's here No, I'm staring at  him. He's right there in his room.
+LINDA	f	Thanks. No, just checking. 'Kay, bye. Phew.
+MATT	m	Relax... it's nothing. Where were we?
+SEBASTIAN	m	Be quiet! And the cyclops screamed out, "Who is  it who blinds me?" and Odysseus  replied "Nobody is my name". And the  Cyclops raged to his friends "Nobody  is killing me. Nobody".
+SEBASTIAN	m	Shhhh. It's Nobody-It's nothing. Nobody's gonna hurt you.
+SARAH	f	You awake?
+SEBASTIAN	m	I am now.
+SARAH	f	Notice anything unusual last night.
+SEBASTIAN	m	No. Why?
+SARAH	f	Franklin Three. He's dead.
+SEBASTIAN	m	What of?
+SARAH	f	His neck was broken and his windpipe  collapsed.
+SEBASTIAN	m	How'd that happen?
+SARAH	f	I thought maybe you could tell me.
+SEBASTIAN	m	Sarah... You saying I had something to  do with it?
+SARAH	f	He was alive last night when I left  and he was dead this morning. And you  were the only one down here.
+SEBASTIAN	m	I was in my room all night.
+CARTER	m	That's all twelve hours.
+LINDA	f	He never left the room.
+SARAH	f	A windpipe doesn't just suddenly  collapse. Someone or something killed  it.
+MATT	m	You saw the tape. The man was in his  chamber.
+SARAH	f	Then we have a problem, because I the  cage was locked from the outside. That  means it was opened, the dog was  killed and the cage was closed and  locked again. Only a human could do  that.
+CARTER	m	Well, it wasn't me.
+MATT	m	And it wasn't him.
+LINDA	f	Are we sure?
+SEBASTIAN	m	Any big plans for tonight?
+LINDA	f	Quiet night at home. Maybe a book.
+SEBASTIAN	m	Really? Whatever happened to that guy  your were seeing?
+LINDA	f	He's still in the picture. Why?
+SEBASTIAN	m	Being locked down here, I'm forced to  live vicariously. Someday you'll have  to tell me what he's like.
+LINDA	f	Maybe someday I will. See you in the  morning.
+SEBASTIAN	m	Au domain.
+SEBASTIAN	m	Hmmm.
+LINDA	f	Forgot something.
+SEBASTIAN	m	What the hell?
+FRANK	m	Pretty clever really. All it does is  recycle the signal. He flips this  switch, it takes a snapshot and that's  all we see.
+LINDA	f	Asshole.
+JANICE	f	And you think he's violent?
+SARAH	f	He killed a dog with his bare hands.
+FRANK	m	Dogs aren't people. Are we in any  danger?
+LINDA	f	Either way, we aren't equipped to  handle this. We have to inform the  committee.
+JANICE	f	What if he doesn't come back?
+LINDA	f	They'll go after him. Who has tonight's shift?
+JANICE	f	I do.
+LINDA	f	Pretend nothing's wrong. Everyone just  do what you're doing so he doesn't  become suspicious. Okay? Matt and I'll  go tell Doctor Kramer and we'll lot  the committee deal with it.
+KRAMER	m	I'll call General Caster right now and  convene the oversight committee  tomorrow.
+LINDA	f	Thank you, sir.
+MATT	m	What do we do in the meantime?
+KRAMER	m	Just sit tight and wait for my call.
+MRS. KRAMER	f	What was that about?
+KRAMER	m	Just a little trouble at work.
+MRS. KRAMER	f	You coming up?
+KRAMER	m	In a minute. I have to make a few  calls. Hello? Hello?
+KRAMER	m	Help! HELP! MARTHA! HELP!
+SEBASTIAN	m	What? No good morning for me? Don't  you like me anymore?
+LINDA	f	Oh, sorry. I...I'm in a hurry.
+SEBASTIAN	m	That's okay. It's going to be busy  day.
+LINDA	f	When did he say held call?
+MATT	m	He's probably meeting with the  committee trying to figure out what to  do.
+LINDA	f	I'm gonna call him. Yes, Dr. Kramer please. Excuse me? When? I'm so sorry.
+MATT	m	What?
+LINDA	f	He's dead. Drowned in his pool last  night. Yes, General Thompson please. Thank  you.  Hello? Hello?
+MATT	m	Let me see that. Intercom's working, but there doesn't  seem to be an outside line.
+LINDA	f	I'll be right back with help.
+ELEVATOR	m	Authorization please.
+LINDA	f	Foster One Delta Eight Three Five.
+ELEVATOR	m	Authorization invalid. Request denied.
+LINDA	f	That's a first.
+ELEVATOR	m	Authorization please.
+LINDA	f	Foster One Delta Eight Three Five.
+ELEVATOR	m	Authorization invalid. Request denied.
+MATT	m	Let me try mine.
+ELEVATOR	m	Authorization please.
+MATT	m	Kensington Two Romeo One Five Nine.
+ELEVATOR	m	Authorization invalid. Request denied.
+LINDA	f	Tell me this isn't happening.
+LINDA	f	We've got a problem.
+MATT	m	How long before anybody starts looking  for us?
+LINDA	f	There's no set check in procedure. It  could be weeks. You think you can got in?
+FRANK	m	Already in. It was only a second level  encryption.
+JANICE	f	Some security system.
+FRANK	m	Oh the system is fine. It's just I'm  just extraordinary. But apparently someone is more  extraordinary than me.
+MATT	m	What is it?
+FRANK	m	There's nothing wrong with the system.  Our codes have been removed.
+MATT	m	Removed? By who?
+FRANK	m	Here's a clue. Only one code remains.
+LINDA	f	Whose?
+FRANK	m	Dr. Sebastian Caine.
+CARTER	m	He's not in there.
+LINDA	f	Okay, Sebastian. Fun's over. Tell us  where you are.
+SEBASTIAN	m	I'm sorry. But I can't lot you turn me  in.
+LINDA	f	Sebastian... where are you?
+SEBASTIAN	m	You have no idea what it's like. The  power of it. The freedom. I can't let  that go.
+LINDA	f	C'mon Sebastian. You're scaring me.  Tell me where you are and we can talk  about it.
+SEBASTIAN	m	There's nothing to talk about. See ...  I've done things that can't be undone.
+LINDA	f	Sebastian! Sebastian! I want search parties. Thermal goggles  and tranquilizers.
+JANICE	f	Dr. Caine? Are you in here? Dr. Caine?
+SEBASTIAN	m	I'm here.
+FRANK	m	Doctor Caine?
+LINDA	f	Sebastian?
+MATT	m	This is bad.
+LINDA	f	There's something over there.
+MATT	m	What happened?
+LINDA	f	She was strangled. Multiple blows to  her head. We got a big problem here. Get everybody to the conference room.  Now!
+MATT	m	Intercom... the phone lines. They're  dead.
+LINDA	f	Gimme that. It was just working.
+MATT	m	What the fuck is going on here?
+MATT	m	What?
+LINDA	f	Shhh. Give me the visor. C'mon.
+FRANK	m	Did you find him?
+LINDA	f	Janice is dead.
+LINDA	f	It's clear.
+SARAH	f	The man has checked out of reality.
+FRANK	m	What happened? I don't understand.
+CARTER	m	Isn't it obvious? Right now, we're the  only ones who knows he exists. If he  gets rid of us, no one knows and he  becomes the most powerful man on  earth.
+FRANK	m	But he's not a killer.
+LINDA	f	He wasn't. He is now.
+MATT	m	Can you fix the elevator? Restore our  codes?
+FRANK	m	It'd take hours to crack the  encryptions.
+MATT	m	Right now that sounds like good news.
+CARTER	m	So what do we do until then. Sit  around waiting for him to kill us off?
+LINDA	f	No. We find him, before he finds us.
+CARTER	m	You sure this'll work.
+LINDA	f	We designed it to help find the rats  we kept dropping in year one. They  were too small for thermal scans.
+MATT	m	Systems hot. Activating motion  detectors.
+LINDA	f	I've got movement in Corridor Six.
+MATT	m	That's him.
+MATT	m	Got 'em.
+LINDA	f	Check. Check. Be careful.
+MATT	m	Just watch our backs. Hey Carter,  ready?
+CARTER	m	Let's do it.
+LINDA	f	Take a right at the next accessway.  He's working his way back to the  offices.
+MATT	m	If we split up, can we trap him on  corridor eight?
+LINDA	f	If he keeps heading in that direction.
+MATT	m	Going Thermal.
+LINDA	f	I lost him. Matt, I lost him.
+MATT	m	He probably just stopped moving.
+CARTER	m	It's me.
+MATT	m	Do you have anything?
+CARTER	m	Nothing.
+MATT	m	How did he get by us?
+CARTER	m	He couldn't.
+MATT	m	Sebastian! We're here to help.  Sebastian.
+CARTER	m	There. Behind those pipes. He's not  moving. Doctor Caine? Can you hear me?
+MATT	m	We see him. But he's not responding.  The heat signature doesn't move.
+MATT	m	C'mon... C'mon...
+CARTER	m	Covered.
+MATT	m	What the... Just a vent. Just a goddamn vent
+LINDA	f	He was there.
+MATT	m	Looks like... looks like we're pumping  out heat...
+LINDA	f	I got movement again! He's right on  top of you!
+MATT	m	No fucking shit! Sebastian? Goddamnit! Let him go.
+CARTER	m	H...Help... MMmmphg
+MATT	m	Where is he? Where the fuck is he?!?
+LINDA	f	Right on top of you.
+LINDA	f	What's going on? Are you okay?
+MATT	m	Carter's down. Hurt bad. Bleeding from  a head wound.
+LINDA	f	Matt, he's coming toward you.
+MATT	m	Shit.
+LINDA	f	Got outta there.
+LINDA	f	He's close!
+MATT	m	Goddamnit. The doors are closing. He's  shutting me in. Where is he?
+LINDA	f	He's coming right at you!
+MATT	m	Where?
+LINDA	f	Twenty, maybe thirty feet.
+MATT	m	Goddamnit, I got thermals all over the  place. Eight, maybe ten of them. Must  be ghosts.
+LINDA	f	Those signatures ... they're coming  from the heating vents.
+MATT	m	I'm starting to lose resolution on my  thermals.
+LINDA	f	Get out of there!
+FRANK	m	If the room temperature is the same as  his body temperature, thermal  visors'll be no good.
+LINDA	f	I'm going!
+FRANK	m	Linda...it's not safe.
+LINDA	f	That's why I'm going. Corridor eight is clear. Get Carter to  the lab. We'll meet you there.
+FRANK	m	But...
+LINDA	f	Do it.
+SEBASTIAN	m	Marco...Polo... Marco... Polo... Not even close.
+SEBASTIAN	m	So... just out of curiosity, how long  has my best friend been fucking my ex- girlfriend.
+MATT	m	Sebastian. Get a hold of yourself. You  aren't thinking rationally.
+SEBASTIAN	m	She's a pretty sweet fuck, isn't she?
+MATT	m	Calm down, Sebastian... we can talk  this through. It's not too late.
+MATT	m	C'mon Sebastian. Don't do this. I'm  your friend.
+SEBASTIAN	m	I'm sorry, but I just feel that our  friendship is holding me back. I'm  sure you understand.
+SARAH	f	This way. Pulse is weak. Breathing... shallow.
+FRANK	m	He'll be okay.
+SARAH	f	It's pretty severe. We have to get him  to the lab.
+FRANK	m	He's got to be okay.
+SARAH	f	For godsakes, help me.
+MATT	m	He was going to kill me.
+LINDA	f	I know. He's gone.
+MATT	m	We've got to got out of here. Where is he? Goddamnit, where is he?
+LINDA	f	Habitats.
+MATT	m	Oh god. That's right between us and  the lab.
+SARAH	f	His pulse is faint. He's lost a lot of blood. Here. Hold  this. Keep applying pressure. Don't move your hand until I got back.
+FRANK	m	Where are you going?
+SARAH	f	This'll hold him but he needs blood.
+FRANK	m	But...
+SARAH	f	Supply is right down the hall. I'll be  two seconds.
+FRANK	m	Sarah, wait for the others
+SARAH	f	If I wait, he'll die. Keep pressure on  the wound.
+MATT	m	Ahh!  Shit! Karl Three. Nice shot.
+LINDA	f	He's let the animals out. It wasn't  him we were tracking. You okay?
+MATT	m	It won't kill me unless it gets  infected. You?
+LINDA	f	Me .... Don't ask about me. If he  freed all the animals, we could have  dozens running around the lab.
+MATT	m	So he could be anywhere right now. What do we do?
+LINDA	f	Get to the lab, lock the goddamn doors  and pray to God Frank can reprogram  the elevator.
+SARAH	f	Frank? Who's there? Dr. Caine?
+SEBASTIAN	m	You missed.
+SARAH	f	Please no. Let me go. Oh god, let me  go.  What are you doing? No! Help me! Oh God. Somebody help me!
+SEBASTIAN	m	You.
+SEBASTIAN	m	I've always liked your feistiness.
+FRANK	m	Sarah! Sarah! Goddamnit. Stay with me now. Don't you  let up... Sarah! Sarah! Sarah! I'm losing him. Did you see her?
+LINDA	f	Where is she?
+FRANK	m	She went to the supply room. Carter  needed blood.
+LINDA	f	I said no one goes anywhere alone.
+FRANK	m	She didn't listen. But...
+LINDA	f	He's dead.
+LINDA	f	Oh god. Sarah! No...
+FRANK	m	Her too?
+LINDA	f	This didn't happen. This hasn't  happened.
+MATT	m	It happened alright. Now we have to  deal with it.
+FRANK	m	Yeah? And just what are we supposed to  do now?
+SEBASTIAN	m	Now? Now you die.
+LINDA	f	He's here!
+MATT	m	Where?
+LINDA	f	Sebastian! Sebastian. Sebastian, listen to me.
+LINDA (CONT1D)	f	I don't know if you can understand  this, but what you're experiencing is  a psychological breakdown. This isn't  who you are.
+SEBASTIAN	m	I would say that what I am  experiencing is psychological  awareness. I like you being in  complete and absolute control.
+LINDA	f	You goddamn bastard! You goddamn  bastard. You're gonna pay for this.  I'm going to bring you back to  visibility and then I'm going throw  your ass in jail.
+SEBASTIAN	m	You're never gonna bring me back  Linda. I never want to come back.
+LINDA	f	Fuck you!
+SEBASTIAN	m	Or maybe I'll fuck you. One last time  for old times sake.
+MATT	m	Don't listen to him. It's not worth  it.
+FRANK	m	Come on, Matt. Let's go get the  elevator back on-line so we can got  out of this hell hole.
+MATT	m	He does anything, anything at all,  come get us. I'll be back to check on  you in five.
+SEBASTIAN	m	Imagine you two, carrying on right  under my nose. Out of curiosity, what  did he give you that I couldn't?
+LINDA	f	Shut up, Sebastian. He's more of a man  than you'll ever be.
+SEBASTIAN	m	Okay, sweetie. I'll be quiet. If  that's what you want...
+LINDA	f	Sebastian? Sebastian? No.. No... Matt! Frank!  Matt! Matt! Frank!
+LINDA	f	Jesus!
+SEBASTIAN	m	Figured it out? You were always so  clever.
+LINDA	f	No! Hang on!
+MATT	m	Get out of here!
+LINDA	f	You won't get away with this. They'll  find out about you. They'll hunt you  down.
+SEBASTIAN	m	The villagers with their torches? Lock  up your daughters! Sorry, Lin. It's  not gonna happen that way. See, I've spent all my time down here  thinking up this plan. When they find  you, they'll find a pile of charred  corpses. The result of a terrible  accident, I'm afraid.
+LINDA	f	How can you be so brutal?
+SEBASTIAN	m	I guess because I don't have to look  at myself in the mirror anymore Remember that first night I was out? I  did something bad, just to see if I  could get away with it. And when I  did, I realized I could have it all. I  can kill in broad daylight. And  nobody's gonna tell the police they  were fucked by a ghost. Anything I  desire I can make happen, but not if  people know.
+MATT	m	I'm dizzy. I can't feel my legs.
+LINDA	f	Just keep going. I'll fix you later.
+LINDA	f	Matt... Matthew. Stay with me now.
+MATT	m	He surprised us. We weren't  expecting...
+LINDA	f	Shhh. Don't talk. We gotta move. Hang on.
+MATT	m	Lin... I can't feel anything.
+LINDA	f	You feel that?
+MATT	m	A little...
+LINDA	f	Your losing blood, but he didn't hit  the vitals. Sutures and thread.
+LINDA	f	Goddamnit.
+MATT	m	What're you doing?
+LINDA	f	This is temporary. You still with me?
+MATT	m	Barely.
+LINDA	f	Just keeps getting worse.
+LINDA	f	Oh shit.
+MATT	m	There's no way out.
+LINDA	f	There's got to be.
+MATT	m	They say freezing to death isn't so  bad. You just kinda pass out.
+LINDA	f	Matt! MATT! We're not dying in here.
+ELEVATOR	m	Authorization please?
+SEBASTIAN	m	Caine. One One One One One.
+ELEVATOR	m	Authorization valid. Thank you.
+LINDA	f	Sebastian! I can't let you leave. Come on out and  I'll give you one last chance.
+SEBASTIAN	m	You said it yourself, Lin. I shouldn't  hold on to the past.
+LINDA	f	Aaaaaaahhhh!
+SEBASTIAN	m	Oh God!
+LINDA 	f	You wanna see God? I'll show you God.
+SEBASTIAN	m	I'm gonna find everyone in your family  and kill them-. Your sister... she  never liked me. I think I'll go after  her and her little boy first.  I just wanted you to know that before  you die.
+MATT	m	Thought I'd... thought I'd save you  for a change. Let's got out of here.
+LINDA	f	Nitro...
+MATT	m	He said it himself... All they'll find  is a pile of charred corpses.
+LINDA	f	He's rigged the centrifuge.
+MATT	m	In an enclosed space, he'll wipe out  the whole lab.
+LINDA	f	Grab on.
+MATT	m	Forget about me. You go.
+LINDA	f	Fuck you. Give me your hands.
+LINDA	f	Climb!
+MATT	m	But...
+LINDA	f	Climb!
+MATT	m	I can't. I'm going to pass out.
+LINDA	f	Keep moving.
+LINDA	f	Oh God!
+MATT	m	Don't look.
+LINDA	f	Move!
+MATT	m	It's coming down!
+LINDA	f	C'mon. Before it slips. It's him.
+MATT	m	Sebastian, you fuck.
+LINDA	f	Get off me.
+MATT	m	No!
+LINDA	f	Let go of me.
+SEBASTIAN	m	Remember the day we met? You were  wearing a red dress and you were so  pretty. Now... Now look at you.
+MATT	m	Get off of her! Sebastian, stop it.
+SEBASTIAN	m	You fucked it all up.
+LINDA	f	Go to hell.
+MARINE GUARD	f	What happened?
+LINDA	f	We lived.
+

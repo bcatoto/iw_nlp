@@ -8,7 +8,8 @@ import os
 def get_files(folder):
     files = []
     for file in os.listdir(folder):
-        files.append(file)
+        if file.endswith('.txt') or file.endswith('.html'):
+            files.append(file)
     return files
 
 #-------------------------------------------------------------------------------
@@ -60,8 +61,7 @@ def remove_files(folder):
 
 # Creates year directory in dest and name folders if it does not exist and
 # clears directory of .txt files if it does exist
-def clear_dir(dest, name, year):
-    dir = '%s/%s/%d' % (dest, name, year)
+def clear_dir(dir):
     if not os.path.exists(dir):
         os.mkdir(dir)
     else:

@@ -1,0 +1,245 @@
+RUBRICK	m	Colonel Mekum has his "boys" unpacked.  I think he wants to show them off.
+CHURCH	m	Hmmmmph.
+RUBRICK	m	They look...impressive.
+SLOAN	m	Well, they're...pretty.
+CHURCH	m	What's so hot about them?
+MEKUM	?	Very much improved.  In every way.
+RUBRICK	m	This is Colonel Mekum from Q.  He's their commanding officer.
+CHURCH	m	Improved...how?
+MEKUM	?	As I said, in every way.  Physically and psychologically.  More endurance, quicker responses, better hand-eye, improved technical training.  Where the First Psychology gave you ninety-eight percent obedience, this bunch gives you 99.4.
+CHURCH	m	Mmmmmm.  Weeell, you know my old daddy was in maintenance and he had a saying...
+CHURCH	m	...He used to say, "If it ain't broke, don't fix it."
+MEKUM	?	I...see.  I'm not sure I quite get your...point...
+CHURCH	m	Well, the soldiers we've got now, they've been through all kinds of heavy shit...and they've always got the job done.  Now these new ones, these "hot shots" of yours...what kind of action have they seen?  They are battle-tested, aren't they?
+MEKUM	?	That's up to you field guys.  H.Q. wants you to break 'em in when you do the annual security sweep in January.
+CHURCH	m	The sweep is just routine, not even police action.  I'd like to see some sort of...meaningful evidence...
+MEKUM	?	Such as?
+CHURCH	m	Maybe we could run some tests.  Kind of a comparison, the old and the new...
+RILEY	m	Sir!
+RUBRICK	m	Very nice, Riley.  Fall away.
+RILEY	m	Sir!
+RUBRICK	m	Thirty seconds, 90 percent hits.
+MEKUM	?	Let's make it more difficult.
+MEKUM	?	Caine Six-Oh-Seven!
+CAINE 607	m	Sir!
+MEKUM	?	Assemble the weapon, load, fire on the target from various evasive positions in a thirty-second period.
+MEKUM	?	Starting...now!
+MEKUM	?	As you were, soldier.
+RUBRICK	m	Ninety-nine percent...
+MEKUM	?	While taking evasive action...
+RUBRICK	m	That's...very good.
+MEKUM	?	See?  Much stronger.
+CHURCH	m	What about endurance?
+CHURCH	m	Our man has been out there fifteen minutes now.  Shouldn't you send one?
+MEKUM	?	In a minute. Now, see this test?  This shows what they do under sleep deprivation conditions.  Forty-eight hours awake and they can...
+MEKUM	?	Melton, Eight Five.  Forward.
+MELTON	m	Eight Five, sir.
+MEKUM	?	Ten miles, Melton, on the run.
+MEKUM	?	You've got sixty minutes.  Go.
+MELTON	m	Sir!
+MEKUM	?	My man left exactly twenty minutes after yours.  Make a note of that.
+RUBRICK	m	What are we supposed to do with the old soldiers?
+MEKUM	?	Old soldiers never die.
+MEKUM	?	They'll serve as a labor force.  You can use them for physical stuff... loading, unloading, repairs, power lines, that kind of thing. Even cleaning...sweeping...,uh, tidying up.
+MEKUM	?	Of course, age is a factor, but the real factor is the training program, especially the psychological.  The mind controls the body after all, and we're doing wonderful things with the mind.
+TODD	m	Sir.
+RUBRICK	m	At ease, soldier.
+CHURCH	m	What's the price of all that speed? Is he tired?
+MEKUM	?	Tired?
+CHURCH	m	Todd here ran the pace he's been taught to run.  He's still strong. Send him up the chain, Rube.
+RUBRICK	m	Soldier!  Up the chain!
+TODD	m	Sir.
+MEKUM	?	Melton, on the double!  Up a chain!
+MELTON	m	Sir!
+CHURCH	m	What about...spirit?
+MEKUM	?	Spirit? Oh!  You mean "AQ"..."aggressive qualities"?
+CHURCH	m	Whatever the latest jargon is.
+MEKUM	?	Much better, much higher.  For example, where your old ones expressed ninety percent of their sexual energy in aggressive physicality, these new ones are ninety-nine percent without sexual inclination.  It's all aggression.
+SLOAN	m	Real men!
+CHURCH	m	At ease, Lieutenant. What if they fought?
+MEKUM	?	You mean up there?
+CHURCH	m	Go ahead, Rube.  Tell Todd to take him.
+MEKUM	?	No!
+CHURCH	m	"No"?
+MEKUM	?	Not fair.  No contest.  Send two more of your old ones up.
+MEKUM	?	Go ahead.
+RUBRICK	m	Romero, A. -- Goines, D.L. -- up the chains.
+RUBRICK	m	Get him, men!
+MEKUM	?	GET DOWN HERE!  GET DOWN HERE ON THE
+MELTON	m	COME ON, DOUBLE IT UP, DOWN, DOWN,
+MELTON	m	Sir!
+MEKUM	?	LOOK AT YOU, YOU BIG DUMB SHIT,
+RUBRICK	m	They're...fantastic!
+CHURCH	m	Mmmmmmm...
+SLOAN	m	We could have a problem here, couldn't we?  I mean, we just lost three men...
+CHURCH	m	Oh, I wouldn't worry about that. "Training accident."  Paperwork.
+SLOAN	m	What about the bodies?
+CHURCH	m	Incinerator.
+MEKUM	?	WHAT GOOD IS THIS MAN NOW?  WITH ONE
+CHURCH	m	They're very...impressive.
+MEKUM	?	Yeah, well, the big moron shouldn't have lost an eye.
+CHURCH	m	It was our best man who got his eye...  Todd, a real tough one. Survived police action in Montana, fought in the Argentine Sector, and in the Saudi Campaign to say nothing of --
+MEKUM	?	Old news!  They're nothing at all! Wait until you get these new fellas into some real action.  I guarantee you'll be awed.  I guarantee it.
+HAWKINS	m	Please!  Quiet, please!
+SLADE	m	Just tell me one thing!  How many of them are there and are they armed?
+HAWKINS	m	There in a man...one man.  He was found in the trench by several children...
+HAWKINS	m	This man was not armed.
+ELISE	f	How could there only be one?  How could he get here?
+MACE	m	He was unconscious.  We couldn't ask him anything.  He --
+JIMMY PIG	m	Nothin' out there.  We couldn't see nobody, couldn't see no ship, no vehicles, nothin'...plus the wind's up again real strong.
+SLADE	m	They're hiding, I bet.
+HAWKINS	m	Let's everybody calm down right now! We have an injured man among us. One man.  A traveler.  Unarmed. We all want to do the decent thing. The decent thing is to help him. Mace's wife, Sandra, is looking after him now.  Now, I'd like a vote of support on this course of action from all of you.
+SLADE	m	You keep an eye on him, Mace!  You watch him!
+SANDRA	f	Want to try some more of this?
+SANDRA	f	You rest now.  I'll give you more later.
+MACE	m	What do you mean he's survived worse?  Did he say something?
+SANDRA	f	No, but he's covered with old wounds, all sorts of scars.  Knife scars, bullet scars, burns.
+MACE	m	A soldier!
+SANDRA	f	There are words on his shoulder. Tannhauser Gate, the Argentine Sector, Montana, Bolivia, Shanghai
+MACE	m	The Tannhauser Gate was a battle...
+SANDRA	f	We'll have to sleep on the floor.
+MACE	m	Where's Nathan?
+MACE	m	If there's any danger to Nathan --
+SANDRA	f	I won't permit danger to Nathan.
+SANDRA	f	You must be...you must be feeling better.
+MACE	m	We're teaching the boy to walk.
+SANDRA	f	He's late learning.  He was sick for a long time.
+MACE	m	I got something for you.
+MACE	m	Here.
+MACE	m	Like this.
+MACE	m	See?
+MACE	m	Practice with it.  In a day or two maybe you'll be strong enough to go out to the garden with Sandra.
+ELLEN	f	I came for Nathan.
+MACE	m	Let's go.  Come on, Sergeant.
+SANDRA	f	This way...
+SANDRA	f	You have to watch out for them. They probably wouldn't kill someone your size, not if you were healthy anyway.  But they'd make you pretty sick.  Someone smaller...like me, or a child...
+SANDRA	f	In a month this one will be as big as those.
+SANDRA	f	Here.  You try one.
+SLADE	m	You can't talk to a soldier no more than you can talk to a...a...bomb! Or a bullet!  They're trained, they're killing machines.  They got an objective and they go after that objective and nothing stops them but killing them.
+CHESTER	m	Just one?  To kill us all?
+SLADE	m	First off, if there's one, there's more.  That's how it is, soldiers travel in bunches.  Second, they don't waste soldiers on folks like us, that's for police!  Training soldiers to kill weaklings like us is not what they call "cost effective."
+CHESTER	m	Then who do they fight?
+SLADE	m	Other soldiers!  There's a saying, "Soldiers deserve soldiers."
+ILONA	f	Slade, hush up.
+JUDITH	f	You see how much he's eating?
+SLADE	m	I don't see how you can not remember how you got here, Sergeant.
+SLADE	m	You're not a deserter, are you... Sergeant?
+TODD	m	No, sir.
+SLADE	m	Then how come you're not with your unit?
+JIMMY PIG	m	Oh, come on, Slade, let the man eat.
+SLADE	m	It's not an unreasonable question. How about it, Sergeant?
+TODD	m	I was...replaced.
+MACE	m	Replaced?
+TODD	m	By a better soldier, sir.
+SANDRA	f	...And it got worse and worse.  My father hadn't had any work in three months and...also...there were other things...violence...  political feelings.  My father said he'd heard it was better in the Trinity moons. A lot of other people must have had the same idea because the ship was jammed with people...mostly families.  That's probably why it broke down...  overloaded.
+SANDRA	f	Even after they made the repairs, it barely got off the ground, it was an old converted mining transport, a piece of junk to start with.  It just...dropped.  Maybe you saw what's left of it...out there in the wind.  A lot of people died.  And we couldn't make any radio contact... So we were stuck here.  Nobody was happy about it.  A few years later, when the dumpers started coming over and dropping stuff, people tried to get their attention with explosions and fires.  But it didn't work. They must be unmanned...or they just don't care.  Maybe they think we're garbage too!
+SANDRA	f	So there really wasn't any choice. People had to pull together and make the best of it.  We became a... community.
+SANDRA	f	One good thing...nobody bothers us. Who'd want to fight over a godforsaken place like this?
+SANDRA	f	I guess that's what you like!  The fighting, I mean.  The wars. You must...you're a soldier...
+HAWKINS	m	You children are supposed to be doing lessons.
+HAWKINS	m	Lessons.
+MACE'S VOICE	m	She's down now, but she'll come up again.  Always does.
+MACE	m	That's why we're weighing down.  And that's why we're always on the wire even when the wind's down, like now. You don't get much warning.  Here, load up, you'll want the weight, I promise.
+MACE	m	Oh, we're not going to shoot anything.  That's not what we mean by "hunting." Jimmy Pig, you're not going to shoot anything, are you?
+JIMMY PIG	m	What could I hit?
+MACE	m	It's how we call for help.  Two shots.  There'll be someone on duty, listening in case we get off the wire and get lost or something.  We have flares too.  Come on.
+MACE	m	Sandra said she told you how we wound up here.  Our parents and so on. Over here, we call these "catcher trenches."
+MACE	m	Smaller stuff that blows across the ground, it falls in these trenches, it works sort of like a filter.  We go through the trenches sometimes and get some good stuff.
+MACE	m	We try to work 'em when they're dry. It's lousy going in there when they're flooded.  You can see...
+MACE	m	Whatever looks useful, if we can get a rope to it, we'll go for it.  But you can't ever go further than your safety line because it'll come up on you with sometimes maybe ten seconds or even less.
+MACE	m	Like right now.  You hear that?
+MACE	m	It's close when you hear that.
+MACE	m	SHE'S GONNA BLOW, JIMMY.
+MACE	m	GRAB ON, SERGEANT!
+MACE	m	Uh, thanks, Sergeant.  Thanks a lot...
+MACE	m	Dumpers.  They come every twenty or thirty days.
+JIMMY PIG	m	Thanks, partner.  These no-goods woulda just let me blow away.
+MEKUM	?	Sorry to disturb the tranquillity of outer space on Christmas Eve, but I'm off to the Caribbean in a few hours, and I wanted to make sure you'd got the transmission on the security sweep.
+CHURCH	m	We got it all right.  This is an outpost here, not the Third Army! You've got us securing thirty-four locations and erecting monitor units in one month and --
+MEKUM	?	Piece of cake, guys!  These are totally remote, totally uninhabited territories.  All you do is set down, send out a patrol purely as a formality, then have those veterans of yours put up an A-Type unmanned monitoring unit.  You should be on about number twenty-five by the time I get back from my vacation...
+CHURCH	m	What if we do run into people... say squatters or refugees?
+MEKUM	?	Well, you sure as hell don't want to get involved in evacuating people and that sort of thing. My advice would be to..."avoid paperwork."
+CHURCH	m	Eliminate them, you mean.
+MEKUM	?	Well, no one's out there, but officially these are "hostile zones."  Therefore you'd be within your rights to classify anyone as "hostile," I think. But I repeat, you should be worried about boredom, not action.  Any other questions before I go?
+CHURCH	m	Down there...is it snowing?
+MEKUM	?	Not in the Caribbean.  Have a good Christmas, guys.  See you when I get back.
+SLOAN	m	Merry Christmas, Captain.
+SLOAN	m	Hi, fellas.  At ease!
+RUBRICK	m	Merry Christmas, everybody.
+CHURCH	m	We brought you a little Christmas tree.
+RUBRICK	m	And some good cheer.
+SLOAN	m	How about some Christmas pussy, guys?  Anybody for a quick piece?
+RUBRICK	m	That's "conduct unbecoming," Sloan.
+SLOAN	m	It's Christmas!  Haven't you heard of piece on earth?  "Piece on earth," get it?
+CHURCH	m	Christ, I wish we were on Earth.
+RUBRICK	m	Eat, drink, and be merry, men.  For tomorrow you go on patrol in the  "hostile zone."
+JIMMY PIG	m	HO HO HO!  HO HO HO!
+SANDRA	f	We'll eat these.
+SANDRA	f	It seemed like he was never going to walk.  Then all of a sudden...he's an expert.
+SANDRA	f	Well, not quite an expert.
+SANDRA	f	Sergeant Todd...what's it like...what's it like being a soldier?
+SANDRA	f	What do you think about?
+SANDRA	f	Do you think about food?  Or women? You must think about something.
+SANDRA	f	What about feelings then?  You must have feelings.  You must feel something.
+TODD	m	Fear.
+SANDRA	f	Fear!  You mean...you feel afraid? That's when you're in battle... What about other times?  Now, for example?
+TODD	m	Fear.
+SANDRA	f	Now?
+TODD	m	Always.
+SANDRA	f	You don't...look afraid.  You look fearless.
+TODD	m	Fear and...discipline.
+SANDRA	f	Oh, my God.  But there's nothing to be afraid of here.  I can't hurt you.  I wouldn't.
+TODD	m	Always.  It makes us...alert.
+WILL	m	You're not supposed to do that anymore.
+JOHNNY	m	So what?  I'm a soldier.
+WILL	m	They're gonna kick him out.
+ELLEN	f	They can't kick him out...
+WILL	m	They're gonna.  My father --
+JOHNNY	m	S-sir...sir, are you our friend? Sh-she said you were our friend.
+SLADE	m	You!
+JIMMY PIG	m	Thank God!
+SLOAN	m	Well, Riley, you wanted a weapon, right?  Now you got one!  A real biggee!
+RUBRICK	m	What good'll it do just setting it outside?  We don't know where the enemy is.
+CHURCH	m	Doesn't matter.  For once Mekum's on the ball. This is a very dirty bomb!  That wind will churn the radioactivity around like soap in a washing machine.  This is gonna be one clean place in a very short time...
+SLOAN	m	Okay, fellas, take it about a hundred yards, then get back on the double...unless you wanna fry.
+RUBRICK	m	THIRTY MINUTES IS AWFUL TIGHT!  WE
+CHURCH	m	IT'S ENOUGH.  IF WE LEAVE MORE THAN
+CHURCH	m	Right horizontal?
+RUBRICK	m	Roger.  Right horizontal checks green.
+CHURCH	m	All right we're "go."  I'm allowing us three minutes to clear the atmosphere and get out of range. That means we can wait seven more minutes.
+SLOAN	m	Fuck 'em!  Let's just go!
+RUBRICK	m	She's right!  Four more casualties aren't gonna mean anything to anybody, especially when they're already obsolete.
+CHURCH	m	I guess they wouldn't want to get old anyway. Go ahead, lock the hatch. Rube, punch up the port power cluster and --
+SLOAN	m	What was that?
+CHURCH	m	Huh?  What was what?
+SLOAN	m	Sssshhhh!  Listen!
+RUBRICK	m	It sounds...
+SLOAN	m	Like a kid!
+RUBRICK	m	Are you crazy?  You can't do this, soldier!  You're going to be in trouble.
+CHURCH	m	I'm your superior officer, don't you understand that?
+CHURCH	m	Don't you realize you're violating the chain of command?  I'm giving you a direct order to...to...to...
+CHURCH	m	S-sergeant?  S-sergeant T-todd? It...  You...!  How...?  How...?
+SLOAN	m	Sergeant Todd!
+RUBRICK	m	Listen, you don't understand!  That bomb is triggered!  It's on a timer!
+CHURCH	m	We have to get out of here!  All of us!  You need us!  You need us to operate the ship...
+SLOAN	m	YOU'RE FUCKING MORONS!  CAN'T YOU
+RUBRICK	m	NO!  NO!  NO!
+CHURCH	m	DOWN!  LIE DOWN!  FLAT!
+SLOAN	m	NO!  NO!  NO!  PLEASE!  NO!
+SLOAN	m	OH, MY GOD!  OH, MY GOD!
+CHURCH	m	THERE IT IS!  I SEE IT!
+CHURCH	m	Twenty seconds.  Hurry.
+SLOAN	m	Oh, my God, I can't remember if it's six-seven or seven-six...
+CHURCH	m	Try one! Try it!
+SLOAN	m	There!  I did it!  Did it stop?  Did it -- ?
+MEKUM/VIDEO IMAGE	m	...I need a report, Captain.  It's not just my ass, it's yours too! You've got to stand by me on this. I want you to come in right now... right now!  Do you understand me? Right now!
+MEKUM/VIDEO IMAGE	m	This is important for all of us, for our careers.  There's going to be a Board of Inquiry and --
+SLADE'S VOICE	m	That was the boss, huh?
+SLADE	m	Well then, I guess you fellas are all right.  I guess I misjudged you some.  Where I said you were "a buncha no good killer robots," I mighta just overspoke myself.  As of now, till it goes otherwise, you got my sincere approval and support.
+RILEY	m	Cold.
+TODD	m	Air?
+TODD	m	Safe?
+RILEY	m	But very cold.
+TODD	m	That one.
+RILEY	m	Aye, aye, sir.
+

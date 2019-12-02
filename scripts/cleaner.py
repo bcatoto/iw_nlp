@@ -2,7 +2,7 @@
 
 from sys import argv, stderr
 
-FOL = '../1_cleaned_data'
+FOL = '../1_cleaned_data/cornell'
 
 #-------------------------------------------------------------------------------
 

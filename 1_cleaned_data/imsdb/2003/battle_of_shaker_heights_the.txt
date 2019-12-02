@@ -1,0 +1,926 @@
+KELLY	f	Where the hell are those Krauts? 
+KELLY	f	Shit. 
+KELLY	f	Bingo. 
+KELLY	f	"And so they buried Hector, breaker  of horses." 
+GERMAN OFFICER	m	
+KELLY	f	Kill me Adolf. 
+GERMAN OFFICER	m	Mien Prisoner! 
+KELLY	f	Hey, Siegfreid and Roy. What are you  waiting for? Kill me. 
+KELLY	f	Come on you pussies. Let's get this  over with. 
+GERMAN OFFICER	m	You will write your mother. Tell her  how you will die now. 
+KELLY	f	Genuine Third Reich issue, no less.  Nice work. 
+GERMAN OFFICER	m	You will write. How you die alone. 
+KELLY	f	My mother and I don't have that kind  of relationship. 
+GERMAN OFFICER	m	Write. 
+GERMAN OFFICER	m	Enough. Now you will beg for your  life. 
+KELLY	f	What don't you understand? 
+INFANTRYMAN	m	The protocol says we should - 
+GERMAN OFFICER	m	I am the fucking protocol. Beg! 
+GERMAN OFFICER	m	Beg - for - your - life! 
+KELLY	f	You got to be kidding me. 
+GERMAN OFFICER	m	Silence. Now I have a little fun. 
+KELLY	f	Now that's against the rules. 
+GERMAN OFFICER	m	There are no rules in war. 
+KELLY	f	You've never killed anyone before,  have you? 
+GERMAN OFFICER	m	I shower in the blood of my victims -- 
+GI	f	No wonder you smell so bad. 
+GERMAN OFFICER	m	Don't shoot, please. 
+GI	f	Will you look at the manners on this  guy? Remember to thank me when I kill  you. 
+GERMAN OFFICER	m	No, really, not in the neck - 
+GI	f	You all right? 
+KELLY	f	Yeah. My elaborate death scene wasn't  going anywhere anyway. 
+GI	f	You want me to give you a minute? 
+KELLY	f	That's okay. They'll get me  eventually. If you can't get killed  in a war, when can you? 
+GI	f	That's right. Look on the bright  side. 
+GI	f	Bart. Bart Bowland. 
+KELLY	f	Kelly. Kelly Ernswiler. 
+BART	m	Kelly? 
+KELLY	f	Bart? 
+BART	m	I mean - that's Irish, right? 
+GERMAN OFFICER	m	Wow man, this is a really beautiful  scene and all, but I have to  interrupt. Why the fuck did you have to shoot  that cap so close to my neck? You  gave me a powder burn. 
+KELLY	f	Listen you wienerschnitzel. You should  talk. You slapped me. I'm not your  bitch. 
+GERMAN OFFICER	m	Well, what was that whole creepy  death wish thing about? 
+KELLY	f	Well it didn't work, now did it? 
+GERMAN OFFICER	m	Sometimes I get so caught up in the  moment. 
+KELLY	f	And what was that ridiculous shit  about making me write to my mother? 
+GERMAN OFFICER	m	Inspired, wasn't it? 
+BART	m	Dude, you made him write to his  mother? Who are you, Dr. Phil? 
+INFANTRYMAN	m	Can we get up now? 
+BART	m	Might as well. There's only an hour  left anyway. 
+GERMAN OFFICER	m	Admit it. You were scared. 
+KELLY	f	Right. 
+BART	m	That Willys yours? 
+KELLY	f	Yup. Just got her. Three summers  packing out at Shop Rite. 
+KELLY	f	My bad. Thanks though. 
+KELLY	f	See you. 
+KELLY	f	Well, come on. 
+KELLY	f	I couldn't resist. 
+BART	m	Real funny, Ernswiler. You might  still get your chance to die today. 
+BART	m	Character building? Those crazy guys  from Ann Arbor tied them to a dock. 
+KELLY	f	That's what you get for invading  Wisconsin. 
+BART	m	D-Day at Kenosha was nothing. At  Guadalcanal Chillicothe there was a  guy who actually injected himself  with malaria. 
+KELLY	f	That's crazy. 
+BART	m	Where do you live, anyway? 
+KELLY	f	Shaker Heights. 
+BART	m	That explains the death wish. Me  too. What street? 
+KELLY	f	Penn Place. 
+BART	m	Hmm, don't know it. 
+KELLY	f	It's not technically in Shaker Heights  - but I go to Shaker Heights High. 
+BART	m	Langely Prep. 
+KELLY	f	Sorry to hear that. 
+BART	m	Well, I got kicked out of Shaker  Heights High because my birdhouse  came unglued in honors woodshop. 
+KELLY	f	Of course. I would have gone to  Langely myself only my polo pony had  the fits. 
+BART	m	No matter. We're all soldiers here. 
+CROWD	m	That's right./Here, here./ Whooping,  cheers, etc. 
+BART	m	You should come over some time. Service our lawnmower. 
+KELLY	f	I would, but then I might soil my  croquet whites. You understand. 
+BART	m	How bourgeois. Cheerio then. 
+KELLY	f	Sleep tight Hot Lips. 
+ABE	m	Sergeant Keller! How was the war?  Did we win? 
+KELLY	f	Let me guess. Happy Meals for the  wavy gravy wellness center? 
+ABE	m	As usual, your cynicism is refreshing. 
+KELLY	f	As usual, your cheerful optimism  makes me ill. 
+ABE	m	You should get that checked. 
+KELLY	f	
+MAO	m	Son of Eve. You are very dirty. 
+KELLY	f	A rough charge. You know. 
+EVE	f	Don't touch anything. We have to get  ready for the Starving Artist show. Now Nana, the gold has to be feathery,  not gloppy - see? 
+EVE	f	Now you try. 
+EVE	f	She loves the gold. Always overuses  it. And usually her touch is so light. 
+XIOU-XIOU	?	Gold is the color of the sun. 
+KELLY	f	You know why we never have anything  to eat in this house? 
+EVE	f	Mao, what did we say about the eyes? 
+MAO	m	More - empathy? 
+EVE	f	That's right. And didn't I tell you  to put in more cacti? 
+MAO	m	No, no more cacti. Too busy.  Simplicity is best. 
+EVE	f	Oh boy. I'm not having this battle  with you again. 
+KELLY	f	Because your husband takes food from  his own family to feed every loser  druggie in Cleveland. 
+EVE	f	Well, you can always chip in here.  We're ordering pizza later. 
+KELLY	f	No. Some people have to work later. Will you drop something off at the  dry cleaners for me tomorrow? 
+EVE	f	Sweetie, you know what we said about  paying for the war things. Nothing's  changed. 
+KELLY	f	It's the only thing I ever ask you  for -- 
+EVE	f	Don't be dramatic. 
+KELLY	f	But it's important to me. 
+EVE	f	You're just going to have to find a  way to pay for it yourself then, I  guess. No - not that way - the sky should  be stormier. Angry clouds. 
+KELLY	f	Why do I bother? 
+EVE	f	More brown, less blue. 
+ABE	m	Now Keller, who needs that sandwich  more - you or the daughter of a crack  addict trying to make a new life? 
+KELLY	f	How about the son of a heroin addict  trying to get ready for work? 
+ABE	m	That went well. 
+SARAH	f	So how'd your battle go today? I  still don't understand how you could  reenact the Battle of the Bulge in  seventy-two degree weather. Didn't all those guys freeze to death? 
+KELLY	f	Well, a Port-a-John fell over on a  couple of guys. 
+SARAH	f	That's gross. 
+KELLY	f	War is hell. 
+SARAH	f	Then why do you do it? 
+KELLY	f	You're never more alive then when  facing simulated death. 
+SARAH	f	Really? Maybe I should try it. 
+KELLY	f	You are William J. Stone of the 1st  Airborne, pinned down in Noville.  The Germans have the high ground and  they're shelling your position  heavily. You're holed up in a stone barn.  Sustaining heavy casualties. Running  low on ammo. The cries of wounded  men fill the air like the cries of  hungry babies. 
+KELLY	f	Your commanding officer gets hit in  the face, dies. At 1 p.m. you lose  radio contact with headquarters. If  you withdraw, the Germans will flank  the entire Allied forces arrayed  along Bastogne and break the front.  What do you do? What do you do? 
+SARAH	f	Stop it! 
+KELLY	f	Battle of Bulge, the Southern  Shoulder, December '44. 
+SARAH	f	Sorry I asked. 
+KELLY	f	Hey. Want a snack? We got a whole  shipment in of busted Oreo's. 
+SARAH	f	I'll accidentally drop a couple pints  of milk and meet you over there. 
+SARAH	f	The frozen food woman came in with  her kids. They must eat out of those  little cardboard trays every night.  One of the kids looked like cardboard. 
+KELLY	f	Do you know we stock more flavors of  cat food than we do baby food? 
+SARAH	f	No. 
+KELLY	f	Sixteen flavors of baby food including  the toddler meals-in-ajar, thirty- one flavors of cat food. 
+KELLY	f	Next time you should tell that woman  to buy her kid some cat food. 
+WOMAN	f	Is this store open? I've been waiting  up front. If the store's closed, it  shouldn't have a sign that says twenty- four hours. 
+SARAH	f	Sorry about that. 
+WOMAN	f	I have a lot of coupons and I don't  want to be here when they expire. 
+KELLY	f	Charge her double for everything. 
+LANCE	m	What the fuck are you looking at, GI  Jane? 
+LANCE	m	No really, what makes you think you  can look at me? 
+KELLY	f	I honestly didn't know it was you. I  thought it was a free preview of the  Spice Channel. 
+LANCE	m	That's pretty funny. You got dental  insurance? 
+BRIDGET	f	Stop it. 
+LANCE	m	What? What? 
+MR. NORMAN	m	Whoops! 
+MR. NORMAN	m	And here, at Gettysburg, the ranks  of Union soldiers fought bravely on.  They were willing to give their lives  so that others might be free. 
+MR. NORMAN	m	Is there a problem Mr. Ernswiler? 
+KELLY	f	No. 
+KELLY	f	Come on. Isn't this analysis a tad  simplistic? I mean, maybe for a second  grade history class, sure - but to  insist on still characterizing the  Civil War as some moral struggle?  The soldiers were drafted - the only  ones who had to fight were the ones  who couldn't afford to pay their way  out. Why don't you talk about the Draft  Riots? Where are your slides for  that? 
+HOLMSTEAD	?	What gives you the idea that you can  or ought to question the curriculum? 
+HOLMSTEAD	?	Or question your teacher? 
+KELLY	f	I know. I mean, who ever heard of a  classroom dialog? Not Socrates. 
+HOLMSTEAD	?	Kelly, you're a very bright boy. But  you're making some serious mistakes. 
+KELLY	f	I don't need to. Everyone else makes  them for me. 
+HOLMSTEAD	?	This anger must be masking a lot of  hurt. 
+KELLY	f	I was wondering what the tissues  were for. 
+HOLMSTEAD	?	I see you're not going to college  next year. What are your plans? 
+HOLMSTEAD	?	How do I get through to you? 
+KELLY	f	Advertisers use status and sex to  appeal to my demographic. 
+HOLMSTEAD	?	I think we can come up with a  punishment which might actually be  more of an opportunity for you to  realize your true potential. 
+LANCE	m	You upset Bridget. 
+KELLY	f	Give me a break. 
+LANCE	m	You need to apologize. 
+KELLY	f	What are you going to do, make out  with me? 
+LANCE	m	Why are you fucking with me? You  little fucker. Want to play, fuckface? 
+KELLY	f	You just used fuck as a verb, noun,  and adjective. Impressive. 
+LANCE	m	Let's see what Beetle Bailey's got  in his knapsack. 
+KELLY	f	Rim job. 
+BART	m	Kelly. Hey. 
+KELLY	f	You work here? 
+BART	m	Just a couple days a month, to get a  heads-up on the latest stuff. What  are you doing? 
+KELLY	f	Looking for a backpack. 
+BART	m	Is that all? Don't bother. I have a  couple extras at home. I could give  you one if you want. 
+KELLY	f	Sure, I guess. 
+KELLY	f	Very impressive. 
+BART	m	My dad's real into hoarding. 
+KELLY	f	What's this? 
+BART	m	Grant's field flask. 
+KELLY	f	Wow. Your dad should meet my history  teacher. He sent me to the principal's  office today for questioning his G- rated interpretation of the Civil  War. 
+BART	m	Forget him. 
+KELLY	f	I would, but now the principal's  making me give a speech on the Civil  War at an assembly. 
+BART	m	What is he, some kind of sadist? 
+KELLY	f	She thinks she's doing me a favor. 
+BART	m	Jesus, she must think you're really  screwed up. Are you? 
+KELLY	f	Depends on who you ask. Everyone's  got an opinion. 
+BART	m	Take this. That'll shut them up. 
+BART	m	Stonewall Jackson's. 
+KELLY	f	Yeah right. 
+BART	m	Can you imagine that? Losing your  leg and getting back up on your horse?  Unbelievable. What balls. 
+BART	m	He's got so much crap crammed in  here he doesn't even notice when  it's missing. I saw a backpack in  here somewhere. 
+BART	m	I thought he had a couple. 
+KELLY	f	I'd feel weird taking one out of the  tomb of Tutenkamen anyway. 
+BART	m	Trust me, you shouldn't. Where'd your old one go? 
+KELLY	f	I lost it. 
+BART	m	How? 
+KELLY	f	Someone took it. 
+BART	m	You let someone take it? 
+KELLY	f	I didn't let him. I told off some  idiot -- 
+BART	m	Sounds like your mouth gets you into  trouble a lot. 
+KELLY	f	I'm telling you, it's not me, it's  the world. 
+BART	m	Tabby, this is Kelly. 
+TABBY	f	Don't give him any money, whatever  you do. 
+BART	m	Shut up. 
+TABBY	f	All these little old ladies are  looking for him in Arizona. He took  their retirement money and bought  defective bazookas with it. 
+BART	m	Very funny. We're paying attention  to you, are you happy now? 
+TABBY	f	Finally, my life is complete. Fait  accompli. 
+BART	m	Minnie's making sloppy joes. Want  one? 
+TABBY	f	Sloppy joe? Sloppy no. 
+TABBY	f	I have to go take a shower. Will you  call me when Miner gets here? 
+KELLY	f	Who's Miner? 
+BART	m	The fiancé. 
+BART	m	Listen, I'm going to the flea market  on Saturday. I have a line on a couple  dealers. You could get a backpack  there. 
+KELLY	f	Oh yeah? Flea market, land of  bargains. 
+BART	m	Especially if you know who to talk  to. 
+LANCE	m	Hey fuckface. Like my new hat? I  just joined the Boy Scouts. 
+KELLY	f	If you stay in it long enough, maybe  you'll get your fudgepacker badge. 
+LANCE	m	You're a regular Howie Mandel. 
+BRIDGET	f	Lance! 
+LANCE	m	Okay babe. One day you and me will be alone.  And won't that be nice? 
+KELLY	f	Too bad my mom won't let me date  yet. 
+SARAH	f	Why do you mess with him? 
+KELLY	f	You're right. I should give him a  break. 
+EVE	f	Oh, Kelly, you're home. Good. I need  you to go to the art supply store  for me. 
+KELLY	f	Get Abe to do it. 
+EVE	f	He was going to but he had to go  lead a meeting at Care House. 
+KELLY	f	What a surprise. 
+EVE	f	I'll make it up to you. 
+KELLY	f	Where have I heard that before? 
+EVE	f	When are you going to give me a break? 
+KELLY	f	Let me think - maybe when I finally  forget every single word of The Little  Mermaid soundtrack I'd listen to in  the car waiting for him to score.  No, probably when I don't prepare  myself before I go into the bathroom,  expecting to find him passed out on  the floor. 
+KELLY	f	Actually, you know what? I know I'll  be able to put it all behind me when  I go away to college. Only, I can't go because someone  spent my college fund on Mexican  Black Tar. So looks like I'll have  to try to forget at Shop Rite, where  I'll be working for the rest of my  life. 
+EVE	f	You're right. You have every reason  to crawl into the corner and give  up. But please just get me some paints  first. 
+KELLY	f	What do you need? 
+EVE	f	We need burnt sienna, cadmium red,  and midnight blue. Two tubes of blue. What happened to your face? 
+KELLY	f	Forget it. 
+KELLY	f	They're having a sale on glitter. 
+TABBY	f	Oh, hello. What happened to you? 
+KELLY	f	Tennis injury. 
+TABBY	f	You paint? 
+KELLY	f	Well, you see... That's a difficult  question. 
+TABBY	f	How so? 
+KELLY	f	I don't really feel comfortable  calling anything done since the  Renaissance "painting." We might  have a more experimental interaction  with the picture plane, but our skills  have suffered from it. 
+KELLY	f	You're working with acrylic. Why?  Oil's much - richer. 
+TABBY	f	Oh you're not one of those oil snobs  are you? 
+KELLY	f	Of course not. 
+KELLY	f	It's just - isn't acrylic a bit -  jejune? 
+TABBY	f	Jejune? You're jejune. How old are  you anyway? 
+KELLY	f	Older than my years. 
+TABBY	f	And you paint? 
+KELLY	f	Well, you know, my mother's kind of  an artist, so - 
+TABBY	f	That explains it. 
+KELLY	f	That explains nothing. Doesn't anyone  believe in innate knowledge anymore?  Michelangelo was fifteen when he  painted the Infanta. 
+TABBY	f	Infantas are Spanish. Michelangelo  was Italian. 
+KELLY	f	Exactly. One world, one people. Just  like Jesse Jackson envisioned. 
+TABBY	f	Well - Kelly. Nice talking to you. 
+KELLY	f	What the hell did you just say? 
+SKINNY GUY	m	That there's actual sand from Iwo  Jima. 
+BART	m	Or your sister's sandbox. 
+SKINNY GUY	m	Well, it don't come with no  certificate of authenticity. I could write one up for you, I  suppose. Get it notarized. 
+BART	m	No, that's quite all right. Actually,  I'm in the market for medals. 
+SKINNY GUY	m	Sure. I got a couple purple hearts.  A Silver Star. DSC. Can't sell them  to you though. They were gramp's. 
+BART	m	Are you sure? 
+SKINNY	m	They have a lot of sentimental value  
+BART	m	Yeah. How much? 
+SKINNY GUY	m	A lot. 
+SKINNY GUY	m	What's this? 
+BART	m	General Ulysses S. Grant's field  flask, my friend. 
+BART	m	Throw in one of those backpacks and  we'll call it even. 
+KELLY	f	Buying and selling US service medals  is illegal. 
+BART	m	Exactly. That's why the resale value  is so high. 
+KELLY	f	Is that what they teach you at  Langely? 
+BART	m	Don't be so naïve. We all have our  skeletons. Some of them just pay  more than others. 
+KELLY	f	And I'm not even going to ask about  the flask. 
+BART	m	Don't ask, don't tell. The army gets  everything right, don't they? 
+WOMAN	f	You boys look like Goldwater fans. 
+KELLY	f	I've never been accused of that  before. 
+WOMAN	f	Well jeez, you don't have to be  insulted. 
+BART	m	Anything military? 
+WOMAN	f	Fish around in that cigar box. 
+BART	m	What do you want for the box? 
+WOMAN	f	Twenty dollars. 
+BART	m	Fifteen. 
+WOMAN	f	Don't be so hasty. I got a few Geraldine Ferraro pins  I'm looking to unload. 
+KELLY	f	Goldwater fan. I think that's some  kind of insult. 
+BART	m	Not at Dartmouth. Where are you going  to go to school? 
+KELLY	f	I'm not. 
+BART	m	Ah, you have that luxury. 
+KELLY	f	You don't? 
+BART	m	I didn't have much say in the matter.  Everything has been decided for me  since birth. I'm not whining about  it. Play the hand you're dealt, right? 
+KELLY	f	Easy for you to say. You got a royal  flush. 
+BART	m	Are you crazy? My life sucks.  Everyone's always telling me what to  do. You can't fight it. Go with the  flow. 
+KELLY	f	What about Tabby? 
+BART	m	She got to go where she wanted. Sarah  Lawrence. Six years. She's almost  done with grad school. Yale. 
+KELLY	f	I didn't think people actually went  to Yale. 
+BART	m	I don't know. I mean, she drives off  in her car in September. For all we  know, she could just pull her car  over in Albany and sleep there until  May. 
+KELLY	f	What do you mean? 
+BART	m	It was a joke. Joke? 
+KELLY	f	Oh. Is that what one of those sounds  like? Somehow, I always imagined  they would be funnier. 
+KELLY	f	Sarah Lawrence? Isn't that for  lesbians? 
+BART	m	What happened to your face? 
+KELLY	f	Remember the backpack incident? 
+BART	m	Same guy? 
+KELLY	f	The one with mad cow-diseased  hamburger meat for brains? That would  be the one. 
+BART	m	What are you going to do about it? 
+KELLY	f	I'm not going to lower myself to his  level. 
+BART	m	Of course not. But there are  alternatives… 
+KELLY	f	Alternatives? 
+BART	m	Haven't you ever heard of the 193rd  Special Operations Wing? 
+BART	m	Well do you want to get this guy or  what? 
+KELLY	f	Yes. 
+BART	m	All right. Let's get the fuck out of  here, then. 
+BART	m	I have some things to show you. 
+BART	m	Once we've gathered the intelligence,  the plan will reveal itself. 
+KELLY	f	We don't plan first? 
+BART	m	No, it limits our scope - what's the  objective? 
+KELLY	f	Humiliation. Rage. Despair. 
+BART	m	Easy enough. 'Nam's probably our go- to war for that sort of thing. I  have the declassified briefs from  the Phoenix Project around here  somewhere. 
+TABBY	f	Hey. I have some stretcher bars out  in the car. Can somebody help me  bring them in? 
+BART	m	Of course we'll drop what we're doing  because what you're doing must be  more important. 
+KELLY	f	Sure. I mean, I'll help. 
+BART	m	I'll find those reports. 
+KELLY	f	Gold. The color of the sun. 
+TABBY	f	That's the Cleveland waterfront. 
+KELLY	f	As the viewer, I get to decide what  it is, I'm afraid. And it doesn't  look a thing like it. 
+TABBY	f	It's the light. I was playing with  diffusion. 
+KELLY	f	Well make sure you put it away when  you're done with it. 
+TABBY	f	Very funny, wiseass. 
+KELLY	f	It must be nice to have a place like  this to get away to. 
+TABBY	f	It is. 
+KELLY	f	What about Farmer? 
+TABBY	f	Farmer? 
+KELLY	f	The boyfriend. 
+TABBY	f	Miner? What about him? 
+KELLY	f	Is he an artist, too? 
+TABBY	f	No. Definitely not. Thank god. 
+TABBY	f	You said your mom was a painter? 
+KELLY	f	She was, well - is I guess. 
+TABBY	f	What do you mean? 
+KELLY	f	She used to be. But then my dad -  wasn't working anymore so she turned  it into a business. She has a family  of Chinese immigrants in the garage  making them for her. 
+TABBY	f	Like Andy Warhol's Factory. 
+KELLY	f	More like Andy Warhol's tool shed.  It was nice before, though. My playpen  used to be in her studio. 
+TABBY	f	Wow. So you really grew up with it.  What does, did, your dad do? 
+KELLY	f	He's a VH-1 documentary without the  music. 
+TABBY	f	"Tragedy struck?" 
+KELLY	f	"And then, things took a turn for  the worse." 
+TABBY	f	Well, just wait. Those burnout types  always have a triumphant comeback  tour. 
+KELLY	f	I already changed the channel. 
+BART	m	Christ Kelly, I let you go out on a  little supply line assist and you're  gone for days. Come on. 
+TABBY	f	Have fun, boys. 
+KELLY	f	If only it were fun. War's deadly  serious, ma'am. 
+TABBY	f	And I used to think you were the  only crazy one. 
+BART	m	Enough with the mind pollution, Hanoi  Hannah. 
+KELLY	f	I'm worried about you playing with  diffusion unsupervised. 
+TABBY	f	Are you? 
+KELLY	f	Yes. I might have to come by and  show you the proper safety procedures.  Some time in the presence of an art  prodigy would do you good. 
+TABBY	f	I don't think I have room for a  playpen in here. 
+KELLY	f	Ouch. 
+BART	m	So, you have a thing for my sister? 
+KELLY	f	What? No, no. 
+BART	m	Everybody does. 
+KELLY	f	We just have a few things in common. 
+BART	m	Oh really, like what? 
+KELLY	f	I can't tell you. It's my feminine  side. 
+BART	m	You don't wear women's clothes when  you're alone, do you? 
+KELLY	f	Dad. 
+KELLY	f	Dad? 
+ADDICT	m	Wha? 
+KELLY	f	Sorry. 
+ABE	m	Keller. There's a meteor shower. 
+KELLY	f	A funny thing just happened. A little  trip down memory lane. I thought you  were on our couch, dead. 
+ABE	m	Oh, you mean Emmett? They didn't  have an empty bed for him at Care  House. 
+KELLY	f	Well that's one of your more brilliant  ideas. Have you thought about the fact that  it might be dangerous? That he might  steal something, or go into cardiac  arrest? Drink all our cooking wine?  Which he seems to have done. 
+ABE	m	He just needs a place to sleep for  the night. 
+KELLY	f	You're right. Besides, having him  here makes it feel like home. 
+ABE	m	I've been straight for four years,  almost five. A third of your life. 
+KELLY	f	Big whoop. I've been straight the  whole time. 
+ABE	m	I hate to tell you this, but I'm not  your problem anymore. 
+KELLY	f	No. That's the one thing I get to  decide. 
+ABE	m	Let me know. I can wait. 
+ABE	m	Keller, there's a meteor shower. 
+KELLY	f	I have the target in sight. 
+KELLY	f	I think he's leaving. 
+BART	m	Let me see. Don't be a farb, give  them up. 
+BART	m	The coast is clear. 
+BART	m	Let me prepare to deploy. 
+KELLY	f	Is this going to work? 
+BART	m	We've planned for every contingency  using the tried and true techniques  of the last great world power. 
+KELLY	f	Save it for the press conference. 
+BART	m	Stay low. On my signal. 
+KELLY	f	We're the good guys. If you scream,  the bad guys are going to come and  burn down your house. Okay? So stay  here and be quiet. 
+GIRL	f	My dad has a gun. 
+NEIGHBOR	m	Can I help you, young man? 
+KELLY	f	I was just inspecting your lawn. 
+KELLY	f	Have you thought about Astroturf? It  takes a lot less water to keep green.  I mean, no water, technically. 
+NEIGHBOR	m	I'm not interested. 
+KELLY	f	Oh. I see. Okay then. 
+KELLY	f	Oh, shit. 
+KELLY	f	Oh, shit. 
+LANCE	m	Smile worker bee. I'll be your boss  some day. 
+BART	m	What an asshole. His mom gave me  cookies, though. 
+KELLY	f	Did you get it done? 
+BART	m	Don't ask stupid questions. Let's go  home and listen. 
+BART	m	It was a five-watt FM bug, so we  should be in range - 
+LANCE'S MOM	f	
+WOMAN	f	
+LANCE'S MOM	f	You're right. But I was thinking it.  Instead I just told her to add more  vinegar next time, and - 
+KELLY	f	I don't think we can use any of this. 
+BART	m	Be patient. It's voice activated, so  we'll get everything. Trust me. It's  going to be great. 
+KELLY	f	All right, then. 
+BART	m	We reconnoiter tomorrow at nineteen  hundred hours. 
+EVE	f	-- And if we don't sell them there,  we'll set up on the corner of Stevens  and Lane, by the gas station. That's  a good location. 
+EVE	f	Are you listening to me? 
+ABE	m	Did you make this with more chili  pepper than usual? 
+EVE	f	The same as always. 
+EVE	f	Kelly. Want dinner? 
+KELLY	f	
+EVE	f	One day, we're all going to be happy. 
+ABE	m	That sounds nice. 
+BART	m	It's really too perfect, actually. 
+KELLY	f	What? What? 
+BART	m	I can't describe. Just hit play.  It's all cued up. 
+BRIDGET	f	I told you, that makes me nervous.  Me no likey. 
+LANCE	m	But baby, my birthday's coming up. 
+BRIDGET	f	Still. That's not a good enough  reason. 
+LANCE	m	Come on. A little action. A little  prime time action. 
+BRIDGET	f	But people might see us. 
+LANCE	m	That's the point. That's what makes  it sexxxy. Dangerous. 
+KELLY	f	Dangerous. 
+BART	m	Exactly. 
+KELLY	f	Let's draw up the plans. 
+BART	m	I have a few notes jotted down. 
+KELLY	f	Oh Jesus, I'm so sorry - 
+BRIDGET	f	Oh, it's okay - 
+BART	m	She dots her I's with hearts. And  her L's are loopier. The L is very  important. 
+KELLY	f	I'm working on it. 
+KELLY	f	I feel kind of bad for her. She's a  nice girl. 
+BART	m	Sometimes collateral damage can't be  avoided. 
+KELLY	f	Stop it. 
+KELLY	f	How does that look? 
+BART	m	Pretty good. I think we're ready to  manufacture a document. 
+BART	m	Begin. "Hey Daddy. It's your birthday  and you've been a very bad boy. But  so has the baby. Both baby and Daddy  have to get punished, only this time  
+LANCE	m	- baby makes the rules. Await further  instructions at school tomorrow -- 
+LANCE	m	-- Baby will be waiting where Daddy  least expects her. Love, Bridgie."  Yes! 
+BART	m	Do you have everything? 
+BART	m	We can't afford any errors. 
+KELLY	f	You don't need to tell me. It's my  ass on the line. 
+BART	m	I wish I could be there to see it. 
+KELLY	f	You'll get the de-brief. 
+BART	m	It's a day that will live in infamy. 
+KELLY	f	You couldn't do any better than that? 
+BART	m	I don't hear you coming up with  anything. 
+BRIDGET	f	What's gotten into you? 
+LANCE	m	Nothing, you bad girl. 
+BRIDGET	f	Did you drink a bottle of Robitussin  before school again? 
+LANCE	m	See you soon, my naughty baby. 
+LANCE	m	It's my birthday! I'm going to get a  present. 
+LANCE	m	Damn it, fuckface. What're you smiling  about? You wish you were me. 
+LANCE	m	Mr. Palmer? May I be excused? 
+KELLY	f	Eine maus findet den kase. 
+LANCE	m	Daddy's here for the Easter egg hunt. 
+LANCE	m	Ooh, push my buttons. 
+LANCE	m	Oh yeah. Oh yeah. You little minx. 
+BART	m	Yes, I need to get a message to  Bridget Shumann. This is MENSA. 
+BRIDGET	f	But I just got this note last period. 
+SECRETARY	f	Well I don't have anything here for  you - let me look again. Oh yes, the  MENSA called. 
+BRIDGET	f	Cool. They want me to be an honorary  member. Is that like a sorority or something? 
+LANCE	m	Bridgie? Come on, daddy's sick. He  needs his medicine. 
+LANCE	m	I brought our friend along. He's  happy to see you. 
+LANCE	m	What the fuck are you all looking  at? 
+STUDENT 1	m	Look, he's got a hard on. 
+STUDENT 2	m	Eeeeew. 
+BART	m	You're kidding me. 
+KELLY	f	Yup. There it was. The whole school  saw it. Wasn't too impressive either. 
+BART	m	To Operation Mincemeat. 
+KELLY	f	To the 193rd. 
+BART	m	How does it feel to give better than  you get? 
+KELLY	f	Good. Real good. 
+BART	m	You want some more? 
+KELLY	f	Don't mind if I do. 
+BART	m	That's my boy. 
+KELLY	f	You know what this is? 
+KELLY	f	Eighteen volts of pure freedom. 
+SARAH	f	Sounds dangerous. 
+KELLY	f	Oh, it is. Unless you know how to  handle it. 
+KELLY	f	You ever seen the freshly waxed floor  in the produce section glistening  under full florescence? It's  breathtaking. 
+KELLY	f	Hold on tight. 
+KELLY	f	Close call. 
+SARAH	f	Have you been drinking? 
+MINNIE	f	Kelly? Bart's not here, he - 
+KELLY	f	Oh, that's all right. Actually, I'm  here to see Tabby. Just to do a little  painting with her. 
+MINNIE	f	She's out back in her studio. 
+KELLY	f	Thanks. 
+TABBY	f	Kelly? 
+KELLY	f	Hey. I warned you I'd come. 
+TABBY	f	You did. 
+KELLY	f	Maybe I should go -- 
+TABBY	f	Well you're here now. Go ahead. Set  your canvas up. Use one of the ones  in the corner. 
+TABBY	f	Brushes are in the jar. Paint's in  the drawer. 
+KELLY	f	I brought my own. 
+TABBY	f	Well then. 
+KELLY	f	Does it mess up your concentration?  Me being here? 
+TABBY	f	No. 
+KELLY	f	Oh. That's good. 
+TABBY	f	Just don't talk. 
+KELLY	f	Why would I? 
+TABBY	f	I'm kidding. 
+KELLY	f	Right. Irony. I like that. 
+MINER	f	
+MINER	f	Miner Webber. 
+KELLY	f	Webber Miner. 
+TABBY	f	Kelly. This is Kelly - 
+KELLY	f	Kelly Ernswiler. Sorry. I - 
+MINER	f	Quite all right. So, what do we have here, a little  painting class? 
+TABBY	f	Kelly's a friend of Bart's. He paints. 
+MINER	f	Oh? What's your real job? 
+KELLY	f	That would be stock boy at the Shop  Rite. But, as President Don Kaminsky  says, every employee is part owner.  So you could say I'm a captain-of- industry in training. Kind of  capitalist larva. 
+MINER	f	That's quite an image. 
+KELLY	f	Only if you see the most magical  part. Do you see? 
+MINER	f	What? 
+KELLY	f	One day I'll be a beautiful butterfly.  First I'll have to be a pupa though.  I figure I won't be going out much  then. Pupa: the awkward adolescence  of the insect world. 
+MINER	f	Whatever it takes to get you through  the day. 
+MINER	f	I have the afternoon off. Come away  with me. 
+TABBY	f	I'm not at a good stopping point. 
+MINER	f	Oh, come on. They'll still be here. I know you'll still be here. 
+TABBY	f	I really shouldn't. 
+MINER	f	But everyone will be coming soon.  And it will get all crazy, and we  won't have any time to ourselves. 
+TABBY	f	We will. I promise. 
+MINER	f	Like tonight? We can practice  honeymoon suite. 
+TABBY	f	Maybe. Probably. 
+KELLY	f	Is he always like that? 
+TABBY	f	Like what? 
+KELLY	f	Overbearing. 
+TABBY	f	Just because he didn't want to picture  you as a pupa? 
+KELLY	f	Oh, he will - later. When he's alone.  Whether he wants to or not. 
+KELLY	f	Not that though. How he wanted you  to stop. 
+TABBY	f	He wants to be with me. What's so  bad about that? 
+KELLY	f	Just because some one wants to be  with you doesn't mean they're good  for you. 
+KELLY	f	No one should ever ask you to stop.  If you stop, you might not be able  to start again. Or you might start  again, only things will be different. 
+TABBY	f	Well, that's sweet - 
+KELLY	f	It's not sweet, actually. It's just  the truth. 
+TABBY	f	Hey, I can take care of myself. 
+KELLY	f	When's the wedding? 
+TABBY	f	At the end of the month. But don't  ask me about it. It makes me nervous. 
+KELLY	f	Why? Is something wrong? 
+TABBY	f	No. 
+TABBY	f	What are you painting? 
+KELLY	f	Really, there are so many layers of  - imagistic symbolism - that I really  don't feel comfortable summing it  up, but, well - it's a recurring  dream image. A mermaid riding a rocket  ship. 
+TABBY	f	How? 
+KELLY	f	What do you mean, "how?" Sidesaddle.  She's riding it sidesaddle. She's  got a fish tail, for chrissake. I  haven't decided yet if she's got  scuba gear on or not. 
+TABBY	f	Do you have any idea what you're  talking about? 
+KELLY	f	Does that matter? 
+TABBY	f	Well, some people actually say what  they really think. 
+KELLY	f	What if they don't know what they  really think? 
+TABBY	f	It doesn't matter. It's called being  yourself. 
+KELLY	f	Sounds boring. 
+TABBY	f	Not boring. Scary and wonderful and  exciting. 
+KELLY	f	Hey. I'm trying to create here. Stop  distracting me. 
+KELLY	f	Mom's got you working late? 
+XIOU-XIOU	?	No. 
+KELLY	f	Wow. You're really good. Why do you  make those stupid animals for mom? 
+XIOU-XIOU	?	Each painting is a lesson. Here - 
+KELLY	f	I'm making a lot of art these days.  I guess that means a lot of lessons. 
+XIOU-XIOU	?	Each line has a whole drawing  contained in it. Each drawing has a  whole life contained in it. 
+KELLY	f	Oh, that's all? 
+EVE	f	Hey you two. I'll try not to act  surprised. It might spoil the moment. 
+KELLY	f	I can't do this. I have to go. 
+EVE	f	Keller, I think I'm missing some art  supplies. Have you seen them around  the house? 
+KELLY	f	No, I haven't. 
+EVE	f	I don't know what to do with him. 
+XIOU-XIOU	?	You son is not yet cooked. Give him  time. 
+EVE	f	When are you going to let me give  you your own show? We could do it  for real. 
+XIOU-XIOU	?	No problem. When you offer me an  eighty-twenty split. 
+BART	m	-- But I told you I want to take  German -- 
+HARRISON	m	German's a Cold War language. You  can't get any kind of State Department  position without more diverse  linguistic training than that. You'll  take Chinese. 
+HARRISON	m	Are we on the same page? 
+BART	m	Same page. 
+MATHILDA	f	So darling, when are you going to  bite the bullet and do the seating  arrangement? 
+TABBY	f	I can't deal with that stuff, ma. I  don't care who sits next to whom. I  should have eloped. 
+KELLY	f	After all, Mrs. Bowland, sometimes  when you bite the bullet, it explodes  in your mouth. 
+MATHILDA	f	Why, I've never thought about it  before but that is a rather strange  expression, isn't it? You wouldn't  say, "Sooner or later you've got to  put the grenade in your pants," would  you? 
+HARRISON	m	But have you ever noticed how in  movies they always bite the grenade  before they throw it? 
+KELLY	f	Yeah, but they never take a bite out  of their pants. 
+MATHILDA	f	What an unusual conversation! Do you  have similar discussions at the dinner  table with your family, Kelly? 
+KELLY	f	Basically. I ask why all the furniture  is missing and my Dad reminisces  about dropping acid and watching  Neil Armstrong walk on the moon. 
+TABBY	f	He talks about art. 
+BART/MATHILDA	?	You do? 
+KELLY	f	My mother's kind of an artist, so - 
+HARRISON	m	You come from a creative family, do  you? 
+MATHILDA	f	I wish my boys would talk to me about  my passions. I can't get them anywhere  near the subject of my garden. 
+KELLY	f	I noticed your magnolias. Very fine  specimens. 
+MATHILDA	f	They are fine, aren't they? 
+BART	m	Is there nothing you can't discuss? 
+HARRISON	m	Here, Kelly, try a bit of these leeks.  Minnie has a way with the white sauce. 
+BART	m	My dad has this friend who's a  director. He's shooting a documentary  for the History Channel. 
+KELLY	f	Cool. 
+BART	m	He needs some guys to do a reenactment  of some European theater battles for  him. 
+KELLY	f	We're going to be on the History  Channel? 
+BART	m	I haven't asked you yet. 
+KELLY	f	Oh, come on. 
+BART	m	Well, if you want to. Next weekend.  But you have to take it seriously. 
+KELLY	f	What do you mean? Of course I will. 
+BART	m	From what I've seen, you play fast  and loose with your characterizations.  This has got to be straight up. 
+KELLY	f	I'm not "fast and loose." I play the  emotional truth. I make it real. 
+BART	m	Like back in the dining room? 
+KELLY	f	What does that have to do with it? 
+BART	m	"I noticed your magnolias. Very fine  specimens." That was real? 
+KELLY	f	What is this about? 
+BART	m	You just seem to have your own agenda,  that's all. 
+KELLY	f	My own agenda? What other reason is  there to do anything? 
+BART	m	I'm just saying. I know the difference  between fantasy and reality. 
+KELLY	f	Are you saying I don't? 
+BART	m	I don't know. 
+BART	m	Why didn't you tell me your dad was  a burn-out? 
+KELLY	f	Why do you steal from yours? 
+PRINCIPAL	m	Kelly! I told some of your teachers  about your presentation. We're all  really looking forward to it. 
+SARAH	f	What presentation? 
+KELLY	f	I don't want to talk about it. As a  matter of fact, do me a favor and  pretend you never heard anything  about it. 
+SARAH	f	Okay. Um. 
+KELLY	f	What, Sarah? 
+SARAH	f	It's nothing. I - 
+SARAH	f	I have an extra ticket to Aerosmith  this weekend. 
+KELLY	f	Aw Sarah, that's really great, I  mean. It's just that - I'm busy. 
+SARAH	f	Oh. Yeah, I figured. Okay. I'll see  you in the dairy section, though. 
+KELLY	f	Right. 
+KELLY	f	What are you doing here? 
+BART	m	I tracked you down. There's someone  I'd like you to meet. 
+CHARLIE	m	Are you one too? 
+KELLY	f	Yup. 
+CHARLIE	m	And what do you see in that? 
+KELLY	f	Living, dying, camaraderie, bravery  - the big stuff. Things we don't  have anymore. 
+CHARLIE	m	I see. 
+CHARLIE	m	And do you think it's brave getting  trench foot and syphilis, eating  another ration of spoiled frank and  beans out of a dented can? 
+KELLY	f	Well, no - 
+CHARLIE	m	Yeah, that wouldn't be much fun,  would it? 
+KELLY	f	No, sir. 
+CHARLIE	m	Parts of it were kind of fun though.  I got separated from my platoon and  lived for two weeks in the forest of  the Ardennes living off what I could  kill. I felt very close to the land. 
+BART	m	I met him when my mom made me go  around caroling with the Youth Group. 
+KELLY	f	You don't really believe that stuff  about Berlin? And Hitler's compound? 
+BART	m	Does it matter? 
+KELLY	f	Of course it matters. Doesn't the  truth matter? 
+BART	m	I don't know. You tell me. 
+KELLY	f	I want a drink. Let me borrow a couple  bucks. 
+BART	m	I told you not to play him for money. 
+KELLY	f	I was trying to be nice. He's your  friend. 
+BART	m	Exactly. You should know better.  What do you want. 
+KELLY	f	Mountain Dew - 
+KELLY	f	-- Oh shit. 
+EVE	f	Kelly! 
+BART	m	That woman's calling you. 
+KELLY	f	Bart. Meet my mom. 
+EVE	f	What a nice surprise. It's so nice  to finally meet you. 
+BART	m	Likewise. So, doing a little business? 
+EVE	f	A little is right. But I work it as  much as I can. 
+EVE	f	So, what have you boys been up to? 
+KELLY	f	Bart took me to meet his friend  Charlie at the Old Soldiers' Home. 
+EVE	f	Charlie at the Old Soldiers' Home? 
+KELLY	f	You don't know him. 
+EVE	f	You boys should swing by Care House.  There are some Vets there. 
+KELLY	f	We can't. 
+EVE	f	Oh. Well - okay. 
+EVE	f	I should go. But you boys should  come over to our house some time. I know your family must get tired of  him. 
+BART	m	Not at all. But I'd love to, anyway. 
+KELLY	f	There you go. Now you know everything. 
+BART	m	What's your problem? She's pretty  cute. 
+BART	m	Don't you want your soda? 
+KELLY	f	Forget it. 
+BART	m	So filming's on Saturday. Can you  make it? 
+KELLY	f	Are you kidding? 
+BART	m	Good. It's gonna be really cool.  He's got an explosives expert coming. 
+BART	m	What's up? 
+KELLY	f	Remember that stupid speech? 
+KELLY	f	I'm supposed to give it next week. 
+BART	m	Maybe you should talk to my dad about  it. 
+KELLY	f	You think he'd go for that? 
+BART	m	Of course. He loves you. He was  talking the other day about helping  you out. Want to go to Dartmouth? 
+KELLY	f	Are you serious? 
+BART	m	He was. If you applied for Spring  Semester, he could "pull some  strings." 
+KELLY	f	I don't think that would work for  me. Considering -- my background. 
+BART	m	Yeah, probably not. 
+KELLY	f	I'm not properly socialized. I  wouldn't fit in. 
+BART	m	That's bullshit. 
+KELLY	f	No, it's not. 
+BART	m	Tell that to my family. They're like  your fucking fan club. 
+BART	m	Even Tabby likes you. 
+KELLY	f	So much she ratted me out to you. 
+BART	m	Well, she's inviting you to the  wedding. 
+KELLY	f	Oh. 
+BART	m	But you probably won't enjoy that  much, will you? 
+KELLY	f	I don't know what you're talking  about. Weddings? I love weddings. I  always get drunk and make out with  someone's cousin. 
+BART	m	Good, I'll call mom's nephew Fletcher  and tell him to expect a little  action. 
+KELLY	f	Fletcher, eh? 
+BART	m	He's twelve. Let me give some advice.  He's very into sharks at the moment. 
+KELLY	f	Why did you tell -- 
+KELLY	f	What? Oh, I'm sorry. 
+TABBY	f	Miner and I broke up. 
+KELLY	f	I'm sorry. 
+TABBY	f	Yeah. 
+KELLY	f	Honestly? I didn't think you two  were right for each other. 
+TABBY	f	You did, huh? 
+KELLY	f	Like this painting. Stare at it too  long and you can't see it anymore.  But if someone else sees it for the  first time, they can tell exactly  what it is. 
+TABBY	f	I don't need any more bullshit right  now. 
+KELLY	f	He could never understand you. 
+TABBY	f	I'm not as complicated as you think. 
+KELLY	f	I never said you were complicated. 
+TABBY	f	Oh. 
+KELLY	f	He just wasn't the right one. 
+TABBY	f	There's more to it than that. 
+KELLY	f	I'm really sorry. I really am. 
+TABBY	f	Thanks. 
+KELLY	f	Don't cry. 
+TABBY	f	You like me, don't you? 
+KELLY	f	Of course. 
+TABBY	f	No, I mean -- you like me. 
+KELLY	f	Yeah. I think you're amazing. 
+TABBY	f	Well, do something. 
+BART	m	
+KELLY	f	Damn it. Damn it. 
+KELLY	f	What? 
+MATHILDA	f	Minnie's starting dinner. Is Kelly  coming over? 
+BART	m	Not tonight, ma. 
+MATHILDA	f	Okay, then. 
+DIRECTOR	m	Are you with the 101st or the 82nd? 
+KELLY	f	Well, 82nd today. It's not my usual  division. Technically, my patches  indicate - 
+DIRECTOR	m	Whatever. Make yourself comfortable.  We'll be a while setting up. Some of  the other boys are over by craft  service. 
+KELLY	f	Oh? 
+DIRECTOR	m	The snack table. It's over there.  Someone will come get you when we're  ready. 
+KELLY	f	Right. Is Bart Bowland here yet? 
+DIRECTOR	m	Bart? Oh, Harrison's son. I don't  know. 
+KELLY	f	Ok. Thanks. 
+MAKEUP ARTIST	f	And you are? 
+KELLY	f	Kelly Ernswiler, private first class. 
+MAKEUP ARTIST	f	All right, Kelly. Let's take a look  at you. 
+MAKEUP ARTIST	f	That's it, handsome. 
+A.D.	?	Okay, everyone. We're going to start  positioning. Then we'll go through a  few rehearsals. You, you and you - go over there by  that tree. You and you guys, behind  the hill. Okay, who's got the Jeep? 
+KELLY	f	That MG? She's mine. 
+A.D.	?	Great. We'd like to use it. Can you  drive it beyond the hill over there? 
+KELLY	f	Sure. I don't think that would be a  problem. 
+KELLY	f	Have you seen Bart Bowland? Has he  checked in? 
+A.D.	?	Don't know. We've got enough people.  It doesn't matter. 
+KELLY	f	Hot Lips, old girl, you're going to  be famous. 
+A.D.	?	Okay people. Listen to my voice.  From now on, you do whatever this  voice says. Take your place. 
+KELLY	f	Password. 
+KELLY	f	Hey! Where the hell have you been? 
+BART	m	No where. 
+KELLY	f	They put you over here with me? That's  great. I think we'll get some close- ups. They want me to drive old Lippy.  Isn't that awesome? 
+KELLY	f	What the hell's your problem? 
+BART	m	I ought to fucking kill you. 
+KELLY	f	What? 
+BART	m	You had to do it. 
+KELLY	f	What are you talking about? 
+BART	m	You just do whatever the fuck you  want. And consequences don't matter,  do they? 
+KELLY	f	Are you out of your mind? 
+BART	m	What the fuck do you think she's  going to do, run off with you? 
+BART	m	You're a seventeen-year-old bag boy.  She's a Yale grad student. Talk about  living in a fucking fantasy world. 
+KELLY	f	No. You'd rather have me be miserable  like you are. 
+BART	m	Once again, you've displayed your  uncanny ability to nail the truth of  a character. 
+KELLY	f	Stop talking out your dad's mouth  and use your own for once. 
+A.D.	?	Standby for rehearsal. Cue the  explosion. 
+A.D.	?	Cue the Jeep. 
+A.D.	?	Cue the Jeep. Cue the fucking Jeep! 
+A.D.	?	What the H. Christ is going on over  here? 
+A.D.	?	Hey, roll this. Get this. Are you  getting this? 
+A.D.	?	Follow him. Are you getting it? 
+A.D.	?	We can use this. We'll cut it  together. 
+A.D.	?	Get close on him. 
+KELLY	f	I don't want to talk about it. 
+EVE	f	Well, you're going to have to. Your  father's at the hospital. 
+KELLY	f	Which one of his loser friends ended  up there? 
+EVE	f	They think he has stomach cancer. 
+KELLY	f	Oh this is just perfect. 
+EVE	f	Why would you say something like  that? 
+KELLY	f	Because it seems to fit. 
+EVE	f	"Seems to fit." Do you understand  what I just said? 
+KELLY	f	Why, do you want to say it again? 
+EVE	f	Kelly - 
+KELLY	f	I have to go to work. 
+SARAH	f	I forgot to tell you this box was  booby-trapped. 
+SARAH	f	The concert was lame. The opening  act singer ripped his leather pants  during a stupid dance routine and  stormed off stage. Are you okay? 
+KELLY	f	No. 
+SARAH	f	Lance? 
+KELLY	f	No. 
+KELLY	f	Listen, I'm busy. 
+SARAH	f	Sure. I understand. 
+KELLY	f	I doubt it. 
+SARAH	f	Um, I don't have a perfect life, if  that's what you're asking. 
+KELLY	f	No, Sarah, actually, I'm not asking.  I never ask you anything but you  just talk anyway. Have you ever  noticed that? 
+SARAH	f	Fuck you. 
+KELLY	f	Hey, I hoped you were up - 
+TABBY	f	Kelly? 
+KELLY	f	I just came to get this. 
+TABBY	f	Hey. 
+KELLY	f	I guess the wedding's back on. 
+TABBY	f	We talked. 
+TABBY	f	I'm really sorry. 
+KELLY	f	Don't be. 
+KELLY	f	My dad's got cancer. 
+TABBY	f	Oh, Kelly. 
+KELLY	f	I guess we all get what we deserve. 
+KELLY	f	Stupid bitch. 
+MR. NORMAN	m	Kelly! There you are. I was just  telling the class about our special  treat today. Mr. Ernswiler is going  to be giving the three first-period  history classes a little talk about  the Civil War. 
+MR. NORMAN	m	Let's all make our way in an orderly  fashion down to the auditorium, shall  we? 
+MR. NORMAN	m	Orderly, I said orderly. 
+MR. NORMAN	m	Well, what are we waiting for? I'm  so looking forward to hearing your  views. 
+HOLMSTEAD	?	For those of you who haven't had the  chance to get to know Kelly, you  should know he has a very interesting  hobby. He takes part in reenactments  of World War II battles right here  in Ohio. 
+AUDIENCE KID	m	I did that too. When I was seven. 
+HOLMSTEAD	?	He has an unusual first-hand knowledge  of history. We recently discovered  that this extends beyond World War  II to the Civil War, which he is  going to discuss with you today.  Kelly? 
+KELLY	f	I'm sorry. 
+HOLMSTEAD	?	Well, go after him. 
+LANCE	m	What, they re-assign you to the  bicycle brigade? 
+KELLY	f	I'm busy. 
+LANCE	m	Too bad, cause I'm not. Remember  that little show I put on for the  school? 
+KELLY	f	I don't know what you're talking  about. 
+LANCE	m	Oh, come on. Pants down? Doll? Hard  on? 
+KELLY	f	Oh that. I heard about it. 
+LANCE	m	And did you hear me and Bridget aren't  going out anymore because of it? 
+KELLY	f	I haven't been following the story. 
+LANCE	m	Yeah well, let's get this over with. 
+KELLY	f	It is over. 
+KELLY	f	Just let me go home. 
+LANCE	m	Did you call me a homo? 
+KELLY	f	This isn't a good time for me. Let's  re-schedule. 
+LANCE	m	No time like the present. 
+KELLY	f	First you should probably get me to  write home to my mother. 
+MR. NORMAN	m	Stop it! 
+LANCE	m	Get off me. 
+MINNIE	f	Bart's not here. Sorry. 
+EVE	f	Oh Kelly. What happened? 
+KELLY	f	Nothing. 
+EVE	f	Jesus. Let me see that. 
+KELLY	f	Ow. 
+EVE	f	I'm going over to see dad. 
+KELLY	f	Oh. 
+EVE	f	And you need to come. 
+KELLY	f	I don't want to. 
+EVE	f	At this point that's not an option. 
+KELLY	f	Now's not a good time, ma. 
+EVE	f	It's never a good time. 
+KELLY	f	You can't make me. 
+EVE	f	It's not about you anymore -- 
+KELLY	f	Don't you get it? It was never about  me. 
+EVE	f	What is wrong with you? When are you  going to stop blaming us, blaming  him? I'm sick of you being angry. I  want to be angry! They just took out  half of your father's stomach - 
+KELLY	f	Enough. 
+EVE	f	You will not tell me what's enough.  You don't know about anything. All  you do is fight fake battles, in the  woods, on the playground. But this,  right here, us - this is the real  one, the only one worth anything. 
+EVE	f	The man I love is dying. 
+KELLY	f	That's between you and him. 
+EVE	f	If I made a mistake, if you felt  left out, I'm sorry. But I can only  deal with one thing at a time. 
+HARRISON	m	Don't sit any of Mathilda's sisters  next to me if you can help it. Oh, hello. So nice to see you. Thank  you for coming. 
+HARRISON	m	Where's the priest? 
+BART	m	He should be here any minute. Calm  down. 
+BART	m	What the fuck are you doing? 
+KELLY	f	I was invited. 
+BART	m	I uninvited you. 
+KELLY	f	It's not your wedding. 
+BART	m	Why are you wearing that? 
+BART	m	I can't let you come in. 
+KELLY	f	Why? 
+BART	m	Because you know why. Just go home. 
+KELLY	f	She looks beautiful. Tell her - give  her my congratulations. 
+XIOU-XIOU	?	Oh! Son of Eve. You startled me. 
+KELLY	f	Grandma Ling. Can you fix this? 
+XIOU-XIOU	?	Your mom made it for you. I can fix  it. 
+KELLY	f	Did you come here to work on your  own stuff? Don't waste your time on  this. 
+XIOU-XIOU	?	I never waste time. 
+XIOU-XIOU	?	See. Everything can be mended. 
+KELLY	f	You're trying to tell me something,  aren't you? 
+XIOU-XIOU	?	Oh no. I could not tell you anything. 
+ABE	m	Hey. Kelly. 
+KELLY	f	Hey dad. How you feeling? 
+ABE	m	Not bad. 
+KELLY	f	They gave me some stitches downstairs. Three. 
+ABE	m	Did you get punched? 
+KELLY	f	A couple times, actually. 
+ABE	m	I know the feeling. Come on in and  watch some television. Don't worry,  this one's bolted to the wall. As  you can see, my reputation precedes  me. 
+ABE	m	Any battles this weekend? 
+KELLY	f	A few. 
+ABE	m	Busy, busy. 
+ABE	m	Answer me this: how come no one ever  reenacts the Vietnam War? 
+KELLY	f	It'd be pretty depressing, wouldn't  it? 
+ABE	m	I guess it would. 
+KELLY	f	Plus that, you'd have to have  protesters and stuff. 
+ABE	m	Folks dressed up like your mom and  me. People reenacting fleeing to  Canada, burning draft cards. I guess  that would ruin the spirit of the  thing, now wouldn't it? 
+KELLY	f	I could make it work. 
+ABE	m	I bet you could. 
+EVE	f	Kelly, is that you? 
+KELLY	f	You were expecting some one else? 
+KELLY	f	He looks good. 
+EVE	f	He looks just like you. 
+BART	m	Hey. 
+KELLY	f	Hey. You going away already? 
+BART	m	Yeah. The have this intensive summer  orientation thing. 
+KELLY	f	Is that good? 
+BART	m	Well, it's optional, but dad thinks  it would be "a good way to meet  people." 
+KELLY	f	He's probably right. 
+BART	m	He usually is. 
+KELLY	f	Well, go Big Green. 
+BART	m	Thanks. 
+KELLY	f	Have fun. And get laid, will ya? 
+HARRISON	m	Is that everything? 
+BART	m	Everything you'd let me bring. 
+HARRISON	m	Give me a break. 
+KELLY	f	Hey. 
+SARAH	f	Hey. 
+KELLY	f	How come you don't work here anymore?  The Electro-shopper's getting rusty. 
+SARAH	f	I've got a summer internship at an  ad agency. 
+KELLY	f	Fancy. 
+SARAH	f	It's all right, I guess. 
+KELLY	f	No, it's great. 
+KELLY	f	Hey - 
+SARAH	f	When are you going to get a real  job? 
+KELLY	f	I don't know. Probably when I figure  out something better to do. 
+SARAH	f	You can't be a stock boy your whole  life. 
+KELLY	f	Yeah I can. I mean, I probably won't,  but I could. 
+SARAH	f	Well, it was good seeing you. 
+KELLY	f	Um. 
+SARAH	f	What? 
+KELLY	f	Remember that presentation I told  you never to ask me about again? 
+KELLY	f	Lee arrayed his defenses over here.  Only this time, Grant was ready for  him. 
+OLD SOLDIER 1	m	This is boring. 
+OLD SOLDIER 2	m	Yeah. Let's see that slide of the  wife again. 
+MR. NORMAN	m	Remarkable, remarkable. And they  never knew? 
+CHARLIE	m	The real kicker was moving those  cutouts of tanks around. The thought  we had a whole regiment over there,  but it was just a couple of us and  those Hollywood props. 
+EVE	f	That's amazing. Art playing a part  in war. 
+CHARLIE	m	You're damned right. We practically  won the thing right there. Now this is more like it. Anyone  care to place a wager on the table? 
+SARAH	f	If you think it would be more fun. 
+MR. NORMAN	m	I can't imagine having more fun that  I am now. 
+CHARLIE	m	You're never been to a French  whorehouse, I take it. 
+EVE	f	I have. 
+MR. NORMAN	m	Oh, my. 
+KELLY	f	I still don't understand how you did  that. 
+SARAH	f	I spent my summers with my grandma  in the Catskills. She didn't give me  any spending money. So I played the bones for ice cream. 
+KELLY	f	Hot damn. 
+

@@ -1,0 +1,1009 @@
+LEOPOLD	m	You dance like a herd of cattle,  Miss Fairchild. You are a rare woman  who lights up the room... simply by  leaving it.
+UNCLE OTTO	m	Tell me Leopold, do you plan to join  us downstairs after completing this  one-sided flash of wit?
+LEOPOLD	m	I despise affairs of this sort, Uncle  Otto. No one really listens to anyone  else. If you attempt it, you will  see why.
+UNCLE OTTO	m	You judge everything too severely. I  wonder what would happen if you were  to cast that critical eye inward?
+LEOPOLD	m	You do not wonder at all. You merely  ask in order to state your own  opinion.
+UNCLE OTTO	m	We are all concerned about you.
+LEOPOLD	m	Ahh, here it comes.
+UNCLE OTTO	m	Your life does not seem to have any  direction. At the age of 25 a man is  too young to do anything well. At 35  he is too old. Now is your time to  take action. Tell me, what is it you  want to DO with your life?
+LEOPOLD	m	I do not know.
+UNCLE OTTO	m	Your ignorance cramps my conversation. Wake up! This is your one and only  life. Every man has the chance to  make a difference. DO something!
+LEOPOLD	m	I am most grateful for your  surveillance and for your sympathy.  I assure you there is no need for  concern. I am as effectual and  attentive... as my position allows.
+UNCLE OTTO	m	Life is not position, Leopold. It is  action. I will see you downstairs promptly.  In the appropriate frame of mind.
+THE VALET	m	Go spread joy.
+LEOPOLD	m	You dance like an angel, Miss  Fairchild. You light up the room. I  thank you.
+LEOPOLD	m	Good evening. I do not believe I  have had the pleasure.
+CARLSON	m	...Julia Carlson.
+CARLSON	m	I'm sorry. Will you excuse me?
+LEOPOLD	m	You are not from the area, are you?
+CARLSON	m	Are you?
+LEOPOLD	m	This is my estate.
+CARLSON	m	Really? Well it's not home but it's much...
+LEOPOLD	m	Shocking! The TA-RA-RA-BOOM-DE-AY.
+CARLSON	m	The? Oh, that's from Paris, isn't  it?
+LEOPOLD	m	It is a scandal nonetheless.
+LEOPOLD	m	Miss Carlson, do me the honor?
+CARLSON	m	I'm afraid I'm not much of a dancer.
+LEOPOLD	m	Truly I would be in your debt. Any  admonition would be erased simply by  presenting a partner as lovely as  yourself.
+CARLSON	m	No, no. Really, I...
+LEOPOLD	m	I suppose we really ought to sing  along.
+CARLSON	m	Oh, golly.
+CARLSON	m	Thank you for the dance. It was  lovely. I hope it wasn't too awful  for you.
+LEOPOLD	m	Not at all. It was most enlightening.
+CARLSON	m	I really must be going.
+LEOPOLD	m	I won't hear of it.
+CARLSON	m	No, I'm quite late as it is.
+LEOPOLD	m	I shall see you to the door...
+CARLSON	m	You're very sweet. I had a wonderful  time. Goodbye.
+LEOPOLD	m	Miss Carlson?
+LEOPOLD	m	Good God...
+CARLSON	m	What are you...? You frightened me.
+LEOPOLD	m	What sort of mechanism is this?
+LEOPOLD	m	Answer me!
+CARLSON	m	It's perfectly all right. It's...
+CARLSON	m	Listen to me. Please. Move very  slowly. Step out of the machine.  Step out and I'll explain whatever  you want to know.
+LEOPOLD	m	What is this? Who are you?
+CARLSON	m	Oh, God.
+CARLSON	m	Get out of there! Get out now!
+LEOPOLD	m	Miss Carlson... I...
+CARLSON	m	No!!!
+CARLSON	m	Shit!!
+DR. KAU	?	Shit!!
+DR. KAU	?	Shit!!
+DR. KAU	?	Shit!!
+DR. DRAKE	m	Good God!
+DR. PLODDER	m	Everybody stay calm... Lock the front  door.
+DR. PLODDER	m	No, no, no. You mustn't touch him.  The consequences could be  catastrophic.
+DR. KAU	?	He could be hurt, or even dead.
+DR. PLODDER	m	...All right. Touch him.
+DR. KAU	?	...But I'm stuck and it's only a  dance and he IS the seventh Duke of  Albany...
+DR. DRAKE	m	Carlson...!
+DR. PLODDER	m	Give me a minute...
+DR. KAU	?	Shit!
+KATE	f	Who's upset? People fall in love,  they have to climb back out. So, what? We'll just be friends now,  Right?
+KATE	f	I see. Well I appreciate your honesty. No. I'll just think of this as  surviving another dating accident.  Take care or good luck or whatever  I'm supposed to...
+KATE	f	...say... Goodbye.
+DR. PLODDER	m	She's back.
+KATE	f	That's impossible! She wasn't supposed  to return until...
+DR. PLODDER	m	Kate. It's Carlson. Something went  wrong.
+KATE	f	...The 7th Duke...
+KATE	f	...of Albany. He was the... IS the  son of Emery and Eliza. He was of no  actual importance until he vanished  at the turn of the century without a  trace. It was a sensation. In the  30's they even made a movie about  him. "The Tenuous Duke" with Ronald  Coleman.
+DR. DRAKE	m	I love Ronald Coleman.
+KATE	f	Despite much speculation and a nation  wide investigation, a body was never  found. He was never heard from again.
+DR. KAU	?	Until now.
+DR. DRAKE	m	We've altered the course of history.
+DR. KAU	?	We never should have started this...
+KATE	f	Calm down.
+DR. PLODDER	m	What are we going to do? We can't  keep him here. Imagine if anyone  found out!
+KATE	f	Think. Just, think. Rationally. Now,  no one would believe such a stupid  mistake could be made because no one  would believe any of this is possible.  So. We fix this. We keep this to  ourselves and we fix it. Fast.
+KATE	f	Dr. Kau, research all our data. 1st  priority: Locate Carlson. Drake,  determine the reciprocal correlation's  connected to the 19th century. Work  24 hours a day if necessary. In the  meantime... one of us will have to  take charge of him.
+KATE	f	This is a major scientific  opportunity. It doesn't get any better  than this. Imagine. Researching the  behavior, the physical and emotional  characteristics of a century ago!  Utilizing technology available to us  today... He's a gold mine!
+DR. PLODDER	m	He's a man, Kate. Not a guinea pig.
+KATE	f	And while he's here, he's ours. Any  volunteers?
+DR. DRAKE	m	We'll draw names. Whoever is is picked  will be responsible. Agreed?
+DR. KAU	?	I'll do it.
+DR. PLODDER	m	You'll look after him?
+DR. KAU	?	No, I meant I'll pick the name.
+KATE	f	Fine.
+LEOPOLD	m	Where...? What has happened?!
+KATE	f	Your Grace... Um... Hello... Weee  aaare a smaaall part of a laaarge  research team. A project funded by  the government of the United States.
+LEOPOLD	m	Oh. Americans. I see...
+KATE	f	Yes, um... For the past six and a  half years we've been conducting  scientific experiments on density  and flexibility in the dimensions of  time and space.
+DR. DRAKE	m	Yes, uh... Quite by accident we came  upon a formula utilizing Tachyons...  particles traveling faster than the  speed of light, which allowed us  to... fold time so to speak.
+DR. PLODDER	m	Yes. Bend it between the cracks of  the dimensions.
+DR. KAU	?	Yes.
+DR. DRAKE	m	Now, while that wasn't the original  purpose of our experiment, we opted  to pursue it, well, privately, on  our own.
+DR. KAU	?	Borrowing funds already provided.
+KATE	f	We journeyed to your time because it  was the quickest path to follow. We  debated long and hard whether we  should use this knowledge at all.  Believe me, it was never our intent  to disturb the past...
+DR. DRAKE	m	Merely to discover if the expedition  were possible. As your presence here  confirms... we are very disturbed.
+DR. PLODDER	m	The problem facing us is not only  HOW to get you back, but WHEN, you  see?
+KATE	f	We certainly don't want to  miscalculate. Send you to a different  era entirely.
+DR. PLODDER	m	Rest assured, no harm will come to  you. You'll be well looked after by  Dr. Coles.
+LEOPOLD	m	Dr. Coles...? I do not follow. What  do you mean, get me back home?...  Where am I?
+LEOPOLD	m	Answer me!... Would you have me believe... I am  being detained, at present in the  HEREAFTER?... The time to come?
+DR. PLODDER	m	It is the year nineteen hundred and  ninety-five.
+LEOPOLD	m	...19...?
+LEOPOLD	m	You're insane! All of you! This is  impossible!
+DR. PLODDER	m	Leopold, calm down!
+LEOPOLD	m	A voyage through time! What do you  take me for? Did you bring me here  by force?
+DR. DRAKE	m	We're scientist, not seditionists.
+LEOPOLD	m	Let me out of here! I won't stand  for this another moment!
+KATE	f	Leopold, wait!
+DR. KAU	?	You don't know what you're doing.
+DR. PLODDER	m	Just listen to what we have to say!
+LEOPOLD	m	19...?
+KATE	f	Squab.
+DR. KAU	?	Squab?
+KATE	f	I remember reading they ate a lot of  squab.
+DR. KAU	?	Squab... Do you have a squab?
+KATE	f	I don't know!
+DR. KAU	?	Pull yourself together! Are you all right back there?
+KATE	f	You're going to be fine you know.  There's nothing to worry about. I  have everything under control.
+KATE	f	We'll never get away with this.
+KATE	f	How are you feeling? I thought you might like some tea.
+LEOPOLD	m	I insist on being returned home  immediately.
+KATE	f	I understand. We're doing our best.
+LEOPOLD	m	I wish to speak with your employer,  Dr. Coles.
+KATE	f	You're speaking to him.
+LEOPOLD	m	You are not suggesting that you are  Dr. Coles?
+LEOPOLD	m	Miss... uh?
+KATE	f	Dr. Coles. If you like, you could  call me Miss Dr. Coles or if that's  too much, how about just plain Kate?
+LEOPOLD	m	A WOMAN of science?
+KATE	f	Hard to believe?
+LEOPOLD	m	But a woman's brain cannot obtain  enough knowledge to posses a truly  scientific mind.
+KATE	f	Interesting. Nevertheless, we've  come a long way baby.
+LEOPOLD	m	Are you attempting to be humorous?
+KATE	f	I'm attempting to be informative  it's just coming out humorous.
+KATE	f	Look, modern social science clearly  states that a woman's place in society  marks the level of that civilization.  A science career for a woman is now  almost as acceptable as being a...  a... waitress. Cream and sugar?
+LEOPOLD	m	Young lady, I... Surely it is not  expected that I remain here with you  indefinitely... Unchaperoned?
+KATE	f	Does that make you nervous?
+LEOPOLD	m	Certainly not!
+KATE	f	Then what are you getting so red  about? It's a very large apartment...  with locks on all the doors.
+LEOPOLD	m	The idea! My dear Miss Coles...
+KATE	f	Dr. Coles.
+LEOPOLD	m	Honey...
+KATE	f	Let's get one thing straight right  now. My name is Kate or Katherine or  if you insist Dr. Coles. Take a good long look, Leopold. I am  a 20th century American woman with a  Doctorate and a commission and  independence. I am not your "young  lady" or your "pretty Miss" or your  "honey." Is that clear?
+LEOPOLD	m	Honey... For the tea.
+KATE	f	...I'll get it for you.
+LEOPOLD	m	Thank you... Has it been decided  what it is I am to do while I am  being held here?
+KATE	f	Oh, just some laundry, the cooking,  a little light housework...
+KATE	f	I took the liberty of preparing a  simple schedule to efficiently utilize  your time while incorporating you  into my routine. As you can see, my day begins with  meditation and yoga from 6:30 to
+KATE	f	YOU will arise at 6:45, shower and  change and at 7:15, we breakfast  together. 7:45 we begin the days  work. At 10:45 Dr. Kau arrives to  observe you in your natural routine  as I research the data that will  enable you to return home. At 1:15  we lunch together. 2:15 you answer a  daily questionnaire, I type up my  notes. At precisely 6:15 you will  enjoy 15 minutes of FREE TIME, then,  at 6:30, I listen to Tom Brokaw while  making dinner as YOU write down any  questions that come up during your  day. At 7:00, we dine together. If  you need me at any time you may ring  this bell.
+KATE	f	Now, Mondays and Wednesdays I have  computer science class, Tuesdays I  have therapy. IF I have a date, I'm  usually home by 9:15. During these  periods you may read any of the books  I've picked out for you in your room.  I organize my next days work at 10:30,  11:35, David Letterman, 12:40 I'm in  bed. Next day we begin again. Simple?
+LEOPOLD	m	...At what time shall I WEE and POOH?
+CHARLIE'S VOICE	f	Kate? I'm home.
+KATE	f	Oh. Yes. Our chaperone is here.
+LEOPOLD	m	Your father?
+KATE	f	Sort of. My brother.
+LEOPOLD	m	Visiting?
+KATE	f	For the past two years. Charlie can  never know about this project. We'll  tell him you are a... overly  distinguished colleague staying here  as our guest. From Canada. Which  would explain your lack of familiarity  with our customs and so forth
+KATE	f	Make yourself comfortable. I'll check  in on you later. I think this is  going very well, don't you?
+KATE	f	Okay. If you need anything, just  ring.
+KATE	f	Charlie!
+CHARLIE	m	What?
+KATE	f	Come here I wanna talk to you.
+CHARLIE	m	What did I do?
+KATE	f	RINGS! And what did I say about you  smoking in the house?
+CHARLIE	m	You were against it.
+KATE	f	Correct. You're back early.
+CHARLIE	m	Hey!... Are you all right? You look  funny.
+KATE	f	Funny ha ha or funny odd?
+CHARLIE	m	Both.
+KATE	f	That all depends. How was your trip?
+CHARLIE	m	Why?
+KATE	f	If it was good I'll tell you the  truth. If it was rotten I'll have to  butter you up first.
+CHARLIE	m	Butter me up.
+KATE	f	Have you been working out? No, I'm  really starting to see results. Are  you comfortable there on the couch?
+CHARLIE	m	Very.
+KATE	f	Good. Cause you'll be sleeping there  the next few nights.
+CHARLIE	m	Kate!
+KATE	f	You have to be out of here by 8 and  you can't be back before 6. We have  an important man working with us  with very unusual needs. The company  is insisting he stay here.
+CHARLIE	m	What about a hotel?
+KATE	f	This man requires around the clock  attention.
+CHARLIE	m	I meant for me.
+KATE	f	Thank you, Charlie. I owe you one.
+CHARLIE	m	You owe me nine. What am I supposed  to do all day?
+KATE	f	You could get a job!
+CHARLIE	m	Kate, the entire point of being an  artist is that I don't have to work.  Who is this guy?
+KATE	f	Well, I can't tell you much because...
+KATE AND CHARLIE	f	I'm not allowed to discuss what goes  on at the office.
+KATE	f	Well I'm not. Anyway, it might be  interesting to have someone else to  talk to. It gets so quiet around  here sometimes I feel like I've gone  deaf.
+CHARLIE	m	Does he have a label?
+KATE	f	Leopold.
+CHARLIE	m	LEOPOLD? Is he anything like his  name?
+KATE	f	He's exactly like his name.
+CHARLIE	m	Then you owe me ten.
+LEOPOLD	m	Horrible!
+KATE	f	He's from Canada...
+LEOPOLD	m	What is this?
+KATE	f	It's called Hamburger Helper.
+LEOPOLD	m	It is beyond help. Please serve the  next course.
+KATE	f	I'm afraid there is no next course.  If you make a list of the foods you  like, I'll pick them up at the store  for you.
+LEOPOLD	m	Is all food here this... textured?
+CHARLIE	m	Mine's good.
+LEOPOLD	m	Please understand, I am used to a  different sort of preparation. Where  I come from a proper meal is the  result of reflection and study. A  recipe is merely a theme which an  intelligent cook can plan each time  with variation.
+LEOPOLD	m	Several courses are served. Menus  are often prepared days in advance,  timed to perfection. It is said,  without the culinary art, the  crudeness of reality would make life  unbearable.
+CHARLIE	m	In Canada?
+LEOPOLD	m	In Canada.
+CHARLIE	m	We have a saying here. "Shake and  shake the catsup bottle, none will  come and then a lot'll."
+LEOPOLD	m	How interesting.
+CHARLIE	m	Since you're such an expert on fine  cuisine, why don't you make dinner  tomorrow night?
+LEOPOLD	m	It should be obvious to you that I  am NOT a domestic. You may take my  plate.
+CHARLIE	m	I have my own, thank you.
+KATE	f	Charlie...
+CHARLIE	m	Who died and made me Cinderella?
+LEOPOLD	m	Young man, there is a distinct  impertinence to your voice.
+CHARLIE	m	It's part of my charm.
+LEOPOLD	m	Suppress it.
+KATE	f	Leopold... Since you're our guest  here, there are several cultural  events you might enjoy seeing. Charlie  has season tickets to the ball game.  Perhaps you'd like to take that in?
+LEOPOLD	m	What is it?
+CHARLIE	m	What is it??
+KATE	f	Or the Opera or the Ballet?
+CHARLIE	m	What is it??
+KATE	f	Charlie, there's no rule that says  everyone has to be interested in  baseball.
+CHARLIE	m	No, but I believe there is a rule  that says everyone has to have HEARD  of it.
+LEOPOLD	m	Dr. Coles, your brother Charles  attitude and demeanor are  unacceptable. If I am to stay on  here you must have a serious talk  with him regarding respect and  civility.
+KATE	f	CHARLES, could you help me with the  dessert in the kitchen?
+CHARLIE	m	In the kitchen?
+KATE	f	IN the kitchen. Excuse us.
+CHARLIE	m	I don't believe this guy!
+KATE	f	Try to be nice to him.
+CHARLIE	m	I'm always NICE!
+KATE	f	Please Charlie, as a favor to me.
+CHARLIE	m	He gives me the creeps.
+KATE	f	He's different that's all.
+CHARLIE	m	What was that crack about domestics?
+KATE	f	Charlie, this is important to me.
+CHARLIE	m	You're not going out with him, are  you?
+KATE	f	Eeuuu! I may be desperate but I'm  not a lost cause.
+CHARLIE	m	Kate, this is me. I've seen the guys  you bring home.
+KATE	f	I've done countless favors for you!  Now I'm asking for just one little  thing...
+CHARLIE	m	Oh, all right! All right! All right!
+KATE	f	We forgot the dessert.
+CHARLIE	m	You know,... I don't know if I  mentioned it... but that is one fine  looking suit.
+KATE	f	What is it, Leopold?
+LEOPOLD	m	I cannot seem to find the tea...
+LEOPOLD	m	No... No... No. Good God, no!...  Perhaps...
+KATE	f	Leopold, your time is up! What's he  got, a girl in there?
+LEOPOLD	m	I should like to read about modern  currency during my bath tonight. See  that the tub and basin are scrubbed  up. Remnants remain of this afternoons  shave.
+KATE	f	In our last session you intimated  there was a symmetrical system  regulating the social order of  conformity spanning your era. I found  this particularly intriguing If I  can just find it in my notes...
+LEOPOLD	m	The fire brigade!
+LEOPOLD	m	This is insufferable! I refuse to be  spied upon, skipped over, or shuffled  about any longer. I have yet to  venture outside this cell. Before I  go mad a more suitable arrangement  must be found.
+KATE	f	Found it.
+LEOPOLD	m	A resolution?
+KATE	f	No I meant I found my notes.
+LEOPOLD	m	Dr. Coles! Changes are in order.
+KATE	f	I can hear you.
+LEOPOLD	m	Miss Coles, as we are to remain here  together, there are certain conditions  I insist are met and maintained. I  no longer wish to be peeped at,  mocked...
+KATE	f	I never...
+LEOPOLD	m	Or interrupted. Jot this down.  Breakfast at 12. Luncheon at 4. Diner  at 8. A horse should be made available  from 1 to 3.
+KATE	f	A horse? In New York City?
+LEOPOLD	m	Yes. Also, I feel very strongly about  your style of dress. I do not care  for it. I cannot believe it is the prevailing  taste for women to appear masculine  and unkempt. If this is the fashion,  have it altered.
+LEOPOLD	m	That is all for the present.
+LEOPOLD	m	CRUMBS, my dear!
+KATE	f	Thank you!
+LEOPOLD	m	Dr. Coles. I have been acquainted  with many women in my time, yet I am  compelled to say that the modern  woman is by far the least attractive  I have ever encountered.
+KATE	f	And I have a news flash of my own.
+KATE	f	You sir, are no Ronald Coleman!
+DR. DRAKE	m	Chocolate Peanut Butter Cookie Dough  Swirl or Peach?
+DR. KAU	?	Peach.
+DR. DRAKE	m	Any luck?
+DR. KAU	?	Yea. Lots of luck. All bad. No  information exists detailing what  happened to Carlson. I've been working  for weeks and I'm not any closer  than when I began... How are you  doing?
+DR. DRAKE	m	My cholesterol level is up 70 points.
+DR. DRAKE	m	Thank you, Kate... How're you managing  with Leopold?
+KATE	f	Fine. Fine... Why? What did you hear?
+DR. DRAKE	m	Nothing. I was just asking.
+KATE	f	Oh. Well, it's fine. He's a delight.  Everything's under control.
+DR. KAU	?	Keep up the good work. She seemed a little scattered. Do  you think everything's all right?
+DR. DRAKE	m	Katherine Coles is the most capable  person we have on this project. If  anyone can handle the delicacy of  this situation, Kate can.
+DR. KAU	?	So there's nothing to worry about?
+DR. DRAKE	m	Absolutely not.
+KATE	f	GONE? GONE WHERE?!
+CHARLIE	m	Are you crazy? This is the first  time all week my eyes aren't darting  to the top of my sockets every five  minutes.
+KATE	f	When did he leave?
+CHARLIE	m	I don't know. An hour ago? He said  he wanted to take a walk.
+KATE	f	And you let him?? He's not allowed  to go outside!
+CHARLIE	m	Is he being punished?
+KATE	f	We've got to find him! You stay here  in case he finds his way back. And  while you wait you'd better pray  he's all right. If anything happens  to him, anything at all, EVERYTHING  we've worked for will have been  destroyed.
+CHARLIE	m	Kate, calm down.
+KATE	f	And YOU'LL be responsible. Understand?
+CHARLIE	m	What's the big deal? Who is this  guy?
+KATE	f	Leopold... is not really from Canada.
+CHARLIE	m	OH MY GOD!!!
+WOMAN MOTORIST	f	You stupid fucking son of a bitch.  Next time I'll hit ya. Fucking moron.
+CABBY	m	What're ya waiting for lady? An  invitation?
+KATE	f	I'm sorry! I'm sorry!
+LEOPOLD	m	$7.95 for a sandwich? Is that correct?
+COUNTER MAN	m	You gotta problem with that?
+LEOPOLD	m	It seems rather pricey to me.
+COUNTER MAN	m	So don't buy one.
+LEOPOLD	m	I shan't.
+COUNTER MAN	m	So shan't!
+LEOPOLD	m	Yes, I... I would be happy to sample  one however I'm afraid I haven't the  finance with me just now. If I could  establish a credit with you, I will  have someone come round with the  funds tomorrow.
+COUNTER MAN	m	You will gladly pay me Tuesday for a  hamburger today, is that it?
+LEOPOLD	m	I believe so. Yes.
+COUNTER MAN	m	Get the fuck outta here.
+LEOPOLD	m	I beg your pardon?
+COUNTER MAN	m	Get out. Fuckin' Wimpys piss me off.
+LEOPOLD	m	May I remind you, merchant, that I  am the customer in this establishment  and as such require your attention  and the utmost respect. I do not  accept this modern convention of  desecrating one's patrons with such  contemptuous disregard.
+YUPPIE WOMAN	f	You tell him.
+LEOPOLD	m	Need I add that without our patronage  you would not own that unwashed  counter behind which you spew your  filthy mouth?
+COUNTER MAN	m	Where do you get off? You don't even  have any money.
+LEOPOLD	m	Don't be irrelevant... I'm browsing.
+COUNTER MAN	m	Not in my store you're not.
+LEOPOLD	m	Do you intend to physically escort  me out...?
+LEOPOLD	m	Did you see what he did? Did you see  that?
+KATE	f	Leopold! Leopold, get in.
+KATE	f	Leopold! Oh, Leopold thank God you're  all right. I didn't think I'd ever  find you. You had us all so worried.  Oh, Leopold!
+KATE	f	Don't you ever go out again without  my permission, do you hear me? I was  frantic. You could have been killed  a hundred times over. I never would  have known.
+KATE	f	Leopold, are you all right?
+LEOPOLD	m	I wish to go home.
+KATE	f	Okay. I'll get you home in a jiffy.
+LEOPOLD	m	No... I wish to go home.
+CHARLIE	m	I don't know. It's just Leopold.  Like Cher. Or Goofy.
+CHARLIE	m	Never mind they just walked in. Jesus.  You look horrible.
+KATE	f	Charlie, don't start. I haven't been  this angry at you since you got me  into that pyramid thing last year.  If you make a wisecrack I'm going to  burst into flame.
+CHARLIE	m	It wasn't a wisecrack. You do look  horrible.
+KATE	f	I'm too tired for this now. I'll  just save it up and kill you tomorrow.  Help Leopold out of his things and  lets get him to bed.
+LEOPOLD	m	I've something to say. To the both  of you. I... Nothing is what it seems.  After witnessing mere weeks of this  age it is painfully apparent I am  outside of my acquaintance... I don't  know how to proceed. I frankly... am  in need of assistance. I'm sorry.  I'm not very good at this. In the  event you have missed it, I am  apologizing.
+CHARLIE	m	About time. Welcome back.
+KATE	f	Don't mind him. His heart would be  in the right place if he had a heart.  Surliness runs in my family.
+LEOPOLD	m	I understand. It practically races  through mine.
+KATE	f	Leopold, you made a joke. I mean one  that's not at my expense. That's  good.
+LEOPOLD	m	We'd better get to bed... That is...
+KATE	f	Yes... I start work... in three and a half hours.
+LEOPOLD	m	Oh, dear.
+KATE	f	It's fine. I'm used to it.
+LEOPOLD	m	You mustn't get too used to it. You'll  find life passes you by awfully  quickly.
+LEOPOLD	m	Thank you for...
+KATE	f	Oh!
+LEOPOLD	m	Well, goodnight then.
+KATE	f	Leopold?... I don't have a clear  handle on this. Perhaps I was wrong  keeping you confined to the apartment  all this time. I don't know when  you'll be able return home... Tomorrow  I'll start preparing you for the  outside world. And... We'll find  your way back. I promise.
+KATE	f	Yes?
+LEOPOLD	m	Oh! I beg your pardon. I, I, I, was  merely... I didn't...
+KATE	f	Is there something you want, Leopold?
+LEOPOLD	m	I merely wanted to see... that is,  inquire, on your availability, for  an outing... My assimilation and so  forth.
+KATE	f	Yes, we have a lot of work ahead of  us. I'll be out in a minute.
+LEOPOLD	m	Yes, of course. Splendid.
+LEOPOLD	m	Are you certain this is correct?
+KATE	f	Certainly I'm certain.
+LEOPOLD	m	Now really. Isn't this better?
+LEOPOLD	m	Allow me.
+LEOPOLD	m	Sorry. Oops! Careful there. So sorry.
+LEOPOLD	m	Have you seen today's paper?
+KATE	f	Put it back.
+LEOPOLD	m	But...
+KATE	f	Back!
+LEOPOLD	m	Dr. Coles, why is it you are not  married?
+KATE	f	Women are longer defined by the men  they're married to, Leopold. I have  a career. I haven't found a man who  fits in with that yet.
+LEOPOLD	m	Yet people still marry?
+KATE	f	I've heard of cases.
+LEOPOLD	m	I suspect there is something wrong  with you.
+KATE	f	There's nothing wrong with me!
+LEOPOLD	m	Perhaps it is the way you present  yourself.
+KATE	f	I don't know what you're talking  about.
+LEOPOLD	m	There is some sort of problem when a  woman reaches thirty and insists on  remaining single.
+KATE	f	You think I'm THIRTY?!
+LEOPOLD	m	What?
+KATE	f	Do I look THIRTY to you?
+LEOPOLD	m	It was an arbitrary number.
+KATE	f	You chose it specifically opposed to  a lower number.
+LEOPOLD	m	I didn't mean it.
+KATE	f	...Thirty!
+LEOPOLD	m	I apologize... How old are you?
+KATE	f	I'm thirty! But you're the first  person whoever told me I looked it!
+LEOPOLD	m	I'm sorry.
+KATE	f	And it's not that I insist on  remaining single. Believe me. Everyone  dreams of finding somebody to share  their life with. To give someone all  the love they've been hoarding since  they were a kid. I'm no different.  But one has to be sensible. I have a  career and a life that's filled  with...
+KATE	f	Not again...
+KATE	f	What do I have to do? Put a leash  around your neck?
+LEOPOLD	m	She is the woman to whom I was  referring. You see the problem?
+SALESLADY	?	Yep.
+KATE	f	What?... What?
+KATE	f	This is ridiculous. I don't have  time to... Do you know what this dress costs?  Let's get this over with. I'm coming  out. Nobody laugh.
+KATE	f	Satisfied?
+KATE	f	...What?
+LEOPOLD	m	You have a lovely face.
+LEOPOLD	m	We'll take the dress.
+LEOPOLD	m	What is this?
+KATE	f	The drug of the 20th century.
+KATE	f	Leopold, your dinner's getting cold.
+LEOPOLD	m	I'm coming.
+KATE	f	It's a guy thing.
+KATE	f	...Now within that astronomical  structure, Dr. Drake here is searching  for a pathway between your time and  the present. He'll find it too if  his arteries don't harden first.
+LEOPOLD	m	Astounding.
+KATE	f	Once that is discovered, the search  begins for the exact time and date  travel will be possible.
+LEOPOLD	m	How are you proceeding?
+KATE	f	Don't take it personally. Once Dr.  Kau starts working, you just have to  wait until her batteries run down.  We're all pretty much like that.
+LEOPOLD	m	The complexity of this equation is  astonishing? Can you really comprehend  all that?
+KATE	f	I'm a genius.
+LEOPOLD	m	You're quite exceptional Dr. Coles. That is to say, you all are.
+KATE	f	Thank you. And may I say that  sometimes, in DIM light, you're not  so bad yourself.
+KATE	f	Oh my God! Is that the time? I'm  late. Therapy. Every Tuesday night.
+LEOPOLD	m	May I accompany you?
+KATE	f	You mayn't.
+LEOPOLD	m	I am not certain I understand therapy.
+KATE	f	No one does. That's why therapists  can charge so much.
+LEOPOLD	m	What exactly transpires during  therapy?
+KATE	f	Leopold. A gentleman does not ask  those questions. Come on, we'll get  you home.
+LEOPOLD	m	I am perfectly able to travel homeward  myself.
+LEOPOLD	m	Really! I have finance and our  address. I shall take a cabbie.
+LEOPOLD	m	You are late. I insist. I am NOT a  child. Dr. Coles.
+KATE	f	All right. Don't bite my head off.
+LEOPOLD	m	I can't seem to...
+NUN	f	Oh, for heaven's sake...
+MRS. PINCUS	f	I was worried. I thought you weren't  going to make it.
+KATE	f	Miss my lesson? This is the only  thing I have to look forward to all  week. Is that a new dress Mrs. Pincus?
+INSTRUCTOR	m	All right, kids. Pair up!
+INSTRUCTOR	m	Don't think so much, Katie. FEEL the  music.
+KATE	f	I am!
+INSTRUCTOR	m	Dancing should not be work. It should  be a vacation the body takes from  the mind. Let the music wash over  you.
+KATE	f	It is!
+INSTRUCTOR	m	Repeat after me: I've got the muusic  in me.
+KATE	f	I've got the muusic in me.
+INSTRUCTOR & KATE	m	I've got the muusic in me!
+INSTRUCTOR	m	Keep telling yourself that.
+DR. KAU	?	I've located her.
+DR. PLODDER	m	You didn't! Is she all right?
+DR. KAU	?	No. She's really not.
+DR. KAU	?	It was taken a year after she arrived.  Look at her face! We have to get her  back.
+DR. PLODDER	m	Christine, this morning I spoke with  the head of funding. They're talking  about canceling the project.
+DR. KAU	?	What?! They can't do that!
+DR. PLODDER	m	There's still time. Nothing has  happened yet that can't be undone.  We'll get her back. We'll put this  behind us and we'll get her back.
+CHARLIE	m	Is there something on your mind?
+LEOPOLD	m	This is rather difficult for me.
+CHARLIE	m	...Uh huh...?
+LEOPOLD	m	I have been in the salon contemplating  the reception I have received by the  various tradesmen I have visited.  I've determined I am lacking the  dexterity of modern intercourse.
+CHARLIE	m	Of what??
+LEOPOLD	m	Social skills.
+CHARLIE	m	Oh.
+LEOPOLD	m	I realize our association has been  rather distant and I bear you no ill  will.
+CHARLIE	m	You can imagine my relief.
+LEOPOLD	m	The fact is... I need help.
+CHARLIE	m	Why not ask Kate?
+LEOPOLD	m	I would appreciate the masculine  point of view.
+CHARLIE	m	Why not ask Kate?... That was a joke.
+CHARLIE	m	Well? Let's see... I guess we could  start by removing that great big  stick from up your... Let's start  with your walk.
+LEOPOLD	m	My walk?
+CHARLIE	m	You don't walk right. You strut.
+CHARLIE	m	Strut strut strut. You walk into the  bathroom it's like I'm watching a  parade. Walk across the room.
+LEOPOLD	m	I will not.
+CHARLIE	m	I know you won't. You'll STRUT. You  asked for my help. Trust me on this.
+LEOPOLD	m	That's enough! Really! You walk.
+CHARLIE	m	See? Easy. Relaxed. You try.
+CHARLIE	m	That's better. Now, try to enjoy  your walk. It's a beautiful day. The  sun is shining, the peasants are  singing.
+CHARLIE	m	Interesting?
+CHARLIE	m	What the hell is that?
+LEOPOLD	m	What?
+CHARLIE	m	Leopold, are you wearing a corset?
+LEOPOLD	m	Naturally.
+CHARLIE	m	What'd ya say was the name of this  number?
+LEOPOLD	m	Tchaikovsky. Waltz of the Flowers.
+CHARLIE	m	Pretty.
+CHARLIE	m	Megadeath. High Speed Dirt.
+LEOPOLD	m	What in the world...?
+MAN	m	Sorry! We're so sorry. Are you hurt?
+WOMAN	f	She's another Babe Ruth. We had no  idea. Are you okay?
+WOMAN	f	What do you have to say for yourself,  Elizabeth?
+ELIZABETH	f	I'm sorry!
+LEOPOLD	m	Is this your child?
+MAN	m	Yes.
+LEOPOLD	m	I see.
+WOMAN	f	C'mon honey, lets go.
+ELIZABETH	f	I want my ball.
+LEOPOLD	m	Just a moment! Pick a hand.
+LEOPOLD	m	My mother's name was Elizabeth. She's a beautiful child. You're very  lucky.
+MAN	m	What do you say, Elizabeth?
+MAN	m	Thank you.
+LEOPOLD	m	I understand pumpkin pies, pizza  pies, and pot pies. But I wish someone  would explain Eskimo pies.
+LEOPOLD	m	You smoke Camel's, you wear Old  Spices, and you drink Mountains Dew.  It's revolting. The pudding tonight is excellent.  Another thing I've noticed, everyone  is in a great rush today. Instant  Oatmeal, Instant Coffee, Speed Stick,  Minute Maid. You'll find there's  much to be said for moderation and  languor.
+LEOPOLD	m	Mmmm. Is it tapioca?
+KATE	f	It's margarine.
+LEOPOLD	m	It's marvelous.
+CHARLIE	m	Well, I'm off.
+KATE	f	Me too. Work to do. Where are you  going?
+CHARLIE	m	I'm meeting everyone over at Caffeine.  It's this coffee house we go to.
+KATE	f	Say hello to Dennis for me.
+LEOPOLD	m	Who is that?
+CHARLIE	m	Dennis is this really good looking  friend of mine who doesn't know Kate's  alive because SHE doesn't know how  to flirt.
+KATE	f	As a rule I don't like to associate  with really good looking people. It  makes me feel really... I don't  know... Smart. But Dennis is a nice  guy.
+CHARLIE	m	And he always picks up the check.
+LEOPOLD	m	Sounds enjoyable. I shall join you.
+CHARLIE	m	What?
+KATE	f	That's a wonderful idea! Leopold  mentioned how he wanted to meet...  People of quality was it?
+CHARLIE	m	Ahhhhh?
+LEOPOLD	m	If you'd rather I didn't go...
+KATE	f	Nonsense! Charlie, you don't want to  hurt Leopold's feelings. He's going  to think you don't want him to go.
+CHARLIE	m	Oh it's not that. It's just that  it's sort of a vulgar crowd, is all.  I'm not sure you'd have such a good  time.
+LEOPOLD	m	A little ribald humor? I'm not as  big a stick in the mud as you might  think! I'd enjoy a gay night out,  kicking up my heels.
+CHARLIE	m	Finish off your Parquet and we'll  go.
+CHARLIE	m	There they all are. Now one more  thing. Throw the words "like" and  "you know" into a sentence whenever  possible. It's how people talk today.
+LEOPOLD	m	Proper speech does not cease to exist  simply because it is ignored.
+CHARLIE	m	Please?
+LEOPOLD	m	Charles, you needn't fret. I have  the walk down pat. I will not give  myself away. Like.
+CHARLIE	m	Oh shit! Shoot.
+LEOPOLD	m	What is it?
+CHARLIE	m	Patrice. See that girl? The blonde  one? She's so inconceivably hot.
+LEOPOLD	m	She's very pretty.
+CHARLIE	m	She's mine.
+LEOPOLD	m	Congratulations.
+CHARLIE	m	Ok not exactly mine. But I saw her  first.
+LEOPOLD	m	I understand.
+CHARLIE	m	Okay. I guess we should go in. I  don't suppose we could tell everyone  you don't speak English?
+LEOPOLD	m	Of course not. Let's go inside.
+ALL	m	Charlie! Where've you been? etc.
+CHARLIE	m	Hi. Uh everyone, this is my friend,  Leo.
+BILL	m	Hey.
+LEOPOLD	m	Hey.
+DENNIS	m	Waz up?
+LEOPOLD	m	Waz up?
+PATRICE	m	How are ya?
+LEOPOLD	m	How are ya?
+CHARLIE	m	Leo's staying with us for a while.
+LEOPOLD	m	May I?
+PATRICE	m	Help yourself.
+LEOPOLD	m	Thank you, my dear.
+CHARLIE	m	Um?... ...I have nothing to say.
+LEOPOLD	m	You did not tell the truth about  Patrice, Charles.
+DENNIS AND BILL	m	CHARLES??
+CHARLIE	m	What did I tell you, LEO?
+LEOPOLD	m	He informed me you were inconceivably  HOT, but I think you're lovely.  Exceptionally lovely.
+PATRICE	m	Thank you, Leo.
+CHARLIE	m	Check please.
+CHARLIE	m	Just drop it Leopold.
+LEOPOLD	m	But Charles, it is so ridiculous. I  am not interested in her.
+CHARLIE	m	Hah!
+LEOPOLD	m	In any case the problem is not with  me but with you. You have no idea what it takes to go  about courting a woman. From what  I've witnessed tonight, it is  symptomatic of your entire generation.
+CHARLIE	m	You are some piece of work, Leopold.
+LEOPOLD	m	Now I do not wish to get personal...
+LEOPOLD	m	But you have been of great assistance  to me and I feel this is one area  where I can be of some real help.
+CHARLIE	m	I'm fascinated. Go on.
+LEOPOLD	m	Now, why was I successful with this  young lady and why did you so  miserably fail?
+CHARLIE	m	What makes you think she likes you?
+LEOPOLD	m	Well she gave me the number of her  telephone and I assumed it meant...
+CHARLIE	m	Go on.
+LEOPOLD	m	As I see it, the girl hasn't an  inkling of your intentions. And it's  no wonder. You, Charles, are a Merry  Andrew.
+CHARLIE	m	A what?
+LEOPOLD	m	A Merry Andrew.
+CHARLIE	m	I am not!!
+LEOPOLD	m	Everything plays like a farce to  you. The more wit, the less courage.  I believe the modern woman desires  passion, protection, sensitivity. No  woman wants to be romanced by a  buffoon. Banter and repartee are fine but you  must add to that a different sort of  playfulness.
+CHARLIE	m	You think I should pounce?
+LEOPOLD	m	I'm saying you must treat her with  respect. Any oaf can attempt a crude  pass. A woman of Kate's stature would  never respond to an artificial tactic.
+CHARLIE	m	Kate?
+LEOPOLD	m	What?
+CHARLIE	m	You said Kate.
+LEOPOLD	m	I did not.
+CHARLIE	m	Yes you did. Didn't he say Kate?
+LEOPOLD	m	We are discussing your problem.
+CHARLIE	m	Not anymore. You like my sister.
+LEOPOLD	m	Charles...
+CHARLIE	m	She has trouble with men, you know.
+LEOPOLD	m	Perhaps she has not met the right  one.
+CHARLIE	m	She has met the right one. HUNDREDS  of times. But she pulls back. She  cuts herself off. You turn around  and suddenly you're dating a Sphinx.
+LEOPOLD	m	One never can tell.
+CHARLIE	m	Does Kate know how you feel?
+LEOPOLD	m	No...
+CHARLIE	m	Have you made your intentions known  to her?
+LEOPOLD	m	No...
+CHARLIE	m	Who's the Merry Andrew now?! I think  you're all talk and no action. What  are you waiting for?
+LEOPOLD	m	I do not know if there is a future  in it.
+CHARLIE	m	Well Leopold, no one ever does...
+KATE	f	Royal family -- Uncouth. Making Out --  slow soulful kissing... Woman as  equals??
+KATE	f	Who drove the Chevy to the levy and  why was it dry?
+KATE	f	Eyes shine when she talks about...  science. Raises her voice when she  knows she's wrong. BOSSY, BOSSY,  BOSSY. Lose my train of thought when  I see her smile. Most beautiful when  she's angry. Honorable heart...  Peasant feet.
+KATE	f	Ooops. Bread and butter.
+LEOPOLD	m	What's that?
+KATE	f	Bread and butter. It's an old  saying... Well not to you I guess.  You say it when you pass someone in  a cramped space. As close as bread  and butter.
+LEOPOLD	m	I see.
+KATE	f	So. Did you have a good time last  night?
+LEOPOLD	m	It was very interesting.
+KATE	f	Did you find that person of quality?
+LEOPOLD	m	Yes. I did.
+KATE	f	Well... fine. I guess it's time to turn in.
+LEOPOLD	m	Yes.
+KATE	f	Goodnight.
+LEOPOLD	m	Kate?
+LEOPOLD	m	Goodnight.
+CHARLIE	m	Hi. I brought you some flowers.
+PATRICE	m	Charlie!
+CHARLIE	m	Miss Wochuchowski? I was wondering  if you would do me the great honor  of accompanying me to the cinema  tonight. And allowing me the privilege  of escorting you to dinner afterwards.
+PATRICE	m	It's beautiful.
+CHARLIE	m	Gracing me with your conversation  and company would mean the world to  me.
+PATRICE	m	Um... 7:00?
+CHARLIE	m	7:00 is fine. I'll call for you then.
+LEOPOLD	m	Goodbye.
+CHARLIE	m	Goodbye. It worked!
+LEOPOLD	m	Of course it did.
+CHARLIE	m	Leopold, I... I'm... I have no idea  what to do next!
+LEOPOLD	m	Charles. Leave everything to me.
+CHARLIE	m	Not so fast, buddy. You're next.
+LEOPOLD	m	Good morning.
+KATE	f	Good morning. You're up early.
+LEOPOLD	m	I'm terribly sorry!!
+KATE	f	Happens all the time...
+LEOPOLD	m	Dr. Coles?... ah, Kate? I was  wondering...
+LEOPOLD	m	What it is you're working on.
+KATE	f	Oh. It's my computer.
+LEOPOLD	m	I see. Actually I meant the work  itself.
+KATE	f	I'm researching the correlations  between your time and the present.
+KATE	f	I'm TRYING to get you home, Leopold.
+LEOPOLD	m	Oh.
+LEOPOLD	m	I have never seen a woman work as  diligently and extensively before.
+KATE	f	It's made me the man I am today.
+LEOPOLD	m	It's quite a beautiful day, have you  noticed? Perhaps you would permit  yourself some time off and grant me  the privilege of escorting you around  the city this fine Spring afternoon.
+KATE	f	Oh, I'd love to but I can't. I've  got too much work to do. Ask Charlie  though. He'll go with you.
+LEOPOLD	m	I'm afraid it really wouldn't be the  same. It is YOUR company I am seeking.
+KATE	f	Oh, Leopold. I'm so sorry. I can't.
+LEOPOLD	m	I see. Some other time then.
+KATE	f	Yes... Thank you.
+KATE	f	Oh for crying out loud. Would you  look at this? Leopold? The computer's  on the blink again. Cheap piece of equipment. I can't...
+LEOPOLD	m	Maybe if you...
+KATE	f	NO, no, it does this all the time.  Just have to wait it out.
+LEOPOLD	m	I see.
+KATE	f	Darn.
+LEOPOLD	m	...Perhaps it is a sign?
+KATE	f	Oh, you think?
+KATE	f	I... I must have gotten a funny  horse...
+LEOPOLD	m	Allow me.
+LEOPOLD	m	Is that supposed to be my hair? Do  you see how they think my hair looks?
+KATE	f	That's simplicity in it's purest  form. It speaks volumes in it's  nothingness. Whiteness representing  emptiness. Hopelessness. It's bleak.  Bleak!
+LEOPOLD	m	Aaand this represents...?
+KATE	f	Absolutely nothing.
+LEOPOLD	m	I'd almost forgotten how beautiful  it was. Truly. Beautiful.
+LEOPOLD	m	M & M's, CBS, FBI.
+KATE	f	VIP, VHS, VCR.
+LEOPOLD	m	Ah, JFK, PDQ, XYZ.
+KATE	f	I don't know. K.D. Lang.
+LEOPOLD	m	I don't know how you keep up with  it. I'm exhausted.
+KATE	f	So am I.
+LEOPOLD	m	I'll tell you what. Why don't I  prepare dinner tomorrow night? I  never have before. I mean even before  I hit town. "Hit town" How's that? I  can't imagine what it'll taste like,  but I don't think it will be any  worse than your cooking.
+KATE	f	Leopold, I have a date tomorrow night.
+LEOPOLD	m	I see.
+KATE	f	A blind date.
+LEOPOLD	m	Oh, I'm so sorry.
+KATE	f	No, that just means I haven't met  him before. It was set up through  friends.
+LEOPOLD	m	Ah!
+KATE	f	A hazard of single life... I'm turning  in.
+LEOPOLD	m	Another time then.
+KATE	f	I'm sorry.
+LEOPOLD	m	It's quite all right.
+KATE	f	Leopold? I had a wonderful time today.  I can't remember the last time I  took the day off and just played.  I'd forgotten how beautiful this  city can be... I want to thank you  for that.
+LEOPOLD	m	The pleasure was mine.
+CHARLIE	m	It's a very fancy restaurant, Leopold.  Are you sure you can teach me  everything there is to know?
+KATE	f	Just don't swipe the silverware and  give yourself away.
+CHARLIE	m	Nobody's talking to you.
+LEOPOLD	m	It is very simple. I will be your  date. Just behave as you normally  would and I'll correct you along the  way. Now, escort me in.
+CHARLIE	m	Now what?
+LEOPOLD	m	Pull the chair for a lady! Clod.
+KATE	f	No name calling.
+LEOPOLD	m	Well, really!
+LEOPOLD	m	You're not shoveling coal into a  furnace, Charles. Glide the chair in  gently. Gently. Try it again.
+LEOPOLD	m	Well, sit down!
+CHARLIE	m	Now don't burst a vein or anything,  but there are quite a few knives and  forks here. How do I know what each  one's for?
+LEOPOLD	m	Merely start from the outside and  work your way in.
+CHARLIE	m	What kind of beer should I order?
+LEOPOLD	m	Beer!
+CHARLIE	m	I WAS KIDDING!
+KATE	f	How do I look?
+LEOPOLD	m	You look exquisite, Katherine.
+KATE	f	Thank you, Leopold.
+CHARLIE	m	This is a tie I'm wearing.
+KATE	f	You look very nice, Charlie.
+CHARLIE	m	Yes. I know.
+KATE	f	That must be him.
+LEOPOLD	m	Your bland date?
+KATE	f	Blind date.
+CHARLIE	m	Remember to breathe, Kate. And don't  use to many big words. You'll scare  the poor slob away.
+KATE	f	This is always the scary part. "Open the door to my, Mystery Date."
+LARRY	m	Hi. Kate?
+KATE	f	Larry?
+KATE	f	Well, I'm off.
+LEOPOLD	m	Kate, may I have a word with you?
+KATE	f	Now?
+LEOPOLD	m	Yes. I DON'T like the look of him.
+KATE	f	What are you talking about?
+LEOPOLD	m	Cad. I can spot one a mile away. I shall escort you out myself. I  will act as your chaperone.
+KATE	f	That isn't necessary. I'll be fine.
+LEOPOLD	m	It is no trouble.
+KATE	f	Goodnight, Leopold.
+LEOPOLD	m	But...
+KATE	f	Goodnight.
+LARRY	m	Sit down.
+KATE	f	Thank you.
+LARRY	m	So. How am I doing?
+KATE	f	I beg your pardon?
+LARRY	m	How am I doing? First date. You  pleased? You disappointed?
+KATE	f	Undecided.
+LARRY	m	I see.
+LARRY	m	So. What did Jeannie say about me?
+KATE	f	About you? Ah, she said you were  tall.
+LARRY	m	6'3.
+KATE	f	And nice looking.
+LARRY	m	Thank you.
+KATE	f	Thank her. And that you persevere  ardently on Wall Street.
+LARRY	m	Well, I work there...
+KATE	f	That must be very interesting.
+LARRY	m	You've obviously never worked on  Wall Street.
+KATE	f	No.
+LARRY	m	What else did Jeannie say about me?
+PATRICE	m	Have I told you how much I liked  your painting?
+CHARLIE	m	Twice.
+PATRICE	m	If you get tired of hearing about  it, let me know. I have to admit I  was sort of surprised when you called.  I didn't think you liked me, Charlie.
+CHARLIE	m	When I first saw you, I thought...
+PATRICE	m	What do you think now?
+KATE	f	Aaand that's about all Jeannie said.  What did Jeannie say about me?
+LARRY	m	She said you were enormously sexy,  had a great body, but you don't put  out.
+KATE	f	Quite a compelling portrait.
+LARRY	m	Would you say it's an accurate  portrait?
+KATE	f	A masterpiece.
+LARRY	m	So this guy wants to invest $50,000  in a stock that's no good. Here's  what I do...
+LARRY	m	I'm telling you the guy was a DICK!  A total ASSHOLE!
+KATE	f	Who?
+LARRY	m	Jeff Murray. The guy I've been talking  about. Hello?
+KATE	f	Goodbye.
+KATE	f	Don't get up.
+KATE	f	Leopold?
+KATE	f	Leopold?
+KATE	f	Oh, Leopold...
+KATE	f	Oh!
+LEOPOLD	m	Bread and butter.
+LEOPOLD	m	You're back early. Did you enjoy  your date?
+KATE	f	No.
+KATE	f	Here, you've got some...
+LEOPOLD	m	Is it gone?
+KATE	f	No.
+KATE	f	A funny thing happened to me on my  bland date this evening, Leopold. I  really can't explain it. This puffed- up, puritanical, blundering, greenhorn  kept popping into my mind all night  long at the most inopportune times.  I couldn't get rid of him.
+LEOPOLD	m	How inconsiderate.
+KATE	f	Yeah, it was. The harder I tried,  the more persistent he became. He's  conceited and inflated and unseasoned  and it doesn't seem to matter...  He's 134 years old but I can't get  him out of my head.
+LEOPOLD	m	Is he there right now?
+KATE	f	Right here. Larger than life.
+LEOPOLD	m	I'll protect you...
+LEOPOLD	m	Dr. Coles, would you grant me license  to dine with you tomorrow evening at  eight o'clock?
+KATE	f	Permission granted.
+LEOPOLD	m	Until tomorrow, then.
+LEOPOLD	m	You look beautiful.
+KATE	f	YOU do. What have you got there?
+KATE	f	Hamburger Helper!
+LEOPOLD	m	I know you like it.
+LEOPOLD	m	Tell me more.
+KATE	f	Um, where was I? So after my father  died I had to go to work.
+LEOPOLD	m	Have you had many jobs?
+KATE	f	Many. I got fired from all of them.  I'm the most unskilled person I know.  But they were just survival jobs  while I was still in school. I always  knew I wanted to go into science  like my father. And I did.
+LEOPOLD	m	Do you miss him?
+KATE	f	I think about him every day. He was  courtly, just like you.
+LEOPOLD	m	I think you are a remarkable woman  Katherine Coles.
+KATE	f	You just don't get out much. You'd  be surprised how remarkable I'm not.
+LEOPOLD	m	No, it is you who would be surprised.
+LEOPOLD	m	Kate...
+CHARLIE	m	Good morning.
+PATRICE	m	Morning.
+KATE	f	Morning.
+LEOPOLD	m	Good morning.
+KATE	f	Look what you've done!
+LEOPOLD	m	It's nothing.
+KATE	f	Nothing? My own mother never made me  a breakfast like this.
+LEOPOLD	m	I will have to have a talk with her.
+KATE	f	Leopold...
+LEOPOLD	m	Kate...
+KATE	f	About last night...
+LEOPOLD	m	Please sit down.
+LEOPOLD	m	Kate, I had never before been a  considerate man. I had, with  astonishing complacency, squandered  my life, waiting for some incentive  to force me into action. You have  made me see how rare our time here  really is. I am most beholden to you  Kate. And always will be.
+KATE	f	I sense the word "BUT" entering into  this any minute now.
+LEOPOLD	m	Do me the honor Katherine, of becoming  my wife.
+LEOPOLD	m	Shall I take that as a "yes"?
+KATE	f	Leopold! Did you just ask me to marry  you?
+LEOPOLD	m	I love you, Kate.
+KATE	f	That's entirely beside the point...  You're moving way too fast here.  Shouldn't we date first? I mean it's  obvious the first one went well...
+LEOPOLD	m	Where I come from that's pretty much  the way it works.
+KATE	f	Leopold, even though last night we...  loved each other, that doesn't mean  this morning we're engaged. It just  doesn't work that way now.
+LEOPOLD	m	I have loved you since I first set  eyes on you. I cannot imagine my  life without you beside me. I want  to marry you, Kate and make an honest  woman of you.
+KATE	f	Oh Leopold, sit down.
+KATE	f	Relationships these days are much  more complicated than that. Women  today have certain freedoms that men  have been taking advantage of for  centuries. You must have been aware  of that. If you think about it  clearly, it should be obvious to you  that marriage between us is out of  the question.
+LEOPOLD	m	Do you not love me Kate?
+KATE	f	Don't ever think that...
+LEOPOLD	m	Then consider my proposal.
+KATE	f	I'll think it over but I can tell  you now the answer is...
+KATE	f	Possibly.
+LEOPOLD	m	I need you beside me. I will not  give up easily.
+KATE	f	Do what you have to do...
+CHARLIE	m	Morning.
+LEOPOLD AND KATE	m	Morning!
+LEOPOLD	m	Coffee?
+CHARLIE	m	I would like some coffee.
+KATE	f	Of course. Say when.
+CHARLIE	m	When.
+KATE	f	Sorry.
+CHARLIE	m	Uh huh.
+DR. KAY	?	Kate, are you all right?
+KATE	f	Fine! I'm fine.
+LEOPOLD	m	Public office is apparently still  the last refuge for the incompetent.  Show me a man who does not want his  gun registered and I'll show you a  man who should not own a gun. What  is a pee-pee girl?
+KATE	f	What are you reading?
+LEOPOLD	m	The Village Voice. After much  consideration, I have decided it is  time I join the work force.
+KATE	f	As a pee-pee girl?
+LEOPOLD	m	Perhaps not that, but I am determined  to acquire honest employment.
+KATE	f	Leopold, I don't know if that's such  a good idea.
+LEOPOLD	m	Kate, my life back home was beneficial  to no one. I want my new life to  have value. I won't make the same  mistakes twice.
+KATE	f	You have to be patient.
+LEOPOLD	m	I could conceivably wait my whole  life away.
+KATE	f	You're awfully cute when you get  causey.
+LEOPOLD	m	I will not waste any more time. I  must make a difference.
+LEOPOLD	m	Try our fragrance? Would you like to  try our new fragrance today?
+RICH CUSTOMER	m	What is it?
+LEOPOLD	m	It is called, POISON.
+RICH CUSTOMER	m	Oh! I don't think so. Have you got
+LEOPOLD	m	I beg your pardon?
+RICH CUSTOMER	m	Elizabeth Taylor's Passion?
+LEOPOLD	m	Next aisle over.
+LEOPOLD	m	Give your mother-in-law what she  really deserves this season. Give  her some POISON.
+KATE	f	Hi. What's the matter?
+KATE	f	So you know.
+DR. KAU	?	We had to go through your computer  to access information. Your  calculations have been verified and  the final course has been set. Leopold  goes back a week from Friday 1:17  a.m.
+DR. PLODDER	m	How long were you going to keep it a  secret, Kate?
+DR. DRAKE	m	Were you even going to tell us at  all?
+KATE	f	I'm not sure.
+DR. PLODDER	m	Not sure? What can you be thinking?  You can't alter the course of history  and assume everything will be okay.  It won't be. He has his own destiny  to fulfill in his own time.
+KATE	f	You don't understand.
+DR. DRAKE	m	He's going back, Kate.
+DR. PLODDER	m	It's over.
+KATE	f	No... No, no, no.
+CHARLIE	m	There you are. I've only been  hollering for the last...
+CHARLIE	m	Kate? What is it? What happened?
+KATE	f	It's time. Leopold's going back.
+CHARLIE	m	Kate...
+KATE	f	Yup. I'll get his things together.  Tell him tonight.
+CHARLIE	m	Are you all right?
+KATE	f	I'm fine.
+CHARLIE	m	You don't look so fine.
+KATE	f	Well I am. It was wonderful having  him here, Charlie. He was of  invaluable assistance to the project. I'll miss him.
+CHARLIE	m	You'll miss him?
+KATE	f	I will.
+CHARLIE	m	Goddamnit Kate, you love the guy!
+CHARLIE	m	Kate, don't do this. Please. It's  not right.
+KATE	f	What am I supposed to DO, Charlie??  I can't go back. He can't stay. I  can't let him go. I'm not equipped  to deal with this, Charlie. I don't  know how.
+CHARLIE	m	Listen to me, Kate. Don't! Don't be  the ice princess.
+KATE	f	I'm not!
+CHARLIE	m	You are. You can't live your whole  life under a microscope. You've got  to tell him how you feel.
+KATE	f	It's too much, Charlie. It's just  too much.
+CHARLIE	m	You owe it to him.
+KATE	f	I didn't know I could feel like this.  I really didn't know.
+LEOPOLD	m	So I looked him right in the eye and  said, 'Ego is nature's compensation  for mediocrity.' I turned and I  walked. He never said a word... He  probably didn't understand it...  Kate?
+KATE	f	What?
+LEOPOLD	m	Are you all right? You're awfully  quiet.
+KATE	f	I'm fine.
+LEOPOLD	m	How was your day?
+KATE	f	It's time.
+KATE	f	We're sending you back.
+LEOPOLD	m	When?
+KATE	f	A week from Friday, early morning.
+LEOPOLD	m	No!
+KATE	f	It was a mistake, Leopold. It's out  of our hands. We can't POCKET people  from history like stolen jewels. We  haven't the right... I'm sorry. We'll  miss you.
+LEOPOLD	m	Is that all?
+KATE	f	What do you want me to do, fall apart?  You'd still be leaving. It wouldn't  solve anything.
+LEOPOLD	m	Who is this woman sitting across  from me?
+KATE	f	What do you want me to say, Leopold?
+LEOPOLD	m	Tell me that you love me as I love  you. Let me hear you say it.
+LEOPOLD	m	I will not do this. I'm sorry.
+KATE	f	Leopold!
+LEOPOLD	m	Good God. Look at you. You look awful.
+KATE	f	You should see what I'm looking at.
+LEOPOLD	m	I went back to the restaurant. They  told me you went out looking for me  right after I left.
+KATE	f	That was pound cakes ago. Where were  you?
+LEOPOLD	m	I had a lot to think over.
+KATE	f	Such as?
+LEOPOLD	m	Just where I stand around here.
+KATE	f	We should have come up with something  together. I might have been spared  ten or seventy pounds.
+LEOPOLD	m	Is that an apology?
+KATE	f	I'm sorry for what I said.
+LEOPOLD	m	I'm not going anywhere.
+KATE	f	Yes you are...
+LEOPOLD	m	I'm not going. I'm staying here with  you.
+KATE	f	But? You can't! We have no right  to...
+LEOPOLD	m	It is my destiny. It is my decision.
+KATE	f	Have you thought about what you'd be  sacrificing? Your influence? Your  authority?
+KATE	f	Your family, your whole way of life,  everything?
+KATE	f	You're not just feeling sorry for me  because I ate the contents of the  refrigerator, are you?
+LEOPOLD	m	I love you, Kate. The single most  miraculous event in my life was not  how I arrived here, but that when I  did, I found you.
+KATE	f	Here comes the mushy part!
+LEOPOLD	m	After much consideration I've come  to the conclusion I no longer desire  a large estate with a full staff and  ornate grounds.
+KATE	f	That's good, because if you're staying  I'll probably get fired again. What  do you desire?
+LEOPOLD	m	A beautiful wife, a small home in  the middle of nowhere, lots of  children, and fine schools with PMS  meetings every other Sunday.
+KATE	f	...PTA?
+LEOPOLD	m	PTA.
+KATE	f	I love you too. I do, Leopold. I  love you, too.
+DR. PLODDER	m	This is outrageous! I won't allow  it!
+LEOPOLD	m	The decision is not yours to make.
+DR. PLODDER	m	Do you realize what you're saying?  You're tampering with fate,  preordinance, and God himself.
+LEOPOLD	m	We do that every day, doctor. It is  called CHOICE.
+DR. KAU	?	Dr. Carlson is still over there. You  can't simply abandon her. We have to  get her back.
+KATE	f	Do you think I'm not aware of that?  Do you think a minute goes by that I  don't feel responsible for her? But
+DR. KAU	?	Only one person can return. The  capsule accommodates only one person.  Leopold has to find her.
+LEOPOLD	m	Perhaps she does not wish to return.  Perhaps she's found greater happiness  in her new life. It happened to me.
+KATE	f	Maybe this is her destiny. Maybe  she's of more important use back  there.
+DR. KAU	?	Julia Carlson died in the Center  Factory fire of 1897, two years after  she arrived. She was 37 years old.
+DR. DRAKE	m	Dear lord.
+DR. KAU	?	She was a friend, Kate. She was never  expected to sacrifice her life for  this experiment. I won't be a party  to it. I know what I'm asking...  There's no way we can force you to  go. Just think it over.
+KATE	f	You're going back aren't you?
+LEOPOLD	m	I keep seeing that poor woman's face.  She was terrified.
+KATE	f	You said you wouldn't leave me...  I've never been lucky. Not one time.
+LEOPOLD	m	Six months ago I wouldn't have given  it another thought. I wouldn't have  lost a moment's sleep. You've changed  me, Kate. There is no turning back.
+KATE	f	I wouldn't WANT you to change. That's  what's tearing me up inside. Either  way I lose... You've changed me too.  I can't go back to my old life  anymore. I can't live like that again.  God my heart is pounding like a drum.  I've never been so scared in my life.  Take me with you, Leopold. God. Take  me with you.
+LEOPOLD	m	You don't realize what you're saying!  You don't understand the kind of  life you'd lead. What you'd be giving  up.
+KATE	f	I'd be with you.
+LEOPOLD	m	I can't ask that of you.
+KATE	f	Just ask me... Just ask.
+LEOPOLD	m	Come back with me.
+KATE	f	Yes!
+KATE	f	Where are you taking me?
+LEOPOLD	m	This is something I've wanted to do  for a long time.
+KATE	f	Leopold?
+LEOPOLD	m	This will be very therapeutic.
+DR. DRAKE	m	The time tables have been set. Just  strap yourself in and you'll be fine.
+DR. PLODDER	m	You have only a twenty four hour  leeway before the machine is set to  return to us. You must find Carlson  within that time frame and get her  on board or there will be little  chance of her finding a way back.
+LEOPOLD	m	I understand.
+DR. DRAKE	m	It's been a real pleasure. You have  a much nicer smile than Ronald  Coleman.
+LEOPOLD	m	The privilege was mine.
+DR. KAU	?	Goodbye Leopold, and thank you.
+LEOPOLD	m	Oh, my.
+DR. KAU	?	Don't worry. We'll send Kate to you...  as soon as possible. I'll see to it  myself.
+LEOPOLD	m	See that you do.
+DR. KAU	?	You have my word on it.
+DR. DRAKE	m	Four minutes and counting.
+CHARLIE	m	Well? I'll make this quick. Goodbye.
+LEOPOLD	m	Goodbye. I shall miss you Charles, more than  you know.
+CHARLIE	m	I'll miss you too, Leopold... You're  the only one who knows how to program  the VCR... Take care of my sister.
+LEOPOLD	m	I will.
+CARLSON	m	You better. Take care of yourself  too while you're at it... So long.
+KATE	f	I don't have any words for this.
+LEOPOLD	m	I will see you soon.
+KATE	f	I know.
+LEOPOLD	m	You'll be with me all the time.
+KATE	f	I know. I brought you something.
+KATE	f	So you wouldn't forget me.
+LEOPOLD	m	Kate...
+KATE	f	So you wouldn't think this was all a  dream.
+KATE	f	Don't forget about me.
+LEOPOLD	m	I love you, Kate.
+KATE	f	Wait for me.
+LEOPOLD	m	For as long as it takes.
+KATE	f	I will come back to you! I will!
+LEOPOLD	m	I'll be waiting.
+DR. DRAKE	m	It's time Leopold.
+DR. PLODDER	m	9 8 7 6 5 4...
+DR. PLODDER	m	3 2 1!
+DR. PLODDER	m	I cannot in good conscience let you  go. It's out of the question.
+DR. DRAKE	m	I can't be a part of it either Kate.  I'm sorry.
+DR. KAU	?	It's too big a risk.
+DR. PLODDER	m	We cannot guarantee your child's  safety. It's that simple.
+KATE	f	He's waiting for me. I can feel it.  Oh, Leopold...
+CARLSON	m	Hi. Does Katherine Coles live here?
+LEO	m	Yeah.
+CARLSON	m	You're Leo aren't you? You don't  remember me but I knew you when you  were yea big.
+LEO	m	Yeah.
+CARLSON	m	I'm Julia. I'm an old friend of your  mothers.
+LEO	m	We had spaghetti at our house 4 times  this week.
+KATE	f	Leo you don't have to holler like  that. I'm not deaf...
+CARLSON	m	Kate?
+KATE	f	...Carlson?!
+KATE	f	Carlson, I don't believe it. It's  been... I don't know how many years.  What are you doing here.
+CARLSON	m	I came to see you, sweetie.
+KATE	f	You remember my son, Leo?
+CARLSON	m	We've just been getting acquainted.
+KATE	f	Well, come inside. Come inside.
+KATE	f	Would you like some tea? I wish you  had called before you come over. It  would have given me a chance to  straighten up the house... myself...  my life. Tell me what you've been up  to. Catch me up on everyone. I heard  you received some big endowment or  something. I was going to write,  then call, but...
+CARLSON	m	It's all right, Kate. I understand.
+CARLSON	m	You'd leave in 9 days. That's not a  lot of time to get your affairs in  order... And I warn you, it's nearly  impossible for an intelligent woman  back there.
+CARLSON	m	He's a fine boy Kate. Leopold would  be proud. We're aware of your  situation but we felt when the time  came, you deserved the option.
+LEO	m	Who was that lady?
+KATE	f	Just an old friend.
+LEO	m	What she want?
+KATE	f	Nothing important. You brush your  teeth?
+KATE	f	Then give your old mom a hug and go  to bed. Good night, cookie.
+LEO	m	Good night.
+KATE	f	He's so YOUNG, Charlie.
+CHARLIE	m	He's old enough.
+KATE	f	Look at that idiotic expression on  his face.
+CHARLIE	m	He's happy.
+KATE	f	Of course he's happy. All weddings  are happy. It's the living together  afterwards that causes all the  trouble.
+KATE	f	Oh, you're so young... I love you,  Leo. Always remember that...
+LEO	m	Mom, we're only moving to Denver.
+KATE	f	I know, cookie. I know.
+KATE	f	Well...
+CHARLIE	m	I know. Me too.
+KATE	f	What will I do without you, Charlie?
+CHARLIE	m	Live happily ever after.
+CARLSON	m	Kate, it's time.
+LEO	m	Here. It's a letter for my father.  Tell him about me and... um, tell  him I love him. I want him to know  me.
+KATE	f	Leo...
+LEO	m	Mom, I want you to go.
+KATE	f	But...
+LEO	m	Go.
+CARLSON	m	Ready!
+CARLSON	m	9, 8, 7...
+CARLSON	m	3, 2, 1!
+FLIRT	m	I just love a starched white shirt.  It's so elegant.
+LEOPOLD	m	Thank you.
+FLIRT	m	Skeeky.
+LEOPOLD	m	Yes. You dance like an angel Miss  Beall. You light up the room around  you. I thank you.
+FLIRT	m	Thank YOU.
+LORD WHITEHEAD	m	Who is that dancing with Leopold?
+LADY WHITEHEAD	f	I've never seen her before.
+

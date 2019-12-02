@@ -1,0 +1,1087 @@
+CAPTAIN	m	A variation on our squid ink risotto.  Trace of Moselle, to sweeten the stock.
+CAPTAIN	m	Don't kill us on this one, it's a long shot.
+JULIANNE	f	I'm writing it up as inventive and confident.  Which it is.  Off the record, I'll need an extra boat of the ink.  Or a salt shaker.
+CAPTAIN	m	I'll toss a coin.
+DIGGER	m	Is it ever embarrassing, having your bum kissed in public?
+JULIANNE	f	If your ass isn't chapped, you are not a good-writer of note.
+JULIANNE	f	Is it sad to be an editor, and bask only in reflected insincerity?
+DIGGER	m	I've adjusted, and thanks for asking.
+JULIANNE	f	See the pull of a book like Twenty Chefs, is not who I put in.  It's who I leave out.
+DIGGER	m	Which is everyone you couldn't get in.
+JULIANNE	f	Plus some guys whose food I don't like.
+DIGGER	m	This fellow from Newsday ever call?
+JULIANNE	f	I'll buzz my machine.  Inventive and confident, yeh?
+DIGGER	m	Needs salt.
+JULIANNE	f	Is Newsday a real interview, or just some cute guy you're setting me up w...
+DIGGER	m	... I don't send you men, anymore. You don't know what to do with them.
+JULIANNE	f	Sometimes I do.  Like for two months.
+DIGGER	m	... weeks. Hey.  It's Michael.
+MICHAEL	m	God, it must be, what, months, huh? I can't wait to talk to you.  I'm in Chicago at the Ritz Carlton...
+MICHAEL	m	Call me four in the morning, whatever, we gotta talk.
+DIGGER	m	Who called? The man of the moment?
+JULIANNE	f	No, no, the opposite.  That's my best friend, Michael O'Neal. He sounds desperate to talk.
+DIGGER	m	The wandering sportswriter.
+DIGGER	m	I didn't know you two had a past.
+DIGGER	m	The look in your eye.
+JULIANNE	f	Sophomore year at Yale we had this one hot month.  And, you know me, I got restless...
+JULIANNE	f	So I get up the nerve to break his heart.  I tell him there's this dreamy exchange student from Pakistan who wants to, you know...
+JULIANNE	f	And he gets this... look.  He says, "I knew I couldn't hold your interest", which, of course, makes me feel like the shallow bitch I've always been...
+JULIANNE	f	Then he says, "But what makes me want to cry.  Is I'm losing the best friend I ever had."
+JULIANNE	f	And when he said it, I knew. I felt the same.
+JULIANNE	f	So I cried.  For maybe the third time in my life.  And I kissed him.  And we've been best friends ever since.
+JULIANNE	f	Nine years, we've seen each other through everything.  Losing jobs, losing parents, losing lovers... travelled all over, we've had the best times.  The best times of my life, maybe.  Just drinking and talking.  Even over a phone.
+DIGGER	m	Kindred spirits.
+JULIANNE	f	No, he's nothing like me.  He's like you.  Only straight.
+JULIANNE	f	He's the salt of the earth.  Kind and loyal and generous.  The one constant thing in my life, is he'll always be there.
+DIGGER	m	He's still in love with you.
+JULIANNE	f	Maybe.  But it never gets in the way.
+DIGGER	m	Well, he has a true friend in you.
+DIGGER	m	Whenever George tells someone how steadfast I am, he always makes me sound boring.
+JULIANNE	f	Solid and genuine is not boring. Michael can be completely insane...
+JULIANNE	f	There was this one night in Tucson, like six years ago... we got amazingly drunk, I mean, Keith Richards time...
+JULIANNE	f	God, I haven't thought of this in so long...
+JULIANNE	f	I can even believe we did this...
+JULIANNE	f	Could you give us a minute?
+JULIANNE	f	You won't miss much, I promise there was no sex.
+DIGGER	m	I've lost interest.
+JULIANNE	f	He takes a razor from his dinky little dopp kit, cuts his fingertip, takes my hand, does the same to me...
+DIGGER	m	Blood oath.
+JULIANNE	f	He says, "Swear.  When we're both 28, if we've never been married... we marry each other!"
+JULIANNE	f	See, he figured that would be a sign from God, or someone of comparable authority, that we'd misunderstood our destinies.
+JULIANNE	f	We never talked about it again.  I don't know what made me think of... I do.
+DIGGER	m	You'll be 28 in three weeks. How old is he?
+JULIANNE	f	You think...
+DIGGER	m	Desperate.  To talk.
+JULIANNE	f	He's not proposing marriage, there's no way I'm buying one word of th...
+DIGGER	m	Then why are you compulsively eating? If you're not hysterical?
+JULIANNE	f	He can't do that to me!
+DIGGER	m	We're about to find out.
+JULIANNE	f	When I turn him down...
+JULIANNE	f	We'll never be the same.
+DIGGER	m	I have a suggestion...
+JULIANNE	f	I'll have to kill myself before I call him. That was it.
+JULIANNE	f	This is awkward timing, Michael, I just joined this convent, and they never give your deposit ba...
+JULIANNE	f	Michael, I'm married.
+JULIANNE	f	... and I have two weeks to live.
+JULIANNE	f	Michael, I'm trying to be gay, don't confuse me.
+JULIANNE	f	I was calling Michael O'Neal, but seeing it's so late, I could just leave a mes... Good evening, sir.  You've been enrolled in the Obscene Call Of The Month Club, and th...
+MICHAEL	m	Hey! God, it's so good to hear your voice.
+MICHAEL	m	I've been calling for days!
+JULIANNE	f	Yeh, well my old machine kept eating messages.  I tried constructively ignoring it in hopes of improvement, but finally... Look, I have to ask you something.
+MICHAEL	m	Something so incredibly important, that if you turn me down, I don't know what I'll d... I just have to tell you this one thing first, okay? I mean this will hand you the biggest laugh of your adult life...
+JULIANNE	f	I was thinking about you, and I remembered this unbelievably insane night we spent together in Tucson, like a thousand years ago?
+JULIANNE	f	I mean, there's no way you could possibly remember the... Are you kidding?
+MICHAEL	m	I think about that night all the time.
+MICHAEL	m	But it's not why I called.
+MICHAEL	m	I called because I met someone.
+JULIANNE	f	Well, that's great.  You haven't really had anybody since Dingbat Jennylee...
+MICHAEL	m	You don't understand.  I've never felt this way about anybody!
+MICHAEL	m	And she's all wrong for me!
+JULIANNE	f	Well, somet...
+MICHAEL	m	I mean she's a junior at Chicago University, she's twenty years old! Like when I first met you.
+MICHAEL	m	And her dad is like this billionaire who owns the White Sox and some cable empire, and you know how I've always been miserably awkward around those kinda stuffed suits...
+JULIANNE	f	Well, sure.
+MICHAEL	m	But they're so down to earth, such wonderful people...
+JULIANNE	f	You've met her parents. Well.  Sure.
+MICHAEL	m	See.  We're getting married. This Sunday.
+JULIANNE	f	Michael, it's Wednesday night, you can't possibly be getting married on Su...
+MICHAEL	m	Actually, it all starts tomorrow. It's one of those four-day weddings, with all the traditional events, and ten million people flying in from Madagascar such. Aren't you... working this weekend? I mean, is that responsible?
+MICHAEL	m	Well, the Sox are at home.  SI's letting me do a profile on the Big Hurt.  That's Frank...
+JULIANNE	f	... Thomas, yeh.
+MICHAEL	m	Jules.  I'm scared.
+JULIANNE	f	Well, maybe we should talk ab...
+MICHAEL	m	I need you.
+MICHAEL	m	If you can't come.  And hold my hand.  I'll never get through this.
+MICHAEL	m	Please come, please.
+JULIANNE	f	W...
+MICHAEL	m	I can't wait for you to meet her!
+JULIANNE	f	OR, IN THE ALTERNATIVE, WHY AREN'T
+JULIANNE	f	YOU, YOU, YOU! IT'S ALL ABOUT
+DIGGER	m	You can't get lung cancer and die in four days.  Go to Plan B.
+JULIANNE	f	You have no appropriate sense of emergency.  My best friend is ruining his life.
+DIGGER	m	No, he's ruining yours.
+JULIANNE	f	Same difference.  If you love someone, it's your duty to save them from themselves.
+DIGGER	m	You have a real philosophy of life.
+JULIANNE	f	It's called the Law of Love, asshole. Why don't we have a drink? You could catch a later fl...
+JULIANNE	f	I'm a busy girl.  I've got four days to break up a wedding, and steal the bride's fella.
+JULIANNE	f	He's adored me for nine goddamn years.
+DIGGER	m	I can see why.
+JULIANNE	f	She knows him maybe five seconds, plus she has billions of dollars, plus she's perfect, so don't go feeling sorry for Miss Pre-Teen Illinois!
+JULIANNE	f	And don't go feeling sorry for me, you don't know me that well. We're only friends. I stand corrected.
+JULIANNE	f	I'm making a big mistake, huh? Maybe you'll learn something.
+JULIANNE	f	I'm gonna bring him back, man. Against all odds, y'know.  Cos if I don't...
+JULIANNE	f	... I gotta live with it forever.
+JULIANNE	f	And at my wedding.  I'll be the only bride with her own best man.
+KIMMY	f	This just makes everything so perfect.
+KIMMY	f	All I've heard, from the day I met Michael, is Julianne this, and Julianne that...
+JULIANNE	f	Well, we're...
+KIMMY	f	I think the best part of marrying this guy is finding you.
+KIMMY	f	I've never had a sister.
+KIMMY	f	My heart's in my throat, here. Right off, I have to ask this monstrous favor...
+JULIANNE	f	You need a few dollars.
+KIMMY	f	Dry.  Just like he said.
+JULIANNE	f	Excuse me?
+KIMMY	f	I can be quick.  I can even be funny.
+KIMMY	f	But I can't be dry.
+JULIANNE	f	Can you watch the road?
+KIMMY	f	See.  Dry.  It's in the delivery.
+KIMMY	f	This is a very presumptuous and burdensome fav...
+JULIANNE	f	... you want a menage on your wedding night. No, that wouldn't be burdensome.
+KIMMY	f	My classmate Angelique shattered her pelvis line dancing in Abeline on Spring Break.
+KIMMY	f	Be my maid of honor.
+KIMMY	f	You can't believe what it'd cost to bring in a temp.
+JULIANNE	f	Uh.  How about promoting a bridesmaid?  Someone you know for at least forty-five minutes.
+KIMMY	f	The bridesmaids are my only two female relatives under forty. Identical twin debutantes from Nashville, who are basically vengeful sluts.  With amazing bodies!
+JULIANNE	f	Which was the disqualifying factor?
+KIMMY	f	The twin part.  I like to remain impartial in my contempt.
+KIMMY	f	This means I have four days to make you my new best friend...
+KIMMY	f	And since I already know everything about you.  Including intimate facts I'm mortified to have heard, but too envious to forget.  It's time for you to learn about me...
+KIMMY	f	Force yourself.  To get personal. Sounds like a plan.
+KIMMY	f	If you'd rather the lilac...
+JULIANNE	f	I thought bridesmaids had to wear the same dress.
+KIMMY	f	Not you.  You won't be comfortable unless you're distinctive.
+JULIANNE	f	What else did he tell you...
+KIMMY	f	... you hate weddings, you never go.
+KIMMY	f	You're not up for anything conventional, or popularly assumed to be female priorities. Including marriage.  Or romance. Or even... ... not even love.
+JULIANNE	f	That's why Michael and I were the wrong fit.  Right from the start.
+KIMMY	f	He said that, too.
+KIMMY	f	Well, I thought I was like you. And proud to be.  Until I met rumpled, smelly old Michael...
+KIMMY	f	And then I found I was just a sentimental schmuck.  Like all those flighty nitwits I'd always pitied.
+KIMMY	f	Funny world, huh?
+JULIANNE	f	I need a smoke.
+KIMMY	f	It's mostly the seam.  Let's get this to Carlos.  Just.  Don't.  Move.
+JULIANNE	f	Don't you have to be somewh...
+KIMMY	f	... just my bridal shower.  And Michael has to meet our dads and the groomsmen at Comiskey for a one-thirty game.
+KIMMY	f	Other than that...
+JULIANNE	f	Come in, and shut the...
+JULIANNE	f	... door. Should I turn around, or someth...
+JULIANNE	f	Michael, I'm in my underwear!
+MICHAEL	m	We've seen each other a lot more naked than this.
+MICHAEL	m	I mean, we were skinny-dipping in Greece, just as pals, less than two years ago.
+JULIANNE	f	Things are different now. Well.  I leave with two thoughts in my mind. You're still a very pretty girl.
+JULIANNE	f	What's the sec...
+MICHAEL	m	Mirrors.
+JULIANNE	f	... luckiest guy in the Northern Fucking Hemisphere, is all I'm s...
+KIMMY	f	What? Because I'm a little understand...
+JULIANNE	f	... most sentimental schmucks I pity want a honeymoon after their wedding.  Just to top it off.
+KIMMY	f	I can't expect the NBA to hold up the playoffs...
+KIMMY	f	I'm excited Sports Illustrated gave him this kind of shot, he's only there a ye...
+JULIANNE	f	So your honeymoon is exactly where?
+KIMMY	f	It depends.  If San Antonio sweeps Sacramento, we could start there. Or Phoenix.  Or depending on Indiana- Clevel...
+JULIANNE	f	... garden sports, all.  Little swing of maybe fifty degrees Fahrenheit, represents a packing challenge, but there's fine food and cocktails at a choice of Embassy Suit...
+KIMMY	f	It's his career, I'm supportive. Look, I've been everywhere, I've seen the world, I've laid on a beach. I want to be with the man I love. That's what makes it a honeymoon.
+JULIANNE	f	I'm just saying he's lucky.
+JULIANNE	f	Takes one woman in a billion to put up with his array of shit. The guy is a one-man festival of idiosync...
+JULIANNE	f	Well.  You've been introduced to the symphonic range of...
+KIMMY	f	... his snoring, yeah.  He says it's worse than ever.  That snaffle one...?
+KIMMY	f	Well now it has this sorta phlegm rattle behind it...
+KIMMY	f	Guess what? Earplugs work.
+JULIANNE	f	How about...
+KIMMY	f	... cigars in bed? I broke him on that.  But the bathroom's a swamp, he wears Reeboks to dinner, tells the same, admittedly funny, jokes three hundred times...
+KIMMY	f	... loves action movies, subscribes to Playboy for godsake, reads over my shoulder, can't keep track of the checks he writes...
+KIMMY	f	He sucks soup through his front teeth.
+JULIANNE	f	A trademark move, don't touch it.
+KIMMY	f	But he sure can kiss.
+JULIANNE	f	It's been awhile.  I'll take your word.
+KIMMY	f	After two weeks of cataloguing all his faults, I made a command decision that changed my life.
+KIMMY	f	I threw the list away.
+KIMMY	f	He's not a balance sheet, so many wonderful qualities, so many faults.  He's Michael.
+KIMMY	f	And loving him means loving all of this.
+JULIANNE	f	Do you get nervous in small confined spaces?
+KIMMY	f	So it's sweet of you to be protective...
+JULIANNE	f	Let me rephrase that...
+KIMMY	f	   But nothing ever could, everdid, give me a moment's pauseabout this marriage...
+ JULIANNE	f	   Do you get hysterical in smallconfined spa...
+KIMMY	f	... except one.
+JULIANNE	f	Oh, yeah?
+KIMMY	f	You.
+KIMMY	f	You'll always be there.  In his mind.  The perfect creature he loved for all those y...
+JULIANNE	f	Well, perfection can get wearing after whi...
+KIMMY	f	I'm not joking.  I had to face up to all my competitive drives, and believe me, I've got 'em.
+JULIANNE	f	No.
+KIMMY	f	And the answer was so simple.
+JULIANNE	f	I was gonna predict that.
+KIMMY	f	You win.
+KIMMY	f	You're enshrined in his heart and memory.  Unassailable. Which works out great.
+JULIANNE	f	I've missed a step.
+KIMMY	f	He has you on a pedestal.  And me in his arms.
+JULIANNE	f	Jesus, we're trapped!
+KIMMY	f	Ju...
+JULIANNE	f	No, this happened to me once, almost, it was excruciating!
+JULIANNE	f	There's a panel up there, you could boost me...
+JULIANNE	f	You know how little air is in these things? I've seen statistics! Once you're trapped between floors...
+JULIANNE	f	God! Then the door is jammed!
+MANDY	f	Mah Gawd, it's the bride, and the woman she'll nevah live up to! That would be us.
+SAMMY	m	Did she say th' wrong thang agin? It is so in character!
+JULIANNE	f	I'm Julianne Potter, and...
+SAMMY	m	... we'd be the vengeful sluts. We came in complementary colors.
+MANDY	f	Have you sized up the groomsmen, Jules?  As M. of H., you get first fuck.  Don't pick the short, hairy, rich one.
+JULIANNE	f	... unless he has a hump. Dry.  I told you.
+WOMAN'S VOICE	f	Is this Michael's Julianne?
+ISABELLE	f	I'm Isabelle Wallace, and my handsome new son scarcely did you justice, girl.
+ISABELLE	f	Now, my husband says to scoot you over to the ballpark, so you can hang with Michael.  But first, you have to meet a lot of really old women.
+ISABELLE	f	That is, if you've absorbed enough profanity. We sayed one fuck.
+JULIANNE	f	Desperate measures! Do you hear me?  Digger, are you the...
+JULIANNE	f	I don't know, hit men, whoopee cushions, saltpeter, something! The girl is impossibly impregnable. Even I want her to get the guy!!
+JULIANNE	f	Tell him the what? The truth...??
+JULIANNE	f	That desperate.  May I never get.
+JULIANNE	f	Which of you gents ordered two beers?
+MICHAEL	m	Wow!  Lemme give you a ha... Michael.  You'll unwittingly imply that I'm clumsy.
+MICHAEL	m	Think of that.  And as well as I know you.
+  BODYGUARD	m	Sorry, ma'am, I'm on duty. It's Miss.  And thanks.  That leaves two for me.
+MICHAEL	m	Julianne Potter, this is Hank and Gerry from SI, and you know Daniel...
+MICHAEL	m	Oh.  This is my father-in-law, Walter.
+MICHAEL	m	How are you doing this? You're on drugs.
+  WALTER	m	If he gives you grief, I'll have him skillfully beaten, where the wounds won't show.
+JULIANNE	f	I guess getting him whacked would be politically out of the question.
+WALTER	m	Under the circumstances.  Charmed to know you, Jules.
+JULIANNE	f	Nice meeting you, too, Walt.
+MICHAEL	m	And, this guy, you know...
+JULIANNE	f	Papa Joe.
+JOE	m	   You gonna be my boy's best man?
+JULIANNE	f	Best everything, Joe.  But I'm going to dance with you.
+MICHAEL	m	Dance?  You don't dance!  You learn to dance??
+JULIANNE	f	Moves.  You've never seen.
+MICHAEL	m	You're an impostor! What have you done with my best friend?
+MICHAEL	m	And how was the hot dog?
+MICHAEL	m	Cheap and unnecessary.  We were looking anyway.
+JULIANNE	f	I just admire your maturity, that's all.  I mean, there are people who would find that kind of perfection boring.  Day after day, year after year...
+MICHAEL	m	... see, that's what I thought at first.  How can you like someone that perfect? No potential for long-range livability.
+MICHAEL	m	Luckily.  The closer I watched, the more the fault came into focus.  Each imperfection its own adorable slice of vulnerability.
+JULIANNE	f	Such as.
+MICHAEL	m	She's too genuine.
+JULIANNE	f	Hate that.
+MICHAEL	m	How can you trust someone you can never mistrust?
+JULIANNE	f	What's next?
+MICHAEL	m	No matter how many times I leave the toilet seat up, she forgets and puts it down.
+JULIANNE	f	Endearingly absent-minded.
+MICHAEL	m	My very point.  Here's another one...
+MICHAEL	m	Every day.  She makes the bed.
+JULIANNE	f	Quite the little eccentric.
+MICHAEL	m	At first, I thought it was a gag, but she's always done it!
+JULIANNE	f	Is there a coup de grace in here, somewh...
+MICHAEL	m	She admires.  Tommy Lasorda.
+JULIANNE	f	Waiter! Check, please!
+MICHAEL	m	She finds him "personable."
+JULIANNE	f	Can that kind of defect be passed on genetically?
+MICHAEL	m	Then again.  She has a few good traits.
+JULIANNE	f	Gimme like, eight and nine off the top ten list...
+MICHAEL	m	First girl I ever knew.  Who lets me give her a bath.
+MICHAEL	m	And when I hug her, even in public.  I don't have to let go right away.  She lets me hold her as long as I want.
+MICHAEL	m	Nice kid, don't you think?
+JULIANNE	f	Looks like, from here.
+JULIANNE	f	How'd you find this pl...
+KIMMY	f	Lived here my whole life, never heard of it.  Until our first date.
+KIMMY	f	He finds all these spots, everywhere he goes, it's a mystical gift. Jesus, one d-back from the Bears knows a place...
+KIMMY	f	It's not just clubs.  This guy always knows the best everything. The best guitar store, the best beef ribs, the best Horowitz record, was he always like the...
+JULIANNE	f	... always.  The best dim sum, the best camping stuff...
+KIMMY	f	Stop, we're embarrassing h...
+JULIANNE	f	... best valley in New Zealand, best... women's shoes...
+MICHAEL	m	I tried those on.  When you weren't looking.
+JULIANNE	f	Where was that, Florence, huh?
+MICHAEL	m	Firenze.
+JULIANNE	f	The Vespa? Me hanging on behind in the rain all night?
+MICHAEL	m	Till the gas ran out.
+KIMMY	f	I love Florence.
+JULIANNE	f	Take her there.
+JULIANNE	f	I mean, now.  She's perky, she deserves a honeymoon.
+JULIANNE	f	I heard.  If San Antone sweeps Sacramento.  What is this shit? You gotta get off the road by September anyway, when does Fall Quarter start?
+KIMMY	f	Uh.  I'm not coming back.  For senior year.
+JULIANNE	f	Don't architects find a degree, sort of... an asset?
+KIMMY	f	Well, the school will be here. Architecture will still be around. Right now...
+MICHAEL	m	I travel every week.  College ball, motor sports, training camps...
+KIMMY	f	The most important thing. Is being together.
+KIMMY	f	I'm just a baby.  I've got all... the time... in the world.
+MICHAEL	m	Because I could come...
+KIMMY	f	To the twins' soiree?  So they can paw you and drool...? They're gonna drool anyway!Enjoy each other.
+JULIANNE	f	Should I whistle down a cab?
+MICHAEL	m	Hey, cabs are expensive.  I'm cheap, remember?
+JULIANNE	f	Sometimes.  About the dumbest things.
+MICHAEL	m	The El's right down the street. Unless you're afraid of the neighborhood.
+JULIANNE	f	No.  I'm always safe with you.
+JULIANNE	f	Pretty amazing girl, you've got. Make that kind of sacrifice.
+MICHAEL	m	What, leaving school...
+JULIANNE	f	... all of it.  She's leaving her family, her friends, everything she knows.  She's putting her career on hold, and she seems a pretty ambitious, driven, kind of pers... In her way.
+JULIANNE	f	All to follow you in this dumb job, where you travel 52 weeks a year to College Station, Texas, and such.  It's not a job for a grown man, Michael, Peter Pan never married. I don't think she's naturally the... submissive type.  Aren't you afraid she's gonna choke on this stand-by-your-man shit after awhi... No.
+JULIANNE	f	I mean Walter owns the Sox, cable sports... most girls in her spot would be angling to get Daddy to offer you some juicy gig right here in t...
+MICHAEL	m	She would never.  Never.  Even think of that.
+JULIANNE	f	I guess you're right.  That would be deceitful... manipulative... controlling... emascula...
+MICHAEL	m	I got the point.
+JULIANNE	f	Still.  All's fair in love and w...
+MICHAEL	m	That would be a girl.  I don't even know. Forgive me, okay? I was talkin' crazy.
+JULIANNE	f	It's Albanian, I think.  Or Mongolian. Or Canadian.  One of those.  I bought it downstairs...
+JULIANNE	f	I figure, what the hell.  Can it make me look worse?
+JULIANNE	f	Dig, of course.  Of course, of course, of course, of course I have a plan.  Certainment!
+JULIANNE	f	How? I ask myself, what would Lucy Ricardo do in this situa...
+JULIANNE	f	Well, one worked, once.
+JULIANNE	f	Ricky wouldn't let her in the show.
+JULIANNE	f	I recall it differently, but we digress.
+JULIANNE	f	So in the version, you're Ethel, with better fashion instincts.
+JULIANNE	f	This puts you in charge of Plan B, the unprincipled and insanely dangerous back-up plan...
+JULIANNE	f	In case simple lying doesn't work.
+JULIANNE	f	Question.  What happens if you brush your teeth with shampoo?
+JULIANNE	f	HOLD ON.  I'M COMING IN FOR YOU!
+JULIANNE	f	You okay? This is one of those problem phones.
+JULIANNE	f	Right.  Your role.  You know guys from Sports Illustrated, yes? I mean, you can walk right in there...
+JULIANNE	f	You could get access to letterhead, for example. ... or even, maybe, their fax.
+JULIANNE	f	It's an homage thing.
+JULIANNE	f	Awkward girls grow up on Audrey Hepburn movies.  You wouldn't understand.
+KIMMY	f	Anyway, I think you're wrong.
+KIMMY	f	What you were saying before.
+KIMMY	f	About Michael's job.
+JULIANNE	f	Oh, that.  I forgot I even said th...
+KIMMY	f	I just think you're wrong, is all.
+JULIANNE	f	Probably am.  Forget I brought it up.
+KIMMY	f	I mean, he loves his job.
+JULIANNE	f	Bad games, bad towns, bad pay, bad flights, bad hotels, real bad food. Homeless, rootless, lonely, maybe your copy gets into one issue out of four...
+JULIANNE	f	What's not to love?
+KIMMY	f	But he always says...
+JULIANNE	f	... whatever is manly and independent.
+JULIANNE	f	Why would he trade that for running, say, a big piece of the PR at a powerful, complex, challenging conglomerate like your dad's?
+KIMMY	f	That's just the sort of thing my father and I discussed.
+JULIANNE	f	I'm not stupid.  Say, how about this?
+KIMMY	f	For the twins? What in the world is th...
+JULIANNE	f	Gold nose hair clippers.
+KIMMY	f	So you don't think Michael's as happy with his job as...
+KIMMY	f	Gold dog collars? They don't have dogs.
+JULIANNE	f	Hello.
+KIMMY	f	You think he'd accept?
+KIMMY	f	Michael.  A job like that.
+JULIANNE	f	By any yardstick that involves sanity, it would be the greatest thing that ever happened to him. Present company excepted.
+JULIANNE	f	On the other hand, he's proud. Last thing a man wants to admit, is being trapped in a dispiriting dead-end job that can never support a family.
+JULIANNE	f	Throw a man a life preserver. He'll say, "Thanks, anyway, I'd rather drown."
+KIMMY	f	So... one almost has to...
+JULIANNE	f	Exactly.
+KIMMY	f	Exactly what?
+JULIANNE	f	What you said.  Make it appear that he's doing you the favor.
+JULIANNE	f	I couldn't really... do that. After, you know... ... lying.  All the time.
+JULIANNE	f	Oh, darling, my pitiful desires and ambitions are dirt beneath the manly boots of your priorities! Two hundred seedy motels a year? Dinners out of vending machines? Waiting for you in vermin-infested corridors of dark crotch-rot locker rooms? This stuff makes me hot!!
+KIMMY	f	The very words I've used.
+JULIANNE	f	We make Dad your co-conspirator. Michael does a favor for Walter.
+JULIANNE	f	Walter's reorganizing his public relations, needs a brilliant guy who's close to him, who he can completely trust.
+JULIANNE	f	So you beg.  Michael, please do this for Daddy, please, please, please, blah, blah, blah... it's only for six months...  it would mean so much to me to help him out...
+KIMMY	f	He'll see right through it.
+JULIANNE	f	Only.  If he wants to.
+JULIANNE	f	In six months, he'll be happy, settled, successful...
+KIMMY	f	He won't get mad, huh?
+  MR.  MOONEY	m	May I be of any help, whatsoever?
+JULIANNE	f	Bridesmaid gifts for two, well, assertive, outspoken, Tennessee debutantes. He won't be mad? Nothing here seems to quite capture their distinctive personalities.
+  MR.  MOONEY	m	Something customized, perhaps? We can fashion most any item from gold.
+MR.  MOONEY	m	An object that might represent what is closest. To their heart. Don't even think dildo.
+JULIANNE	f	Could you do this...
+JULIANNE	f	In 24 carat? Bingo.
+KIMMY	f	You don't think he'll be mad.
+JULIANNE	f	Your call.  You can live a lie. In a fabulous selection of Red Roof Inns.  Or you can make one desperate stab at hap...
+KIMMY	f	I just don't want to freak him out.
+JULIANNE	f	How mad could he get?
+MAITRE D'	m	Oh, Mr. Wallace and his guests have retired to the humidor.
+MAITRE D'	m	Oh.  Mademoiselle.
+MAITRE D'	m	It's unofficial, of course.  But, traditionally, the humidor is for gentlemen, only...
+JULIANNE	f	Great.  I've got this girlfriend at the Justice Department?  With all this time on her hands? Piece of cake.  I'll hang, and think happy thoughts...
+GUY	m	Know what you're looking for, little lady?
+JULIANNE	f	Yeah.  Do you?
+GUY	m	I asked first.
+JULIANNE	f	I like 'em long and hard.  Kind of... big around.
+JULIANNE	f	Smell is important, I'm a believer in that.
+JULIANNE	f	But you never know what you've got.  Till you run your tongue over it.
+GUY	m	I meant.  What you're looking for in a man.
+JULIANNE	f	Actually, I'm partial to married gentlemen.
+GUY	m	Why is that?
+JULIANNE	f	It's so much time.  When I phone the wives.
+WALTER	m	Your idea?
+WALTER	m	You're a woman of insight.
+WALTER	m	My wife and I love this marriage, and deplore its circumstances.
+WALTER	m	As you guessed, my daughter is unhappy about giving up her life. And, in my opinion, cowardly in avoiding the necessary confrontation.
+WALTER	m	Mike has a world of ability. I'd do anything to have him in my company.
+WALTER	m	Except ask him.
+WALTER	m	He'd resent it.  And me.  And, most important, Kim.
+WALTER	m	He's a great kid, but he's still a kid.  Instead of recognizing that his resistance comes from insecurity, he'd turn it to anger. To protect himself...
+WALTER	m	... from realizing that he's ignoring my daughter's needs, despite how very much he loves her.
+WALTER	m	They both have some growing up to do.  But they're good people, they're starting with love. They've got time.
+JULIANNE	f	I think you're making a mistake, sir.
+WALTER	m	And that interests me.  How someone who knows him so well could be so wrong.
+JULIANNE	f	See, I love him, too, as much as anyone here.  And for a whole lot longer.
+JULIANNE	f	I think I know best what would make him happy.
+JULIANNE	f	Okay, okay, okay, okay, I hear you, all right?
+JULIANNE	f	It is stupid, dishonest, desperate beyond belief, and can't possibly ever work.  It can only end in humiliation and disgrace.  Now can I say two words?
+JULIANNE	f	Do it! Do it! Do it! Do it! Do it! Do it!
+JULIANNE	f	All right, twelve words.
+TEENAGER	m	You do it, girl.
+MICHAEL	m	Wow.  What was going on in there?
+JULIANNE	f	Some crazy person.
+MICHAEL	m	You're not eating.
+JULIANNE	f	I never eat when I'm serene.
+MICHAEL	m	You never eat when you're despondent.
+JULIANNE	f	I switched that around when you weren't looking.
+MICHAEL	m	Last zoo we were in was... Beijing, yeah?  Sure.  The rhinos were fucking.
+JULIANNE	f	Boy, those were the days.
+MICHAEL	m	Yeah, they were.
+JULIANNE	f	That was nice.  The way you said that.
+MICHAEL	m	It's weird being the groom.  All these things Kimmy has to take care of...
+JULIANNE	f	You need a baby-sitter.  That's what I'm here for.
+JULIANNE	f	Say it.
+MICHAEL	m	Now, there's my girl.
+JULIANNE	f	See, I can only do it with beer.
+MICHAEL	m	See, better already.
+MICHAEL	m	We'll go back to the bathroom, you'll put this on...
+JULIANNE	f	Bet you're glad I'm here to take care of you.
+MICHAEL	m	Bet I am.
+MICHAEL	m	Hope that crazy person's not still there.
+JULIANNE	f	She doesn't scare me.
+JULIANNE	f	Is anybody watching?
+WALTER	m	I hope so.  This is all too mysterious to waste on just me.
+JULIANNE	f	I picked up Michael's messages for him, at our hotel.  I stole one...
+WALTER	m	Julianne, reading my son-in-law's mail, is not something...
+JULIANNE	f	Sir, this is important! Haven't you ever in your life cut one corner, to make something important turn out right?
+ WALTER	m	Matter of fact, that's how I got married.
+JULIANNE	f	It's a fax from Sports Illustrated from Ben Isaacson, Michael's boss.
+WALTER	m	I know Ben.
+JULIANNE	f	"Mike.  We still have no answer to our E-mail of Wednesday.  Which option do you select? I don't mean to rush you, but Personnel needs to tie up the loose ends."
+JULIANNE	f	I think he's been fired.
+WALTER	m	It doesn't say th...
+JULIANNE	f	He's said some things over the past few weeks.  Look, this is why I came up with the idea of you offering him a job.
+JULIANNE	f	And why I couldn't say anything before in front of Kim.
+JULIANNE	f	I just think of how... desperate he must be feeling.  He's marrying a rich man's daughter, and he's about to become destitute.  You know the kind of job market he'll be facing?
+WALTER	m	And you think he's kept this to himself.
+JULIANNE	f	He's too proud to beg for help. And if you wait till this comes out, your offer will be like charity. Completely humiliating.
+JULIANNE	f	If you do it now, it's like he's helping you.  He can accept with dignity.
+WALTER	m	This fax could mean... any number of things...
+WALTER	m	Maybe.  I should call Ben.
+JULIANNE	f	Then it could all come out, sooner or later.  Nobody should be in on this.  Just you and me.  Or, more correctly, I.
+JULIANNE	f	What if, what if I could find that E-mail?
+JULIANNE	f	I never noticed.  Kimmy has your eyes.
+JULIANNE	f	Hello, again.
+JULIANNE	f	You still haven't straightened that tie.
+JULIANNE	f	You know, my friend, the one whose message I picked up...  ?
+JULIANNE	f	Well, he's still with the wedding party.  And he asked me to get something he needs real badly from his room...  ?
+JULIANNE	f	He's in 1526.  If you could just let me ha...
+BOY	m	See that woman?
+BOY	m	She said, if I ever pull a stunt like that again...
+JULIANNE	f	You'll lose your job...
+BOY	m	... tear my pecker off.  Is what she said.
+JULIANNE	f	Help me!
+JULIANNE	f	I locked myself out, 1526, please hurry!!
+JULIANNE	f	Uno-cinco-does-ses.
+JULIANNE	f	You wouldn't change your password, would you?  You never change anything.
+JULIANNE	f	Shoeless... Joe.
+JULIANNE	f	Mike.  I hate this downsizing shit as much as you do.  But I know this can't become as a complete surprise...
+WALTER	m	Mike.  I hate this downsizing...
+WALTER	m	And Kimmy doesn't know.
+WALTER	m	I'll tell her I've reconsidered.
+WALTER	m	You're a smart girl, Jules.
+WALTER	m	Wish my daughter.  Bad your guts.
+MICHAEL	m	Sure you're okay?
+MICHAEL	m	It's not just a gag, huh?
+KIMMY	f	No, it's, uh... a real big favor.
+MICHAEL	m	I wish you'd just... come out with it.  I mean why are we waiting for Jules?
+KIMMY	f	Moral support.
+KIMMY	f	What's good of having a big sister, if she...
+MICHAEL	m	Wow and wow.  You have a date, after this?
+JULIANNE	f	Never can tell.
+MICHAEL	m	You make me think of that song, we used to...
+MICHAEL	m	Someday.  When I'm awfully low...
+MICHAEL	m	Okay, kid.  You're on.
+KIMMY	f	It's really my father.  Who needs the favor.
+KIMMY	f	He's... he's reorganizing some of the divisions of the company...
+MICHAEL	m	He never mentioned that.  Neither did y...
+KIMMY	f	... and public relations is a big problem area for him.
+KIMMY	f	He needs someone incredible, someone really close, who he can trust...
+MICHAEL	m	Like family, huh?
+KIMMY	f	It would only be, maybe, six months? Or three or four? It would mean so much to him...
+MICHAEL	m	To him.
+KIMMY	f	And to m...
+MICHAEL	m	... and you knew about this.
+JULIANNE	f	I think you ought to listen to her, Michael.  This is her life, too.
+MICHAEL	m	Well, which is it?
+MICHAEL	m	You gonna tell me Daddy thought this one up? All of a sudden, I'm the only jerk alive who can help him deal with the press?
+MICHAEL	m	Why don't you start being honest for one fucking sec...
+JULIANNE	f	Michael!!
+KIMMY	f	I am honest!
+KIMMY	f	   All of a sudden, I'm supposed todrop out of school, forget myfamily, forget my career, forgetall the plans I had for my life...
+MICHAEL	m	Well, forgive me for screwing up your plans!
+MICHAEL	m	I'm sure glad I'm hearing all this now, before it's too late!
+KIMMY	f	What is that sup...
+MICHAEL	m	And what am I supposed to do with my life, huh? I am 28 years old! I work in a low-paying, low-status, zero-respect job which, unfortunately, I happen to fucking love.  How inconvenient.
+MICHAEL	m	No problem.  A little bullshit about Daddy's "needs," and presto, I'm a lap dog in high society.
+JULIANNE	f	Michael, it sounds like a wonderful opportun...
+MICHAEL	m	Does it, really? How come you never took some sell-out establishment job? You had plenty of chances!
+MICHAEL	m	I'll tell you why.  Because that isn't you.  And it isn't me, either!  We're the same person!
+MICHAEL	m	What a sweet little picture.  Mommy and Daddy aren't losing a daughter, they're gaining a eunuch!
+KIMMY	f	Well, if that's the way you f...
+MICHAEL	m	Damn straight, it's how I feel! What's their wedding gift, a little gold collar that says "Mikey-poo"? Or do I have to change my name to "Binky"?
+MICHAEL	m	Great!  Tears!  The big equalizer. You wait till two days before the wedding to drop this on me, and I'm just supposed to roll over and drool!
+MICHAEL	m	Fine.  I'm an insensitive, chauvinist asshole, and you're well rid of m...
+KIMMY	f	MICHAEL!!
+KIMMY	f	Michael, you are so...
+KIMMY	f	... so right.  And I am so very wrong.
+KIMMY	f	We can't go down two roads.  And still be together.
+JULIANNE	f	Uh, Kimmy...?
+KIMMY	f	We settled this.  And I reneged. That wasn't fair.
+KIMMY	f	You have to forgive me, and forget this ever happened...
+KIMMY	f	... or I'll die.
+JULIANNE	f	... see that's what I never counted on! I never heard of a brilliant moron before!
+JULIANNE	f	I mean, the little twerp
+JULIANNE	f	SHE IS SO WRONG FOR HIM!
+JULIANNE	f	Michael and I are the same person! Self-absorbed and imperfect and vaguely loveable! We deserve each other!
+JULIANNE	f	I'm out of hope, I'm out of sneaky ideas, I'm at the end of my rapidly-fraying hysterical little rope!  Help m...
+JULIANNE	f	God, I hate this hotel.
+JULIANNE	f	And I hate talking to your machine!
+DIGGER	m	You stole my line.
+JULIANNE	f	Oh, shit!
+DIGGER	m	Chill.  We don't want your face coming off with it.
+JULIANNE	f	Chill?  Since when do you say ch...
+DIGGER	m	When I'm talking to children.
+JULIANNE	f	You flew all the way h...
+DIGGER	m	I noticed.  I'm on the noon back. We have this thing with George's family in the Hamptons.
+JULIANNE	f	You're butting in.
+JULIANNE	f	I really resent this.
+JULIANNE	f	What I mean, when I say annoyingly perfect, is that there is nothing annoying about her perfection. It is vulnerable and endearing. And that is annoying as shit.
+DIGGER	m	You like her.
+JULIANNE	f	If I didn't have to hate her, I'd adore her.
+JULIANNE	f	Last night, she was crying, these big, real tears, when she thought she'd lost him.  It was like there was a knife in her heart...
+JULIANNE	f	... and I put it there.  I hated myself, I grieved for her, I couldn't enjoy one second of it! And then, when it didn't work...
+JULIANNE	f	I was devastated.
+DIGGER	m	Go figure you.
+ JULIANNE	f	Because I realized.  When I see him say "I do," that knife will be in my heart.  And it will be there every...
+JULIANNE	f	... every time I think of him, forever, which could be a lot.
+JULIANNE	f	You watch a guy caress his girlfriend's butt.  You see an Old Spice commercial.  Sentimental moments are everywhere, when you're in the right frame of mind.
+JULIANNE	f	There are 18,250 nights in the next 50 years...
+DIGGER	m	You've been working on this, huh?
+JULIANNE	f	... and having "done the right thing" will only really be comforting, oh, maybe, five, six times.
+JULIANNE	f	This is my whole life's happiness. I have to be ruthless.
+DIGGER	m	And you believe that.
+JULIANNE	f	 (unconvincing) Sure.
+JULIANNE	f	He was in love with me every day for nine years.  I can make him happier than she can.
+DIGGER	m	It's not his happiness you're feeling guilty about...
+JULIANNE	f	I don't know the meaning of the word guilt!
+DIGGER	m	Impressive.
+JULIANNE	f	I am breaking her heart in the short run, but doing her a gigantic favor! She would be miserable tagging along after this insensitive doofus!
+DIGGER	m	The man you love.
+JULIANNE	f	Beyond reason.  The feminist warrior will rise up in this kid, and she'll be standing over his sleeping form with a butcher knife, selecting from a short list of body parts!
+DIGGER	m	Someday she'll thank you.
+JULIANNE	f	Let's not get carried away.
+JULIANNE	f	I'd settle for.  Someday, I'll forgive myself.
+JULIANNE	f	For doing this terrible thing.
+JULIANNE	f	Which, by the way, I can't figure out how to do.
+DIGGER	m	Jesus.  You're supposed to take your make-up off before you apply the m...
+JULIANNE	f	I KNOW THAT!  I WAS DISTRACTED BY
+JULIANNE	f	Guess what I brushed my teeth with last night?
+DIGGER	m	Zit cream?
+JULIANNE	f	I wish.
+DIGGER	m	Neosporin?
+JULIANNE	f	Try less appropriate.
+DIGGER	m	Ben Gay.
+JULIANNE	f	That was Thursday.
+DIGGER	m	Elmer's Glue?
+JULIANNE	f	DON'T BE RIDICULOUS, WE'RE HAVING
+DIGGER	m	I give.
+JULIANNE	f	I can't even say it.
+JULIANNE	f	A hint.  The first word is "Preparation." Then comes a letter of the alphabet, perilously close to G.
+DIGGER	m	Considering the circumstances, I'm not wholly against suicide...
+DIGGER	m	Just not by electrocution in front of me!
+DIGGER	m	I've got this noon flight.
+JULIANNE	f	How do you know you can touch that plug? Are you a licensed contractor?
+DIGGER	m	What do you suggest?
+JULIANNE	f	Maybe they just seal off this room.  They have others.
+DIGGER	m	I didn't mean about that.
+JULIANNE	f	If I hear the words "tell the truth," or any paraphrase thereof, I dive into the sink and pull you with me.
+DIGGER	m	Let's go meet Michael.  I'll wait downstairs.
+DIGGER	m	I suppose it's too late to start over.
+JULIANNE	f	It's too late to start over.
+MICHAEL	m	You guys are heartless, my bride picked this out.
+JULIANNE	f	Like I said, dazzling.
+DIGGER	m	Is she going to dress you every day?
+MICHAEL	m	Yeah, it's in the contract.
+DIGGER	m	Well, then, I'll take it up with her.
+DIGGER	m	The cut here, here... this line...
+DIGGER	m	... trouser width, this is all classic.  Which means safe, something I'd wear.
+MICHAEL	m	I should look different.
+DIGGER	m	You should look like you dressed yourself.
+MICHAEL	m	And I'm supposed to respect your fashion tips, because you're what, a New Yorker?
+DIGGER	m	Something like that.
+MICHAEL	m	Long trip.  Pretty nice of you to come.
+DIGGER	m	Well, I'm close to her.  I wanted to meet the one that got away.
+DIGGER	m	What?
+MICHAEL	m	I'm just glad someone finally put this thing in its proper perspective.
+MICHAEL	m	Stay, huh?
+DIGGER	m	I honestly wish I could...
+MICHAEL	m	I'll call George's parents. Tell them I need a best man who actually looks after me.
+JULIANNE	f	They'd say that's my job.
+JULIANNE	f	I'll take it home from here.
+DIGGER	m	Two words.
+JULIANNE	f	Major.  Dish.
+DIGGER	m	Manicure...
+DIGGER	m	Fly.
+MICHAEL	m	You don't miss much.
+DIGGER	m	Part of being a New Yorker.
+JULIANNE	f	Bye, handsome.
+JULIANNE	f	You're going to say it, aren't you?
+DIGGER	m	Tell him you love him.  With all your heart.
+JULIANNE	f	I'm taking my next book to Viking.
+ DIGGER	m	Tell him you've loved him for nine years, but you were afraid to realize it.
+JULIANNE	f	I'm moving this book to Viking.
+DIGGER	m	Tell him you're afraid of love. Afraid of needing.
+JULIANNE	f	Needing.
+DIGGER	m	To belong to someone.
+DIGGER	m	We all do, beautiful.  I'm sorry about that.
+DIGGER	m	Tell him you know this is the worst, dumbest, cruelest moment to do this to him.  But there it is, and he has to choose.
+JULIANNE	f	And what will he do?
+DIGGER	m	He'll choose Kim.  You'll stand by her at her wedding.  You'll kiss him good-bye.  And you'll go home.
+DIGGER	m	This is what you've come to do. Now do it.
+MICHAEL	m	Big weddings are so strange.
+JULIANNE	f	You keep saying that.
+MICHAEL	m	Kim has all this stuff to do, I hardly see her.
+JULIANNE	f	Well, you've got the rest of your lives.
+JULIANNE	f	Getting your bed made.  Every day.
+JULIANNE	f	You miss her, huh?
+MICHAEL	m	No.  I've got you.
+MICHAEL	m	Don't you throw up on boat?
+JULIANNE	f	If you like.
+MICHAEL	m	I've been thinking a lot the last couple days.  About us, actually.
+JULIANNE	f	Have you.
+JULIANNE	f	Well.  There's a lot of memories to choose from...
+MICHAEL	m	It's more than that.
+MICHAEL	m	I mean, it's embarrassing to say it this way, but...
+MICHAEL	m	You've sort of been... y'know, the woman in my life.
+JULIANNE	f	You've been the man in mine.
+MICHAEL	m	And I was thinking this could be our last time.  Alone.  Together. You know?
+JULIANNE	f	Except for the hot affairs we'll have twice a year.
+MICHAEL	m	Except for that.
+MICHAEL	m	I can hardly wait for your wedding.
+JULIANNE	f	Me either.
+MICHAEL	m	Boy, I never thought I'd hear you say that.  Can I come?
+JULIANNE	f	I couldn't have it without you.
+MICHAEL	m	It's normal to have... second thoughts, huh? To be scared.
+JULIANNE	f	I wouldn't know.  I never had that many first thoughts.
+MICHAEL	m	I mean, you commit to a wedding. And then it seems like... this... momentum, you know?  You forget you... chose it.
+MICHAEL	m	You and I.  I mean, in all our relationships with other people... We didn't use the word "love" a lot, did we?
+MICHAEL	m	Kimmy says.  When you love someone. You say it, you say it out loud. Right now.  Or the moment...
+MICHAEL	m	... passes you by, yeah.  She's a smart girl.
+MICHAEL	m	We don't have a song.
+MICHAEL	m	Kimmy and I.  We don't have a song. Is that a bad sign?
+MICHAEL	m	Someday, when I'm awfully low...   And the world is cold...
+MICHAEL	m	I will feel a glow just Thinking of you...   And the way you look.  Tonight.
+MICHAEL	m	Dance card filled?
+JULIANNE	f	I'll check.  I have it on powerbook, these days.
+MICHAEL	m	(sings in her ear) With each word, your tenderness grows,   Tearing my fears apart...
+MICHAEL	m	And that laugh   That wrinkles your nose, Touches my foolish heart.
+MICHAEL	m	Where did we first hear th...
+JULIANNE	f	  (straight back) The night we met.
+JULIANNE	f	The night we fell in love.
+MICHAEL	m	So we heard it... like, right that... that first...
+JULIANNE	f	We danced to it.  Just like this.
+MICHAEL	m	I won't lose you, will I?
+JULIANNE	f	No.  Because I won't let you.
+WALTER	m	I thought Michael was picking me up.
+JULIANNE	f	I told him, get the important stuff, Kim's ring.  I'll collect the inconsequentials.
+WALTER	m	Kim said, when he turned down the job, there was no friction.
+JULIANNE	f	Friction.  No.
+WALTER	m	I haven't caused... a problem, have I?
+JULIANNE	f	Nobody has.  So far.
+WALTER	m	Well, you're a little early...
+JULIANNE	f	I need to make some calls. Could I use... your office?
+JULIANNE	f	You can do this.
+JULIANNE	f	E-mail address.  To Ben Isaacson, Senior Editor, Sports Illustrated, from... Walter Wallace.
+JULIANNE	f	See, you can do it.  It's easy.
+JULIANNE	f	You do it fast, it's over.  Like it never happened.
+JULIANNE	f	Ben.  I need a favor.
+JULIANNE	f	My daughter's every happiness. And my wife's.  And, least of all, my own, are in your hands.
+JULIANNE	f	Knowing you value our friendship, and the... cooperative relationship between our companies... I am hopeful of your help.
+JULIANNE	f	I have offered Mike O'Neal, my new son-in-law, a great opportunity in my company.  This would also enable my daughter to settle in Chicago, near us, and pursue her dreams and plans.
+JULIANNE	f	To his own detriment, as well as ours, Michael will not accept our offer.  While he works for you.
+JULIANNE	f	My daughter joins me in this plea for your cooperation and discretion.
+JULIANNE	f	With gratitude.  For your understanding.  Walter.
+JULIANNE	f	Are you crazy?  Get him fired?
+JULIANNE	f	Just till tonight when I bring him back.  To look for...
+WALTER	m	Off to rehearsal.  Send out this, and this, not this, this, and... that's it.
+WALTER	m	I'm holding four or five E-mails I wrote over lunch...
+WALTER	m	Send 'em out.
+MANDY	f	Reverend Dyer, this is Kimberly's somewhat butch maid of honor...
+SAMMY	m	... Mr. Julianne Potter, prominent New York drag queen.
+MINISTER	m	Billy Dyer, Julianne.  And I love the suit.
+MICHAEL	m	Takes me back.
+JULIANNE	f	Well.
+JULIANNE	f	You sang the song.  Least I could do was wear the outfit.
+MICHAEL	m	Except now you're better- looking.
+MICHAEL	m	I got the ring.
+MANDY/SAMMY	?	Swi-i-ng low-ow-ow...Wee-ee-eet Char-i-ot...
+MANDY/SAMMY	?	Comin', to car-ryyyMe ho-o-o-me...
+JULIANNE	f	No accents today.
+MICHAEL	m	Yeah, Kim told me they were giving you their Dueling Scarlet's act.  Actually, they're sophomores at Juilliard.
+MICHAEL	m	Will she like it?
+JULIANNE	f	Yes.
+KIMMY	f	My groom-person!  Your family needs you!
+MANDY/SAMMY	?	Well, I look over yon-der,And what did I see-ee-ee?
+MANDY/SAMMY	?	Comin too car-ryyy.Me ho-o-ome...
+MANDY/SAMMY	?	It was a hand.  Of a-a-angels.Coming' for me-e-ee...
+MANDY/SAMMY	?	Comin' for to carry me home.
+JOE	m	Like to welcome ever'body to our little rehearsal supper...
+JOE	m	Okay, everyone stand up!
+JOE	m	To the bride, uh, goes the honor... of cracking the first crab!
+KIMMY	f	But first, a toast!
+JULIANNE	f	I'm right-handed.
+KIMMY	f	To our host, my cuddly Papa Joe.
+KIMMY	f	Who taught me to play "Blue Hawaii." On my nose.
+MANDY/SAMMY	?	Boo!!!
+MANDY	f	I know why you're scared of our party.  It's too hip.
+SAMMY	m	Kimberly wanted to tickle the grandmas, so we figured, give 'em a cheap thrill.  Walter supplied the decorative touches...
+SAMMY	m	Nose tackle from the Bears... power forward from the Bulls... defenseman from the Black Hawks... my personal favorite, the designated hitter...
+MANDY	f	... I'm partial to the tight end.
+SAMMY	m	This is USDA Prime, largely available, beef.  With no notice- able competition, present company excepted...
+SAMMY	m	And yet here you are.  All celibate and reclusive.
+MANDY	f	With those big, dark, haunted eyes. As if you were harborin' some... unspeakably... guilty... secret.
+JULIANNE	f	Well, I'm worried about something.
+JULIANNE	f	Oh.  I left this really important file in Walter's office.  I have to send my editor some...
+JULIANNE	f	... figures.  On territorial sales. To close my book deal.
+JULIANNE	f	So Kim gave me the key.  And Michael's on his way, to drive me down to Wal...
+SAMMY	m	Oh.  We thought it was the ring.
+MANDY	f	The one you better get the fuck off your third finger left hand.
+JULIANNE	f	Well.  See.  That was a... reflex to see if it would...
+MANDY	f	... look good on Kimberly.
+JULIANNE	f	Right.  And then it didn't want to come off.  Exactly.
+SAMMY	m	Maybe it's happy there.
+MANDY	f	Oh the way out of the crab house? We asked Michael if we could see the ring?
+SAMMY	m	He said you told him.  It'd be safer with you.
+MANDY	f	An so it is.
+MANDY	f	Shut up, sugar, he's on his way. Let's get to work.
+EIGHT PEOPLE	m	TWIST IT!  TWIST IT!
+JANITOR	m	It's mental, lady, you ain't trying!
+SAMMY	m	There is nothing so tight, this can't help it...
+MANDY	f	I saw this on Hard Copy.  People cut off body parts and the hospital sew 'em back o...
+JULIANNE	f	I saw the show.
+MANDY	f	... well, maybe it works on fingers, too.
+FLOWER GIRL	f	Aunt Mandy...?
+FLOWER GIRL	f	Mr.  Michael's here.
+MANDY	f	Don't worry, baby.  You could pick your nose with that finger and Michael would never notice. He's a man.
+MANDY	f	Personally, I think Mr.  Michael's marrying the wrong girl.
+SAMMY	m	You're much more his type.
+JULIANNE	f	I can't believe this!
+MICHAEL	m	It's no big deal, she just gave you the wrong keys that's s...
+JULIANNE	f	ISN'T THERE A GUARD?  A JANITOR?
+JULIANNE	f	WHERE'S A BRICK?  FIND ME A
+MICHAEL	m	What is the big deal about getting this file tonight?
+JULIANNE	f	I promised Digger I'd E-mail him those figures.
+JULIANNE	f	They are very important figures.
+JULIANNE	f	I'm up against a deadline.
+MICHAEL	m	Me, too.  I'm getting married tomorrow.
+JULIANNE	f	That's my point!!
+JULIANNE	f	I mean, tomorrow... we'll all be busy with more important things. So...
+JULIANNE	f	... tonight's my last chance.
+MICHAEL	m	I forgot how cute you look.  When you get impossible.
+JULIANNE	f	It's just... up there... right in front of Walter's... y'know, computer. If memory serves.
+JULIANNE	f	We could use... his computer, to... just E-mail those suckers right ou...
+MICHAEL	m	Tomorrow is Sunday.  Nobody's doing business.  Crack of dawn, Monday, Walter'll take you up there...
+MICHAEL	m	Give it up, kid.
+MICHAEL	m	You can't win 'em all.
+MICHAEL	m	Listen up, huh? Even if you blow this deal, how big could it be?
+JULIANNE	f	You're right.  Easy come, easy go.
+MICHAEL	m	Jules?
+MICHAEL	m	This thing means that much to y...
+JULIANNE	f	It means a lot.
+MICHAEL	m	I'll call the house, Walter's probably not even asleep...
+MICHAEL	m	I'll drive you out there, we'll get the key, we'll go back to the office...
+MICHAEL	m	Come on, we'll call from your room.
+MICHAEL	m	If I fall asleep on the altar tomorrow...
+MICHAEL	m	... you better be there to... funny, these are all from Ben.
+MICHAEL	m	The fax is from Ben, too.  Man, it's my wedding, and my boss can't leave me alone...
+JULIANNE	f	... maybe it's congratulations.
+JULIANNE	f	Michael? What ha...
+MICHAEL	m	Mike.  I can't believe I'm doing this to you on the night before your wedding.  But I think you need and deserve to know...
+MICHAEL	m	... what you're marrying into.
+JULIANNE	f	I received the following E-mail this afternoon... "Ben, I need a favor.  My daughter's every happiness...  "
+MICHAEL	m	Isabelle?  I need to talk to Kim...
+JULIANNE	f	"Mike, the funny thing is, he's offering you a gig you'd be stupid to turn down..."
+MICHAEL	m	I'm just tired.  Please put her on?  Thanks.
+JULIANNE	f	"Maybe you should take the job. And dump the girl."
+MICHAEL	m	Jules.  Could you give me a minute?
+MICHAEL	m	Please?
+BELLMAN	m	Miss, are you locked out, or something?
+JULIANNE	f	No, I just stepped out, because... it's a non-smoking room.
+BELLMAN	m	Well, it's non-smoking floor, too.  Maybe you could go to the...
+JULIANNE	f	Why don't you have me arrested?
+JULIANNE	f	I mean that.  Arrested, convicted, put in solitary.
+JULIANNE	f	See, I'm a dangerous, criminal person.  I do bad things to honest people.  This, see, this smoking?  Tip of the iceberg.
+JULIANNE	f	Make a citizen's arrest, I won't struggle.  It'll be like getting Al Capone on tax evasion.
+BELLMAN	m	Can I... Can I help you, miss?
+JULIANNE	f	Do you smoke, Richard?
+BELLMAN	m	Yes, ma'am, I do, but it's...
+JULIANNE	f	... a non-smoking floor, yeah. Well, you know what?
+BELLMAN	m	My grandmother always said, "This, too, shall pass."
+JULIANNE	f	Thanks, Richard.  If you weren't on duty, I'd buy you a drink.
+JULIANNE	f	What happened?
+MICHAEL	m	It's over.
+MICHAEL	m	I want you to quit this shit, it'll kill you.
+MICHAEL	m	She denied it.  Said I was crazy and paranoid.
+JULIANNE	f	A bad combination.
+MICHAEL	m	There's this big brunch tomorrow morning?  At her place.
+MICHAEL	m	She said "How can I call everything off, what do I tell everybody?"
+JULIANNE	f	Michael...
+MICHAEL	m	No, it's for the best, it really is.  We were so wrong for each other.
+JULIANNE	f	Maybe tomorrow, you'll feel dif...
+MICHAEL	m	The job thing would have broken us up, eventually, anyway.  She couldn't have lived with it.  I know that now.
+MICHAEL	m	 And she's right, I'm crazy to  fall for someone.  I hardly  knew.
+MICHAEL	m	Hey.  You still got that ring?
+JULIANNE	f	I tried it on.  But it won't come off.
+JULIANNE	f	It's mental, you know.
+JULIANNE	f	Should we take a walk?  Or maybe some food sent up, or something...
+MICHAEL	m	I just want to be alone.  Is that okay?
+MICHAEL	m	Maybe I'll go back to New York. Hang with you for awhile, huh? Ben'll understand.
+MICHAEL	m	Or we'll go somewhere.  If you have the time.
+JULIANNE	f	If San Antonio sweeps Sacramento...
+JULIANNE	f	I've never been to Texas.
+MICHAEL	m	Thanks for coming to my wedding.
+DIGGER	m	Digger and George are with family in the Hamptons until Monday morning.  Brevity is even more in order than usual.
+JULIANNE	f	Hey, handsome.  Brevity this...
+JULIANNE	f	I won.
+JULIANNE	f	Amazing, huh?  I didn't do things quite your way.  But... I got it down.
+JULIANNE	f	And forty years and nine grand- children later, when I sit with Michael on some rustic porch, slogging through our sweet swamp of nostalgic memories...
+JULIANNE	f	No one is going to sweet the details...
+JULIANNE	f	Of one weekend in Chicago.
+JULIANNE	f	Talk about celebration...
+JULIANNE	f	I'm gonna brush my teeth with actual toothpaste.
+JULIANNE	f	I guess I'm too exhausted to feel the elation I so richly undeserve...
+JULIANNE	f	So I'm gonna hold calls at the desk... while I get my...
+JULIANNE	f	God, it is toothpaste, they should sell this stuff commercially! Anyway, a girl does need her...
+JULIANNE	f	... well, we're a bit past worrying about beauty sleep. Let's just settle for not frightening small animals.
+JULIANNE	f	Three words:  Happily.  Ever. Well, you know.
+JULIANNE	f	You're going where?
+ISABELLE	f	Jules.  We're so glad you slept in.
+ISABELLE	f	Now, you have a choice.  The idea is bride and groom shouldn't see each other on the magic day...
+ISABELLE	f	So Michael stays put in the garden. Kimmy stays in here...
+ISABELLE	f	... and the guests go back and forth.  Where will you start?
+JULIANNE	f	She looks tense.
+ISABELLE	f	Nerves.  I would never have guessed.
+JULIANNE	f	I had the craziest dream last night?  Walter and Kimmy had asked your boss to...
+MICHAEL	m	Look, I came down here to face everybody.  I didn't want to slink away like some coward...
+JULIANNE	f	But the Scotch salmon was so fucking good, you decided to stay for brunch!
+MICHAEL	m	She hasn't told anybody, what am I supposed to do?
+JULIANNE	f	Get married, apparently.
+JULIANNE	f	What the hell are you thinking of, the goddamn wedding is SIX
+MICHAEL	m	This is her family and her fault.
+JULIANNE	f	And your point?
+MICHAEL	m	Well.  How come she didn't...
+JULIANNE	f	BECAUSE SHE'S AS CHICKENSHIT AS
+MICHAEL	m	Hey.  This is a serious matter.
+JULIANNE	f	I'll be right back.
+KIMMY	f	Look at all this beautiful food, so lovingly prepared...
+JULIANNE	f	They'll eat it anyway, you ever been to a walk?
+JULIANNE	f	You guys want to give us a minute?
+JULIANNE	f	We'd like to be alone with our pork.
+KIMMY	f	How's he doing?
+JULIANNE	f	Who?  The jerk who's running your life?
+KIMMY	f	This must be... very, very, hard on him.
+JULIANNE	f	What with the psychosis and all, yeah.
+JULIANNE	f	When are you gonna come clean with your folks?
+KIMMY	f	Don't you see...
+JULIANNE	f	If you're waiting for "Do you take this man?", that's considered poor form.
+KIMMY	f	... that this is all my fault?
+KIMMY	f	Whatever delusions I drove him to, there is truth at the heart of it. I want him to work for my father. I want to stay in school.  I want a life of my own!
+JULIANNE	f	Yeah, well, lots of couples are imcompat...
+KIMMY	f	I love him.
+KIMMY	f	Tell him it's my fault and that I love him.
+JULIANNE	f	I'll be right back.
+MICHAEL	m	How is she?
+JULIANNE	f	KNOCK IT OFF!!!
+MICHAEL	m	I asked you...
+JULIANNE	f	She admits it's her fault.
+MICHAEL	m	Do you think she still loves me?
+JULIANNE	f	Sure, she does.  She's crazy about you.
+MICHAEL	m	I keep asking, how can I explain what happened? And I keep getting that same answer all night long.
+MICHAEL	m	I can't.  And it doesn't matter. I drove her to it, because I want things my way.  And even if she did something tricky and unfair... she was blinded by love, okay?
+JULIANNE	f	Does that make it right...
+MICHAEL	m	Love doesn't have to be right. It just has to be love.
+MICHAEL	m	She's giving up half her life for me, and I'm bitching because it hurts her.
+STONERS	?	Sail on silver girlSail on by...
+MICHAEL	m	She's a saint!  And I'm a worthless ingrate!
+STONERS	?	Your time has come to shine,All your dreams are on their way...
+MICHAEL	m	Tell her.  I'll marry her at six o'clock, if she'll still have me.
+JULIANNE	f	I'll be right back.
+KIMMY	f	So.  What did he say?
+JULIANNE	f	He said.  Marry me.
+MICHAEL	m	Thank God you were here.
+JULIANNE	f	Oh, yeah.
+MICHAEL	m	I was so confused, so conflicted, so... unstable.
+JULIANNE	f	Well, it happens.
+MICHAEL	m	I might have thrown away...
+JULIANNE	f	... your one chance for true happiness?
+MICHAEL	m	... yeah, that.
+JULIANNE	f	You never want to do that, see, that's always a... costly turnover.  As they say in the sport biz.
+MICHAEL	m	Are you okay?
+JULIANNE	f	The Big Hurt, huh?
+MICHAEL	m	Nellie Fox.  Walter likes the past.  And he likes the little guys.
+JULIANNE	f	Got a minute?
+JULIANNE	f	Why is the dance floor by the gazebo?
+MICHAEL	m	Kimmy's idea.  She thought it would be such a romantic place. For our wedding dance.
+MICHAEL	m	What's up?
+JULIANNE	f	Shhh.
+JULIANNE	f	I have to say this quick, okay, or I'll have this massive coronary and you'll never have to hear it.  Which you need to. Does that make any sense at all?
+MICHAEL	m	Jules, what's wrong...
+JULIANNE	f	This is the dumbest thing I will ever do.  So dumb, in fact, that I can't.  I don't think.
+JULIANNE	f	Michael, I love you.
+JULIANNE	f	I've loved you for nine years, but I was too arrogant and scared to realize it.  Now I'm just scared.
+JULIANNE	f	I know this comes at an inopportune time, but I have to ask this one really gigantic favor, okay?
+JULIANNE	f	Choose me.  Marry me.  Let me make you happy.
+JULIANNE	f	I know.  It sounds like three favors.
+JULIANNE	f	But when you think about it...
+JULIANNE	f	MICHAEL, DON'T, YOU'LL NEVER
+JULIANNE	f	SHE HAS TOO BIG A LEAD AND SHE
+JULIANNE	f	THANK GOD, A SAMARITAN!!
+JULIANNE	f	IT IS NOT GOING WELL!
+DISPATCHER	m	Uh, Unit Four Baker Charlie, how we cookin' on that Skokiie infestation?
+JULIANNE	f	THIS IS WHAT COMES OF TELLING
+FIELD MAN	m	Copy, dispatcher...
+JULIANNE	f	OR EVEN PART OF IT!
+FIELD MAN	m	Uh, what happens if you got that methyl-ethyl shit on your hands?
+JULIANNE	f	GETTING WHAT YOU DESERVE IS
+DISPATCHER	m	Uh, you got maybe thirty seconds before you're sterile.  For God's sake don't touch yourself, or anything.
+JULIANNE	f	AND I HATE TALKING TO YOUR
+YOUNGER FIELD MAN	m	Uh, this is One Monkey Zebra. It wasn't bees in the gal's wall, it was cats!
+YOUNGER FIELD MAN	m	She says gas 'em, anyway, she'll pay cash.  Uh... how do I pay this?
+JULIANNE	f	MICHAEL!!
+JULIANNE	f	NNNOOOO!!!
+JULIANNE	f	Don't speak!
+MICHAEL	m	Uh.  I saw that moving...
+JULIANNE	f	DON'T SPEAK!
+JULIANNE	f	I have to make a confession. Another confession.  Besides that I love you.  This is even worse.
+JULIANNE	f	The E-mail?  You thought Walter sent your boss?  I wrote that.
+MICHAEL	m	You're not saying you actually... you're saying that y...
+JULIANNE	f	... wrote it, yeah.  I'm the bad guy.
+MICHAEL	m	ARE YOU CRAZY?
+MICHAEL	m	ARE YOU ABSOLUTELY INSANE??
+MICHAEL	m	ARE YOU ON DRUGS???
+MICHAEL	m	I mean, do you realize what you've... well, of course you realize, that's why you're confessing, I mean... I mean... how could you do that?
+JULIANNE	f	I didn't know it would get sent.  I just wanted you to... get mad at Kimmy... and...
+JULIANNE	f	I've done nothing but slimy, underhanded, despicable, not even terribly imaginative, things.  Ever since I got here.  Trying to...
+JULIANNE	f	... to win you.  To win you back.
+JULIANNE	f	And I was blinded by love. Like you said.
+JULIANNE	f	But that doesn't excuse any part of it.  I am pond scum.
+JULIANNE	f	Actually.  Lower.  I am the fungus that feeds on pond scum.  Lower. The layer of mucous that cruds up the fung...
+MICHAEL	m	Lower.
+JULIANNE	f	Lower.
+MICHAEL	m	The pus that infects the mucous that cruds up the fungus.
+MICHAEL	m	On the other hand, thank you.
+MICHAEL	m	For loving me that much, that way.
+MICHEL	m	It's pretty flattering.
+JULIANNE	f	Except it makes me fungus.
+MICHAEL	m	Well, that part I knew.
+JULIANNE	f	So you have to marry Kim. Because she will actually make you happy.  I, in contrast, am a shallow, neurotic psychopath, with relatively little to offer.
+JULIANNE	f	Kim.  Nod your head.  Do as you're told.
+JULIANNE	f	Just promise you'll never tell me who you would have chosen. If I hadn't confessed.
+JULIANNE	f	Cos if you would have chosen me. Then I threw away a perfectly good life.  Just to be a decent person.  Which is a questionable trade-off.  Right?
+JULIANNE	f	And if you would have chosen some 20-year-old punk over me. I'd have to kill myself.
+MICHAEL	m	I'll take it to my grave.
+JULIANNE	f	I'm so glad you didn't jump on that train, before...
+MICHAEL	m	I came here, looking for her.
+JULIANNE	f	Why would she come here...
+MICHAEL	m	This is where I proposed.
+MICHAEL	m	I had to cover a game in Milwaukee.  She saw me off. And when the train started to leave... I jumped up on the step, I help the handle, and without...
+MICHAEL	m	... without a thought in my head. I shouted, "Marry me."
+MICHAEL	m	And she gasped, and covered her mouth, and the train was pulling out, and suddenly she screamed YES!  Just once.  And blew me a kiss.
+MICHAEL	m	I never forgot that.
+JULIANNE	f	It's two weeks.
+MICHAEL	m	Almost three.
+JULIANNE	f	That is so romantic.
+MICHAEL	m	I just wonder if you know why.
+MICHAEL	m	It's because romance isn't mystery, and tricks, and doubts, and halting, unspoken longings. That's not the real romance.
+MICHAEL	m	The real romance is saying yes.
+MICHAEL	m	Woulda been a nice wedding.
+JULIANNE	f	You can't believe you've lost her!  Sooner or later, you'll find her, and you'll look in each other's eyes, and you'll see all that love...
+JULIANNE	f	Course, if it's later rather than sooner, I'd hate to be you at six o'clock. You've got a lot of explaining to...
+MICHAEL	m	I'm just thinking of how she's hurting.  Lost.  Alone.  Like her life is over.
+JULIANNE	f	That's little egotistical.
+JULIANNE	f	But, undoubtedly accurate.
+JULIANNE	f	Okay, we'll split up.  You go to every romantic place you guys have, I'll go... someplace brilliant, and the first one who...
+MICHAEL	m	If you find her...
+MICHAEL	m	The kiss.  May be hard.  For you to explain. Because the only fear she really has, is...
+JULIANNE	f	... me, yeah.  And she likes Tommy Lasorda.  Case closed.
+MICHAEL	m	But if you do get to her first...
+MICHAEL	m	There is something you are authorized to say.
+MANDY	f	Wallace egregious residence, Mandy speaking.
+JULIANNE	f	It's Jules, you guys haven't had a call from, say, Kimberly, have you?
+MANDY	f	Oh, she's slipped out, the little monkey.  Prob'ly with Michael, doin' the nasty.
+MANDY	f	Or crying in her nachos, down at Comskey Park.
+JULIANNE	f	Ex-cuse me?
+MANDY	f	I had this crank call?  From some guy who thinks he saw her? I said, what would a bride be doin', on her wedding...
+JULIANNE	f	You are so right.  What a nerve on that guy!  Bring my dress to church, huh?
+JULIANNE	f	I want to pick up a little something for the ceremony.
+BODYGUARD	m	She wouldn't confide in me, so I called the house.
+BODYGUARD	m	Luckily, I got her cousin.
+JULIANNE	f	Going to the john, she said?
+BODYGUARD	m	Could be there awhile.
+JULIANNE	f	YO!  IMMIGRATION!
+JULIANNE	f	I GOT A WARRANT FOR MS. KIMBERLY
+KIMMY	f	In here, you bitch!
+JULIANNE	f	Let me in, baby, or I'll rip this damn thing off its non- code-compliant hinges...
+WOMAN	f	GET THE FUCK OUTTA MY FACE OR
+KIMMY	f	  Over here, nitwit!
+JULIANNE	f	Incoming.
+JULIANNE	f	Pitiful.
+KIMMY	f	Haven't you done enough?
+JULIANNE	f	In one minute.  You are going to feel so foolish.
+KIMMY	f	WHY DON'T YOU JUST DRIVE A
+JULIANNE	f	Have you ever heard of. Irony?
+JULIANNE	f	I threw my arms around your husband.  And kissed him with all my heart.  Because I was so happy.  For you.  Nitwit.
+JULIANNE	f	He's going to take... The job!
+JULIANNE	f	With your dad, yeah.  Can you guess why?  Bitch?
+KIMMY	f	HE LOVES ME!!
+JULIANNE	f	Well, of course, he loves you.
+JULIANNE	f	Hell, even I love you.
+JULIANNE	f	I never want to go through this again.
+KIMMY	f	That's entirely understandable.
+KIMMY	f	Shit!  THE TIME!
+SAMMY	m	Whatever hap...
+JULIANNE	f	We were bonding, we lost track, we're officially sorry, now let's put it behind us.
+JULIANNE	f	Believe me, we got a bride who's worth waiting for, yes?
+JULIANNE	f	Out of our way.
+JULIANNE	f	Don't worry, sugar.
+JULIANNE	f	When he looks at you, it will be as if...
+JULIANNE	f	... he's never seen a woman before.
+WALTER	m	Left foot.
+MINISTER	m	Michael and Kimmy wrote these words.  She asked me to confide, mostly Michael.
+MINISTER	m	So he gets to say them.
+MICHAEL	m	Why do people get married anymore?
+MICHAEL	m	Why not live together amicably, with no sense of obligation beyond the moment?
+MICHAEL	m	As long as the sex is good.  As long as no one more interesting has wandered into view.  As long as the thousand conflicts of two individual wills remain comfortably compromised.
+MICHAEL	m	And when one feels the urge to move on, to explore the new. No guilt, no disgrace, no promise broken.
+MICHAEL	m	No agony of having dishonored a time.  When our hearts.  And the world were different.
+MICHAEL	m	Marriage is a lot to put up with.
+MICHAEL	m	The answer must be.  That there is some need basic to the human heart.  That embracing... the obligation of commitment... fulfills.
+MICHAEL	m	Some need to belong to one another in a way which rages against the notion... that all is impermanent. Against the notion of mortality.
+MICHAEL	m	Our love is bigger.  And longer. Than life itself.
+MICHAEL	m	That's what we want.  And marriage. Is what we do about it.
+MICHAEL	m	We are fools in this.  Thank God Almighty.
+MINISTER	m	Boy, that was good!
+MINISTER	m	Michael and Kim also edited what they want me to say...
+MINISTER	m	The idea was, we're only marrying once.  We have to remember it forever.  Let's keep to the good stuff. You may kiss the bride.
+MINISTER	m	If anyone here can show just cause why this man and woman should not be married, speak now.  Or forever hold your peace.
+MICHAEL	m	Kimberly.  I promise to love. And respect and comfort you. To hear your voice and your heart.  Until we are parted by death.
+KIMMY	f	Michael.  I promise to love and respect and comfort you.  To hear your voice and your heart. Until we are parted by death.
+MINISTER	m	For the record, you each agree to marry the other?
+KIMMY	f	I do!
+MICHAEL	m	I do.
+MINISTER	m	We haven't said much about God this evening, I know.  But He is here.  And He is happy.  To bless His wonderful children.
+MINISTER	m	In that Michael and Kimberly have given themselves to each other by solemn vows, and the exchanging of rings...
+MINISTER	m	I pronounce them husband and wife. Those whom God has joined together, let no one put asunder.
+MINISTER	m	Now.  Kiss the bride.
+JULIANNE	f	I'm a writer, too, not as good as Michael.  But I do steal from quality.
+JULIANNE	f	This is to my best friend.  On the occasion of his wedding.
+JULIANNE	f	If I have truly come to know your bride as my new sister. This is in her heart...
+JULIANNE	f	"Understand.  I'll slip quietly away from the noisy crowd when I see the pale stars rising, blooming, over the oaks."
+JULIANNE	f	"I'll pursue solitary pathways through the pale twilit meadows, with only this one dream: You come too."
+JULIANNE	f	I don't have a wedding gift. But this is on loan.  Until you two find your song...
+MANDY/SAMMY	?	Someday, when I'm awfully low,And the world is cold, I will feel a glow just thinking of you,And the way you look tonight.
+MANDY/SAMMY	?	You're lovely.  With your smile so warm,And your cheeks so soft, There is nothing for me but to love you,Just the way you look tonight.
+MANDY/SAMMY	?	With each word, your tenderness grows,Tearing my fears apart... And the laugh that wrinkles your nose,Touches my foolish heart.
+JULIANNE/MANDY/SAMMY	?	You're lovely, please don't ever change,Keep that breathless charm, Darling, please arrange it, cos I love you...Just the way you look tonight.
+MICHAEL	m	Wherever I go.  However far...
+JULIANNE	f	You win a few, you lose a few. Some get rained out.
+DIGGER	m	You have a good time?
+JULIANNE	f	I did what I came to do.
+DIGGER	m	Good girl.
+DIGGER	m	I was thinking.  Maybe you might visit us for awhile.  We've got the room made up.
+JULIANNE	f	I'll think about it.  I'm okay.
+DIGGER	m	Oh, you're more than okay.
+JULIANNE	f	You, too.
+JULIANNE	f	If the sun comes up, I'll see you tomorrow, huh?
+DIGGER	m	 I'll play those odds.  You have  sweet dreams.
+

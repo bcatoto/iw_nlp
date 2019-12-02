@@ -1,0 +1,519 @@
+FIGURE	m	Kill them. Kill them all.
+MIXTER	m	Lisa Templeton?
+LISA	f	Me! Sorry-
+LISA	f	Shit!
+LISA	f	Oh God, I'm sorry, I didn't mean to say that!
+MIXTER	m	It's quite alright. I'm Doctor Elliot Mixter. Come into my office.
+MIXTER	m	Please, take a seat.
+LISA	f	I've uh... brought my resume and some references. I know I already sent a copy with my application but just in case.
+MIXTER	m	Thank you.
+MIXTER	m	Very good. I see you've had lots of experience cleaning private homes.
+LISA	f	Yes, I uh... I've done a lot of them.
+MIXTER	m	Well an institution such as this one is a very different proposition.
+LISA	f	Oh yes. Yes I know. You'll see I've also worked cleaning a school, so I am used to big areas.
+MIXTER	m	Yes I've seen that. When I say this is a different proposition I mean in terms of the sensitivity required due to the nature of what we do here.
+LISA	f	Oh yes, yes of course.
+MIXTER	m	You would mainly be working night shifts at a time when patients are on lock down. But many of our patients here have psychological disturbances so there may be situations where you have to clean up things you may not be used to cleaning up. If you know what I'm saying.
+LISA	f	I know what you mean, yes.
+MIXTER	m	Would that bother you?
+LISA	f	It may be strange at first but I actually have some experience in
+LISA	f	I really admire that and I promise I would not let you down if I was given this job.
+MIXTER	m	I'm sure you wouldn't.
+LISA	f	Oh my God, I'm so sorry!!
+MIXTER	m	It's quite alright, please sit down, I can take care of it.
+MIXTER	m	Okay... well thanks for coming in. I'll let you know.
+LISA	f	Look I'm so sorry, I really am!
+MIXTER	m	It's fine. We'll be in touch.
+LISA	f	Hello?
+1LISA	?	Hey Nancy.
+LISA	f	It was a total fucking disaster!
+LISA	f	I sneezed on the head of the institution.
+LISA	f	I sneezed on him! It was one of those sneezes that just sneaks up on you, I didn't have time to cover my face. Before you know it he's covered in my snot!
+LISA	f	Go on, go ahead. You know you want to!
+LISA	f	Laugh it up, it's gonna be your last chance because I'm not going for any more job interviews! I'm done, I'm always so damn nervous and I just don't make a good first impression.
+1LISA	?	Not really. I just think I'm gonna get myself a nice big tub of ice cream from the freezer and watch some TV.
+LISA	f	[Smiles] I know but if there's ever a good time for ice cream it's today!
+LISA	f	Sure. Night.
+LISA	f	Hello?
+LISA	f	Really? Oh, I uh... Hi!
+LISA	f	Um... is this a joke or something?
+LISA	f	Seriously?
+LISA	f	Oh my God I... I can't believe it.
+LISA	f	Oh God, thank you so much! I really appreciate this, I won't let you down!
+LISA	f	Okay, see you tomorrow!
+1MAN	?	Gswno!
+MAN	m	Can I help you?
+LISA	f	Yeah, I'm here for an induction into the cleaning job.
+MAN	m	You must be Lisa?
+LISA	f	Yes, that's right.
+MAN	m	Doctor Mixter said you would be coming. I'm Delaney, we'll be working together.
+LISA	f	Oh great.
+DELANEY	f	We work nights so today we'll just show you around, okay?
+LISA	f	Okay, thank you.
+DELANEY	f	I'll clean this up and we'll get to it.
+DELANEY	f	This is the storage cupboard. Everything you will need for each
+1DELANEY	?	Yes! I think a lot of the time it's the staff doing it, not the patients! But we have this GumCart, which is a bit complicated but it's easier than just scraping the gum. The steam is super heated to one hundred eighty degrees and delivered at seven point zero bar pressure. It can produce a hundred and fifteen litres of superheated steam per minute.
+LISA	f	Is it okay if I watch you use it a few times first so I know exactly what I'm doing? I don't want to end up burning myself or any furniture!
+DELANEY	f	No problem. Now here we come to the most dangerous chemical we have. This is a concrete cleaner, very toxic stuff, so you have to wear the face mask and gloves we have here, okay?
+LISA	f	Okay.
+DELANEY	f	This is for cleaning and descaling brick, stone and concrete and for metal de-rusting. For concrete you must mix it one part to four parts water. Brush or spray it on with the equipment here then leave it five to ten minutes to set, then rinse it off. But for those stubborn son-of-a-bitch marks use it neat!
+LISA	f	Okay.
+DELANEY	f	Don't worry if anything seems complicated, you'll get used to it. But you'll mostly be mopping and hoovering in your first few weeks.
+LISA	f	Yeah that's fine.
+DELANEY	f	This is Ward B, one of two wards you'll be responsible for cleaning each evening. Essentially the main duties will be emptying the bins, hoovering the carpeted areas and mopping the hallways. The patients in here are Category B. They're mainly people who have had nervous breakdowns and those who are catatonic. They're harmless. Like Missus Hardesty here.
+DELANEY	f	Hello Missus Hardesty.
+DELANEY	f	She hasn't spoken a word in all her time here. The orderlies just lift her from the bedroom to the day room and back again every day.
+LISA	f	Why did you just talk to her?
+DELANEY	f	We've still got to treat them like human beings. Otherwise they just become like furniture and we all lose our humanity. I like to think she can hear me, even if she won't talk to me. See you later Missus Hardesty.
+1DELANEY	?	The patients are locked in their rooms on our night shift, but now and again they might have an accident we gotta clean up.
+LISA	f	Okay.
+DELANEY	f	In the day time there are nurses who often clean up but in the night we may be called to provide fresh linen or mop up. Not the most pleasant of jobs but it happens from time to time.
+LISA	f	Yeah I understand.
+DELANEY	f	Now here we come to the most difficult part of the job.
+LISA	f	Cleaning crap up isn't the most difficult part?!
+DELANEY	f	Oh no, that's very easy compared to what's behind this door.
+LISA	f	What's behind it?
+DELANEY	f	This leads down to Ward X.
+LISA	f	Sounds ominous.
+DELANEY	f	You could say that. It's where Category A patients are held. The criminally insane.
+LISA	f	Really? Doctor Mixter didn't mention that.
+DELANEY	f	Yes, well, these patients are beyond help so they've become athe hospital's secret. Many of them were transferred from prisons and other institutions. Doctor Mixter probably thought he could help them. He can't. The staff call this place Blood Row.
+LISA	f	What's that smell?
+DELANEY	f	It always hangs in the air. No matter how much we bleach the floor there is always that smell of death.
+2LISA	?	These patients are dangerous?
+DELANEY	f	Yes. But don't worry, we never have to interact directly or anything like that. You will just be mopping the corridor and dusting.
+DELANEY	f	That's Jerry Kimble. He was convicted of stabbing a young mother forty-nine times in front of her two year-old son, then killing and sexually assaulting a woman before smothering her four-year-old daughter. They call him the Green Chain Rapist. He was in Sing Sing but was certified insane and his lawyer got him transferred here. He doesn't make any noise or fuss, but he is a dangerous man. Especially towards women. This next inmate is even worse.
+DELANEY	f	That's Dennis Palmer. Also known as The Long Island Cannibal. He was abused as a child so his targets were always paedophiles and rapists. He'd track them down and torture them. He would eat parts of their body while they were still alive.
+LISA	f	That's horrible.
+DELANEY	f	The most horrible thing is that a lot of the public thought he was a hero.
+DELANEY	f	Sadie Krenwinkel.
+LISA	f	What's her deal?
+DELANEY	f	She was a member of a Witchcraft cult. They kidnapped six people for a demonic ritual. Five were killed but one got away and led police to the cult. She turned her trial into a circus, talking about lots of crazy stuff. The media enjoyed it but she got certified insane by the court. She's been around a few institutions since. Now she's here.
+LISA	f	Some strange stories here.
+DELANEY	f	Well those aren't the strangest.
+LISA	f	Really?
+DELANEY	f	This last patient is the strangest case.
+DELANEY	f	This is our resident John Doe. Sometimes we have people with
+22	?	amnesia. Often we find out who they are. Not so with this man.
+LISA	f	Why is he down here?
+DELANEY	f	They first brought him in about six months ago. No one knows where he came from, he literally just turned up late one night. An orderly found him wandering the grounds. First of all he was like Missus Hardesty upstairs-catatonic. Then a few weeks later he started to respond to Doctor Mixter and the nurses through facial expressions and gestures. But soon, he got violent. Very violent. He'd have bursts of rage and beat other patients. One day he appeared to have a seizure and collapsed. A young doctor tried to take his vital signs. Patient X here throttled him so hard he crushed his larynx. It took six orderlies to restrain him. Now they won't even let him out for the obligatory hour a day exercise. We still don't know who he is.
+LISA	f	Oh God.
+DELANEY	f	God has nothing to do with this man.
+DELANEY	f	I haven't put you off have I?
+LISA	f	I guess not... it's just a lot to take in. I've obviously never been around stuff like this before.
+DELANEY	f	This is the reality of this place. We don't deal with these people directly but we may have to clean up their mess. If you can't handle
+LISA	f	I'm not a quitter.
+LISA	f	Ooh, you made me jump! Should you be out of bed this late?
+GIRL	f	I don't know.
+LISA	f	I don't think you should be.
+GIRL	f	Do you want to play with me?
+LISA	f	I'd love to sweetheart, but it's very late now. I think you better go back to bed.
+2GIRL	f	Okay.
+LISA	f	Fuck!!
+DELANEY	f	Sorry, I didn't mean to startle you.
+LISA	f	It's okay.
+DELANEY	f	Are you okay?
+LISA	f	Yeah, just hurt that's all!
+DELANEY	f	Sorry.
+LISA	f	I'll live.
+DELANEY	f	Do you want to grab a coffee?
+LISA	f	Sure.
+DELANEY	f	Did you change the bins in the Day Room?
+LISA	f	Yeah.
+DELANEY	f	Good. I've got a light bulb to change in Room Twelve upstairs soon. We're making good time.
+LISA	f	Cool. It's funny, I never thought I'd get this job. The interview didn't go well!
+DELANEY	f	Doctor Mixter told me you were the only person he interviewed for the job.
+LISA	f	Really?
+DELANEY	f	Yeah. I'm sure he felt you were right for the job and didn't need to interview anyone else.
+LISA	f	Cool.
+LISA	f	Nice tattoo.
+DELANEY	f	Oh yeah. I forget I have it sometimes.
+2LISA	?	What does it mean?
+DELANEY	f	Well... it represents a lot of wrong turns in my younger years.
+LISA	f	Like what?
+LISA	f	Sorry, I didn't mean to pry.
+DELANEY	f	It's okay. Let's just say the past is better left there.
+LISA	f	Fair enough.
+DELANEY	f	So how is the first night going for you?
+LISA	f	Not bad. I ran into a young girl in the hallway earlier. Sweet little girl, she was only about twelve or thirteen. I told her to go back to bed. I guess they don't lock the kids in at night huh?
+DELANEY	f	You sure it was a young girl of that age?
+LISA	f	Yeah definitely. She was carrying a teddy bear. She was about thirteen at the most.
+DELANEY	f	Umm... okay.
+LISA	f	What?
+DELANEY	f	Well... there are no children of that age here.
+LISA	f	What?
+DELANEY	f	In fact, there are no children of any age in this place. I think our youngest patient is about twenty.
+LISA	f	You're kidding right?
+DELANEY	f	No, I'm serious.
+LISA	f	Then who was that girl in the hallway?
+DELANEY	f	You sure you saw a girl that young?
+LISA	f	I'm positive.
+DELANEY	f	I better tell the orderlies. This is no place for a little girl to be.
+LISA	f	Did you find her?
+DELANEY	f	No.
+HARDCASTLE	m	So you're the one who saw the little girl huh?
+2LISA	?	Yes.
+HARDCASTLE	m	You sure you saw a little girl?
+LISA	f	Of course.
+HARDCASTLE	m	Well I've had to pull staff off other wards to search this goddamn place top to bottom. We found nothing.
+LISA	f	That's strange.
+HARDCASTLE	m	A big fucking inconvenience is what it is! Do me a favour, the next time you think you see something be absolutely sure before you go running to Jumpsuit here! I ain't got time to be running around this place looking for shit that isn't there! You understand??
+LISA	f	Yes.
+LISA	f	Sorry.
+DELANEY	f	Don't worry about it. Better safe than sorry.
+DELANEY	f	Hey, can you do me a favour?
+LISA	f	What?
+DELANEY	f	Can you empty the rubbish in Doctor Mixter's office? I've got to check the boiler, there's been complaints about the heating not working.
+LISA	f	No problem.
+3LISA	?	Doctor Mixter? Hello?
+PEMBERTON	m	What the hell are you doing in here?
+LISA	f	Uh... I was just emptying the garbage.
+PEMBERTON	m	Funny, I don't remember Doctor Mixter keeping the garbage in the filing cabinet.
+LISA	f	Look I... it was just open and I ... I dunno.
+PEMBERTON	m	Well, y'know I'm gonna have to report this.
+LISA	f	Oh please don't, I didn't see anything I just opened it.
+PEMBERTON	m	Well new girl, it's hospital policy to report this kind of thing.
+LISA	f	But I've only just got this job and I really need it.
+PEMBERTON	m	Perhaps we can come to some arrangement.
+LISA	f	What do you mean?
+PEMBERTON	m	Well, I'd be doing you a big favour if I kept this to myself. So perhaps you can do me a favour.
+LISA	f	What kind of favour?
+PEMBERTON	m	A blow job.
+LISA	f	You're disgusting!
+PEMBERTON	m	Oh come on, I bet you'd love it.
+LISA	f	Look, you better get out of my way or I'm going to report you for sexual harassment.
+PEMBERTON	m	You've been working here for five minutes. You really think Doctor Mixter is gonna believe a fucking cleaner over a medical professional?
+DELANEY	f	Pemberton!
+3DELANEY	?	Leave her alone.
+PEMBERTON	m	She ain't no prisoner here! I was just talking, what's the problem?
+DELANEY	f	No problem. Lisa, come with me, we've got a job up on Ward B.
+DELANEY	f	You okay?
+LISA	f	I'm fine. It was just a little bit intimidating, y'know?
+DELANEY	f	Pemberton can be like that. He works nights with that other son- of-a-bitch Hardcastle. They like to throw their weight around. You'll get used to it.
+LISA	f	People like that shouldn't be in charge of patients.
+DELANEY	f	Let's get a coffee.
+LISA	f	You sure love your break times!
+DELANEY	f	I like to pace myself!
+LISA	f	Missus Hardesty, you scared me! What are you doing up at this time?
+LISA	f	Sorry, I forgot you don't talk. I'll just go and get an orderly.
+MRS HARDESTY	f	You're going to die in here.
+LISA	f	What did you say?
+LISA	f	I'll... I'll go get an orderly.
+3LISA	?	Hi.
+PEMBERTON	m	Well look who it is, Miss Sexual Harassment.
+LISA	f	Bite me.
+PEMBERTON	m	What are you laughing at?
+HARDCASTLE	m	This one's got a big mouth! First ordering a search of the hospital for a little girl, now she's busting your balls!
+LISA	f	Look, I don't want any trouble. I just came to tell you there's a patient whose out of their room in Ward B.
+HARDCASTLE	m	You won't get no trouble from me, I'm a professional. Unlike this useless bag of bones.
+PEMBERTON	m	Fuck you!
+HARDCASTLE	m	Catch you later sweetie.
+HARDCASTLE	m	Where is this patient huh?
+LISA	f	She was right there, in that chair.
+HARDCASTLE	m	Who?
+LISA	f	Missus Hardesty.
+HARDCASTLE	m	Missus Hardesty?
+LISA	f	Yeah. She even spoke to me!
+HARDCASTLE	m	Missus Hardesty was here and she spoke to you?
+LISA	f	Yes!
+HARDCASTLE	m	Just a second...
+HARDCASTLE	m	The new girl here says that Missus Hardesty was just sat in that chair. Says she even spoke to her.
+LISA	f	Look I know she's supposed to be catatonic but I swear she said something to me!
+3PEMBERTON	?	That's not the strange thing, sweetheart.
+LISA	f	What do you mean?
+PEMBERTON	m	Missus Hardesty died this morning.
+LISA	f	But I could have sworn...
+HARDCASTLE	m	Listen newbie, how about you just get on with the cleaning and stay off the crack pipe. Okay, honey bunny?
+LISA	f	Hello?
+LISA	f	Little girl, wait!
+LISA	f	Don't go in there!
+LISA	f	Little girl?
+3LISA'S MOTHER	f	Don't you grieve for me?
+LISA	f	Of course I do.
+FIGURE	m	Kill them. Kill them all.
+DELANEY	f	Okay, next thing is mopping the floor in Ward X.
+4LISA	?	Umm... could you do that?
+DELANEY	f	Why?
+LISA	f	I dunno... I just need a break.
+DELANEY	f	Does Ward X frighten you?
+LISA	f	A little.
+DELANEY	f	That's normal, it frightens me sometimes. But I've got to go up to a patient's room in Ward A. Apparently they've had a little accident. Surely you wouldn't prefer to clean that up?
+LISA	f	Well... maybe not.
+DELANEY	f	I know Ward X is a scary place. But you'll get used to it.
+LISA	f	I can hear them talking. It's kinda unnerving.
+DELANEY	f	I know, I hear that too when I'm down there. But trust me, once you get used to it things will get easier.
+SADIE	f	I can hear you out there.
+SADIE	f	I've been talking to your mother Lisa.
+SADIE	f	She's here with me Lisa. She's told me all about you.
+SADIE	f	I know you're out there Lisa. Talk to me.
+LISA	f	What... what do you expect me to say?
+SADIE	f	Perhaps you can tell me all about the summer trips to Key West with your mother? Those were your favourite memories of your mother weren't they? Or perhaps you'd prefer to tell me about when you sat at your mother's bed side for six months, watching on helplessly as the cancer ravaged her body and sucked the life out of her?
+LISA	f	How... how do you know all this?
+SADIE	f	Because your mother is speaking to me from the flames of hell!
+LISA	f	You sick fuck!
+SADIE	f	She has a message for you Lisa. Want to hear it?
+4SADIE	?	Want the message?
+LISA	f	What is it?
+SADIE	f	GET OUT!!
+DELANEY	f	What's wrong Lisa?
+LISA	f	I'm not going down to Ward X again, I'm really sorry I just can't handle it down there!
+DELANEY	f	Okay, just calm down okay. Tell me what happened.
+LISA	f	They say things to me through the doors. Horrible things!
+DELANEY	f	I know, they've done it to me too.
+LISA	f	But that woman Sadie, she says things she couldn't possibly know about me.
+DELANEY	f	Like what?
+LISA	f	I sound crazy don't I?
+DELANEY	f	No. This place just gets under your skin sometimes.
+LISA	f	I'm starting to wonder if I'm losing my mind.
+DELANEY	f	Well it's not healthy to think too much about what those crazy son-of- a-bitches say. Believe me you don't want them inside your head.
+LISA	f	It's hard to keep them out sometimes.
+DELANEY	f	Listen, take a break from Ward X for a while. I'll go down there for the next week or so.
+LISA	f	I'm really sorry about this, I didn't think it would effect me so much.
+4DELANEY	?	Don't worry, it gets to everyone at first. But the last thing I want is for you to dread coming to work.
+LISA	f	Thank you. I really appreciate that.
+DELANEY	f	No problem.
+PEMBERTON	m	What's with all the fucking racket Palmer?
+PALMER	m	Sorry to bother you Mister Pemberton. But I wondered if it would be possible to get some medical attention?
+PEMBERTON	m	Now how the hell did that happen?
+PALMER	m	I believe it was this rather crude weapon that did the damage.
+PEMBERTON	m	Jesus Christ Palmer! Now put the weapon on the floor and back away.
+PEMBERTON	m	Put your hands on your fucking head and face the wall! Now!!
+PEMBERTON	m	I'm coming in dipshit, one fucking move from you and I'll cave your fucking skull in! You understand??
+PALMER	m	As you wish Mister Pemberton.
+PEMBERTON	m	Don't you fucking move!!
+PEMBERTON	m	I said don't fucking move!
+PALMER	m	I'm terribly sorry about this.
+4PALMER	?	Good evening Mister Kimble
+HARDCASTLE	m	Pemberton? Pemberton, what's taking you so long man??
+HARDCASTLE	m	Shit!
+HARDCASTLE	m	We got a major code six over here!
+HARDCASTLE	m	Stay alert!
+PALMER	m	Good evening gentleman. I believe we will be one short at roll call tomorrow morning.
+ORDERLY #1	m	Do we need to put the bit in his mouth?
+ORDERLY #2	m	No. We're not giving him the methohexital either.
+HARDCASTLE	m	What the fuck are you doing??
+4LISA	?	I just heard something so I ... I was just curious.
+HARDCASTLE	m	What are you seeing in there?
+LISA	f	Oh nothing, I didn't see anything.
+HARDCASTLE	m	You make sure it stays that way. That guy is a fucking menace and he deserves everything he gets. So you don't talk to Mixter or anyone else about anything you've seen in there. You understand?
+LISA	f	I won't say anything.
+HARDCASTLE	m	Good. Now don't you got some cleaning to do somewhere?
+LISA	f	Of course.
+LISA	f	I'm so sorry I'm running late Nanc!
+NANCY	f	Don't worry about it, have a seat. A latte yeah?
+NANCY	f	Good, I've ordered it. They'll bring it over soon.
+LISA	f	Thanks.
+NANCY	f	God hun, you look like shit!
+LISA	f	Oh thanks!
+NANCY	f	Sorry, I didn't mean to be blunt but you do. The night shifts getting to ya?
+LISA	f	The whole job's getting to me. My body clock's all out of whack but it's not just that. There's something seriously wrong with that place.
+NANCY	f	What do you mean?
+LISA	f	Thanks.
+NANCY	f	Wow, you like a little coffee with your sugar?
+LISA	f	I figure it'll wake me up a little.
+NANCY	f	So what's wrong with the place?
+5LISA	?	You believe in ghosts?
+NANCY	f	I dunno, never seen one. But I like to think I'm open minded. Plus you're the most intelligent girl I know. If you say you've seen something, I believe you.
+LISA	f	Thanks Nanc.
+NANCY	f	So what are you gonna do? Are you gonna quit?
+LISA	f	Part of me says I should. There's a lot about the place that frightens me. But I dunno... I think I've seen too much to be able to just walk away and forget the place.
+NANCY	f	If I was you I'd just walk away. Who wants to work at a place that frightens them?
+LISA	f	Well I need the money for starters. But now it feels like I need to find out more.
+NANCY	f	Maybe you are crazy after all!
+BUTCH	m	Hey Pop.
+RONALD SENIOR	m	You come to help?
+BUTCH	m	I'm going out.
+RONALD SENIOR	m	Again? Boy, you better not be turning up for work tomorrow like a goddamn zombie again.
+BUTCH	m	Yeah, yeah Pop.
+RONALD SENIOR	m	Don't yeah yeah me boy. You're on a last warning.
+BUTCH	m	I seen you got Mark a wheelchair. Mom says it cost five hundred bucks.
+RONALD SENIOR	m	What of it?
+BUTCH	m	Well how come you're spending five hundred bucks on Mark and I gotta come beg you for money all the time huh?
+5RONALD SENIOR	m	What's the matter with you, boy? Your brother's broken his leg, he needs that wheelchair.
+BUTCH	m	Well I need money too!
+RONALD SENIOR	m	Butch, you get a wage from the auto dealership every Friday and it's gone by Monday. Why is that?
+BUTCH	m	I gotta live.
+RONALD SENIOR	m	What you spending that money on huh? Cos it ain't rent or food. You get everything you want for nothing 'round here. I know what you're really doing with that money.
+BUTCH	m	You don't know shit!
+RONALD SENIOR	m	Boy, you better shut that mouth of yours.
+BUTCH	m	This ain't over.
+BUTCH	m	Hey Mick.
+MICK	m	Butch, I told you man, you can't get no shit on lay-away any more. Your credit's all used up.
+BUTCH	m	You accept cash?
+MICK	m	My man! Come on in.
+5RONALD SENIOR	m	Nineteen thousand dollars boy! Nineteen thousand!!
+BUTCH	m	What??
+RONALD SENIOR	m	You stole that fuckin' money from the auto dealership!!
+BUTCH	m	What the fuck you talking about?? I was robbed!! Didn't Brigante tell you huh? Some fuckers car jacked me Pop. I told the police about it!
+RONALD SENIOR	m	You expect me to believe that, boy? You think I'm fuckin' stupid??
+BUTCH	m	I ain't saying your stupid pop, I'm telling you the truth! I was robbed god-damn it!
+LOUISE	f	What the hell's going on??
+RONALD SENIOR	m	Our son's a fuckin' junkie thief, that's what's going on!! He robbed the fucking dealership!!
+BUTCH	m	Don't listen to him Ma, I ain't done nothing!!
+LOUISE	f	Stop it!! Stop it now!!
+RONALD SENIOR	m	Why do you always have to get involved huh?? You've always been too soft on that boy!!
+LOUISE	f	Don't you touch him!!
+RONALD SENIOR	m	He needs some fuckin' discipline!!
+LOUISE	f	Stay away from him!!
+BUTCH	m	I've had enough of you fat man!!
+LOUISE	f	Ronnie, don't!! Please!!
+LOUISE	f	No!!
+5FIGURE	?	Kill them before they kill you.
+LISA	f	Do you know the history of this place?
+DELANEY	f	I don't believe that God is a bearded man who lives in the sky. Or that the Devil is a red demon with horns. I believe God and Satan are within all of us. God is our human side. Satan is our animal side. Whether we become good or evil depends which side of us we feed.
+LISA	f	It's a frightening thing to believe that if God exists he is not powerful enough to stop evil.
+DELANEY	f	Free will in the hands of a person who feeds the Evil inside them. That's what frightens me.
+LISA	f	Doctor Mixter must have known what stood on this land before the hospital.
+DELANEY	f	Of course he did. He bought the land and organised the demolition of the house himself.
+LISA	f	Why would he build on this land knowing the history of the place?
+DELANEY	f	He's not superstitious. He's a doctor, they don't usually believe in those things. Amityville is full of local legends, going back even before the DeFeos.
+LISA	f	Like what?
+DELANEY	f	There's stories about the Native Americans being slaughtered on this land many years ago. Some people
+62	?	even believed the Indian Chief possessed that kid who killed his family.
+LISA	f	Really?
+DELANEY	f	I don't think that's true. If I've learnt anything from the patients on Ward X, it's that some people have a mind that works in a different way to other people. Those people who do bad things have fed the evil within them more than the good. It's not possession, it's sickness. Sickness of the soul.
+LISA	f	I don't know what to think.
+DELANEY	f	Just don't let your imagination run away with you Lisa. You're a person who feeds that good within you. Don't let this place feed the evil.
+LISA	f	Hi, sorry to bother you but my name's Lisa Templeton. I rang yesterday to set up a meeting with Gloria Branco.
+GLORIA	f	Yes, that's me.
+LISA	f	Oh great! Thank you for agreeing to meet with me.
+GLORIA	f	No problem, nice to meet you! I've set up a table in the back. I've
+LISA	f	Thank you, that's great.
+GLORIA	f	So you wanted to know about the history of Amityville dating back to the Native Americans?
+LISA	f	Yes that's right. I'm writing a college paper and I had heard some rumours in the neighbourhood about Native Americans being killed on the land down on Oceans Avenue.
+GLORIA	f	Well that area has quite a dark history.
+LISA	f	You mean the DeFeo murders at One Twelve?
+GLORIA	f	Yes. Terrible business that. Those young children. Breaks my heart to think about such a tragedy.
+LISA	f	Yeah it's awful.
+GLORIA	f	You know most of the town was very upset when they decided to build that mental institution on the land. That used to be a nice suburban neighbourhood, now there's this big eye sore there. We had a
+64	?	thousand names on a petition. But I guess that Doctor who runs the place has enough money to pay off the people in high places.
+LISA	f	So what about the native Americans? Is that story about them being killed on that land true?
+GLORIA	f	There's something on that here.
+GLORIA	f	Ah yes, here it is. (Reading) In the 18th Century there existed a group of Native Americans in Amityville known as "The Satchem Tribe" led by Satchem Takapausha, the Chief. The tribe had fled Salem in Massachusetts to escape persecution by the Christians who were persecuting members of the tribe because of their Witchcraft practices. These practices included a ritualistic human sacrifice of six people (The significance of Six being related to the biblical number of man and creation) in order to induce the spirit of their God, The Dark Master, who they believed manifested his powers through his devoted followers, giving them immortality. The hundred strong tribe settled in Amityville but were later chased off the land by local Christians. Satchem accused the Christians of not properly compensating his tribe for the land. A war started and the Christians hired a hunter called John Underhill from Salem. At the site where One Twelve Oceans Avenue was later built in Amityville, Underhill killed all of the tribe. The Indians were buried in a mass grave on the site. Before he died Satchem vowed revenge. According to local legend, Chief Satchem is believed to have subsequently haunted the land. Various parapsychologists and mediums have
+LISA	f	So the legend has basis in historical fact?
+GLORIA	f	Absolutely.
+LISA	f	You told me the other night that you think evil is within us all. But do you think that people can be influenced by an evil that comes from outside of themselves?
+DELANEY	f	Are you still thinking about this?
+LISA	f	I guess I am yeah.
+DELANEY	f	I worry that you're thinking too much. This place is getting to you.
+LISA	f	There's something going on in this place. Something sinister. And I don't just mean the patients on Ward X. Have you not noticed that?
+DELANEY	f	I've noticed some things.
+LISA	f	Why haven't you said anything? Or done anything?
+6DELANEY	?	It's like the honey bee.
+LISA	f	What do you mean?
+DELANEY	f	The honey bee is fine when it's just flying from flower to flower. Then they think that a person is a threat and they sting them. They might leave a sting but the person will recover. The bee dies. So I ask myself... is it worth it?
+LISA	f	I know what you're doing.
+LISA	f	I've seen that blog. How are you getting access to the internet?
+LISA	f	Are you allowed to have all this stuff in your cell huh?
+6SADIE	?	The Dark Master is near. It's too late to stop it now. Tonight will behold a great becoming.
+LISA	f	What's going to happen? You're planning on a human sacrifice aren't you?
+SADIE	f	All good things to those who wait.
+LISA	f	Tell me!!
+SADIE	f	Our time is at hand!
+LISA	f	Doctor Mixter.
+MIXTER	m	Oh Lisa, Hello. What brings you here?
+LISA	f	I just wondered if I could speak to you for a moment sir. It's very important.
+MIXTER	m	Of course, come in.
+MIXTER	m	What can I do for you Lisa?
+LISA	f	Well... what I'm going to tell you will sound really strange but I need to tell you.
+MIXTER	m	Okay, go ahead.
+LISA	f	Do you know the history of the land the hospital is built on?
+MIXTER	m	What are you referring to exactly?
+LISA	f	Well, first of all. The DeFeo murders and the infamous house that people said was haunted.
+MIXTER	m	I am aware of the DeFeo murders yes. The hauntings... well I think it's common perception now that a lot of that was exaggerated by the media.
+LISA	f	Maybe. Are you aware of the history of the land dating back to the eighteenth century?
+MIXTER	m	No, I can't say that I am.
+7LISA	?	There were a group of Native Americans in Amityville known as "The Satchem Tribe". They were massacred by Christians after a dispute over the land.
+MIXTER	m	Okay. I'm sure there's a point to all this?
+LISA	f	Yes. Sadie Krenwinkel down on Ward X. She shares the beliefs of the Satchem Tribe. I have reason to believe that somehow she has access to the internet and Witchcraft paraphernalia and she's planning on a human sacrifice tonight to try and raise the God she believes in, The Dark Master, and become immortal.
+LISA	f	I'm serious.
+MIXTER	m	Have you been reading up on Sadie? It's rather outlandish stuff isn't it? But I can assure you she has no access to the internet or anything else.
+LISA	f	Go on the internet and check out the Blog! She signs herself Sister Sadie.
+MIXTER	m	Well that could be anyone called Sadie couldn't it?
+LISA	f	Go down and search her cell!
+MIXTER	m	I don't believe that will be necessary. The patients on Ward X spend twenty three hours a day in the cell. They get an hour of exercise in a small yard guarded by six of our staff. There's no way
+7LISA	?	Thank you.
+MIXTER	m	In fact, I'll order a cell search immediately. Stay here for a moment, I'll be right back.
+LISA	f	What the hell are you doing??
+MIXTER	m	This is for your own good Lisa. You need treatment.
+MIXTER	m	This is for your own good Lisa.
+LISA	f	Fuck you!!!
+LISA	f	Let me out of here you sick fuck!!
+MIXTER	m	Now Lisa, let's talk calmly or you will be sedated again.
+LISA	f	Why are you doing this?
+MIXTER	m	You're having paranoid delusions. I'm also aware that you've been having disturbing visions.
+LISA	f	I'm not having delusions, I know what I've seen!
+MIXTER	m	Well you think you know. The human brain is a powerful thing and I'm sure you do believe what you've seen. But it's all in your mind Lisa, it's not reality. You're a very sick girl and you need treatment.
+LISA	f	You do this to all your staff huh? The minute we speak out we get fucking committed??
+MIXTER	m	Staff? You were never staff here Lisa. You're a patient here. You've always been a patient here.
+LISA	f	No, no. You're lying to me, I know who I am! I KNOW WHO I AM!!
+MIXTER	m	I'm afraid not my dear. You've always been with us here. Initially as an out patient but now the delusions have progressed I feel it's time for you to become a full time resident.
+7LISA	?	But... but...
+MIXTER	m	Look, I understand it's a lot to process now. I'll leave you to think about it and then we'll begin counselling sessions tomorrow.
+LISA	f	Okay.
+MIXTER	m	Listen, how about I take this straight jacket off so you're more comfortable?
+LISA	f	Thank you.
+MIXTER	m	First you must take this. It will help you sleep.
+MIXTER	m	Good girl. I know it's a lot to take in but together we'll get through this. Now I'm going to take your restraint off. Remember though, if you're violent then I promise you it will go straight back on. Okay?
+LISA	f	Okay.
+MIXTER	m	That better?
+LISA	f	Yes. Thank you.
+MIXTER	m	No problem. I'm going to leave you get some rest now. Tomorrow we start the healing process.
+SADIE	f	Adoni, Helumnay, Peenay, Adoni, Helumnay, Peenay, The gods do command thee from thy majesty oh mapulamun.
+7SADIE	?	We did it Elliot, we did it! Our time is at hand!! Immortality is ours!
+DELANEY	f	We need to get out of here! One of the patients is running around with a shot gun down on Ward X!
+LISA	f	Fuck!!
+LISA	f	Please help us!
+DELANEY	f	The patients are loose!
+ORDERLY #1	m	We'll take care of them.
+7LISA	?	Shouldn't we help them??
+DELANEY	f	We need to save ourselves. Let them reap what they've sewn.
+ALLISON	f	Why don't you want to play with me?
+LISA	f	Hey mister, you need to get the hell out of here, there's a patient going crazy with a gun!!
+MAN	m	My...my skin's on too tight!
+DELANEY	f	What?
+MAN	m	My skin is on too tight!
+MAN	m	My skin's on too tight!!
+MAN	m	My skin is on too tight!!
+MAN	m	That's much better.
+8LISA	?	Come on, hurry, please!!
+DELANEY	f	Kurwa!!
+LISA	f	What, what??
+DELANEY	f	A fucking key's been snapped in the lock!
+LISA	f	Fuck!!
+8LISA	?	Lights out, you son-of-a-bitch!!
+LISA	f	Get your fucking hands up you sick fuck!
+MIXTER	m	I see we've dispensed with the usual pleasantries. Come in Lisa.
+LISA	f	You gonna tell me it's all in my head now huh?? Wanna tell me I'm the crazy one??
+MIXTER	m	Well maybe it is, maybe it isn't. How would you know?
+LISA	f	Get the fuck out of my head you son-of-a-bitch! I know who I am and I know what I've seen! You're part of all of this. I know you are! You're the crazy one!!
+MIXTER	m	You're the one holding the gun on a well respected doctor, my dear.
+LISA	f	Why did you do this? Why??
+MIXTER	m	You are part of a great becoming tonight. A rising of The Dark Master who blesses all of his followers with power and immortality.
+LISA	f	You fucking believe that do you?? Sounds like a bunch of bullshit to me! You're no better than those fucking fundamentalists who kill innocent people because they've twisted shit they've read in some Holy book. It's all shit!!
+MIXTER	m	The plan for the becoming is almost complete. Just one more sacrifice, that's all we need tonight.
+8LISA	?	How about if I blow your fucking head off then huh??
+LISA	f	What the fuck are you laughing at?
+MIXTER	m	It's all falling into place.
+LISA	f	The cops coming here? I'm gonna tell them everything about you and your little sick plan! They're gonna lock you up and throw away the key!!
+MIXTER	m	If you say so.
+MIXTER	m	Tell me something Lisa, would it help your grief over your mother if you knew she was a slut?
+LISA	f	What did you say??
+MIXTER	m	Yes. That's why she's burning in hell.
+LISA	f	You shut the fuck about my mother, you don't know anything!!
+MIXTER	m	I know that sometimes you wonder why you don't cry enough for her. I know you feel guilty for not doing more for her when she was alive. You feel guilty for moving on with
+LISA	f	I have not forgotten about her!!
+MIXTER	m	Face it Lisa, you never cared for her. You never cared for anyone but yourself. She's looking up from the bowels of hell now knowing that you never loved her!
+LISA	f	SHUT UP!! SHUT UP!!
+MIXTER	m	She was a whore!
+MIXTER	m	Your mother's in hell and you don't care!!
+LISA	f	Fuck you!!
+8PRESENTER	?	And we're back with our next guest. A year ago he was a survivor of the High Hopes Hospital mass murder when cleaner Lisa Templeton ran amok with a rifle, claiming six victims and injuring many others. Doctor Elliot Mixter has written a new book entitled 'Shattered Hopes' which provides an account of that fateful night as well as some background into the mind of the murderer. Doctor Mixter, good morning.
+MIXTER	m	Morning Katherine, how are you?
+PRESENTER	m	I'm good thank you. So Doctor, can you tell us a little more about the book?
+MIXTER	m	Well, it features a blow by blow account of the evening. It was obviously a very harrowing experience and for me it was rather therapeutic to deal with my feelings about what happened in writing.
+PRESENTER	m	How has it affected the hospital Doctor?
+MIXTER	m	Obviously we were all left very numb by events for a long time and I know a lot of people in the town felt we should close the institution. But that never occurred to me. I feel that people should be brought closer by tragedy and the Staff and I have definitely become closer, both as colleagues and friends, since the incident. That bond makes for a better
+PRESENTER	m	You mentioned there that some people wanted the place to close. I know many were also resistant to the opening of the institution in the first place given that it was built on the site of the infamous house, where Ronald DeFeo murdered his family in the seventies. I know a lot of people associated with that case were accused of exploiting it for their own ends. You've also faced some criticism for that, particularly as we heard last week that you have sold the movie rights to this book. How do you respond to that criticism?
+MIXTER	m	Well I know that some people accuse me of hurting the memory of the victims but I feel I'm helping the memories of those involved live on. Granted, some victims were criminally insane but other victims were loyal staff who had families and I'm determined that they not be forgotten. Each staff member gets their own chapter in the book so that the readers can get a full picture of what wonderful people they were. I always say that all forms of media, whether it be books, newspapers, TV or movies, are a preservation of life. Our physical bodies may die but our images live on when we are famous. Our work and our passion is preserved, therefore it's as if our souls are preserved. Through all of these forms of media we are, in effect, immortal.
+

@@ -1,0 +1,782 @@
+DEPUTY	m	Yessir, just walked in the door. Sheriff he had some sort of a thing on him like one of them oxygen tanks for emphysema or somethin'. And a hose from it run down his sleeve...
+DEPUTY	m	...Well you got me, sir. You can see it when you get in...
+DEPUTY	m	...Yessir I got it covered.
+MAN	m	What's this about?
+CHIGURH	m	Step out of the car please, sir.
+MAN	m	Huh? What is...
+CHIGURH	m	I need you to step out of the car, sir.
+MAN	m	Am I...
+CHIGURH	m	Would you hold still please, sir.
+MOSS	m	Hold still.
+MOSS	m	Shit.
+MAN	m	Agua.
+MAN	m	...Agua. Por Dios.
+MOSS	m	Ain't got no water.
+MAN	m	Agua.
+MOSS	m	I told you I ain't got no agua. You speak English?
+MOSS	m	...Where's the last guy?
+MOSS	m	Ultimo hombre. Last man standing, must've been one. Where'd he go?
+MAN	m	...Agua.
+MOSS	m	I reckon I'd go out the way I came in...
+MAN	m	La puerta... Hay lobos...
+MOSS	m	Ain't no lobos.
+MOSS	m	If you stopped... to watch your backtrack... you're gonna shoot my dumb ass.
+MOSS	m	...But. If you stopped... you stopped in shade.
+CARLA JEAN	f	What's in the satchel?
+MOSS	m	It's full a money.
+CARLA JEAN	f	That'll be the day.
+CARLA JEAN	f	...Where'd you get the pistol?
+MOSS	m	At the gettin' place.
+CARLA JEAN	f	Did you buy that gun?
+MOSS	m	No. I found it.
+CARLA JEAN	f	Llewelyn!
+MOSS	m	What? Quit hollerin'.
+CARLA JEAN	f	What'd you give for that thing?
+MOSS	m	You don't need to know everthing, Carla Jean.
+CARLA JEAN	f	I need to know that.
+MOSS	m	You keep running that mouth I'm gonna take you in the back and screw you.
+CARLA JEAN	f	Big talk.
+MOSS	m	Just keep it up.
+CARLA JEAN	f	Fine. I don't wanna know. I don't even wanna know where you been all day.
+MOSS	m	That'll work.
+MOSS	m	All right.
+CARLA JEAN	f	Llewelyn.
+MOSS	m	Yeah.
+CARLA JEAN	f	What're you doin', baby?
+MOSS	m	Goin' out.
+CARLA JEAN	f	Goin' where?
+MOSS	m	Somethin' I forgot to do. I'll be back.
+CARLA JEAN	f	What're you goin' to do?
+MOSS	m	I'm fixin' to do somethin' dumbern hell but I'm goin' anyways.
+MOSS	m	...If I don't come back tell Mother I love her.
+CARLA JEAN	f	Your mother's dead, Llewelyn.
+MOSS	m	Well then I'll tell her myself.
+MOSS	m	Hello?...
+MOSS	m	Goddamnit.
+CHIGURH	m	How much?
+PROPRIETOR	?	Sixty-nine cent.
+CHIGURH	m	This. And the gas.
+PROPRIETOR	?	Y'all getting any rain up your way?
+CHIGURH	m	What way would that be?
+PROPRIETOR	?	I seen you was from Dallas.
+CHIGURH	m	What business is it of yours where I'm from, friendo?
+PROPRIETOR	?	I didn't mean nothin' by it.
+CHIGURH	m	Didn't mean nothin'.
+PROPRIETOR	?	I was just passin' the time.
+CHIGURH	m	I guess that passes for manners in your cracker view of things.
+PROPRIETOR	?	Well sir I apologize. If you don't wanna accept that I don't know what else I can do for you.
+PROPRIETOR	?	...Will there be somethin' else?
+CHIGURH	m	I don't know. Will there?
+PROPRIETOR	?	Is somethin' wrong?
+CHIGURH	m	With what?
+PROPRIETOR	?	With anything?
+CHIGURH	m	Is that what you're asking me? Is there something wrong with anything?
+PROPRIETOR	?	Will there be anything else?
+CHIGURH	m	You already asked me that.
+PROPRIETOR	?	Well... I need to see about closin'.
+CHIGURH	m	See about closing.
+PROPRIETOR	?	Yessir.
+CHIGURH	m	What time do you close?
+PROPRIETOR	?	Now. We close now.
+CHIGURH	m	Now is not a time. What time do you close.
+PROPRIETOR	?	Generally around dark. At dark.
+CHIGURH	m	You don't know what you're talking about, do you?
+PROPRIETOR	?	Sir?
+CHIGURH	m	I said you don't know what you're talking about.
+CHIGURH	m	...What time do you go to bed.
+PROPRIETOR	?	Sir?
+CHIGURH	m	You're a bit deaf, aren't you? I said what time do you go to bed.
+PROPRIETOR	?	Well...
+PROPRIETOR	?	...I'd say around nine-thirty. Somewhere around nine-thirty.
+CHIGURH	m	I could come back then.
+PROPRIETOR	?	Why would you be comin' back? We'll be closed.
+CHIGURH	m	You said that.
+PROPRIETOR	?	Well... I need to close now --
+CHIGURH	m	You live in that house behind the store?
+PROPRIETOR	?	Yes I do.
+CHIGURH	m	You've lived here all your life?
+PROPRIETOR	?	This was my wife's father's place. Originally.
+CHIGURH	m	You married into it.
+PROPRIETOR	?	We lived in Temple Texas for many years. Raised a family there. In Temple. We come out here about four years ago.
+CHIGURH	m	You married into it.
+PROPRIETOR	?	...If that's the way you wanna put it.
+CHIGURH	m	I don't have some way to put it. That's the way it is.
+CHIGURH	m	...What's the most you've ever lost on a coin toss?
+PROPRIETOR	?	Sir?
+CHIGURH	m	The most. You ever lost. On a coin toss.
+PROPRIETOR	?	I don't know. I couldn't say.
+CHIGURH	m	Call it.
+PROPRIETOR	?	Call it?
+CHIGURH	m	Yes.
+PROPRIETOR	?	For what?
+CHIGURH	m	Just call it.
+PROPRIETOR	?	Well -- we need to know what it is we're callin' for here.
+CHIGURH	m	You need to call it. I can't call it for you. It wouldn't be fair. It wouldn't even be right.
+PROPRIETOR	?	I didn't put nothin' up.
+CHIGURH	m	Yes you did. You been putting it up your whole life. You just didn't know it. You know what date is on this coin?
+PROPRIETOR	?	No.
+CHIGURH	m	Nineteen fifty-eight. It's been traveling twenty-two years to get here. And now it's here. And it's either heads or tails, and you have to say. Call it.
+PROPRIETOR	?	Look... I got to know what I stand to win.
+CHIGURH	m	Everything.
+PROPRIETOR	?	How's that?
+CHIGURH	m	You stand to win everything. Call it.
+PROPRIETOR	?	All right. Heads then.
+CHIGURH	m	Well done.
+CHIGURH	m	...Don't put it in your pocket.
+PROPRIETOR	?	Sir?
+CHIGURH	m	Don't put it in your pocket. It's your lucky quarter.
+PROPRIETOR	?	...Where you want me to put it?
+CHIGURH	m	Anywhere not in your pocket. Or it'll get mixed in with the others and become just a coin. Which it is.
+CARLA JEAN	f	Llewelyn? What the hell?
+MOSS	m	Odessa.
+CARLA JEAN	f	Why would we go to Odessa?
+MOSS	m	Not we, you. Stay with your mother.
+CARLA JEAN	f	Well -- how come?
+CARLA JEAN	f	So... for how long do we have to...
+MOSS	m	Baby, at what point would you quit botherin' to look for your two million dollars?
+CARLA JEAN	f	What'm I supposed to tell Mama?
+MOSS	m	Try standin' in the door and hollerin: Mama I'm home.
+MOSS	m	C'mon, pack your things. Anything you leave you ain't gonna see again.
+CARLA JEAN	f	Well thanks for fallin' all over and apologizing.
+MOSS	m	Things happened. I can't take 'em back.
+MAN	m	Mind ridin' bitch?
+CHIGURH	m	This his truck?
+MAN	m	Mm-hm.
+CHIGURH	m	Screwgie.
+CHIGURH	m	...Who slashed his tires?
+DRIVER	m	Wudden us.
+DRIVER	m	That's a dead dog.
+CHIGURH	m	Thank you.
+CHIGURH	m	...Where's the transponder?
+MAN	m	In the truck. I'll get it.
+DRIVER	m	These are some ripe petunias.
+CHIGURH	m	Hold this please.
+CHIGURH	m	...You getting anything on this?
+MAN	m	Not a bleep.
+CHIGURH	m	All right...
+LORETTA	f	I thought it was a car afire.
+BELL	f	It is a car afire. But Wendell said there was something back country too.
+LORETTA	f	When is the county gonna start payin' a rental on my horse.
+BELL	f	Hyah!
+BELL	f	...I love you more'n more, ever day.
+LORETTA	f	That's very nice.
+LORETTA	f	...Be careful.
+BELL	f	I always am.
+LORETTA	f	Don't get hurt.
+BELL	f	I never do.
+LORETTA	f	Don't hurt no one.
+BELL	f	Well. If you say so.
+BELL	f	You wouldn't think a car would burn like that.
+WENDELL	m	Yessir. We should a brought wieners.
+BELL	f	Does that look to you like about a '77 Ford, Wendell?
+WENDELL	m	It could be.
+BELL	f	I'd say it is. Not a doubt in my mind.
+WENDELL	m	The old boy shot by the highway?
+BELL	f	Yessir, his vehicle. Man killed Lamar's deputy, took his car, killed someone on the highway, swapped for his car, and now here it is and he's swapped again for god knows what.
+WENDELL	m	That's very linear Sheriff.
+BELL	f	Well. Old age flattens a man.
+WENDELL	m	Yessir. But then there's this other. He nods up the ridge away from the highway.
+BELL	f	Uh-huh.
+BELL	f	...You ride Winston.
+WENDELL	m	You sure?
+BELL	f	Oh, I'm more than sure. Anything happens to Loretta's horse I can tell you right now you don't wanna be the party that was aboard.
+BELL	f	It's the same tire tread comin back as goin'. Made about the same time. You can see the sipes real clear.
+WENDELL	m	Truck's just yonder. Somebodies pried the inspection plate off the door.
+BELL	f	I know this truck. Belongs to a feller named Moss.
+WENDELL	m	Llewelyn Moss?
+BELL	f	That's the boy.
+WENDELL	m	You figure him for a dope runner?
+BELL	f	I don't know but I kindly doubt it.
+WENDELL	m	Hell's bells, they even shot the dog.
+WENDELL	m	...Well this is just a deal gone wrong.
+BELL	f	Yes, appears to have been a glitch or two.
+WENDELL	m	What calibers you got there, Sheriff?
+BELL	f	Nine millimeter. Couple of .45 ACP's.
+BELL	f	...Somebody unloaded on this thing with a shotgun.
+WENDELL	m	Mm.
+WENDELL	m	...How come do you reckon the coyotes ain't been at 'em?
+BELL	f	I don't know...
+BELL	f	...Supposedly they won't eat a Mexican.
+WENDELL	m	These boys appear to be managerial.
+WENDELL	m	...I think we're lookin' at more'n one fracas.
+WENDELL	m	...Wild West over there...
+WENDELL	m	...Execution here.
+BELL	f	That Mexican brown dope.
+WENDELL	m	These boys is all swole up. So this was earlier: gettin set to trade. Then, whoa, differences... You know: might not of even been no money.
+BELL	f	That's possible.
+WENDELL	m	But you don't believe it.
+BELL	f	No. Probably I don't.
+WENDELL	m	It's a mess, ain't it Sheriff?
+BELL	f	If it ain't it'll do til a mess gets here.
+WOMAN	f	Yessir?
+CHIGURH	m	I'm looking for Llewelyn Moss.
+WOMAN	f	Did you go up to his trailer?
+CHIGURH	m	Yes I did.
+WOMAN	f	Well I'd say he's at work. Do you want to leave a message?
+CHIGURH	m	Where does he work?
+WOMAN	f	I can't say.
+CHIGURH	m	Where does he work?
+WOMAN	f	Sir I ain't at liberty to give out no information about our residents.
+CHIGURH	m	Where does he work?
+WOMAN	f	Did you not hear me? We can't give out no information.
+CARLA JEAN	f	Why all the way to Del Rio?
+MOSS	m	I'm gonna borrow a car. From Eldon.
+CARLA JEAN	f	You can't afford one?
+MOSS	m	Don't wanna register it. I'll call you in a couple days.
+CARLA JEAN	f	Promise?
+MOSS	m	Yes I do.
+CARLA JEAN	f	I got a bad feelin', Llewelyn.
+MOSS	m	Well I got a good one. So they ought to even out. Quit worrying about everthing.
+CARLA JEAN	f	Mama's gonna raise hell.
+MOSS	m	Uh-huh.
+CARLA JEAN	f	She is just gonna cuss you up'n down.
+MOSS	m	You should be used to that.
+CARLA JEAN	f	I'm used to lots of things, I work at Wal-Mart.
+MOSS	m	Not any more, Carla Jean. You're retired.
+CARLA JEAN	f	Llewelyn?
+MOSS	m	Yes ma'am?
+CARLA JEAN	f	You are comin back, ain't ya?
+MOSS	m	I shall return.
+WENDELL	m	Sheriff's Department!
+BELL	f	Look at the lock.
+WENDELL	m	We goin' in?
+BELL	f	Gun out and up.
+WENDELL	m	What about yours?
+BELL	f	I'm hidin' behind you.
+WENDELL	m	Sheriff's Department!
+WENDELL	m	...Nobody here.
+BELL	f	No reason not to stay safe.
+WENDELL	m	No sir.
+WENDELL	m	...I believe they've done lit a shuck.
+BELL	f	Believe you're right.
+WENDELL	m	That from the lock?
+BELL	f	Probably must be.
+WENDELL	m	So when was he here?
+BELL	f	I don't know. Oh.
+BELL	f	...Now that's aggravating.
+WENDELL	m	Sheriff?
+BELL	f	Still sweating.
+WENDELL	m	Whoa! Sheriff!
+WENDELL	m	...Sheriff, we just missed him! We gotta circulate this! On the radio!
+BELL	f	Well, okay...
+BELL	f	...What do we circulate?
+BELL	f	...Lookin' for a man who has recently drunk milk?
+WENDELL	m	Sheriff, that's aggravating.
+BELL	f	I'm ahead of you there.
+WENDELL	m	You think this boy Moss has got any notion of the sorts of sons of bitches that are huntin' him?
+BELL	f	I don't know. He ought to...
+BELL	f	...He seen the same things I seen and it made an impression on me.
+MOSS	m	Take me to a motel.
+CABBIE	m	You got one in mind?
+MOSS	m	Just someplace cheap.
+WOMAN	f	You tell me the option.
+MOSS	m	The what?
+WOMAN	f	The option.
+WOMAN	f	...You pick the option with the applicable rate.
+MOSS	m	I'm just one person. Don't matter the size of the bed.
+WOMAN	f	Hello?
+CHIGURH	m	Is Llewelyn there?
+WOMAN	f	Llewelyn?! No he ain't.
+CHIGURH	m	You expect him?
+WOMAN	f	Now why would I expect him? Who is this?
+SALESMAN	m	Hep you?
+MOSS	m	I need the Larry Mahan's in black, size 11.
+SALESMAN	m	Okay.
+MOSS	m	You sell socks?
+SALESMAN	m	Just white.
+MOSS	m	White is all I wear. You got a bathroom?
+SALESMAN	m	Ain't got Larries in black but I got 'em in osta-rich. Break in easy.
+MOSS	m	Don't stop. Just ride me up past the rooms.
+DRIVER	m	What room?
+MOSS	m	Just drive me around. I want to see if someone's here.
+MOSS	m	...Keep going.
+MOSS	m	...Keep going. Don't stop.
+DRIVER	m	I don't want to get in some kind of a jackpot here, buddy.
+MOSS	m	It's all right.
+DRIVER	m	Why don't I set you down here and we won't argue about it.
+MOSS	m	I want you to take me to another motel.
+DRIVER	m	Let's just call it square.
+MOSS	m	You're already in a jackpot. I'm trying to get you out of it. Now take me to a motel.
+WENDELL	m	He labs from Austin on the man by the highway.
+BELL	f	What was the bullet?
+WENDELL	m	Wasn't no bullet.
+BELL	f	Wasn't no bullet?
+WENDELL	m	Yessir. Wasn't none.
+BELL	f	Well, Wendell, with all due respect, that don't make a whole lot of sense.
+WENDELL	m	No sir.
+BELL	f	You said entrance wound in the forehead, no exit wound.
+WENDELL	m	Yes sir.
+BELL	f	Are you telling me he shot this boy in the head and then went fishin' around in there with a pocket knife?
+WENDELL	m	Sir, I don't want to picture that.
+BELL	f	Well I don't either!
+WAITRESS	?	Can I freshen that there for you Sheriff?
+BELL	f	Yes Noreen you better had. Thank you.
+WENDELL	m	The Rangers and DEA are heading out to the desert this morning. You gonna join 'em?
+BELL	f	I don't know. Any new bodies accumulated out there?
+WENDELL	m	No sir.
+BELL	f	Well then I guess I can skip it. Heavens to Betsy, Wendell, you already put me off my breakfast.
+CLERK	m	Twelve gauge. You need shells? Moss looks the gun over.
+MOSS	m	Uh-huh. Double ought.
+CLERK	m	They'll give you a wallop.
+MOSS	m	You have camping supplies?
+CLERK	m	Tent poles.
+MOSS	m	Uh-huh.
+CLERK	m	You already have the tent?
+MOSS	m	Somethin' like that.
+CLERK	m	Well you give me the model number of the tent I can order you the poles.
+MOSS	m	Never mind. I want a tent.
+CLERK	m	What kind of tent?
+MOSS	m	The kind with the most poles.
+CLERK	m	Well I guess that'd be our ten-foot backyard Per-Gola. You can stand up in it. Well, some people could stand up in it. Six foot clearance at the ridge. You might just could.
+MOSS	m	Let me have that one. Where's the nearest hardware store?
+MOSS	m	Could I get another room.
+WOMAN	f	You want to change rooms?
+MOSS	m	No, I want to keep my room, and get another one.
+WOMAN	f	Another additional.
+MOSS	m	Uh-huh.You got a map of the rooms?
+WOMAN	f	Yeah we had a sorta one.
+MOSS	m	What about one forty-two.
+WOMAN	f	You can have the one next to yours if you want. One twenty. It ain't took.
+MOSS	m	No, one forty-two.
+WOMAN	f	That's got two double beds.
+MAN	m	No me mate.
+CHIGURH	m	How'd you find it?
+MAN	m	No me mate.
+OLD MAN	m	Shouldn't be doin' that. Even a young man like you.
+MOSS	m	Doin' what. The old man gazes at the road.
+OLD MAN	m	Hitchhikin'.
+OLD MAN	m	Dangerous.
+MAN	m	You know Anton Chigurh by sight, is that correct?
+WELLS	m	Yessir, that's correct. I know 'em when I see 'em.
+MAN	m	When did you last see him.
+WELLS	m	November the 28th, last year.
+MAN	m	You seem pretty sure of the date. Did I ask you to sit?
+WELLS	m	No sir but you struck me as a man who wouldn't want to waste a chair. I remember dates. Names. Numbers. I saw him on November 28th.
+MAN	m	We got a loose cannon here. And we're out a bunch of money, and the other party is out his product.
+WELLS	m	Yessir. I understand that.
+MAN	m	This account will only give up twelve hundred dollars in any twenty-four hour period. That's up from a thousand.
+WELLS	m	Yessir.
+MAN	m	If your expenses run higher I hope you'll trust us for it.
+WELLS	m	Okay.
+MAN	m	How well do you know Chigurh.
+WELLS	m	Well enough.
+MAN	m	That's not an answer.
+WELLS	m	What do you want to know?
+MAN	m	I'd just like to know your opinion of him. In general. Just how dangerous is he?
+WELLS	m	Compared to what? The bubonic plague? He's bad enough that you called me. He's a psychopathic killer but so what? There's plenty of them around.
+MAN	m	He killed three men in a motel in Del Rio yesterday. And two others at that colossal goatfuck out in the desert.
+WELLS	m	Okay. We can stop that.
+MAN	m	You seem pretty sure of yourself. You've led something of a charmed life haven't you Mr. Wells?
+WELLS	m	In all honesty I can't say that charm has had a whole lot to do with it.
+WELLS	m	...I'm wondering...
+MAN	m	Yes?
+WELLS	m	Can I get my parking ticket validated?
+MAN	m	...An attempt at humor, I suppose.
+WELLS	m	I'm sorry.
+MAN	m	Goodbye, Mr. Wells.
+MOSS	m	One room, one night.
+CLERK	m	That's twenty-six dollars.
+MOSS	m	You on all night?
+CLERK	m	Yessir, be here til ten tomorrow morning.
+MOSS	m	For you. I ain't asking you to do anything illegal.
+CLERK	m	I'm waitin' to hear your description of that.
+MOSS	m	There's somebody lookin' for me. Not police. Just call me if anyone else checks in tonight.
+MOSS	m	There just ain't no way.
+MOSS	m	I'm not going to hurt you. I need you to --
+MOSS	m	I'll give you five hundred bucks for your shirt and your coat.
+YOUTH	m	Let's see the money.
+SECOND YOUTH	m	...Were you in a car accident?
+MOSS	m	Yeah.
+YOUTH	m	Okay, lemme have the money.
+MOSS	m	It's right here. Give me the coat.
+YOUTH	m	Lemme hold the money.
+MOSS	m	Gimme the clothes.
+MOSS	m	...And let me have your beer.
+YOUTH	m	...How much?
+SECOND YOUTH	m	Brian. Give him the beer.
+MOSS	m	Doctor.
+MOSS	m	...Medico. Por favor.
+BELL	f	Anything on those vehicles yet?
+VOICE	m	Sheriff I found out everything there was to find. Those vehicles are titled and registered to deceased people.
+VOICE	m	...The owner of that Blazer died twenty years ago. Did you want me to see what I could find out about the Mexican ones?
+BELL	f	No. Lord no.
+BELL	f	...This month's checks.
+MOLLY	f	That DEA agent called again. You don't want to talk to him?
+BELL	f	I'm goin' to try and keep from it as much as I can.
+MOLLY	f	He's goin' back out there and he wanted to know if you wanted to go with him.
+BELL	f	Well that's cordial of him. I guess he can go wherever he wants. He's a certified agent of the United States Government.
+BELL	f	...Could I get you to call Loretta and tell her I've gone to Odessa? goin' to visit with Carla Jean Moss.
+MOLLY	f	Yes Sheriff.
+BELL	f	I'll call Loretta when I get there. I'd call now but she'll want me to come home and I just might.
+MOLLY	f	You want me to wait til you've quit the building?
+BELL	f	Yes I do. You don't want to lie without what it's absolutely necessary.
+BELL	f	...What is it that Torbert says? About truth and justice?
+MOLLY	f	We dedicate ourselves daily anew. Something like that.
+BELL	f	I think I'm goin' to commence dedicatin' myself twice daily. It may come to three times before it's over...
+BELL	f	...What the hell?
+DRIVER	m	Sheriff.
+BELL	f	Have you looked at your load lately?
+BELL	f	That's a damned outrage.
+DRIVER	m	Oh. One of the tiedowns worked lose.
+BELL	f	How many did you leave with?
+DRIVER	m	I ain't lost none of 'em, Sheriff.
+BELL	f	Couldn't you all of took a van out there?
+DRIVER	m	Didn't have no van with four-wheel drive.
+DRIVER	m	...You going to write me up for improperly secured load?
+BELL	f	You get your ass out of here.
+VOICE	m	I'm guessin'... this is not the future you pictured for yourself when you first clapped eyes on that money.
+WELLS	m	...Don't worry. I'm not the man that's after you.
+MOSS	m	I know, I've seen him. Sort of.
+WELLS	m	You've seen him. And you're not dead.
+WELLS	m	...But that won't last.
+MOSS	m	What is he supposed to be, the ultimate bad-ass?
+WELLS	m	I don't think that's how I would describe him.
+MOSS	m	How would you describe him?
+WELLS	m	I guess I'd say... that he doesn't have a sense of humor. His name is Chigurh.
+MOSS	m	Sugar?
+WELLS	m	Chigurh. Anton Chigurh. You know how he found you?
+MOSS	m	I know how he found me.
+WELLS	m	It's called a transponder.
+MOSS	m	I know what it is. He won't find me again.
+WELLS	m	Not that way.
+MOSS	m	Not any way.
+WELLS	m	Took me about three hours.
+MOSS	m	I been immobile.
+WELLS	m	No. You don't understand.
+WELLS	m	...What do you do?
+MOSS	m	I'm retired.
+WELLS	m	What did you do?
+MOSS	m	I'm a welder.
+WELLS	m	Acetylene? Mig? Tig?
+MOSS	m	Any of it. If it can be welded I can weld it.
+WELLS	m	Cast iron?
+MOSS	m	Yes.
+WELLS	m	I don't mean braze.
+MOSS	m	I didn't say braze.
+WELLS	m	Pot metal?
+MOSS	m	What did I say?
+WELLS	m	Were you in Nam?
+MOSS	m	Yeah. I was in Nam.
+WELLS	m	So was I.
+MOSS	m	So what does that make me? Your buddy?
+WELLS	m	Look. You need to give me the money. I've got no other reason to protect you.
+MOSS	m	Too late. I spent it -- about a million and a half on whores and whiskey and the rest of it I just sort of blew it in.
+WELLS	m	How do you know he's not on his way to Odessa?
+MOSS	m	Why would he go to Odessa?
+WELLS	m	To kill your wife.
+MOSS	m	Maybe he should be worried. About me.
+WELLS	m	He isn't. You're not cut out for this. You're just a guy that happened to find those vehicles.
+WELLS	m	...You didn't take the product, did you?
+MOSS	m	What product.
+WELLS	m	The heroin. You don't have it.
+MOSS	m	No I don't have it.
+WELLS	m	No. You don't.
+WELLS	m	...I'm across the river. At the Hotel Eagle. Carson Wells. Call me when you've had enough. I can even let you keep a little of the money.
+MOSS	m	If I was cuttin' deals, why wouldn't I go deal with this guy Chigurh?
+WELLS	m	No no. No. You don't understand. You can't make a deal with him. Even if you gave him the money he'd still kill you. He's a peculiar man. You could even say that he has principles. Principles that transcend money or drugs or anything like that. He's not like you. He's not even like me.
+MOSS	m	He don't talk as much as you, I give him points for that.
+BELL	f	Carla Jean, I thank you for comin'.
+CARLA JEAN	f	Don't know why I did. I told you, I don't know where he is.
+BELL	f	You ain't heard from him?
+CARLA JEAN	f	No I ain't.
+BELL	f	Nothin'?
+CARLA JEAN	f	Not word one.
+BELL	f	Would you tell me if you had?
+CARLA JEAN	f	Well, I don't know. He don't need any trouble from you.
+BELL	f	It's not me he's in trouble with.
+CARLA JEAN	f	Who's he in trouble with then?
+BELL	f	Some pretty bad people.
+CARLA JEAN	f	Llewelyn can take care of hisself.
+BELL	f	These people will kill him, Carla Jean. They won't quit.
+CARLA JEAN	f	He won't neither. He never has.
+BELL	f	I wish I could say that was in his favor. But I have to say I don't think it is.
+CARLA JEAN	f	He can take all comers.
+BELL	f	You know Charlie Walser? Has the place east of Sanderson?
+BELL	f	...Well you know how they used to slaughter beeves, hit 'em with a maul right here to stun 'em...
+BELL	f	...and then truss 'em up and slit their throats? Well here Charlie has one trussed up and all set to drain him and the beef comes to. It starts thrashing around, six hundred pounds of very pissed-off livestock if you'll pardon my... Charlie grabs his gun there to shoot the damn thing in the head but what with the swingin' and twistin' it's a glance-shot and ricochets around and comes back hits Charlie in the shoulder. You go see Charlie, he still can't reach up with his right hand for his hat... Point bein', even in the contest between man and cow the issue is not certain.
+BELL	f	...When Llewelyn calls, just tell him I can make him safe.
+BELL	f	...Course, they slaughter beeves different now. Use a air gun. Shoots out a rod, about this far into the brain...
+BELL	f	...Sucks back in. Animal never knows what hit him.
+CARLA JEAN	f	Why you tellin' me that, Sheriff?
+BELL	f	I don't know. My mind wanders.
+CHIGURH	m	Hello Carson. Let's go to your room.
+WELLS	m	We don't have to do this. I'm a daytrader. I could just go home.
+CHIGURH	m	Why would I let you do that?
+WELLS	m	I know where the money is.
+CHIGURH	m	If you knew, you would have it with you.
+WELLS	m	I need dark. To get it. I know where it is.
+CHIGURH	m	I know something better.
+WELLS	m	What's that.
+CHIGURH	m	I know where it's going to be.
+WELLS	m	And where is that.
+CHIGURH	m	It will be brought to me and placed at my feet.
+WELLS	m	You don't know to a certainty. Twenty minutes it could be here.
+CHIGURH	m	I do know to a certainty. And you know what's going to happen now. You should admit your situation. There would be more dignity in it.
+WELLS	m	You go to hell.
+CHIGURH	m	Let me ask you something. If the rule you followed brought you to this, of what use was the rule?
+WELLS	m	Do you have any idea how goddamn crazy you are?
+CHIGURH	m	You mean the nature of this conversation?
+WELLS	m	I mean the nature of you.
+WELLS	m	...You can have the money. Anton.
+MOSS'S VOICE	m	...Hello?
+CHIGURH	m	Yes?
+MOSS'S VOICE	m	Is Carson Wells there.
+CHIGURH	m	Not in the sense that you mean.
+CHIGURH	m	...You need to come see me.
+MOSS	m	Who is this.
+CHIGURH	m	You know who it is.
+CHIGURH	m	...You need to talk to me.
+MOSS	m	I don't need to talk to you.
+CHIGURH	m	I think that you do. Do you know where I'm going?
+MOSS	m	Why would I care where you're going.
+CHIGURH	m	Do you know where I'm going?
+CHIGURH	m	...I know where you are.
+MOSS	m	Yeah? Where am I?
+CHIGURH	m	You're in the hospital across the river. But that's not where I'm going. Do you know where I'm going?
+MOSS	m	Yeah. I know where you're going.
+CHIGURH	m	All right.
+MOSS	m	You know she won't be there.
+CHIGURH	m	It doesn't make any difference where she is.
+MOSS	m	So what're you goin' up there for.
+CHIGURH	m	You know how this is going to turn out, don't you?
+MOSS	m	No. Do you?
+CHIGURH	m	Yes, I do. I think you do too. So this is what I'll offer. You bring me the money and I'll let her go. Otherwise she's accountable. The same as you. That's the best deal you're going to get. I won't tell you you can save yourself because you can't.
+MOSS	m	Yeah I'm goin' to bring you somethin' all right. I've decided to make you a special project of mine. You ain't goin' to have to look for me at all.
+BELL	f	The motel in Del Rio?
+WENDELL	m	Yessir. None of the three had ID on 'em but they're tellin' me all three is Mexicans. Was Mexicans.
+BELL	f	There's a question. Whether they stopped bein'. And when.
+WENDELL	m	Yessir.
+BELL	f	Now, Wendell, did you inquire about the cylinder lock?
+WENDELL	m	Yessir. It was punched out.
+BELL	f	Okay.
+WENDELL	m	You gonna drive out there?
+BELL	f	No, that's the only thing I would've looked for. And it sounds like these boys died of natural causes.
+WENDELL	m	How's that, Sheriff?
+BELL	f	Natural to the line of work they was in.
+WENDELL	m	Yessir.
+BELL	f	My lord, Wendell, it's just all-out war. I don't know any other word for it. Who are these folks? I don't know...
+BELL	f	...Here last week they found this couple out in California they would rent out rooms to old people and then kill em and bury em in the yard and cash their social security checks. They'd torture em first, I don't know why. Maybe their television set was broke. And this went on until, and here I quote...
+BELL	f	..."Neighbors were alerted when a man ran from the premises wearing only a dog collar." You can't make up such a thing as that. I dare you to even try.
+BELL	f	...But that's what it took, you'll notice. Get someone's attention. Diggin graves in the back yard didn't bring any.
+BELL	f	...That's all right. I laugh myself sometimes.
+BELL	f	...There ain't a whole lot else you can do.
+MOSS	m	No sir. I'm a veteran.
+OFFICIAL	m	Nam?
+MOSS	m	Yes sir. Two tours.
+OFFICIAL	m	What outfit.
+MOSS	m	Twelfth Infantry Batallion. August seventh nineteen and sixty-six to July second nineteen and sixty-eight.
+OFFICIAL	m	Wilson!
+GUARD	m	Yessir.
+OFFICIAL	m	Get someone to help this man. He needs to get into town.
+CLERK	m	How those Larries holdin' up?
+MOSS	m	Good. I need everything else.
+CLERK	m	Okay.
+MOSS	m	You get a lot of people come in here with no clothes on?
+CLERK	m	No sir, it's unusual.
+VOICE	m	She don't want to talk to you.
+MOSS	m	Yes she does. Put her on.
+VOICE	m	Do you know what time it is?
+MOSS	m	I don't care what time it is. Don't you hang up this phone.
+VOICE	m	I told her what was going to happen, didn't I. Chapter and verse. I said: This is what will come to pass. And now it has come to pass --
+CARLA JEAN	f	Llewelyn?
+MOSS	m	Hey.
+CARLA JEAN	f	What should I do?
+MOSS	m	You know what's goin' on?
+CHIGURH	m	Who are you?
+CHIGURH	m	Yes.
+CHIGURH	m	He gave Acosta's people a receiver.
+CHIGURH	m	That's foolish. You pick the one right tool.
+CHIGURH	m	...For instance. I used birshot. So as not to blow the window.
+CHIGURH	m	That depends. Do you see me?
+MOTHER'S VOICE	f	And I always seen this is what it would come to. Three years ago I pre- visioned it.
+CARLA JEAN	f	It ain't even three years we been married.
+MOTHER	f	Three years ago I said them very words. No and Good.
+DRIVER	m	Yes ma'am.
+MOTHER	f	Now here we are. Ninety degree heat. I got the cancer. And look at this. Not even a home to go to.
+DRIVER	m	Yes ma'am.
+MOTHER	f	We're goin' to El Paso Texas. You know how many people I know in El Paso Texas?
+DRIVER	m	No ma'am.
+MOTHER	f	That's how many. Ninety degree heat.
+CARLA JEAN	f	I got it Mama.
+MOTHER	f	I didn't see my Prednizone.
+CARLA JEAN	f	I put it in, Mama.
+MOTHER	f	Well I didn't see it.
+CARLA JEAN	f	Well I put it in. That one. You just set there. I'll get tickets and a cart for the bags.
+MEXICAN	m	Do you need help with the bags, madam?
+MOTHER	f	Well thank god there's one gentleman left in West Texas. Yes thank you. I am old and I am not well.
+MEXICAN	m	Which bus are you taking?
+MOTHER	f	We're going to El Paso, don't ask me why. Discombobulated by a no-account son-in-law. Thank you. You don't often see a Mexican in a suit.
+MEXICAN	m	You go to El Paso? I know it. Where are you staying?
+SHERIFF BELL	m	Carla Jean, how are you.
+CARLA JEAN	f	Sheriff, was that a true story about Charlie Walser?
+BELL	f	Who's Charlie Walser. Oh! Well, I, uh... True story? I couldn't swear to ever detail but... it's certainly true that it is a story.
+CARLA JEAN	f	Yeah, right. Sheriff, can you give me your word on somethin'?
+BELL	f	Yes ma'am?
+CARLA JEAN	f	If I tell you where Llewelyn's headed, you promise it'll be just you goes and talks with him -- you and nobody else?
+BELL	f	Yes ma'am, I do.
+CARLA JEAN	f	Llewelyn would never ask for help. He never thinks he needs any.
+BELL	f	Carla Jean, I will not harm your man. And he needs help, whether he knows it or not.
+MAN	m	What's the problem there, neighbor.
+MAN	m	Yeah, that'll suck some power. Over time.
+CHIGURH	m	You from around here?
+MAN	m	Alpine. Born 'n bred. Here ya go.
+CHIGURH	m	What airport would you use.
+MAN	m	Huh? Airport or airstrip?
+CHIGURH	m	Airport.
+MAN	m	Well -- where ya goin'?
+CHIGURH	m	I don't know.
+MAN	m	Just lightin' out for the territories, huh. Brother, I been there... Well...
+MAN	m	...There's airstrips.
+MAN	m	...The airport is El Paso. You want some place specific you might could be better off just drivin' to Dallas. Not have to connect.
+MAN	m	...You gonna clamp them, buddy?
+CHIGURH	m	Can you get those chicken crates out of the bed.
+MAN	m	What're you talkin' about?
+WOMAN	f	Hey Mr. Sporting Goods.
+MOSS	m	Hey yourself.
+WOMAN	f	You a sport?
+MOSS	m	That's me.
+WOMAN	f	I got beers in my room.
+MOSS	m	Waitin' for my wife.
+WOMAN	f	Oh. That's who you keep lookin' out the window for?
+MOSS	m	Half.
+WOMAN	f	What else then?
+MOSS	m	Lookin' for what's comin'.
+WOMAN	f	Yeah but no one ever sees that. I like a man that'll tell you he's married.
+MOSS	m	Then you'll like me.
+WOMAN	f	I do like you.
+WOMAN	f	...Beer. That's what's comin', I'll bring the ice chest out here. You can stay married.
+MOSS	m	Ma'am I know what beer leads to.
+WOMAN	f	Beer leads to more beer.
+BELL	f	Call police.
+BELL	f	...Call your local law enforcement. I'm not on their radio.
+BELL	f	Carla Jean...
+CARLA JEAN	f	No.
+BELL	f	I don't know who she is.
+ROSCOE	m	I thought maybe she was with your boy there.
+BELL	f	No ID in her room?
+ROSCOE	m	Not hardly nothin' in her room. And that establishment was no stickler on registration. Well...
+ROSCOE	m	...County'll bury her. Here Lies Female, Unknown. Her Number Was Up.
+ROSCOE	m	...Buy you a cup of coffee before you drive home?
+BELL	f	No money in his room there?
+ROSCOE	m	Couple hundred on his person. Those hombres would've taken the stash.
+BELL	f	I suppose. Though they was leavin' in a hurry.
+ROSCOE	m	It's all the goddamned money, Ed Tom. The money and the drugs. It's just goddamned beyond everything. What is it mean? What is it leading to?
+BELL	f	Yes.
+ROSCOE	m	If you'd a told me twenty years ago I'd see children walkin' the streets of our Texas towns with green hair and bones in their noses I just flat out wouldn't of believed you.
+BELL	f	Signs and wonders. But I think once you stop hearin' sir and madam the rest is soon to follow.
+ROSCOE	m	It's the tide. It's the dismal tide. It is not the one thing.
+BELL	f	Not the one thing. I used to think I could at least some way put things right. I don't feel that way no more.
+BELL	f	...I don't know what I do feel like.
+ROSCOE	m	Try "old" on for size.
+BELL	f	Yessir. It may be that. In a nutshell.
+ROSCOE	m	None of that explains your man though.
+BELL	f	Uh-huh.
+ROSCOE	m	He is just a goddamn homicidal lunatic, Ed Tom.
+BELL	f	I'm not sure he's a lunatic.
+ROSCOE	m	Well what would you call him.
+BELL	f	I don't know. Sometimes I think he's pretty much a ghost.
+ROSCOE	m	He's real all right.
+BELL	f	Oh yes.
+ROSCOE	m	All that at the Eagle Hotel. It's beyond everything.
+BELL	f	Yes, he has some hard bark on him.
+ROSCOE	m	That don't hardly say it. He shoots the desk clerk one day, and walks right back in the next and shoots a retired army colonel.
+BELL	f	Hard to believe.
+ROSCOE	m	Strolls right back into a crime scene. Who would do such a thing? How do you defend against it?
+ROSCOE	m	...Good trip Ed Tom. I'm sorry we couldn't help your boy.
+ELLIS	?	Min back!
+BELL	f	How'd you know I was here.
+ELLIS	?	Who else'd be in your truck.
+BELL	f	You heard it?
+ELLIS	?	How's that?
+BELL	f	You heard my -- you havin' fun with me?
+ELLIS	?	What give you that idea. I seen one of the cats heard it.
+BELL	f	But -- how'd you know it was mine?
+ELLIS	?	I deduced it. Once you walked in.
+BELL	f	How many a those things you got now?
+ELLIS	?	Cats? Several. Wal. Depends what you mean by got. Some are half-wild, and some are just outlaws.
+BELL	f	How you been, Ellis?
+ELLIS	?	You lookin' at it. I got to say you look older.
+BELL	f	I am older.
+ELLIS	?	Got a letter from your wife. She writes pretty regular, tells me the family news.
+BELL	f	Didn't know there was any.
+ELLIS	?	She just told me you was quittin'. Sit down.
+BELL	f	Want a cup?
+ELLIS	?	'Predate it.
+BELL	f	How fresh is this coffee?
+ELLIS	?	I generally make a fresh pot ever week even if there's some left over.
+BELL	f	That man that shot you died in prison.
+ELLIS	?	In Angola. Yeah.
+BELL	f	What would you a done if he'd been released?
+ELLIS	?	I don't know. Nothin'. Wouldn't be no point to it.
+BELL	f	I'm kindly surprised to hear you say that.
+ELLIS	?	All the time you spend tryin' to get back what's been took from you there's more goin' out the door. After a while you just try and get a tourniquet on it.
+ELLIS	?	...Your granddad never asked me to sign on as deputy. I done that my own self. Loretta says you're quittin'.
+BELL	f	Yes, you've circled round.
+ELLIS	?	How come're you doin that?
+BELL	f	I don't know. I feel overmatched.
+BELL	f	...I always thought when I got older God would sort of come into my life in some way. He didn't. I don't blame him. If I was him I'd have the same opinion about me that he does.
+ELLIS	?	You don't know what he thinks.
+BELL	f	Yes I do.
+ELLIS	?	I sent Uncle Mac's badge and his old thumbbuster to the Rangers. For their museum there. Your daddy ever tell you how Uncle Mac come to his reward?
+ELLIS	?	...Shot down on his own porch there in Hudspeth County. There was seven or eight of 'em come to the house. Wantin' this and wantin' that. Mac went back in and got his shotgun but they was way ahead of him. Shot him down in his own doorway. Aunt Ella run out and tried to stop the bleedin'. Him tryin to get hold of the shotgun again. They just set there on their horses watchin' him die. Finally one of 'em says somethin' in Injun and they all turned and left out. Well Mac knew the score even if Aunt Ella didn't. Shot through the left lung and that was that. As they say.
+BELL	f	When did he die?
+ELLIS	?	Nineteen zero and nine.
+BELL	f	No, I mean was it right away or in the night or when was it.
+ELLIS	?	Believe it was that night. She buried him the next mornin'. Diggin' in that hard caliche.
+ELLIS	?	...What you got ain't nothin' new. This country is hard on people. Hard and crazy. Got the devil in it yet folks never seem to hold it to account.
+BELL	f	Most don't.
+ELLIS	?	You're discouraged.
+BELL	f	I'm... discouraged.
+ELLIS	?	You can't stop what's comin. Ain't all waitin' on you.
+ELLIS	?	...That's vanity.
+CARLA JEAN	f	I knew this wasn't done with.
+CHIGURH	m	No.
+CARLA JEAN	f	I ain't got the money.
+CHIGURH	m	No.
+CARLA JEAN	f	What little I had is long gone and they's bill aplenty to pay yet. I buried my mother today. I ain't paid for that neither.
+CHIGURH	m	I wouldn't worry about it.
+CARLA JEAN	f	...I need to sit down.
+CARLA JEAN	f	...You got no cause to hurt me.
+CHIGURH	m	No. But I gave my word.
+CARLA JEAN	f	You gave your word?
+CHIGURH	m	To your husband.
+CARLA JEAN	f	That don't make sense. You gave your word to my husband to kill me?
+CHIGURH	m	Your husband had the opportunity to remove you from harm's way. Instead, he used you to try to save himself.
+CARLA JEAN	f	Not like that. Not like you say.
+CHIGURH	m	I don't say anything. Except it was foreseen.
+CARLA JEAN	f	I knowed you was crazy when I saw you settin' there. I knowed exactly what was in store for me.
+CHIGURH	m	Yes. Things fall into place.
+BOY 1	m	Mister there's a bone stickin' out of your arm.
+CHIGURH	m	I'm all right. Let me just sit here a minute.
+BOY 2	m	There's an ambulance comin. Man over yonder went to call.
+CHIGURH	m	All right.
+BOY 1	m	Are you all right? You got a bone stickin' out of your arm.
+CHIGURH	m	What will you take for that shirt?
+BOY 2	m	What shirt?
+CHIGURH	m	Any damn shirt. I need something to wrap around my head and I need a sling for this arm.
+BOY 2	m	Hell mister, I'll give you my shirt.
+BOY 1	m	Look at that fuckin' bone.
+CHIGURH	m	Tie this for me.
+CHIGURH	m	...Just tie it.
+BOY 2	m	Hell mister, I don't mind helpin' somebody out. That's a lot of money.
+CHIGURH	m	Take it. Take it and you didn't see me. I was already gone.
+BOY 2	m	Yessir.
+BOY 1	m	Part of that's mine.
+BOY 2	m	You still got your damn shirt.
+BOY 1	m	That ain't what it was for.
+BOY 2	m	Maybe, but I'm still out a shirt.
+BELL	f	Maybe I'll go ridin.
+LORETTA	f	Okay.
+BELL	f	What do you think.
+LORETTA	f	I can't plan your day.
+BELL	f	I mean, would you care to join me.
+LORETTA	f	Lord no. I'm not retired.
+BELL	f	Maybe I'll help here then.
+LORETTA	f	Better not.
+LORETTA	f	...How'd you sleep?
+BELL	f	I don't know. Had dreams.
+LORETTA	f	Well you got time for 'em now. Anything interesting?
+BELL	f	Well they always is to the party concerned.
+LORETTA	f	Ed Tom, I'll be polite.
+BELL	f	Okay. Two of 'em. Both had my father. It's peculiar. I'm older now'n he ever was by twenty years. So in a sense he's the younger man. Anyway, first one I don't remember so well but it was about meetin' him in town somewheres and he give me some money and I think I lost it. The second one, it was like we was both back in older times and I was on horseback goin' through the mountains of a night.
+

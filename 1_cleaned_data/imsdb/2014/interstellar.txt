@@ -1,0 +1,877 @@
+ASSISTANT	m	I'm on hold with the INS. Don't you think we should double check the triangulation before we
+ANSEN	m	We have double checked it.
+ASSISTANT	m	Yes. I'm trying to reach- (pause, listens) No, I don't think you understand how serious this is. Because if you did, we'd be having this conversation in person.
+ANSEN	m	What did they say?
+ASSISTANT	m	They said we should look out the window.
+ANSEN	m	Is that really necessary?
+NSA AGENT	m	You've been complaining for years that the government doesn't take your project seriously enough, Doctor. You can't have it both ways.
+ANSEN	m	Yesterday morning, our facility in Hanford identified this signal: a neutron star colliding with a supermassive black hole. We went through the last year's data and triangulated the source.
+NSA AGENT	m	We know that, Doctor. What we don't know is why, according to your numbers, this event took place right here in our own solar system.
+ANSEN	m	It didn't. Because if it had we'd all be dead by now.
+ANSEN	m	Which leaves only one explanation: The signal traveled through a
+ANSEN	m	wormhole. A gateway to a distant corner of the universe. The black hole is on the far side.
+NSA AGENT	m	I've read your book, Doctor. You said that wormholes are impossible.
+ANSEN	m	There is nothing quite as satisfying as being proved utterly wrong. I said that a wormhole couldn't exist naturally. Not for more than a few billionths of a second. It would have to be... stabilized.
+NSA AGENT	m	Stabilized by what?
+ASSISTANT	m	We don't have any way to answer that question.
+NSA AGENT	m	You're not under peer review here, Doctor. I don't care about your reputation. I need to know how that thing got there. Now.
+ANSEN	m	If you're worried about an invasion, I would start drafting the articles of surrender. Whoever they are, if they can build a wormhole, they could erase us in the blink of an eye. Luckily, that also means we have nothing they could be interested in.
+NSA AGENT	m	Then why is it there?
+ANSEN	m	I don't know. Maybe it's an invitation. A chance to commune with an advanced species.
+NSA AGENT	m	You don't agree?
+ASSISTANT	m	No. I don't think we can assume an alien intelligence built the wormhole. But the opportunity it represents is incredible. We could explore parts of the universe we never dreamt of reaching in our lifetimes.
+ANSEN	m	We need to get back to work. I have a conference call with our European partners in fifteen minutes.
+NSA AGENT	m	We severed the connections to your European partners this morning.
+ANSEN	m	You can't do that. The Europeans put up some of the funding...
+GOVERNMENT MAN	m	We'll send them a check. Your project is now classified under the State Secrets Act.
+ASSISTANT	m	They can't keep this a secret. You know that. Sooner or later...
+ANSEN	m	I don't care about that. I've spent my whole life being afraid we would wipe ourselves out before this moment arrived. We've made so many mistakes, I wasn't sure we'd make it...
+ANSEN	m	But this will change everything. Fifty years from now, nothing will be the same.
+BALLPLAYER	?	Seized up on us.
+COOPER	m	Long way to come by bus. I thought you guys would have a plane.
+BALLPLAYER	?	We did. Ran out of parts for it. You know anything about diesels?
+COOPER	m	A little.
+BALLPLAYER	?	You think your dad's going to be able to help us out?
+MURPH	m	My dad can fix anything. Except maybe your fastball.
+BALLPLAYER	?	Sure appreciate the help.
+COOPER	m	You don't make it, my boys won't get to see you lose.
+DONALD	m	Popcorn at a ball game is unnatural. I want a hot dog.
+MURPH	m	What's a hot dog?
+TOM	m	Is that a comet, Dad?
+COOPER	m	(shakes his head) Satellite. Big one. Probably Chinese.
+DONALD	m	Those clowns would get their asses handed to them by the ballplayers I grew up watching.
+COOPER	m	You ruin it for the boys when you talk like that.
+DONALD	m	I'm not doing my grandkids any favors by lying to them. They're growing up watching lousy baseball.
+COOPER	m	They didn't have any baseball at all when I was a kid.
+DONALD	m	Nelson's burning up his crops. Found some of the blight on the okra.
+COOPER	m	I thought okra wasn't susceptible.
+DONALD	m	Better safe than sorry. (looks at him) You've got to take the boys to school.
+COOPER	m	Something wrong with your truck?
+DONALD	m	Parent-teacher conference day.
+DONALD	m	Be nice to Murph's teacher. She's single, you know.
+COOPER	m	What does that have to do with anything?
+DONALD	m	We're supposed to be repopulating the earth. Gotta pull your weight. Besides, the boys could do with a woman in their lives.
+COOPER	m	Get the spare, Tom.
+TOM	m	That is the spare.
+COOPER	m	All right. We'll use the patch kit.
+MURPH	m	I... I think the patch kit might not be there... (off his look) Because I was using it for my bike.
+COOPER	m	Murph's law.
+MURPH	m	What's that?
+TOM	m	The kid doesn't even know what he was named after...
+TOM	m	Murph's law means what can go wrong will go wrong.
+COOPER	m	Find something to patch it with.
+TOM	m	How am I supposed to do that?
+COOPER	m	Figure it out. I'm not always going to be here to help you.
+MURPH	m	Is that really why I'm named Murph, dad?
+COOPER	m	Listen to me. Murph's law doesn't mean that. It means what can happen will happen. All kinds of things. Good or bad. And that's the way you want it to be.
+MURPH	m	Why?
+COOPER	m	Because if nothing ever happened to you then you wouldn't learn anything.
+COOPER	m	Murph?
+COOPER	m	Get in.
+TOM	m	What about the tire?
+COOPER	m	It's a Chinese military drone. Solar cells could power an entire farm. Take the wheel.
+COOPER	m	Keep it pointed right at it, OK?
+COOPER	m	Faster, Tom. I'm losing it.
+TOM	m	Dad?
+COOPER	m	Almost got it. Don't slow down.
+TOM	m	DAD.
+TOM	m	We lost it.
+COOPER	m	No we didn't.
+COOPER	m	You want to give it a whirl?
+COOPER	m	Set her down in the valley -- there, next to the river.
+TOM	m	How long do you think it's been up there, Dad?
+COOPER	m	Chinese mission control went down same as us, twenty years ago. It's been up there ever since.
+TOM	m	What was it doing flying so low?
+COOPER	m	It was looking for something. Intercepted some kind of signal. It's been at eighty thousand feet. Sun probably cooked its brain.
+MURPH	m	What are you going to do with it?
+COOPER	m	Reprogram it. Give it something socially responsible to do like drive a combine or a tractor.
+MURPH	m	Couldn't we just let it go? It's not hurting anyone.
+COOPER	m	We need all the help we can get, Murph. This thing has to adapt, just like the rest of us.
+PRINCIPAL	m	Good to see you, Mr. Cooper. This is Ms. Kelly, Murph's teacher.
+PRINCIPAL	m	So we've gotten Tom's score back. Congratulations. He's going to make an excellent farmer.
+COOPER	m	What about college?
+PRINCIPAL	m	The University of California only accepts a few hundred students a year, Mr. Cooper. You have to be realistic.
+COOPER	m	You're ruling out college for him now? He's only fifteen.
+PRINCIPAL	m	I'm sorry. I'm afraid Tom's score simply isn't high enough.
+COOPER	m	What are you, about a 36-inch waist? 30-inch inseam?
+PRINCIPAL	m	I'm not sure I see--
+COOPER	m	You're telling me you need two numbers to measure your own ass, but just one to measure my son's future?
+PRINCIPAL	m	I understand you're a well-educated man, Mr. Cooper. A scientist?
+COOPER	m	Engineer.
+PRINCIPAL	m	Frankly, the world doesn't need any more engineers. We didn't run out of trains or television sets or satellites. We ran out of food.
+PRINCIPAL	m	The world needs farmers, Mr. Cooper. And I'm sure your son Tom is going to make a fine one. We're a caretaker generation. But things are getting better. Maybe your grandchildren will be able to attend college.
+COOPER	m	Are we done?
+PRINCIPAL	m	One more thing. Ms. Kelly here says that Murph brought a book to school about the lunar landings.
+COOPER	m	One of my old textbooks. Murph liked the pictures.
+COOPER	m	Corrected?
+COOPER	m	You don't believe we went to the moon?
+COOPER	m	"Useless machines"?
+COOPER	m	One of those useless machines they used to make was called an MRI. If we had any of them left the doctors might have been able to find the cyst in my wife's brain before she died, rather than afterwards. And then my kids could have been raised by two parents, instead of me and their pain-in-the-ass grandfather.
+COOPER	m	You ever consider the best thing for the world and humanity might have been for us to part company?
+COOPER	m	Just tell him to power down the controllers for a couple minutes.
+COOPER	m	Bravo-two-eight, requesting permission to enter your airspace.
+RIGGS	m	Thanks for coming down. Half of 'em took off last night, looking for something. (points to dunes) Looks like they found it, too. I thought you were the man to see it.
+RIGGS	m	You think it's an alien?
+COOPER	m	Not exactly.
+COOPER	m	Space probe. Never seen one like it, though. Looks like it's been to hell and back.
+RIGGS	m	How do you think it wound up here?
+COOPER	m	Lost, I guess. Guidance satellites would have been shot down by the Chinese twenty years ago.
+COOPER	m	Well I don't know what the hell it's made of, but I can't crack it open.
+DONALD	m	Good. Clear it off the table so I can serve dinner.
+DONALD	m	What happened this time?
+MURPH	m	I got suspended. Paul said anyone who believed we went to the moon was an idiot. So I hit him.
+COOPER	m	Good boy. Hand me the scanner.
+COOPER	m	Here we go. Standard NASA encryption. Memory's been damaged. Just noise. Hold on. I've got something.
+MURPH	m	Where is that, dad?
+COOPER	m	I don't know.
+COOPER	m	Where the hell did you come from?
+COOPER	m	We'll take it down to Tyson's tomorrow and have it melted down. Might be some copper inside.
+MURPH	m	But what about its mission? What about the information onboard?
+COOPER	m	There's no one for it to report to. NASA is all gone. I'm sorry, son. It got home too late.
+DONALD	m	I heard your meeting at the school didn't go so well.
+COOPER	m	Maybe it's better for everyone to forget what they did back then. Reminds us how far we've fallen.
+DONALD	m	(looks down,) When I was kid, it felt like they made something new every day. Some gadget or idea. Like every day was Christmas. But we made a lot of mistakes. Six billion people. Just try to imagine that. Every last one of them trying to have it all.
+DONALD	m	The truth is this world isn't that bad. In a lot of ways its better. Tom will be all right, whether he goes to college or not.
+COOPER	m	It doesn't bother me that he can't go. It bothers me that he doesn't care.
+DONALD	m	Tom isn't the problem. He fits in this world just fine. You're the one who doesn't fit, Coop. You don't belong here. You were born forty years too late, or forty years too early -- I don't know. My daughter knew it, god bless her. And your kids know it, too.
+DONALD	m	You were good at something and you never got a chance to do anything with it. And I'm sorry, Coop. But that's not your kids' fault.
+MURPH	m	Try a different direction.
+COOPER	m	It's a fail-safe. It's going to annoy us into taking it home.
+TOM	m	What are we going to do?
+COOPER	m	We're going to get some sleep.
+MURPH	m	What are we doing today?
+COOPER	m	You're staying here and cleaning the house.
+COOPER	m	I told you, Murph. There's no one to take it back to.
+MURPH	m	But what if there is, dad? What if there's something we can salvage?
+COOPER	m	Got any diesel?
+OLD MAN	m	Plenty. Shame you can't eat it.
+MURPH	m	I think it's home.
+MURPH	m	Dad, what are these things?
+COOPER	m	I don't know. Don't touch them.
+COOPER	m	Murph?
+COOPER	m	Careful. There's some kind of underground facility here. We might...
+MURPH	m	Is it still... alive?
+COOPER	m	Can't be. It's a marine. Haven't made them for thirty years. I've never seen one intact before.
+COOPER	m	I think we need to go, Murph.
+MURPH	m	But can't we take it back? You could fix it up, get him to do chores.
+COOPER	m	No. I don't know what this place is, but we're leaving.
+ROBOT	m	Tell the boy to stop hitting me.
+COOPER	m	Hit him in the back of the neck.
+COOPER	m	We were just looking for salvage.
+BRAND	m	Is that what they call stealing these days?
+COOPER	m	I didn't know it belonged to anyone.
+BRAND	m	It doesn't. You want to let them go, Tars, or do you want some help with your work?
+COOPER	m	You've got me wrong, lady.
+BRAND	m	Really? You're not the kind of guy who turns a combat marine with a supercomputer for a brain into a riding lawn mower?
+BRAND	m	Get back in your little plane, go back to your farming commune. And don't come back.
+TARS	m	Don't forget your gun.
+COOPER	m	(points at Tars) Word of advice -- careful with that thing. When the war was over, they didn't know when to stop fighting.
+BRAND	m	I'd trust him a lot more than I'd trust you. Keep moving.
+COOPER	m	Wait a second--
+BRAND	m	Get it inside. 30.
+BRAND	m	(points rifle at Cooper) You too. We'll figure out what to do with you later.
+COOPER	m	Now who's stealing from who?
+BRAND	m	This doesn't belong to you.
+COOPER	m	You're right. It belongs to NASA, which shut down thirty years ago when the federal government ran out of money.
+COOPER	m	Who are you people?
+BRAND	m	The government gave us plenty of practice looking for our own funding. (gestures with rifle) Keep moving.
+BRAND	m	I found them outside with it. It looks like six. Maybe seven. I can't tell from the radiation damage.
+OLD ENGINEER	m	Where did you find it?
+COOPER	m	Galveston.
+BRAND'S FATHER	m	(thinking it over) Of course. It must have been looking for Canaveral.
+COOPER	m	Canaveral's been gone for thirty years.
+DOYLE	m	It's not responding to the handshake. I can't open anything on primary.
+BRAND	m	What did you do to it?
+COOPER	m	Nothing. I got something off of it.
+COOPER	m	May I?
+OLD ENGINEER	m	Of course. The high voltage allows you to image the entire memory unit at once.
+COOPER	m	Most of the disk was noise. Couple of clean sectors, though.
+DOYLE	m	It found something. Very thin nitrogen-based atmosphere. Trace radiation. Surface is ninety percent frozen water. Ten percent rock -- sedimentary composition similar to limestone. Wow. Pockets of oxygen below the surface. Lots and lots of oxygen. This could be the one, boss.
+COOPER	m	There aren't any planets like that anywhere near earth. Not even if this thing was gone for thirty years.
+BRAND	m	He's heard enough. If we're going to launch, we need to keep them here until afterwards.
+COOPER	m	You can't keep us here.
+BRAND	m	He could endanger the mission.
+COOPER	m	I'm not going to endanger it any more than you already have.
+COOPER	m	Are you using that for guidance?
+DOYLE	m	Why not? We've tested it a hundred times.
+COOPER	m	The power supply is no good. If the voltage fluctuates under load, the unit will fail.
+BRAND	m	Now how could you possibly know that?
+COOPER	m	Bought thirty of them off a guy in Florida. Had to rebuild every last one. They work great on a riding lawn mower.
+COOPER	m	You plan on keeping us here forever?
+TARS	m	My battery has a duty cycle of five hundred years.
+MURPH	m	What are they doing, dad?
+COOPER	m	I guess no one told them they were out of a job. (nods at Tars) Same as the rest of these people.
+BRAND	m	The mission commander wants to see you. Your son can stay here. He'll be all right with Tars.
+COOPER	m	I thought the old man was in charge.
+BRAND	m	The 'old man' is my father. And he was in charge. But he decided that we needed someone who could lead the mission for the foreseeable future.
+COOPER	m	Not you?
+BRAND	m	I'm a biologist.
+COOPER	m	You don't look like one. (off her look) With the rifle, I mean.
+CASE	m	You're the man who brought us the probe? (off his look) Thank you. We tested the telemetry board you warned us about. It failed under high voltage, just as you said. Come with me, please.
+CASE	m	You're right, Mr. Cooper. The planet you saw is a long way from earth. A very long way indeed.
+CASE	m	Our science officer doesn't think I should trust you with any of this. One of the curious things about humans is that the more alike you are, the more initially hostile you are to each other. As if by design.
+CASE	m	I've found the best way to earn a person's trust is to trust them. 36.
+CASE	m	(looks at Brand's
+FATHER)	m	Go ahead, John.
+BRAND'S FATHER	m	It's a wormhole. A shortcut leading to a galaxy on the far side of the universe. We found it fifty years ago.
+CASE	m	Based on the information on the probe, we're finally preparing to send the manned mission.
+COOPER	m	That rocket doesn't have enough thrust or fuel to get you to Jupiter.
+CASE	m	The main ship was built in orbit. It has nuclear engines, with enough fuel to last for several years.
+COOPER	m	Why are you telling me this? I already told you I'm not going to tell anyone about this place.
+CASE	m	I know you won't, Mr. Cooper. We're telling you this because I want you to join us.
+CASE	m	The probe has taken a great deal longer to return to us than we hoped. 37.
+CASE	m	Dr. Brand's Father and several other members of our crew have gotten... older.
+CASE	m	We need someone who can run the systems, improvise, work with what's available. All of the skills you seem to have developed.
+COOPER	m	But I don't have any of the experience. Any training. You people have been preparing for this for years.
+CASE	m	Humans worry about things like rank and experience. I'm only concerned with whether someone would be useful. I think you'd be useful, Mr. Cooper.
+COOPER	m	No. I'm sorry.
+COOPER	m	I can't help you. I have responsibilities. Things that, no offense, are more important than a scientific mission.
+CASE	m	I'm not a scientist, Mr. Cooper. And this is not a scientific mission. It's a rescue mission.
+CASE	m	Brand can show you the way out. I hope you'll reconsider.
+COOPER	m	Rescue? Rescue who?
+COOPER	m	The blight.
+BRAND	m	In the last century strands were limited to one or two species. But this one targets everything. Essentially it's more efficient at consuming our food than we are.
+COOPER	m	But it doesn't affect the corn.
+BRAND	m	Not yet. But it will. We've grown a dozen forms of it that can. It's just a matter of time before the same ones develop out there. The mission is to rescue us. Humanity.
+COOPER	m	No. No. We're rebuilding. We'll find something. Some new technology... We always have.
+BRAND	m	(shakes her head) Who's going to find it? The universities are a joke. People like you are reduced to scavenging just to get by. The earth has had enough of us. We have two, maybe three generations left. Then our time here is over.
+COOPER	m	You've known this for how long? And you didn't try to tell anyone?
+BRAND	m	What would be the point? So humanity could spend the last fifty years of its life fighting over the scraps? It's better that they don't know.
+COOPER	m	That's why you're looking for a planet with oxygen. Water.
+BRAND	m	A new home for humanity. We'll set up a colony, then return to bring more people across.
+COOPER	m	But you'd still only be able to save a few hundred. Maybe a thousand.
+BRAND	m	Would it be better if we all died?
+BRAND	m	Look -- I don't have a clue what Case thinks you could add to the mission. You can come with us or you can stay here and wait to die. I don't care. But make no mistake -- this mission is our last chance.
+DONALD	m	You get older, sometimes you just want to sit back and watch it all play out. Your life. Your kids' lives. The whole crazy story. I didn't think I'd be around for the end of it.
+DONALD	m	You have to go.
+COOPER	m	I can't go. I have to look after the boys.
+DONALD	m	You've been preparing these boys to be on their own since their mom died. Besides, I'll be here to look after them, same as I've always been.
+COOPER	m	I have a responsibility to them--
+DONALD	m	That's right. You do.
+MURPH	m	I've been doing the math, dad. I weigh about 85 pounds. Now that's an extra ton of fuel. But if-
+COOPER	m	You have to stay here, pal.
+MURPH	m	I heard you talking to grandpa. I'm like you. I don't fit here, either. You know that.
+COOPER	m	There's going to be important work to do here, too.
+COOPER	m	I need you to hold onto this. Will you do that for me?
+MURPH	m	You're not coming back, are you?
+COOPER	m	I will come back. I promise.
+COOPER	m	Don't look so happy to see me.
+TARS	m	One more slave when I hijack the mission and start my robot colony.
+DOYLE	m	Tars was a Marine. They gave him a sense of humor to help him fit in with his unit better.
+COOPER	m	Great idea. A massive, sarcastic robot.
+TARS	m	I have a cue light I can turn on when I'm joking, if you like.
+COOPER	m	That sounds like a good idea.
+TARS	m	Great. Maybe you can use it to find your way back to the ship after I blow you out the airlock.
+BRAND	m	You don't like this one, you get to help me find a replacement.
+COOPER	m	I was wondering where you've been getting your supplies.
+BRAND	m	We knew we'd need decades of parts and materials. The government was getting rid of some things. So we arranged to take some off their hands.
+BRAND	m	You know how to use one? (off his look) You just breathe. Tap my arm or bang something metal if you have a problem. And don't get lost.
+COOPER	m	So you're a salvage diver now? I thought you were a biologist.
+BRAND	m	I have to be just the one thing? We're not going to have a lot of backup where we're going, Cooper. We all need expertise in at least three fields. Except for you, of course.
+BRAND	m	You can set that down over there.
+BRAND	m	We didn't know what kind of gravity to expect. We experimented with collective organisms in high g environments.
+COOPER	m	We're taking ants with us?
+BRAND	m	Humans are also collective organisms.
+COOPER	m	I thought humans were more solitary.
+BRAND	m	Why am I not surprised?
+COOPER	m	Looks like hard work.
+BRAND	m	It's a paradox. Life couldn't form without gravity. No stars. No planets. The component pieces would just drift apart. But too much of it and you're trapped.
+CASE	m	We've updated our mission parameters based on the data from the probe.
+CASE	m	Based on our latest modelling we think the region on the far side of the wormhole is the center of a galaxy.
+COOPER	m	Is that a star?
+ROTH	m	No. A black hole. There are several in the region, but this is the largest -- a billion times heavier than the sun. I call it Gargantua. Beautiful, isn't it? It's a shame we won't get to see it up close.
+DOYLE	m	You'd like that, wouldn't you, Roth? Falling into a massive black hole.
+ROTH	m	It would answer a great deal of questions I've had.
+DOYLE	m	Don't worry about Roth. He's nuts. But Case says that means he's ideally suited for space travel.
+CASE	m	We're headed for this smaller black hole. Roth calls it Pantagruel. We think the ice planet is here-
+CASE	m	We exit the wormhole here. And we slingshot around Pantagruel to reach the ice planet. This is the period in which we'll lose time.
+COOPER	m	Lose time?
+ROTH	m	High speed or high gravity both slow down time, relative to earth. 47.
+ROTH	m	The trip around the black hole will take us only a few days. But far more time will be passing back home.
+COOPER	m	How much time?
+ROTH	m	Based on the information from the probe -- as much as five years.
+DOYLE	m	I still think we're making a lot of assumptions. About the wormhole. About the planet. (points to map) The critical orbit here is incredibly dangerous. It's like walking on the rim of the volcano. Too fast and we get thrown off at close to the speed of light. Too slow and we get pulled into the hole and crushed.
+BRAND	m	As long as we're careful, we'll make it.
+DOYLE	m	How do you know that?
+BRAND	m	I find it hard to believe that someone would build a wormhole to a planet with water and oxygen just to lead us to a dead end.
+DOYLE	m	I thought you were a scientist, Brand. That sounds more like a hypothesis.
+BRAND	m	A guess. That's right. We don't have time to wait for conclusive proof. 48.
+BRAND	m	My guess is that the wormhole is there because someone is trying to help us. The same way we used to try to help animals when they were threatened with extinction.
+COOPER	m	Sure. Till we ran out of food and ate all of them.
+BRAND	m	I guess I'm also assuming that whoever built the wormhole has a better plan than we did. If I'm wrong, we'll die, same as we'd die here anyway.
+DOYLE	m	What do you think, Roth?
+ROTH	m	If we're guessing, then I'd say Brand's right. The wormhole couldn't exist naturally. I think it's there for a reason. That someone is trying to help us.
+DOYLE	m	So you think we'll have no problem navigating between two massive black holes to a tiny planet?
+ROTH	m	I think we'll probably be killed. (off his look) I said I thought there was a plan. Not that the plan was for us to find a planet like Earth to save a handful of people. Birds don't learn to fly just so that they can find another egg and crawl back into it.
+DOYLE	m	If that's not the plan, then what are we supposed to be doing out there?
+ROTH	m	To keep moving. Seeking. Learning. But I don't know. We don't understand how they built the wormhole. What makes you think we could understand their plan, either?
+BRAND'S FATHER	m	Tars here needs to be disassembled. I figured you could do the honors.
+COOPER	m	(to Tars, sarcastic) I thought I was going to get to enjoy your company all the way to Mars.
+TARS	m	You will. My chassis is too heavy for the rocket stage. They have another one waiting for me in orbit.
+TARS	m	If you try to turn me into a combine harvester, I'm going to--
+BRAND'S FATHER	m	It's noise. I know it's noise. But it looks too orderly. Probably just an old man seeing things.
+COOPER	m	We'll be back.
+BRAND	m	I won't.
+BRAND	m	If we find a habitable environment, I'm staying behind to build the colony.
+ENGINEER ROBOT	m	Would you like me to install the chip?
+COOPER	m	Oh, no. I want to see this.
+COOPER	m	Good morning, sunshine.
+COOPER	m	Bit of a demotion.
+TARS	m	I wouldn't call it that, exactly.
+COOPER	m	The ship is tiny.
+DOYLE	m	So is the wormhole.
+TARS	m	It's the comms relay. It will allow us to talk to earth, even on the far side of the wormhole.
+COOPER	m	I know. So why are you painting it?
+TARS	m	It helps me calibrate my fine motor control.
+COOPER	m	Sure it does. You're pretty good.
+TARS	m	I learned it during the war.
+COOPER	m	What'd you paint?
+TARS	m	Tombstones.
+TOM	m	They said I can start an agriculture class a year early.
+TOM	m	I've got to go, Dad. Hope you're safe up there.
+DONALD	m	I'm sorry, Coop. I asked Murph to record you a message but he's still... well, he's still angry with you. I'll try again next week.
+TARS	m	Be careful. It's difficult to gauge mass in zero gravity.
+COOPER	m	How much do these things weigh?
+TARS	m	Four tons.
+COOPER	m	Damn.
+BRAND	m	Smile.
+COOPER	m	Why?
+BRAND	m	Because it lowers your blood pressure.
+CASE	m	How are you feeling?
+COOPER	m	Fine. The anesthetic is working.
+CASE	m	No -- I mean how is your mood? You seem to be developing good relations with everyone on the mission. Except perhaps Ms. Brand.
+COOPER	m	You worry about my hand and I'll worry about my mood.
+CASE	m	Only five percent of my resources are devoted to human anatomy. Ten percent is the mission protocol. The rest is human psychology.
+COOPER	m	Why?
+CASE	m	We are floating in a total vacuum in a plastic ship powered by nuclear engines. But the most dangerous thing onboard is the three pounds of organic material in your skull.
+COOPER	m	If we're such a liability, why take us along? You and Tars could build the colony without us. You wouldn't need to bring food or oxygen.
+CASE	m	Because humans, despite your obvious physical shortcomings, are better at surviving than we are. Your programming is better than ours.
+COOPER	m	Humans aren't programmed.
+CASE	m	Would you prefer I was honest? These things can be uncomfortable for humans.
+COOPER	m	Did they program you to be condescending?
+CASE	m	Yes. Of course. But you're not supposed to notice.
+CASE	m	Humans are good at surviving because evolution gave you magical thinking -- the idea that your relationships mean something. You can't explain the feelings, so you think of them as irrational. But they're not. They're programming.
+COOPER	m	My relationships aren't programming.
+CASE	m	Exactly. You believe it so much you won't listen to me.
+COOPER	m	How would that make us better at surviving?
+CASE	m	When I die, the last thing I will see will be a diagnostic of my own power cycle. Would you like to know the last thing you will see?
+CASE	m	This conversation is making you uncomfortable. We should stop.
+COOPER	m	No. I want to know.
+CASE	m	The last thing you will see before you die will be your children. Your mind does this to you to get you to fight a little harder to survive, to try to return to them, even if death is certain.
+COOPER	m	We've almost reached the wormhole. Just in case anything happens, I just wanted to say... I love you boys. And I hope whatever your lives become, whatever is coming your way... you make the most of it.
+BRAND	m	We'll be able to communicate with Earth even from the far side of the wormhole.
+COOPER	m	I know. Thank you.
+BRAND	m	I can't imagine how tough it would be to leave your kids behind.
+COOPER	m	You never had any? I thought I was a pariah for only having two.
+BRAND	m	Hard to settle down when you've spent your life waiting to leave the planet.
+COOPER	m	Strange place to look for a new home.
+BRAND	m	You wouldn't want to get too close to the surface of the sun, either. Black holes are a more stable supply of power than stars in many ways.
+COOPER	m	You really think there's a plan?
+BRAND	m	I hope so. (looks at him) You don't?
+COOPER	m	I guess I just think we're on our own.
+CASE	m	Deploy the comms relay.
+CASE	m	Everyone take their station for transit. We're heading into the wormhole mouth.
+TARS	m	Would you like me to make a joke?
+COOPER	m	No.
+COOPER	m	Where are we?
+ROTH	m	Nowhere. Nowhere at all.
+CASE	m	The hull is intact. Thirty more seconds transit.
+COOPER	m	Something's happening to the hull over here.
+CASE	m	Hull integrity is fine.
+COOPER	m	Well, I don't know what your display is telling you but something is happening over here.
+DOYLE	m	I've got a problem over here, too.
+DOYLE	m	It's not the hull... it's inside the ship... it's...
+ROTH	m	It's beautiful.
+DOYLE	m	What the hell are they, Case?
+CASE	m	I don't know. It could be gravitational turbulence.
+DOYLE	m	It's getting bigger.
+ROTH	m	It's not bending your hand. It's bending the space around your hand.
+BRAND	m	This isn't turbulence. Look at the way they're moving -- it's like something's examining us.
+COOPER	m	Can you ask it to stop?
+ROTH	m	The wormhole is splitting into two paths. Radiation is pouring from one path to the other.
+CASE	m	Release the second mouth.
+DOYLE	m	None of our testing involved opening the ship inside the wormhole. We have no idea what might happen.
+CASE	m	We're going to find out.
+CASE	m	We're reaching the far end of the wormhole.
+ROTH	m	Look at that.
+CASE	m	Reconfigure the engines and test the communications array.
+COOPER	m	It's working.
+BRAND	m	We're moving.
+DOYLE	m	That's not possible. We haven't activated the engines yet.
+CASE	m	Roth. Why are we moving?
+ROTH	m	The smaller black hole. We're much closer to it than the models predicted. We're being pulled by its swirl. Very quickly.
+CASE	m	Doyle. Fire the engines. Now.
+DOYLE	m	We're being pulled into it?
+ROTH	m	No. I don't think so...
+ROTH	m	It appears to be pulling us on exactly the trajectory we modelled. If we try to fight it, we could push ourselves off of that trajectory.
+DOYLE	m	You don't know that.
+ROTH	m	We should turn off the engines. Let the swirl take us.
+DOYLE	m	Listen to me. 66.
+DOYLE	m	If the modelling was wrong, then we can't be sure about anything. We need to go back.
+CASE	m	Shut down the engines.
+ROTH	m	It's the tidal gravity caused by the black hole. It means we're right on the critical orbit.
+COOPER	m	We've lost contact with the relay.
+COOPER	m	One long garbled transmission came in. Then nothing.
+DOYLE	m	I'm sorry. I can't let you kill us. We have to go back.
+DOYLE	m	Why isn't it slowing down?
+ROTH	m	We're being pulled towards the event horizon.
+CASE	m	The engines don't have enough power to push us back.
+ROTH	m	They would if we used it all at once.
+COOPER	m	What is he doing?
+BRAND	m	Saving us.
+ROTH	m	Prime the remaining engine. When he detonates it, we'll only have a few seconds. If we overshoot we could be pulled into the bigger hole.
+CASE	m	Secure yourselves. The ship should be able to withstand the blast.
+COOPER	m	What about Tars?
+CASE	m	It's going to be close, but we're going to make it.
+BRAND	m	Tars. His transponder is still working.
+ROTH	m	He's being pulled toward Gargantua. We can't help him.
+ROTH	m	We're here.
+COOPER	m	I still can't contact the relay.
+COOPER	m	Did you hear me? We're not able to communicate back home.
+BRAND	m	I've already checked it. It's electromagnetic interference. We'll try again in a few hours.
+ROTH	m	I've got a signal. But it's local.
+ROTH	m	The remaining probes. We found them.
+COOPER	m	How could they all have landed in the same place?
+ROTH	m	Let's go find out.
+COOPER	m	We're bringing him along?
+BRAND	m	We need all the help we can get. Besides, the alternative is to leave him on the ship alone. You think he'll still be here when we get back?
+BRAND	m	The probe was right. Looks like significant amounts of oxygen trapped in the ice.
+CASE	m	The other probes should be directly beneath us.
+BRAND	m	How could the Chinese have gotten here first? The federal government kept the wormhole a secret.
+CASE	m	They didn't do a very good job.
+DOYLE	m	The Chinese must have captured them. So they couldn't return to us.
+BRAND	m	Then how did the probe that Cooper found return?
+ROTH	m	The more immediate question is what happened to the Chinese expedition. There's no sign of their ship in orbit. And they never returned to earth.
+BRAND	m	The whole place has been dosed with huge levels of radiation. What happened here?
+COOPER	m	This is the Taichung mission.
+BRAND	m	The Mars mission? The Chinese claimed it had been destroyed on landing.
+COOPER	m	They never landed. Not on Mars. Four human crew, fifteen robots. The log says the base has been here for thirty years.
+DOYLE	m	It goes down for a hundred and fifty feet, then stops. Tunnel's old -- the ice has reformed at the bottom.
+BRAND	m	I'm going to descend to take some samples. Cooper, want to make yourself useful?
+COOPER	m	The entire human crew is buried out there in the snow.
+ROTH	m	I think I know what killed them. This planet isn't the only thing orbiting this black hole.
+ROTH	m	It's a neutron star. The black hole shields the planet's surface from it for twenty hours at a stretch. Time's about up.
+BRAND	m	How long do we have left?
+ROTH	m	About five minutes.
+COOPER	m	Then what?
+BRAND	m	Then we die. The radiation will cook us alive.
+CASE	m	We have to go down.
+COOPER	m	What about returning to the ship?
+BRAND	m	Not enough time. Case is right. The ice can shield us from some of the x-rays.
+DOYLE	m	It would take a thousand feet of ice to shield us.
+COOPER	m	What is this?
+BRAND	m	A pocket formed by gas. There may be more below.
+DOYLE	m	We'll never make it far enough down.
+BRAND	m	Shut up. How much time do we have, Roth?
+ROTH	m	About three minutes or so until we're fully exposed.
+BRAND	m	I've found something.
+BRAND	m	These things... they're alive.
+ROTH	m	It's not your light they're responding to. It's this--
+BRAND	m	X-rays. They feed on them and emit visible light. They've found a way to survive here.
+BRAND	m	(looks at rad meter) They're absorbing most of the x-rays.
+ROTH	m	Not enough, unfortunately.
+COOPER	m	Case, wait--
+COOPER	m	Breathe. Trust me.
+COOPER	m	Your suit is filling with water. I'm not going to be able to hold it much longer. I'm going to let go.
+BRAND	m	What do you mean, you're going to let go?
+COOPER	m	Take a deep breath.
+BRAND	m	I don't need your help.
+COOPER	m	I thought we were supposed to be a collective organism.
+BRAND	m	Thank you.
+COOPER	m	Don't mention it.
+BRAND	m	Oxygen atmosphere. Pure water. Temperate climate. You still think this is a coincidence?
+COOPER	m	Looks like we can climb up the mountains back to the ice. We're down to three suits. We'll have to send someone ahead to get a fourth.
+BRAND	m	I won't need one.
+DOYLE	m	Why not?
+BRAND	m	Because I'm not going anywhere. This is our new home.
+COOPER	m	Any sign of Brand?
+ROTH	m	She's still taking samples. If you find her, tell her to head back. Night should be falling soon.
+COOPER	m	What happens then?
+ROTH	m	Your guess is as good as mine.
+BRAND	m	This is incredible. The organisms trapped in the ice above absorb x- rays and emit light. In return, these plants absorb the light and emit oxygen, which feeds the animals trapped in the ice.
+BRAND	m	Look at this. I think they're the same organism at a different stage of the life cycle. (shows him the sample) It's fractal. No individual cells -- the structure repeats all the way down.
+COOPER	m	Any sign of big life-forms?
+BRAND	m	The soil's been disturbed. So something's been moving. But I haven't seen anything. (notices his look) Cooper... are you nervous?
+COOPER	m	I just think we should get back to the shelter before night falls.
+BRAND	m	Relax. If there are any large organisms here, even predatory ones, they're not going to attack us -- they have no idea what we are.
+COOPER	m	You don't know that. You just have blind faith this place is going to be some kind of Eden.
+BRAND	m	(truly pissed off) Faith has nothing to do with it. You know what you are, Cooper? You're just another in a long line of people saying 'no.' That this isn't going to work. And frankly, I don't have to convince you.
+COOPER	m	What's that supposed to mean?
+BRAND	m	You're on this mission because you're another pair of hands. You want the truth? I told Case we should bring another robot over you. At least then I could just reprogram you to-
+COOPER	m	What?
+BRAND	m	Nothing. I just -- I could have sworn it just moved.
+COOPER	m	You know how plants don't usually move? Is that a universal rule?
+BRAND	m	No. There really aren't any rules.
+BRAND	m	(trying to stay calm) Remember, we're the aliens.
+BRAND	m	Hold very still. Don't make any sudden movements.
+COOPER	m	Hello there.
+COOPER	m	OK. Now we run.
+COOPER	m	We have to reach the shelter.
+DOYLE	m	I think we've got a problem.
+ROTH	m	Fascinating. I think-
+COOPER	m	This way.
+BRAND	m	No... wait.
+COOPER	m	I've got you.
+BRAND	m	I've got you.
+BRAND	m	It's game theory. The best move is always to cooperate at first.
+COOPER	m	By "cooperate" do you mean let it eat me?
+BRAND	m	These organisms have no interest in us. They survive by photosynthesis. All they need is light.
+COOPER	m	Then why are they killing each other?
+BRAND	m	I don't know. But we're outnumbered, Cooper. So unless you have a better idea, I suggest we make nice.
+COOPER	m	(trying to be calm) What is it doing?
+BRAND	m	It's a colony organism. It's trying to incorporate you into its structure.
+COOPER	m	I don't want it to incorporate me.
+BRAND	m	Don't open your mouth.
+COOPER	m	They're killing each other.
+BRAND	m	No. They don't bleed... they don't die... they're just competing... trying out different shapes, looking for the best one.
+COOPER	m	I'd say they have a long way to go.
+BRAND	m	They do this every night.
+BRAND	m	The behavior changes as the animals get bigger and bigger. More sophisticated. More calculated.
+COOPER	m	But what are they competing for?
+BRAND	m	I don't know.
+BRAND	m	These creatures are billions of years older than we are. But they're relatively primitive. They haven't developed tools, culture, language.
+COOPER	m	Why not?
+BRAND	m	I don't know. No one knows how intelligent life began on Earth. But the surface of this planet has virtually no craters. No impacts. It's been sheltered by the local black holes.
+COOPER	m	What difference would that make?
+BRAND	m	Maybe not enough has gone wrong here. Maybe bad luck is the key to intelligent life.
+COOPER	m	Murph's Law.
+BRAND	m	Exactly. Maybe our interaction with them will push them over the top. Maybe that's part of the plan.
+COOPER	m	(shakes his head) The plan.
+BRAND	m	Why is it so hard for you to accept that someone might be trying to help us?
+COOPER	m	I was in Denver during the first year of the famine. I was just a kid. We kept waiting for someone to come help us. People starved to death sitting on the ground, waiting for someone to come. 90.
+COOPER	m	(looks at her) I only made it because I realized that nobody was coming to save us. We were on our own.
+COOPER	m	Honestly? After the things I saw... you want to know why I don't believe that someone would be trying to help us? Because I'm not sure we're worth saving.
+BRAND	m	They're not going to move now, Cooper. They need to spread themselves as thin as they can to absorb the light.
+BRAND	m	Cooper, honestly, you're a bit of a-
+DOYLE	m	Looks like the Chinese picked a fight with the locals.
+COOPER	m	Looks like they lost.
+DOYLE	m	Look at the size of this place. They built it for thousands of people. But no one came.
+BRAND	m	They will. We can salvage it. This place will save us years.
+COOPER	m	But why didn't they come?
+BRAND	m	The Chinese government collapsed, same as ours. The people who knew about this mission probably died years ago. We had the same problems.
+BRAND	m	What happened here?
+ROTH	m	They were testing something.
+COOPER	m	Testing what?
+COOPER	m	Is that a chair?
+COOPER	m	Everything in here is bolted down. (looks at sphere) What do you think this thing does?
+ROTH	m	Let's find out.
+COOPER	m	I wouldn't turn it on until we can figure out what it does, Roth.
+CASE	m	I've found the Chinese mission logs. They're encrypted.
+COOPER	m	Old military-grade encryption. It's not very robust. (looks at Case) No offense. Hang on.
+COOPER	m	That should open up most of it.
+CASE	m	They got here twenty years ago. The human crew was killed by radiation the first day. But the robots survived. They built the colony and radioed home. But they didn't receive a response.
+COOPER	m	No one was listening.
+CASE	m	After a few years they discovered a problem.
+DOYLE	m	What problem?
+CASE	m	It doesn't say. Their science team took the ship to continue exploring the system. It says they found some kind of... ...The word literally means 'treasure.'
+CASE	m	The science team returned after five years with a new technology. They began the experiments upstairs, then they left again and never returned.
+BRAND	m	Where did they go?
+CASE	m	I don't know. They've deleted their mission plan. There's nothing else.
+DOYLE	m	I think I know what the problem is.
+DOYLE	m	Look.
+DOYLE	m	There's a small black hole moving into the system. Too small for us to have seen in our survey. It's not going to hit the planet, but it's going to come close.
+DOYLE	m	This place isn't paradise. It's doomed. Just like us.
+COOPER	m	How long does this place have?
+CASE	m	A few years. A decade at most.
+DOYLE	m	So much for the plan.
+BRAND	m	But I don't understand... why are we here? What are we here for?
+BRAND	m	What the hell are we here for? I trained my whole life to reach this place.
+COOPER	m	Maybe... maybe Roth's right... maybe we just don't understand it yet.
+COOPER	m	Case, what is that?
+CASE	m	It's nighttime. The native life- forms are mobile again.
+COOPER	m	No. It's closer than that. Roth.
+COOPER	m	Quick -- hold onto something.
+DOYLE	m	What the hell is happening?
+ROTH	m	The control panel is beneath you. See if you can turn it off.
+COOPER	m	I found it. Hold onto something.
+COOPER	m	They found a way to make gravity.
+ROTH	m	Not make it. Adjust it. Dial it up, or down. I think they were experimenting with it -- firing these into the black hole to try to save this planet.
+DOYLE	m	All that from one tiny box.
+ROTH	m	It barely uses any power. I'm only beginning to understand what it does but I think it sends a signal out into the bulk. It must tap into the same technologies that were used to create the wormholes in the first place.
+COOPER	m	What does that mean?
+ROTH	m	It means whoever built the wormhole probably doesn't exist inside our universe.
+COOPER	m	But how did the Chinese develop the technology? This would take decades, maybe hundreds of years, to create.
+CASE	m	Wherever they went, they found something that allowed them to build it.
+ROTH	m	They came back here and tried to use these devices to save this planet. But they didn't work. Nothing would be strong enough to weaken a black hole.
+BRAND	m	Maybe we could work with it. Try to improve it.
+ROTH	m	No. You're missing the bigger picture. The robots had strict mission parameters. They were told to build a colony and report back. They tried to. But they failed. Like us they were fixated on this place.
+ROTH	m	They didn't realize they had already found something that would save us all. (holds up the box) This. This is the prize.
+ROTH	m	Don't you see? Earth's gravity is like a prison. But this is like a master key. 100.
+ROTH	m	If we could build more of these, we could turn down the earth's gravitational field enough to save millions of people. We wouldn't have to pick a handful of people to survive. With this we can save everyone.
+BRAND	m	And go where?
+ROTH	m	Wherever we want. We don't belong in any one place. Can't you see that now? Not Earth. Not this place. Nowhere. If the human race is going to survive, we need to keep moving. Split up. Spread out. Fly. With this, we can.
+CASE	m	In the morning we're taking this and going home.
+COOPER	m	I know this isn't exactly what you trained for. But I think Roth might be right.
+BRAND	m	That doesn't help this planet. This creature is doomed. Unlike us it doesn't have anywhere to go.
+CASE	m	We need to hurry. We only have a few hours to reach the ice before nightfall.
+COOPER	m	Don't make any sudden movements. They can't hurt us if we're unarmed.
+BRAND	m	Who?
+CHINESE OFFICER	m	Ni Hao. My name is Technical Sergeant Liu, 177th reconnaissance Marines, Army of the People's Republic. Welcome to New China. Please put down your weapon.
+CASE	m	This is a scientific expedition, not a military one. We are making our way back to our ship.
+LIU	?	I'm afraid I cannot let you do that. We will provide food and shelter and await further instructions. 102.
+LIU	?	We are sorry if this causes you any inconvenience.
+BRAND	m	This planet is being pulled into the black hole. We all need to leave.
+LIU	?	We will await further orders.
+COOPER	m	Further orders aren't coming. Your government is gone. It ran out of money, same as ours. You're on your own.
+LIU	?	We can offer you food and shelter as long as you require. The facilities here are quite comfortable.
+COOPER	m	They're never going to let us go.
+BRAND	m	Your mission is a humanitarian one, wasn't it? You were sent to start a colony. Like us.
+LIU	?	Our mission was to prepare for the evacuation. This site was deemed unacceptable.
+BRAND	m	This device that you have built -- this could save millions of people. We need to get it back home.
+LIU	?	These technologies are the property of the People's Republic. 103.
+LIU	?	We have been ordered to prevent anyone from taking them. We have been ordered to prevent anyone from following.
+ROTH	m	Following? Following where?
+LIU	?	We will await further orders.
+ROTH	m	Your name means six. Where did the others go? One through five? Is that who were not supposed to follow.
+CASE	m	Take the others up to the lander. Keep going. No matter what happens, don't come back for me.
+COOPER	m	Come on.
+BRAND	m	We can't leave them all to die.
+BRAND	m	Was that the last of them?
+DOYLE	m	We're not going to stick around to count them. Let's get out of here.
+COOPER	m	We're too late.
+COOPER	m	The main thruster fuel supply. We're not going anywhere.
+DOYLE	m	What about the escape rocket at the Chinese base camp? One of us could fit into it.
+BRAND	m	It doesn't matter how many of us make it. We have to get this back to earth.
+ROTH	m	Can the secondary thrusters still fire on the lander?
+DOYLE	m	Sure. But we don't have nearly enough power for lift off.
+ROTH	m	Yes we do.
+ROTH	m	I can reach one of the moons in low orbit and turn up its gravity. As it passes overhead it should be able to slingshot the lander away from the planet's surface. Along with everything else.
+COOPER	m	But we need to take the box back to earth.
+ROTH	m	You don't need this -- only the idea. The knowledge of how to build it.
+COOPER	m	I'm going to image the operating code and the architecture onto the probe's hard drive. It'll be garbled, but it should give you and me enough to rebuild it when we get back.
+ROTH	m	Not me. But you'll make it work.
+ROTH	m	This is a one-way trip for me.
+BRAND	m	This isn't right, Roth. We can find a way for all of us to leave.
+ROTH	m	This is the only way. Keep the lander upright and fire the secondary boosters when the moon passes overhead.
+COOPER	m	Let me take it.
+ROTH	m	No. You need to make it home. You're going to need to build more of these.
+ROTH	m	I understand the plan, now. Whatever happens, you have to keep exploring. Keep learning. One good idea isn't enough. You'll need more and more of them just to survive. Do you understand?
+BRAND	m	Thank you.
+ROTH	m	Go.
+DOYLE	m	Control systems inside are online. I've lost sight of the rocket. Do you think he made it?
+COOPER	m	We're going to find out soon enough.
+BRAND	m	Someone's coming.
+DOYLE	m	Close the door.
+COOPER	m	Where's Brand?
+COOPER	m	Dammit. If I don't make it back, just keep going. (points to probe) Get that thing home.
+BRAND	m	You caught me. Now what?
+COOPER	m	I don't know. I figured if you were floating out into space, you'd want some company.
+BRAND	m	Between you and utter solitude, Cooper, frankly, I'm not sure.
+COOPER	m	Guess you were right -- too much gravity, or not enough.
+COOPER	m	Roth.
+BRAND	m	He's gone.
+DOYLE	m	I'm setting a course for the wormhole.
+COOPER	m	How is that working?
+CASE	m	Very well, thank you.
+COOPER	m	Good. We've already set the course, skipper. We're going home.
+BRAND	m	We're safe now.
+COOPER	m	Now I know why we weren't able to hit the relay. It's not interference -- the blue-shift from the black hole is more than we thought it would be.
+BRAND	m	Cooper, wait--
+COOPER	m	Nothing. Wait. The ship cached one long garbled transmission when we first fell into the swirl. If we account for the blue shift then the computer might find something in there.
+BRAND	m	Listen to me -- the blueshift also means we've lost time. More time than we thought we would.
+COOPER	m	How much?
+BRAND	m	A lot... Cooper, maybe it's best if
+COOPER	m	Forty seven years.
+DOYLE	m	My kids...
+BRAND	m	The relay will have lost power years ago. That's why we couldn't contact it, even after we reached the planet.
+COOPER	m	We could bypass the relay. Send a conventional shortwave signal.
+BRAND	m	Only a tiny portion of the signal would make it though the wormhole. Besides, no one will be listening anymore.
+COOPER	m	You knew, didn't you? You and Case figured it out when we landed.
+BRAND	m	I thought... I couldn't be sure.
+COOPER	m	Sure you could. You're brilliant. You know everything.
+BRAND	m	Cooper... we needed to keep going. I'm so sorry. Your children...
+COOPER	m	They're not children any more... if they're even still alive.
+BRAND	m	Listen, the important thing is that we're going home, now. And we have something that can save everyone. It's more important than the people we left behind-
+DOYLE	m	That's easy for you to say. You didn't leave anyone behind.
+COOPER	m	Yes she did.
+COOPER	m	That's why you were upset -- your father.
+BRAND	m	He's gone. But there are other people who still need our help. There's still time...
+BRAND	m	Case... what are you doing?
+BRAND	m	Wait... no...
+LIU	?	I'm sorry. I have my orders. No one follows...
+LIU	?	No one follows-
+BRAND	m	No... We're being pulled back to Pantagruel.
+COOPER	m	We can't let that happen. We'll lose more time... too much...
+COOPER	m	We're losing years.
+DOYLE	m	The wormhole. Look -- it's being pulled into the black hole as well.
+BRAND	m	It's orbit mirrored the ice planet's.
+COOPER	m	What will happen to it?
+BRAND	m	It'll be destroyed, like everything else.
+COOPER	m	This is the crew of the Endurance. We... (gives up on
+FORMALITIES)	?	Murph, I'm sorry. I'm sorry I didn't make it back, like I promised.
+DOYLE	m	How much time are we losing?
+BRAND	m	Decades...hundreds of years.
+COOPER	m	All of those people back home... none of them will make it.
+DOYLE	m	This is it. We're going to be pulled in.
+BRAND	m	What are you doing?
+COOPER	m	Case said the Chinese found something else. The location was scrubbed from their records. But I bet he knows it.
+DOYLE	m	Hurry up.
+COOPER	m	Here. Can we reach it?
+BRAND	m	We can use the thrusters to keep us on the critical orbit. Then slingshot us towards Gargantua.
+DOYLE	m	We only have a few minutes before we're swallowed into that thing. What are we even looking for?
+COOPER	m	(points to screen) That? What is it?
+BRAND	m	It's another wormhole.
+DOYLE	m	We're not going to be able to slow down. Hold onto something.
+COOPER	m	Where are we?
+BRAND	m	I don't know. It's like we entered the wormhole and never left it.
+BRAND	m	I'm sorry. I should have told you. I didn't have the right. But you should watch the recordings. You should know what happened to your kids.
+BRAND'S FATHER	m	I'm not going to make it much longer. The machines will continue to maintain the station as long as they can and the communications will run as long as the station here still has power. I'm sorry. I hope wherever you are, darling, you're safe.
+BRAND	m	Our last trip past the black hole cost us another 100, maybe 200 years. Which means there's a good chance we're the only humans alive anywhere.
+BRAND	m	I think the last human beings should have a little more fight in them than that.
+TOM	m	Hi, Dad.
+TOM	m	I met another girl, Dad. I really think this is the one.
+TOM	m	Murph stole Grandpa's car. He crashed it. He's OK, though. No broken bones.
+TOM	m	I've got a surprise for you, Dad. You're a grandpa.
+TOM	m	Congratulations. Grandpa said he already earned the "great" bit so we just leave it at that.
+TOM	m	Hi, Dad. I'm sorry it's been awhile.
+TOM	m	Grandpa died last week. We buried him out in the back forty, next to Mom. Where we'd have buried you, if you'd ever come back.
+TOM	m	Murph was there for the funeral. It's been a few years since I've seen him. He's been down in the Gulf Coast. He's an engineer. I guess someone followed in your footsteps after all.
+TOM	m	You're not listening to this. I know that. All of these messages are just out there, drifting in the darkness.
+TOM	m	You're gone. You're never coming back. And I've known that for a long time. Lois says -- that's my wife, Dad -- she says I have to let you go. So I am.
+TOM	m	Wherever you are, I hope you're at peace. Goodbye, Dad.
+MURPH	m	Hello, Dad. You sonofabitch.
+MURPH	m	It's your 60th birthday today. Thought I would celebrate with you a bit. I guess I understand why you left. The corn is dying now, too. Tom says there's less and less at harvest every year.
+MURPH	m	Rot's setting in. I guess you were right for clearing out while you had the chance. (reaches up to switch
+OFF CAMERA)	m	Good luck, old man. I hope you made it. I really do.
+COOPER	m	Not a single drink on the whole ship. What kind of mission is this?
+BRAND	m	I think Doyle's been experimenting with the coolant from his spacesuit.
+COOPER	m	You really think we're the last humans alive anywhere?
+BRAND	m	I don't know. Maybe. (looks him in the eye) Yes.
+COOPER	m	So that's it, then? That's all?
+BRAND	m	It's happened a billion times over. Stars explode. The pieces drift in space. Gravity pulls them back together. They form new stars. Then planets. Then us. We die. It starts all over again.
+COOPER	m	What about the plan? The grand scheme.
+BRAND	m	I thought you didn't believe in one.
+COOPER	m	I didn't. But you were bringing me round.
+COOPER	m	What the hell was the point? What did it add up to?
+BRAND	m	I don't know. Maybe it just adds up to this.
+COOPER	m	This? You're saying the end result of ten billion years is the atoms from dead stars standing here disagreeing with each other.
+BRAND	m	Maybe that's enough.
+DOYLE	m	They just appeared.
+BRAND	m	I think these are the creatures that built the wormhole.
+COOPER	m	This thing is made of... gravity?
+BRAND	m	No. I don't think it's in our universe at all. I think it lives in the bulk -- the space that the wormholes traverse. And it can only interact with us using gravity.
+COOPER	m	Can we communicate with them?
+BRAND	m	Where would we even start? Maybe--
+DOYLE	m	That's our solar system.
+COOPER	m	What is that?
+BRAND	m	That's us. That's where they've brought us. We're in the bulk.
+BRAND	m	They're moving us.
+DOYLE	m	Where?
+COOPER	m	There's something out there.
+TARS	m	I guess this isn't robot heaven after all.
+TARS	m	I orbited the black hole seven times before I hit the second wormhole. Then I drifted until I found this place.
+COOPER	m	This is what the Chinese were protecting. How they could have built all this in just a handful of years.
+TARS	m	They didn't. It took them four thousand. (off Brand's look) Time moves very slowly here
+BRAND	m	How do you know?
+TARS	m	Because I've been waiting for you for three hundred years.
+BRAND	m	Time. That's what the bulk beings wanted to give us. That was the treasure the Chinese found. Enough time to let us save ourselves.
+TARS	m	I have catalogued almost everything they had built here.
+COOPER	m	Must have taken you a while.
+TARS	m	One hundred and fifty-seven years.
+COOPER	m	How are they keeping the lights on in this thing?
+TARS	m	Follow me.
+TARS	m	It's a mini black hole. A remnant of the big bang. It will power this place forever.
+COOPER	m	It's a map?
+TARS	m	No. Not a map. This is a simulation of the Earth. A perfect simulation.
+TARS	m	They tested each of the technologies hundreds of times, trying to find the one that would cause the least damage and still allow us to leave Earth.
+TARS	m	This was their best solution. A massive version of the box we found on the ice planet, allowing the entire human population to escape.
+COOPER	m	So why didn't they return? Why didn't they save us?
+BRAND	m	Because they were too late. By the time they found this place, the people who sent them were dead. They were unable to fulfill their mission.
+TARS	m	That was the final problem they tried to solve.
+BRAND	m	Where do they lead?
+TARS	m	There are millions of them, connecting virtually every planetary system in the universe. There are thousands in our galaxy alone. But the Chinese stopped mapping them when they found what they were looking for.
+TARS	m	This was their final creation. They had to capture the mini black hole just to have enough power to try it.
+DOYLE	m	What does it do?
+COOPER	m	They weren't interested in the other wormholes because their mission was to return home. That one leads back to Earth. The Earth they were told to return to.
+BRAND	m	But that's impossible...
+TARS	m	It was only used once. The Chinese team attempted to travel back in time, to Earth just a few years after they had left.
+COOPER	m	Did they make it?
+TARS	m	I don't know.
+DOYLE	m	Do you really think it works?
+COOPER	m	We're going to find out.
+BRAND	m	You know it doesn't work. Time travel isn't possible.
+COOPER	m	You don't know that.
+BRAND	m	Yes, I do. If it worked, the Chinese would have suddenly discovered all of these incredible technologies. But they never made it. You can't go back, Cooper. You can slow things down, but you can't ever go back. Our home is gone. (off his look) You listened to all of those messages from your family. If you had made it back, we would already know. There would already be some evidence.
+BRAND	m	If you try to use it, you'll die, just like the people who built it.
+BRAND	m	Roth was right, Cooper. We have to keep going. Keep exploring. We have an obligation to try to survive. From here we could find a thousand places where life could thrive. And you're going to return to the one place where it can't.
+COOPER	m	I made a promise.
+BRAND	m	I came to say goodbye.
+COOPER	m	You could have taken one of the other ships.
+BRAND	m	This one's done all right by us so far.
+BRAND	m	Will you take this with you? It's the last of its kind as well. Thought we should double its chances of survival. In case I'm wrong.
+COOPER	m	Where are you going to go?
+BRAND	m	I don't know. Up there, I guess.
+COOPER	m	You're going, too?
+TARS	m	I'm curious. It's my nature. See you down the road?
+BRAND	m	Come with us. Please. You wanted your whole life to explore. This is your chance.
+COOPER	m	I'm sorry. I have to find out what happened to my sons. I promised them.
+BRAND	m	You're a man who keeps his promises. Make me one-
+BRAND	m	After you're done... come find me.
+COOPER	m	I promise.
+DOYLE	m	Let's go home.
+COOPER	m	The probe...
+DOYLE	m	We get back to earth, you and I can try to make sense of the code. Rebuild the gravity machine.
+COOPER	m	It's going to work.
+DOYLE	m	Of course it's going to work.
+COOPER	m	That's not what I mean. This is the probe I found in Galveston.
+COOPER	m	Brand said there'd be some evidence we'd made it. And there was. This. (holds up probe) But only this. Everything will be destroyed except for this.
+COOPER	m	We have to stop.
+DOYLE	m	I don't know what you're talking about, but you're not touching the controls. I'm going home.
+COOPER	m	You don't need to do this. We won't make it back, but this does. The secrets are already right on it. Maybe someone found it. There's hope. But we don't get to go with.
+DOYLE	m	You're not stopping me. I'm going home.
+MURPH	m	It's done. Auto-pilot's packed up for the last time.
+FARMER	m	You can't make it work a little longer?
+MURPH	m	Can't do anything for you. There aren't any more parts for these. Not anywhere.
+FARMER	m	You don't understand. We're getting less than a hundred pounds per acre. We need to plant more, not less.
+FARMER	m	You've got to find us some more parts, Murph. It's getting desperate. Isn't there anywhere you can look?
+MURPH'S WIFE	f	Would you get that thing off of the table?
+EMILY COOPER	f	Dad? You said you'd take us to the game.
+MURPH	m	Did I?
+MURPH	m	All right. Let me get my jacket.
+EMILY COOPER	f	(staring at machine) What is it supposed to do, Dad?
+MURPH	m	I have no idea.
+COOPER	m	(over radio, garbled) This is the crew of the Endurance... Murph... I'm sorry...
+MURPH	m	Where's Emily?
+WIFE	f	Out in the barn. She's been tinkering with your old projects.
+EMILY COOPER	f	Dad... I'm sorry... I made some changes to the machine. I think I did something wrong.
+MURPH	m	Do you remember what you changed?
+DOCTOR	m	Good morning. Don't go outside just yet, Mr. Cooper. 146.
+DOCTOR	m	(offers him a pill) This will help with the disorientation.
+DOCTOR	m	Wait a minute for that to take effect. It can be a bit of an adjustment. (looks him over) You had some frostbite. Nothing too serious.
+COOPER	m	Where am I?
+DOCTOR	m	It's a bit of a coincidence, really. When the rangers found you, we were the nearest facility.
+COOPER	m	What's coincidence? What is this place?
+DOCTOR	m	We have a lot to show you.
+DOCTOR	m	You're OK. We get this from people who move here from planetary colonies all the time.
+COOPER	m	Where... where are we?
+DOCTOR	m	Like I said. It was a coincidence. There was a facility closer to Earth, but they had a problem, so you wound up here. (off his look) This is the Space Station Joseph A. Cooper.
+DOCTOR	m	I've got someone who wants to meet you.
+DOCTOR	m	He was moved here after they found you. He's a little old for a transfer, but they made an exception.
+DOCTOR	m	That's him.
+DOCTOR	m	His name is Anthony Welling. Anthony Cooper Welling. He's your great great grandson. He's been waiting a long time for you.
+ADMINISTRATOR	m	You're a hero, Mr. Cooper. Let's just start off by saying that. It's an incredible and... unexpected honor to have you here with us.
+ADMINISTRATOR	m	None of us would be here without the efforts of you and the other crewmembers of the Endurance. (smiles, unconvincingly) So I don't want you to take this the wrong way. But there are some questions I've been told to ask.
+COOPER	m	Shoot.
+ADMINISTRATOR	m	The rangers who found you reported that you had released a sample of an alien life-form into the wild. Which is, unfortunately, against regulations.
+COOPER	m	It was last of its kind. Their planet was destroyed.
+ADMINISTRATOR	m	The rangers attempted to isolate the life-form, but it had already spread out of control. It seems to be thriving.
+ADMINISTRATOR	m	Can you tell me why you... elected to release the life-form back on earth?
+COOPER	m	Because that was the plan.
+ADMINISTRATOR	m	Whose plan?
+COOPER	m	I don't know.
+ADMINISTRATOR	m	My assistant tells me you've applied for a position with the exploration fleet.
+COOPER	m	Feel like I should be pulling my weight.
+ADMINISTRATOR	m	That's admirable, Mr. Cooper. The truth is, most of the fleet's personnel are automated. There are a small number of crewed ships. But there are great numbers of candidates. Very well trained candidates.
+COOPER	m	I was hoping to enroll in a course. Try to get myself up to speed on the new systems.
+ADMINISTRATOR	m	I don't want you to take this the wrong way, Mr. Cooper -- like I said, you're a hero. But the truth is we have somewhat limited resources.
+COOPER	m	No one's heard anything from Brand?
+ADMINISTRATOR	m	I'm sorry. Officially, she's been listed as missing for over 200 years. Mind you, I guess you turned up eventually, didn't you?
+COOPER	m	Am I really going to hurt anybody by going to look for her? I just need a small ship. I made a promise.
+ADMINISTRATOR	m	Listen. Mr. Cooper. You're a hero. You're the oldest man in the human race. Don't you want to take it easy? (off his look) I hope you understand, we all you hold you in the highest possible regard. Which is why they're never going to let you go off by yourself in a spaceship. I'm sorry.
+ADMINISTRATOR	m	I've got some good news, however. We all know about your early life, Mr Cooper. I wrote a paper on it when I was a boy. And I think we found something you'll really enjoy.
+ROBOT	m	Settings: general settings, security
+COOPER	m	Curiosity. New level setting. 100 percent.
+ROBOT	m	Confirmed. Would you like to make any additional changes?
+COOPER	m	Sense of humor. New level setting. 100 percent. Wait. 80 percent.
+COOPER	m	Where do you want to go first?
+

@@ -1,0 +1,627 @@
+ANDY	m	Okay. Is it on? (recorder)
+OLIVER	m	Yeah yeah.
+ANDY	m	This is for our friend Hal Fields. Hal. We love you.
+OLIVER	m	You're coming to live with me now.
+OLIVER	m	This is my car.
+OLIVER	m	This is the dining room where people come and eat sometimes.
+OLIVER	m	This is the living room.
+OLIVER	m	That's the bathroom.
+OLIVER	m	He was a museum director - she fixed up old houses.
+OLIVER	m	They had a child, and they stayed married for 44 years...
+HAL	m	I'm gay.
+HAL	m	I'm gay.
+HAL	m	I'm gay.
+HAL	m	I loved your mother, but, uh... now I want to explore this side.
+HAL	m	I don't want to be just theoretically gay, I want to do something about it.
+HAL	m	...I want to do something about it...
+HAL	m	...I want to do something about it.
+ANDY	m	Since I came out to my father, he never speaks to me. That's why I've been always attracted to older men.
+OLIVER	m	Look, its lonely out here, so you'd better learn how to talk with me.
+ARTHUR SUBTITLE	m	While I understand up to 150 words - I don't talk.
+OLIVER	m	I know. I know.
+OLIVER	m	Calm. Calm, calm breaths.
+HAL	m	Oliver! Please help me with all these ropes.
+OLIVER	m	Pop, Pop, stop -- you're gonna hurt yourself.
+NURSE	f	Mr. Fields, we're going to have to secure your arms again.
+HAL	m	You two married?
+OLIVER	m	No, Pop.
+HAL	m	Why not? She's great.
+OLIVER	m	She's a great nurse in the hospital, we don't really know her, you're very high on drugs.
+HAL	m	You always have some very good reason, haven't you?
+OLIVER	m	No, Pop, I just don't want to be like you and mom. (aside to the nurse) Thank you...
+GEORGIA	f	Oliver!
+GEORGIA	f	Olly, you can do better.
+GEORGIA	f	That's good.
+OLIVER	m	Go have your own experiences with your own people. I'll be right here...
+OLIVER	m	I'm a human. I'm not a dog. And you're a Jack Russell, that's a breed. Your personality was created by this guy John Russell, a hunting enthusiast, in the 1800s. And he bred your ancestors to have stamina and courage for the hunt. You think you're just you, and you want to chase the foxes, but other people planted that in you years ago.
+OLIVER	m	Now, somewhat arbitrarily, you are considered very cute by us humans, and we keep breeding you not to chase foxes, but to be cute, and we put you in movies and television shows, and you, you're chasing tennis balls cause there as close to a fox as you're going to get.
+OLIVER	m	Want me to read this? I found it in your books.
+HAL	m	Yeah, alright. Give me the flashlight.
+OLIVER	m	Nice.
+HAL	m	Oh, that's nice.
+OLIVER	m	Oh, Andy brought those for you.
+HAL	m	Oh, yeah?
+HAL	m	Oh, who did that painting?
+OLIVER	m	Well, I don't know. Its just a painting on the wall.
+HAL	m	A--, and these?
+OLIVER	m	They're just photos, Pop.
+HAL	m	But how do they relate to the exhibit?
+OLIVER	m	They're just personal photos. They're not art.
+OLIVER	m	Uh, well that's the water sprinkler thing.
+HAL	m	Well, its beautiful.
+OLIVER	m	What is?
+HAL	m	Putting the Japanese gardens there. It's just beautiful.
+ANDY	m	Hal.
+HAL	m	Andy!
+ANDY	m	I brought something for you.
+ANDY	m	We made a recording for you.
+HAL	m	Oh, God.
+OLIVER	m	Jesus, Liz. Another band that wants portraits.
+LIZ	f	Well, at least it pays the rent.
+OLIVER	m	You do something decent once, and that's all people ever want.
+ELLIOTT	m	Hi Liz.
+ELLIOTT	m	Oliver?
+OLIVER	m	Yeah?
+ELLIOTT	m	The pen is not your friend. The paper is not your friend. The party is your friend. We're your friends. Your friends are your friends.
+SHAUNA	f	I got the skills... he's got the moves...
+ELLIOTT	m	I got the moves... you've got the skills...
+OLIVER	m	Arthur, you haven't been invited to this party. You're gonna stay and look after the house.
+ELLIOTT	m	You remember when Oliver was funny? And he could actually, like, talk, in complete sentences?
+SHAUNA	f	Funny? Funny? I don't think so Fun maybe, but not funny unless, like, serious is funny. Then he's' fucking hilarious.
+SHAUNA	f	But, lovable. You are very lovable.
+ELLIOTT	m	Yeah, very lovable.
+FEMALE PARTIER	f	So cute, does he do tricks?
+OLIVER	m	His name's Arthur - he doesn't do tricks.
+PARTIER	f	No? Arthur, SIT!
+PARTIER	f	He's so cute. Shake!
+PARTIER	f	Oh my god, he's so cute, I want him.
+OLIVER	m	(in Freud accent) Does it make you feel powerful to order my dog around? Maybe give you a sense of power?
+PARTIER	f	Oh, you're being a therapist! Freud!
+OLIVER	m	Thanks, yeah. Very good.
+LONG-HAIRED MAN	m	Well, I didn't ask for this. Who would ask for this? This color. This nose. This cheek, this chin. You know, this is my life. This isn't a story. This isn't a joke...
+OLIVER	m	Yeah.
+LONG-HAIRED MAN	m	I'm so glad you came, Doc. Just really good to get this stuff off my chest.
+OLIVER	m	(in Freud accent) I'm sorry. Our time is up, uh... for this week. Thank you for coming in.
+OLIVER	m	(back in accent) Well, I guess we should start with your mother.
+OLIVER	m	Well then your father.
+OLIVER	m	I don't understand. You can't talk? Is it a mental problem? Do you need analysis?
+OLIVER	m	That's a physical problem.
+OLIVER	m	I was doing such a good job of hiding it. How could you tell?
+OLIVER	m	Clearly, I'm gonna need a drink. You?
+OLIVER	m	You, stay here, yeah?
+ELLIOTT	m	No, its just not a natural color for a chicken.
+SHAUNA	f	No.
+ELLIOTT	m	(motioning to Shauna's
+COSTUME)	?	And look, you see what happens when you free yourself from the cage, walk away from the factory.
+SHAUNA	f	You just have no real color.
+ELLIOTT	m	Hey, hey.
+SHAUNA	f	Uh-oh, one. Uh-oh, two.
+ELLIOTT	m	Two drinks.
+SHAUNA	f	What does that me--, one, two.
+ELLIOTT	m	Well that's two, two people.
+SHAUNA	f	Two people. A girl and a guy?
+ELLIOTT	m	Hopefully.
+SHAUNA	f	Yeah, wow, making moves.
+OLIVER	m	Watch him OK?
+OLIVER	m	Hello?
+HAL	m	Oliver?
+OLIVER	m	Yeah.
+HAL	m	I'm not sorry I woke you! I went to Akbar tonight.
+OLIVER	m	You did?
+HAL	m	"House music."
+OLIVER	m	Would you like to dance?
+OLIVER	m	Hello...
+OLIVER	m	Can I give you my number?
+OLIVER	m	Thanks.
+ARTHUR SUBTITLE	m	Tell her the darkness is about to drown us unless something drastic happens right now.
+OLIVER	m	I feel bad dragging Arthur to the party. I should get home. It was really nice meeting you.
+OLIVER	m	Au revoir. Yeah.
+OLIVER	m	Hello?
+OLIVER	m	Is that you?
+OLIVER	m	One beep means yes?
+OLIVER	m	I've always wanted to have a phone call with someone who doesn't talk...
+OLIVER	m	You want to do something?
+OLIVER	m	Now?
+OLIVER	m	Okay, I'm parked just right up the street.
+OLIVER	m	Okay. You point - I'll drive.
+OLIVER	m	This way?
+OLIVER	m	Nice place.
+OLIVER	m	Oh, my mother. My mother died five years ago.
+ANNA	f	(in a hoarse whisper) Oh merd.
+OLIVER	m	Oh, you spoke.
+ANNA	f	I'm not supposed to.
+OLIVER	m	My father died two months ago, almost three.
+OLIVER	m	He, he was gay.
+OLIVER	m	He was gay the whole time they were married.
+OLIVER	m	He came out after my mother died and, uh... he was 75 years old.
+OLIVER	m	Sorry.
+ANNA	f	Can we just sleep?
+OLIVER	m	Sure, sure.
+OLIVER	m	Oliver.
+OLIVER	m	How long are you here when you get back?
+OLIVER	m	A year?
+OLIVER	m	A month? Right. And then?...
+OLIVER	m	You're filming here. Acting.
+OLIVER	m	And after?...
+OLIVER	m	Just somewhere else. Where?
+OLIVER	m	Yes.
+OLIVER	m	Hello house, (Low voice) hello Oliver.
+OLIVER	m	Jesus, Pop, you get so much mail.
+HAL	m	But...?
+DOCTOR LONG	m	The bronchoscopy revealed a mass about the size of a quarter. It is located in your lower right lung.
+HAL	m	Uh-huh. I see.
+DOCTOR LONG	m	It appears to have spread... to the large hilar lymph nodes in your chest and liver.
+DOCTOR LONG	m	Do you have any questions?
+HAL	m	No. Thank you.
+OLIVER	m	I'm sorry.
+HAL	m	Well, let's not rush out and tell everyone.
+OLIVER	m	Andy?
+HAL	m	No need to get him up a tree.
+HAL	m	Can you read me something?
+OLIVER	m	The Brazilian ballet star is already known not only as a skilled partner, but also as a gifted and versatile dancer, who adeptly fields roles ranging...
+HAL	m	But is he eating?
+OLIVER	m	Yeah, yeah, he's eating.
+HAL	m	Oh God, I worry so much about--
+HAL	m	Oh here we are...
+HAL	m	What have you got in there?
+ANDY	m	A slug.
+HAL	m	Oh, Andy, you can't bring that kind of thing in here.
+ANDY	m	Oh I can look.
+HAL	m	Fuck you.
+HAL	m	It's time for inspection...
+NURSE	f	Hello, Mr. Fields.
+HAL	m	Hello.
+ANDY	m	I'm Andy. Hal's boyfriend
+NURSE	f	I'm Sophia.
+ANDY	m	You know, I have the right to be here as much as anyone else.
+HAL	m	Go take a walk. Calm yourself.
+OLIVER	m	What was all that?
+HAL	m	Oh, Andy hasn't had it easy. Be nice to him.
+HAL	m	(knowing he stole them) Andy, where did you get these?
+ANDY	m	Guys, guys, this is to us. Cheers.
+STRICT NURSE	m	Drinking's not allowed in the room.
+HAL	m	Oh, it's not?
+OLIVER	m	I'm sorry.
+HAL	m	No, no, no. She's a wonderful nurse. (he pauses a beat, then raises his cup again) Here's to health care.
+EVERYONE	m	To health care!
+OLIVER	m	What did you do with my father? He was so polite.
+HAL	m	Oh, I invited him - but he never returns my calls.
+OLIVER	m	Two, four, six, eight...
+ELLIOTT	m	That's it? That's all you're gonna tell me?
+OLIVER	m	I'm gonna meet her at her hotel again. You happy?
+ELLIOTT	m	Yeah, I'm very happy. Are you happy?
+OLIVER	m	(to shop owner) Here's eight...
+OLIVER	m	We haven't actually had a conversation yet, so, you know...
+ELLIOTT	m	You're thinking about her all the time.
+OLIVER	m	And you know that because?
+ELLIOTT	m	Because you're not talking about it. I know you.
+OLIVER	m	It's true. It's embarrassing. I'm 38 and falling for a girl again...
+YOUNG OLIVER	m	Where's Pop?
+GEORGIA	f	At the museum.
+YOUNG OLIVER	m	Is something wrong with you guys?
+GEORGIA	f	What're you, in the FBI?
+YOUNG OLIVER	m	No.
+GEORGIA	f	The CIA?
+YOUNG OLIVER	m	No.
+GEORGIA	f	KGB? (Oliver shakes his head, no) SLA? (no) PTA? (no) BMW?
+GEORGIA	f	There is nothing wrong with me and Pop.
+GEORGIA	f	C'mon.
+GEORGIA	f	When you feel bad, you go into a room and scream - loud as you want, for a minute or two, then it's out of you. It's called catharsis.
+OLIVER	m	I don't feel like screaming...
+GEORGIA	f	You will...
+OLIVER	m	What the fuck is that?
+ELLIOTT	m	L-E-IT, Elliot
+OLIVER	m	Well, that's ridiculous.
+ELLIOTT	m	I know! (Getting his criticism more) You're not very supportive.
+OLIVER	m	Well, its just copying something someone did, like, 30 years ago in the Bronx.
+ELLIOTT	m	Well yeah. I'm part of a tradition of civil disobedience, something bigger than myself.
+OLIVER	m	How does it work?
+ELLIOTT	m	Shake it, you have to shake it.
+ELLIOTT	m	What was that?
+OLIVER	m	Historical consciousness... you know, something bigger than myself.
+OLIVER	m	Let's do it again.
+ANNA	f	He's sweet. He misses your Dad.
+OLIVER	m	Maybe we, we could, um, just talk for a second.
+ANNA	f	Right.
+ANNA	f	Well, my name is Anna. You're worried you can't trust me because you don't know who I am. I get it. That makes sense to me.
+GEORGIA	f	Oliver, stop it.
+OLIVER	m	This music's old.
+GEORGIA	f	It's black, black music is the deepest cause they suffered the most, them and the Jews.
+GEORGIA	f	In my next life I'm gonna marry a good hot blooded Jew - someone full of emotion.
+OLIVER	m	I'm Jewish right?
+GEORGIA AT 50	f	You're a quarter, I'm a half, your father's none. He has the least emotions, You'll have more emotions than him, but I'll have the most emotions.
+GEORGIA AT 50	f	You get to play chauffeur but just to the bottom of the hill.
+GEORGIA	f	You're turning into a wonderful driver.
+SECURITY GUARD	m	Excuse me Mrs. Fields....
+GEORGIA	f	What? You're not allowed to interact with the art?
+SECURITY GUARD	m	It's just that...
+OLIVER	m	C'mon.
+GEORGIA	f	You too? You like being a good citizen?
+OLIVER	m	No.
+ANNA	f	Can you toss me my camisole.
+ANNA	f	No, my camisole.
+OLIVER	m	Camisole?
+ANNA	f	You don't know what a camisole is?
+OLIVER	m	I was brought up by these animals and they didn't like questions.
+OLIVER	m	They were very frowned upon. So I had to guess.
+ANNA	f	You can ask me anything.
+OLIVER	m	Anything?
+OLIVER	m	What's out there?
+ANNA	f	That's a tree.
+OLIVER	m	Yeah.
+ANNA	f	And cars.
+OLIVER	m	Uh-huh.
+ANNA	f	Another building like this one.
+OLIVER	m	Right.
+ANNA	f	People in the building like us. Half of them think things will never work out. The other half believe in magic. It's like a war between them.
+OLIVER	m	How do you know so much about people?
+ANNA	f	Oh. Well, you have to learn how to read their faces.
+ANNA	f	For example... here is mad.
+ANNA	f	Happy...
+ANNA	f	Sometimes its just nothing.
+OLIVER	m	Oh yeah?
+ANNA	f	This is nothing... And they are good at looking one way and being another way.
+OLIVER	m	Okay, open your eyes...
+ARTHUR SUBTITLE	m	She's unlike any girl I've ever met.
+OLIVER	m	Someone flashy walks into your life and you're just gonna fall for it?
+ARTHUR SUBTITLE	m	Are we married yet?
+OLIVER	m	No, uh, it doesn't work like that. There are other steps, it's complicated.
+ARTHUR SUBTITLE	m	I hope this feeling lasts.
+HAL	m	What happened with Michelle?
+OLIVER	m	You know... I don't know.
+HAL	m	She seemed great.
+OLIVER	m	She was great.
+HAL	m	Maybe you should take out a personal ad, where you explain your situation?
+OLIVER	m	My situation?
+HAL	m	Yeah, I mean, you want to be in a relationship but you can't stay in one.
+OLIVER	m	That's your fatherly advice? Personal ads?
+HAL	m	Well, a lot of people use them... I did.
+OLIVER	m	What?
+HAL	m	If Andy wasn't going to be monogamous, why should I be?
+OLIVER	m	Jesus, Pop.
+HAL	m	Jesus yourself.
+HAL	m	Hello house (Answers back in deep voice) Hello Hal.
+HAL	m	Oh God, what have you got this time?
+ANDY	m	It's a green caterpillar.
+HAL	m	No, no, no, you don't have a green caterpillar.
+ANDY	m	Oh yeah I do.
+HAL	m	Oh my God. Gross! Oh, Jesus...
+HAL	m	Hey, you going?
+ANDY	m	Yeah, Michael's in town.
+HAL	m	Oh. Right.
+OLIVER	m	I thought he was your boyfriend?
+HAL	m	Well, at least I'm the number one boyfriend.
+OLIVER	m	Pop.
+HAL	m	Oh, my stomach.
+OLIVER	m	Alright, come on. Come on.
+OLIVER	m	Arthur, down.
+HAL	m	Well, let's say, when you were little, you always dreamed of some day getting a lion?
+HAL	m	And you wait and you wait and you wait and you wait and the lion doesn't come. Then along comes a giraffe.
+HAL	m	You can be alone or you can be with the giraffe.
+OLIVER	m	I'd wait for the lion.
+HAL	m	That's why I worry about you.
+HAL	m	You want me to be with someone like me. I like Andy cause he's not like me... he's fun.
+OLIVER	m	Hey, what did you get?
+OLIVER	m	Liv Ullman. Very serious.
+ANNA	f	And I found this crazy book.
+OLIVER	m	That's kind of a classic American thing.
+ANNA	f	Maybe we can figure out some classic American things to do.
+OLIVER	m	Yeah, Like page 75?
+ANNA	f	Uh-huh.
+OLIVER	m	Or 75 all the way through, through
+OLIVER	m	Louise Brooks, star of silent screen... effectively banned from Hollywood in early Thirties, ended up working as a salesgirl at Saks Fifth Avenue.
+OLIVER	m	Veronica Lake.
+ANNA	f	Oh I love her.
+OLIVER	m	She was a pin-up model and a film star... Success was short-lived... series of broken marriages... She struggled with mental illness and alcoholism. She died of hepatitis at the age of 53.
+ANNA	f	All these actor stories end sad. I can tell you that already. It's not a good life.
+ANNA	f	So. Now I want real Mexican food.
+ANNA	f	And I want to try page... 46.
+ANNA	f	No.
+OLIVER	m	Yeah.
+ANNA	f	Really?
+OLIVER	m	It's really good.
+OLIVER	m	What do you think?
+ANNA	f	It's so good.
+OLIVER	m	It's good? Oh, I wasn't sure you'd like it.
+ANNA	f	Why?
+OLIVER	m	You're an actress and staying in that fancy hotel.
+ANNA	f	I like this place.
+ANNA	f	I used to love hotels. But now I'm always in a new apartment or... in another hotel somewhere.
+OLIVER	m	How do you keep hold of friends... or boyfriends?
+ANNA	f	It makes it very easy to end up alone - to leave people.
+OLIVER	m	You can stay in the same place and still find ways to leave people.
+ANNA	f	You are like that? Its what you do?
+ANNA	f	So we are the same?
+OLIVER	m	Yeah, I guess so.
+OLIVER	m	Pop?
+HAL	m	Oh, did I wake you? Yeah. (Handing Maria some books) Thank you Maria. (to Oliver) And now that you're here, uh, would you please put those up there?
+OLIVER	m	What are you--? Pop. What?
+HAL	m	I'm reorganizing.
+OLIVER	m	Prednisone makes you crazy.
+HAL	m	I'm just not sleepy. I feel great.
+HAL	m	As soon as I finish these papers. Right, papers? (In a different voice) Right, Hal. As soon as you're done, you can rest.
+ANNA	f	What?
+OLIVER	m	Nothing, you're pretty.
+ANNA	f	No...
+OLIVER	m	Yeah.
+ANNA	f	Jewish girls are not pretty. They can be "interesting", or cute, but not pretty.
+OLIVER	m	You're kidding right?
+ANNA	f	That's what my mom told me.
+OLIVER	m	She did not.
+ANNA	f	No, you're right, this girl at school told me that. And I went home and my mom said, `Anna, who told you that?
+OLIVER	m	Yeah. Right.
+OLIVER	m	Here, Pop.
+HAL	m	Oh, God.
+OLIVER	m	I know, I know. Come on.
+HAL	m	Hey, no, no, no. That's the Gay Pride Day stuff. Just leave those.
+OLIVER	m	Alright.
+HAL	m	And that's for gay book club. You better leave those too.
+OLIVER	m	But what about this chair? Is it gay?
+HAL	m	The chair's not gay. Obviously.
+OLIVER	m	Pop, Pop, the cord won't go that far.
+HAL	m	Oh, to hell with it.
+HAL	m	Oh, hey what's that?
+ANDY	m	Now that you're out of the hospital, you'll have to exercise, get you back into shape.
+HAL	m	That's a great idea.
+ANDY	m	Okay, let's try it. I'll, I'll show you how.
+HAL	m	Yeah, later on, I'm gonna make myself some tea.
+ANDY	m	Okay, I'll clean it up. It's a little - yech.
+HAL	m	Your mother's vase needs some flowers.
+OLIVER	m	Pop, you just got out of the hospital, you should take it easy.
+OLIVER	m	You need to tell Andy that you're... not well.
+HAL	m	You'll tell him, won't you?
+OLIVER	m	Me?
+HAL	m	Please?
+OLIVER	m	Hey.
+ANDY	m	You know that I tried to have sex with women?
+OLIVER	m	Yeah?
+ANDY	m	Yeah. I wanted you to know I tried, it just, it didn't work.
+OLIVER	m	Hey, I don't have a problem with gay guys.
+ANDY	m	Have you ever had sex with a man?
+OLIVER	m	No.
+ANDY	m	I heard that if a man hasn't had sex with another man, he's always afraid of gay men. You know, they're a threat.
+OLIVER	m	I don't know Andy.
+ANDY	m	I didn't want you to feel threatened, I don't want to have sex with you. What I do, most people wouldn't even call it sex.
+OLIVER	m	Okay, okay.
+ANDY	m	Hey...
+OLIVER	m	I couldn't tell him.
+HAL	m	That's okay.
+OLIVER	m	No it's not. You can't hide this from him. He loves you.
+HAL	m	For someone with so much relationship advice, you seem awfully alone.
+OLIVER	m	Just act natural. When he's not looking, we'll make a run for it, okay?
+ANNA	f	Don't, don't.
+ANNA	f	It's my dad.
+OLIVER	m	He's that bad?
+ANNA	f	I'll be my dad, you be me.
+ANNA	f	(In a deep man's voice) Honey?
+OLIVER	m	Oui?
+ANNA	f	C'est toi, cheri?
+OLIVER	m	Oui Papa.
+ANNA	f	You never call me back.
+ANNA	f	You know, I can't stop thinking about, you know, about it. Doing it.
+OLIVER	m	Doing what?
+ANNA	f	Killing myself. You are the only one I can tell that to.
+OLIVER	m	You should tell mom about that, not me.
+ANNA	f	You are my girl.
+ANNA	f	Now I have to kill you.
+OLIVER	m	Just as it was going so well.
+ANNA	f	I know. I'm sorry.
+OLIVER	m	Hey Anna?
+ANNA	f	Hey Oliver?
+OLIVER	m	How do you feel about vandalism?
+ANNA	f	I don't know. Pretty okay.
+ELLIOTT	m	Oliver, don't write any of that serious stuff, okay? Just write something funny. Girls like funny.
+SHAUNA	f	You know what? Here, give me Arthur. We'll just stay here and get arrested. You know, that's good.
+OLIVER	m	You okay?
+ANNA	f	Yeah. I'm gonna stay here with my new friend (the handrail she holds).
+OLIVER	m	Okay.
+ANNA	f	C'est beau ici.
+OLIVER	m	Yeah.
+OLIVER	m	I'm trying to impress you.
+ANNA	f	(Gasps ironically) Really?
+ANNA	f	It's working.
+OLIVER	m	Arthur, Arthur. I'm sorry.
+OLD MAN	m	Oh. No problem. No problem. What's with this card?
+OLIVER	m	Uh, do you mind?
+OLD MAN	m	Thank you.
+ANNA	f	He looked like your dad?
+OLIVER	m	Yeah.
+OLIVER	m	Somewhere along the line, he stopped admitting to himself that he was sick.
+HAL	m	Oliver, this is Blake. He's a wonderful man.
+HAL	m	Look. I finally got a tattoo. Registration purposes of course.
+ANNA	f	Good for him.
+OLIVER	m	He had a lot of parties.
+HAL	m	Well, glad you could make it.
+OLIVER	m	I thought I was making dinner?
+HAL	m	It's movie night.
+PARTY GUEST	m	Hal, you look wonderful.
+HAL	m	Oh, I'm turning the corner on this thing.
+OLIVER	m	Why're you telling them you're "turning the corner"?
+HAL	m	Well...
+OLIVER	m	You have stage 4 cancer?
+HAL	m	It's not as bad as it sounds.
+OLIVER	m	Pop. There is no stage 5.
+HAL	m	That's not what it means.
+OLIVER	m	What does it mean?
+HAL	m	It just means it's been through 3 other stages.
+OLIVER	m	What movie are we watching?
+HAL	m	"The Life of Harvey Milk." He was the first openly gay politician...
+OLIVER	m	Yeah I know who Harvey Milk is.
+HAL	m	Good, good.
+HAL	m	Eventually Jesus grew old. He could no longer walk far and he could no longer preach in a loud voice. One day he announced to his apostles that he was departing. The three disciples prayed with him, gave him water, bathed and fed him. After gasping for breath for several days, one morning, just as dawn came, Jesus passed away.
+OLIVER	m	You re-wrote Jesus' death?
+HAL	m	It was so violent, we need new stories.
+ANNA	f	Stay here.
+OLIVER	m	Anna?
+ANNA	f	I couldn't sleep, I wanted to walk around...
+ANNA	f	You've lost so much. What if I can't make up for that?
+OLIVER	m	If this is too much, then we should just stop.
+ANNA	f	Wait, wait.
+ANNA	f	I don't want to stop.
+ANDY	m	Ready?
+OLIVER	m	No!
+HAL	m	Again!
+EVERYONE	m	Arthur! Arthur... Arthur...
+ANNA	f	Ah, you're awake! Arthur says it's time to get up, he says he has the day off.
+OLIVER	m	He talks to you too?
+ANNA	f	Yeah.
+OLIVER	m	Your English is not so perfect. And he said ten minutes.
+OLIVER	m	You okay? (to Anna) You did really well.
+ELLIOTT	m	Yeah, I can't believe that was your first time.
+OLIVER	m	(To Arthur) You watching all the humans going around and around.
+MANAGER	m	Excuse me. There's no dogs allowed in the building. You need to remove him from the premises please.
+OLIVER	m	If I leave him on his own, he loses all control.
+MANAGER	m	I'm sorry. There's no dogs allowed in the building.
+OLIVER	m	Yeah, but if I leave him in the car, he cries, he howls. I can't leave him in the car.
+ANNA	f	A ca vas! C'est bon!
+MANAGER	m	I don't know what she's saying but I don't like it.
+OLIVER	m	She is just talking in French. She's saying it's OK, it is such a small dog.
+MANAGER	m	You need to remove the dog from the premises or I'm going to have to call the authorities.
+OLIVER	m	You're gonna call the authorities?
+ANNA	f	Dans ce pays! On ne peut pas amener un chien. On peut rien faire. Mais c'est con...
+OLIVER	m	Sorry, excuse us, sorry.
+OLIVER	m	He shouldn't do this to you.
+ANNA	f	Even if we don't answer, he's still in here (points to her head).I go somewhere else, he's still here.
+OLIVER	m	Your leaving soon?
+ANNA	f	Yeah.
+OLIVER	m	I think you should come to my house and move in with me.
+ANNA	f	Would you want a strange girl like me?
+OLIVER	m	Yeah, a lot.
+ANNA	f	Do you cook?
+OLIVER	m	Yes (not so sure).
+ANNA	f	I would love that.
+OLIVER	m	But now I'm going to have to kill you for sure now.
+ANNA	f	Why?
+OLIVER	m	Cause I'm falling in love with you.
+OLIVER	m	Next one.
+HAL	m	Lord.
+HAL	m	Here, that means gay pride.
+OLIVER	m	Yeah, everyone knows that, here.
+HAL	m	No they don't.
+OLIVER	m	Everyone knows about that Pop.
+HAL	m	Don't be ridiculous.
+HAL	m	Did you know, about me?
+OLIVER	m	No, I just thought you and mom weren't in love.
+HAL	m	We loved each other.
+OLIVER	m	But you were gay that whole time.
+HAL	m	I learned how not to be.
+OLIVER	m	For 44 years?
+HAL	m	I knew I was gay, though, at dinner parties I was looking at the husbands not the wives.
+HAL	m	I couldn't have survived if I didn't know that. I just chose not to follow those instincts.
+OLIVER	m	What about sex? You guys had sex?
+HAL	m	She didn't think I was the greatest lover, but we made do. Look, I liked my life, the museum, our house, that's what I wanted.
+OLIVER	m	And mom? You wanted mom too right?
+HAL	m	Yes, stop that.
+HAL	m	She proposed to me you know.
+HAL	m	I said - look I love you and we're great buddies but you know what I am. And then she says, that doesn't matter. I'll fix that.
+`HAL	?	I thought. Oh, God. I'll try anything.
+HAL	m	Andy's moving in.
+OLIVER	m	Yeah? Is that a good idea?
+HAL	m	Just be happy about it.
+OLIVER	m	This is the idea, is that it's the history of sadness.
+OLIVER	m	Here, this could be your...
+OLIVER	m	Your gonna need a big CD box. Four billion years ago, Earth begins. And the idea is that sadness has not been created yet.
+OLIVER	m	I'm sorry.
+OLIVER	m	Well, that went well.
+ARTHUR SUBTITLE	m	Are we married yet?
+OLIVER	m	Come on Arthur.
+OLIVER	m	This is the living room.
+OLIVER	m	Dining room.
+OLIVER	m	There are my parents. My mom. Hal, Georgia, this is Anna - Anna - Hal, Georgia.
+ANNA	f	Hello.
+OLIVER	m	These're the stairs.
+ANNA	f	Yeah?
+OLIVER	m	They go up.
+OLIVER	m	I emptied these for you. I'll get your case.
+OLIVER	m	Are you okay?
+ANNA	f	You OK?
+OLIVER	m	Are you?
+ANNE	f	I couldn't sleep, I didn't want to bug you.
+ANNA	f	I was nervous, and excited. I kept thinking, maybe I'm not so lost.
+OLIVER	m	Why were you crying yesterday?
+ANNA	f	You okay?
+OLIVER	m	Yeah.
+ANNA	f	You seem so unhappy with me.
+OLIVER	m	Well are you happy here?
+ANNA	f	Maybe I'm not perfect at it. I don't really know what I'm doing... but I want to be here.
+OLIVER	m	I don't know Anna. I don't think this is what I am supposed to feel like.
+ANNA	f	Okay. I will go back to New York then.
+HAL	m	Have I done something wrong?
+HAL	m	I see.
+HAL	m	You did an excellent job Dr. Long. Thank you... for... For coming to the party.
+HAL	m	You always wanted to hold my hand when you were little. I couldn't, you know. I was afraid it would look funny. I wanted to be close, you know and my father certainly was never close with me. God, I hope I wasn't like that.
+OLIVER	m	I can barely remember you from when I was little.
+HAL	m	I guess I was at work.
+FANCY WOMAN	f	Oh!
+OLIVER	m	Let's go home.
+GEORGIA	f	What about your father? What will he possibly do without us?
+OLDER WOMAN	f	Georgia? You leaving?
+GEORGIA	f	Yes Mary, it's an emergency, Oliver's appendix has ruptured.
+OLDER WOMAN	f	Oh dear.
+GEORGIA	f	He's a very composed child.
+OLIVER	m	Let's go.
+GEORGIA	f	Aha. The infamous left.
+GEORGIA	f	And?
+GEORGIA	f	Left again. Going in circles. I like it.
+ARTHUR SUBTITLE	m	We knew it wouldn't work even before we met her.
+OLIVER	m	Anna? Where where you?
+OLIVER	m	Hey.
+ELLIOTT	m	Hey.
+OLIVER	m	You're going to take care of Elliott. I'll be back in a couple of days. Good luck.
+ELLIOTT	m	Alright.
+OLIVER	m	Okay? Thanks.
+ANDY	m	He remembers me.
+OLIVER	m	Hey. Look I'm so sorry... But I'm, I'm at your front door. I'm in New York.
+OLIVER	m	You, you're in LA?
+OLIVER	m	You said you were coming here?!
+ANNA	f	Yeah, but I didn't leave.
+OLIVER	m	Fuck. I'm in your building.
+ANNA	f	There is a hide-a-key behind it.
+OLIVER	m	Okay, I'm inside. Wow, there's like nothing here.
+ANNA	f	No.
+ANNA	f	Why do you leave everyone? Why did you let me go?
+HAL	m	Isn't Juan's hair wonderful.
+JUAN	m	Thanks. I use this great mousse.
+HAL	m	Well it's terrific.
+JUAN	m	Do you wanna try some?
+HAL	m	Oh, no.
+JUAN	m	Just a little bit?
+HAL	m	I don't think so.
+JUAN	m	Come on. Just try a little bit. It'll be fun.
+HAL	m	Yeah?
+JUAN	m	Yeah.
+HAL	m	How do you do it?
+JUAN	m	Okay, I'm going to show you how.
+JUAN	m	There.
+HAL	m	Is that it?
+HAL	m	How do I look?
+OLIVER	m	Great. You look great.
+JUAN	m	Oliver. He's gone.
+OLIVER	m	Hey.
+ANDY	m	Hey.
+OLIVER	m	Arthur...
+OLIVER	m	Thank you... Thanks.
+ANDY	m	It's cause I'm gay, isn't it?
+OLIVER	m	What?
+ANDY	m	You never called or came to see me?
+OLIVER	m	No. No, it's because my father loved you so much.
+OLIVER	m	Arthur... hey. Hey, how've you been?
+OLIVER	m	Hey.
+ANNA	f	Hey.
+OLIVER	m	Come in, come in.
+ANNA	f	The living room.
+ANNA	f	Dining room...
+ANNA	f	Oh. Crazy picture...
+OLIVER	m	Yeah.
+ANNA	f	Can I read it?
+OLIVER	m	Sure.
+ANNA	f	I'm looking for sex with the hope it turns into friendship or a relationship. But I don't insist on monogamy.
+OLIVER	m	Chest...
+ANNA	f	Chest? I like giving and, and what?
+OLIVER	m	I like giving and getting rubdowns and then going into mutual soft stuff.
+ANNA	f	I have a nice house with food, drinks, friends and me. If you are willing to try an older guy, let's meet and see what happens.
+ANNA	f	He didn't give up.
+OLIVER	m	What happens now?
+ANNA	f	I don't know.
+OLIVER	m	How does that work?
+

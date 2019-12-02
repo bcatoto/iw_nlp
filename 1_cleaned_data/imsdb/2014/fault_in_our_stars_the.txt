@@ -1,0 +1,968 @@
+HAZEL	f	I'm not depressed.
+FRANNIE	f	... she eats like a bird. She barely leaves the house,
+HAZEL	f	I'm not depressed.
+FRANNIE	f	... she reads the same book over and over...
+DOCTOR	m	She's depressed.
+HAZEL	f	I'm not depressed!
+HAZEL	f	The booklets and web sites always list depression as a side effect of cancer...
+HAZEL	f	Depression's not a side effect of cancer...
+HAZEL	f	... it's a side effect of dying.
+HAZEL	f	Which is what was happening to me.
+FRANNIE	f	... some days she won't even get out of bed.
+DOCTOR	m	I may switch you to Zoloft. Or Lexapro. And twice a day instead of once.
+HAZEL	f	Why stop there?
+DOCTOR	m	Hmm?
+HAZEL	f	Keep `em coming. I can take it. I'm like the Keith Richards of cancer kids.
+DOCTOR	m	Have you been going to that Support Group I suggested?
+FRANNIE	f	She's gone a few times.
+HAZEL	f	I'm not sure it's for me.
+DOCTOR	m	If you're depressed --
+HAZEL	f	I'm not de--
+DOCTOR	m	-- support Groups are a great way to connect with people who are...
+HAZEL	f	What?
+DOCTOR	m	On the same journey.
+HAZEL	f	"Journey?" Really?
+FRANNIE	f	Hazel.
+DOCTOR	m	Just give it a chance, ok? For me.
+DOCTOR	m	Who knows? You might even find it... enlightening.
+PATRICK	m	... we are gathered here today - literally - in the heart of Jesus.
+PATRICK	m	Who would like to share their story with the group?
+SPEAKER #1	m	Jillian. 15. Lymphoma.
+SPEAKER #2	m	Angel. 17. Ewing sarcoma.
+PATRICK	m	Patrick. 34. Testicular. It started a few years ago, when I was...
+PATRICK	m	Who else would like to share? Hazel?
+HAZEL	f	I'm, uh, Hazel. 16. Thyroid originally but with quite the impressive satellite colony in my lungs.
+PATRICK	m	And how are you doing Hazel?
+HAZEL	f	Alright? I guess...?
+PATRICK	m	Maybe now I'll play a song...
+FRANNIE	f	It's Friday night.
+HAZEL	f	Hmm?
+FRANNIE	f	I was just thinking... you should call your friends, see what they're up to.
+HAZEL	f	That's ok.
+MICHAEL	m	Wanna see a movie?
+HAZEL	f	Why don't you guys go to a movie? (off their look)
+HAZEL	f	You haven't been out in a while. Go. Have fun. Take the night off.
+MICHAEL	m	This is a really good show.
+HAZEL	f	Ugh. You can't make me.
+MICHAEL	m	Of course we can, we're your parents.
+MICHAEL	m	Hazel, you need to get out of the house. Make friends. Be a teenager.
+HAZEL	f	If you want me to be a teenager, don't send me to Support Group. Buy me a fake ID so I can go to clubs and drink gimlets and take pot.
+MICHAEL	m	You don't take pot.
+HAZEL	f	See, that's the kind of thing I would know with a fake ID.
+FRANNIE	f	Get in the car.
+HAZEL	f	Are you gonna sit here and wait the whole time?
+FRANNIE	f	Of course not, no. I... (she totally is) I have errands to run.
+HAZEL	f	Ok.
+FRANNIE	f	Love you.
+HAZEL	f	Love you too Mom.
+FRANNIE	f	Make some friends!
+HAZEL	f	I'll take the stairs.
+HAZEL	f	Excuse me.
+PATRICK	m	Who would like to begin?
+PATRICK	m	Isaac, I know you're facing a challenging time. Perhaps you would like to say something...
+ISAAC	m	Yeah, um... I'm Isaac. 17. Eye cancer. It's looking like another surgery in a couple weeks. After which, well, I'll be blind...
+ISAAC	m	Not that I'm complaining or anything. I know a lot of you have it way worse but, still, I mean, you know, being blind's gonna suck...
+ISAAC	m	...My girlfriend helps. And friends like Augustus here...
+ISAAC	m	So... yeah. That's what's up.
+PATRICK	m	And does your friend want to speak?
+GUS	m	Hi. I'm Augustus Waters. 17. Had a touch of osteosarcoma bout a year and a half ago - lost this baby as a result...
+GUS	m	But really I'm just here at Isaac's request.
+PATRICK	m	And how are you feeling Augustus?
+GUS	m	Me? Oh I'm grand. I'm on a roller coaster that only goes up, my friend.
+PATRICK	m	Perhaps you'd like to share your fears with the group, Augustus.
+GUS	m	My fears?
+GUS	m	Oblivion.
+PATRICK	m	Oblivion?
+GUS	m	Yeah, see... I intend to live an extraordinary life. To be remembered. If I'm scared of anything it's... not doing that.
+PATRICK	m	Would, uh, anyone like to speak to that?
+PATRICK	m	Hazel! That's unexpected.
+HAZEL	f	I just wanna say... there will come a time when, you know, all of us are dead.
+HAZEL	f	It might be tomorrow. Might be a million years from now but... it's gonna happen. And when it does, enough generations will come and go, there'll be no one left to remember Cleopatra. Or Mozart. Or Muhammad Ali, let alone any of us, right?
+HAZEL	f	Oblivion's inevitable. And if that scares you, well, I suggest you ignore it. God knows it's what everyone else does.
+GUS	m	Literally.
+GUS	m	I thought we were in a church basement but apparently we were literally in the heart of Jesus.
+HAZEL	f	Someone should probably tell him, don't you think? Jesus? Seems kinda dangerous keeping all these kids with cancer in your heart.
+GUS	m	What's your name?
+HAZEL	f	Hazel.
+GUS	m	No your full name?
+HAZEL	f	Hazel Grace Lancaster.
+HAZEL	f	What?
+GUS	m	I didn't say anything.
+HAZEL	f	Why are you looking at me like that?
+GUS	m	Because you're beautiful.
+GUS	m	I enjoy looking at beautiful people and I decided a while back not to deny myself the simpler pleasures of existence. Particularly given that, as you so astutely pointed out, we're all gonna die pretty soon.
+HAZEL	f	I'm not beaut --
+YOUNG GIRL	f	Hey Gus.
+GUS	m	Hey Alisa.
+HAZEL	f	What's with the "always?"
+GUS	m	"Always" is their thing. They'll "always" love each other and whatnot. Must have texted "always" to each other at least four million times this year.
+HAZEL	f	He's gotta be hurting her boob.
+GUS	m	Let's watch a movie.
+HAZEL	f	Oh. Um. Uh... (yes!) Sure. Yeah. I'm... pretty free this
+GUS	m	No I mean now.
+HAZEL	f	What?
+GUS	m	Hmm?
+HAZEL	f	What do you mean "now?"
+GUS	m	I've got a car.
+HAZEL	f	You could be an axe murderer.
+GUS	m	There is that possibility. Come on Hazel Grace... take a risk.
+HAZEL	f	Oh my god. Oh. My. God. You're kidding right? (off his look) You just ruined the whole thing!
+GUS	m	Whole thing?
+HAZEL	f	What, you think that's cool? Oh you idiot! There's always a hamartia, isn't there? And yours is - even though you had FREAKING CANCER you give money to a corporation for the chance to acquire EVEN MORE CANCER!? Ugh. And you were doing so well.
+HAZEL	f	Let me tell you... not being able to breathe? Sucks. Totally sucks.
+GUS	m	Hamartia?
+HAZEL	f	A fatal flaw.
+GUS	m	They don't hurt you unless you light them.
+HAZEL	f	Sorry?
+GUS	m	I've never lit one.
+GUS	m	It's a metaphor. See? You put the thing that kills you between your teeth. But you don't give it the power to do the killing.
+HAZEL	f	Metaphor.
+FRANNIE	f	Hi sweetheart. Ready for some "Model?"
+HAZEL	f	Can't tonight. (off her confused look) I've made plans with Augustus Waters.
+GUS	m	I failed the test a couple times.
+HAZEL	f	You don't say.
+GUS	m	Most amputees can drive with no problem but... yeah. Not me.
+HAZEL	f	I'm surprised you have a license.
+GUS	m	Tell me about it!
+GUS	m	The fourth time I took the test... it was going about how this is going... and when it was over, the instructor looks at me and goes, "your driving, while unpleasant... is not technically unsafe."
+HAZEL	f	Aha. Cancer perk.
+GUS	m	Total cancer perk.
+GUS	m	So what happened to you?
+HAZEL	f	I was 13 when they found it.
+FRANNIE	f	(through the tears) Are you ready, sweetie?
+HAZEL	f	Tumors shrank, my mets have hardly grown since...
+HAZEL	f	Of course my lungs still suck but, theoretically, they could continue to suck in just this way for, I dunno, a while maybe.
+GUS	m	Wow.
+HAZEL	f	Yeah.
+GUS	m	So are you back in school or...?
+HAZEL	f	Can't.
+GUS	m	Why not?
+HAZEL	f	Got my GED.
+GUS	m	A college girl! Well that explains the aura of sophistication...
+GUS	m	We're here.
+GUS	m	My parents call them "encouragements." (rolling his eyes) Don't ask.
+GUS	m	Hey guys.
+GUS'S MOM	f	Augustus, hi. New friend?
+GUS	m	This is Hazel Grace.
+HAZEL	f	It's just... Hazel.
+GUS'S DAD	m	How's it going, Just Hazel?
+GUS	m	Downstairs if you need us!
+HAZEL	f	Nice to meet you!
+GUS	m	I used to play.
+HAZEL	f	Must have been pretty good.
+GUS	m	These are mine. And these. The rest of it's just cancer perks.
+HAZEL	f	Need to sit.
+HAZEL	f	Don't get any ideas. (catching her breath) All that standing... and stairs... and then more standing... lotta standing for me.
+GUS	m	I understand.
+HAZEL	f	I'll be fine in a minute. Unless I faint. I'm a bit of a Victorian lady, fainting-wise.
+GUS	m	You ok?
+GUS	m	So what's your story?
+HAZEL	f	I already told you my story. I was
+GUS	m	Not your cancer story. Your story. Interests, hobbies, passions, weird fetishes...
+HAZEL	f	Um...
+GUS	m	Don't tell me you're one of those people who becomes their disease.
+HAZEL	f	No. I'm just... I don't know... un- extraordinary.
+GUS	m	I reject that out of hand. (beat, Hazel shrugs) Think of something you love. First thing that comes to mind.
+HAZEL	f	"An Imperial Affliction."
+GUS	m	Ok. What's that?
+HAZEL	f	It's a novel. My favorite novel.
+GUS	m	Does it have zombies?
+HAZEL	f	What? No.
+GUS	m	Stormtroopers.
+HAZEL	f	Seriously? It's not that kind of book.
+GUS	m	Sounds horrible.
+HAZEL	f	It's not, it's... kind of my bible actually.
+GUS	m	Interesting. What's it about?
+HAZEL	f	Cancer. (off his look) But not in that way, trust me. The guy who wrote it, Peter Van Houten, he's... well, the only person I've ever come across who seems to a) understand what it's like to be dying and b) not have died.
+GUS	m	In that case... I am going to read this horrible book with the boring title that does not contain zombies or stormtroopers. And in exchange...
+GUS	m	... all I ask is that you read this brilliant and haunting novelization of my favorite video game.
+GUS	m	Your hands are cold.
+HAZEL	f	Not so much cold as under- oxygenated.
+GUS	m	Ooh Hazel Grace... I love it when you talk medical to me.
+FRANNIE	f	That's different.
+FRANNIE	f	Did he give it to you?
+HAZEL	f	By "it" do you mean herpes?
+FRANNIE	f	I'm sure he'll call, don't worry.
+HAZEL	f	I'm not worried. Please. It's not like I'm waiting for him to call or anything. I just... we hung out. No big deal.
+MICHAEL	m	Would you like to be excused?
+HAZEL	f	Welcome to the sweet torture of reading "An Imperial --"
+HAZEL	f	What the -- are you ok?
+GUS	m	I am, however, with Isaac. Dude! Hey! Does Support Group Hazel make this better or worse?
+GUS	m	Isaac! Focus. On. Me. How fast can you get here?
+GUS	m	(calling to Isaac) Isaac, Hazel from Support Group is coming downstairs.
+GUS	m	A gentle reminder: Isaac is in the midst of a psychotic episode. You look nice, by the way.
+HAZEL	f	How ya doing Isaac?
+GUS	m	Seems Isaac and Monica are no longer a going concern.
+HAZEL	f	Oh I'm sorry. Do you want to talk about it?
+GUS	m	He just wants to cry and play video games.
+HAZEL	f	Fair enough.
+GUS	m	It doesn't hurt to talk to him, however. If you have any sage words of feminine advice...
+HAZEL	f	I actually think his response is appropriate.
+GUS	m	"Pain demands to be felt."
+HAZEL	f	(lights up at that) You're quoting my book!
+ISAAC	m	She didn't want to do it after the surgery. Said she couldn't handle it. I'm about to lose my eyesight and she can't handle it.
+ISAAC	m	I kept saying "always" to her. Always, always, always. And she just kept talking over me and not saying it back. It was like I was already gone, you know? "Always" was a promise! You can't break promises.
+HAZEL	f	Sometimes people don't understand the promises they're making when they make them.
+ISAAC	m	Right, sure, but you keep the promise anyway. That's what love is. Love is keeping the promise anyway.
+GUS	m	That could be an "encouragement."
+GUS	m	Isaac...?
+GUS	m	Here we go...
+GUS	m	That's it! Punch that thing.
+GUS	m	I've been wanting to call you on a nearly minutely basis but I have been waiting until I could form a coherent thought in re: "An Imperial Affliction." I can't stop thinking about it.
+HAZEL	f	I know, right?
+GUS	m	The only problem is the ending.
+HAZEL	f	It is rather abrupt.
+GUS	m	It's torture! I mean, I totally get that she died or whatever - Anna. But there is an unwritten contract between author and reader and I think ending your book in the middle of a sentence kind of violates that contract.
+HAZEL	f	But that's part of what I like about it. It portrays death truthfully. You die in the middle of your life, in the middle of a sentence. But I do - God, I do want to know what happens to everyone else.
+GUS	m	Yeah like her Mom.
+HAZEL	f	The Dutch Tulip Man...
+GUS	m	Sysiphus the Hamster...
+GUS	m	Have you tried contacting this... Peter Van Houten?
+HAZEL	f	I've written letters. He's never responded. Apparently he moved to Amsterdam, became a recluse. Hasn't published anything. Doesn't do interviews.
+GUS	m	Sad. Hang on. (turns to Isaac) Isaac!
+GUS	m	Pillows don't break.
+GUS	m	You need to break something.
+GUS	m	Go to town, my friend.
+GUS	m	I've been looking for a way to tell my Dad that I kinda hate basketball. Think maybe we've found it.
+GUS	m	Feel better?
+GUS	m	That's the thing about pain... it demands to be felt.
+FRANNIE	f	Dr. Maria called today. The PET Scan is set for the eighth.
+FRANNIE	f	I told you Support Group was a good idea.
+MICHAEL	m	By all means.
+GUS	m	Hazel Grace.
+HAZEL	f	Hello Augustus.
+GUS	m	So I read it again. And I just kept feeling like... like it was a gift. Like you'd given me something important.
+HAZEL	f	You're welcome.
+GUS	m	On the other hand... we need closure, don't we?
+HAZEL	f	What we need is a sequel.
+GUS	m	Yes. We need to know what happens to Anna's family after she dies.
+HAZEL	f	That's what I kept asking Van Houten for in my letters.
+GUS	m	But he never wrote back.
+HAZEL	f	That's correct.
+GUS	m	Because he's a recluse.
+HAZEL	f	Yeee-up.
+GUS	m	Utterly unreachable.
+HAZEL	f	Unfortunately so.
+GUS	m	"Dear Mr. Waters... I am writing to thank you for your electronic correspondence received this 6th of April.
+GUS	m	"I am grateful to anyone who sets aside the time to read my book..."
+HAZEL	f	Augustus!?
+GUS	m	I found his assistant. I emailed her. She must have forwarded it to him. (Hazel is stunned) Shall I continue?
+HAZEL	f	Keep reading, keep reading!
+GUS	m	"I am particularly indebted to you, sir, both for your kind words about `An Imperial Affliction' and for taking the time to tell me that the book, and here I quote you directly, `meant a great deal' to you."
+GUS	m	"To answer your question: No, I have not written anything else, nor will I. I do not feel that continuing to share my thoughts with readers would benefit either them or me. However thank you again for your generous email. Yours most sincerely, Peter Van Houten.
+HAZEL	f	You're making this up?
+GUS	m	Hazel Grace, could I, with my meager intellectual capabilities, make up a letter from the great Peter Van Houten?
+HAZEL	f	Holy hell.
+GUS	m	Indeed.
+HAZEL	f	Can I... would you mind...
+GUS	m	Go check your in-box.
+HAZEL	f	"I know these are not important literary questions and that your book is full of important literary questions, but I would just really like to know."
+HAZEL	f	(reading it aloud to him) "And of course, if ever you do decide to write anything else, even if you don't want to publish it, I'd love to read it. Frankly, I'd read your grocery lists. Yours with great admiration, Hazel Grace Lancaster. Age 16."
+GUS	m	Not bad.
+HAZEL	f	You think?
+GUS	m	Bit pretentious. But then again, Van Houten uses words like "tendentious" and... "bacchanalia" so I think he'll like it.
+HAZEL	f	Is it really almost 1?
+GUS	m	Guess so.
+HAZEL	f	I gotta get to sleep.
+GUS	m	Ok...
+HAZEL	f	Ok...
+GUS	m	Ok...
+HAZEL	f	Ok...
+GUS	m	Perhaps "ok" will be our "always."
+HAZEL	f	Ok.
+GUS	m	Ok.
+HAZEL	f	Ok.
+ISAAC	m	She hasn't even visited. Fourteen months we were together. What kind of person...
+ISAAC'S NURSE	f	You'll get over her Isaac. Just takes a little time. You'll see.
+ISAAC	m	Is she gone?
+HAZEL	f	Yeah.
+ISAAC	m	Did she really just say "you'll see?"
+HAZEL	f	(shakes her head) Qualities of a Good Nurse. Go.
+ISAAC	m	Doesn't pun your disability.
+HAZEL	f	Gets blood on the first try.
+ISAAC	m	That is huge. I mean, seriously, is this my freakin' arm or a dartboard? Three - no condescending voice.
+HAZEL	f	(lays it on thick) "I'm gonna stab you with this needle now, so there might be a little ouchie."
+HAZEL	f	You doing alright, Isaac?
+ISAAC	m	I don't know. To be honest, I think a hell of a lot more about Monica than my eye. Is that crazy? That's crazy.
+HAZEL	f	It's a little crazy.
+ISAAC	m	But I believe in love, you know? I don't believe that everybody gets to keep their eyes or not get sick or whatever, but everybody should have true love. Don't you think?
+ISAAC	m	Gus was here earlier.
+HAZEL	f	(trying to be nonchalant) Was he?
+ISAAC	m	Mmm... that's better.
+HAZEL	f	The pain? (off his slow nod) Good. Good, Isaac. (Isaac closes his eyes) What about Gus?
+HAZEL	f	Holy shit! "Dear Ms. Lancaster... I cannot answer your questions, at least not in writing, because to do so would constitute a sequel, which you might publish or otherwise share on the internet. Not that I don't trust you, but how could I trust you, I barely know you."
+HAZEL	f	"Should ever you find yourself in Amsterdam, do pay a visit at your leisure. Yours most sincerely, Peter Van Houten" Son of a - WHAT
+FRANNIE	f	What's wrong?!
+HAZEL	f	(realizing she scared her) Nothing. Sorry.
+FRANNIE	f	Nothing?
+HAZEL	f	Everything! Look!
+HAZEL	f	Can we go to Amsterdam? Please?
+FRANNIE	f	Hazel, I... I love you and... you know I'd do anything for you, but we don't... We don't have the money. The expense of getting equipment over there - love, it's just not possible...
+HAZEL	f	No, yeah, of course.
+FRANNIE	f	I mean, I could talk to your father
+HAZEL	f	Mom, no. Please. Don't do anything. Forget I mentioned it.
+GUS	m	Just use your wish.
+HAZEL	f	I've used it already. Pre- "Miracle."
+GUS	m	What'd you do?
+GUS	m	Not Disney.
+HAZEL	f	I was 13...
+GUS	m	Tell me you did not go to Disney World. (Hazel looks away) Hazel Grace! You did not use your one dying Wish to go to Disney World!
+HAZEL	f	And Epcot Center.
+GUS	m	(hands in the air) Oh my God!
+HAZEL	f	We had fun on that trip.
+GUS	m	That is the saddest thing I've ever heard!
+HAZEL	f	I met Goofy...
+GUS	m	Now I'm embarrassed.
+HAZEL	f	Why are you embarrassed?
+GUS	m	How can I have a crush on a girl with such cliche wishes?
+HAZEL	f	Wait, what?
+GUS	m	What?
+MICHAEL	m	Is that a Rik Smits jersey?
+GUS	m	It is indeed.
+MICHAEL	m	Man, I loved that guy.
+HAZEL	f	Gus?
+GUS	m	Hi Hazel. How would you like to go on a picnic?
+FRANNIE	f	Something to drink?
+GUS	m	I'm great Mrs. Lancaster.
+MICHAEL	m	You're a survivor yourself?
+GUS	m	(taps his leg) Didn't cut this fella off for the hell of it. Though it is an excellent weight-loss strategy. Legs are heavy!
+MICHAEL	m	How's your health now?
+GUS	m	N-E-C for fourteen months.
+MICHAEL	m	That's fantastic.
+GUS	m	I'm very lucky.
+MICHAEL	m	Son, you have to understand... Hazel's still pretty sick. She will be the rest of her life.
+MICHAEL	m	She'll want to keep up with you - she's that kind of girl - but the truth is, her lungs --
+HAZEL	f	You ready Gus?
+HAZEL	f	Is this where you bring all your romantic conquests?
+GUS	m	Every last one. Probably why I'm still a virgin.
+HAZEL	f	You're not a virgin. (off his look) Are you really?
+GUS	m	See this? This circle is virgins...
+GUS	m	And this... is 17 year old dudes with one leg.
+GUS	m	"Funky Bones" by Joep Van Lieshout.
+HAZEL	f	He sounds Dutch.
+GUS	m	And he is. Much like Rik Smits. And tulips.
+GUS	m	Sandwich?
+HAZEL	f	Let me guess --
+GUS	m	Dutch cheese. And tomato. (she takes one) The tomatoes are Mexican. Sorry.
+GUS	m	How cool is that? A skeleton being used as a playground.
+HAZEL	f	You do love your symbols.
+GUS	m	Speaking of which...
+GUS	m	You're probably wondering why you're sitting here eating a bad cheese sandwich and drinking orange juice with a guy in a Rik Smits jersey.
+HAZEL	f	It has crossed my mind.
+GUS	m	Hazel Grace, like so many before you - and I say this with great affection - you spent your Wish... moronically.
+HAZEL	f	I was thir--
+GUS	m	Hush! I'm in the midst of a grand soliloquy here.
+HAZEL	f	Sorry. Please, continue...
+GUS	m	You were young. Impressionable. The Grim Reaper staring you in the face. And the fear of dying with your one true Wish left ungranted led you to rush into making one you didn't really want, for how could little Hazel Grace, having never read "An Imperial Affliction" ever know that her one TRUE wish was to visit Mr. Peter Van Houten in his Amsterdamian exile.
+GUS	m	If you were smart, you would have saved your wish til the time in your life when you really knew your true self.
+HAZEL	f	But I... didn't save it.
+GUS	m	Good thing I saved mine.
+GUS	m	Got it in exchange for the leg. And I still have it.
+HAZEL	f	Are you saying --
+GUS	m	I'm not gonna give you my Wish or anything. But I too have an interest in meeting Peter Van Houten and it wouldn't make much sense to meet him without the girl who introduced me to his book, now would it? (Hazel's eyes widen) I talked to the Genies and they're in total agreement. We leave on May third.
+HAZEL	f	Wait a minute. Are you only doing this so I'll kiss you?
+HAZEL	f	Cause I'd totally kiss you either way.
+HAZEL	f	Seriously... why are you doing this?
+GUS	m	Because Hazel Grace... I found my Wish.
+FRANNIE	f	Are you out of your mind?
+FRANNIE	f	It's too much, Haze. We can't accept something like that from a virtual stranger.
+HAZEL	f	He's not a stranger.
+FRANNIE	f	Really?
+HAZEL	f	Don't be gross.
+FRANNIE	f	It's still "no," I'm afraid.
+HAZEL	f	Can we at least ask Dr. Maria?
+HAZEL	f	You said the PET scan was encouraging!
+HAZEL	f	They have doctors in Amsterdam. And cancer. Someone will know what to do.
+HAZEL	f	(turns to her Mom) So you'll come too.
+FRANNIE	f	What?
+HAZEL	f	The Genies can hook it up. They're loaded.
+HAZEL	f	You've never been to Amsterdam, have you Mom?
+HAZEL'S NURSE	f	Hello.
+HAZEL	f	Hi.
+HAZEL'S NURSE	f	You're ok, Hazel.
+HAZEL'S NURSE	f	Would you like to see your parents?
+FRANNIE	f	They thought it was a brain tumor.
+MICHAEL	m	It wasn't - thank god --
+HAZEL	f	So what happened?
+FRANNIE	f	The usual. Fluid in the lungs, preventing oxygenation. They put that in...
+FRANNIE	f	Drained a liter and a half last night.
+MICHAEL	m	The good news is... no tumor growth. No new tumors in your body.
+MICHAEL	m	We're all so relieved.
+FRANNIE	f	This is just a thing Hazel. It's a thing we can live with.
+GUS	m	Mr. Lancaster! How's she doing?
+MICHAEL	m	Better, thank you. Much better.
+GUS	m	They won't let me in. Family only.
+MICHAEL	m	I'm sorry --
+GUS	m	No I get it. Will you just... will you tell her I was here?
+MICHAEL	m	Of course I will.
+MICHAEL	m	Gus.
+MICHAEL	m	Why don't you go home, get some rest?
+ONCOLOGIST #1	?	The great news is... Phalanxifor continues to control your tumor growth. The not so great news is we're still seeing serious problems with fluid accumulation. So how should we proceed?
+HAZEL	f	Um, I feel like I'm not the most qualified person to answer that.
+ONCOLOGIST #1	?	I was talking to Dr. Simmons.
+MICHAEL	m	So we're gonna do nothing?
+HAZEL	f	Can't I just get like a lung transplant or something?
+FRANNIE	f	(through the tears) Are you ready, sweetie?
+FRANNIE	f	I won't be a mom anymore.
+HAZEL	f	I have a question.
+HAZEL	f	Can I still go to Amsterdam?
+HAZEL	f	Why not?
+HAZEL	f	Why not, Dr. Simmons?
+HAZEL	f	So does going to the mall --
+HAZEL	f	They have oxygen on airplanes.
+HAZEL	f	It's my life, right?
+HAZEL	f	I have this opportunity I may never have again. If the medicine's working, I don't see why -- Look, I don't know any other way to say this... You're just too sick.
+FRANNIE	f	We'll be right outside.
+MICHAEL	m	Gus again.
+MICHAEL	m	I'm sorry Gus, she's asleep.
+HAZEL	f	Hi Augustus.
+HAZEL	f	Kind of.
+HAZEL	f	I don't know. I want to go to Amsterdam. And I want him to tell us what happens after the book and I don't want my particular life and also the sky is making me sad and there's this old swing set that my Dad made for me when I was a kid. It's just... everything.
+GUS	m	I see your point. That is one sad swing set.
+HAZEL	f	Thanks for coming over.
+GUS	m	You do realize... trying to keep your distance from me will in no way lessen my affection for you.
+GUS	m	All efforts to save me from you will fail.
+GUS	m	Is this about Amsterdam? Cause we
+HAZEL	f	It's not about Amsterdam. It's about me. It's about...
+GUS	m	Grenades.
+GUS	m	I get it. One day you're going to explode in a huge ball of fire and everyone close to you will die in your wake.
+HAZEL	f	Exactly.
+GUS	m	There's already two people in your life you're going to destroy. Why add a third to that list. Am I right?
+HAZEL	f	That's why I don't have a hamster.
+GUS	m	We have got to do something about this frigging swing set.
+HAZEL	f	"Swing Set Needs Home."
+GUS	m	"Desperately Lonely Swing Set Needs Loving Home."
+HAZEL	f	"Lonely, Vaguely Pedophilic Swing Set Seeks Butts of Children."
+HAZEL	f	No?
+GUS	m	That's why.
+GUS	m	In case you were wondering... that's why I like you. (beat, off her look) You're so busy being you that you have no idea how utterly unprecedented you are.
+GUS	m	Friendly.
+ISAAC	m	Do you like him?
+HAZEL	f	Of course I like him.
+ISAAC	m	But you don't want to hook up with him?
+HAZEL	f	It's complicated.
+HAZEL	f	Mom?
+HAZEL	f	Mom!
+FRANNIE	f	What is it, what's wrong?!
+HAZEL	f	Sorry, I... I didn't know you were in the shower.
+FRANNIE	f	Bath. I was just... just trying to take a bath for five seconds. What's the matter?
+HAZEL	f	Did you ever call the Genies to tell them the trip is off? I just got an email from Peter Van Houton's assistant. She still thinks we're coming.
+HAZEL	f	What?
+FRANNIE	f	I'm not supposed to tell you until your father gets home. We're going to Amsterdam.
+HAZEL	f	(still not believing) Really...
+FRANNIE	f	Dr. Maria called last night and made a convincing case that you need to live --
+FRANNIE	f	I'm getting back in the tub now.
+HAZEL	f	(whispering to her lungs) One week, lungs. Keep your shit together one more week...
+HAZEL	f	Amsterdam!
+FRANNIE	f	Amsterdam!
+MICHAEL	m	Amsterdam!
+MICHAEL	m	I love you. I'm so proud of you.
+HAZEL	f	For what?
+HAZEL	f	Mom?
+FRANNIE	f	We can't eavesdrop, Hazel.
+GUS	m	Always a pleasure to see you ma'am. Hello, Hazel Grace.
+HAZEL	f	Ok...?
+GUS	m	Ok.
+HAZEL	f	Ok.
+FRANNIE	f	Amsterdam!
+HAZEL	f	(with some difficulty) Amsterdam!
+HAZEL	f	Oh that's not necessary.
+LITTLE GIRL	f	What's in your nose?
+HAZEL	f	It's called a Cannula. These tubes give me oxygen and help me breathe.
+GIRL'S MOTHER	f	Jackie... Oh, I'm sorry.
+HAZEL	f	No, no. It's alright.
+LITTLE GIRL	f	Would they help me breathe too?
+HAZEL	f	I dunno. Wanna try?
+LITTLE GIRL	f	Tickles.
+HAZEL	f	Right?
+LITTLE GIRL	f	I think I'm breathing better.
+HAZEL	f	Well... I'd love to give you my cannula but... I kinda really need the help.
+LITTLE GIRL	f	Thanks for letting me try it.
+HAZEL	f	I think that's us.
+HAZEL	f	Have you never been on a plane before?
+FLIGHT ATTENDANT	m	Sir, you can't smoke on this plane. Or... any plane.
+GUS	m	(cigarette in his mouth) I don't smoke.
+HAZEL	f	It's a metaphor. He puts the killing thing in his mouth but doesn't give it the power to kill him.
+FLIGHT ATTENDANT	m	That metaphor is prohibited on today's flight.
+PA SYSTEM	m	"Flight attendants, prepare for departure."
+HAZEL	f	Ok?
+HAZEL	f	This is what it feels like to ride in a car with you.
+GUS	m	We're flying! Look!
+GUS	m	Holy -- look at that?! NOTHING HAS
+FRANNIE	f	(not looking up from her
+MAGAZINE)	?	Just so you know, I'm right here. Sitting next to you. Your mother.
+HAZEL	f	We're just friends, Mom.
+GUS	m	She is. I'm not.
+CAB DRIVER	m	Americans?
+FRANNIE	f	We're from Indiana.
+CAB DRIVER	m	Indiana. They steal from the Indians but the keep the name, yes?
+HAZEL	f	Something like that.
+HAZEL	f	(to the Driver) This is Amsterdam?
+CAB DRIVER	m	Yes and no. Amsterdam is like the rings of a tree. It gets older as you get closer to the center.
+GUS	m	I'll be right down the hall.
+HAZEL	f	Good morning.
+FRANNIE	f	Actually, it's five o'clock.
+HAZEL	f	How was the park?
+FRANNIE	f	Never made it.
+HAZEL	f	Mom!
+FRANNIE	f	What? I like watching you sleep.
+FRANNIE	f	I promise I'll do crazy Mom stuff tonight while you and Gus are at dinner.
+HAZEL	f	What do you mean?
+FRANNIE	f	You have reservations at a place called Oranjee. Mr. Van Houten set it up. Very fancy according to the Book. And romantic.
+HAZEL	f	Mom...
+FRANNIE	f	I'm just saying...
+HAZEL	f	A 16 year old girl running free with an older boy on the streets of a foreign city famous for its vice and debauchery... is totally cool with you. Is that what you're saying?
+FRANNIE	f	(beat, excited) Let's get you dressed!
+FRANNIE	f	(calling to the bathroom) Hazel! Gus is here. Looking sharp.
+GUS	m	Thank you ma'am.
+GUS	m	Wow.
+HAZEL	f	Am I under-dressed?
+GUS	m	You look gorgeous.
+HOSTESS	f	Your table, Mr. And Mrs. Waters.
+HOSTESS	f	The champagne is our gift.
+GUS	m	Ok.
+HAZEL	f	Ok.
+HAZEL	f	Wow that's good.
+WAITER	m	Do you know what Dom Perignon said after he invented champagne? `Come quickly,' he said. `I am tasting the stars!'
+WAITER	m	Welcome to Oranjee. Would you like a menu or will you have the chef's choice?
+GUS	m	The chef's choice sounds lovely. (the Waiter nods) And can we get more of this?
+WAITER	m	We have bottled all the stars for you this evening, my young friends.
+GUS	m	Thank you for coming to Amsterdam.
+HAZEL	f	Thank you for letting me hijack your wish.
+GUS	m	Thank you for wearing that dress which is like whoa.
+WAITER	m	Belgian white asparagus with a lavender infusion.
+HAZEL	f	Oh my god.
+GUS	m	Yeah?
+HAZEL	f	I mean...
+GUS	m	That is just...
+HAZEL	f	There are no words.
+GUS	m	We don't speak Dutch!
+ANOTHER LOCAL	m	She says, "the beautiful couple is beautiful!"
+GUS	m	I want this dragon carrot risotto to become a person so I can take it to Vegas and marry it.
+HAZEL	f	I like your suit.
+GUS	m	Thanks. First time wearing it.
+HAZEL	f	That isn't the suit you wear to funerals?
+GUS	m	Oh no. That one's not nearly this nice. (off her look) When I first found out I was sick - I mean, they told me I had like an 85% chance to be cancer-free. Great odds, sure. But that meant a year of torture, the loss of my leg, and still a 15% chance it might fail. So right before the surgery I asked my parents if I could buy a suit, like a really nice suit, just in case I didn't make it.
+HAZEL	f	It's your death suit.
+GUS	m	That's what it is.
+HAZEL	f	I have one of those. Bought it for my 15th birthday. Don't think I'd wear it on a date, though.
+GUS	m	Are we on a date?
+HAZEL	f	(cocks her head) Watch it.
+GUS	m	God?
+HAZEL	f	Maybe.
+GUS	m	Angels?
+HAZEL	f	Undecided.
+GUS	m	Afterlife?
+HAZEL	f	No. Well... Maybe I wouldn't go so far as to say no. I just... I'd like some evidence. What do you think?
+GUS	m	Absolutely.
+HAZEL	f	Really?
+GUS	m	Oh for sure. I mean, not like a heaven where you ride unicorns, play harps, and live in a mansion made of clouds but, yeah, I believe in something.
+GUS	m	Something becomes of us. It has to. Otherwise what's the point?
+HAZEL	f	Maybe there is no point.
+GUS	m	I refuse to accept that. I won't accept it.
+HAZEL	f	I hope you're right.
+GUS	m	I'm in love with you.
+GUS	m	You heard me.
+GUS	m	I'm in love with you. And I know that love is just a shout into the void, and that oblivion is inevitable, and that we're all doomed and that there will come a day when all our labor has been returned to dust, and I know the sun will swallow the only earth we'll ever have, and I am in love with you. (shrugs, matter-of-fact) Sorry.
+WAITER	m	More stars?
+GUS	m	Just the check, please.
+WAITER	m	No, sir. Your meal has been paid for by Mr. Van Houten.
+FRANNIE	f	I really don't get that shirt.
+HAZEL	f	Van Houten will get it. Trust me. There are like fifty Magritte references in "Imperial Affliction."
+FRANNIE	f	"This is not a pipe."
+HAZEL	f	Exactly.
+FRANNIE	f	But it is a pipe.
+HAZEL	f	No it's not. It's a drawing of a pipe. See? All representations of a thing are inherently abstract. A drawing of a thing is not the thing itself. Nor is a t-shirt of a drawing of a thing the thing itself.
+FRANNIE	f	When did you get so grown up? I feel like it was yesterday I was telling 8-year old Hazel why the sky was blue. You thought I was a genius back then.
+HAZEL	f	Why is the sky blue?
+FRANNIE	f	Because I say so.
+GUS	m	Who's ready for some answers!
+HAZEL	f	I'm so excited I can barely breathe.
+GUS	m	As opposed to other days...?
+GUS	m	Maybe he can't hear over the music?
+GUS	m	Mr. Van Houten? Who the hell's "they?"
+VAN HOUTEN	m	Which of you is Augustus Waters?
+LIDEWIJ	f	Please. I am sorry. Come in.
+HAZEL	f	Trash?
+LIDEWIJ	f	Fan mail. 18 years worth. He never opens it.
+VAN HOUTEN	m	Yours are the first missives to which I've replied and look where that got me.
+VAN HOUTEN	m	Scotch?
+HAZEL	f	Um, no thanks.
+VAN HOUTEN	m	Augustus Waters?
+GUS	m	It's 11am.
+VAN HOUTEN	m	Just me then, Lidewij. Scotch and soda.
+LIDEWIJ	f	Perhaps some breakfast first Peter?
+VAN HOUTEN	m	She thinks I have a drinking problem.
+LIDEWIJ	f	I also think the Earth is round.
+VAN HOUTEN	m	So you like my book.
+HAZEL	f	Yes. We - well, Augustus, he made meeting you his Wish so that we could come here and talk to you.
+VAN HOUTEN	m	Did you dress like her on purpose?
+HAZEL	f	(looks at her shirt) Kinda.
+VAN HOUTEN	m	I do not have a drinking problem. I have a Churchillian relationship with alcohol: I can crack jokes and govern England and do anything I want to do. Except not drink.
+GUS	m	Incidentally, thank you for dinner last night.
+VAN HOUTEN	m	We bought them dinner last night?
+LIDEWIJ	f	It was our pleasure.
+VAN HOUTEN	m	You've come a long way so... what is it I can do for you?
+HAZEL	f	We have some questions --
+VAN HOUTEN	m	Uh-huh...
+HAZEL	f	About what happens, you know... after... the end of your book. Specifically to those who Anna leaves behind. Like her Mom, the Dutch Tulip Man, Sisy --
+VAN HOUTEN	m	How familiar are you with Swedish hip-hop?
+HAZEL	f	I would say... limited?
+VAN HOUTEN	m	But presumably you know Afasi Och Filthy's seminal album "Flacken."
+GUS	m	Um...
+VAN HOUTEN	m	Lidewij! Play `Bomfalleralla' immediately.
+HAZEL	f	(yelling over the music) I'm sorry, sir. We don't speak Swedish.
+VAN HOUTEN	m	Who the hell speaks Swedish? The important thing is not what nonsense the voices are saying, but what the voices are feeling.
+GUS	m	Are you messing with us?
+VAN HOUTEN	m	Pardon?
+GUS	m	Is this some kind of performance?
+VAN HOUTEN	m	Rudolf Otto said that if you had not encountered the numinous then his work was not for you. And I say to you, my friends, if you cannot hear Afasi Och Filthy's bravadic response to fearfulness, then my work is not for you.
+HAZEL	f	So anyway... when the book ends, Anna's mom --
+VAN HOUTEN	m	(raising a hand to silence
+HER)	?	Let us imagine that you are racing a tortoise.
+VAN HOUTEN	m	The tortoise has a ten yard head start. In the time it takes you to run ten yards, the tortoise has moved maybe one yard. And so on, forever.
+VAN HOUTEN	m	I assume that answers your questions.
+GUS	m	I don't know what's going on.
+VAN HOUTEN	m	And yet you seemed so intelligent in print, Mr. Waters. (under his breath) Must be all that cancer in your brain.
+LIDEWIJ	f	Peter!
+HAZEL	f	Can we please, maybe, talk about Anna for a sec? I mean, I understand that the story ends mid- sentence because she dies or she becomes too sick to continue --
+VAN HOUTEN	m	I'm not interested in talking about that book.
+HAZEL	f	- but that doesn't mean her family and everyone she loves doesn't have a future, right?
+VAN HOUTEN	m	I said I'm not interested --
+HAZEL	f	But you promised!
+HAZEL	f	Mr. Van Houten, you said you would tell us what happens and that's why we're here. We... I need you tell me. Surely you've thought about it. I mean, as characters --
+VAN HOUTEN	m	Nothing happens to them! They're fictions. They cease to exist the moment the novel is over.
+HAZEL	f	They can't! (again, has to calm
+HERSELF)	?	I mean, I understand. In a literary sense. But it's impossible NOT to imagine some future --
+VAN HOUTEN	m	I can't do this. Lidewij, get rid of them, please. (Lidewij doesn't move, he turns back to Hazel) I won't indulge your childish whims. I refuse to pity you in the manner in which you're accustomed.
+HAZEL	f	I don't want your pity --
+VAN HOUTEN	m	Of course you do. Like all sick kids, your existence depends on it.
+LIDEWIJ	f	Peter!
+VAN HOUTEN	m	(on a roll) You are fated to live out your days as the child you were when diagnosed, the child who believes there is life after a novel ends. And we, as adults, we pity this, so we pay for your treatments, for your oxygen machines. We give you food and water though you are unlikely to live long enough --
+VAN HOUTEN	m	You are a side effect of an evolutionary process that cares little for individual lives.
+HAZEL	f	Hey listen douchepants. You're not gonna tell me anything I don't already know about illness. I need one thing and one thing only from you before I walk out of your life and that's for you to tell me what happens to your goddman characters!
+VAN HOUTEN	m	I cannot tell you.
+HAZEL	f	Bullshit!
+VAN HOUTEN	m	I cannot --
+HAZEL	f	Make something up.
+VAN HOUTEN	m	Lidewij. I'll have a martini please.
+LIDEWIJ	f	I have resigned.
+VAN HOUTEN	m	Oh don't be ridiculous.
+VAN HOUTEN	m	I'd like you to leave now.
+HAZEL	f	You're really not gonna tell us?
+VAN HOUTEN	m	I would like you... to leave.
+VAN HOUTEN	m	Have you ever stopped to ask why you care so much about your silly questions?
+HAZEL	f	Go fuck yourself.
+GUS	m	Hey. It's ok. It's ok... (beat, an idea) I'll write you a sequel. (she cries harder) I will. Better than any shit that drunk could write. With blood and guts and sacrifice. You'll love it.
+HAZEL	f	I spent your Wish on that asshole.
+GUS	m	You did not spend it on him. You spent it on us.
+HAZEL	f	I wanted...
+GUS	m	I know... I know. Apparently the world is not a wish-granting factory.
+LIDEWIJ	f	I'm so sorry. Circumstance has made him cruel. I thought meeting you would help him, if he would see that his work has shaped real lives, but... I'm very sorry.
+LIDEWIJ	f	Perhaps we can do some sightseeing. Have you seen the Anne Frank House?
+GUS	m	I'm not going anywhere with that monster.
+LIDEWIJ	f	He is not invited.
+LIDEWIJ	f	I'm afraid there's no elevator.
+HAZEL	f	Oh, um, that's alright.
+LIDEWIJ	f	No, there are many stairs. Steep stairs.
+HAZEL	f	I can do it.
+HAZEL	f	I can do it!
+LIDEWIJ	f	Shall we?
+LIDEWIJ	f	This is the bookcase that hid the Frank family and four others.
+GUS	m	You're a champion.
+GUS	m	That's enough --
+HAZEL	f	I'm ok.
+GUS	m	We're at the top. That's it.
+LIDEWIJ	f	The only member of the whole family to survive was Otto, Anne's father.
+LIDEWIJ	f	I don't know how you go on, without your family.
+GUS	m	It's above my knee.
+GUS	m	It tapers a little and then it's just skin --
+HAZEL	f	What?
+GUS	m	My leg. Just so you're prepared --
+HAZEL	f	Oh get over yourself.
+HAZEL	f	I love you, Augustus Waters.
+GUS	m	I love you too, Hazel Grace.
+HAZEL	f	"Get up you fat bastard."
+GUS	m	"I can't stand up, I'm too drunk."
+HAZEL	f	I said "get up."
+GUS	m	"Standing is for fools!"
+HAZEL	f	God, what an asshole.
+HAZEL	f	It was awful, Mom. You can't imagine.
+FRANNIE	f	And then what happened?
+HAZEL	f	Then we went to the Anne Frank museum.
+FRANNIE	f	And after that?
+HAZEL	f	We just... walked around.
+FRANNIE	f	Sounds lovely.
+FRANNIE	f	Listen... I'm gonna stretch my legs a little. Give the two of you some time to talk.
+HAZEL	f	Um... ok...
+HAZEL	f	That was weird.
+GUS	m	Shall we?
+HAZEL	f	Augustus?
+GUS	m	There's something I have to tell you...
+GUS	m	Just before you went into the hospital... There was this... I felt this... ache in my hip.
+HAZEL	f	Oh no...
+GUS	m	I had a PET scan.
+GUS	m	It lit up like a Christmas tree, Hazel...
+HAZEL	f	Oh god.
+GUS	m	The lining of my chest, my liver... everywhere.
+HAZEL	f	Oh my god no!
+HAZEL	f	I'm so sorry, Augustus. I'm so so
+GUS	m	I'm sorry too --
+HAZEL	f	It's so unfair --
+GUS	m	I should have told you --
+HAZEL	f	It's so fucking unfair!
+GUS	m	Apparently the world is... not a wish-granting factory.
+GUS	m	Don't you worry about me, Hazel Grace. I'll find a way to hang around and annoy you for a long time.
+HAZEL	f	Does it hurt?
+GUS	m	It's ok. I'm ok.
+HAZEL	f	Ok.
+GUS	m	Ok.
+GUS	m	What?
+HAZEL	f	I'm just... I'm very fond of you.
+GUS	m	I don't suppose you can forget about it, treat me like I'm not dying.
+HAZEL	f	I don't think you're dying, Augustus. You've just got a touch of cancer.
+GUS	m	Would it be absolutely ludicrous to make out right now?
+HAZEL	f	Gus had a recurrence.
+MICHAEL	m	Mrs. Waters told us the night before you left. I'm sorry Hazel.
+HAZEL	f	You're not gonna say it?
+MICHAEL	m	What's that?
+HAZEL	f	The usual. "Everything happens for a reason..."
+MICHAEL	m	I don't know, Haze. I always thought being an adult meant knowing what you believe... ... that has not been my experience.
+HAZEL	f	How are your eyes?
+ISAAC	m	Great. Wonderful. I mean, they're not in my head is the only problem.
+GUS	m	I hate to one-up you but... seems my entire body is made out of cancer now, so...
+GUS	m	Whoa, I'm taken.
+ISAAC	m	(to Hazel, re: Gus) Did you write his eulogy yet?
+GUS	m	Dude.
+ISAAC	m	What?
+GUS	m	I haven't asked her.
+ISAAC	m	Oh. Oops.
+HAZEL	f	What are you talking about?
+ISAAC	m	My bad.
+HAZEL	f	Augustus?
+GUS	m	I need speakers at my funeral. I thought maybe you and Isaac... but especially you --
+ISAAC	m	Hey!
+GUS	m	Would you be kind enough to whip something up?
+HAZEL	f	(touches his hand) It would be an honor.
+ISAAC	m	You guys are adorable.
+HAZEL	f	How's your love life? Anything from Monica?
+ISAAC	m	Not a word.
+HAZEL	f	She hasn't even like, texted to ask how you're doing?
+HAZEL	f	That is so messed up!
+ISAAC	m	I've stopped thinking about it. Moving on. There's a new girl in Support Group with these humongous -
+HAZEL	f	How do you even know that?
+ISAAC	m	I'm blind but I'm not that blind.
+GUS	m	Hazel Grace!
+GUS	m	Do you happen to have four dollars?
+HAZEL	f	Ok now what?
+ISAAC	m	Is it there?
+GUS	m	Oh it's there.
+ISAAC	m	She's in the house?
+GUS	m	Who cares where she is? This is not about her. This is about you. (sticks out his hand) Hazel...
+ISAAC	m	I didn't hear anything.
+GUS	m	A little to the left.
+ISAAC	m	My throw was to the left or I should aim to the left?
+GUS	m	Aim left.
+GUS	m	Lefter.
+GUS	m	Yes! Excellent! And throw hard.
+GUS	m	Bullseye!
+ISAAC	m	Really?
+GUS	m	No you missed it by like 20 feet. (hands him a THIRD) Try one more time.
+HAZEL	f	Woo hoo!
+GUS	m	Keep throwing, keep throwing!
+MONICA'S MOM	f	What in God's name --
+GUS	m	Are you Monica's mom?
+MONICA'S MOM	f	I am.
+GUS	m	Hello ma'am. Your daughter has done an injustice and we've come here seeking revenge. We may not look like much. Between the three of us, we have five legs, four eyes, and two and a half working lungs.
+GUS	m	But we also have two dozen eggs. So If I was you, I would go back inside.
+HAZEL	f	How's he doing?
+HAZEL	f	What about the chemo?
+HAZEL	f	Can I see him? We have to be a family now.
+HAZEL	f	If you don't mind, I'll just hang for a while.
+HAZEL	f	What are you thinking about?
+GUS	m	Oblivion.
+HAZEL	f	Augustus...
+GUS	m	I know it's kid's stuff but... I always thought I'd have a grand story to tell, you know? Something that would run in all the papers. I always thought I was special.
+HAZEL	f	You are.
+GUS	m	Yeah but... you know what I mean.
+GUS	m	What?
+HAZEL	f	I do know what you mean, I just... I don't agree.
+HAZEL	f	This obsession with being
+GUS	m	Don't get mad --
+HAZEL	f	But I am mad! I think you're special, is that not enough?
+HAZEL	f	You think the only way to live a meaningful life is for everyone to love you, for everyone to remember you. Well guess what, Gus, this is your life. This is all you get. You get me, and your family, and this world. And if that's not enough, well I'm sorry, but it's not nothing. Cause I'll remember you, I'll love you --
+GUS	m	You're right --
+HAZEL	f	And I just wish... I just wish you'd be happy with that.
+GUS	m	You're right. I'm sorry. (pulling her back down) I'm sorry.
+GUS	m	It's a good life, Hazel Grace.
+HAZEL	f	It's not over yet, you know.
+HAZEL	f	Hello? Hazel Grace.
+HAZEL	f	Oh, thank God. Hi. Hi, I love you!
+HAZEL	f	What?
+GUS	m	Hi.
+HAZEL	f	Oh, God, Augustus, I'm calling 911.
+GUS	m	No! Please! Hazel, listen to me. Do not call 911 or my parents -- I'll never forgive you -- Don't, please.
+GUS	m	Please just look at it.
+HAZEL	f	I think it's infected...
+HAZEL	f	Gus, what the -- why are you here? Why aren't you home?
+HAZEL	f	Oh, sweetie...
+GUS	m	I wanted to buy some cigarettes. I lost my pack. Or they took it.
+GUS	m	I don't know. They said they'd get me another one but I wanted... to do it myself. Do one little thing myself.
+HAZEL	f	I can't fix this. I have to call someone. I'm sorry.
+GUS	m	No, Hazel, please!
+GUS	m	(to himself, shaking) I hate myself I hate myself I hate this I hate this...
+GUS	m	Read me something.
+HAZEL	f	Read you something?
+GUS	m	Do you know any poems?
+HAZEL	f	I know one.
+GUS	m	Read it to me.
+HAZEL	f	"The Red Wheelbarrow" by William Carlos Williams. (beat, tries to remember) "So much depends / upon / a red wheel / barrow / glazed with rain / water / beside the white / chickens."
+GUS	m	Is that it?
+HAZEL	f	No of course not. Um... what else... so much depends/ upon a blue sky/ cut open by the branches/ of the trees./ So much depends/ on the transparent G-tube/ erupting from the belly/ of the blue-lipped boy.
+HAZEL	f	So much depends upon this observer/ of the universe...
+HAZEL	f	Hi, Augustus.
+HAZEL	f	I may have...
+GUS	m	Excellent. Do you think you could find yourself at the Literal Heart of Jesus in 20 minutes.
+HAZEL	f	Um... sure. Is everything --
+HAZEL	f	I gotta go.
+FRANNIE	f	Finish eating first.
+HAZEL	f	I can't, I have to meet Gus.
+FRANNIE	f	You haven't eaten a thing.
+HAZEL	f	I'm not hungry.
+FRANNIE	f	You can't not eat, Hazel.
+HAZEL	f	I am aggressively unhungry, ok?
+HAZEL	f	I have to go.
+FRANNIE	f	Sit down.
+HAZEL	f	No!
+MICHAEL	m	Hazel, listen to your mother.
+FRANNIE	f	You have to eat, Hazel. You're not gonna starve yourself to death just because Gus is sick. You have to stay healthy --
+HAZEL	f	I can't! I can't stay healthy because I'm not healthy, Mom. I am dying. I am going to die and leave you here alone and you won't have me to hover around and you won't be a mother anymore, and I'm sorry, but I can't do anything about it, ok?! Just leave me alone!
+FRANNIE	f	You heard me?
+FRANNIE	f	You heard me say that to your father?
+FRANNIE	f	Oh god, sweetie. I'm sorry. I was wrong, ok? It wasn't true. It's not something I believe.
+FRANNIE	f	As long as either of us is alive, I will be your mother. Even if you die, I --
+HAZEL	f	When.
+FRANNIE	f	Even when you die, I will still be your mother. I will always be your Mother.
+HAZEL	f	I worry that you won't have a life. That you'll sit around all day with no me to look after and stare at the walls and be miserable or off yourselves or something.
+FRANNIE	f	We're not gonna off ourselves. It's gonna hurt like hell to lose you
+MICHAEL	m	Hazel. You of all people know it's possible to live with pain.
+FRANNIE	f	I don't just sit around, you know.
+FRANNIE	f	I'm taking some classes. Online. To get my master's in social work.
+HAZEL	f	You are?
+HAZEL	f	So when you're waiting for me outside Support Group or whatever, you're always --
+FRANNIE	f	Working or reading. If I get my MSW, I can council families in crisis or lead groups dealing with
+HAZEL	f	Why didn't you tell me?
+MICHAEL	m	We didn't want you to feel
+HAZEL	f	Are you kidding? Mom, this is awesome! This is fantastic! Oh my god!
+HAZEL	f	I'm so excited! You're gonna be so great, Mom!
+FRANNIE	f	Thank you. That means everything to me.
+FRANNIE	f	I'd still really like you to eat.
+HAZEL	f	I know Mom. And I will. I promise. But right now... I really gotta go.
+GUS	m	Hazel Grace, you look ravishing.
+HAZEL	f	I know, right? So, um, what's going on guys?
+ISAAC	m	You're late.
+HAZEL	f	Late for what exactly?
+GUS	m	I wanted to attend my funeral. By the way, will you speak at my funeral?
+GUS	m	Sweet. I'm hopeful I'll get to attend as a ghost, but just to make sure, I thought I'd - well, not to put you on the spot, but I thought I'd arrange a pre-funeral.
+HAZEL	f	Why now?
+GUS	m	No time like the present.
+HAZEL	f	(looks around the room) How did you even get in here?
+GUS	m	Would you believe they leave the door open at night?
+HAZEL	f	Um, no.
+GUS	m	As well you shouldn't.
+ISAAC	m	"Augustus Waters was a self- aggrandizing bastard. But we forgive him. We forgive him... not because he had a heart as figuratively good as his actual one sucked, or because he got 18 years when he should have gotten more."
+ISAAC	m	I'm assuming you've got some time, you interrupting bastard! I mean seriously... (back to the speech) "Augustus Waters talked so much that he'd interrupt you at his own funeral. And he was pretentious.
+ISAAC	m	Sweet Jesus that kid never took a piss without pondering the resonances of human waste production. And he was vain. But that comes with superhuman handsomeness."
+ISAAC	m	"But I will say this: when the scientists of the future show up at my house with robot eyes and they tell me to try them on, I will tell the scientists to piss off, because I don't even want to see a world without Augustus Waters."
+ISAAC	m	"And then, of course, having made my rhetorical point, I will put my robot eyes on because, I mean... robot eyes!"
+ISAAC	m	"So anyway, Augustus, my friend... Godspeed."
+GUS	m	Thank you Isaac.
+ISAAC	m	Goddamn it, Gus.
+GUS	m	Hey don't swear in the Literal Heart of Jesus.
+ISAAC	m	Shit! Ass! Balls!
+ISAAC	m	Can I get a hand here, Hazel?
+GUS	m	Hazel Grace, it's down to you.
+HAZEL	f	"Augustus Waters was the great star- crossed love of my life. Ours was an epic love story, and I won't be able to get more than a sentence into it without disappearing into a puddle of tears. Like all real love stories - ours will die with us, as it should. I'd hoped that he'd be eulogizing me, because there's no one I'd rather have..."
+HAZEL	f	(beat, composing herself) "I can't talk about our love story so instead I will talk about math. I am not a mathematician, but I know this: there are infinite numbers between 0 and 1. There's .1 And .12 And .112 And an infinite collection of others. Of course, there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger than other infinities. A writer we used to like taught us that. I want more numbers than I'm likely to get, and God, I want more numbers for Augustus Waters than he got. But, Gus, my love, I cannot tell you how thankful I am for our little infinity. You gave me a forever within the numbered days, and for that I am eternally grateful. I love you."
+HAZEL	f	He loved you so much too.
+HAZEL	f	It's ok, you hear me? It's ok.
+MINISTER	m	I think we're ready to begin.
+MINISTER	m	Augustus Waters fought hard for many years. His battle was a courageous one and his strength was a source of inspiration for each and every one of us...
+MALE VOICE	m	What a load of shit, eh kid?
+MINISTER	m	Let us pray.
+VAN HOUTEN	m	We need to fake pray now.
+MINISTER	m	Now I call on Augustus's close friend Isaac to say a few words.
+ISAAC	m	Of all the things I've lost in my life, this hurts the most.
+MINISTER	m	And now we'll hear from Gus's... special friend Hazel Lancaster.
+HAZEL	f	I was his girlfriend.
+HAZEL	f	There's a beautiful quote in Gus's home that reads "if you want the rainbow, you gotta deal with the rain."
+HAZEL	f	I'll be fine.
+FRANNIE	f	Are you sure? We can drive you --
+HAZEL	f	No, I'd... I'd like to be alone for a while.
+VAN HOUTEN	m	Could I hitch a ride?
+VAN HOUTEN	m	Just to the bottom of the hill.
+HAZEL	f	How did you even --
+VAN HOUTEN	m	The internet.
+HAZEL	f	And you just... bought a ticket?
+VAN HOUTEN	m	The drinks are free drinks in First Class.
+VAN HOUTEN	m	Omnis Cellula e cellula.
+VAN HOUTEN	m	Your boy Waters and I corresponded quite a bit in his last --
+HAZEL	f	You read your fan mail now?
+VAN HOUTEN	m	I would hardly call him a fan. He despised me. But he was quite insistent I attend his funeral and tell you what became of Anna and her mother. So here I am and that's your answer: omnis cellula e cellula.
+HAZEL	f	I'm so not in the mood --
+VAN HOUTEN	m	"Life comes from life."
+HAZEL	f	Goodbye Mr. Van Houten.
+VAN HOUTEN	m	You don't want an explanation?
+HAZEL	f	Nope. Thanks though. Have a great life.
+VAN HOUTEN	m	You remind me of her.
+HAZEL	f	I remind a lot of people of a lot of people.
+VAN HOUTEN	m	She was eight, my daughter. She suffered... beautifully. For so long.
+HAZEL	f	She had leukemia? Like Anna?
+VAN HOUTEN	m	Just like her, yes.
+HAZEL	f	Were you married then?
+VAN HOUTEN	m	Not when she died, no. I was insufferable long before Anna, my dear. Grief doesn't change you, Hazel, it reveals you.
+HAZEL	f	Well I'm sorry for your loss.
+VAN HOUTEN	m	And I'm sorry for yours. I'm sorry for everything, for being so rude to you two, for ruining your trip --
+HAZEL	f	You didn't ruin our trip, you asshole. We had an awesome trip.
+VAN HOUTEN	m	Hazel, I'm trying. I'm trying! You asked me to tell you what happens and I wish I could do that. I wish that I could. But I can't. No one can. No one knows, Hazel. They don't talk to us. Unless...
+HAZEL	f	You think I care about that? I don't give a shit, Van Houten.
+HAZEL	f	You're a drunk and a jerk and a failure. And I'd like you to get out of my car right now so I can go home and grieve.
+HAZEL	f	Get out of the car!
+HAZEL	f	Occupada.
+MICHAEL	m	I'm so so sorry. It was a privilege to love him, though, wasn't it?
+MICHAEL	m	Gives you an idea how we feel about you.
+ISAAC	m	Do you know if it hurt or whatever?
+HAZEL	f	He was really fighting for breath, I guess. He eventually went unconscious, but it seems like, yeah, it wasn't great or anything. Dying sucks.
+ISAAC	m	It just seems so impossible.
+HAZEL	f	Happens all the time.
+ISAAC	m	Are you angry?
+HAZEL	f	Very.
+ISAAC	m	Me too. (a few beats) Gus really loved you, you know.
+HAZEL	f	I know.
+ISAAC	m	He wouldn't shut up about it.
+HAZEL	f	I know.
+ISAAC	m	It was annoying.
+HAZEL	f	I didn't find it that annoying.
+ISAAC	m	Did you read the note or whatever from your author friend?
+HAZEL	f	He is not my friend and -- how do you know about that?
+ISAAC	m	We talked at the cemetery. Said he came all this way to give you that.
+HAZEL	f	Yeah well I'm over it. I never want to read another word of that asshole's again.
+ISAAC	m	Yeah but he didn't write it - Gus did.
+HAZEL	f	What?
+ISAAC	m	That's what he said. Gus had written something, sent it to Van
+ISAAC	m	What?
+HAZEL	f	I... I have to go. I... Are you...?
+ISAAC	m	I do it all the time. Go.
+GUS'S VOICE	m	Mr. Van Houten, I'm a good person but a shitty writer. You're a shitty person but a good writer. We'd make a good team. I don't want to ask you any favors but if you have the time, and from what I saw you have plenty, please fix this for me. It's a eulogy for Hazel.
+GUS'S VOICE	m	She asked me to write one and I'm trying, I just, I could use a little flair. See the thing is... we all want to be remembered.
+GUS'S VOICE	m	We all want to leave a mark.
+GUS'S VOICE	m	But not Hazel. Hazel is different. Hazel knows the truth. She didn't want a million admirers, she just wanted one. And she got it. Maybe she wasn't loved widely but she was loved deeply. And isn't that more than most of us get?
+GUS'S VOICE	m	When Hazel was sick, I knew I was dying. But I didn't want to say so.
+GUS'S VOICE	m	She was in ICU and I snuck in for ten minutes and sat with her before I got caught. Her eyes were closed, her lungs were intubated...
+GUS'S VOICE	m	... but her hands were still her hands, still warm, and the nails painted this dark blue back color and I just held her hands and I willed myself to imagine a world without us and what a worthless world that would be.
+GUS'S VOICE	m	She's so beautiful. You don't get tired of looking at her. You never worry if she's smarter than you cause you know she is. She's funny without ever being mean.
+GUS'S VOICE	m	I love her, god I love her. I'm so lucky to love her, Van Houten.
+GUS'S VOICE	m	I like my choices. I hope she likes hers.
+GUS'S VOICE	m	Ok, Hazel Grace?
+HAZEL	f	Ok.
+

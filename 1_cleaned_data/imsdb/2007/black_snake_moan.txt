@@ -1,0 +1,827 @@
+GILL	f	Still need a lift?
+RONNIE	m	Yeah. Transmission's shot.
+GILL	f	Gonna have a smoke.
+RONNIE	m	Shit...
+RAE	f	Baby...
+GILL	f	You sick?
+RAE	f	This ain't gonna work.
+RONNIE	m	Rae...
+RAE	f	I don't see why we gotta lie 'bout  it when you and I know this ain't  gonna work.
+RONNIE	m	Rae don't do this now...
+RAE	f	It's stupid... It's so fucking stupid!
+RONNIE	m	Rae!
+RONNIE	m	Look it. I got somethin' for us.  This is gonna help, okay.
+GILL	f	You gonna miss your bus.
+RONNIE	m	This watch here is gonna beep at  midnight. Every night. That's when  it comes up on you the hardest, right?
+RONNIE	m	And wherever I'm at, my watch'll  beep, too. We'll be thinkin' bout  each other at the same time. Wherever  we are.
+RONNIE	m	I gotta believe we can do this or I  ain't gonna make it, Rae.
+RAE	f	Okay... Okay.
+RONNIE	m	I love you.
+RAE	f	Shit.
+RAE	f	Goddammit, Ronnie...
+RAE	f	Mm-mm Mm-mm... Mm-mm...
+RAE	f	MM-MM! MM-MM! MMMMMMMMMMMM!
+RAE	f	We're done, right?
+R.L.	?	You ain't gonna make a fuss, are  you? Nothing a man can do when a woman  make up her mind.
+LAZARUS	m	I never laid a hand on her in anger.  Not a day. Not even when I's drinkin'.  But this business got me wonderin'  what a good shake and slap would do  for her.
+R.L.	?	That kind of talk is between us.  Don't you go in there with that shit  on your tongue.
+LAZARUS	m	I didn't start this, R.L.
+R.L.	?	You wanna pray with me 'fore you go  in? Laz? Heavenly Father...
+R.L.	?	We do not question your divine plan  for us, Oh God. But in these times,  when our spirit lies in shadow. When  we are lost.
+R.L.	?	We ask that you give us strength.  Give us strength that surpasses all  understanding. In your name we pray.  Amen.
+ROSE	f	Can't remember the last time I saw  you in that suit.
+LAZARUS	m	Your mother's funeral. I's a  pallbearer, remember?
+WAITRESS	?	Can I start you both off with some  coffee 'fore I take your order?
+ROSE	f	We won't be stayin' long. Coffee'll  be fine.
+ROSE	f	We leavin' this weekend. Deke got a  friend in Mobile gonna get him a job  at the water company...
+LAZARUS	m	If you come to talk about that  muthafucka, I'm gonna get up and  leave you sittin' pretty in that new  suit he bought'cha.
+ROSE	f	Think this about money still, ya old  fool?
+LAZARUS	m	Say what you gotta say, but I ain't  gonna hear you speak his name to me.  Not never. You hear?
+ROSE	f	How many times we been over this,  Laz? How many times?
+ROSE	f	Thought we was gonna be friendly  about this.
+LAZARUS	m	Carryin' on behind my back. Make me  out to look like a fool to all our  people. Tell me, what's friendly  about that?
+ROSE	f	I'm not ready to grow old, Laz. Livin'  with you. I feel it. Like I'm one  foot in the dirt. Saw it happen to  my momma. And that's not gonna happen  to me. I got living to do.
+LAZARUS	m	And you gonna live it with him?
+LAZARUS	m	Rose. Folks get sick. But you do  what you can to get on the mend. Our  marriage... it just got sick. That's  all.
+ROSE	f	Talk to me about sick. Ain't been  right since I moved into that drafty  house.
+LAZARUS	m	I keep the heat on.
+ROSE	f	That damned, rusty, radiator, bout  burned the skin off my legs each  time I passed.
+LAZARUS	m	Kept us warm for twelve years.
+ROSE	f	I deserve better than this.
+LAZARUS	m	Better'n me?
+ROSE	f	Better than what you give.
+LAZARUS	m	Rose... please...
+ROSE	f	Laz... You can't say nothin'...
+LAZARUS	m	If we get with a counselor. At the  church, maybe they's...
+ROSE	f	I don't love ya no more.
+ROSE	f	I'm sorry you hurtin'. But, like I  say, this the only life I got. I said my piece.
+LAZARUS	m	God forgive you, for how you done  me...
+ROSE	f	Let go...
+LAZARUS	m	My Daddy told me that a younger woman  would bleed me dry. And that's what  you did. Ya bled me.
+ROSE	f	Let go of my arm...
+LAZARUS	m	Would'a chopped my arm off if you  asked. And this how you do me!
+ROSE	f	LAZ, I said let...!
+LAZARUS	m	You better pray, gal. You better  pray...
+ROSE	f	Don't you lay a CURSE ON ME!
+ROSE	f	Yeah, go'on! Look! See if I give a  shit about any of you people!
+RAE	f	You got any money?
+TEHRONNE	?	Thought you had a man for that.
+RAE	f	I said we wasn't gonna talk about  him.
+TEHRONNE	?	What we just did, you askin' for  money, make a man stop. I ain't  callin' you no ho. But I ain't gonna  be played like no trick, neither.  Remember... you called me.
+RAE	f	Save that hustle talk to them field  ballers you sell crack to.
+TEHRONNE	?	What'd I tell you? I don't do none of that shit no more.  I'm in communications now.
+RAE	f	Stolen phone cards and two-ways is  what you sayin'.
+TEHRONNE	?	Mobile technology is the new fix for  these niggaz, I'm tellin' you. I'm  just lookin' ahead. Anyways, ain't no money in drugs no  more with these rednecks popping  cough pills like they's Skittles.  Hey, that's what you need, girl. Get  you some cough medicine. What, you  sick?
+RAE	f	Just a cough. Sugar and a spoonful  of Jack'll do it.
+TEHRONNE	?	Alright. How much you need, ho?
+RAE	f	The hell you call me?
+TEHRONNE	?	Eh, if the bootie fits...
+TEHRONNE	?	You gonna get rough? Is that what  you doin'?
+TEHRONNE	?	I swear, I seen some buck-wild bitches  in my time, but you the illest I  ever seen.
+RAE	f	Just got a cough.
+MAN	m	It's already noon, Rae. You think  that skirt should still be on?
+RAE	f	If it weren't you could kiss my rebel  cootch, ya faggot.
+SANDY	f	Cough drops or condoms?
+RAE	f	Didn't know you was workin' here  now?
+SANDY	f	I just like dressin' up in these  goddamn blue vests. Your money ticket get shipped today?
+SANDY	f	You let me know if I can be of any  assistance.
+LINCOLN	m	You won't at the square this mornin'.
+LAZARUS	m	Get me ten bags of mulch.
+LINCOLN	m	Yes'sir.
+LAZARUS	m	Keep the change on that.
+LINCOLN	m	Naw... I got it, Mr. Lazarus. You wanna tip me, best do it in butter  beans. Momma say she need a bag 'a  yours, none of that store-bought  junk. That's what she said.
+LAZARUS	m	Alright, Lincoln. You come on by,  I'll load you up.
+MAYELLA	f	You gonna put some Luther Vandross  in here? Shit, he black ain't he?
+BOJO	m	He black alright, he just ain't blue.
+MAYELLA	f	Why you stop havin' dancin' on  Saturday? Used to have bands... all  kind's live shit. Like a wake up in  here, now.
+BOJO	m	Folks can dance when they want. Didn't  buy that mirror ball for nothin'.
+MAYELLA	f	You seen my snake-skin shoes?
+MAYELLA	f	They're from New York. My niece gets  'em on the computer.
+LAZARUS	m	They got blue snakes up north?
+MAYELLA	f	Naw. They got some blue dye, though.  You think them boots you got on come  from a black cow?
+BOJO	m	Wanna get on somebody 'bout live  music, get on ol' Laz, there. He the  one got this place shakin' back in  the day.
+MAYELLA	f	Don't gotta tell me. Me and my  girlfriends use-ta talk 'bout them  hard fingertips he got pickin' that  guitar.
+LAZARUS	m	Got'em pickin' peas, not strings.
+MAYELLA	f	They still hard?
+LAZARUS	m	Mayella. It ain't happened yet. Ain't  happenin' tonight.
+MAYELLA	f	I know you hurtin', Laz. I got ears,  you know. But you should know more'n  me... ain't no better cure for them  blues than some good pussy.
+BOJO	m	Whole lotta woman, right there.
+LAZARUS	m	She can still spread it around.
+BOJO	m	Laz. We friends and all but... promise  me you'll keep yo cool in my joint.
+LAZARUS	m	I'm gonna finish my beer.
+DEKE	m	Mind if I sit? Rose said... it didn't go too well  this afternoon. See, that's not how  we wanted this to go down. I told  her, I said, Rose, we ain't leavin'  till we make peace with Laz. And  that's God's truth. I laid it down.
+LAZARUS	m	You laid it down.
+DEKE	m	I did.
+LAZARUS	m	Funny. Layin' it down... for my wife.
+DEKE	m	We're not gonna get through this  clean. But it don't need to get dirty.  All this... it just come together  unexpected. You think I want to hurt  you? I... I'd take a bullet for you,  Laz.
+LAZARUS	m	You wanna give that a try? Bo. You still got that .22 behind  the tap? My little brother say he'd  take a bullet for me. You come here to ease your heart.  Well, I ain't gonna give it to you.  You took her into your bed, now you  gotta lie in it.
+DEKE	m	I'll always love you, Laz. Till the  end of my...
+BOJO	m	LAZ!
+LAZARUS	m	Cain slew Able. Slew him out of envy.  And God put his mark on Cain for his  sin. You want that mark, Deke? Give  you that peace you come here for?  I'll give it to you, just say that  shit again. Say you love me. Go'on!  Say YOU LOVE ME, NIGGA!
+LAZARUS	m	I'm through wit'cha both.
+DEKE	m	What'chu gonna do? Nothin'. YOU AIN'T
+JESSE	m	Ronnie ship out this mornin'?
+RAE	f	It's so stupid. Says to me that he  don't want nothin' to do with no  military career. Says he wants to  move. Open up an auto shop with his  uncle up in Knoxville. I said, okay.  How about now? Let's go.
+KELL	f	He'd be good for that. Shit, Ronnie  knows cars.
+RAE	f	He get stubborn. Starts talkin' 'bout  obligation and duty and all that...  Shit. I just want him to come home...  I swear, if somethin' happens to  him...
+KELL	f	He fixed up that Buick for my uncle  Dale. He say it purrs like a kitten  every morning.
+JESSE	m	Nothing's gonna happen. Not like  everybody over there is in the line  of fire with them Arabs blowin'  themselves up.
+RAE	f	Can't be thinkin' bout him every  second of my day. I'll go outta my  gourd.
+JESSE	m	Why should you waste your life waitin'  and wonderin'. Not like you're  married.
+RAE	f	I begged him not to go. And he did.
+JESSE	m	These baby chicks just can't hold  their Jello shots. I'm tellin' ya.
+CONNER	m	Tennessee Vols gotta practice indoors  just so those Florida State sons-a- bitches don't spy on their plays  with satellites and shit.
+KELL	f	Satellites... You mean in space?
+CONNER	m	Uh-huh.
+KELL	f	Good thing you can block, Conner,  cuz you're dumb as a sack of shit.
+JESSE	m	You wanna go home?
+RAE	f	It gets worse there. Leavin' me to  my own mind. That's just not good.
+JESSE	m	Here. Pound this and I'll join you.
+JESSE	m	One more. Fuck the chaser.
+JESSE	m	Better?
+RAE	f	Yeah.
+BATSON	m	Hey, Jess.
+JESSE	m	Boys.
+BATSON	m	You robotrippin' tonight?
+JESSE	m	I'm just gonna smoke.
+BATSON	m	Got eight packs of DXM. Oxycontin.  Got a shit load of Coricidin if you  want to get out-a-body, n'all.
+JESSE	m	You just trying to get me outta my  clothes.
+RAE	f	Be right back.
+RAE	f	It's not like I can't go out and  have fun with my friends.
+GILL	f	You think I'm Ronnie's spy or  somethin'? Come tomorrow that dumb- ass gonna be halfway round the world  tryin' to keep his head on his  shoulders. You think he's gonna be  thinkin' about you?
+RAE	f	You go to hell.
+RAE	f	How many to fuck me up?
+JESSE	m	What's so funny?
+RAE	f	Oh... I'm just on a water bed... And  it's just... so... Goddamn... funny!
+RAE	f	Hi.
+BRYAN	m	Hey.
+RAE	f	You ain't the kicker, are you?
+BRYAN	m	No, ma'am.
+RAE	f	Cuz let me tell you, you boys gotta  run the ball more. You get into a  kicking game, ya'll gonna lose.
+BRYAN	m	Can I put it in your mouth?
+RAE	f	Okay.
+LAZARUS	m	Seem like you and me... we drove her  away. That's what we did. Now we... Drinkin' muddy water... a'sleep in a  hollow log...
+LAZARUS	m	You gonna do this?
+LAZARUS	m	Just like a bird without a feather,  you know  I'm lost without your love.  Just like a bird without a feather,  you know  I'm lost without your love.  You know I need your love just like  the angels need heaven above.
+LAZARUS	m	Well I sure did shot my baby, but I  did it because she did me wrong.  Well I sure did shot my baby, but I  did it because she did me wrong.  You know the judge called it murder  now the penitentiary is my home.
+LAZARUS	m	I loved that woman, she said she  didn't love no one but me.  I loved that woman, she said she  didn't love no one but me.
+LAZARUS	m	Yeah but I caught my baby cheating.
+LAZARUS	m	Now my home ain't where it used to  be.
+RAE	f	Jes? Jesse? Oh shit... Wait... Wait... STOP!
+GILL	f	Stop what?
+RAE	f	The ground is... turnin' upside down.  I'm gonna... I'm gonna fall off...
+RAE	f	Oh. That feels so much better.
+GILL	f	Thought you had a skirt earlier.
+RAE	f	I got others.
+GILL	f	This thing you got... I've heard  people say, you'd fuck a tree if it  was handy. I can see that. But that nigger Tehronne. Thinks  he's some player cuz he hustles dope  and stolen hubcaps. I mean, I can  see a tree. But that piece of shit?
+RAE	f	I begged him. Don't see why he had  to go...
+GILL	f	I bet you did. Just had to get that  black cock up in you. I swear to  God. What Ronnie sees... you disgust  me.
+GILL	f	The fuck you laughin' at?
+RAE	f	You don't got half what Tehronne  got.
+GILL	f	Get up! I ain't playin'! OPEN YOUR
+GILL	f	Oh, Jesus...
+GUARDSMAN	m	Hey.
+LAZARUS	m	Huh?
+R.L.	?	Bojo called. Said you got to see  your brother at the long end of a  broken bottle.
+LAZARUS	m	You gonna preach 'bout turnin' the  other cheek?
+R.L.	?	I think you did alright by God under  the circumstances. Your people are here for you, Laz.  This is your home. No shame in showing  your face.
+LAZARUS	m	Don't know if God wanna see me.
+R.L.	?	He knows where ya at. Just answer  the door if he come knockin'.
+LAZARUS	m	Mmmmmmmmmm... Mm!
+LAZARUS	m	Sweet... Jesus...
+LAZARUS	m	Little lady? Miss? You need to open  your eyes for me. Could ya do that?
+LAZARUS	m	There we go. There we go. Just like  you doin'. Go'on.
+RAE	f	Teh... Tehronne?
+LAZARUS	m	Tehronne? Tehronne done this?
+OPERATOR	m	You've reached the Fisherville Police  Department. Your call will be answered  in the order it was received. If  this is an emergency, please, hang  up and dial 9-1-...
+LAZARUS	m	I'm'a go into town. Get you some  medicine to fix you up. You just  rest, okay, gal? You just sleep. Get  that chill out'cha.
+LAZARUS	m	God... damn...
+MELVIN	m	How's the squash this year?
+LAZARUS	m	It's good, Mister Melvin. I'll bring  ya some.
+ANGELA	f	Lazarus?
+LAZARUS	m	Oh! Gave me a start.
+ANGELA	f	I'm sorry. It's these soft shoes I  wear for my back.
+LAZARUS	m	You hurt it?
+ANGELA	f	I'm standing most of my day. They're  for support. Didn't see you in church this mornin'.
+LAZARUS	m	Been on the crop. May need to get  some extra hands if I don't want to  work on Sundays.
+ANGELA	f	Well. It's good to see you.
+LAZARUS	m	Angela?
+ANGELA	f	Yes?
+LAZARUS	m	I need to uh...
+ANGELA	f	Go on, Laz. You can talk to me.
+LAZARUS	m	My little niece... she got this deep  cough.
+ANGELA	f	You take her to a doctor?
+LAZARUS	m	No. No, she can't go. Mean to say...  they's just no money fo'a doctor.  Her daddy left for a job, and uh...  give her to me to look on. I just... I don't know what to do.
+ANGELA	f	You wait right here.
+RAE	f	Mm-mm... Mm-mm...
+RAE	f	NOOOOO!
+ANGELA	f	Is your niece older than 12?
+LAZARUS	m	Oh, she older than that.
+ANGELA	f	My sister got a bad cough with her  pneumonia. I just copied her  prescription. You don't need to pay  anything... just take it. But if she  gets worse, you give me a call. I  wrote my number on the box.
+LAZARUS	m	This gonna get you in trouble?
+ANGELA	f	Not if no one finds out.
+LAZARUS	m	Thank you. Oh. My wife. She had a card here for  her migraine pills. She ain't gonna  be around no more... So if you...
+ANGELA	f	I already tossed that out. Somethin' you should'a done to that  woman long ago... how she treated  you. Of course, that's none of my  business.
+LAZARUS	m	Don't make it less true.
+CHARLIE	m	Hey, Lazarus. We closed up on Sunday.
+LAZARUS	m	Need a word with Tehronne.
+CHARLIE	m	Yo, T! Laz wanna holla at cha.
+TEHRONNE	?	Come on back, Cuz.
+TEHRONNE	?	Do you call it a game when only one  man win each time? I think you call  it a damn shame.
+LAZARUS	m	Word wit'cha. In private.
+TEHRONNE	?	You need some weed?
+LAZARUS	m	Been years since I fooled with that. You know a white girl? Dirty blond  hair, split down the middle like?
+TEHRONNE	?	That ain't up to me to hook you up.  Naw what I mean? She her own, you  know?
+LAZARUS	m	Huh?
+TEHRONNE	?	I don't pimp that. You talkin' about who I think you  talkin' about, you mean Rae. Rae  Doole. Sexy little split tail, like  you say. I can't hook you up with  that. I got two girls. One ain't in  town, the other one pregnant. So...  you on your own.
+LAZARUS	m	This Rae... you get with her?
+TEHRONNE	?	Shit. Who hasn't?
+LAZARUS	m	Why you say that?
+TEHRONNE	?	She got a spare minute she'll snatch  up anyone... but me, I'm different.  Sometimes she need the real deal, so  she call me up. Girl got an itch.  You know... what's a nigga to do?
+LAZARUS	m	She like it rough? You like beatin'  on her?
+TEHRONNE	?	That ain't my scene. If that's  somethin' you into...
+LAZARUS	m	Now, hold up.
+TEHRONNE	?	See, that girl is in my favor. You  heard me, nigga? You fuck with her  rough, and you got me to fuck wit.
+LAZARUS	m	You collar that dog, boy. I ain't  gonna hurt nobody. Just wanted to  know who she was.
+TEHRONNE	?	Like I say, you wanna hook that up...  I ain't in ya way. That switch of  hers been all over this town. Got  that sickness, you know.
+LAZARUS	m	What'chu sayin'?
+TEHRONNE	?	She a freak. Got what you call a  sexual addiction.
+LAZARUS	m	What'chu sayin'?
+TEHRONNE	?	What I'm tellin' you. Girl gotta get  dick or she go crazy.
+LAZARUS	m	Gal? Miss Rae? Rae, you hear me?
+LAZARUS	m	Hold on, now. Hold on!
+LAZARUS	m	Now, I ain't gonna hurt'cha. Calm  down, Miss. Listen... Listen... LISTEN NOW, GAL! I ain't gonna hurt ya, hear? Gotta  get you well. Now, look me... HEY!  Look me in the eye.
+LAZARUS	m	Open your eyes. Go'on, now. You need  to see, ain't no harm here. Ain't no  harm. My name is Lazarus Woods. And I ain't  gonna let you die.
+RAE	f	...you don't... touch me... s'no...  NO! Mm-mm... Mm-MMMMMMMMMMMMM! N- N'you FUCK!
+RAE	f	Mm-mm... mm-mm... Ma-muh... Ma-MUH! See... S... See if'I GIVE... GIVE'A...
+LAZARUS	m	I know, child, I know. Gotta break  that fever now. Don't mean to hurt'chu. But I ain't  lettin' you die.
+LAZARUS	m	Put fear of the Devil in me, gal.  Got me spooked like I's a kid, I  tell you. But the good Lord, He showed me what  to do. He come knockin' like my man  R.L. say... listen here... This here Matthew. He talkin' on how  Jesus was healin' the sick. And a  man come up to the disciples and he  say... Have mercy on my son, for he is a  lunatic, and sore vexed... He got the devil in his mind and  sores on his skin. And he brought the boy to the  disciples, but they could NOT cure  him.
+LAZARUS	m	Then Jesus answered and said, O  faithless and perverse generation...  how long shall I suffer you? Bring  the boy hither to me. And Jesus  rebuked the devil. You hear that? Then the disciples say... Why could  not we cast the devil out? And Jesus  said unto them...
+LAZARUS	m	Listen now... This what he sayin' to  us. He say... If ye have faith... if ye have faith  as a grain of mustard seed, ye shall  say unto a mountain, remove hence...  and it... shall... move. And  nothin'... nothin' shall be impossible  to you. You hear that? You just need a bit  of faith. You just gotta believe you  gonna get well, like I do.
+LAZARUS	m	That's better. You coolin' down.  Okay. You rest. Okay. You rest.
+RAE	f	Ronnie...
+RAE	f	Ronnie... RONNIE!
+LAZARUS	m	Gal? Gal?
+RAE	f	Nn-nn... Nn-nn... no... N'RONNIE!
+LAZARUS	m	GAL! YOU HEARIN' MY VOICE?
+LAZARUS	m	You travelin' right now, gal. You  asleep and you don't even know it. Now... come on inside with me.
+RAE	f	Mm-mm... Mm-mm...
+LAZARUS	m	Come on, gal...
+RAE	f	NO! NOOO! NOOOOOOOOOO!
+RAE	f	Is'okay... Is'okay...
+LAZARUS	m	Goin' over that hill. Goin' over  that hill. Well, I ain't gonna stop  until I reach my God's top. I'm goin'  over the hill. Well I went to the  valley, I didn't go to stay. Soul  got happy, I stayed all day. I'm  goin' over that hill.
+TEHRONNE	?	She a freak. Got what you call a  sexual addiction.
+LAZARUS	m	What'chu sayin'?
+TEHRONNE	?	What I'm tellin' you. Girl gotta get  dick or she go crazy.
+TEHRONNE	?	First hooked up with that bitch when  she was 16. Girl was fuckin' the  principal and two of her teachers.  You know coach Reynolds?
+LAZARUS	m	Uh-huh.
+TEHRONNE	?	He tapped that.
+LAZARUS	m	Naw!
+TEHRONNE	?	Go ask him.
+TEHRONNE	?	She been bumpin' around all her life,  hookin' up with whoever keep her fed  and fucked.
+TEHRONNE	?	I seen her give it up on park benches,  back of trucks, hoopty hoods, you  name it.
+TEHRONNE	?	You ever seen a train run on a woman?
+LAZARUS	m	Nuh-uh.
+TEHRONNE	?	Meanin' like a team of fellas go to  work on her and she don't even break  a sweat. She into football, you know. You got  a letter on your jacket you get that  pussy in ya lap. I ain't playin'.
+LAZARUS	m	How a girl get like that?
+TEHRONNE	?	Like I told you.
+TEHRONNE	?	Girl got a sickness.
+DEKE	m	What'chu gonna do? Huh? Nothin'. YOU
+LAZARUS	m	Tell me who's that writin'? John the  Revelator. Wrote the book of the  seven seals.
+LAZARUS	m	Hey.
+LAZARUS	m	Take it easy now. Don't rush it.
+RAE	f	How long... how long I been out?
+LAZARUS	m	You been in and out goin' on two...  maybe two days.
+RAE	f	Two days?
+LAZARUS	m	After your fever broke, you'd wake  up in spells... long enough to get  that medicine in ya.
+LAZARUS	m	Found you on the side of the road.  Someone took to beatin' on you pretty  bad. You know who done that to you?
+RAE	f	Where's Ronnie?
+LAZARUS	m	Well I don't...
+RAE	f	Wait. He left.
+RAE	f	I don't got any money... for fixin'  me up and all.
+LAZARUS	m	Don't need none.
+RAE	f	Then I better be on my way. Don't  wanna put you out no more.
+LAZARUS	m	Think it'd be best if you stayed put  while we talk.
+RAE	f	Naw'sir... I gotta be on my way.
+LAZARUS	m	Best try gettin' ya wits about you  'fore you try to...
+LAZARUS	m	Let me say somethin' first...
+RAE	f	Why you got me chained?
+LAZARUS	m	Way I see it, it's gonna take a while  for you to get right.
+RAE	f	The fuck you been doin' to me?
+LAZARUS	m	I ain't laid a hand on ya but to  ease yo fever... Remember like I  say, I found you in the road...
+RAE	f	Get this Goddamn thing off me!
+LAZARUS	m	Now, no harm's come to you... and I  aim to keep it that way. Ain't  gonna... gonna run a train over ya...  or however you call it... see... you  was runnin' wild on me... these fever  dreams you was havin'... these fits.  I'd be chasin' you all night.
+RAE	f	Well I'm woke now... you can take  this off.
+LAZARUS	m	Gal, you ain't right yet.
+RAE	f	I'm right enough to stand on my own  two feet. Now take this Goddamn chain  off...
+LAZARUS	m	How you let men treat ya like they  do?
+RAE	f	What?
+LAZARUS	m	These men you up under. How you let  them do ya like that?
+RAE	f	Do me? Do me like this, you mean?  Like chainin' me up?
+LAZARUS	m	You know what I'm talkin' about. All that mess with ya teachers and...  boys in the backs of trucks.
+RAE	f	The hell you know about me?! You got  no right to talk to me about that  shit! The hell you think you are?
+LAZARUS	m	I've saved ya life, gal. I can do  and say whatever the fuck I want.
+LAZARUS	m	I give ya enough chain so's you can  get about the house. Get you to the  kitchen. You need the bathroom, it'll  reach.
+RAE	f	What do you want?
+LAZARUS	m	We got everything we need. Plenty of  food. Ya medicine still got a few  good swallows in it...
+RAE	f	WHAT DO YOU WANT FROM ME?!
+LAZARUS	m	God saw to it to put you in my path.  And I aim to cure ya of your  wickedness.
+RAE	f	You some kind'a pervert?
+LAZARUS	m	No ma'am.
+RAE	f	Some crazy Jesus freak, gonna fuck  the spirit into me...
+LAZARUS	m	In my house, you watch that lip...
+RAE	f	Look it, mister... you wanna have  your way, you take it. I'll do  whatever you want. But you gotta let  me go. You can't do this! You can't
+LAZARUS	m	You sick. You got a sickness... we  broke that fever... we gonna break  that hold the devil got on ya.
+RAE	f	SOMEBODY!
+RAE	f	SOMEBODY HELP ME!
+LAZARUS	m	Ain't gonna be moved.
+LAZARUS	m	GAL! I ain't gonna be moved on this!
+RAE	f	LET ME GO!
+LAZARUS	m	You can holla y'self hoarse. Ain't  gonna bend my will. Right or wrong, you gonna mind me. Gonna suffer you like Jesus say, to  the FAITHLESS and the PERVERSE
+LAZARUS	m	Now you get up! And you get in my  house!
+RAE	f	Or what?
+RAE	f	Stop it! Stop it! IT HURTS!
+LAZARUS	m	Whose doin' is that?
+RAE	f	Okay... OKAY! I'M COMIN' IN! NOW
+LAZARUS	m	Say we talk. Just take a seat on the  sofa. I'll get us somethin' cool to  drink.
+LAZARUS	m	You may not remember. But you spent  a whole half day in my tub, tryin'  to cool down. Melted four ice trays.
+LAZARUS	m	Wicked little bitch... gonna cut  me...
+RAE	f	You gonna get a lot more a'that, you  keep me locked up like this!
+LAZARUS	m	Think I'm gonna let you do me like  that...
+LAZARUS	m	Okay, now... I ain't gonna hit'cha. Just lost my cool there. Now take that look out'cha eye.
+LAZARUS	m	No, ma'am. You stop that foolishness.
+RAE	f	Hm-mm... Hm-mm...
+LAZARUS	m	I said... STOP!
+RAE	f	Hmmmmmm... Stop-it!... STOP-IT!
+LAZARUS	m	You hungry?
+LAZARUS	m	I put some back ache into growin'  them greens. You should slow down  and see how they taste.
+RAE	f	You like this? Walkin' me through  this field like I's your mule?
+LAZARUS	m	Can't sit all day on that sofa. Need  to get your legs strong.
+RAE	f	If I break one you gonna shoot me?
+LAZARUS	m	My Daddy was one of the first mens  to organize soil conservation in  these parts. That's a group of  farmers, you know, each season they'd  rotate the crop. Know why it's best  to rotate em like that?
+RAE	f	Uh-uh.
+LAZARUS	m	Cuz once in a while soil need a  change. Corn take up a lot of nitrate  in the fertilizer. So next crop what  ya do is plant ya some soy beans.  That give off a lot of nitrate. Change  keeps it all growin' and growin'  strong. Sting a bit?
+RAE	f	Itches.
+LAZARUS	m	Means ya healin'. So all this farmin' make me think on  Matthew. Matthew 13. The parable of  the sower? Man toss seed on rock, on  the wayside, some fell in thorns...  you know the story?
+RAE	f	Uh-uh.
+LAZARUS	m	The seed that land on good soil is  for them who hear the word of God...  and understand the word of God. Not  enough for you to hear what I'm  sayin', you gotta understand.
+RAE	f	I know. I get it. What's Matthew  doin'?
+LAZARUS	m	Gal... Matthew ain't doin' shit...  this just a story... Look it. I've seen it in nature,  I've seen it in men. Ya got to change  up your crop. Cuz that seed ain't  gettin' in. Ya gotta cut this shit out. Got no  cause to be up under these fools,  ruttin' on ya like you a bitch. Like  you somebody's dog. No woman... who  joins in union with Almighty God...  or man... in the sanctity of  marriage... should degrade herself...  and bend to ANOTHER MAN'S WILL!
+LAZARUS	m	My God, gal, don't you got no SENSE?  I ain't sayin' I ain't weak? Shit.  Playin' guitar in the blood-bucket  jukes all ya life... a nigga learn  how to sin, let me tell you!
+RAE	f	Let go of me...
+LAZARUS	m	GIVIN' UP THAT SWITCH LIKE A TRAMP!
+RAE	f	GET OFF ME!
+LAZARUS	m	Didn't mean to go off on a tear like  I did. I just got to thinkin' about  things...
+RAE	f	Why is it you old men gotta talk so  much? Like little boys, gotta talk  yourself into fuckin' me. We can take our time. I'm grown. I  get it. You wanna give me 'nother bath?
+RAE	f	Goddammit.
+GENE	m	There goes our fortune. We been doin'  good for ourselves since you been  away.
+LAZARUS	m	Y'all know when Ella Mae's open up?
+ARCHIE	m	You needin' to buy some pantyhose?
+LAZARUS	m	Just some dresses.
+RAE	f	Hello? Hey!
+RAE	f	I don't believe this shit.
+RAE	f	Enough to choke a Goddamn horse.
+LAZARUS	m	I'm needin' some women's clothes. A  few dresses. Maybe some shoes. But  they gotta be nice. They gotta be  proper. Clothes a woman would want,  where she could feel and look like a  woman without... you know, lookin'  like a tramp or a hussy or somethin'.
+ELLA MAE	f	And, sir... do you have a size in  mind for what you're lookin' for?
+LAZARUS	m	That young lady's size, right'cher.
+ELLA MAE	f	Well, that makes it easier.
+ELLA MAE	f	Well... I hope these will work for  your niece. She can always come back  in and swap sizes.
+LAZARUS	m	Mind I ask, what's all this business  here?
+ELLA MAE	f	These are whipped body creams. It's  like a lotion.
+LAZARUS	m	For your hands?
+ELLA MAE	f	Some women prefer not to scent their  bodies with perfume. So now they  have scented creams. They help  moisturize a woman's skin. This one's my favorite. It's called  Ginger Souffle. I recommend...  applying the cream while the skin is  still damp. So... perhaps just after  a shower.
+LAZARUS	m	I'll take a jar of that, too.
+LAZARUS	m	Lookin' for Miss Angela.
+GIRL	f	She in the back.
+ANGELA	f	Wait right there.
+LAZARUS	m	I brung you a little basket of  goodies. Fresh squash, tomatoes,  some okra, butter beans.
+ANGELA	f	You didn't have to do this.
+LAZARUS	m	Just wanted to say how much I  appreciate you helping me the other  day. My niece, she's cured up, and I  got you to thank.
+ANGELA	f	Well that's good. I'm happy to hear  it.
+LAZARUS	m	Look here. I got somethin' special  for you.
+LAZARUS	m	This here is a whipped... body cream.  And it's got a smell to it. Tell me  what you think.
+LAZARUS	m	They call this Ginger Souffle. Best  if it... if it go on your skin just  after you been in a hot tub... or  shower.
+ANGELA	f	This was very sweet of you.
+LAZARUS	m	Well. Hope you enjoy it.
+GIRL	f	Oooooo.
+ANGELA	f	Hush up.
+RED	m	You gonna be on the square later on?
+LAZARUS	m	Got all my honey-do's done with. I'm  headin' home.
+RED	m	Stay cool. It's a hot one.
+R.L.	?	Hey, Red. Was that Laz just left?
+RED	m	Yes'sir, Rev'rend.
+RAE	f	You are my sunshine. My only sunshine.  You make me happy when skies are  gray. You'll never know dear how  much I love you. Please don't take  my sunshine away. A voice from outside  spins her around. The guitar barks  as Rae slams it down on the table.
+LINCOLN	m	Mister Lazarus?
+LINCOLN	m	Mister Laz... I come for the butter  beans.
+LINCOLN	m	Ain't seen you on the square. Mister  Laz, can you hear me?
+LINCOLN	m	Mister Lazarus?
+LINCOLN	m	Mister Laz, I'm comin' inside...
+LAZARUS	m	SHIT BOY! WHAT THE HELL YOU...!
+LAZARUS	m	CAN'T LEAVE YOU ALONE FOR ONE...
+LAZARUS	m	Lincoln, come on back.
+R.L.	?	Was that Lincoln James I seen run  off?
+LAZARUS	m	He's fine. Just had a bad fall.
+R.L.	?	Why's his britches round his knees?
+LAZARUS	m	R.L., you gonna have to get on. I  can't have nobody round my place.
+R.L.	?	You get a call from Rose?
+LAZARUS	m	This ain't got nothin' to do with  that woman. Just don't want nobody  around me now.
+R.L.	?	Somethin' wrong with ya phone? Been  callin' the last few days.
+R.L.	?	Goin' dove huntin'?
+LAZARUS	m	You gotta go, R.L.. I ain't foolin'  this time.
+R.L.	?	You sayin' that gun's for me if I  don't?
+	?	Spell it out, Laz. Man big enough to  pull a gun best have a tongue in his  mouth if he ain't got a brain in his  head.
+LAZARUS	m	You ain't gonna talk me outta shit  no more. I got my mind made up and I  ain't gonna be moved on this.
+R.L.	?	Ain't gonna be moved?
+LAZARUS	m	Got no place for preachin' here. Not  now. So you do as I say...
+R.L.	?	Or what?
+LAZARUS	m	I told you to TURN BACK!
+R.L.	?	YOU GO'ON AND SHOOT ME, KILLA!
+R.L.	?	Ought'a stomp yo ass pointing this  at me. Always gotta bring up the preachin'.  Like you just a sheep in my flock  and all I'm good for is poundin' on  a pulpit. Dammit, Laz... we may not be blood.  But we sucked off the same old nurse  since the day we was slapped on the  ass. And you gonna point a gun at  me?
+R.L.	?	If you in some trouble, than WE gonna  figure somethin' out. You and me. Wipe your face!
+R.L.	?	Now... this got anything to do with  Rose? Then what?
+RAE	f	I didn't want to.
+R.L.	?	Are you outta ya GODDAMN MIND?
+LAZARUS	m	Man like you ought not take the Lord's  name like you just done.
+R.L.	?	A naked woman, chained in ya house?
+LAZARUS	m	I'm tellin' you the truth, dammit. I  found her beat. Left for dead. So I  brung her home.
+R.L.	?	Laz, I know about that girl. Good number of this town's sinners  got my ear, you know. Oh, Laz. She's had a mess of crabs  and them STD's. What'chu thinking?
+LAZARUS	m	I haven't laid a hand. On my life,  R.L., my wick is dry on this.
+R.L.	?	You say she was beat on. You call  the sheriff on that?
+LAZARUS	m	Put yo'self in my shoes. Say you out  here, alone, with a beaten, half  naked, white woman loves to fuck. I  been toe to toe with the law in this  town for no more than being black  and nearby.
+R.L.	?	What's that chain around her for?
+LAZARUS	m	Why don't you go'on and ask her. She  need to talk wit somebody with sense.  Folks been ruttin' and beatin' on  this gal all her days. And this is  how I'm handling it.
+R.L.	?	THIS IS HOW YOU HANDLING IT? THIS IS
+LAZARUS	m	Go in and talk to her. Please.
+LAZARUS	m	Good. Makin' steaks for supper. I  expect you to come.
+R.L.	?	You mean with you and that woman  chained to ya radiator?
+LAZARUS	m	You treat folks special when they  company. It's just supper, R.L.,  shit.
+R.L.	?	One thing at a time, Laz.
+LAZARUS	m	Watch y'self in there. That girl'll  jump on ya junk like a grasshopper.
+LAZARUS	m	Did I hurt'chu?
+LAZARUS	m	What happened in there... that won't  your fault. Ain't a young man alive  could keep they britches on with  that girl being in heat like she is.
+LINCOLN	m	Why she got a chain on her?
+LAZARUS	m	That's between her and me. It's  private. And I don't want you goin'  off and tellin' ya daddy.
+LINCOLN	m	Please don't tell my daddy.
+LAZARUS	m	My mouth is shut, boy. And that's  how we gonna keep it. Don't go  braggin' to ya buddies, ya heard me?
+LAZARUS	m	So... That your first time?
+LINCOLN	m	Yes'sir.
+LAZARUS	m	You struck some gold, didn't ya?
+LAZARUS	m	Shit. My first time was with my second  cousin behind my uncle's barn. She  weighed two tons, if a pound. Could'a  done a lot better for myself. You  sho'nuf did.
+RAE	f	Thank you.
+R.L.	?	I gotta ask you. Why do you think  Laz is keepin' you chained like this?
+RAE	f	You know how, like they say, you  save someone's life, you responsible  for them. Guess he just don't think  it's safe for me.
+R.L.	?	So he got it into his head that the  only thing gonna keep you from endin'  up bleedin' on the side of the road  again, without a stitch of clothing  on is... You think he's crazy for thinkin'  that?
+RAE	f	You a preacher?
+R.L.	?	That's right.
+RAE	f	Can I ask you a question? People always say, you gotta get  good with Jesus, if you want not to  go to hell. That you say sorry for  all you done and... and Jesus would  let you go on to heaven.
+R.L.	?	You could put it that way.
+RAE	f	But that's so fuckin' stupid. I'm sorry. Didn't mean to curse.
+R.L.	?	What's on your mind?
+RAE	f	You can't hurt people... and then  just say, I'm sorry, and then  everything just gets washed away.  Why would heaven want people like  that. People who... do what they  want and then... switch.
+R.L.	?	I'm gonna tell you somethin', and  it's just gonna be between you and  me. I think folks carry on about heaven  too much. Like it's some all-you-can- eat buffet up in the clouds. And  folks just gonna do as they're told  so they can eat what they want behind  some pearly gates. I can go to  Shoney's for that.
+R.L.	?	There's sin in my heart. There's  evil in this world. But when I got  no one... I talk to God. I ask for  strength. I ask for forgiveness. Not  for peace at the end of my days when  there's no more life to live and no  more good to do, but today. Right  now.
+R.L.	?	What's your heaven? What gives you  peace?
+RAE	f	Ronnie.
+RONNIE	m	This is Ronnie again. Don't know if  you been gettin' my messages but...  I'm down at the bus station and... I just need you come get me. You get  this message, I'm on the interstate  headin' downtown toward the square. Rae. I really need you to... come  find me. Please.
+LINCOLN	m	We gonna eat with her?
+R.L.	?	That's what I was told.
+LINCOLN	m	She still gonna have that chain on?
+R.L.	?	Well... I'm working on that. So... what's goin' on in your life,  Lincoln?
+LINCOLN	m	I ain't no virgin no more?
+LAZARUS	m	Now that's sharp. That is sharp.  Chain give you any trouble?
+RAE	f	Uh-uh.
+LAZARUS	m	Good. Now I got the steaks on,  potatoes at a boil, and biscuits  ready to pop in the oven. R.L. and  Lincoln out yonder grillin' up the  corn. What do you know how to make?
+RAE	f	I don't fuckin' cook.
+LAZARUS	m	Gal, I been around hard-cursin' folk  all my life. And let me tell you...
+RAE	f	Look it... I put the Goddamn dress  on, didn't I? I think I'm handlin'  myself with some... fuckin' restraint  here... how you got me locked up  like a dog on a...
+LAZARUS	m	If all you got is filth comin' out'cha  mouth... people just gonna tune ya  out. Rae. RAE! I'm not fightin' with ya.  I just know you got more in you than  junk. Now, you sayin' you don't know how  to cook anything at all? You know how to boil water?
+RAE	f	I can handle that.
+LAZARUS	m	Well, get to it.
+LAZARUS & LINCOLN	m	Amen.
+R.L.	?	Pass them potatoes, Lincoln.
+LAZARUS	m	Y'all let me know if these steaks  are too dry.
+R.L.	?	This all looks wonderful.
+LINCOLN	m	I skipped lunch.
+LAZARUS	m	Well, dig in, son. Got plenty to  eat.
+R.L.	?	Mm. MM. Now these eggs got some kick  to it. What'chu got in this?
+LAZARUS	m	Ask the chef.
+RAE	f	Cayenne pepper.
+GILL	f	Holy shit.
+RONNIE	m	Yeah.
+GILL	f	Sit down, man. Need a beer?
+RONNIE	m	Sure.
+GILL	f	Marv, let's get Ronnie set up here.
+RONNIE	m	Hey, Herman.
+HERMAN	m	They buy you that big chicken dinner?
+GILL	f	What?
+HERMAN	m	They got little names for everything  in the corps when they trying to get  rid of ya. Don't know what it's like  in the guard. There's what you call  a bad conduct discharge, a BCD... we  all called it the big chicken dinner.  It ain't the brig but it'll fuck ya  for life if you wantin' to work for  the government.
+RONNIE	m	That's not what this is about.
+HERMAN	m	They got another little name called  ad-sep. That sound about right?
+HERMAN	m	Ad-sep. Administrative separation.
+GILL	f	How do you get one of those?
+HERMAN	m	Blowin' boys in the head, for one.
+HERMAN	m	Whoa, son! I ain't sayin' shit about  you. I'm just talkin'.
+RONNIE	m	Well, you don't know what you're  talking about so why don't you shut  the fuck up?
+GILL	f	Hey, it's alright, man. It's alright. Herman. Come on. He just got back.
+HERMAN	m	To get back ya had to've gone  somewhere.
+GILL	f	What happened?
+RONNIE	m	They been keepin' a folder on me cuz  of my stomach. Like how it was just  before we'd play ball back in school.  Thought it was just some tic I got,  or ulcers like my daddy had. I can't... shoot. Target practice  I'm a pro. I tag between the numbers  each time but... But when there's really loud noises  around me... somethin' happens. I  get shaky and... I lose my breath.  They called it anxiety. Severe  anxiety. It can be fixed and all...  just not in time for.... It's a long process but... they sent  me home.
+GILL	f	I guess it could be worse. You could  be comin' back in a body bag.
+RONNIE	m	I can't get Rae on the phone. She's  not at home... none of her friends  seen her anywhere.
+GILL	f	She's around. Always is.
+RONNIE	m	I don't know. She's gettin' crazy,  like she gets. Begged me not to go.  Got real down. I just think somethin's  happened. Like she run off with  someone. You'd tell me if you knew  somethin', right?
+GILL	f	You been home yet?
+RONNIE	m	Uh-uh. I's hitchin' up the interstate  when I seen your truck outside.
+GILL	f	You need a ride?
+RONNIE	m	Rae?
+RONNIE	m	This don't feel right. Kitchen looks  just like I left it. I know, cuz I  cleaned it.
+GILL	f	She ever tell you she was thinkin'  of taking off?
+RONNIE	m	I just been so mixed up lately, Gill.  And, you know, with her history, I  can see how she could get scared... ...and run.
+GILL	f	Drink. Come on, drink some.
+RONNIE	m	Her momma works down at the grocery,  down on the square. Maybe she seen  her.
+GILL	f	Ronnie. You can't see cuz you're too  close to it. These nervous spells you get. You  never had that shit back in school...
+RONNIE	m	That's not right, really, cuz I...
+GILL	f	You joined up in that monkey troop  cuz you had a plan for yourself.  Army'd pay for school. You were gonna  get a degree, maybe somethin' in  business or agriculture and you were  gonna make somethin' of yourself.
+GILL	f	And then you had to fall in love  with the school slut.
+RONNIE	m	Now wait...
+GILL	f	With all she was doin'. With all the  shit she kept doing! You stayed stuck  to that bitch's ass and you wouldn't  let go.
+RONNIE	m	I know about how she was like. But  we was different. I's the only person  she talked to about it. How she's  abused. Terrible things, Gill, just  terrible...
+GILL	f	YOU HAD A PLAN! YOU HAD A GODDAMN
+RONNIE	m	It's not her fault, Gill. She's had  to take care of me all this time,  cuz I'd just start throwin' up...  choking. Just losin' my grip. And  she listened. She listened to me. And... I got better. I don't get  nervous like I used to. And since we  been together... she been faithful  to me. Put all that junk behind her...
+GILL	f	The only thing that cunt's had behind  her is me and half the town fuckin'  her. Your first night away, I come over  and drop off the spare keys like you  wanted me to. You weren't gone two  hours and she was aching to get me  inside her. Like she was havin' some  kind'a fit.
+GILL	f	Don't you think it's funny how I  know where everything in your house  is? I don't care if that hurts you or  not. Truth is I don't know who you  are anymore. So fuck it.
+GILL	f	You gonna steal my truck?
+RONNIE	m	Make yourself at home. You done it  already.
+R.L.	?	Gotta get that chain off her, Laz.  Somethin' like this gets out, you  could land in a heap of trouble.
+LAZARUS	m	I'm dealin' with what God put before  me.
+R.L.	?	You believe He wants this? A woman  chained to ya radiator?
+LAZARUS	m	Not like that.
+R.L.	?	Then what?
+LAZARUS	m	She's tied to me, R.L.. We tied to  each other.
+R.L.	?	I can't leave unless I get your word.
+R.L.	?	Laz. I got some news you need to  hear. It's about Rose and your  brother.
+LAZARUS	m	I'm through with them both.
+RAE	f	They sure liked them devilled eggs.
+LAZARUS	m	You drink whiskey?
+LAZARUS	m	You take it straight?
+RAE	f	Sure.
+LAZARUS	m	To my baby brother. Gonna be a daddy.
+RAE	f	Well, that's good news. So you're  gonna be someone's uncle.
+LAZARUS	m	Want another?
+RAE	f	We drinkin' buddies now?
+LAZARUS	m	To freedom.
+RAE	f	Still makin' jokes?
+LAZARUS	m	No joke.
+LAZARUS	m	Not my place to change your mind, or  anybody else's. People gonna do how  they please. You only get one life...  should be lived the way you wanna  live it.
+LAZARUS	m	If you want... I can take you back  to town now.
+RAE	f	I ain't in a hurry.
+RAE	f	Could you do somethin' for me?
+LAZARUS	m	Anything.
+LAZARUS	m	Ain't played 'fore nobody in years.
+LAZARUS	m	Funny how a sound just speak to ya  heart.
+LAZARUS	m	Wanted me some kids. A whole mess of  'em. But Rose, my wife... chil'ren  was for another time. They's this one spring... I saw a  change in her. Her breasts start  swellin' up. Come a few mornings I  hear her heavin' in the bathroom. I  seen it with women before. I knew.
+LAZARUS	m	Come a day, Rose say she had to go  visit her folks in Jackson. Didn't  want me to come... so I stayed put. When she come back... They talk about a woman havin' that  glow. Couldn't see it no more. She...  took it away. Cut it out.
+LAZARUS	m	One night... While she sleepin'.  Held a pillow in my hands. I could  see myself killin' her. What evil in  my heart make me wanna kill her, I  don't know? It's that voice in me.  Each time I think it's gone, he come  howlin' back. Devil or no, I don't  know. But I am a haunted man.
+LAZARUS	m	Calls me when I'm ailing. When I  can't find my home, lost in the pines.  I calls it the Black Snake Moan. Mm-mm... Got no momma now.Mm-mm...  Got no momma now.It's over late last  night, don't need no momma now.
+RAE	f	Sing, Lazarus. Please keep singin'.
+LAZARUS	m	Mm-mm... Black snake crawlin' in my  room.Mm-mm... Black snake crawlin'  in my room.Some pretty momma better  come and get this black snake soon.
+LAZARUS	m	Black snake is evil, black snake is  all I see.Black snake is evil, black  snake is all I see.Woke up this  mornin', black snake moved in on me.
+LAZARUS	m	My life is gone. Only life I was  livin'. And I lost it.
+RAE	f	I'm here with you.
+LAZARUS	m	I had love in my heart. And I gave  it to one woman. And she gone now. Where am I gonna put all this love?
+RAE	f	You can give it to me.
+RAE	f	You can't start this and not finish.  Not with me. Please...
+LAZARUS	m	Wait... I gotta stop... Rae stop... Dammit, Rae... GET OFF!
+LAZARUS	m	This ain't the way for me. I'm sorry.
+RAE	f	Not gonna lie to you, Laz... This one's a doozy. I don't think...  I don't think I can stop this.
+LAZARUS	m	Tell me what to do.
+RAE	f	The... chain helps.
+RAE	f	I seen a man die. He couldn't  breathe... his heart was... was givin'  out.
+LAZARUS	m	You just havin' a fit. You ain't  goin' nowhere.
+RAE	f	He told me... get help. I just stood  there and watched him... I watched  him die, Laz. Oh God! GODDAMMIT!
+RAE	f	Oh, Laz... he hurt me. He... hurt me  so many times.
+LAZARUS	m	No one's gonna hurt you no more.
+RAE	f	You think God forgives people like  that? You think God forgives people like  me?
+RAE	f	Hold me. Oh God...
+LAZARUS	m	We'll just stay here. Wait till it  passes.
+RAE	f	Where you gonna be?
+LAZARUS	m	Right here. Be here all afternoon. You ready for this?
+RAE	f	I'm gonna just get some girl stuff,  like make-up and... stuff.
+LAZARUS	m	This town ain't goin' nowhere. You  take the time you need.
+LAZARUS	m	Friend of mine.
+ANGELA	f	I bet you have loyal customers.
+LAZARUS	m	You liked what I brung ya?
+ANGELA	f	Been eatin' like a princess all week.  Even got enough for us to take a  picnic under the gazebo.
+LAZARUS	m	That'd be nice.
+ANGELA	f	I put on the lotion you got me. Can  you smell it?
+LAZARUS	m	That's nice, too.
+RAE	f	Hey.
+SANDY	f	What happened to your face?
+RAE	f	Got in a little accident.
+SANDY	f	Yeah.
+RAE	f	Since you workin' on the square now,  maybe we could get some coffee in  the morning, if you want.
+SANDY	f	You need money again?
+RAE	f	No. That's not why... Why we always gotta do this? I mean,  you and me been at each other as far  back as I can remember. Wasn't no  love between us. And I'm your  daughter. I'm the only family you  got.
+SANDY	f	You never needed nobody. Always made  that clear to me.
+RAE	f	Yeah. I know I did. But... I'm tryin' to be dif'rent. I'm tryin'  to... get some peace, you know?
+SANDY	f	I'm workin' here, Rae. Can you see  that?
+RAE	f	I just wanted some make-up.
+SANDY	f	All that shit's on aisle 5.
+RAE	f	I just think you should'a kept him  off me, that's all.
+SANDY	f	The hell are you talkin' about?
+RAE	f	Now see? Don't do that. I'll go along  with all you say about me. But that...  you can't pretend no more on that.  Cuz I was just a kid, Momma. I didn't know about any of that stuff  he was doin' to me. And you let him do it. Some big nobody  in your life... and you let him do  as he wanted... with the only SOMEBODY  you had.
+RAE	f	I'm sorry... I didn't mean to shout...
+SANDY	f	All my life I been puttin' out your  fires, with you givin' out your snatch  to every waggin' dick in this town.  And you gonna lay the blame at my  feet? Well, I ain't gonna take that.
+RAE	f	But... Momma... just tell me... not  gonna be mad... we can just talk  about it... Be eye to eye on this...  You don't even got to say you're  sorry... Just say how you knew...
+SANDY	f	Only thing I'm sorry for is listenin'  to my parents and having you instead  of doin' what I should'a done.
+RAE	f	...tell me you don't know... goddamn
+RAE	f	SAY IT! JUST FUCKING SAY IT!
+MARK	m	Rae! Rae! What are you doin'?
+ANGELA	f	I's thinkin' about singing in the  choir.
+LAZARUS	m	At church?
+ANGELA	f	Mm-hm. I don't know if I got a good  voice or not but... practice is only  on Mondays and Wednesdays, so...
+LAZARUS	m	You gonna sing me somethin'?
+ANGELA	f	When? Now? Oh. No.
+LAZARUS	m	Come on, just a little somethin'.  Right here. Go'on now, don't be shy.
+ANGELA	f	There is a balm in Gilead to make  the wounded whole.
+ANGELA	f	There is a balm in Gilead to save my  sick, sick soul. So. You think I should be in the  choir?
+ANGELA	f	What? What is it?
+LAZARUS	m	RAE? GAL? YOU HEARIN' MY VOICE?
+LAZARUS	m	I'll take you home now.
+ANGELA	f	This your cousin?
+LAZARUS	m	Move, son. Goddammit, kid, get outta my way!
+RAE	f	You took care of your wife, like you  do me?
+LAZARUS	m	I tried.
+LAZARUS	m	You and me, we night owls. No use  fightin' this shit. Get up.
+LAZARUS	m	What is it?
+RAE	f	Nothin'.
+LAZARUS	m	Get'chu at that table up yonder.
+RAE	f	By myself?
+LAZARUS	m	You can handle it.
+LAZARUS	m	The hell is this shit?
+R.L.	?	What? I called Bojo, like you say.  Called up the fellas in the band...
+LAZARUS	m	The fuck are all these people doin'  here? Been drinkin' in this shit  hole for years ain't seen this many  people since I don't know...
+BOJO	m	Shit hole... Hey kiss my ass, Laz.
+LAZARUS	m	Nigga, you go'on kiss my ass. Ya  both called everybody, didn't ya?
+LAZARUS	m	There you go, preacher man. Get me  drunk so I don't stick my foot up yo  ass.
+R.L.	?	I just know how you get. Good to  know, them butterflies still in ya  gut.
+R.L.	?	Heard about this morning.
+LAZARUS	m	We ain't here to talk about that  shit.
+R.L.	?	You in for it, now. He gonna nail it  to the wall tonight. I done pissed  him off.
+LAZARUS	m	I don't know, but I been around,  tell me them women shake 'em on down.
+LAZARUS	m	Yes, I'm goin' Georgia line.  See if them women sweet like mine.
+HERSHEL	m	You wanna cut it up, baby?
+RAE	f	Well...
+R.L.	?	Yeah, you know you home, old man.  You just walked through the door.
+LAZARUS	m	I don't know, but I been told, them  Georgia women sweet jelly roll.
+RAE	f	Are you drunk? Keep drinkin' water and you won't  get a headache in the mornin'.
+LAZARUS	m	Yeah, gal I been here before.
+RAE	f	I guess you have.
+RAE	f	Laz? Can I sleep with you tonight?
+LAZARUS	m	Don't think that'd be wise.
+RAE	f	I didn't mean it nothin' dirty.
+LAZARUS	m	I know you didn't. But you a grown  girl. You can handle it. I got to.
+ARTY	m	Baby, where you goin'?
+RAE	f	I'm gonna pee. I gotta take a break  and go pee.
+ARTY	m	Now, this isn't fair. You said I  could do it, too.
+RAE	f	Eat shit and die, Arty. A girl can  change her fuckin' mind.
+RAE	f	Hey.
+RONNIE	m	Hey.
+RAE	f	You don't gotta get up but... I gotta  go...
+RAE	f	I think if I just piss... I'll be  okay.
+RONNIE	m	You feelin' sick?
+RAE	f	I'm just in one of my moods. You  know how I get.
+RONNIE	m	Yeah, I know.
+RAE	f	I think it'd be better if you talk  to me.
+RONNIE	m	Yeah?
+RAE	f	Just about anything, you know. It  can be funny or... not. Just tell me  somethin'.
+RONNIE	m	Well. That's my vomit. I came in  here to get sick. I thought I'd make  the toilet but... anyway, I got sick.
+RAE	f	Are you wasted?
+RONNIE	m	No. I just got a messed up stomach.
+RAE	f	Holy shit!
+RONNIE	m	What?
+RAE	f	Holy shit, Ronnie! You're a fuckin' rock star.
+RONNIE	m	I'm a what?
+RAE	f	All them people shoutin' your name  like they were doing tonight! Shit!  That arm you got'll get'chu on a box  of cereal...
+RAE	f	Hey? You okay, Ronnie?
+RONNIE	m	Box of cereal... well, Goddamn... Everybody keeps sayin' things to me  take make me feel great. But I don't  feel great at all. I feel like I'm  comin' outta my skin. Like I'm losin'  control of my mind. I'm not like this. I'm not usually  so... afraid. I don't know what's... wrong...
+RAE	f	Is'okay... Is'okay...
+RAE	f	I feel better. Do you?
+RONNIE	m	Yeah, I do.
+RAE	f	You... are my... sunshine.
+RAE	f	Sorry.
+LAZARUS	m	Looks like you know a song.
+RAE	f	Don't know where I learn't it, but...  it's there in my head.
+LAZARUS	m	How you feelin' today?
+RAE	f	You know how you feel when you come  out of a bad hangover? Like your  eyes can open a little bit more.
+LAZARUS	m	I know that.
+RAE	f	Woke up real early. Sun was shining.  Just thought I'd mess around, try to  learn a song.
+LAZARUS	m	Go'on and sing it, I'll play.
+RAE	f	No, you do it. I can't sing.
+LAZARUS	m	Stop that foolishness. Just do as I  say and close your eyes. Close your eyes. And think about...  well, for a song like this, I'd say  you think about what you love.
+RAE	f	What I love.
+LAZARUS	m	Get a good picture in your mind.
+LAZARUS	m	Think on that. And sing wit me. You are my sunshine. My only sunshine.
+RAE & LAZARUS	f	You make me happy when skies are  gray.  You'll never know dear, how much I  love you.  Please don't take my sunshine away.
+LAZARUS	m	Good. I know another. It go like  this. Last night dear, as I lay sleeping.  I dreamed I held you in my arms.  When I awoke dear, I was mistaken.  So I hung my head and I cried. Close your eyes Rae... sing it.
+RAE	f	You are my sunshine. My only sunshine.  You make me happy when skies are  gray.
+RAE	f	You'll never know dear, how much I  love you.  Please don't take your sunshine away.
+RAE	f	RONNIE STOP! RONNIE!
+RAE	f	NO!
+RONNIE	m	Ain't been a week and you already  some nigger's whore? Gill told me.  Told me how you and he... you and  everybody...
+RAE	f	Ronnie. Please, baby...
+RONNIE	m	Did 'ya have fun with her? Sweet as  a peach, I bet. Huh? Huh?
+RONNIE	m	Goddamn it, I ask you a question,  you better answer it, or I'm gonna  blast a hole in ya!
+RAE	f	Ronnie...
+RONNIE	m	YOU SHUT UP!
+LAZARUS	m	Careful how you point that gun, boy.
+RONNIE	m	Or what? OR WHAT?
+LAZARUS	m	Boy? You here to make a point, or  you here to kill somebody?
+RONNIE	m	Ain't gonna be callin' me boy when I  blow your face off.
+LAZARUS	m	You sayin' you'll do what?
+RONNIE	m	You heard me, mother-fucker. I'll  fuckin' kill..
+LAZARUS	m	BOY! You so green you couldn't stomp  a baby duck.
+RONNIE	m	You testing me? Huh? You testin' me,  old man?
+LAZARUS	m	Test. Shit. What kind'a test you  thinkin'? You mean like, if you a  man or not? If you a killer? Only  one way to prove that. You just look  me in the eye, boy, and you squeeze  that trigger back.
+LAZARUS	m	Ain't that easy, is it? I been in  some scraps, son, I know. First  there's that loud crack. Always louder  than you think. Like it just come-up- a-cloud and clapped a mess thunder  right in ya hand. BAM!
+LAZARUS	m	White light. Smell of smoke. Taste  of my blood and brains in your mouth,  stingin' ya eyes.
+RAE	f	Oh, baby... just let me...
+RONNIE	m	GODDAMMIT, RAE!
+LAZARUS	m	BOY! YOU KEEP THAT GUN POINTED AT
+RONNIE	m	SHUT UP! SHUT UP!
+LAZARUS	m	Put all your love and dreams into  one woman... she turn around and  give it all to another man. That's a  good reason to paint the wall with  me, kid. She'd fear ya then. Cuz  there won't be no more question in  her mind. She with a real man now. A  real KILLER!
+RONNIE	m	Don't... don't say that to me...
+LAZARUS	m	Son, I'm grown. Don't got patience  to suffer you children and this monkey  junk. I'm too old to play house... ...and cowboys. So let's have it.  End me or get out of my face!
+LAZARUS	m	Go'on. Do it.
+RAE	f	Ronnie?
+RONNIE	m	I can't stop... I can't stop... being  scared. What am I gonna do...
+RAE	f	I got you, baby... I got you...
+RAE	f	What are you doing? You gonna call the cops? You think  they gonna help this? They ever help  you, Laz? Huh?
+LAZARUS	m	Thought you knew me better, gal. I need you at my house... right now.
+R.L.	?	I imagine there's a lot of good  between you two. But I want you to  tell me what's bad. Go'on. And don't  hold back.
+RONNIE	m	I hate this town. You can't round  the corner without bumping into  someone who's got your number. We did a lot of dreamin', me and  Rae. Makin' plans to get out. I'd do  my tour and... we'd move outta here.  Go to Chattanooga. And I'd work for  my uncle. But... when Rae gets like she does.  And she does the things that she  always done. Makes me feel like she  loves this place more'n me.
+R.L.	?	Go on, Ronnie.
+RONNIE	m	All my life people called me shit  like, sissy and... nervous and... I  got few things in my life that make  me feel like... like...
+LAZARUS	m	Like a man.
+RONNIE	m	Yes. I mean that's it. I wanna feel  like a man with her. I wanna feel  like the only man with her.
+R.L.	?	Now, Rae, we're not here to fix you  or judge you. Only you and the  Almighty can do that. But I want you  to tell me about these spells you  get.
+RAE	f	It starts like this... fire... that  spreads. Starts in my head. Then  moves to my stomach. Then it goes  lower. I can stop it sometimes but  mostly I just jump on and ride it  out... then everything'll go back to  normal, you know. Only thing ever  took that feeling away was... was...  when I met Ronnie. Cuz I love him so much. He's all I  got in my life that's special. And I  like taking care of him and helping  him when he gets nervous. When I can  do that for him... it's like I'm  givin' somethin' of myself that I  haven't givin' nobody else.
+R.L.	?	Rae, look at Ronnie. And tell him  how you feel.
+RAE	f	I think... I think we're fucked up.  Both of us. I know I am. But... that  don't mean what I feel ain't true.  It don't mean I can't love. And I  know, how I been is... is... REALLY  BAD! So if you want to quit on me...  I understand. But please... please...  don't.
+R.L.	?	So. What'chu two gonna do about this?
+ANGELA	f	Hey.
+LAZARUS	m	Hey. You wasn't at'cha work but that  nosey gal up at the counter give me  your home address. Hope you don't  mind me comin' over.
+ANGELA	f	What do you need?
+LAZARUS	m	I need ya help again.
+ANGELA	f	More cough syrup?
+LAZARUS	m	Can I come in?
+LAZARUS	m	I lied to you. It was wrong. But at  the time... I didn't know what to  do. Imagine you got an earful from  folks about that gal I's carryin'...
+ANGELA	f	Laz... you don't need to explain  yourself to me...
+LAZARUS	m	Yes, I do. Cuz I feel for you. Mean  to say... I got feelings for you. And I didn't  want you to think... I didn't... I don't want you to go away. There's  better ways to say what I'm trying  to say, but... they it is. Don't go  away.
+ANGELA	f	Laz. I'm gonna put my trust in you.  I'm gonna do it knowin' all too well  I can get hurt like this. And I have  been hurt. Just like you. Woman like me, I got a lot of livin'  to do. But my days are precious to  me. They all I got left. Don't want  no more fuss. I want love in my life.  You understanding me, Laz?
+LAZARUS	m	I do. God's truth. I do.
+ANGELA	f	Now what'chu need me to do? Cuz I'm  gonna go do it.
+TEHRONNE	?	Yo, this here Pinetop. I think he  got what you lookin' for.
+LAZARUS	m	That'll do.
+TEHRONNE	?	It got some miles on it, but my boys  say she run good. Got fresh 22's on  her. Ain't my doin'. That's just how  it came to me. Don't worry. Nobody  gonna come lookin' for it. I got the  pinks... got no problem. Ain't gonna have my girl ridin' no  bus.
+LAZARUS	m	Don't see generosity much these days.  Everything always got a catch. Guess  I'm tryin' to say... thank you.
+TEHRONNE	?	Nobody ever asks me to do shit like  this for people. And you know what?  I'm good at it. Naw what I mean?
+ANGELA	f	What are you doing?
+RONNIE	m	Just wanted to see.
+ANGELA	f	You know the rules. You do know the rules, don't you?
+RONNIE	m	Yeah, I know.
+ANGELA	f	Then start taking them seriously.
+RONNIE	m	Yes, ma'am.
+ANGELA	f	It's okay to breathe, honey.
+RAE	f	Yes, ma'am.
+LINCOLN	m	You Ronnie?
+RONNIE	m	Yeah.
+LINCOLN	m	I'm Lincoln. Guess I'm gonna be your  best man.
+RONNIE	m	Okay.
+LINCOLN	m	You havin' trouble with that tie?  Cuz I'm pretty good at it.
+LINCOLN	m	Gotta do it like this or I get all  turned around.
+ANGELA	f	She's ready for you.
+LAZARUS	m	Now that's sharp. That's real sharp.  Miss Ella Mae set you up, didn't  she? You like it?
+RAE	f	I've had nice things before but I  always ruined 'em somehow.
+LAZARUS	m	Well, this one's yours now. You ready  to take care of it?
+RAE	f	I want to. More'n anything. But I...
+LAZARUS	m	Now... let's stop that. You and me... we can handle this.  You hear me, gal? We gonna be just  fine. Now live ya life. Pull your  shit together and live your life.
+RAE	f	Okay.
+RAE	f	I don't want you to let go.
+LAZARUS	m	Maybe I won't.
+R.L.	?	When I was a child, I talked like a  child. I thought like a child, I  reasoned like a child.
+R.L.	?	When I became a man, I put childish  ways behind me.
+R.L.	?	Now we see but a poor reflection as  in the mirror; then we shall see  face to face. I know in part; then I  shall know fully, even as I am fully  known.
+R.L.	?	And now these three remain: faith,  hope and love. But the greatest of  these is love. Who gives this girl in marriage?
+LAZARUS	m	I do.
+LAZARUS	m	You got her now?
+R.L.	?	Ronnie. Rae. I want you to look at  each other and listen to me carefully.  Do you understand?
+RAE & RONNIE	f	Yes. Yes, sir.
+R.L.	?	I require and charge you both as you  stand in the presence of God to  remember that love and loyalty alone  will avail as a foundation of a happy  and enduring home. Go on, hand it to him.
+R.L.	?	No human ties are more tender. No  vows more sacred than those you now  assume.
+R.L.	?	If these solemn vows be kept  inviolate, the home which you are  establishing will abide in peace and  your life will be filled with joy.
+RONNIE	m	I gotta pull over.
+RAE	f	You are my sunshine. My only sunshine.  You make me happy, when times are  gray.
+RAE	f	You'll never know dear, how much I  love you.  Please don't take, my sunshine away.
+RAE	f	See. We're okay.
+

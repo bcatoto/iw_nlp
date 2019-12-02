@@ -1,0 +1,905 @@
+15-YEAR-OLD	?	That's 34 minutes. You're 4 minutes late. Pizza's free.
+WILL	m	Gimme a break. You guys live two towns away. It's pretty much fucking impossible to get here in 30 minutes.
+OTHER 15-YEAR-OLD	m	Exactly. That's why we ordered from your shitty "trattoria."
+WILL	m	This is gonna come out of my paycheck. You sure you don't want to take the moral high ground?
+OTHER 15-YEAR-OLD	m	We'd rather take the pizzas.
+WILL	m	Ok. You guys are pretty smart. You figured out a way to beat the system. Got the house to yourselves?
+15-YEAR-OLD	?	That's right.
+WILL	m	Not bad. Any jailbait in there? Little pizza and a rainbow party?
+WILL	m	Seriously? Well, two hustlers like yourselves gotta have the place stocked with beer and whippits and shit, right? Just call the girls up and let them know the party's on.
+15-YEAR-OLD	?	Man, we don't have any of that stuff.
+WILL	m	I really shouldn't do this...but you seem like a couple of good dudes. I'll tell you what, you give me the money that your mom left you for the pizzas, and I'll grab you some beers.
+WILL	m	But I get to keep the change as a tip. Deal?
+WILL	m	I'll see you in like 20 minutes.
+WILL	m	You boys like Budweiser, right?
+15-YEAR-OLD	?	Uh, yeah, totally.
+OTHER 15-YEAR-OLD	m	Love that shit!
+WILL	m	Yo, Chris. Let me cash the fuck out.
+CHRISTOPHER	m	You have a pretty good shift?
+WILL	m	For sure. I mean, the part where I had to drop off all those pizzas kinda sucked, but the rest was cool.
+CHRISTOPHER	m	Oh, yeah? 'Cause, I got some kids calling in saying you ripped them off. Promised to buy them beer or something.
+WILL	m	I actually did buy the beer, but it would have been illegal to give it to them, right? So I'm gonna do the responsible thing and drink it myself.
+CHRISTOPHER	m	That's real funny. But I'm trying to run a business here.
+WILL	m	What kind of business promises to deliver anywhere in 30 minutes? It's ridiculous.
+CHRISTOPHER	m	I don't wanna hear another one of your bullshit excuses. You're fired.
+WILL	m	Come on. If I didn't need this job, I wouldn't be doing this shitty job.
+WILL	m	Fuck! Whatever!
+CHRISTOPHER	m	You know, you were an okay driver half the time. And you're not a Puerto Rican. Which means something to me.
+WILL	m	That's poignant.
+CHRISTOPHER	m	I guess I could rehire you, on a provisional basis. Of course, this would be at the slightly reduced "new company rate."
+WILL	m	Are you fucking serious?
+CHRISTOPHER	m	I don't know. Is there anyone else left in town for you to work for?
+WILL	m	When do I start?
+CHET	m	What the hell? Have you just been sitting there?
+WILL	m	Yep. Caught the whole show. Really classy move at the end. You know, the kiss. Putting your tongue in her mouth right after you fucked it.
+CHET	m	Hey, a nice girl decides to pleasure me on a weeknight, in her car no less...I'm not gonna make her feel like an untouchable. I'm gonna make her feel like a lady.
+WILL	m	What manners. May I offer you some alcohol, sir. To wash the taste of yourself out of your mouth.
+CHET	m	By the way, she said she had a friend. Maybe we can go on our first double date since you tried to talk Jackie Fortunato and her cousin into having a four-way with us.
+WILL	m	I misread their body language. It happens.
+WILL	m	Come on. Let's go inside, drink your beer and watch shit get crazy. Old favorites. You choose. Lethal Weapon, Lethal Weapon 2...was gonna get the third Lethal Weapon, but decided on a porn. So it's really between the first two.
+CHET	m	I choose sleep. I gotta teach a class at eight.
+WILL	m	You're a sub. Just call in sick. Like the real teacher did.
+CHET	m	Come on, man, you know I got promoted to full-time last month. You bought me a laser pointer.
+WILL	m	Yeah, I know. I guess I'm just having a hard time accepting you as "the man." You know, flunking kids, giving out spite detentions to girls you wanna fuck, laser pointing at shit.
+CHET	m	I also get healthcare and my summers off. It's not perfect, but it's a career.
+WILL	m	I guess that's just the difference between you and me.
+WILL	m	I'm like Riggs. Cruising the streets. No rules, no attachments. Every other day some asshole is trying to take my badge. You're fucking Murtaugh. Always worried about your pension. Well, guess what, it gets old after the first movie.
+CHET	m	I just got head. I'm totally Riggs.
+WILL	m	Fuck.
+WILL	m	You asshole. You titanic asshole. Come on down and get your prize.
+DWAYNE	m	Fruit motherfuckin' salad!
+JAY	m	This one's gonna blow even bigger.
+DWAYNE	m	Boy, if you weren't such a skinny little bitch you coulda been in the military or something.
+JAY	m	Whatever. I don't need the military. I taught myself how to do this shit.
+DWAYNE	m	I hear that. I taught myself how to eat pussy. And cut my own hair.
+DWAYNE	m	This one's all me. (makes "radio" sounds) Mr. President, we have enemies at the gate. Give me the order. (more "radio" sounds) Fuck that, sir. I don't negotiate with terrorists!
+DWAYNE	m	Wanna make sure I get enough calories.
+JAY	m	I thought you wanted to get diesel for the summer. Bang that towel girl at the community pool.
+DWAYNE	m	It's obvious you don't know shit-all about physical fitness. You gotta bulk up first, then you slim down. I'm clearly in the bulk up phase. I told you to watch Pumping Iron like a month ago. If you'd listened to me, maybe you'd know what the fuck I'm talking about. Grab some RC Cola.
+JAY	m	Shit, man! It's so real!
+DWAYNE	m	Check it out. I ain't afraid of Jason. I'm fucking him. You like that, Jason!? In the mask!
+JAY	m	Afternoon, Major.
+DWAYNE	m	Dad, we're watching a flick. We got 45 minutes and a potential 3D sex scene left. You're sorta coming in at the worst possible moment.
+MAJOR	m	I bought that TV set so I could watch my programs, not so you and your friend could louse up my couch.
+DWAYNE	m	You gotta learn how to share the common space.
+MAJOR	m	The only thing common in this house is you. You remind me of your damn mother. Fat, dumb, and in my way.
+DWAYNE	m	Let's get outta here. This movie sucks anyway.
+MAJOR	m	I paid for the damn cold cuts, too. Maybe if you had a job, or a fucking prospect, or a clue how to find any of the above, I'd let you eat 'em.
+DWAYNE	m	You know, you can be a real sonofabitch, dad.
+MAJOR	m	That's what it takes, boy. In the Corps, men like you wore dresses to keep us entertained.
+DWAYNE	m	That's pretty fucking disturbing!
+DWAYNE	m	Fuck The Major!
+DWAYNE	m	- and he thinks he knows me. He don't know shit. I got ideas he could never dream of. I got plans bigger than his fucking house. He didn't even raise me. My mother did. That was a good woman.
+JUICY	f	Oh yeah? What happened to her?
+DWAYNE	m	She passed on.
+JUICY	f	I hope you're not one of those guys that comes here looking to get mothered.
+DWAYNE	m	I wouldn't mind nursing on them titties, mamacita.
+JUICY	f	Sure. Whatever you say. Maybe just keep quiet for a while, forget about your old man and let me do my thing.
+DWAYNE	m	I wish I could forget about that asshole for good. I'm just waiting around for him to drop dead. Don't wanna mess with my inheritance.
+JUICY	f	What kinda inheritance?
+DWAYNE	m	When my dad got outta the service, he started buying lotto tickets. He'd play his dog tag numbers. In '91, the fucker won five million bucks.
+DWAYNE	m	He had some health problems a few years back, and since then he's been burning through the money like an NBA draft pick. Probably only got a million or two left. But it's mine as soon as he kicks.
+JUICY	f	You know, with a million bucks, you could have anything. Be like a king. (almost a moan) King Dwayne.
+DWAYNE	m	That's right. And maybe I'll make you my queen. Let you polish my royal scepter.
+JUICY	f	Practice makes perfect.
+JUICY	f	Let me ask you a question...do you really hate your daddy?
+DWAYNE	m	Hate him like the Steelers.
+JUICY	f	Then maybe I can help you get that money now. Before he spends another penny.
+JUICY	f	I know a guy in Baltimore. He could help you out. Probably do it for... (sizing him up) ...100Gs.
+DWAYNE	m	Do what?
+JUICY	f	Kill your mean old dad.
+JUICY	f	So, what do you think...you ready for your crown?
+WILL	m	Rio?
+KATE	f	That's the plan. Five days, six nights. Culture. Beaches. Acceptable probability of kidnapping. I leave in the morning.
+KATE	f	This morning I loaded up an African Safari and a cruise to Alaska.
+WILL	m	Oh, the places you'll go.
+KATE	f	Fuck Expedia. Travel Advisor. Making it seem so easy.
+WILL	m	It is. Just do it. Get away for a while.
+KATE	f	Even if I could afford that...they fired two other paralegals last week. Now's not the time to be putting in for vacation days.
+WILL	m	Ok. Done. I've got my dose of the actual working world. Can we eat?
+KATE	f	How do you keep sneaking up here past the security guard?
+WILL	m	He's there like half the time. The other half I smile at him. I'm relatively certain he's a homosexual.
+KATE	f	Interesting theory...
+KATE	f	Maybe I should set him up with Tom Small. He came out to me today on Facebook.
+WILL	m	That kid beat the hell out of me and Chet in grammar school. Wow.
+KATE	f	Tell me about it. He fingered me at junior prom while they were playing "No Scrubs."
+WILL	m	Really? What a fucking scrub.
+KATE	f	So, I've got some news...
+WILL	m	I thought the Tom Small stuff was enough of a headline, but go ahead.
+KATE	f	I'm getting back together with Mark.
+WILL	m	But you...you broke up with him...ended the relationship. Finality was had.
+KATE	f	Yeah, but we were talking and -
+WILL	m	Forget it. I don't want to know.
+KATE	f	You sound like Chet.
+WILL	m	Woah, don't compare me to your brother.
+KATE	f	Well, neither one of you seems to care that I don't have a life. Mark's not perfect...but a relationship is better than working late every Friday because I have nowhere else to be.
+WILL	m	Sure. I get it. Here we are. Friday night. Nowhere to be.
+KATE	f	You know what I mean.
+JAY	m	I don't wanna stick my nose into a family matter...but killing your old man? That's pretty messed up...I mean, unless you think it isn't.
+DWAYNE	m	What we have here is a classic "lesser of two evils" debate. You got one evil: me shaving a few years off The Major's shitty life. Then you got the other evil: The Major ruining my entire awesome life by blowing through my inheritance. Maybe I'm biased, but mine sure as shit seems like the lesser.
+JAY	m	I guess I...sorta see where you're coming from. And you have been waiting around forever for that money. You deserve it, Dwayne.
+DWAYNE	m	You know, there's a reason I sleep 'til noon everyday. And it ain't 'cause I'm lazy. It's on account of me having so many goddamn dreams. Big ones. And once that money's mine, they're all gonna come true.
+DWAYNE	m	Like I had this one dream last night. I was cruising through town in a Lamborghini Diablo. The wind was blowing through my hair, ruffling my open shirt. There was a hot little piece of ass sitting next to me. And in the back seat, Jay...was you. Strapped. Wearing a pair of Oakleys.
+JAY	m	Wow. I didn't know you dreamt about me, Dwayne.
+DWAYNE	m	It was only this once, Jay. To be honest, I didn't know what to make of it. So I consulted my dream book, and found out it means this: you're my road dog. You got my back.
+DWAYNE	m	That's why I want to make you my partner.
+JAY	m	In what?
+DWAYNE	m	In crime. And business. You see, it ain't just about the inheritance money. It's about what I'm gonna do with it.
+DWAYNE	m	I'm about to clue you in on something. And then you'll understand the true magnitude of what's at stake here. Are you ready?
+JAY	m	Yes. I'm totally ready.
+DWAYNE	m	Then answer me this...what's this town missing? I'll give you a hint. It's a cash business, crawling with sexy bitches.
+JAY	m	A Chinese food restaurant?
+DWAYNE	m	No. A tanning salon. Think about it. All that green. All that brown flesh.
+DWAYNE	m	It's also the perfect front for a prostitution ring.
+JAY	m	Yeah, of course. Because of the booths.
+DWAYNE	m	Yes. And because of the bitches. It can all be ours. 30 percent for you, 70 percent for me. You just gotta help me out here.
+DWAYNE	m	I'm starting to wonder if my dream book was wrong about you. Maybe you sitting behind me doesn't mean you're my road dog. Maybe it means you're plotting to stab me in the back, like some snake in the grass.
+JAY	m	That's crazy. I'd never do something like that. The dream book was right!
+JAY	m	Ok. I'll do it. But I'm not shooting him or anything. I'll hold him while you shoot him. That's it.
+DWAYNE	m	Here's a fact: they don't build prisons for criminals, they build them for idiots. Shit, they got three different types of CSI on TV, just laying out how the police do their business...and still, idiots like you think you can just go out and do a murder yourself. If you wanna be a millionaire, you gotta think like one. And millionaires don't kill people. They hire assassins. Which I did. We gotta pay him on Tuesday.
+JAY	m	What? Why would you do that?
+DWAYNE	m	I was presented with an opportunity. I took it. 100 thousand bucks for a highly trained assassin is a steal.
+JAY	m	But we don't have that kinda money.
+DWAYNE	m	Now we're addressing the real problem: how do we get the 100 grand? 'Cause once we get that, we get the million.
+DWAYNE	m	And once we get the million, we will literally own this town and every single thing in it.
+JAY	m	I guess we could just...rob a bank. One of these local banks with nothing but a dipshit security guard.
+DWAYNE	m	Again, not quite thinking like a millionaire.
+JAY	m	Okay, then let's hire someone to rob a bank.
+DWAYNE	m	Fuck hiring them, we could just force someone to rob a bank for us. Like with blackmail, or death threats, or -
+JAY	m	A bomb. Everyone's scared of a bomb.
+DWAYNE	m	I was gonna say hypnotism...but I like that. It's out of the fucking box. We just strap one to some motherfucker's chest, like we did to those watermelons. Think you can you build some kinda bomb vest?
+JAY	m	Yeah, I mean...camel jockeys do it in caves. I got a garage workshop.
+DWAYNE	m	I'm pretty sure this is exactly how a millionaire would do it. And the beauty of it is: we don't lose any sleep, 'cause no one gets hurt.
+JAY	m	Except The Major.
+DWAYNE	m	Yeah. The Major dies. But no one gets hurt.
+DWAYNE	m	There's just one problem. Where do we get our guy? 'Cause if we do a kidnapping, then we're right back where we started...doing shit that's gonna get us caught. What we need is someone to come to us...to a place where we can control the situation. Someone without any connection to us.
+PIZZA CHEF	m	We'll deliver anywhere in 30 minutes or less! Or your pizza is free! Giorgio's Trattoria, where the customer gets what they want...pronto!
+DWAYNE	m	Sometimes fate just takes out its cock and slaps you in the face with it.
+RIGGS	m	I'm hungry. I'm gonna get something to eat.
+CHET	m	Maybe you should pace yourself. It's noon on a Saturday.
+WILL	m	Fridge is full, man. We're all good.
+WILL	m	Let me ask you a question. You remember Tom Small?
+CHET	m	Yeah, he used to kick our asses.
+WILL	m	Turns out he was probably jerking off to it afterwards. He's gay.
+CHET	m	I hope he chokes on a dick. I never liked him.
+WILL	m	Your sister did. She let him finger blast her. Big time.
+CHET	m	What the fuck are you talking about? I don't want that shit in my head.
+WILL	m	Sorry. Kate told me about it last night. I thought you should know.
+CHET	m	You two were swapping stories about getting fingered? That's pretty cute.
+WILL	m	The point I'm trying to make is this: Tom Small was an asshole. He was totally wrong for your sister. Just like every other guy she's ever dated. Right through to that Mark dude she's gonna get back together with. Un-be- fuck-me-lievable...
+CHET	m	Whatever. Why the fuck are we talking about who my sister goes out with?
+CHET	m	You? An adult? Sort of stretching the term.
+WILL	m	Hey, let's not say shit we can't take back.
+CHET	m	Take back? Will, you got kicked out of junior college for punching a professor that made fun of some poem you wrote.
+WILL	m	That poem was about your sister!
+CHET	m	That is, literally, the saddest thing I have ever heard. Like retards playing freeze tag sad. No wonder you deliver pizzas for a living.
+WILL	m	Fuck you! Maybe I was just hanging out with you for your sister. You were always a whiny little bitch. And you stuttered. All the kids used to call you "Chutter."
+CHET	m	Whatever. I only started hanging out with you because you had a Nintendo.
+WILL	m	Did you see my Nintendo naked? Because I saw your sister changing into her swimsuit at your thirteenth birthday pool party. And it was the highlight of the whole shitty event.
+CHET	m	Okay. You wanna do this?
+WILL	m	I think we already are.
+CHET	m	Well, you know who I saw naked? Jenny Rifkin. While I was nailing her. The week after she dumped you.
+CHET	m	Why do you think every time you wanna bet on whose cock's bigger I'm always willing to go in? 'Cause I know mine's bigger. 'Cause she told me!
+WILL	m	Wow...wow. You pulled a Judas on Jenny fucking Rifkin. That is messed up. Almost as messed up as how I sold your Cal Ripken signed ball for 200 bucks.
+CHET	m	My grandpa left me that ball in his will! You helped me look for it for a month!
+WILL	m	Now you know why we never found it.
+WILL	m	We done here?
+CHET	m	Not quite yet. There's actually a mystery I wanna solve for you. I was the one who told John Tanner about how your mom fucked that lifeguard. And I always felt awful about it, because even though he swore secrecy, he told everyone else in town. And then your parents wound up getting divorced. But now...I don't give a shit.
+WILL	m	What!? You ruined...my fucking life!
+CHET	m	Krav Maga, bitch. I bet your poetry professor didn't know this shit.
+WILL	m	Get offa me!
+CHET	m	You threw the first punch!
+WILL	m	I'm gonna break this hold and then kick your skinny ass!
+CHET	m	Try it!
+WILL	m	What the fuck is that!?
+CHET	m	My knuckle in your spine! No holds barred you backstabbing fuck!
+WILL	m	I'm gonna pass out...
+CHET	m	Good!
+WILL	m	(face bright red) I love her, Chet...I love Kate...
+CHET	m	Let me tell you something. And it's the truest thing you'll ever hear, from the person who knows you best in the world...you're not good enough for my sister. And you never will be. You're the lowest common denominator, Will. You're the square root of fucking zero.
+WILL	m	Fuck you...Chutter! Square this!
+CHET	m	Get out of my house. You're a shitty friend.
+WILL	m	Right back at you.
+CHRISTOPHER	m	Come on, wake up and get to work.
+WILL	m	Where the fuck is this?
+CHRISTOPHER	m	How should I know? It's 30 minutes away or the pizza comes out of your paycheck. Tick tock.
+WILL	m	Hello?
+WILL	m	What the -
+WILL	m	Holy fuck!
+DWAYNE	m	Stop! We got a gun, you asshole!
+DWAYNE	m	Fuck! Get him!
+WILL	m	What the hell!? (at a loss) Rape!
+DWAYNE	m	Step one.
+DWAYNE	m	You thought we were gonna rape you. Idiot.
+DWAYNE	m	Just shut up. The tape is there for a reason. 'Cause this next part is gonna take a measure of calm. Are you with me? Can you be calm?
+DWAYNE	m	Will Dixon, of 112 North Whatever- The-Fuck Street, right now you are wearing an explosive vest.
+DWAYNE	m	Calm the fuck down!
+DWAYNE	m	Now stay still and my associate will show you.
+JAY	m	Take it easy, man. You're fine. I built this thing. It's pretty stable.
+DWAYNE	m	For a fucking bomb. So don't trip over your shoelaces or anything. That thing's full of C-4. And the C is for chaos.
+JAY	m	Actually, the C stands for "composite." But, yeah, I'd try not to slam into stuff.
+DWAYNE	m	Can I take that tape off now, pizza boy?
+WILL	m	Help!
+DWAYNE	m	You know where you are? You might as well be in space, motherfucker. Nobody can hear you scream.
+WILL	m	Why are you doing this to me? I don't have any money.
+DWAYNE	m	Not yet. But you're gonna go get us some.
+WILL	m	Okay. Sure, man. Whatever you say. I'll go sell my car. I'll get you like a thousand bucks.
+DWAYNE	m	I want 100 thousand.
+WILL	m	Where the fuck am I supposed to get that much money?
+DWAYNE	m	The Donner-Wells National Bank on Charles Road.
+JAY	m	Across the street from the Olive Garden.
+DWAYNE	m	Yeah, the one across the street from the Olive Garden.
+WILL	m	Do you guys have an account or something?
+DWAYNE	m	No, I don't have an account! You're gonna rob it!
+WILL	m	How the fuck am I supposed to rob a bank?
+DWAYNE	m	Figure it out. You got a bomb strapped to your chest. That's a start. It'll scare the fuck outta people. Maybe use your brain and go get a gun. Borrow one from a friend for all I care. It ain't rocket science.
+WILL	m	Then do it yourself.
+DWAYNE	m	I would, but I'm already wearing this gorilla mask and you're already wearing that bomb. Tell him about the vest.
+JAY	m	You seem like a pretty trustworthy guy. I mean, you got a job and all. But just in case you were gonna try to take the vest off, we booby trapped it to shit. There's also a remote detonator on the back, so we can trigger it by dialing a number.
+DWAYNE	m	And it's on speed dial. So do what you gotta do, but we'll be watching.
+DWAYNE	m	You go anywhere near a police station, and Fourth of July comes early this year.
+DWAYNE	m	It's 9:00 AM. You got 8 hours.
+DWAYNE	m	Once you have the money, call this number and you'll be given instructions on where to drop it. You do good, we give you the six-digit combination that stops the timer and opens the lock. Tomorrow morning, you can go back to delivering pizza, the mail, whatever the fuck you want. Now let me demonstrate what happens if you don't get us the money.
+DWAYNE	m	Hey, Teddy Ruxpin...what's that? You don't have the money? It was too tough to rob the bank, so you just went back to your bear cave and cried like a bitch? Well, guess what my stuffed friend...time is up.
+DWAYNE	m	I liked that bear. I don't even know you.
+DWAYNE	m	Go on. Get outta here.
+WILL	m	Guys, can we please just talk about this?
+DWAYNE	m	Yeah, of course we can.
+DWAYNE	m	Be careful!
+DWAYNE	m	That's right! Get the fuck out of here! You're wasting time!
+JAY	m	What the hell, Dwayne? You told me that was a replica gun.
+DWAYNE	m	It was. Then I paid a Mexican 50 bucks to put a firing pin in it. Now it goes boom.
+JAY	m	We didn't discuss a loaded gun! Especially not with the bomb around!
+DWAYNE	m	Don't you ever question me. I'm fucking this bitch. You're just holding the camera.
+JAY	m	Sure, Dwayne...whatever you say.
+DWAYNE	m	Good. 'Cause this ain't the Marines. This is cash money. You hesitate, you fuck up...and I will leave you behind.
+DWAYNE	m	Let's go get some breakfast.
+WILL	m	Oh, god! Holy shit! Fuck me! Someone please fucking help me!
+CHET	m	This whole region here, about 830 thousand square miles, was part of the initial Louisiana Purchase.
+SEVENTH GRADER	m	Nice laser.
+CHET	m	Take out your workbooks. Chapter 3.
+CHET	m	What do you want?
+WILL	m	We gotta talk.
+CHET	m	I'm working here. Do not mess with me at work.
+WILL	m	Chet, for the love of god, just talk to me in private for one minute.
+CHET	m	You wanna apologize, don't you? You look like shit. You've probably been up for days thinking about what an asshole you were. Well, it's gonna take a lot more than some pathetic groveling -
+WILL	m	Chet! Shut up! I don't wanna apologize to you!
+CHET	m	Then what do you want? Because we don't have anything left to say to each other.
+WILL	m	Here goes. And this is gonna sound crazy. Because it is fucking crazy. But last night two guys in masks jumped me and strapped a bomb to my chest, and now I have less than eight hours to rob a bank.
+CHET	m	You're hysterical. Got me. Great joke. I'm going back to work now.
+CHET	m	What the fuck? Is that real?
+CHET	m	Stay away from me! What the fuck are you involved in!? Terrorism!?
+WILL	m	Chet, do you really think I'm a terrorist?
+CHET	m	Yes! One of the dumb ones! The ones they convince to wear the bombs!
+WILL	m	I am not fucking around here. Two guys did this to me. And if I don't rob that bank in time this thing is gonna blow.
+CHET	m	Seriously?
+WILL	m	Seriously.
+CHET	m	And your first idea was to come to a school filled with young children?
+WILL	m	I didn't -
+CHET	m	Just back the fuck away from me with that thing.
+WILL	m	Listen, I think the vest is safe for now. These guys don't want me to blow myself up on accident before I get their money.
+CHET	m	Oh, so you figure the two psychopaths that rigged a bomb to your chest made sure it was safe? There's no margin for error in their fucking bomb vest design!?
+WILL	m	I don't know! All I do know is that this is real. This is happening. And I'm sure you hate me as much as I hate you right now, but I have nowhere else to go.
+CHET	m	For what?
+WILL	m	For help, Chet. I need your help. Please. I can't do this alone.
+CHET	m	Damn it! (takes a breath) I'd like to tell you to get fucked, but you know what the problem is...I'm a better man than you. And someday, I might actually forgive you. So if I let you blow up, or whatever, that shit might come back and eat at my conscience, and totally affect my relationships with other people. Like my wife and kids and shit.
+WILL	m	That's a...very rational way to look at the situation. And you're right, about being a better guy than me.
+CHET	m	Are you sure that thing isn't gonna blow at any second?
+CHET	m	Could you just walk a few feet in front of me for a while?
+WILL	m	I can do that.
+WILL	m	Thank you.
+CHET	m	Yes, I'm still here. I really am this stupid. Just pay attention to where you're going.
+WILL	m	I think I can handle it.
+CHET	m	These floors get waxed once a week. On Tuesday, which today is. You hit a slick patch, trip and fall, and I got a classroom full of kids wearing their skin inside out.
+WILL	m	Chet, I'm fucking nervous enough as it is. Please. I don't need you back seat driving me right now.
+CHET	m	Obviously.
+WILL	m	Just for the record, this isn't a nuclear weapon strapped to my chest. And there are metal lockers on either side of the hallway. If I fall, and if this thing goes off, I'm probably not taking out the whole school.
+CHET	m	Do you really want to debate this?
+CHET	m	You're an asshole.
+WILL	m	Whatever. It's over.
+WILL	m	Who was the chick in the white jeans?
+CHET	m	Kristi Evans. Why?
+WILL	m	You know why.
+CHET	m	Oh, come on. Just keep walking.
+WILL	m	Come on yourself. You knew exactly who I was talking about.
+CHET	m	Fuck you. She's in the eighth grade.
+WILL	m	I bet you love it when she calls you Mr. Chet.
+CHET	m	She doesn't call me "Mr. Chet." She's not a foreigner.
+CHET	m	...thanks so much, Mrs. Davis. I'll call you after I talk to the doctor.
+CHET	m	So, this is it?
+WILL	m	This is what?
+CHET	m	Once I step inside this car, I'm basically in a steel coffin with you and...that thing. And if it goes off, all they're gonna find in there are two charred bodies and pieces of a bomb. They'll assume we were driving to a government building to blow it up. It'll be all over the news. Next thing you now, some militia or Islam group is claiming us as members. My family will be humiliated.
+WILL	m	We'll also be dead, in that particular situation, so it won't really matter.
+CHET	m	Exactly!
+WILL	m	I get it. Take your time, man.
+CHET	m	This is the world's biggest favor, you motherfucker. You didn't even help me move last winter.
+CHET	m	Given the situation, I think you should obey all traffic safety laws.
+WILL	m	Fine.
+WILL	m	Okay, so where are we going?
+CHET	m	I have no idea. I just got in your car. I thought you had a plan.
+WILL	m	Well, I don't! I've been sorta preoccupied with this crushing fear of death!
+CHET	m	No plan. I can't say I'm surprised.
+WILL	m	Your plan is probably better. Just condescend me until I explode.
+CHET	m	Maybe we should turn on the radio. See if the signal sets the bomb off. That would be an interesting experiment.
+CHET	m	Listen, let's just go back to my place. Figure out our options. Maybe you can get the vest off or something. I just don't want to do anything stupid.
+WILL	m	Unless we have to.
+CHET	m	Holy fucking shit!
+WILL	m	Stop it! You're scaring the fuck out of me!
+CHET	m	Okay. Okay. Fuck!
+CHET	m	I'm cool now.
+WILL	m	Why did you do that?
+CHET	m	Do what?
+WILL	m	I saw you.
+CHET	m	It's in case I have to jump out.
+WILL	m	If I survive the day, and you don't because you jumped out of a moving car and broke your neck, I'm gonna laugh my ass off.
+CHET	m	And if abandoning ship saves my life, then that laugh will be mine.
+WILL	m	It's too tight!
+CHET	m	What if we try to separate your shoulder?
+CHET	m	Well, all these sites say different shit. There's not a lot of consensus in the bomb disarming community.
+WILL	m	This is pointless.
+CHET	m	I agree. We gotta call the cops, have them fly in the bomb squad or something.
+WILL	m	We can't. These guys said they'd be following me. And I don't have a clue what they look like. For all I know, they're outside right now. They see the cops show up, they blow the vest and cut their losses.
+WILL	m	What do I do, man? What do I do now?
+CHET	m	I don't know, Will...I guess you gotta rob the bank.
+WILL	m	I haven't been inside a bank in three years! How the fuck am I supposed to rob one!? They wouldn't even give me a savings account!
+CHET	m	It's gonna be okay.
+WILL	m	No, it's not! I'm gonna blow up! That's way worse than getting stabbed or shot. At least some people survive that. No one survives being blown up.
+WILL	m	No one is ever like, "Yeah, I heard Steve got blown up, tough break, but how's he doing now? Is he still in the Rec basketball league?" No of course he isn't, 'cause there's nothing left of Steve except a stain on the wall and a pair of fucking high tops!
+CHET	m	Pull yourself together!
+WILL	m	Ow! Fuck! I think you popped my eardrum.
+CHET	m	Sorry. Shit. I didn't mean to do that. But just listen to me now. You're not gonna die. You wanna know why? Because you know exactly how to rob a bank.
+WILL	m	What are you talking about?
+CHET	m	Point Break.
+WILL	m	The movie?
+CHET	m	Yes. That movie is like a how-to guide for bank robberies. You just bust in. Masks. Guns. Move fast. Stick to the tellers and don't bother with the vault.
+WILL	m	Yeah...I guess it's pretty simple, right? And it's just a local bank. The Donner-Wells on Charles Road.
+CHET	m	Really? I applied for a job there like a year ago.
+WILL	m	You wanted to be a teller?
+CHET	m	Yeah, so what? It's a good job. You get benefits.
+WILL	m	Like what, a name tag?
+CHET	m	What kind of benefits do you get? Free toppings?
+WILL	m	That's really clever. No one ever said that shit to me before. Anyway, this is perfect. You know the whole layout of the bank.
+CHET	m	Not exactly. They didn't hand me the security schematics with the application. But I sat in the waiting area for like 20 minutes. I know what the place looks like.
+WILL	m	How many guards?
+CHET	m	One. I think.
+WILL	m	That's a start.
+CHET	m	It's a great start. You can do it.
+WILL	m	You're gonna do it with me, right?
+CHET	m	I was actually gonna stick to giving tips, ideas...motivational speeches. More of a consultant or advisory role.
+WILL	m	Jesus Christ, Chet. Please. I'm begging you here. I need you on this. If I do it alone, I'm dead.
+CHET	m	Are you gonna cry again?
+WILL	m	That was a moment of weakness. Yes. I'll fucking cry again if that's what it takes.
+CHET	m	I should make you blow me.
+WILL	m	Sure. Whip that shit out. I'm actually kinda curious. I wanna see if Jenny Rifkin lied to you. She obviously lied to me.
+WILL	m	All these guys want is 100 grand. We can do this.
+CHET	m	We're gonna rob a bank for 100 grand? Just leave the rest of the money sitting there? Why?
+WILL	m	I don't know. I guess they're very modest criminals. Who the fuck cares? Wait...you said "we" right?
+CHET	m	I'm putting my life on the line for 100 grand...what does 100 grand even buy these days?
+JUICY	f	I missed you so much, baby.
+VAUGHN	m	You don't got enough dicks to keep you warm in that place?
+JUICY	f	You know it's not like that. Those guys get Juicy, but you get Marisol.
+VAUGHN	m	Well, Marisol...what I want is to get my money, kill that old ass man, then get the fuck out of here.
+JUICY	f	Then that's how it's gonna go. We're just waiting on a call.
+VAUGHN	m	This is my impatient face.
+JUICY	f	Well, I think I can keep you entertained.
+WILL	m	Should we go with the handguns...or the Uzis?
+CHET	m	Handguns.
+WILL	m	That's such a Murtaugh choice.
+REGISTER WOMAN	f	You sure you don't want to grab some condoms?
+WILL	m	Uh, no. Why?
+REGISTER WOMAN	f	Because this is usually what men buy before they rape someone, and I want to make sure you all use protection.
+WILL	m	Lady, we're just...buying some stuff.
+REGISTER WOMAN	f	Is that cash or credit for your rape kit?
+CHET	m	We'll pay cash.
+DWAYNE	m	You really fucked up this mix tape.
+DWAYNE	m	We're not speed freaks knocking off a 7-Eleven. We're masterminding a heist here.
+JAY	m	Sorry, Dwayne. That song just means a lot to me.
+DWAYNE	m	I wish he would hurry his shit up.
+JAY	m	You worried about that other guy he's with?
+DWAYNE	m	No, man. He picked him up at a school. So long as there ain't any cops, he can take the whole town with him. I just want my money.
+JAY	m	What? You want me to run over to Subway, get us a couple sandwiches?
+DWAYNE	m	If you had any vision, Jay, you'd know exactly what I'm thinking about right now. And it's not a sandwich. Look how well trafficked that shopping mall is. It's the perfect place for the tanning salon.
+JAY	m	Oh, you're totally right.
+DWAYNE	m	I've been thinking about it, and I want you to start off working the counter. Sounds like a demotion, I know, but it's an important position. Because we're gonna be using code words and shit. For example, if a customer walks in and says he wants a tan, that just means he wants a tan. But if he says he wants a "deluxe tan," that means a blow job and you gotta get one of the girls in there to suck him off. You with me?
+JAY	m	So far. But what if he wants a fuck?
+DWAYNE	m	There's gonna be codes for everything: missionary, anal, black chicks. I got it all written down back home in my files.
+DWAYNE	m	I'm not gonna bother getting into it with you right now, because you're supposed to be on lookout and you're no good at multitasking.
+JAY	m	Okay. 'Cause they're about to get away.
+DWAYNE	m	Fuck.
+WILL	m	Be careful, you're getting paint everywhere.
+CHET	m	Are you really worried about your upholstery right now?
+WILL	m	Yes, because if I survive this shit I'm quitting my job. That means I'll probably have to give up my place and I'll be sleeping in the back of my car, which you're covering in toxic paint.
+WILL	m	That side isn't dry yet. You're about to ruin it.
+CHET	m	It says it's fast drying.
+WILL	m	Fast isn't the same as instant. You gotta let it sit for like 20 minutes.
+CHET	m	How would you know? You do a lot of graffiti?
+WILL	m	No, but I spray painted my bike last year after I got my license suspended. I didn't let it dry properly and I fucked it up.
+CHET	m	We don't have time to sit around and literally watch paint dry. Aren't we going straight to the bank?
+WILL	m	I was actually thinking we need to stop and steal a car first.
+CHET	m	What? No way! We've got a car.
+WILL	m	Yeah, my car. I'm not gonna use it as a getaway vehicle. They can trace the plates. Even if we do get away, we'll be arrested.
+CHET	m	Well, I can't hotwire a fucking automobile, and neither can you.
+WILL	m	That's why I was thinking we'd steal one from your parents' friends. The Fishers. Remember how they used to pay us to clean their garage? They leave the keys in there. And they have a Datsun. That's a fast car.
+CHET	m	I'm not stealing the Fishers' Datsun. Let's steal a car from your parents' friends.
+WILL	m	What friends? My parents don't have any. My dad moved away after your big mouth ruined his marriage and humiliated him, and no one wanted to hang out with the mom who everyone knew fucked a lifeguard.
+CHET	m	You never should have told me! I was 13 years old. I couldn't process that kind of information. I had to tell someone else. (shakes his head) Fuck. I really am sorry about it. Okay? Despite what I said before. I was just a kid, but I messed up.
+WILL	m	Okay.
+CHET	m	That's it? You're not gonna apologize for selling my Cal Ripken ball?
+WILL	m	Sure. I'm sorry...I'm sorry that my family was going through a rough patch and I was smoking a ton of weed and listening to the Wu Tang Clan all the time. And that I needed some extra dough to indulge my habit. Which, in hindsight, was probably just a cry for help. But you never even noticed.
+CHET	m	Thanks. Now I feel even worse.
+WILL	m	I shouldn't have stolen the ball. I knew it was wrong and I regretted it like the next day. I actually tried to buy it back but the guy wanted twice as much. I had to smoke even more weed just to get past the whole shitty incident. I guess that's why they call it a downward spiral.
+CHET	m	I appreciate that you tried to buy it back. So, thanks.
+CHET	m	We should probably get going.
+CHET	m	Fuck! Fuck! I just want this goddamn day to be over!
+WILL	m	The keys aren't here. They always used to leave the keys out.
+CHET	m	Yeah. When we were teenagers. This is fucked.
+WILL	m	Let's just find them.
+CHET	m	Sorry.
+CHET	m	You hear that?
+WILL	m	What?
+CHET	m	Mr. Fisher is coming!
+CHET	m	Oh shit, oh shit. Are the keys in there?
+WILL	m	No!
+CHET	m	What are you doing?
+WILL	m	I'm doing what I have to.
+WILL	m	Where are the car keys?
+WILL	m	Quiet down and do it already.
+WILL	m	Now listen, I don't want you to report this car stolen or anything until later tonight. Let's say 5 o'clock. 6 to be safe.
+WILL	m	If you fuck with us, I swear, I will...I will shoot your son. Taylor. I know where he works. At the fucking travel agency. He's the douchebag with the bangs. Please no. I won't do anything. I won't. Just leave Taylor alone.
+WILL	m	I'm gonna trust you. But if you call the police, there's gonna be an undertaker styling his stupid fucking bangs! Now open the garage door.
+WILL	m	The car's insured, right?
+WILL	m	Okay. I feel better. Worse comes to worst, something happens to it, you can get a Honda. This thing doesn't even have airbags.
+CHET	m	That old man's got a heart condition! You could have killed him!
+WILL	m	My hand was forced!
+CHET	m	Awesome. I'm stuck inside an even smaller car with you and a bomb.
+WILL	m	This thing's got some pickup.
+CHET	m	Could you just take it easy, we're doing fine on time.
+WILL	m	I know...but there's one last stop we have to make.
+CHET	m	Do you have to take a piss first? Because I do.
+WILL	m	I need to see your sister.
+CHET	m	Are you for real? Did you really just ask me that? You salt-in-an- open-wound motherfucker!
+WILL	m	Chet, as if it isn't apparent, I may die today. I'll probably die today. And if there's one small thing that's clear to me now, it's that I've wasted two and a half decades as a pussy, watching everything I want pass me by. I don't wanna peace out of this world as a pussy. I need to tell her how I feel.
+CHET	m	You're really gonna turn this into some sort of dying wish bullshit?
+WILL	m	Yes, I really am. It means that much to me. I am not fucking around here.
+CHET	m	I don't think you are. I mean, apparently, you love my sister so much that you're willing to put her life in danger by going to see her with a bomb strapped to your chest.
+WILL	m	She won't be in danger. I promise. I got it all worked out. And you can even take a piss while I'm inside.
+DWAYNE	m	Where the fuck is he going? What's in there? Some sort of FBI headquarters? I told that guy not to fuck around!
+DWAYNE	m	Maybe I should give that bomb a call.
+JAY	m	No! Let me just go see what he's up to.
+DWAYNE	m	I was just fucking around. Are you gay for this guy or something?
+JAY	m	I just wanna get the money, Dwayne. Same as you.
+DWAYNE	m	All right. Then man up and go check it out.
+DWAYNE	m	Don't even tell me you're about to do a reconnaissance without a cover. What's you cover?
+JAY	m	I don't know...I'm from the telephone company?
+DWAYNE	m	Yeah, nice fucking uniform.
+DWAYNE	m	You're a personal shopper. You're delivering the latest fashions to Mr. Quilby in marketing. Got it?
+DWAYNE	m	"He's got the whole world in his hands. He's got whole fucking world in his hands..."
+WILL	m	...no, I'm here right now. Why are you acting so strange?
+WILL	m	Because strange shit is going on. I'll explain everything. Just meet me where I texted you.
+WILL	m	Please. Just do it.
+KATE	f	Will?
+WILL	m	Stop!
+KATE	f	What are you doing?
+WILL	m	Just don't come any closer.
+KATE	f	Why not? What's going on?
+WILL	m	I'm gonna give you the short version of an incredibly complicated and fucked up situation, so please be cool. Some very bad guys strapped a bomb to my chest and they are forcing me to commit a crime.
+KATE	f	Will, I swear, if this is -
+WILL	m	I wish I was joking, but I'm not. I know it's a lot to swallow, but you gotta take it on face value, because there's a timer attached to this thing and it's counting down.
+KATE	f	Oh my god, Will...we'll get help. I'll get you help.
+WILL	m	I didn't come here for help. I'm taking care of it. I came here because, should things not work out today as I would like them to, I want you to know why I was doing the things I did.
+KATE	f	Please, just let me call someone. Let me do something. This is crazy!
+WILL	m	I don't disagree with you. It's fucking nuts. But that's not even what this is about. Do you remember when you found that picture in my car of you, me and Chet, with Chet cut out of it?
+KATE	f	Will, I can't remember about some stupid picture while you're -
+WILL	m	I need you to remember about the picture, and about how I stop by your office every Friday, and how I've always hated all your boyfriends, and how the two girls I've ever seriously dated have looked like less attractive versions of you. Do you see where I'm going with this? I love you Kate. I have for a very long time.
+KATE	f	Will, this is a lot you're putting on me! You just told me people are trying to kill you or something, and now you say you love me. What the fuck is going on?
+WILL	m	A whole lot of shit. I'm sorry to do this to you, but I was afraid I'd never get the chance to tell you. And I know you have feelings for me, too. Maybe you feel for me the way you feel for a good friend, or - if the world fucking hates me - a brother.
+WILL	m	But what I hope is that you don't really know how you feel for me, and that maybe when you figure it out you'll realize it's the same way I feel for you. Does that make any sense?
+KATE	f	Yes. I mean, I've known you forever. It's not an easy thing to figure out.
+WILL	m	I don't need an answer now. Just think about it. And no matter what you decide, you're too good for assholes like Mark and the rest of them.
+KATE	f	Okay. I will process all of this. It's just, the bomb -
+WILL	m	It's distracting. I know. Anyway, I'd love to stay and talk some more, but I can't. I gotta ask you to leave now, because I'm running out of time.
+KATE	f	If I had time to think about it...I'd probably tell you that I've always felt very strongly for you. And I've never thought of you as a brother.
+WILL	m	That's a huge relief. Don't say anything else. I just really don't want to die now.
+KATE	f	Try not to. Please.
+JAY	m	I'm, uh...I'm a personal shopper. I'm looking for Mr. Quilby.
+KATE	f	I'm sorry, I don't know who that is.
+DWAYNE	m	So?
+JAY	m	It was just his girlfriend or something.
+DWAYNE	m	Getting one last blow job in case he don't make it. I kinda like this guy.
+CHET	m	Did you tell her how you saw her naked when she was 13? That always works.
+WILL	m	I said my piece. She's gonna think about it.
+CHET	m	Shut up. She was freaked out.
+WILL	m	Yes. By the bomb.
+CHET	m	By you.
+WILL	m	Would it be so bad if we ended up together? You and I would be family.
+CHET	m	I don't want you in the family. You bring very little to the table. I want her to be with someone awesome. A pro quarterback. A war hero. At the very least, someone I've never watched porn with.
+WILL	m	Well, now it's up to her.
+CHET	m	Not if I set that bomb off myself.
+WILL	m	Then you'd probably never get to rob a bank.
+WILL	m	You go for the money. I'll cover the crowd. In and out.
+CHET	m	I'm not feeling so good. I drank like three of those 5-Hour Energy drinks.
+WILL	m	It's just nerves. Let's pull our shit together and do this thing.
+CHET	m	What should I call you in there, like if I need to ask you to do something?
+WILL	m	Call me Tivon. You'll be Darius.
+CHET	m	I can tell you're not a black guy through the ski mask.
+WILL	m	Fine. Then you'll be Luis and I'm Cruz. We're two loco motherfuckers and that's the way we gotta roll when we get in there.
+WILL	m	Everybody put your hands in the air!
+CHET	m	No, get on the ground!
+WILL	m	Actually, listen to him and get on the fucking ground!
+WILL	m	Shut up! Please!
+WILL	m	You, just stand right there and don't do shit! The rest of you get the fuck down! Spread your arms and legs! Why is no one listening to me!?
+SECURITY GUARD	m	Just take it easy, man!
+WILL	m	Don't be a hero, cowboy!
+SECURITY GUARD	m	What the fuck does that mean? I'm not a hero! Or a cowboy!
+CHET	m	All of you, back away from the counter and get out here! Anyone pushes a button and one of these people gets totally shot!
+WILL	m	Very slowly, take out your gun and toss it away.
+MOM	f	Oh, god! I don't want the gun!
+WILL	m	What the fuck!? Did you do that on purpose!?
+SECURITY GUARD	m	It was an accident!
+CHET	m	Are you guys working together?
+MOM	f	No! Please take this gun away!
+WILL	m	Just toss it, lady!
+FAT MAN	m	I think she got the femoral artery!
+MOM	f	I'm sorry! It was an accident!
+FAT MAN	m	Fuck you! Who slides a gun like that!?
+DAUGHTER	f	Mommy, what's happening!?
+MOM	f	Christi, be quiet. These men are dangerous.
+CHET	m	This is fucked. That dude is gonna bleed out and we're gonna go to prison.
+WILL	m	Just calm down.
+FAT MAN	m	Why is no one getting me help!?
+WILL	m	Is anyone here a doctor?
+WILL	m	Sir, let me see where you're hit.
+FAT MAN	m	Just call me an ambulance!
+WILL	m	Calm down, sir.
+WILL	m	It's just a flesh wound. You're gonna be okay.
+FAT MAN	m	But it hurts so bad.
+WILL	m	You got shot, man. It's not supposed to feel good. But you're gonna be fine. And you'll have a great story to tell everyone.
+FAT MAN	m	This is an awful story! This isn't a bank error in my favor! I got shot!
+WILL	m	Point taken. Luis, how we doing on the money?
+CHET	m	Oh, shit. Sorry, Cruz.
+CHET	m	Hey, Sandra. I know you're probably scared right now, but if you go grab us 100 grand in a bag, we'll get out of here. This will all be over and you'll be fine. You trust me?
+FAT MAN	m	My leg really hurts!
+WILL	m	Can you please hurry up, Sandra!?
+WILL	m	I'm really sorry, everyone. I know we probably fucked up your day. (looks to Fat Man) I'm thinking of you in particular, sir. Actually, you know what...
+WILL	m	Quickly. Peel a few bills. On me. Anyone rats him to the cops and I'm coming for you. I remember faces.
+CHET	m	What the fuck was that about, Sandra? I thought we had something going! What happened to trust?
+SANDRA	f	I'm sorry! They make us do it!
+WILL	m	Could you kindly fill another bag? Not a bank bag. A fucking garbage bag. And Luis, will you watch her this time?
+CHET	m	Okay. That should be enough.
+WILL	m	Fuck! Which one of you assholes tripped the alarm!? Was it you, Sandra!?
+SANDRA	f	No! It was Mark! He pushed the button when you guys came in!
+MARK	m	Sandra, you bitch! Now they're gonna kill us both!
+SANDRA	f	Fuck you, Mark! You're the manager!
+WILL	m	Fuck both of you! Fuck all of you! I'm a regular guy! Just like you! I'm a regular guy and you fucked me! Thank you for fucking a regular guy!
+CHET	m	Let's just get the fuck out of here.
+OFFICER ZURMAN	m	Drop your weapons!
+CHET	m	Don't shoot us!
+OFFICER ZURMAN	m	Drop the guns or I'll have to!
+WILL	m	Fuck you! You just brought a gun to a bomb fight, officer! I pull these wires out and we all go! You got ten seconds to drop your gun and -
+CHET	m	That was awesome.
+WILL	m	He was tempting a desperate motherfucker.
+DWAYNE	m	Holy shit! Our boy is causing some serious mayhem!
+JAY	m	He's gonna get caught or killed.
+DWAYNE	m	Shut the fuck up! If you jinx this with your negativity, I'm gonna strap a bomb to your chest next.
+JAY	m	Oh, yeah, who's gonna build it?
+DWAYNE	m	You are!
+CHET	m	Shit! This is not cool!
+CHET	m	Maybe we should pull over and surrender.
+WILL	m	I can outrun these guys. They're not the FBI, they're local cops. Just shut up and let me concentrate. I do this for a living.
+CHET	m	You don't do anything like this for a living! I am not a pizza, I am a man!
+WILL	m	Holy fuck!
+CHET	m	Go! Go! Go!
+CHET	m	Stop! Stop! Stop!
+WILL	m	That guy got fucked up.
+WILL	m	Chet? Are you okay? Chet!?
+CHET	m	Oh my god...
+WILL	m	Talk to me.
+CHET	m	I thought you were gonna blow up.
+WILL	m	No. Luckily your side took most of the impact.
+CHET	m	Awesome.
+WILL	m	We gotta keep moving.
+WILL	m	Oh, fuck, man. Come on.
+WILL	m	Chet...I don't know how to tell you this...but you got a piece of the car in you.
+CHET	m	What!?
+WILL	m	In your back.
+CHET	m	Ah! Get it out!
+WILL	m	I will.
+CHET	m	Do it now!
+WILL	m	All right.
+CHET	m	Is it rusty? Am I gonna get tetanus?
+CHET	m	Why are you moving so slowly?
+WILL	m	It's a combination of cheap sneakers and this heavy fucking bomb on my chest!
+WILL	m	Hey! Over here!
+DWAYNE	m	You hear what happened to the guys they were after?
+RANDOM LOCAL	m	Sounds like they got away.
+WILL	m	I never thought I'd see you again.
+CHET	m	I thought you hated this car.
+WILL	m	It's actually not that bad. You know, as compared to that Datsun. The Mustang's got more comfortable seats. And it never would have flipped over.
+WILL	m	There's a 100 grand in there. 100 fucking grand. Which we stole. From a bank.
+CHET	m	I told a bunch of people I was gonna shoot someone. I was like "you fucking move, and I will kill you where you stand!"
+WILL	m	I threatened to blow up a cop. And you never said "I will kill you where you stand."
+CHET	m	I know. But shit did get pretty crazy.
+WILL	m	Yeah, it did.
+WILL	m	You know, there's no one I would have rather taken down a fucking bank with. I mean that.
+CHET	m	Me, neither.
+WILL	m	And as for all that shit I said...and all that shit I did...I hope you can forgive me. We've been friends for so long, and I guess you hurt the people you're closest to the most.
+CHET	m	I messed up, too. I'm a dude who slept with his best friend's ex- girlfriend, and destroyed his parents' marriage, and sat on the sidelines watching his downward spiral. I'm a shitty human being. But I'm glad you know that now, because you can accept me for who I am.
+WILL	m	I do. I accept you. Because you accept me.
+CHET	m	Woah! You still got a bomb on you.
+WILL	m	You're right. Let's take care of that. But you owe me a hug.
+WILL	m	It's all gravy from here.
+DWAYNE	m	This who I think it is?
+DWAYNE	m	You know, you're a pretty funny guy.
+DWAYNE	m	Now wait a second, you're the murderer.
+DWAYNE	m	One of those cops who wrecked his car chasing you...he ain't breathing no more.
+WILL	m	We killed a cop.
+CHET	m	You were driving! I'm just an accomplice!
+WILL	m	They're gonna hunt us down and kill us. Cops don't take this shit lightly.
+CHET	m	I bet he had like eight kids. We have to find them and support his family forever.
+DWAYNE	m	I'm just messin' with you. You didn't kill anyone. How'd a moron like you manage to rob a bank?
+DWAYNE	m	There's a boarded up gas station out on Commerce Avenue, past the highway. Be there in 30 minutes.
+DWAYNE	m	Then you'll be standing around with your dick in one hand, and my money in the other.
+DWAYNE	m	Yo, Juicy, wrangle your boy. Money's on its way.
+DWAYNE	m	I remember the summer after my mother passed was the first year they had the Monopoly game at McDonald's. I musta come here three times a day trying to collect all the game pieces. Packed on 20 pounds, got acne from all the grease. The Major said I was the fattest, ugliest 13-year-old he ever laid eyes on. But I didn't care, I just wanted to win the money and get the fuck out of there. So, one night, I followed this skinny register kid home, jumped him. I kept whaling on him, asking him where they were hiding the Park Place piece. The million dollar prize. But he didn't know shit. A year later, The Major won the lotto. I asked him for a Sega Genesis. He bought me one of those paddles with the ball attached.
+DWAYNE	m	I'm not ashamed to admit that I've gone through some dark times since then. Depression. Addiction to a variety of shit, which I won't go into. I know you must think that's pretty silly, especially since you manage to get through the day and you don't got shit going on as compared to me. But that's just the way it is. That's life.
+JAY	m	You know, I've been pretty low, too... if you ever want to talk about that kinda stuff.
+DWAYNE	m	No. I don't. My whole point I was trying to make before you interrupted me was that that shit is all in the past. 'Cause I did it. I finally pulled it off.
+JAY	m	We pulled it off, Dwayne. The two us. We're a good team.
+DWAYNE	m	Are we? Would you do anything to protect me, my money, my empire?
+JAY	m	Yeah, sure... I mean, like what kinda stuff are we talking about?
+DWAYNE	m	Would you push the button?
+JAY	m	Why would you want me to do that?
+DWAYNE	m	It's just a question, Jay. Would you? If I asked you?
+DWAYNE	m	I mean, it's no different than those watermelons.
+JAY	m	Watermelons aren't alive.
+DWAYNE	m	Yeah, they are. Not the ones you blew up, though.
+JAY	m	No one gets hurt...right, Dwayne?
+DWAYNE	m	Oh, yeah. I forgot about that part.
+DWAYNE	m	Anyway, he hasn't even made the drop yet. I'm gonna go take a shit. Stay away from the bathroom. Someone could get hurt.
+WILL	m	Where are the other guys?
+VAUGHN	m	I'm the only guy. You got it?
+VAUGHN	m	What the fuck did you do...rob a bank?
+WILL	m	Yes.
+WILL	m	Now where's the code?
+VAUGHN	m	I don't have any code.
+WILL	m	Listen, man, I just want the code.
+VAUGHN	m	I don't know what the fuck you're talking about.
+WILL	m	The code for the fucking bomb!
+VAUGHN	m	What kind of stupid motherfucker wears a bomb to a drop?
+WILL	m	Your boss put this on me.
+VAUGHN	m	I am my boss.
+WILL	m	Then give me the code!
+VAUGHN	m	Motherfucker, I don't know no goddamn code. Whoever told you I did, lied to you. Now step the fuck off, or I'll shoot you in the face so you don't explode and mess up my boots.
+WILL	m	If you don't have the code, I want that money back.
+VAUGHN	m	The only way you're getting this money back is if you kill me.
+WILL	m	You don't know what I've gone through for that money!
+VAUGHN	m	Do I look sympathetic? Now step the fuck aside.
+JUICY	f	Vaughn, look out!
+WILL	m	Let's go!
+WILL	m	What the fuck was that?
+CHET	m	They tried to screw us. You're a liability. They were just gonna let you blow up.
+WILL	m	Not with the money they won't.
+DWAYNE	m	Never comes out this nice when I do it myself. You might wanna take some more off the top, though. I wanna look real professional when I go down to the morgue to identify the body.
+DWAYNE	m	You drop the money yet?
+WILL	m	No! I've still got the money! And I cracked your friend's face open!
+WILL	m	You lied! You said I'd get the code!
+DWAYNE	m	I gave him the code. He told me he committed it to memory.
+DWAYNE	m	He was probably just embarrassed that he forgot it. I'll call him up and -
+DWAYNE	m	Hold on there, big man. You got a bomb on you. I got a cell phone that detonates it. You're not exactly negotiating from a position of leverage.
+CHET	m	Don't tell him to push the button! Pull over! Pull over!
+DWAYNE	m	Why don't you watch what the fuck you say! I own you! I tell you to rob a bank, and you rob a bank. I tell you to give me the money, and you give me the goddamn money and hope I show you some mercy.
+DWAYNE	m	That piece of shit hung up on me!
+CHET	m	Get me out of this car!
+CHET	m	That was colossally stupid!
+WILL	m	It was a negotiation tactic. He'll call back and I won't answer. Then he'll call back and I will answer, and he'll realize the only way he gets the money is if he gives me the code.
+CHET	m	Sure! That seems like a perfectly logical pattern of thought! I bet that's exactly what he'll do!
+DWAYNE	m	Does this guy know who the fuck I am!?
+JAY	m	Dwayne...you never told me you weren't going to give him the code.
+DWAYNE	m	We're not amateurs. He was a loose end. I let him live, someday I woulda been walking out of my mansion and... bam! FBI, CIA, NSA, all converging on my front lawn, 'cause a loose end turned state's evidence and they got what they need to put me away.
+DWAYNE	m	Fuck it, Jay. I'll just kill The Major myself.
+JAY	m	Don't do it.
+DWAYNE	m	You know what they say about a tree falling in the forest? Maybe the same thing applies to blowing up some motherfucker across town. Maybe it doesn't even make a sound.
+DWAYNE	m	Boom.
+DWAYNE	m	Who did I just call, Jay? 'Cause she sounded cute for a bomb.
+JAY	m	Gina Kim. My seventh grade crush. Or whoever lives in Gina Kim's house now.
+DWAYNE	m	Where's the number for the bomb?
+JAY	m	In my head. I switched it out of your phone while you were taking a shit. You're out of control, Dwayne.
+DWAYNE	m	I'm in perfect control!
+JAY	m	Stop it!
+DWAYNE	m	You asshole...I make you my partner and you pull this shit...
+JAY	m	I'm tired of you pushing me around all the time! What kinda partner does that!?
+DWAYNE	m	Fuck you...I'm gonna piss blood, aren't I?
+JAY	m	That's what it said on the internet.
+DWAYNE	m	Go on. Get it out for me. I can barely move.
+DWAYNE	m	Glad you came to your senses.
+VAUGHN	m	Who the fuck do you think you're talking to!?
+VAUGHN	m	Let me give you a hint: your boy just jumped me, tossed my bitch like a rag doll and split with the cash.
+DWAYNE	m	That guy's not my boy. He's a dick. I'm sorry for all the, uh, confusion.
+DWAYNE	m	I wasn't fucking you, I was fucking him. You gotta understand, you're like a pawn in a much larger game I'm playing here.
+DWAYNE	m	I didn't mean it like that. I'm just juggling a whole lot of shit.
+DWAYNE	m	That may not be possible. I just want to put this out there, to keep you in the loop...but I may need to bump the hit.
+VAUGHN	m	This isn't a reservation at Sizzler! You don't "bump" it! I want you to bring me my money right now, to where I am standing in this shit hole town, bleeding from the motherfucking face!
+VAUGHN	m	The deal's off! You just became the hit!
+JUICY	f	He lives with his daddy. You already got the address.
+DWAYNE	m	That's it. The assassin's gonna kill me now. I'm gonna die. Game fucking over.
+JAY	m	We can still get him the money. Try the pizza guy back.
+DWAYNE	m	Why? So he can fuck around again, and I wind up dead, anyway? No. I'd rather just sit here. I want to die right here on this couch.
+JAY	m	No. We're gonna get that money. Just like we planned. All we gotta do is get the leverage back.
+DWAYNE	m	How do we do that? Pizza boy's obviously got some kinda death wish.
+JAY	m	We take the girl. The one he went to see. Then he won't try shit.
+DWAYNE	m	That's actually...that's a great fucking idea, Jay. It's the best idea anyone's had all day.
+JAY	m	I was just trying to figure out how you would do it, Dwayne.
+DWAYNE	m	Ok. Then let's do it right. We leave nothing to chance. Because if we go to prison for this, I won't be able to watch out for you.
+JAY	m	Ok, Dwayne.
+DWAYNE	m	You should probably bring the flamethrower, buddy. There's gonna be some evidence to dispose of.
+CHET	m	It's been half an hour.
+WILL	m	He'll call.
+CHET	m	In another 30 minutes I'm calling the bomb squad.
+CHET	m	These guys obviously aren't watching you anymore.
+WILL	m	You know, even if they get the bomb squad here in time, and they can somehow get this thing off me, we still gotta answer for the robbery.
+CHET	m	I'll take the heat with you, Will.
+WILL	m	Nah. I'll tell them I forced you into it. That you didn't have a choice.
+CHET	m	Thanks, man.
+WILL	m	That's it? You're not gonna think about it a little longer? After all we went through...tear down the relationship, rebuild it...you're gonna let me go to prison alone?
+CHET	m	You offered.
+WILL	m	It was a test. Your grade: F minus. You know what the "F" is for?
+CHET	m	To fuck myself?
+WILL	m	You passed that test. Failed the important one.
+DWAYNE	m	What's the quietest way out of the building? 'Cause I might get excited in a confrontation, and you might wind up shot in the face.
+MAJOR	m	Dwayne?
+VAUGHN	m	I'm looking for your son.
+MAJOR	m	Even if I knew where he was, I wouldn't tell you nothing.
+VAUGHN	m	Don't be stupid.
+MAJOR	m	You know, I saved a black man's life in the shit. So if I took yours I'd be even.
+VAUGHN	m	I see where your son gets his common sense.
+VAUGHN	m	But you might want to readjust your attitude, because I ain't fucking around. I want Dwayne. I don't know why you'd want to protect him, the motherfucker hired me to kill you.
+VAUGHN	m	Just tell me where he is!
+MAJOR	m	You think I'm scared of death? There's a whole generation of gooks that think I'm the grim reaper.
+MAJOR	m	I'll ride you all the way to hell! I know exactly how to get there!
+VAUGHN	m	What now, old man!? You can't kill me! None of y'all can kill me!
+MAJOR	m	Go on and -
+VAUGHN	m	Motherfucker has lost his mind...
+CHET	m	Look at the upshot, while you're behind bars you can finally finish your degree. If I was there, too, it would just be a distraction.
+WILL	m	Great idea, Chet. Thanks a lot. I'll just sit here and figure out a fucking major.
+WILL	m	Hey, it's them.
+WILL	m	You ready to talk now?
+DWAYNE	m	Yeah, I'm ready to talk. I want my money. Meet me back at the radio tower in 50 minutes.
+DWAYNE	m	That's the point. I want you on a short leash.
+DWAYNE	m	Yeah, I'm sure. You just wanna go back to your fantastic life. Your great job. And that blonde bitch with the sexy voice.
+WILL	m	What the fuck is that supposed to mean?
+WILL	m	Fuck you! You crossed a line!
+DWAYNE	m	There are no lines! There's just me and you and 100 thousand dollars. Once we get that shit in order, you can have her back, and your life, too. So you're gonna show up where I say, when I say. Alone. And if you try anything stupid, the two of you will be delivering pizzas to Saint Peter.
+WILL	m	Let me talk to her.
+DWAYNE	m	You got ten seconds.
+KATE	f	Will...?
+KATE	f	It's okay...I'm fine...I'm just really -
+DWAYNE	m	She's just really gonna die if you fuck this up.
+WILL	m	Fuck!
+CHET	m	What happened?
+WILL	m	They have Kate.
+CHET	m	What the fuck does that mean!?
+WILL	m	They took her, man. They must have followed us to her office.
+CHET	m	Damn it! You had to go see her!
+WILL	m	I'm sorry. I messed up...I finally messed up worse than I could have possibly imagined.
+CHET	m	We gotta get her back, Will. These guys are crazy.
+WILL	m	We still got the money. As long as we have that, she's alive. Come on.
+WILL	m	I'm here!
+DWAYNE	m	How much time you got left?
+WILL	m	Ten minutes.
+DWAYNE	m	Damn. Maybe we should just wait around for the money shot.
+DWAYNE	m	That the money?
+WILL	m	Maybe. Where's the girl?
+DWAYNE	m	In the van. Maybe.
+WILL	m	Get her out here. You're wasting time.
+KATE	f	Will, are you there?
+WILL	m	I'm here. It's gonna be okay.
+DWAYNE	m	This is a fucking tearjerker.
+WILL	m	Just let her come over here.
+DWAYNE	m	I will. But you should know, my associate over there is packing a flamethrower.
+JAY	m	Just do what we say. Don't mess around or anything.
+DWAYNE	m	Unless either of you can outrun a 25- foot flame. (gestures to gun in his belt) Or a bullet.
+WILL	m	Get back.
+DWAYNE	m	I gave you the girl. Now give me the money.
+WILL	m	How about we get the code out of the way first, since this bomb happens to be ticking so close to all of us.
+DWAYNE	m	Fair enough.
+DWAYNE	m	You ready to be a free man?
+WILL	m	Just give it to me!
+DWAYNEDWAYNE	?	It's so fucking pretty, ain't it?
+JAY	m	Yeah. It's awesome.
+DWAYNE	m	Okay, you can get out of here now.
+WILL	m	I actually have this sneaking suspicion that once we turn around, you're gonna put a bullet in both of our backs - and this is just a guess - burn our bodies.
+DWAYNE	m	They say great minds think alike. And in this case, so do we.
+WILL	m	I figured as much. That's why I got a gun pointed at you, too. I got a sniper in the bushes locked on you right now.
+DWAYNE	m	Do I look that dumb?
+WILL	m	I can't tell, you're wearing a mask.
+JAY	m	Hey...on your forehead.
+DWAYNE	m	Son of a bitch. Well played.
+WILL	m	We're gonna walk out of here now. If you shoot, my sniper shoots. I can't guarantee he'll get both of you. But he'll definitely get you.
+VAUGHN	m	Wasn't expecting to see you here.
+DWAYNE	m	It's all good. We got your money.
+VAUGHN	m	Nice mask, Dwayne. Now throw the money over here.
+DWAYNE	m	Hold up. You don't have to do this. I just paid you.
+VAUGHN	m	I've been hit with a pipe, shot with a pen, and wasted my whole motherfucking day...all because of you and this job.
+DWAYNE	m	I don't know what you're talking about. Just take the money.
+VAUGHN	m	I will. And then I'm gonna tie up the two loose ends in the gorilla masks.
+DWAYNE	m	I'm not a loose end!
+VAUGHN	m	You're a fucking idiot. You are as loose as ends get.
+VAUGHN	m	What the -
+KATE	f	Chet!? What are you doing here!?
+CHET	m	Not now. We gotta take off. Where's Will?
+WILL	m	I got the money. Let's get the fuck out of here.
+DWAYNE	m	No!!
+JAY	m	Dwayne! Help!
+DWAYNE	m	Goddamn it, Jay!
+DWAYNE	m	Stop, drop and roll!
+JAY	m	You came back for me...you said you never would.
+DWAYNE	m	You didn't hesitate back there, Jay. You did good.
+DWAYNE	m	I'm gonna go put a bullet in that motherfucker and get our money. Think you can get outta here?
+JAY	m	Yeah. Go get him.
+KATE	f	Uh...I just got kidnapped.
+CHET	m	Yeah, that was totally Will's fault. In case you want to factor that in while you're mulling over the whole relationship thing.
+WILL	m	I'm very sorry about the kidnapping. This is me, taking responsibility for it. Growing up. Like a viable life partner.
+CHET	m	This man has spied on you in the nude before!
+WILL	m	What? No, I didn't.
+CHET	m	He's lying. He's trying to build a relationship on a foundation of lies. And it won't stand.
+KATE	f	I just got kidnapped! Can we talk about that!?
+WILL	m	Oh, shit. One of those dudes is definitely not dead!
+CHET	m	Hurry up! He's already on us!
+DWAYNE	m	I own this town.
+KATE	f	What the hell was that?
+WILL	m	That was the bomb I carried around all day. I reactivated it and put it in the back of his van. I guess his time was up.
+CHET	m	"His time was up?" Were you thinking that up the whole day?
+WILL	m	I was prepared, yes. I can't help it if I'm the kind of guy who thinks about the future.
+CHET	m	He's not that kind of guy. He doesn't think about the future. Ever.
+KATE	f	What exactly happened since I saw you this afternoon?
+WILL	m	Primarily, we robbed a bank.
+KATE	f	What!? So you're, like, fugitives? What do we do now?
+CHET	m	Yeah, Will. What does the future hold?
+WILL	m	Nothing good if we stay in town and they pin this on us. Kate, I think you should put in for that vacation time. Right now. If anyone gives you a problem, tell them to fuck off. There's 100 grand in that trash bag by your feet. A third of it's yours.
+KATE	f	Will, that's -
+CHET	m	Fucked up. Why does she get a share?
+WILL	m	Why do you get a share?
+WILL	m	Airport's 30 minutes away. Pick a destination. This time it's not a practice run.
+DWAYNE	m	Dad?
+DWAYNE	m	Dad, are you -
+MAJOR	m	Dwayne...
+DWAYNE	m	What happened to you?
+MAJOR	m	Some guy...said you hired him to kill me.
+DWAYNE	m	Dad, I...I'd never...
+MAJOR	m	Look at you...lip quivering like you're getting fucked...be a man.
+DWAYNE	m	I am a man! I killed you, didn't I? Now I'm gonna use your money to open a tanning salon where they let you fuck the chicks.
+MAJOR	m	You mean...like those whorehouses...in 'Nam...I used to tell you about?
+DWAYNE	m	Those were great bedtime stories.
+MAJOR	m	Medics are late...probably a couple lazy spicks...you tell 'em I said so...all right, son?
+DWAYNE	m	Sure thing, pop.
+MAJOR	m	Hell of thing...I think I may...actually respect you now.
+DWAYNE	m	Get up, you pussy! Come on, soldier!
+CHET	m	Fucking nine dollars to use the internet.
+WILL	m	And?
+CHET	m	Police think it was that black guy. They found some kind of map in his car. And I'm sure racial profiling played a part.
+WILL	m	But nothing about us?
+CHET	m	Nope. Guess it's time to head back.
+WILL	m	I was thinking we'd stick around a little a longer.
+CHET	m	Why? So you have more time to delude my sister?
+WILL	m	Yes. And it'd be easier if you gave us five fucking minutes alone.
+CHET	m	You really think she's into you?
+WILL	m	I kissed her last night. No tongue. Then you walked in.
+CHET	m	You're gonna go fuck my sister now, aren't you?
+WILL	m	I'll be thinking of you the whole time.
+CHET	m	At the very least...be a considerate lover. Give pleasure, before taking pleasure.
+WILL	m	I think I'm reading you. And I will try my best.
+WILL	m	You're Riggs! You always have been!
+WILL	m	I lied and told your brother I kissed you. I thought it would make this easier.
+KATE	f	Here's an idea: pretend you have a bomb strapped to your chest. Tick,
+KATE	f	Is Chet watching us?
+WILL	m	Probably. We should go inside. I promised him I'd satisfy you.
+BLACKDWAYNE	?	GRAND OPENING SPECTACULARRR!
+DWAYNE	m	Here at Major Tan, our specially trained technicians are hard at work developing new technologies that harness the power of the sun, to ensure a cutting-edge tanning experience.
+DWAYNE	m	How's it looking?
+JAY	m	It's our most advanced tanning bed yet!
+DWAYNE	m	Hey, don't just take this scientist's word for it. The proof...
+DWAYNE	m	...is in the tan.
+DWAYNE	m	But Major Tan isn't just about looking good. It's also about feeling good.
+RANDOM GUY	m	That "Deluxe Tan" was fantastic!
+DWAYNE	m	So come on down to Major Tan...where we're proud to be a family business.
+

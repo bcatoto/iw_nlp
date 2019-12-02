@@ -1,0 +1,684 @@
+LEONARD	m	So where are you? You're in some motel room.
+LEONARD	m	Looks like somebody's home.
+TEDDY	m	That thing's been here for years.
+LEONARD	m	I think you're wrong. These tracks aren't more than a few days old. Let's take a look inside.
+LEONARD	m	I've finally found him. How long have I been looking?
+TEDDY	m	Find anything? Didn't think so, let's go, yeah? Fuck this.
+LEONARD	m	YOU PAY FOR WHAT YOU DID! YOU BEG
+TEDDY	m	You don't have a clue, you freak.
+LEONARD	m	Beg my forgiveness! Beg my wife's forgiveness before I blow your brains out!
+TEDDY	m	Leonard, you don't have a clue what's going on. You don't even know my name.
+LEONARD	m	Teddy!
+TEDDY	m	You read it off your fucking photo. You don't know me, you don't even know who  you are.
+LEONARD	m	I'm Leonard Shelby, I'm from San Francisco and I'm -
+TEDDY	m	    (bloody grin) That's who you were, you don't know who you are.
+LEONARD	m	Shut your mouth!
+TEDDY	m	Lemme take you down in the basement and show you what you've become.     (intimate) C'mon, Lenny - we'll take a look down there together. Then you'll know. You'll know what you really are.
+LEONARD	m	So you're in some motel room... ... you don't know how long you've been there, or how you got there...
+BURT	m	That guy's here already.
+TEDDY	m	 Lenny!
+LEONARD	m	It's Leonard... like I told you before.
+TEDDY	m	Did you? I musta forgot. I'm Teddy.
+LEONARD	m	    (smiles) I guess I've told you about my condition.
+TEDDY	m	Only every time I see ya!
+LEONARD	m	My car.
+TEDDY	m	This is your car.
+LEONARD	m	    (shakes head) You're in a playful mood. Shouldn't make fun of somebody's   handicap.
+TEDDY	m	Just trying to have a little fun.
+TEDDY	m	Roll your window up, will ya?
+LEONARD	m	It's broken.
+TEDDY	m	I can get that fixed for you. So where are we going, Sherlock?
+LEONARD	m	I got a lead on a place.
+TEDDY	m	    (surprised at the note) What the hell you want to go there for?
+LEONARD	m	You know it?
+TEDDY	m	Yeah, it's just this fucked-up building.     Why are we going there?
+LEONARD	m	    (smiling) I don't remember.
+LEONARD	m	Looks like somebody's home.
+LEONARD	m	Nothing except the Gideon Bible.
+BURT	m	Hiya.
+LEONARD	m	I'm Mr. Shelby from 304.
+BURT	m	What can I do for you, Leonard?
+LEONARD	m	I'm sorry... um... ?
+BURT	m	Burt.
+LEONARD	m	Burt, I'm not sure, but I may have asked you to hold my calls -
+BURT	m	You don't know?
+LEONARD	m	I think I may have. I'm not good on the phone.
+BURT	m	   (nods) You said you like to look people in the eye when you talk to them. Don't you remember?
+LEONARD	m	That's the thing. I have this condition.
+BURT	m	Condition?
+LEONARD	m	I have no memory.
+BURT	m	Amnesia?
+LEONARD	m	No. It's different. I have no short-term memory. I know who I am and all about myself, but since my injury I can't make any new memories. Everything fades. If we talk for too long, I'll forget how we started. I don't know if we've ever met before, and the next time I see you I won't remember this conversation. So if I seem strange or rude, that's probably... I've told you this before, haven't I?
+BURT	m	   (nods) I don't mean to mess with you. It's just so weird. You don't remember me at all, and we talked a bunch of times. What's the last thing you remember?
+LEONARD	m	My wife.
+BURT	m	    (fascinated) What's it like?
+LEONARD	m	Like waking. Like you always just woke up.
+BURT	m	That must suck. All... backwards.  Well, like.. you gotta pretty good idea of what you're gonna do next, but no idea    what you just did.      (chuckles)     I'm the exact opposite.
+LEONARD	m	    (focuses on Burt) How long have I been here?
+BURT	m	Couple days.
+LEONARD	m	So you're holding my calls?
+BURT	m	As requested.
+LEONARD	m	Okay, but this guy's an exception. Know this guy?
+BURT	m	Your friend, right?
+LEONARD	m	What makes you think he's my friend?
+BURT	m	Seen you together, that's all.
+LEONARD	m	He's not my friend, Burt. But if he calls, or if he turns up here, then you give me a call in my room, okay?
+BURT	m	Sure. But nobody else, right?
+LEONARD	m	Just this guy. I hope my condition won't be a problem for you.
+BURT	m	Not if you remember to pay your bill. That guy's here already.
+WAITER	m	Sir? You left these at your table.
+LEONARD	m	Thanks. Lincoln Street?
+WAITER	m	You wanna go east on sixth.     (points) Just keep straight, all the way out of town, then take a right.
+TEDDY	m	Yup?
+LEONARD	m	Mr Gammell?
+TEDDY	m	Lenny, is that you?
+LEONARD	m	John Gammell?
+TEDDY	m	Lenny, it's Teddy. Look, stay there, okay? I'm gonna be right over.
+LEONARD	m	I'll be waiting.
+LEONARD	m	Who is this?     (listens)  And we spoke earlier? I don't remember  that.     (listens) Well, yeah, but it's not amnesia. I     remember everything from before my injury, I just can't make any new memories.     (listens)
+LEONARD	m	Natalie.
+NATALIE	f	You don't remember me.
+LEONARD	m	    (friendly smile) Sorry, I should have explained. You see, I have this condition -
+NATALIE	f	You did explain, Lenny.
+LEONARD	m	Please call me Leonard. My wife called me Lenny.
+NATALIE	f	You told me.
+LEONARD	m	Then I probably told you how much I hated  it. Could you take off your sunglasses? It's just hard for me -
+NATALIE	f	Yeah.
+LEONARD	m	So you have information for me?
+NATALIE	f	Is that what your little note says?
+LEONARD	m	Yes.
+NATALIE	f	Must be tough living life according to a few scraps of paper. Mix up your laundry list and your grocery list, you'll be eating your underwear. But I guess that's why you got those freaky tattoos.
+LEONARD	m	It is tough. Almost impossible. I'm sorry I can't remember you. It's not personal.
+NATALIE	f	I'm sorry. I do have information for you. You gave me a license plate number? I had my friend at the DMV trace it. Guess what name came up.
+LEONARD	m	You know him?
+NATALIE	f	No. But the photo on his license looked familiar. I think he's been in the bar before This is a copy of his registration, license, photo and all. Are you sure you want this?
+LEONARD	m	Have I told you what this man did?
+LEONARD	m	Then you shouldn't have to ask.
+NATALIE	f	But even if you get your revenge, you won't remember it. You won't even know it's happened.
+LEONARD	m	    (annoyed)  So I'll take a picture, get a tattoo.       (calms)    The world doesn't disappear when you    close your eyes, does it? My actions    still have meaning, even if I can't     remember them. My wife deserves    vengeance, and it doesn't make any difference whether I know about it.
+NATALIE	f	Tell me about her again.
+LEONARD	m	Why?
+NATALIE	f	Because you like to remember her. I want to see you enjoy yourself.
+LEONARD	m	She was beautiful. Perfect to me -
+NATALIE	f	Don't just recite the words. Close your eyes, remember her.
+LEONARD	m	You can only feel details. Bits and pieces which you didn't bother to put into words. And extreme moments you feel even if you don't want to. Put it together and you get the feel of the person, enough to know how much you miss them, and how much you hate the person who took them away.
+NATALIE	f	I wrote an address in there, too. Might be useful. It's this abandoned place outside of town. I guy I know used to use it for his bigger deals.
+LEONARD	m	Deals?
+NATALIE	f	It's isolated.
+LEONARD	m	Sounds perfect? What do I owe you?
+NATALIE	f	I wasn't helping you for money.
+LEONARD	m	Sorry.
+NATALIE	f	It's not your fault. See, you have this condition... Are you still at the Discount Inn? Room 304? You left this at my place.
+LEONARD	m	The Discount Inn, yeah.
+NATALIE	f	They treating you alright?
+LEONARD	m	   (smiling) Don't remember.
+NATALIE	f	You know what we have in common? We're both survivors. Take care, Leonard.
+LEONARD	m	I met Sammy through work.     (listens) Insurance. I was an investigator. I'd   investigate claims to see which ones    were phony.    I had to see through people's bullshit. It was useful experience, because now it's my life. When I meet someone, I don't even know if I've met them before. I have to look in their eyes and just figure them out. My job taught me that the best way to find out what someone knew was to let them talk.
+LEONARD(V.0.)	?	Throw in the occasional "why?" but just listen. And watch the eyes, the body     language. It's complicated. You might catch a sign but attach the wrong meaning to it. If someone touches their nose while they're talking, experts will tell you it means they're lying. It really means they're nervous, and people get nervous for all sorts of reasons. It's all about context.
+LEONARD	m	I'm sorry, I think I'm checked in here, But I've misplaced my key.
+BURT	m	    (looks up) Hi, Leonard. Probably in the room.
+LEONARD	m	I don't see my key.
+BURT	m	Shit. Wrong room.
+LEONARD	m	What?
+BURT	m	This isn't your room. You're in 304. I Fucked up.
+LEONARD	m	This isn't my room?
+BURT	m	No, let's go.
+LEONARD	m	Then why is this my handwriting?
+BURT	m	This was your room. You're up in 304 now.
+LEONARD	m	When was I in here?
+BURT	m	Last week. Then I rented you another one On top of this.
+LEONARD	m	Why?
+BURT	m	Business is slow. I told my boss about You, about your condition. He told me to Try and rent you another room.
+LEONARD	m	Why didn't you clean it out?
+BURT	m	    (shrugs) You're still paying for it. It's still Your room.
+LEONARD	m	So how many rooms am I checked into in this dump?
+BURT	m	Just two. So far.
+LEONARD	m	Well, at least you're being honest about cheating me.
+BURT	m	Yeah, well you're not gonna remember, anyway.
+LEONARD	m	You don't have to be that honest, Burt.
+BURT	m	Leonard. Always get a receipt.
+LEONARD	m	I'm gonna write that down.
+LEONARD	m	I'd just become an investigator when I came across Sammy. Mr Samuel R. Jankis - strangest case ever. Guy's 58, semi- retired accountant. He and his wife had been in this car accident... nothing too serious, but he's acting funny - he can't get a handle on what's going on.
+LEONARD(V.O.)	?	The doctors find some possible damaqe to the hippocampus, nothing conclusive. But Sammy can't remember anything for more than a couple minutes. He can't work, can't do shit, medical bills pile up, his wife calls the insurance company and I get sent in.
+LEONARD	m	My first big claims investigation - I really check into it. Sammy can think just fine, but he can't make any new memories, he can only remember things for a few minutes.
+LEONARD	m	He'd watch T.V., but anything longer than a couple of minutes was too confusing, he couldn't remember how it began. He liked commercials. They were short.
+LEONARD	m	... and as long as he kept his mind on what he was doing.
+MRS JANKIS  	f	Gentle.
+LEONARD	m	The doctors assure me that there's a real condition called Korsokoff's syndrome; short-term memory loss, rare but legit. But every time I see him I catch a look of recognition. Just a slight look, but he says he can't remember me at all.
+LEONARD	m	His wife has to do everything. Sammy can only do simple stuff. He couldn't pick up any new skills at all, and that's how I got him.
+TEDDY	m	Lenny! I thought you'd gone for good. What brings you back?
+LEONARD	m	Unfinished business. What made you think I wasn't coming back?
+TEDDY	m	You said you were leaving town.
+LEONARD	m	Things change.
+TEDDY	m	So I see. It's good to see you. My name's Teddy.
+LEONARD	m	Guess I've told you about my condition.
+TEDDY	m	    (grins) Only every time I see ya! Come on, I'll buy you lunch.
+TEDDY	m	Not hungry?
+LEONARD	m	    (shrugs) It's my condition. I never know if I've already eaten, so I always just eat small amounts.
+TEDDY	m	You don't have to remember to be hungry.
+LEONARD	m	It's weird, but if you don't eat for a while then your body stops being hungry. You get sort of shaky but you don't realize you haven't eaten. Have I told you about Sammy Jankis?
+TEDDY	m	Yeah, yeah. I heard enough about him. Tell me about John G. You still think he's here, right?
+LEONARD	m	Who?
+TEDDY	m	The guy you're looking for, Johnny G. That's why you haven't left. Am I right? Leonard, you need to be very careful.
+LEONARD	m	Why?
+TEDDY	m	Well, the other day you made it sound like you thought somebody might be trying to set you up. Get you to kill the wrong guy.
+LEONARD	m	Yeah, well I go on facts, not recommendations, okay?
+TEDDY	m	Lenny, you can't trust a man's life to your little notes and pictures.
+LEONARD	m	Why?
+TEDDY	m	Because you're relying on them alone. You Don't remember what you've discovered or how. Your notes might be unreliable.
+LEONARD	m	Memory's unreliable. No, really. Memory's not perfect. It's not even that good. Ask the police, eyewitness testimony is unreliable. The cops don't catch a killer by sitting around remembering stuff. They collect facts, make notes, draw conclusions. Facts, not memories: that's how you investigate. I know, it's what I used to do. Memory can change the shape of a room or the color of a car. It's an interpretation, not a record. Memories can be changed or distorted and they're irrelevant if you have the facts.
+TEDDY	m	You really want to find this guy?
+LEONARD	m	He took away the woman I love and he took away my memory. He destroyed everything; my life and my ability to live.
+TEDDY	m	You're living.
+LEONARD	m	Just for revenge. That's what keeps me going. It's all I have.
+ TEDDY	m	We'll find him. Where are you staying?
+LEONARD	m	Discount Inn. Don't know what room; haven't got my key.
+TEDDY	m	Probably left it in your room.
+LEONARD	m	I'm sorry, I think I'm checked in here, but I've misplaced my key.
+BURT	m	    (looks up) Hi, Leonard.
+LEONARD	m	So Sammy can't learn any new skills. But I find something in my research: Conditioning. Sammy should still be able to learn through repetition. It's how  you learn stuff like riding a bike, things you don't think about, you just get better through practice. Call it muscle memory, whatever, but it's a completely different part of the brain from the short-term memory. So I have the doctors test Sammy's response to conditioning...
+DOCTOR	m	Just pick up any three objects.
+SAMMY	m	    (amused) That's a test? Where were you guys when I did my CPA?
+DOCTOR	m	It's a test, Sammy.
+LEONARD	m	Some of the objects were electrified, They'd give him a small shock.
+LEONARD	m	They kept repeating the test, always with the same objects electrified. The point was to see if he could learn to avoid the electrified objects. Not by memory, but by instinct.
+LEONARD	m	Sorry. It's only me.
+NATALIE	f	Sleep okay?
+LEONARD	m	Yeah. You?
+NATALIE	f	I gotta be someplace. Pretty weird.
+LEONARD	m	Useful. You never write a phone number on your hand?
+NATALIE	f	    (through mirror)     I should be able to talk to my friend   about the license plate today.
+LEONARD	m	Yeah, the license plate...
+NATALIE	f	    (smiles)   John G's license plate number. You have it tattooed on your thigh.
+NATALIE	f	If it's registered in this state it'll  just take seconds to pull up his license and registration. I'll call when I've spoken to him.
+ LEONARD	m	Why don't we just arrange a meeting now?     I'm not too good on the phone.
+NATALIE	f	    (smiles) I'm helping you because you helped me. So will you remember me next time you seo me? I think you will.
+LEONARD	m	    (smiles) I'm sorry.
+NATALIE	f	    (amused) Lenny, before you go, can I have my shirt back please?
+TEDDY	m	Lenny! I thought you'd gone for good. What brings you back?
+LEONARD	m	They kept testing Sammy for months, always with the same objects carrying the electrical charge...
+SAMMY	m	Ah! What the fuck?!
+DOCTOR	m	It's a test, Sammy.
+SAMMY	m	Ah! What the fuck?!
+DOCTOR	m	It's a test, Sammy.
+SAMMY	m	Yeah? Test this you fucking quack.
+LEONARD	m	Even with total short-term memory loss, Sammy should've learned to instinctively stop picking up the wrong objects. All previous cases of short-term memory loss had responded to conditioning in some way. Sammy didn't respond at all.
+LEONARD	m	It was enough to suggest his condition was psychological not physical.
+LEONARD	m	Natalie, right? Who the fuck is Dodd?
+NATALIE	f	Guess I don't have to worry about him anymore.
+LEONARD	m	    (snaps) Who is he? What have you got me into?
+NATALIE	f	Come inside.
+NATALIE	f	Calm down. You're not into anything. It was my problem, you offered no help. It's got nothing to do with your investigation.
+LEONARD	m	That's the problem! How can I find John G. when I don't know what's going on?! How did you get me into this?!
+NATALIE	f	Leonard, you offered to help when you saw what this guy did to me.
+LEONARD	m	How do I know he did that to you?
+NATALIE	f	I came to you straight after he did it. I showed you what he'd done and asked for your help.
+LEONARD	m	So I just take your word?
+NATALIE	f	Yes.
+LEONARD	m	    (sighs) Something feels wrong. I think someone's fucking with me. Trying to get me to kill the wrong guy.
+NATALIE	f	Did you?
+LEONARD	m	What?
+NATALIE	f	Kill him.
+LEONARD	m	Course not.
+NATALIE	f	This has nothing to do with you. You helped me out, and I'm grateful.
+LEONARD	m	You have to burn them.
+NATALIE	f	You decided to help me. Trust yourself. Trust your own judgment. You can question everything, you can never know anything for sure.
+LEONARD	m	There are things you know for sure.
+NATALIE	f	Such as?
+LEONARD	m	I know the feel of the world.     (reaches forward) I know how this wood will sound when I knock.     (raps knuckles on coffee table) I know how this glass will feel when I pick it up.     (handles glass) Certainties. You think it's knowledge, but it's a kind of memory, a kind you take for granted. I can remember so much.     (runs hands over objects) I know the feel of the world,     (beat) and I know her.
+NATALIE	f	Your wife?
+LEONARD	m	She's gone and the present is trivia, which I can scribble down as notes.
+NATALIE	f	Relax a little, okay? Take off your jacket.
+LEONARD	m	It's not easy to be calm when -
+NATALIE	f	Just relax. You don't seem the type. Come on. It's backwards.
+LEONARD	m	It's... it must be for when I've found him.
+LEONARD	m	I'm sorry.
+NATALIE	f	His name was Jimmy.
+LEONARD	m	What happened?
+NATALIE	f	He went to meet somebody and didn't come back.
+LEONARD	m	Who did he go to meet?
+NATALIE	f	A guy called Teddy.
+LEONARD	m	What do the police think?
+NATALIE	f	They don't look too hard for guys like Jimmy. When you find this guy, this John G., what are you going to do?
+LEONARD	m	Kill him.
+NATALIE	f	Maybe I can help you find him. I know a lot of people.
+LEONARD	m	I don't even know how long she's been   gone. It's like I've woken up in bed and she's not here because she's gone to the bathroom or something. But somehow I just    know that she'll never come back to bed.     I lie here, not knowing how long I've been alone. If I could just reach out and    touch her side of the bed I could know  that it was cold, but I can't. I have no     idea when she left. I know I can't have her back, but I want     to be able to let her go. I don't want to wake up every morning thinking she's still here then realizing that she's not. I want time to pass, but it won't. How  can I heal if I can't feel time?
+LEONARD	m	Sammy's wife was crippled by the cost of supporting him and fighting the company's decision - but it wasn't the money that got to her.
+LEONARD	m	I never said that Sammy was faking. Just that his problem was mental, not physical. But she... she couldn't understand. She looks into his eyes and sees the same person. And if it's not a physical problem...
+LEONARD	m	... he should just... snap out of it.
+LEONARD	m	Awake. Where am I? Motel room. Some anonymous motel room. Nothing in the drawers, but you look anyway.
+TEDDY	m	Finished playing with yourself, Lenny?
+LEONARD	m	Why are you here?
+TEDDY	m	    (surprised) You called me. You wanted my help. You know, Lenny, I've had more rewarding friendships than this one. Although I do get to keep using the same jokes. Who the fuck is that?
+LEONARD	m	You don't know him?
+TEDDY	m	No! Should I? Is this John G.?
+LEONARD	m	I don't think so.
+TEDDY	m	Think so? You don't know? Didn't you write it down?
+LEONARD	m	I might have fallen asleep before I did.
+TEDDY	m	Ask him.
+LEONARD	m	What's your name?
+MAN	m	Dodd.
+LEONARD	m	Who did this to you?
+DODD	m	    (confused) What?
+LEONARD	m	Who did this to you?
+DODD	m	You did.
+TEDDY	m	I'm not gonna help you kill this guy, if that's what -
+LEONARD	m	No. No, just let me think for a minute. Here we go.
+TEDDY	m	Natalie? Natalie who?
+LEONARD	m	Why?
+TEDDY	m	I think I know her.
+LEONARD	m	We've got to get him out of here.
+TEDDY	m	He's got to have a car, right? We just take him back to his car and tell him to get the fuck out of town before we kill him.
+LEONARD	m	We can't just walk him out tied up and bleeding.
+TEDDY	m	How'd ya get him in here in the first place?
+LEONARD	m	I don't know. Yes I do... this isn't my room. It's his. He was already here. Let's just    go.
+TEDDY  	m	Wait, we can't just leave him. The maid finds him, calls the cops. He's seen us now
+LEONARD	m	Okay. We clean him up, untie him and    march him out with a gun in his back.
+TEDDY	m	Why would I have a gun?
+LEONARD	m	It must be his. I don't think they'd let someone like me carry a gun.
+TEDDY	m	Fucking hope not.
+LEONARD	m	Which one?
+TEDDY	m	We probably ought to take his car, you know, teach him a lesson.
+LEONARD	m	Shut it, Teddy.
+TEDDY	m	Easy for you to say, you've got the Jag.
+LEONARD	m	I'll ride with him. You follow.
+TEDDY	m	Give me your keys.
+LEONARD	m	Take your own car.
+TEDDY	m	So was he scared?
+LEONARD	m	Yeah. I think it was your sinister mustache that got him.
+TEDDY	m	Fuck you. We shoulda taken his car.
+LEONARD	m	What's wrong with this one?
+TEDDY	m	You like it? Let's trade.
+TEDDY	m	So what are you gonna do now?
+LEONARD	m	I'm gonna ask Natalie what the fuck that was all about.
+TEDDY	m	Natalie who?
+LEONARD	m	Natalie, right? Who the fuck is Dodd?
+LEONARD	m	What Mrs. Jankis didn't understand was that you can't bully someone into remembering... the more pressure you're under, the harder it gets.     (listens) Then call me back.
+LEONARD	m	Don't feel drunk.
+FEMALE VOICE	f	Housekeeping.
+LEONARD	m	Not just now!
+TEDDY	m	You know what to do.
+LEONARD	m	Ah, it's a message for Teddy...    I'm at the MOUNTCREST INN on 5th Street, Room 6, and I need you to come over as soon as you get this, it's important. This is Leonard. Thanks. Bye.
+LEONARD	m	I'll get the jump on you, fucker.
+LEONARD	m	Is this the guy? Fuck! Sorry.
+LEONARD	m	Need a weapon.
+LEONARD	m	What the fuck am I doing?
+LEONARD	m	Chasing him!
+LEONARD	m	FUCK! He's chasing me.
+DODD	m	I haven't made a strong enough impression.
+LEONARD	m	    (amused) Don't be too hard on yourself.
+LEONARD	m	Seat belt. What the fuck am I doing?
+LEONARD	m	How can you read that again?
+LEONARD'S WIFE	f	    (without looking up) It's good.
+LEONARD	m	You've read it a hundred times.
+LEONARD'S WIFE	f	I enjoy it.
+LEONARD	m	Yeah, but the pleasure of a book is in wanting to know what happens next -
+LEONARD'S WIFE	f	    (looks up, annoyed) Don't be a prick. I'm not reading it to annoy you, I enjoy it. Just let me read, please.
+LEONARD	m	Probably tried this before. Probably burned truckloads of your stuff. Can't remember to forget you.
+LEONARD	m	Do I know this guy?
+LEONARD	m	He seems to know me.
+LEONARD	m	What the fuck!
+DODD	m	I like your car.
+LEONARD	m	Thanks.
+DODD	m	Where'd you get it?
+LEONARD	m	Interested in buying one?
+DODD	m	I just want you to tell me how you came by that car.
+LEONARD	m	I forget.
+DODD	m	I haven't made a strong enough impression on you.
+LEONARD	m	    (amused) I wouldn't be too hard on yourself.
+LEONARD	m	Who is this?
+LEONARD	m	    (about to tell her something) Honey?     (relaxed) Honey? It's late.
+BLONDE	f	Was it good for you?
+LEONARD	m	No. That would have been worse. I'd like you to leave now.
+LEONARD	m	Well, sir, that would certainly be in keeping with some of my own discoveries. Yeah, I was hoping to get more on the drugs angle. Hang on a second. The police report mentioned the drugs found in the car outside my house. The car was stolen, but his prints were all over it, along with some of his stuff. And I think there's something...     (flips through pages) Something about a syringe...     (flips pages, confused) I've got a copy of the police report.
+LEONARD	m	None? Okay, blonde. Yeah, blonde is fine. Discount Inn, 304. Leonard.
+BLONDE	f	Well, what then?
+LEONARD	m	It's simple, you just go to the bathroom. No, you just go into the bathroom. We go to bed, you wait till I fall asleep, then you go into the bathroom and slam the door.
+BLONDE	f	Slam it?
+LEONARD	m	Just loud enough to wake me up.
+BLONDE	f	That's it?
+LEONARD	m	That's it. But, first I need you to put these things around. Just pretend these things are yours, and this is your bedroom.
+BLONDE	f	Should I wear it?
+LEONARD	m	No. Just leave the stuff lying around as if it were yours. Like you just took it off or something.
+BLONDE	f	Whatever gets you off.
+LEONARD	m	No! No, don't use it, you, I mean it's... you just have to put it where you would if it were yours.
+LEONARD	m	The drugs stashed in the car doesn't ring true for me.
+TEDDY	m	You should lock a car as nice as this.
+LEONARD	m	Who the fuck are you?
+TEDDY	m	    (gasping) Teddy. Your buddy.
+LEONARD	m	Prove it.
+TEDDY	m	    (gasping) Sammy. Remember Sammy. You told me about Sammy.
+LEONARD	m	What are you doing in my car?
+TEDDY	m	Sense of humour went with the memory, huh? You know why you're still here, don't you?
+LEONARD	m	Unfinished business.
+TEDDY	m	Lenny, as a buddy, let me inform you. Your business here is very much finished. You're still here because of Natalie.
+LEONARD	m	Who's she?
+TEDDY	m	Whose house do you think you just walked out of? Take a look at your pictures, I bet you got one of her. Great shot, Lenny. You wanna make a note that you can't trust her.
+LEONARD	m	Why's that?
+TEDDY	m	Because she'll have taken one look at your clothes and your car and started thinking of ways to turn the situation to her advantage. She's already got you staying with her, for fuck's sake.
+LEONARD	m	What do you mean "bad news"?
+TEDDY	m	She's involved with these drug dealers. See these? That's the bar where she works. Her boyfriend's a drug dealer. She'd take orders for him, arrange meets. He'd write messages on these, then leave it on the bar. She'd drop replies when she served him drinks.
+LEONARD	m	Why should I care?
+TEDDY	m	She's gonna use you. To protect herself.
+LEONARD	m	From who?
+TEDDY	m	Guys who'll come after her. Guys who'll want to know what happened to her boyfriend. They'll want to make somebody pay. Maybe she'll try and make it you.
+LEONARD	m	Yeah, well maybe she'll make it you. Is that it? You worried she'll use me against you?
+TEDDY	m	She couldn't.
+LEONARD	m	Why not?
+TEDDY	m	    (grins) She has no idea who I am.
+LEONARD	m	Why are you following me?
+TEDDY	m	I'm trying to help you. I knew she'd get her claws into you. She doesn't know anything about your investigation, so when she offers to help you, it'll be for her own reasons. Why would I lie? Do not go back to her. Take out a pen, write yourself a note, do not trust her.
+LEONARD	m	Happy now?
+TEDDY	m	I won't be happy until you leave town.
+LEONARD	m	Why?
+TEDDY	m	How long do you think you can hang around here before people start asking questions?
+LEONARD	m	What sort of questions?
+TEDDY	m	The sort of questions you should be asking yourself.
+LEONARD	m	Like what?
+TEDDY	m	Like how'd you get this car? That suit?
+LEONARD	m	I have money.
+TEDDY	m	From what?
+LEONARD	m	My wife's death. I used to work in Insurance, we were well covered.
+TEDDY	m	So in your grief you wandered into a Jaguar dealership? You haven't got a clue, have you? You don't even know who you are?
+LEONARD	m	Yes, I do. I don't have amnesia. I remember everything about myself up until the incident. I'm Leonard Shelby, I'm from San Fran -
+TEDDY	m	That's who you were, Lenny. You don't know who you are, who you've become since the incident. You're wandering around, playing detective... and you don't even know how long ago it was. Put it this way. Were you wearing designer suits when you sold insurance?
+LEONARD	m	I didn't sell -
+TEDDY	m	I know, you investigated. Maybe you need to apply some of your investigative skills to yourself.
+LEONARD	m	Yeah, well, thanks for the advice.
+TEDDY	m	Don't go back in there. There's a motel out of town.
+LEONARD	m	 Fuck it. I need my own place.
+LEONARD	m	I can't blame the cops for not taking me seriously. This is a difficult condition for people to understand. I mean look at Sammy Jankis. His own wife couldn't deal with it.
+LEONARD	m	She told me about life with Sammy, how she'd treated him. It had got to the point where she'd get Sammy to hide food all around the house, then stop feeding him to see if his hunger would make him remember where he'd hidden the stuff. She wasn't a cruel person, she just wanted her old Sammy back.
+MRS. JANKIS	f	Mr. Shelby, you know all about Sammy and you decided that he was faking -
+LEONARD	m	Mrs. Jankis, the company's position isn't that Sammy is "faking" anything, just that his condition can't be shown -
+MRS. JANKIS	f	I'm not interested in the company position, Mr. Shelby. I want to know your honest opinion about Sammy.
+LEONARD	m	We shouldn't even be talking this way while the case is still open to appeal.
+MRS. JANKIS	f	I'm not appealing the decision.
+LEONARD	m	Then why are you here?
+MRS. JANKIS	f	Mr. Shelby, try and understand. When I look into Sammy's eyes, I don't see some vegetable, I see the same old Sammy. What do you think it's like for me to suspect that he's imagining this whole  problem? That if I could just say the right thing he'd snap out of it and be back to normal? If I knew that my old Sammy was truly gone, then I could say goodbye and start loving this new Sammy.     As long as I have doubt, I can't say goodbye and move on.
+LEONARD	m	Mrs. Jankis, what do you want from me?
+MRS. JANKIS	f	I want you to forget the company you work for for thirty seconds, and tell me if you really think that Sammy is faking his condition. I need to know what you honestly believe.
+LEONARD	m	    (looks at Mrs. Jankis) I believe that Sammy should be physically capable of making new memories.
+MRS. JANKIS	f	Thank you.
+LEONARD	m	She seemed to leave happy. I thought I'd helped her.
+LEONARD	m	What happened?
+NATALIE	f	What does it look like?! He beat the shit out of me.
+LEONARD	m	Who?
+LEONARD	m	Why?
+NATALIE	f	Because of you, you fucking idiot! Because I did what you told me!
+LEONARD	m	Calm down.     (softly) Take it easy. You're safe now. You're safe. Let's get some ice on your face.
+NATALIE	f	I did exactly what you told me. I went to    Dodd and I said that I didn't have Jimmy's money, or any drugs, that this Teddy must have taken everything.
+LEONARD	m	And what did he say?
+NATALIE	f	He didn't believe me. He said that if I don't get him the money tomorrow he's gonna kill me. Then he started hitting me.
+LEONARD	m	Where is he?
+NATALIE	f	What are you gonna do?
+LEONARD	m	I'll go see him.
+NATALIE	f	And?
+LEONARD	m	Give him some bruises of his own and tell him to look for a guy called Teddy.
+NATALIE	f	He'll kill you, Lenny.
+LEONARD	m	    (smiling) My wife used to call me Lenny.
+NATALIE	f	Yeah?
+LEONARD	m	Yeah, I hated it.
+NATALIE	f	This guy's dangerous, let's think of something else.
+LEONARD	m	I'll take care of it. Just tell me what he looks like, and where I can find him. Do you have a pen?
+NATALIE	f	He'll probably find you.
+LEONARD	m	Me? Why would he be interested in me?
+NATALIE	f	I told him about your car.
+LEONARD	m	Why would you do that?
+NATALIE	f	He was beating the crap out of me! I had to tell him something!
+LEONARD	m	Just write it all down. What he looks   like, where I find him.
+TEDDY	m	You should lock a car as nice as this.
+LEONARD	m	No, she shouldn't have given me that responsibility. Shit, I'm not a doctor, I'm a claims investigator. I suppose, but I've got all sorts of other considerations. Legal responsibility, and large financial...
+LEONARD	m	What's wrong?
+NATALIE	f	Somebody's come. Already.
+LEONARD	m	Who?
+NATALIE	f	Calls himself Dodd.
+LEONARD	m	What does he want?
+NATALIE	f	Wants to know what happened to Jimmy. And his money. He thinks I have it. He thinks I took it.
+LEONARD	m	Did you?
+NATALIE	f	No!
+LEONARD	m	What's this all about?
+NATALIE	f	You don't know, do you? You're blissfully ignorant, aren't you?
+LEONARD	m	I have this condition -
+NATALIE	f	I know about your fucking condition, Leonard! I probably know more about it than you do! You don't have a fucking clue about anything else!
+LEONARD	m	What happened?
+NATALIE	f	What happened is that Jimmy went to meet a guy called Teddy. He took a lot of money with him and he didn't come back. Jimmy's partners think I set him up. I don't know whether you know this Teddy or how well -
+LEONARD	m	Neither do I.
+NATALIE	f	Don't protect him.
+LEONARD	m	I'm not.
+NATALIE	f	Help me.
+LEONARD	m	How?
+NATALIE	f	Get rid of Dodd for me.
+LEONARD	m	What?
+NATALIE	f	Kill him. I'll pay you.
+LEONARD	m	What do you think I am?! I'm not gonna kill someone for money.
+NATALIE	f	What then? Love? What would you kill for? For your wife, right?
+LEONARD	m	That's different.
+NATALIE	f	Not to me! I wasn't fucking married to her!
+LEONARD	m	Don't talk about my wife.
+NATALIE	f	I can talk about whoever the fuck I want! You won't even remember what I say! I can tell you that your wife was a fucking whore and we can still be friends!
+LEONARD	m	Calm down.
+NATALIE	f	That's easy for you to say! You can't get scared, you don't remember how, you fucking idiot!
+LEONARD	m	Just take it easy, this isn't my fault.
+NATALIE	f	Maybe it is! How the fuck would you know?! You don't know a fucking thing! You can't get scared, can you get angry?!
+LEONARD	m	Yes.
+NATALIE	f	You pathetic piece of shit. I can say whatever the fuck I want and you won't have a clue, you fucking retard.
+LEONARD	m	Shut the fuck up!
+NATALIE	f	I'm gonna use you, you stupid fuck. I'm telling you now because I'll enjoy it more if I know that you could stop me if you weren't a freak.
+LEONARD	m	Don't say another fucking word!
+NATALIE	f	About your whore of a wife? I read about your problem. You know what one of the causes of short term memory loss is? Venereal disease. Maybe your cunt of a wife sucked one too many diseased cocks and turned you into a retard. You sad freak, you won't remember any of what I've said, and we'll be best friends, or even lovers.
+LEONARD	m	What happened?
+NATALIE	f	What does it look like?
+LEONARD	m	Front desk? Burt, right. Well, this is Mr. Shelby in Room 21. I don't want any calls, none at all, got it? Thanks.
+NATALIE	f	You can just crash out on the couch. You'll be comfortable. Uh, take a seat. So how long you think it's gonna take you? You told me you were looking for the guy who killed your wife.
+LEONARD	m	    (consulting file)    Depends on if he's here in town. Or if he's moved on. See, I've got all this -
+ NATALIE	f	Can I ask you something? If you've got all this information, how come the police haven't found him for you?
+ LEONARD	m	They're not looking for him.
+ NATALIE	f	Why not?
+LEONARD	m	They don't think he exists. I told them what I remembered. I was asleep, something woke me up...
+LEONARD	m	Her side of the bed was cold. She'd been     out of bed for a while.
+NATALIE	f	How did they explain what you remembered? The gun and stuff?
+LEONARD	m	    (points at conclusions on back John G. was clever. He took the dead man's gun and replaced it with the sap that he'd hit me with. He left my gun and left the getaway car. He gave the police a complete package. They found a sap with my blood on it in the dead man's hand, and they only found my gun. They didn't need to look for anyone else. I was the only guy who disagreed with the facts, and I had brain damage.
+NATALIE	f	You can stay here for a couple of days if it'll help.
+LEONARD	m	Thank you.
+NATALIE	f	I've got to get back for the evening shift, so make yourself at home, watch T.V., whatever. Just grab a blanket and pillow off the bed. I never need them all anyway.
+LEONARD	m	Oh, one thing. Something to remember you by.
+NATALIE	f	Somebody's come. Already.
+BURT	m	Leonard, it's Burt from the front desk.
+LEONARD	m	Yeah?
+BURT	m	I know you said you didn't want any calls...
+LEONARD	m	That's right I did, didn't I?
+BURT	m	Yeah, but there's a call for you from this guy. He's a cop.
+LEONARD	m	A cop?
+BURT	m	And he says you're gonna wanna hear what he's got to say.
+LEONARD	m	    (shakes head)   I'm not too good on the phone. I need to     look people in the eye when I talk to   them.
+NATALIE	f	On the house.
+LEONARD	m	Thanks.
+NATALIE	f	    (fascinated) You really do have a problem. Just like that cop said.
+LEONARD	m	    (shrugs) Nobody's perfect.
+NATALIE	f	What's the last thing you remember? Leonard looks at her.
+LEONARD	m	My wife.
+NATALIE	f	Sweet.
+LEONARD	m	Dying.
+NATALIE	f	What?
+LEONARD	m	I remember my wife dying.
+NATALIE	f	Let me get you a fresh glass. I think this one was dusty.
+LEONARD	m	Beer, please.
+NATALIE	f	    (apprehensive) What do you want?
+ LEONARD	m	A BEER, please.
+ NATALIE	f	Don't just waltz in here dressed like   that and order a beer.
+ LEONARD	m	There's a dress code?
+ NATALIE	f	What are you here for?
+ LEONARD	m	I'm meeting someone called Natalie.
+ NATALIE	f	Well, that's me.
+ LEONARD	m	Oh. But haven't we met before? So why am I here?
+ NATALIE	f	You tell me.
+ LEONARD	m	I don't remember. See, I have no short- term memory. It's not amnesia -
+NATALIE	f	You're the memory guy?
+LEONARD	m	How do you know about me?
+NATALIE	f	My boyfriend told me about you.
+LEONARD	m	Who's your boyfriend?
+NATALIE	f	    (beat) Well, it seems like Jimmy knows you. He told me about you. Said you were staying over at the Discount. Then, just this   evening, this cop comes in here looking for you. Looking for a guy who couldn't remember stuff, who'd forget how he got here or where he was going. I told him we get a lot of guys like that in here.
+LEONARD	m	Chronic alcoholism ~ one cause of short term memory loss.
+NATALIE	f	Are you Teddy?
+LEONARD	m	My name's Leonard.
+NATALIE	f	Did Teddy send you?
+LEONARD	m	I don't know.
+NATALIE	f	What's happened to Jimmy?
+LEONARD	m	I don't know. I'm sorry.
+NATALIE	f	You have no idea where you've just come from? What you've just done?
+LEONARD	m	I can't make new memories. Everything   fades, nothing sticks. By the time we finish this conversation I won't remember how it started, and the next time I see you I won't know that I've ever met you before.
+NATALIE	f	So why did you come here?
+LEONARD	m	Found it in my pocket.
+NATALIE	f	    (quiet) Your pocket.
+LEONARD	m	Thank-you.
+LEONARD	m	    (anxious)  What do you want?       (listens)  I know you're a cop, but what do you    want? Did I do something wrong?        (frightened)    No, but I can't remember things I do. I don't know what I just did. Maybe I did something wrong, did I do something     wrong?
+LEONARD	m	I dunno - something bad. Maybe I did    something bad.
+NATALIE	f	    (casual)   Hey, Jimmy -   I'm sorry, I... I thought you were someone else.
+LEONARD	m	No, Officer, but with my condition, you don't know anything... you feel angry,  guilty, you don't know why. You could do     something terrible and not have the     faintest idea ten minutes later. Like   Sammy. What if I've done something like Sammy?!       (listens)  I didn't tell you? Didn't I tell you    what happened to Sammy and his wife?!       (listens)
+LEONARD	m	I never said he was faking. Just that his condition was mental, not physical. She seemed satisfied, she just said "thanks" and got up to leave. I found out later that she went home and gave Sammy his final exam.
+MRS. JANKIS	f	Sammy, it's time for my shot.
+LEONARD	m	She knew beyond doubt that he loved her, so she found a way to test him.
+MRS. JANKIS	f	Sammy, it's time for my shot. Sammy, it's time for my shot.
+LEONARD	m	She really thought she would call his bluff... ... or didn't want to live with the things she'd put him through.
+LEONARD	m	She went into a coma and never recovered. Sammy couldn't understand or explain what had happened.
+LEONARD	m	He's been in a home ever since. He doesn't even know his wife is dead.
+LEONARD	m	Didn't know this town had a parlor.
+TATTOOIST	m	Every town's got a parlor.
+LEONARD	m	I'd like this on my thigh please.
+LEONARD	m	Promise you won't call me an idiot.
+TATTOOIST	m	    (shaking her head) Idiot.
+TEDDY	m	Hi, Lenny.
+TATTOOIST	m	It's private back here.
+TEDDY	m	It's alright, we know each other, right, Lenny?
+LEONARD	m	How'd you know I was in here?
+TEDDY	m	The Jaguar's out front. You didn't even Bother to put it around back. You should have just left town, Lenny. There's Tattoo parlors up North.
+LEONARD	m	Guess I wanted to get something down before it slipped my mind.
+TEDDY	m	Gimme the keys, I'll move the car.
+LEONARD	m	It'll be alright for a minute.
+TATTOOIST	m	Wait out there.
+TEDDY	m	Lenny, I'll be back in a minute. I've got to get you some stuff.
+TEDDY	m	Give us a minute, will ya? We've got to get you out of here.
+LEONARD	m	Why?
+TEDDY	m	Why? Come on, Leonard, we talked about this. It's not safe f or you to be walking around like this.
+LEONARD	m	Why not?
+TEDDY	m	Because that cop's looking for you. We  need to get you a change of identity. Some new clothes and a different car should do for now. Put these on.
+LEONARD	m	What cop?
+TEDDY	m	This bad cop. He checked you into the   Discount Inn. Then he's been calling you     for days, sticking envelopes under your door, telling you shit.
+LEONARD	m	Envelopes?
+TEDDY	m	He knows you're no good on the phone, so     he calls you up to bullshit you.   Sometimes you stop taking his calls, so he slips something under your door to   frighten you into answering your phone  again. He's been pretending to help you.     Feeding you a line of crap about John G.     being some local drug dealer.
+LEONARD	m	How do you know this?
+TEDDY	m	'Cos he fucking told me. He thinks it's funny. He's laughing at you.
+LEONARD	m	How do you know him?
+TEDDY	m	    (glances around) I'm a snitch. He's a cop from out of town looking for information. The local boys put us in touch.
+LEONARD	m	What did he want to know from you?
+TEDDY  	m	He wanted to know all, about Jimmy Grantz.
+LEONARD	m	Who?
+TEDDY	m	Jimmy's a drug dealer. This cop wanted to know all about how he sets up deals, shit like that. He's got some score in mind  and you're involved. Come on, there's no     time to argue - if he knew I was helping      you he'd find a way to kill me. Just get     these clothes on. You're gonna take my  car and get the fuck out of here.
+LEONARD	m	    (under his breath) Sneaky fuck. "Bad Cop". Had me going.
+LEONARD	m	So this Jimmy Grantz deals drugs out of the bar where his girlfriend works. But he'll come to the meet alone.
+TEDDY	m	Lenny!
+LEONARD	m	Officer Gammell.
+LEONARD	m	Something to remember you by. I'm sorry - is it Officer, or Lieutenant Gammell?
+TEDDY	m	Just Teddy. Don't write Gammell please. I'm undercover. Here's directions. He'll be heading there now.
+LEONARD	m	You're not coming?
+TEDDY	m	Wouldn't be appropriate. Leonard? Make him beg.
+JIMMY	m	Teddy?!
+LEONARD	m	Jimmy?
+JIMMY	m	What the fuck are you doing here?
+LEONARD	m	Do you remember me?
+JIMMY	m	    (laughs) Yeah, I remember you.
+LEONARD	m	You Jimmy Grantz?
+JIMMY	m	Expecting any other Jimmy's out here, Memory Man? Where the fuck's Teddy? Well?
+LEONARD	m	Strip!
+JIMMY	m	You're making a big fucking mistake. My associates are not people you want -
+LEONARD	m	Don't say anything else.
+JIMMY	m	I knew I couldn't trust that fuck -
+LEONARD	m	Quiet! Pants, too.
+JIMMY	m	Why?
+LEONARD	m	I don't want blood on them.
+JIMMY	m	    (sudden fear) Wait! Did he tell you what I was bringing?
+LEONARD	m	Strip!
+JIMMY	m	Look, there's two hundred grand stashed in the car. Just take it!
+LEONARD	m	You think you can bargain with me?!
+JIMMY	m	Take the money and walk away!
+LEONARD	m	I don't want your fucking money!
+JIMMY	m	What?! What do you want from me?!
+LEONARD	m	I want my fucking life back!
+JIMMY	m	    (barely and audible rasp) Sammy... remember Sammy...
+LEONARD	m	What have I done?
+LEONARD	m	    (distraught) Hey! Mister! I need help!
+TEDDY	m	What's wrong?
+LEONARD	m	There's a guy in here, hurt bad! We gotta get him to a doctor!
+LEONARD	m	    (panicked) He might have fallen down the stairs, I don't know, I don't know what's going on, I'm confused. I have this memory thing - do I know you?
+TEDDY	m	No. Don't worry, I'm a cop. Everything'll be okay. Is he still breathing?
+LEONARD	m	Maybe. Maybe just.
+TEDDY	m	So what were you doing here?
+LEONARD	m	I don't know. See, I have this condition.
+TEDDY	m	Well, I hope it's not as serious as his, 'cos this guy's dead. FUCK, Lenny! That fucking kills!
+LEONARD	m	Remember me again, huh? You're a cop. A fucking cop.
+TEDDY  	m	Yeah, and I helped you find the guy you were looking for -
+LEONARD	m	Get up.
+TEDDY	m	I think you've got the wrong idea -
+LEONARD	m	Who was that? He's not the guy. He knew me.
+TEDDY  	m	Sure he did. He raped your wife and     fucked up your brain.
+LEONARD	m	Bullshit.
+TEDDY	m	His name's James F. Grantz, John G. Check    your tattoos.
+LEONARD	m	So what was he bringing the two hundred grand for?
+TEDDY  	m	What -
+LEONARD	m	What was it for?
+TEDDY	m	A load of amphetamine I told him I had.
+LEONARD	m	This is a drug deal?!
+TEDDY	m	That, and your thing.
+LEONARD	m	But how did he know me?
+TEDDY  	m	The Discount Inn, he deals out of there.     The guy at the front desk lets him know if anybody comes snooping around. He called Jimmy as soon as you took a picture of that dump.
+LEONARD	m	You're using me!
+TEDDY	m	No!     (beat) You get half.
+LEONARD	m	He knew about Sammy. Why would I tell him about Sammy?
+TEDDY	m	    (chuckles) You tell everyone about Sammy. Everyone who'll listen. "Remember Sammy Jankis, remember Sammy Jankis". Great story. Gets better every time you tell it. So you lie to yourself to be happy. Nothing wrong with that - we all do. Who cares if there's a few little things you'd rather not remember?
+LEONARD	m	What the fuck are you talking about?
+TEDDY	m	    (theatrical shrug) I dunno... your wife surviving the assault... her not believing about your condition... the doubt tearing her up inside.., the insulin -
+LEONARD	m	I was wrong! That's the whole point! Sammy's wife came to me and -
+TEDDY	m	Sammy didn't have a wife. It was your wife who had diabetes.
+LEONARD'S WIFE	f	Gentle.
+LEONARD	m	My wife wasn't diabetic.
+TEDDY	m	Are you sure?
+LEONARD'S WIFE	f	Gentle.
+LEONARD	m	She wasn't diabetic. You think I don't  know my own wife? What the fuck is wrong     with you?
+TEDDY	m	    (shrugs) I guess I can only make you believe the things you want to be true, huh? Like ol'    Jimmy down there.
+LEONARD	m	But he's not the right guy!
+TEDDY  	m	He was to you. Come on, Lenny, you got  your revenge - just enjoy it while you  still remember.
+TEDDY	m	    (chuckles) What difference does it make whether he was your guy or not?
+LEONARD	m	It makes all the difference.
+TEDDY	m	Why? You're never going to know.
+LEONARD	m	Yes, I will.
+TEDDY	m	No, you won't.
+LEONARD	m	Somehow, I'll know!
+TEDDY	m	You won't remember!
+LEONARD	m	When it's done, I'll know! It'll be different!
+TEDDY	m	I thought so too! I was sure you'd remember. But you didn't.
+TEDDY	m	    (off look) You know, when we found your guy and    killed him.     (off look) That's right, the real John G. Over a   year ago. I helped you find him. He's   already dead.
+LEONARD	m	Why do you keep lying to me?
+TEDDY	m	I'm not. I was the cop assigned to your wife's death. I believed you, I thought you deserved the chance for revenge. I helped you find the other guy who was in your bathroom that night. The guy who cracked your skull and fucked your wife.     We found him and you killed him.
+LEONARD	m	So who are you saying he was?
+TEDDY	m	Just some guy. Does it even matter who? I stopped asking myself why a long time ago. No reason, no conspiracy; just bad fucking luck. A couple of junkies, too  strung out to realize that your wife didn't live alone. When you killed him, I've never seen you so happy - I was convinced you'd remember. But it didn't stick, like nothing ever sticks. Like this won't stick. That's the picture, right? I took that, right when you did it. Look how happy you    are. Before you forgot. I wanted to see that face again.
+LEONARD	m	    (sarcastic)     Thank you.
+TEDDY	m	Fuck you; I gave you a reason to live and    you were more than happy to help. You lie    to yourself! You don't want the truth,  the truth is a fucking coward. So you   make up your own truth.
+LEONARD	m	You probably.
+TEDDY	m	No. You took them out.
+LEONARD	m	Why would I do that?
+TEDDY	m	To set yourself a puzzle you won't ever solve. You know how many towns, how many     guys called James G? Or John G? Shit, Leonard, I'm a John G.
+LEONARD	m	Your name's Teddy.
+TEDDY	m	    (chuckles) My mother calls me Teddy. I'm John Edward Gammell. Cheer up, there's a lot of John     G's for us to find. All you do is moan. I'm the one that has to live with what  you've done. I'm the one that has to put     it all together. You just wander around playing detective. You're living a dream,    kid. A dead wife to pine for and a sense     of purpose to your life. A romantic quest    which you wouldn't end even if I wasn't in the picture.
+LEONARD	m	I should kill you.
+TEDDY	m	Quit it!      (brushes the gun away)    You're not a killer, Lenny. That's why  you're so good at it.
+LEONARD	m	I'm not a killer...
+LEONARD (CON'T'D)	m	... but right now I need to be.
+TEDDY	m	Hey! Hey, that's not your car!
+LEONARD	m	It is now.
+TEDDY	m	You can't just take it!
+LEONARD	m	Why not?
+TEDDY	m	You just killed the guy who owned it! Somebody'll recognize it!
+LEONARD	m	I'd rather be mistaken for a dead guy than a murderer. I'm gonna hang on to this.
+LEONARD	m	I have to believe in the world outside my own mind. I have to believe that my actions still have meaning, even if I can't remember them. I have to believe that when my eyes are closed, the world's still there.     (rising tension) But do I? Do I believe the world's still there?
+

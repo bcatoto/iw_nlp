@@ -1,0 +1,522 @@
+MAN	m	...dragons.
+MAN	m	Arggghhhhh! (cheery, insane) Mornin'! Hiccup gets to his feet and continues to rush past gigantic men and women.
+MAN	m	What are you doing out!?
+MAN	m	... Burnthair the Broad...
+MAN	m	Get inside!
+MAN	m	... Phlegma the Fierce...
+MAN	m	. Ack. He passes a silent ox of a viking, picking his ear.
+MAN	m	Hiccup!? (accusingly; to the crowd) What is he doing out again?! What are you doing out?! Get inside! The flames light up his scowling face and matted red beard. He sets Hiccup down and turns to the sky, searching. That's Stoick the Vast. Chief of the tribe. They say that when he was a baby he popped a dragon's head clean off of its shoulders. Do I believe it? Stoick grabs a wooden cart and hurls it, knocking the strafing dragon out of the sky.
+MAN	m	(barking; to his men) What have we got?
+MAN #1	m	Gronkles. Nadders. Zipplebacks. Oh, and Hoark saw a Monstrous Nightmare.
+MAN	m	Any Night Furies?
+MAN #1	m	None so far. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 4.
+MAN	m	Good.
+MAN	m	Hoist the torches! Massive flaming braziers are raised on poles, lighting up the night sky... and revealing swirling dragons of all types. Below, Hiccup crosses an open plaza and ducks into an open building with a tall chimney.
+MAN	m	Ah! Nice of you to join the party. I thought you'd been carried off. Hiccup dons a leather apron and starts to put away Gobber's scattered appendages.
+MAN	m	Who me? Nah, come on! I'm way too muscular for their taste. They wouldn't know what to do with all this. Hiccup strikes a bodybuilder pose.
+MAN	m	They need toothpicks, don't they? Hiccup gets to work, transferring bent and chipped weapons to the forge as Vikings crowd the counter for replacements.
+MAN	m	We move to the lower defenses. We'll counter-attack with the catapults. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 5. Armed men rush past, flanking others who carry sheep to safety. Stoick follows up the rear as, overhead, a dragon strafes the rooftops with Napalm-like fire.
+MAN	m	Astrid. A SLOW-MOTION explosion erupts behind her, framing her in a sexy ball of fire. The others join her, looking awesome and heroic. Ah, come on. Let me out, please. I need to make my mark.
+MAN	m	Oh, you've made plenty of marks. All in the wrong places.
+MAN	m	Please, two minutes. I'll kill a dragon. My life will get infinitely better. I might even get a date.
+MAN	m	You can't lift a hammer. You can't swing an axe... Gobber grabs a bola (iron balls connected by rope). "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 6.
+MAN	m	(ready with the answer) Okay fine, but... He rushes to the back corner of the stall and presents a bizarre, wheel barrow-like contraption.
+MAN	m	Arggh!
+MAN	m	See, now this right here is what I'm talking about.
+MAN	m	Mild calibration issue.
+MAN	m	Hiccup. If you ever want to get out there to fight dragons, you need to stop all... Gobber gestures in Hiccup's general direction.
+MAN	m	But... you just pointed to all of me.
+MAN	m	Yes! That's it! Stop being all of you. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 7.
+MAN	m	Ohhhh...
+MAN	m	Ohhhhh, yes.
+MAN	m	You, sir, are playing a dangerous game. Keeping this much, raw...Vikingness contained. There will be consequences! Gobber tosses him a sword.
+MAN	m	I'll take my chances. Sword. Sharpen. Now. Hiccup takes it begrudgingly and lobs it onto the grinding wheel. He stews... fantasizing...
+CATAPULT OPERATOR	m	They found the sheep!
+MAN	m	Concentrate fire over the lower bank!
+CATAPULT OPERATOR	m	Fire! Boulders are catapulted at the corralling Nadders... Just as a huge red dragon whips past, spraying the base of the catapult with sticky fire.
+MAN	m	Reload! I'll take care of this. Stoick takes on the Nightmare, face to hammer. Suddenly, a LOUD BALLISTIC MOANING streaks overhead. The catapult crew ducks.
+MAN	m	Night Fury! Get down! Vikings everywhere take shelter. The moaning sound BUILDS.
+MAN	m	No one has ever killed a Night Fury. That's why I'm going to be the first.
+MAN	m	Man the fort, Hiccup, they need me out there! Gobber pauses. Turns with a threatening glare.
+MAN #7	m	Come back here!
+MAN	m	I know. Be right back!
+MAN	m	Mind yourselves! The devils still have some juice in them.
+MAN	m	Come on. Give me something to shoot at, give me something to shoot at. KABLAM! The tower topples. The blast of fire illuminates the dragon for a split second. Hiccup pulls the trigger. KERTHUNK! The flexed arms SNAP forward, springing the weapon off the ground. The bola disappears into the sky, followed by a WHACK and a SCREECH. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 11.
+MAN	m	(to his men, re: the
+NADDERS)	?	DO NOT let them escape!
+MAN	m	Okay, but I hit a Night Fury. Stoick grabs Hiccup by the back scruff of his collar and hauls him away, fuming with embarrassment.
+MAN	m	--STOP! Just....stop. He releases Hiccup. Everyone goes silent, staring expectantly.
+MAN	m	Between you and me, the village could do with a little less feeding, don't ya think? A few rotund Vikings stir self-consciously. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 13.
+MAN	m	This isn't a joke, Hiccup! Why can't you follow the simplest orders?
+MAN	m	I can't stop myself. I see a dragon and I have to just... kill it, you know? It's who I am, Dad.
+MAN	m	You are many things, Hiccup. But a dragon killer is not one of them. Sting. Hiccup looks around to see many nods of agreement. Make sure he gets there. I have his mess to clean up. Stoick lumbers off in the opposite direction. Gobber leads Hiccup through the walk of shame. They pass the teen fire brigade as they snicker.
+MAN	m	Quite the performance.
+MAN	m	I've never seen anyone mess up that badly. That helped!
+MAN	m	Thank you, thank you. I was trying, so... Hiccup avoids Astrid's glare and heads up toward a large house, standing prominently on the hill above the others.
+MAN	m	Sure, Hiccup.
+MAN	m	He never listens.
+MAN	m	Well, it runs in the family. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 14.
+MAN	m	And when he does, it's always with this... disappointed scowl. Like someone skimped on the meat in his sandwich. Excuse me, barmaid. I'm afraid you brought me the wrong offspring. I ordered an extra large boy with beefy arms. Extra guts and glory on the side. This here. This is a talking fish bone.
+MAN	m	You're thinking about this all wrong. It's not so much what you look like. It's what's inside that he can't stand. Beat.
+MAN	m	Thank you, for summing that up. They reach the doorway.
+MAN	m	Look, the point is, stop trying so hard to be something you're not. Hiccup SIGHS heavily.
+MAN	m	I just want to be one of you guys. Gobber eyes him sympathetically. Hiccup turns and goes through the front door. And straight out the back door. He hurries off into the woods, determined.
+MAN	m	Either we finish them or they'll finish us! It's the only way we'll be rid of them! If we find the nest and destroy it, the dragons will leave. They'll find another home. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 15. He sinks his blade into a... LARGE NAUTICAL MAP, spread out on the table... the blade pierces the middle of an uncharted corner, swirling with painted sea monsters and dragons. One more search. Before the ice sets in.
+MAN	m	Those ships never come back.
+MAN	m	We're Vikings. It's an occupational hazard. Now who's with me? Stoick throws up his fist. No one follows. The crowds shifts in restless silence. Head scratches. Eyes averted.
+MAN	m	Today's not good for me. I've gotta do my axe returns.
+MAN	m	Alright. Those who stay will look after Hiccup. Hands jut into the air, volunteers galore. Enthusiastic murmurs of prep and packing fill the room.
+MAN	m	I'm with you Stoick!
+MAN	m	That's more like it. The Vikings rush for the door, leaving Gobber and Stoick alone. Gobber gulps back the contents of his tankard attachment and scrapes back the bench.
+MAN	m	I'll pack my undies. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 16.
+MAN	m	No, I need you to stay and train some new recruits.
+MAN	m	Oh, perfect. And while I'm busy, Hiccup can cover the stall. Molten steel, razor sharp blades, lots of time to himself...what could possibly go wrong? Stoick sinks onto the bench beside Gobber, his brow burdened.
+MAN	m	What am I going to do with him Gobber?
+MAN	m	Put him in training with the others.
+MAN	m	No, I'm serious.
+MAN	m	So am I. Stoick turns to him, glaring.
+MAN	m	He'd be killed before you let the first dragon out of its cage.
+MAN	m	Oh, you don't know that.
+MAN	m	I do know that, actually.
+MAN	m	No, you don't.
+MAN	m	No, actually I do.
+MAN	m	No you don't!
+MAN	m	Listen! You know what he's like. From the time he could crawl he's been...different. He doesn't listen. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 17.
+MAN 	m	Has the attention span of a sparrow. I take him fishing and he goes hunting for... for trolls.
+MAN	m	Trolls exist! They steal your socks. But only the left ones. What's with that?
+MAN	m	When I was a boy...
+MAN	m	Oh here we go.
+MAN	m	My father told me to bang my head against a rock and I did it. I thought it was crazy, but I didn't question him. And you know what happened?
+MAN	m	You got a headache.
+MAN	m	That rock split in two. It taught me what a Viking could do, Gobber. He could crush mountains, level forests, tame seas! Even as a boy, I knew what I was, what I had to become. Hiccup is not that boy.
+MAN	m	You can't stop him, Stoick. You can only prepare him. Look, I know it seems hopeless. But the truth is you won't always be around to protect him. He's going to get out there again. He's probably out there now. ON MAN, as Gobber's words hit their mark.
+MAN	m	Uggh, the gods hate me. Some people lose their knife or their mug. No, not me. I manage to lose an entire dragon. Hiccup WHACKS a low-hanging branch. It SNAPS back at him, hitting him in the face. He looks up to see a snapped tree trunk. His eyes follow it to a long trench of up-turned earth. He follows it to a downed, black dragon, its body and tail tangled in a bola. It appears dead. Hiccup approaches, beaming. Oh wow. I did it. I did it. This fixes everything. Yes! He strikes a victory pose, planting his foot on the fallen Night Fury. I am a MAN! Hiccup raises the dagger, determined to prove his Viking- ness. The dragon's labored breathing breaks Hiccup's clenched concentration. He opens an eye, uncertainty leaking through. The dragon holds the stare. Something profound is exchanged. Finally, the Night Fury closes its eye and lowers its head, resigned to its fate. Hiccup tries to go through with it, holding the dagger aloft... fighting himself... until finally lowering it with a frustrated sigh. He looks over the dragon's chaffed rope wounds.
+MAN	m	Hiccup.
+MAN	m	Dad. Uh... Stoick stands, takes a deep breath.
+MAN	m	I need to speak with you too, son. Hiccup and Stoick STRAIGHTEN at the same moment.
+MAN MAN	m	I've decided I don't want to I think it's time you learn fight dragons. to fight dragons.
+ 	?	What? What?
+MAN	m	No, you go first.
+MAN	m	Alright. You get your wish. Dragon training. You start in the morning.
+MAN	m	Oh man, I should've gone first. Uh, 'cause I was thinking, you know we have a surplus of dragon-fighting Vikings, but do we have enough bread-making Vikings, or small home
+MAN	m	--You'll need this. Stoick hands Hiccup his axe. Hiccup avoids taking it. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 21.
+MAN	m	I don't want to fight dragons.
+MAN	m	Come on. Yes, you do.
+MAN	m	Rephrase. Dad I can't kill dragons.
+MAN	m	But you will kill dragons.
+MAN	m	No, I'm really very extra sure that I won't.
+MAN	m	It's time Hiccup.
+MAN	m	Can you not hear me?
+MAN	m	This is serious son! Stoick forces the axe into Hiccup's hands. Its weight drags him down. He looks up to see Stoick under-lit with firelight.
+(GESTURING NON-	?	specifically at Hiccup) ... this.
+MAN	m	You just gestured to all of me.
+MAN	m	Deal?
+MAN	m	This conversation is feeling very one-sided.
+MAN	m	Deal. Satisfied, Stoick grabs his helmet and duffel bag... and heads for the door.
+MAN	m	Good. Train hard. I'll be back. Probably.
+MAN	m	And I'll be here. Maybe. Stoick heads out the door, leaving Hiccup holding the axe.
+MAN	m	Welcome to dragon training! The recruits file through the gate, and out onto the arena floor. They take it in like gladiators entering the colosseum. The walls are covered in scorched silhouettes of blasted Vikings. It's a grim yet awe-inspiring place.
+WOMAN	f	No turning back.
+MAN	m	I hope I get some serious burns.
+WOMAN	f	I'm hoping for some mauling, like on my shoulder or lower back.
+WOMAN	f	Yeah, it's only fun if you get a scar out of it.
+MAN	m	Oh great. Who let him in? "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 23.
+MAN	m	Let's get started! The recruit who does best will win the honor of killing his first dragon in front of the entire village.
+MAN	m	Hiccup already killed a Night Fury, so does that disqualify him or...? The recruits LAUGH and chatter in the background.
+MAN	m	Can I transfer to the class with the cool Vikings? Gobber throws a supportive arm around Hiccup and ushers him along.
+MAN	m	(cheery, in confidence) Don't worry. You're small and you're weak. That'll make you less of a target. They'll see you as sick or insane and go after the more Viking-like teens instead. MAN stick him in line with the others and continues on toward five massive reinforced doors. Terrible ROARS and BELLOWS issue from within.
+MAN 	m	The Deadly Nadder.
+MAN	m	(under his breath) Speed eight. Armor sixteen.
+MAN	m	The Hideous Zippleback.
+MAN	m	Plus eleven stealth. Times two.
+MAN	m	The Monstrous Nightmare. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 24.
+MAN	m	Firepower fifteen.
+MAN	m	The Terrible Terror.
+MAN	m	Attack eight. Venom twelve.
+MAN	m	And...the Gronckle.
+MAN	m	(quietly; to himself) Jaw strength, eight. Gobber pulls a lever, raising the cross beam on the last of the doors.
+MAN	m	Whoa, wait! Aren't you gonna teach us first!?
+MAN	m	I believe in learning on the job. BAM! A GRONCKLE thunders out of its cave, charging into the ring like an irate rhino. The recruits scramble in every direction. Except for Ruffnut and Tuffnut who rush toward it, like pumped-up rodeo clowns.
+MAN	m	A doctor?
+MAN	m	Plus five speed?
+WOMAN	f	A shield.
+MAN	m	Shields. Go. The recruits scramble for shields, finding them scattered around the ring. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 25.
+MAN	m	Get your hands off my shield!
+WOMAN	f	There are like a million shields!
+MAN	m	Take that one, it has a flower on it. Girls like flowers. Ruffnut uses the shield to BASH Tuffnut in the face. He doesn't let go.
+WOMAN	f	Ooops, now this one has blood on it. The Gronckle takes aim at the distracted twins. Blam! The shield is blasted out of both of their hands. Tuff and Ruff SPIN like tops and go down.
+MAN	m	Tuffnut, Ruffnut, you're out!
+MAN	m	What?!
+WOMAN	f	What?! The Gronckle scoops up a pile of rocks and SWALLOWS them back. The teens gather on the far side of the ring.
+MAN	m	Those shields are good for another thing. Noise. Make lots of it to throw off a dragon's aim. The kids scoop up weapons and begin hammering on their shields. The Gronckle shakes its head at the clatter. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 26. GRONCKLE'S POV - the teens targets become blurry and scrambled. It's working.
+MAN	m	Five!
+MAN	m	No, six.
+MAN	m	Correct, six. That's one for each of you!
+MAN	m	I really don't think my parents
+WOULD--	?	BAM! Fishlegs has his shield blasted away.
+MAN	m	Fishlegs, out. Gobber spots Hiccup hiding from the Gronckle's molten slugs.
+MAN	m	So anyway I'm moving into my parents' basement. You should come by sometime to work out. You look like you work out-- She cartwheels out of the way, allowing a shot to shoot past her and hit Snotlout's shield. He's blasted onto his back.
+MAN	m	Snotlout! You're done! Astrid ROLLS to a stop beside Hiccup, who stirs awkwardly, trying to look cool.
+MAN	m	So, I guess it's just you and me huh? "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 27.
+WOMAN	f	No. Just you. Astrid ROLLS away. A split-second later a lava slug knocks Hiccup's shield clear off of his arm. Hiccup is exposed.
+MAN	m	One shot left! Hiccup panics and chases after his shield as it rolls across the ring. The sudden movement sends the Gronckle chasing after him, leaving Astrid in the clear. Hiccup! The Gronckle drives straight toward Hiccup, pinning him against the wall. It opens its mouth and cocks its tail, ready to fire point-blank. Gobber lunges in and hooks the Gronckle's mouth at the last second, causing its head to jerk back and fire against the stone wall above Hiccup's head.
+MAN)	?	always go for the kill. He hoists Hiccup to his feet and walks off. Hiccup looks overhead to see a steaming pit in the solid stone wall.
+MAN	m	So...why didn't you? He drops the bola and presses on in the direction it flew off. He drops into a rocky crevice and follows it to an... ISOLATED COVE complete with a pristine spring pool. He scans the high stone walls... then notices a single black SCALE on the ground. He crouches and picks it up, studying it. Why don't you just...fly away? ON MAN as he spots the problem. He adjusts his drawing, carefully erasing one half of the dragon's tail. He accidentally drops the charcoal stick. It rolls off of the rock outcropping that hides him from view and bounces into the cove. TINK. TINK. TINK. The Night Fury raises his head, spotting Hiccup. They exchange a profound, unflinching stare.
+WOMAN	f	I mistimed my summersault dive. It was sloppy. It threw off my reverse tumble. Eye rolls from the group.
+WOMAN	f	Yeah. We noticed.
+MAN	m	(grabbing Astrid's hand) No, no, you were great. That was so 'Astrid'.
+MAN	m	She's right, you have to be tough on yourselves. CREAK. All eyes turn to Hiccup, entering the hall, sheepishly. Gobber glares at him.
+WOMAN	f	He showed up.
+MAN	m	He didn't get eaten. ... but the recruits keep closing the gaps. Rolling his eyes, Hiccup sits at the vacant table next to them.
+WOMAN	f	He's never where he should be. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 30.
+MAN	m	Thank you, Astrid. Gobber stands.
+MAN 	m	No attacks tonight. Study up. Gobber EXITS into the storm, leaving the teens staring at the book.
+MAN	m	(you've got to be kidding) Wait, you mean read?
+WOMAN	f	While we're still alive?
+MAN	m	Why read words when you can just kill the stuff the words tell you stuff about?
+MAN	m	Oh! I've read it like, seven times. There's this water dragon that sprays boiling water at your face. And there's this other one that buries itself for like a week... The teens stare as Fishlegs goes on too long.
+MAN	m	Yeah, that sounds great. There was a chance I was going to read that...
+WOMAN	f	...but now... Snotlout gets up to go. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 31.
+MAN	m	You guys read, I'll go kill stuff. The others follow, with Fishlegs in tow.
+MAN	m	Oh and there's this other one that has these spines that look like trees... Astrid is the last to go.
+MAN	m	So I guess we'll share--
+WOMAN	f	Read it. She pushes it toward him and leaves.
+MAN	m	All mine then. Wow, so okay. I'll
+SEE YOU--	m	Slam. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 32. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 33.
+MAN	m	I can almost smell them. They're close. Steady. Stoick raises his gaze to... AN EPIC FOG BANK, towering from sky to sea like a bruised, daunting curtain, beyond which nothing is visible. The three ships drift alongside it, skirting its solid edge, looking for an opening. ON DECK the crewmen mill nervously, all too aware of what Stoick is considering.
+MAN	m	Hard to port... for Helheim's gate. The first ship disappears into the whiteout, followed by the other two.
+A BEAT	m	"Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 34. Suddenly a flash of light. A silhouette of a dragon. Hollers. Sounds of splitting and shattering wood. Plunges into the water. Another bright flash.
+MAN	m	You know, I just happened to notice the book had nothing on Night Furies. Is there another book? Or a sequel? Maybe a little Night Fury pamphlet? KABLAM! A blast takes the axe head off of Hiccup's hilt, leaving a smoking hole behind him. Hiccup YELPS and RUNS.
+MAN	m	I'm really beginning to question your teaching methods.
+MAN	m	Look for its blind spot. Every dragon has one. Find it, hide in it, and strike. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 35. Ruff and Tuff rush in, diving and rolling up to the Nadder's nose. The Nadder sniffs the air -- it can't see them. Tuff and Ruff are smashed together - too close for comfort.
+WOMAN	f	Do you ever bathe?
+MAN	m	If you don't like it, then just get your own blind spot.
+WOMAN	f	How about I give you one! Ruff and Tuff SHOVE each other, till their movement and noise gives them away. The Nadder ATTACKS, SNAPPING at both of them.
+MAN	m	Blind spot? Yes. Deaf spot? Not so much. Hiccup wanders up to Gobber, while the others dart past.
+MAN	m	Hey, so how would one sneak up on a Night Fury?
+MAN	m	None one's ever met one and lived to tell the tale. Now get in there.
+MAN	m	I know, I know, but hypothetically...
+WOMAN	f	Hiccup! She puts her finger to her lips and gestures for him to hide. A moment later, the Nadder leaps over the walls, surprising them by landing in front of her. Astrid somersaults into its blind spot, confusing it. She rears back to strike -- just as Snotlout LEAPS IN, protectively SWEEPING Astrid behind him.
+MAN	m	Watch out babe. I'll take care of this. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 36.
+WOMAN	f	Hey! Snotlout MISSES. Astrid glares at him.
+MAN	m	The sun was in my eyes, Astrid. What do you want me to do, block out the sun? I could do that, but I don't have time right now! The Nadder tears off after her, knocking down walls in pursuit. She leaps and dives like a highly trained gymnast. Hiccup wanders up to Gobber again.
+MAN	m	They probably take the daytime off. You know, like a cat. Has anyone ever seen one napping?
+MAN	m	Hiccup!
+WOMAN	f	--Hiccup! Hiccup spins around to see the maze walls collapsing like dominos toward him. Astrid comes flying through the dust and crash-lands on top of him, laying him out in a limb-tangled mess.
+MAN	m	Oooh! Love on the battlefield!
+WOMAN	f	She could do better. The Nadder closes in, emerging through the cloud of dust.
+MAN	m	(struggling to untangle) Just... let me... why don't you... The Nadder spins around and races back toward them like a Raptor. Astrid untangles herself and tries to pull her axe from Hiccup's shield... which is attached to his limp, gangly arm. She PLANTS her foot on his torso and YANKS the axe free, still burrowed into the shield. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 37. She SPINS and SWINGS the axe and shield, scoring a DIRECT HIT on the oncoming Nadder's NOSE. It yelps and scurries off.
+MAN	m	Well done, Astrid. Gobber hobbles off to wrestle the Nadder back into his cave. Hiccup gets to his feet -- all eyes are upon him. He turns to find Astrid glaring at him, winded.
+WOMAN	f	Is this some kind of a joke to you? Our parents' war is about to become ours. Figure out which side you're on. She grabs her axe and stomps off. Hiccup watches, stung.
+CLOSE ON	m	A fish... being thrown into the cove. It hits the ground and slides. A moment later, Hiccup peeks through a gap in the rock, looking around cautiously. Nothing. Hiccup squeezes through and enters the cove. A BEAT, then Hiccup hears a SNORT from behind him. Hiccup turns to see the Night Fury, crouched on a rock like a stealthy panther. It descends, approaching him... ready to pounce. Hiccup swallows his fear and offers the fish. Doing so reveals the dagger at his waist. The dragon sees it and hisses. Hiccup reaches for it, eliciting a growl. He pauses, carefully lifts it by the handle, and tosses it away. The dragon calms. As it approaches the fish, Hiccup notices that it's missing teeth.
+MAN	m	Huh. Toothless. I could've sworn you had... A set of razor sharp teeth emerge from its gums to grab the fish. Toothless snatches and gnashes it up, swallowing it. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 38.
+MAN	m	...and with one twist he took my hand and swallowed it whole. And I saw the look on his face. (can't deny it) I was delicious. He must have passed the word, because it wasn't a month before another one of them took my leg.
+MAN	m	Isn't it weird to think that your hand was inside a dragon. Like if your mind was still in control of it you could have killed the dragon from the inside by crushing his heart or something.
+MAN	m	I swear I'm so angry right now. I'll avenge your beautiful hand and your beautiful foot. I'll chop off the legs of every dragon I fight, with my face. He postures to Astrid. She rolls her eyes.
+MAN	m	(with a mouthful) Un-unh. It's the wings and the tails you really want. If it can't fly, it can't get away. A downed dragon is a dead dragon. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 40. ON MAN hiding his horrified look form the others. Gobber stands and stretches.
+MAN	m	(very matter of fact) It's gonna be me. It's my destiny. See? Tuffnut rolls up his sleeve to reveal a red dragon on his arm.
+MAN	m	Your mom let you get a tattoo?
+MAN	m	It's not a tattoo. It's a birthmark.
+WOMAN	f	Okay, I've been stuck with you since birth, and that was never there before.
+MAN	m	Yes it was. You've just never seen me from the left side until now.
+MAN	m	It wasn't there yesterday. Is it a birthmark or a today-mark? Hiccup gets up and walks away from the group. Astrid watches him as he leaves the bonfire.
+CLOSE ON	m	... a creaking leather bellows. The stone forge glows with every pump. Tongs pull intricate iron pieces from the coals. They're dropped onto the anvil, twisted, lightly hammered, and dunked in a barrel. The pieces are carried to Hiccup's workbench and laid out in place on a one-to-one schematic. It's a sketch of a mechanical fin.
+MAN	m	Hey Toothless. I brought breakfast. I hope you're hungry. Hiccup drops the basket and kicks it over. Fish spill out. There. Not too bad. It works. Toothless BOLTS! He snaps his massive wings and takes to the air, carrying Hiccup with him.
+MAN	m	(muttering to himself) Razor sharp, serrated teeth that inject venom for pre-digestion. Prefers ambush attack, crushing its victims in its...
+MAN	m	Will you please stop that?
+MAN	m	If that dragon shows either of his faces, I'm gonna-- (spotting an approaching shape, terrified) --There! Snotlout and Tuffnut HURL their water into the fog.
+WOMAN	f	Hey!
+WOMAN	f	It's us, idiots. Astrid and Ruffnut are soaked.
+MAN	m	Your butts are getting bigger. We thought you were a dragon.
+MAN	m	Not that there's anything wrong with a dragon-esque figure. Astrid ELBOWS Snotlout in the face. Ruffnut DROPS Tuffnut with a PUNCH to the throat.
+WOMAN	f	Wait. They FREEZE. A tail SWEEPS out of the fog, taking them down. Their buckets spill. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 45. ON MAN AND MAN coming across them. They see the puddles of spilled water.
+MAN	m	Oh, I'm hurt. I am very much hurt.
+MAN	m	Chances of survival are dwindling into single digits now...
+MAN	m	Look out! A Zippleback head emerges out of the smoke. Fishlegs hurls his water at it, completely dousing the head. It leers and opens its mouth, spewing gas into the area.
+MAN	m	Oh. Wrong head. GAS FLOWS around their legs. Fishlegs flees in a panic.
+MAN	m	Fishlegs! Beat. A clicking sound comes from behind them. Sparks flash in the smoke.
+MAN	m	Oh, come on!
+MAN	m	BACK! BACK! BACK! Now don't you make me tell you again! The Zippleback retreats through its door and into its cave, hissing.
+MAN	m	Hey! "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 47.
+MAN	m	Yeah! Whoa!
+MAN	m	Hey Hiccup, I've never seen a Gronkle to that before.
+MAN	m	How'd you do that?
+WOMAN	f	It was really cool. He squirms and invents an excuse. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 48.
+MAN	m	I left my axe back in the ring. He turns and hurries back.
+MAN	m	Hey Hiccup!
+MAN	m	What was that? Some kind of trick? What did you do?
+MAN	m	Hiccup, you're totally going to come in first, there's no question.
+MAN	m	Meet the Terrible Terror. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 49. A tiny, pint-sized dragon steps out and moves toward the recruits.
+MAN	m	Ha. It's like the size of my-- Tuffnut is taken down in a blur. Wow, he's better than you ever were.
+MAN	m	Oh, great.
+MAN	m	Hiccup. Hiccup nods, trying to look casual. Once the coast is clear, he covertly steers Toothless into the Blacksmith's stall. Toothless PRESSES himself inside, rooting through stuff and making a racket. Astrid, walking nearby, is alerted.
+MAN	m	Astrid. Hey! Hi Astrid. Hi Astrid. Hi Astrid.
+WOMAN	f	I normally don't care what people do, but you're acting weird. Well, weirder. Toothless spots a nearby sheep and makes a move toward it. As a result, Hiccup is suddenly PULLED TIGHT against the window shutters. He STRIKES A POSE to compensate... then gets PULLED THROUGH the shutters. They snap back in Astrid's face. Astrid reopens them and finds nothing but an empty stall. In the distance, Toothless and Hiccup slip off unseen.
+MAN	m	Where are the other ships?
+MAN	m	You don't want to know. Stoick lumbers past Gobber, leaving him staring at the trashed ship.
+MAN	m	Well, I trust you found the nest at least?
+MAN	m	Not even close.
+MAN	m	Ah. Excellent. Gobber follows Stoick up the ramp and snags his duffle bag with his hook appendage, sharing the burden.
+MAN	m	I hope you had a little more success than me.
+MAN	m	Well, if by success, you mean that your parenting troubles are over with, then... yes. Stoick stops. What does that mean? A group of merry villagers rush past.
+MAN #1	m	Congratulations Stoick! Everyone is so relieved.
+MAN #2	m	Out with the old and in with the new, right?!
+MAN #3	m	No one will miss that old nuisance!
+MAN #4	m	The village is throwing a party to celebrate! Stoick is stunned, overwhelmed by the insensitivity. He turns to Gobber. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 52.
+MAN	m	He's... gone?
+MAN	m	Yeah...most afternoons. But who can blame him? I mean the life of a celebrity is very rough. He can barely walk through the village without being swarmed by his new fans. Stoick is doubly confused.
+MAN	m	Hiccup?
+MAN	m	Who would've thought, eh? He has this...way with the beasts.
+MAN	m	Okay there bud, we're gonna take this nice and slow. Hiccup checks a leather cheat sheet, clipped onto his harness. Inscribed upon it are several tail positions and their pedal position equivalents.
+SHEET)	?	Position four, no three. They pierce the clouds. For the first time, Hiccup can see the whole of the island below them. It shrinks with every passing second. He SWALLOWS hard and tightens his grip on the handles.
+MAN	m	Uh..no thanks. (gesturing to his fish on
+A STICK)	m	I'm good. Several Terrible Terrors land like seagulls, hissing and nipping at each other as they approach Toothless' pile of fish. One grabs the regurgitated fish head and drags it away. Another attempts to steal it from him. They face off and last fire balls at each other to settle the fight. Hiccup and Toothless watch, amused. That is until... Toothless spots one of his fish leaving the pile. A stealthy Terrible Terror is exposed as the thief. They tug on the fish, and it snaps back into Toothless' mouth. He swallows it back tauntingly. Irate, the little dragon paws at the ground and blast Toothless. He opens his mouth, the gas hiss comes, and Toothless fires a tiny flame straight into its mouth, causing the gas to backfire into the little dragon. It coughs up smoke and staggers away, looking ill. Hiccup laughs. Everything we know about you guys is wrong. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 56. Hiccup carefully pets him... sending the Terror into an immediate, blissful sleep.
+MAN	m	Dad! You're back! He skirts the bench, blocking Stoick's view of Toothless, the prosthetic fin, and other drawings.
+MAN	m	I know. I came looking for you.
+MAN	m	You did?
+MAN	m	You've been keeping secrets. Hiccup's legs give out. He slides, dragging the table's contents with him.
+MAN	m	I...have?
+MAN	m	Just how long did you think you could hide it from me?
+MAN	m	I don't know what you're...
+MAN	m	Nothing happens on this island without me hearing about it.
+MAN	m	Oh? "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 57.
+MAN	m	So. Let's talk about that dragon. Blood drains from Hiccup's face.
+MAN	m	Oh gods. Dad I'm so sorry. I was going to tell you. I just didn't know how to-- Stoick starts laughing. Big, booming. Hiccup stares, baffled.
+MAN	m	What?! I was hoping for this!
+MAN	m	Uh...you were?
+MAN	m	And believe me, it only gets better! Just wait til you spill a Nadder's guts for the first time. Hiccup's elated expression sinks. Ahhhhh. With you doing so well in the ring, we finally have something to talk about. Pregnant pause. Hiccup averts his eyes nervously. Stoick adjusts, awkwardly clearing his throat. After a long, uncomfortable silence...
+MAN	m	Wow. Thanks. Hiccup accepts it, looking it over.
+MAN	m	Your mother would've wanted you to have it. It's half of her breast plate. Stoick taps his own helmet and smiles.
+MAN	m	I should really get to bed. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 59.
+MAN MAN	m	(talking over each (talking over each
+OTHER) OTHER)	?	Yes! Good! Okay. Good talk. See you back at the house. We should do this again. I'm Great. Thanks for stopping glad I stopped by, I hope you by. And for the... the uh, like the hat. breast hat.
+MAN	m	Well..uh..good night. Stoick leaves the room awkwardly, leaving Hiccup looking more burdened than ever.
+WOMAN	f	Stay out of my way! I'm winning this thing.
+MAN	m	Please, by all means. She darts off, CLOSING FAST on the dragon. The crowd above cheers her on.
+WOMAN	f	This time. This time for sure. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 60. With a FIERCE BATTLE-CRY she LEAPS from cover, axe cocked to throw.
+MAN	m	Wait! Wait!
+MAN	m	So, later. Gobber snags Hiccup as he attempts to leave.
+MAN	m	Not so fast.
+MAN	m	I'm kinda late for--
+WOMAN	f	What? Late for what exactly? Stoick holds out his hands to silence the jabbering crowd.
+MAN	m	Okay quiet down. The elder has decided. Thrilled, Gobber stands behind Hiccup and Astrid. He points to Astrid as the crowd waits in silent anticipation. Gothi shakes her head 'no.' The crowd 'Oooohs.' Gobber then points to Hiccup. The elder nods an affirmative 'yes.' The crowd erupts in cheers. Astrid turns a seething, deadly glare on Hiccup. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 61.
+MAN	m	You've done it! You've done it, Hiccup! You get to kill the dragon!
+MAN	m	Ha, ha! That's my boy! Hiccup is hoisted onto the recruits' shoulders and carried out to the cheering spectators...
+MAN	m	Heh, heh. Oh yeah! Yes! I can't wait. I am so...
+MAN	m	... leaving. We're leaving. Let's pack up. Looks like you and me are taking a little vacation, forever. Toothless is nowhere in sight. Hiccup sets down his basket and opens it up, his head clouded with troubles. Aggh! What the-- What are you doing here? She hops off the rock and back him down, spinning her axe threateningly. Hiccup's eyes dart around nervously, searching for Toothless.
+WOMAN	f	I want to know what's going on. No one just gets as good as you do. Especially you. Start talking! Are you training with someone?
+MAN	m	Uh...training? She grabs him by his odd-looking harness. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 62.
+WOMAN	f	It better not involve... this.
+MAN	m	I know this looks really bad, but you see...this is, uh... They hear a RUSTLE coming from the other side of the cove. Astrid DROPS Hiccup to the ground and sets off to investigate. You're right! You're right. I'm through with the lies. I've been making... outfits. So you got me. It's time everyone knew. Drag me back. Go ahead. Here we go. He puts her hand back on his harness, getting her to 'drag him back.' Astrid BENDS Hiccups hand backwards, driving him down.
+WOMAN	f	That's for the lies. Astrid pounces the hilt of her axe off of Hiccup's laid-out body.
+MAN	m	Oh man. She dives onto Hiccup.
+WOMAN	f	Get down! Run! Run! Astrid pulls her axe, ready to take on Toothless.
+MAN	m	No! "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 63. Hiccup knocks Astrid's cocked axe to the ground, out of reach, then stops Toothless short of crushing her. She's a friend. Toothless snorts in disagreement. Astrid is frozen. Toothless looks from her to Hiccup and back to her, confused. You just scared him.
+WOMAN	f	I scared him!? Hiccup makes a “be quiet” motion. Who is him?
+MAN	m	We're dead. Satisfied with Astrid's departure, Toothless turns away. Where do you think you're going?
+WOMAN	f	Oh great Odin's ghost, this is it! "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 64. Hiccup and Toothless fly Astrid to the top of a towering pine. It bows and creaks under their weight as Astrid dangles a hundred feet in the air.
+MAN	m	You have to give me a chance to explain.
+WOMAN	f	I'm not listening to ANYTHING you have to say!
+MAN	m	Then I won't speak. Just let me show you. Hiccup extends a hand.
+WOMAN	f	Now get me down.
+MAN	m	Toothless? Down. Gently. Toothless leers mischievously. He spreads his wings slowly. With a WHOP, they fill with the updraft. Toothless releases the tree, tucks in his legs, and HOVERS in place.
+WOMAN	f	Okay! I'm sorry! I'm sorry! Just get me off of this thing. Astrid is defeated, her aggressive energy gone. Satisfied, Toothless relents. They level off and head up into the clouds. Astrid opens her eyes again, and looks out over a world she'd never dreamed of. She reaches out and touches clouds, pierces columns ablaze in golden hues, and floats over a vast, alien sky- scape. Her terror is replaced by wonder. She grins, despite herself. Toothless rises above a blanket of clouds...
+WOMAN	f	Alright I admit it. This is pretty cool. It's... amazing. He's amazing. Astrid carefully reaches down and pats Toothless' side. ... kill a dragon.
+MAN	m	Don't remind me. A strange, unearthly din approaches. Toothless' ear plates suddenly stand on end. Panicked, he abruptly dives, dipping into cloud cover.
+WOMAN	f	What's going on?
+MAN	m	I don't know. Toothless. You've got to get us out of here, bud. Toothless HISSES. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 67. Other dragons, previously invisible in the thick clouds, appear all around them. HUNDREDS of them, all carrying fish and game in their talons. It looks like they're hauling in their kill. The Zippleback eyes them ravenously.
+WOMAN	f	What does that make us? The dragons BANK and dive in formation, plummeting through the thickening fog and weaving between towering, craggy sea stacks. They emerge at the base of a massive volcanic caldera, glowing with rivulets of lava. The flock of dragons fall into rank, funneling through a crack, and zipping through a winding tunnel. It gives way to a vast, steamy inner chamber, tiered with pocky shelves. Dragons of all breeds lay about, nested in hordes. The arriving dragons fly in, dropping the fish and game into a central pit, glowing red and shrouded in mist. Hiccup is amazed.
+MAN	m	What my dad wouldn't give to find this. Toothless peels away from the procession, landing on a small shadowy shelf to keep a low-profile. Hiccup and Astrid peek around, taking in the busy hive of sorts. They watch as the food continues to be dropped into the pit.
+WOMAN	f	They're not eating any of it. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 68. Last to arrive is a dim-witted Gronckle. It hovers over the pit and regurgitates his paltry contribution -- a pathetic little fish. As it falls into the steamy pit, a terrible ROAR rings out. The Gronckle tries to flee, but before it can, a gargantuan dragon head juts from the steamy pit and SNAPS it out of the air. Swallowing it back whole. Hiccup and Astrid recoil, terrified.
+MAN	m	Alright buddy, we gotta get out of here. Now! Toothless takes flight, barely evading the monster's snapping jaws. The behemoth dragon lunges for them, snatching a Zippleback out of the air instead. Toothless disappears into the winged exodus as thousands of dragons flee the caldera in fear.
+WOMAN	f	(her mind reeling, talking Hiccup's ear off) No, no, it totally makes sense. It's like a giant beehive. They're the workers... and that's their queen. It controls them. She leaps off of Toothless and runs toward the village.
+MAN	m	No, no! Not yet. They'll... kill Toothless.
+	?	"Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 69.
+MAN 	m	Astrid, we have to think this through carefully. Astrid eyes him, incredulous.
+WOMAN	f	Hiccup, we just discovered the dragons' nest...the thing we've been after since Vikings first sailed here. And you want to keep it a secret? To protect your pet dragon? Are you serious? Hiccup stands firm, resolute.
+MAN	m	Yes. Astrid's taken aback.
+WOMAN	f	Okay. Then what do we do?
+MAN	m	Just give me until tomorrow. I'll figure something out.
+WOMAN	f	Okay. Astrid PUNCHES Hiccup in the arm.
+MAN	m	What are you looking at? "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 70.
+MAN	m	(aloud to the crowd) Well, I can show my face in public again. If someone had told me that in a few short weeks, Hiccup would go from being, well... Hiccup, to placing first in dragon training... I would've tied him to a mast and shipped him off for fear he'd gone mad. Yes! And you know it! But here we are. And no one's more surprised... ON MAN standing at the entrance to the ring, listening, looking burdened.
+MAN 	m	... or more proud than I am. Today, my boy becomes a Viking. TODAY, HE
+WOMAN	f	Be careful with that dragon.
+MAN	m	(re: the roaring crowd) It's not the dragon I'm worried about.
+WOMAN	f	What are you going to do?
+MAN	m	Put an end to this. She eyes him, dubious. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 71. Astrid. If something goes wrong... just make sure they don't find Toothless.
+WOMAN	f	I will. Just promise me it won't go wrong. Hiccup can't. Gobber approaches.
+MAN	m	It's time, Hiccup. Knock him dead. Hiccup puts his helmet on and enters the ring.
+MAN	m	Show 'em how it's done, my man! Hiccup locks eyes with Stoick. Stoick nods with a smile. Hiccup returns a half-smile. Takes a deep breath. He hoists a shield onto his forearm and selects his weapon from a rack of many -- a small dagger.
+MAN	m	Hrmph. I would've gone for the hammer. Hiccup turns to face a bolted, heavy door. Takes a deep breath.
+MAN	m	I'm ready. The door bolt is raised. The crowd grows quiet... Beat. BOOM! The doors blast open with a stream of sticky fire. Followed by a Monstrous Nightmare, coated in flames. It tears out of its cave like an irate bull -- as the crowd roars and jeers. It climbs the walls and chain enclosure like a bat, hissing at the provoking crowd and blasting fire. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 72. It spots Hiccup and descends, leering and licking the flaming drool from its lips. The crowd grows silent, bracing for the big fight. With the Monstrous Nightmare's eyes locked upon him, Hiccup deliberately drops his shield and dagger stepping away from them. The dragon pauses, confused. ON MAN, also confused.
+MAN	m	What is he doing? The dragon presses closer, snorting. Hiccup extends his open hand. It snarls.
+MAN	m	It's okay. It's okay. The dragon continues to pace, focused on... MAN'S HELMET. Hiccup realizes, then reaches up and removes it. Taking a breath to acknowledge the point of no return, he tosses the helmet aside. It hits the ground.
+MAN	m	Stop the fight.
+MAN	m	No. I need you all to see this. The crowd gets restless.
+ON TOOTHLESS	m	His ear plates shoot up. Panic flares in his eyes.
+MAN	m	Out of my way!
+WOMAN	f	Hiccup! Astrid wedges her axe under the arena gate and squeezes through.
+WOMAN	f	Hiccup! She picks up a hammer and hurls it at the Monstrous Nightmare, hitting it in the head. It turns its attention to Astrid, and begins chasing her. Stoick raises the arena gate, waving her toward it.
+MAN	m	This way! Astrid makes it through, but the Nightmare BLASTS the doorway, cutting Hiccup off. It pounces on him and prepares to finish him off. Suddenly, a terrible roar pierces the din.
+MAN	m	Night Fury! Get down! Toothless bounds over the crowd and BLASTS a hole through the chain enclosure. He flies through it and disappears in the boiling smoke. The Vikings rush to railings... in time to see a flurry of wings cutting through the dissipating smoke. Toothless and the Nightmare tumble into the clear, locked in a toothy, vicious fight. Toothless kicks the Nightmare off and plants himself between Hiccup and it. The Nightmare snarls, circling them. Toothless lunges and ROARS... causing the Nightmare to relent and back away. To everyone's shock and horror, Hiccup gets to his feet and grabs Toothless protectively.
+MAN	m	Alright, Toothless, go. Get out of here! The crowd is gob-smacked, growing livid.
+MANS	m	Night Fury! "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 75. Hiccup tries to shoo Toothless away in vain. Vikings begin pouring clambering through the enclosure and dropping into the ring.
+MAN	m	Go! GO!
+MAN	m	Take it alive! Stoick grabs an axe and charges into the arena. Astrid calls out to him, panicked.
+WOMAN	f	Stoick no!
+MAN	m	Dad! No! He won't hurt you! The other Vikings surround and attack Toothless. He tosses them aside like rag dolls, his eyes focused on Stoick.
+MAN	m	Get him! The crowd rushes him, piling on, and taking Toothless down. Astrid holds Hiccup back.
+MAN	m	No! Please...just don't hurt him. Please don't hurt him. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 76. Stoick gets to his feet, fuming, shaken. A Viking presents Stoick with an axe. He eyes Toothless a moment, then pushes the axe back into the Viking's hands.
+MAN	m	Put it with the others! His burning glare turn to Hiccup.
+ON MAN	m	Being shoved into the dank, dimmed hall. SLAM! The massive doors rattle and echo. Stoick pushes past him. He paces against a backdrop of shadowy tapestries and carved pillars -- a legacy of heroes, all peering down in angered judgement.
+MAN	m	I should have known. I should have seen the signs.
+MAN	m	Dad.
+MAN	m	We had a deal! Stoick pauses to say something, but stops short. He SNORTS and resumes pacing, repeating the cycle.
+MAN	m	I know we did... but that was before... ughh, it's all so messed up.
+MAN	m	So everything in the ring. A trick? A lie? He stomps toward Hiccup. Stops short and points, fighting back words.
+MAN	m	I screwed up. I should have told you before now. Take this out on me, be mad at me, but please... just don't hurt Toothless. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 77.
+MAN	m	The dragon? That's what you're worried about? Not the people you almost killed?!
+MAN	m	He was just protecting me! He's not dangerous.
+MAN	m	They've killed HUNDREDS OF US!
+MAN	m	And we've killed THOUSANDS OF THEM! They defend themselves, that's all! They raid us because they have to! If they don't bring enough food back, they'll be eaten themselves. There's something else on their island dad...it's a dragon like-- Stoick HUFFS.
+MAN	m	--Their island? He stomps back... pointing an accusing finger.
+MAN 	m	So you've been to the nest.
+MAN	m	Did I say nest? Hiccup goes silent -- he said too much.
+MAN	m	How did you find it?!
+MAN	m	No... I didn't. Toothless did. Only a dragon can find the island. Stoick GLARES. A moment passes, then an idea takes form on his face. His eyes flare. Hiccup watches, realizing. Stoick stomps toward the doorway.
+MAN	m	You've thrown your lot in with them. You're not a Viking. You're not my son. Stoick pushes through the door, leaving Hiccup alone, devastated. Ready the ships!
+MAN	m	Set sail! We head for Helheim's Gate. He then notices MAN watching from his familiar cliff-side perch beyond the village. Their eyes meet, full of hurt and regret. Hiccup slowly shakes his head in warning. Stoick breaks the stare and turns to Toothless, fuming.
+ON MAN	m	Watching. He's powerless to stop what is happening, but won't leave.
+ON MAN	m	Still standing there. The ships have cleared the horizon. CRANE UP to reveal Astrid is standing behind him. She approaches cautiously and stands beside him in silence.
+WOMAN	f	It's a mess. Hiccup doesn't respond.
+MAN	m	Thank you for summing that up.
+WOMAN	f	Yep. The rest of us would have done it. So why didn't you? Hiccup just shakes his head - he really doesn't know. Astrid's eyes glimmer. She wants something.
+MAN	m	I don't know. I couldn't.
+WOMAN	f	That's not an answer.
+MAN	m	Why is this so important to you all of a sudden?
+WOMAN	f	Because I want to remember what you say right now.
+MAN	m	(angry, loud) Oh for the love of -- I was a coward! I was weak. I wouldn't kill a dragon.
+WOMAN	f	You said 'wouldn't' that time.
+MAN	m	Whatever! I wouldn't! Three hundred years and I'm the first Viking who wouldn't kill a dragon!
+WOMAN	f	First to ride one, though. Hiccup blinks. He never looked at it that way before.
+MAN	m	...I wouldn't kill him because he looked as frightened as I was. I looked at him and I saw myself. Astrid turns to face the open sea.
+WOMAN	f	I bet he's really frightened now. What are you going to do about it? Beat.
+MAN	m	Probably something stupid.
+WOMAN	f	Good. But you've already done that. Another beat.
+MAN	m	Then something crazy. Astrid smiles.
+WOMAN	f	That's more like it.
+MAN	m	Sound your positions. Stay within earshot. Shouts pour in from all directions.
+MAN #1	m	Here. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 82.
+MAN #2	m	One length to your stern.
+MAN #3	m	On your starboard flank.
+MAN #4	m	Three widths to port.
+MAN #5	m	Ahead, at your bow.
+MAN #6	m	Haven't a clue. ON MAN straining into the fog as the calls continue. Massive, jagged sea stacks begin to emerge, threatening to rip the ships to shreds. Gobber approaches him, speaking under his breath.
+MAN	m	Listen... Stoick... I was overhearing some of the men just now and, well, some of them are wondering what it is we're up to here -- not me of course, I know you're always the man with the plan -- but some, not me, are wondering if there is in fact a plan at all, what it might be?
+MAN	m	Find the nest and take it.
+MAN	m	Ah. Of course. Send them running. The old Viking fall-back. Nice and simple.
+MAN	m	Shhh. Stoick notices that Toothless' ear plates are at the alert, quietly reacting to inaudible sounds. Stoick crosses to the stern of the ship and grabs the tiller, moving the helmsman out of the way.
+MAN	m	Bear to port. The order is called out from ship to ship. CRUNCH! The bow barely makes it past another sea stack. Stoick continues to follow Toothless' cues, undeterred.
+MAN	m	You were wise to seek help from the world's most deadly weapon. It's me.
+MAN	m	Uh...
+MAN	m	I love this plan.
+MAN	m	I didn't...
+WOMAN	f	You're crazy. I like that.
+WOMAN	f	So? What is the plan? Hiccup smiles, glowing in the support of his friends.
+MAN	m	Ah. I was wondering where that went. A clicking buzz becomes audible, growing louder. It fills the sky, converging in one general direction. Stoick sniffs the air.
+MAN	m	Stay low and ready your weapons. Stoick's ship suddenly JERKS to a halt as the keel burrows into shallow black sand. Stoick hops overboard, landing on a sprawling beach. The BUZZING suddenly STOPS. Above him, a craggy volcano towers into the gloom.
+WOMAN	f	Uh-uh. Hiccup slows to a stop in front of the teens, with the Nightmare inches from his outstretched hand. He reaches over and grabs Snotlout's trembling hand.
+MAN	m	Wait! What are you...
+MAN	m	Relax. It's okay... it's okay. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 85. Hiccup replaces his outstretched hand with Snotlout's, putting him in control of the massive beast. The Nightmare snorts, but remains calm. Snotlout, by contrast, chuckles nervously -- it's at once terrifying and amazing. The others watch, spellbound. Hiccup turns and walks away.
+MAN	m	Where are you going?! Hiccup pulls a bundle of rope from a supply box.
+MAN	m	You're going to need something to help you hold on. The teens eye each other apprehensively, and look up to reveal... ALL THE DRAGONS standing in the ring, facing the teens expectantly.
+CLOSE ON	m	Tree trunks, being sharpened and planted into the sand at angled rows. Boulders being loaded into catapult baskets. And a war plan being scratched in the sand. MAN looms over it, looking determined. His generals are at his sides.
+MAN	m	When we crack this mountain open, all hell is going to break loose.
+MAN	m	In my undies. Good thing I brought extras. Stoick TURNS to face the men.
+MAN	m	No matter how this ends, it ends today. He walks toward the base of the volcano wall, back by several hundred warriors. He raises his arm and drops it. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 86. A line of catapults UNLEASH their two-ton loads into the cliff wall. It cracks and flakes away. Several more hits tear away at the hollow shell of hardened lava. A final boulder shatters the fractured wall, creating a deep, dark opening to the cavern within. Silence. Stock raises his hand, makes a gesture. A flaming bushel is launched into the dark, lighting the wall... CHOKED
+MAN	m	Is that it? Above the island, dragons POUR from every crevice, fleeing to the sky. The sound of screeching dragons fades.
+MANS	m	(Cheering as one)
+MAN	m	We've done it! Stoick doesn't celebrate. Something is not right. He HEARS something. Stoick turns to peer down the dark throat of the cavern. A deep, rumbling ROAR echoes from the cavern. The ground underfoot TREMBLES. The ships rock. Their sails fill with a blast of air. The cheering stops. Stoick's expression sinks.
+MAN	m	This isn't over. Form your ranks! Hold together! The men SCRAMBLE to organize themselves.
+MAN	m	Beard of Thor...what is that?
+MAN	m	Odin help us. Catapults! The Vikings score direct hits. The burning stones BOUNCE off the dragon's skin. The Red Death focuses on the catapults. It crushes the first one - smashing it and its crew, rattling the beach underfoot. Stoick races toward the second catapult. He LEAPS and pushes a Viking out of the way just before the dragon crushes him under his forepaw. The Vikings scramble in all directions.
+MAN #3	m	Get to the ships!
+MAN	m	No! NO! The Red Death BLASTS the ships like a mile-long flamethrower. The sails are torched. Vikings dive overboard and masts come down. Gobber Joins Stoick.
+MAN	m	Heh. Smart, that one. Stoick looks up and down the beach for an answer.
+MAN	m	I was a fool. The monster raises its head to the sky and BELLOWS. The sound SHAKES the beach, knocking Vikings off their feet. This island is his. Stoick stops a Viking General. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 88.
+MAN	m	Right. (turns to the others) Everybody to the far side of the island! The Vikings scatter into the rocks like ants. Satisfied with the ships destruction, The Red Death turns its attention back to the Vikings. They seem to have vanished. It SNIFFS the air, searching for their scent. Gobber drops in beside Stoick, like two soldiers in a trench. Fire blasts over head, causing them to duck.
+MAN	m	Gobber, go with the men.
+MAN	m	I think I'll stay, just in case you're thinking of doing something crazy. Stoick grabs him.
+MAN	m	I can buy them a few minutes if I give that thing someone to hunt. Gobber removes Stoick's hand. Clenches his forearm, determined.
+MAN	m	Then I can double that time. Stoick grins. Friends to the bitter end. They BREAK COVER and dash into the open, SPLITTING UP. Stoick rips a sharpened post from the ground and hurls it into the monster's face.
+MAN	m	No, me! The Red Death remains focused on Stoick - this is it. It rears back and inhales. Gas begins to amass, when... KABLAM! A BLAST explodes against the back of The Red Death's head. It turns distracted, as... ... a Nadder punches through the flames, banking across the sky. Followed by a Monstrous Nightmare, a Zippleback, and a Gronckle. They roll in unison, revealing the recruits riding on their backs. Hiccup leads, with Astrid clinging to his waist. MAN AND MAN, watch slack-jawed, in awe.
+MAN	m	Ruff, Tuff, watch your backs! Move Fishlegs! The monster shakes off the blast and snaps in their wake. Hiccup directs his squadron out of harm's way. They climb out of reach and circle each other.
+MAN	m	Look at us, we're on a dragon! We're on dragons, all of us!
+MAN	m	Up, let's move it! The dragons climb past the Red Death.
+MAN	m	Every bit the boar-headed, stubborn Viking you ever were. Stoick is speechless.
+MAN	m	Fishlegs, break it down.
+MAN	m	Okay. Heavily armored skull and tail made for bashing and crushing. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 90.
+MAN 	m	Steer clear of both. Small eyes, large nostrils. Relies on hearing and smell.
+MAN	m	Okay. Lout, Legs, hang in its blind spot. Make some noise, keep it confused. Ruff, Tuff, find out if it has a shot limit. Make it mad.
+WOMAN	f	That's my specialty.
+MAN	m	Since when? Everyone knows I'm more irritating. See.
+MAN	m	Just do what I told you. I'll be back as soon as I can.
+MAN	m	Don't worry, we got it covered!
+MAN	m	Yeah! Hiccup and Astrid peel away. The teens bank and dive toward the monster, splitting up. The Twins race alongside the monster's head, taunting it.
+MAN	m	Troll!
+WOMAN	f	Butt Elf!
+MAN	m	Bride of Grendel! The Red Death unloads a spray of fire at the twins. They barely dodge it. Fishlegs and Snotlout hang behind its eyes, banging away at their shields, making a racket. The Red Death opens all SIX of its eyes, spotting them.
+MAN	m	Uh, this thing doesn't have a blind spot. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 91.
+MAN	m	There! He steers the Nadder over the deck and hands Astrid the reins. He lines up his jump... and hops off, guarding his face from the flames. He lands on the burning deck. Go help the others! She and the Nadder take off. As Hiccup fights his way to Toothless. He unbuckles the muzzle. Toothless shrieks.
+MAN	m	It's working. The huge beast starts to sway its head dizzily.
+MAN	m	Yeah! It's working. PAN DOWN to reveal that the noise is also confusing the Gronckle and the Monstrous Nightmare. Both dragons lose their bearings. The Red Death thrashes, knocking Snotlout off of his dragon and onto the monster's gigantic head. Snotlout bounces across the top and comes to a stop just shy of the hundred foot drop.
+MAN	m	Agghh! Fishlegs' Gronckle goes down in a spin of confusion. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 92.
+MAN	m	I've lost power on the Gronckle. Snotlout! Do something! He hurls Snotlout his hammer. The Gronkle crashes and skids to a stop... Less okay.
+MAN	m	I can't miss! ... and hammers the monster's eyes, playing whack-a-mole.
+WOMAN	f	Yeah! You're the Viking! Snotlout grins, finally vindicated in her eyes. In his distraction, he gets thrown and lands heavily on one of the Red Death's spines -- clinging precariously. A close call.
+MAN	m	Whoa!
+MAN	m	Working at the chains. He can't budge them. Fire licks at his clothes. He looks up to see... "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 93. THE RED DEATH blasting at the teens, enraged. The monster's giant foot crashes through frame, smashing the bow under its impressive weight. Hiccup and Toothless are thrown into the water in a maelstrom of burning planks and rigging.
+UNDERWATER	m	Hiccup swims toward Toothless. They're both caught in a mess of rigging, being dragged down. The heavy palette settles into the rocky bottom like an anchor. Toothless has stopped struggling. Hiccup takes one more hopeless tug at the chains - he's almost out of air. Suddenly, a meaty hand grabs Hiccup. MAN explodes to the surface, pulling Hiccup to the shoreline through flaming debris. He lays him down, under the shelter of an overhanging rock.
+MAN	m	Dad... Stoick dives back into the water between flaming flotsam.
+UNDERWATER	m	ON TOOTHLESS, drowning. Stoick appears in front of him. Toothless freezes. Stoick tears the chains off of the yoke and lets it float free. Momentary stillness. They eye each other, through the churned up bubbles. Toothless lunges out of the bars -- grabbing Stoick. BOOM! In an explosion of sea water, Toothless lands on the shore, setting Stoick down and releasing him. Hiccup is awed. The ground rumbles underfoot. The monster screeches. Its massive claws stomp around in the smoke. Stoick gives way as Toothless mounts the rock and raises his wings. He turns to Hiccup and SNORTS - ‘Let's go.'
+MAN	m	Hiccup. I'm sorry...for everything.
+MAN	m	Yeah...me too.
+MAN	m	You don't have to go up there.
+MAN	m	We're Vikings. It's an occupational hazard. They exchange smiles.
+MAN	m	I'm proud to call you my son. Hiccup beams, taken aback.
+MAN	m	Thanks dad. Stoick lets go of Hiccup's arm. Hiccup spurs Toothless on, charged with his father's belief in him. They rocket into the sky as Stoick watches.
+WOMAN	f	He's up! She turns to Ruffnut and Tuffnut, who are ARGUING and THROWING PUNCHES at each other.
+MAN WOMAN	f	I'm on it! I'm on it!
+MAN	m	I'm on it first! I'm ahead of you. The twins spot Snotlout on the giant dragon and steer their Zippleback in his direction. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 95.
+WOMAN	f	Hey! Let me drive! The twins peel off, ARGUING as they race each other to the monster. Snotlout sees the Zippleback diving toward him and DASHES down the Red Death's head. He runs up the end of its horn... As the twins sweep past, both missing him... but perfectly snatching him where the necks merge. Ruff and Tuff eye each other, surprised and impressed.
+MAN	m	I can't believe that worked. The Red Death spots Astrid and INHALES, preparing to blast. She and her Nadder get caught in the suction, pulled toward the monster's gaping mouth.
+MAN	m	Night Fury! Get down!
+MAN	m	Did you get her? Toothless grunts.
+WOMAN	f	Go.
+MAN	m	That thing has wings! Okay, let's see if it can use them! Hiccup pulls Toothless into a turn. They plummet, gaining tremendous speed. The wind buffets them as they target the Red Death as super sonic speed. KABLAM! Toothless unloads a fireball against the Red Death's head. It goes down with a rumble as they climb anew.
+TEENS	?	Woohoo! Yeah! A moment later the Red Death SMASHES the sea stacks to dust in hot pursuit. The Vikings mood is quenched.
+MAN	m	Okay Toothless, time to disappear. Toothless PULLS into a steep climb, heading toward the clouds.
+MAN	m	Hiccup? Hiccup!? Stoick appears, searching desperately. Everything is scorched. Even the ground is smoking from the terrible heat. Hiccup. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 100. He hurries to the dragon's side. Toothless is roughed up, but conscious. His scorched saddle, however, is vacant. Stoick looks to the sky in despair. He buckles at the knees, overwhelmed by the loss. You brought him back alive! The crowd roars. Followed by the dragons. The Vikings look around to find themselves surrounded. Stoick leans close to Toothless, meeting him eye to eye. Thank you... for saving my son. Gobber looks Hiccup up and down.
+MAN	m	Well, you know... most of him. Stoick glances back at him. Gobber shrugs, redirecting his eyes toward... "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 101.
+CLOSE ON	m	MAN, asleep, his head on a pillow. Healing scars on his face show that maybe a week or two have passed. Toothless hovers over him, WHINING and GRUMBLING impatiently. Hiccup stirs. Opens his eyes.
+MAN	m	Oh, hey Toothless. Toothless excitedly nuzzles and nudges Hiccup.
+MAN 	m	Okay, okay! I'm happy to see you too, bud. Now just-- Toothless steps on his groin, causing Hiccup to sit BOLT UPRIGHT with a YELP. He looks around, confounded. He's in his bed, moved beside the fire pit on the main floor of his house. Okay, okay -- no Toothless! Aw, come on... Hiccup shifts to get out of bed... then pauses... sensing that something is wrong. He peels back the covers slowly. What he sees startles, horrifies, and overwhelms him -- all at once. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 102.
+MAN	m	Come on guys, get ready! Hold on tight! Here we go! A class of newbie dragon riders follow him through frame on a variety of dragons, pulling back the curtain on an amazing vista in which: "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 103. Vikings and dragons mill about by the dozen, basking on the rooftops, weaving along the plaza. No one seems upset, there isn't a sword in sight. Under the framework of a MASSIVE BARN, a Nadder BLASTS fire onto a metal brace. It steps back to let a Viking hammer it into shape. Nearby, a Gronkle lands, carrying a tree trunk in his mouth. He shows a Viking what he's found. The Viking pats his head. Another Viking backs a Zippleback into a stall to check it for size. Hiccup takes a step outside, finding Stoick waiting for him on the step.
+MAN	m	I knew it. I'm dead. Stoick laughs.
+MAN	m	No, but you gave it your best shot. He puts his arm around Hiccup, steadying him. He gestures to the transformed village.
+MAN 	m	So? What do you think? Hiccup just shrugs, amazed. Below, the plaza, villagers take notice.
+MAN #1	m	Hey look! It's Hiccup! They rush over, surrounding him with a hero's welcome.
+MAN #2	m	Hiccup, how you doin' mate?
+MAN #3	m	It's great to see you up and about.
+MAN	m	Turns out all we needed was a little more of...
+AT MAN)	m	... this.
+MAN	m	You just gestured to all of me. "Dragon" DeBlois/Sanders Final Draft (Rev.19) 02-13-2010 104.
+MAN	m	(bittersweet, coming to
+TERMS)	?	I might make a few tweaks. Astrid appears and jabs Hiccup in the arm. Hiccup recoils with a grumble.
+WOMAN	f	That's for scaring me.
+MAN	m	What, is it always going to be this way? Cause I... She grabs him aggressively... then kisses him. Hoots and hollers follow.
+MAN	m	Welcome home. Suddenly, Toothless pounces on the crowd, crushing several unsuspecting Vikings under his weight.
+MAN	m	Night Fury, get down! Toothless eyes the new tail excitedly, tongue wagging. Amidst the groans and grumbles, Hiccup and Astrid exchange a sheepish grin.
+MAN	m	You ready? Toothless SNORTS an excited 'yes!' From his mount, Hiccup looks out over the changed world. It snows nine months of the year... and hails the other three. They LEAP into the bright blue sky, together as one. Astrid follows, giving chase. ... dragons.
+

@@ -1,0 +1,521 @@
+ARAGON	m	A year younger than I was for my first. 
+TRISTAN	m	When can I have a stag? 
+ARAGON	m	
+TRISTAN	m	Oh come on! 
+TRISTAN	m	Why would they join up against the Irish? 
+ARAGON	m	Because someone has to stand up to them. 
+TRISTAN	m	You? 
+ARAGON	m	Me, Marke, all the tribes. We can’t  resist alone. 
+TRISTAN	m	I could. 
+ARAGON	m	Oh my little warrior. We have to be  careful. 
+ARAGON	m	Come home without something for your  Lady there will be hell to pay. 
+TRISTAN	m	Can I? 
+MAN	m	The Angles have arrives my Lord, as  well as the Carrods, our fellow Jutes  and the Saxons. 
+ARAGON	m	Good. With Marke, all will be here. 
+MAN	m	
+ARAGON	m	Let us hope so. 
+TRISTAN	m	Thanks. 
+LADY MARKE	f	We heard the news... 
+TRISTAN	m	Mother, I made this for you 
+ARAGON	m	Friends, look at us. 
+ARAGON	m	The tribes of Britain. Divided. Weak.  Just as the Irish like us. But if we  were one land united, we would out number  them two to one. We could defeat them  once and for all. That is why we are  here today, to sign this treaty of unification. 
+LORD	m	But who would be King? 
+ARAGON	m	The strongest among us: Lord Marke. 
+ARAGON	m	Look if you are happy sending all of  your gold to Ireland, living as slaves  then by all means do nothing. 
+BARON	m	If we were happy doing that then we  would never have risked coming here. 
+MARKE	m	Friends. My wife is with child, my heart  tells me it is a boy. I want him to  grow old in a land where all of us,  all the tribes: Pict, Celt, Angle, Jute,  Saxon are at peace. This island has  not known unity since the Romans left.  That is why I sign this treaty.  
+WICTRED	?	And why should we follow you? 
+MARKE	m	Perhaps, Wictred, because your last  attempt to form an alliance without  the knowledge of half the Barons in  this room has failed. 
+MAN	m	My Lord! The Irish are here! 
+ARAGON	m	Take all your men. Guard the women! 
+MARKE	m	But you... 
+ARAGON	m	
+LADY MARKE	f	Tristan! Hurry! Come this way. 
+BARON	m	How did they know? 
+LADY MARKE	f	Tristan! 
+BRAGNAE	?	She’s with the Gods now Isolde, you’ll  see her again someday. 
+ISOLDE	f	Will I? 
+HENCHMAN	m	
+KING DONNCHADH	m	What news of the treaty? 
+KING DONNCHADH	m	Good Morholt, good 
+BRAGNAE	?	Your mother loved you so much Isolde 
+ISOLDE	f	Why did she die Bragnae? Why? 
+BRAGNAE	?	It was an ill fever that took her. Fever. 
+ISOLDE	f	No. It was her heart. 
+MARKE	m	Your husband? 
+MARKE	m	Oh sister I am so sorry. 
+MARKE	m	A whole generation of men. 
+EDYTH	f	
+MARKE	m	Tristan. Son of Aragon. We’re his family  now. 
+EDYTH	f	Melot!  Melot, this is Tristan. 
+HENCHMAN	m	What shall we do, my Lord? 
+MARKE	m	Rebuild. 
+MARKE	m	Don’t hold back 
+BOY	m	Tristan won’t fight me! Look he’s scared! 
+MARKE	m	Still won't fight? 
+GENERAL	m	Tristan has the heart of a lion.He just  needs some time. 
+MELOT	?	Why did you take off your helmet? You  going to cry? My father died too, but  you don’t see me crying! 
+EDYTH	f	Melot! 
+MELOT	?	Run! Find another trapdoor to hide under.  Coward! 
+HENCHMAN	m	Tristan! 
+SAMMY	m	Tristan! Tristan! We’ve found something!  Come on, this way. 
+MELOT	?	You will love it. 
+SIMON	m	I found a trapdoor! 
+MELOT	?	You found a trapdoor? Alright Simon,  will you tell us all how you found it?!  
+TRISTAN	m	Where does this lead? 
+MELOT	?	You’ll see. I like that vase, I think  I'll have that. I always knew the Castle  was built on Roman foundations but we  didn’t think anything was left! 
+TRISTAN	m	Must be a burial crypt or something. 
+MELOT	?	Here we are: the bottom of the keep. 
+TRISTAN	m	Who else knows about this? 
+SAMMY	m	Nobody. 
+TRISTAN	m	Good. 
+BODKIN	m	The savages have rebuilt the castle  at Cornwall, only now it’s made of stone. 
+KING DONNCHADH	m	Of Cornwall’s next tribute I want slaves.  Young ones. Their future. If Marke resists  have Morholt crush him. 
+MORHOLT	m	My King. 
+KING DONNCHADH	m	Morholt. 
+MORHOLT	m	I have led your armies to victory far  and near. I’v made you rich and powerful. 
+KING DONNCHADH	m	Yes you have. You have been most loyal. 
+MORHOLT	m	When I return from Cornwall, I was hoping... 
+KING DONNCHADH	m	What would please you? 
+MORHOLT	m	A wife. 
+BRAGNAE	?	It’s dark in an hour. 
+ISOLDE	f	What do you think is really out there? 
+BRAGNAE	?	Britannia. The old Roman lands. Full  of evil and grief. 
+ISOLDE	f	I want to see it. Do you know what the  future looks like Bragnae? 
+BRAGNAE	?	I see the life you were meant for. Your  father will speak with you. 
+ISOLDE	f	Am I just a chattel to be traded at  your pleasure? Do I have no say in my  own life? 
+KING DONNCHADH	m	You have a duty to your King. 
+ISOLDE	f	You are my father. 
+KING DONNCHADH	m	Then obey me, daughter. 
+MORHOLT	m	Your father has given you the news? 
+MORHOLT	m	And you welcome it? 
+ISOLDE	f	I accept it. 
+MORHOLT	m	You know, we are more alike than you  might guess. 
+ISOLDE	f	How so? 
+MORHOLT	m	I too dabble in elixirs.  Poison from  the livers of a puffer fish. Just a  taste paralyses all the senses. So if  the blade doesn’t kill... 
+ISOLDE	f	Rendered safe by thistle and bark. 
+MORHOLT	m	And you know the antidote for this? 
+ISOLDE	f	Yohimbine.  
+MORHOLT	m	Makes a hard man even harder.  The only  cure... wild abandon. Till out wedding  day. I’m to Cornwall, to deal with rabbles.  
+BODKIN	m	Release them. 
+CORNISH MAN	m	Leave her! 
+BODKIN	m	Take him there. Get a rope. Any man  foolish enough to interfere in any way  shall suffer the same fate. 
+GIRL	f	No! No! Please No! 
+BODKIN	m	If there are any more attacks we shall  put our guests to death and raise this  entire land. Take the horses. 
+MARKE	m	When would you strike? 
+TRISTAN	m	At once. Throw everything we have at  them. 
+MARKE	m	They are hoping you'll do that. On horse  they outnumber us two to one. You would  lead the men straight to their deaths. 
+TRISTAN	m	So we do nothing?! 
+MARKE	m	Donnchadh would like that even more.  Me to lose face in front of the other  tribes. No, we must act. We must be  decisive but we cannot act alone. 
+MARKE	m	So. Have the good men of York come to  fight with us? Hm? The Saxons of Wessex? 
+WICTRED	?	My men don’t want to follow a Pict into  battle. Let alone one leading a pack  of Angles and Celts. 
+MARKE	m	Then why are you here? 
+WICTRED	?	I thought Tristan should let me command  his men. 
+TRISTAN	m	I make it my habit to follow no one. 
+WICTRED	?	Except Marke. 
+TRISTAN	m	Marke delivered me from that place when  I was a boy. You ran. So you can understand  that when I think of Kings I think of  him. When I think of cowards... 
+MARKE	m	They are one day from their boats on  the old Roman road. Now who will ride  out with Tristan to fight them? 
+LORD	m	What is your plan, Tristan? 
+TRISTAN	m	We will need our two fastest runners. 
+IRISH MAN	m	Go around! 
+BODKIN	m	Morholt, they’re back! 
+MORHOLT	m	Kill the slaves! 
+TRISTAN	m	Simon! 
+SAMMY	m	I don’t want to die. 
+MAN	m	Tristan! 
+TRISTAN	m	I can’t feel my legs or my hands. 
+MAN	m	
+TRISTAN	m	Build a second boat. 
+MAN	m	Tristan! 
+MELOT	?	He shall have a King's service. 
+MELOT	?	Farewell, Tristan of Aragon. Death of  the Irish. 
+MELOT	?	When the Irish came to Cornwall and  my father surrendered. You spared a  dozen out of a hundred. I am even less  kind. The leader and 3 shall take this  message home. As for the rest...  
+MELOT	?	Victory. 
+MARKE	m	Tristan? 
+MELOT	?	Simon too. 
+MARKE	m	Did I love him like a son or did I misuse  him for my own purposes? 
+EDYTH	f	He knew. He knew. 
+BRAGNAE	?	Where are we going? 
+ISOLDE	f	Away. 
+BRAGNAE	?	You're afflicted child. Speak to me!  Your father will find us and have my  head. You are my charge. Please! 
+ISOLDE	f	I am no ones charge! 
+BRAGNAE	?	You are. And you will be Morholt’s Lady! 
+ISOLDE	f	And live a loveless life like my mam? 
+BRAGNAE	?	
+ISOLDE	f	Where? 
+BRAGNAE	?	Isolde. Wait! Don’t!  Isolde. Don’t!  Isolde! 
+ISOLDE	f	It’s a man. 
+BRAGNAE	?	Dead? 
+ISOLDE	f	Alive! Bragnae help me! 
+BRAGNAE	?	
+ISOLDE	f	Help me! 
+ISOLDE	f	Start a fire! Quickly! 
+ISOLDE	f	His heart falters. 
+BRAGNAE	?	What are you doing? 
+ISOLDE	f	He needs heat. Now! Get your clothes  off! Quickly! 
+ISOLDE	f	Hurry! Quickly! Smell that? Smell the  poison? When he warms we will need thistle  and bark. 
+BRAGNAE	?	15 years! 
+ISOLDE	f	Hello.  You've been sleeping a long  time. You're in Ireland. Did you know  that? Shh... It's alright. You're safe  here. No one knows. Don't be scared.  Just sleep... sleep. 
+BRAGNAE	?	Nooo Nooo Noo! 
+ISOLDE	f	It’s alright, you don’t need that! I  forgot to tell him about you... 
+BRAGNAE	?	I’ll wait outside with the other beasts. 
+TRISTAN	m	You said no one else knew. 
+ISOLDE	f	Sorry... She’s... My maid. Sworn to  silence. Um... lie down please. Please? 
+ISOLDE	f	It’s good you are remembering things.  else? The boat I found you in? How you  got this? Too many questions. Here keep  it dry. Here I found bread, you have  water and fire. The ocean is outside  if you wish a bath. You won’t know where  you are going so please don’t try to  leave. Just trust me. 
+TRISTAN	m	Why are you doing this? 
+ISOLDE	f	I’ll be back 
+BRAGNAE	?	This is a dangerous game you are playing.  He’s English, Isolde. 
+ISOLDE	f	Then we’ve got him prisoner. 
+BRAGNAE	?	Under no circumstances tell him your  name, you hear me? Not if you wish him  to escape this place. Do you hear me? 
+KING DONNCHADH	m	You’ve been away. 
+ISOLDE	f	I had noticed. Yes I have a bit. 
+KING DONNCHADH	m	Where? 
+ISOLDE	f	Bragnae and I were spying the convent  of Brittes ]. 
+KING DONNCHADH	m	Seeking sanctuary? 
+ISOLDE	f	Some women need it. 
+KING DONNCHADH	m	You’ll find no refuge in a new religion.  Your place is here, with Morholt. 
+ISOLDE	f	Any word of my betrothed? 
+KING DONNCHADH	m	Overdue. But comforted no doubt that  you yearn for him. 
+TRISTAN	m	What's your name? 
+ISOLDE	f	Oh, I think it's better if we don't  bother with names. 
+TRISTAN	m	How can I thank you if I don't have  your name? 
+ISOLDE	f	You just did. If you insist... my name  is Bragnae. I'm a lady in waiting at  the court. My parents are dead. My mother,  she is the source of the kindness you  find so puzzling. My father would've  left you where you fell. 
+TRISTAN	m	Tristan of Aragon. 
+ISOLDE	f	Well Tristan of Aragon, I'd guess about  you too, but I think I've already seen  everything. 
+BRAGNAE	?	Sir! I hope you appreciate the risks  we are taking, and will honour us by  leaving as soon as you are able. 
+TRISTAN	m	She likes me. She’s right though, you  do risk. 
+ISOLDE	f	There. What of your parents? 
+TRISTAN	m	They also died when I was a child. 
+ISOLDE	f	Of what? 
+TRISTAN	m	A different type of Irish kindness. 
+ISOLDE	f	Sorry. 
+ISOLDE	f	Tomorrow then? 
+TRISTAN	m	Tomorrow. 
+ISOLDE	f	There she who bore you brought you forth. 
+TRISTAN	m	Ridiculous. 
+ISOLDE	f	I happen to believe what that says.  Don’t you think there is more to life? 
+TRISTAN	m	Than what? 
+ISOLDE	f	Something more than duty and death!  Why are we capable of feelings if not  to have them? Why long for things if  they are not meant to be ours? Well  don’t listen to me. You’re so sure of  things. You’re certainty, it’s like  armour. I wish I had that. 
+TRISTAN	m	Why would you need it? 
+ISOLDE	f	The joy of being a lady? Wanting something  I can’t have. A life of my own. 
+BRAGNAE	?	Time for sleep now. 
+ISOLDE	f	I’ll follow you later. 
+BRAGNAE	?	You need to rest. In case your betrothed  should want to see you. 
+TRISTAN	m	You’re promised? 
+ISOLDE	f	Yes. 
+TRISTAN	m	What’s he like? 
+ISOLDE	f	Dark. Tall. Nearly twice your size.  An absolute gentleman. 
+TRISTAN	m	I thought... earlier when you spoke  of wanting something you can’t have. 
+ISOLDE	f	I didn’t know what I was talking about. 
+ISOLDE	f	Outside, just past that bluff there  is a boat. That’s how you should go  when you leave. You should go soon. 
+TRISTAN	m	How do you feel? 
+ISOLDE	f	I don’t know 
+ISOLDE	f	Tristan! They’ve found your boat. At  this very moment the King himself is  scouring the coast. He will find you.  He finds everyone. The tide is coming  let’s go! 
+TRISTAN	m	Come with me. Come with me! 
+ISOLDE	f	I can’t 
+TRISTAN	m	Why not? Please! 
+ISOLDE	f	Tristan, we’ve both known this can’t  be. We’ve known this from the start.  That doesn’t mean it isn’t true. It  is. It just cannot be. I want to know  that you are alive somewhere thinking  of me from time to time. I want to know  that there is more to this life and  I can’t know that if they kill you.  Please? 
+ISOLDE	f	Go! 
+KING DONNCHADH	m	A Cornish warrior may be ashore. Beware.  We seek him as I speak. Hopefully it  is just his rotted corpse we'll find,  for he has slain your betrothed. Morholt  is dead. Fallen in battle. Isolde? Bragnae,  comfort her. 
+BODKIN	m	She’s stunned. 
+KING DONNCHADH	m	As am I by her grief. 
+BODKIN	m	We should assulat the British straight  away. Crush them with maximum force. 
+KING DONNCHADH	m	Maximum force. Like that of Marke’s  tribe with the maximum force you speak  of? I will not confront them again until  our numbers are refreshed. Until then,  we’ll have cunning divide them. 
+BODKIN	m	Of what nature? 
+KING DONNCHADH	m	A prize, perhaps. 
+MELOT	?	What’s this about a tournament? 
+MARKE	m	Donnchadh. He has offered his daughter  and the lands of Lyonesse as dowry to  whichever English tribe wins. It is  a clever way of setting us against each  other. 
+MELOT	?	Well, the other barons will see through  that. 
+WICTRED	?	As baron of Wessex it is my duty to  fight in this tournament for my people. 
+MARKE	m	For yourself you mean. 
+MELOT	?	And what of the support you promised  Tristan? 
+WICTRED	?	Tristan is dead. My people have suffered  enough. They see the wealth of Lyonesse  as more real than any alliance. My mind  is set. 
+BARON	m	And ours as well. 
+MARKE	m	So be it. 
+MELOT	?	You're weary, let me rally your friends.  I’ll lead them against D... 
+MARKE	m	Ah, Melot, Melot, Melot. You are my  blood and you are a noble presence but...... 
+GUARD	m	Lord Marke! He’s back! It’s Tristan! 
+MAN	m	It cannot be! 
+EDYTH	f	Tristan! 
+MELOT	?	I saw you dead. 
+TRISTAN	m	I am delivered. 
+MARKE	m	
+MARKE	m	A toast! Tristan! Back from the dead. 
+MAN	m	Tristan. The Irish King offers his daughter  in tournament to divide the tribes.  For the power and the wealth half the  tribes have sent champions to fight  at the...  Tristan! 
+MAN	m	God knows what happened to him.      
+ISOLDE	f	"My face in thine eyes, thine in mine  appears, 
+MARKE	m	What? 
+TRISTAN	m	It is the only way to keep the alliance  alive. 
+MARKE	m	I fail to see how fighting with our  partners keeps us allies. 
+TRISTAN	m	Well they are all going to the tournament  anyway. By announcing you will share  the dowry with every Baron that remains  loyal and in turn offering to support  whomever prevails, the others would  be compelled to follow you when you  win. 
+MARKE	m	If we win. If we lose we could end up  following Wictred. I’d need an infallible  champion! 
+TRISTAN	m	Me. 
+MARKE	m	You are not yet healed. 
+TRISTAN	m	Then this trip will be my tonic. I will  be ready. I know I will. 
+MARKE	m	What is the source of this fervour? 
+TRISTAN	m	Let me go and win you a wife. She can  make peace without spilling one drop  of blood, and maybe heal a wound from  which you still lack. 
+BODKIN	m	Truce. You have safe passage. 
+TRISTAN	m	How do I look? 
+HENCHMAN	m	How do you look? 
+MELOT	?	Where is this Princess? What’s her name?  Isolde? I want to see what she looks  like. 
+BRAGNAE	?	There. Almost done. 
+ISOLDE	f	No, not quite. If I am to be a present  I should be fully wrapped.  
+KING DONNCHADH	m	See how the bees come to the honey. 
+TRISTAN	m	Tristan of Aragon. 
+KING DONNCHADH	m	So he lives. 
+BODKIN	m	For the moment. 
+WICTRED	?	Wictred of Glastonbury. 
+WICTRED	?	I fight with no champion in my stead.  Know that. 
+BODKIN	m	Why Wictred? 
+KING DONNCHADH	m	Because the Barons will never unite  behind him. 
+MELOT	?	Do you think she’s got the pox? 
+HERALD	m	Since the dawn of time... 
+HERALD	m	... Begin! 
+WICTRED’S OPPONENT	m	Make it for real! 
+WICTRED	?	What? 
+WICTRED’S OPPONENT	m	I yield! 
+MAN	m	You were great! 
+KING DONNCHADH	m	Allow it! 
+MELOT	?	It was too easy for you Tristan. Not  much for a third draw. 
+WICTRED	?	Mace. 
+MELOT	?	One more fight Tristan. Take deep breaths. 
+HERALD	m	Wictred: Lord of Saxonberg. Tristan:  Champion of Cornwall. Warriors: Begin! 
+TRISTAN	m	Yield! 
+KING DONNCHADH	m	An impressive victory. Of course the  man who defeats Morholt might be expected  to triumph here. 
+TRISTAN	m	On behalf of Cornwall, I offer your  daughter a place on our throne. The  throne of England, united behind one  leader. 
+KING DONNCHADH	m	Isolde! Perhaps it is just that he who  took a husband provides one. 
+ISOLDE	f	I’m yours. 
+KING DONNCHADH	m	No. Tristan of Aragon has won you on  behalf of Lord Marke of Cornwall. 
+MELOT	?	Let’s go. 
+KING DONNCHADH	m	Let them take her across the sea. After  the wedding I'll disavow Isolde, the  alliance will crumble. 
+HENCHMAN	m	Tristan. Princess wants to speak to  you. 
+ISOLDE	f	You risked your life to give me to another  man. 
+TRISTAN	m	You said your name was Bragnae. Why  did you do that? 
+ISOLDE	f	Oh what have I done? Stop this thing.  Say something. 
+TRISTAN	m	I can't. I won you in my King's name. 
+ISOLDE	f	But I am yours. You touched me and I  yielded... 
+TRISTAN	m	It doesn't matter. 
+ISOLDE	f	It is the only thing that matters Tristan.  Leave with me, I will go anywhere. 
+TRISTAN	m	Your marriage will end a hundred years  of bloodshed. 
+ISOLDE	f	My marriage to another man! 
+TRISTAN	m	Isolde. You will live with this. We  must. 
+ISOLDE	f	Don't do this to me. 
+MELOT	?	Tristan, we’ve made shore. 
+MARKE	m	What if she’s a hag? Or maybe she won’t  have me! 
+EDYTH	f	She will brother. You’re the prize. 
+ISOLDE	f	My Lord.  
+MARKE	m	Isolde? Welcome. 
+ISOLDE	f	If things were different. If we lived  in a place without duty... would you  be with me? 
+TRISTAN	m	That place does not exist. 
+ISOLDE	f	I'll pretend it's you. 
+MARKE	m	You’re trembling. You are far from home  and I am a stranger still. But you mustn’t  fear me. My wish is to make you happy,  as a wife.. as a women and hopefully  one day, the fact that I am not whole  will not offend you. 
+MARKE	m	That’s pretty. Did you make it? 
+ISOLDE	f	It was a present. 
+MAN	m	Tristan? 
+TRISTAN	m	Might I stay here a while? 
+MAN	m	Of course. 
+EDYTH	f	Tristan! 
+MARKE	m	I’ve never seen him like this before. 
+ISOLDE	f	Perhaps someone his own age should speak  with him. 
+ISOLDE	f	They believe you are distant. They are  worried about you. So am I. 
+TRISTAN	m	I can tell. Laughing at the market,  holding hands, a caress on the neck  when he pours you wine. 
+ISOLDE	f	He is my husband. I remember his Kingdom  comes before my life. 
+TRISTAN	m	Yes well, I must confess I thought you  might find more difficulties in performing  your duty. 
+ISOLDE	f	Am I not permitted a single moment without  mourning? Living with this Tristan as  you said we must. 
+TRISTAN	m	I live in torture thinking of these  moments. With every look he gives you  I get sicker and sicker. There is a  burning in me, I feel on fire and guilt  and I can't get rid of either. Does  it make you happy to know that? 
+ISOLDE	f	The Roman Bridge. I can get to it without  being seen. And I will go there anytime  to be there with you. 
+MARKE	m	Welcome bands of Anglia, Rothgar and  Orick. Wessex: Kaye and Wictred. 
+WICTRED	?	As you will be King and his daughter  Queen, does that mean Donnchadh will  be coming to the coronation. 
+MARKE	m	It does. On the next full moon, all  will attend. 
+WICTRED	?	A lot can happen in a month 
+MARKE	m	Bearing that in mind, and given the  instabilities of our new land I shall  be naming a second. My sister has raised  one, capable of guiding you if the need  should arise. He is a man of passion,  fierce in battle who has learnt to tame  his heart with his head. I give you  Tristan of Aragon. 
+MARKE	m	For the first time since the Romans,  this country stands united. 
+TRISTAN	m	I can’t be your second. Melot must be.  He is blood. Besides, I wish to journey  north. 
+MARKE	m	You no longer sleep at Dor, and now  you don’t want to be my second. Do you  find no comfort in your home? These  stone walls that you helped build? 
+TRISTAN	m	I find these walls a prison. 
+MARKE	m	Why? 
+TRISTAN	m	Everything I want seems misplaced. 
+MARKE	m	Ever since you were a boy you sacrificed  everything for me. All for one dream.  is natural that you would feel some  loss. It doesn’t matter if you want  to be second. You are. I will only be  king if you are my second. I’d put it  more gently if I could. 
+TRISTAN	m	Then I am your second. 
+MARKE	m	Perhaps it is time that you took a wife! 
+TRISTAN	m	No! 
+MARKE	m	Can’t live alone forever. 
+TRISTAN	m	I can! 
+MARKE	m	Isolde. I was trying to explain to Tristan  the importance of loving. It seems he  might live without it. 
+ISOLDE	f	Why? 
+TRISTAN	m	There are other things to live for.  Duty. Honour. 
+ISOLDE	f	But they are not life Tristan. They  are the shells of life. And empty ones  and in the end all they hold is days  and days without love. Love is made  by God. Ignore it and you can suffer  as you cannot imagine. 
+TRISTAN	m	Then I will no longer live without it. 
+MARKE	m	Good. Very good! Come, we will be late! 
+ISOLDE	f	Late? 
+MARKE	m	The warriors ride out on the full moon.  It is an old ritual. I shall miss you  tonight.  
+ISOLDE	f	How many did you love before me? 
+TRISTAN	m	None. 
+ISOLDE	f	And after me? 
+TRISTAN	m	None. 
+MAN	m	Lord Marke! Are you hurt? 
+MARKE	m	Nothing but for my pride. 
+MELOT	?	Tristan, I need to speak with you. 
+TRISTAN	m	Go ahead. 
+MELOT	?	We haven’t even had a coronation yet  to mark tradition. But now he breaks  tradition and scares all the barons  by naming you as second. 
+TRISTAN	m	I tried to convince him you would be  better. 
+MELOT	?	Yes well, peace can be just as treacherous  as war and I feel that Marke doesn’t  really...Listen to me!!! Our attention  must be on Cornwall now more than ever. 
+TRISTAN	m	I am sorry he didn’t choose you. I am. 
+MELOT	?	Can I speak to you? 
+ISOLDE	f	What do you think became of them? 
+TRISTAN	m	They were lives... just lived. 
+ISOLDE	f	I find myself imaging things in this  place. I decorate it. Books, a harp  there... a child. 
+TRISTAN	m	Would it be his or mine? 
+ISOLDE	f	I would have no way to tell, would I?  He is a kind man Tristan, I cannot hate  him. Yesterday at the market I saw a  couple holding hands, and I realised  we would never do that. Never anything  like it. No picnics or unguarded smiles.  No rings. Just stolen moments that leave  too quickly. 
+MARKE	m	Where is Isolde? 
+BRAGNAE	?	I don’t know for sure, she was having  a walk in the garden before and I’m  afraid I got tired so I returned. It’s  my fault. 
+BRAGNAE	?	You’re going to get caught! Both of  you! He’s looking for you right now,  he’ll see you! I told you this would  happen! 
+TRISTAN	m	There is another door here, forgotten.  This comes up in the bottom chamber  of the keep. 
+ISOLDE	f	I hate this. 
+TRISTAN	m	Hurry! Go on. 
+BRAGNAE	?	I’m tired of this. I’m tired of lying  for you. I’m sick of it. 
+ISOLDE	f	Then don’t. 
+ISOLDE	f	There is a servings child, quite ill.  Doing better now. 
+MARKE	m	I didn’t ask you were you were. Your  heart is beating so fast. 
+ISOLDE	f	Is it? 
+MARKE	m	Isolde. Is there anything I can do to  make you happier. I want to make you  happy. 
+ISOLDE	f	I’m fine. 
+WICTRED	?	She’s in love with Tristan. They’re  intimates. If I expose them it will  break Marke’s heart and his hold on  the other Barons. 
+KING DONNCHADH	m	How? 
+WICTRED	?	With Marke’s champion in chains, we’ll  take Castle Dor. You can man your armies  unopposed. There will be no one defending  you in the waters. 
+KING DONNCHADH	m	And your price? 
+WICTRED	?	I want Marke’s throne. 
+KING DONNCHADH	m	When his throne falls apart, we’ll go  over and pick up the pieces. 
+MARKE	m	Tristan? Can I speak with you? Is it  possible... do you think a man blinded  by love... Is it possible that that  man might not see treachery right in  front of him? 
+TRISTAN	m	No. 
+MARKE	m	Perhaps you could follow her. I can’t  ask anyone else. I know. I know what  you think – I’m acting like a child.  Normally I can read faces, but with  hers I feel like... I can't be objective.  She’s so delicate. 
+TRISTAN	m	You really love her. 
+MARKE	m	Oh... I do...terribly. I didn’t know  how empty I was. She sustains me, she  thrills me. And when I see this ring,  it is a ring of thorns. 
+TRISTAN	m	The ring is nothing. She's loyal to  you. I am sure of it. 
+MARKE	m	... If you say so. 
+MAN	m	I count nine  
+TRISTAN	m	If they move they will warn us with  a black flag 
+MARKE	m	You bring an entourage? 
+KING DONNCHADH	m	I can let myself be alone in my position  Lord Marke. But don’t worry, they will  stay offshore.  I miss you. 
+MARKE	m	My nephew, Merlot of Cornwall 
+KING DONNCHADH	m	And Tristan, slayer of my best general,  winner of Isolde, defender of the alliance.  You are a fortunate man. 
+MARKE	m	Indeed. 
+MARKE	m	Tristan! Seems I worried for nothing. 
+WICTRED	?	May I dance with the Queen, or does  Tristan have the next one? 
+MARKE	m	That’s right, you have never danced  with Isolde before! 
+WICTRED	?	A new song for Tristan. Slow. 
+ISOLDE	f	Why did you burn it? 
+TRISTAN	m	You know. 
+ISOLDE	f	Meet me there in an hour or I’ll die. 
+MARKE	m	I could still teach you a thing or two,  dancing being one of them. 
+KAYE	f	Accuse him now. 
+WICTRED	?	No, no, no. We’ll have more than accusations. 
+MARKE	m	Is something the matter? 
+ISOLDE	f	I’m just feeling a little weary that’s  all. I might just go and have a lie  down. 
+MARKE	m	Of course. 
+WICTRED	?	Friends, friends hear me! We’ve forgotten  the full moon isn’t it time to ride  out? 
+GENERAL	m	No. Tonight it cause for exception. 
+WICTRED	?	But the coronation should uphold tradition,  surely it is not to be neglected already? 
+MARKE	m	We honour it. In half a night. Ride  out! Where’s Tristan? 
+ISOLDE	f	I miss Ireland 
+TRISTAN	m	Isolde, this must end. 
+ISOLDE	f	That’s like asking me to stop breathing. 
+TRISTAN	m	It cannot be. 
+ISOLDE	f	Please don’t leave me. Please! 
+MARKE	m	Isolde? There is someone...  No. 
+KING DONNCHADH	m	I see how it is in Cornwall. My money  is good enough, my alliance is good  enough, but my daughter you pass amoung  your lieutenants like a whore! 
+ISOLDE	f	It’s not like that. 
+KING DONNCHADH	m	I see no relation to me here! I will  see this peace end. 
+WICTRED	?	You have brought the allegiance to shame.  Who would fight for this? 
+MARKE	m	Seize him. Seize him. 
+MELOT	?	Behold your hero uncle  I would have  no heroes now. 
+BODKIN	m	They’re ashore. 
+KING DONNCHADH	m	
+BARON	m	If a man can’t rule his woman, how can  he govern an entire Kingdom? 
+MELOT	?	He can’t. 
+LORD	m	We have suffered peace. 
+BARON	m	It’s all been coming apart. I can feel  it 
+LORD	m	You’re right. 
+WICTRED	?	There is very little time. Fortunately,  Donnchadh has no quarrel with anybody  here. He’s asked me to give you a message.  
+BARON	m	What’s this? 
+WICTRED	?	It is compensation for the men you will  lose attacking Castle Dor with Donnchadh  tomorrow. Let’s be honest, our people  need a stronger leader. 
+BARON	m	And who might that be, Wictred? 
+WICTRED	?	Melot. Too long the ablest amoung us  has been denied his rightful place.  I pledge you my legiance and offer him  my services as his second. 
+MELOT	?	I like this plan. 
+MARKE	m	I came to apologise. I’ve been selfish  arrogantly thinking that perhaps I’d  given enough. At least enough to merit  if not your love then at least your  respect. You have a home. A kingdom.  Why was it not enough? Tell me.  Tell  me! You do not know what you have done!  Everything is destroyed, everything!  All because you did not have enough.  She’s loyal to you I am sure of it.  You bloodsucker. What could it had been  had I not stretched out my hand to save  your life. How I curse that day, how  I curse it. And so be with your defence.  Donnchadh marches on us as we speak. 
+BRAGNAE	?	She’s young. I will not let you harm  her! 
+MARKE	m	How long? 
+ISOLDE	f	Since you thought he was dead. I found  him wounded on the beach in Ireland.  I hid him from my father and I told  him my name was Bragnae. So when he  came to the tournament at Dunluce to  win Donnchadh’s daughter he didn’t realise  it was me. All this time my heart has  been his, and I am sorry. He tried harder  than you can possibly imagine because  he loves you. 
+MELOT	?	I will coax him out, make sure Donnchadh  knows this. 
+WICTRED	?	Of course, of course. You know as things  moved along I suspected them for some  time. 
+MERLOT	m	Tristan and Isolde? 
+WICTRED	?	You know what I could never work out?  How it was conducted. How she got in  and out of Dor unseen. 
+MERLOT	m	The tunnel. 
+WICTRED	?	What? 
+MERLOT	m	The Roman Tunnel! 
+WICTRED	?	Show me. 
+TRISTAN	m	What is this? 
+HENCHMAN	m	The will of the King. Farwell. 
+ISOLDE	f	I told him about Ireland. He’s given  us our freedom. Why does loving you  feel so wrong? 
+TRISTAN	m	Get in. 
+ISOLDE	f	Tristan, if I do this. 
+TRISTAN	m	For all time, they will say it was our  love that brought down a kingdom. Remember  us. 
+ISOLDE	f	Tristan, don’t! Tristan! Tristan! Tristan!  Why?! Tristan! 
+MARKE	m	Get the livestock and fuel undercover.  Put some archers on the ramparts. 
+GENERAL	m	All the archers have deserted us as  has half the household. 
+MARKE	m	And you stay? 
+MAN	m	If you are surprised then they have  won already. 
+GENERAL	m	Come on, hurry! 
+KING DONNCHADH	m	Burn it. Their will is as strong as  milk. The seas will unravel us. Where  is Wictred with his key? 
+MELOT	?	It comes up to the Roman foundations  at the lowest level. 
+WICTRED	?	This is a godsend! 
+WICTRED	?	What will you say to him? 
+MELOT	?	That he will not make any more mistakes  and that it is time for him to move  ba – what’s that?! 
+MAN	m	Aim for the front of the line 
+MARKE	m	They are waiting. 
+MAN	m	The Irish are inside! 
+MARKE	m	Follow me! 
+WICTRED	?	Bar the door make sure no one gets in! 
+MELOT	?	You. 
+TRISTAN	m	What happened here? 
+MELOT	?	A reward for idiocy. A dozen Irish have  blazed your way.  
+TRISTAN	m	Melot, I came to aid Marke. 
+MELOT	?	Everyone lies. 
+TRISTAN	m	I didn’t lead them here. 
+MELOT	?	No, I did. 
+TRISTAN	m	Why? 
+MELOT	?	I thought someone believed in me. 
+TRISTAN	m	It will be undone. 
+MELOT	?	Tristan—I’m for the worms—swear to me  that you are true. 
+TRISTAN	m	As we were brothers. 
+MELOT	?	Build my boat. 
+WICTREDS MAN	m	They’re here! 
+WICTRED	?	Keep them back. 
+MARKE’S MAN	m	Wictred. 
+MARKE	m	He’s trying to lower the bridge 
+MARKE’S MAN	m	Traitor! 
+MARKE	m	Give me your shield, we’re pinned down! 
+MARKE	m	Tristan! 
+MARKE’S MAN	m	Him too? 
+MARKE	m	No, he’s with us! 
+MARKE	m	Tristan! 
+MARKE	m	Tristan! How did you get here? 
+TRISTAN	m	Secret. Secrets, in the bowls of the  keep. 
+MARKE	m	In the bowls of the keep. 
+MAN	m	They have reached the palisades. 
+GENERAL	m	Then we must keep hope.       
+KING DONNCHADH	m	Get back! Ha ha ha! Ha ha ha! 
+TRISTAN	m	Behold! The head of a traitor! 
+MARKE	m	Will you always be little men, who cannot  see what was and could be again? There  is no middle ground! So slay us  or  slay him! 
+KING DONNCHADH	m	Oblidge them.  Oblidge them! 
+TRISTAN	m	Take me out of here. Take me to the  river. 
+GENERAL	m	Hurry! 
+MARKE	m	Bring her. 
+GENERAL	m	Marke, you must come, the battle needs  you. We’ll lose everything. 
+MARKE	m	I must heed their call, I am the King. 
+GENERAL	m	We’ve driven them back as far as we  can but they are holding us at the throat. 
+GENERAL	m	Goodbye my friend. 
+ISOLDE	f	Know that I love you Tristan. And wherever  you go, whatever you see, I will always  be with you. 
+TRISTAN	m	You were right. I do not know if life  is greater than death, but love was  more than either. 
+ISOLDE	f	"My face in thine eyes, thine in mine  appears, 
+

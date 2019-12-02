@@ -1,0 +1,826 @@
+CHARLES' MOTHER	f	I'm so worried for that boy.
+CHARLES' FATHER	m	Joe's gonna be okay.
+CHARLES' MOTHER	f	...she was everything to him.
+CHARLES' FATHER	m	Jack's gonna step up. He's a good man.
+CHARLES' MOTHER	f	But he was never really a father...I don't think he ever...understood Joe.
+CHARLES' FATHER	m	(maybe a little concerned
+HIMSELF)	?	Joe's gonna be okay.
+CARY	?	What do you think was in the coffin?
+MARTIN	m	Jesus, shut up.
+CARY	?	I mean cause of how she died.
+CARY	?	... you weren't wondering that?
+PRESTON	m	No, I'm eating macaroni salad.
+CHARLES	m	I was thinking that, about the coffin.
+MARTIN	m	I don't know how you guys can eat.
+CHARLES	m	Try a Goddamn turkey roll and you'll discover how. They're delicious.
+CARY	?	Either nothing was in there, or like whatever they scraped up--
+MARTIN	m	Jesus -- guys--
+PRESTON CHARLES	m	would not be eating right now. Despite the turkey rolls.
+CHARLES	m	Bet Joe's not gonna wanna do my movie anymore.
+CARY	?	Why?
+CHARLES	m	Why do you think why? The story. It's about the living dead.
+PRESTON	m	His mother's not a zombie.
+CHARLES	m	But she's dead, shithead.
+CARY	?	Those turkey rolls are pretty good.
+CHARLES	m	Told you.
+JACK	m	I'll be home soon.
+CHARLES	m	That was the longest day ever-- here.
+JOE	m	What's this?
+CHARLES	m	New scene, check it out. Let's hit the 7.
+JOE	m	(as he reads) You hear Martin barfed in the hall?
+CHARLES	m	I know, does that guy ever not barf? Keep reading.
+JOE CHARLES	m	is important.
+CHARLES	m	I think it might help make my movie better. I need two things: a better story and production value.
+JOE	m	Who's gonna play the wife, Jen?
+CHARLES	m	No way -- did I tell you what she did with my top hat?
+JOE	m	Oh yeah, that was bad.
+CARY	?	What wife?
+CHARLES	m	Alice Dainard.
+CHARLES	m	I was returning that book on codes and ciphers-- she was in the silent reading section -- I thought, "Screw it." So I asked her if she'd play Hathaway's wife.
+JOE	m	You talked to Alice Dainard really?
+CARY	?	You're not supposed to talk at all in the silent reading section--
+CHARLES	m	She said yes, we're filming tonight and she's driving.
+JOE	m	-- driving where?
+CHARLES JOE	m	she old enough? Whose car are we taking? Are you making this up?
+CHARLES	m	Jesus, Freak Show, she offered to drive and I accepted--
+CARY	?	(takes scene pages) Can I see --?
+JOE	m	-- was she nice? Why is she doing this? I don't understand, we don't even know her--
+CHARLES	m	Maybe she just wants to be in a good movie, y'ever think of that?
+JOE	m	I don't think that's what it is--
+CHARLES	m	I've been working on this movie for months. I'm just trying to make it good.
+CARY	?	(reading, disapproving) Hathaway's married now? Really?
+JOE	m	What was she reading?
+CHARLES	m	... what?
+JOE	m	In the silent reading section, what was Alice reading?
+CHARLES	m	Who gives a rat's ass what she was reading-- the festival deadline's in one week -- my movie's gotta be great!
+JACK	m	That was a good zombie murder.
+CHARLES	m	Yeah, but it's not a st-- thank you for that-- it's not a story yet.
+CHARLES	m	Older kids enter this film festival -- I'm competing with fifteen- and sixteen-year-olds, who have better stories and cars and production value, I've got nothing!
+CHARLES	m	I'm coming! There's a whole article in there about stories, you should read it, it explains everything.
+JOE	m	(looks at magazine) I don't understand how the wife makes it a story--
+JOE	m	I just can't believe you talked to Alice Dainard.
+CHARLES	m	You're impossible.
+CHARLES	m	GOD, MOM! I'M COMING!
+JOE	m	I won't forget.
+CHARLES	m	Read this.
+JEN	f	Mom, it's not fair that I can't go to Wendy's. Every single person is going except me!
+CHARLES' MOTHER	f	Then every single person can tell you how it was --
+CHARLES' FATHER	m	Move the puzzle, get the napkins.
+CHARLES' MOTHER	f	It's your turn to babysit.
+JEN	f	So...
+PEG	f	Get off that thing.
+JEN	f	Mom, why can't I switch with Charles?
+CHARLES	m	Because you crushed Charles' top hat, you ever think of that?
+JEN	f	Oh, really, guess what? We're switching.
+CHARLES	m	Guess what, no we're not.
+CHARLES' MOTHER	f	Charles take these to the table! Benji, it's time for dinner. Hey,
+JOE	m	Goodnight, Mrs. Kaznyk--
+CHARLES' MOTHER	f	Grab a seat, we have lots of food.
+JOE	m	Oh no thanks, Ma'am, I'm okay. (to Charles, loaded) "See you tomorrow."
+CHARLES	m	Later days.
+CHARLES' FATHER	m	There's always a place for you here, you know that--
+JOE	m	Oh, yessir. Thank you.
+JACK	m	Hey -- I'll be out in a minute--
+JACK	m	It's a six-week program, hands-on training with college coaches. You'll like it. I know I did.
+JOE	m	I thought I was going to have the summer for myself--
+JACK	m	Things have obviously changed for us. And it'd be good for you to spend some time with kids who don't run around with-- cameras and
+JOE	m	I gotta help Charles finish his movie.
+JACK	m	I have nothing against your friends. I like your friends.
+JACK	m	Except Cary, who can't stop lighting things on fire. You'll like it there. It's what we both need.
+JOE	m	I won't. Over.
+CHARLES	m	I sneezed so hard yesterday I shit my pants. I debated telling you.
+JOE	m	Thanks.
+PRESTON	m	That's called a "sharteeze" by the way.
+CHARLES CARY	m	talking about: the world is crazy, there's a name for everything...
+CHARLES	m	Twizzler me.
+MARTIN	m	So... people are turning into zombies because of the chemical factory, right?
+CHARLES	m	Martin? I don't see how the guy playing Detective Hathaway can ask where the zombies are coming from.
+CARY	?	Another classic from Smartin.
+MARTIN	m	I told you, I don't like it when you call me that.
+CARY	?	I'm sorry, Smartin.
+MARTIN	m	Shut up.
+GUYS--ALICE	m	Joe Lamb?!
+JOE	m	-- yeah?
+ALICE	f	What the hell's he doing here?
+CHARLES	m	Make-up, sound and special effects.
+ALICE	f	He's the deputy's kid!
+CHARLES JOE	m	-- you knew that?
+ALICE	f	Charles, I don't have a license. I can't drive with him!
+CHARLES	m	You want Joe to-- stay back? I--?
+ALICE	f	It's too late! He's seeing me in this car right now.
+JOE	m	You can trust me. My dad'll never know. I won't tell him anything.
+ALICE	f	Get in. You're driving very well. I'm impressed.
+CHARLES	m	So I wrote a couple new lines, can I show you?
+ALICE	f	What?
+MARTIN	m	New lines? Charles-- what, I have new lines?
+CHARLES	m	Shut up. There aren't a lot--
+ALICE	f	I'm sorta trying to drive--
+CHARLES	m	What would be great is: could you cry during the scene? Can you do that?
+ALICE	f	... no...?!
+ALICE	f	Stop.
+CARY	?	You know the first place I'm gonna drive when I get my license?
+JOE	m	(offering to Alice) Want one?
+CARY	?	New Castle, Pennsylvania. Fireworks capital of America.
+MARTIN	m	So I don't have any new lines, right? Because I just learned these.
+CHARLES	m	Shut up.
+PRESTON	m	I have never been a passenger in a vehicle without an adult driving. I'm unresolved as to how I feel about it.
+CHARLES	m	Guys, there's an electrical socket up here.
+MARTIN	m	Hey, Charles, Charles, do I have more lines?
+CHARLES	m	No. But you can pick up some stuff.
+CHARLES	m	Guys, this is going to be great. Get the lights and camera on that end, we'll shoot this direction first, like we talked about! Joe, get the mike plugged in-- make sure the new batteries are in the camera before you do the make-up!
+JOE	m	Okay.
+MARTIN	m	"-- Sweetheart, this is my job, I have no choice." "That's nothing you need to worry about..." "What am I suppose to go to Michigan with you..."
+MARTIN	m	No, no, no. Cary.
+CARY	?	I took apart two packs of cherry bombs and made my own M-80.
+PRESTON	m	Your obsession with fireworks -- and I'm saying this as a friend -- concerns me. And my mother.
+CARY	?	Well you're a pussy. And your mom has one.
+MARTIN	m	Bogus, Cary.
+CHARLES	m	Martin, I have a new line for you.
+JOE	m	You mind?
+ALICE	f	My dad works at the mill.
+JOE	m	Close you eyes. Please.
+CHARLES	m	Alice: Mrs. Hathaway really doesn't want her husband to keep investiga--
+ALICE	f	I know, we read it, we get it.
+CHARLES	m	Okay, I'm just directing. Martin get on your mark. Martin, you're going to have to reassure her. Do you know what "reassure her" means?
+MARTIN	m	Yeah, I think so.
+CHARLES	m	Okay-- we're starting on Alice's side first-- Preston: a couple seconds after "action" walk to the pay phone, make it look like this place is busy--
+PRESTON	m	I know what that looks like.
+CHARLES	m	Asshole, could you stop blowing shit up for two seconds and deal with the camera?
+CARY	?	Sorry man.
+CHARLES	m	Let's rehearse this -- save your real performances for when we're filming, though.
+CHARLES	m	Ready? Here we go... action!
+DETECTIVE HATHAWAY	m	I'm going to stay here and investigate. I think it would be safer if you leave town.
+DETECTIVE HATHAWAY	m	What am I supposed to do, go to Michigan with you?
+DETECTIVE HATHAWAY	m	Sweetheart. This is my job.
+DETECTIVE HATHAWAY	m	I have no choice-- I just love you so much.
+DETECTIVE HATHAWAY	m	... I... I love you too...
+ALICE	f	Was that okay? Or... not really?
+CHARLES	m	-- uh, that was... I'm... that-- yeah, good. Just like that.
+CHARLES	m	PRODUCTION VALUE!!! Is there film in the camera?!
+CARY	?	-- I didn't put it in--
+CHARLES	m	PUT IT IN!!! PUT IT IN!!! Joe, get the mike ready. Go, go, Preston, get in position. Costume, costume. Martin, get that tripod set up. Joe, help her with her costume. Hurry, hurry! Go! I hope we don't miss the train. Preston, get in position! Martin, you know you lines, right?! IS THE FILM IN THE
+ALICE	f	I love how calm he is.
+JOE	m	Yeah, he's a very relaxed guy.
+CHARLES	m	Everyone ready...?! Be extra loud when the train passes by! Oh God, I hope it stops! You ready?!
+CHARLES	m	And... ACTION!
+DETECTIVE HATHAWAY	m	I'm going to stay here and investigate. I think it would be safer if you left town for a couple of days.
+DETECTIVE HATHAWAY	m	What am I supposed to do, go to Michigan with you?
+DETECTIVE HATHAWAY	m	Sweetheart. This is my job.
+DETECTIVE HATHAWAY	m	I HAVE NO CHOICE!!! I just love you so much.
+DETECTIVE HATHAWAY	m	I love you too!!
+JOE	m	Run!
+JOE	m	Alice!
+CHARLES	m	Joe, we have to go.
+CHARLES	m	I DON'T WANT TO DIE!!!
+JOE	m	Martin, are you okay?! Preston, is that you?
+PRESTON	m	I'm okay! Though I think I'm having a heart attack! And I have a scrape!
+CARY	?	Guys, did you see those explosions? That was awesome.
+JOE	m	Has anyone seen Alice?!
+ALICE	f	What's the blood? -- did someone get hurt--?
+JOE	m	It's my fake blood. It's fake!
+CHARLES	m	What is this stuff?
+PRESTON	m	Guys, what are these things?
+MARTIN	m	Hey, don't touch it, what are you doing?
+CHARLES	m	They look like white Rubik's cubes or something. They're heavy like metal or something. There's like a billion of them.
+CARY	?	Guys, get up here. You can see everything from up here.
+PRESTON	m	According to my Uncle Seth, an accident like this is exceptionally rare.
+JOE	m	It wasn't an accident. (turns away, eyes on the
+FIELD)	?	There was a truck. On the tracks.
+CHARLES	m	What? Driving on the tracks?
+JOE	m	There.
+MARTIN	m	How can a pick-up truck derail a train? That's impossible.
+PRESTON	m	Obviously it isn't.
+CARY	?	... holy shit...
+CHARLES	m	-- is that him?
+ALICE	f	(covers her mouth)) -- yeah, it's him--
+MARTIN	m	-- who?
+MARTIN	m	What? Who is that?
+ALICE	f	Dr. Woodward...?
+MARTIN	m	That's Dr. Woodward? The science guy?
+PRESTON	m	Biology.
+CARY	?	Honors biology.
+MARTIN	m	Wow... I'm not in his class.
+CARY	?	We know.
+MARTIN	m	Shut up, Cary.
+CHARLES	m	Remember when Old Man Woodward took your Electronic Football?
+CARY	?	Yeah, he put it in the "dungeon," never gave it back...
+MARTIN	m	The dungeon?
+PRESTON	m	That trailer Woodward keeps in the school parking lot.
+ALICE	f	... Dr. Woodward?
+JOE	m	It's a schedule for the train.
+CHARLES	m	Dr. Woodward! It's Charles Kaznyk! From fourth period! You've been in an accident!
+JOE	m	-- guys, look --
+ALICE	f	-- we shouldn't be here--
+ALICE	f	MOVE YOUR ASS, WE GOTTA GO!!!
+JOE	m	GET IN THE CAR!!!
+CHARLES PRESTON	m	physical gun!
+PRESTON	m	My heart is pounding! That train could of killed us.
+JOE	m	Are you okay?
+CHARLES	m	Oh shit, all the glass just fell out!
+MARTIN	m	I HAVE NEVER HAD A TEACHER AIM A
+ALICE	f	It's hard enough to drive without everyone yelling!
+JOE	m	Guys, keep it down!
+MARTIN	m	I'm never taking a train again.
+PRESTON	m	"You'll die, your parents will die," guys, that is not good information.
+CHARLES	m	Great, the focus ring just fell off!
+CARY	?	No one cares about your CAMERA!
+MARTIN	m	Am I the only one shaking?! I'm also crying --
+ALICE	f	We can't tell anyone we were there - - we can't say a thing about it -- my dad cannot find out I took his car, do you guys hear me?!
+JOE	m	It's okay-- no one's saying anything. None of us. (to his friends) Guys -- we're not gonna say anything -- are we?!
+JOE	m	See? No one's gonna know.
+ALICE	f	Joe, this is yours.
+JOE	m	-- oh, thanks,
+ALICE	f	I should never have done this.
+JEN	f	Mom, come on!
+CHARLES' MOTHER	f	No. You're not wearing that. No one in this house is wearing that.
+JEN	f	Compared to Debbie's these are long.
+CHARLES' FATHER	m	Just listen to your mother.
+JEN	f	I can't wear these or go to Wendy's party? This is not fair.
+CHARLES' MOTHER	f	Jennifer Anne, not fair is Africa.
+JEN	f	Mom's racist.
+PEG	f	Are there anymore English muffins?
+CHARLES' MOTHER	f	I don't know, go check.
+CHARLES' FATHER	m	Peg, tell the twins to stop.
+PEG	f	They don't listen to me.
+CHARLES' FATHER	m	Hi, Joe.
+JOE	m	Morning, Mr. Kaznyk--
+CHARLES' MOTHER	f	Hi, Joe. Did you hear about the train accident?
+JOE	m	Uh... no.
+CHARLES' MOTHER	f	It's on the news.
+CHARLES	m	Can you believe this?
+JOE	m	No.
+CHARLES	m	It's on the news. That means it's real.
+JOE	m	... Looks like a disaster movie, doesn't it...?
+CHARLES	m	... oh my God, Joe... that's
+JOE	m	-- what?
+CHARLES	m	We can use this -- we can film it --
+JOE	m	(starts to smile) -- you wanna go back?!
+CHARLES JOE	m	(turns to him) --okay--
+CHARLES	m	If any of the footage from last night is usable, that means we need Alice to play the wife again.
+JOE	m	Yeah, I thought she was good.
+CHARLES	m	She was mint, but she's never gonna do it.
+JOE	m	I think she will.
+CHARLES	m	There's no way. You heard what she said.
+JOE	m	But that was before the new pages, right?
+CHARLES	m	You honestly think she cares about the scenes?
+CHARLES	m	Man, did you hear what she said last night? "I never should have done this!" Dude, she was totally wigged!
+JOE	m	Yes, she was, we all were.
+CHARLES	m	Did you see her face?
+JOE	m	Yeah, I saw her face.
+CHARLES	m	Man, what's wrong with you?
+JOE	m	Nothing. I think she's going to do it.
+CHARLES	m	Lens is cracked. Focus ring broke. Ya think it's fixable?
+DONNY	m	I think it's cheaper to buy a new one.
+CHARLES	m	We're screwed, man, it's over!
+JOE	m	Alice-- hi, it's Joe. Lamb.
+JOE	m	So we have some new scenes. For the movie. We were hoping you'd be in `em.
+JOE	m	Really? `Cause these are really good scenes.
+CHARLES	m	We need this developed as soon as possible -- can you do overnight?
+DONNY	m	Asshole, no one can do overnight. You wanna buy some pot?
+CHARLES	m	... no, thank you.
+DONNY	m	You guys are weak.
+JOE	m	Yeah, I know, I saw it. Are you okay?
+CHARLES	m	Well, what's the fastest you can do?
+DONNY	m	I can make it a rush, you get the film back in three days-- what's your sister up to? The hot one, not the other one.
+CHARLES	m	I don't know.
+ALICE	f	I don't care what Charles wants-- I said no on the phone.
+JOE	m	You totally did, that's true, I know, but--
+ALICE	f	And now you're at my house.
+JOE	m	I am, which-- under normal conditions I would nev--
+ALICE	f	It's too weird after last night-- I don't understand how you guys can keep working on your stupid movie, I really don't.
+JOE	m	We have to-- while the crash is still there. (waits, anxious, then,
+VERY SOFTLY:)	f	... please...?
+ALICE	f	(she considers, then:) No.
+ALICE	f	You should go.
+LOUIS	m	What's this?
+ALICE	f	He was just inviting me to a party.
+LOUIS	m	She's not going to your party.
+JOE	m	Yessir.
+LOUIS	m	You know better than this.
+LOUIS	m	You get outta her. You go home and don't come back, I don't wanna see you.
+ALIE	f	I'll do it.
+JOE	m	-- what?
+CHARLES	m	CUT! That was mint! So good! And it looked huge with the train! Wow! Joe: go reload the cap gun!
+CHARLES	m	We'll get the other direction next - - Alice, that was mint-- Martin, go a little faster next time.
+MARTIN	m	I'll try, but I'm still crying about last night, I feel like I'm crazy.
+CARY	?	Did it really look good? My death?
+ALICE	f	... what do you think happened...?
+JOE	m	You mean why he crashed the train?
+ALICE	f	I just got a horrible feeling.
+MARTIN	m	Anyone else still shaking from the crash?
+PRESTON	m	I got in my parents' bed last night. Haven't done that since I was eleven.
+PRESTON	m	... did I just insult him?
+CHARLES	m	-- dude, what are you doing?
+JOE	m	That whole thing's an Air Force train.
+ALICE	f	-- what?
+JOE	m	I make models-- plastic ones-- you know, glue `em, paint `em--
+PRESTON	m	And he's not embarrassed by that.
+CARY	?	Looks who's talking, Math Camp.
+CHARLES	m	Thanks, could I have a coffee, please? Cream on the side?
+WAITRESS	?	(really?) Sure.
+CARY	?	He is so sophisticated.
+ALICE	f	Keep going.
+JOE	m	Air Force trains -- even models -- have these hooks...
+PRESTON	m	Ooo! Ooo ooo ooo! They do -- for when their train cars are put on transport ships.
+JOE	m	Every car in that crash had hooks, every one...
+CHARLES	m	Joe: stop talking about it.
+MARTIN	m	Am I the only one who doesn't understand what this all means?
+CARY	?	Probably, Smartin.
+MARTIN	m	Shut up, I don't like that--
+CHARLES	m	Please shut up, all of you.
+CARY	?	I say he was just sick of being old and wanted to kill himself.
+JOE	m	He had a gun, why not use that?
+PRESTON	m	There are infinitely more effective ways to commit suicide: pills,
+PRESTON	m	You could jump from a building.
+MARTIN	m	Fall down stairs.
+PRESTON	m	Well, that's not really effective.
+ALICE	f	So, if it's Air Force, what would the Air Force have on a train?
+CHARLES	m	SHHHHJESUS! You heard what the Old Man said, we can't talk about this! (to waitress, with coffee) -- thank you, very much.
+PRESTON	m	Drowning, hari kari, also known as seppuku--?
+CARY	?	Excuse me, could we please get another order of fries because my friend here is fat?
+CHARLES	m	Funny, Chompers, at least I don't use a booster seat.
+MARTIN	m	What was your teacher even talking about? Who are we supposed to be afraid of anyway?
+CHARLES	m	I don't wanna find out -- guys, we gotta forget we were there. Joe, seriously... you really wanna take a chance that something could happen to your dad, too?
+NELEC	?	Yes, I understand, this crash has caused a whole mess of confusion.
+JACK	m	As you can expect, the local authorities are trying to figure out just what happened here as well as how to help you out.
+NELEC	?	It's under control. It'll be a very fast clean-up.
+JACK	m	Colonel, there isn't anything I should know, is there?
+NELEC	?	Not that I can think of, Deputy. I understand you have concerns about our cargo.
+JACK	m	I'd like to see that manifest, yes.
+NELEC	?	That's not going to be possible.
+JACK	m	Colonel, I've got a lot of people in my town that are gonna want to know what's taking place.
+NELEC	?	-- what town is that?
+JACK	m	... Lillian.
+NELEC	?	Deputy, if you're asking me if we had any dangerous property on board this train, I can assure you the answer's no.
+OVERMYER	?	Colonel.
+NELEC	?	Excuse me.
+JACK	m	They gave me the run around for two hours before I was allowed to talk to anyone.
+PRUITT	m	I'd say they have their hands full, wouldn't you?
+JACK	m	Nelec -- the Colonel -- refused to show me their manifest, said they were carrying mostly airplane parts-
+PRUITT	m	It's Air Force, Jack. Airplane parts sorta make sense.
+JACK	m	Sheriff, I'm telling you, there's something else going on -- they're taking molds of tire tracks -- now why would they be doing that? Who are they looking for? And they're packing these weird little cubes into crates and they're--
+PRUITT	m	Weird little cubes?
+JACK	m	--yeah, into these red trucks, dozens of these trucks -- and I'm telling you, they're scrambling to get the hell outta there--
+PRUITT	m	I'd say that's a good thing, wouldn't you?
+JACK	m	Sheriff, I think you need to go check it out.
+PRESTON	m	And I think you need a break. Jack, I've been telling you this since Elizabeth.
+PRESTON	m	You're a good deputy. But you need to take a vacation. Go home. Take off your uniform. Go fishing. And give your son a hug.
+SHERIFF PRUITT	m	Hey Breen, I'm not sure Edie's paying you to listen to the radio.
+BREEN	m	Hey, Sheriff.
+SHERIFF PRUITT	m	What's that?
+BREEN	m	Walkman. It's like a stereo, play your own cassette tapes. You wanna try it?
+SHERIFF PRUITT	m	(pays for the candy bars) I don't think so. Kids walking around with their own stereos. Just what we need. It's a slippery slope.
+BREEN	m	... yessir.
+ALICE	f	Where'd you learn how to do this?
+JOE	m	Mostly the Dick Smith Monster Make- up Handbook.
+CHARLES	m	Hey! So I'm gonna need more shots of the train crash, obviously-- you know that train model you made? Can we blow it up and film it?
+JOE	m	... sure.
+JOE	m	I don't care, they can blow it up. I can show you the train, it's nothing, it's stupid.
+JOE	m	You wanna see it? Later? The... train? My train model? The train I made?
+ALICE	f	So how am I supposed to be a zombie?
+JOE	m	Oh. Just be a lifeless ghoul. Someone with no soul, dead eyes. Scary. D'you ever have Mrs. Mullin?
+ALICE	f	For English? Yeah--
+JOE	m	-- like her. But hungry, like hungry for human flesh. To make them turn into zombies, because that's what zombies do.
+JOE	m	Oh my God. That's really good...
+JOE	m	... not bad.
+EDIE	?	-- Careful, there was a gas spill. I don't even know how much fuel I've lost.
+EDIE	?	-- Give this man some time, Mr. Blakely.
+EDIE	?	Remember when I said you talk too much? Well, this is the time.
+JACK	m	Vicky, ya heard from Sheriff Pruitt this morning?
+JACK	m	Vicky, I need you to have Dayton send a CS unit out to Edie's. You put out an APB on the Sheriff and Breen Haskell -- send units to their houses immediately. You copy all of that?
+JACK	m	... what kind of unusual calls...?
+IZZY	?	Never seen this kinda thing before.
+IZZY	?	What the hell am I supposed to do? Insurance company thought I was joking with him. Look at my Bonneville here-- look at this. I got a call about this car yesterday. What am I going to tell the customer?
+JACK	m	Having trouble with anyone lately, Izzy?
+IZZY	?	I was thinking, you should talk to Louis Dainard. I didn't help him out with financing last year, wouldn't be surprised if this was-- some sorta sick retribution.
+RESIDENTS JACK	m	you, I'll handle it myself.
+JOE	m	Lucy. Lucy. Lucy!
+JOE	m	Lucy! ... Lucy!
+OFFICER MIKE	m	We need more help around here.
+OFFICER GORDON	m	We've got four men on the Pruitt case alone. We've called into Dayton, they'll be out in the
+MORNING----JACK	?	That's not enough. People don't feel safe here -- and you know why? `Cause they're not--
+JACK	m	-- the Air Force isn't answering a damn question: they've got trucks at Woodward's house, looking for
+OFFICER	m	They've got trucks all over town.
+OFFICER JAY	m	I saw a guy riding shotgun in one of those trucks -- had some kind of scanner in his hand --
+DEPUTY TALLY	m	--like a Geiger counter or
+JACK	m	I know. They're saying it's just clean-up at the train crash, but they're taking molds of tire tracks. Which means they're looking for someone-- now what's that about?
+JOE	m	-- have you... seen Lucy?
+JACK	m	I'm sure she's around. I put a couple of slices in the fridge for you there.
+DEPUTY TALLY	m	-- oh-- I ate those. Sorry, Kid--
+JOE	m	That's... okay, I'll find a--
+JACK	m	Vicky, you got power at the station?
+JACK	m	Get water and power out there now.
+JOE	m	So the Air Force is looking for a car -- Alice's dad's car -- they're taking tire prints from the crash site. Over.
+CHARLES	m	I don't wanna hear about it. They could be monitoring us right now! Jesus, shut up. Over!
+JOE	m	And the military's at Woodward's house. Looking for his research. Whatever that means?
+CHARLES	m	Joe -- YOU CAN NOT FLAKE OUT ON ME AND BE A DICK! Are you gonna come help me tomorrow or not? I need you to make Alice a zombie again.
+JOE	m	Okay... I'll do the make-up. Over.
+ROONEY	m	This is Rooney at Mary-10, was there re-routing on this line?
+ROONEY	m	... yeah, `cause there's no overhead lines on these poles.
+ROONEY	m	No power, no comm cables. Stand by.
+ROONEY	m	We got over a half mile of copper missing.
+ROONEY	m	Lines are back up at M-38.
+JACK	m	Mrs. Babbit, I don't believe the Russians have anything to do with what's happening in town-- but I'm calling the curfew because w--
+JACK	m	We have good people working on that. Mr. McCandless.
+JACK	m	Mr. McCandless, can I speak with you for a moment, privately?
+WOMAN	f	Jack, all the tools in the garage are gone.
+JACK	m	Patty, get in touch with Vicky. David, have you seen Milner?
+DAVID	m	No, sir, I haven't seen him.
+MAN	m	There's a sink hole in my garage. It almost sank a foot.
+JACK	m	Hey Tom. Tom, have you seen Milner?
+TOM	m	Have you tried his office?
+JACK	m	Check his office.
+MAN	m	The powers been out for days
+JACK	m	--Rosko, I need you to get every radio we have and you tune to these frequencies -- understand?
+ROSKO	m	No. What?
+JACK	m	Hey Danny, you have a radio scanner with a descrambler don't you?
+DANNY	m	Voice inverter, yeah.
+JACK	m	Whatever, get it down and set it up for me.
+ROSKO	m	What is this?
+JACK	m	I think the Air Force is using
+LOUIS	m	Hey -- he was at my house yesterday morning, are you aware of that?
+OFFICER ROSKO	m	(quiet to Jack) We brought him in about the car lot and other things -- he's clean.
+LOUIS	m	I'd appreciate it if you would inform your son that my house if off-limits. And so it my daughter.
+JOE	m	Oh gawd, I didn't clean up.
+ALICE	f	-- you made all these?
+JOE	m	Yeah, that's the Hunchback of Notre Dame. I watched that one on TV.
+JOE	m	This is the train they wanna destroy.
+ALICE	f	... it looks real. (beat, studies) It looks so old...
+JOE	m	That's dry brush technique. (off her look) After you've painted the base color, you take something like... (grabs up Testors bottle) Euro Gray.
+ALICE	f	Euro Gray...
+JOE	m	There are so many different grays, it's crazy. And you pour a little onto like a paper plate. Then you take a dry brush and you just dip it in, then you brush on the paper, so the paint's barely on the brush. Then you make small brush strokes on the model. Little ones, like where the wear and tear would be. Around the wheels. Or where the doors would slide. Then you do it again, like with Camouflage Gray-- or here, I used Insignia Red to make it look like there was another coat of paint on there before. Like they painted over it, but you could see it scratched off.
+ALICE	f	What was that necklace? (off his awkward stare) The one you were holding at the train crash. Was it your mom's?
+JOE	m	My dad gave it to her the day I was born. She wears it all the time. Used to. It was bad, how she-- died and stuff, but they got the necklace back. So.
+CHARLES	m	Guys, what the hell?! No one knew where you were.
+JOE	m	We're sitting right here.
+CHARLES	m	You gotta be the soldier.
+JOE	m	I thought you were calling Evan.
+CHARLES	m	Evan blew us off, he's a pussy. Excuse me.
+ALICE	f	It's okay.
+CHARLES	m	You gotta do it. You're the only one.
+JACK	m	The hell do you mean you "found my dog in Brookville?" That's a
+DIFFERENT COUNTY--OFFICER TALLY	m	Lucy-- that's where she is. We've gotten nearly thirty calls from people who have found local dogs. Thing is, the calls coming in aren't local.
+YOUNG WOMAN	f	It's not her. She never's disappeared before.
+OFFICER ROSKO	m	Alright. Now what does she look like?
+YOUNG WOMAN	f	She's got dark hair, it was in rollers. Do you know what rollers are?
+OFFICER ROSKO	m	Yes, I know what rollers are.
+YOUNG WOMAN	f	She went to her car--
+ROSKO	m	What's he say? Operation what?
+JACK	m	Walking Distance.
+DETECTIVE HATHAWAY	m	I came as soon as I could, what's happening here?
+OFFICER JOE	m	Military police investigation. It was a suicide.
+DETECTIVE HATHAWAY	m	Suicide? Who was it?
+OFFICER JOE	m	A former Air Force officer. He called me last night, said he had a secret that he couldn't keep any longer.
+DETECTIVE HATHAWAY	m	What's this?
+OFFICER JOE	m	He worked at Romero Chemical. He found out some things the company's been doing. After what you told me at the bar, I thought you should know.
+CARY	?	Are we gonna get in trouble here--?
+CHARLES	m	Shhhh! Production value! It's for the movie!
+DETECTIVE HATHAWAY	m	This proves it. They knew, the company knew. Thank you so much for the information.
+OFFICER JOE	m	We just made the discovery ourselves. You understand this is top secret.
+DETECTIVE HATHAWAY	m	Of course.
+OFFICER JOE	m	I would never have given you this information if you and I hadn't served together in Vietnam.
+OVERMYER	?	Nothing so far--
+NELEC	?	How much more is there?
+OVERMYER	?	Sixty boxes in the basement, maybe more.
+NELEC	?	What, more tax returns?
+OVERMYER	?	It's here somewhere. If we can't find it, Woodward'll tell us where it is.
+NELEC	?	... the hell's that?
+OVERMYER	?	... looks like kids making a movie...
+CHARLES	m	Joe. Hey, Mr. Lamb!
+JACK	m	Get in the car.
+CHARLES	m	Uh-- Mr. Lamb? That's your camera, but technically, that's my film--
+NELEC	?	I would like to help you out deputy. I really would. But we operate on a need to know basis.
+JACK	m	Why are your trucks sweeping the town?
+NELEC	?	We'll be out of your way shortly.
+JACK	m	Then I'm sure you wouldn't mind me contacting DC. Talk to some friends about "Walking Distance."
+JACK	m	All right. We'll do it that way.
+NELEC	?	Deputy. Let's talk. Just not here.
+JACK	m	This is new. All this. For the both of us. Dealing with-- all this, just us. So I'm going to make this as clear and simple as I can: You're not friends with Alice Dainard. When I say no, I don't mean maybe. I don't mean yes. I mean no. I've known Louis Dainard for alotta years-- he's been nothing but trouble. Your mother used to say he's not a bad guy, he just needs a chance, he's just sad - - well I tried to be good to him, but I can't. Not anymore. I will not allow him or his daughter in this house. I will not allow you spending time with her, doing projects or whatever it is that you're doing. THAT'S IT. I hope we're clear.
+JOE	m	We're not clear.
+JACK	m	What'd you say?
+JOE	m	We're not clear. You and I aren't clear about anything. We couldn't be less clear.
+JACK	m	Joseph Francis Lamb--
+JOE	m	Just `cause mom died doesn't mean you know anything about me!!! You don't. You don't know about Alice either -- she's kind!
+JACK	m	I'm not having this discussion with you--!
+JOE	m	She's NICE to me!
+JACK	m	I don't care what she is! Her father is a selfish, irresponsible son-of-a-bitch!
+JACK	m	You listen to me, I've got twelve thousand people in this town that are scared out of their minds-- they've got one person they can rely on -- it used to be someone else, but now it's just me.
+JACK	m	Hello--?
+JACK	m	--I'm here to see Colonel Nelec. He told me to meet him here.
+JACK	m	WHERE'S NELEC?
+NELEC	?	I don't want any more trouble. Do you?
+NELEC	?	We've been going through your belongings, looking for evidence. Of what you knew, how you knew it... and who else might know. I remember you. In the lab. And I recall we didn't see eye to eye, but that's no excuse for doing what you did here.
+NELEC	?	So in the spirit of moving forward and avoiding more trouble, tell us where you put your research. I know you had someone document the crash that night. Tell me who that was and I'll help you, I swear to God. On my mother's life -- if you help us now, we will take care of you.
+NELEC	?	--I'm going to bait him. I'm going to catch him.
+ALIE	f	-- are you-- were you sleeping?
+JOE	m	Before, earlier, b-- no, you okay?
+ALICE	f	Yeah.
+JOE	m	Oh, you wanna come in?
+ALICE	f	Power's still out.
+JOE	m	Room's still messy.
+ALICE	f	I was in bed, couldn't sleep. Thinking. I wanted to tell you something, before tomorrow -- Don't let Charles blow up your train.
+ALICE	f	I don't think it's right, do you? I know he's your friend, but he's so
+JOE	m	He can be sorta li-- I've known him since Kindergarten, though--
+ALICE	f	He shouldn't always get what he wants. I mean, who always gets what they want? -- I know I don't know you at all. Even though... it sort of feels like I do. Do you not... feel like that?
+JOE	m	-- no, I totally do, I'm just... sort of in shock at this whole
+ALICE	f	-- no, keep it-- please --
+ALICE	f	... is that her?
+JOE	m	... yeah...
+JOE	m	... it's so weird watching her like this, like she's still here... (beat, lost in it) ... she used to look at me, this way... like really look. And I just... knew I was there. That I existed.
+ALICE	f	He drank that morning. My dad. He missed his shift. (beat, hard) Your mom took it for him. The day of the accident.
+ALICE	f	... I know he wishes it was him. Instead of her. ... and sometimes I wish it was, too.
+JOE	m	Don't say that. He's your dad.
+LOUIS	m	You wanna tell me where you were? Or you want me to tell you.
+LOUIS	m	Sit down.
+ALICE	f	I should go to bed.
+LOUIS	m	I wanna talk to you. I said sit down.
+ALICE	f	I don't want to sit down.
+LOUIS	m	Then go. Be just like your mother and leave.
+LOUIS	m	GO AHEAD, GO!
+LOUIS	m	ALICE!!! WAIT!!!
+LOUIS	m	ALICE!!! I'M SORRY!!!
+LOUIS	m	-- ALICE, NO!!!!! NO!!!!!!!
+LOUIS	m	ALICE!!!
+VOICE	m	Firelight is 0500 hours. Operation Walking Distance is in effect. T- minus four hours until evacuation. Evacuation is T-minus four hours.
+JOE	m	That thing went through my wall.
+CHARLES	m	I told you not to pick it up in the first place.
+JOE	m	What are you so angry about? That I'm not going to let you blow up my train?
+CHARLES	m	That's part of it! Juts a part!
+DONNY	m	Tall your sister Donny from Olsen's broke up with Karen, that shit ended a week ago.
+JOE	m	What's your problem?
+CHARLES	m	My whole movie's a disaster `cause of you!
+JOE	m	I know, my dad's being a turkey.
+CHARLES	m	Whatever.
+JOE	m	We're still gonna finish your movie!
+CHARLES	m	It's not about the movie.
+JOE	m	What are you talking about? Of course it is.
+CHARLES	m	Just forget it.
+JOE	m	Why?
+CHARLES	m	There's nothing wrong--
+JOE	m	I'll get the camera back, I know where my dad put it -- We can still make the festival.
+CHARLES	m	It's not about the movie.
+JOE	m	Then what is it about?
+CHARLES	m	Jesus, you don't even get it do you? It's obvious.
+JOE	m	What's obvious?
+CHARLES	m	Gawd, you're a dumb ass.
+CHARLES	m	That night of the crash, you started getting all weird.
+JOE	m	-- what?
+CHARLES	m	Like Mr. Attitude all of a sudden.
+JOE	m	Your movie was over! That's what you said! You were upset. I gave you a camera! I helped you!
+CHARLES	m	Don't pretend like you did it for me! You didn't do it for me and you know it!
+JOE	m	What's your problem?
+CHARLES	m	It was never about me! It was always about Alice!
+DETECTIVE HATHAWAY	m	What am I supposed to do, go to Michigan with you?
+JOE	m	Well, you're the one who wanted the wife in the movie!
+CHARLES	m	Not so you could fall in love with her!
+JOE	m	What do you even care what I think about Alice?!
+CHARLES	m	Because I like her! That's why! That's why I asked her in the first place! So I could get to know her, not YOU!
+JOE	m	-- wait, you like Alice Dainard?
+CHARLES	m	You're such an idiot.
+JOE	m	(from Charles' movie) Guys, look out!
+CHARLES	m	SHIT! Look at all that smoke! We can't use any of this. And you won't even let me blow up your train. Everything's bogus.
+JOE	m	We can make another train and blow that one up.
+JOE	m	I do like her. Sorry about that.
+CJAR	?	Shut up. It's okay. That's not even what bothers me. (beat, finally, sad) It's that she likes you too. That really bothers me. I dunno...
+JOE	m	... Charles...
+CHARLES	m	I know it's stupid. What would she ever like me? I haven't leaned out yet, which the doctor says is gonna
+CHARLES	m	-- Joe, what the hell--?!
+JOE	m	Mr. Harkin. What's going on?
+CHARLES' MOTHER	f	Charles, Charles -- sweetheart, are you okay? I went back to the house and you were gone.
+CHARLES	m	They made us get on the bus.
+CHARLES' MOTHER	f	Hi, Joe.
+JOE	m	Hi. I'm gonna find my dad.
+CHARLES	m	You gonna tell him about that thing?
+JOE	m	Yeah.
+CHARLES' MOTHER	f	Come back if you can't find him.
+JOE	m	Mr. Dainard, it's Joe Lamb. I know you don't like me sir, and I'm sorry about that-- but I'm looking for my dad--
+LOUIS	m	It took her.
+JOE	m	(long beat, sotto) ... what?
+LOUIS	m	It took her. I saw it. It was... something... so... big, like nothing -- it was-- and no one... no one believes me... ... no one believes me-- they just keep giving me pills. It took her... Joe, it took Alice... no one believes me.
+JOE	m	... I believe you.
+JOE	m	Guys, WE HAVE TO GO BACK.
+JOE	m	Back to town -- to find Alice -- we have to find her--
+PRESTON	m	Wait a minute -- first of all, I want to live. Okay?
+JOE	m	I'm going whether you come or not-- which I really hope you do.
+CARY	?	(pats his backpack) I've got six tons of explosives in here, let's find that thing and blow it to shit.
+JEN	f	As if I'm gonna help you.
+CHARLES	m	Do this for me and I'll babysit the twins next week so you can go to Wendy's stupid party.
+CHARLES	m	I am not shitting you. You can't ask me any questions though. You can't tell anyone. I'm serious. No one.
+JEN	f	... does it have to be him?
+CHARLES	m	Yes or no, you ugly freak. I'm about to rescind the offer.
+JEN	f	This whole evacuation thing's freaking me out. Making me rethink my priorities. Saw you over here and thought maybe we could kick back.
+DONNY	m	-- we totally could.
+JEN	f	I asked Charles about you, and he said you're a great guy--
+DONNY	m	I totally am.
+JEN	f	Will you hate me if I start our relationship by asking a favor?
+DONNY	m	So there are rules to being in my car, okay?
+CARY	?	Where the hell are we going anyway?
+JOE	m	We're going to the school to open the trailer Woodward had in the parking lot. I bet that's where he keeps his research.
+CARY	?	What research?
+JOE	m	We're gonna learn everything we can about that thing so we can find it. And that's how we're gonna save Alice.
+DONNY	m	Dorks: no shoes on the upholstery and no one touches the CB, gottit?
+CHARLES	m	You think Woodward's got information about that thing in the dungeon?
+JOE	m	Why else are there padlocks on the door? We're going to the school.
+DONNY	m	When did this one get so bossy?
+JACK	m	Hey! I gotta take a leak! What am I supposed to do, piss in here?!
+JACK	m	Thanks for the hospitality.
+JACK	m	So am I going in alone or are y--?
+MARTIN	m	Well, so guys, if the Air Force has already searches Woodward's house, wouldn't they've already searched the classroom too?
+CARY	?	Hay Donny, this car is gnarly.
+CHARLES	m	I was thinking about that too.
+JOE	m	Maybe the classroom, but not the dungeon.
+CHARLES	m	Yeah, Woodward has all kinds of weird stuff in the dungeon.
+MARTIN	m	Where's the dungeon?
+DONNY	m	Shut up. What kind of music does she like? Your sister.
+CHARLES	m	I don't care. Disco I guess?
+DONNY	m	I could get back into disco.
+JOE	m	We shouldn't take River Road, they had a roadblock.
+DONNY	m	Dork. I saw it. Observe.
+DONNY	m	So what, I wait here like a douche?
+JOE	m	Yes. Thank you very much. Do you have a tire iron?
+CHARLES	m	Joe, let me try -- let me try.
+CHARLES	m	Joe, this is impossible, man.
+CHARLES	m	--I loosened it for you.
+CHARLES	m	I cannot believe we're breaking into school, who does that? No one does that-- idiots do that--
+JOE	m	Dr. Woodward was dishonorably discharged from Nellis Air Base in 1963 because of "subversive conduct," whatever that is.
+MARIN	m	Dude, check it out. Old Man Woodward.
+CHARLES	m	Back when he was like Middle-Aged Man Woodward.
+MARTIN	m	-- He's been tracking this thing since like 1958.
+JOE	m	(to the movie) What is this?
+CHARLES	m	I don't know. It says April 8th, 1963 incident. I dunno.
+JOE	m	Cary, we got to find this thing.
+CARY	?	Sorry.
+CARY	?	Guys, it's Dr. Woodward. Look.
+JOE	m	Woodward wasn't trying to kill it.
+CHARLES	m	He was trying to help it escape.
+MARTIN	m	Did you hear that?
+CHARLES	m	-- oh shit!
+NELEC	?	Search them.
+CARY	?	I rolled those M-80's myself, that's right.
+NELEC	?	(eyes flick to Joe) You're the Deputy's boy.
+JOE	m	-- hey, no--
+NELEC	?	Move out.
+DONNY	m	... oh shit...
+DONNY	m	Breaker breaker, requesting police backup, over?! Breaker breaker, is this the police channel?
+SOLDIER	m	Staff Sergeant.
+JACK	m	Hi, how are you doing?
+YOUNG KID	m	Hi, Mr. Lamb.
+JACK	m	Shhhh.
+JACK	m	Rosko!
+OFFICER ROSKO	m	Where the hell you been? What are
+YOU WEARING--JACK	m	--come here. The Air Force set that fire, they want the town empty for some reason. The whole military operation, the evacuation, everything is all bad.
+OFFICER ROSKO	m	Did you hear about Joe? Dispatch just got a call on citizen's band: Joe and some friends were grabbed by military personnel at the middle school.
+JACK	m	Tell me everything, right now, and I won't throw you in jail.
+PRESTON	m	-- yessir -- (holds the SUPER 8 FILM) But you should look at this first. Base Fortress requests ETA.
+NEWS REPORTER	m	Chief Master Sergeant, Dustoff-03 is twenty minutes out.
+CHARLES	m	... what... what's gonna happen?
+CARY	?	I think we're gonna die.
+MARTIN	m	No. They'd never do that.
+JOE	m	-- guys-- I forced you to come with me... I'm... I'm so sorry. (looks to Charles) I'm so sorry...
+CARY	?	I think they're gonna kill us.
+CHARLES	m	Joe. They're not gonna kill us. You know why?
+JOE	m	... why--?
+DRIVER	m	-- HOLD ON. HOLD ON--!!!
+CHARLES	m	Was that the thing from the train?!
+CHARLES	m	Was that it?! Oh my God!!!
+MARTIN	m	I can't see anything -- do you see anything?
+JIE	?	-- not yet --!
+DRIVER	m	-- Sir, I gotta pull over!
+CHARLES	m	Oh my God, guys --
+CHARLES	m	What's that gun --?
+CARY	?	Charles, what are you doing?
+CHARLES	m	I don't feel good about this --
+CARY	?	-- oh God -- guys --
+NELEC	?	Here. Tag it.
+OVERMYER	?	Yessir.
+NELEC	?	Open the door.
+OVERMYER	?	Is there anywhere in particul--
+NELEC	?	GET US OUT OF HERE, NOW! NOW!!! What kind of firepower do we have?
+JOE	m	Charles! Maybe you should wait!
+CHARLES	m	FOR WHAT?! ANOTHER MONSTER?!?!
+JOE	m	-- you guys okay?!
+CHARLES	m	-- I wanna go home so bad --
+JOE	m	Up there, there's broken glass --
+MARTIN	m	-- here, use me, I'm strong!
+JOE	m	Lemme get on your shoulders!
+CHARLES	m	I'm strong!
+NELEC	?	This is Nelec -- use the big guns. Whatever happens to me, you take it down, you kill him --
+CHARLES	m	You can do it!
+CARY	?	Go! Joe, move!!!
+NELEC	?	-- it was my turn once... to find you. Now... it's your t--
+CHARLES	m	I just sharteezed a little.
+SOLDIER	m	You need to come with us, we have some questions for you --
+LOUIS	m	-- what, is she... Is she dead--?
+SOLDIER TWO	m	Just come with us.
+JACK	m	Hey fellas, I've got orders from Colonel Nelec to personally transport this man to base.
+SOLDIER	m	He's all yours, Staff Sergeant.
+LOUIS	m	Where're we going--?
+JACK	m	-- to find our kids.
+CARY	?	Got my fireworks back!
+CHARLES	m	(who gives a shit) Congratulations!
+MARTIN	m	They're coming, man! I think we should go!
+JOE	m	No--!!! No, look!
+DONNY	m	Ho ho!!! You dorks are alive! I didn't know...! (finally sees the bus) ... what the FUCK?!
+JOE	m	We need to get back to town!
+DONNY	m	Hop in, man! But you should know: I am massively stoned right now.
+JOE	m	You want me to drive?
+CHARLES	m	Joe, where are we going?
+JOE	m	I saw something at the cemetery. Woodward said it's subterranean-- I think I know where it--
+CARY	?	What's that? What are those sounds?
+MARTIN	m	Guys, that sounds like guns!
+CARY	?	(points to a tank) What the hell is that?!
+CHARLES	m	TURN THE CAR AROUND!
+JOE	m	We gotta go by foot--!
+CHARLES	m	Where?!
+JOE	m	Just follow me! (nudges Donny hard)) Donny! Hey! Donny, wake up! (Donny half looks at him) We have to get out of here!
+CARY	?	He's too stoned!
+MARTIN	m	Drugs are so bad!
+SOLDIER	m	Sir, the weapons are misfiring! Surface to air, radar -- all of them! It's a mess out here, sir.
+CARY	?	You guys see those explosions? They were huge.
+MARTIN	m	-- whose house is this?
+CARY	?	(he hands him a picture) Kathy's. I got it off the fridge.
+MARTIN	m	Kathy? Oh, Kathy's cool.
+JOE	m	Come on, guys, let's go. Come on!
+CARY	?	Where we going?
+JOE	m	To the cemetery--
+MARTIN	m	What happened to my leg? It hurts.
+CHARLES	m	Oh shit, Martin, you gotta bone sticking out of your leg!
+CARY	?	There's a hole in the house!
+CHARLES	m	Joe, gimme that thing on the curtains!
+JOE	m	I'm gonna go find Alice-- you have to stay with Martin.
+CHARLES	m	... you gonna be okay without me?
+JOE	m	(a meaningful beat) ... yeah.
+CARY	?	I'm not staying with the girls!
+CHARLES	m	God, Cary. Shut up!
+CARY	?	Calm down.
+MARTIN	m	Oh, my leg hurts!
+JOE	m	Come on, Cary, we gotta go.
+CHARLES	m	This is going to hurt.
+CHARLES	m	I haven't even done it yet.
+CARY	?	So what are we doing here?
+JOE	m	Just follow me.
+CARY	?	I've been following you for the last five blocks. What are we doing here?
+JOE	m	Help me!
+CARY	?	Help you with what?
+JOE	m	We need to get inside.
+CARY	?	For what? What's in these windows?
+JOE	m	Cary, help me.
+CARY	?	It's dirt. Why is there dirt in these windows?
+JOE	m	Help me, on three.
+JOE/CARY	?	One, two, three.... One, two, three.... One, two threee.
+CARY	?	Whoa. This is scary.
+JOE	m	You got any sparklers in there?
+CARY	?	Are you kidding me?
+JOE	m	-- Alice is down there.
+LOUIS	m	I came to your house that day. To tell you that I never meant to hurt anyone. Swear to God. (beat, respectful tears) I'm sorry, Jack. About what happened to your wife.
+JACK	m	... It was an accident. It was an accident.
+CARY	?	Joe, I don't understand--
+JOE	m	Shhh. This way.
+CARY	?	It's Sheriff Pruitt.
+JOE	m	I know. Cary look.
+CARY	?	What is this?
+JOE	m	We're under the water tower.
+CARY	?	It's eating a person.
+JOE	m	She's here. We're going to use your firecrackers.
+CARY	?	I don't think it's going to hurt it, Joe.
+JOE	m	There are other tunnels.
+CARY	?	So?
+JOE	m	I need you to make noise. Lots of it, right here, in two minutes. Make it loud and make it last-- gimme some sparklers.
+CARY	?	(goes through his bag) -- why-- what are you gonna do--?
+JOE	m	(takes SPARKLERS and a LIGHTER from Cary) Make sure you're gone by the time it blows: you can't be here, you gotta run.
+CARY	?	Where are you going?
+CARY	?	-- come on-- damnit!
+JOE	m	-- Cary, come on, come on--
+CARY	?	-- damnit!!!
+JOE	m	-- Alice, please -- please -- (nothing -- SLAP) Alice, wake up!
+JOE	m	Alice! You're alive! Can you hear me? Are you okay?!
+ALICE	f	What is this? What are you doing here?!
+JOE	m	I'm just-- doing the best I can to save you.
+ALICE	f	How did you know?
+JOE	m	Your dad. He told me. He was worried. And flipping out.
+ALICE	f	Really?
+JOE	m	-- we need to move--
+TINA	f	Where are we?
+TINA	f	I left my bag in my car. Then I went to my car to get my bag--
+ALICE	f	It's been experimented on for years. It's terrified and exhausted and hungry, it just wants to go home. When it touched me, I knew --
+JOE	m	Alice, help me get the sheriff down.
+SHERIFF PRUITT	m	Follow me. I can get us out of here.
+JOE	m	Sheriff, we came that way.
+SHERIFF PRUITT	m	Don't argue with me.
+TINA	f	Come on, kids, let's go with the sheriff.
+JOE	m	Sheriff, I really think we're going the wrong way.
+PRUITT	m	We'll talk about it when we get up top.
+JOE	m	I told you to get out!
+CARY	?	I thought this was the way out. I tried! Hey, Alice, welcome back--
+PRUITT	m	Kids, come on, we gotta go.
+JOE	m	GO! YOU DON'T WANNA BE HERE, GO!
+CARY	?	Joe, what are you doing?
+JOE	m	WE UNDERSTAND! WE KNOW HOW HARD
+CARY	?	Joe, shut up, it's gonna kill you!
+JOE	m	YOU'RE GONNA BE OKAY NOW!
+JOE	m	-- I know bad things happen-- bad things happen, but you can still live. You can still live, you can still live, you're gonna be okay--
+CARY	?	Okay, wait a minute, WHAT?!
+CARY	?	-- what's he doing...?
+JOE	m	... he's making a model.
+JACK	m	-- I got you. I got you.
+

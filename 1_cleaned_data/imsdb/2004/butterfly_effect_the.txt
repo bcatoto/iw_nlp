@@ -1,0 +1,751 @@
+EVAN	m	If anyone finds this, then I guess  my plan didn't work and I'm already  dead...
+EVAN	m	But if I can just go back to the  beginning of all this, I still might  be able to save her.
+ANDREA	m	Okay, okay... what now?
+EVAN	m	We're gonna be late again.
+ANDREA	m	When did you ever care about getting  to school on time?
+EVAN	m	We're putting up pictures for Parent's  Night.
+EVAN	m	Righty-tighty, lefty-lucy.
+ANDREA	m	Thanks. Don't worry Evan, you'll  have plenty of time.
+ANDREA	m	Darn it!
+EVAN	m	Um... can dad come this time?
+ANDREA	m	You know the answer to that.
+EVAN	m	Can't he come out for one day?
+ANDREA	m	We've been over this a hundred times.  It's too dangerous for him.
+EVAN	m	But Lenny said that his dad's  coming... and Tommy and Kayleigh's  dad...
+ANDREA	m	Here, Ev... Finish this up for me.
+EVAN	m	All the dads are gonna be there.
+ANDREA	m	I get the point, kiddo. But I'm not  so bad, am I?
+EVAN	m	No.
+ANDREA	m	Good. Because I've been waiting to  see your art projects all week and  I'd feel terrible if all you thought  about was your father not being there.
+EVAN	m	Done. Try it.
+ANDREA	m	You're amazing, kiddo.
+ANDREA	m	Okay have a great day I love you  I'll pick you up later gotta go...
+MRS. BOSWELL	f	Mrs. Treborn! I need to speak with  you!
+ANDREA	m	I'm sorry, but can it wait til  tonight? I'm already late for work --
+MRS. BOSWELL	f	I think you really need to see this.
+MRS. BOSWELL	f	TOMMY! LEAVE LENNY ALONE! DON'T MAKE
+MRS. BOSWELL	f	I was going to show this to the  principal, but I wanted to talk to  you first.
+ANDREA	m	What is it?
+MRS. BOSWELL	f	Yesterday I had all the children  draw pictures of what they wanted to  be when they grew up. Most of them  made drawings of what their parents  did, but this...
+ANDREA	m	I don't understand... Evan did this?
+ANDREA	m	Thank you for showing it to me first.  I'll... I'll take care of it. Can I  have the picture?
+MRS. BOSWELL	f	Of course. There is one more thing,  Mrs. Treborn. And I feel bad for  mentioning it...
+ANDREA	m	What?
+MRS. BOSWELL	f	When I asked Evan about his drawing,  well, he didn't remember doing it.
+ANDREA	m	I have to go.
+LENNY	m	You put the mommy too far away. Mrs.  Boswell has macaroni and glue if you  wanna fix it.
+TOMMY	m	You're such a retard!
+KAYLEIGH	f	Mommy lives far away but she comes  and visits.
+LENNY	m	If I'm retarded, why didn't my mommy  move away from me?
+EVAN	m	Hey, what'd you do that for?
+TOMMY	m	Fat little baby, crying for mommy.
+EVAN	m	Come on, Lenny. It's not that bad.  You can still see your mom a little.
+LENNY	m	Can... can... Can I have this?
+EVAN	m	Sure. I was gonna make a new one,  anyway.
+DR. REDFIELD	m	And you say he doesn't remember any  of it?
+ANDREA	m	Not according to his teacher. It  just got me thinking about Jason and  what if Evan's inherited his father's  condition?
+DR. REDFIELD	m	Hold it, hold it, Andrea. Let's not  jump to conclusions. I'll run some  preliminary tests, see what we can  rule out.
+DR. REDFIELD	m	Tell you what, bring Evan here tonight  and we'll run a CAT-scan series.
+EVAN	m	I don't like this place, Mom. It's  creepy. Please can we go? I promise  I won't make any more bad pictures!
+ANDREA	m	You'll be fine. Dr. Redfield just  wants to give you some tests. You'll  like him.
+DR. REDFIELD	m	Hello, Evan. It's very nice to meet  you. He's as handsome as his father.
+EVAN	m	You know my father?
+ANDREA	m	That's why I wanted you to come here,  Evan. Dr. Redfield already has a  background in memory loss.
+EVAN	m	My father has a bad memory, too?
+DR. REDFIELD	m	Uh, tell you what, Evan. If it's  okay with your mother, I'd like to  run some tests. Nothing scary.
+DR. REDFIELD	m	Okay, it might be a little scary...
+ANDREA	m	Just tell me that Evan doesn't have  Jason's illness...
+DR. REDFIELD	m	Look, Andrea, I'm sure he'll test  negative for brain disorders. But  there's something else you can try  to monitor his memory.
+ANDREA	m	Anything.
+DR. REDFIELD	m	A journal. Just have him write down  everything he does.
+ANDREA	m	Why? What for?
+DR. REDFIELD	m	It could be extremely useful to jog  his memory. See if he remembers  anything new the next day. And I'll  have the test results back in a few  days.
+ANDREA	m	Thanks, George. I really appreciate  you watching him, he won't be any  trouble at all.
+EVAN	m	These'll bring you luck, Crockett.
+ANDREA	m	Great. I'll see you soon.
+ANDREA	m	Evan?
+ANDREA	m	Evan? What are you doing with that  knife?
+EVAN	m	What happened?
+ANDREA	m	Honey. What were you doing with that?
+EVAN	m	I... I don't remember.
+MR. MILLER	m	Hey, Andrea. Hello little man.
+ANDREA	m	Thanks a lot George. Here's my work  number in case there are any problems.
+MR. MILLER	m	Whaddaya kidding? We're going to  have a great time today, right Evan?
+MR. MILLER	m	You waiting for an invitation? The  kids are inside.
+KAYLEIGH	f	Evan, guess what? Dad got a new video  camera and we're all gonna be in a  movie.
+TOMMY	m	I don't think Evan gets to be in it --
+KAYLEIGH	f	Quit it, Tommy. Evan gets to be Robin  Hood. I'm gonna be Maid Marian, and  you're the Sheriff of Nottingham!
+TOMMY	m	I thought I was the bad guy!
+KAYLEIGH	f	You are, silly. He's a bad sheriff.
+EVAN	m	We're really gonna be in a movie!?
+MR. MILLER	m	That's right, Evan, and you get to  be the star.
+TOMMY	m	I thought I was the star.
+MR. MILLER	m	Shut up, moron. Now get in your  costume, Evan. And you have to  promise, your bestest super-duper  promise, that this will be our little  secret. Think you can do that?
+EVAN	m	Where am I? What happened? Where did  we all go?
+MR. MILLER	m	Calm down, kid. Stand still.
+EVAN	m	I was just somewhere else -- how did  I get here?
+MR. MILLER	m	Quit acting like some retard or I'll  call your mother and tell her what a  naughty little shit you've been.
+EVAN	m	Kayleigh? What happened?
+EVAN	m	What's wrong with me?
+DR. REDFIELD	m	Well, the good news is that the  results are negative. I've found no  evidence in the way of lesions,  hemorrhaging, tumors...
+ANDREA	m	And the bad news?
+DR. REDFIELD	m	Unfortunately, we've got nothing to  work with. It's harder playing  detective now.
+ANDREA	m	But you must have something to go  on?
+DR. REDFIELD	m	If I had to guess, I'd say the  blackouts are stress related.
+ANDREA	m	But he's seven. What kind of stress  can he have?
+DR. REDFIELD	m	Plenty. Who knows? Maybe he's got  severe coping problems about not  having a father. Did you say the  last blackout occurred when he was  with his friend's dad.
+ANDREA	m	Come on, I doubt the answer's that  simple.
+DR. REDFIELD	m	You'd be surprised how often they  are.
+ANDREA	m	Well, he has been pushing me to meet  his father, but I've been putting it  off.
+DR. REDFIELD	m	It's worth a shot. I can arrange a  controlled meeting. A careful dose  of sedatives for Jason, some security,  you and I monitoring. Evan comes in  for a quick visit and with any luck,  no more missing father complex.
+ANDREA	m	How soon?...
+EVAN	m	Dad lives here?
+DR. REDFIELD	m	Not in this wing, actually. No.
+ANDREA	m	Now your father may seem sleepy to  you, but that's just because of his  medicine, okay?
+EVAN	m	Okay.
+JASON	m	It's okay. I won't bite. You've seen  pictures of me, right?
+EVAN	m	Uh-huh. Mom says I have your eyes  and your --
+JASON	m	I... love... you.
+JASON	m	He has to die! You don't understand!  It's the only way to stop it!
+ANDREA	m	I'm sorry, Evan. I'm sorry.
+PRIEST	m	Ashes to ashes... dust to dust.
+KAYLEIGH	f	You're better off anyway.
+EVAN	m	Tommy, I'm bored shitless over here.  What's up already?
+TOMMY	m	Hold your horses, man. It's here  somewhere. I saw it when I was a  kid.
+KAYLEIGH	f	We should go soon. If Dad catches us  smoking down here, we're dead.
+EVAN	m	So let's go. This place creeps me  out.
+TOMMY	m	I knew it had something to do with  the army.
+TOMMY	m	Let's blow the shit out of something!
+LENNY	m	Guys, slow up, would you?
+KAYLEIGH	f	Evan, did I tell you? My mother said  I might be able to visit her this  summer in Orlando with her new family.
+TOMMY	m	What did I say about mentioning that  bitch?
+KAYLEIGH	f	Where the hell are you taking us  anyway? Just blow something up  already.
+TOMMY	m	Just blow something up? Are you nuts?  There's an art to mass destruction.  Would you just paint the Mona Lisa?  No. Besides, we're here already.
+TOMMY	m	Here you go, buddy.
+LENNY	m	What? No frigging way, man. I'm not  touching that thing.
+TOMMY	m	The hell you aren't. Anyone of us  does it, you'll puss out and narc  for sure.
+LENNY	m	Ain't gonna work this time, buddy.  Look how small that fuse is! I'll  get killed.
+EVAN	m	Not necessarily.
+EVAN	m	That should buy you ten minutes at  least.
+LENNY	m	Gee, thanks friend.
+TOMMY	m	Oh, for Christ's sake, just do it,  Lenny.
+LENNY	m	Thanks.
+EVAN	m	You got balls, man.
+TOMMY	m	Hurry! Let's go! Get him up, Evan!  Come on!
+EVAN	m	What happened?? Where are we?!
+KAYLEIGH	f	Oh God... what did we do?
+EVAN	m	Shit, Lenny. What's happened to you!  We've gotta get help!
+ANDREA	m	What is it? What happened?
+TOMMY	m	We were just building a fort in the  woods when Lenny freaked out. One  minute he was fine, then he just  froze up. Right guys?
+ANDREA	m	What happened, Evan? The truth.
+EVAN	m	I don't know... I don't remember.
+ANDREA	m	Something must've happened! What set  him off?
+EVAN	m	I... I blacked out.
+ANDREA	m	Don't try to use your blackouts to  get out of this one!
+ANDREA	m	You're not making this up, are you?
+DR. REDFIELD	m	With every breath you exhale, you  can feel all of the tension draining  from your body like water through a  faucet. Nine, ten, and you're  completely asleep. Relaxed.
+DR. REDFIELD	m	Now I want you to go back to the  time you were in the woods with Lenny.  Think of it like a movie. You can  pause, rewind, or slow down any  details you wish. Understand?
+EVAN	m	Yes.
+DR. REDFIELD	m	Where are you now?
+EVAN	m	I'm standing next to Kayleigh, my  hands are over her ears.
+DR. REDFIELD	m	Are you hurting her?
+EVAN	m	No, protecting her.
+DR. REDFIELD	m	Okay. Then go a little forward in  time. What do you see now?
+EVAN	m	I see a car.
+DR. REDFIELD	m	Yes, tell me about the car.
+DR. REDFIELD	m	Go on. Nothing can hurt you. Remember,  this is only a movie. You're  completely safe.
+EVAN	m	I can't... the car vanishes and all  of a sudden I'm on the ground in the  woods.
+DR. REDFIELD	m	The car doesn't vanish Evan. The  movie in your head has broken, that's  all. But now I've re-spliced it and  I want you to tell me about the car.
+EVAN	m	It's coming... argh! I can't!
+DR. REDFIELD	m	Fight it Evan. Hurry. It's coming!
+DR. REDFIELD	m	Okay, Evan. Listen to my voice! On  the count of ten, you're going to  wake up. Feeling refreshed and  remembering everything we talked  about.
+ANDREA	m	What's happening to him?? Make it  stop!
+DR. REDFIELD	m	One. You're feeling more awake now.  Two, your eyes no longer feel heavy.
+DR. REDFIELD	m	Five. Six. Refreshed and awake! Seven,  eight. Come on, Evan, wake up, dammit!
+ANDREA	m	Evan wake up, oh please wake up!
+DR. REDFIELD	m	Nine, ten. And you're awake! Open  your eyes, dammit!
+EVAN	m	What happened? Did it work?
+TOMMY	m	Wipe that sad-assed look off your  face before you get us all busted.  You see the way Evan's mom was looking  at you?
+KAYLEIGH	f	I'm sorry.
+EVAN	m	Would someone just tell me already  what the hell happened in the mailbox?
+TOMMY	m	Don't ever bring that shit up again.  Not ever. Not to me, not to Kayleigh,  or even Lenny. The stupid fuck if he  ever learns to talk again. Understand?
+TOMMY	m	Ever. She don't want to talk about it,  anyway. Do you Kayleigh?
+EVAN	m	Are you okay?
+TOMMY	m	There it is. Let's go.
+ANCHOR	m	...was the grizzly aftermath of what  police officials of upstate New York  are calling a horrible act of  vandalism gone awry.
+ANCHOR	m	The powerful explosion is believed  to have been caused by a small  quantity of dynamite.
+ANCHOR	m	Police thus far have no leads as to  the suspects...
+TOMMY	m	Holy shit! Look at that fat fuck!  You'd have to wipe his ass with a  forklift!
+TOMMY	m	Shut up, faggot. No one's talking to  you!
+EVAN	m	I'm sorry Kayleigh. This was a bad  idea.
+KAYLEIGH	f	You really don't remember anything  that happened?
+KAYLEIGH	f	You're so lucky.
+EVAN	m	It's going to be okay. Lenny'll be  fine. You'll see.
+KAYLEIGH	f	Ouch.
+EVAN	m	I'm sorry.
+KAYLEIGH	f	It's not your fault. Mrs. Kagan called  dad and blamed us for what happened  to Lenny.
+EVAN	m	Damn. Your dad did this?
+KAYLEIGH	f	I deserve a lot worse.
+EVAN	m	What are you talking about? What you  deserve is a better brother and  father. All they do is make you feel  like shit.
+EVAN	m	You really have no clue how beautiful  you are, do you?
+TOMMY	m	What the fuck are you doing??
+TEEN PUNK	m	Buying popcorn, what the fuck are  you doing?
+ANDREA	m	So how was the movie?
+KAYLEIGH	f	Okay.
+ANDREA	m	Any exploding mailboxes?
+KAYLEIGH	f	What do you mean?
+ANDREA	m	Goodnight.
+ANDREA	m	We're moving.
+EVAN	m	I can't believe Tommy's still pissed  at me. He knows I'm moving away,  right?
+KAYLEIGH	f	He's been acting real strange lately.  He won't even look me in the eyes  anymore.
+EVAN	m	Duck, here they come.
+KAYLEIGH	f	Did your mom say if Lenny was...  okay?
+EVAN	m	He must be. They're letting him go,  right?
+EVAN	m	Welcome home, Lenny!
+MRS. KAGAN	f	I think your little homecoming's in  bad taste.
+EVAN	m	Sorry?
+MRS. KAGAN	f	Lenny's been through a hell of an  ordeal no thanks to you.
+EVAN	m	Welcome home. Thought you might like  some fresh air for a change.
+KAYLEIGH	f	Hi, Lenny.
+LENNY	m	Is Tommy with you guys?
+EVAN	m	It's cool.
+KAYLEIGH	f	So what did you do in there?
+LENNY	m	It was awful. You can't sleep 'cause  everyone's screaming all night long.  I never want to go back.
+KAYLEIGH	f	Do you see that?
+EVAN	m	Crockett!!
+TOMMY	m	Look what you made me do!
+EVAN	m	What's wrong with you?!
+EVAN	m	Kayleigh! Wake up!
+TOMMY	m	Why don't you fucking kiss her, Prince  Charming!
+EVAN	m	How long was I out?
+EVAN	m	Kayleigh?! Are you okay? Where's  Crockett?
+MRS. KAGAN	f	Do you know what you are? A monster.
+ANDREA	m	I'm sorry.
+PROFESSOR CARTER	m	Time! Please place your blue books  on my desk before you leave.
+PROFESSOR CARTER	m	How'd you do, Evan?
+EVAN	m	I'm not sure. I might have gotten  some stories mixed up. Did Pavlov  condition his dogs to lick his nuts?
+PROFESSOR CARTER	m	Typical psych major. A complete wise  ass. And how's your project coming?  Still planning to change the way we  humble scientists view memory  assimilation?
+EVAN	m	Hey, I got no choice.
+EVAN	m	Whoa. Smells like patchouli and...  ass.
+THUMPER	m	Cricket, meet my well-mannered  roommate, Evan.
+CRICKET	m	Yeah, you're the one who fucked up  the bell-curve on my Anthropology  final. Later, Thumper.
+EVAN	m	Nice to meet you, too.
+THUMPER	m	Here, bro. Found your T-shirt.
+EVAN	m	Get dressed, Thumper, you're taking  me out for my birthday.
+THUMPER	m	I thought you were a December baby.
+EVAN	m	This is bigger. Seven years to the  day. No blackouts.
+THUMPER	m	Let's do this.
+KRISTEN	f	So... which one of you has a pet  worm?
+THUMPER	m	Worms, plural.
+KRISTEN	f	That's so gross.
+THUMPER	m	Talk to him about it, he's got the  fetish.
+EVAN	m	Actually, they're for a psych project.  A study on memory.
+HEIDI	f	Shit, better explain before all the  excitement gives me a heart attack.
+EVAN	m	It's an experiment with flatworms  and a maze. You take a flatworm and  run it through the maze until he's  memorized it. Then you put a new  flatworm in the maze. He's clueless.  Banging into walls, getting lost,  whatever.
+THUMPER	m	Like Ozzy.
+SPENCER	m	Ten bucks says he eats it off the  floor.
+EVAN	m	You chop up the smart flatworm and  feed it to the dumb one and presto,  the dumb one suddenly knows the maze  inside and out.
+EVAN	m	Just by absorbing the first worm  into its cellular structure, it gets  all of the worm's memories.
+THUMPER	m	That's probably why Hannibal Lecter's  so smart.
+HEIDI	f	So what's the point?
+EVAN	m	Maybe if I can figure out how the  memories of a simple worm function,  it'll help me understand the  complexities of the human brain.
+HEIDI	f	So are you planning on becoming a  doctor or something?
+EVAN	m	No, I just don't want to lose my  mind.
+EVAN	m	I think that's your game.
+HEIDI	f	Smells like sex in here.
+EVAN	m	Thumper had a busy afternoon.
+HEIDI	f	You're kidding. He's so... big.
+EVAN	m	Charisma and eyeliner go a long way,  I guess. Wanna beer?
+HEIDI	f	Most guys tuck their porn under here,  but all you have are... comp books.
+EVAN	m	Yeah. I've been keeping journals  since I was seven.
+HEIDI	f	Wow... read something.
+EVAN	m	No way, I'd be too embarrassed.
+HEIDI	f	Then keep drinking, worm-boy. You're  too uptight.
+EVAN	m	Freeze! No "worm-boy". No "Mr. Worm,"  and no "Worm-Master-General!" Once  you get a nickname like that you  can't shake it. And I don't want  everyone thinking I've got tapeworms  coming out of my ass or something,  okay?
+HEIDI	f	Deal. Now read me something.
+EVAN	m	For courage.
+EVAN	m	It's like my mind refused to believe  what it was seeing. Hearing Crockett  make those awful screams... Just  writing about it gives me the shivers.
+HEIDI	f	Come on, go on...
+EVAN	m	It was like Tommy was possessed or  something. There was a hate in his  eyes that I couldn't really call  human.
+EVAN	m	What the hell is going on?
+LENNY	m	I can't undo the rope!
+TOMMY	m	Drop it or I'll slit your mother's  throat in her sleep.
+EVAN	m	I got him, Lenny. Help Crockett!
+TOMMY	m	Listen to me good, Evan. There's a  million other sisters in the world.  You didn't have to fuck with mine.
+EVAN	m	Oh my God! No! No!
+HEIDI	f	Wake up, idiot. It was just a dream.
+EVAN	m	It didn't feel like a dream.
+HEIDI	f	Maybe because they never do. So Don Juan, you pass out on all  your dates?
+MRS. KAGAN	f	I've got a surprise for you, Lenny.  You'll never guess who's here.
+EVAN	m	Hey, uh, it's me. Evan.
+EVAN	m	What's that you're working on? A  model?
+EVAN	m	Well, you look busy, so maybe I should  make this quick. I'd totally  understand if you didn't want to get  into this right now, but that day at  the junkyard, could you help me  remember what happened? Any details?
+LENNY	m	I couldn't cut the rope.
+EVAN	m	Yeah, good, what else do you remember?
+LENNY	m	Drop it or I'll slit your mother's  throat in her sleep.
+EVAN	m	Jesus Christ. It really happened.
+EVAN	m	What if I can get back all my lost  memories with my journals.
+LENNY	m	Make one peep and I swear it'll be  your last, motherfucker.
+EVAN	m	Well, thanks for seeing me, man. I  shouldn't have waited so long.
+THUMPER	m	You really think he wanted to kill  you?
+EVAN	m	All I know is that I might be able  to unblock some of my repressed  memories.
+EVAN	m	The last thing I remember before the  blackout was holding my hands over  Kayleigh's ears... I think I was more focused on her  hands on mine than the mailbox across  the street...
+LENNY	m	Maybe it went out. Should someone  check it?
+TOMMY	m	Yeah, you do that, Lenny.
+TOMMY	m	Make one peep and I swear it'll be  your last, motherfucker.
+MRS. HALPERN	f	How's my sweet girl? Awww, you need  a change, don't you honey?
+MRS. HALPERN	f	You want to open the door, honey?
+TOMMY	m	C'mon! Run!!
+TOMMY	m	Lenny? Come on!
+KAYLEIGH	f	Oh my God oh my God...
+EVAN	m	What the hell?
+THUMPER	m	Christ, man. You wanna clean that up  before I lose my appetite here?
+EVAN	m	Yes, hello, uh, Mrs. Kagan, this is  Evan Treborn. I know. I'm sorry about that. But I  really need to speak with him.
+PROFESSOR CARTER	m	Whoa! Didn't mean to scare you, Evan.  Just wanted to know how the flatworms  project was coming.
+EVAN	m	Oh, fine I guess. It's been kind of  crazy lately with my mom coming up,  so I haven't...
+PROFESSOR CARTER	m	I know, I know. Who can think of  worms when your libido's in full  swing, right?
+PROFESSOR CARTER	m	Just don't drop the ball, okay?
+EVAN	m	I won't let you down, Professor  Carter.
+EVAN	m	Please, mom. People will talk.
+ANDREA	m	I can't help it. I'm just so proud  of you. You've got the highest grades  in all of your classes.
+EVAN	m	Did Da -- Jason --- get good grades?
+ANDREA	m	Please. He got straight A's without  ever touching a book. That was the  one area where his memory never failed  him.
+EVAN	m	Ma? Did he ever say that he figured  out a way to recall a lost memory  years after he blacked it out for  the first time?
+ANDREA	m	Why do you ask?
+EVAN	m	No, it's just weird with him being  such a brain and all, I just wondered  if he was ever able to remember stuff  he'd forgotten.
+ANDREA	m	When he was around your age... almost  exactly your age. He said he figured  out a trick to remember the past.
+ANDREA	m	I couldn't tell if they were real  memories or just phantoms. You know,  he might only have thought he actually  remembered them...
+EVAN	m	Sure...
+ANDREA	m	And then, just before it got so bad  that he had to be committed, he said  that he could...
+EVAN	m	What? What could he do?
+ANDREA	m	Forget it. It's nothing. He was far  too sick by then.
+EVAN	m	I never wanted to be in the movie  anyway and it was cold so I wanted  to wear my clothes but Mr. Miller  took his shirt off --
+THUMPER	m	What the fuck are you doing?
+EVAN	m	Shhh! I need quiet for this.
+THUMPER	m	Are you stupid or what?
+EVAN	m	What?
+THUMPER	m	Shucks, I dunno. But maybe there's a  reason why you've repressed the one  day when some old lecher had you in  your tighty whities, dammit!
+THUMPER	m	Yeah, man. I'd think twice about  this. You could wake up a lot more  fucked up than you are now.
+BOSS	m	Can we get through one goddamned day  without you breaking something?
+KAYLEIGH	f	God, Evan! I never thought I'd see  you again. How've you been?
+EVAN	m	Oh, comme si, comme ca, you know...
+KAYLEIGH	f	No, Evan. I don't know. It's been a  long time. Fill me in.
+EVAN	m	I'm going to State now. Things are  going okay. I guess. Mom's good...
+EVAN	m	Not since we were kids.
+KAYLEIGH	f	I've stopped a hundred times.
+EVAN	m	So how's Tommy?
+KAYLEIGH	f	They kept him in juvy for a few years.  Now he works over at Dale's Autobody.
+EVAN	m	You still live with your dad?
+KAYLEIGH	f	No. I emancipated myself when I was  fifteen.
+EVAN	m	Wow. That must've taken some courage.
+KAYLEIGH	f	Not if you remember my dad.
+EVAN	m	Couldn't you have moved in with your  mom?
+KAYLEIGH	f	She had a new family. Not enough  space for me. Said I should have  moved in with her when we were kids.  But... whatever.
+EVAN	m	Actually, Kayleigh, the reason I  came back to town was to talk to  you.
+KAYLEIGH	f	Me? Are you kidding? Why?
+EVAN	m	Remember when I was a kid I had all  these blackouts?
+KAYLEIGH	f	Of course.
+EVAN	m	Well, lately some of the memories  have begun to come back and I'd kinda  like to talk to you about one of  them in particular. It'd be a big  help.
+KAYLEIGH	f	Well, sure. I'll try to remember.  Shoot.
+EVAN	m	When we were kids. Your dad was making  a movie. Robin Hood or something?
+KAYLEIGH	f	What do you want to know, Evan?
+EVAN	m	It's just... did he... what happened  in the basement?
+KAYLEIGH	f	It was a long time ago.
+EVAN	m	I know, but...
+KAYLEIGH	f	Is that why you came all the way  back? To ask a lot of stupid questions  about Robin Hood?
+EVAN	m	No, but I think something really bad  might've happened to us.
+KAYLEIGH	f	Is there a point to any of this?
+EVAN	m	Whatever happened, it wasn't our  fault. You know we couldn't have  stopped it.
+EVAN	m	Look, Kayleigh. This may sound like  bullshit coming from a guy who hasn't  spoken to you in seven years...
+EVAN	m	But you were seven years old and  there's nothing you could've done to  deserve...
+KAYLEIGH	f	Just shut up, Evan. You're wasting  your breath.
+EVAN	m	You can't hate yourself just because  your dad's a twisted freak.
+KAYLEIGH	f	Who are you trying to convince, Evan?!  You come all the way out here to  stir up my shit just because you had  a bad memory!? You want me to cry on  your shoulder and tell you that  everything's all better now? Well  fuck you, Evan! Nothing's gonna be  all better! Okay?! Nothing ever gets  better!
+KAYLEIGH	f	If I was so wonderful, Evan, why  didn't you ever call me? Why'd you  leave me here to rot?!
+THUMPER	m	Some dude left a message for you.
+EVAN	m	You can smell it all the way in the  bathroom.
+ANSWERING MACHINE	m	Hi, Evan, this is Professor Carter.  Just wondered why you didn't hand in  your essay this afternoon. I was a  bit concerned. Call me to schedule a  make-up.
+ANSWERING MACHINE	m	What did you say to my sister  motherfucker?! Last night she cried  on the phone for over an hour to me. She said you came and saw her last  night.
+ANSWERING MACHINE	m	She... she fucking killed herself  tonight. She's dead. And so are you.
+THUMPER	m	Whoa, bad news, bro. I don't think  this is gonna come out.
+EVAN	m	It's been said that a person's life  is little more than the sum of his  experiences. If that's true, then  I'm not sure I know who I am anymore. I definitely never knew Kayleigh.
+MR. MILLER	m	Shut up moron. Now get in your costume  Evan.
+MR. MILLER	m	I've got an idea. Let's go downstairs,  it'll look more like a dungeon down  there.
+MR. MILLER	m	What did I say about keeping that  door closed, stupid?
+TOMMY	m	But I wanna see!
+MR. MILLER	m	You're gonna see my fist in about  two seconds unless you do what I  tell you.
+MR. MILLER	m	Now in this part of the story, Robin  Hood just married Maid Marian and  they have to kiss and stuff like  grown-ups do.
+MR. MILLER	m	So take your clothes off Kayleigh.
+MR. MILLER	m	Come on, like when you take a bath.  Don't make a deal out of it. You  too, Evan.
+MR. MILLER	m	Let's go.
+EVAN	m	What time is it?
+MR. MILLER	m	It's time for you to stand where the  hell I told you.
+EVAN	m	Wrong answer, fuckbag. This is the  very moment of your reckoning. In  the next thirty seconds you're going  to open one of two doors. The first  door will forever traumatize your  own flesh and blood.
+MR. MILLER	m	What's happened to -- How are you  doing that?
+EVAN	m	It'll change your daughter from a  beautiful child into an empty shell  whose only concept of trust was  betrayed by her own sick pedophile  father. Ultimately, it'll lead to  her suicide. Nice work, daddy.
+MR. MILLER	m	Who -- who are you?
+EVAN	m	Let's just say you're being closely  watched, George. Your other option  is to get your porn off the rack and  treat Kayleigh like... oh, let's say  like how a loving father treats his  daughter. Sound okay to you, Papa?
+MR. MILLER	m	...yes.
+EVAN	m	Listen close then, fuckbag. You screw  up again and I swear I'll flat out  castrate you.
+EVAN	m	One last thing.
+KAYLEIGH	f	Don't you ever touch me again.
+MR. MILLER	m	I -- I won't.
+KAYLEIGH	f	I'm cold. And I'm putting on my  clothes.
+EVAN	m	What you need to do is discipline  your son Tommy, because the kid's  one sadistic pup.
+KAYLEIGH	f	Honey, are you all right?
+KAYLEIGH	f	Oh my God, Evan. You're bleeding!  Look at you!
+EVAN	m	Jesus, Kayleigh, you're... Incredible.
+KAYLEIGH	f	Mmmm... You give good compliment.  Clean up and come back to bed.
+EVAN	m	Where... where are my clothes?
+KAYLEIGH	f	Those are your clothes, silly.
+EVAN	m	This is too amazing! Un-fucking-real!
+WOMAN'S VOICE	f	I wish I could get so excited about  a nose bleed.
+EVAN	m	Whoops. Sorry. My bad.
+EVAN	m	Hey, you were with those assholes  who threw popcorn at Thumper.
+EVAN	m	And your name is... Gwen!
+GWEN	f	Seriously, Evan. Lay off the blow.
+EVAN	m	Hey, uh, don't go freaking out on me  over this, but do you remember when  your dad first got his video camera?
+KAYLEIGH	f	Well I remember he had one... but  he, like, put it away after the first  day. Why would that freak me out?
+EVAN	m	I dunno. Just being weird.
+KAYLEIGH	f	Such a goofus. See you tonight.
+EVAN	m	Come on, Mom, be there!
+ANSWERING MACHINE	m	Andrea, Evan, And Chuck, Aren't home right now. You know what  to do.
+EVAN	m	Hi, Mom and, uh, Chuck. Just calling  to say hi and well, call me.
+EVAN	m	Thumper! What time is it, man?
+THUMPER	m	Whasamatter? Lost your Rolex?
+EVAN	m	Huh?
+THUMPER	m	Fuck off, frat boy.
+PROFESSOR CARTER	m	Remember, everyone! Only two weeks  until your science projects are due.
+EVAN	m	I still owe you an essay from last  week. Is there any way I could get  an extension?
+PROFESSOR CARTER	m	And you are...?
+EVAN	m	Evan Treborn.
+PROFESSOR CARTER	m	The answer's 'no', Mr. Treborn. Now  take a seat. The exam's about to  begin.
+EVAN	m	Leave me alone, asshole. I didn't  lay a hand on you, okay?
+HUNTER	m	Evan, you're hysterical. You study  for this?
+EVAN	m	We'll find out soon enough.
+HUNTER	m	Me neither.
+EVAN	m	You're kidding. Are these the  answers?!
+HUNTER	m	Damn, Evan, on the D.L.
+EVAN	m	Thanks. Wow. Hey, I want to do  something really special for Kayleigh  tomorrow. If I said I needed some  help from you and the brothers...
+HUNTER	m	I'd say blow me. Get the pledges to  do it.
+KAYLEIGH	f	Oh my God, that was good. Where'd  you learn all those new tricks?
+EVAN	m	So it didn't feel... weird?
+KAYLEIGH	f	Yeah, if you call multiple orgasms  weird.
+EVAN	m	Yellow.
+KAYLEIGH	f	Fuck 'em.
+EVAN	m	What do you think it is about us  that makes us so perfect? Like,  looking back, whatever gave you the  nerve to sneak out and visit me after  I moved away?
+KAYLEIGH	f	As if my dad could've stopped me  from seeing you. What's he gonna do  to me?
+EVAN	m	You think we'll always be together?
+KAYLEIGH	f	That is the plan, right? Hell or  high water?
+EVAN	m	Just making sure.
+EVAN	m	Order, order. So all you rushes know  what you've got to do for me?
+THETA CHI PLEDGE	m	Pledges, Sir Brother Evan, Sir.
+EVAN	m	Pledges, rushees, same difference.  Now this is a one-time deal. You do  all this for me and I'll never give  you shit again. Promise.
+KAYLEIGH	f	I don't understand, where are you  taking me?
+EVAN	m	You'll see.
+KAYLEIGH	f	I don't know what to say. It's  beautiful.
+EVAN	m	Go on. Sit down.
+KAYLEIGH	f	Why are you doing all this for me?
+EVAN	m	Simple math. When I woke up this  morning and saw your smile... I knew  that I wanted to spend the rest of  my life with you.
+HUNTER	m	We been lookin' all over for you,  man.
+SENIOR BROTHER	m	Someone trashed your car.
+EVAN	m	Did you see who did this? You see  anyone?
+HUNTER	m	Probably them Pika fuckers.
+EVAN	m	How could he get away with this?  Right in front of the goddamn frat  house!
+SENIOR BROTHER	m	Frat house? Hey man, would you call  your "country" a "cunt"?
+KAYLEIGH	f	Don't. He's probably watching.
+KAYLEIGH	f	It's my fault. I should have told  you he was released a few weeks ago.
+EVAN	m	Might'a been nice. Like this is gonna do any good. Maybe  one of the frat guys has a gun.
+KAYLEIGH	f	Please, Evan. Don't even joke. He  wouldn't hurt you. He's just trying  to scare you away from me.
+EVAN	m	Yeah, right. Tell that to Crockett.
+KAYLEIGH	f	It's not his fault, Evan. You knew  how bad he had it when we were kids.
+EVAN	m	Don't give me this Oprah-book club  bad upbringing shit, because you  turned out fine.
+KAYLEIGH	f	My father never laid a hand on me.  It's like the prick saved it all up  for Tommy.
+EVAN	m	Fine, then. We'll let campus security  deal with him.
+KAYLEIGH	f	Are you okay?
+EVAN	m	What do you mean?
+KAYLEIGH	f	It's just... you've been acting kinda  strange, you know?
+EVAN	m	Like how?
+KAYLEIGH	f	I don't know. You seem... different.  You make weird jokes. Your accents  changed. You don't even walk the  same.
+EVAN	m	I walk differently?
+KAYLEIGH	f	I can't put my finger on it, but  everything's a bit off. Even the  dinner tonight. It was beautiful,  but...
+EVAN	m	I know I've been actin strange lately.  It's just that... I don't want  anything to happen to us.
+KAYLEIGH	f	Wait. Something's not right. Isn't  that your jacket?
+EVAN	m	What?
+KAYLEIGH	f	Tommy.
+EVAN	m	Leave us alone you sick fuck!
+TOMMY	m	Get this "us" shit. As if I was gonna  lay a hand on my own sister. You've  done nicely for yourself, Evan. Nice  friends, nice life, not to mention  you're fucking my sister. Not a bad  piece of ass if I say so myself.
+KAYLEIGH	f	Shut up, Tommy!
+TOMMY	m	Aw, hey now, that was a compliment.
+EVAN	m	What the hell are you doing?
+TOMMY	m	It wasn't enough that the whole world  loves you, but you had to take away  the last person on earth who didn't  think I was a piece of shit.
+EVAN	m	No one thinks you're a piece of shit,  Tommy.
+TOMMY	m	Right, Evan. I believe you just said  "sick fuck."
+KAYLEIGH	f	Evan, stop! You're gonna kill him!
+EVAN	m	He's a fucking maniac!
+EVAN	m	He ruined Lenny's life --
+EVAN	m	He killed Crockett -- Murdered that woman and her baby! And he's trying to kill me, Kayleigh!  He's trying to fucking kill me!
+CARLOS	m	First time?
+CARLOS	m	Best not bitch up. Wind up someone's  luggage that way.
+EVAN	m	Can you protect me?
+CARLOS	m	Jesus himself couldn't make me take  on the Brotherhood. When they come,  just put your mind in another place,  man. Be somewhere else.
+ANDREA	m	...I spoke to your new lawyer about  the appeal. He's sure he can get you  off on self-defense, so if you're  patient.
+EVAN	m	How long will I be in here?
+ANDREA	m	I don't know. These things take time.
+EVAN	m	How's Kayleigh doing? She all right?
+EVAN	m	What about my journals, Mom? Did you  bring the ones I asked for?
+ANDREA	m	I found these. The others are still  in storage.
+EVAN	m	Damn it, Mom. I told you I need them  all!
+ANDREA	m	Fine. You'll get them, Evan. But I  think it's far more important to  focus on your case right now.
+EVAN	m	Sure, Mom. You're right. Just try to  tell Kayleigh I'm sorry.
+ANDREA	m	I'm not gonna lose you, kiddo. Promise  me you'll hang on, Ev.
+KARL	m	Shit on my dick or blood on my knife.
+EVAN	m	Let go! They're mine!
+EVAN	m	Motherfucker!
+KARL	m	We'll be comin' for you tonight,  sister.
+KARL	m	Today I found my grandfather's death  certificate. He died in a nut house,  just like my father. Mom denies it,  but she thinks I'm gonna end up the  same way...
+EVAN	m	You're religious Carlos, you believe  that bit about "the Lord works in  mysterious ways?"
+CARLOS	m	Straight up.
+EVAN	m	Because I think he sent me to your  cell on purpose. For you to help me.
+CARLOS	m	Shit. I knew you were crazy.
+EVAN	m	I ain't bullshitting. Jesus speaks  to me in my dreams.
+EVAN	m	Pack of smokes says I can prove it  to you.
+EVAN	m	So when I'm out, I need you to watch  my face and hands closely.
+CARLOS	m	You need to see the prison shrink,  man.
+EVAN	m	Anything today?
+CONVICT	m	Yep. Just not for you.
+EVAN	m	Just tell me if anything weird  happens.
+CARLOS	m	Weirder than this?
+EVAN	m	Marks, scars, I dunno. Anything could  happen I guess.
+MRS. BOSWELL	f	No monkey business, Evan. Sit still  and finish your drawing.
+MRS. BOSWELL	f	That's great everyone! Just imagine  anything you want to be. There are  no limits.
+EVAN	m	Oh, Mrs. Boswelllllllll?
+CARLOS	m	Oh sweet Jesus. It's true. It's a  miracle! A miracle!
+CARLOS	m	Your hands. The stigmata!
+EVAN	m	What did you see? What did it look  like?
+CARLOS	m	Signs of the Lord. They just appeared  out of nowhere. I thought you were  loco!
+EVAN	m	So you believe me?
+EVAN	m	I want to make a deal.
+EVAN	m	Look. I'm new to all this but I think  I get how things work. You gotta  join a gang or else end up dead meat.
+EVAN	m	Well it sure ain't gonna fucking be  with no niggers or spics. So how do  we do this? You gotta work your way  up, and I'm the new guy. So... should I... I mean, do I suck  your dicks right now?
+KARL	m	Is your blood pure?
+EVAN	m	I ain't no fucking kike if that's  what you mean.
+RICK	m	Let's see what you got. And watch  the fucking teeth or you'll be leaving  without 'em.
+EVAN	m	Carlos!
+EVAN	m	We took the woods behind the junkyard  just to make sure we wouldn't bump  into Tommy. We hadn't seen the smoke  yet.
+EVAN	m	Rot in hell you fucking animals.
+EVAN	m	Wait. Before we --
+EVAN	m	We need something to cut open the  sack!
+EVAN	m	I want you to take this, Lenny.  Today's your day of atonement. I  know how guilty you feel about that  woman and her baby --
+KAYLEIGH	f	Evan. Stop it. It's not the time.
+EVAN	m	Now's the only time! Today you get a chance to redeem  yourself. Start over with a clean  slate. Tabula rasa --
+LENNY	m	What are you talking about?
+KAYLEIGH	f	You're acting crazy!
+EVAN	m	Please. If you've ever trusted me  before, trust me on this one.
+EVAN	m	Cut the rope.
+TOMMY	m	Listen to me good, Evan...
+EVAN	m	I'll do whatever you want. You don't  want me to ever see Kayleigh again,  fine. Just let Crockett go. Besides,  you kill him now and they'll stick  you in juvy for sure. And I know  you'd never leave your sister alone  with your father.
+EVAN	m	Oh fuck, Lenny, no!
+EVAN	m	Christ. Help me.
+THUMPER	m	Someone call 9-1-1!
+EVAN	m	Okay, doc. What's the damage? How  much time have I got?
+ANDREA	m	Cute, Evan.
+DR. REDFIELD	m	It's a little complicated. I haven't  seen results exactly like these  before.
+EVAN	m	Are you sure? Not even with my father?
+DR. REDFIELD	m	Actually, these tests weren't  available twenty years ago.
+ANDREA	m	So what did you find.
+DR. REDFIELD	m	This is where we're finding most of  the hemorrhaging. The outer lining  of the cerebral cortex.
+EVAN	m	Lemme guess. Would that be where the  memories are stored?
+DR. REDFIELD	m	I've never seen anything like this.  I've compared these to the ones taken  last year, and there's evidence of  severe hemorrhaging and massive neural  reconstruction.
+ANDREA	m	What does that mean for Evan?
+EVAN	m	He's saying it's like forty years  worth of new memories have been jammed  in my brain since last year. Overload  city. 'Sat about the gist of it,  doc?
+EVAN	m	Mind if I wait in the car? The  lighting here bugs my eyes.
+EVAN	m	Well, it's nice seeing you again.  But you know, people to see, things  to read...
+EVAN	m	Is there anything you need? Anything  I can get you?
+EVAN	m	What about the models, man? Bet I  can get you a shitload of models up  in here.
+EVAN	m	Okay, Lenny. Just wanted to say "hi".
+LENNY	m	You knew the whole time, didn't you? When you put the blade in my hand,  you knew something big was going to  happen. Didn't you?!
+EVAN	m	Y... yes. I guess I did.
+LENNY	m	Then you should be where I am. You  should be where I am.
+EVAN	m	Today I get to meet my father. His  name is Jason and he is crazy...
+JASON	m	Are you okay? You looked like you  were somewhere else for a second  there.
+EVAN	m	Look, Jason, I need some fast answers  if I'm ever gonna fix what I've done.
+JASON	m	I was praying this curse would have  ended with me.
+EVAN	m	But it didn't. And now I need info  to make things right again and you're  the only one who can give it to me.
+JASON	m	There is no "right". When you change  who people are, you destroy who they  were.
+EVAN	m	Who's to say you can't make things  better?
+JASON	m	You can't play God, son. It must end  with me. Just by being here, you may  be killing your mother.
+EVAN	m	Bullshit. I'll send you a postcard  when I've made everything perfect  again.
+WAITRESS	?	Just get out, didja?
+EVAN	m	Huh?
+WAITRESS	?	Nothing. Just that my brother did a  stint in the pen and he used to eat  like that.
+EVAN	m	I come from a big family.
+WAITRESS	?	Meant no offense.
+EVAN	m	None taken. Hey, uh, does Kayleigh  Miller still work here?
+WAITRESS	?	Sorry. Never heard of her.
+MR. MILLER	m	Just shut the hell up already! Can't  a man get a little goddman peace in  his own home! Oh, for Christ's sake, now what?
+MR. MILLER	m	Don't suppose you're here to sell  cookies?
+EVAN	m	Good guess, fuckbag. Remember me now? We had a great chat  once when I was seven.
+EVAN	m	One question, fuckbag. Where can I  find your daughter?
+KAYLEIGH	f	Oh, I thought you were my eight  o'clock. Make it fast, I'm expecting  someone.
+EVAN	m	Nice to see you, too. Can I come in?
+KAYLEIGH	f	If I knew you were coming I'd have  cleaned the stains off the sheets.
+KAYLEIGH	f	What do you want?
+EVAN	m	I just needed to see... a friendly  face.
+KAYLEIGH	f	Well, time is money, Evan. So you...
+KAYLEIGH	f	Well, I guess I can spare ten minutes  for an old friend, right?
+KAYLEIGH	f	So how's tricks? Sorry, occupational  humor.
+EVAN	m	I get it. You can drop it now.
+KAYLEIGH	f	Oh, I'm sorry. Does my line of work  make you uncomfortable, precious?
+EVAN	m	No. Just that you need to hurt me  with it. I've been where you've been.
+KAYLEIGH	f	Ha! Where's that?
+EVAN	m	The bottom. When you're just a piece  of meat waiting for the next attack.
+KAYLEIGH	f	What's happened to you?
+EVAN	m	You wouldn't believe me. I mean,  people always say, "You wouldn't  believe me", but in this case, it's  not even worth trying.
+KAYLEIGH	f	I've seen some sickening shit. I  don't blink twice anymore, especially  in your case.
+EVAN	m	Why's that?
+KAYLEIGH	f	Because you're... different.
+EVAN	m	Different? How?
+KAYLEIGH	f	Let me ask you a question. Just a  little one that's been gnawing at me  for years.
+EVAN	m	Yeah?
+KAYLEIGH	f	On the bridge. How did you know that  Tommy had your dog? That was no  fucking hunch.
+EVAN	m	Do you remember when I was a kid and  I had those blackouts?
+KAYLEIGH	f	You're right, Evan, I don't believe  you.
+EVAN	m	I never thought you would. That's  why I've never bothered to tell a  soul until now, and why I never will  again.
+KAYLEIGH	f	I'm the only person you've told?  That's a great line. Does that make  other girls swoon? Do they actually  eat up this bullshit?
+EVAN	m	I couldn't give a shit if you believe  me or not, and frankly I'm too tired  to prove it to you.
+KAYLEIGH	f	Oh? There's proof now?
+EVAN	m	Shit. I dunno. How would I know about  the twin moles on your inner thigh?
+KAYLEIGH	f	Anyone with fifty bucks could tell  you that.
+EVAN	m	Then forget that. How about... you  prefer the smell of a skunk to  flowers, you hate cilantro because  for reasons unknown to you, it reminds  you of your step-sister.
+EVAN	m	Oh! And when you orgasm, your toes  go numb. I'm sure your clientele  aren't privy to that one.
+EVAN	m	I just thought you should know.
+KAYLEIGH	f	Know what?
+EVAN	m	That I didn't leave you there to  rot.
+KAYLEIGH	f	There's one major hole in your story.
+EVAN	m	Which is?
+KAYLEIGH	f	There is no fuckin' way on this planet  or any other that I was in some  fuckin' sorority.
+KAYLEIGH	f	Sure you don't want your wallet?
+EVAN	m	Don't think I'll need it where I'm  going.
+KAYLEIGH	f	Off to change everyone's life again,  is that it? Maybe this time you'll  pop up in some mansion while I wind  up in Tijuana doing the donkey act.
+EVAN	m	I'm over it. Whenever I try to help  anyone it all turns to shit.
+KAYLEIGH	f	Well, don't give up now, Slick. You've  already done so much for me. Hell,  why don't you go back in time and  save Mrs. Halpern and her baby. Then  maybe Lenny wouldn't freak out and  ruin my family.
+KAYLEIGH	f	Oh, here's one! Go back when I'm  seven and fuck me in front of Daddy's  handicam, you know, straighten me  out a bit...
+EVAN	m	Get out. Both of you.
+THUMPER	m	Sorry, dude. Just figured it'd be  okay with you bein' sick and all.
+EVAN	m	I'm not saying it again.
+EVAN	m	Lord give me the strength and guidance  I need to set things right.
+EVAN	m	Lady, stay back! Don't go near the  mailbox!
+EVAN	m	I mean it, woman! Get the hell back!
+LENNY	m	There's a bomb in the mailbox. Get  away!
+TOMMY	m	I'll save you lady!
+EVAN	m	I thought I told you two to beat it.
+LENNY	m	What? Hey, sorry, man. We wake you  up?
+EVAN	m	No, it's cool. Really cool.
+EVAN	m	Where are we going?
+KAYLEIGH	f	We have to get you to Sunnyvale.  You're having one of your famous  hemorrhages.
+EVAN	m	Stop! Take me back!
+LENNY	m	Sorry, tough guy, no can do. Your  mother would kill me.
+EVAN	m	Take me back, Lenny! You owe me that much.
+KAYLEIGH	f	What are you geeks looking at? Must  be nice to be so goddamned perfect,  huh? Fucking losers.
+LENNY	m	'Sup, Sheila! We missed you at the  party! Don't even think I'm giving  you my lab notes either! Think I  like getting up for "eight thirty's"?
+LENNY	m	Hey, there's Tommy.
+TOMMY	m	I did what you said, man! We're  pooling our student funds with Hillel  House and we're going to have an  Awareness Dance.
+EVAN	m	Oh goody, nothing like spinning my  chair around to a techno mix of Hava  Nagila til I puke.
+LENNY	m	Uh, we should be getting to class  now.
+EVAN	m	Forget it. What's the point of Psych  now? Tomorrow I could wake up as  some dirt farmer in Bangladesh.
+KAYLEIGH	f	Let's go for a stroll.
+EVAN	m	So Tommy's really into this Jesus  kick, huh?
+KAYLEIGH	f	You know how spiritual he's gotten  ever since he saved Mrs. Halpern and  Katie.
+EVAN	m	He saved Mrs. Halpern? Please, the  twisted fuck.
+KAYLEIGH	f	Is something the matter?
+EVAN	m	Yeah, I think I gotta get these fixed  or something.
+EVAN	m	Kayleigh? Do you ever think about  "us?" I mean, wonder if it could  ever have been different between the  two of us?
+KAYLEIGH	f	Sure, Evan, why not? You were the  first person I really ever cared  about.
+EVAN	m	I was?
+KAYLEIGH	f	That's why when I was little I never  went to live with my mother.
+EVAN	m	I don't get it.
+KAYLEIGH	f	When my folks split, they gave me  and Tommy a choice who we wanted to  live with. I couldn't stand my dad,  but I knew if I moved to my mom's  I'd never see you again.
+EVAN	m	I never knew that. So then you still  sometimes think of us... together?
+KAYLEIGH	f	It's crossed my mind from time to  time.
+EVAN	m	And...?
+KAYLEIGH	f	Well a lot of things cross my mind.  I've always been a fast thinker, Ev.  I can play out the movie of our entire  lives in under a second. Boom -- we  fall in love -- get married -- two  kids, your keen analytical insight  matched to my generous nature --  kids grow old as do we, relatively  stable relationships, matching burial  plots, the whole bit. It took a lot  longer to spit out than to imagine.
+EVAN	m	Then you think it might have worked  out?
+KAYLEIGH	f	Why not? But that's not how things  wound up. I'm with Lenny, Lenny's  your friend. And there it ends.
+EVAN	m	Would it make any difference if I  told you that no one could possibly  love anyone as much as I love you?
+TOMMY	m	You forgot to put the toaster on the  edge.
+EVAN	m	But you, Kayleigh and Lenny like  toast. And that's really all that  matters now.
+TOMMY	m	I'll get you changed. Visiting hours  are almost up.
+EVAN	m	What, did mom get transferred again?
+ANDREA	m	Looking. Good. Kiddo.
+EVAN	m	Lung cancer?
+TOMMY	m	Sorry, Mrs. T. He's been out of sorts  lately.
+EVAN	m	Right... You started chain smoking  after I blew myself up.
+EVAN	m	There must be a way to fix this.
+ANDREA	m	Fix?
+EVAN	m	I just need the entry about the  blockbuster. Wait, shit, no arms. I  never even got the chance to write  it.
+ANDREA	m	Is Evan... different?
+TOMMY	m	He's just going through some tough  times.
+EVAN	m	Mom. Don't cry. I can change this.
+TOMMY	m	I think I'll go check out the chapel.
+ANDREA	m	You're. Acting. Like your father.
+EVAN	m	Come on, Mom. Just 'cause Dad was my  age when he started going crazy  doesn't mean that I'm nuts.
+ANDREA	m	How. Did you. Know that?
+EVAN	m	You told me that on Parents' Weekend.  Remember? Wait, that wasn't me. Or  you.
+ANDREA	m	Just. Like. Jason.
+EVAN	m	Don't worry. I'm gonna get you out  of here.
+ANDREA	m	Stop him. Stop him. Stop him...
+LENNY	m	Are you sure you even packed it?
+EVAN	m	My mom packed for me. I think she  sent everything I ever owned. So  we'll see.
+LENNY	m	Is this it?
+LENNY	m	What do you need it for? I don't get  you lately.
+EVAN	m	Duly noted. Now I'm gonna ask you  for one last favor.
+LENNY	m	What?
+EVAN	m	Shhh. I need to concentrate on the  blockbuster if I'm gonna destroy it.
+LENNY	m	Destroy it?
+EVAN	m	If I hadn't blown my arms off, Mom  never woulda started smoking in the  first place. Now shhhh.
+EVAN	m	Yes. Now how do I destroy the  blockbuster?
+ANDREA	m	Evan? What are you doing with that  knife?
+EVAN	m	Well, that didn't work...
+MR. MILLER	m	Now in this part of the story, Robin  Hood just married Maid Marian and  they have to kiss and stuff like  grown-ups do.
+EVAN	m	Wait! I need my belt!
+EVAN	m	Loo loo, skip to my loo. Loo loo,  skip to my loo.
+EVAN	m	Loo, loo, skip to my loo.
+MR. MILLER	m	Hey kid, don't bother with the belt.
+EVAN	m	Back off, fuckbag!
+EVAN	m	Amazing. That word never fails to  make an impression with you...
+MR. MILLER	m	Easy does it, Evan! Don't be a bad  boy or I'll tell mommy you were  naughty.
+EVAN	m	And I'll tell the Child Protective  Services about your kiddie porn  endeavors. One step closer and I'll  shove this up your ass!
+MR. MILLER	m	That's dangerous! You could blow  your hands off!
+EVAN	m	Been there, done that.
+MR. MILLER/TOMMY/EVAN	m	Kayleigh! NOOOOOooooo!
+EVAN	m	Oh God, Kayleigh...
+EVAN	m	Kayleigh... no! You can't die again!  I won't let this happen. I won't!
+EVAN	m	Where are they?!
+DR. REDFIELD	m	Hey, Evan. What's the big rush? We  don't meet for another hour.
+EVAN	m	Where are my goddamn books?
+DR. REDFIELD	m	Books?
+EVAN	m	My journals! Where are they?
+DR. REDFIELD	m	It kills me to have to go through  this again. There are no journals.  There never were. It's part of this  fantasy world your mind created to  cope with the guilt of killing...
+DR. REDFIELD	m	Think Evan. You've invented a disease  that doesn't exist. Alternate  universes with colleges, prisons,  paraplegia...
+EVAN	m	But I... I need those books.
+DR. REDFIELD	m	You remind me of your father. He  always screamed for a photo album  even though he never had one.
+EVAN	m	Photos?
+DR. REDFIELD	m	Jesus, no.
+ANDREA	m	No dances, just tell me.
+DR. REDFIELD	m	The hemorrhaging... the neural damage  is irreparable. I'm frankly surprised  he still has use of his motor  functions.
+EVAN	m	Hey, Mom, didja remember to bring  those goofy old home movies we used  to make?
+EVAN	m	If anyone finds this, then I guess  my plan didn't work and I'm already  dead.
+EVAN	m	But I -- I can just go back to the  beginning of all this, I might be  able to save her.
+DR. REDFIELD	m	He's not in his room. Search the  grounds.
+ANDREA	m	Go on, Evan. Introduce yourself.
+KAYLEIGH	f	When my folks split, they gave me  and Tommy a choice who we wanted to  live with. I couldn't stand my dad,  but I knew if I lived with my mom,  I'd never see you again...
+ANDREA	m	He's not usually this shy.
+EVAN	m	I hate you. If you ever come near me  again, I'll kill you and your whole  family.
+KAYLEIGH'S MOTHER	f	What did you say to her? What  happened?!
+EVAN	m	Goodbye.
+LENNY	m	You alright? Should I call the doctor?
+EVAN	m	I'll think I'll be alright this time. I really do.
+LENNY	m	You sure about this?
+EVAN	m	Yeah, Ma. I'm running a little late  for lunch. One of my patients had a  breakdown. Anyway, order some soup  in the meantime. See ya soon.
+

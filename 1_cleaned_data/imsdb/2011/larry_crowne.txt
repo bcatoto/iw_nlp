@@ -1,0 +1,841 @@
+AVERY	m	Sweatpants! Two pair! $6.69!
+TEAM LEADER #1	m	Fifteen foot jumper cables - 69 cents a foot!
+TEAM LEADER #2	m	Chocolate turtles! 69 cents a pound bag!
+LARRY CROWNE	m	Three-pack of men's elastic waist mid-thigh boxer shorts! $2.69!
+TEAM LEADER #3	m	MP3 Player the size of a bottle cap! Something and 69 cents!
+TEAM LEADER #4	m	Duck Blind print sheets for a queen size bed. $7.69.
+ALL	m	Shop UniMart! Where United, you save!
+MOMMY	f	Too much mac & cheese for this little pickle bug!
+LARRY CROWNE	m	They do love the comfort food. Don't you, Li'l Pickle Bug...
+LARRY CROWNE	m	Buddy. Park there and you'll get a ticket.
+PIZZA KID	m	Call a cop, doof. I'm gone in sixty seconds. (a dozen pizza boxes) You guys having a party?
+STRANG	m	Finally. Dotty G. and her forty-two- K a year are history. Who else would do us that favor?
+ANDREWS	m	Wish they'd all sail off like her. Save us some grief.
+STRANG	m	The "R" Bomb is going to do some collateral damage to this place.
+HURLEY	m	"R-Bomb"? Oh my god! Restructuring?
+COX	m	Separating the chaff from the wheat. Chaff is the bad stuff, right?
+HURLEY	m	Chaff is the waste matter, correct. When are we restructuring?
+COX	m	Before E.O.Q. Them's our orders.
+STRANG	m	What say we drop a brick in the pond to warn the herd?
+ANDREWS	m	How?
+STRANG	m	Firing someone.
+COX	m	Someone they'd never expect to be let go. To look fair. I like it.
+STRANG	m	Like a Team Leader.
+HURLEY	m	Team Leader?
+COX	m	Suggestions on who it should be?
+STRANG	m	I say Crowne.
+HURLEY	m	Larry Crowne?
+STRANG	m	Who else? Avery won't retire. We fire him, it's a law suit.
+STRANG	m	Alvarez is about to drop a kid. She'll go part time in a week.
+STRANG	m	Crowne's pink slip will save 'da "U" big green backwash.
+COX	m	What Salary Tier is Crowne at?
+ANDREWS	m	Top of the pyramid with a C.O.L. bump at the first of the year.
+COX	m	Sweet. We'll need Actionable Cause, of course.
+COX	m	How's his review record?
+HURLEY	m	He's a candidate for Employee of the Month. His 22nd time.
+COX	m	Okay. So. Sluggers, gimme a reason...
+HURLEY	m	We could use the Limited Horizons strategy. Larry will always be passed over for Management. He never went to college.
+COX	m	You're that familiar with his record?
+STRANG	m	She was his squeeze for a few weeks, weren't you, Vick?
+HURLEY	m	That was before the New Employee Covenants. That you even remember...
+STRANG	m	The memory haunts me.
+ANDREWS	m	He'll sock us for severance.
+STRANG	m	Big brick in the pond, though.
+COX	m	Let's call it. Today, end of shift, UniMart bids Crowne adieu.
+VASQUEZ	m	LC Why still here?
+LARRY CROWNE	m	Team Leaders zone departments before punching out. It's policy.
+VASQUEZ	m	I mean here here. You just got paged to Meeting Room 2.
+LARRY CROWNE	m	Probably to clean up after the party.
+VASQUEZ	m	Isn't it Employee of the Month Day?
+LARRY CROWNE	m	Speck-tack-alar.
+VASQUEZ	m	You're the only one around here who deserves it. How many will this be?
+LARRY CROWNE	m	Ah, who's counting?
+LARRY CROWNE	m	Remember how we saw "The UniMart Way" video, Vick? You and me, alone in this room, and look at us now.
+STRANG	m	Cubby. Make tracks.
+LARRY CROWNE	m	I think I know what this is about.
+STRANG	m	I don't think you do.
+COX	m	Crowne. At UniMart, we care. So we take care. Which makes moments like these tough for all of us.
+LARRY CROWNE	m	Sounds like you're firing me.
+STRANG	m	I take it back.
+COX	m	Corporate has mandated a restructuring in all UniMart stores. That's the word they use. I call it a pain in the touchas. It is touchas, right? Where you get kicked?
+HURLEY	m	Yeah. A yiddish word.
+ANDREWS	m	Like the buttocks.
+HURLEY	m	Touchas and buttocks. Synonymous.
+COX	m	Hurts to get kicked back there, no matter what language you speak.
+LARRY CROWNE	m	UniMart is firing me...
+STRANG	m	Crowne-ie, you did a heck of a job.
+LARRY CROWNE	m	Why me?
+ANDREWS	m	Who do you suggest? Alvarez? Avery? I don't think so.
+LARRY CROWNE	m	Why not Strang?
+HURLEY	m	Seniority would preclude this reality, Larry, but UniMart's policy is to never limit your horizons.
+COX	m	Here's the prob: your lack of a graduate degree will forever retard any move up the management ladder.
+STRANG	m	Becasue you never went to college you're forever retarded.
+LARRY CROWNE	m	I won't make the Front Office?
+STRANG	m	Never. (shows his college ring) S. M. U. Class of '86! Go 'Stangs!
+LARRY CROWNE	m	I went in the Navy. Right outta high school. Five years, and by then...
+COX	m	Thank you for your service to our country, Larry. And, in total seriousness to UniMart too
+LARRY CROWNE	m	I thought I was Employee of the Month.
+STRANG	m	In a way, you are.
+LARRY CROWNE	m	No. No. No. No. No. No. No. No. No. No. No. No. I'm going to lose my house...
+COX	m	The timing on this is always a bitch.
+LARRY CROWNE	m	Guys. Guys. Guys. Guys. Guys. Guys. Guys. Guys. We can fix this. Can't we fix this?
+COX	m	Really wish we could. Vick? The generous severance package?
+HURLEY	m	Sign here. Here. Here. Initial that. Sign here. One more. Done.
+VASQUEZ	m	12 jerks I'd fire before you. May walk away from UniMart myself.
+LARRY CROWNE	m	Stick it out. You go to college?
+VASQUEZ	m	Couple years. Then I blew out my
+LARRY CROWNE	m	Thanks for seeing me off.
+VASQUEZ	m	I need your apron, man. Your apron. Says UniMart on it, so it ain't yours.
+VASQUEZ	m	Thanks. Goofy car, man.
+RECORDED VOICE	m	at RiverBank..."
+LARRY CROWNE	m	I was holding for Barry Raphael in Home and Real Estate?
+LAURIE GAMMELGAARD	f	Mr. Raphael is no longer with the bank. How can I help you?
+LARRY CROWNE	m	Barry is gone? I need to talk to someone in Home and Real Estate.
+LARRY CROWNE	m	(reading his ATM card) I wish! I'm Customer number 566 7878 2031 339 and I can be there in three minutes!
+LARRY CROWNE	m	Three minutes!
+LARRY CROWNE	m	What happened to Barry Raphael? This is some kick in the head. Not sure what to tell you, Mr. Crowne.
+LARRY CROWNE	m	I m hoping not to lose my house.
+LAURIE GAMMELGAARD	f	You're carrying what on the house?
+LAURIE GAMMELGAARD	f	Two Ninety-two K. That's trouble. Three years ago I'd have loaned you $700,000, but I think you read the papers.
+LARRY CROWNE	m	In a few weeks your financial base will tell us what we can do. Find new employment. Liquidate everything low on the Value Index. Stick to a budget. Clip coupons, buy in bulk, you know the drill. Then come back and we'll work with you.
+LARRY CROWNE	m	That's RiverBank's plan for me?
+LAURIE GAMMELGAARD	f	It is Friday, Mr. Crowne...
+LAMARR	m	Larry's home a little late tonight.
+PATIENCE	f	Maybe he was out on a date.
+LAMARR	m	We'd see that on the news.
+PATIENCE	f	Don't even think about lighting that up in my house.
+LARRY CROWNE	m	How do I offer this up to Personnel?
+PLANET STAFFER	m	There should be a box to put it in.
+LARRY CROWNE	m	This?
+PLANET STAFFER	m	No. There should be another box.
+LARRY CROWNE	m	There isn't.
+PLANET STAFFER	m	That's the one, then.
+LARRY CROWNE	m	Just following up with an in-person visit.
+LARRY CROWNE	m	You have a great location here.
+LARRY CROWNE	m	I used to work for UniMart! I could spill you some 411.
+LARRY CROWNE	m	I know their trade secrets.
+LARRY CROWNE	m	And I'm ready to learn new strategies. I'll stop by again so you can keep me in mind.
+LARRY CROWNE	m	I'll work every day.
+CHEF AMOS	m	Oh, I remember you. Larry Crowne. I never forget anyone who quits on me.
+LARRY CROWNE	m	As I recall, I gave my notice and worked all my shifts and that was 12 years ago.
+CHEF AMOS	m	As I recall, I had to hire and train a line cook to take your place. Walking out doesn't happen in a vacuum, you know. Doesn't mean I wouldn't give you a job again. But you've been out of the business a long time, and look around. I don't need you.
+RAUL	m	You come in two weeks ago I would have kissed you on the mouth, but Carlos and Nick, they walked in. Best I can do? Put you at the top of the list.
+PERRY	m	Dang the timing, Kimosabe. Wish I could help you but Raul runs the back.
+LARRY CROWNE	m	Not sure I could work here anyway. The atmosphere is too pleasant and the client�le too A Number 1.
+PERRY	m	Breakfast on the house. Chorizo Scramble, right?
+LARRY CROWNE	m	No charity today. I got things to do.
+PERRY	m	Like what?
+LARRY CROWNE	m	Nothing. I was just saying that.
+LAMARR	m	There's been a yard sale at 1402 Derby Court since Monica Lewinsky! That gives me a monopoly on the location! You go yard on me, Larry Crowne and I will destroy you.
+LAMARR	m	Bloody Friday. Security sees you off, by the time Monday comes around the fired man is the forgotten man. Diabolical.
+LARRY CROWNE	m	They said it's because I didn't go to college.
+LAMARR	m	Smoke screen. The Man just wanted you gone. (his yard sale) You liquidating assets to raise cash?
+LARRY CROWNE	m	Buying out Denise's half of the house was the worst advice, ever.
+LAMARR	m	I told you to avoid divorce lawyers. Get married. Stay married. Come with me.
+LAMARR	m	I'll tell you straight up - I'm not lending you money.
+PATIENCE	f	Whole box of Cha-Cha records from the Fifties. You don't have any of these, I promise.
+LAMARR	m	He can't afford 'em Lost his job
+PATIENCE	f	No! UniMart just lost my business forever!
+LARRY CROWNE	m	I love you too.
+PATIENCE	f	Sorry, Lie-bare-eye-bee. Get a better job somewhere so you can crush them.
+LARRY CROWNE	m	Hard to do.
+LAMARR	m	He's going to get something better than a job. An education.
+LAMARR	m	Get some knowledge and you'll be fire proof.
+LARRY CROWNE	m	Aren't there unemployed engineers and geophysicists?
+PATIENCE	f	Listen to my husband. Hasn't called a man boss in years. Paid off the house.
+LARRY CROWNE	m	You won the Lottery.
+PATIENCE	f	Picked 8 little numbers when I kept saying he was a fool. A quarter million dollars later I've shut up.
+LAMARR	m	Lost half to taxes.
+LARRY CROWNE	m	I'll see if there's a class in here for PowerBall 250.
+LAMARR	m	That's half a buck for the book.
+LARRY CROWNE	m	They give these away free.
+LAMARR	m	They do. I don't.
+BUSIK	m	Back to college, huh?
+LARRY CROWNE	m	First time. I was in the Navy.
+BUSIK	m	Coast Guard. Adventure of a Lifetime.
+LARRY CROWNE	m	Galley Mate.
+BUSIK	m	We teach a whole track in Hotel and Restaurant Food Preparation.
+LARRY CROWNE	m	No. No, no. I need an all-new career and a place to go everyday.
+BUSIK	m	Those two things are my specialty.
+BUSIK	m	First thing. Bravo for choosing East City College. Never too late for an education. Second, you need a jolt to the confidence machinery.
+BUSIK	m	I am going to change your life. (a page in the catalog) Speech 217: The Art of Informal Remarks, cause it's not enough to just be smart anymore, you have to project ease even when it ain't easy.
+LARRY CROWNE	m	Is this Public Speaking?
+BUSIK	m	It's training. Job interviews will be a breeze with the confidence you'll get from Speech Two One Seven. (even better...) And you'll spend three hours a week with the most attractive package in all of Academia. The Golden Girl of East City. Mercedes Tainot.
+GPS VOICE	m	Please Enter your destination.
+MERCEDES TAINOT	f	I'm here. Shut up. Turn off!
+LARRY CROWNE	m	Sorry! Parking's impossible today!
+MERCEDES TAINOT	f	Are you new to the Faculty?
+LARRY CROWNE	m	New to the Student Body.
+MERCEDES TAINOT	f	This is the Faculty Lot. We've earned degrees for these spaces. Students park on Mars.
+LARRY CROWNE	m	I'm going to be late for my first day of school.
+MERCEDES TAINOT	f	I bet it won't be the first time.
+MERCEDES TAINOT	f	This is it? This class...is CANCELLED!!
+LARRY CROWNE	m	Please tell me this is Speech 217.
+MERCEDES TAINOT	f	While earning a Masters in Shakespearean Political Discourse from Vassar, I learned to care. Caring is a prerequisite for this class I have to teach in this
+DIBIASI	?	Ms. Tie-knot?
+DIBIASI	?	Uh, Tay-knot...Tai-bo...
+MERCEDES TAINOT	f	Who are you?
+DIBIASI	?	Steve Dibiasi. Friends call me Nomad. Only two days before I gotta get up and give my address? You may be dreaming.
+MERCEDES TAINOT	f	Why are you here, Steve?
+DIBIASI	?	Counsellor Busik said this class would change my life.
+MERCEDES TAINOT	f	Busik. Of course...
+DIBIASI	?	I gotta take this...
+LARRY CROWNE	m	Look at us, in two classes in a row.
+PINEDO	m	Yes. Hi.
+LARRY CROWNE	m	That Ms. Tainot is something else isn't she? I'm new to this coll ge life and, I confess, she sca es e This whole place scares me.
+PINEDO	m	Yes.
+LARRY CROWNE	m	I woke up this morning so nervous about the first day of school. I changed my clothes three times.
+PINEDO	m	I am Lala.
+MANIACALLY)	?	That usually scares people. Yet none of you have fled. A good economic indicator.
+LARRY CROWNE	m	I like this guy...
+PINEDO	m	Yes... Shakespeare as I know him... is cancelled.
+LAMARR	m	What's cookin' Joe College?
+LARRY CROWNE	m	Money woes. Paying for gas, getting to school. You ever come across a moped or a scooter for sale or trade?
+LAMARR	m	Come with me.
+PATIENCE	f	Your next wife might stand smoking that pipe in the house but your first one says 'uh-uh!' On the old TV on "Wheel of Fortune" (A person).
+LAMARR	m	Passing through, woman...
+PATIENCE	f	Larry Crowne, been thinking about you. Sit down here...
+LARRY CROWNE	m	"College Graduate."
+PATIENCE	f	That's going to be you someday.
+PATIENCE	f	You have money in all those records. If you can part with them, they'd go for something on the eBay. I'll show you how...
+LAMARR	m	This what you're talking about?
+LARRY CROWNE	m	That's a hunk of junk.
+LAMARR	m	This is classic.
+LARRY CROWNE	m	It doesn't work.
+LAMARR	m	It will for eight hundred dollars.
+LARRY CROWNE	m	Two hundred.
+LAMARR	m	Seven hundred.
+LARRY CROWNE	m	Two hundred.
+LAMARR	m	Six fifty.
+LARRY CROWNE	m	Two hundred.
+LAMARR	m	Six thirty.
+PATIENCE	f	Gonna be a long night with you two.
+LARRY CROWNE	m	Forget it.
+LAMARR	m	Larry! The secret of any negotiation is for both of us to win Talk to me How much do you
+LAMARR	m	Beautiful. I'll throw in a helmet. Gas. Brake. Light's busted. Tires are low. You'll need a special license.
+LARRY CROWNE	m	All I need is the open road.
+LAMARR	m	You break it, you bought it.
+LARRY CROWNE	m	It still works.
+LAMARR	m	Talking about the hedge.
+DEAN TAINOT	m	Well, hey! Who's home early!
+DEAN TAINOT	m	First day of term calls for a celebration!
+MERCEDES TAINOT	f	You'd think so.
+DEAN TAINOT	m	What's your burden this go round?
+MERCEDES TAINOT	f	Tap Dancing. Ping Pong. Water Torture. And Speech at Sunrise
+DEAN TAINOT	m	I built a Flamethrower of a posting for WarriorWeb which, if I do say, will feed nicely as an outline for "Carrier: Second Angel." And, I was a guest blogger on CyberShare.
+MERCEDES TAINOT	f	Why wouldn't I believe you?
+DEAN TAINOT	m	I was composing, Mercy. That's what I do all day.
+MERCEDES TAINOT	f	You were looking at porn.
+DEAN TAINOT	m	It's barely porn. I'm not hiding it.
+MERCEDES TAINOT	f	Yes you are.
+DEAN TAINOT	m	Don't chug. Sip. Everyone hides something.
+MERCEDES TAINOT	f	I have no secrets from you. I share the whole miserable slate.
+DEAN TAINOT	m	You walked in the door pissed off because -- I'm sorry -- I've established a beach head in New Media while you still have to teach at Vassar of the Valley. You hide that.
+MERCEDES TAINOT	f	You look at Bra-Busters Triple-X expecting me to pretend I don't know or I don't care. I do both and don't like it.
+DEAN TAINOT	m	It may look like I don't work hard around here, Mercy. But I do. I'm just a guy who's a guy being a guy when you're not around...
+DEAN TAINOT	m	I'm a guy. Who's a guy. Being a guy...
+RIDER	m	How you doing...
+LARRY CROWNE	m	Speck-tack-alar. Nice machine. Where you headed?
+RIDER	m	Work.
+LARRY CROWNE	m	School. College. I'm a student. What do you do?
+RIDER	m	I'm a gynecologist.
+LARRY CROWNE	m	Yeah? I'd say 'have a great day' but that would be stating the
+TALIA	f	Where'd you get the Hot Wheels?
+TALIA	f	That machine's a classic.
+LARRY CROWNE	m	Got me here for a nickel's worth of gas.
+TALIA	f	You're in Matsutani's Econ with me.
+LARRY CROWNE	m	I am?
+TALIA	f	That class is straining my coconut.
+LARRY CROWNE	m	It's only been one day
+TALIA	f	Didn't know you scooted.
+LARRY CROWNE	m	New to the sport.
+TALIA	f	(pulls out mobile phone) Give me your number. I'll introduce you to like-minded enthusiasts. Name please?
+LARRY CROWNE	m	Larry Crowne. With an 'e'.
+TALIA	f	'Larry'? I don't think so. I used to be Kathleen but one day I looked in the mirror and saw a girl named Talia. (then in her phone) Putting you in as 'Lance'. Check your texts and we'll do us some scooting. Gotta tell you, Lance. Tucking a polo shirt into khakis makes you look like a cop.
+LARRY CROWNE	m	Not much fashion sense.
+TALIA	f	I know! Gotta change that...
+LARRY CROWNE	m	Gotta go!
+TALIA	f	Then get going!!
+CALIMERIS	?	With the push-up added, the 4-count Burpie becomes the 6-count Burpie and works out the pecs and biceps. It's an all-in-one exercise perfect for Cheerleader conditioning. The
+MERCEDES TAINOT	f	We now all know how to Burpie. Thank you. Who's next? Ms. Crowne?
+LARRY CROWNE	m	You mean me?
+MERCEDES TAINOT	f	Mr. Crowne. My bad.
+LARRY CROWNE	m	My presentation will be on the subject of a very particular procedure. "How to make French Toast", but I'll speak English...
+MERCEDES TAINOT	f	M classes were once filled with e rnest young men ready to learn all I had to teach them. Cute boys fresh out of High School who all had crushes on me from day one. Now look at my cadre. Dibiasi. Bound for jail. Mack. Treating college like another tour of combat. Crowne. If this was Hamlet, he'd be Osric in Act 5. The part that is always cut.
+LARRY CROWNE	m	Most people think syrup comes out of a plastic bottle.
+MERCEDES TAINOT	f	(still talking to herself) Great. The history of the sugar maple tree now. Thank you Wikipedia. But the speech is over. MERCEDES TAINOT (CONT'D) Ah-ooo-gah! Time's up.
+LARRY CROWNE	m	That went fast...
+MERCEDES TAINOT	f	Breakfast may never be ready.
+DIBIASI	?	I'll go. But you aren't going to like it.
+MERCEDES TAINOT	f	Are you clairvoyant?
+DIBIASI	?	(holding a pack of Toaster
+DIBIASI	?	Brown Waffles in toaster at lightest or lowest heat setting. An adult should supervise heating by children. Applause please.
+BUSIK	m	Simple. Direct. Informative.
+TALIA	f	Hey Monkey!
+TALIA	f	This is Lance Corona. Classmate and good guy, so far.
+DELL GORDO	m	Dell Gordo. You want to ride with us?
+LARRY CROWNE	m	Why not.
+TALIA	f	Snap along, Lance or you can't join the gang.
+DELL GORDO	m	Okay. You're in for a trial run.
+STAN	m	Not many of these '66 Wasps left around. They had low torque. How's the torque?
+LARRY CROWNE	m	I just bought it and ride around.
+TALIA	f	Stan knows engines and junk.
+DELL GORDO	m	Let's go, Sweets!
+TALIA	f	We ride, Monkey!
+LARRY CROWNE	m	Other than school, I have nothing to do.
+DELL GORDO	m	Let's troll Buena Vista for junk stores.
+STAN	m	We hit those last week.
+TALIA	f	If it was Saturday we'd look for yard sales.
+LARRY CROWNE	m	I know where a yard sale is, like everyday.
+TALIA	f	Lead the way. Monkey! Lance knows a yard sale!
+DELL GORDO	m	Take point!
+LARRY CROWNE	m	Follow me, boys and girl!
+LAMARR	m	We're being invaded!
+LAMARR	m	Larry, what kind of thugs you get in with?
+LARRY CROWNE	m	College buddies.
+LAMARR	m	If they're college buddies why aren't they in college?
+TALIA	f	You have any old clothes?
+LAMARR	m	Speak to my bride inside.
+DELL GORDO	m	Oh man! These TV trays are too much!
+LAMARR	m	Bargains at $100 apiece.
+DELL GORDO	m	For these? Are you nuts?
+LAMARR	m	I'm joking, kid. Let's get to haggling. A buck apiece.
+YOU	m	Ninety-nine dollars apiece. see how this is working?
+DELL GORDO	m	Two bucks apiece!
+LAMARR	m	Ninety-eight and, kid, I do this every day.
+TALIA	f	Layer this... with this.
+PATIENCE	f	Add this belt?
+TALIA	f	I LOVE THIS! Where did you GET IT?
+PATIENCE	f	Reeled it in like tuna from the Atlantic.
+TALIA	f	Diamonds in a diamond mine. Take this... under this...unbutton that.
+PATIENCE	f	You and I are going to spend some time together!
+TALIA	f	I gotta see Chez Lance.
+LARRY CROWNE	m	Entrez vous, sea food plate.
+TALIA	f	No sign of a woman around here for years. Drape a scarf over that lamp and you'll soften the light. No TV, b t vinyl disks of music? You trying to seduce me?
+TALIA	f	Alphabetical order. No artistic chaos for you.
+TALIA	f	Spin this platter, Mr. DJ?
+LARRY CROWNE	m	Good choice.
+TALIA	f	Breakfast nookie!
+TALIA	f	Did Denise make you breakfast in here with a little apron and lipstick perfectly applied?
+LARRY CROWNE	m	I did most of the cooking, actually. You know about Denise?
+TALIA	f	Patience thought she was stuck up and seriously fleeced you.
+TALIA	f	So what happened there, my Lance?
+LARRY CROWNE	m	The usual stuff between three people.
+TALIA	f	She must have been pretty. Fair haired or dark?
+LARRY CROWNE	m	Dark.
+TALIA	f	Like me. So? How about a demonstration? he means 'of the kitchen'. Larry's game...
+LARRY CROWNE	m	Stay outta my way.
+TALIA	f	Kitchen, Monkey!
+DELL GORDO	m	Corn pone!
+TALIA	f	Lance made all this. You should have seen him. He was like...
+DELL GORDO	m	You're like Uncle Ben or something. Stan's working on your bike.
+LARRY CROWNE	m	He is?
+DELL GORDO	m	Said the thing was a time bomb. He's saving your life.
+LARRY CROWNE	m	'We'll be right back after these messages.'
+DELL GORDO	m	You're in the Street Patrol. A full-time mission for beauty and justice.
+TALIA	f	That Denise. What a fool. You a e way cooler than you appear.
+DELL GORDO	m	Lance. All men fall in love with Talia. You will too, if you haven't already. But I love her the most. Know that right now.
+LARRY CROWNE	m	Capice.
+DELL GORDO	m	Seriously. Don't make me keep my eyes on you. What's your real name?
+LARRY CROWNE	m	L rry.
+DELL GORDO	m	Mine's Don. Shake hands. Look each other in the eyes. Firm grips. No contest, but firm. Hold. Stack it. One word, Lance. Peace.
+LARRY CROWNE	m	Peace indeed.
+LARRY CROWNE	m	Speck-tack-alar.
+FRANCES TAYLOR-BRIEGH	f	Act I: Inventory. What do you sell? Act Two? To Market. Reach your buyers. Act Three? Three legs of accounting. Receivable. Payable. Due. Act Four? Forward planning. Plan to grow. Act Five? Final Profitability. What do you clear on bottom-line? In other words: "To be or not to be... in Business."
+MERCEDES TAINOT	f	Did you notice? No script. No notes. So it can be done. You did good, Fran. Thanks.
+FRANCES TAYLOR-BRIEGH	f	Anything for the woman who brought out the public speaker in Frances Taylor-Briegh. I used you as a Focal Reference but you weren't there for me. What's wrong, Mercy? I broke up with the Orthodontist. Now I have to get a new boyfriend and a new orthodontist. You ever do that? Get crushes on people you see every day after ignoring them and then find out they're creeps after all?
+MERCEDES TAINOT	f	Mr Crowne? Can you move along
+LARRY CROWNE	m	That was a great presentation. I learned a lot from it.
+FRANCES TAYLOR-BRIEGH	f	Super.
+LARRY CROWNE	m	Smart stuff. Super smart.
+FRANCES TAYLOR-BRIEGH	f	Ethel's here, Lucy. What's going on?
+MERCEDES TAINOT	f	When was the last time you looked at your life and saw nothing but fraud and desperation?
+FRANCES TAYLOR-BRIEGH	f	Mercy. You're an idol to me. Hearing you talk like that is crushing my dreams.
+MERCEDES TAINOT	f	Well I'm joking of course!!! Translation? Ms. Francesco?
+TALIA	f	Something complicated.
+LARRY CROWNE	m	Breaking even is not making profit, it's a theoretical assumption. Economics abhors an assumption. The Break Even Paradox creates a new metric... Palm out again. DR. MATSUTANI (CONT'D) I am growing tired of this game, Mr. Crowne. Aren't you?
+LARRY CROWNE	m	So what happens here?
+TALIA	f	You ready? Re-invention Big Boy
+LARRY CROWNE	m	I have no idea what that means, but you betcha.
+LARRY CROWNE	m	Holy smokes!
+TALIA	f	I started in the smallest unit.
+LARRY CROWNE	m	This is just sitting here? Talia! This is unproductive capital! Sell it on eBay.
+TALIA	f	No one should ever buy clothes off the internet. You have to feel the fabric and test the drape...
+LARRY CROWNE	m	What is all this worth?
+TALIA	f	A lot to me. Try these on.
+LARRY CROWNE	m	Where?
+TALIA	f	Anywhere. Fashion is no place for modesty. Strip.
+TALIA	f	This is a service to humankind, Lance. It hurts me to see a Top Cat dressed like an ex-hockey player. You gotta look gorgeous from shoe to collar. Starting now.
+DELL GORDO	m	Monkey! Thought you might be here.
+TALIA	f	Lance! My boyfriend's here! Put your pants on!
+GPS VOICE	m	Please enter your destination.
+MERCEDES TAINOT	f	Go to hell...
+DEAN TAINOT	m	No argument here, Mercy. Fact: I'm a dope. Fact: My wife is beautiful and brilliant. And I will be a good boy from now on. Why? Because you're right and I've learned my lesson. Just don't be mad at me forever. I have a pliable soul and I pray you do too
+MERCEDES TAINOT	f	It was. Yes.
+DEAN TAINOT	m	Been thinking. If you ever want to take a whack at writing something -- say a blog a couple of times a week -- I could help you out.
+MERCEDES TAINOT	f	How?
+DEAN TAINOT	m	I'd read your stuff. Make comments to make it web-savvy. Pieces need to pop, you know. Takes a little
+MERCEDES TAINOT	f	Okay.
+DEAN TAINOT	m	See? You can't stay mad at me. No reason to be mad at me...
+DENISE	f	This is Denise. How can I help you.
+LARRY CROWNE	m	Denise. Larry.
+DENISE	f	My god. Larry Crowne. I remember you.
+LARRY CROWNE	m	This a good time?
+DENISE	f	Other than me being at work?
+LARRY CROWNE	m	I'll call you later.
+DENISE	f	I'm surprised is all. What do you want?
+LARRY CROWNE	m	Well. Okay. Uh. Here's the deal.
+DENISE	f	Spit it, Lar.
+LARRY CROWNE	m	I'm going to miss a few months on the checks for the house.
+DENISE	f	Okay.
+LARRY CROWNE	m	I hoped not to, but I there it is.
+DENISE	f	Okay. Yeah.
+LARRY CROWNE	m	I'm sorry.
+DENISE	f	How many months?
+LARRY CROWNE	m	Let's start with six.
+DENISE	f	That can't happen, Larry. I'm extended. I've put a deposit down on the first vacation I've had in 5 1/2 years. My expenses are as valid as yours, so I need the checks like always. A deal's a deal.
+LARRY CROWNE	m	I don't have it.
+DENISE	f	That's not my problem. Take out a loan on the house or something.
+LARRY CROWNE	m	I tried. I'm too much of a risk.
+DENISE	f	Oh, I'm not touching that. I don't want to open up the whole lawyer thing, but I will if pushed. Sucks, doesn't it? I appreciate the rigorous Crowne honesty, but this can't happen. These calls are monitored to guarantee customer satisfaction, so I'm hanging up before my supervisor comes on...
+PERRY	m	Can I smell trouble or what?
+RAUL	m	Can you speak English?
+PERRY	m	Those two over in booth 6...
+PERRY	m	Homeland Security. I piped thei badges and everything.
+RAUL	m	What is Homeland Security doing here...
+RAUL	m	This is Larry Crowne?
+LARRY CROWNE	m	Raul? Yes.
+RAUL	m	Get your ass down here. You got a job.
+LARRY CROWNE	m	I do?
+PERRY	m	We're swamped, Kimosabe. Get back there!
+RAUL	m	You're late on your first day!
+RAUL	m	Where you learn to turn eggs like
+LARRY CROWNE	m	The USS Coral Sea. Boss, I don't want to quit school.
+RAUL	m	So don't.
+LARRY CROWNE	m	I gotta get to class before I miss the whole day. And I can't work mornings Mondays, Wednesdays, Fridays.
+RAUL	m	Soon as the rush is finished, go. I'll get my idiot brother-in-law three days a week. You take evenings. Deal?
+LARRY CROWNE	m	Deal. When will we talk salary?
+RAUL	m	Never. This is take it or leave it. Don t worry. I may be tough but I'll be fair.
+MACK	m	These are not toys. Nobody 'plays' with these. These are kept behind glass, so no way am I passing them around today.
+MERCEDES TAINOT	f	Wait a ding dong minute. (counts the heads) 1.2.3.4.5.6.7.8.9. Someone is missing! Who cut my class?
+MACK	m	Guess Larry's out today.
+MERCEDES TAINOT	f	Anyone know why?
+MACK	m	He didn't call me.
+MERCEDES TAINOT	f	I don't believe this! Ditching me? He ditched me? Not okay. Larry Crowne, you are on my Shit List.
+DIBIASI	?	Sounds like Teacher has a thing for a Teach-ee.
+CALIMERIS	?	When you were out last week, she said nothing. I think she has a crush on Larry Crowne.
+PINEDO	m	I do too. (off their looks) He's a nice man.
+MACK	m	Should I continue?
+MERCEDES TAINOT	f	Yes. Tell us more about your man dolls.
+MACK	m	I'm sure everyone recognizes Boba Fett...
+LARRY CROWNE	m	I'm sorry I'm late, Dr. Matsutani. May I still sit in the class? I'm going to ask a question in a moment. I want someone other than you to answer it - I don't care if the silence is positively Arctic. Anyone?
+LARRY CROWNE	m	Lala... To upload market differences without...
+PINEDO	m	Without mooting the quarterlies. I know.
+LARRY CROWNE	m	Then say it. Just give the answer. You know it. Say it.
+PINEDO	m	Can I?
+PINEDO	m	To up... met... es without ...ing ...terly predicts....?
+PINEDO	m	To upload market differences without mooting quarterly predictions.
+PINEDO	m	No. Only the profit markdown.
+MERCEDES TAINOT	f	Is that Larry Crowne!? You have a lot of nerve showing your face on campus after ditching my class!
+LARRY CROWNE	m	I'm sorry, Ms. Tainot. I will not miss another class, this I vow.
+MERCEDES TAINOT	f	Vows come cheap, Larry Crowne. You'll lead off next assignment with three minutes on a personal first. A story, with details, not a laundry list or slide show. And, as I told Dibiasi, no one wants to hear about the first time you got laid.
+TALIA	f	That woman is one clenched fist of fury.
+TALIA	f	She must not be having any amok lovin'.
+TALIA	f	Without a workout in the Inner Sanctum a few times a week I can't concentrate.
+LARRY CROWNE	m	Inappropriate subject in mixed company.
+TALIA	f	You you want to fix it with your teacher? Bang her.
+LARRY CROWNE	m	She's marred.
+TALIA	f	You'd kill two birds in one bush. Nothing wrong with a campus romance. Otherwise life is what? Breakfast work, coffee, school, lunch, scoot, class, shop, talk, Mexican food, a movie, glass of wine or two then bed? That's not living.
+TALIA	f	Bet she'd give you an A plus. If you're any good...
+LAURIE GAMMELGAARD	f	More complimentary coffee?
+LARRY CROWNE	m	Complimentary coffee is usually lousy.
+LAURIE GAMMELGAARD	f	I drink it all day. So? You're back!
+LARRY CROWNE	m	I got a job.
+LAURIE GAMMELGAARD	f	Atta Baby!
+LARRY CROWNE	m	Perry's Coffee shop. Breakfast all day. And I'm going to school.
+LAURIE GAMMELGAARD	f	At East City. I see. (from the papers) Larry, this doesn't change anything.
+LARRY CROWNE	m	I was afraid of that.
+LAURIE GAMMELGAARD	f	The interest alone will eat up your service industry salary.
+LARRY CROWNE	m	It's been a few weeks.
+LAURIE GAMMELGAARD	f	Okay. I will personally take this to my supervisor and fight to get you the loan you need. But you know how complimentary coffee is always lousy? Your chances are, too.
+LARRY CROWNE	m	I can't make the payments on the house. I'm going to lose it, aren't I?
+LAURIE GAMMELGAARD	f	Stop with the gloomy puss. You're doing everything right. Hang in there. You still have a friend at RiverBank.
+LARRY CROWNE	m	You guys are forced to say that, aren't you?
+DELL GORDO	m	I think it's letting up.
+TALIA	f	It's going to storm till next year.
+DELL GORDO	m	We can't stay here all day. Find a raincoat and let's get a little wet.
+TALIA	f	I do not scoot in the rain.
+DELL GORDO	m	How you going to get to school then, College Co-Ed Belle?
+TALIA	f	My savior! Look at your new schmatas. And footwear! (hopping in, to Dell) Stay dry, sweetie!
+FRANCES TAYLOR-BRIEGH	f	I never read them.
+MERCEDES TAINOT	f	Who did? I'm married to an ex- teacher turned blogger with two books in print. And oh, yes, he has the libido and internet access of a 13-year-old.
+FRANCES TAYLOR-BRIEGH	f	I had a boyfriend who owned every movie Sophia Loren ever made. I d hear a DVD go into the playe an knew what I was going to be doing in a half-hour.
+MERCEDES TAINOT	f	Once more to Divorce Court to cashier a spouse, line my cloak with alimony and do myself homage.
+FRANCES TAYLOR-BRIEGH	f	Othello. Act 1. Scene 1. Iago to Roderigo.
+MERCEDES TAINOT	f	Why can't all my students be like y u?
+FRANCES TAYLOR-BRIEGH	f	Because, as I learned in your class, I am one of a kind.
+FRANCES TAYLOR-BRIEGH	f	It happens.
+MERCEDES TAINOT	f	You are everything that's wrong with America, Larry Crowne!
+DIBIASI	?	Woah! Larry Crowne, I didn't know you were gay. You've gone all Project Runway on us.
+LARRY CROWNE	m	Should I begin?
+MERCEDES TAINOT	f	(talking to herself in the MOVIE
+DEVICE WAY)	m	Oh shut up you sleaze. Jerk. Look at the new pants. They actually fit. And that jacket is 'smart'. Did Busik put Larry Crowne into Fashion for Creeps? An old goat dressed like lamb. Of course! It's that doe-eyed young thing he's been wearing on his sleeve. Dressing like he's half his age. Give me a shotgun! I'll pepper Larry Crowne right now! Am I being unfair? I mean, if I were single and some young buck took to me, wouldn't I be inclined to diddly-dally?
+DIBIASI	?	(jerking out buds) What? What he say?
+LARRY CROWNE	m	Unless you're looking at a chart, you don't even know the Equator when you cross it...
+MERCEDES TAINOT	f	A repackaged Larry Crowne won't fool me. Shame on you. Going after jail bait, you criminal. Insert Viagra joke here... herself at you... No. Don't let up. No, Mercy. NO MERCY!
+PINEDO	m	That Larry believed there were signs on posts marking the Equator.
+CALIMERIS	?	And that, when it's a first time, they make the rookies dress in drag and sing Abba songs?
+MACK	m	Larry worked on an Aircraft Carrier! Night Carrier Landings are the trickiest flying in world.
+MERCEDES TAINOT	f	That was a memorable nugget.
+PINEDO	m	Larry was stationed in Panama! My father is from Panama!
+MERCEDES TAINOT	f	Mr. Koss to the lectern, please.
+LARRY CROWNE	m	Oh crap.
+TALIA	f	Chef Corona! Steam us some corn bread?
+TALIA	f	Woman on deck!
+RAUL	m	You can't come in here.
+TALIA	f	I'm a friend of Lance's.
+RAUL	m	No Lance works for me.
+RAUL	m	This is my kitchen and I am the boss.
+TALIA	f	Is he, Lance?
+LARRY CROWNE	m	Raul's my boss, yeah.
+TALIA	f	Rah-ool. Rhymes with ya-cool. Are ya' cool, Raul?
+RAUL	m	Sure I'm cool. Tough but fair, too.
+TALIA	f	As boss, do you make up the menu?
+A	m	N . But I do the purchasing.
+TALIA	f	Is that a tough but fair job?
+Y	m	It makes me crazy, you kidding? But it's gotta be done every day or guess what? No food. I'll show you how much I gotta do...
+PERRY	m	Breakfast all day, see. From Corn Flakes to popovers. We make the best Chicken Fried Steak outside of a truck stop.
+TALIA	f	Can Lance take a break?
+PERRY	m	Who?
+TALIA	f	The artist formerly known as Larry. I need his expertise.
+PERRY	m	Lance.
+LARRY CROWNE	m	Square footage at this price is a bargain.
+TALIA	f	Maurice says I'm saving his life by renting the space.
+LARRY CROWNE	m	This is your Matsutani Delta Number. You net this every month, you cover overhead, and the rest is profit.
+TALIA	f	You sure?
+LARRY CROWNE	m	Chapter four.
+TALIA	f	You make it sound so simple!!
+LARRY CROWNE	m	Well, back to work!
+DEAN TAINOT	m	Work my ass off all night trying to get f i in' smile out of you!
+MERCEDES TAINOT	f	I'm smiling...
+DEAN TAINOT	m	Like The Joker after three Apple Martinis.
+MERCEDES TAINOT	f	If they help, they help.
+DEAN TAINOT	m	We can't even have a Date Night now? You can't even chillax for one meal?
+MERCEDES TAINOT	f	"Chillax?" Did you use the word "chillax?" That come from your Bloggers Thesaurus?
+GPS VOICE	m	Please Enter your destination.
+MERCEDES TAINOT	f	You lie to me, Dean. Every day. You. Lie. To. Me.
+DEAN TAINOT	m	You looking for a whole new man, Mercy? I'm the jerk who has to transform into Ultraman to make you happy? No. I like myself, Mercy. I put up with you and complain about nothing.
+MERCEDES TAINOT	f	I'm not complaining. I'm stating the truth. I teach while you pretend to work.
+DEAN TAINOT	m	I had three postings today alone. FogCaster, SkyScan, and ParsecTwelve.com
+MERCEDES TAINOT	f	Those weren't postings. They were comments.
+DEAN TAINOT	m	Hey, Booze-illa, who are you to judge me? I know what's really pissing you off. I like big titties. And you don't have any.
+JANET	f	As soon as I saw you, I said, "I want to go out with that man."
+TONY	m	What did you say when I asked you out?
+JANET	f	I said "Yes." You were there, remember?
+TONY	m	I saw you and I thought "I would be a lucky guy if she'd go out with me."
+JANET	f	Yes you are.
+TONY	m	Honestly, this is about as good a first date goes, isn't it?
+JANET	f	Disaster looms on most first dates, but I'm talking to you like you're a friend I want to make out with.
+TONY	m	Hold that thought.
+DEAN TAINOT	m	I take it back. I take it back.
+MERCEDES TAINOT	f	Drive, asshole! Drive away!
+DEAN TAINOT	m	I've been drinking, too.
+MERCEDES TAINOT	f	Drive straight til you hit a cliff on the coastline!
+DEAN TAINOT	m	You win! I'm letting you win! Everything you say is right and
+MERCEDES TAINOT	f	LOSER! I MARRIED A LOSER!!! With a tiny dick! Tiny dick LOSER!
+DEAN TAINOT	m	Screw you, you washboard!
+MERCEDES TAINOT	f	Oh, chillax!!!
+GPS VOICE	m	Please enter your destination.
+MERCEDES TAINOT	f	I'm throwing rocks at my own car !!
+MERCEDES TAINOT	f	I loved these shoes once. Stupid shoes.
+TALIA	f	Lance! Chick alert!
+TALIA	f	You are not going to believe how Fate meets cute!
+LARRY CROWNE	m	Ms. Tainot?
+MERCEDES TAINOT	f	No.
+LARRY CROWNE	m	Larry Crowne.
+MERCEDES TAINOT	f	Jesus Christ.
+TALIA	f	And I've been calling you 'Lance'.
+LARRY CROWNE	m	Do you need a ride? Hop on.
+MERCEDES TAINOT	f	And bust up your romp in the glen with Bambi?
+TALIA	f	Hey. Bambi was a boy.
+LARRY CROWNE	m	I was heading home. Right? We're done scooting?
+TALIA	f	Not me. I love riding in the night. Magic happens.
+MERCEDES TAINOT	f	What do men see in irritating free spirits?
+LARRY CROWNE	m	Seriously. I offer you a ride.
+MERCEDES TAINOT	f	Seriously. I don't want one.
+LARRY CROWNE	m	I've yet to give anyone a lift on this but I think I can get you home with a scraped elbow, worst case.
+MERCEDES TAINOT	f	I am walking, Crowne, as thoughts black boil up from my soul. Major consequences sure to follow. You'll read about them on Parsectwelve.com.
+LARRY CROWNE	m	An attractive woman like you walking alone is a dumb idea.
+MERCEDES TAINOT	f	I need a man flirting with me right now like I need a dog crapping on my lawn. I'm hoofing it.
+LARRY CROWNE	m	In those shoes?
+MERCEDES TAINOT	f	A man who notices shoes. All right. I'll be your Cycle Slut.
+LARRY CROWNE	m	Put this on. Strap your legs round my engine and
+MERCEDES TAINOT	f	It won't be a terrible thing if you kill us both.
+LARRY CROWNE	m	Ain't you a ball of fun?
+MERCEDES TAINOT	f	Are you really going to go this slow?
+LARRY CROWNE	m	I do want to survive this night.
+MERCEDES TAINOT	f	Fine. I have time to window shop. Oh look, a sale on tires at AutoUSA. And here comes a mailbox. I've never noticed their perfect design and colo scheme. This is so slow a cat could knock us over.
+LARRY CROWNE	m	Where am I taking you?
+MERCEDES TAINOT	f	Down to Portola and left to Havenhurst. Havenhurst to Palermo. Right on Palermo till I yell stop.
+LARRY CROWNE	m	I may use this as a presentation in class.
+MERCEDES TAINOT	f	Try it and you'll flunk.
+MERCEDES TAINOT	f	Ha ha ha ha ha ha ha ha.
+LARRY CROWNE	m	I like your class. You're making us all do things we never thought we could.
+MERCEDES TAINOT	f	Put the shovel away and just get me home, 'kay?
+LARRY CROWNE	m	Someone's getting pinched...
+MERCEDES TAINOT	f	Measure his dick, officer! He's too diminutive to drive! Tiny dick loser!
+LARRY CROWNE	m	Bad night for that guy.
+MERCEDES TAINOT	f	Best night I've had in years! Drive on, McDuff!
+LARRY CROWNE	m	Unit 114.
+MERCEDES TAINOT	f	Thanks for the ox-cart ride. Help me.
+LARRY CROWNE	m	You don't want to give me your pass code.
+MERCEDES TAINOT	f	Just hold my hand up to the numbers. I'll manage from there. Two two two two. Pound.
+LARRY CROWNE	m	This it?
+MERCEDES TAINOT	f	Why I think it is!
+LARRY CROWNE	m	I'll get the door for you
+MERCEDES TAINOT	f	Take one step inside and I call security.
+LARRY CROWNE	m	What?
+MERCEDES TAINOT	f	This whole sorry chapter tonight.
+LARRY CROWNE	m	What?
+MERCEDES TAINOT	f	You passing up Gidget for a flat old coot like me.
+LARRY CROWNE	m	What are you talking about?
+MERCEDES TAINOT	f	What, you have no short-term memory?
+LARRY CROWNE	m	When I say 'what', it means I get it and have already purposefully forgotten everything. Call it irony.
+MERCEDES TAINOT	f	Sarcasm. Irony is when Gallant lands in the drunk tank while Goofus scoots me home.
+LARRY CROWNE	m	Goodnight, Ms. Tainot.
+MERCEDES TAINOT	f	Mrs. I'm Mrs. Tainot. Can you not see that?
+LARRY CROWNE	m	I assumed you preferred Ms
+MERCEDES TAINOT	f	When we presume we make a pretty pair of asses of me and you or something like that. Why aren't you married?
+LARRY CROWNE	m	That's a long story and it's late. My helmet?
+MERCEDES TAINOT	f	Help yourself.
+IT MAY	m	You smell good.
+LARRY CROWNE	m	Thanks.
+MERCEDES TAINOT	f	Do you have a crush on me? Single student. Unattainable teacher. It's common.
+LARRY CROWNE	m	We all have crushes on you. Even the gals.
+MERCEDES TAINOT	f	You want to make out with me, you can. I know I'm not a third rate Audrey Hepburn wanna-be but I still
+LARRY CROWNE	m	Wow...
+MERCEDES TAINOT	f	Pretty dang good. I still got it, no?
+LARRY CROWNE	m	Yes, you do.. In you go. (Mercedes goes in) Close the door. Lock it!
+MERCEDES TAINOT	f	Whoever I am...
+DEAN TAINOT	m	Oh, Jesus Hell and tomorrow... Mercy!!!
+TALIA	f	Oh, come on! I left you all set up! What went down?
+LARRY CROWNE	m	Epilog. School today.
+TALIA	f	Lance! A Betty on your Scooter after midnight? Holding on, her arms around you, pressed against your back, is a license to at least cop a feel.
+LARRY CROWNE	m	If we had ended up making out, you still wouldn't hear it.
+PINEDO	m	Seeing them -- the Northern Lights, the Aurora Borealis -- should have been beyond me, but I was a little girl in Coach class still awake, a window seat, a moonless night somewhere over Greenland with a shimmering curtain of emerald, gossamer light dancing just for me. That is something I will remember forever. The teacher says nothing. DIBIASI That was a knockout speech, Lala. Made the news. Caused riots downtown. School's out til 2019.
+MERCEDES TAINOT	f	Mr. Crowne? A moment please?
+CALIMERIS	?	Why doesn't she just throw herself at him?
+PINEDO	m	This is bordering on harassment now.
+DIBIASI	?	Quiet down. I'm watching the TV show...
+MACK	m	Why doesn't this ever happen to me?
+MERCEDES TAINOT	f	I need a few moments alone with Mr. Crowne thank you.
+DIBIASI	?	Move along folks. Privacy's a right in this great nation of ours.
+MACK	m	You want I should close this door, lock it, and barricade it so you won't be disturbed??
+LARRY CROWNE	m	How are the Triplets? Groggy, Puffy, and Grumpy.
+MERCEDES TAINOT	f	Last night was a confluence of too many things happening in too short a time span.
+LARRY CROWNE	m	Last i ht? Let's see, what was I doing? Studying some. Working some. Can't recall. I've forgotten everything that happened last night as best a gentleman can.
+MERCEDES TAINOT	f	I had no right to judge you or your relationships. Date who you want.
+LARRY CROWNE	m	I wouldn't want that.
+MERCEDES TAINOT	f	I hope the entire thing will be forgotten.
+LARRY CROWNE	m	Sure. Nothing happened. At all.
+MERCEDES TAINOT	f	So there will be no bravado among you and your pals?
+LARRY CROWNE	m	None.
+MERCEDES TAINOT	f	Thank you, Mr. Crowne.
+LARRY CROWNE	m	I'd better scurry along to Dr. Matsutani's class. I hope I don't have this same conversation with him.
+LAMARR	m	Puff. Don't suck. Then... relax. See? Works.
+LARRY CROWNE	m	I have to sell my car.
+LARRY CROWNE	m	If I could afford a new top I could afford to keep it.
+LAMARR	m	What's the job paying you?
+LARRY CROWNE	m	Half my UniMart salary.
+LAMARR	m	You're down, Larry Crowne. Down as dirt.
+LARRY CROWNE	m	I'm looking back on the year Denise left as the good old days.
+LAMARR	m	Hang in there, neighbor.
+LARRY CROWNE	m	Everyone keeps saying that.
+LAMARR	m	I was in the same spot. Look what happened.
+LARRY CROWNE	m	The odds of two people on the same street winning the lottery are worse than one person on the street winning the lottery.
+LAMARR	m	I read how the universe is expanding, Larry, taking us along with it. That is a wild concept to grasp, but what it means is, we all have to hold on tight sometimes to get to where we're going to be.
+LARRY CROWNE	m	This thing must be making me dizzy. What?
+LAMARR	m	Keep your grip. You'll be okay. It's like the wife always says...
+LAMARR	m	A woman with a measuring tape? That's money in my pocket.
+HURLEY	m	' ind bargains today?'
+LARRY CROWNE	m	Vick? How you doing? Larry Crowne.
+HURLEY	m	Larry. Hi.
+LARRY CROWNE	m	Why are you on the Register?
+HURLEY	m	Management Execs are now required to put in 8-hour shifts on the floor. Every day. No overtime. No bonus. Just more hours. Cash or UniMart Bargain Card? Like you have one of them.
+LARRY CROWNE	m	Cash. No receipt.
+HURLEY	m	You got out of here just in time... 'Thank you for choosing UniMart, where united we blah blah.'
+DEAN TAINOT	m	Hi.
+MERCEDES TAINOT	f	Thanks for coming.
+DEAN TAINOT	m	No notice. No preamble. Just an email and a google map.
+MERCEDES TAINOT	f	I knew you'd be on the computer. Working...
+DEAN TAINOT	m	Point made. So. What up.
+MERCEDES TAINOT	f	Are we making a mistake here?
+MERCEDES TAINOT	f	Point made. We could change things. We could start right now.
+DEAN TAINOT	m	We could. Why should we?
+MERCEDES TAINOT	f	Because we have history, Dean. But first, my thoughts... I've got to address drinking. I should be able to comprehend and respond to both sides of our conversations. And the morning shower should be refreshing, not a hangover cure.
+DEAN TAINOT	m	I'd like that too.
+MERCEDES TAINOT	f	Really?
+DEAN TAINOT	m	You're not a pleasant woman after a few glasses. Mornings with you are to be survived.
+MERCEDES TAINOT	f	Okay. Now, you.
+DEAN TAINOT	m	I see. I'm what this is all about.
+MERCEDES TAINOT	f	There are plenty of items on the relationship agenda but let's start here.
+DEAN TAINOT	m	You're talking about you but you really mean me. I am not yelling or begging or saying you have to stop doing anything. So you don't get to either.
+MERCEDES TAINOT	f	I'm not saying that.
+DEAN TAINOT	m	We've both been here before. Why prolong the process? White flag! I give up. This ain't working. I'll sign papers and checks, see if there's enough for a cool sports car as a reward for the last few years and eventually I will be fine and you will too. But I am never once going to look at myself as another poor divorced guy who could still be married if only he had done the mea culpa bit for all his faults. I just now came up with that, and it is going to be my next posting.
+MERCEDES TAINOT	f	Here I have surprise topics. Friday, in a Lightning Round, you must wax on that topic for 2 minutes without pause, repetition, or lack of charm. No notes. One visual aid. Ms Pinedo Draw
+MERCEDES TAINOT	f	Spuds. Can't wait.
+DIBIASI	?	'Disraeli'? What is that?
+MERCEDES TAINOT	f	Who is that?
+DIBIASI	?	It's a guy from Disrael. I'm done.
+LARRY CROWNE	m	'Consumerism'.
+MERCEDES TAINOT	f	That's supposed to say 'Communism.'
+LARRY CROWNE	m	The handwriting is loopy. Looks like 'Consumerism'.
+MERCEDES TAINOT	f	Fine. 2 minutes on Consumerism.
+CALIMERIS	?	'Malpity Hoople.' What's this say?
+MERCEDES TAINOT	f	No idea. Just pick another.
+)	?	At the end of each chapter is a study guide. Master those and you will have mastered my book. Master my book and you will take over the world.
+TALIA	f	You digging what you see?
+LARRY CROWNE	m	You missed Matsutani's class. Review for the final.
+TALIA	f	I'm done w th college.
+LARRY CROWNE	m	What? Why?
+TALIA	f	Because I'm going into business.
+LARRY CROWNE	m	Talia. Don't be a fool. Stay in school. Don't throw away your education.
+TALIA	f	And don't drink and drive or do drugs and quit smoking and eat vegetables. I don't. I stopped. I did. I do.
+TALIA	f	Pretty much. Oh, look. Maurice gave us free tattoos. I wanted something in Japanese so check this out.
+TALIA	f	That one says 'courage'. That one says 'spirit'. Courageous Spirit.
+LARRY CROWNE	m	Japanese characters go the other way and that says Soy Sauce.
+TALIA	f	Oh shut up.
+LARRY CROWNE	m	It does. Soy sauce. Soy. Sauce. Quitting school is for dopes.
+TALIA	f	Be here for our Grand Opening!
+LARRY CROWNE	m	Might not make it. I have finals!
+FRANCES TAYLOR-BRIEGH	f	This place anonymous enough?
+MERCEDES TAINOT	f	As long as alcohol's out of my grasp.
+FRANCES TAYLOR-BRIEGH	f	They have good pie, they say.
+MERCEDES TAINOT	f	Great. Sugar can replace tequila in my bloodstream, my thighs, and the folds in my neck.
+MERCEDES TAINOT	f	Yep.
+FRANCES TAYLOR-BRIEGH	f	You'd think leggy blondes like us would be impervious, right?
+PERRY	m	Ladies. Bring an appetite?
+FRANCES TAYLOR-BRIEGH	f	The mark of a restaurant is their Key Lime pie.
+FRANCES TAYLOR-BRIEGH	f	No Key Lime?
+PERRY	m	Cream pies I got.
+FRANCES TAYLOR-BRIEGH	f	Boston Cream?
+PERRY	m	Boston Cream? Key Lime? Lady, you're killing me here.
+FRANCES TAYLOR-BRIEGH	f	Phooey. Peach. Peach pie.
+PERRY	m	Ma'am?
+MERCEDES TAINOT	f	I'll have the French Toast.
+FRANCES TAYLOR-BRIEGH	f	French Toast?
+MERCEDES TAINOT	f	(on the menu) Breakfast all day.
+FRANCES TAYLOR-BRIEGH	f	I have seen it happen a time or two.
+MERCEDES TAINOT	f	I kissed a boy.
+FRANCES TAYLOR-BRIEGH	f	When, third grade?
+MERCEDES TAINOT	f	One of my students.
+FRANCES TAYLOR-BRIEGH	f	You Hoor. Gimme the friggin' details! He's not a minor is he?
+MERCEDES TAINOT	f	Older than me.
+FRANCES TAYLOR-BRIEGH	f	Hugh Hefner in your class? What went down?
+MERCEDES TAINOT	f	He sort of... rescued me. And... he smelled nice.
+FRANCES TAYLOR-BRIEGH	f	He a fireman who bakes bread?
+MERCEDES TAINOT	f	I wanted to be kissed so asked if he wanted to and he did.
+FRANCES TAYLOR-BRIEGH	f	Bold. Who is he?
+PERRY	m	You're slipping, Larry. Lady says it's not French Toast as she knows it.
+LARRY CROWNE	m	She's insane.
+PERRY	m	Take it up with her.
+PERRY	m	No shouting, okay? This is a family friendly establishment.
+LARRY CROWNE	m	Frances Taylor-Briegh. You have a problem with your order?
+LARRY CROWNE	m	Mrs. Tainot.
+FRANCES TAYLOR-BRIEGH	f	The student of yours!?
+MERCEDES TAINOT	f	This is Larry Crowne.
+LARRY CROWNE	m	There's no way in creation I screw up French Toast.
+MERCEDES TAINOT	f	It was fine, actually. I wanted to see if it was really you cooking back there. And say, howdy. Howdy doody.
+LARRY CROWNE	m	You'll be the judge of that.
+MERCEDES TAINOT	f	Absolutely.
+LARRY CROWNE	m	Would you let my boss know so I don't lose this job?
+MERCEDES TAINOT	f	Yes indeed.
+LARRY CROWNE	m	Shall I prepare you another batch?
+MERCEDES TAINOT	f	No. Thanks.
+LARRY CROWNE	m	Then I will return to my station..
+FRANCES TAYLOR-BRIEGH	f	You kissed the cook... I got a whiff. He smelled like bell pepper.
+MERCEDES TAINOT	f	Look at the men in my life.
+FRANCES TAYLOR-BRIEGH	f	Blame it on the booze... and collect yourself. You hoor...
+MERCEDES TAINOT	f	That's my problem. I'm a drunken hoor. Check please?
+MERCEDES TAINOT	f	What a difference from day one. I must be a better teacher than I thought. Dibiasi is nailing it. Calimeris stopped up-talking. Lala you can't shut up. Mack spoke about Australia for three minutes and mentioned kangaroos only twice. And Larry Crowne... And... He's polite. Instead of fighting me off that night, what does he do but kisses me one and then all but tucks me in. What kind of guy does that to a loopy tramp like me? He could have ravaged me. I misread this guy and if I had a brain I'd find a way to steal him away from that cutie pie and keep him for myself. I wonder if he'd like that, if he would... What did I just say? What did I just say about Larry Crowne?
+DIBIASI	?	Nothing. And I was just wrapping up here.
+MERCEDES TAINOT	f	I'm so sorry. Please go on.
+DIBIASI	?	Larry? It okay if I get to my climax and denouement?
+DIBIASI	?	Thank you... If it was the romance novelist in him that made Victoria the Queen become such a pal, chalk it up as another brick in the legacy of Ben Disraeli -- Earl of Beaconsfield - Educator - and Prime Minister of Great Britain. Not bad for a Jewish guy, huh?
+PINEDO	m	Not so much as a bump, Nomad! Why'd you go last?
+DIBIASI	?	Fourth quarter dramatics. Not that it mattered to my Speech professor...
+MERCEDES TAINOT	f	Congratulations all of you.
+MACK	m	Who's the MVP, Mrs. Tainot? Can we vote?
+MERCEDES TAINOT	f	Not me, I have to stay objective.
+MACK	m	I say... Lala!
+MACK	m	This is the last of them. Damn, you have a lot of records.
+LARRY CROWNE	m	Priceless at a buck apiece.
+PATIENCE	f	A two-bedroom apartment and you don't have room for your furniture?
+LAMARR	m	Selling this futon-sofabed? All those years across the street and you've learned nothing. What's the minimum you'll take for this stuff?
+LARRY CROWNE	m	You'll get me top price.
+LAMARR	m	You did learn.
+DIBIASI	?	Pizza at last!
+LARRY CROWNE	m	Here's lunch as promised!
+STRANG	m	Son of a cock. Larry Crowne.
+LARRY CROWNE	m	Jack Strang. Wow. This is irony.
+STRANG	m	Two extra large. One Salad Bucket. Box of Frosty Cinnamon Eggs. Sixteen- fifty.
+LARRY CROWNE	m	Jack. I need two bucks back. Times are tough.
+STRANG	m	Tell me about it.
+LARRY CROWNE	m	Ah. Forget it. Keep the change.
+STRANG	m	I appreciate it. That could have been
+RAUL	m	My next wife just walked in.
+PERRY	m	I love this business sometimes. Something told me you'd be back. Is Larry Crowne working today?
+PERRY	m	Larry, your Speech 217 teacher has a question about the menu.
+RAUL	m	Go ahead. I'll take the window even though I'm the boss of the whole kitchen.
+MERCEDES TAINOT	f	There's Larry Crowne. Are you allowed to sit? Where does Perry get his coffee?
+LARRY CROWNE	m	I add chicory and a bit of vanilla. Trick I picked up in the Navy.
+MERCEDES TAINOT	f	You're probably wondering why I stopped by. Well, it's to tell you your grade for Speech 217. You killed on the final and have an A. Way to go!
+LARRY CROWNE	m	Didn't expect that. Thanks, Mrs. Tainot.
+MERCEDES TAINOT	f	Class is out. Call me Mercedes. Or Mercy, for short. So. Just wanted to congratulate you. Your girlfriend will be thrilled.
+MERCEDES TAINOT	f	No. I meant the... never mind. Which classes are you going to ace next term?
+LARRY CROWNE	m	This has turned into a full time gig. Out of necessity.
+MERCEDES TAINOT	f	I hope you continue your education. Back at East City. You've made such a good start.
+LARRY CROWNE	m	I'll have to see.
+MERCEDES TAINOT	f	I got Speech 217 moved to 10 AM, thank God. Who knows what I'll hear with the extra sleep.
+LARRY CROWNE	m	My first class in college ever. And I get an A. Gotta be the teacher.
+MERCEDES TAINOT	f	Should get going. You don't know anything about car devices, do you?
+LARRY CROWNE	m	Cars not much. Devices some.
+GPS VOICE	m	Please enter your destination.
+MERCEDES TAINOT	f	Oh be quiet.
+MERCEDES TAINOT	f	It is Hellspawn.
+LARRY CROWNE	m	In my old job, I'd have steered you to a Vortex unit. The MapGenie interface is clumsy and the menu needs too many inputs.
+MERCEDES TAINOT	f	It was working fine. Then I think I pressed too many buttons.
+LARRY CROWNE	m	Ah. The Auto On Feature is engaged. Menu. Select. Features. Auto Voice. Select. Change? Yes. On. Off. Done? Yes. Save. Back. Back. Back. Exit.
+MERCEDES TAINOT	f	Seemed like years and years.
+LARRY CROWNE	m	All better now. Should be able to find your way. Thanks for the good news...
+PERRY	m	Kimosabe, holding off til after school to woo the teacher is the move of a class act.
+DIBIASI	?	(on his phone) I gotta get off, Baby, or I'm in hot water with Professor Tai-bo...
+MERCEDES TAINOT	f	Is Larry with you?
+CALIMERIS	?	Um, no. Should we track him down and drag him in here?
+MERCEDES TAINOT	f	I... Seeing you all... I just thought... Choose a seat and lets get started!
+PINEDO	m	Carrying a torch for Larry til it burns her hands...
+BUSIK	m	All the excitement of first day of term, I don't want to go back to my empty apartment. Do you? I need a drink and some talk and some wind- down time. Don't you?
+MERCEDES TAINOT	f	Dr. M.
+MERCEDES TAINOT	f	Larry's enrolled?
+MERCEDES TAINOT	f	Larry said that about me?
+BUSIK	m	Oh yeah! I put that guy in your class. So technically, I changed his life.
+MERCEDES TAINOT	f	He is a good student Is there any chance you would consider having drinks with an older faculty peer who holds a PhD in Economics?
+MERCEDES TAINOT	f	Well, no. No offense Dr. M.
+MERCEDES TAINOT	f	News travels fast.
+BUSIK	m	If you're going out, I'm not doing anything.
+BUSIK	m	For the spicy wings, yes!
+GPS VOICE	m	Right Turn.
+MERCEDES TAINOT	f	Got it Turning right
+GPS VOICE	m	Your destination is ahead on the right.
+MERCEDES TAINOT	f	It is? That was a breeze. Thank you.
+TALIA	f	I love that blouse with that skirt but I'd show more leg if I were you.
+MERCEDES TAINOT	f	I'm Mercy Tainot
+TALIA	f	Bambi Romp in the Glen. Looking for Lance?
+MERCEDES TAINOT	f	4225 Harbor?
+TALIA	f	This is 4227. 4225. You'll see the stairs.
+TALIA	f	Little higher heels'll get you wolf whistles.
+MERCEDES TAINOT	f	Did you tell Ed Matsutani taking my class changed your life?
+LARRY CROWNE	m	Yes.
+MERCEDES TAINOT	f	How?
+LARRY CROWNE	m	I met you.
+

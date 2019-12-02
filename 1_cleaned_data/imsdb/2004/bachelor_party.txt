@@ -1,0 +1,903 @@
+SISTER MARY FRANCIS	f	Make one more move and you'll both  be staying late for the rest of the  week.
+THE BOYS	m	Sorry, Sister Mary Francis.
+SISTER MARY FRANCIS	f	I didn't hear you.
+THE BOYS	m	Sorry, Sister Mary Francis.
+SISTER MARY FRANCIS	f	Step away from the curb, children.
+SISTER MARY FRANCIS	f	You're late again, Rick.
+RICK	m	I know, Sister, but I have a very  good excuse.
+SISTER MARY FRANCIS	f	There can be no excuse for tardiness.
+RICK	m	You're absolutely right. I should  never have stopped to save that  drowning infant. I'm just weak,  Sister; I'm so weak.
+SISTER MARY FRANCIS	f	All right, stop that... Children, on  the bus.
+RICK	m	Sister, do you ever get lonely after  vespers? If you do, why don't you  give me a call. I'm in the book.
+SISTER MARY FRANCIS	f	Get going, Rick... you're late enough  as it is.
+RICK	m	Right... Think it over.
+RICK	m	If you don't all calm down I'm gonna  drive this thing over a cliff.
+RICK	m	Ah... youth.
+O'NEILL	m	Okay, Timmy... hold that smile...  and watch the birdie.
+O'NEILL	m	There.
+O'NEILL	m	These should be in the mail to you  by next Friday.
+O'NEILL	m	Next.
+O'NEILL	m	Whoa. Look at those babies.
+O'NEILL	m	How are we doing? My name is O'Neill.  And you are...?
+WOMAN	f	Klupner. Mrs. Klupner.
+O'NEILL	m	Mrs.?
+WOMAN	f	I'm separated.
+O'NEILL	m	Then there is a God. Why don't we  take that baby picture.
+O'NEILL	m	If I were you, I'd breast feed until  I was 17 or 18. Tell ya what...
+O'NEILL	m	Why don't you lean into the picture  with your child?
+O'NEILL	m	A-huh. A little more... good!
+O'NEILL	m	I'm getting one heck of a glare off  your dress there. Could you undo a  few buttons?
+WOMAN	f	Of course.
+O'NEILL	m	Now lean in a little more... more...  more...
+O'NEILL	m	Hold that pose.
+O'NEILL	m	Where'd she go?
+RICK	m	She probably had sex scheduled for  12:30. O'Neill, let's pick up the  guys for a drink... I have major  news to announce.
+O'NEILL	m	Okay... be right with ya.
+RICK	m	Pictures a family will cherish  forever.
+RICK	m	Hey, Chulo, where are you, man?
+CHULO	m	Hey, you guys, what's going on?
+RICK	m	We're going for a little liquid  refreshment.
+CHULO	m	Great. I'll go with you. Wait a  second. Hey, Raul! Move that car,  will you?
+CHULO	m	Roberto, you finished fixing that  lighter yet?
+CHULO	m	I'm glad you guys came by... What's  the occasion?
+O'NEILL	m	Rick's got an important announcement  to make.
+CHULO	m	Yeah. What is it?
+RICK	m	I've decided not to run for President.
+CHULO	m	Too bad, man, that blows my chance  to be Ambassador to France.
+CHULO	m	Manuel, be sure and finish up the  electrical system on that Chevy.
+GARY	m	Screw you... Screw that... Don't  jerk me around. You promised me 1500  seats for the Police Concert... 1500,  not fifteen!... Screw that... Screw  you -- Screw Sting. Hi, guys.
+RICK	m	Gary, you're quite an animal.
+GARY	m	Screw you...
+GARY	m	Hello, Concert tickets... What? Pat  Benitar has a yeast infection? She's  cancelling? Screw her. You know what  this is gonna cost me?... Okay. Let's go.
+GARY	m	Screw you... That's crap... Suck  my... Oh, Mom, I didn't know it was you...  eggs and milk... Okay, I won't forget.
+GARY	m	Let's go.
+RICK	m	Isn't he incredible, gets along with  everybody.
+CHULO	m	Yeah, he's really got his thing  together.
+GARY	m	Oh, eat me!
+CUSTOMER ONE	m	Waiter.
+CUSTOMER ONE	m	We'd like to order now.
+RYKO	m	How you guys doin'... Could you  believe how overcast it was this  morning? Bad day for sailin', waves  are too rough and...
+CUSTOMER	m	You can skip the small craft warnings.  We're in a hurry.
+RYKO	m	No prob, bud... Here's today's  dealie...
+RYKO	m	We got... uh, veal... ah... veal... What's this word?
+CUSTOMER ONE	m	Parmisan.
+RYKO	m	Yeah right. I always want to say  Paramisian when I see that. We looked  at them under the jigamabob in biology  once. Little squirmy, creepy things  that live in your intestine and...
+CUSTOMER	m	Please... We have an appointment in  a half hour...
+RYKO	m	Wow, sounds stressful. What do you  guys do for a living?
+CUSTOMER ONE	m	We're lawyers.
+RYKO	m	Whoa... You got to go to school for  that or what?
+CUSTOMER	m	Look, forget the specials. We'll  take three hamburgers.
+RYKO	m	Okay, great... Any of you guys got a  pencil by any chance?
+RYKO	m	All right, a Bic... How 'bout a piece  of paper?
+RICK	m	Ryko. Come on!
+RYKO	m	Be right there. Nice rappin' with you guys.  Unfortunately I'm outta here. Someone  else will have to help you. Skip!
+SKIP	m	Like um... What's the deal, you guys  gonna order?
+RYKO	m	Hi pals.
+GARY	m	Okay... We're all here. Rick, what's  the big announcement?
+RICK	m	All right, gentlemen, I'm not gonna  sugar-coat this thing. I've known  you guys since grade school, so I'm  gonna give it to you straight from  the hip... right from the shoulder...  without beating around the bush...  Nothing fancy, just the plain, hard  facts... tell it like it is.
+CHULO	m	Man, you're losing your audience.
+RICK	m	Okay... This is it... I'm getting  married.
+O'NEILL	m	What?
+CHULO	m	You're kidding.
+GARY	m	I don't believe it.
+RYKO	m	Fuck me!
+RICK	m	Yes, gentlemen. Saturday after next,  I lose my amateur standing and turn  pro.
+CHULO	m	Hey, man, congratulations!
+GARY	m	Wait a minute. You been living with  Debbie! Why do you want to get  married?
+RICK	m	Because I love her. What can I tell  you?
+RYKO	m	You sure? This means no more partying.
+RICK	m	No more raping and pillaging, either.  You'll have to carry on without me.
+GARY	m	Next Saturday... That's just two  more weeks to live.
+O'NEILL	m	Hold it... As long as you're gonna  go through with this, the least we  can do is make sure you go out in  style.
+CHULO	m	Yeah, man. Let's throw a bachelor  party with drugs, booze and broads.
+O'NEILL	m	Yeah. Right. All the things that  make life worth living.
+RICK	m	Sounds swell... I'm really touched.  And my getting married's not gonna  change a thing between me and my  pals. We're still gonna go bowling  on Tuesdays, play cards on Fridays  and wear women's clothes on Sunday  night. I love you guys... I always  will.
+GARY	m	Let's have a toast.
+O'NEILL	m	To Rick.
+GARY	m	To us.
+CHULO	m	To girls with big pairs.
+ALL THE GUYS	m	Yeah, right on, etc.
+CUSTOMER	m	I'd like to pay for these.
+PHOEBE	f	Huh... What... Oh sure, wait till  this song is over.
+CUSTOMER	m	Excuse me, where can I try on these  pants?
+DEBBIE	f	Right over here.
+BOBBIE	?	Debbie... I don't believe it. I'm so  excited.
+DEBBIE	f	Bobbie, what are you talking about?
+BOBBIE	?	O'Neill just tole me. It's sooo  great... I don't believe it.
+PHOEBE	f	What's happening?
+BOBBIE	?	Debbie's marrying Rick.
+PHOEBE	f	...Really?
+DEBBIE	f	Yes, it's true.
+PHOEBE	f	Ohmygod.
+DEBBIE	f	Would you get out of here.
+BOBBIE	?	Does Cole know about this?
+PHOEBE	f	Really -- you went with him for two  years.
+DEBBIE	f	He still thinks I'm going with him.  I'm going to break the news to him  tomorrow.
+BOBBIE	?	He's not gonna be happy. And your  parents can't be too thrilled either.
+DEBBIE	f	No. As far as they're concerned the  only good Rick is a dead Rick. But I  don't care... it's my decision.
+PHOEBE	f	I'm totally blown away. You're getting  married. It seems like only yesterday  I showed you how to have oral sex.
+BOBBIE	?	Deb, I want to throw you a shower.
+DEBBIE	f	Oh, that's really sweet. I'd love  that.
+PHOEBE	f	We'll invite all the girls.
+BOBBIE	?	I don't believe it... Mrs. Rick Stahl.
+DEBBIE	f	God, you're a slob.
+RICK	m	But a fabulous cook.
+DEBBIE	f	What are we having?
+RICK	m	It's either meatloaf, Swiss steak or  charred flesh. I won't know till  it's finished.
+DEBBIE	f	I think your dinner's burning.
+RICK	m	Don't worry... it's supposed to do  this.
+DEBBIE	f	Want to hear something great? Bobbie  and Phoebe are throwing me a shower.  It's really gonna be fun.
+RICK	m	Not as much fun as the bachelor party  the guys are throwing for me.
+DEBBIE	f	You're going to have a bachelor party?
+RICK	m	Of course. I'm a traditional guy...  It's a traditional event. Well, what do you think?
+DEBBIE	f	It looks awful.
+RICK	m	Yes, but looks are deceiving... Not in this case, however.
+DEBBIE	f	Are you going to have women at your  party?
+RICK	m	No, sweetheart, it's a stag party.  Does stay home.
+DEBBIE	f	I'm not talking about does. I'm  talking about hookers.
+RICK	m	Oh, those. Why do you ask?
+DEBBIE	f	Because from what I've heard, it's a  tradition and you're a traditional  guy.
+RICK	m	Deb, you is my woman now. I is yo  man. No painted lady ever gonna come  between us.
+DEB	f	I need you to promise.
+RICK	m	Okay, you got it. I got a way we can  seal the deal -- what'd you say?
+DEBBIE	f	Cole?... Cole!
+DEBBIE	f	Cole?
+COLE	m	Over here, Deb... in the Smokehouse.
+COLE	m	Hi, Deb. Just got back from the  mountains. Isn't this a beauty?... It's gonna  look great in the den.
+DEBBIE	f	Cole, we've got to talk.
+COLE	m	Finally realized Rick's a jerk, huh?
+DEBBIE	f	No, Cole, I...
+COLE	m	It's all right, I forgive you. I'm  not the vengeful type. We'll forget  what happened. Why don't we take a  trip together? Maybe kill a few lions  in Kenya over Christmas.
+DEBBIE	f	Cole, listen to me... I've got to  tell you...
+COLE	m	You know, when you dumped me for  that wimp, I thought, Cole, she'll  be back. God wants the two of you to  be together, and sure enough...
+DEBBIE	f	Cole, I'm marrying Rick.
+COLE	m	You're marrying him? Then why are  you coming back to me?
+DEBBIE	f	I'm not. I just thought I should  tell you myself before you heard it  somewhere else.
+COLE	m	You know how that makes me feel,  Deb? Wanta know how that makes me  feel? Angry, Deb. Yesss, that's the word, angry. But  if he makes you happy, you go right  ahead. I want you to be happy, Deb. No matter what, no matter how angry  it makes me, no matter how much it  hurts. Be happy, Deb. Be oh, so very,  very happy.
+DEBBIE	f	Cole, I'm sorry, I...
+COLE	m	That's all right, Deb. Go be happy  and smile a lot, Deb. Do it for me.
+DEBBIE	f	I'm going now, Cole.
+COLE	m	I understand, Deb. 'Bye... be happy.
+STAN	m	Okay, Rick, hold out your arm.
+RICK	m	You wouldn't hurt your own brother,  would you? I changed my mind. I don't need a  blood test. The marriage is off. I --
+RICK	m	You always were sneaky, Stan, very  sneaky.
+STAN	m	Rick, marriage will be good for you.  It's done wonders for me.
+RICK	m	True, you're a lot handsomer now.  Don't you have enough blood already?
+STAN	m	You won't miss a thing about being  single... The wild parties, the  different girls every night, running  around like a maniac... God, I miss  that.
+RICK	m	Stan, you're depressing me... Hey, I  didn't know you were going to fill  'er up. Just take a couple of gallons,  okay?
+RICK	m	That's an even trade... a cotton  ball for all my blood.
+STAN	m	Okay, Rick, all finished. I can't  wait for that bachelor party... I  need the action.
+STAN	m	Don't say anything to my wife about  it.
+RICK	m	Hi, Tina.
+TINA	f	Rick... Mr. Goldsmith, this is my brother-in- law. He's getting married.
+PATIENT	m	Congratulations.
+TINA	f	Nurse, will you take over?
+TINA	f	I'm so happy for you.
+RICK	m	Oops!
+MR. THOMERSON	m	All right, who serves?
+DEBBIE	f	You do, Daddy.
+MR. THOMERSON	m	Rick, hit the ball easier, son. You  don't have to kill it.
+RICK	m	Can't I just maim it a little?
+MRS. THOMERSON	f	Er... perhaps we ought to stop now.
+MR. THOMERSON	m	No. Let's at least finish the set.
+MAN	m	One of these days I'm gonna burn  Thomerson's court to the ground.
+RICK	m	Well, I have to admit my game's a  little rusty, but I love polo. It's  unrelenting, a constant challenge to  the senses. Really a beautiful  experience.
+MR. THOMERSON	m	Rick, I want to cut through the b.s.
+RICK	m	I'd love that.
+MR. THOMERSON	m	Good. I think you're an asshole. No,  let me correct that, an immature  asshole. Which is fine, except you're  marrying my daughter and I'm afraid  my grandchildren are going to be  little assholes.
+RICK	m	Mr. Thomerson, I...
+MR. THOMERSON	m	Let me finish. Debbie's an adult.  She can do what she wants. But if  you want your marriage to last, you're  going to have to change some things  about yourself. If I may make some  suggestions...
+RICK	m	Feel free.
+MR. THOMERSON	m	First, you're a slob. You have to  dress for success. Second, your  outlook on life...
+MRS. THOMERSON	f	I'm using the same caterer for the  shower I had for our Christmas party  last year.
+DEBBIE	f	Great, Mom.
+ILENE	f	If I were you, I'd worry less about  the shower and more about Rick's  bachelor party.
+DEBBIE	f	Ilene, why would I want to do that?  I trust Rick.
+ILENE	f	Of course you do. I trusted my ex,  Mel, too. Cousin, I can only talk  from experience. What do you think  they do at these parties, have tea  and play scrabble?
+DEBBIE	f	Ilene, Rick promised...
+ILENE	f	Debbie, don't be naive. Men are pigs.
+MRS. THOMERSON	f	Girls, why don't we go inside for  lunch. Boys, would you mind bringing in  that lemonade?
+MR. THOMERSON	m	In a second... And you're irresponsible. Show some  initiative, try to better yourself,  stop showing off, actions speak louder  than words.
+RICK	m	Well, sir, that's quite a list. But  you're absolutely right. And if I  work hard at it, I think I can be a  totally changed person by the time  we finish lunch...
+NEIGHBOR	m	I hate those people... I really do.
+COLE	m	Hi, everybody. Am I late?
+MR. THOMERSON	m	Not at all. We're just finishing  lunch.
+COLE	m	Good to see you, Mrs. Thomerson.  Hello, Debbie.
+COLE	m	And...
+RICK	m	Bond... James Bond.
+MR. THOMERSON	m	So, Cole, you been practicing your  game?
+COLE	m	Sure have...
+DEBBIE	f	Why is Cole here?
+MRS. THOMERSON	f	You know your father enjoys his  company.
+RICK	m	Much the way Hitler enjoyed hanging  out with Mussolini.
+MR. THOMERSON	m	Nice shot.
+COLE	m	Thank you, sir.
+MR. THOMERSON	m	I know you're as unhappy as I am  about Debbie's marriage to Rick.
+COLE	m	Yes, sir, I am.
+MR. THOMERSON	m	Cole, I don't want you to give up on  her.
+COLE	m	I've tried to change her mind.
+MR. THOMERSON	m	It's not her mind you need to change.  It's Disneyland head in there.
+COLE	m	But how can I do that?
+MR. THOMERSON	m	If it were me, I'd reason with him  first. Then, if that failed... ...I'd take more persuasive action.
+COLE	m	Thanks for the advise, sir.
+MR. THOMERSON	m	Keep me informed.
+MR. THOMERSON	m	The thought of that person marrying  my daughter makes me want to upchuck.
+MRS. THOMERSON	f	You can tell a man by his friends.
+FATHER FALWELL	m	They're not such a bad bunch.
+MR. THOMERSON	m	No? That's his best man peeing on a tree.
+FATHER FALWELL	m	If everyone would take their  positions...
+FATHER FALWELL	m	Oh, dear. Well, let's begin. And...
+FATHER FALWELL	m	Flower Girls... Now Rick... Good... Debbie and Mr. Thomerson.
+RICK	m	Cole. Don't you know it's bad luck  to see the groom before the wedding?
+COLE	m	I want Debbie.
+RICK	m	Cole...
+COLE	m	You dump her and I'll give you cash.
+RICK	m	What's Debbie's blue book value right  now?
+COLE	m	Five thousand dollars.
+RICK	m	No.
+COLE	m	Seventy-five hundred.
+RICK	m	Not interested.
+COLE	m	Okay, ten thousand plus a G.E. toaster  oven, a Litton microwave, a  Cuisinart...
+RICK	m	I'm marrying Debbie.
+COLE	m	Michelin tires... brand new. A set  of Sears Best metric tools...
+RICK	m	What is this person's story here?
+O'NEILL	m	The way I see it, the big lug is in  love and he's got a lot of major  appliances lying around.
+DEBBIE	f	Cole, what are you doing here?
+MR. THOMERSON	m	He's just trying to save you from  making a mistake. A big mistake.
+RICK	m	Thanks, Dad. Cole, go away.
+COLE	m	He's gonna hurt you, Debbie. He'll  never be true to you the way I would.
+RICK	m	Thank you. We'll all keep that in  mind. 'Bye now.
+COLE	m	Rick, me and you aren't through yet.
+RICK	m	Ladies and gentlemen, Cole Whittier.  Let's hear it for him -- a funny,  funny guy. We love ya, babe.
+RICK	m	You think the gods are telling me  something?
+RICK	m	Huh? Wha...
+DEBBIE	f	I can't sleep.
+RICK	m	Oh... I got something for that.
+DEBBIE	f	Stop fooling around... I need to  talk.
+RICK	m	What's the matter?
+DEBBIE	f	I don't know... I just feel scared.
+RICK	m	About what?
+DEBBIE	f	The wedding, my parents, your family,  our friends, my job, the future, our  relationship, the caterers, my gown,  your tuxedo, our honeymoon, the  apartment, my shower, your bachelor  party...
+RICK	m	I think the only think you've left  out are our relations with the Soviet  Union. Sweetheart, everything's gonna  be all right.
+DEBBIE	f	Before or After I have my nervous  breakfown?
+RICK	m	C'mere.
+DEBBIE	f	That feels so great.
+RICK	m	Good...
+DEBBIE	f	Um... that's very relaxing.
+RICK	m	Now, I want you to lie down and drift  off to slumberland.
+RICK	m	Close your eyes... that's it...  There's nothing to worry about... I  love you... I'm a great guy... In two days you're gonna be Mrs.  Great Guy.
+RYKO	m	You sure Gary's got this whole party  deal together?
+CHULO	m	Yeah, man, he's got us a great room  at the hotel and lots of chicks.
+RYKO	m	I hope so. Hundred bucks apiece is a  lot of dinero.
+CHULO	m	What time are we supposed to get to  the hotel?
+O'NEILL	m	Don't worry, Chulo, the party's not  gonna start without you. We got plenty  of time.
+STAN	m	I can't wait to see old Larry...  It's been five years.
+RICK	m	At least.
+O'NEILL	m	Where the hell is he?
+RICK	m	Knowing Larry, he probably missed  the flight.
+STAN	m	There he is... Hey, Larry!
+LARRY	m	Guys... guys... guys...
+RICK	m	'Ludes... 'ludes... 'ludes.
+LARRY	m	God, I love you guys.
+LARRY	m	This makes me so happy.
+O'NEILL	m	So, Larry, how have you been?
+LARRY	m	Just in love with everybody. It's  really a beautiful planet. I love  you, Rick. I love you guys. I love  everybody.
+RICK	m	So how's your wife?
+LARRY	m	I hate her. I hate her guts, the  bitch.
+O'NEILL	m	Larry, you and your wife got problems?
+LARRY	m	I don't want to talk about it. I  love you guys. I love my friends.
+LARRY	m	You want to share it?
+RICK	m	Naw, two on a Quaalude... bad luck.
+LARRY	m	Right.
+LARRY	m	My marriage is the worst. All crap.  A big pile of shit.
+RICK	m	Maybe your marriage should lay off  grains for a while.
+LARRY	m	She hates me. It's over. You'll see,  as soon as you get married, everything  changes. You sure you want to go  through with it, man?
+RICK	m	What do you mean, it changes?
+DEBBIE	f	Larry, how are you?
+LARRY	m	Hi, Debbie, congratulations. Hey, do  you know where there's a pharmacy  around here so I can get a  prescription filled?
+RICK	m	Come on, get him on the bus.
+RICK	m	Well... twenty-four more hours to go  and tonight we'll share with our  friends and loved ones the joys of  those last moments of singleness.
+DEBBIE	f	You better not have too much joy.
+RICK	m	Wouldn't think of it. Because  tomorrow... We're going to the chapel and we're...
+DEBBIE	f	Gonna get married...
+EVERYBODY	m	Going to the chapel and we're gonna  get married.
+DEBBIE	f	Gee, I really love you...
+RICK	m	And we're gonna get ma-a-a-ried.
+EVERYBODY	m	Going to the chapel of love.
+RICK	m	Yeah, yeah, oh, yeah.
+EVERYBODY	m	Going to the chapel of love.
+RICK	m	This is it, lady. Last stop.
+DEBBIE	f	Can't I just go with you guys?
+RICK	m	Sorry, we got men's business to do.  It's no place for a lady.
+DEBBIE	f	Remember, you promised... no screwing  around.
+RICK	m	Did I promise that? I don't remember  that...
+DEBBIE	f	You're really pissing me off.
+RICK	m	Okay, I promise... I swear on my  mother's grave.
+DEBBIE	f	Your mother's not dead.
+RICK	m	Well, if I go back on my word, I'll  kill her.
+DEBBIE	f	Have a good time. Don't make it too  late.
+RICK	m	Anything you say, ma'am. Have a fun  shower. Use soap.
+DEBBIE	f	I love you.
+O'NEILL	m	What's the matter?
+RICK	m	Nothing... Let's get crazy!
+RYKO	m	All right!
+CHULO	m	When do the girls get to the party?
+O'NEILL	m	Don't worry, Gary's taking care of  that now.
+GARY	m	So we want your best girls, the cream  of your crop.
+JUMBO	m	Let's see your bread.
+JUMBO	m	Okay, I got just what you're looking  for. Margot... Darlene...
+GARY	m	They'll do just fine. Hiya, girls.  Look, after the orgy, maybe we could  have coffee.
+JUMBO	m	Shorty, where's the party?
+GARY	m	Park View Hotel, Room 1002.
+JUMBO	m	They'll be up there in a half hour.
+GARY	m	Okay. Nice to meet you both.
+COLE	m	Hi. I must have just missed my friend.  He hired you for a bachelor party.
+JUMBO	m	At the Park View Hotel, Room 1002.  What about it.
+COLE	m	Yeah. Right. This is the new address. We changed  our minds and decided to send the  girls over to his house instead.
+COLE	m	And here's a fifty... I want this to  be a surprise, so you never saw me,  okay?
+JUMBO	m	No problem.
+COLE	m	Now she'll see what kind of jackoff  he is.
+RICK	m	Be careful with it. It's a rental.
+O'NEILL	m	We who are about to go ape shit salute  you.
+RYKO	m	All right, I'm stoked!
+MANAGER	m	Just where do you guys think you  are?
+O'NEILL	m	The Library of Congress?
+CHULO	m	Detroit?
+LARRY	m	Beyond the sun?
+RICK	m	Are any of those right?
+MANAGER	m	This is the Park View Hotel. I'm the  Hotel Manager. Are you looking for  someone?
+RICK	m	Yes, you. We're looking for our  room... 1002.
+MANAGER	m	It's on the tenth floor.
+RICK	m	What do you know, they moved it.  Catch you later.
+MANAGER	m	Keep your voices down. This is a  respectable establishment. We don't  go for any funny business here. Just  then a GUY with a Moosehead Beer hat  and TWO GUYS in a moose costume pass  him and enter the elevator with the  boys.
+RICK	m	I see what you mean... You're a  beautiful guy. And you're doing a  damn good job.
+PHOEBE	f	Do you have any more of this dip,  Mrs. Thomerson? It's really excellent.
+MRS. THOMERSON	f	You just ate Purina Cat Chow.
+PHOEBE	f	Gross me out...
+DEBBIE	f	What do you think's gonna go on at  the guys' party?
+BOBBIE	?	They'll probably get drunk, and watch  dirty movies. But don't worry about  the dirty movies.
+DEBBIE	f	What do you mean?
+BOBBIE	?	I forgot to tell you. Yesterday I  found a bunch of pornos in the back  seat of O'Neill's car.
+DEBBIE	f	You're kidding.
+BOBBIE	?	Nah. Everything's cool... I took  care of 'em.
+O'NEILL	m	1004, 1003...
+O'NEILL	m	And now...
+O'NEILL	m	...to our honored guest Rick, and  his life-long friends, I say... ...gentlemen, start your boners.
+RYKO	m	Bitchin' place.
+O'NEILL	m	I did the balloons myself.
+CHULO	m	Where's the women, man? We gotta  have women.
+O'NEILL	m	Chulo, one thing at a time.
+CHULO	m	Sex is my one thing. I'm good at it.
+STAN	m	What's first?
+O'NEILL	m	A bit of a warm-up.
+O'NEILL	m	We'll spend an hour with "Nymphos  Without Pants"...
+RICK	m	Olivier's in that, right?
+O'NEILL	m	Then it's on to the real thing.
+GUYS	m	All right!
+CHULO	m	They're Danish, I know it. I'm crazy  for Danes.
+RYKO	m	Denmark makes great Nautilus  equipment.
+CHULO	m	I'd like to jerk and press those  babies.
+RICK	m	And I thought we wouldn't have any  meaningful conversation.
+GUYS	m	All right, yeah, yeah, yeah...
+EVERYONE	m	Awwww...
+GUYS	m	Yes, go, go, yes, go...
+GUYS	m	Awwwwww...
+RICK	m	Excuse me, but this is as arousing  as a stroll through the Vatican.
+O'NEILL	m	This isn't right.
+GUYS	m	Please, yes, do it, yes, yes, oh  yes...
+STAN	m	Where are the dirty parts? I'm a  doctor. I can see these things.
+CHULO	m	What a waste of two women.
+O'NEILL	m	I don't get it, but at least Gary's  got the real stuff coming up here in  a few minutes.
+CHULO	m	Women!
+MRS. THOMERSON	f	Yes?
+MARGOT	f	Yeah, hi. Look, is this...
+MARGOT	f	838 North Franek Avenue?
+MRS. THOMERSON	f	Yes.
+MARGOT	f	We're here.
+MRS. THOMERSON	f	How nice.
+TINA	f	I'm Tina Stahl.
+MRS. THOMERSON	f	Of course. Stan's wife... Everyone  come in.
+DEBBIE	f	Tina!
+DEBBIE	f	You know everyone here, don't you?
+TINA	f	Yes.
+MARGOT	f	One of these, huh?
+DARLENE	f	Looks that way.
+MARGOT	f	Buck's a buck.
+DEBBIE	f	It's so heavy.
+DARLENE	f	Is there an empty outlet in here?
+CHULO	m	If I was Ricky Ricardo I would beat  the shit out of that chick.
+LARRY	m	Wow! The colors are sooo beautiful.
+RYKO	m	Isn't there any beer that's not  imported? All this stuff's from St.  Louis.
+RICK	m	Bartender, round of brains for my  friend here.
+GARY	m	How's it going, guys?
+EVERYONE	m	Where's the girls? Where's the girls?
+RICK	m	Give the guy air. Everyone to a  neutral corner.
+GARY	m	What's going on?
+CHULO	m	Nothing. We got no women.
+GARY	m	Screw you.
+RICK	m	It's true.
+GARY	m	This place should have been wall to  wall tits by now.
+RICK	m	Guy paints a beautiful picture.
+GARY	m	I'm going to see what the hell  happened.
+RICK	m	Looks like the only one who got  screwed here was you.
+GARY	m	Screw that.
+O'NEILL	m	So, what do you guys think of the  party so far?
+RICK	m	Well, I think you've done a damn  fine job.
+COLE	m	Rick, I want to talk to you.
+RICK	m	Ah, Cole. I don't remember ordering an asshole  from room service.
+COLE	m	I don't want any trouble.
+RICK	m	Oh, come on, just a little.
+COLE	m	I'm ready to make you another deal.
+RICK	m	Ooh, be still, my heart.
+COLE	m	See that down there? That's my most  prized possession. My new Porsche.
+RICK	m	Very nice...
+RICK	m	Isn't that a great car, Chulo?
+CHULO	m	Yeah... real nice. Ah, excuse me.  I'll be right back.
+COLE	m	Great car.
+RICK	m	The best.
+COLE	m	I love that car.
+RICK	m	I'm very happy for you two.
+COLE	m	I'll trade you my Porsche for Debbie.  An even swap.
+RICK	m	The car for Debbie?
+COLE	m	I mean it. The car is yours. Dump  Debbie.
+RICK	m	Gee, guys, what should I do? The car  or Debbie?
+RICK	m	What a decision here.
+COLE	m	Low mileage... Handles like a dream.
+RICK	m	So does Debbie.
+COLE	m	I got the car only two months ago --  it's got --
+COLE	m	Shit, shit, shit, shit. My car's  gone!
+RICK	m	Maybe it had something to do.
+COLE	m	Shit!
+O'NEILL	m	Odd. He's only been gone a few seconds  and I already miss him.
+GARY	m	Jumbo, where the hell are the women?
+JUMBO	m	What are you talking about, asshole?
+GARY	m	Your whores never showed up.
+JUMBO	m	They left an hour ago, pink nuts.
+GARY	m	Screw you!
+JUMBO	m	That's it, prick lips.
+GARY	m	What are you...
+JUMBO	m	I've had it, numb nuts... How much  money you got?
+GARY	m	Why?
+JUMBO	m	Because I'm pissed off. Now give me  your cash.
+GARY	m	This is bad public relations. I was  planning to do a lot of business  with you. But now I'm going to have  to go elsewhere.
+JUMBO	m	Hey. I'm sorry. You want girls. I'll  give you girls.
+JUMBO	m	Give him the works.
+GARY	m	That's more like it.
+DEBBIE	f	Are you sure this is a good idea?
+ILENE	f	Look, you heard what those hookers  said. They were supposed to go to a  bachelor party.
+DEBBIE	f	That doesn't mean it was Rick's party.
+ILENE	f	Debbie, men are pigs -- if they can  have women, we can have men.
+BOBBIE	?	Yeah.
+MRS. THOMERSON	f	I don't know about this.
+DEBBIE	f	C'mon, Mother, it'll be fun.
+PHOEBE	f	Look at that guy. What a hunk.
+BOBBIE	?	Check out the other guy's buns.
+TINA	f	Let's sit over here.
+DEBBIE	f	C'mon, Mom.
+MICHAEL	m	Yes... is there a Rick Stahl  registered there?
+RICK	m	Hookers beat you up?
+GARY	m	Yes.
+RICK	m	I didn't know you were into that.
+CHULO	m	How could you be so stupid. I'm gonna  kill you.
+GARY	m	Go ahead, but if you want women, we  need more money.
+RYKO	m	This just isn't righteous.
+GARY	m	Screw you... Do me a favor, join  this decade, will ya, pal!
+RICK	m	Hey, now, our buddy needs help. Come  on, dig into those pockets. Help  this man. Help this person help others get  laid. Give till it hurts. He needs  you.
+RICK	m	And there's our first pledge coming  in --
+RICK	m	Hello. End Horniness Telethon. Yeah.  Michael... how you doing?
+MICHAEL	m	I'm working... Right. At  Chippendale's. Guess what. Debbie  and her friends just walked in.
+RICK	m	Really? That's very interesting. I'll tell you what... stay there and  we'll be right down. I want to check  this out.
+GARY	m	I'll be back with women.
+STAN	m	I might as well have left my genitals  at home, the good they're doing me  here.
+CHULO	m	Hurry back.
+RICK	m	While we're waiting for Gar, why  don't we all go for a little fresh  air.
+RYKO	m	Where we going?
+RICK	m	Out.
+LARRY	m	Guys, I think I'd rather stay here.
+RICK	m	C'mon, Larry. Be good for you.
+LARRY	m	I just want to be alone.
+RICK	m	All right. Now, there's milk and  cookies in the refrigerator. Go to  bed right after "Falcon Crest."
+EXECUTIVE	m	Ed, we're so glad you could come  over at the last minute and judge  our little beauty pageant.
+MR. THOMERSON	m	My pleasure, Al... Always happy to  help out in a pinch... Excuse me. I better call my service...  tell them where I am.
+MR. THOMERSON	m	I had to get out of the house anyway  tonight. The wife is throwing a bridal  shower for my daughter. This is Ed Thomerson. Please transfer  my calls to... 220-1892. Right.
+EXECUTIVE	m	Congratulations on your daughter's  wedding. Who's she marrying?
+MR. THOMERSON	m	A real turd.
+EXECUTIVE	m	Well... hope she'll be very happy.
+RICK	m	So will your friend Nick do it?
+MICHAEL	m	He'll do anything for money.
+RICK	m	I love his attitude. They still out there?
+STAN	m	Breathing heavy at ringside.
+RICK	m	So, they want action, eh? Are you  with me, me hardies?
+MICHAEL	m	Guys, this is Chippendale's star  attraction, Nicholas Carter... better  known as Nick the Dick.
+RYKO	m	Nick the what?
+NICK	m	The Dick.
+ALL OUR GUYS	m	Jesus Christ!
+RICK	m	Let's get this thing going. Tray,  please.
+RICK	m	Looks good. Can I have the bun,  Michael?
+RICK	m	And now, Nick... or is it Mr. Dick?
+NICK	m	Nick.
+RICK	m	Nick, if you would be so kind...
+RICK	m	Nick, the rest is all yours.
+NICK	m	Gentlemen.
+NICK	m	If you ladies would like to serve  yourselves...
+MRS. THOMERSON	f	Is this the foot long?
+NICK	m	And then some.
+ILENE	f	She looks up just in time to see the  guys close the kitchen door.
+GARY	m	Ladies... come here.
+HOOKER	m	Talk to the pimp.
+GARY	m	Let's talk.
+RAJAH	?	What can I be doing for you?
+GARY	m	You're a pimp?
+RAJAH	?	I'm telling you I am, Joe.
+GARY	m	I want women.
+RAJAH	?	That I got. Very good women. They  sit on your face, anything you want.
+GARY	m	I'll take some.
+RAJAH	?	Big problem now. Soon they go to  customers.
+GARY	m	I need them for a bachelor party at  the Park View Hotel.
+RAJAH	?	You are being in luck. Customers in  same hotel. I let you have them at  cut-rate price for 45 minutes.
+GARY	m	Sold. 45 minutes. No problem.
+RAJAH	?	Not one minute longer or Milt will  come for you.
+GARY	m	Milt?
+RAJAH	?	This being Milt.
+RAJAH	?	Girls back in 45 minutes or Milt  cuts your balls off. Fair enough?  Shake!
+GARY	m	I just bet my balls and shook on it.
+RICK	m	What are you doing?
+LARRY	m	I'm killing myself.
+RICK	m	Larry... you've got to lighten up.  You and the wife can work it out.
+RICK	m	Lar... sometimes when people are mad  they say things they don't mean.
+LARRY	m	No, she hates me... I want to end  everything here... now.
+RICK	m	You okay?
+LARRY	m	Yeah, I guess so.
+RICK	m	Really?
+LARRY	m	Yeah. I see you're right. C'mon,  let's party.
+RICK	m	He ain't all right.
+MR. T	m	Hello?
+COLE	m	Mr. Thomerson.
+MR. T	m	Yes, son, did you find out where the  bachelor party is?
+COLE	m	Yes I did.
+MR. T	m	Fine. How's everything going?
+COLE	m	Not so good. He wouldn't listen to  reason. He stole my car... my  Porsche... I can't find it anywhere...
+MR. THOMERSON	m	So, he's playing hard ball. Well,  two can play that game. Go after him. Stop at nothing. You  hear me?
+COLE	m	What? I'm sorry, sir, I can't hear  you.
+COLE	m	Some fat slob in the next booth is  making a lot of noise.
+MR. THOMERSON	m	Well, tell the asshole to shut up.
+COLE	m	Right. Hey, shut up. Okay, sir.
+MR. THOMERSON	m	Sorry, I can't hear you. Some pin  head's yelling... Shut up, I'm talking here. Now look, I want you to go back and  I don't care what you do. Stop that  marriage.
+CHULO	m	Hey, man, your car's looking good.
+COLE	m	Where is it?
+CHULO	m	Out front.
+COLE	m	Shit, shit, shit, shit, shit.
+COLE	m	Rick... Rick... Goddamn it.
+RICK	m	Gee. I think that's for me.
+COLE	m	Rick... Debbie is mine. She'll always  be.
+RICK	m	Cole, when was the last time you had  a lobotomy?
+COLE	m	You've had it. I'm gonna get you.
+RICK	m	Don't you love it when old friends  stop by?
+O'NEILL	m	Hey, I'm starved... Let's go get  something to eat. We'll bring back  food for everybody.
+RICK	m	I'm not really hungry.
+O'NEILL	m	C'mon. I insist.
+RICK	m	...couple more on rye. Lots of  fries... and a burger and diet soda.
+O'NEILL	m	Let's sit down.
+RICK	m	What the hell is that?
+O'NEILL	m	My gift to you.
+RICK	m	Under the table!
+O'NEILL	m	The best table in the house.
+RICK	m	...I think we can skip the wine list.  Oh, gee...
+FATHER FALWELL	m	Boys, good evening to you.
+O'NEILL	m	Father Falwell, good evening.
+RICK	m	Father... Oh, yes... yes... yesssss...  Oh, yesssssss!
+FATHER FALWELL	m	So, Rick, soon you will be a married  man. How does it feel?
+RICK	m	Innnnnn-credible!
+FATHER FALWELL	m	Well, nice seeing you both.
+RICK	m	Ooooooooh, Jesus, Oh God, God, God,  God, Oh Jesus, Jeeeesussss...
+RICK	m	I was just saying grace.
+FATHER FALWELL	m	How nice.
+O'NEILL	m	You done?
+HOOKER	m	Not yet.
+RICK	m	Father, would you like to take our  table?
+FATHER FALWELL	m	Yes. Thank you.
+RICK	m	I think you'll enjoy this table.
+O'NEILL	m	So long, Father.
+O'NEILL	m	I don't get it. Why didn't you go  for it just now?
+RICK	m	I don't know. Maybe it's because I  love Debbie or maybe it's hard for  me to get off in a place that smells  like egg salad. I'm not sure.
+RICK	m	Where the hell is everybody?
+GARY	m	Surprise! The team bus just pulled in.
+STAN	m	Hookers. It's a party!
+RICK	m	All right!
+KELLEY	f	Who's first, guys?
+GUYS	m	Oh, me... me... me!
+O'NEILL	m	Wait. The guest of honor should be  first.
+RICK	m	Nah, that's okay. My brother has to  look up old people's asses all day  long. Let's give him a break.
+STAN	m	Right. Give me the will to live. Let  me go first.
+O'NEILL	m	A moving plea. Okay, Doc, you lead  off. I'll screw clean up.
+RICK	m	How thoughtful. A drug smorgasbord.
+CHULO	m	I have returned!
+CHULO	m	You! Mine!
+RICK	m	Chulo's got such a nice, light touch  with women.
+O'NEILL	m	Terrific. You made it... You can set  up over there...
+MR. THOMERSON	m	Great bathing suit.
+EXECUTIVE	m	I think I screwed that one once.
+MRS. THOMERSON	f	I had his weiner right in my hands.
+ILENE	f	I told you. Men are pigs... I saw  them standing there.
+PHOEBE	f	What a gross thing to do... gawd!
+ILENE	f	I bet right now Rick and his pals... ...are knee deep in whores.
+MRS. THOMERSON	f	A strange wang right in my palm.
+DEBBIE	f	Ilene, we don't really know that.
+BOBBIE	?	That's what we're going to find out...
+DEBBIE	f	I feel like I'm spying on Rick.
+ILENE	f	Good. That's just what we're doing.
+TINA	f	I'll kill Stan if I find out he's  been screwing around.
+ILENE	f	Brett, are you with us?
+MRS. THOMERSON	f	Yeah, sure... I was eye to eye with  an unfamiliar pud.
+RYKO	m	Hey, Gary, spot me.
+STAN	m	Thanks a lot, that was the best.  You're next.
+RICK	m	Nah, not yet. Look, you're my older  brother. I need some advice here.  What's the deal with marriage? What  can I expect?
+STAN	m	Well, the first month it's great.  The second month things calm down a  little. By the third month you're  looking through your old girlfriends'  phone numbers; by the fourth month  you're numb; by the fifth month,  hopefully the football season starts.
+RICK	m	Thanks, Stan, you've been a lot of  help.
+GARY	m	Hi.
+SHE	f	Hello.
+O'NEILL	m	You guys better get going. It's  getting late.
+STAN	m	Oh, right.
+GIRL	f	Is there a party going on in there  or something?
+RYKO	m	Yeah. It's great. Go on in.
+STAN	m	My God. Fresh meat. Let's hurry back.
+RICK	m	What the hell are you doing?
+LARRY	m	I'm trying to slash my wrists.
+RICK	m	You're trying to kill yourself with  an electric razor?
+LARRY	m	I couldn't find any razor blades.
+RICK	m	Well, this is terrific. Now you're  gonna have wrists that are smooth  and kissable. Just go out there.  Forget about everything and laugh it  up.
+LARRY	m	Ha, ha, ha.
+RICK	m	No, have fun first. Then laugh. Now,  forget about marriage for a while.  Go party.
+RICK	m	Gary, how we doing, big stallion?
+GARY	m	Rick, I really think I'm in love.
+RICK	m	This is cause for celebration. She'll  probably charge half price for sex  from now on.
+GARY	m	This time it's real. She's wonderful.
+SHE	f	The name's Tim. I'm always available.
+SHE/TIM	?	By the way... I also do engine work  on BMW's. 'Bye.
+RYKO	m	All right.
+O'NEILL	m	Rick, I'm concerned.
+RICK	m	About what?
+O'NEILL	m	This is your bachelor party. You  haven't had sex with anyone yet.
+RICK	m	Get a few drinks into me, we'll dance  and see what happens.
+O'NEILL	m	I got something you can't resist. I  have a friend, Tracey. She wants to  meet you. She loves to please.
+RICK	m	Oooooo.
+O'NEILL	m	Right in there, pal.
+RICK	m	If I'm not out in a half hour, send  for the paramedics.
+O'NEILL	m	That's the old Rick!
+RICK	m	Hellooo!
+RICK	m	Eat my chair!
+TRACEY	f	Take me... please.
+TRACEY/DEBBIE	?	You promised me, Rick. You promised  you wouldn't make love to anyone  else.
+TRACEY/SISTER MARY FRANCIS	f	Don't go back on your word, Rick. Be  true; be strong.
+RICK	m	I can't do it.
+TRACEY/STAN	?	You nuts? Look at me, I'm beautiful!
+KIDS	m	Do it! Come on! Put her away! Go for  it!
+TRACEY/DEBBIE	?	Don't Rick.
+RICK	m	I can't do it. I love Debbie.
+O'NEILL	m	How'd it go?
+RICK	m	Put it to you this way -- you're  gonna have to pry her out of the bed  with a spatula, mister.
+O'NEILL	m	I'm proud of you, lad.
+RAJAH	?	Am looking for this dunghead who  took my women... He is being liar to  me. 45 minutes way over.
+RAJAH	?	Holy Dung is this thing! I sic Milt  on you. He get back bitches. Me? I  haul ass.
+RICK	m	Who was that?
+O'NEILL	m	I don't know.
+RICK	m	What's this?
+O'NEILL	m	Got me.
+RICK	m	How 'bout this?
+O'NEILL	m	Still drawing a blank.
+RICK	m	He look familiar?
+O'NEILL	m	Very.
+RICK	m	C'mon. Get the hookers in a circle.  We better put Cochise out of business.
+LAVERNE	f	Stay away from me.
+CHULO	m	I'm not gonna hassle you... Don't  worry. You look beautiful.
+LAVERNE	f	Think so? I borrowed it from one of  the girls. I don't look too fat?
+CHULO	m	You're an angel... A madonna.
+STAGE MANAGER	m	You're on.
+MC	m	All right, here is your question,  Miss... Er...
+LAVERNE	f	Rivas.
+MC	m	Miss Rivas... Yes... How would you  solve our country's present economic  problems?
+LAVERNE	f	Who, me?
+MC	m	Yes.
+LAVERNE	f	That's a good question. From the way  I understand it, according to supply  side economics, when supply exceeds  demand, recession is the result.  That's why I think we should control  the credit markets and increase the  prime rate. That way, the consumer  price index will stabilize and we  will have economic recovery.
+CHULO	m	How'd you know all that stuff? You're  a real brain.
+LAVERNE	f	Nah, I used to fuck a librarian.
+CHULO	m	Wow!
+DEBBIE	f	I don't believe we're doing this.
+MANAGER	m	Can I help you, ladies?
+DEBBIE	f	Yes, we're looking for the Stahl  party.
+MANAGER	m	Room 1002.
+MANAGER	m	Those guys are asking for it.
+ILENE	f	You're making a big mistake.
+MILT	m	Shut up. You still got another job  to do here.
+MRS. THOMERSON	f	What kind of job? I'm a housewife.
+DEBBIE	f	Quiet, Mother.
+MILT	m	Get in there.
+JAPANESE ONE	m	Nice looking quim, huh, Bob?
+JAPANESE TWO	m	Yeah, you know me, Ray, I've always  been a sucker for redheads.
+JAPANESE FOUR	m	Hubba-hubba.
+BOBBIE	?	Let's get out of here, girls.
+DEBBIE	f	Guys, take it easy. Guys.
+RICK	m	This is it. Go get 'im.
+COLE	m	Where the hell is he?
+COLE	m	Yeah?
+TRACEY	f	Make love to me... please.
+RICK	m	T minus... 3... 2... 1. We have  ignition.
+COLE	m	Hey!
+O'NEILL	m	All set here.
+COLE	m	You guys are never going to get away  with this.
+RICK	m	We're just going to keep you in a  safe place until after the party.
+RICK	m	Now, don't get into any trouble.
+O'NEILL	m	Take care.
+RICK & O'NEILL	m	Byeeeee!
+RICK	m	Don't you wish you were a guy so you  could have fun like this?
+MAN	m	Why don't you get comfortable?
+MAN	m	There's a wonderful moon out tonight.
+JAPANESE/RAY	?	Hey, Bob, this beats the shit out of  sushi, doesn't it?
+MAN	m	Babe, I didn't know anything about  that.
+MC	m	All right, can we have our five  finalists, please.
+CHULO	m	Good luck, Laverne.
+MC	m	Thank you, Mr. Thomerson. Well, the  judges have made their decision, and  this year's Miss Moosehead Beer is...
+MC	m	Laverne Rivas.
+LAVERNE	f	I can't believe it. This is the  happiest day of my life, and I owe  it all to him.
+JUDGE	m	I know I've had that girl.
+MR. THOMERSON	m	And I know that guy from somewhere,  too.
+STAN	m	How the hell are we supposed to get  this donkey inside?
+RYKO	m	I don't know.
+STAN	m	What? I thought you told me you had  it all figured out.
+RYKO	m	Maybe I did... I don't remember.
+STAN	m	I'd love to get you in an operating  room. Just once.
+RYKO	m	Can you believe how perfect it fits?
+STAN	m	Yeah. Who'd have thought they'd both  be a size 138 regular.
+O'NEILL	m	Hey, you guys...
+RICK	m	Who's your friend?
+STAN	m	Oh... it's... er... the guys from  the beer convention. We're bringing  them to the party.
+RICK	m	Great. I was wondering, how do you guys go  to the bathroom in that thing?
+RICK	m	Say no more.
+MANAGER	m	I don't know which one of you did  this, but you're not going anywhere  till you clean up this disgusting  mess.
+O'NEILL	m	Anybody got a paper towel or a shovel  or something?
+MANAGER	m	I'll have the boy take your bags up.
+MANAGER	m	Excuse me. I seem to have a hand  full of potty.
+EXECUTIVE	m	Thanks for helping us out, Ed. We  appreciate it.
+MR. THOMERSON	m	Any time, Al.
+MR. THOMERSON	m	Cole, my God, boy, what are you doing  here? What happened?
+COLE	m	The bachelor party's upstairs. They  made me get naked. They hung me from  the window so high up it was so scary  I fell down...
+MR. THOMERSON	m	Take hold of yourself. What room are  they in?
+COLE	m	1002.
+MR. THOMERSON	m	All right, I'll go up there and take  care of this myself. You look awful, son. Go find yourself  some clothes.
+COLE	m	Yes, sir.
+RICK	m	Hi, guys. We brought back a friend.
+LARRY	m	It's Bullwinkle.
+O'NEILL	m	Gentlemen... Ladies... For your  viewing pleasure, meet Mike the  Magical Sexual Mule.
+RICK	m	How about this, a Trojan donkey.
+O'NEILL	m	And here's Mike's partner, in more  ways than one. A gal who doesn't  think happiness ends with primates.  The very lovely, Miss Desiree...
+RICK	m	Swell. She's gonna pin her tail on  the donkey.
+DESIREE	f	C'mon, Mike... Come to Mama.
+CHULO	m	Hey, you guys, I'm getting married. We're gonna make lots of kids.
+CHULO	m	What the hell happened?
+STAN	m	Drug overdose.
+DESIREE	f	You mean it's...
+STAN	m	Afraid so. I did everything I could.
+LARRY	m	It's my fault. He's dead because...  I left those drugs...
+RICK	m	It's really not all your fault. I  was talking to Mike earlier and he  had a lot of problems. Personal  things, you know. Made some bad  investments. At least now he's  peaceful...
+O'NEILL	m	C'mon, we gotta get this thing out  of here.
+MANAGER	m	Yes... I see... Of course we don't  allow that sort of thing here, ma'am.  No... Well, I'm sorry the noise woke  you. I'll take care of it right away.
+MANAGER	m	I've had enough of this.
+MANAGER	m	That's it. I'm calling the cops.
+RICK	m	Welcome, welcome, one and all.
+MR. THOMERSON	m	Rick!
+RICK	m	Oh, no!
+RICK	m	Christ... it's Mr. Laughs.
+MR. THOMERSON	m	This is it. You're through. When  Debbie hears about this she'll never  see you again. Now I'm calling the  cops to break up this sex orgy...  And toss your ass in jail!
+O'NEILL	m	What are you going to do about it?
+RICK	m	What can I do? I'm dead. Debbie's  going to go crazy and end the whole  thing.
+O'NEILL	m	I'll stop him... You stall him.
+RICK	m	Mr. Thomerson!
+RICK	m	Please, no. Don't ruin my life.  Please!
+RICK	m	It's not me. I was brought up on the  wrong side of the tracks. A victim  of my environment...
+O'NEILL	m	Is that all the coke in the place?
+LARRY	m	That's it.
+O'NEILL	m	Good.
+RICK	m	My poor old mammy had to take in  laundry. My pappy had to work 20  hours a day at the Pez Factory.
+RICK	m	The end.
+MR. THOMERSON	m	No sob story is going to change my  mind.
+O'NEILL	m	The phone's all yours.
+MR. THOMERSON	m	I never liked you. I've never liked  any of your friends. I've hated you  from the first time I saw you. And  now you are out of my life. You are  out of my life!
+O'NEILL	m	Reach out and snort someone.
+RICK	m	I'm saved. Let's party!
+DEBBIE	f	Let's give them what they want.
+PHOEBE	f	What?
+DEBBIE	f	Let's go. Everyone inside.
+BOBBIE	?	Deb, we're pretending to be hookers.
+DEBBIE	f	Right in here. The big show starts  in one minute.
+DEBBIE	f	Let's go.
+ILENE	f	Look, girls -- I'll stay behind and  hold them off. The rest of you break  for it!
+DEBBIE	f	Ilene, are you crazy?
+ILENE	f	I know what I'm doing... Go!
+ILENE	f	Gentlemen, the gods have answered  your prayers... Bonzai!
+MRS. THOMERSON	f	I hope Ilene's all right.
+DEBBIE	f	I hope those guys are all right.
+O'NEILL	m	Guess who's here? Another surprise  guest.
+RICK	m	Who?
+O'NEILL	m	Debbie.
+RICK	m	My Debbie?
+O'NEILL	m	What's with her costume?
+RICK	m	I don't know... Go up to her, make  like you don't know her and send her  into the other bedroom.
+O'NEILL	m	You got it.
+O'NEILL	m	Hi, baby. You're new here. I don't  think the groom's had you yet, has  he?
+DEBBIE	f	No, not yet. Where is he?
+RICK	m	I can't see anything.
+DEBBIE	f	Don't turn on the lights, sugar. I'll lead you around.
+RICK	m	How wonderful. A seeing eye hooker.
+DEBBIE	f	Why don't you get undressed.
+RICK	m	It's a lovely day in the neighborhood.  It's a lovely day, it's a beauty,  would you be mine, could you be mine. ...Please won't you be my neighbor. Hi... Hi there... Today we're going  to learn about anatomy...
+RICK	m	Debbie... you're a hooker! I can't  believe it!
+DEBBIE	f	I can't trust you!
+RICK	m	C'mon, I knew it was you.
+DEBBIE	f	Rick, you're lying!
+DEBBIE	f	Let go of me!
+RICK	m	Debbie, I'm telling you, I didn't do  anything, hardly.
+DEBBIE	f	The marriage is off. Now you can  screw around with your friends for  the rest of your life.
+RICK	m	I don't want that. I want to be with  you.
+DEBBIE	f	And I want to be with someone who  understands the meaning of the word  commitment.
+RICK	m	I am committed. I love you.
+DEBBIE	f	I don't believe you.
+RICK	m	You don't believe me? Okay, fine.
+RICK	m	People! Can I have your attention...  people!
+RICK	m	I want to ask you all a question.  Have I had sex with anybody in this  room tonight?
+RICK	m	Are you sure?
+RICK	m	Thank you.
+RICK	m	See? And these are not just ordinary  party-goers -- there are professionals  in this crowd -- I didn't want any  of them. You... You're what I want.  Understand?
+DEBBIE	f	Yes...
+RICK	m	Great. Now, what do you want to do  about it?
+DEBBIE	f	Let's get naked.
+RICK	m	You're on.
+DEBBIE	f	Daddy?
+MR. THOMERSON	m	Ebbie. Ger... umph... lable...
+RICK	m	Of course, sir. That explains it.  Leather is a very good source of  vitamin E.
+MANAGER	m	You're all under arrest. Open up!
+RICK	m	Your attention, please. May I be the  first to say, It's a raid!
+RICK	m	I'm glad no one is panicking.
+MANAGER	m	Break it in, boys!
+MRS. THOMERSON	f	Ed! What are you doing here?
+MRS. THOMERSON	f	Ed... you're kinky!
+MR. THOMERSON	m	The phone made me do it!
+MRS. THOMERSON	f	You've been having strange sex...!
+MR. THOMERSON	m	No, Brett, I...
+MRS. THOMERSON	f	It's all right... So have I.
+MRS. THOMERSON	f	I've seen another man's diddly.
+RICK	m	Cole, what the hell are you doing?
+COLE	m	She's mine!
+RICK	m	He's kidnapped her! Everyone into  the bus!
+COLE	m	Shit, shit, shit, shit, shit.
+COLE	m	He and Debbie stand outside the  theater, which is a multi-plex cinema.  Fourteen movie theaters under one  roof. Prominent is a sign which reads:  "24 HOUR 3D FESTIVAL!" Cole drags  Debbie into one of the theaters. The  gang runs up to the theaters.
+RICK	m	Fan out and look for them.
+RYKO	m	Aw, I've seen this one already.
+MAN	m	Gee, what a realistic effect.
+WOMAN	f	Yeah, like you're in the movie with  them.
+PATRON	m	Best 3D I've ever seen.
+RICK	m	Are you okay?
+DEBBIE	f	Yeah.
+RICK	m	This has been quite a night. Here's  a thought. Why don't we go home and  give our private parts a workout?
+DEBBIE	f	You're so romantic...
+WOMAN	f	Absolutely amazing.
+MAN	m	I've seen better.
+CHULO	m	Hey, man, don't forget my bachelor  party's next Friday night.
+GARY	m	I'll get the hookers.
+RYKO	m	No way.
+MR. THOMERSON	m	We'll have morons for grandkids. But... at least we'll have grandkids.
+LARRY	m	Sue!
+SUE	f	Hi, honey.
+LARRY	m	How'd you get here?
+SUE	f	Rick called me.
+LARRY	m	Why don't we go someplace and talk.
+FATHER FALWELL	m	Now, before I pronounce you man and  wife, the groom wishes to recite his  vow to Debbie. Richard.
+THOMERSONS	?	They fear the worst.
+MR. THOMERSON	m	Oh, God Almighty.
+RICK	m	Cheese. I love you more than cheese.  And I love cheese a lot.
+THOMERSONS	?	They hide their faces in their hands.  Off in the distance a storm is coming  in fast over the ocean. The wind  begins to pick up. Undaunted, Rick  continues his soliloquy.
+RICK	m	In fact, more than dairy products in  general. I love dairy. My love is  cream. Pour me on the cereal of your  life...
+FATHER FALWELL	m	Rick. Rick. Hey...
+RICK	m	I think this song pretty much sums  up the way I feel at this moment.
+FATHER FALWELL	m	I now pronounce you man and wife.  Goodbye.
+RICK AND DEBBIE	m	"Flintstones, meet the Flintstones  They're a prehistoric family From  the town of Bedrock They're a page  right out of history..."
+

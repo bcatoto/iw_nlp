@@ -1,0 +1,1010 @@
+WOMAN'S VOICE	f	Wake up, Roberta!
+WOMAN'S VOICE	f	Come on, Bert -- get out of bed!
+WOMAN'S VOICE	f	Please, Bert -- you need to get out  of that bed.
+BOY'S VOICE	m	Can you come out now, Mommy? Please?
+BOY #2	m	Mommy, Nick broke my crayon!
+BOY #1	m	Well, Lexi hit me and he almost  broke... he almost broke my ear!
+WOMAN'S VOICE	f	Hear that? Your boys need you.
+ASSUNTA	f	But I have no room for this!
+OFFICER	m	I'm sorry, M'am. We have orders to  deliver these.
+ROBERTA	f	Watch it, you idiots! Be careful  with those!
+ASSUNTA	f	Why so many?
+NICK	m	Mommy, which box has our toys?
+ROBERTA	f	Look, I know he's there, so quit  lying to me!... Then check under  Lana Holden -- Mrs. Lana Holden...  Fine. Just tell Lieutenant Demetras  that his wife called and --
+ROBERTA	f	Ma!
+ASSUNTA	f	No. I want you to listen to me. You  can't keep doing this to yourself --  or to the boys. They need their mother  now. You're a beautiful, talented  woman and you have your whole life  ahead of you.
+ROBERTA	f	If I'm so beautiful and talented,  why did Charles leave me?
+ASSUNTA	f	Because Charles is a big jerk. Now get dressed.
+ROBERTA	f	You really think Charles is a jerk?
+ASSUNTA	f	From the day you married him.
+ROBERTA	f	Why didn't you say something?
+ASSUNTA	f	Since when do you listen to me?
+ROBERTA	f	What am I gonna do?
+ASSUNTA	f	First, you eat breakfast. Second,  you go out and get a job -- any job.  Your boys, god-bless-em, are good  eaters -- but I can't afford it.
+ROBERTA	f	Mama, he's gonna get tired of her --  you'll see.
+ASSUNTA	f	Well in the meantime, get a job.
+SUPERVISOR	m	Just wrap. You're not Picasso.
+MALE VOICE	m	Picasso would probably put the bows  on the back of the box.
+ROBERTA	f	Brian Turner?
+BRIAN	m	Hello, Roberta.
+ROBERTA	f	I thought you moved away.
+BRIAN	m	I did. I'm in town for my Mom's  birthday.
+BRIAN	m	No -- that's her gift.
+ROBERTA	f	Oh! Sorry.
+BRIAN	m	It looks very pretty.
+ROBERTA	f	Thank you. I heard you had a book published. I  didn't read it but...
+BRIAN	m	That's O.K. My parents didn't read  it either. It looks good on their  coffee table, though.
+BRIAN	m	So what are you doing here? I thought  you'd be in Carnegie Hall by now.
+ROBERTA	f	My college professors said it was  too late -- I hadn't had enough  training to be a concert violinist.  So I got a teaching degree instead.
+BRIAN	m	I'll bet you're a great teacher.
+ROBERTA	f	I think I am. It's just that... See, every time I'd get started  somewhere, Charles would be  transferred... then I had my kids  and took time off to raise them...  and then when I decided to teach  again, no one would hire me 'cause  you can't count on a navy wife to  stick around. I finally decided I'd  start my own program -- Charles gave  me the money and I bought fifty  violins from this little Greek shop --  got started at a private school and  then...
+BRIAN	m	Your husband ran off with your best  friend.
+ROBERTA	f	She wasn't my "best" friend. She was  a friend. Charles is the last person you'd  think would cheat on me -- he never  broke a rule... I wake up one night -- it's like one  in the morning -- and he's not in  bed. I go outside and our neighbor --  this old Greek guy -- is sitting out  there, smoking a cigar, so I ask if  he's seen my husband. "He's taking a  walk with the other officer's wife,"  he says. "He takes a walk every night  with the other officer's wife."
+ROBERTA	f	God, these are cold.
+BRIAN	m	So you're just gonna wrap presents  and wait for him to come back?
+ROBERTA	f	You sound like my mother.
+BRIAN	m	That's not very sexy.
+ROBERTA	f	Are you trying to be sexy or be my  friend?
+BRIAN	m	A little of both.
+BRIAN	m	You know, I know this really cool  lady who runs this elementary school --  I wrote a piece on her. It's a public  school, but it's alternative -- she  might be able to create some kind of  gig for you. Let me give her a call.
+ROBERTA	f	Great!
+BRIAN	m	If she hires you, though, you have  to be willing to relocate.
+ROBERTA	f	Where is it?
+TAXI DRIVER	m	Welcome to East Harlem.
+JANET	f	Aside from half a term in a private  school -- in Greece -- and a year  teaching chorus in Hawaii -- ten  years ago -- it doesn't look like  you've had any other teaching  experience.
+ROBERTA	f	Well, not traditional teaching  experience. I've been doing private  lessons...
+ROBERTA	f	It's not on there... I taught my  sons.
+JANET	f	I'd like to help you, Mrs. Demetras.  Brian spoke highly of you and I told  him I'd consider starting a violin  class... But without the proper  qualifications, and without any  experience in an inner city school...
+JANET	f	I'm very sorry.
+JANET	f	Yes?
+ROBERTA	f	I'm sorry to interrupt, but I wanted  you to meet my sons -- Nick, Lexi...
+ROBERTA	f	Roberta Guaspari-Demetras.
+JANET	f	This is Dennis Rausch, our music  teacher and program coordinator. Mrs. Demetras, didn't I make things  clear yesterday?
+ROBERTA	f	If I could just show you something --  it'll only take a minute.
+DENNIS	m	Are we having a talent show? I should  have brought my tap shoes.
+LEXI	f	Will you hire her now?
+JANET	f	How long have you boys been playing?
+NICK	m	Since I was three.
+LEXI	f	Maybe since I was three and a half.
+JANET	f	Your mom must be a good teacher.
+NICK	m	She's O.K.
+JANET	f	If you could teach our students to  play like that, I'd be thrilled, but --
+ROBERTA	f	I can. Any child can learn the violin.
+DENNIS	m	Assuming they had the discipline.
+ROBERTA	f	I'll teach them to have discipline.
+JANET	f	A lot of our parents are struggling  to feed their kids and pay the rent --  they don't have time to help them  learn violin.
+ROBERTA	f	They don't have to. If they can help,  great -- but these kids will be  committed. They'll practice on their  own, they'll help each other in the  classroom --
+DENNIS	m	I think I know these students, Miss  Demetras. Their attention span doesn't  go past do-re-mi. Maybe on a good  day, I can get them to "fa."
+ROBERTA	f	You're underestimating them. They  can play as well as any other kids.
+DENNIS	m	That I'd like to see.
+ROBERTA	f	You will.
+JANET	f	For now I'll put you down as a sub,  but I have to warn you -- even if it  works out, the Board may not let me  create a permanent position for you.
+ROBERTA	f	That's O.K. I'll worry about that  later. Thank you.
+DENNIS	m	Well, I've already planned out the  whole term, and I can tell you right  now, there's no room for this!  Besides, where you gonna find money  for violins?
+ROBERTA	f	You need violins?
+ROBERTA	f	Please do not open the cases, O.K.?
+ROBERTA	f	Look, can everyone just settle down  and listen to me -- please?
+ROBERTA	f	Keep them closed! Please.
+ROBERTA	f	Did you hear what I just said?
+ROBERTA	f	Put those down, please!
+ROBERTA	f	Don't do that! Put the bows back in  the cases -- right now!
+ROBERTA	f	Who's plucking?
+ROBERTA	f	What have I been saying? Put that  away! Back in the case!
+ROBERTA	f	O.K. Thank you. That's much better. I'll be dividing you into five  classes, but for today --
+ROBERTA	f	O.K. -- that's it! You! Stand up!
+ROBERTA	f	You will be the first student who  will NOT be in my violin class. Out!
+ROBERTA	f	I said OUT!
+ROBERTA	f	Who else would like to be kicked out  of my class?
+ROBERTA	f	Are you raising your hand because  you want to be kicked out?
+DE SEAN	m	Yeah.
+ROBERTA	f	Why?
+DE SEAN	m	I don't wanna learn no stupid violin.  It's for wimps.
+ROBERTA	f	Who told you that?
+DE SEAN	m	I just know.
+ROBERTA	f	What's your name?
+BOY	m	De Sean.
+ROBERTA	f	Well, De Sean -- you haven't given  me a good enough reason, so you're  staying.
+ROBERTA	f	Anyone else?
+NAEEM	m	Hey, I play pretty good.
+ROBERTA	f	See how easy it is? Maybe in the spring, we could have a  big concert for your families and  for the whole school. What's your name?
+NAEEM	m	Naeem.
+ROBERTA	f	If you listen to me and do exactly  what I say, you're gonna sound  beautiful at the concert and you're  gonna be so proud of yourselves. Good, Naeem. Your hand's staying  soft. But if you don't listen to me, you'll  sound so bad that your own parents  will feel sick when they hear you.  They might even throw up.
+ROBERTA	f	Come in.
+ROBERTA	f	What's this?
+BRIAN	m	It's a toast. To Roberta, who's made it through  her first week.
+ROBERTA	f	I don't know, Brian. I'm hanging on  by a thread there. Out of fifty kids,  maybe six are listening to me.
+BRIAN	m	Look at the progress. Didn't you say  no one was listening to you on Monday?
+ROBERTA	f	I really appreciate all you've done  for us. And I promise -- this weekend  I'll start looking for a place.
+BRIAN	m	There's no rush.
+ROBERTA	f	No, we've put you out enough. You're  supposed to be writing, not  babysitting for us. I've started your book. It's very  powerful.
+BRIAN	m	Thank you.
+ROBERTA	f	So what made you choose migrant  workers for your next book? I mean,  how do you know what to write about?
+BRIAN	m	I follow my gut, pay attention to  what I'm being drawn to...
+ROBERTA	f	What are you doing?
+BRIAN	m	I've been waiting to do that since  Mr. Baines' orchestra class.
+ROBERTA	f	You didn't even notice me!
+BRIAN	m	Sure I did. You used to ignore me  and it drove me wild.
+ROBERTA	f	You had at least five different  girlfriends.
+BRIAN	m	It didn't mean I had the one I wanted.
+BRIAN	m	You're not a navy wife anymore...
+ROBERTA	f	Yes I am... legally.
+BRIAN	m	And is it a navy requirement that  you dress like it's the 1950's?
+ROBERTA	f	I do not!
+BRIAN	m	Who did you vote for in the last  election?
+ROBERTA	f	What does that have to do with  anything?
+BRIAN	m	Tell me.
+ROBERTA	f	I don't know. Charles filled out my  absentee ballot.
+BRIAN	m	Oh my God -- it's even worse than I  thought! Is this the same Roberta who got the  orchestra to strike until they gave  us new uniforms?
+ROBERTA	f	That Roberta's not around anymore.
+BRIAN	m	I don't believe that.
+ROBERTA	f	I shouldn't.
+BRIAN	m	Because?
+ROBERTA	f	The boys --
+BRIAN	m	They're sleeping.
+ROBERTA	f	I know, but... I'm still married.
+BRIAN	m	And what's your husband doing right  now?
+ROBERTA	f	Oh shit -- the boys.
+BRIAN	m	They're still sleeping.
+ROBERTA	f	Where are you going?
+BRIAN	m	Texas.
+ROBERTA	f	What's in Texas?
+BRIAN	m	Farm workers. I just got the call --  it came through -- my research grant!  It came through! Isn't that great?
+ROBERTA	f	Today?
+BRIAN	m	I've got a few families lined up  there, some in California --
+ROBERTA	f	How long will you be gone?
+BRIAN	m	Two, three months.
+ROBERTA	f	What?
+ROBERTA	f	I thought... I just thought you were  gonna be around. And then last night --
+BRIAN	m	Whoa. Roberta -- last night was great  but did you think I was gonna marry  you in the morning?
+ROBERTA	f	No! Of course not.
+ROBERTA	f	It's just that... we just got here  and we're barely... I don't even  know where to buy groceries.
+BRIAN	m	You're gonna be fine. You have a  job, a place to stay, your kids have  a school to go to -- and there's a  D'Agostino's around the corner.
+ROBERTA	f	Congratulations.
+ROBERTA	f	And what am I doing now?
+NAEEM/GUADALUPE	?	Rosining the bow.
+ROBERTA	f	Good. And what am I doing when I  turn this little screw? Everyone stop talking. Right now!
+ROBERTA	f	Naeem?
+NAEEM	m	Tightening the horse hair.
+ROBERTA	f	And what do we call this?
+ROBERTA	f	De Sean?
+DE SEAN	m	Yeah?
+ROBERTA	f	What do we call this?
+DE SEAN	m	I don't know.
+ROBERTA	f	Why not?
+DE SEAN	m	I wasn't here.
+ROBERTA	f	Yes you were but you weren't paying  attention! Do you want people to  think you're stupid?
+ROBERTA	f	All right, Naeem -- tell them.
+NAEEM	m	It's called the frog.
+ROBERTA	f	Anyone remember what this is?
+ROBERTA	f	Lucy! Do you like people snapping  their fingers when you're talking?
+LUCY	f	Yeah!
+ROBERTA	f	What is this called?
+LUCY	f	The jeri curl?
+DENNIS	m	C-C-C-C, D-D-D-D, E-E-E-E...
+ROBERTA	f	Excuse me -- sorry to interrupt --
+DENNIS	m	No talking!
+ROBERTA	f	I'm supposed to take kids out of  Miss Cooper's classroom for my ten  o'clock class -- there's nobody there.
+DENNIS	m	Miss Cooper's students have phys ed  on Tuesdays.
+ROBERTA	f	But you scheduled them for violin.
+DENNIS	m	You must have read the schedule wrong.
+ROBERTA	f	I don't think so.
+DENNIS	m	Well, I can't solve this problem for  you right now. I'm trying to teach.
+ROBERTA	f	So am I.
+LEXI	f	Can I bring a puppy for show and  tell tomorrow?
+ROBERTA	f	Honey, we don't have a puppy.
+NICK	m	Daddy said we could get one when we  moved back to America.
+ROBERTA	f	How about your truck? I'll bet you're  the only one in school with a truck  from Greece.
+NICK	m	When's Daddy coming back?
+ROBERTA	f	Well, he's still on his tour, so  we'll just have to see but... It  shouldn't be too much longer.
+LEXI	f	Is he gonna live with us and Brian?
+ROBERTA	f	No, honey. We're just staying at  Brian's house for a little while.
+ROBERTA	f	Good night, sweetie.
+NICK	m	No! Leave it on.
+ROBERTA	f	Now take the right foot and put it  on a tile. Good. Now with the other  foot take a tiny step forward and  put it on a line. Try to make a box  with your feet --
+ROBERTA	f	Lucy! Would you like to leave the  class right now?
+ROBERTA	f	You should feel very strong -- so  strong and balanced that if I wanted  to knock you over I couldn't.
+ROBERTA	f	You see? If you're standing strong,  I can't even push you.
+ROBERTA	f	De Sean! James! Quiet! Does anyone know where Naeem is?
+TANISHA	f	I saw him this morning but he's not  here.
+ROBERTA	f	Yes, I know he's not here -- that's  why I'm asking.
+ROBERTA	f	See how I pushed you? It means your  feet aren't centered.
+ROBERTA	f	Can you bring over a chair? It's probably better for you to sit.
+ROBERTA	f	Where were you today, Naeem?
+NAEEM	m	I can't be in violin class anymore.
+ROBERTA	f	Why not?
+NAEEM	m	My mother won't let me.
+ROBERTA	f	What?
+MRS. ADISA	f	My son's got more important things  to do than learn dead white men's  music.
+ROBERTA	f	They're gonna learn "Twinkle Twinkle  Little Star"!
+MRS. ADISA	f	How many Black classical composers  can you name? How many Black classical  violinists do you know?
+ROBERTA	f	That doesn't mean it's the way it  should be. Naeem's learning to play  music -- and that makes him feel  good about himself. Why should it  matter who wrote it?
+NAEEM	m	Please, Mom? Can't I be in the class?
+MRS. ADISA	f	Look. I've seen this before. You  white women come up here and think  you can rescue our poor inner city  children who never asked to be rescued  in the first place. No thank you.
+ROBERTA	f	Brian Turner's room, please.
+ALICE	f	And which ocean is this?
+ROBERTA	f	Excuse me... I'm here for the violin  students.
+ALICE	f	You're late.
+ROBERTA	f	Just a couple of minutes -- I'm sorry.
+ALICE	f	They're having a lesson now.
+ROBERTA	f	But this is when they have violin  class!
+ALICE	f	That's not my problem.
+ROBERTA	f	I thought all the teachers agreed to  this.
+JANET	f	In theory. Adam! I want you in my office right  after lunch, you understand?
+ADAM	m	What'd I do?
+JANET	f	Think about it! Whenever you pull kids out, it's a  disruption, plus it's extra work for  the teacher 'cause they have to fill  the kids in on what they missed.  Some teachers resent it.
+ROBERTA	f	Well, can't you talk to them?
+JANET	f	I took this off a second-grader this  morning. I'll help you Roberta --  but I can't hold your hand here.
+JANET	f	A word of advice? When you're picking  up your students, go to Alice's  classroom first.
+ROBERTA	f	So pretend you're driving a car and  I'm the policeman and I say STOP!  Thumb up, fingers straight up, flat  palm. Now you be policemen, but turn  your hand and make it say stop to  yourself.
+DE SEAN	m	You're under arrest.
+ROBERTA	f	Knock it off, De Sean! If you kids can't take this seriously,  I don't want you here. I'm teaching  you a difficult instrument because I  respect you and have faith that you  can learn it. But none of that matters  if you don't have respect for  yourself.
+ROBERTA	f	Now turn your wrist so it's flat  against the fingerboard, and that's  how you'll set up your hand...
+ROBERTA	f	Guadalupe! You've got the violin in  the wrong hand! How did that happen?
+ROBERTA	f	Hello?
+CHARLES	m	Hello, Bobbi.
+ROBERTA	f	Where are you?
+CHARLES	m	I'm back in the States. I'm at my  parents.
+ROBERTA	f	Are you still with her?
+CHARLES	m	No.
+ROBERTA	f	We've missed you so much, Charles.  The boys... they can't wait for you  to come home... I know we'll have a  lot to work out and it won't be easy  right away, but we're gonna get  through this, you know? We're a family  and we belong together and --
+CHARLES	m	Bobbi -- stop, O.K.? Just stop.
+CHARLES	m	I want a divorce.
+ROBERTA	f	What?
+ROBERTA	f	But you said... you and Lana... you  said it was over.
+CHARLES	m	It is. It's over between us too, Bobbi.
+ROBERTA	f	He wouldn't even talk about it! No  explanations, no discussion...
+BRIAN	m	I can't believe you were still holding  out hope. The guy hasn't called you  or the kids in three months -- I  thought you'd moved on.
+ROBERTA	f	I never said that.
+BRIAN	m	No? Maybe not with words.
+ROBERTA	f	You know what? I shouldn't have called  you. This was a mistake.
+BRIAN	m	No, no -- I'm sorry. Look, I know it  hurts, but you're gonna get through  this, Roberta -- you will.
+ROBERTA	f	I'm moving back to my Mom's.
+BRIAN	m	What? You're gonna quit teaching in  the middle of the term?
+ROBERTA	f	I don't fit in there -- I'm not making  any progress with the kids...
+BRIAN	m	What are you gonna tell Janet --  your husband left you and nothing  else matters?
+ROBERTA	f	I don't know yet.
+BOY	m	My mother gave it to me.
+JANET	f	Why would she give you fifty dollars?
+BOY	m	To buy breakfast.
+JANET	f	Do you know how hard your mother  works? Do you think it's right for  you steal from her?
+BOY	m	I didn't!
+JANET	f	Well let's go call her right now and  ask her.
+ROBERTA	f	I need to speak to you. It's  important.
+JANET	f	It'll have to wait. Come on. In my office.
+ROBERTA	f	Guadalupe? What are you doing here?
+GUADALUPE	f	I can't get the stop sign.
+ROBERTA	f	Honey, your teacher's probably looking  for you.
+GUADALUPE	f	I can't come anymore. It's too hard.
+ROBERTA	f	The violin is hard for everyone.
+GUADALUPE	f	But everyone else is better than me.  I'll always be slow.
+ROBERTA	f	Did you ever hear of Itzhak Perlman?
+GUADALUPE	f	No.
+ROBERTA	f	He's one of the greatest violinists  in the world, and he has problems  with his legs too. He walks with two  canes -- but he still makes the most  beautiful music.
+GUADALUPE	f	And he sits down when he plays?
+ROBERTA	f	He has to.
+GUADALUPE	f	He was your student?
+ROBERTA	f	No. But if he was, I'd tell him the  same thing I'm telling you. You  shouldn't quit something just because  it's hard.
+GUADALUPE	f	But I can't stand strong.
+ROBERTA	f	Standing strong doesn't only mean  using your legs. You can stand strong  on the inside too. Know what I mean?
+JANET	f	You wanted to speak to me?
+ROBERTA	f	Oh. Umm -- that's O.K. It's taken  care of.
+LANDLADY	f	Is just for you and your boys?
+ROBERTA	f	Yes.
+LANDLADY	f	No husband? No boyfriend?
+ROBERTA	f	No.
+LEXI	f	Look what I made you, Mommy!
+ROBERTA	f	That is so beautiful!
+ISABEL	f	Whatsa matter -- you got cooties?
+ROBERTA	f	Apparently.
+ISABEL	f	I'll take my chances. Isabel Vasquez. Second grade.
+ROBERTA	f	Roberta Demetras. I'm the --
+ISABEL	f	Violin teacher. I know.
+ROBERTA	f	Is it my imagination, or does everyone  hate me?
+ISABEL	f	It's hard to fit in when you're doing  a special program. People figure  you're not gonna be here very long,  so why make the effort? It may take a while for folks to  warm up, but nobody hates you.
+ROBERTA	f	What about Alice Crowley?
+ISABEL	f	A) she thinks the violin's a waste  of time... and B) -- she's a bitch.
+ROBERTA	f	And then there's Dennis.
+ISABEL	f	The Music Man. You've had the bodacity  to threaten his private little empire --  not to mention the fact that you  messed up his sacred scheduling chart.
+ROBERTA	f	How come you're being nice to me?
+ISABEL	f	Ulterior motives. I want my daughter  in your class next year.
+ROBERTA	f	If I'm here next year.
+ISABEL	f	You will be.
+NICK	m	In Greece, we could see the ocean.  Remember?
+ROBERTA	f	I remember. And the fishing boats...
+NICK	m	And the octopuses.
+NICK	m	Is Daddy coming here soon?
+ROBERTA	f	Well, that's something I've been  wanting to talk to you about. Daddy's  not gonna live with us anymore. You  and Lexi will have special times  when you stay with him, like at  Christmas.
+NICK	m	Can you tell the birthday story?
+ROBERTA	f	Don't you want to talk about what I  told you?
+NICK	m	I want to hear the birthday story.
+ROBERTA	f	It was the day of Grandpa's birthday,  and I was sad because he had died a  few months back.
+NICK	m	But you knew I'd be born that day.
+ROBERTA	f	So I packed a bag and got all ready --
+NICK	m	And Daddy laughed.
+ROBERTA	f	I said, "It's my father's birthday,  and the baby's gonna be born today."
+NICK	m	He didn't believe you. But I was  born. The same day as Grandpa.
+ROBERTA	f	It was a happy day.
+NICK	m	Was Daddy happy too?
+ROBERTA	f	Of course he was.
+NICK	m	Then why is he leaving me?
+ROBERTA	f	He's not leaving you, Nick. He loves  you and Lexi very much.
+NICK	m	Then why can't he live here?
+ROBERTA	f	It's very hard to explain... Sometimes  things happen between grown-ups...  and they just can't be together.
+ROBERTA	f	Slow bows! Slow bows! Don't squeeze!  Stop! Everybody stop! How much did you practice this week?
+DE SEAN	m	My asthma -- it was very bad and I  had to go to the hospital.
+ROBERTA	f	Again? You told me you went to the  hospital last week.
+DE SEAN	m	Oh yeah. Maybe it was last week.
+ROBERTA	f	Lucy -- you sounded the worst of  all. Have you practiced?
+LUCY	f	No.
+ROBERTA	f	Why not? You can't be in this class  if you don't practice!
+LUCY	f	My grandma got mugged.
+ROBERTA	f	Oh. I'm sorry. Is she O.K.?
+LUCY	f	She died.
+ROBERTA	f	I'm really sorry, Lucy. Just do the best you can.
+NAEEM	m	Hi, Roberta.
+ROBERTA	f	Hi, Naeem. Can I talk to your mom  for a minute?
+ROBERTA	f	Look, I didn't come up here to rescue  anybody. I'm a single mother and I  needed a job. And I know you think  you're protecting your son, but you're  not. I mean, what if Arthur Ashe's  mother had stopped him from playing  tennis because it's a "white man's  game"? The important thing is that when  Naeem plays music, his whole face  lights up. You should see him.
+ROBERTA	f	We all have to take turns cleaning  up, O.K.?
+ROBERTA	f	Yeah, right.
+ROBERTA	f	First finger on the E! Three -- two --  one -- open! Wrong string, Becky! We've done this  fourteen times! And look at your  nails! You're supposed to cut them  for violin class! O.K, everybody  stop! It sounds horrible! I can't  believe how bad it sounds!
+ROBERTA	f	Is this an important question,  Tanisha?
+TANISHA	f	Do you have two of those skirts?
+ROBERTA	f	What?
+TANISHA	f	You wore a skirt just like it on  Monday.
+ROBERTA	f	You know, Tanisha -- I don't think  that's such an important question. O.K. Let's try --
+MRS. ADISA	f	Naeem and I were wondering if he  could still be in the class.
+ROBERTA	f	I'd love that. You'll have a lot of catching up to  do. You think you can work that hard?
+NAEEM	m	Yeah, I can.
+ROBERTA	f	Maybe we can also arrange some private  lessons at my house.
+MRS. ADISA	f	I wouldn't have the money for that.
+ROBERTA	f	That's O.K. Why don't you go grab one of my spare  violins?
+ROBERTA	f	Let's try it again.
+ROBERTA	f	What are you playing?
+LUCY	f	Twinkle.
+ROBERTA	f	Everyone stop! Let me hear.
+ROBERTA	f	Did someone teach you that?
+LUCY	f	No. I made it up.
+ROBERTA	f	That's really great, Lucy. I'm proud  of you.
+ROBERTA	f	All of you -- try it.
+MRS. LAMB	f	You're shouting at them. All the  time.
+ROBERTA	f	Not all the time. But if they don't  listen --
+MRS. LAMB	f	Didn't you tell them that they were  making their parents sick?
+ROBERTA	f	That wasn't exactly what I said --
+MRS. LAMB	f	I'm raising Becky in a supportive  atmosphere. I don't send her to school  to be abused.
+ROBERTA	f	I'm just trying to discipline them.  If they're gonna learn an instrument,  they need to take it seriously --
+JANET	f	I think what Mrs. Lamb is trying to  say, Roberta, is that you're a little  too harsh. I'm sure you might be  able to soften some of your comments  to the children?
+ROBERTA	f	Well, that was... that was pretty  good... that wasn't too bad...
+DE SEAN	m	It wasn't? I thought we stunk.
+ROBERTA	f	I wouldn't put it that way... You  all just need to practice a bit more. James, have you practiced this week?
+ROBERTA	f	Can you please try a little harder  for next week?
+ROBERTA	f	Good. Just do the best you can.
+DE SEAN	m	Why you acting like that?
+ROBERTA	f	Like what?
+DE SEAN	m	Nice.
+ROBERTA	f	Don't you want a nice teacher?
+DE SEAN	m	I already got nice teachers. You  added some variety.
+LUCY	f	Yeah. We like you better the way you  used to be.
+ROBERTA	f	Oh. What about you, Becky?
+BECKY	f	Yeah. This is even worse. You're  acting weird now.
+ROBERTA	f	Well, then -- I take it back. You  all stunk.
+ROBERTA	f	But don't tell your parents I said  so!
+LEXI	f	Can't you come with us? Please?
+ROBERTA	f	Honey, I told you. This is Daddy's  special time with you.
+FLIGHT ATTENDANT	m	I'll take good care of them.
+ROBERTA	f	Who is it?
+BRIAN	m	Santa Claus.
+BRIAN	m	I'm back.
+ROBERTA	f	O.K., enough goofing off -- back to  work.
+BRIAN	m	You trying to kill me?
+ASSUNTA	f	I was the only person in the whole  coffee shop not speaking Spanish.
+ASSUNTA	f	You hear that? Gunshots! How you  gonna live here by yourself? Boys, come eat!
+ROBERTA	f	I work in this neighborhood, Mama. I  want to live here.
+ASSUNTA	f	What's your name?
+LAWRENCE	m	Lawrence.
+ASSUNTA	f	You hungry, Lawrence?
+ASSUNTA	f	Why did you let her buy this house?
+BRIAN	m	Hey, your daughter does what she  wants -- or haven't you noticed?
+ASSUNTA	f	I've noticed.
+ASSUNTA	f	I still don't understand the rush.
+ROBERTA	f	Having my own place will make me  feel like I'm really starting my  life again.
+ASSUNTA	f	But if you invested your divorce  settlement, you could buy something  nice someday. It's bad enough that  you've been renting in this  neighborhood, but to lock yourself  into a mortgage --
+ROBERTA	f	Mama, please. Just stop!
+ROBERTA	f	Don't worry, O.K.? Besides, if things  keep going well, I'm sure eventually  Brian will move in with us.
+ASSUNTA	f	How much do you know about this man?
+ROBERTA	f	Brian's a good person, he's helped  me a lot, he's great with the boys --  since he got back to town, it's been  really sweet.
+ASSUNTA	f	And how long has he been back?
+ROBERTA	f	Two months.
+ASSUNTA	f	That's not very long. Don't make the  same mistake twice, Bert. You barely  knew Charles when you married him.
+ROBERTA	f	I don't get it -- you're ragging on  me about buying the house -- I would  think you'd want Brian to live with  me.
+ASSUNTA	f	Not if he's the wrong person.
+ROBERTA	f	Get ready, now -- we're coming up to  the fermata...
+ROBERTA	f	Hold... Hold... Don't anybody move.  Now at the Spring Concert, the  audience is gonna be dying for that  next note -- but we'll make them  wait. As a matter of fact, I think  I'll go grab a cup of coffee.
+ROBERTA	f	Well, O.K. But you have to promise  you'll all start together.
+DE SEAN	m	Man. We'll never get that right.
+ROBERTA	f	That's not a very nice thing to say  about your classmates. How many people think they can get  it right by the concert?
+ROBERTA	f	I love you.
+ROBERTA	f	Did you just laugh?
+BRIAN	m	I'm sorry. It's just...
+ROBERTA	f	What?
+BRIAN	m	Why do people feel like the minute  something's going great, they gotta  name it? Once you name something, you snuff  the life out of it.
+ROBERTA	f	Jesus, Brian. Do you still get away  with that crap? It's not the Sixties  anymore.
+BRIAN	m	Well, maybe if you'd actually gone  through the Sixties, you'd know what  I'm talking about.
+ROBERTA	f	Fine! We won't name it, we won't  talk about it, we'll act like we  have no feelings for each other  whatsoever!
+BRIAN	m	I'm sorry. I'm being an asshole. You can say you love me if you want.
+ROBERTA	f	Forget it. I changed my mind.
+ROBERTA	f	How's it coming, Ernie?
+ERNIE	m	Well, if I could just remember what  I did here yesterday, I'd be moving  a whole lot faster. You look real pretty today, honey.
+BRIAN	m	You're crazy. Why did you hire him?
+ROBERTA	f	He needed a job. Besides, he's wired  all of East Harlem.
+BRIAN	m	When? Fifty years ago?
+ROBERTA	f	Why is there wallpaper on it?
+MAN #1	m	That's how it comes.
+ERNIE	m	Yep, that's how it comes now.
+BRIAN	m	What the hell is this?
+ROBERTA	f	Sheetrock.
+BRIAN	m	You've gotta be kidding. Those ex- cons you hired ripped this off --  and you too!
+ROBERTA	f	Look -- this house is taking every  penny of my settlement. I can't afford  fancy union workers!
+BRIAN	m	Fine. Do it your way.
+JANET	f	I'm giving him a two-day suspension --  but next time he'll be expelled.
+ROBERTA	f	There won't be a next time -- I  promise.
+JANET	f	Have you noticed your son lately?  He's tied up in knots and he needs  help.
+ROBERTA	f	Janet, kids fight. You're making too  much of this.
+JANET	f	He was choking the kid. Nick's in trouble, Roberta. You need  to deal with it.
+ROBERTA	f	Keep playing, guys.
+ROBERTA	f	You can watch when we're done.
+NICK	m	It's my house! They don't live here --  I do!
+ROBERTA	f	Nick honey -- the kids are real  nervous about the Spring concert.  You could probably give them some  pointers.
+NICK	m	I don't feel like it.
+ROBERTA	f	I said no.
+BRIAN	m	Good catch Nick!
+BRIAN	m	Uh-oh. You know what that means?
+NICK	m	Don't! Don't throw me in!
+BRIAN	m	Whatsa matter? Afraid of a little  water? The ducks aren't afraid! Are  you a chicken or a duck?
+NICK	m	Don't! Don't throw me!
+BRIAN	m	Looks like you got yourself a chicken,  Roberta!
+NICK	m	I'm not a chicken!
+BRIAN	m	Well then you must be a duck!
+LEXI	f	Throw me in the water, Brian! Do it  to me!
+ROBERTA	f	You seem to be the only one who can  get Nick to laugh these days.
+BRIAN	m	He misses his dad. I'm just a  surrogate.
+ROBERTA	f	No -- I think Nick really likes you. You know... we're all hoping you'll  move into the new house with us.
+BRIAN	m	Whoa. Can we just slow down here a  minute? It's too much like getting  married.
+ROBERTA	f	What's so bad about that?
+BRIAN	m	That kind of commitment just isn't  realistic. I mean, how can we know  that you and I will even be able to  stand each other in five years?
+ROBERTA	f	Well, we don't. But if two people  care about each other, they take a  chance.
+BRIAN	m	And look what happened to you and  Charles.
+ROBERTA	f	I'm not talking about Charles. I'm  talking about us.
+BRIAN	m	Look, Roberta. Marriage is based on  a belief that one person can  completely meet another person's  needs. I just don't buy that.
+ROBERTA	f	What are you saying? If there's some  need you have that I don't meet,  you'd go and get it "met" by someone  else?
+BRIAN	m	I'm saying that it's the 80's and  it's a fantasy to think of marriage  lasting these days. One out of two  marriages ends in divorce!
+ROBERTA	f	You didn't answer my question. If I don't meet all your needs, and  we're in a committed relationship --  forget marriage for a minute; I'm  just talking about a relationship --  would you go to someone else?
+BRIAN	m	In theory, yes.
+ROBERTA	f	In theory.
+BRIAN	m	Roberta, we've got something good  right now -- that's the important  thing. Let's just keep it that way,
+NICK	m	Why can't he?
+ROBERTA	f	He just can't, O.K.? Brian's at his  house tonight, and we're at ours.
+NICK	m	Well then I wanna go to his house.
+ROBERTA	f	Enough, Nick. Now why don't you and  your brother practice while I make  dinner.
+NICK	m	I don't feel like practicing.
+ROBERTA	f	Well do it anyway.
+NICK	m	I wanna go to Brian's!
+ROBERTA	f	Stop whining, and get your violin.
+ROBERTA	f	What the hell are you doing?
+NICK	m	The problem with you is you're mean  to everybody and then they don't  want to be with you!
+ROBERTA	f	I've heard just about enough from  you, young man. Now set your violin  up properly and start practicing.
+NICK	m	I hate the violin!
+ROBERTA	f	You pick that violin up right now  and don't you ever ever --
+NICK	m	It's all your fault! You made Daddy  leave and you're gonna make Brian  leave too! You're gonna be all alone  and I'll have to take care of you!
+ROBERTA	f	Nick -- you don't have to take care  of me.
+NICK	m	Then who's going to?
+ROBERTA	f	I'll take care of myself -- and I'll  take care of you and Lexi. I promise.
+NICK	m	You didn't try hard enough. You made  Daddy leave us.
+ROBERTA	f	That's not true. I begged him not to  leave, but he didn't listen.
+NICK	m	Why not?
+ROBERTA	f	Your father met someone he liked  more than Mommy, and then --
+NICK	m	Who?
+ROBERTA	f	Lana. Remember our friends Lana and  Tom?
+NICK	m	Is he gonna marry her now?
+ROBERTA	f	No, but he's not coming back... to  me.
+ROBERTA	f	I'll take care of you, Nick. You  too, Lexi. I promise. I'm not going  anywhere. We're still a family.
+ROBERTA	f	I promise.
+ROBERTA	f	What color is this?
+PAINTER	m	White.
+ROBERTA	f	I told you Eggshell.
+PAINTER	m	Eggshells are white.
+BRIAN	m	You're an idiot! I told you -- you  can't be your own contractor.
+ROBERTA	f	You're right. I'm an idiot.
+ROBERTA	f	Wake up, Ernie.
+ROBERTA	f	You're fired.
+ROBERTA	f	You're fired.
+ROBERTA	f	You're fired.
+BRIAN	m	That's more like it.
+ROBERTA	f	You're fired too.
+ROBERTA	f	No, Brian. I mean it. I need to be  with a man who can make a commitment  to me. I need that, and my sons need  that. So can you?
+BRIAN	m	Roberta --
+ROBERTA	f	Get out.
+WOMAN	f	That's the one Lucy wrote!
+ISABEL	f	C'mon everybody, settle down -- Janet  wants to talk to you.
+JANET	f	Today's a very special day because  we're starting the tenth year of the  East Harlem Violin Program. This is  a wonderful opportunity for you, so  I want you to talk to your parents  about whether you'd like to try this.
+ISABEL	f	My daughter took violin with Roberta  when she was your age, and now she's  in high school and she still talks  about how much she loved it.
+DENNIS	m	Janet and I started this program  because we knew how much you kids  could benefit from it.
+DENNIS	m	You should know, however, that the  violin is a difficult instrument.
+JUSTIN	m	Who's that lady in the back?
+JANET	f	That's Dorothea Van Hauften --
+JUSTIN	m	Say what? What kinda name is that?
+ISABEL	f	Justin -- sshh!
+JANET	f	-- and she's taking pictures of  Roberta's classes for a magazine  article about music education.
+JUSTIN	m	I wanna be in the magazine!
+ISABEL	f	First things first, Justin. Roberta's  gonna explain to you about the  "lottery."
+ROBERTA	f	I used to just teach fifty kids at  this school. But now I teach a hundred  and fifty kids at three East Harlem  schools and there's so many children  who want to take violin classes that  we have to have a lottery.
+VANESSA	f	Can I be in the class?
+ISABEL	f	Roberta's explaining that. Just  listen.
+ROBERTA	f	After your parents sign your  permission slips, I'm gonna put them  in a sack, and I'll pick fifty names  from each school.
+ROBERTA	f	So everyone bring in your slips by  Friday, and I'll come back and tell  you who's in violin class.
+ISABEL	f	Remember, she's just picking names  from a hat. It doesn't mean that  anyone's better than anyone else.
+RAMON	m	I really really hope that I get in  the class.
+ROBERTA	f	I hope so too.
+RACHEL	f	How come you guys don't play the  violin?
+LEXI	f	Well, picture her being your teacher  and your mother.
+ROBERTA	f	Hi Rachel. Be right with you.
+ROBERTA	f	You're gonna practice upstairs?
+NICK	m	No. I'm done.
+ROBERTA	f	Already? You've barely practiced.
+NICK	m	What -- are you timing me with a  stop watch? Why don't you pick on  Lexi for a change?
+LEXI	f	'Cause I'm perfect.
+LEXI	f	Have a good lesson.
+LEXI	f	I'll be back in a couple of hours.
+ROBERTA	f	Be careful.
+MALE VOICE	m	Can I try your bike?
+LEXI	f	I'm gonna be leaving pretty soon.
+HENRY	m	Just wanna take it for a spin.
+LAWRENCE	m	C'mon, Henry -- he don't want to  loan you his bike.
+HENRY	m	I didn't hear him say that. Is that true? Did you say that?
+ROBERTA	f	Vibrato... don't wiggle your wrist.
+RACHEL	f	Dang! I can't get that right.
+ROBERTA	f	You almost have it.
+RACHEL	f	Almost isn't good enough.
+ROBERTA	f	Did I turn you into such a  perfectionist?
+RACHEL	f	No. I came that way.
+ROBERTA	f	Just as long as you get it right for  your Julliard audition.
+RACHEL	f	What?
+ROBERTA	f	I've recommended you for a gifted  kids scholarship.
+ROBERTA	f	Where's the bike?
+LEXI	f	Mom, please. Don't do this to me!
+NICK	m	C'mon, Mom -- why don't you let me  handle this?
+ROBERTA	f	Are we getting closer, Lawrence?
+LAWRENCE	m	It's the next block up.
+LEXI	f	You don't have to do this. I'll pay  you back.
+ROBERTA	f	How? It took me six months to save  up for it.
+NICK	m	I'll help him, O.K.? We'll both pay  you back.
+LEXI	f	Or we'll ask Dad -- he'll help us  out.
+ROBERTA	f	Yeah, right.
+LAWRENCE	m	O.K., slow down. It's the second one  on the right.
+NICK	m	C'mon Mom, let's get out of here.
+ROBERTA	f	Lock the doors.
+LEXI	f	I'm dead. She's gonna get me killed.
+NICK	m	I'm coming with you!
+ROBERTA	f	No. Get back in the car and stay  with the boys.
+LAWRENCE	m	Don't take the stairs!
+OLD WOMAN	f	Yeah?
+ROBERTA	f	I'm a school teacher. Henry has taken  my son's bicycle and I want it back.
+OLD WOMAN	f	Henry's not here.
+ROBERTA	f	Well you tell Henry that if he returns  the bike, I won't have to notify the  police -- or his school principal.  Although since I am a teacher, it  would be very easy for me to do that.
+OLD WOMAN	f	He's not home. He doesn't get home  till late.
+ROBERTA	f	How late?
+OLD WOMAN	f	Not till after ten.
+ROBERTA	f	I'll be on the steps of CPE 1 at 11  P.M. I'll be waiting for him.
+LEXI	f	You're crazy. He's not gonna show.
+NICK	m	You think he actually cares that  you're a teacher? You think he even  goes to school?
+LEXI	f	C'mon, Mom -- let's just go.
+ROBERTA	f	It's only five after eleven.
+HENRY	m	I was just borrowing it.
+ROBERTA	f	Shandra Wilson.
+ROBERTA	f	Justin Brady.
+ROBERTA	f	Vanessa Klein.
+ROBERTA	f	O.K. One more name...
+ROBERTA	f	Leonard Hood.
+LEONARD	m	It's too hard! I don't wanna do it!
+ISABEL	f	Don't you even wanna try, Leonard?
+LEONARD	m	I don't want to!
+ROBERTA	f	Well, O.K. then. I'll pick someone  else. Ramon Olivas.
+RAMON	m	This is to inform you that your child,  Ramon Olivas, has been chosen by  lottery to be in the violin program.
+CONCEPCION	f	You happy?
+CONCEPCION	f	I think you're happy.
+WOMAN'S VOICE	f	Does that really work?
+ROBERTA	f	No. But I keep trying. And maybe  someday the school will give me a  parking space!
+DOROTHEA	f	Wait --
+ROBERTA	f	God, these are great.
+DOROTHEA	f	Those copies are for you.
+ROBERTA	f	Thank you. Can I... pay for you them?
+DOROTHEA	f	Don't be silly. Besides -- you'll  need your money for parking tickets.
+DOROTHEA	f	What you're doing for these children  is wonderful. My husband's a violinist --  he was quite impressed when I told  him about you.
+ROBERTA	f	What's his name?
+DOROTHEA	f	Arnold Steinhardt.
+ROBERTA	f	Of the Guarneri String Quartet?
+DOROTHEA	f	Stay in touch. Let us know when the  kids have a concert.
+RACHEL	f	Don't be late for violin class! I  hear the teacher's really mean.
+ROBERTA	f	Amanda, what did I tell you about  wearing cowboy boots to violin class?  They're too slippery!
+ROBERTA	f	Relax your two, Simon...
+ROBERTA	f	Your stop sign has to be up, Kenny!  Stephanie, it doesn't look like you  ever had a lesson with me!
+ROBERTA	f	Where's your violin, Carlos?
+CARLOS	m	It's coming.
+ROBERTA	f	What, is it walking here by itself?
+ROBERTA	f	Your buddies giving you a hard time?
+CARLOS	m	Look, it's just not cool. You wouldn't  understand.
+ROBERTA	f	Hey, you want your sister to carry  your violin, that's fine. But is she  practicing for you too? Because  lately, that's how it sounds.
+CARLOS	m	I've been busy! I've been --
+ROBERTA	f	I'm not interested! Just get here on  time, and commit to this class or I  don't want you in here, you  understand?
+ROBERTA	f	You're a good violinist, Carlos --  and it's definitely not "cool" to  waste your own talent.
+MANUELO	m	Why didn't you show it to me?
+CONCEPCION	f	It just needed one parent's signature.
+MANUELO	m	Well, I'm his parent and I don't  give permission! He should be playing  baseball, not the violin!
+CONCEPCION	f	It makes him happy.
+BOY #1	m	Ooh, check out little Miss Violinhead.
+GIRL	f	She carry that violin with her all  the time 'cause she think she special.
+RACHEL	f	I am special.
+RACHEL	f	So I heard from Julliard.
+ROBERTA	f	And?
+RACHEL	f	They said yes!
+ROBERTA	f	So when you take the violins home,  tape your music to the wall directly  in front of your nose so you can  play with perfect posture. Your  parents are gonna be so excited to  hear you play!
+PEDRO	m	Ramon! How many cats you killing in  there?
+ROBERTA	f	More bow! To the frog! Myesha, your  stop sign line should be touching.  Don't let it wiggle! You're on the  wrong string, Justin! And look at  your feet!
+ROBERTA	f	Where's your violin?
+VANESSA	f	I forgot.
+ROBERTA	f	Goodbye! And you may be dropped.
+ROBERTA	f	Look at those nails, Rosario!
+ROBERTA	f	I see you over there, Myesha.
+ROBERTA	f	You're doing much better.
+RAMON	m	Drop dead, Justin!
+JUSTIN	m	It was a accident!
+RAMON	m	Was not!
+ROBERTA	f	Ramon, I don't like that kind of  talk. Justin, pick up his stand,  now! Our spring concert is in three  weeks and you might not be in it. Is  that what you want?
+ROBERTA	f	Mr. Klein? I'm gonna have to drop  Vanessa from the class if she keeps  forgetting her violin.
+MR. KLEIN	m	She's going back and forth between  houses. My wife and I split up.
+ROBERTA	f	Oh. I'm sorry.
+ROBERTA	f	Vanessa, maybe you could write down  for your Mom and Dad which days are  violin days.
+VANESSA	f	The tape doesn't stick.
+ROBERTA	f	What?
+VANESSA	f	I taped the music to the wall at my  Mom's house and then I took it to my  Dad's house and it doesn't stick  anymore.
+ROBERTA	f	Well you know what? That's an easy  problem to solve.
+ROBERTA	f	Now you have two, O.K.? One for each  house.
+RAMON	m	You wanna hear my new song, Papa?
+MANUELO	m	Not right now.
+CONCEPCION	f	We made mistakes with Pedro and  Ernesto and we can't fix them now,  but Ramon -- he works so hard. The  violin makes him want to be good at  everything.
+ROBERTA	f	What happened?
+RAMON	m	You go to heaven... You go to hell...  You go to hell... heaven...
+TOUSSAINT	m	My grandpa died and my uncle, so  that makes six.
+SHANDRA	f	I know more than that. At least seven  people... maybe even nine.
+ROBERTA	f	I know that you've all heard the bad  news about Justin.
+MYESHA	f	I didn't hear.
+TOUSSAINT	m	There was a drive-by shooting by his  house and he got shot on accident  and he died.
+ROBERTA	f	Does anyone want to talk about it?
+RAMON	m	I think we should just play violin.
+CONCEPCION	f	Roberta! Come in.
+ROBERTA	f	I came by to check on Ramon.
+CONCEPCION	f	Why?
+ROBERTA	f	Didn't he tell you what happened at  school?
+CONCEPCION	f	Roberta wants to talk to you, O.K.?
+RAMON	m	Did that sound O.K.?
+ROBERTA	f	Yeah, it did.
+ROBERTA	f	I've been thinking about Justin.  Remember how mad I got the last time  I saw him?
+RAMON	m	Yeah. You got very strict with him.
+ROBERTA	f	It wasn't always so easy to be nice  to him, you know?
+RAMON	m	You think Justin's in heaven or hell?
+ROBERTA	f	Heaven.
+RAMON	m	I told him to drop dead.
+ROBERTA	f	Justin didn't die because of what  you said. I promise.
+RAMON	m	How do you know?
+ROBERTA	f	I don't think you're that powerful,  do you? I mean, if you had such  powers, just imagine what kind of  violin player you'd be by now!
+RAMON	m	Yeah. I'd be better than you!
+ROBERTA	f	It's O.K. to cry, you know.
+RAMON	m	Not for a man.
+ROBERTA	f	My boys still cry and they're big,  strong young men now. I bet Justin's daddy cried.
+ROBERTA	f	Nick, Lexi! Get down here right now!
+NICK	m	We were just trying to help!
+ROBERTA	f	This is humiliating!
+NICK	m	Mom, no one knows it's you! I mean,  you don't even have to read them if  you don't want to. Although obviously, a lot of guys  are interested in dating you.
+ROBERTA	f	No. A lot of guys are interested in  dating you and Lexi. What did you say about me, anyway?
+NICK	m	"Beautiful musician, late 40's, tired  of playing solo --
+LEXI	f	-- seeks a healthy, stable, attractive  man who's not afraid of a duet with  a strong, independent woman.
+NICK	m	My violin playing will feed your  soul...
+LEXI	f	...And my lasagna will be music to  your palate."
+ROBERTA	f	Oh, my God.
+LEXI	f	Did you catch all the music metaphors?
+ROBERTA	f	Don't you think it's a little weird  that you're trying to get your mother  a date?
+NICK	m	Don't you think it's a little weird  that you're not even interested in  dating?
+ROBERTA	f	Boys, look. Number one -- even if I  wanted to date, I don't have time.  And number two -- I've got my  teaching, I've got you guys -- that's  all I need.
+LEXI	f	I really thought she'd like the music  metaphors.
+ROBERTA	f	I think you're flat, Nick.
+NICK	m	I'm not flat.
+ROBERTA	f	The B sounded flat.
+NICK	m	Just play the violin, Mom. I'll take  care of the cello.
+LEXI	f	You nervous, Mom?
+ROBERTA	f	No. I'm fine.
+DAN	m	Hi. I'm Dan Paxton.
+DAN	m	Wow. An honest woman.
+ROBERTA	f	Honest?
+DAN	m	Your ad. When you said you were  beautiful, you were telling the truth.
+NICK	m	Make sure you're home by midnight,  young lady.
+LEXI	f	Ten bucks he tries to kiss her.
+NICK	m	That's a no-brainer. Of course he'll  try. The real question is whether  she'll let him.
+LEXI	f	O.K. -- ten bucks she lets him.
+NICK	m	You're on.
+DAN	m	I had a lot of fun tonight.
+ROBERTA	f	Yeah, I did too.
+DAN	m	I have a confession -- I've never  answered an ad before. I did it on a  dare.
+ROBERTA	f	Well, I have a confession -- my boys  placed the ad behind my back.
+ROBERTA	f	Look, Dan -- I went along with this  'cause it's been a while. Quite a  while... And I had a very nice time...  but I'm not sure if I'm ready to get  involved with anyone right now.
+DAN	m	Does this mean I don't get any  lasagna?
+ROBERTA	f	Why are you guys still up?
+NICK	m	Why? Is it late?
+ROBERTA	f	Good try, Nick.
+LEXI	f	So how was it?
+ROBERTA	f	Well... he's nice.
+NICK	m	"Nice"? As in "let's just be friends"  nice?
+ROBERTA	f	I don't know yet. We'll see.
+NICK	m	There's still a lot more letters.
+ROBERTA	f	Good night, Nick.
+LEXI	f	Hey, Mom -- can you loan me ten  dollars?
+ROBERTA	f	Guys, I'm so sorry -- I got stuck  over at CPE 2...
+ROBERTA	f	What's going on? Where are all your  violins?
+RAMON	m	We heard you got fired.
+ROBERTA	f	What?!
+ROBERTA	f	Is it true?
+JANET	f	Why don't you come in my office?
+ROBERTA	f	It's true? You're firing me?
+JANET	f	It's not me, Roberta. The Board of  Ed. cut the budget, the District had  to comply, and as of the end of this  term, the violin program has been...  excessed.
+ROBERTA	f	Excessed. They specifically said that my violin  program has to go.
+JANET	f	They've slashed the budget -- music  and art programs got hit the worst.
+ROBERTA	f	What about Dennis' classes?
+DENNIS	m	I'm tenured, Roberta.
+ROBERTA	f	When was this decided?
+JANET	f	Things happened very quickly... I  wanted to tell you myself --
+ROBERTA	f	I just... I can't even believe this  is happening!
+DENNIS	m	Why not? You're a sub. Your position  has never been permanent.
+JANET	f	Shut up, Dennis! You're not helping! Come into my office, please.
+ROBERTA	f	There's gotta be a way to fight this!
+JANET	f	Fight it with what? I don't have any  other extra programs to give them  instead.
+ROBERTA	f	Oh, I see. So after ten years, after  fourteen hundred children have learned  to play the violin, this is just an  "extra program."
+JANET	f	You know I don't feel that way and  you know damn well I've been standing  by you all these years! You think I  haven't noticed what you've done for  these kids?
+ROBERTA	f	Then do something!
+JANET	f	I've been on this phone for the past  three days trying to "do something" --  the District office can't even stand  the sound of my voice. Believe me,  there are some people around here  I'd much rather get rid of. But as  far as the Board's concerned, violin  classes are not a priority.
+JANET	f	I don't have the power here, Roberta.  I'm so sorry.
+ROBERTA	f	sitting at the kitchen table with a  glass of wine, her face ashen.
+NICK	m	What happened?
+ROBERTA	f	I'm a good teacher. I've worked so  hard to give these kids something to  be proud of.
+LEXI	f	I'm so sorry, Mom. I can't believe  they did this to you.
+ROBERTA	f	It's like when my father got killed.  For twenty years, he followed every  safety rule the factory had, and  then someone else flips the wrong  switch... It's not fair. You do everything  right and then...
+NICK	m	It's the wrong analogy. You couldn't  do anything about Grandpa's death.  It was irreversible. This isn't.
+ROBERTA	f	Tell that to the Board of Education.
+NICK	m	Let me ask you something. Why did  you risk your life for a bicycle?
+ROBERTA	f	I did not risk my life.
+NICK	m	Of course you did! That building?  Threatening Henry? And for what --  two hundred dollars?
+ROBERTA	f	No. Not for that.
+LEXI	f	Then why?
+ROBERTA	f	When someone steals something that  belongs to my kids, I'm not gonna  sit back and let that happen!
+ROBERTA	f	Guys -- you need to think about this.  If I try to fight this -- with no  salary coming in -- I could lose the  house, screw up your college plans...  It would be a lot safer to just go  out tomorrow and get a job in a  private school.
+LEXI	f	Yeah, but is that where you really  want to be?
+ROBERTA	f	The beautiful concert that you just  heard could be the last concert of  the East Harlem Violin Program. The  Board of Education and the District  Superintendent don't think that music  is important for our children. But  they're wrong -- and they're in for  a fight.
+ROBERTA	f	Someone's early.
+JANET	f	Hello, Assunta. How are you?
+ASSUNTA	f	I'd be a lot better if my daughter  had a job next year.
+ROBERTA	f	Ma!
+JANET	f	I would too.
+JANET	f	Sorry I'm early, but I figured we'd  need time to set up.
+ROBERTA	f	Mama, why don't you take Allegra out  for a walk?
+JANET	f	You are having a meeting here tonight,  right? Parents and teachers?
+ROBERTA	f	Well, yes, but ...
+JANET	f	Take it from me. If you want to get  parents to help you with something,  you have to feed them.
+JANET	f	You have a cutting board for these?
+JANET	f	And if you think parents are bad,  teachers are even worse, no offense.  If you don't feed them, you never  get anything extra out of them. That's  why I got this.
+JANET	f	Entenmann's gets them every time.
+JANET	f	What? Don't tell me you expected me  to bring something homemade.
+ROBERTA	f	Well, no... I --
+JANET	f	Good. Because take it from me -- my  own family begs me to stay out of  the kitchen.
+ROBERTA	f	What I didn't expect was for you to  be here.
+JANET	f	Why not? We've gotta figure out a  way to fight this. After ten years, Roberta, I can't  imagine walking through those hallways  and not hearing that off-key,  screechy, scratchy, nails-on-the- blackboard violin music.
+JANET	f	What do you think? Cut it into slices  now, or leave it whole?
+ROBERTA	f	Let's cut it now. It'll be less messy.
+ISABEL	f	Don't they realize how much this  program helps the kids?
+MR. ADAMS	m	Simon's our third child to study  with Roberta. James is pre-med,  April's valedictorian -- now that  says something!
+MR. KLEIN	m	I think we should inundate the Board  and the District with letters.
+JANET	f	You're wasting your time. The Board  and the District are not gonna pay  for this program, no matter how many  letters they get.
+ISABEL	f	What if we raise the money ourselves?
+JANET	f	I can't see how they'd object to  that.
+CONCEPCION	f	Well once that newspaper article  comes out, that should help bring in  money.
+BEVERLY	f	Yeah, but what if it doesn't? For  all we know, it's gonna be buried on  the back page. Besides, who says  anyone's gonna give a damn about our  kids?
+DOROTHEA	f	What if you do a benefit concert? We  can raise a batch of money from ticket  sales, and then the concert itself  could be great publicity. There's  word of mouth... you could get  reviewed...
+ROBERTA	f	It better be a good concert!
+ROBERTA	f	We have to offer something more than  me and the kids. Do you think maybe your husband would  perform with us?
+DOROTHEA	f	I'm sure I could persuade him with a  little pillow talk. And maybe he can  get another violinist too -- Itzhak  Perlman, perhaps.
+ROBERTA	f	That would be fantastic.
+DOROTHEA	f	We could rent a place like the 92nd  Street Y -- it's perfect for this.  It seats about nine hundred people  and if we charge between fifty and a  hundred a ticket --
+ISABEL	f	We could probably raise enough to  reinstate your program for a year.
+JANET	f	Sounds like a plan.
+ROBERTA	f	It better be a good concert.
+DAN	m	Take your pick.
+ROBERTA	f	Kids, listen to me -- it's really  important that you don't look at the  camera and you try to act as natural  as possible.
+DENNIS	m	Who authorized this?
+ROBERTA	f	Janet.
+DENNIS	m	Well Janet's not here today and I  want these people out of here.
+DENNIS	m	Turn that off, you hear me?
+ROBERTA	f	Why are you doing this? We're not  bothering anyone.
+DENNIS	m	You're disrupting school and I want  them out of here -- now.
+ROBERTA	f	You still don't get it, do you? I  don't care if you hate me, Dennis --  that's your business. But think about  the students for once. Every time  you interfere, you're not hurting me --  you're hurting them.
+DENNIS	m	Get these people out of here or I'm  calling the police.
+ROBERTA	f	Go right ahead, call them. That'll  look real good on the eleven o'clock  news.
+RAMON	m	I don't hear no sirens.
+ROBERTA	f	I'm from a blue collar family, and  if it weren't for the lessons I got  in public school, I never would have  learned the violin.
+INTERVIEWER	m	How does it make you feel to lose  your violin program?
+SHANDRA	f	It makes us sad!
+RAMON	m	Yeah, like we're never gonna have no  more violin lessons --
+VANESSA	f	And it's bad because... because we  love violin class.
+ROBERTA	f	Yes, I've gotten offers from two  private schools, but this is where I  want to be.
+DOROTHEA	f	Arnold, these kids need help.
+ARNOLD	m	Didn't we send them a donation?
+DOROTHEA	f	They need something bigger. And you  can't just write a check -- you have  to get involved.
+ARNOLD	m	Involved how?
+ARNOLD	m	Uh-oh.
+ROBERTA	f	Listen up, everyone! Quiet down!
+ROBERTA	f	You are my very best beginner and  advanced violin students and I've  chosen you to play in Fiddlefest  because I trust that you can handle  the pressure. It's gonna be a lot of  work -- a lot. Right now, we've sold  some tickets, but I'm not gonna be  back here in the fall if the audience  storms out of their seats, demanding  a refund!
+ROBERTA	f	Rachel's gonna be my lieutenant and  I expect you to listen to her.
+RAMON	m	Bach's "Minuet One"?
+ROBERTA	f	People are gonna be paying good money  for this concert -- we're not just  gonna play "Twinkle." I'm passing out a contract that you  and your parents need to sign.
+CARLOS	m	Every Saturday and Sunday?
+ROBERTA	f	Plus night time rehearsals during  the week. There's only six weeks  till the concert, so classes in school  won't be enough.
+ROBERTA	f	Come to think of it, we'll probably  also need to meet before school.
+ROBERTA	f	You've heard of Navy Seal Training?  Well, this is gonna be Roberta String  Training.
+ROBERTA	f	Oh my god! Naeem! De Sean! Guadalupe!
+ROBERTA	f	Lucy? Is that you?
+ROBERTA	f	Kids, these are four of my very first  violin students and I've asked them  to play in the concert with us. I was just telling them how hard  they're gonna have to work.
+DE SEAN	m	Take it from me -- this lady don't  lie. Y'all are gonna work your butts  off.
+TEAMMATE #1	m	Hey Carlos! Where ya goin'? We got a  game, remember?
+CARLOS	m	Yeah, I know, but... I can't make  it.
+TEAMMATE #1	m	What you talkin' about?
+CARLOS	m	I just can't make it.
+TEAMMATE #2	m	You got a date with the violin  teacher?
+CARLOS	m	Yeah. I do.
+ROBERTA	f	Frog! Frog! I need more accents on  the down beat! More bow! More!
+ROBERTA	f	Stop! Stop! You sound horrible! Isn't anyone  practicing?
+CARLOS	m	How can we practice? We're rehearsing  all the time.
+ROBERTA	f	You think this is funny, Stephanie? You think the four hundred people  who've bought tickets so far will  think it's funny too? You think Itzhak  Perlman will think it's funny that  he's donating his time and you're  all gonna stink?
+ROBERTA	f	Am I boring you, Vanessa?
+VANESSA	f	No. It's 7:30 in the morning. I'm  just tired.
+ROBERTA	f	There's no time to be tired. Let's try it again.
+ROBERTA	f	I must have been crazy to agree to  this. They're never gonna be ready.  And you should hear the Bach Double!  A disaster. So the good news is  tickets are selling like hot cakes,  but the bad news is that the kids  sound like shit.
+DOROTHEA	f	There's more bad news... We've lost  the Y.
+ROBERTA	f	What?!
+DOROTHEA	f	They had a flood -- a water heater  burst... The concert hall was damaged  and they've cancelled all events.
+ROBERTA	f	Until when?
+DOROTHEA	f	"Until further notice."
+ROBERTA	f	This can't happen! We've sold tickets!  We've done publicity! The concert's  in three weeks!
+DOROTHEA	f	I've been on the phone all morning  calling other theaters. Nothing's  available.
+ROBERTA	f	Just keep looking.
+ROBERTA	f	Stop! Someone's playing the wrong  notes! And you shouldn't need your  music anymore! Except for the Bach  Double, everything has to be memorized  by next rehearsal!
+ROBERTA	f	And you sound like you're  sleepwalking. Your heart's not even  in it.
+VANESSA	f	Maybe 'cause we don't have a place  for the concert.
+ROBERTA	f	Well, you're right. This might all  be for nothing. So we can either  keep on rehearsing in case we find a  place -- or we can just... give up.
+DE SEAN	m	Am I hearing right? Did you use the  words "give up"? Let's take a vote. How many of you  want to give up?
+GUADALUPE	f	See? You taught us well.
+ROBERTA	f	What about in the Bronx?
+NICK	m	There's nothing. Why don't you just do it in one of  the schools? It'll be a lot smaller  but --
+ROBERTA	f	We won't make enough money.
+LEXI	f	What about postponing it?
+ROBERTA	f	Itzhak and Arnold are booked all  summer.
+DOROTHEA	f	It's Dorothea.
+DOROTHEA	f	I have good news -- really good news.  Arnold got a call from his friend  Wally Scheur who heard about us losing  the Y and wanted to see how he could  help -- and then Wally had this  brilliant idea and called his friend  Isaac Stern and it's all arranged!  We have a new place for Fiddlefest!
+ROBERTA	f	Where?
+DOROTHEA	f	Carnegie Hall.
+ROBERTA	f	Carnegie Hall?
+MALE VOICE	m	Incredible sound in this room, no?
+ROBERTA	f	Oh my god -- Isaac Stern.
+ISAAC STERN	m	You must be Roberta.
+ROBERTA	f	Thank you so much for helping us.
+ISAAC STERN	m	Would you believe in 1960, they tried  to tear this place down? They wanted  to replace it with a bright red  skyscraper -- we called it "the red  terror."
+ROBERTA	f	You're kidding.
+ISAAC STERN	m	We had to fight like hell, but with  a lot of help, we saved Carnegie  Hall.
+ISAAC STERN	m	If it's all right with you, I'd like  to play in your concert. Maybe bring  a couple of friends...
+ROBERTA	f	Yes, of course! That would be great!
+ISAAC STERN	m	Don't give up.
+ROBERTA	f	I just don't see how I'm gonna do  this. It's huge. It's gigantic! It's  Carnegie Hall! And listen to this:  now Isaac Stern wants to play with  us -- Diane Monroe, Michael Tree --  there's other people calling --
+DAN	m	That's fantastic!
+ROBERTA	f	Fantastic? I'll never get the kids  up to speed in time, I'll never get  myself up to speed. I'm gonna be  playing side by side with the world's  greatest violinists.
+DAN	m	And "the world's greatest violinists"  are playing side by side with you  because they want to help you win  this fight.
+ROBERTA	f	Yes, but... you don't understand.  Maybe there's a good reason why I  never made it as a violinist -- maybe  I just can't cut it. I keep blaming  it on not having enough early  training, but if I were talented, if  I had a gift --
+DAN	m	But you do have a gift. You're gonna  put thirty East Harlem kids on stage  at Carnegie Hall not because they're  prodigies, but because you got them  to stick with something that's hard  as hell and to strive for excellence --  which, by the way, I certainly wasn't  striving for when I was their age.  Not to mention the other ten years'  worth of students whose lives were  changed because of you. That's your  talent, Roberta.
+ROBERTA	f	I'm scared.
+DAN	m	I know. And by the way, I happen to think  you're a pretty good violinist too.
+ROBERTA	f	You've barely heard me play.
+DAN	m	I've heard enough to know you're  gonna do just fine.
+DAN	m	Besides, no one's gonna be paying  attention to your playing anyway.
+CARLOS	m	Teacher's late. I think she should  be dropped, don't you?
+RAMON	m	Yeah. I don't think we should let  her play in Fiddlefest!
+CARLOS	m	More bow! To the frog! You sound  terrible! I can't believe how terrible  you sound!
+CARLOS	m	You're gonna make everyone in Carnegie  Hall sick to their stomachs! That's  right, they're gonna pay a thousand  dollars a ticket and you're gonna  make them throw up on their gowns  and tuxedos!
+ROBERTA	f	If you're gonna imitate me, do it  right. Shoulders back. Violin higher. Check  your feet. There. G'head, Carlos. Continue.
+CARLOS	m	No, that's O.K. You can take it from  here.
+ROBERTA	f	He's right, by the way. You do sound  terrible, and you are gonna make  everyone in Carnegie Hall sick to  their stomachs.
+RACHEL	f	I need to talk to you.
+ROBERTA	f	I'll be right in. Start on Minuet  One. What's wrong?
+RACHEL	f	We're moving away.
+ROBERTA	f	What? Where are you moving?
+RACHEL	f	It's a secret... My father... he's  been hurting my mom... We have to  leave.
+ROBERTA	f	Has he been hurting you too?
+RACHEL	f	I'm sorry about Julliard... and the  concert.
+ROBERTA	f	Keep it. Take it with you.
+RACHEL	f	No... I don't want to play anymore.
+ROBERTA	f	What?! You can't give up violin,  Rachel -- it's a part of you. A very  important part.
+ROBERTA	f	Please honey. Just take it.
+RACHEL	f	I don't want to.
+ROBERTA	f	No, no, no! Accent the up bow after  the slurred notes and then it'll get  you off of those slurred notes! You  Double Concerto kids need to be  working harder! This is the grand  finale of the concert! You're each  gonna be sharing a music stand with  one of the world's greatest  violinists!
+ROBERTA	f	I think we should forget the Bach  Double. And you guys are never gonna get  Minuet One. I think we should drop  that too.
+VANESSA	f	No! We can do it, Roberta!
+CARLOS	m	And we'll get the Bach Double. We  will.
+NAEEM	m	It's gonna be O.K., Roberta.
+ROBERTA	f	You think?
+ROBERTA	f	O.K...
+ROBERTA	f	Nick -- did you feed Allegra?
+NICK	m	Yes, Mom.
+ROBERTA	f	Lexi, can you make sure the charts  are still in my bag?
+LEXI	f	I already checked, Mom.
+ROBERTA	f	Check again, please. And look for my  repair kit too.
+ASSUNTA	f	Bert, which earrings you want?
+ROBERTA	f	Nick? Get two more violins.
+NICK	m	You've already got two -- how many  emergencies can there be?
+ROBERTA	f	Get three more. And make sure a couple  of them are half-size.
+ROBERTA	f	Lexi -- can you call about the car  again?
+LEXI	f	Mom, they're not gonna forget to  send a car!
+NICK	m	What are you doing?
+ROBERTA	f	Just straightening a little.
+NICK	m	You're insane, you know that? Finish getting dressed!
+ROBERTA	f	SHIT!
+ROBERTA	f	Can you believe this?
+ROBERTA	f	It can't be time! Is it time?
+ASSUNTA	f	I'll sew it in the car.
+LEXI	f	See? I told you they'd send a car.
+ROBERTA	f	Thank you, Mama.
+ASSUNTA	f	Don't worry about it. You rip -- I  sew.
+ROBERTA	f	Not just for that. Thank you for getting me out of bed.
+ASSUNTA	f	Don't thank me -- thank Charles.
+ROBERTA	f	Charles?!
+ASSUNTA	f	If that jerk hadn't of left you,  none of this would've happened.
+ROBERTA	f	Thank you, Charles.
+ROBERTA	f	Where's Vanessa? Has anyone seen  Vanessa?
+JANET	f	I'll call her house.
+BRIAN	m	Congratulations.
+ROBERTA	f	Thank you...
+BRIAN	m	I knew you'd get here sooner or later.  I'm glad I'm here to see it.
+ROBERTA	f	I am too.
+GUADALUPE	f	Excuse me, Mr. Perlman?
+GUADALUPE	f	I'm Guadalupe. I've wanted to meet  you for a long time.
+ITZHAK PERLMAN	m	A pleasure to meet you, Guadalupe.
+CARLOS	m	You nervous, Mr. Perlman?
+ITZHAK PERLMAN	m	Should I be?
+CARLOS	m	Us kids are gonna be great -- I don't  know about you guys. How much did  you practice?
+ROBERTA	f	You called Vanessa's father and  mother?
+JANET	f	No answer at either.
+STAFF PERSON	m	Half hour call! It's now half hour  call! So pace yourself accordingly.  Don't get more than thirty minutes  worth of nervous!
+VANESSA	f	They stole the car!
+MR. KLEIN	m	With the violin.
+ROBERTA	f	Oh my God. Nick, Lexi --
+NICK	m	Done.
+VANESSA	f	And then when we were getting a taxi,  I fell down.
+JANET	f	C'mon honey -- let's get you cleaned  up.
+DAN	m	You're glowing.
+ROBERTA	f	It's terror.
+STAFF PERSON	m	FIVE MINUTE CALL. WE NOW HAVE FIVE
+JANET	f	When I became the principal of Central  Park East Elementary, I envisioned a  school where children could fulfill  their highest potential, despite the  challenges of poverty and racism.  Ten years ago, Roberta Guaspari walked  into my office because she needed a  job, and because she had a vision  that any child could learn the violin.  We put our dreams together and created  the East Harlem Violin Program which  has helped more than a thousand  students expand their vision of what's  possible in their lives. When a  program like this is cut, our  children's future is compromised. I  want to thank you for your support.  Enjoy the concert.
+ROBERTA	f	Everyone -- attention please!
+ROBERTA	f	I want you all to take a second just  to breathe, O.K.? Deep breath.
+ROBERTA	f	I would like you all to play with  your heart, all right? Play like I  know you can play. You'll be  wonderful. Watch me, don't look out  in the audience -- you don't need to  be afraid. It's gonna be really  wonderful. So play -- play from here.
+MALE VOICE	m	Isaac Stern, Itzhak Perlman, Arnold  Steinhardt, Diane Monroe, Michael  Tree, Mark O'Connor and Karen Briggs.
+ROBERTA	f	We're all here tonight because we  have a bigger mission: to take the  magical spirit of tonight's concert  with us out into the world, and to  fight for music and art to be a part  of every child's education. Thank  you.
+ROBERTA	f	And this? What's this?
+BOY	m	The frog hair?
+ROBERTA	f	Did you ever see a frog with hair?
+A FEW KIDS	m	It's horsehair!
+ROBERTA	f	That's right. But you're right, there is a frog.  Can you show me where it is?
+GIRL	f	Ooh! I know!
+ROBERTA	f	Sssh -- let him answer.
+

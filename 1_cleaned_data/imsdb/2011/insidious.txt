@@ -1,0 +1,603 @@
+WOMAN	f	Let me in.
+RENAI	?	What are you doing up, kiddo?
+DALTON	m	I don't like my room.
+RENAI	?	You'll get used to it. It's only your first night.
+RENAI	?	Argh, I'm going to eat you.
+DALTON	m	What are you looking at?
+RENAI	?	Just some photos.
+DALTON	m	What photos?
+RENAI	?	Do you know who that is?
+DALTON	m	No.
+RENAI	?	That's me.
+DALTON	m	It doesn't look like you.
+RENAI	?	I know. I'm so happy there. But it's me. When I was your age. I was a kid once too, you know.
+DALTON	m	No, you weren't.
+RENAI	?	Thanks. Maybe you're right...I don't remember being this person at all. I hope she smiled like that all the time, whoever she was.
+RENAI	?	This is a terrible thing to admit, Dalton, but sometimes I get jealous of you. That you're so young. That you haven't made any of your decisions yet.
+DALTON	m	I don't wanna grow old.
+RENAI	?	Well, it starts happening to us from the moment we're born.
+RENAI	?	Every time that clock ticks, we all get a little bit older.
+RENAI	?	That's your grandpa. You wouldn't remember him.
+DALTON	m	He smells like smoke.
+RENAI	?	Yeah...good memory. He did smoke that god awful pipe, didn't he?
+DALTON	m	Show me a picture of dad when he was a little kid.
+RENAI	?	I don't even know if we have any. He's hopeless with keeping photos.
+DALTON	m	Show me a picture of me when I was a little kid.
+RENAI	?	Your pictures are all in the computer. Nobody keeps photo albums like this anymore, they're ancient relics. They should. I like being able to touch something, instead of it floating around in cyber world. If the laptop breaks, your whole existence is erased.
+DALTON	m	What was I like when I was a little kid?
+RENAI	?	You are a little kid.
+RENAI	?	If only you knew what I know.
+RENAI	?	You certainly didn't cry as much as your little sister does. Come on.
+RENAI	?	Billing department.
+FOSTER	m	I need a bowl, mom.
+RENAI	?	Billing department.
+FOSTER	m	It's too small.
+RENAI	?	Make it work. Speak to an agent. Speak to an agent. Speak to an agent.
+JOSH	m	(Michael Corleone voice) Every time I think I've pulled you out...you grow back in.
+JOSH	m	Ouch!
+RENAI	?	Well, I'd like to keep the old number if I could. You really need to learn how to do this, honey.
+JOSH	m	Don't eat on the floor, buddy.
+RENAI	?	Okay, well, please let me know by the end of today, I have to give the number out. Thank you.
+RENAI	?	Foster, get up. Now.
+JOSH	m	How come you were up so early? Was Cali crying?
+RENAI	?	You woke me up.
+JOSH	m	What do you mean?
+RENAI	?	You were snoring.
+JOSH	m	No I wasn't.
+RENAI	?	Yes you were.
+JOSH	m	I don't snore.
+RENAI	?	Yes you do.
+JOSH	m	My father snored. I do not snore.
+RENAI	?	How would you know what you do? You're asleep.
+DALTON	m	Yes! I made it to the last level! Invisiworld!
+JOSH	m	Good one, champ. I don't snore, do I?
+RENAI	?	Where are my bleeping pills?
+JOSH	m	What the heck is this? Wax?!
+RENAI	?	Yes.
+JOSH	m	Let me get this straight - we have no actual fruit but we have wax fruit?
+RENAI	?	Yes.
+JOSH	m	That is dangerous. It could kill one of our kids.
+RENAI	?	Where are my pills, Josh?
+JOSH	m	Probably where you left them, Renai.
+JOSH	m	See.
+RENAI	?	That's not where I left them.
+DALTON	m	Mom, I need my lunch.
+RENAI	?	Oh, geez. Look, just...take last night's dinner.
+DALTON	m	Sushi? Aw, that's weirdo food.
+RENAI	?	It's all we have. Just for today, honey.
+JOSH	m	Check it first, Dalton. It's probably made out of Styrofoam.
+RENAI	?	And while I've got you, if you're going to look at my books, please don't leave them all over the floor.
+DALTON	m	I didn't touch your books.
+JOSH	m	I gotta go.
+RENAI	?	Are you taking the boys to school?
+JOSH	m	No time.
+RENAI	?	Well can you pick them up after school?
+JOSH	m	Not today.
+RENAI	?	But I have stuff I wanted to...
+FOSTER	m	Can I have another cup, mom?
+JOSH	m	Alanso, please sit down.
+ALANSO	m	No entiendo.
+JOSH	m	Si�ntate, por favor.
+JOSH	m	Come on guys, quieten down.
+TERI	f	You better all shut up.
+JOSH	m	Thank you, Teri. Today we are going to talk about Darwin. It's a city in Australia, but it's also the last name of which famous naturalist?
+MALE STUDENT # 1	m	Charles Darwin.
+JOSH	m	Correct. Does anybody know what he is famous for?
+MALE STUDENT # 1	m	He said that people descended from monkeys.
+JOSH	m	Half right. He wrote a seminal book that explained his theories on natural selection, and how the different species on this planet - including humans - evolved.
+ALANSO	m	I know I didn't evolve from no monkey. Shit.
+JOSH	m	Humans actually have a lot in common with monkeys, or more specifically, chimpanzees.
+ALANSO	m	Maybe you do, but I was created in the image of my Dios.
+JOSH	m	I respect your right to believe that, Alanso. But I want to give you all possible theories. I want this class to go out into the world with an informed opinion.
+ALANSO	m	The theory is incorrect, Mr. Lambert.
+JOSH	m	How can it be incorrect? It's a theory. A scientific theory.
+ALANSO	m	Yeah, well, science is bullshit. We didn't get here cos of no test-tubes.
+JOSH	m	Alanso, if you keep talking like that I'm going to ask you to visit the principal.
+ALANSO	m	Fine.
+RENAI	?	Yeah, I'm looking west, always been looking that way, gonna get it all happening, just can't do it today...
+RENAI	?	Yeah, I'm looking west, always been looking that way, I'm gonna be somebody, I just can't be her today--
+JOSH	m	Look at this. Nice job.
+JOSH	m	Whoa, buddy. Slow down.
+RENAI	?	Josh, where's the box of my lamps?
+JOSH	m	I don't know. They should be here. We packed them up.
+RENAI	?	Yeah, I packed them. They're not here.
+JOSH	m	I remember the movers bringing them in and putting them right there.
+RENAI	?	Well, they're not here. I would know, I've been unpacking this stuff all day.
+RENAI	?	Dalton? Where are you?
+RENAI	?	Dalton?
+JOSH	m	What happened?
+DALTON	m	I fell.
+RENAI	?	Dalton, you have to be careful. You shouldn't be coming down here in the dark.
+JOSH	m	Where do you hurt the most?
+DALTON	m	My knee and my head. I can't stand up.
+JOSH	m	You scared us, champ.
+JOSH	m	You're lucky you don't need stitches.
+RENAI	?	If I catch you falling down the stairs again I'm gonna break your neck.
+DALTON	m	That doesn't make sense.
+DALTON	m	You might be a superhero but you're not invincible. Be more careful, bud.
+RENAI	?	Sleep tight, honey.
+JOSH	m	We've gotta lock that door.
+RENAI	?	He's such a boy. He goes off exploring. Sometimes I wanna keep him on one of those child leashes.
+JOSH	m	Why bother with a child leash? I'll stop at the pet store tomorrow.
+RENAI	?	I'm sorry I was pissy when you got home. I was trying to work on a song today and then Cali woke up and wouldn't stop crying...
+JOSH	m	I didn't even notice.
+RENAI	?	I feel guilty for wanting my own time.
+JOSH	m	It's normal to want your own time.
+RENAI	?	Is it? My mother gave up everything for me. I keep waiting for the completely selfless parent gene to kick in, but I'm exactly the same person I was when I was 22, only now I'm married with kids.
+JOSH	m	You're a great mother.
+RENAI	?	No, I'm not. They like you so much better than me.
+JOSH	m	That's not true.
+RENAI	?	You're the cool dad who comes home with presents and I'm the one who yells at them all day.
+JOSH	m	Now you're being crazy. They love you. At least you get to connect with them. I work so much.
+RENAI	?	Believe me, you're their hero. They try to play us off against each other. They're master manipulators. I guess they really are my kids.
+RENAI	?	Is this it, Josh?
+JOSH	m	Is this so bad?
+RENAI	?	Thank you for letting me take some time off to work on my music again.
+JOSH	m	We'll get by. I want you to do it.
+RENAI	?	There's a couple of songs...I mean not all of them, but there's a couple of them that I think are really good. And I think, maybe I could do something with them.
+JOSH	m	I love all your songs.
+RENAI	?	Foster, sit down honey.
+RENAI	?	Where is...? Hey Josh, could you go wake up Dalton?
+JOSH	m	Time to get up, my man. Come on.
+JOSH	m	You're making me look bad here. Outta bed before your mother comes in and kills both of us.
+JOSH	m	Dalton, get up. You've gotta get ready for school.
+JOSH	m	Dalton...?
+JOSH	m	Dalton? Dalton?! DALTON!! 22.
+JOSH	m	So...there's no brain damage or...?
+JOSH	m	That fall he took...I mean, it looked like he hit his head pretty hard.
+RENAI	?	He can't just not wake up...there's got to be something...
+JOSH	m	So what do we do now? Does he stay here?
+ADELE	f	Are you having any more trouble with the feeding tube?
+RENAI	?	It's okay.
+ADELE	f	Alright, well I'll be back soon. I'll bring some new books. You're probably sick of the ones you have.
+RENAI	?	Did he respond to any of the tests?
+ADELE	f	No...no, he didn't. But we have to give it time. I've seen coma patients with a much longer inactivity time suddenly start making noises.
+RENAI	?	He's not in a coma, remember? They don't know what to call it. They don't know what to do with him so they've given up.
+ADELE	f	No, they haven't. We're going to figure it out.
+VOICE	m	They see us...all of us...we have to be quick...this life begs us to come back.
+VOICE	m	NOOOOOOOOOOOO!!!!!!
+CALI	?	Dadda!
+JOSH	m	She said dad...
+RENAI	?	What's this?
+FOSTER	m	An award.
+RENAI	?	That's today's date. You got this today?
+RENAI	?	Why didn't you tell us, honey?
+RENAI	?	I know it's hard right now. But things will get better. I promise.
+RENAI	?	I'm going to show this to your dad.
+FOSTER	m	I'm scared, mom.
+RENAI	?	Scared of what?
+FOSTER	m	Dalton.
+RENAI	?	We're all scared. It's normal to be scared for him. But we can't give up--
+FOSTER	m	Why do I have to sleep so close to him? Can't I change rooms?
+RENAI	?	Why would you wanna change rooms?
+FOSTER	m	I don't know.
+RENAI	?	Your brother needs you. Goodnight honey.
+RENAI	?	Something happened today. I didn't want to tell you in front of Foster.
+JOSH	m	What?
+RENAI	?	I heard something coming from Cali's room. A man's voice. On the baby monitor...it scared the hell outta me. I went in there and no one was there.
+JOSH	m	Could it have been interference?
+RENAI	?	I don't know. It was so clear. I was sitting at the piano and I heard this...whispering on the baby monitor. So I held my ear up to it--
+JOSH	m	Who the hell is that?
+JOSH	m	Stay here.
+JOSH	m	Hello? Who's there?
+RENAI	?	Who was it, Josh?
+JOSH	m	What did you say?
+RENAI	?	There's someone in there!
+RENAI	?	There's someone in Cali's room!
+JOSH	m	Grab Cali and Foster!
+RENAI	?	Josh! The laundry!
+SECURITY OFFICER	m	There's no one in there, it's all clear. If someone was there, they're gone now.
+RENAI	?	I saw somebody.
+SECURITY OFFICER	m	Maybe it was a shadow...?
+RENAI	?	No. It wasn't a shadow, it was a man. He was tall, and he long, greasy hair. He was wearing a grey jacket. He looked right at me.
+SECURITY OFFICER	m	Well, like I said...he's gone now.
+PHOTOGRAPHER	m	Okay, face the front ladies and gentlemen...come on...hold still... (muttering to himself) I'm trying to record the peak of your pathetic lives here.
+PHOTOGRAPHER	m	Mr. Lambert, would you like to step in please?
+JOSH	m	Uh...what?
+PHOTOGRAPHER	m	Could you step in so that we can take the photo? Quickly please.
+JOSH	m	Just take it without me.
+PHOTOGRAPHER	m	We need you in the photo, sir.
+JOSH	m	No, you don't. Just take the damn photo without me, okay?
+PHOTOGRAPHER	m	I can't believe this is my life. (beat; to class) Ready kids? Say asshole teacher!
+JOSH	m	What?
+ALANSO	m	I spend so much time in the office, I hear things. I heard about your son. I'm sorry.
+JOSH	m	Thank you, Alanso.
+ALANSO	m	Times like these...people realize that science doesn't have all the answers. There is a higher force at work.
+JOSH	m	I wish I had your belief. Things would be a lot simpler.
+ALANSO	m	Things are simple. You just can't see it. Put your faith in Him.
+JOSH	m	Hey...I just found out I have to stay back tonight and finish off mid-term grades. It could be a while, there's a lot to go through. Don't wait up. Bye.
+JOSH	m	The men all walked down to the waters edge...and they stood there and asked the beast to come forth. And the beast roared back "No!". And so they dived in after it...
+KELLY	f	You okay?
+RENAI	?	Yeah.
+KELLY	f	I was going to head off for an hour or so. Are you alright here?
+RENAI	?	Of course. Anything from Dalton?
+KELLY	f	No. I'm sorry.
+KELLY	f	Keep providing him with stimuli. I've seen it work time and time again. Read to him. Even if you're doing something else, you can play him music that he likes. Don't give up.
+RENAI	?	I won't, I just...I haven't slept much the last couple of nights. I feel like the universe is trying to see how far I can bend before I break.
+KELLY	f	The universe picked a fight with the wrong chick.
+RENAI	?	Thanks, Kelly. You're a saint.
+KELLY	f	No, I'm not. I'm doing my job. I chose to be here. You didn't choose any of this. You're the strong one.
+JOSH	m	What are you doing up?
+RENAI	?	It's midnight, Josh.
+JOSH	m	When did you start smoking?
+RENAI	?	You've been coming home late every single night. You've never had to do that in all of the years you've been at the school. Now all of a sudden you have to stay back late?
+JOSH	m	I don't like it either, but I'm grading tests. What choice do I have? We've gotta pay Dalton's bills.
+RENAI	?	Your mother is paying Dalton's bills, Josh. I know because she reminds me every chance she gets.
+JOSH	m	Jesus, I can't win with you. That's my son in there too, not just yours!
+JOSH	m	I've always felt like less than good enough for you. I feel it every time you mention our bills. That subtle voice that says `can't you get a job that pays more than a teacher'? And now I can't even look at you without feeling it.
+RENAI	?	You're projecting that onto me. You've written an entire story about I'm how I'm feeling without once asking me how I'm feeling.
+JOSH	m	I don't need to ask. I know you.
+RENAI	?	I am losing my mind here in this house, Josh. I'm scared and I need you and you're not here. Where are you?
+JOSH	m	I told you, I'm grading tests.
+RENAI	?	I don't mean that. I mean you're not here. With me. In this situation. You're avoiding it, like you do anything stressful, whether it's this or a parking ticket.
+JOSH	m	Christ, I should have stayed at the school.
+RENAI	?	There you go again.
+RENAI	?	Jo....osh....Josh....Josh...
+MAN	m	DON'T YOU FUCKING DARE!
+JOSH	m	What is it? What is it?!
+JOSH	m	Renai, what is wrong?!
+RENAI	?	The man -- he was there -- he tried to -- there was a man there!!!
+JOSH	m	There's no one here.
+RENAI	?	I saw somebody!
+JOSH	m	There's no one here.
+RENAI	?	Don't you dare not believe me!
+JOSH	m	I believe you, okay? I just don't know what you want me to do.
+RENAI	?	I want you to tell me that we can leave this house. I will not spend one more night here. I wanna leave, I wanna go!
+FOSTER	m	I don't want the man to get me.
+JOSH	m	You're okay, buddy. I've got you.
+RENAI	?	I'm sorry. I can't...I want to leave this house. I can't be here anymore.
+JOSH	m	To move now would be...we would have to rent somewhere. It's not--
+RENAI	?	Please, Josh.
+RENAI	?	Lorraine, you shouldn't have to do any of this. Sit down.
+LORRAINE	f	Nonsense. I'm perfectly capable of putting a few things away. I did it for Josh his whole life. He never was good with tidying up.
+RENAI	?	I know, but I just feel so bad.
+LORRAINE	f	I think it's you who should be sitting down by the looks of it.
+LORRAINE	f	I can't believe you got Josh to sit still for a photo.
+RENAI	?	I can't believe we're doing all this again, that's what I can't believe. (beat; looks at her) I know you think I'm crazy.
+LORRAINE	f	Nobody - not me, not anybody - knows what you're going through right now. Whatever you have to do to get through it, do it. And never apologize for it.
+RENAI	?	We just wanna say...thank you so much. For helping us out with this, doctor. We can't tell you how much it means to have you involved. Unfortunately...these recent tests have proven inconclusive. There's absolutely nothing abnormal here.
+JOSH	m	So...if you're the top of the food chain with this stuff, where does that leave us?
+RENAI	?	So there's hope? The hope part is up to you. Tip-toe by the window, by the window, that is where I'll be...
+TINY TIM	f	Oh tip-toe, from the garden, by the garden, of the willow tree...
+RENAI	?	Oh my God, Dalton...no...
+NED	m	Josh...didn't see you there.
+JOSH	m	Sorry to scare you.
+NED	m	What are you up to this late?
+JOSH	m	Where did all the bartenders who listen to your troubles go, Ned?
+NED	m	Never drink alone. If you take the dirty jokes out of drunkenness, all you're left with is the self loathing.
+JOSH	m	I don't need whisky for that.
+NED	m	Bah. You people think too much. Used to be, if life threw a shitstorm at you, you'd grab the nearest umbrella. Your generation would spend a day googling what brand to buy.
+JOSH	m	I probably would too. (beat; takes a drink) It's funny, I've always known I was the type of person that things didn't happen to. I made peace with it. I thought to myself, it's okay - I'll never win the lottery or climb Mount Everest...but I'll never get a rare tropical blood disease either. It works out. Now I'm the guy whose son is in a mysterious coma.
+NED	m	Things happen to everybody. Even to good people like you. And they're gonna keep happening the older you get, believe me. No use sittin' in the dark drinkin' over it. Go home. Be with your wife. Tell her your what's on your mind.
+NED	m	There sure as hell isn't any umbrellas `round here.
+JOSH	m	This is the first line of a joke. Guy comes home to find his wife with a priest...
+RENAI	?	Josh, this is Liam Nathanson. A very old friend of mine.
+FATHER NATHANSON	m	Nice to meet you. I've heard a lot about you.
+JOSH	m	Can't say I've heard the same, Liam. At least I know you're not sleeping with her.
+JOSH	m	What is going on here?
+FATHER NATHANSON	m	I should be going. Thank you so much for the tea.
+RENAI	?	Thanks, Liam.
+JOSH	m	Okay, would anyone mind telling me what the hell is going on here?
+LORRAINE	f	Go on, Renai. Tell him.
+RENAI	?	This...thing that was in the other house. It followed us.
+LORRAINE	f	Let her speak.
+RENAI	?	I saw someone again today. In the house. It looked like a young boy. I followed it into Dalton's room... but it wasn't a child. This thing is here. I know it.
+JOSH	m	So...what? You called in a priest to get rid of it?
+RENAI	?	I didn't know what else to do.
+JOSH	m	Are you kidding me? Was this your idea?
+RENAI	?	No. It was mine.
+JOSH	m	You've never been to a church in your life. Now you're inviting a priest into our home? I feel like I don't even know you right now.
+RENAI	?	I'm scared.
+JOSH	m	This is a fantasy, and you need a therapist, not a member of the clergy.
+RENAI	?	I told you...
+LORRAINE	f	What's happening to Renai is real. I've seen it for myself. I came here today because last night I had a dream about this place. 50.
+LORRAINE	f	I can still hear that voice.
+JOSH	m	What is it?
+LORRAINE	f	He's here.
+RENAI	?	Help us...
+JOSH	m	I don't know how.
+LORRAINE	f	I know somebody who can help...if you're willing to ask for it.
+SPECS	m	So you must be Josh?
+JOSH	m	Yeah.
+SPECS	m	That wasn't psychic. Lorraine told me your name.
+JOSH	m	Oh.
+SPECS	m	I'm Specs. (beat; spooky voice) I'm here to solve your problem. I'm just kidding with the voice. We take this very seriously.
+RENAI	?	So is Elise coming or...?
+SPECS	m	She won't be joining us yet. Usually we handle all the background stuff, then she gets involved when we have the facts.
+TUCKER	m	Helps weed out the nutjobs.
+RENAI	?	Okay...
+JOSH	m	This is a little uncomfortable. Speaking for myself. I'm not used to this kind of stuff.
+SPECS	m	We understand completely. Ninety six per cent of the people we deal with have had no experience with this type of phenomena before.
+SPECS	m	I would like to start by interviewing you both. Can we record your answers?
+RENAI	?	Ah...sure.
+SPECS	m	My assistant will check different areas of the house for electrical anomalies. I'll get him started. Tucker, would you follow me?
+TUCKER	m	Assistant?
+SPECS	m	Could you not eat that in front of the clients?
+TUCKER	m	Assistant?
+SPECS	m	Finish it in here. This industry gets laughed at enough as it is.
+SPECS	m	Do you or any of your children suffer from epilepsy or autism?
+RENAI	?	No. I mean, our son...
+SPECS	m	Right. I heard about this from Lorraine. He is in a coma, the cause of which is unknown?
+RENAI	?	Yes.
+SPECS	m	Do either of you habitually use drugs or alcohol?
+RENAI	?	No.
+SPECS	m	No drugs at all?
+RENAI	?	I take anti-depressants sometimes.
+SPECS	m	Do you have a history of clinical depression?
+RENAI	?	Not a history. I've had bouts of it. In the past.
+SPECS	m	Tucker, could you check the camera?
+SPECS	m	Whenever you're ready then.
+TUCKER	m	(to Renai and Josh) He handles administration, I handle technical. It's an even split. He couldn't change a light bulb and I'm no good with paperwork. It bores me senseless.
+SPECS	m	Do you have any history of sexual abuse in the family?
+JOSH	m	No. I'm sorry, I have to ask how this relates to our problem?
+SPECS	m	Nine times out of ten, when someone comes to us with a problem like this, it's because of an inward cause within the family unit...not a physical force outside of it.
+JOSH	m	What is that?
+TUCKER	m	Tri-field meter. It measures DC fields and the natural electro magnetic environment.
+SPECS	m	Sometimes old wiring can leak into the atmosphere. It can cause hallucinations, changes in energy.
+TUCKER	m	Yeah. It's a little more complicated than that, but, you know, you get the general idea.
+SPECS	m	It's basically that.
+TUCKER	m	Not really, but whatever.
+SPECS	m	The tech stuff's not relevant to you anyway.
+TUCKER	m	It's very relevant, but it's all good.
+SPECS	m	Epilepsy in one of the children mostly. It's very common. If we approach things academically, it lets us find the genuinely interesting cases.
+TUCKER	m	I think we can call Elise now...
+JOSH	m	Mrs. Rainier?
+ELISE	f	No, my mother couldn't come, it's just me. Elise. You must be Lorraine's son? You've grown since I last saw you.
+JOSH	m	Last saw me?
+ELISE	f	Your mother and I have been friends for a long time.
+ELISE	f	(re Specs and Tucker) They're very good assistants but I can't get them to dress any better.
+RENAI	?	Hi. I'm Renai.
+ELISE	f	Pleased to meet you. I'm Elise.
+TUCKER	m	We took Tri-field and EMF readings of the whole house. All the wiring, alarm clocks, radios, toasters, TV, record player, fuse box. Nothing went off the charts.
+ELISE	f	And the previous home?
+SPECS	m	Tucker hadn't monitored that yet. I could jump on that this afternoon if you like? Make up for lost time.
+TUCKER	m	Yeah, but who would work the equipment? I'll need to be there. You know what, don't even sweat it. I'll make myself available.
+ELISE	f	No, that's fine, gentlemen.
+ELISE	f	I don't think bad wiring is the problem here.
+ELISE	f	Hmm.
+ELISE	f	May I walk through the house?
+RENAI	?	Yes. Of course.
+ELISE	f	Steven, do you have your sketchbook?
+SPECS	m	Yes, I do. Yes, I do. Yes, yes. I do.
+ELISE	f	Good. We're going to need it.
+RENAI	?	What is it for?
+SPECS	m	She tells me what she sees and I draw it. It's the most important part of her process.
+TUCKER	m	His drawings and my photos comprise her visual records.
+SPECS	m	Especially the drawings.
+TUCKER	m	That's debatable.
+SPECS	m	It's not debatable.
+TUCKER	m	It is, but whatever.
+SPECS	m	Onwards and upwards. Find me a ghost.
+RENAI	?	What is it?
+ELISE	f	There is something here.
+TUCKER	m	This is where I saw it.
+ELISE	f	...long hair...grey dress...her eyes are...
+ELISE	f	Do I have permission to enter this room?
+JOSH	m	Go ahead.
+ELISE	f	Maybe you could wait back there?
+ELISE	f	Leave the lights off.
+RENAI	?	What is it? What do you see?
+RENAI	?	What do you see?!
+RENAI	?	Tell me!
+ELISE	f	I'm not sure if you are ready to hear this yet...but unfortunately I can't waste any time easing you into it. There is no time left.
+ELISE	f	I want you to know that this is what I believe and it may contradict a previous medical diagnosis. However, you called me here and I am taking that as an acceptance of my readings.
+RENAI	?	Go on.
+ELISE	f	Your son...is not in a coma. His physical body is here, but his spiritual body is not. The reason these disturbances followed you to a new home is because...it is not the house that is haunted. It is your son.
+RENAI	?	I don't understand...
+ELISE	f	Have you ever heard of astral projection?
+RENAI	?	Out of body experiences?
+ELISE	f	I call them travellers. These are people with the ability to leave their physical body and travel to different places in an astral form. To some degree, we all have the ability to do it...but most of us subconsciously suppress it or don't know how to access it.
+ELISE	f	Dalton is...a very accomplished astral projector. He has been since he was very young. He's not afraid of his ability. And that lack of fear has led him to travel too far and become lost...
+RENAI	?	Lost? Lost where?
+ELISE	f	In The Further.
+RENAI	?	What do you mean?
+ELISE	f	The Further is that place beyond our perception, beyond our understanding of the physical world that we can see and touch. It is a place without clocks or measurements, without past or future...an infinite realm that holds all of our dreams...and all of our nightmares.
+ELISE	f	That is where Dalton is.
+ELISE	f	The problem is that with his astral body gone, he has left a physical body with us. An empty vessel.
+ELISE	f	And there are entities that know this. They can smell it - the chance to live again. That is why they have gathered around him.
+RENAI	?	How many are there?
+ELISE	f	There are five benevolent spirits. Five different entities for whom Dalton has become a most prized possession. They are trying to get inside his physical body...and they get closer with each passing day.
+ELISE	f	Then there are two entities who are...not benevolent. One of them takes the form of a man, the other...
+ELISE	f	They work together, so desperate are they to possess Dalton. They are the closest of all the entities to getting inside him. I don't want to scare you, but I have never, in all my years of doing this, experienced anything as terrifying as their presence.
+RENAI	?	Is there a way to bring Dalton back?
+ELISE	f	There is something we could try. A way of calling him back. I would need your complete trust.
+JOSH	m	No. No. This has gone too far.
+RENAI	?	You said that you'd give her a chance!
+JOSH	m	I have given her a chance, and I did that because I wanted to help you. But I cannot have somebody telling us that the reason our son is in a coma is because his soul is floating off somewhere in another dimension.
+ELISE	f	I know this is hard to hear.
+JOSH	m	No, it's not fair is what it is. You're preying on people's grief and vulnerability, which is really easy to do in a situation like this.
+RENAI	?	Why did we go to all the trouble of bringing them here if you're just going to reject what they say?
+JOSH	m	Because I wanted to help you. To put your mind at ease, and if this helped, then great. But to drag Dalton into this? No.
+RENAI	?	Josh, you're not being fair...
+JOSH	m	Fair? How did the voice of reason become the bad guy here? Don't you see? You want to believe. Of course you do, honey, anybody would.
+JOSH	m	Look, I appreciate what you're trying to do. I really do. But I think it's dangerous to start throwing out false hope like this. I have to put my foot down. My wife is not...mentally well at the moment, and I have to keep at least one of her feet here in the real world.
+RENAI	?	You never believed me...
+JOSH	m	Honey, I'm on your side. But I genuinely think this is dangerous and frankly, a little exploitative.
+JOSH	m	You come into a home with a seriously ill child, you make a tenuous connection between him and these experiences Renai is having and viola - the client starts crying because they're desperate to believe, the tears validate your power, thank you, that'll be six hundred dollars please.
+SPECS	m	We reject more cases than we take. We're not out for money, sir.
+JOSH	m	I know, I know...look, I appreciate your interest and your time. I do. Thank you. Thank you very much.
+ELISE	f	I completely understand. And I honestly don't blame you for reacting like this.
+RENAI	?	No, please...don't go.
+ELISE	f	Thank you for your time.
+JOSH	m	Look at me for a second, honey. Look at me.
+JOSH	m	Did you really believe what she said? In your heart of hearts, did you actually take what she was saying literally?
+RENAI	?	I don't know...
+JOSH	m	Do you think I don't want to believe in that stuff? Of course I do. It would make life a lot easier if I did. If I believed that some supernatural force was responsible for what's happened to our son...
+RENAI	?	I don't believe anything anymore, Josh. I used to. I used to believe that I could keep my children safe. I used to believe everything would be okay. To believe in something, you have to know it to be true.
+RENAI	?	The things that have happened to me haven't confirmed any beliefs - they've done the opposite. They've made me question what I believe. 66.
+RENAI	?	They've made me realize that maybe we don't know as much as we think we do.
+RENAI	?	You ask me if I believe what she said to be true and the answer is I don't know. But let me ask you this - in your heart of hearts, can you say for certain that it isn't?
+JOSH	m	Where are you? Where did you go? Can you hear me? I'm begging you to show me that you can hear me...I don't know how to help you. Please tell me what to do.
+JOSH	m	Please God, please help me...give me my son back. I will do anything just to have him back.
+JOSH	m	I need him back. I need him to show me that he can hear me. Please...
+JOSH	m	Okay.
+ELISE	f	What's most important is that you realize no two attempts are the same. I will be completely honest with you about the results, and if no dialogue is established, I will tell you. I am not in the business of embellishing success. What happens, happens.
+ELISE	f	Forget the limits and laws and logic of this world. We are treading in a different place now.
+TUCKER	m	These still cameras are rigged to pick up changes in the atmosphere, electrical or temperature-wise. Don't be alarmed if they go off.
+ELISE	f	Everything I say while I am in tune will be at a very low volume, so you won't hear any of it. Steven will write it down and repeat it for you.
+ELISE	f	Hold on to each other, and stay focused. You'll see things you don't understand. Confusing things. Do not question them or speak in any way.
+ELISE	f	Dim the lights please.
+SPECS	m	We are calling out to you Dalton. tell us that you are safe tell us where you are
+SPECS	m	Tell us that you are safe. Tell us where you are. who's there?
+SPECS	m	Who's there? it is your mother and father we have been
+SPECS	m	It is your mother and father. We have been looking for you.
+SPECS	m	I need help...I can't see in here.
+SPECS	m	Follow my voice Dalton. Come back to us.
+SPECS	m	Why aren't you talking anymore Dalton?
+SPECS	m	If they hear me, they'll hurt me. who will hurt you?
+SPECS	m	Who will hurt you?
+SPECS	m	The man with fire on his face. can you find your way back to us?
+SPECS	m	Can you find your way back to us?
+SPECS	m	There is no way out. follow my voice dalton
+SPECS	m	Follow my voice Dalton. be quiet they'll hear you
+SPECS	m	Be quiet, they'll hear you.
+SPECS	m	They won't hear you, just follow my voice. they are coming they heard you help me dalton are you there? dalton?
+ELISE	f	Leave this vessel! Leave this vessel!
+ELISE	f	LEAVE THIS VESSEL!
+ELISE	f	Leave this earthly body!
+ELISE	f	Leave his body!
+ELISE	f	The lights!
+RENAI	?	Dalton!
+RENAI	?	Dalton! Dalton!
+SPECS	m	I feel like a mountain climber who's been waiting his whole life to climb Everest, and now that I'm standing on the summit, I don't know what to do with myself...
+TUCKER	m	I'll tell you what we do with ourselves. We make a short list of our preferred media outlets, that's what.
+TUCKER	m	Watch this.
+SPECS	m	Oh my God...
+TUCKER	m	After all the years we've been dining out on morsels like a faucet that turns itself on and off...we finally have some empirical evidence of the real thing. Proof.
+ELISE	f	Proof? Proof of what? Nine tenths of the world believes that when you die, your soul ascends to sit with God. Would you be telling them something they didn't already know?
+TUCKER	m	That is so not the point. This is not about religion. Here we have irrefutable evidence of a paranormal experience. Our job is to share it.
+ELISE	f	No, our job is not to alert the press and prove the existence of the `paranormal', as you call it. I'm not out to prove anything. I've known there was a higher plane ever since I was a little girl and I could play hopscotch with people whose names were inscribed on tombstones. What you call paranormal is a fact of life for me. Our job is to help people. The least we can do is spare them the indignity of Sixty Minutes.
+TUCKER	m	Yeah, until they get their book deal...then you'll wish you'd listened.
+ELISE	f	No, I won't, Tucker. I'll just be proud of you. You two stared down something that would crush most mortals tonight and you stood tall.
+SPECS	m	So what do we do now?
+ELISE	f	We answer the door.
+SPECS	m	What do you mean?
+JOSH	m	Mom...what are you doing here?
+ELISE	f	I asked your mother to come over. I called her immediately after...the session. I told her to hurry over.
+JOSH	m	Why?
+ELISE	f	There is something we must talk about. Sit down, Lorraine.
+ELISE	f	Go on. Tell him.
+JOSH	m	Tell me what?
+LORRAINE	f	The reason...I knew to call Elise in this situation...the reason I know her so well...is because I called her myself once. Years ago.
+LORRAINE	f	To help you, Josh.
+JOSH	m	What are you talking about?
+ELISE	f	It's no accident that your son is such a gifted traveller. The ability was handed down to him. By his father.
+JOSH	m	No...I've never...done that before.
+LORRAINE	f	When you were about eight...you suffered night terrors. Awful fits of pure fear. You were terrified of an old woman who you said would come to visit you at night.
+OLD WOMAN	f	Let me in.
+LORRAINE	f	I dismissed your stories. Told you to grow up. Then I saw her for myself.
+LORRAINE	f	At first, I thought it was a camera problem. Then I saw her again.
+LORRAINE	f	In each photo, she got closer and closer to you...
+LORRAINE	f	Finally, I was so scared, I called Elise.
+JOSH	m	I don't...I don't remember any of this...
+ELISE	f	You've blocked it out. But in the back of your mind, you're still afraid of having your picture taken, aren't you?
+LORRAINE	f	I've kept the photos hidden ever since then...until tonight.
+ELISE	f	I advised Lorraine to hide them. To stop taking your picture. And to let you forget.
+JOSH	m	Who is she?
+ELISE	f	A parasite. She befriended your astral body, then drew you out into The Further, just as Dalton has been drawn out. 81.
+ELISE	f	But she deceived you. All she wanted was an empty vessel. A physical body. Yours.
+LORRAINE	f	I'm sorry, Josh.
+ELISE	f	I didn't want to make you remember this...I only do it for the sake of your son.
+ELISE	f	Your son is out there. And you are the only one who can bring him back.
+JOSH	m	How long do we have before...that thing...takes him over completely?
+ELISE	f	If you cannot reach him tonight, then he is gone forever.
+ELISE	f	Remember who you are and why you are traveling. Keep one foot in this world. Are you ready?
+RENAI	?	I want you to know something...you have never been less than good enough for me. You've always been perfect for me. You're my best friend...my soulmate. I love you so much.
+JOSH	m	I love you too. I have since the first time you looked at me. I don't exist without you.
+ELISE	f	Close your eyes, Josh...and relax. Breathe deeply. Let all life around you fade out into the background...until the only thing you can hear is the ticking of the metronome.
+ELISE	f	Focus on a spot in the center of your forehead. Feel that spot getting further away as you drift off to sleep.
+ELISE	f	I want you to relax your physical body and let the astral body gain strength...feel it rising out of your chest.
+ELISE	f	Detach yourself.
+JOSH	m	This is useless...I have no idea what I'm doing and you just suddenly expect me to...
+ELISE	f	Now you are free. Keep your guide, and a steady stride...and into The Further you go.
+ELISE	f	He's in...
+JOSH	m	Dalton?
+JOSH	m	Dalton? Where are you?
+JOSH	m	Dalton?
+JOSH	m	Dalton?
+JOSH	m	Where is Dalton?
+JOSH	m	Do you know where Dalton is?
+MAN	m	Why do I have to put up with you? What a tramp. You call this a home? I work all day for this?
+JOSH	m	Dalton? Where are you?
+JOSH	m	I'm looking for my son, Dalton.
+JOSH	m	DALTON!!!! WHERE ARE YOU?!!!
+JOSH	m	DALTON!
+JOSH	m	DALTON!!
+RENAI	?	What's happening to him?!
+ELISE	f	You're stronger then they are, Josh. You are a living soul!
+JOSH	m	Get...off..me!
+JOSH	m	Get away from me! Leave now!
+JOSH	m	Dalton!! I'm here...
+JOSH	m	Dalton!
+JOSH	m	Dalton...?
+JOSH	m	I'm taking you back.
+JOSH	m	What is it?
+DALTON	m	Help me, dad...take this off me...
+JOSH	m	You're not really here. You're asleep in your bed in our home. Just stand up.
+DALTON	m	He's going to hurt me again...
+JOSH	m	This isn't real. You can do this.
+DALTON	m	He's coming!
+JOSH	m	Just stand up!
+RED-FACED MAN	m	This...issssss....real!
+RENAI	?	Help him!
+RED-FACED MAN	m	You're here now! With ussss!
+JOSH	m	....ome....onnnnn...
+ELISE	f	They've made contact. I know it. He's found your son.
+RENAI	?	What happens now?
+ELISE	f	We need them to come back. We need him to find us.
+JOSH	m	I want to get out!
+JOSH	m	....eeeeet out!
+ELISE	f	Call out to him!
+DALTON	m	Listen! Josh, follow my voice...
+RENAI	?	Follow my voice. Come back to us.
+DALTON	m	Put me down, I can run!
+DALTON	m	Come on, dad! Come on!
+JOSH	m	Go! I'm right behind you!
+JOSH	m	You...what do you want from me?
+JOSH	m	Get the fuck away from me! I'm not scared of you, just leave me alone! Get away from me!
+RENAI	?	Find us!
+ELISE	f	Check on the boy!
+SPECS	m	He's awake!
+DALTON	m	Mom...
+ELISE	f	Find me, Josh! Now! Wake up!
+RENAI	?	Josh? Josh?
+JOSH	m	Dalton...?
+RENAI	?	I don't know what to say...
+ELISE	f	Well put.
+JOSH	m	Now this is worth dying for.
+TUCKER	m	I guess you did some pretty awesome stuff in there. You deserve some credit.
+SPECS	m	You did good too in an assistant- type way.
+TUCKER	m	Thanks, boss.
+TUCKER	m	Dude, I got some amazing shots. We are gonna write a book and my shots are gonna be the main selling point.
+SPECS	m	Yeah. Not the main selling point, but definitely important, for sure.
+DALTON	m	I'm tired.
+RENAI	?	Too bad. I'm never letting you go to sleep again.
+RENAI	?	Did you know we'd come and find you?
+RENAI	?	Whenever you're lost...we'll always come and find you.
+JOSH	m	You introduced me to a new world.
+ELISE	f	No. You've been there before, remember? And you'll go back. All of us will...eventually.
+JOSH	m	Maybe I can forget again.
+JOSH	m	I'll start by giving these back.
+JOSH	m	What's wrong?
+ELISE	f	Nothing, I...
+JOSH	m	What's the matter, Elise?
+JOSH	m	Why the fuck would you do that? Why would you do that? Why?!
+JOSH	m	You of all people! You know! Why would you do that to me when you know what you know? You bitch!
+RENAI	?	What was that? (beat; to Dalton) Stay here.
+RENAI	?	Elise, what was that noise?
+RENAI	?	Jesus...what happened to you?
+RENAI	?	Where's Josh? Josh? Josh?!
+RENAI	?	Elise, what happened? You're scaring me, tell me where Josh is?
+JOSH	m	You introduced me to a new world.
+ELISE	f	No. You've been there before, remember? And you'll go back. All of us will...eventually.
+JOSH	m	Maybe I can forget again.
+JOSH	m	I'll start by giving these back.
+JOSH	m	What's wrong?
+ELISE	f	Nothing, I...
+JOSH	m	What's the matter, Elise?
+DALTON	m	Put me down, I can run!
+DALTON	m	Come on, dad! Come on!
+JOSH	m	Go! I'm right behind you!
+JOSH	m	You...what do you want from me?
+JOSH	m	Get away the fuck away from me. I'm not scared of you, just leave me alone! Get away from me!
+

@@ -1,0 +1,752 @@
+PHIL	m	T minus ten, nine, eight, start  ignition sequence, five, four, three,  two, one, ignition... Liftoff!
+CHILDREN	?	My turn! My turn! No, I was next!  No, me! Uncle Phil, Uncle Phil, can  I do one? I want to do one!
+PHIL	m	Guys, guys, please! This is risky  stuff here. And I'm a highly trained  professional.
+PHIL	m	Okay, okay! Uncle Phil will launch  another booster...
+PHIL	m	...just as soon as he completes his  fuel intake.
+WILLIS	m	It'll take us six months just to get  to Mars. Another year on the surface,  then six months back. That's two  years...
+WILLIS	m	I guess what I'm trying to say is,  since this is my last night on Earth,  it's gonna be a very precious memory  to me. Y'know?
+PRETTY GIRL	f	Nice try, Nick.
+KIROV	m	Hey, Woody, our Mars One crew won't  be heading back to Earth till ten  days after you guys land at our base  camp with Mars Two. That's a pretty  good long rendezvous.
+WOODY	m	What are you suggesting, Sergei?
+KIROV	m	Maybe you should bring a baseball  bat. Yes? American baseball? Our two  crews could have ourselves a little  Solar System Series.
+WOODY	m	Please. Half you guys are foreigners.  We'd crush you.
+KIROV	m	No, no, we have equal crews. Three  men, one woman. Same handicap.
+WOODY	m	Easy now, you're talking about my  wife. And Terri just happens to be one  helluva shortstop.
+TERRI	f	Fast pitch, no steals, batter calls  his own strikes. Thousand bucks make  it interesting?
+COTE	?	Eh bien. Winner take all.
+TERRI	f	Good. Bring some balls.
+WOODY	m	You wanna know the sad part?  Technically I outrank her. But if we  want any peace at all on Mars Two,  I'm gonna be saying a lot of "Yes,  dears."
+1ST WIFE	f	...just not sure how I feel about  NASA allowing couples to go on this  type of mission together.
+1ST WIFE	f	Nothing personal, Terri. It's just  that, well, it's kind of a funny  feeling for those of us staying  behind.
+TERRI	f	All the research shows that marriage  will provide stability on these long  duration trips.
+2ND WIFE	f	Then they haven't studied some of  the couples I've known.
+3RD WIFE	f	Anybody seen Jim McConnell?
+4TH WIFE	f	I don't think he's coming.
+1ST WIFE	f	God, that poor man. How's he doing?
+2ND WIFE	f	Totally losing it, from what I hear.  Can't sleep, can't eat. Visits her  grave almost every day. They say he could lose mission status.
+3RD WIFE	f	Oh, that's so sad. That is just so  tragic. You go to a routine physical  one day, and wham.
+4TH WIFE	f	After all those years of training,  too. It was their whole dream.
+1ST WIFE	f	Must be a pretty funny feeling for  Luke Graham. Y'know? Now he's gonna  be in the history books. First man  on Mars...
+DEBRA	f	He's not coming, Luke.
+LUKE	m	Jim deserves this, too. All his  friends are here. And it's my last  night.
+DEBRA	f	Your last night with us, too.
+LUKE	m	I love you, Deb.
+DEBRA	f	I love you too, baby. But maybe you  should spend some time with Bobby.
+LUKE	m	Yeah. I will. Where is he?
+DEBRA	f	Up in his fort.
+WILLIS	m	Deep space is so lonesome. So cold.  But I guess I'll have my memories to  keep me warm...
+BOBBY	m	Who's gonna read to me now, at  bedtime?
+LUKE	m	Mommy will.
+BOBBY	m	I like when you do it. Now we're  never gonna finish our book.
+LUKE	m	Well, I'll tell you what. I've been  thinking about that. And what I  thought was -- how 'bout if I bring  along my own copy? Then every night, wherever I am,  I'll read a little bit more of it.  And I'll know that you and Mommy,  wherever you are, you're reading it  too. That way, it'll feel like we're  still reading it together. 'Cause I  don't know about you, but I'm pretty  anxious to find out how 'ol Ben Gunn  got marooned on that island. What  d'you say?
+LUKE	m	Good deal. Can I have a hug?
+DEBRA	f	We were afraid you wouldn't come.
+MCCONNELL	m	I caught a whiff of your barbecue.  After that I was helpless.
+DEBRA	f	All the way out in Galveston?
+MCCONNELL	m	Something like that. It's his night, Deb. I didn't want  to spoil it.
+DEBRA	f	Spoil it? He's been going crazy  looking for you.
+LUKE	m	C'mon. A whole lot of folks here are  gonna be mighty glad to see you.
+WOODY	m	I wish we were all going. Together.
+LUKE	m	Then you've got a short memory. Think  back to how we were by the second  week of lunar training.
+WOODY	m	Oh, you're not gonna bring that up  again --
+LUKE	m	I'm trying to remember, let's see,  which one of us scored the lowest  ranking up there?
+WOODY	m	You just can't let that go --
+LUKE	m	Oh, man, three commanders, on the  same ship? If they sent us off to  Mars together, there wouldn't be  enough fuel to lift all those egos.
+WOODY	m	Bullshit, we would've made a great  crew.
+MCCONNELL	m	That was never gonna happen. I was  always teamed with Maggie, and we  were mostly chalkboard jockies. You  know? Systems. Payloads...
+LUKE	m	Listen to him. Mr. Cover-of-Time  Magazine!
+WOODY	m	Yeah, who landed the crippled Block  II Shuttle?
+LUKE	m	Yeah, and who scored highest on the  lunar rankings?
+WOODY	m	Let it go, Luke.
+MCCONNELL	m	Sure, I made a little noise. But  putting the first footprints on Mars?  Nah. That's for guys who... ...wrote their Ph.D. thesis on how  to colonize the place. And guys who... ...read too much science fiction as  a kid and still wear little Flash  Gordon rocketships around their necks.
+WOODY	m	You read the same damn science fiction  books that I did! You're just not  man enough to wear jewelry!
+WOODY	m	You want Flash. You know you want  him. Well you'll have to come through  me!
+MCCONNELL	m	God, she would've loved to see you  two clowns. Just one more time.
+LUKE	m	Hey, Woodrow, isn't it about time  you donated this thing to a museum?
+WOODY	m	Internal combustion, boys. Accept no  substitutes.
+WOODY	m	Jim, if there's ever... if there's  anything Terri and I can do --
+MCCONNELL	m	I'm okay. Really. Thanks.
+WOODY	m	See you when I get to Mars, Luke.  Don't solve all the mysteries of the  universe, okay? Leave a little  something for the next guys.
+LUKE	m	I'll see what I can do. Just make  sure you bring some fresh beer.
+WOODY	m	You got it.
+LUKE	m	Should've been your mission, Jim.  Yours and Maggie's.
+LUKE	m	None of us ever wanted Mars the way  you two did. Not even Woody. Twelve  years of hoping for this assignment,  training for it --
+MCCONNELL	m	That's all over now.
+LUKE	m	If Maggie hadn't gotten sick -- if  you hadn't pulled yourself out of  the rotation to take care of her --
+LUKE	m	No, I'm gonna say this. I have to  say it... I wanted Mars One. Hell, I battled  you for it every step of the way.  Never wanted to beat anybody so bad  in my life. But not like this...  Jim, I'd give this all up in a second,  if it would bring Maggie back to us.
+MCCONNELL	m	I know that, Luke. You don't have to  say it... Mars is yours now. Go get  it.
+LUKE	m	Take care of yourself.
+MCCONNELL	m	Yeah. You too.
+COTE	?	Luke, you read me?
+LUKE	m	Yeah, Renee.
+COTE	?	Luke, I just got ARES-8 on line and...  Well, we think you're gonna wanna  see this for yourself.
+LUKE	m	Copy that.
+LUKE	m	What the hell is that?
+COTE	?	No idea, boss.
+LUKE	m	Where is it?
+WILLIS	m	You don't wanna know.
+LUKE	m	C'mon, what's so funny? Gimme the  coordinates.
+COTE	?	Latitude 41 degrees north, longitude  9 degrees west.
+LUKE	m	The Plains of Cydonia. So? Oh no. You're not telling me --
+COTE	?	Oui. Exactement! It's Kirov's fault,  he picked today's sector.
+KIROV	m	Hey, c'mon! We've got a scientific  duty to check that thing out.
+LUKE	m	Great. That's great. The first anomaly  we hit, and it's gotta be in the one  place guaranteed to make NASA look  ridiculous... You know how many books  have been written about that damned  mountain?
+COTE	?	The Egyptians put it there.
+KIROV	m	No, the Amazons.
+WILLIS	m	No, it was little green men!
+LUKE	m	And all because a couple of lousy  impact craters happen to look like  eye sockets. If this gets out, we'll  have every UFO kook on Earth spouting  off on the six o'clock news... C'mon,  people, gimme a read here. Is that a  cinder cone?
+KIROV	m	Nah, too smooth. Too angular. Volcanic  upwelling?
+COTE	?	No fissures. No caldera.
+LUKE	m	It's an upwelling, for sure. But  maybe not volcanic...
+LUKE	m	Look at the color. And see how shiny  it is? I could swear that's ice...
+COTE	?	This far south?
+WILLIS	m	Impossible. You can't have ice at  this latitude. Not unless...
+WILLIS	m	Oh my God.
+LUKE	m	How far away is it?
+KIROV	m	Sixteen kilometers northeast. Take  us twenty minutes to get there.
+LUKE	m	Let's send a packet to Micker. Then  we'll go check it out.
+LUKE	m	This is a truly anomalous formation.  Looks like nothing we've seen so  far. The structure appears to be  crystalline, at least from the angle  displayed by ARES-8 ...
+LUKE	m	We're all trying not to go too nuts  up here, but -- we think there's a  good chance this could be an extrusion  from some subsurface, geothermal  column of water. And if we're right...
+LUKE	m	...then we've found the key to  permanent human colonization.
+MCCONNELL	m	Tell geology and hydrology we need  to scramble on this. Full-court press.
+LUKE	m	Anyway, we'are going out to take a  closer look at it, try to get an  idea of its composition. By the time you receive this, we  should be just about on-site.
+KIROV	m	Jesus Christ...
+LUKE	m	Anyone else hear that?
+COTE	?	Yeah. What is it?
+WILLIS	m	Sounds like our antenna's out of  phase.
+LUKE	m	Can you fix it?
+WILLIS	m	Hey, skip, I can fix anything.
+LUKE	m	Big talker. Renee, Sergei, let's  break out the radar, see what this  thing's made of.
+BECK	m	...and this is the Mars Mission  Control Room, nicknamed "Micker." I  understand a comm packet is incoming  from Mars One Base Camp, so you may  find this interesting.
+AMBASSADOR	m	That man over there. He's in charge?
+BECK	m	No, actually, that's Jim McConnell,  the CAPCOM. Our voice link to the  astronauts? Jim's been with the manned  Mars program since its inception.  One of our real pioneers.
+AMBASSADOR	m	Will he be going to Mars, too?
+BECK	m	Ah, no. This is as close as he gets.
+LUKE	m	...anyway, that's about it. We'll  send another packet when we get back.
+LUKE	m	Oh, right. One more thing. Today is  a very special day for a good friend  of ours, and I know he's there right  now.
+LUKE	m	Now, he hates it when any fuss is  made, so I won't mention his name...
+LUKE	m	...because the last thing in the  world I'd ever want to do is embarrass  someone like Jim McConnell.
+LUKE	m	C'mon, you Micker weasels, sing!
+LUKE	m	Hey, Ray! Take a look at him! Is he  all red with one of those fake "I'm- a-good-sport" grins?
+LUKE	m	And hey, you guys, check out Ray!  Does he have on one of his "This- wasn't-in-my-mission-plan" faces?
+LUKE	m	Nothing you can do about it, Ray!  We're a hundred million miles away!
+LUKE	m	Happy Birthday, Jimbo! Make a wish!
+LUKE	m	Catch you again soon. Take care,  buddy. End of transmission.
+LUKE	m	Well? What's under there?
+COTE	?	Je ne sais pas. I... I think there's  something wrong with the equipment.
+LUKE	m	What?
+COTE	?	I mean, it can't be right. It says...  it says there's metal under there.
+COTE	?	There's ten, twelve meters of rubble  and sand, and then... solid metal.
+LUKE	m	That doesn't make any sense. You're  reading a vein of ore.
+COTE	?	No. It's under the whole mountain.
+LUKE	m	Nick, could the problem with the  antenna be interfering?
+WILLIS	m	Could be.
+LUKE	m	Try it closer and up the power. I'll  watch the screen.
+MCCONNELL	m	Ah, we're all pretty stoked about  that formation you spotted, Mars  One. The folks in the geology and  hydrology back rooms are going over  your images and comparing them to  every photomap they've got.
+LUKE	m	Nick, how we coming on that antenna?
+WILLIS	m	Goin' as fast as I can, boss.
+KIROV	m	Hey, Nick. Come show me how stupid I  am. I can't get this to work.
+MCCONNELL	m	Medical wants me to remind you that  you're three days late on your blood  tests. I know they're a bore, but  you've got to get them done, or  else... or else I don't know what.  Just do them, okay?
+KIROV	m	All set here, chief.
+LUKE	m	Okay. Crank up the juice and let's  see what's in this sucker.
+MCCONNELL	m	I think that's about it for business.  But on a personal note, be advised  that, ah, none of you can sing worth  a damn.
+LUKE	m	Why did that stop?
+MCCONNELL	m	Honestly, Luke, if you guys don't  have anything better to do with your  time, I can make some suggestions to  mission medical. There are worse  things than blood tests.
+MCCONNELL	m	Oh, and I talked to Debra. She and  Bobby are doing fine. Said to tell  you, they're, ah, they're on their  "third time through the book, page -- -- page 125." They send their love  and say take care of yourself. Same  from us here, buddy. Till next time,  then. End of transmission.
+WOODY	m	"Problem: Hatch door malfunction,  backup power fail, manual override  fail. Solution: Replace circuit  breaker 907B."
+WOODY	m	Okay... Piece of cake.
+WOODY	m	God, who dreams up these nightmares?
+TERRI	f	Don't try to change the subject.
+WOODY	m	I'm not! We're talking about your  sister's wedding, right?
+TERRI	f	Very funny. We're talking about  dancing lessons. Before my sister's  wedding.
+WOODY	m	Honey, do you mind? I've got a  catastrophic power failure here.
+TERRI	f	Woody, we're a married couple. Would  it kill you to invite me out on the  floor once in awhile?
+WOODY	m	I danced with you at our wedding.
+TERRI	f	I'm not talking about shuffling your  feet around while you grab my butt.  I mean real dancing. Cha-cha, rhumba,  jitterbug --
+WOODY	m	Face it, honey, some couples dance,  some go to Mars. That's life.
+TERRI	f	I'm serious. We've got two more months  in this training rotation, but just  as soon as we get home, we're starting  lessons. If we never dance, people  will think there's something wrong.
+WOODY	m	If they see me dance, they'll know  there's something wrong.
+TERRI	f	You are such a lug.
+PHIL'S VOICE	m	Cockpit, this is Control.
+TERRI	f	Control, this is Cockpit.
+PHIL'S VOICE	m	Uh, Terri, they want us all back in  the Station. Report to Micker.
+TERRI	f	Who says report to Micker?
+PHIL'S VOICE	m	The little men who live in my head.
+WOODY	m	Phil, c'mon! We just started this  drill.
+PHIL	m	Woody, it was Ray Beck. He told me  to round up the team. Now.
+BECK	m	Then, at 1417, the X-band continuous  data stream from Mars went silent.  All data -- med, environmental,  everything -- suddenly stopped. While  we were trying to figure out what  the hell went wrong, we got a signal  from the folks at the Large Array at  Soccoro.
+MCCONNELL	m	At the same moment we lost the data  stream, they picked up an intense  burst of energy from Mars.
+WOODY	m	What do you mean, "intense"?
+MCCONNELL	m	Catastrophic.
+TERRI	f	What about the crew?
+BECK	m	The level of energy in the pulse...  didn't seem survivable.
+WOODY	m	What about the REMO? It went into  Mars orbit last week. Maybe that  could give us some clue.
+MCCONNELL	m	Good thinking, Woody. That's just  what we tried next.
+MCCONNELL	m	The Resupply Module checked out fine.  No instrument failures, no change in  status. Orbit holding steady. But  there was something else. The REMO'S  computer contained an uplink message --  a very faint, highly distorted  transmission from Mars One Base Camp.
+TERRI	f	Someone's alive.
+MCCONNELL	m	Yes.
+PHIL	m	How?
+BECK	m	The message is almost indecipherable.  Two teams are still working on it.  You better see for yourselves.
+TECHNICIAN	m	Still concentrating on the audio. We  managed to bring out a couple more  words, but we've got a long way to  go.
+WOODY	m	Show us whatever you've got.
+LUKE	m	...make this quick... may be only ch-- ...to the site, when we... hit us  just as we... --thers are all dead...
+LUKE	m	...low sound that we couldn't  understand. Then all of a sudden  there was this terrib... ...--stems are holding up for now,  but I don't know how long I can...
+TECHNICIAN	m	That's it.
+TERRI	f	What did Luke mean by a "low sound?"
+BECK	m	If this was a earthquake, as we're  now assuming, there's usually an  auditory component.
+WOODY	m	But that energy pulse they picked up  in New Mexico...
+PHIL	m	Electromagnetic emission. Not uncommon  with large-scale geophysical  phenomena.
+WOODY	m	Causing this kind of damage? I don't  buy it. We're missing something here.
+TERRI	f	Luke must be in pretty bad shape if  he hasn't blasted out of there in  the Earth Return Vehicle. That thing's  designed so even one crew member  could fly it back to Earth.
+MCCONNELL	m	Even if Luke was in great shape, he  couldn't get home. That energy pulse  would've fried the ERV'S computers.
+WOODY	m	Other than the computers, how do we  think the ERV fared?
+BECK	m	Well, so far our modelling says it  should be in pretty good shape.
+WOODY	m	Which means it's gonna be up to us  to get new motherboards, drives, and  software to Mars. As fast as we can.
+BECK	m	Whoa, slow down. It's gonna take us  weeks just to analyze this data.
+MCCONNELL	m	Right, but meanwhile, we've gotta be  working up a mission plan.
+WOODY	m	Luke needs us now.
+BECK	m	Luke may already be dead. And even  if he's not, it's doubtful he's going  to be able to transmit again. So we  wouldn't know whether it's safe to  land until you were almost there.
+PHIL	m	What about SIMA?
+PHIL	m	The Saturn Imaging Probe. It's going  to slingshot around Mars on its way  through the solar system. It could  be retasked to take pictures, read  radiation levels at Mars One Base  Camp.
+WOODY	m	Good idea Phil. If SIMA tells us  Luke hasn't survived and it's not  safe to land, we swing around Mars  and come right back home.
+MCCONNELL	m	Yes. We can design the mission to  have a free return capability. It's  a long trip, but if you don't land  it's the best option.
+BECK	m	We're getting ahead of ourselves.  You're forgetting the bigger problem. The orbits are all wrong. Our first  decent launch window is almost eight  months from now.
+MCCONNELL	m	But we can go earlier and get there  faster if we reconfigure the payload  for extra fuel. We've modelled that,  Ray. I've modelled it.
+BECK	m	On paper, yeah. But those stresses  have never been tested in space.
+MCCONNELL	m	The ship can take it.
+BECK	m	I wasn't thinking of just the ship.
+MCCONNELL	m	I know the protocols for a Mars  Recovery Mission better than anybody,  because I helped design them. And  I'm saying these guys can do it.
+WOODY	m	He's right, Ray. We've got a real  shot.
+BECK	m	Give me an updated mission plan by  0800 tomorrow. Then I'll put it in  the works.
+MCCONNELL	m	You'll have it by 0600.
+MCCONNELL	m	Let's get to work.
+WOODY	m	Chief, could I have a word?
+WOODY	m	I've no longer got the right crew.
+BECK	m	What do you mean? Bjornstrom can be  up here on the next shuttle.
+WOODY	m	Bjornstrom is a geologist. He's good,  but not for this. My people just  lost eight months of training. This  is a different mission, with a  different objective.
+BECK	m	I haven't been given authorization  for a mission yet.
+WOODY	m	But when you are, it ought to be  given the best chance for success. I  want McConnell to fly right seat.
+BECK	m	He's no longer on mission status.
+WOODY	m	Yeah. Because you washed him out.
+BECK	m	He washed himself out. He only had  to pass a few more psych evaluations,  but he refused to take them.
+WOODY	m	Ray, he's the best pilot I ever saw,  and you've got him benched at a desk.
+BECK	m	Everybody has to pass the psych  prelims. No exceptions. Jim knew  that.
+WOODY	m	Maggie was his wife. He didn't want  to lie on a couch and share her with  strangers.
+BECK	m	That was his call. But I had to make  one too. It was tough as hell, but  I'd do it again.
+WOODY	m	His wife wasted away in front of his  eyes. What was he supposed to do?  Suck it up? Get with the program?  What was his crime? That he was upset?  That he cried...?
+BECK	m	I couldn't trust him!
+BECK	m	Not in a crisis... I'm sorry Woody,  but Jim lost his edge. Are you gonna  stand there and tell me Jim McConnell  is the same man he was two years  ago? You want me to bet four more  lives on that?
+WOODY	m	When Maggie died, yeah, it knocked  the shit out of him. It knocked the  hell out of all of us. But you know  and I know that he's still the best  we've got. He and Maggie wrote the  book on Mars. He's got more hours in  the sims than the rest of us put  together. Ray, we can do this. Give  me McConnell as co-pilot, and we  will bring Luke home. And that's a  promise.
+MCCONNELL	m	What's that?
+PHIL	m	That... is the exact chemical  composition of my ideal woman.
+MCCONNELL	m	Used to be.
+PHIL	m	Hey!
+MCCONNELL	m	Now what is it?
+PHIL	m	A frog.
+TERRI	f	I guess now we have our answer to  the effects of long-term  interplanetary travel on the human  mind. The answer is Phil.
+MCCONNELL	m	I'm gonna get an update on SIMA. It  should be just about close enough to  start capturing some surface images.
+MCCONNELL	m	Hey, Skip.
+WOODY	m	Take a look.
+WOODY	m	What do you make of that?
+MCCONNELL	m	Dust storm. Southern hemisphere,  coming from the east... Big fella,  too.
+WOODY	m	Headed for Chryse Planitia.
+MCCONNELL	m	Yup. Could get a little hairy just  about landing time...
+WOODY	m	We'll have to be ready to move fast.  Maybe even advance our ETA. Those  things can cover the whole planet,  and last up to a year.
+MCCONNELL	m	When does SIMA do her fly-by?
+WOODY	m	Tomorrow morning, about 0600. That's  when we find out whether we came all  this way for nothing.
+MCCONNELL	m	My money's on Luke.
+PHIL	m	What brought this on?
+WOODY	m	Zero-G. My last chance to be graceful.  Once we're in Mars gravity, it's  back to shuffling my feet and grabbing  her butt.
+TERRI	f	I'll take what I can get.
+COMPUTER	m	Attention. Incoming packet.
+MCCONNELL	m	It's SIMA.
+WOODY	m	Looks deserted.
+PHIL	m	It's still standing, though. So is  the ERV. And look, there's the  greenhouse.
+MCCONNELL	m	We know Luke survived for at least a  few hours. Question is, are there  any signs of recent activity?
+PHIL	m	There.
+PHIL	m	What the hell are those?
+MCCONNELL	m	Graves.
+PHIL	m	Hold on. There's only three. That  means --
+TERRI	f	Phil --
+PHIL	m	It means Luke must still be --
+TERRI	f	No. It just means there was nobody  left to bury him.
+WOODY	m	Check the radiation levels.
+PHIL	m	Normal.
+WOODY	m	Go to the disaster site.
+MCCONNELL	m	What's wrong?
+PHIL	m	I don't know. Magnetic interference?
+WOODY	m	Go to infrared.
+PHIL	m	Must be a problem with SIMA. I don't  see how an earthquake, six months  ago, could give us this kind of  distortion.
+MCCONNELL	m	That was no quake.
+WOODY	m	Then what the hell was it?
+BECK	m	We're going to continue analyzing  this data and try to determine what  the problem is with those images.  Frankly, we're just as stumped as  you guys, but we'll keep on it. We agree that the evidence of the  graves is inconclusive and that a  ground search is advisable. Be aware  there are little sand storms kicking  up near Mars One Base, but the big  one you spotted is turning south. It  shouldn't be a factor.
+BECK	m	We're all pretty excited here and  we're sure you must be feeling the  same. Enjoy your meal and get a good  night's sleep. We anticipate that  tomorrow morning you will be Go for  Mars Orbital Insertion.
+BECK	m	God bless you and goodnight. End of  transmission.
+TERRI	f	What if you opened up your meal packs  and found that, instead of putting  in everything but red ones, they'd  made a mistake and put in only red  ones?
+PHIL	m	Hey, that's a funny notion. And what  if in your meal packs, instead of  brown rice, there were spring-loaded  spikes that shot into your eyes?
+TERRI	f	How did you ever pass the psych  evaluation?
+PHIL	m	When you're schizophrenic, they take  the higher score.
+LUKE	m	Jim's first ship was seriously  underpowered...
+WOODY	m	Maggie was always starstruck...
+MAGGIE	f	I'll get you guys for this.
+LUKE	m	When they met at the Air Force  Academy, it was "love at first  flight."
+WOODY	m	After that, NASA training was tough.  All Jim could think about was  exploring a heavenly body. More ribald  LAUGHTER, as
+LUKE	m	But Maggie, as you can see, kept him  on a short leash. Until...
+WOODY	m	Mission accomplished!
+LUKE	m	Today we celebrate a new chapter in  their story. And guys, it's a pretty  historic one.
+WOODY	m	Let's hear it for the newly-announced  Captain and Co-Captain of Mars One.  To Jim and Maggie!
+LUKE	m	When you guys land, it'll prove once  and for all there's no intelligent  life on Mars.
+MAGGIE	f	Hey, c'mon, what if I'm right?
+ASSORTED VOICES	m	Oh no, here we go! Don't get her  started! Somebody put on some music!
+MAGGIE	f	It's our sister planet!
+PHIL	m	Oh brother!
+TERRI	f	Maggie, why does this have to be  about us? Mars is a great opportunity  for pure science.
+MAGGIE	f	We'll do the science. And we'll do  it very well. That's what we've  trained for. But what if there's  more...? In all our myths, in every  human culture, Mars has always held  a special attraction. What if that  means something? Only we don't  understand it yet...
+MAGGIE	f	The universe is not chaos. It's  connection. Life reaches out for  life...
+MAGGIE	f	This is what we were born for, isn't  it? To stand on a new world, and  look beyond it to the next one. It's  who we are.
+WOODY	m	You okay?
+MCCONNELL	m	Yeah. I'm good to go.
+MCCONNELL	m	After all these years... Can you  believe it? Tomorrow we'll be standing  on Mars.
+WOODY	m	You know what? She may have been  right.
+WOODY	m	If that wasn't a quake down there,  then something else caused it. Or  planned it... You're thinking the  same thing.
+MCCONNELL	m	It's never been out of my mind.
+WOODY	m	Jesus. You realize what this means?
+MCCONNELL	m	She knew, Woody. She was the only  one of us that ever thought there  might be something down there.
+WOODY	m	Yeah, and we're not leaving until we  find out... Deal?
+WOODY	m	Maggie was the best of us.
+MCCONNELL	m	Range 6783 and closing. 35 minutes  till Mars Orbital Capture.
+WOODY	m	Okay, people let's look sharp. If we  overshoot, there's no coming back.
+PHIL	m	Yeah, and drifting through eternity  will ruin your whole day.
+TERRI	f	Delta V systems initialized.
+WOODY	m	Charge primary APU.
+TERRI	f	Engaged. Charged.
+WOODY	m	Select HPU fuel cells for run.
+TERRI	f	Engaged.
+MCCONNELL	m	Tie main bus to systems.
+PHIL	m	Power ready.
+MCCONNELL	m	Select H2/O2 HPU and fuel cells for  open.
+PHIL	m	H2/O2 control valves open.
+WOODY	m	Charge flow.
+TERRI	f	Charged and on-line
+WOODY	m	Reset PW.
+TERRI	f	Set
+MCCONNELL	m	Transfer protocol data from EVA  station.
+PHIL	m	Transferred. Awaiting track  confirmation.
+PHIL	m	Uhhh!
+TERRI	f	What in God's --
+WOODY	m	Micrometeoroids
+MCCONNELL	m	Breach hits in the hull!
+PHIL	m	Outgassing! Losing pressure!
+TERRI	f	Woody, seal the breech!
+WOODY	m	Kill those alarms!
+MCCONNELL	m	Still outgassing in the lower Hab!  There must be another hole down there,  even bigger.
+PHIL	m	Losing pressure fast! We're gonna  decompress!
+WOODY	m	Computer, how long until zero  atmosphere?
+COMPUTER	m	Four minutes, nine seconds.
+PHIL	m	If we get below 20% atmosphere, the  power will shut down!
+TERRI	f	Are you sure?
+PHIL	m	Positive! A vacuum inside the ship  would cause a total electrical  failure. The nav computers will fry!
+MCCONNELL	m	We'll lose all control. We won't be  able to fire the engines to capture  Mars orbit.
+PHIL	m	It's already starting. The primary L- 1 hub has been smashed. The systems  are crashing.
+WOODY	m	Everybody switch to suit oxygen. We  beat this in the simulator, we can  do it here. Jim, you've got the ship.  I'm going EVA.
+WOODY	m	C'mon, people, let's go! Let's work  the problem!
+PHIL	m	Jesus, it's still bleeding.
+TERRI	f	Keep the pressure on!
+COMPUTER	m	Eighty percent atmosphere...
+TERRI	f	Jim, you've gotta get your spare  helmet from storage.
+MCCONNELL	m	No time. Phil, can you keep the nav  computers on-line?
+PHIL	m	I can't get this damn machine to re- initialize! And the automated systems  just went down. We can't shut down  the hab rotation from here.
+MCCONNELL	m	I'll do it from below.
+TERRI	f	We're losing pressure. You could  embolize.
+COMPUTER	m	Seventy percent atmosphere...
+PHIL	m	Jim, I've got an idea. If you guys  can save enough atmosphere, I'll  disconnect the power in the main  computer bay, then jump start the  systems. I'll do a hard boot.
+MCCONNELL	m	Has that ever been tested?
+PHIL	m	Are you kidding? These machines are  much too valuable.
+MCCONNELL	m	Do it.
+WOODY	m	Jim, how we doin' on the AG?
+MCCONNELL	m	Just one goddamn second. Come on,  c'mon...
+COMPUTER	m	Voice print identification.
+MCCONNELL	m	McConnell!
+COMPUTER	m	Accepted. Shutting down artificial  gravitational rotation.
+MCCONNELL	m	Hang on!
+COMPUTER	m	Sixty per cent atmosphere...
+WOODY	m	Get some light on the hole so I can  locate it.
+MCCONNELL	m	I've got a better idea. Stay there!
+WOODY	m	I'm topside, Jim, do you know which  sector?
+MCCONNELL	m	I'm workin' on it!
+WOODY	m	Jesus, uh, OK, this is gonna be like  searching for a needle in a haystack.
+MCCONNELL	m	Shake out the liquid.
+TERRI	f	Jim, I don't --
+MCCONNELL	m	Shake it out near the hull!
+WOODY	m	C'mon, c'mon, where are you...?
+COMPUTER	m	Fifty per cent atmosphere...
+MCCONNELL	m	Woody, the breech is in sector four!  Sector four, copy that?
+WOODY	m	Copy, I' heading there now.
+WOODY	m	Sonofabitch. You never did that in  the simulator.
+PHIL	m	Where are you, you little bastard,  where are you...?
+COMPUTER	m	Forty percent atmosphere...
+WOODY	m	Whoa.
+PHIL	m	Gotcha!
+COMPUTER	m	Thirty percent atmosphere...
+COMPUTER	m	Twenty percent atmosphere...
+PHIL	m	OK... OK now...
+PHIL	m	Come on. Come on...!
+COMPUTER	m	Twenty percent atmosphere...
+COMPUTER	m	Pressure stabilizing... Atmosphere  level increasing.
+PHIL	m	Yes! Awriiiight! Had it all the way.  Yes!
+PHIL	m	Shit!
+PHIL	m	Get back in here, guys!
+WOODY	m	Jim, there's a lot of scarring...  I'd better check for other punctures  while I'm out here.
+MCCONNELL	m	Negative, negative. Woody, get back  inside. We've gotta start the  checklist for orbital insertion.
+WOODY	m	Copy, I'm heading there now.
+WOODY	m	Hey, Beautiful...
+WOODY	m	Know what? You've got enough left.
+TERRI	f	Piece of cake?
+WOODY	m	Well. Easier than the cha-cha.
+PHIL	m	I don't know what you're getting so  cocky about. We scored better times  in the sim at least twice.
+MCCONNELL	m	How's his hand?
+TERRI	f	Seems OK. Couple of the tendons are  going to be a little tight for awhile.  Try to close your fingers, Phil,  nice and slowly.
+PHIL	m	Well, at least I'll still be able to  drive.
+WOODY	m	OK, we're ready to light this candle.  Go/No Go for braking burn and MOI.  Engines?
+MCCONNELL	m	Go.
+WOODY	m	Systems.
+TERRI	f	Go.
+WOODY	m	Nav.
+PHIL	m	Go.
+WOODY	m	We are Go for the burn. I'm fueling  the engines.
+PHIL	m	Optimum angle of entry minus seven  degrees. Six... Five...
+PHIL	m	Four... Three...
+WOODY	m	Jim?
+MCCONNELL	m	Let's go to Mars.
+WOODY	m	What the --
+MCCONNELL	m	Shut down engines!
+WOODY	m	Engines negative! No response! I've  got no attitude control!
+MCCONNELL	m	Manual separation! Blow the bolts!
+WOODY	m	Negative! The CM doesn't have enough  thrust to correct this rotation!
+PHIL	m	We're too steep! Falling into the  atmosphere...!
+PHIL	m	Christ, at this angle we'll burn up!
+WOODY	m	How much time've we got?
+PHIL	m	I don't know! Three minutes? I don't  know!
+MCCONNELL	m	Where's the REMO?
+PHIL	m	The Resupply Module? Why? That's not --
+MCCONNELL	m	Where is it?!
+PHIL	m	Uh, it's close...
+MCCONNELL	m	Damn it, how close?!
+PHIL	m	I-I don't know. It'll take time...
+MCCONNELL	m	We don't have time! Figure it out!  Now!
+WOODY	m	Jim, we're dead stick, there's no  way to maneuver this ship into a  link-up!
+MCCONNELL	m	Not the ship. Just us. We have to go
+PHIL	m	You want us to transfer in suits?
+TERRI	f	Jesus, Jim -- if we don't make it --  if we miss the REMO...
+MCCONNELL	m	There's no other choice! Phil, how  close?!
+PHIL	m	One kilometer, that's the best I can  do!
+WOODY	m	Prepare to abandon ship.
+WOODY	m	On my mark, seven percent left  thruster. Three, two, one, fire.
+WOODY	m	Okay. Let's go.
+TERRI	f	What're you looking for?
+PHIL	m	Earth.
+TERRI	f	Hey. When we get back? We really  will have to try this in the sim.
+MCCONNELL	m	How we doin' on fuel, Woody?
+WOODY	m	I'm at fifty percent. But I don't see the REMO.
+TERRI	f	There she is!
+WOODY	m	Jesus. She's not where I thought  she'd be.
+PHIL	m	We're going to miss her.
+MCCONNELL	m	What do you think?
+WOODY	m	We can't catch it. Not like this.
+MCCONNELL	m	Use the tether.
+MCCONNELL	m	We'll only have one, maybe two shots  before she's out of reach.
+WOODY	m	It'll be better if I leave you the  gun while I run out to the REMO.  I've got enough fuel left for that.
+MCCONNELL	m	You'll be going too fast.
+WOODY	m	I'll aim to overshoot, then brake  like hell; arc it in.
+WOODY	m	Seeya in a few.
+WOODY	m	Okay. I'm on path to overshoot. I'm  gonna take the edge off.
+WOODY	m	I'm out. Coming in hot. Still long. Abandoning the unit. I'll brake with  suit jets.
+TERRI	f	Oh Jesus. Jesus...
+WOODY	m	Suit jets gone. But I'm gonna make  contact...
+MCCONNELL	m	At what velocity?
+WOODY	m	Impact's gonna be a little rough.
+MCCONNELL	m	At what velocity?
+WOODY	m	Thirty-two.
+MCCONNELL	m	I'm gonna use the gun to slow you.
+WOODY	m	No! You slow me and I'll fall short.
+MCCONNELL	m	It's too fast, Woody.
+WOODY	m	No choice. I'll be okay. Here we  go...
+TERRI	f	Woody!!
+MCCONNELL	m	Woody, what's your status?
+WOODY	m	Uh, well, no suit jets and I'm still  carrying a good deal of velocity.
+MCCONNELL	m	As soon as we get hooked up, I'll  come get you.
+WOODY	m	Uh, I'd have to say negative on that,  Jim.
+MCCONNELL	m	Negative on the transmission?
+WOODY	m	No, I heard you. Negative on the  maneuver. I am not retrievable.
+TERRI	f	Woody, that's not possible. You're  not going that fast.
+WOODY	m	It comes down to the amount of fuel,  honey. The suit jets were designed  for attitude control, not travel.  Retrieval just won't work.
+PHIL	m	It has to work!
+WOODY	m	Hey, believe me, I don't like it any  more than you do.
+TERRI	f	Woody --
+WOODY	m	Run the numbers, Jim.
+MCCONNELL	m	I am.
+MCCONNELL	m	Woody, you hang tight. We'll get  into the REMO, fire her up, drop her  into a lower orbit and come scoop  you up.
+WOODY	m	Sounds good, Jim.
+TERRI	f	It's gonna take half an hour to get  the REMO reoriented! Woody'll be...  He'll be in the atmosphere by then!
+MCCONNELL	m	Then we'll have to get her moving  faster.
+TERRI	f	We don't have time!
+WOODY	m	You listen to Jim, honey. It's a  good plan.
+TERRI	f	No! We are going to --
+PHIL	m	Oh Jesus, look! The ship!
+MCCONNELL	m	Look out!
+MCCONNELL	m	Brakes!
+MCCONNELL	m	Okay, let's get inside! Phil, start  dumping the cargo, or there won't be  room for us.
+PHIL	m	But we need those supplies for --
+MCCONNELL	m	Dump the cargo. Hang on, Woody!
+WOODY	m	Will do, Jim.
+WOODY	m	Hey, Beautiful...
+MCCONNELL	m	Terri, no!
+MCCONNELL	m	Goddammit, Terri, it won't work!
+WOODY	m	Terri, what are you doing?
+TERRI	f	I'll tell you what I'm not doing,  Woody. I'm not going to watch you  die.
+WOODY	m	Terri --
+TERRI	f	You'd do the same for me.
+MCCONNELL	m	Get inside. Dump the cargo, then  start the systems. Now.
+WOODY	m	No. I wouldn't come for you. Not if  it just wasn't possible.
+TERRI	f	I can do it!
+WOODY	m	No, Terri, you can't! You don't have  enough fuel to get me, stop us both,  and get us back. Hell, you come any  farther and you won't have enough to  get back yourself.
+WOODY	m	Listen to me, goddammit! You have to  stop! You have to stop now!
+MCCONNELL	m	He's right, Terri... It's no use.
+WOODY	m	Okay, honey...? You gotta go back  now.
+TERRI	f	The hell I do.
+WOODY	m	What are you doing?
+TERRI	f	I'm gonna jet a little closer and  try again.
+WOODY	m	Terri, you spend any fuel getting  closer, you won't get back, and if  anyone tries to get you, they'll die  too.
+WOODY	m	Honey, please go back. Go back and  help everyone get down to the surface.
+TERRI	f	I am not losing you.
+WOODY	m	I can't let you do it. I can't. I'm  sorry.
+TERRI	f	Woody...?
+WOODY	m	I love you, Terri. God how I love  you.
+TERRI	f	Woody, nooooooo...!!!
+TERRI	f	Woody, oh Woody, please God, no!
+MCCONNELL	m	Come back, Terri.
+MCCONNELL	m	He's gone.
+MCCONNELL	m	Please, Terri... We need you.
+NEW CAPCOM	m	Okay, they're Go for the burn and  MOI. Should be initiating the burn  just about... now.
+MCCONNELL	m	Phil? Hey, Phil...?
+MCCONNELL	m	We're going in blind. We'll deploy  the chutes by laptop. I need to get  on the data bus, put in a software  patch, and try to soften this tin  can's landing. I could use your help  with the patch.
+MCCONNELL	m	That's great. Good job. Hey, Terri, I was wondering. Think  maybe we could rig some kind of  seatbelts out of those cargo straps?
+NEW CAPCOM	m	Ray...? We've got some new data,  just coming in.
+NEW CAPCOM	m	We just -- it doesn't make any sense.  We're not sure how to read this.
+BECK	m	Data?
+NEW CAPCOM	m	Yes sir. Telemetry reports the REMO  has left its orbit and reached the  Martian surface.
+BECK	m	Crashed?
+NEW CAPCOM	m	No sir. Under power.
+BECK	m	When?
+NEW CAPCOM	m	Sixty-three minutes after Mars  Recovery went off-line. Sir, the  graph reads like a controlled descent.  But that doesn't make any --
+BECK	m	They used the REMO as a lander.
+BECK	m	It's McConnell, it's got to be! Nobody  else could have pulled this off. Son  of a bitch! They're alive.
+MCCONNELL	m	Better?
+PHIL	m	Damn right.
+MCCONNELL	m	Terri, let's see if that oxygen still  is operational. Phil, you better  check out the ERV. I'll take the  Hab. If you find Luke's --
+MCCONNELL	m	Just keep in touch.
+MCCONNELL	m	I'm at the main airlock door.
+MCCONNELL	m	Entering Hab.
+PHIL	m	I've got ERV access. I'm going in.  Terri, you okay?
+TERRI	f	Yeah. This is gonna take awhile to  get back to 100% capacity.
+PHIL	m	ERV appears structurally intact.  Computers are fried, just as we  thought.
+TERRI	f	Copy that. I've got busted filters  here, clogged intakes. Helluva cleanup  job, but so far no major damage.
+MCCONNELL	m	I'm in the greenhouse. You better...  you better come see this for  yourselves.
+PHIL	m	What is it?
+TERRI	f	Jim...?
+MCCONNELL	m	Luke, it's me! Jim McConnell!
+LUKE	m	You're not here!
+MCCONNELL	m	Luke, it's Jim!
+LUKE	m	No, no, you're not... you can't be  here.
+MCCONNELL	m	Your wife is Debra! Your son is Bobby!  You were reading Treasure Island  with him...!
+MCCONNELL	m	Don't hurt him!
+LUKE	m	Phil... Terri...
+LUKE	m	Jim... I don't understand. You're  not supposed to be here... Why are  you here? Where's Woody?
+MCCONNELL	m	He didn't make it Luke.
+LUKE	m	Oh no.
+MCCONNELL	m	Luke, what happened here?
+LUKE	m	We fired the radar. It came. They  all died.
+MCCONNELL	m	What came?
+LUKE	m	They all died, but I was spared.  Why? Had to be for a reason. Then,  all of a sudden, I knew why I was  spared.
+LUKE	m	So somebody would be left to figure  out the secret.
+MCCONNELL	m	Luke, we still don't understand.
+LUKE	m	Come. Comecomecome.
+PHIL	m	Is it just me? Or is he about two  mealpacks short of a picnic?
+TERRI	f	Long term exposure to low gravity  can have an adverse impact on the  brain. He could be suffering from a  form of asphyxia.
+MCCONNELL	m	Or maybe his whole crew died and  he's been marooned alone on Mars.  Let's give him time to adjust.
+PHIL	m	Greatgreatgreat.
+LUKE	m	So... let me be sure I understand  this. Your ship blew up, with all  its supplies. Then you emptied the  cargo out of the REMO, and it was  totalled on landing. You've got no  food, no water, no spare oxygen,  nothing but what I see here...?
+LUKE	m	What kinda rescue mission is this?
+MCCONNELL	m	That kind.
+PHIL	m	Check it out. New nav boards for the  ERV. I got four round-trip tickets,  baby, right in here.
+LUKE	m	Four.
+LUKE	m	Terri... I'm so sorry. He was a good  man.
+TERRI	f	Thanks, Luke.
+LUKE	m	When there's time, we'll talk.
+LUKE	m	This way.
+LUKE	m	...When I came to and dug myself out  of the sand, my faceplate was cracked.  Leaking badly. I barely made it back  to Base. It was weeks before I could  work up the nerve to go back out  there and look for their...
+LUKE	m	Renee was the only one I could find.  But it didn't seem right, somehow,  to dig just one grave.
+MCCONNELL	m	Has it been blowing like this for a  while? We saw a big storm from space. But  Micker said it was turning south.
+LUKE	m	If it holds course.
+MCCONNELL	m	This -- whatever it was -- this force.  You say it came directly out of the  top of the mountain?
+LUKE	m	You don't believe me. That's okay.  But I'm not crazy, Jim.
+MCCONNELL	m	What did you mean by its "secret?"  What secret?
+LUKE	m	You better see for yourselves.
+LUKE	m	See, where they made their mistake  was, they must've planned for it to  be visible from Earth...
+MCCONNELL	m	Who's "they"?
+LUKE	m	Don't you understand? Hundreds of  millions of years have gone by. You've  got erosion, sand storms, lava flows,  meteor impacts -- hell, in that much  time, the whole surface would've  changed. So no wonder we never saw  it before. Well, I mean, we saw it,  but not like they meant us too. Too  much dirt on it.
+TERRI	f	Saw what?
+LUKE	m	This.
+PHIL	m	Jesus...
+TERRI	f	What is that...?
+LUKE	m	I don't know. But whatever it is,  somebody built it. And not us.
+MCCONNELL	m	What about the sound? That signal  you heard before the explosion?
+LUKE	m	Good, Jim, good. That's the key.
+LUKE	m	Hear the pauses? That's what made me  realize it's a pattern -- a repeating  pattern.
+MCCONNELL	m	Mathematical?
+LUKE	m	That's what I thought. There are  distinct blocks in the pattern, and  within each block the tones come in  groups of three. Threethreethree.  For months I struggled to analyze  it, trying different constructs...  Then I thought about dimensions.
+MCCONNELL	m	X-Y-Z coordinates...
+LUKE	m	Right! Three groups equals three  dimensions... So I tried assigning  different graphic values to each  block, group and tone. And finally I  got... this.
+PHIL	m	My God... Is that what I think it  is?
+TERRI	f	DNA... that's a model of DNA!
+LUKE	m	You see it, too. Thank God. I was  afraid I was just suffering from a  form of asphyxia.
+PHIL	m	So, okay, so -- somebody left this  thing here, somebody -- other than  human. But what the hell is it?
+LUKE	m	My guess is, it's a signature. A  self-portrait of whatever species  created the Face.
+MCCONNELL	m	But that DNA looks human.
+TERRI	f	No way. It's missing the last pair  of chromosomes. See?
+MCCONNELL	m	Yeah, but it's close. Damn close.
+TERRI	f	The difference between a man and an  ape is less than three percent of  genetic material. But that three  percent gives you Mozart. Einstein.
+PHIL	m	Or Jack the Ripper.
+MCCONNELL	m	It's been a long day. Let's get a  couple hours sleep, then tackle this  thing when we're fresher. Phil, your  first priority will be to get the  motherboards over to the ERV.  Concentrate on getting communications  up first. Soon as we've got the juice, we'll  send a packet to Micker, tell them  Luke's OK, and that... everything  else that's happened. The rest of us  will take an inventory of supplies,  see where we stand. Okay?
+TERRI	f	C'mon. There's a pair of scissors in  my medkit.
+MCCONNELL	m	How do you feel?
+LUKE	m	Like I just got back my other three  percent.
+TERRI	f	The backup generator is salvageable,  and two of the solar panels. I'm  pretty sure I can get the oxygen  still back into production, too. So  we're not in such bad shape,  considering.
+LUKE	m	Good work, Terri.
+MCCONNELL	m	Look at that. Phil's idea of absolute  essentials.
+MCCONNELL	m	It's not a signature.
+LUKE	m	What?
+MCCONNELL	m	That noise from the Face... It's not  a signature. It's a test.
+MCCONNELL	m	It's asking us for the right answer.  It wants us to put in the missing  pair of chromosomes.
+LUKE	m	But why?
+MCCONNELL	m	To prove that we're human.
+LUKE	m	We fired radar into that thing.  Concentrated sound waves...
+MCCONNELL	m	Which it interpreted as a wrong  answer... Yes! It's like a, a security  alarm. When it gets an incorrect  response, it defends itself.
+PHIL	m	So what happens when it gets the  right answer?
+MCCONNELL	m	I don't know. But we've got to find  out. Can you work this the other way?  Figure out which tones would be  equivalent to the missing chromosomes?  Then dub them into your recording of  the signal?
+LUKE	m	I think so, yes.
+MCCONNELL	m	What about the radar gun? Will it  accept that input? Can we transmit a  completed signal back to the Face?
+PHIL	m	Whoa, whoa, hold on, Jim. What if  you're wrong? Whoever goes out  there... I mean, what if you're wrong?  Three people have already died over  that thing.
+TERRI	f	Four.
+MCCONNELL	m	Terri, if we leave here without  getting some answers, they all died  in vain.
+TERRI	f	We just don't know enough about that --  that thing out there to take any  more chances.
+MCCONNELL	m	What are we here for, if not to take  chances...?
+MCCONNELL	m	This means we're not alone. It means  we're on the brink of the greatest  discovery in mankind's history. But  we've still got to prove it. Who  knows when someone else will get  back here? Or if they ever will? You  know what Congress is like. They'll  say it's too dangerous, too much  loss of life, let's go back to  unmanned flights. We could be the  last explorers to come here for  decades. We're it, guys. We're it.
+LUKE	m	We don't have to go out there. There's  a better way.
+LUKE	m	Checking video feed...
+LUKE	m	There!
+MCCONNELL	m	How close do we need to get?
+LUKE	m	I'm not sure. Maybe we better stop  by that boulder.
+PHIL	m	Oh my God...
+LUKE	m	It worked... It worked!
+MCCONNELL	m	Check for radiation.
+LUKE	m	Normal. Seismic... normal. Anemometer  steady. No sign of the vortex.
+PHIL	m	I don't know what we did, but guys --  does that look to you like a hostile  gesture?
+TERRI	f	No. More like an invitation.
+LUKE	m	Or another test...
+MCCONNELL	m	Luke, the four-man rover. Does it  still work?
+MCCONNELL	m	How long before it hits?
+LUKE	m	An hour? Maybe less.
+MCCONNELL	m	How bad?
+LUKE	m	A storm like that? It could go  planetary. And last a year.
+LUKE	m	It'll sock us in, Jim. We won't be  able to take off. If that happens,  with what few supplies we've got  left...? We'll starve to death.
+MCCONNELL	m	Phil, how much longer to prep the
+PHIL	m	Maybe forty-five minutes. It'll be  tight, but we can make it.
+MCCONNELL	m	Then there's still time for us to  get out there and back.
+MCCONNELL	m	Stay here. Continue the repair. If  something goes wrong, you get out of  here before that storm hits.
+PHIL	m	Go back... alone?
+MCCONNELL	m	If we're not back in forty-five  minutes, I want you to prep and  launch. That's 1950 hours.
+PHIL	m	Jim --
+MCCONNELL	m	It's not a suggestion, it's an order.  You understand?
+PHIL	m	I understand. But --
+MCCONNELL	m	You understand what?
+PHIL	m	If you're not back by 1950, I prep  and launch.
+MCCONNELL	m	Let's go.
+MCCONNELL	m	Phil, do you read me?
+PHIL	m	Yeah, Jim. Your signal's breaking up  a little in the storm, but I read  you.
+MCCONNELL	m	We're at the Face. We're gonna need  a few minutes here. Same deadline,  launch at 1950. With or without us.  Do you copy?
+PHIL	m	Copy that.
+TERRI	f	Jim, are you sure you want to do  this?
+MCCONNELL	m	I'm not sure of anything anymore.  But I didn't come a hundred million  miles just to turn back in the last  ten feet.
+MCCONNELL	m	Surface seems firm and level.
+LUKE	m	Roger that. Texture is smooth.
+TERRI	f	I've got good footing and no  obstructions. Let's check our --
+TERRI	f	It's solid again! We're trapped.
+MCCONNELL	m	Don't move! Keep this orientation.
+MCCONNELL	m	Phil? Phil, can you still hear me?
+PHIL	m	Computers are online! Ready to load  software. But guys -- we're losing  visibility here.
+PHIL	m	Guys...? Jim? Luke? Terri? Is anyone  there...?
+PHIL	m	Don't leave me.
+TERRI	f	Jim, what're you doing? You'll  depressurize!
+MCCONNELL	m	I don't think so.
+LUKE	m	Jim, seal it!
+MCCONNELL	m	No. That was air going into my suit,  not out. Look at your own suits --  they're not rigid anymore. We've got  pressure in here.
+TERRI	f	Above Mars atmospheric? That's  impossible.
+MCCONNELL	m	We're millions of miles from Earth  and we're inside a gigantic white  face. What's impossible?
+TERRI	f	There's six psi in here... Nitrogen and oxygen.
+LUKE	m	Otherwise known as air?
+TERRI	f	Hey, there may be some lethal trace  gasses I haven't picked up yet, or...  or... oh, the hell with it.
+MCCONNELL	m	Is that what I think it is?
+LUKE	m	Yeah. It's Mars.
+TERRI	f	Oh my God.
+TERRI	f	Earth, when it was still Pangaea.  Before the continents separated.
+MCCONNELL	m	They're us. We're them...
+LUKE	m	We're Martians...?
+MCCONNELL	m	That's what she means.
+TERRI	f	Oh my God. The Cambrian explosion.
+TERRI	f	Almost six hundred million years  ago, there was a sudden expansion of  life on Earth. The first multi-celled  plants and animals appeared. No one  has ever understood why...
+LUKE	m	They seeded Earth.
+PHIL	m	...in, please. Can you... me?
+TERRI	f	Phil, we're here! We read you.
+PHIL	m	Thank God! Listen, this storm is  really -- -- few more minutes, I can't -- You've gotta get back to the ship!
+TERRI	f	Phil? Phil...?
+MCCONNELL	m	We are in a ship. This is a ship.  And the countdown has already started.
+LUKE	m	He's right.
+TERRI	f	Then let's get the hell out of here!
+LUKE	m	Jim...
+LUKE	m	Jim, we gotta go.
+MCCONNELL	m	I'm not coming with you.
+TERRI	f	What?
+TERRI	f	What are you talking about? We've  got to get home.
+MCCONNELL	m	That's where I'm going. Don't you  see? That's what all this is for. You were right Terri. This is an  invitation. To follow them. To follow  them home.
+MCCONNELL	m	I have to go. This is the mission  now. To find out who we are. Isn't  that why we came here? Like Maggie  said, "To stand on a new world and  look beyond it to the next one."
+MCCONNELL	m	You know, when you think about it --  I wasn't even supposed to be here --  all the accidents, everything that  got us to this point, it's just...  it's just... I just know it's right.
+MCCONNELL	m	I'm okay. I know what I'm doing. But  you're running out of time. You've  gotta get back to the ERV and get  off this planet. Now please go.
+LUKE	m	I once felt like I was taking your  turn. But now I think maybe you're  taking mine. Guess I'm a little  jealous.
+LUKE	m	Thanks for saving my life.
+MCCONNELL	m	My pleasure.
+TERRI	f	I wish Woody were here to see this.  He would've wanted to go too, Jim.
+MCCONNELL	m	He's here, Terri. We wouldn't have  made it without him.
+TERRI	f	Take care, Jim.
+LUKE	m	Hey, Jim...?
+MCCONNELL	m	Yeah?
+LUKE	m	Have a great ride.
+MCCONNELL	m	Always do.
+LUKE	m	Phil? Phil, do you read? He's not reading.
+TERRI	f	I can barely read you. Let's get the  hell out of here!
+PHIL	m	Is anyone there? Can anyone read me?
+TERRI	f	I've lost the Base Camp beacon!
+TERRI	f	No good! We're driving blind.
+LUKE	m	I'll try to keep on a straight line!  It's our only chance.
+TERRI	f	Don't worry! I've worked with Phil  for four years! I know Jim gave him  a direct order, but he won't leave  without us.
+PHIL	m	This is ERV, do you read? ERV to  Rover, do you read...?
+PHIL	m	This is ERV, do you read?
+LUKE	m	Save the fuel, Phil. We're coming  in.
+PHIL	m	Uh, Phil's not here right now. He  left for Earth five minutes ago.  Please leave your message at the  beep.
+PHIL	m	Where's Jim?
+TERRI	f	He got another ride.
+LUKE	m	Tell you on the way. Let's go!
+TERRI	f	Dear God. Look at that.
+PHIL	m	Is that him?
+LUKE	m	Godspeed Jim McConnell.
+

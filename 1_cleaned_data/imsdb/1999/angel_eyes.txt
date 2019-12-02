@@ -1,0 +1,720 @@
+SHARON	f	Wait. Wait. Listen to me.    Can you feel that?
+SHARON	f	That's my hand. Hold it.    Go on -- as hard as you can.
+SHARON	f	It's over, and I've got you, and you're safe. You're safe now. You got that? Don't let go. Don't let me go.
+SHARON	f	That car is older than they are.
+ROBBY	m	'67 Chevy Impala.
+SHARON	f	That's what I said.
+ROBBY	m	Needs a servicing.
+SHARON	f	Don't we all.
+SHARON	f	Get it together, officer.
+ROBBY	m	Jesus, Pogo! Almost spilled my coffee again! You didn't like his hair, or what?
+CATCH	m	Y'know... since we're both walking the same way, I could take one of those bags for you. That way, I do some upper body work while I'm walking along. Helps my back. What d'you say?
+CATCH	m	Right now your mind's making pictures of me robbing your groceires, but, y'know, nine times out of ten, people do the right thing.
+OLD MAN	m	It's the dog food that makes it so heavy.
+CATCH	m	I guess it's worth it... for a good dog.
+KID	m	If you're going to put me away, you gotta give me one sweet touch.
+KID	m	That ain't the touch.   That ain't the touch I want.
+ROBBY	m	As I remove your cuffs, I want you to put your hands here. Spread your legs. More.
+ROBBY	m	That's it.   Back off, John, we got it.
+SANDERMAN	m	You trying to be a bad-ass, Pogue?
+SHARON	f	I just dealt with the situation. The prisoner...
+SANDERMAN	m	And you don't see a pattern here? I want you to keep yourself way inside the line instead of walking on it. All right? Are you taking notes?
+ROBBY	m	You broke his nose.
+SHARON	f	He grabbed me.     End of story.
+ROBBY	m	And you were waiting for him. You were hoping. You were making long-range plans for his ass while he was mouthing off in the car -- and you're supposed to be above that shit.
+SHARON	f	If you think I crossed the line, put it in the report.
+ROBBY	m	Pogo, stop the shit. What is it? You pissed off at me, too?
+SHARON	f	Thanks. But  she'll invite friends, try and fix me up. She's always trying to fix me up so she doesn't have to worry about you and me.
+ROBBY	m	She doesn't worry about that.
+SHARON	f	They all worry about that.
+SHARON	f	You don't need to fix me, Robby, or fix me up. I don't want some guy to heart and soul me and then walk away 'cause he can't stand the cop thing -- or worse: he wants cop stories every night 'cause it turns him on, and he has no idea who I am inside my head. Anyway, I'm busy tonight.
+ROBBY	m	Got some action, huh?    Well, that's promising.
+SHARON	f	Yeah.   Hot and heavy.
+DRIVER	m	What did you say?
+CATCH	m	What's the point of blasting your music through the whole zip code? Don't you realize there are kids trying to sleep in these apartments -- old people, sick people?
+DRIVER	m	You better watch your mouth, asshole.
+CATCH	m	Why?   What're you gonna do?   Kill me?
+MAN #2	m	Guy's nuts.   Let's go.
+MRS.   VANDER	f	You know Dan and I   renewed our vows last year. I    bet that's where your mom got   the idea.
+SHARON	f	Their vows?
+MRS. VANDER	f	Your mom and dad -- the ceremony...
+MRS. VANDER	f	Oh, well... y'know, I just got that invitation a few... just now, so I'm sure you'll...
+SHARON	f	Oh, yeah. We've had... there's been some problems with the mail in our building, so... I'll probably get it today.
+SHARON	f	So, I guess I'll see you.
+SHARON	f	I didn't see his truck, so...
+LARRY	m	He's not here.
+SHARON	f	How you doing?
+LARRY	m	I'm okay.
+SHARON	f	Kathy and the boy? Bet he's big now.
+LARRY	m	Growin' fast.
+SHARON	f	Is he looking more like you now -- or did he get lucky?
+LARRY	m	He's got Kathy's looks and brains and my strong back. You should feel his grip. You just passing by?
+SHARON	f	Place is coming along nice. The octagon window. Dad's signature.
+SHARON	f	Look, Larry, I shouldn't have to hear it from Mrs. Vander -- about what's happening.
+LARRY	m	What's happening?
+SHARON	f	So you really weren't going to tell me? Nobody was going to tell me? Mom and Dad renewing their vows, the church, the party. Mrs. Vander is all excited. She bought a new dress. It's blue.
+LARRY	m	We're workin' on Dad. We think you should be there. We told him.
+SHARON	f	Mom told him?
+LARRY	m	We mentioned it.
+SHARON	f	He's holding out, hah?
+LARRY	m	You want to come?
+SHARON	f	It's my family. Jesus, Lar. It's over ten years, and he won't let go of it.
+LARRY	m	You two were always head to head.
+LARRY	m	I don't think it's a good idea you coming around here in uniform. People see it, they think we're in trouble here.
+SHARON	f	Nice seeing you, too.
+SHARON	f	Two more minutes.
+KATHY	f	We're bringing Larry his lunch. Hey, it's good to see you. It's been awhile. What?
+KATHY	f	Oh, I went boom into a low shelf -- chasing after him of course. How're you doing?
+SHARON	f	I'm semi-okay. I heard about the... ceremony and the party.
+KATHY	f	Oh. I hope you'll be there. Really.
+SHARON	f	Take it easy.    You too, Champ.
+SHARON	f	Oh, no. You're not breaking my fingers again.
+RAY	m	Break-in alarm. One suspect in -- nobody out. Take the back.
+ROBBY	m	Gun!
+SHARON	f	Freeze!    Right there!
+ROBBY	m	Hey!     Wait!
+RAY	m	You got him?
+ROBBY	m	He was armed.
+RAY	m	Jesus.
+ROBBY	m	Citizen took him down.
+RAY	m	No shit!?
+RAY	m	What happened here?
+CATCH	m	I... just saw it and... I saw the gun, so...
+ROBBY	m	You all right, Pogo?
+SHARON	f	I was dead.   Y'know.
+SHARON	f	He had me.    I was dead.
+CATCH	m	I was just walking by.      I live near here.
+SANCHEZ	m	Sergeant's going to want to talk to you, Mr. Lambert. We'll need a statement.
+RAY	m	Don't worry about it. That's just procedure. Look -- we appreciate what you did. No bullshit. Let us buy you a drink tonight, all right? You know where the Rib House is?
+CATCH	m	What day is today?
+ELANORA	f	Wednesday.
+CATCH	m	No.
+CATCH	m	Met somebody today.
+ELANORA	f	Oh? That's good. Ahh -- they had the broccolini today. Thank you.
+CATCH	m	A woman.
+ELANORA	f	You didn't tackle her, too, did you?
+CATCH	m	No.
+ELANORA	f	Good, Catch.
+CATCH	m	She's a police officer.
+ELANORA	f	Are you in trouble?
+CATCH	m	No.   No trouble.
+ELANORA	f	Well... that's a good thing.
+CATCH	m	I saw her once a long time ago.
+ELANORA	f	Where?
+CATCH	m	She looks the same.
+COP	m	Beautiful.
+SANCHEZ	m	Yeah. My wife's got him in agility class.
+RAY	m	No shit.
+RAY	m	'Rex.' Rex is good. I wonder who the first person was to name a dog 'Fido,' and what the hell does it mean?
+SHARON	f	I like how you're always asking the big questions, Ray.
+RAY	m	I got a big question for you, Pogo -- but I can only ask it when we're alone.
+SHARON	f	Here -- use this -- call your wife and ask her instead.
+SANCHEZ	m	I happen to know Ray's wife is busy tonight.
+RAY	m	Why doesn't your partner ever come out with us?
+SHARON	f	Robby's a family man.
+RAY	m	I'm a family man.
+RAY	m	Where are you going?
+SHARON	f	The head.   Do you mind?
+SANCHEZ	m	She's just gonna freshen up her makeup.
+RAY	m	You're wearing makeup?
+SHARON	f	That reminds me, Ray. You still have that eye-liner you borrowed from me?
+SHARON	f	There you are.
+SHARON	f	We thought you wouldn't show.    Why you sitting here?
+CATCH	m	I don't talk to a lot of people. Would you...?
+SHARON	f	I didn't have a chance to thank you. I'm Sharon Pogue.
+SHARON	f	You look familiar.
+CATCH	m	I guess I live on the beat you patrol.
+SHARON	f	Why would you do that -- jump a man with a gun?
+CATCH	m	He was going to shoot you.
+SHARON	f	He could've shot you. You have a death wish? You a bungee jumper?
+SHARON	f	What d'you think about it now?
+CATCH	m	I figure... it was worth the risk.
+SHARON	f	For someone you don't even know?
+CATCH	m	Yeah -- and for what you do. I think cops are great. Out there, trying to keep it safe. You know? Tough job. Firemen are everybody's heroes. Kids wave at firemen. People should wave at cops. Did you ever think about how many people are walking around this town because you saved them?
+SHARON	f	I never thought about it.
+CATCH	m	... because you helped them or because you arrested somebody who would've hurt them or because you just... did your job?
+SHARON	f	Now I'm walking around this town because of you. Ever think about that? Maybe you should be a cop.
+CATCH	m	Where do you want to be ten years from now?
+SHARON	f	What?
+CATCH	m	Somebody taught that to me. Kind of a shortcut. You ask somebody, what are your plans for tomorrow -- what're your dreams for ten years from now. It's supposed to get things started.
+SHARON	f	Does it work?
+CATCH	m	I never tried it.
+SHARON	f	Bullshit.
+CATCH	m	No. Really. I just remembered it -- God is my witness.
+SHARON	f	Not in here.    It's mostly cops.
+SHARON	f	You have a nice smile.
+SHARON	f	So... what were we talking about? Oh, yeah, you were giving me some line about starting a conversation.
+CATCH	m	The shortcut.
+SHARON	f	Okay.    I'll play.
+SHARON	f	Tomorrow I've got a night watch shift. If the weather clears, in the morning I'll go hiking. If it rains, I'll go to the gym -- and the laundromat. Ten years from now... I want to be living in some mountainous place.
+CATCH	m	Tibet?
+SHARON	f	Could be Tibet. Could be Colorado. Your turn.
+RAY	m	Hey, Pogo -- don't keep him all to yourself. Come on over, Lambert, join the group. We'll buy you dinner, give you a medal for saving Pogo's ass.
+SHARON	f	Actually, I'm kind of tired, Ray. I'm taking off.
+CATCH	m	Oh.     I'll... walk you to your car.
+CATCH	m	Thanks for the drink.
+RAY	m	Least we could do. We don't like her very much -- but we don't want to lose her.
+CATCH	m	Take care.
+SHARON	f	It's not a great neighborhood. Maybe I should walk you to your car.
+CATCH	m	I don't have a car.
+SHARON	f	Want a ride home?
+CATCH	m	Oh, thanks, but... I like to walk.
+SHARON	f	It's starting to rain.   Don't be a hero.
+SHARON	f	Okay... ten years from now, what d'you want to be doing?
+CATCH	m	Can you drive okay?
+CATCH	m	Y'know, I can picture you in Colorado.
+SHARON	f	Oh yeah?   What am I doing there?
+CATCH	m	Driving around... pissed off.
+SHARON	f	I'm not pissed off at you.
+CATCH	m	Give me some time.
+SHARON	f	Those guys  in the bar are my friends --  sort of. We work together,  we tell jokes and we bullshit,  but I can't say to them...
+CATCH	m	What?
+CATCH	m	Whew. I feel like we're boxing, and you've got me on the ropes. We'll do whatever you want.
+SHARON	f	What I want  is to know how you happened to  be walking by that parking lot  at that minute. What if you hadn' t been there?
+CATCH	m	I guess we were supposed to meet.
+SHARON	f	If you want -- you can come in for a minute.
+SHARON	f	Want a drink?
+CATCH	m	No thanks.
+SHARON	f	Sit down or something.
+CATCH	m	I'm circling awhile.
+SHARON	f	You're not supposed to look around. I didn't have time to straighten up.
+CATCH	m	So... it's more real this way.
+SHARON	f	It's rude.
+CATCH	m	Now that I'm in here, you seem mad about it.
+SHARON	f	I'm not mad. You'll know when I'm mad. I don't usually let somebody in here, but here you are. That's all. Let's talk about something stupid.
+CATCH	m	You first.
+SHARON	f	Okay -- one thing I don't believe is that 'supposed to' business. We were 'supposed to' meet. That sounds a little fringy to me, like something you might hear on public access TV. You believe that?
+CATCH	m	Some people say we each give off a particular odor -- that can only be detected by one other person's brain.
+SHARON	f	So, we... smell each other?   Who says that?
+CATCH	m	I have no idea. I'm more in the destiny school, we-met-in-another-life school. Do you believe that? Do you think when we die -- we come back in another form?
+SHARON	f	You mean like   a duck? No. I think dead is   dead. I've been thinking about   it all day -- and I don't want to   think about it anymore.
+SHARON	f	Why'd you do that?
+CATCH	m	See?   Now you're thinking about me.
+SHARON	f	Thanks for... coming up here.
+CATCH	m	Does that mean I'm going?
+SHARON	f	No.    You don't have to.    I...
+CATCH	m	You okay now?
+SHARON	f	Oh.    You're here as a medic.
+CATCH	m	Is this the mad part?
+SHARON	f	Maybe going is a good idea.
+CATCH	m	Can I come back some time?
+SHARON	f	Why?
+CATCH	m	Must be the smell.
+CATCH	m	I better go.
+SHARON	f	Oh, God.
+MAN	m	That's my car!     What the hell were you doing?
+CATCH	m	Nothing.    I just...
+MAN	m	I saw you!    What did you take out of there?!
+CATCH	m	No, I rolled up the window.       It's rain...
+MAN	m	You take my phone?!       Hah?!
+CATCH	m	Hey!   Hey!    Wake up!    Wake up!
+CATCH	m	I helped you. I helped you.
+CATCH	m	I'm sorry.
+CATCH	m	Oh.   Sorry.
+CANDACE	f	Shopping day?
+SHARON	f	It's looking great, Mom.
+MOTHER	f	Thanks, honey. It's the best year ever for the impatiens. The very best.
+MOTHER	f	Let's go in.
+SHARON	f	Looks the same. Still smells like cigarettes. I thought he quit.
+MOTHER	f	He's down to six a day.
+SHARON	f	Your hair looks nice.
+MOTHER	f	Are you well?
+SHARON	f	I guess I'm well. Is this always here?
+MOTHER	f	Yes.   It's always there.
+SHARON	f	Did Larry tell you I came by where he's working? Is that why you called me?
+MOTHER	f	I called because we want to invite you to our renewal of vows. It's three weeks from Saturday.
+SHARON	f	Who's 'we.'     You said 'we' want to invite you.
+MOTHER	f	The family.
+SHARON	f	How come you're renewing your vows?
+MOTHER	f	It's sort of... a fresh start.
+SHARON	f	Your idea?
+MOTHER	f	No. Both of us. It's a way of... having the marriage blessed.
+SHARON	f	Wasn't it blessed before?
+MOTHER	f	Sherry... of course it was blessed. You just...
+SHARON	f	I just what, Mom?
+MOTHER	f	You just think about the bad, and you never remember the good. I wish you remembered the good.
+SHARON	f	Sorry.  I wish I did, too. Does he? Remember any good about me?
+MOTHER	f	Of course. He doesn't hate you. He just... still feels hurt.
+SHARON	f	Hurt?    I hurt him?
+MOTHER	f	It wasn't as bad -- you always make it sound worse. And it hasn't been that way for years.
+SHARON	f	Mom, I'm your daughter. I don't want any trouble -- ever. I'll come to the ceremony. I won't come to argue, and I won't come in uniform.
+MOTHER	f	It's on the 23rd. Saint Monica's.
+SHARON	f	I'd like you to send me an invitation. Mrs. Vander said it's a beautiful invitation.
+MOTHER	f	I'll show you.
+SHARON	f	Mom. I'd like to get one... in the mail... from my family. Okay?
+MOTHER	f	Yes.
+SHARON	f	Tell Dad... thanks.
+SHARON	f	Damn it!
+SHARON	f	What?!     Who?!
+CATCH	m	It's me.
+SHARON	f	Oh, Jesus.
+SHARON	f	I was just falling asleep. Finally.
+CATCH	m	We made a date.
+SHARON	f	It wasn't a 'date.'
+SHARON	f	I need more sleep. Come back in a month.
+CATCH	m	Come back? What makes you think I'd come back here?
+SHARON	f	Then why are you here?
+CATCH	m	I'm here to tell you that when you tell someone you're going to be somewhere then that someone rearranges his life and you should be more aware of that and a lot more considerate instead of just...
+SHARON	f	What's in the bag?
+CATCH	m	What?   None of your business.
+SHARON	f	Did you bring some coffee?
+CATCH	m	You think you deserve coffee?
+SHARON	f	What else did you bring?   Food?
+CATCH	m	You definitely don't deserve food. I've got coffee, sugar, sweetener, non-dairy...
+SHARON	f	Just black.   Black. Thanks.
+SHARON	f	So what kind of life did you rearrange in order to get to Denny's? You never said one word about yourself last night. What d'you do?
+CATCH	m	What's the difference?
+SHARON	f	What's the difference?! You're standing in my bedroom. That's the difference. Who are you?
+CATCH	m	Somebody who keeps appointments.
+SHARON	f	You're ducking. Don't duck. Oh, shit -- you're married, right?
+CATCH	m	I'm not.
+SHARON	f	I don't believe you.
+CATCH	m	You don't believe me?   Give me back the coffee.
+SHARON	f	No.
+CATCH	m	Give me the coffee.
+SHARON	f	Oh, God. Oh, wait -- you're involved in some criminal activity, aren't you? Great -- That's all I need.
+CATCH	m	My name is Catch Lambert. I don't work. I don't commit any crimes. I like being with you. We can start from here -- from now.
+CATCH	m	And I need to start from here.
+SHARON	f	That's ridiculous. Why?
+CATCH	m	That's the way it is.
+SHARON	f	Oh.   Your rules.
+CATCH	m	My rules.
+SHARON	f	Jesus. Okay. Fine. I don't really want to know you anyway. Goodbye.
+SHARON	f	Your life.    I don't want any surprises.
+SHARON	f	That's all of it?
+CATCH	m	Yeah. Except for you -- the way I feel about you.
+SHARON	f	Which is?
+CATCH	m	Surprising.    I thought it was impossible.    I thought I was...
+SHARON	f	You thought you were what?       Gay?
+CATCH	m	Dead.   In a way.
+SHARON	f	I'm supposed to understand that?
+CATCH	m	No. Did you ever wonder what 'scratch' meant, when people say, 'we'll start from scratch'? This is scratch. We can start from here.
+SHARON	f	I don't know.    I just don't know.
+CATCH	m	Tell her what?
+ELANORA	f	Tell her, Catch. Tell somebody. It's been almost two years.
+CATCH	m	Nora...
+ELANORA	f	Every time I tell somebody, it gets a little bit easier. I'm not saying it goes...
+CATCH	m	Nora!
+ELANORA	f	She nice?
+CATCH	m	She's tough.
+ELANORA	f	She pretty?
+CATCH	m	That doesn't matter.
+ELANORA	f	She is pretty.
+ELANORA	f	It doesn't matter. We like it when men apologize.
+CATCH	m	I'm sorry I yelled at you.
+ELANORA	f	Have a cookie.     See?
+SANDERMAN	m	Sharon...
+SHARON	f	Lieutenant...
+SANDERMAN	m	Anything bothering you?
+SHARON	f	Why?   What'd I do?
+SANDERMAN	m	Nothing. I'm talking about your general attitude lately.
+SHARON	f	My attitude's fine. End of a long day. I'm tired.
+SANDERMAN	m	Family matters getting to you?
+SHARON	f	Family?!
+SANDERMAN	m	Your brother, Larry...
+SHARON	f	What about Larry?
+SANDERMAN	m	You know Nester -- on the Culver City P.D.? He went out on a violent domestic dispute yesterday. A neighbor called it in. It got a little ugly. No arrest -- a warning.
+SHARON	f	Larry.     Oh Christ.
+SANDERMAN	m	Nester said it's not the first time.
+SHARON	f	Thanks for telling me.
+LARRY	m	Jesus, you're up early.
+SHARON	f	I wanted to catch you before you went to work.
+LARRY	m	I thought you were on late shifts.
+SHARON	f	I don't sleep much. Can I come in?
+SHARON	f	I'll just say hello.
+KATHY	f	Don't make it worse.
+SHARON	f	It gets worse?
+KATHY	f	He's okay now. He's torn up about it. Don't make him mad.
+SHARON	f	When Larry and I were growing up, our mother said that all the time. 'Don't make your father mad.' Has he hit Larry Jr. yet?
+KATHY	f	He never would.
+SHARON	f	Oh.   Just you, huh?
+LARRY	m	What d'you think you're doing in my house, Shar? In my home.
+SHARON	f	You see a pattern here, bro?
+LARRY	m	I lost my temper. Things got out of hand. It won't...
+SHARON	f	People always say that: 'I've got a temper.' Like it's an excuse.
+KATHY	f	Don't hurt her, Lar...!
+SHARON	f	I know how it feels, 'cause I remember. I remember standing between you and Dad and taking the blows for you -- and for what?! You turned out to be just like him, you bastard. And so did I.
+LARRY	m	I bet you feel real proud of yourself, Shar, knocking me down in front of my family. You know what I've got in my hand? I've got a Polaroid picture of my busted-up face, and I'm thinking of sending it to your department, to your lieutenant. I'm going to turn you in to the police, Shar, and see how you like it.
+SHARON	f	Oh, God. Oh, shit.
+SHARON	f	It's you, right?
+SHARON	f	Can you just shut up?    Just shut up and listen.
+CATCH	m	I didn't say anything.
+SHARON	f	I don't want to talk. I don't care if you have to play some game and pretend you're a... 'angel of mercy' or... whatever. I don't care, but I don't want to hear about it. All right? I don't want to hear anything.
+SHARON	f	It's a bad night.
+SHARON	f	This is good... but I'm too tired to stand up anymore.
+SHARON	f	You want to kiss me?
+SHARON	f	Kiss me someplace I've never been kissed.
+SHARON	f	Why do you stop? You always stop.
+CATCH	m	Drive!
+CATCH	m	I'm not.
+SHARON	f	If you're in trouble with him, maybe I can help.
+CATCH	m	Forget about him. Somebody I used to know. I don't want to know him anymore. That's all. Forget about it. Walk with me.
+SHARON	f	This is not a great place to walk.
+CATCH	m	I like it here. It's fine.
+SHARON	f	I work here.   It's not fine.
+CATCH	m	What's the problem?
+SHARON	f	Besides the shootings, break-ins, rapes, cart thefts? We've got a loose dog raiding garbage cans, knocking 'em over. Can't catch him. Got somebody blowing a trumpet between midnight and three. Can't find him.
+SHARON	f	You know everybody here?
+CATCH	m	How's it goin'?
+YOUNG MAN	m	Goin' uphill, man.
+CATCH	m	You try it.
+SHARON	f	Try what?
+SHARON	f	I feel like a jerk. I feel like a smiley face.
+OLD MAN	m	Mornin'.
+MOM	f	Go on.
+MOM	f	Move your arm!
+MOM	f	What are you staring at?
+CATCH	m	She feels bad 'cause you yelled at her.
+MOM	f	It's none of your business!
+CATCH	m	Why not smile at her?   What's it cost?
+MOM	f	Who the hell are you to talk to me?!
+CATCH	m	You're so damn impatient.
+WOMAN	f	Get away from me!
+CATCH	m	You're so busy being pissed off, and time is going by.
+WOMAN	f	What?!
+CATCH	m	It's not her fault.
+WOMAN	f	I'm calling the police!
+CATCH	m	No.  I'm calling the police. Hey -- police.
+SHARON	f	Jesus Christ, Catch.
+CATCH	m	Maybe she'll think about it now.
+SHARON	f	Blind to what?!
+SHARON	f	Or like me, right? What about you? How come you can see?
+CATCH	m	I'll call you later -- about the hiking.
+SHARON	f	I'll be out.
+CATCH	m	Shar... wait.    Hey!
+CATCH	m	Do we go for... symmetry? Or... more off-center. Japanese.
+CATCH	m	Are you into this? Bob?
+LARRY	m	I don't want you around here.
+SHARON	f	Let's go talk in the yard.
+SHARON	f	You took a swing at me.
+LARRY	m	You asked for it -- calling me a coward. You knew I'd swing. You think I look bad now? Look at this.
+LARRY	m	Nice, huh? Beautiful. The cops'll love this, right? Evidence. Don't you guys love evidence?
+LARRY	m	You wanted me to swing.
+SHARON	f	I'm sorry I hit you so hard.
+LARRY	m	But you're not sorry you hit me.
+SHARON	f	Jesus, Larry, what about Kathy's face?!
+SHARON	f	Don't go to my department, all right?
+LARRY	m	Why the hell not?
+SHARON	f	Larry...
+LARRY	m	Why not?!
+SHARON	f	Because the job's all I got.
+LARRY	m	And I don't want you to come to Mom and Dad's celebration...
+LARRY	m	Not the church. Not the party. Stay away. I don't want you around. I don't want to see you, Shar.
+LARRY	m	Go get a life.
+SHARON	f	I got a life!
+SHARON	f	How the hell would you know about my life?!
+LARRY	m	I know.
+CATCH	m	Hey. Hey!   Can you wait up a minute?!
+SHARON	f	I thought you walked all over the city.
+CATCH	m	The city is flat. Okay? Can we stop here? Can we examine the view? Have a Milky Way? I've burned every calorie I ever had.
+SHARON	f	My favorite lunch spot is another half mile.
+CATCH	m	Up?!
+CATCH	m	I'm not one of those competitive guys, you know!
+CATCH	m	No thanks. I can't eat and have a heart attack at the same time.
+CATCH	m	As soon as you get happy, you get sad.
+SHARON	f	I'm okay.   Everything's code four.
+CATCH	m	Everything's what?
+SHARON	f	Everything's fine.
+CATCH	m	Fine? This isn't fine. I know fine. This is something else. Something happened yesterday.
+SHARON	f	Yesterday -- you mean you want to hear about it?
+CATCH	m	Sure I do.
+SHARON	f	No kidding. Why? You never talk about yesterday.
+CATCH	m	All my days are the same.
+SHARON	f	Yesterday. Okay. Yesterday we rolled on a 415. Juliette and Sanchez had these four guys against a wall, but they were H.D.B. and definitely unco-op. It got pretty jumpy, but we got them in the car with a couple of bruises and Robby got a sprained wrist, so I did the rest of the shift with a rookie who lost it over a D.B. in Sunset Park, old woman who'd been dead maybe six, seven days, and I usually do all right but the smell got to me, and I can still smell her. Then we arrested a prostitute working out of her home, and I carried her little girl out to the social worker, and the kid was holding on real tight and making my shoulder wet and I wanted to punch her rock-head mother, and then shift ended and I had a nice visit with my brother Larry.
+CATCH	m	I'm sorry. That would make anybody sad.
+SHARON	f	Sorry you asked?
+CATCH	m	No.   No, you can always tell me.
+SHARON	f	Well... I feel better now.    You feel better?
+CATCH	m	I feel fine.   Great.
+SHARON	f	What are you doing?!
+SHARON	f	Catch! There's no swimming here! And you can't be naked in a state park!
+CATCH	m	Take the day off, Pogo!
+SHARON	f	What if a park ranger comes?!
+CATCH	m	Take your badge off for once. Don't be such a damn Marine about everything. Just...
+CATCH	m	Someplace I've never been kissed.
+CATCH	m	They tell me I was in an accident. Long time ago.
+SHARON	f	Looks like a bad one.
+CATCH	m	I don't remember it.    I...
+SHARON	f	We should be thinking about lunch. We have to pack up.
+CATCH	m	So soon?
+SHARON	f	Some of us have to work. You ever work?
+SHARON	f	Oh?   You remember that?   Working?
+JACK	m	Catch -- Jesus!
+JACK	m	Okay. All right. So... what d'you want, a coffee?
+CATCH	m	I want my old job back. What d'you think?
+JACK	m	You been workin'?
+CATCH	m	No, but I'm up to speed.
+JACK	m	Well, it's not good with Randal anymore.
+CATCH	m	No?
+JACK	m	No, he's out of it, but Danny Coley's got something going. Wanna go see 'im?
+CATCH	m	Finish your coffee.
+SHARON	f	I have to check these jacket pockets. What's your name -- Allison?
+SHARON	f	I need to unsnap this, Allison. I'm checking your waistband. You got to Whitney School?
+ALLISON	f	St. Mark's.
+SHARON	f	Lift your arms higher. Got a good basketball team at St. Mark's. You play basketball?
+SHARON	f	He says before I came along, he thought he was dead. Sounds better when he says it -- Listen.
+ROBBY	m	What?
+SHARON	f	Shhh.   Sh!
+SHARON	f	The trumpet player.
+ROBBY	m	This time we got his ass.
+SHARON	f	Wow.
+ROBBY	m	Got 'im?
+SHARON	f	Look at that moon.
+ROBBY	m	Full moon, man. Hey!
+DRIVER	m	This guy's crazy!
+BAT-MAN	m	This asshole side-swiped me!
+SHARON	f	Are you McGuire?
+BAT-MAN	m	What?!
+SHARON	f	Mark McGuire?
+BAT-MAN	m	No.
+SHARON	f	Then put that bat away.   Put it in your trunk. Now.
+DRIVER	m	I never touched his car.
+CATCH	m	I better... More oil.
+CATCH	m	This is pretty.
+SHARON	f	Don't get oil on it.
+CATCH	m	Renewal of vows -- that's great. Is this your parents?
+CATCH	m	Why not?
+SHARON	f	If I go, my brother'll hurt    me with the department. I got     mad and knocked him down. All     they need is a complaint. Just     leave it alone and keep rubbing.     Okay?
+CATCH	m	So... he says you can't go?
+SHARON	f	Can't you rub without talking? It's been bad with my family a long time, so the hell with it anyway. If they don't want me there, I don't want to be there. All right?
+CATCH	m	All right. Bad how?
+SHARON	f	Oh, Jesus!
+SHARON	f	My father used to knock us around, all of us. But I'm the one who called the cops -- finally. They say I turned against the family.
+CATCH	m	But... they invited you.
+SHARON	f	You don't know anything about it. So forget it.
+CATCH	m	Well... I know about family.
+SHARON	f	Oh, yeah?   What about it?
+CATCH	m	It's... a door you don't close.
+SHARON	f	I didn't close the door.
+CATCH	m	You're closing it now. Right? Family invites you, you go. Family shows up, you welcome them in. That's family.
+CATCH	m	Then you forgive.
+SHARON	f	You have all the answers.
+CATCH	m	No. I just... It seems like a chance, doesn't it? A chance to make things right. I'd take it. Then you tried -- y'know? And it's up to them.
+SHARON	f	You close with your family?
+SHARON	f	Oh, God.
+RAY	m	Are you in danger there?
+SHARON	f	Go away.
+RAY	m	I was talking to him, Pogo.
+BIKER	m	Why the hell did you cause a wreck?! I told you -- I saw the kid, you idiot. I was...
+CATCH	m	One more word, and your life will change forever.
+SHARON	f	Catch!   Catch!
+SHARON	f	Are you all right? Your elbow's bleeding. I...
+SHARON	f	What's wrong?
+SHARON	f	Where are you going? Catch -- you're scaring me. Please...
+SHARON	f	Please, Catch, don't... Can't you talk to me?!
+SHARON	f	Please.   Wait.     I... Catch!
+ROBBY	m	Are you going to tell me why we're sitting outside this building again?
+ROBBY	m	What's it about?
+SHARON	f	It's personal.
+ROBBY	m	Fine -- what am I supposed to do?
+ELANORA	f	Catch?
+CATCH	m	I'll call you.
+SHARON	f	Give me fifteen.
+PINDELLA	?	Excuse me -- that's a private entrance...
+PINDELLA	?	Oh... is there a problem?
+SHARON	f	I'm not sure.    Who am I speaking to?
+PINDELLA	?	I'm Dr. Pindella.
+SHARON	f	What kind of doctor?
+PINDELLA	?	What is this?
+SHARON	f	Do you know a Catch Lambert?
+PINDELLA	?	Oh.   Yes!   Is he in trouble?
+SHARON	f	I... need to talk to you.
+PINDELLA	?	Well, I have a patient in five minutes. But I can...
+SHARON	f	Are you a...?
+PINDELLA	?	I'm a psychiatrist.
+SHARON	f	And Mr. Lambert...
+PINDELLA	?	My relationship with Mr. Lambert is confidential.
+SHARON	f	He's your patient. He's your patient we... know all this. This is police business. I'm officer Sharon Pogue -- L.A.P.D.
+PINDELLA	?	Look... I want to help Mr. Lambert but I can't tell you anything that isn't public record.
+SHARON	f	In general. In general.   He's your patient, and he...
+PINDELLA	?	He's not my patient. He walked away from treatment. That was... nearly a year ago.
+SHARON	f	Why did he walk away?
+PINDELLA	?	I can't discuss that, but if you know how to reach him, I would appreciate being able to talk to him.
+SHARON	f	More.
+PINDELLA	?	I can tell you he was in an accident, hospitalized, referred to me as an outpatient...
+SHARON	f	What accident?
+PINDELLA	?	A bus... a city bus hit his vehicle. That was a couple of years ago. It was... an awful thing. His family was in the van. His wife and child. His wife's parents...
+SHARON	f	A bus... and a van. Where?        On... the freeway?
+PINDELLA	?	I think so. Yes. Near Santa Monica.  On the freeway. He was severely injured but... thrown clear.  The others were trapped in the van.
+SHARON	f	Survivors?   Only him?      I... don't remember.
+PINDELLA	?	Remember?
+SHARON	f	Yes.   I was there. I was there.
+PINDELLA	?	His wife's mother survived, but... she was paralyzed.
+PINDELLA	?	Elanora Chu.   She's still in town, I believe.
+SHARON	f	Does he... still see her?
+PINDELLA	?	He used to. I don't know. I'm glad to see... he has someone else who cares about him. I know he's running from this. He left all his friends, his home, his whole life.
+SHARON	f	He says... he doesn't remember the accident.
+PINDELLA	?	He lost a lot of memory. I tried to help him with that. He resisted. Walked away.
+SHARON	f	I think he remembers me.
+SHARON	f	How does he live?
+SHARON	f	Catch, it's me. Can you pick up?
+SHARON	f	Why don't we... meet tomorrow? I'll be in Westwood. Can you meet me there? Westwood and Cole. About two o'clock. Okay?
+CATCH	m	Shar, I'm sorry about yesterday.
+SHARON	f	That's okay.
+CATCH	m	It's hard to explain, but it's... I'm okay now.
+SHARON	f	You don't have to explain.
+CATCH	m	So... why'd we meet here?
+SHARON	f	So you're the trumpet player who was waking people up -- on my beat.
+CATCH	m	I used to practice late... outside. On my roof.
+SHARON	f	On your roof? That's why we couldn't find you.
+CATCH	m	I didn't know it bothered anybody until you mentioned it. You arresting me?
+SHARON	f	Like I held you before.   Like I did -- at the accident.
+SHARON	f	What makes it so... unspeakable, Catch? What makes it like that?
+SHARON	f	Is it because you were driving?
+SHARON	f	I read the reports, and it wasn't your fault. It wasn't. Is it because you survived and they didn't?
+SHARON	f	Catch. Please. Hold on, and we'll go in there together...
+SHARON	f	You can talk to them. You can say goodbye or I love you or whatever...
+CATCH	m	This is wrong! It's wrong!   Why are you doing this?!
+SHARON	f	To help you.
+CATCH	m	I don't need your help! I don't need this. We don't need this -- we're fine...
+SHARON	f	We're not. We're not fine, Catch. Nothing is fine -- no matter how much you pretend.
+SHARON	f	You pretend that nothing happened. You walk all over the city helping people, but you're dying inside.
+CATCH	m	I'm not dying! I'm not pretending! I don't remember! I don't remember any of it. So leave me alone! What good does it do? It's gone! And I'm all right this way! Why do you have to change it? I'm all right.
+SHARON	f	Then walk in there.
+SHARON	f	Walk in there, and I'll walk in with you. Walk in there and say it's real -- what happened is real. Your family died.
+CATCH	m	Don't talk about that!    Don't!
+SHARON	f	So you can have a life!
+SHARON	f	Because it happened! Because it's the truth! I'm sorry. I'm so sorry it happened, but...
+CATCH	m	Nothing happened! If we say it, then that's the truth, that can be the truth. Say it. Nothing happened. Say it, Shar.
+SHARON	f	Catch -- take my hand.    Please.
+CATCH	m	Say it!    I'm asking you to say it.
+SHARON	f	I can't.
+CATCH	m	Why not?
+SHARON	f	Because I want it too much. I want everything with you. I want all of you -- not just the part that isn't hiding and running away...
+CATCH	m	Why are   you pushing so hard? Why does it   have to be your way? Why does it   have to be your truth? This is   who I am! This is the way I am!
+SHARON	f	Not anymore. It doesn't have to be this way anymore because you're not alone -- because we're the family now. We can be the family...
+CATCH	m	You like to push people, don't you? You just have to push and shove and make it right for you -- for you. You push everybody, Shar. You even pushed your family away, didn't you?
+SHARON	f	I just... want to say...
+CATCH	m	You already said it.   You said it all.
+SHARON	f	When you're ready, I'll be there for you. I just want to say that.
+RAY	m	Rib House after shift today?
+ROBBY	m	I think I'll head home.
+RAY	m	Pogo?   Bring your friend.
+SHARON	f	No, I think I'll turn vegetarian.
+SHARON	f	There's something I have to do.    I need an address and phone.
+ROBBY	m	What's the name?
+SHARON	f	Elanora Chu.
+ROBBY	m	Let's do it.
+ELANORA	f	Pogo?
+SHARON	f	I'm Sharon Pogue. I know all about the...
+ELANORA	f	Elanora.
+SHARON	f	I'm sorry for... what happened.     I know about the accident.
+ELANORA	f	He told you?!
+ELANORA	f	Oh.   Yes.
+SHARON	f	I guess he comes here a lot -- to talk to you.
+ELANORA	f	He shops for me. Twice a week.
+SHARON	f	Oh. And when he comes here -- he never mentions the past, never talks about the accident?
+ELANORA	f	No.
+SHARON	f	And you... let him do that?    All this time? Why?
+ELANORA	f	It's what he needs.
+SHARON	f	Walking all over the city like...
+ELANORA	f	Like an angel.     Yes. Sweet man.
+SHARON	f	But... you let him get so lost.
+ELANORA	f	I let him find his own way through it. Why did you come here, Sharon?
+SHARON	f	Because... I want to know how to help him.
+ELANORA	f	You are helping him.
+SHARON	f	I don't think so.
+ELANORA	f	Why not?
+SHARON	f	He... he was paying me back, I guess, for the accident, for helping him. That's why he felt... so close to me. But...
+ELANORA	f	Is that what you think?
+SHARON	f	But now he probably hates me.
+ELANORA	f	What happened?
+SHARON	f	I took him to the cemetery, and...
+ELANORA	f	The cemetery!
+SHARON	f	I thought it might help him... come back, you know? But he wouldn't even go in. He screamed at me.
+ELANORA	f	What made you take him there?
+SHARON	f	For the truth...
+ELANORA	f	He knows the truth.
+SHARON	f	But he won't even say it, or...
+ELANORA	f	That's his way. That's his way through all this. He made a wall -- around that whole day, that night -- other things, too. He keeps them behind the wall -- his little boy, my daughter. He can't help it. The cemetery?! Do you know how hard it is for me to go to the cemetery? Can you imagine?
+ELANORA	f	That's where it stares you in the face -- the loss. And it's too much sometimes.
+ELANORA	f	See? I'm still finding my way through it. And Catch -- it almost kills him to think about it or say it or drive a car or see the place where it happened or... go by the cemetery.
+SHARON	f	I was trying to help him... come back to some kind of life. I...
+ELANORA	f	But he was coming back. Do you realize how much he changed in the past weeks? His apartment, his life, his music is coming back. He fell in love! He even got a job, Sharon -- for you. For the two of you. Isn't that coming back? Why do you have to rush? Everybody has to rush these days.
+SHARON	f	I was scared. I push so hard... when I'm scared.
+ELANORA	f	Scared of what?
+SHARON	f	Losing him. So I did. I lost him. He won't talk to me. I... I didn't know what I was doing.
+ELANORA	f	You were finding your way.    What else can we do? You think    I'm always sure what to say to   him, what not to say? I do what    I think is right and hope he   sees the love in it.
+ELANORA	f	Look at you -- so worried now, so miserable. That's the love in it.
+SHARON	f	Did I... make it worse for him?
+ELANORA	f	I don't know. I really don't. But I think he'll see the love in what you did.
+SHARON	f	I just came by to... wish you well. To... congratulate you and wish you well. Shit.
+KATHY	f	She came.
+KATHY	f	Don't say anything.   Think of your parents.
+CATCH	m	Annie. Chet. I don't... want you to think I forgot about you. It's just that I... I couldn't find you. I woke up, and you were gone. Everything was gone. It all just... disappeared. In one minute. I couldn't remember that minute. I lost it. It took me so long to find it. I think I found it all now. I used a calculator. I did. I figured it out. You know... we get about 1400 minutes a day and so I figured it out. I was 33 years old and three months and eight days, so it was... I've got it here...
+CATCH	m	It was minute number 17 million eight hundred ten thousand, two hundred... or so.
+CATCH	m	That's the one I lost. And... when I lost that minute, I guess I tried to lose it all, all the memories -- because they hurt. I tried, but... I couldn't do it.
+CATCH	m	And then we all smiled, and it was a great minute. It was. I'm really glad... I found that minute. No matter what.
+CATCH	m	I won't forget... anymore.     I love you.
+SHARON	f	Where do you want me?
+SHARON	f	I'm the daughter.
+PHOTOGRAPHER	m	Oh!   Oh, well, how about...
+SHARON	f	You both look so great.
+MOTHER	f	You, too.
+SHARON	f	I just wanted to...
+FATHER	m	You coming to the party?
+SHARON	f	Sure.
+MRS. VANDER	f	Sherry!    Look how nice you look.
+HUSBAND	m	Big police officer now.
+SHARON	f	Not so big. Nice dress.
+SHARON	f	Larry...
+LARRY	m	How did you have the guts to walk into a church after breaking your word?
+SHARON	f	I have to be here. It's a chance to make things right, and I'm taking it.
+LARRY	m	Why even talk go me? You got what you wanted. You laugh about it? You tell your cop friends how you...
+MOTHER	f	Don't make him talk about... anything today.
+SHARON	f	Mom, I was going to fix his tie. His tie is crooked.
+SHARON	f	It was a nice ceremony.
+MOTHER	f	Yes. We're running out of chicken, though. Nobody's eating the ham.
+SHARON	f	It's a great party, Mom.   You look happy.
+SHARON	f	Thirty-five years and still in love, huh?
+MOTHER	f	You think that's wrong, don't you?
+SHARON	f	Of course not...
+MOTHER	f	I always... I feel like apologizing to you. But I love him.
+MOTHER	f	And then I feel like apologizing to him for loving you. I'm the one in the middle. I'm the only one in this family who knows how to forgive anybody.
+BOTH	m	You look great.
+KATHY	f	Tons of makeup. On Larry, too.
+SHARON	f	Sorry about that, but... I couldn't stand him doing that to you. I took it on...
+KATHY	f	Don't worry. I'm not your mother. If he tries it again, I'm gone. I'm out of there, me and Larry Junior. He knows that.
+LARRY	m	Stay away from my family.
+LARRY	m	Hey, everybody, keep it down. Somebody might call the police.
+SHARON	f	What're you doing?
+LARRY	m	Once the cops leave, we can really party.
+LARRY	m	Why don't you give everybody a break -- and go home?
+SHARON	f	Don't walk away. Okay?
+FATHER	m	What?
+SHARON	f	Is it working?     Do you need to check it?
+FATHER	m	It's fine.
+SHARON	f	Dad...
+LARRY	m	What the hell are you doing?!
+MOTHER	f	Sharon, please.
+SHARON	f	Please? Please what?! Will you stop protecting him? You were always protecting him! Don't talk to your father. Don't bother your father!
+SHARON	f	I'm going to bother you for one minute, Dad. Okay? Can you handle that?
+LARRY	m	Just get the hell out...
+FATHER	m	Up to you.
+SHARON	f	Dad... I'm asking. Am I welcome here?
+FATHER	m	Jesus -- you're here, aren't you? What d'you want?
+SHARON	f	I want to know! Do you want me here? Do you love me, Dad? I want to know.
+SHARON	f	Do you... need to... check that again?
+FATHER	m	I feel like...
+SHARON	f	What, Dad?   You feel like what?
+FATHER	m	I feel like I don't have a daughter anymore.
+SHARON	f	Well... you do. It's a shame you're going to miss knowing her. You're going to miss all that.
+SHARON	f	I'm next.
+SHARON	f	Hi, Mom and Dad. Congratulations.
+SHARON	f	Y'know... being in this house reminds me of something.  I was about ten, I guess, and Larry and I were playing aliens -- remember, Lar? We're making a lot  of noise, and Dad comes home from work tired and pissed off...
+SHARON	f	We're yelling like mad, and Dad bursts into the room and says, what the hell are you doing? And I'm scared. I'm really scared.
+SHARON	f	And I say, we're playing alien invasion, Dad, and he says, oh, yeah, I'll show you a damn invasion, and he picks me up, picks me up off the floor and throws me on the couch. I hit that couch and bounce off, and he grabs Larry and throws him on the couch, and then... then he starts making these monster sounds, and he says, we came to earth to kick ass, and I run at him and jump on him and he tosses me on the couch and then Larry, and we're laughing so hard I almost wet myself, and he keeps tossing us and growling and beeping, and it was... it was great. It was great, and I'm never going to forget that. Never. And I miss that. I miss it. So I just... I wanted to tell you tanks for that, Dad. Thanks. That's all. Bye.
+CATCH	m	Sorry, Shar.   For what I said.
+SHARON	f	Me, too.
+CATCH	m	Was it bad?
+SHARON	f	They don't like me in there.
+CATCH	m	Then they don't deserve you in there.
+SHARON	f	That's a nice thing to say.
+CATCH	m	It's not a thing to say.   It's the truth.
+CATCH	m	Why do you try so hard not to cry?
+SHARON	f	It's not fair.
+SHARON	f	It's not fair. Things got better for them because of what I did. Things got better, and I'd still do it. I'd do it all over again. And it's not fair they shut me out. It's not.
+CATCH	m	No.
+SHARON	f	It's not fair. I was     19, and I didn't know what else    to do. I didn't know how else    to stop it. It's not fair I don't    have a family anymore.
+CATCH	m	No.   It's not, Shar.    It's not.
+

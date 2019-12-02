@@ -1,0 +1,455 @@
+TRANSLATOR	m	He wants you to turn, look in camera  and say the lines.
+BOB	m	That's all he said?
+TRANSLATOR	m	Yes, turn to camera.
+BOB	m	Turn left or right?
+TRANSLATOR	m	Right side. And with intensity.
+BOB	m	Is that everything? It seemed like  he was saying a lot more.
+TRANSLATOR	m	Like an old friend, and into the  camera.
+DIRECTOR	m	Suntory Time!
+BOB	m	For relaxing times, make it Suntory  Time.
+TRANSLATOR	m	Could you do it slower, and with  more intensity?
+BOB	m	Okay.
+BOB	m	For relaxing times, make it Suntory  Time.
+BUSINESS GUY	m	Hey- you're Bob Harris- you're  awesome, man.
+ANOTHER BUSINESS GUY	m	Yeah, I love Sunset  Odds! BOB Oh,  Ok, thanks.
+BUSINESS GUY	m	Man, that car chase-
+WOMAN	f	Mr. Harris?
+BOB	m	Yes?
+WOMAN	f	Mr. Kazuzo sent me.
+BOB	m	Oh?
+WOMAN	f	Can I enter?
+WOMAN	f	Mr. Harris?
+BOB	m	Yes?
+WOMAN	f	Do you like massage?
+BOB	m	I don't think so.
+WOMAN	f	Mr. Kazuzo send Premium Fantasy.
+WOMAN	f	My stockings.
+BOB	m	Yes?
+WOMAN	f	Take them.
+WOMAN	f	No - Lip  them... Don't touch me!
+WOMAN	f	Lip my stockings!
+WOMAN	f	Lip them!
+BOB	m	Huh?
+BOB	m	Oh, you want me to rip them?
+WOMAN	f	Please let me go!
+WOMAN	f	Let me go!
+BOB	m	I think you should leave.
+MISS KAWASAKI	f	Mr. Harris
+PRESS AGENT	m	We just got a request from Tanabe  Mori-he is the Johnny Carson of Japan!  It is a big honor to be invited to  his show.
+MISS KAWASAKI	f	Can you stay until Friday?
+BOB	m	I'll have to see about that.
+BOB	m	Can you get me on a flight Thursday  night?
+ELAINE	f	We're looking into it Bob, but they  really want you to stay to do that  talk show Friday, apparently it's a  really big deal, he's the Johnny  Carson of Japan.
+BOB	m	Yeah, they told me.
+ELAINE	f	These people are paying you a lot,  do you think you could consider it?
+BOB	m	Just get me out of here as soon as  you can.
+ELAINE	f	Ok, you're scheduled to leave  Saturday, but we'll hold a seat  Thursday in case, but first class is  full, you're waitlisted for an  upgrade... there might be a seat on  Lufthansa...
+BOB	m	Oh, great. I'll talk to you later,  bye.
+PHOTOGRAPHER	m	Can you put hands close to face.
+BOB	m	Urn, I don't think so. How bout I  just hold the bottle.
+JAZZ SINGER	m	Thank you. We're glad to be here,  we're Sausalito.
+CHARLOTTE	f	Are you awake?
+CHARLOTTE	f	John?
+JOHN	m	Go to sleep.
+BOB	m	Good morning.
+BARTENDER	m	What can I get you?
+CHARLOTTE	f	I'm not sure.
+BOB	m	For relaxing times, make it�
+BOB & BARTENDER	m	'Suntory time'!
+CHARLOTTE	f	What are you doing here?
+BOB	m	My wife needs space, I don't know my  kids ' birthdays.  Everyone wants  Tiger Woods, but they could get me,  so I'm here doing a whiskey  commercial.
+CHARLOTTE	f	Oh.
+CHARLOTTE	f	I'll just have a beer.
+BOB	m	What about you? Why are you here?
+CHARLOTTE	f	My husband's here for work-he's a  photographer- and I just came  along...I'm not really doing anything  right now, and we have some friends  who live here.
+BOB	m	How long have you been married?
+CHARLOTTE	f	Two years.
+BOB	m	Try twenty-five.
+CHARLOTTE	f	You're probably just having a mid- life crisis. Did you buy a Porche?
+BOB	m	I'm thinking about it.
+CHARLOTTE	f	25 years... that's a long time...  Are you still in love with your wife?
+BOB	m	Yes... I don't know, I don't know  her anymore. I don't know if you can  be in love with one person the whole  time. I was... actually I was in  love with her sister first, when I  was twenty-one. And one day her sister  said to me she wanted to move to  Paris, so I said okay, and she said  no, she wanted to move to Paris with  Francois,   and she's still married  to him. And I moved in with Lydia...  but I always really liked Lydia.
+CHARLOTTE	f	Oh.
+BOB	m	What do you do?
+CHARLOTTE	f	I'm not sure, yet... I graduated  last spring.
+BOB	m	What did you study?
+CHARLOTTE	f	Philosophy.
+BOB	m	Oh, what do you do with that?
+CHARLOTTE	f	I don't know, but I can think about  it, a lot.
+BOB	m	It takes a while to figure it out.  I'm sure you will, though.
+CHARLOTTE	f	Thanks. I'm sure your mid-life crisis  will work out,too.
+BOB	m	Thanks.
+CHARLOTTE	f	I wish I could sleep BOB Me, too.
+KELLY	f	John! What are you doing here?
+JOHN	m	I'm just here shooting this band,  what about you?
+KELLY	f	Promoting that action movie I did...
+KELLY	f	...doing like twenty million  interviews a day... It's soo good to  see you. How long are you here for?
+JOHN	m	We're here for the week. I'm shooting  in Osaka for a few days.
+KELLY	f	It's amazing  there!
+JOHN	m	Have you met Charlotte? My wife.
+KELLY	f	No!  Hi! So great to meet you!
+CHARLOTTE	f	Hi, nice to meet you.
+KELLY	f	You know, John, you're my favorite  photographer, I only want to be shot  by you.
+JOHN	m	Uh..thanks.
+KELLY	f	Sorry if I have the worst B.O., I've  been sweating in this little room  with T.V. lights for hours...
+JOHN	m	Oh no...
+KELLY	f	...Well, I have the worst  headache,  I have to go find some aspirin. But,  call me, let's have a drink, I'm  under Evelyn Waugh.
+JOHN	m	Ok, see you later.
+CHARLOTTE	f	Evelyn Waugh?
+JOHN	m	What?
+CHARLOTTE	f	Evelyn Waugh was a man.
+JOHN	m	Oh, c'mon, she's nice.  Not everyone  went to Yale.
+JOHN	m	Its just a pseudonym, it doesn't  matter.
+CHARLOTTE	f	Why do you have to defend her?
+JOHN	m	I'm not, but do you have to point  out how stupid everyone is.
+CHARLOTTE	f	No, I thought it was funny. Forget  it.
+PRODUCER	m	We should get going.
+JOHN	m	OK, I'll see you later.
+CHARLOTTE	f	Hi, leave a message...
+VOICE MAIL	m	You have eighteen new messages. Press -
+MAN'S VOICE	m	Hi Charlotte, I don't know if you're  in town... but I'm having a birthday  party for my dog, Louise, tomorrow  night, at my house around eight...
+MOTHER	f	fabulous time in Japan!  How exciting,  and hope you and your adorable husband  are enjoying it...I was sitting next  to Cathryn Myles last night at this  dinner and she was telling me about  her daughter who had this awful  boyfriend and a messy break-up and  how hard it is,and now she's single  and wants to start a family, I'm so  glad that you're settled, and not in  that situation.  Anyway, call me  when you have a chance, I'm trying  to put Thanksgiving plans together,  whether we want to go skiing or.  Daddy wants to stay home and have it  here, which might be easier with  Lauren and the children, but let me  know what your feelings are, I do  hope you and John can make it. Call  me, I love you.
+VOICE MAIL	m	Charlotte hangs up
+SWEATY JOURNALIST	f	What was it like working with Keanu  Reeves?
+KELLY	f	It was great. I've known him for a  while now- you know we both live in  L.A. We both have dogs...
+DR. KENEGARD	?	Plato's text calls this image the  "paradeigma".  So the lot is the  image that is your inheritance, your  place on earth, all compacted into a  pattern that has been selected by  your soul before you even got here- or better said, that is always and  continually being selected by your  soul,because time does not enter the  equation of myth.-
+CHARLOTTE	f	How'd it go today?
+JOHN	m	Good...I'm tired.
+JOHN	m	I gotta go meet Kelly for a drink  downstairs. She wants to talk about  some photo thing.
+CHARLOTTE	f	Ok. Maybe I'll walk down with you.
+JOHN	m	You wanna come?
+CHARLOTTE	f	Sure.
+JOHN	m	Ok.
+KELLY	f	...My Dad was anorexic.
+CHARLOTTE	f	(she's never heard of that) Really?
+KELLY	f	He was on the American side at the  Bay of Pigs, in Cuba, and he was  taken prisoner, and they tortured  them about their food the whole time.
+BENZO	m	Where?
+KELLY	f	My dad fought on the American side  at the Bay of Pigs. So, when he was  a prisoner, they would tell them  they had put poison in their food  and they would make themselves throw  up... and when he got back, he did  better, but he still has food issues.  He has to have really clean food.   And really simple. He can't just go  have, say, Chinese food.
+JOHN	m	Oh, that's too bad.
+BENZO	m	How crazy is this shit?
+CHARLOTTE	f	Yeah, it is.
+KELLY	f	...Oh my god you have to try it,  this power cleanse is amazing- it's  lemon juice and grade B maple syrup  and cayenne pepper for seven days.  Just like a half a teaspoon of  cayenne. The first few days you're a  little scattered, but by day four -  it's amazing... my eyes were so  white...
+CHARLOTTE	f	Hi again, how's it going?
+BOB	m	Who do I have to fuck to get off  this planet?
+JOHN	m	No, what are you talking about.
+CHARLOTTE	f	I went to a temple today and I didn't  feel anything.
+JOHN	m	That's ok.
+CHARLOTTE	f	I don't know what to do.
+JOHN	m	That's ok, you'll figure it out.
+CHARLOTTE	f	You smell weird.
+JOHN	m	What?
+CHARLOTTE	f	Like popcorn?
+JOHN	m	I got some hair stuff.
+CHARLOTTE	f	Hair stuff?
+JOHN	m	I gotta go to work.
+JOHN	m	I'll be right down...I'm just  leaving...ok.
+JOHN	m	See you later.
+CHARLOTTE	f	Bye.
+CHARLOTTE	f	Lauren?
+LAUREN	f	Charlotte?! How's Tokyo?
+CHARLOTTE	f	It's cool... but,I don't know... I  went to a shrine today and all these  little monk's were chanting... and,  I didn't feel anything... I even  tried ikebana, ...   and John's using  hair products... I don't know who
+LAUREN	f	Oh, wait, can you hold on one sec?
+CHARLOTTE	f	Sure.
+LAUREN	f	Sorry about that, what were you  saying?
+CHARLOTTE	f	Oh, it's nothing... I better go,  I'll talk to you later.
+LAUREN	f	Ok, have fun there, you're so lucky  you don't have any kids yet and you  can go off to Japan... call me when  you get back.
+CHARLOTTE	f	Ok, bye.
+CHARLOTTE	f	Ouch.
+JOHN	m	At the fitting, they had all these  rock n roll clothes, the label guys  kept saying lock n loll, though, but  the band doesn't look tough at  all...they look better just skinny  and nerdy, like how when they came  in...they looked so uncomfortable in  these Keith Richards clothes, they  should just be like they are, don't  you think?
+CHARLOTTE	f	Yeah.
+JOHN	m	Yeah, I think you're probably right...  because when you try to...
+CHARLOTTE	f	Do you think it's done?
+JOHN	m	I don't know.
+JOHN	m	Will you please stop smoking?
+CHARLOTTE	f	But I like to... and I don't smoke  that much.
+JOHN	m	Its bad for you.
+CHARLOTTE	f	Ok, I will... later.
+JOHN	m	A Soul's Search: Finding Your True  Character and calling? Is this yours?
+CHARLOTTE	f	Oh... that's nothing, someone gave  it to me.
+JOHN	m	You don't have to be embarrassed.
+CHARLOTTE	f	I'm not. It's just corny, but I'm  not into it.
+JOHN	m	It's ok if you are.
+JOHN	m	Oh, the record company sent these...
+CHARLOTTE	f	Mmm, I love Cristal, let's have some.
+JOHN	m	I gotta go... and I don't really  like champagne.
+JOHN	m	Are you sure you want to stay?
+CHARLOTTE	f	Are you sure you have to go?
+CHARLOTTE	f	Yeah, I know you have to work the  whole time, I'll probably have more  fun here. I'll call Charlie and those  guys.
+JOHN	m	Ok, definitely call them, I'll be  back Friday. I love you.
+CHARLOTTE	f	I love you.
+CHARLOTTE	f	I miss you.
+JOHN	m	It'll just be a few days.
+CHARLOTTE	f	Oh, hi.
+BOB	m	Hi. Did you have a nice swim?
+CHARLOTTE	f	Yeah. Did you get some sleep?
+BOB	m	No, how about you?
+CHARLOTTE	f	Not really. How long are you here  for?
+BOB	m	I'm here for the week.
+CHARLOTTE	f	Oh, good. Do you want to go to a  party tonight with me and some friends  who live here?
+BOB	m	Ok.
+CHARLOTTE	f	See you later.
+CHARLOTTE	f	You really are having a mid-life  crisis.
+BOB	m	I know, it's stupid.
+BOB	m	A Soul's Search: Finding Your True  Calling - are you reading this?
+CHARLOTTE	f	No.
+BOB	m	I read it, too.
+CHARLOTTE	f	Charlie, this is Bob. Bob � Charlie  Brown.
+BOB	m	Hi, Charlie.
+CHARLOTTE	f	His real name's Hayashi, but someone  started calling him Charlie because  they thought he looked like Charlie  Brown. They've all got American  nicknames because its easier for me  to remember... they were just out in  L.A. last month doing a shoot with  John... that guy's Mr.Valentine,  he's the art director of their  magazine, I don't even know his real  name, or why I call him that.
+CHARLIE	m	This is Bambi.
+CHARLOTTE	f	Hi.
+BAMBI	f	How's california?
+CHARLOTTE	f	Good.
+BAMBI	f	Good... I like your swimming pool.
+CHARLOTTE	f	Thanks, you guys should come back  sometime.
+BAMBI	f	Yes.
+BAMBI	f	Kawaii.
+CHARLOTTE	f	What do you feel like singing, Bob?
+BOB	m	No way.
+CHARLOTTE	f	You bite your nails?
+CHARLOTTE	f	I could cut the ones that are left  for you.
+BOB	m	Ok.
+HANS	m	I'm Hans.
+CHARLOTTE	f	Hans?  Nice to meet you.
+CHARLIE	m	Make sure she gets home okay?
+BOB	m	I will.
+BOB	m	Are you ok?
+CHARLOTTE	f	I don't want to go home.
+BOB	m	I know. I don't either.
+BOB	m	Lydia?
+LYDIA	f	Hello, darling.
+BOB	m	Lydia, I went to this great house  tonight, this guy designed and built,  you would have loved it.
+LYDIA	f	Oh, yeah? I wish I had seen it.
+BOB	m	He was this fashion guy, and there  were all these Japanese fashion people- it's a whole other world, and I was  talking to these Japanese surfers...   He was playing all this great music-  I have to find out what it was...
+LYDIA	f	That sounds great � can you hold  on... What Zoe?
+ZOE	f	I don't want it.
+LYDIA	f	Well, you have to have something for  breakfast. Do you want cereal?
+ZOE	f	No.
+LYDIA	f	Just trying to get her to eat  something...I'm glad you're having  fun.
+BOB	m	Yeah, its really different here.
+LYDIA	f	Well, that's good, I have to get the  kids off for school.  Can I call you  in a little while?
+BOB	m	It's four in the morning... I'm going  to go to sleep.
+LYDIA	f	Ok, well... I love you.
+BOB	m	I love you, too, good-night, or good- morning .
+LYDIA	f	Good-night.
+BOB	m	Hello?
+CHARLOTTE	f	It's Charlotte.
+BOB	m	Charlotte, who?
+CHARLOTTE	f	Thanks for getting me back in one  piece.
+BOB	m	Of course.
+CHARLOTTE	f	Do you want to have some breakfast?
+BOB	m	Yeah, I'm going to take a shower and  I'll meet you downstairs.
+CHARLOTTE	f	OK, see you downstairs.
+CHARLOTTE	f	Hey look, it's Sausalito.
+BOB	m	I see them every morning.
+BOB	m	Hans was very attentive to you.
+CHARLOTTE	f	I think he kind of liked me...Is  that so hard to imagine?
+BOB	m	No, its easy.
+CHARLOTTE	f	How'd a Japanese guy get a name like  Hans?
+BOB	m	I don't know.
+CHARLOTTE	f	Do you remember when we met at the  bar? ...You were wearing a tuxedo.
+BOB	m	But the first time I saw you was in  the elevator.
+CHARLOTTE	f	Really?
+BOB	m	Yeah, you don't remember?
+CHARLOTTE	f	Did I scowl at you?
+BOB	m	No, you smiled.
+CHARLOTTE	f	I don't remember.
+BOB	m	I know, I kind of blend in here.
+CHARLOTTE	f	Why do they switch the r's and l's  here?
+BOB	m	I don't know. My fax said "have a  good fright".
+CHARLOTTE	f	Let's never come here again, because  it would never be as much fun.
+BOB	m	Ok, whatever you want.
+CHARLOTTE	f	Did you see Hiromix last night dancing  with Bambi?
+BOB	m	No, I was looking at you.
+CHARLOTTE	f	Oh.  Well... they were dancing on  the couch with that weird English  guy who kept talking about hanging  out with the Sex Pistols on Kings  Road...
+BOB	m	I got a fax today from your friend  Hiromix.
+CHARLOTTE	f	Oh, for her show?
+BOB	m	No, for a candlelight dinner, yes,  for her show.
+CHARLOTTE	f	Oh.
+BOB	m	You're possessive.
+CHARLOTTE	f	I know.
+CHARLOTTE	f	I'm stuck. Does it get easier.
+BOB	m	No, yes, it does...
+CHARLOTTE	f	Yeah? But look at you.
+BOB	m	Thanks. It does, the more you know  who you are... you don't care about  things the same way...
+CHARLOTTE	f	I just don't know what I'm supposed  to be. I thought maybe I wanted to  be a writer... but I hate what I  write, and I tried taking pictures,  but John's so good at that, and mine  are so mediocre... and every girl  goes through a photography phase,  like horses, you know dumb pictures  of your feet...
+BOB	m	You'll figure it out. I'm not worried  about you. Keep writing.
+CHARLOTTE	f	But, I'm mean.
+BOB	m	That's ok.
+CHARLOTTE	f	And marriage, does that get easier?
+BOB	m	It's hard. We started going to a  marriage counselor.
+CHARLOTTE	f	Did that help? Did you learn anything?
+BOB	m	We established that we have no  communication.
+CHARLOTTE	f	Oh.
+BOB	m	We used to have fun, she used to  like to go to places with me for my  movies and we would laugh at all the  weirdos, but now she's tired of it  all. She never wants to leave the  kids, she doesn't need me, and they  don't need me, I feel like I'm in  the way. It gets complicated when  you have kids... that changes  everything.
+CHARLOTTE	f	That's too scary.
+BOB	m	When they're born its like Vietnam.  It's terrifying.
+CHARLOTTE	f	No one ever tells you that...
+BOB	m	But, it's great being with them,  after they can talk, and can do things  with you.
+CHARLOTTE	f	That's nice. My parents were always  traveling, they weren't around so  much.
+BOB	m	Where'd you grow up?
+CHARLOTTE	f	In D.C., my dad was the Ambassador  to France in the eighties, so we  went to school in Paris for a few  years... but we mostly lived in D.C.,  and they were never around... and  then I moved to Los Angeles when  John and I got married... it's so  different there.
+BOB	m	I know.
+CHARLOTTE	f	John thinks I'm so snotty.
+BOB	m	You are.
+CHARLOTTE	f	I know, but that's what you like  about me.
+CHARLOTTE	f	Why do you have to be with your  opposite, why cant similar people be  together?
+BOB	m	Because that would be too easy.
+BOB	m	Hello?
+RECEPTION	m	Mr. Harris, we have fax for you!
+BOB	m	Ok.
+RECEPTION	m	Do you want I send it to your room?
+BOB	m	Great.
+RECEPTION	m	Thank you, Mr. Harris.
+BOB	m	Miss Kawasaki? It's Bob Harris...  I'm not going to be able to do that  interview today.., yeah... ok....  Yes, I'd love to stay to be on his  talk show... sure.. ok... bye.
+CHARLOTTE	f	You made it.
+BOB	m	They really have to work on that  street name thing.
+CHARLOTTE	f	What's that?
+BOB	m	It's for my daughter.
+CHARLOTTE	f	How old is she?
+BOB	m	Four.
+CHARLOTTE	f	Oh, she'll love it.
+BOB	m	Nice one.
+CHARLOTTE	f	Fuck off.
+BOB	m	What happened to your toe?
+CHARLOTTE	f	I don't know, I think maybe I broke  it? I knocked into something the  other day...
+BOB	m	That doesn't look good.
+CHARLOTTE	f	It's bad isn't it?
+BOB	m	We should get you to the doctor.
+CHARLOTTE	f	You think so?
+BOB	m	Yeah, look at that thing.
+BOB	m	How do you say "hospital" in Japanese?
+RECEPTION	m	Excuse me?
+BOB	m	Hospital?
+RECEPTION	m	One moment, please.
+CONCIERGE	m	Concierge desk, may I help you?
+BOB	m	Yes, can you tell me how to say  "hospital" in Japanese?
+CONCIERGE	m	"Hospital" in Japanese? Hosupitari.
+BOB	m	Hosupitari?
+BOB	m	Hello?
+ELAINE	f	Bob, it's me.
+BOB	m	Oh, hi, Elaine.
+ELAINE	f	So, we got you on an earlier flight,  but I really think you should think  about staying for that talk show.
+BOB	m	Ok.
+ELAINE	f	You'll do it?
+BOB	m	Yeah, I'll stay.
+CHARLOTTE	f	Is that for me?
+BOB	m	Hello?
+LYDIA	f	Bob?
+BOB	m	Hi, Lydia.
+LYDIA	f	Is this a bad time?
+BOB	m	Uh, no.
+LYDIA	f	(O.S.) It's really hard to reach  you... Did you get the carpet samples?  I like the burgundy.
+BOB	m	Ok, whatever you think... I'm lost.
+LYDIA	f	It's just carpet.
+BOB	m	That's not what I'm talking about.
+LYDIA	f	What are you talking about?
+BOB	m	I don't know.
+LYDIA	f	Is there anything I can do?
+BOB	m	I don't know... I want to be more  healthy. I want to eat better.
+LYDIA	f	What?
+BOB	m	You know, eat healthier.
+LYDIA	f	Alright?
+BOB	m	Not all that pasta.
+LYDIA	f	Fine.
+BOB	m	Like Japanese food.
+LYDIA	f	Why don't you just stay there, and  you can have it everyday.
+BOB	m	Oh, come on.
+LYDIA	f	I have to go, Adam's tormenting Zoe,  I'll talk to you later. Are you going  to be Ok?
+BOB	m	Yeah, I'll be fine. Bye.
+CHARLOTTE	f	Hi Bob, it's Charlotte... how are  you doing today?... I'm going to  meet Charlie and those guys at this  place called Orange around ten...  come meet us if you get this...
+CHARLOTTE	f	How long have you been here?
+CHARLOTTE	f	C'mon, let's go.
+BOB	m	Where's your husband?
+CHARLOTTE	f	Working.
+BOB	m	Do you ever see him?
+CHARLOTTE	f	Yeah.
+BOB	m	Do you know where we are?
+CHARLOTTE	f	No.
+CHARLOTTE	f	Isn't it weird there are no street  names in Tokyo... you'd think a city  like this would have street names...  you need a map to get anywhere...  look, there are no signs...
+CHARLOTTE	f	Um..Hi, John, if this is your phone?  I'm not sure...I'm going to go to  Kyoto for the day...I'11 try you  when I get back. Hope it's going  good... I love you, bye.
+TV HOST	m	We hear you're quite a golfer.
+BOB	m	I enjoy the sport.
+TRANSLATOR	m	They now have the competition for  you with the Iron Chef.
+CHARLOTTE	f	Rough night?
+CHARLOTTE	f	I'm going to Daikanyama, do you want  to come walk around?
+BOB	m	Yes, but no, I can't right now.
+CHARLOTTE	f	Oh, I guess you're busy, huh.
+BOB	m	I don't want to be.
+BOB	m	Hello?
+LYDIA	f	Hello, Bob, it's me.
+BOB	m	Hello?
+LYDIA	f	It's Lydia, your wife.
+BOB	m	I couldn't hear you. How are you?
+LYDIA	f	Fine. Is it going ok?
+BOB	m	It's ok.
+LYDIA	f	Do you want to-
+BOB	m	What?
+LYDIA	f	Do you want to talk to  Zoe?
+BOB	m	Yeah.
+LYDIA	f	Zoe, come say hello to your father...
+LYDIA	f	I guess she's busy.
+BOB	m	That's ok.
+LYDIA	f	When are you coming home?
+BOB	m	Tomorrow.
+LYDIA	f	Her ballet recital is Saturday, don't  forget.
+BOB	m	Ok.
+LYDIA	f	Ok, well, travel safely. See you  soon.
+BOB	m	Bye.
+CHARLOTTE	f	You can't get sushi anywhere in Japan  after 2 o'clock. Did you know that?
+BOB	m	No, we'll find something around here.
+CHARLOTTE	f	The Jazz singer? The red-head?
+CHARLOTTE	f	Well, I guess she's more around your  age...  You guys could talk about  things in common, like growing up in  the fifties.
+BOB	m	You're a brat, wasn't there anyone  else around to lavish you with  attention?
+CHARLOTTE	f	I can't tell the difference?
+BOB	m	We'll have two of these.
+BOB	m	What do you want to drink?
+CHARLOTTE	f	A coke.
+BOB	m	So, where'd you go today.
+CHARLOTTE	f	Around.
+CHARLOTTE	f	They're not going to play the whole  album, are they?
+BOB	m	I'm sorry.
+CHARLOTTE	f	That lunch was the worst, huh.
+CHARLOTTE	f	When are you leaving?
+BOB	m	Tomorrow.
+CHARLOTTE	f	I'm going to miss you.
+BOB	m	That's what you said the other night.
+CHARLOTTE	f	Well, I mean it more now.
+NEW SINGER	m	Good Evening. I'm Carl West, and  we're thrilled to be joining you  this week, here at the NY bar in  Shinjuku.
+SINGER	m	Jt seems we stood and talked like   this before,   we looked at  each  other in  the same way thenr   but   I cant remember where or when...
+BOB	m	I don't want to go back tomorrow.
+CHARLOTTE	f	I know. But, it doesn't last, you  have to go back sometime.
+BOB	m	Why can't it last?
+CHARLOTTE	f	I don't know, it just doesn't, reality  changes things....we can't stay here  forever, unless maybe we started a  Jazz band.
+SINGER	m	Somethings  that happen for the first  time,   seem to be happening again  and so it  seems we have met before,    and laughed before,   and loved  before,   but who knows where or  when...
+CHARLOTTE	f	54?
+RECEPTION	m	Hello? Yes?
+BOB	m	Hello, can I have room 5601.
+RECEPTION	m	One moment.
+RECEPTION	m	I will connect you.
+BOB	m	Uh...Hi, Charlotte... it's me, Bob...  ok, I guess you're not there... wanted  to say good-bye...
+BOB	m	Charlotte?
+CHARLOTTE	f	Hi, Bob.
+BOB	m	I'm just leaving.... do you have my  jacket?
+CHARLOTTE	f	Uh, yeah... I'll bring it down.
+BOB	m	That'd be great.
+CHARLOTT	f	E Ok, see you in a second.
+BOB	m	0hr hi.
+EXEC WOMAN	f	You're leaving?
+BOB	m	Yeah, yeah, I'm going.
+BOB	m	I have to go, thanks, bye.
+CHARLOTTE	f	Just saying good-bye to everyone  before you leave?
+BOB	m	Yes, no.
+BOB	m	Thanks.
+CHARLOTTE	f	That's it?
+CHARLOTTE	f	You're leaving right now?
+BOB	m	Yes.
+CHARLOTTE	f	Well... have a good flight.
+BOB	m	Thanks.
+CHARLOTTE	f	Ok, bye.
+BOB	m	Can you pull over a second?
+BOB	m	CHARLOTTE!
+BOB	m	Why are you crying?
+CHARLOTTE	f	I'll miss you.
+BOB	m	I know, I'm going to miss you, too.
+

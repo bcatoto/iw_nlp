@@ -1,0 +1,646 @@
+DEALER	m	House sees.
+PLAYER ONE	m	I'm out.
+DEBUTANTE	?	I see the deuce, and one to chase them home.
+NICK	m	Call.
+DEBUTANTE	?	Ladies, aces wired.  Sorry sport.
+NICK	m	Very nice, Barbie. Now, I'd take Ken over there and go home.
+DEBUTANTE	?	Why's that?
+NICK	m	It's time.  That's all.
+BOYFRIEND	m	The lady wants to play.  Someone should teach you to be a better loser, loser.
+NICK	m	Listen, Ken --
+BOYFRIEND	m	My name is not Ken --
+NICK	m	-- I'm offering you the benefit of my experience.
+DEBUTANTE	?	Looks like you have a lot of experience in places like this.  It was nice of them to relax the dress code for you.
+CHARLIE	m	Typical New York woman, big attitude, small apartment, no tits.
+CHARLIE	m	I think she got to you, pappy.
+NICK	m	You want a popsicle, go to Good Humor.  And don't call me 'pappy.'
+CHARLIE	m	Still, you gotta wonder how she'd look in handcuffs.
+NICK	m	Alley oop.
+ZACHARA	?	Settle down.  Hey, quiet... Please.
+NICK	m	SHUT THE HELL UP, GODDAMNIT!
+NICK	m	My name is Conklin.  Let's do this fast so I can go home.
+NICK	m	It's all yours.
+ZACHARA	?	Under section 216 of the New York State Penal code, I serve notice that this premise and it's occupants...
+CHARLIE	m	Whoa -- where do you think you're going, hotdog.
+NICK	m	Fabulous...
+CHARLIE	m	... It's not like you were slow or anything... I think you did just fine.  I think you did great.
+NICK	m	Thanks.
+CHARLIE	m	Hey, hey, where you goin'?
+NICK	m	Home.
+CHARLIE	m	Wait up.  You know the guy who did the Weismuller through the window --
+NICK	m	-- Cavello.  Ronnie Cavello.
+CHARLIE	m	You know him?
+NICK	m	He works for Frank Abolofia. Atlantic City.  Casinos.
+CHARLIE	m	So why dive through the glass for a nickel and dime bust?
+NICK	m	What's this?
+CHARLIE	m	Let go...
+CHARLIE	m	Back-up.
+NICK	m	Get rid of it.
+CHARLIE	m	Why?
+NICK	m	It's not regulation.  And the only way you're gonna stop anybody with it is to show it to him, and while he's laughing, you can shove it down his throat.
+CHARLIE	m	I'll get rid of it when you get rid of the egg-beater.
+CHARLIE	m	Nick, let's go hunting.  Bag Cavello.
+NICK	m	Charlie...
+NICK	m	... You still got shaving cream on your ear.
+NICK	m	Short shift?
+CONNIE	f	Yeah... I came to save you.  If you're hopeless, I'll pull the plug.
+CONNIE	f	It's getting too cold even for me, Nick.
+NICK	m	Connie...
+CONNIE	f	All right, how's the new partner?
+NICK	m	High spirits, desire, commitment.
+CONNIE	f	You'll take care of that.
+NICK	m	Give me a break, would you?
+CONNIE	f	If you give me one.
+NICK	m	Are you expecting anyone?
+CONNIE	f	I wasn't expecting you.
+CONNIE	f	Imagine a small, greasy Boy Scout.
+CHARLIE	m	... I found the goombah... Cavello. He's --
+NICK	m	-- I should tear your head off.
+CHARLIE	m	Whoa, I knew you were going to say that.  I absolutely anticipated that, Nick.  But I said to myself, Charlie, Charlie, we can move up on this, so go find Nicklaus... He'll be pissed for a moment, but then it'll dawn on him --
+NICK	m	-- Hey, I got a better chance of being hit by a bus then moving up.
+CHARLIE	m	... Look... they told me at the Greek's you were here.  I'm sorry, I never imagined...
+CHARLIE	m	I like her.  She's nice. For her age.
+CHARLIE	m	What are they doing now?
+NICK	m	Eating Scungilli, just like the last time you asked.
+CHARLIE	m	Who do you think the Jap is?
+NICK	m	Maybe Cavello's buying a Subaru. How would I know?
+CHARLIE	m	I don't blame you for being sore. It'll pass when we bag him.
+CHARLIE	m	Whatdaya think?  'Bostonians'. Eighty-five bucks. Girls go for shoes.  Second place they look. Hey, I read it in a magazine.
+NICK	m	Charlie, don't do anything.  Promise me?
+CHARLIE	m	What?
+NICK	m	Frank Abolofia.
+CHARLIE	m	The Wolf?
+NICK	m	Some party.
+CHARLIE	m	Maybe we should do something?
+NICK	m	Charlie, take your gum, stick it under your ass and keep it warm.
+NUMBER ONE	m	Give it to me.
+BUSINESSMAN	m	Go to hell.
+CHARLIE	m	What are you doing?
+NICK	m	Saving your life.
+ABOLOFIA	?	You people are wild... Wild.
+NICK	m	Police officers.  Everybody stay put. Get back up.
+CHARLIE	m	Police.
+CHARLIE	m	Call 911.  Tell them an officer needs assistance.  Say ten thirteen.
+CHARLIE	m	Do it, you dumb bastard!
+CHARLIE	m	NICK...!  Shit... SHIT!!
+NICK	m	On the ground, man.  NOW!!
+NICK	m	Yeah... sure, sure I'll be down.
+OLIVER	m	How big a package we talking about?
+NICK	m	This by this...
+OLIVER	m	Dope?
+NICK	m	Not in that company.
+OLIVER	m	The old man was a Japanese paper manufacturer.  Hotel room and rental car were full of it.
+CHARLIE	m	Full of what?
+OLIVER	m	Art and stationary paper.  Cavello had five hundred thousand in his attache case.
+OLIVER	m	One guy do all the damage?
+NICK	m	Yeah.
+OLIVER	m	Thought you knew your way around dark alleys, detective.
+TECHIE	?	... The old man's suit was Japanese. The hitter's was Saville row.  No I.D.  We're doing a peel now.
+TECHIE	?	There's something you got to see.
+TECHIE	?	What's wrong with this picture?
+CHARLIE	m	I got a tattoo.  Birdie on the ball. We all got them when we finished basic at Camp Lejune.
+NICK	m	Charlie.
+TECHIE	?	I thought you guys were trained observers?
+TECHIE	?	Eight fingers. Hey, it was a trick question.
+ABOLOFIA	?	He was with a friend, sure.  I shake hands with the guy and a minute later he's bleeding all over my socks.
+ATTORNEY	m	Will that do officers?  My client has had a terrible shock.
+NICK	m	Yeah, he's not used to seeing other people do the killing.
+ATTORNEY	m	I won't tolerate harassment!
+OLIVER	m	What about the package?
+ATTORNEY	m	We know nothing about it.
+ABOLOFIA	?	Hard to believe a trained police officer could let this kind of thing happen right in front of his face.
+NICK	m	I did make a mistake.  I let the wrong guy get hit.
+ABOLOFIA	?	Cheer up, Nick.  I'm sure it's easier to pick a dead man's pocket.
+ATTORNEY	m	That's it, we're through!
+OLIVER	m	Doesn't speak a word of English. And he won't speak Japanese either. No papers.  The Japanese embassy is very interested.
+NICK	m	Why?
+OLIVER	m	He's wanted in Japan.  They want him first.  Then we can have him.
+NICK	m	What?
+OLIVER	m	Japanese embassy talks to state department.  State talks to police plaza.  They to me and me to you. Shit rolls down hill.
+OLIVER	m	You and Charlie are taking the Jap home, tonight.
+NICK	m	What...?  What if I say no?
+OLIVER	m	Check your gun before you leave. They're not allowed in Japan.  It's a nice, safe country.
+NICK	m	Why me?
+OLIVER	m	They said send a detective if I could spare one. I can always spare you.
+NICK	m	You got something to say to me, Captain?
+OLIVER	m	Yeah.  Have a wonderful flight.
+CHARLIE	m	... Nick, you're the one that's always saying you never go anywhere.
+NICK	m	I was thinking the Poconos, Charlie. Maybe Vegas.
+CHARLIE	m	What are you missing?  Riding your motorcycle to the nurse's house. That shit is sadder than Ethiopia.
+NICK	m	Beats forty hours on a plane.
+CHARLIE	m	They say we got to turn around and come right back.  That's what they say.  I got a plan.
+CHARLIE	m	I call, right?  I say I got the dreaded thirty six-hour Asian shits from some raw clam and we stretch it into three days.  You and I become a driving force on the local Geisha scene.
+NICK	m	Not a prayer.
+CHARLIE	m	Hey, come on, big guy like you, cop from New York.  You're gonna be the biggest thing to hit town since Godzilla.
+CHARLIE	m	Says here, it's very impolite to touch someone while you're talking to them... Guess that means you can't talk and screw at the same time, huh, hotdog? What's the matter, no -- speaky-the- language?  Understand this:  You will never ever fuck with my partner again.
+NICK	m	Shut-up, Charlie.
+NICK	m	What'd you say?
+CHARLIE	m	Where is the subway station, please.
+NICK	m	Get a new book.
+CHARLIE	m	Nick... You up?
+NICK	m	No.
+CHARLIE	m	Nick, have I been a good partner?
+NICK	m	Number five with a bullet.
+CHARLIE	m	I just want you to know... I mean anybody who says you ever took has got to deal with me.
+NICK	m	Go to sleep, Charlie.
+CHARLIE	m	You didn't take, did you...?  You hear things.
+NICK	m	I worked the three nine in Queens, Charlie.
+CHARLIE	m	I didn't know.
+NICK	m	The lieutenant was on the pad along with the rest of the squad.  I was new, didn't know shit.  When the feathers flew, I got called in front of the special prosecutor.  It's on the top of my personnel file.  They think I'm dirty or I cut a deal. Doesn't leave you with a lot of friends either way.
+NICK	m	I might as well have done something. I've been paying for it every goddamn day since I got transferred...
+CHARLIE	m	Whoa.  Nick, we're in paradise.
+NAGASHIMA	m	Officers Conklin and -- and... ... gentlemen, welcome.  I am assistant inspector Nagashima.
+NICK	m	You going to take this crap off our hands?
+NAGASHIMA	m	Crap...?  Oh, the prisoner.  Yes.
+CHARLIE	m	Charlie.  Kon-ich-iwa.
+NAGASHIMA	m	If you will please give this to the customs inspector he will expidate -- expedite you.  We have a car and a driver outside.
+NICK	m	Right.
+CHARLIE	m	Arigato.
+NICK	m	Givin' you a book is like givin' a baby a gun.
+CHARLIE	m	Hey, when in Rome --
+NICK	m	In Rome, I'll bow.
+NICK	m	Inspector Nagashima told me to give you this.
+INSPECTOR	m	You must get in line behind the rest.
+NICK	m	We're cops.  Pol-ice-men.
+NICK	m	Fellas, get serious.
+MAN	m	Nick!
+KOBO	m	Thanks for the ride, detective.
+NICK	m	Cops!  He's our prisoner!
+NICK	m	What's going on?  We're the good guys!
+NICK	m	Get me something like an Identi-Kit and I'll give you a description.
+CHARLIE	m	There must be some witnesses from the airport?
+NICK	m	What is it, tea time?
+OHASHI	m	You lost a man we wanted for some time.  It was very incompetent on your part, officer.
+NICK	m	Incompetent is letting people waltz through a secure area wearing your uniforms, carrying official documents.
+NICK	m	I want a gun.
+OHASHI	m	It is not allowed.
+NICK	m	We're police officers.
+OHASHI	m	You're foreigners.
+NICK	m	Work with me.  I want your best detective.
+NICK	m	Hey, inspector, I don't intend to take the rap for this.
+OHASHI	m	Do you know what this is?
+OHASHI	m	It's a laundry list.  Go home, detective.
+NICK	m	Let's go.
+CHARLIE	m	Nick, we can't just --
+NICK	m	I said let's go, Charlie.
+OHASHI	m	What are you doing?!
+NICK	m	Your best detective, Ohashi.
+CHARLIE	m	... Detective Ich-iro Matsu-moto. Hey, we're getting Mr. Moto on our side.
+NICK	m	Let's grab some food.
+CHARLIE	m	First decent idea you've had.
+CHARLIE	m	Food... Food, here we go.  Tokyo offers a wide variety of food.  It's best to sample the local specialties, including sashaimi, soba, and world renown Kobe beef...
+CHARLIE	m	This should be it...
+NICK	m	You said that in the last two places.
+CHARLIE	m	Kore?  Doku?  Kore doku?
+NICK	m	Okay, you were right.
+CHARLIE	m	This the right place?
+NICK	m	I hope not.
+CHARLIE	m	Konichiwa.  Ichiro Matsumoto?
+CHARLIE	m	Getting very weird.
+NICK	m	I'd feel better if we had some heat.
+CHARLIE	m	Maybe we should bail?
+NICK	m	Think we could find our way back?
+MAN'S VOICE	m	Big shots from New York.  I like your style!
+ICH	m	Detective Ichiro Matsumoto.  I'm the man you're looking for.
+ICH	m	The man you are looking for, Kobo, was a member of the Samaguchi-gummi. A Yakuza.
+NICK	m	Where do we start looking for this guy?
+ICH	m	Where would you look for the mafia?
+CHARLIE	m	The back room at Lombardi's after the Columbus Day Parade.  Under the bed.  In the mayor's office. Everywhere.
+NICK	m	Where're you going, Ichiro?
+ICH	m	The mayor's office, under the bed, the back room at Lombardi's. And call me Ich.
+ICH	m	"Goodness, gracious, great balls of fire." To the killer.  Jerry Lee Lewis.
+NICK	m	Jerry Lee Lewis, Elvis, Dinky Doo And The Don't's.  Let's book, Charlie.  If he starts on Motown, we'll be here all night.
+ICH	m	No, this is the place for the young Yakuza.
+NICK	m	That's what you said in the last three piss pots.
+ICH	m	I love you people.  The music, the clothes, the movies... Japanese respect only what is Japanese.
+NICK	m	It's incredible.  Hit him or something.
+CHARLIE	m	I don't think he'd feel it.
+ICH	m	Americans change everything.  When I was young the city was wood and paper... I was ten when the bombers came.  I lived underground for three days.  When I came up, the city was gone... A ball of fire.
+ICH	m	It began to rain, Nick.  You know what color the rain was?
+ICH	m	Black... It was black from the ash. Very impressive.  You Americans, you could make black rain.
+CHARLIE	m	Say Ich, between friends, where can I grab some squish around here?
+ICH	m	Squid?
+CHARLIE	m	Pussy, ass, soft personnel.
+ICH	m	Ah, Joyce... How are you tonight?
+JOYCE	f	Hello, Ich.  Johnny Walker?
+NICK	m	Don't give him any more.
+JOYCE	f	He gets as much as he wants.
+CHARLIE	m	Hello hello, Charlie Skloaris.  New York City.
+CHARLIE	m	My partner and I are cops. We're on a very big assignment here. When do you get off?
+JOYCE	f	Right when you're being tucked into bed.
+ICH	m	You should be nicer to my American friends, Joyce.
+JOYCE	f	They wouldn't appreciate it, Ich. Trust me.
+ICH	m	Joyce can be nice.
+CHARLIE	m	What'd she say?
+ICH	m	That I should let you pay for the drinks. Kampai.
+ICH	m	... We got to keep looking.  Track him down!  Great balls of fire!
+NICK	m	What's the problem here?
+WOMAN	f	You don't speak the language.  I'll drop him off.
+ICH	m	Ah, Joyce...
+ICH	m	See you tomorrow!
+NICK	m	Not a prayer.
+CHARLIE	m	... He's a sorry old guy, but I like him.
+NICK	m	He couldn't find his ass with both hands.
+CHARLIE	m	Now that's the kind of motorcycle I want to see you on.
+NICK	m	Sure, a rice burning crotch rocket...
+CHARLIE	m	Nick, how we gonna bag this guy without any help?  Maybe I should work on that girl Joyce, she speaks the language.
+ICH	m	Nick!
+NICK	m	Give us a break...
+ICH	m	It's Ichiro.  Ich.
+NICK	m	Leave the rice cake outside and go home!
+ICH	m	There's been a murder.  Yakuza.  You should come.
+NICK	m	Could you fill me in?
+OHASHI	m	Why don't you ask your chief detective?
+NICK	m	Because I want you to tell me.
+OHASHI	m	The young are eating the old, something that usually doesn't happen here.
+NICK	m	Can we skip the poetry, inspector?
+OHASHI	m	There's a war, detective, between two rival groups.  The man who escaped, Kobo, leads the younger group.  They did this.
+ICH	m	Kobo's a wild boy.  He was a lieutenant in the Sammaguchi-gummi.
+OHASHI	m	Excellent, Officer Matsumoto.  How is your investigation going?
+ICH	m	Well, sir.  Thank you for giving me the opportunity to work with these distinguished gentlemen.
+POLICE LIEUTENANT	m	Looking for clues in the bottom of a sake bottle, Matsumoto?
+OHASHI	m	He's an officer of great distinction.
+CHARLIE	m	Hey, Ich has been helpful.
+OHASHI	m	Have you changed your mind and decided to go home, detective?
+NICK	m	Not until one of us bags Kobo. And it doesn't look like you're doing so hot.
+NICK	m	You know, Inspector, you take shit once, you take shit forever.
+ICH	m	I don't deserve Ohashi's respect.
+NICK	m	Why the hell not?
+ICH	m	I don't, that's all.
+CHARLIE	m	You cool, Ich?
+ICH	m	Cool?
+CHARLIE	m	You all right?  You okay?
+CHARLIE	m	What does Ichiro mean, anyway?
+ICH	m	What does Charlie mean?
+CHARLIE	m	Hey, all right.
+NICK	m	Charlie!
+NICK	m	It's a set-up...!  Charlie!
+NICK	m	Charlie!
+NICK	m	NO!!
+ICH	m	Nick!
+OHASHI	m	... You ignored me.  I don't care about what you want.  Get on a plane, detective Conklin.  Go home.
+NICK	m	He was my partner.
+NICK	m	I planned on catching him, Captain.
+NICK	m	He killed a police officer.
+RADIO	m	... That was the Bird, from the Blue Note years.  1230 hours and 72 degrees in central Osaka.  This is specialist Doug Dale, Tapestries in Jazz, on the Far East Network, armed forces radio...
+NICK	m	What happened?
+ICH	m	They made you leave your hotel... ... you caused a disturbance.
+ICH	m	It may be too soon to talk about it. When someone we care for dies we... ... keep something of their's.  A tie, a pen.
+NICK	m	Why weren't you at the platform?
+ICH	m	I couldn't keep up.  My shame is complete.
+ICH	m	You must leave?
+NICK	m	Yeah...
+ICH	m	I'll get him for you, Nick.
+NICK	m	Yakuza?
+NICK	m	... Smoking.
+CLERK	m	Aisle or window?
+CLERK	m	Aisle or window, sir?
+NICK	m	I want to cash it in.  Yen.
+NICK	m	Ichiro?
+NICK	m	What's tricks?
+JOYCE	f	Ich said you left.
+NICK	m	There was a change in plans.
+JOYCE	f	I'm sorry about your friend.
+JOYCE	f	Dead gaiijin's are big news.
+NICK	m	Gaiijin?
+JOYCE	f	An outside person.  A foreigner.  A barbarian.  You, me. More you.
+NICK	m	I could use some help.  Show me around.  I'll pay you for your time.
+JOYCE	f	I don't give tours.
+NICK	m	You can count on the truth from people who don't like you.
+JOYCE	f	You have a helluva way of asking for help.
+NICK	m	You have a helluva way of answering.
+JOYCE	f	Look, you need Ich.  I've been here five years and I still can't read all the street signs.
+NICK	m	Maybe I'm a quicker learner.
+JOYCE	f	I don't think so.
+ICH	m	Nicklaus-san.
+ICH	m	I've continued working on the case!
+NICK	m	I can see that.
+ICH	m	Joyce... A drink please. Kobo has disappeared.  My superiors don't trust me.
+ICH	m	Kobo's.  Taken off him when he was arrested in New York.
+ICH	m	I knew you'd come back.  You feel you have a debt you can never pay. But you will, even if it costs you your life.  Giri.  Honor.
+NICK	m	How'd you get this?
+ICH	m	I stole them.
+ICH	m	Partners, Nicklaus-san?
+NICK	m	Partners.
+JOYCE	f	Busy man.
+NICK	m	Know her?
+ICH	m	We can ask someone I used to work with.  A criminal.  Someone I pay money to...
+NICK	m	A snitch?
+NICK	m	What's he saying?
+ICH	m	He says they're very nice.  He wants to know if you have anymore.
+ICH	m	I'll ask him again.
+NICK	m	My turn.
+NICK	m	Who is she?
+ICH	m	Nick, stop.
+ICH	m	This man must be treated with respect.
+NICK	m	Aw, for Christ's sake.
+NICK	m	Now we're making progress.
+NICK	m	That's Kobo's girl?  He's sure?
+ICH	m	He's sure.
+ICH	m	Nick, no one's seen Kobo in three days.  He might not even be in Tokyo.
+NICK	m	Only one way to find out... Get her up in the morning and put her to bed at night.
+NICK	m	Think you could keep it to a dull roar?
+ICH	m	It's good manners.
+ICH	m	You said you could keep up with her! 'No problem, Nick-san.'
+NICK	m	No.  Don't say anything.  Don't do anything, and for Christ's sake, don't apologize!
+ICH	m	Nick...
+NICK	m	What'd I tell you?
+ICH	m	There she is!
+ICH	m	You dislike me.
+NICK	m	Did I say that?
+ICH	m	You toler -- yes, tolerate me.
+NICK	m	Are we getting married?
+ICH	m	I'm a joke.  They sent you to me to make a fool of you.
+NICK	m	You're doing fine, Ich.  Now drop it, okay?
+ICH	m	Sure.
+NICK	m	Let's book.
+NICK	m	Let's go.
+ICH	m	You can't do this.
+NICK	m	Call a cop.
+ICH	m	Nick...
+NICK	m	If you're gonna give me a hard time, wait outside.
+NICK	m	Not too shabby for a perfume pusher.
+ICH	m	Too bad it's not in yen.
+ICH	m	Work, lunch, groceries, laundry... Fabulous...
+NICK	m	Four goddamn days.  This is going nowhere...
+JOYCE	f	It's me.
+JOYCE	f	What's the latest?
+ICH	m	We'll get him, Joyce.
+JOYCE	f	She ever pull down her shades?
+NICK	m	Sure, but then I just pull out the photos.
+ICH	m	Chikuwa, Hampen, Kobu, Konnayaku, Ganmodoki --
+NICK	m	Ichiro --
+ICH	m	Broiled fish paste cake, Kelp roll, soybean curd, devils tongue --
+NICK	m	Smells like Bayonne at low tide.
+NICK	m	Whoa whoa...
+JOYCE	f	Don't be an ass.
+NICK	m	He's on duty.
+JOYCE	f	I paid for that.
+NICK	m	Alley oop!
+ICH	m	Yakuza.
+NICK	m	Good.  Very good...
+NICK	m	She disappeared... shit!
+ICH	m	You were too far behind.
+ICH	m	Don't say anything more.  Don't do anything.  And, for Christ's sake, don't apologize!
+ICH	m	Nicklaus-san!
+NICK	m	Hey, no hands, huh?
+ICH	m	You can't come in.  They don't want --
+NICK	m	Gaiijin.
+ICH	m	I'll check it out.
+NICK	m	If I smell one drop of Scotch on your breath, my friend --
+ICH	m	You can trust me.
+ICH	m	Let me up.
+HOSTESS	f	Sit, sweetie. Another Seagrams!
+ICH	m	I have to piss, gentlemen... I'm so sorry but I have to --
+NICK	m	I don't believe it... Son-of-a-bitch --
+ICH	m	I'm not drunk...
+NICK	m	We're through.  I mean it.  This is the end of the line, Matsumoto.
+ICH	m	Nick --
+NICK	m	Shut-up.
+ICH	m	You shut-up! Kobo is inside.  He's with Sugai, the head of the Summaguchi-clan.
+ICH	m	... A Godfather.  His man was killed at the printing plant.
+NICK	m	I want to yank Kobo.
+ICH	m	Not without a small army, Nicklaus- san.
+NICK	m	Ich, my name is Nick.  Not Nicklaus, not Nicklaus-san, not Nick-san. Nick.
+ICH	m	San is an honorable title.
+NICK	m	Shit...
+ICH	m	Nick?!
+JAPANESE MAN	m	People like Charlie are a dime a dozen.
+KOBO	m	Keep the change.
+NICK	m	I'm taking you back.
+KOBO	m	Here I am.
+KOBO	m	Charlie was a rookie...
+KOBO	m	... But you can take care of yourself.  You're 'the biggest thing to hit this town since Godzilla.'
+KOBO	m	What's the matter.  I'm right in front of you, Nick. But I was right in front of you when you let Charlie die.
+KOBO	m	Walk away again.  Maybe you'll get used to it.
+ICH	m	Nick!
+NICK	m	A few minutes faster, we might've nailed him.
+NICK	m	What's this?
+OHASHI	m	Your visa has expired.  Be on a plane in twenty-four hours or you will be deported.
+NICK	m	While you were hanging out at the visa office, we found the son-of-a- bitch.
+OHASHI	m	Look.
+OHASHI	m	You ruined an on-going investigation that could have gotten us more than one runner. I want a full report in the morning, officer.
+NICK	m	Maybe if you'd work with us --
+NICK	m	Hey...!
+OHASHI	m	Twenty-four hours, detective.
+NICK	m	Ohashi!
+ICH	m	Nick, stop!
+NICK	m	Damnit, Ichiro, I'm tired of people telling me what I can and can't do. No one ever solved anything sitting on their ass.
+NICK	m	The ice help?
+NICK	m	Where does this Sugai live?
+ICH	m	A resort city, Beppu.
+NICK	m	I want to go talk to him.
+ICH	m	What...?  Why?
+NICK	m	Because he knows how to get to our man.
+ICH	m	He'll never speak to a Gaiijin.
+NICK	m	I'll be a nice Gaiijin.
+NICK	m	The little bastard.  God bless him.
+ICH	m	It's very small.
+NICK	m	Big enough.
+ICH	m	It's illegal, Nick.
+NICK	m	It's a new deal. ... coming with me tomorrow?
+ICH	m	Sugai's not going to be impressed with your gun, Nick. No.  I won't put myself in danger for you anymore.
+NICK	m	Sure, pal.  You've got better things to do.
+NICK	m	You know where I can get a decent cup of coffee this time of night? I'm buying.
+JOYCE	f	Somebody must be suffering somewhere, you're being so nice.
+NICK	m	I need your help, Joyce.
+JOYCE	f	Where's Ich?
+NICK	m	Unavailable.
+JOYCE	f	I've heard of Sugai.  I've also heard of the emperor.  They're both national treasures.  One's a hood.
+NICK	m	I need someone to translate for me.
+JOYCE	f	My Japanese isn't that hot... Besides, you'll never get in.
+NICK	m	It's my last shot.  I have to be on a plane home tomorrow night.
+JOYCE	f	And I'm supposed to care?
+NICK	m	You could fake it.
+JOYCE	f	You're wrong to sell Ich short.
+NICK	m	He drinks.
+JOYCE	f	He's got a reason.
+JOYCE	f	His son hooked up with some bikers. Yakuza kids.  A cop shot him running from a robbery.
+JOYCE	f	A father doesn't out live that kind of thing here, much less a police officer...
+NICK	m	Where's the wife?
+JOYCE	f	You met her.
+JOYCE	f	The woman in the apartment.  She won't speak to him.  But she won't leave either.  Japan... Nice, huh?
+JOYCE	f	Not wound too tight...
+JOYCE	f	I'd invite you up but I know you'd hate the incense. I chant.
+NICK	m	What do you chant?
+JOYCE	f	'Nam oyo ranged kyo.'  You think it's dumb of course.
+NICK	m	Not if it works. I'll meet you at the train?
+JOYCE	f	I don't remember saying yes.
+NICK	m	I don't remember you saying no.
+JOYCE	f	They want your autograph.
+NICK	m	Who am I supposed to be?
+JOYCE	f	This little guy thinks you're Robert Redford... the other one thinks you're Charles Bronson...
+NICK	m	Tell them I'm not.
+JOYCE	f	They'll never go away.
+JOYCE	f	Mick Jagger?
+NICK	m	I'm sorry, Ichiro.  I lost it last night.  I shouldn't have hit you.
+NICK	m	What's in the box?
+ICH	m	For Sugai.  Caviar, French cheese, ham... If you come to apologize for interrupting his meeting, Sugai may feel obligated to see you.
+NICK	m	So I bring some cheese?
+JOYCE	f	Gifts are expected here.
+NICK	m	Hey, Ich... Thanks.  I'm glad you're here.  I mean it.
+NICK	m	They took the gift an hour ago.
+JOYCE	f	All's not lost.  There's a famous temple here.  We could chant.
+NICK	m	We're in?
+JOYCE	f	The cheese...
+JOYCE	f	Just you.
+SUGAI	f	I'll spare you the ritual.
+NICK	m	This supposed to impress me?
+SUGAI	f	Pick it up.  Look at it.
+SUGAI	f	Seven years work by the finest engraver.  Mass produced, sequentially numbered.  The best there has ever been, Mr. Conklin.
+NICK	m	I'm impressed.  But let's use the short form.  I'm looking for --
+SUGAI	f	-- Kobo... I know.  He killed two of my partners.  One in New York, one at the printing plant.
+NICK	m	I don't drink tea.
+SUGAI	f	I took Kobo from the street.  I gave him a home, a future... But my ways were too slow for him... I served seven years in prison for my boss when I was a young man.  Kobo wouldn't serve seven minutes for his Oyabun. He was supposed to take over this syndicate when I retired.
+NICK	m	I want him.
+SUGAI	f	He'll be dealt with.
+SUGAI	f	Our associates in New York were close to closing a deal with us.
+NICK	m	The families who control the casinos?
+SUGAI	f	Yes.  Unlike our syndicates, your criminals don't understand the words 'honor' and 'duty'... We can't afford not to deal with them.
+SUGAI	f	Imagine if your families could pay their gambling and drug debts with perfect counterfeit bought for cents on the dollar.
+NICK	m	The Feds would be onto you in a month.
+SUGAI	f	Not with these bills.  And even if it only took them six months, do you know what our profit margin would be?
+NICK	m	Why tell me this?
+SUGAI	f	The other plate is currently in New York, in the hands of Kobo's man. Find it for me.
+NICK	m	You trust me?
+SUGAI	f	I'll pay you.
+NICK	m	With these?
+SUGAI	f	Swiss bank deposit.  Gold bullion. Whatever you want.  You know the city and the police.
+NICK	m	If I say no?
+SUGAI	f	You're smarter than Kobo.  You know the price of deceit.  Think about it.
+NICK	m	I don't have to.
+NICK	m	I have ten hours to grab my man.
+NICK	m	You won't get hurt.
+ICH	m	No...
+NICK	m	Let's go.  Him first.
+ICH	m	Nick, you can't do this.
+NICK	m	It's done. You don't have to come.
+NICK	m	Explain to them.  They shoot me, they kill you.
+NICK	m	Grab the keys, Ich, and get inside.
+ICH	m	No.
+NICK	m	Not now, man, okay, not now.  Work with me.
+ICH	m	You don't know what you're doing.
+NICK	m	Start it.
+ICH	m	I can't...
+JOYCE	f	Slide over.
+NICK	m	Where's somewhere safe?
+JOYCE	f	You came up with the first part.
+SUGAI	f	Kobo will meet me here tomorrow. Ten a.m.
+NICK	m	Good.
+SUGAI	f	He'll find out you took me.  I'm unprotected.  He'll kill us.  All of us.  You don't stand a chance.
+NICK	m	Not if we're careful.
+JOYCE	f	You're out of your mind.  I'm leaving.
+JOYCE	f	You'll get Ich killed.
+NICK	m	No one's keeping him here.
+JOYCE	f	Bullshit, Nick.  And don't tell me this is all just about Charlie. It's not.
+NICK	m	Why would you care?
+JOYCE	f	Bastard...
+JOYCE	f	Let go.
+JOYCE	f	You're out of your mind.
+JOYCE	f	I still think you're a bastard.
+NICK	m	What if I chant?
+JOYCE	f	Wouldn't help. Watch out for Ich.
+NICK	m	Better wake him up.
+SUGAI	f	Contact your associate in New York and tell him to hand my plate over to Abolofia.
+SUGAI	f	You have betrayed the syndicate and personally dishonored me.  I would rather the deal fell through than...
+KOBO	m	No... I'll arrange it.
+SUGAI	f	Abolofia's person has received the plate.  It's done.
+SUGAI	f	I wanted you to see him like this.
+GIRL	f	Let him go, father.
+GIRL	f	You're too old...
+SUGAI	f	That's enough.
+NICK	m	That wasn't our deal.
+SUGAI	f	You want him dead too.
+NICK	m	After a court convicts him.  He belongs to me.
+SUGAI	f	If anything happens to Abolofia or my plate, detective...
+NICK	m	Just one, compadre... Kampai.
+ICH	m	Kampai.
+NICK	m	It took 12 years to make it, you could take five minutes to drink it.
+NICK	m	You did great, Ichiro.
+ICH	m	I called Ohashi, he'll be waiting. I like him waiting.
+ICH	m	Needs ice.
+KOBO	m	Ugly... A couple of thousand years they've been bound by these little rules.  Looking in.  Always afraid. Ugly little lives...
+NICK	m	Save it, I already took the tour.
+KOBO	m	You are a lucky man.  Where you come from a man can stand out.  It's expected.  Here a man is made to look a fool for standing out.
+KOBO	m	I like your friend, Joyce.  You're lucky.
+NICK	m	Guess I'm on a roll.
+KOBO	m	She's such a long way home for you.
+NICK	m	Time, I've got plenty of.
+NICK	m	Hey, hey, come on, blow...
+KOBO	m	This is my stop.
+NICK	m	I'm amused.
+KOBO	m	Don't be.
+KOBO	m	I have her.
+KOBO	m	I'll kill her.
+KOBO	m	I want the plate from your pal, Sugai.  When you get it, you get her.
+NICK	m	Sugai won't give it to me, you know that.
+KOBO	m	Then take it from him.
+NICK	m	Ichiro?!
+NICK	m	Where's Ohashi?
+NICK	m	What the hell are you doing?!
+OHASHI	m	Your plane leaves at six.  Two officers will escort you.
+NICK	m	For God's sake, Ohashi, I need your help.  Let me out of here!
+OHASHI	m	You had my help, detective.
+NICK	m	If anything happens to her while I'm here --
+OHASHI	m	-- Do you know where she is, detective?  Do you know how to find her?  Even where to start?  We will find them.
+NICK	m	I have to get to Sugai.
+OHASHI	m	Goodbye, officer.
+NICK	m	OHASHI!
+KOBO	m	Yes.  Do it.
+ICH	m	I'll tell you one thing.  You can't solve a thing sitting on your ass.
+NICK	m	I was ready to have your ass for taking off on me.
+ICH	m	I followed them.  An hour from the train station.
+NICK	m	How many men?
+ICH	m	I couldn't tell.
+NICK	m	Joyce?
+ICH	m	I don't know.
+NICK	m	We need the plate to negotiate with.
+NICK	m	You know, Ichiro, you just burned your bridges.
+ICH	m	Rest.
+ICH	m	Someone attacked him.
+NICK	m	Now we've got nothing to negotiate with.
+NICK	m	Joyce told me about your family. It's tough...
+ICH	m	Thank you. You have one?
+NICK	m	A wife.  She left.
+ICH	m	I'm sorry.
+NICK	m	Me too.
+NICK	m	Let's go.
+NICK	m	What's that for?
+ICH	m	Luck.
+NICK	m	Thanks.
+ICH	m	You know, Nick, we can't lose.
+NICK	m	Why's that?
+ICH	m	Because we're the biggest things to hit this town since Godzilla.
+ICH	m	What are you going to do?
+KOBO	m	Still on your knees, Nick?
+KOBO	m	There's nothing you can do for me anymore.  I have the plate.  Sugai's dead.  No there is something.
+KOBO	m	You can tell me who I should shoot first.
+NICK	m	You all right?
+ICH	m	Yes...
+NICK	m	Call for help.
+KOBO	m	Bang... bang...
+KOBO	m	... You're dead.
+NICK	m	Keep the change.
+ICH	m	Constable Ichiro Matsumoto presents captured prisoner Kobo, Chief Inspector Ohashi.
+OHASHI	m	Inspector Ohashi will take charge of the prisoner.
+NICK	m	Can't make you change your mind?
+JOYCE	f	Last time you asked me to come along I nearly got a hole in my head.
+NICK	m	Might be different in New York.
+JOYCE	f	Maybe.  If I come visit, we can find out.
+NICK	m	I'd like that.
+ICH	m	You can do it.
+ICH	m	Louder, pal, louder.
+NICK	m	Joyce, give the assistant Chief Inspector a drink, would you?
+OLIVER	m	... Remember, counterfeiting is the Feds.  They'll be all over Abolofia's place.  Stick tight. You I.D. the other plate, he does real time.
+NICK	m	Right.
+OLIVER	m	You know, Nick, if you'd held on to that plate, you could've been a very rich man.
+NICK	m	Never crossed my mind.
+OLIVER	m	Be careful on the run.
+SERGEANT	m	Saddle up.  Hard team in the first unit.  Conklin, your RMP awaits.
+NICK	m	Sure you want to come?  Probably better than the Greyline Tour.
+ICH	m	You wouldn't make it without me.
+ICH	m	Think we'll get him, Nick?
+NICK	m	We can't lose.
+ICH	m	How can you be so sure?
+NICK	m	Cause you're the biggest thing to hit this town since...
+

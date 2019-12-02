@@ -1,0 +1,777 @@
+CHIEF	m	This is it.
+LANKY	m	Why did it have to be these caves...
+COLLEGE BOY	m	Is something wrong?
+LANKY	m	Don't mind me, buddy. It's nothin'.
+CHIEF	m	Let's get that first barrel.
+COLLEGE BOY	m	What's with the awkward silence?
+LANKY	m	You don't know?
+CHIEF	m	Last winter, a man kidnapped a little  girl and holed up in one of these  caves. The cops had him pinned down  and began to move in. This guy started  shooting... but he wasn't aiming at  the officers... ...he was firing at something inside.
+CHIEF	m	When the dust cleared, all they found  was the little girl's shoes. With the feet still in 'em.
+COLLEGE BOY	m	Ahh!!!
+COLLEGE BOY	m	Assholes.
+CHIEF	m	Hey, relax, I nearly shit myself  when my boss pulled that one on me.
+LANKY	m	I went well beyond nearly.
+CHIEF	m	What was that?
+COLLEGE BOY	m	Once was plenty, fellas.
+CHIEF	m	Shhhh...
+MEAN GREEN	m	Stop it right there! You will not  rape Mother Nature one more day!
+CHIEF	m	Whoa! Whoa! Whoa!
+HIPPIE GROUP	m	Mother Nature is not a whore/Don't  dump in her any-more/Mother Nature  is not a whore/Don't dump in her any- more...
+CHIEF	m	Take it easy! We have a permit!
+MEAN GREEN	m	And we have an injunction from the  State to prevent any dumping in these  caverns! This is virgin land! The  aqueducts in these caves bring  drinking water to our families, and  its piping provides drainage for our  farms that enrich this barren land!  And it won't be tainted by waste of  any kind! Not now! Not ever!
+CHIEF	m	Fine, just back off!
+CHIEF	m	Let's roll... Now-now-now!
+CHIEF	m	How do you guys always know where  we're going?
+MEAN GREEN	m	I'll tell ya next time! NOW MOVE IT!
+MEAN GREEN	m	Score one for the green team!!!
+BEARDED CAMERAMAN	m	Hey, man, that was righteous, but I  need a shot with the sign up.
+MEAN GREEN	m	We saved you today, ol' gal.
+FUZZY	m	Oh, fuck!
+MEAN GREEN	m	Sister, why do you always swing for  the fences?
+FUZZY	m	It's okay, but I... I think I see  something in there... something shiny.
+FUZZY	m	Oh my, it looks like diamonds!
+MEAN GREEN	m	Give me the keys!!!
+COACH	m	They took my laptop with my PowerPoint  presentation, my Blackberry, my  cell... And to top it off, my car  crapped out on the side of the road!  I'm not making the conference and I  have fourteen leads waiting for me.  You gotta help me out here. I'm not  kidding, I've have fourteen PRIMO  leads waiting in the lobby of the  Mariott... MARIOTT...
+COACH	m	Son of a -- In with anger, out with love.
+PARA	m	Hey...
+BOZO	m	Shut up, fag.
+EDGY CAT	m	You're late!
+BOZO	m	Don't dilly-dally then. Rack 'em!
+BEER GUY	m	I mean, we'd been together for so  long and then... bang! She drops me.  Since then, it's been like a damn  country song: she's gone, the car's  repossessed, and a father figure  made a pass at me. I'm not saying I  ever had it. But I have definitely  lost it. Now I haul this swill from armpit to  armpit. I used to be a model for  Christ's sake.
+COACH	m	For what, may I ask?
+BEER GUY	m	JC Penny. Spring wear.
+COACH	m	You know, Chach, catching you at  this low point is pure serendipity.
+BEER GUY	m	Why is that?
+COACH	m	Because I take the rubble of man and  build superstars. In my briefcase  here is a doorway to a self-help  sensation. Give me a minute, because  I'd like to buy you a drink and change  your life forever. I have a brochure --
+BARTENDER	m	Save it. We don't deal in pamphlets  'round here. We stick to chemistry.  And his drinks are on me.
+BARTENDER	m	Was that the last keg?
+BEER GUY	m	Yup, one keg of Beast for the  basement, then the truck's dry.
+BARTENDER	m	If you're stayin', move the truck,  boss gets pissed about you using  primo parking.
+BEER GUY	m	Right, 'cause this joint's hopping.
+NEWSCASTER	?	...the search for the missing  protesters will be further complicated  by the unstable conditions of these  deep tunnels. Thus far, no sign of  life has been detected, yet town  officials are still optimistic.
+NEWSCASTER	?	On a brighter note, or should I say  a darker note, tomorrow's solar  eclipse will bring out adults and  children alike for a citywide fair  of this metrological event. Stay  tuned for our man on the street to  take a closer look...
+BOSS MAN	m	Listen, bud. I got a load ready to  move and your man's not here.
+ROADIE	m	He's coming. Relax. And if he doesn't  show --
+BOSS MAN	m	We got a problem.
+TRAMPY	f	He said there was no reason I had to  stay a teller and that if I did good  work and didn't mess up, I could  become an assistant manager within  three years. Can you believe that?
+ADULTERER	?	That sounds great.
+TRAMPY	f	That sounds like bullshit! I could  be an assistant manager at The Lake  Arrowhead Casino for knowing the  fuckin' alphabet to G! I'll be twenty  in three months...
+ADULTERER	?	Just bring the whole bottle.
+BELLE	f	If I could made that kind of money,  I'd be in Hollywood next week.
+TUFFY	?	'Round here, there are ways.
+EDGY CAT	m	That cash is gonna look much better  in my pocket.
+BOZO	m	Ya know, that deer only looks scared  when you're in the room.
+PARA	m	Excuse me, please.
+EDGY CAT	m	Jesus!
+EDGY CAT	m	That's all she wrote...
+EDGY CAT	m	What?!
+BOZO	m	Ohhh, now that's a rough one.
+EDGY CAT	m	That's motherfuckin' impossible!
+BOZO	m	Yoh anga will be yoh downfah. Go  again?
+EDGY CAT	m	Goddamn it! NO!
+BOZO	m	Oh, come on. Crape Diem!
+BOZO	m	Wake up! Check your pants!
+GRANDPA	m	Get outta here.
+BOZO	m	What's that? Wha'cha say? Huh? How much for the whole night, Grandma?
+GRANDMA	f	You should be so lucky.
+GRANDPA	m	This one will stun ya, but this one  will put ya to sleep.
+BOZO	m	Whoa!
+BOZO	m	You boys wanna try your luck at the  loot?
+BOZO	m	Come on, I'll even throw with my  left hand.
+BOZO	m	Nothin' but a bunch of butts and  pussies in here!
+BELLE	f	Shit! Shit! Shit!
+BARTENDER	m	Don't sweat it, just clean it up  before he's done.
+TUFFY	?	Keep these on, sweetheart.
+CODY	m	Mommy, I want Nemo.
+TUFFY	?	Mommy's working on it.
+TUFFY	?	Let's get this over with.
+BOSS MAN	m	I love a woman with enthusiasm.
+BOZO	m	I got two hundred bucks says none of  you can beat me!
+BARTENDER	m	Hey! Get quiet or get out.
+BOZO	m	C'mon guys --
+BOZO	m	Gimme some ACTION --
+HERO	m	Unless you people want to die you'll  do what I say and you'll do it fast!
+BARTENDER	m	You hold it right there, mister.
+HERO	m	A storm of hell's coming down on  this place any minute!
+BARTENDER	m	Drop the canon!
+HERO	m	I'm not armed now, just hear me out.
+BARTENDER	m	I'll drop you and not even think  about it!
+HERO	m	Let me explain!
+BARTENDER	m	You got one second to --
+HERO	m	Take a good look and listen to me!  There's at least a four of these  things out there!
+HERO	m	I saw one of them tear up five men  like they were corn on the cob! I don't know what they are. I don't  know where they came from. All I do  know is that these fuckers are fast,  nasty, and hungry.
+HERO	m	And they can fly. Not to mention  they got claws like Ginsu knifes and  more teeth than a chainsaw.
+HERO	m	They're like goddamn blood hungry  biker tattoos come to life. They're  clocking us. Right now. And we have  to lock this bar down! That means doors, windows, drains,  and basements. We have to do it fast!
+HERO	m	You! Get on that phone. Call the  cops, National Guard, townies, whoever  kicks ass and get 'em out here.
+HERO	m	Any questions?
+BARTENDER	m	Who are you?
+HERO	m	I'm the hero --
+HEROINE	f	HELP ME! SOMEBODY!
+HEROINE	f	GET DOWN!
+EDGY CAT	m	I got you!
+BOZO	m	Got 'cha!
+HEROINE	f	Goddamn you!
+ROADIE	m	You'll hit her!
+BOZO	m	What the FUCK was that?
+HEROINE	f	The jungle has a new king.
+BOSS MAN	m	Is it clear?!
+BARTENDER	m	Yeah.
+BOSS MAN	m	Is there a gun pointing at you?
+BARTENDER	m	Nah, I got the gun.
+BOSS MAN	m	Alright goddamn it! Who shot me!?  Who did it!?
+BOSS MAN	m	My goddamn foot is gone! Who fuckin'  shot me? Who fuckin' shot me!?
+BARTENDER	m	Her fella.
+HEROINE	f	My husband...
+BOSS MAN	m	Well, where's the sonuvabitch!?
+HEROINE	f	He's dead.
+BOSS MAN	m	What? What the hell happened down here?!
+BOZO	m	I didn't do it! It was fuckin'  monsters, asshole!
+BOSS MAN	m	Jesus Christ on the cross... someone  make sense.
+HEROINE	f	Easy. We're surrounded by something  the likes none of you have ever seen  before. Some kind of animals. Real  fast, volatile, predators. One went  through three of your patrons like  nothing.
+BOSS MAN	m	So, your dead hubby shot me twice,  three of my customers have been eaten,  and there are angry creatures outside?
+HEROINE	f	He only shot you once.
+BOSS MAN	m	Huh?
+HEROINE	f	He shot you the other time.
+BARTENDER	m	It was an accident. Sorry.
+ADULTERER	?	Look at it!
+BOSS MAN	m	Fan-fuckin-tastic.
+TUFFY	?	My god... what is that?
+HEROINE	f	That's one piece of four problems.
+BOSS MAN	m	Please elaborate.
+HEROINE	f	That head over there, that's the  oldest of the bunch, looked like the  Grandpa. We caught the little one,  Junior, in the cooler there. As we've  seen, what he lacks in size he more  than makes up for in speed.
+BARTENDER	m	And the rest of 'em?
+HEROINE	f	Unfortunately, the worst of 'em are  still outside.
+HEROINE	f	The next one is taller, but all out  of proportion. Like a "teen beast."
+HEROINE	f	He was spastic, clumsy, but deadly  just the same.
+HEROINE	f	I just took the eye out of the mother.  She calculates, guiding the attacks.
+HEROINE	f	If you are face to face with her,  dive left.
+ROADIE	m	And the last one is the --
+HEROINE	f	Father. The biggest, the strongest...
+HEROINE	f	No sign of any weaknesses. No sign  at all. He's an eating machine.
+COACH	m	Of all the friggin' bars to be stuck  in.
+HEROINE	f	That's not it. Four are here, but  there's three others... which I can't  account for.
+HEROINE	f	We need to lock this place down. Is  everyone in this room?
+TUFFY	?	Oh my god! My son! My SON!
+HEROINE	f	Wait!
+TUFFY	?	Cody! Mommy's coming! Mommy's coming!
+HEROINE	f	Stop her!
+BARTENDER	m	Hey!
+CODY	m	Mommy --
+TUFFY	?	Oh sweetheart! What was I thinking?  Mommy is never gonna let you go!
+HEROINE	f	Let's lock off this room.
+TUFFY	?	Never, ever, never. Never, ever,  never, baby. I love you --
+TUFFY	?	NOOOOOOOO!
+HEROINE	f	Damn it.
+BEER GUY	m	Oh god...
+COACH	m	Are you --
+HEROINE	f	Just let her be... please. Is that the only phone?
+BARTENDER	m	The back phone is wrecked, too.
+BELLE	f	This is really happening. I can't  believe this is really happening.
+GRANDPA	m	What'd you say?
+GRANDMA	f	I didn't say anything.
+PARA	m	Thank you, but I don't need any help --
+BELLE	f	What's this? A power magnet or  something?
+PARA	m	No. It's nothing.
+BELLE	f	I didn't peg you for a con man.
+PARA	m	Hey, it pays more than the couch.
+BELLE	f	Lots of stuff around here does.
+TRAMPY	f	Here!
+TRAMPY	f	Hey!
+ADULTERER	?	Back off!
+BEER GUY	m	So, what now? Did those things leave?
+BOZO	m	Why don't you go check it out?
+BEER GUY	m	Fuck no.
+ADULTERER	?	I have a signal! I have -- Diane?  Diane listen to me... get the kids  and get in the basement... do it  right now...
+ADULTERER	?	I'll explain later. Not now! I'm at  a bar... look... shut up! JUST SHUT
+ADULTERER	?	Okay. Okay. Look now, I gotta get  outta here! I gotta go! My wife...  See my wife is alone... She could be  in trouble. I GOTTA GO!
+HEROINE	f	I wouldn't do that.
+ADULTERER	?	Fuck you, bitch!
+HEROINE	f	You can risk your life, but not mine!  My daughter's no more than twenty  miles from here waiting for me. I  have just as much reason to leave  this place as you do. But I also  know that if they're here, then  they're not there yet.
+HEROINE	f	You understand me?
+ADULTERER	?	Get the fuck off...
+HEROINE	f	You understand me!?
+ADULTERER	?	Yes!
+HEROINE	f	Now pull that tough boy shit again  and I'll slice you from neck to nuts!
+ADULTERER	?	You can't keep me here. This is  bullshit. Fuckin' bullshit. This is  fucking BULLSHIT!
+HEROINE	f	We can't risk letting them in.
+ADULTERER	?	Right.
+BOZO	m	Anything?
+PARA	m	Yeah, you got it.
+BELLE	f	See! This has to be isolated. That's  a local broadcast.
+NEWSCASTER	?	And now, we head to our man on the  scene with a live look at tomorrow's  event in Red Mountain.
+HEROINE	f	My daughter's in Red Mountain.
+NEWSCASTER	?	Can you hear us? Apparently we're  having some technical difficulties...
+HEROINE	f	Oh no.
+NEWSCASTER	?	Oh, there we go!
+REPORTER	m	That's right, the crowds are lining  up early to witness tomorrow's  meteorological phenomenon.
+REPORTER	m	But always remember, don't look  straight into the sun because a  special filter is needed to avoid  damaging your cornea.
+REPORTER	m	And we're all looking forward to it  tomorrow. Back to you.
+NEWSCASTER	?	Thank you. And in other news...
+ROADIE	m	That studio's local, we can call in.
+BOSS MAN	m	I have a short wave radio upstairs.
+TRAMPY	f	I'm calling them... it's ringing!
+ROADIE	m	They'd have a police scanner.
+TRAMPY	f	Hello? Yes, we're at the United --
+NEWSCASTER	?	...it has been reported that the  power outage --
+TRAMPY	f	Oh no! Oh fucking no!
+HEROINE	f	Keep it together! I came from the  east. That studio is south of here.  For all we know, north and west are  okay.
+ROADIE	m	An associate of mine was coming in  from the north, ain't heard a word  from him in hours.
+HEROINE	f	So, that leaves the west.
+TUFFY	?	And Red Mountain. Your daughter.
+HEROINE	f	Right.
+BEER GUY	m	This is goddamn depressing.
+BOSS MAN	m	I've got some tools and extra planks  in the kitchen, if we're on the same  page here.
+HEROINE	f	Let's work.
+BARTENDER	m	We'll it ain't pretty...
+BOSS MAN	m	But its got teeth.
+BOZO	m	I think it's hungry again.
+HEROINE	f	We have to kill it. Can you help?
+BOSS MAN	m	Fire in the hole!
+BOZO	m	I think we got --
+TUFFY	?	You're welcome.
+TRAMPY	f	Jesus, it took all that? All those  bullets? How can we possibly fight  off the others?
+HEROINE	f	Aim for their orifices. Eyes, ears  and mouth. From what I've seen, it's  their only weakness.
+ROADIE	m	Looks like they're soft on the inside  like any other animal. Trick is to  get in there and do the damage.
+BELLE	f	Maybe we don't have to fight them.
+BOZO	m	Right, let's just call 'em names.
+COACH	m	Ladies and gentlemen, if I may have  your attention.
+COACH	m	We have to think outside the box  here. We don't need to fight them,  we need to scare them. Scare them  right back. This is a species stand- off. We just need to show them we're  not vulnerable. That we're formidable.
+ADULTERER	?	How?
+COACH	m	I need a stick.
+COACH	m	Stand back.
+COACH	m	Let's get that board down.
+HEROINE	f	What are you doing?
+COACH	m	Showing superiority. The scent of  their dead may drive them away.
+BEER GUY	m	I don't see them.
+COACH	m	Come on. Come onnnnnn.
+BELLE	f	Is there a call, or something?
+BOZO	m	See that you monkey fucks! That's  what you get when you mess with us!  Woman or man, I don't give a fuck!  Shit don't make me gay because you'll  be sucking my dick!
+PARA	m	Sweet...
+BEER GUY	m	It's working. I think it's working.
+COACH	m	You see? What I tell you?
+ADULTERER	?	Good christ! They're cannibals!
+COACH	m	Oh dear...
+TRAMPY	f	Oh... my... god.
+PARA	m	What are they doing now?
+BOZO	m	Dude, they're humpin'!
+HEROINE	f	Get back!
+BOZO	m	Any more ideas, Animal Planet?
+COACH	m	I-I-I was just being proactive...
+BEER GUY	m	Hey, you weren't helpin'!
+BOZO	m	Go douche.
+BARTENDER	m	What the hell now?
+ADULTERER	?	We're stuck in here. That's what.
+ROADIE	m	Hey, Miss?
+ROADIE	m	If you don't mind me asking, how did  you run into these things?
+BOSS MAN	m	More importantly, how did you run  away from these things?
+HEROINE	f	Well, it all started about forty  hours ago...
+HEROINE	f	So, how is staying with Grandma  working out? Ya know, if you stare  into her glasses, you can see what  cards she is holding. But I didn't  tell you that.
+HEROINE	f	Mommy will pick you up tomorrow night,  okay baby?
+HEROINE	f	Hello? Charlie?
+HERO	m	Holy mother of...
+HEROINE	f	We barricaded ourselves in the cellar.  Then it was just listening. We heard  those things destroy an entire heard  of livestock. They just kept coming.  Closer and closer, consuming anything  in the way. Slashing, feeding and  licking the bones clean. Just when  we said our prayers, the first ray  of sun hit the house...
+HEROINE	f	That first beam of sunlight drove  'em away. Somewhere. We called who  we could and then decided to run for  it. We didn't see a soul the whole  drive out. When the tank went dry,  we came upon a gas station to refill.
+HERO	m	What's goin' on? The pumps are off.
+TUBBS	m	There's nobody here --
+HEROINE	f	They've been here!
+HERO	m	Turn on the pump!
+HEROINE	f	We had no time. All we knew was the  sun was dropping and we had to get  enough fuel to make it through the  night at 90 miles per hour...
+HERO	m	Suck it down you metal bitch. Suck  it down.
+HEROINE	f	It happened fast...
+HERO	m	Move it!
+HERO	m	Get in the car, baby.
+HEROINE	f	That's when I saw three others...  just for a second.
+HERO	m	Roll!
+HEROINE	f	Close the roof!
+HERO	m	Shit!
+HERO	m	We made it!
+HEROINE	f	It must have smelled the blood or  something. We buried the body and  got back on the main road when...
+HERO	m	Break!
+HERO	m	Go! Go! Go!
+HERO	m	Look out!
+HEROINE	f	And that's how I ended up here.
+BARTENDER	m	And the head?
+HEROINE	f	I don't want to talk about that.
+BARTENDER	m	So, your husband ditched you?
+HEROINE	f	No. It was wild out there. No time  to think. We just moved. He didn't  leave me. He just ran.
+BARTENDER	m	Well, justice is funny.
+ROADIE	m	The three from the gas pump are over  at the TV station? And you say there's  four here, huh?
+HEROINE	f	It appears so.
+COACH	m	There's five here now, actually.
+BOZO	m	Yeah, thanks for that.
+PARA	m	Hey, you lived on a farm, right?
+HEROINE	f	Yeah.
+ADULTERER	?	Do you think they're gone? I haven't  heard anything for a while, maybe  they're gone.
+BELLE	f	Well, maybe they migrate?
+HEROINE	f	As long as it's dark, they're around.  They hide, wait for you to drop your  guard, and then attack.
+TRAMPY	f	How can you be so sure? You said  yourself this started a day ago.
+HEROINE	f	We learned fast.
+BOZO	m	We? We learned fast? You are all  that is left of we. No offense  Pocohantas, but I think someone else  should play "Chief" tonight. Someone  that knows the lay of the land. Like me.
+HEROINE	f	Fine.
+ADULTERER	?	Maybe these things are like locusts  or something and only come out for a  few days to feed. This could just be  a part of their life cycle.
+BELLE	f	Somebody's gotta know something about  these things. This stuff just doesn't  happen out of the blue.
+BOZO	m	You!
+GRANDPA	m	Wha?
+BOZO	m	You gotta know somethin', you're  old.
+GRANDPA	m	I don't know a thing.
+BOZO	m	Old people know stuff like this.  Legends, tall tales, shit like that.
+GRANDPA	m	No!
+BOZO	m	Spill it!
+GRANDPA	m	I don't know anything!
+BOZO	m	How 'bout you? Or do I have to get  rough?
+GRANDMA	f	Heavens no!
+BOZO	m	Come on! Think back!
+GRANDPA	m	If I throw a stick, will you go away?
+BOZO	m	That's just horse shit.
+HEROINE	f	Relax, they don't know anything.
+BOZO	m	Yeah... allegedly.
+PARA	m	Hey, where was your farm?
+HEROINE	f	East. Why?
+PARA	m	Did you ever slaughter? Slaughter  livestock?
+HEROINE	f	Previous owners did, I think.
+COACH	m	What are you talking about?
+PARA	m	Slaughterhouse run-off used to be  drained into piping that ran through  the mountains.
+PARA	m	Earthquakes often cracked the piping  and those flow lines were condemned,  but never drained.
+COACH	m	Cheese n' rice...
+TRAMPY	f	I still don't get it.
+PARA	m	What I am saying is... there's a  distinct possibility that what we  are up against is the result of steady  stream of blood and tissue that has  been leaking into the caves. And a  day ago... something broke out.
+BOZO	m	The first order of business is gettin'  a big fuckin' tampon in that cave!
+PARA	m	Nope, that wouldn't do it.
+BARTENDER	m	I wouldn't do that.
+BOZO	m	They're probably on to the next buffet  by now. There's a retirement home up  the road, they'd be easy pickings.
+HEROINE	f	Careful.
+ADULTERER	?	I'm telling you, I don't see a thing --
+HEROINE	f	Everyone stay in the middle of the  room! Off the walls! NOW!
+HEROINE	f	Now, does everyone agree that they  are still out there?
+HEROINE	f	'Eh, Chief?
+BOZO	m	...Duh.
+TRAMPY	f	He's out cold.
+BELLE	f	I know some first aid if we have a  kit. Do we?
+BOSS MAN	m	In the kitchen, under the sink.
+HEROINE	f	No one goes anywhere alone. Least of  all, unarmed.
+TUFFY	?	There's some sweats in my bag behind  the bar.
+COACH	m	Thanks.
+ROADIE	m	You're a clever man. Why do you take shit from him?
+PARA	m	Yeah, he's an ass, but he's my  brother. Que sera-sera.
+ROADIE	m	Your brother, huh?
+PARA	m	Yep.
+ROADIE	m	Same parents?
+PARA	m	Look man, I read books. He reads  bumper stickers.
+HEROINE	f	Alright, we need to stay alert and  for everyone to take a role. You gotta have some guns or weapons  around here.
+BOSS MAN	m	I got my .38 here. That's six shots  and two refills. Downstairs, I have  locker with a sawed-off and some  gardening tools. Maybe a few boxes  of shells.
+BARTENDER	m	I got shells, too. Box and a half  tops. Machete behind the bar.
+HEROINE	f	Okay, well that's something.
+ROADIE	m	So we've got guns, kitchen knives,  pipes, fire and sticks.
+BEER GUY	m	I might be able to do something with  the bottles.
+GRANDPA	m	You're gonna need a whole lot more  than that to get outta here alive.
+BOZO	m	Oh, now you have something to say?
+GRANDPA	m	You young'uns worry about weapons,  I'm thinkin' 'bout strategy.
+BOZO	m	Oh? And what's that?
+GRANDPA	m	Sit still, look less like a meal.
+BOZO	m	That's for bears and sharks, chunky  chew.
+HEROINE	f	Alright, what else do we have? Can  we somehow contact the outside world?
+TRAMPY	f	I can't get anybody. I don't even  know if I have a signal anymore.
+BEER GUY	m	I have a CB in my truck, we could  get some help out here.
+BARTENDER	m	Who the hell would you call?
+BEER GUY	m	Anyone.
+BOZO	m	Do you drive a short beer bus or  something? You go out there, you get  eaten. You stay in here, you get  eaten. Anyone comes to help, they  get eaten. Don't you see a pattern  here, Spuds Makenzie?
+BEER GUY	m	Then I guess we should just give up.
+BOZO	m	Believe me, I'd love to save the day  and get some heroic snatch, but it's  not in the cards, partner.
+HEROINE	f	You said you had a short wave radio.
+TRAMPY	f	Where?
+BARTENDER	m	Upstairs.
+BOSS MAN	m	Go for it. It's by the far wall.  Channel 9 is the emergency frequency.
+HEROINE	f	Good. I'm heading to the basement  for supplies. And you're going upstairs.
+BOZO	m	Let's not get carried away...
+HEROINE	f	Step up, Chief.
+BOZO	m	So that's how it is? Fine! Shotgun, please.
+BOZO	m	You're coming with, portly. 'Cause  if I'm attacked, I want a fat man  close by.
+BARTENDER	m	I'll wait by the door.
+BOZO	m	Now who else is comin'?
+GRANDPA	m	I'll go with ya.
+BOZO	m	What are you gonna do? Throw your  teeth at 'em? Sit down, Cocoon.
+BOZO	m	You! Zorba! You're coming too! Now gimme the keys.
+HEROINE	f	No. You're locked in.
+BOZO	m	What?
+HEROINE	f	Those two will be on the other side  waiting for you. If you become food,  I don't want the only set of keys in  the belly of one of those things.
+BOZO	m	Don't get your hopes up.
+HEROINE	f	Any volunteers to head into the  basement with me?
+TUFFY	?	I will.
+BEER GUY	m	That's not a good idea.
+BOSS MAN	m	With what happened upstairs --
+TUFFY	?	Shut up! Shut your mouth. You have  no idea what is running through me  right now. No idea. I'm ready.
+HEROINE	f	Alright.
+ROADIE	m	Count me in.
+BEER GUY	m	Me too.
+BOZO	m	Alright you two, I don't want to  hear any of this, "oh, I dropped the  key, wrong key, ain't no key here."  When I want out, I want out, ok?
+BARTENDER	m	They're right here.
+COACH	m	We've got your back, bro.
+BOZO	m	Just keep 'em handy, ladies.
+BOZO	m	Wish me luck...
+BOZO	m	I'm okay! I'm okay!
+BOZO	m	Come on. Come on. Come on.
+BOZO	m	Geeezzzus. Okay, now. Easy steps. Easy breaths.  Easy steps.
+BELLE	f	How are you holding up?
+BOSS MAN	m	Well...
+BELLE	f	What is this?
+BOSS MAN	m	Morphine. My magic potion. I need a  few drops.
+BOSS MAN	m	You should try a little, it'll calm  your nerves. Works like a charm.
+BELLE	f	No other time than now, right?
+BOSS MAN	m	Wait, before you do that, help me  move. There's a small room off the  kitchen where I can lay down.
+BELLE	f	But --
+BOSS MAN	m	It's much safer in there. Trust me.
+ROADIE	m	Stay on your toes everybody.
+HEROINE	f	What's this?
+ROADIE	m	You don't need to know what that is.
+BEER GUY	m	There's a sawed-off shotgun in here.
+COACH	m	Come on, bro.
+BOZO	m	Lamaze. Lamaze. Lamaze.
+BOZO	m	HAAAA!
+BOZO	m	Just a bat! I'm okay! Just a bat!
+BARTENDER	m	If he doesn't shut up...
+COACH	m	He is human kabob.
+BELLE	f	Doesn't your foot hurt?
+BOSS MAN	m	I can't feel a thing, Hon.
+BELLE	f	How 'bout now?
+BOSS MAN	m	You're a bad girl, aren't you.
+BELLE	f	Um-hmmm.
+BOSS MAN	m	The girl's got rhythm.
+BOSS MAN	m	There it is.
+ROADIE	m	This is all junk.
+BEER GUY	m	This could come in handy.
+HEROINE	f	Let's get everything upstairs.
+HEROINE	f	I'm sorry.
+TUFFY	?	Don't worry, I'm fine. Really.
+HEROINE	f	I admire your strength.
+TUFFY	?	Trust me, I plan on having a full  breakdown when this is over, but for  now, we all have to be strong, right?
+HEROINE	f	This is my daughter, Charlie. She's  all I'm after.
+TUFFY	?	Oh...
+HEROINE	f	And I'm gonna need your strength,  every bit of it.
+TUFFY	?	You have it.
+HEROINE	f	Good. But still do me a favor.
+TUFFY	?	Name it.
+HEROINE	f	Don't tell anyone I have a soft side.
+TUFFY	?	Deal.
+BOZO	m	Hello? Anyone there? We need help  out here at the United Nations Tavern.  Send guns, tanks, and all that shit.
+BELLE	f	You wanna see, baby?
+BOSS MAN	m	Hell yeah.
+BELLE	f	How much you got?
+BOSS MAN	m	How much I got, what?
+BELLE	f	How much you got to see the show?
+BOSS MAN	m	You don't understand, sweety. Daddy  doesn't pay. Daddy sees the show for  free. But you do get points for being  horny on a night like this.
+BELLE	f	What?
+BOSS MAN	m	You can't expect a man to buy a car  without a test drive first, can you?
+BELLE	f	Um, hmm --
+BOSS MAN	m	Now wiggle that sweet little ass  over here and sit on Daddy's face, I  wanna do some appraising.
+BOZO	m	Repeat. We need help. SOS. Calling  all cars! Calling all cars! We need  help at the United Nations Tav --
+BOZO	m	Shit!
+BOZO	m	Double shit!
+BOZO	m	Okay, I'm ready to come out now!
+BARTENDER	m	Oh!
+BOZO	m	"OH!?" WHAT IS "OH?" What does "oh"  mean?
+BOZO	m	HEY! OPEN IT!!!
+BARTENDER	m	Wha?
+BOZO	m	OPEN THE DOOR!!!
+BELLE	f	What was that?
+BOSS MAN	m	Hoh-SHIT! Help!! Help me!!!
+BOSS MAN	m	NO! NO! NO!
+COACH	m	Great god, why do you damn me?!
+BOZO	m	GET ME OUTTA HERE!!!
+PARA	m	Oh please, no.
+BOSS MAN	m	They're getting in! Somebody help!
+BOZO	m	HELP!!! GODDAMN IT!!!
+BARTENDER	m	The key broke off!
+HEROINE	f	Move it!
+BOZO	m	HELP ME PLEASE!!!
+BOSS MAN	m	HELLLLLP!!!
+BOZO	m	HELLLLLLLLP!!!
+PARA	m	I thought that was it for a second  there.
+TRAMPY	f	What happened?
+BOZO	m	I got Papa in the stones. He's neutered.
+PARA	m	Whoa... good one...
+ROADIE	m	That back room is sealed shut.
+HEROINE	f	I told you to stay in the main room.
+BOSS MAN	m	Yeah... I will. I will. Promise.
+COACH	m	If they can't reproduce anymore --  we are one step closer! A big step!  Now is the time to band together. We  need to rise up against these monsters  of the night! Those creatures are no  match for the human spirit! We can  do it! We just need to believe in  each other! In all of us! We need to  make a stand! Right here! Right now!
+BOZO	m	Dude, are you gay?
+HEROINE	f	We know what not to do. We must stay  focused and together. The beasts  will find a breach. We gotta find a  way out before they find a way in.
+TUFFY	?	Let's run for the cars, cause mass  confusion.
+BARTENDER	m	The lot's too damn far, that's  surefire suicide.
+HEROINE	f	What?
+BOSS MAN	m	What?
+HEROINE	f	You know what.
+BOSS MAN	m	I don't know shit.
+HEROINE	f	You. What was that door downstairs?
+BOSS MAN	m	Wait, wait, wait.
+HEROINE	f	Don't bullshit me.
+BARTENDER	m	It's a tunnel.
+BARTENDER	m	It runs about a hundred yards and  spits out on the backside of that  hill down the way.
+HEROINE	f	What's it for?
+HEROINE	f	What's it for!?
+BOSS MAN	m	Grass, man. I grow pot down there.
+HEROINE	f	Does the tunnel spit out near a car?
+BOSS MAN	m	It spits out behind the parking lot.
+BOSS MAN	m	My truck is near, but it ain't nearly  big enough to haul the whole lot.
+HEROINE	f	It's a shot. Is it gassed up?
+BOSS MAN	m	Fully.
+HEROINE	f	Four door?
+BOSS MAN	m	Two.
+HEROINE	f	How many can it hold?
+BOSS MAN	m	Six.
+HEROINE	f	Max?
+BOSS MAN	m	Seven.
+HEROINE	f	It's gonna fit thirteen.
+BOSS MAN	m	Thirteen clowns wouldn't fit.
+HEROINE	f	Keys.
+ROADIE	m	What're you planning?
+HEROINE	f	Three of us go. Two to defend, one  to drive. We back up to the bar and  then tear ass out of here.
+BOSS MAN	m	Sounds sketchy.
+HEROINE	f	Let me make this clear; if we stay,  we die.
+ROADIE	m	Give 'em to me, I'm going.
+BARTENDER	m	You're trusting that con? He'll ditch  us and never look back.
+ROADIE	m	Fuck you too.
+BARTENDER	m	Get in line!
+HEROINE	f	Hey! I'm not trusting him either,  that's why I'm going with.
+COACH	m	"Courage is being scared to death,  but saddling up anyway." The Duke. I will go.
+HEROINE	f	This is it. They have this place  surrounded, but if we go under them  we might just make it.
+BARTENDER	m	This is a bottleneck waiting to  happen.
+BOZO	m	This one's great under pressure. I  wish you luck.
+HEROINE	f	The rest of you prepare the weapons,  whatever you got left. 'Cause when  we crash through those walls, we're  bringin' death with us.
+COACH	m	No, I don't believe in guns.
+BARTENDER	m	This ain't time for a political  stance.
+COACH	m	This doesn't run out of ammo.
+BARTENDER	m	Got ya.
+BOZO	m	Hey!
+BOZO	m	When you get to that truck... drive  it like you stole it.
+TRAMPY	f	How does it feel?
+ADULTERER	?	Lousy.
+TRAMPY	f	You still have one left.
+ADULTERER	?	Yes, the silver lining.
+TRAMPY	f	It serves you right for cheating.
+ADULTERER	?	Spare me.
+TRAMPY	f	I figure it's karma. You wronged me  and you wronged your wife, so this  is karma biting you on the ass, or  in your case... in the eye.
+BOZO	m	Oh yeah?
+TRAMPY	f	It could be worse, you could be dead.  Then again, the climax is upon us.
+BOZO	m	Ya know, that's not a bad look on  you. Kinda 1985, but not bad. I'd  hook it up.
+TRAMPY	f	I wouldn't fuck you for practice.
+BOZO	m	Tease.
+ADULTERER	?	Leave her alone.
+BOZO	m	Hey, cyclops. Let's have a quiet  contest... starting now.
+BOZO	m	Ya know, in situations of duress, I  have found that women are attracted  to my authority.
+ROADIE	m	You handle yourself pretty well. You  a cop or a criminal?
+HEROINE	f	Neither. Just a farmer.
+ROADIE	m	Oh yeah? Then how do you do it?
+HEROINE	f	I just think about my husband and  daughter... and the rest is easy.
+HEROINE	f	Easy.
+ROADIE	m	This place is creepy in the daytime,  too. Ready?
+ROADIE	m	Scared?
+COACH	m	No. You?
+ROADIE	m	Of course not. I fight monsters all  the time. On three.
+COACH	m	One... two... three!!!
+COACH	m	Well, look at that.
+COACH	m	Hey, little fella.
+HEROINE	f	Let's go.
+COACH	m	Looks like a brothel for plants.
+ROADIE	m	Shhhhhhhhhhhhh.
+BOZO	m	Ah-ah-ah! You're doing that all wrong!
+BEER GUY	m	What do you know?
+BOZO	m	I know you're doing it wrong.
+BEER GUY	m	Prove it.
+BOZO	m	Move aside, princess.
+COACH	m	You and I are similar. We both have  accents. We both travel a lot. We  both don't really have homes...
+ROADIE	m	You should be quiet.
+COACH	m	I am sorry, I ramble when I'm nervous.
+HEROINE	f	Quiet.
+COACH	m	It's just that this seems like the  opportune time for someone to be  horribly... offed.
+ROADIE	m	What did I say?
+COACH	m	Sorry. I'm done now.
+BOZO	m	You don't want the rag touching booze,  that way you can hold it and ensure  it explodes when you throw it.
+PARA	m	You sure? I thought the rag had to  touch?
+BOZO	m	I'm sure.
+BOZO	m	Perfecto. What we should do, though,  is put those peanut barrels to use.  Fill 'em with booze and line up some  planks. If the walls come down... we  hit 'em Donkey Kong style.
+PARA	m	Genius.
+BEER GUY	m	You aren't nearly as dumb as you  look, are you?
+BOZO	m	Next time, look within. Stereotyping  can be ugly and hurtful.
+BOZO	m	Excuse me for being forward, but I'm  curious about your dimensions.
+ROADIE	m	Hold up. You hear something?
+ROADIE	m	They're trying to burrow through the  tunnel walls.
+HEROINE	f	Move.
+COACH	m	Like moles these things.
+ROADIE	m	Duck!
+ROADIE	m	Stay down!
+HEROINE	f	Go! The bitch is mine!
+HEROINE	f	Look out!
+ROADIE	m	The shells are wet!
+COACH	m	Grab onto ceiling and get out of  water!
+ROADIE	m	What?
+COACH	m	Do it!!!
+COACH	m	Get out of water!!!
+HEROINE	f	You fuck with my family.  I fuck right back!
+HEROINE	f	Oh shit.
+COACH	m	They will write stories of your  bravery.
+ROADIE	m	If there's anybody left.
+HEROINE	f	Send it up! Send it up!
+TUFFY	?	Hey! Hey! She's in the shaft!
+HEROINE	f	Move it! Move it! Move it!
+BEER GUY	m	Come on!
+BOZO	m	Ol' Crazy Horse has seen it.
+TUFFY	?	Shut up!
+HEROINE	f	Goddamn it!
+TUFFY	?	It stopped. It fuckin' stopped!
+TRAMPY	f	Do something!
+HEROINE	f	I'M ALIVE! OPEN THE DOOR!
+ADULTERER	?	Stop!
+TRAMPY	f	What the fuck are you doing?!
+ADULTERER	?	They can't get in here! We agreed!   They'll get us!
+TUFFY	?	She can make it!
+ADULTERER	?	I will not die because of her!
+BARTENDER	m	Don't be stupid, drop the gun!
+TRAMPY	f	YOU'RE KILLING HER!
+ADULTERER	?	They'll get in! We'll all die!
+BOZO	m	Welcome back.
+HEROINE	f	F-f-fuck you.
+BARTENDER	m	What the hell happened?
+TUFFY	?	You okay?
+HEROINE	f	I think they made it.
+HEROINE	f	Stop trying to get people killed. It  is getting very old.
+HEROINE	f	What's this?
+BOZO	m	Ingenuity, baby. Ingenuity.
+HEROINE	f	I need some shells.
+BARTENDER	m	I have two left.
+BARTENDER	m	Make it count.
+HEROINE	f	Let's prepare ourselves, they ought  to be here with the truck any minute.
+BOSS MAN	m	Bullshit.
+BOSS MAN	m	If you ask me, I'm gonna just lay  right here, wait for sunrise, then  walk on out of here.
+HEROINE	f	That's your choice, but this is going  to get a whole lot worse before it  gets any better.
+BOSS MAN	m	If all of you run for it, they won't  care about lil ol' me. They like the  food that moves...
+BOSS MAN	m	OHHH!!!
+HEROINE	f	Get on the tables!!! On the tables!!!
+PARA	m	HELP ME!!!
+BOZO	m	Bonsai!
+BOZO	m	Hot potato!!!
+BEER GUY	m	We're gonna die!
+ADULTERER	?	What the hell?!
+HEROINE	f	Settle down!
+TRAMPY	f	Stop it! Stop it! Stop it!
+BARTENDER	m	What's that?
+TUFFY	?	They didn't make it.
+ROADIE	m	RUN!!!
+BARTENDER	m	That wall's coming down!
+BOZO	m	Commence Plan B!
+HEROINE	f	What's Plan B?
+BOZO	m	Just watch the floor and keep the  others safe!
+BOZO	m	Bomb's away!!!
+HEROINE	f	Now!
+BOZO	m	One down, one to go!!!
+HEROINE	f	Help me!
+HEROINE	f	Come on!
+BARTENDER	m	I can't hold him!!!
+HEROINE	f	Do something!!!
+TUFFY	?	CHOKE ON IT!!!
+BARTENDER	m	God...
+BOZO	m	I need to get your number.
+HEROINE	f	Come on, I'll help you.
+GRANDPA	m	No thank you, we're content.
+HEROINE	f	I'm not leaving anyone behind.
+GRANDMA	f	Maybe next time, dear.
+HEROINE	f	She's still out here.
+HEROINE	f	Stay put.
+HEROINE	f	Where are you... come on...
+HEROINE	f	Come on! Come on!
+HEROINE	f	Come and get me you blood-chugging
+TRAMPY	f	You got her? You got her!
+HEROINE	f	Not for long, we gotta burn it.
+HEROINE	f	Come on! Let's blow this thing!
+BEER GUY	m	When this lights, run like hell.
+HEROINE	f	Here we go...
+TUFFY	?	What is that?
+HEROINE	f	She's calling for help.
+BOZO	m	The fan has officially been buried  in the shit.
+TRAMPY	f	We have to run --
+HEROINE	f	Get to your cars!!!
+BOZO	m	Motherfucker! Give him back!
+BOZO	m	Oh Jesus!
+PARA	m	HELLLPPP!
+BOZO	m	I thought we lost you --
+BOZO	m	You FUCKER!
+TUFFY	?	Get in!
+ADULTERER	?	Run and quit looking back!
+BOZO	m	DO IT!
+BOZO	m	Get me FUCK BIRDS!
+BOZO	m	No you don't!
+BOZO	m	VENGEANCE!
+PARA	m	Oh Jesussss...
+GRANDPA	m	We had a good run.
+PARA	m	HELP ME! HELP ME SOMEBODY!
+BOZO	m	Hang on!
+PARA	m	Hurry! Hurry! Hurry!
+BARTENDER	m	Oh shit!
+PARA	m	NOOO!!!
+PARA	m	COME ON! GODDAMN IT!
+BOZO	m	Brother!!!
+ADULTERER	?	Shit!
+BOZO	m	I meant to tell you so much!
+GRANDPA	m	Close your eyes, hon.
+BOZO	m	YOU ARE SUCKING MY DICK!!!
+BOZO	m	Motherfucker!!!
+BOZO	m	Lord, if I die, bury me upside down  so the world can KISS MY ASS!
+BARTENDER	m	I think we're in the clear --
+TUFFY	?	Are you okay?!
+HEROINE	f	I don't know, I think --
+ADULTERER	?	Hey!
+ADULTERER	?	Are you two all right? They left! We  made it! I think we made it!
+TUFFY	?	They'll be back.
+HEROINE	f	We're safe until dark, but we need  to find other people.
+HEROINE	f	You know where the IGA grocery store  is over in Red Mountain?
+ADULTERER	?	Um, yeah, ten miles west.
+HEROINE	f	They have a bomb shelter.
+HEROINE	f	We'll meet in three hours?
+ADULTERER	?	I don't wanna go home alone... I  don't wanna see what might have...
+TUFFY	?	Don't worry about that. Just go.
+ADULTERER	?	I'm sorry about your son. I really  am.
+ADULTERER	?	Where are you two going?
+HEROINE	f	We're going to get my little girl.
+ADULTERER	?	I wish you luck.
+HEROINE	f	Oh no...
+TUFFY	?	They're alive!
+ADULTERER	?	I'm sorry... I'm so sorry...
+HEROINE	f	It's right up there, in the back of  the store.
+HEROINE	f	Where is everyone?
+ADULTERER	?	I don't know, I just got here. Did  you find your girl?
+HEROINE	f	She's supposed to already be here.
+TUFFY	?	Your family?
+TUFFY	?	I'm sorry.
+HEROINE	f	This place is a ghost town.
+ADULTERER	?	Look!
+HEROINE	f	Charlie?
+HEROINE	f	Charlie!
+ADULTERER	?	Stop! There's something wrong!
+HEROINE	f	Honey!?
+TUFFY	?	Oh god.
+CHARLIE	m	Mommy!
+ADULTERER	?	It's a trap!
+ADULTERER	?	Run!!!
+HEROINE	f	I love you...
+THE MAN IN TAN	m	What's the damage radius?
+TECH	m	Twenty miles. Red Mountain,  surrounding farms, local TV studio.
+THE MAN IN TAN	m	How many picked up the broadcast?
+TECH	m	We'll have figures within the hour.
+TECH	m	Sir, what's the spin?
+THE MAN IN TAN	m	Tornado cluster.
+TECH	m	This is the California high desert.
+THE MAN IN TAN	m	Get what you need to sell it.
+COMPANY MAN	m	Sir, we have movement!
+THE MAN IN TAN	m	Open it.
+THE MAN IN TAN	m	Gentlemen, help them to safety.
+HEROINE	f	You're not safe, she's still alive,  she'll be back...
+THE MAN IN TAN	m	Relax. We know. We're the calvary.
+THE MAN IN TAN	m	What happened to you?
+BOZO	m	Get these cuffs off me! I'm a goddamn  hero for Christ's sake!
+GRANDMA	f	G'morning.
+BOZO	m	Thanks for waitin' for me back there,  really fuckin' appreciate it!
+TUFFY	?	How'd you survive?
+BOZO	m	I found a new weak spot on 'em, but  it damn ain't pretty getting to it.
+HEROINE	f	Where are you taking us?
+THE MAN IN TAN	m	A trauma center. We have doctors  waiting. You're in good hands now.
+THE MAN IN TAN	m	Do it quick and spread the mess.
+

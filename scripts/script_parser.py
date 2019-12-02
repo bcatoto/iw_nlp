@@ -9,7 +9,7 @@ TABS = False
 NUM_NAME = 35
 NUM_LINE = 23
 
-FOL = '../data_scraping'
+FOL = '../0_scraped_data'
 REMOVE_NAME = ['(V.O.)', '(VO)', '(O.S.)', '(OS)', '(CONT\'D)', '(CONT)']
 NOT_NAME = [':', '--', 'TO:', 'CUT TO', 'JUMP TO', 'GO TO', 'FADE', 'DISSOLVE',
     'THE END', 'WIPE TO', 'VOICE OVER']
@@ -147,7 +147,7 @@ def parse(info):
 def main():
     for year in range(1975, 2016):
         # Creates year folders if they don't exist; clears them if they do
-        clear_dir(FOL, 'txt', year)
+        clear_dir('%s/txt/%d' % (DESTFOL year))
 
         print('Parsing movies in %d...' % (year))
 

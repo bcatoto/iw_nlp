@@ -7,13 +7,15 @@ from helper import clear_dir, write_file
 import time
 import re
 
-FOL = '../data_scraping'
+FOL = '../0_scraped_data'
+
+#-------------------------------------------------------------------------------
 
 def main():
 
     # Clears directory
     for year in range(1975, 2020):
-        clear_dir(FOL, 'html', year)
+        clear_dir('%s/html/%d' % (FOL, year))
 
     inFile = open('%s/movie_script_urls.txt' % (FOL), mode='r',
         encoding='ISO-8859-1')
@@ -39,7 +41,7 @@ def main():
         except:
             print('Could not download %s.' % (title))
             continue
-            
+
         outFile.write('%d\t%s' % (counter, line))
         print('Finished downloading %s...' % (title))
 

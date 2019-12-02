@@ -1,0 +1,759 @@
+NARRATOR	m	Thebes. City of the Living. Crown  jewel of Pharaoh Seti the First.
+NARRATOR	m	Home of Imhotep, High Priest of  Osiris, Keeper of the Dead.
+NARRATOR	m	Birthplace of Anck-su-namun. Pharaoh's  Mistress. No other man was allowed  to touch her.
+NARRATOR	m	But for our love, we were willing to  risk life itself.
+PHARAOH	m	What are you doing here?
+PHARAOH	m	WHO HAS TOUCHED YOU?!
+PHARAOH	m	Imhotep?... My priest.
+PRIESTS	m	Pharaoh's bodyguards!
+ANCK-SU-NAMUN	f	You must go. Save yourself. Only you  can resurrect me.
+ANCK-SU-NAMUN	f	My body is no longer his temple!
+NARRATOR/IMHOTEP	?	For murdering Pharaoh, Anck-su-namun's  body was to be cursed. And it was I,  the High Priest, whose duty it was  to curse it.
+IMHOTEP	m	Her body was mummified, her vital  organs removed and placed in sacred  canopic jars.
+IMHOTEP	m	The Book of The Living contained  sacred incantations that would send  the evil dead on a journey into the  dark underworld.
+IMHOTEP	m	The slaves were killed...
+IMHOTEP	m	...and the soldiers who killed them  were also slain, so that no unholy  person should ever know the exact  location of the burial site.
+IMHOTEP	m	But there was another book, The Book  Of The Dead, which was never to be  opened, never to be read, for it  contained the incantations that could  bring a dead body back to life a  most unholy thing.
+IMHOTEP	m	It was hidden at Hamunaptra, City of  the Dead, inside the statue of Anubis,  so that no such sacrilege might ever  disgrace Egypt.
+IMHOTEP	m	But for my love of Anck-su-namun I  was willing to defy the gods.
+IMHOTEP	m	Anck-su-namun's vital organs were  still fresh, so a human sacrifice  would not need be made.
+IMHOTEP	m	Anck-su-namun soul had come back  from the dead! Now all that was  needed, was to return her organs to  their rightful place within her body.
+IMHOTEP	m	My Priests were condemned to be  mummified alive.
+IMHOTEP	m	As for me, I was condemned to endure  the HOM-DAI. The worst of all ancient  curses. One so horrible, it had never  before been bestowed.
+IMHOTEP	m	By eating the sacred scarabs, I would  be cursed to stay alive forever. And  by eating me, they were cursed just  the same.
+IMHOTEP	m	I was to remain sealed inside my  sarcophagus, the undead for all of  eternity.
+IMHOTEP	m	They would never allow me to be  released. For I would arise a walking  disease, a plague upon mankind, an  unholy flesh-eater, with the strength  of ages, power over the sands, and  the glory of invincibility.
+IMHOTEP	m	And if I could raise my beloved Anck- su-namun from her place in hell,  together, we would be an unstoppable  infection upon this world. The  Apocalypse. The End.
+O'CONNELL	f	I knew this was gonna be a lousy  day.
+BENI	m	Personally, I would like to surrender.  Why can we not just surrender?
+O'CONNELL	f	Shut-up and gimme your bandolier.
+BENI	m	Then let's run away. Right now. While  we can still make it.
+O'CONNELL	f	Now gimme your revolver, you'll never  use it anyway.
+BENI	m	Then let's play dead, huh? Nobody  ever does that anymore.
+O'CONNELL	f	Now go find me a big stick.
+BENI	m	In the desert? What for?
+O'CONNELL	f	So I can tie it to your back, you  appear to be without a spine.
+O'CONNELL	f	How'd a guy like you end up in the  Legion anyways?
+BENI	m	I got caught robbing a synagogue.  Lots of good stuff in them holy  places; churches, temples, mosques,  and who's guarding them?
+O'CONNELL	f	Altar boys?
+BENI	m	Exactly! I speak seven languages,  including Hebrew, so my specialty  was synagogues. How about you? Kill  somebody?
+O'CONNELL	f	No, but I'm considering it.
+BENI	m	What then? Robbery? Extortion?  Kidnapping!
+O'CONNELL	f	None of the above, thank you.
+BENI	m	Then what the hell are you doing  here!?
+O'CONNELL	f	I was just looking for a good time.
+O'CONNELL	f	Oh shit. Steady!
+O'CONNELL	f	STEADY!
+O'CONNELL	f	STEADY!!
+O'CONNELL	f	FIRE!
+O'CONNELL	f	FIRE!
+O'CONNELL	f	FIRE!
+O'CONNELL	f	Son-of-a-bitch.
+O'CONNELL	f	Hey! Beni! Wait up!
+O'CONNELL	f	What are ya doing?! Wait up!
+O'CONNELL	f	Don't you close that door! DON'T YOU
+O'CONNELL	f	I'm gonna get you for this!
+EVELYN	f	Tuthmosis?... Now how did you get up  here?
+EVELYN	f	OHEIUGM!! AHHHHHH!
+EVELYN	f	Oops.
+CURATOR	?	Look at this! Sons of the Messiah!  Give me frogs, flies, locusts,  anything but this! Compared to you,  the other plagues were a joy!
+EVELYN	f	I'm sorry, it was an accident.
+CURATOR	?	When Ramesses destroyed Syria, it  was an accident. You are a  catastrophe! Why do I put up with  you?
+EVELYN	f	You put up with me, because I can  read and write ancient Egyptian,  decipher hieroglyphs and hieratic,  and I'm the only person within a  thousand miles who knows how to  properly code and catalogue this  library.
+CURATOR	?	Who needs smart women? I put up with  you because your mother and father  were our finest patrons, Allah rest  their souls. Now straighten up this  mess!
+EVELYN	f	Hello?
+EVELYN	f	Abdul? Mohammed? Bob?
+EVELYN	f	You...! YOU...!
+JONATHAN	m	Drunkard? Fool? Rat-bastard? Please  call me something original.
+EVELYN	f	Have you no respect for the dead?
+JONATHAN	m	Right now, I only wish to join them.
+EVELYN	f	Well I wish you'd do it sooner rather  than later, before you ruin my career  the way you've ruined yours.
+JONATHAN	m	My dear, sweet, baby sister, I'll  have you know, that at this moment  my career is on a high note.
+EVELYN	f	High note? Ha! For five years you've  been scrounging around Egypt, and  what have you to show for it? Nothing.
+JONATHAN	m	Oh yes I do! I have something right  here!
+EVELYN	f	Oh no, not another worthless trinket,  Jonathan, if I bring one more piece  of junk to the Curator to try and  sell for you.
+EVELYN	f	Where did you get this?
+JONATHAN	m	On a dig, down in Thebes.
+JONATHAN	m	My whole life I've never found  anything, Evy. Tell me I've found  something.
+EVELYN	f	Jonathan?
+JONATHAN	m	Yes?
+EVELYN	f	I think you found something.
+EVELYN	f	See the cartouche there, it's the  official royal seal of Seti the First,  I'm sure of it.
+CURATOR	?	Perhaps.
+JONATHAN	m	Two questions. Who the hell is Seti  the First? And was he rich?
+EVELYN	f	He was the last Pharaoh of the Old  Kingdom, said to be the wealthiest  Pharaoh of them all.
+JONATHAN	m	Alright, good, that's good. I like  this fellow, like him very much.
+EVELYN	f	I've already dated it, this map is  almost four thousand years old. And  the hieratics over here... It's Hamunaptra.
+CURATOR	?	My dear girl, don't be ridiculous,  we are scholars, not treasure hunters.  Hamunaptra is a myth.
+JONATHAN	m	Are we talking about the Hamunaptra?
+EVELYN	f	Yes. The City of The Dead. Where the  early Pharaohs were said to have  hidden the wealth of Egypt.
+JONATHAN	m	Right, right, in a big underground  treasure chamber. Everybody knows  the story. The entire necropolis was  rigged to sink into the sand. On  Pharaoh's command, a flick of the  switch! And the whole place could  disappear beneath the dunes.
+EVELYN	f	All we know is that the city  mysteriously vanished around 2,134
+CURATOR	?	As the Americans would say: it's all  fairy tales and hokum.
+JONATHAN	m	You burned it! You burned off the  part with the lost city!
+CURATOR	?	It's for the best, I'm sure. Many  men have wasted their lives in the  foolish pursuit of Hamunaptra, no  one has ever found it, most have  never returned.
+JONATHAN	m	You killed my map.
+CURATOR	?	I'm sure it was a fake, anyway, I'm  surprised at you, Miss Carnarvon, to  be so fooled.
+EVELYN	f	You told me you found it on a dig  down in Thebes!
+JONATHAN	m	I was mistaken.
+EVELYN	f	You lied to me!
+JONATHAN	m	I lie to everybody, what makes you  so special?
+EVELYN	f	I'm your sister.
+JONATHAN	m	That just makes you more gullible.
+EVELYN	f	You stole it from a drunk at the  local Casbah?!
+JONATHAN	m	Picked his pocket, actually.
+EVELYN	f	And what is he in prison for?
+WARDEN	m	I did not know, so when I heard you  were coming, I asked him that myself.
+EVELYN	f	And what did he say?
+WARDEN	m	He said... he was just looking for a  good time.
+EVELYN	f	But he's just a filthy criminal?
+JONATHAN	m	Way to go, Evy.
+O'CONNELL	f	So who's the broad?
+EVELYN	f	Broad?!
+JONATHAN	m	She's my sister, actually.
+O'CONNELL	f	Yeah? Well,... I'm sure she's not a  total loss.
+WARDEN	m	I'll be back in a moment.
+O'CONNELL	f	I tremble with anticipation.
+EVELYN	f	We uh,... found... your puzzle box,  and we've come to ask you about it.
+O'CONNELL	f	No.
+EVELYN	f	No?
+O'CONNELL	f	No... You came to ask me about  Hamunaptra.
+EVELYN	f	How do you know the box pertains to  Hamunaptra?
+O'CONNELL	f	Because that's where I found it. I  was there.
+JONATHAN	m	How do we know that's not a load of  pig swallow?
+O'CONNELL	f	Hey,... don't I know you?
+JONATHAN	m	Um, well, you see...
+EVELYN	f	You were actually at Hamunaptra?
+O'CONNELL	f	I just decked your brother
+EVELYN	f	Yes, well... I know my brother.
+O'CONNELL	f	Yeah, I was there.
+EVELYN	f	You swear?
+O'CONNELL	f	Every damn day.
+EVELYN	f	No, I mean --
+O'CONNELL	f	-- I know what you mean. I was there,  alright. Seti's place. The City Of  The Dead.
+EVELYN	f	What did you find? What did you see?
+O'CONNELL	f	I found sand. I saw death.
+EVELYN	f	Could you tell me how to get there?  The exact location?
+O'CONNELL	f	Want to know?
+EVELYN	f	Yes.
+O'CONNELL	f	Really want to know?
+EVELYN	f	Yes.
+O'CONNELL	f	Then get me the hell outta here.
+EVELYN	f	Where are they taking him?
+WARDEN	m	To be hanged.
+WARDEN	m	Apparently, he had a very good time.
+WARDEN	m	No women allowed.
+EVELYN	f	I am an English woman.
+EVELYN	f	I will give you one hundred pounds  to spare his life.
+WARDEN	m	I would pay one hundred pounds just  to see him hang.
+EVELYN	f	Two hundred pounds.
+WARDEN	m	Proceed!
+EVELYN	f	Three hundred pounds!
+HANGMAN	m	Any last requests, pig?
+O'CONNELL	f	Yeah, I'd like ya to let me go.
+EVELYN	f	FIVE HUNDRED POUNDS!
+WARDEN	m	And what else?
+EVELYN	f	NOOO!
+WARDEN	m	His neck did not break! Good! Now we  watch him strangle to death.
+EVELYN	f	He knows the location to Hamunaptra.
+WARDEN	m	You lie.
+EVELYN	f	I would never!
+WARDEN	m	Are you saying this filthy godless  son of a pig knows where to find The  City Of The Dead? Truly?
+EVELYN	f	Yes and if you cut him down, we will  give you ten percent.
+WARDEN	m	Fifty percent.
+EVELYN	f	Twenty.
+WARDEN	m	Forty.
+O'CONNELL	f	Give... give him... give him GLAAAA--
+EVELYN	f	Twenty-five percent, and not one  single farthing more.
+CURATOR	?	She must die.
+HOOK	m	She is like all the others. She will  die in the desert.
+CURATOR	?	No! She has seen too much. She knows  too much.
+CURATOR	?	Not only does she have a map, but  she has the key.
+HOOK	m	The key!? She has the lost key!?
+CURATOR	?	Yes. No one has ever had so much,  been so close. We must stop her, or  it will be the end of us all.
+HOOK	m	Then we will kill her, we will kill  her and all those with her.
+CURATOR	?	And burn the map and retrieve the  key.
+HOOK	m	It will be done. But what of the  American expedition? They leave  tomorrow as well.
+CURATOR	?	Forget the bumbling Americans, they  will be like all the others. Without  the map to guide them, how can they  possibly find Hamunaptra?
+BENI	m	It is three days down the Nile, then  two days by camel, sahibs.
+DANIELS	m	For all the money we're paying you,  something better god-damned well be  under that sand.
+HENDERSON	m	"Hamunaptra," Daniels, that's all ya  gotta keep sayin, to yourself,  "Hamunaptra."
+EVELYN	f	Do you really think he'll show up?
+JONATHAN	m	Undoubtedly, I know the breed, he  may be a cowboy, but his word is his  word.
+EVELYN	f	Personally, I think he's filthy,  rude and a complete scoundrel. I  don't like him one bit.
+O'CONNELL	f	Anyone I know?
+EVELYN	f	Oh... um,... hello.
+JONATHAN	m	Smashing day for the start of an  adventure, eh, O'Connell?
+O'CONNELL	f	Yeah, sure, smashing.
+BURNS	m	You're sure Hamunaptra is out there?
+BENI	m	Along with the scorched bones of my  entire garrison, sahib.
+BENI	m	A thousand pardons, my good sahibs  but there is much work to be done.
+EVELYN	f	Mister O'Connell, can you look me in  the eye, and guarantee me this is  not some sort of flimflam? Because  if it is, I'm warning you --
+O'CONNELL	f	All I can tell you, miss, is that my  Colonel found that map in an ancient  fortress, and the whole damn garrison  believed in it so much, that without  orders, we marched halfway across  Libya and into Egypt to find that  city. Like I told ya, all I saw was  sand. Everybody else was wiped out  by Tuareg warriors. I'll take your  bags.
+JONATHAN	m	Yes, yes, you're right, filthy, rude,  a complete scoundrel, nothing to  like there at all.
+WARDEN	m	A bright good morning to all.
+EVELYN	f	What are you doing here?
+WARDEN	m	I have come to protect my investment,  thank you very much.
+JONATHAN	m	Sit down, O'Connell, sit down, we  could use another good player.
+O'CONNELL	f	I only gamble with my life, never my  money.
+DANIELS	m	Never? What if I were to wager five  hundred dollars says we get to  Hamunaptra before you?
+O'CONNELL	f	Yer on.
+BURNS	m	What makes you so confident, sir?
+O'CONNELL	f	What makes you?
+HENDERSON	m	We got us a man who's actually been  there.
+JONATHAN	m	I say, what a coincidence, why --
+JONATHAN	m	-- whose deal is it? Is it my deal?  I thought I just dealt?
+O'CONNELL	f	Sorry, didn't mean to scare ya.
+EVELYN	f	The only thing that scares me, Mister  O'Connell, are your manners.
+O'CONNELL	f	Still angry that I kissed ya, huh?
+EVELYN	f	If you call that a kiss.
+EVELYN	f	Did I miss something? Are we going  into battle?
+O'CONNELL	f	The last time I was at that place  everybody I was with died.
+O'CONNELL	f	There's something out there, you  know, something under that sand.
+EVELYN	f	Yes, I'm hoping to find a certain  artifact, a book, actually, my brother  thinks there's treasure. What do you  think is out there?
+O'CONNELL	f	Evil. The Tuaregs and the Bedouin  believe that Hamunaptra is cursed,  they call it, "the doorway to hell."
+EVELYN	f	Ahmar is Ossirion. "Passageway to  the underworld", actually.
+EVELYN	f	I don't believe in fairy tales and  hokum, Mister O'Connell, but I do  believe that one of the most famous  books in history is buried out there,  The Book Of The Living. It's what  first interested me in Egypt as a  child. It's why I came here, sort of  a life's pursuit.
+O'CONNELL	f	And the fact that they say it's made  out of pure gold, makes no nevermind  to you, right?
+EVELYN	f	You know your history.
+O'CONNELL	f	I know my treasure.
+EVELYN	f	By the way,... why did you kiss me?
+O'CONNELL	f	I was about to be hanged, seemed  like a good idea at the time.
+O'CONNELL	f	What?... Wha'd I say?
+BENI	m	My very good friend! What a surprise.
+O'CONNELL	f	Why if it ain't my little buddy,  Beni. I oughta kill you.
+BENI	m	You never were any good with the  ladies, O'Connell.
+O'CONNELL	f	So you're the one leading the  Americans, I shoulda figured. So  what's the scam? You get 'em out in  the middle of the desert then leave  'em to rot?
+BENI	m	Unfortunately no, these Americans  are smart, they pay me only half  now, half when I get them back to  Cairo, so I must go all the way.
+BENI	m	You never believed in Hamunaptra,  O'Connell. Why are you going back?  The devil himself lives out there.
+O'CONNELL	f	The girl saved my life, figured it  was the least I could do, keep her  out of trouble.
+BENI	m	You always did have more balls than  brains.
+O'CONNELL	f	Let's make us even, shall we?
+BENI	m	Even?
+BENI	m	O'Connell! I am going to kill you  for this!
+O'CONNELL	f	Sounds familiar.
+HOOK	m	Where is the map?
+HOOK	m	And the key? Where is the key?
+HOOK	m	Then I'll find it myself.
+O'CONNELL	f	Friend of yours?
+EVELYN	f	The map! We need the map!
+O'CONNELL	f	Relax! I'm the map! It's all up here.
+EVELYN	f	Oh that's comforting.
+O'CONNELL	f	C'mon, there's still one more of  those guys around here somewhere.
+JONATHAN	m	EVY!!
+JONATHAN	m	Hey that's mine --
+O'CONNELL	f	Can you swim?
+EVELYN	f	Well of course I can swim, if the  occasion calls for it.
+O'CONNELL	f	Trust me.
+O'CONNELL	f	The occasion calls for it.
+JONATHAN	m	Americans.
+JONATHAN	m	I say! Good show!
+JONATHAN	m	And did I panic?
+JONATHAN	m	I think not.
+BENI	m	Hey O'Connell! Looks to me like I  got all the horses!
+O'CONNELL	f	Hey Beni! Looks to me like your on  the wrong side of the river!
+JONATHAN	m	I can't believe the price of these  fleabags.
+O'CONNELL	f	We coulda had 'em for free, all we  had to do was give 'em your sister.
+JONATHAN	m	Yes, awfully tempting, wasn't it?
+O'CONNELL	f	Awfully.
+O'CONNELL	f	Then again...
+JONATHAN	m	Never did like camels. Filthy buggers.  They smell, they bite, they spit.  Disgusting.
+O'CONNELL	f	Yeah, disgusting.
+EVELYN	f	Well I think they're cute.
+JONATHAN	m	And you snore!
+WARDEN	m	I do not snore!
+JONATHAN	m	All night you snored!
+WARDEN	m	I have never snored!
+O'CONNELL	f	We're almost there.
+EVELYN	f	Are you sure?
+O'CONNELL	f	Pretty sure.
+JONATHAN	m	What in bloody hell is this?
+WARDEN	m	Other seekers of Hamunaptra.
+BENI	m	Good morning, my friend!
+DANIELS	m	Well, what the hell we doin'?
+BENI	m	Patience, my good sahib, patience.
+HENDERSON	m	First one to the city, O'Connell!  Five hundred! Cash bucks!
+O'CONNELL	f	Get ready.
+EVELYN	f	For what?
+O'CONNELL	f	We're about to be shown the way.
+DANIELS/HENDERSON/BURNS	?	HEYA!
+DANIELS	m	SEE YA THERE, O'CONNELL!
+JONATHAN	m	Ah, begging your pardon, but shouldn't  we be going?
+EVELYN	f	After all, you rode us night and day  to win that bet.
+BENI	m	Fools.
+O'CONNELL	f	Evelyn! Slow down!
+O'CONNELL	f	SLOW DOWN, EVELYN! SLOW DOWN! THERE'S
+O'CONNELL	f	Never mind.
+O'CONNELL	f	You boys owe me five hundred dollars.
+DANIELS	m	Where'd all these camels come from?
+BENI	m	They belong to the dead. They will  wait years for their masters to return  before leaving.
+JONATHAN	m	That thing gives me the creeps.
+O'CONNELL	f	Be nice. That thing saved my life.
+EVELYN	f	That "thing" gets me excited.
+O'CONNELL	f	The things that get you excited.
+EVELYN	f	According to Bembridge Scholars,  inside the statue of Anubis was a  secret compartment, perhaps containing  The Book Of The Living.
+O'CONNELL	f	What are those mirrors for?
+EVELYN	f	Ancient Egyptian trick. You'll see.
+EVELYN	f	Do you realize, we are standing inside  a room that no one has entered in  over four thousand years.
+WARDEN	m	Who cares? I don't see no treasure.
+O'CONNELL	f	You're welcome to my share of the  spider webs.
+JONATHAN	m	And it stinks to high heaven in here.
+EVELYN	f	Cretins.
+O'CONNELL	f	That is a neat trick.
+EVELYN	f	Oh my god, It's a preparation room.
+O'CONNELL	f	Preparation for what?
+EVELYN	f	For entering the afterlife.
+JONATHAN	m	Mummies, my good son, this is where  they made the mummies.
+HENDERSON	m	Ya scared the bejeezus out of us,  O'Connell.
+O'CONNELL	f	Likewise.
+DANIELS	m	This here is our statue,... friend.
+O'CONNELL	f	Don't see your name on it,... pal.
+BENI	m	Ten to one, O'Connell, your odds are  no-so-good.
+O'CONNELL	f	I've had worse.
+JONATHAN	m	Yes, me too.
+EVELYN	f	Let's be nice, children, if we're  going to play together, we must learn  to share.
+EVELYN	f	According to my calculations, we  should be right under the statue.  We'll come up right between his legs. Oh my.
+JONATHAN	m	And when those dirty Yanks go to  sleep -- No offense.
+O'CONNELL	f	None taken.
+JONATHAN	m	We'll sneak up and steal that book  right out from under them.
+O'CONNELL	f	And you're sure you can find the  secret compartment?
+EVELYN	f	Yes, if their Egyptologist hasn't  already found it.
+JONATHAN	m	I say, what's our smelly little friend  got himself up to?
+EGYPTOLOGIST	?	Seti was no fool.
+HENDERSON	m	Yeah, sure...
+HENDERSON	m	We'll let him open it.
+O'CONNELL	f	Lemme get this straight, they stuck  a sharp, red hot poker up your nose,  cut your brain into small pieces,  then ripped it all out through your  nostrils?
+JONATHAN	m	OWCH! That's really got to hurt.
+EVELYN	f	It's called mummification. You're  dead when they do this
+JONATHAN	m	Still...
+O'CONNELL	f	Yeah, that'd bring you back to life.
+EVELYN	f	You two are worse than a couple of  schoolboys.
+EGYPTOLOGIST	?	FENI!
+EVELYN	f	Oh my god,... it looks like, it looks  like a sarcophagus.
+O'CONNELL	f	Why would they bury somebody in the  ceiling?
+EVELYN	f	They didn't, they buried him at the  foot of Anubis. He was either someone  of great importance. Or he did  something very naughty.
+JONATHAN	m	Well?... Who is it?
+EVELYN	f	'He that shall not be named.'
+O'CONNELL	f	There's some sort of lock here. You  say these thing's are made of granite  with a steel interior?
+EVELYN	f	Quarried granite with a cobalt lining.
+JONATHAN	m	Whoever's in here, sure wasn't getting  out.
+O'CONNELL	f	No kiddin', without a key, it'll  take us a month to crack this thing,
+EVELYN	f	A key! That's it! That's what he was  talking about.
+O'CONNELL	f	Who was talking about what?
+EVELYN	f	The man on the barge. The one with  the hook, he was looking for a key.
+JONATHAN	m	Hey that's mine!
+EVELYN	f	What do you suppose killed him?
+JONATHAN	m	Did you ever see him eat?
+O'CONNELL	f	Seems the Americans had a little  misadventure of their own today,  three of their diggers were killed.
+EVELYN	f	How?
+O'CONNELL	f	Salt acid. Pressurized salt acid.  Some sort of ancient booby-trap.
+JONATHAN	m	Maybe this place really is cursed.
+EVELYN	f	You two!
+O'CONNELL	f	You don't believe in curses, huh?
+EVELYN	f	No. I believe if I can see it and I  can touch it, then it's real. That's  what I believe.
+O'CONNELL	f	I believe in being prepared.
+O'CONNELL/EVELYN	?	WHAT?! WHAT IS IT?!
+JONATHAN	m	Seagrams!
+JONATHAN	m	Well, he may have been a stinky  fellow,... but he had good taste.
+O'CONNELL	f	Stay here!
+JONATHAN	m	Evy! Excuse me! But didn't the man  just say -- !
+O'CONNELL	f	Goin' somewhere?
+BENI	m	Just looking for you, O'Connell! I  wanted to be with my friend!
+O'CONNELL	f	C'mon, friend.
+BENI	m	Why do you like to fight so much?
+O'CONNELL	f	'Cause I look good doin, it.
+JONATHAN	m	Let 'em have it, boys!
+JONATHAN	m	I say, bloody good show.
+ARDETH RAY	f	LEAVE THIS PLACE!... LEAVE THIS PLACE
+O'CONNELL	f	You alright?
+EVELYN	f	Yes,... fine,... thank you.
+DANIELS	m	See! That proves it! Old Seti's  fortune's gotta be under this sand!
+HENDERSON	m	For them to protect it like this,  you just know there's got to be  treasure down there.
+O'CONNELL	f	These men are a desert people. They  value water, not gold.
+EVELYN	f	Where's Jonathan?
+EVELYN	f	Unlike my brother, sir, I know when  to say no.
+O'CONNELL	f	Unlike your brother, Miss, you I  don't get. You're a whole new brew.
+EVELYN	f	I know, you're wondering, what's a  place like me doing in a girl like  this?
+O'CONNELL	f	Something like that.
+EVELYN	f	Egypt is in my blood. My father was  a famous explorer, he loved Egypt so  much that he married an Egyptian. My  mother! Who was quite an adventurer  herself
+O'CONNELL	f	Okay, I get your father, I get your  mother and I get your brother, but  what are you doing here?
+EVELYN	f	I may not be an explorer, or an  adventurer, or a treasure hunter, or  a gunfighter! Mister O'Connell But  I'm proud of what I am.
+O'CONNELL	f	And what is that?
+EVELYN	f	...I am a librarian!
+EVELYN	f	I'm going to kiss you, Mister  O'Connell.
+O'CONNELL	f	No you're not.
+EVELYN	f	I'm not?
+O'CONNELL	f	Not unless you call me Rick.
+EVELYN	f	Why would I do that?
+O'CONNELL	f	Because that's my name.
+EVELYN	f	I can't believe I allowed the two of  you to get me drunk.
+JONATHAN	m	Don't blame me, I don't even remember  being there.
+EVELYN	f	Well neither do I, thank you.
+O'CONNELL	f	You don't?
+EVELYN	f	No... Why?... Should I?
+O'CONNELL	f	Gee, yeah, you told me it was the  best time you ever had.
+EGYPTOLOGIST	?	There is a curse upon this chest.
+DANIELS	m	Curse my ass.
+HENDERSON	m	Yeah, who cares.
+EGYPTOLOGIST	?	In these hallowed grounds, that which  was set forth in ancient times, is  as strong today, as it was then.
+HENDERSON	m	Yeah, yeah, okay, what's it --
+EGYPTOLOGIST	?	"Death will come on swift wings to  whomever opens this chest".
+EGYPTOLOGIST	?	It says, there is one, the undead,  who if brought back to life, is bound  by sacred law to consummate this  curse.
+HENDERSON	m	Yeah, well, let's just make sure we  don't bring anybody back from the  dead then, huh?
+EGYPTOLOGIST	?	He will kill all who open this  chest,... and assimilate their organs  and fluids.
+DANIELS	m	Assimilate their organs and fluids?  Ya mean eat 'em?
+EGYPTOLOGIST	?	And in so doing he will regenerate.  And no longer be the undead, but a  plague upon this earth.
+HENDERSON	m	Ah hell, let's open it anyways.
+EVELYN	f	Oh my god, I've dreamed about this  ever since I was a little girl.
+O'CONNELL	f	You dream about dead guys?
+EVELYN	f	Look, all the sacred spells have  been chiseled off. The hieratics and  hieroglyphs that protect the deceased  on his journey into the afterlife,  they've been removed. This man was  cursed,... doomed.
+O'CONNELL	f	Tough break.
+JONATHAN	m	Yes, I'm all tears, now let's see  who's inside, shall we?
+O'CONNELL/EVELYN/JONATHAN	?	AHHHHH!!!
+BENI	m	The curse,... beware the curse!
+DANIELS	m	Stupid superstitious bastard.
+O'CONNELL	f	Is he supposed to look like that?
+EVELYN	f	No. I've never seen a mummy look  like this. He's, he's still...
+JONATHAN	m	Juicy?
+EVELYN	f	Yes. He's more than four thousand  years old and still decomposing.
+O'CONNELL	f	And look at this.
+EVELYN	f	Oh my god, he was buried alive.
+EVELYN	f	And he left a message.
+EVELYN	f	It says: 'Death is only the  beginning.'
+O'CONNELL	f	Where's my gun?
+JONATHAN	m	What are you going to do? Shoot him?
+O'CONNELL	f	If he decides to wake up, hell yes!
+EGYPTOLOGIST	?	I have heard told of this book, but  I never truly believed it existed.  This, good gentlemen, is a most  priceless treasure.
+HENDERSON	m	I wouldn't trade ya for a brass  spittoon!
+DANIELS	m	Yeah! It's supposed to be made outta  pure gold!
+JONATHAN	m	What is this stuff? It smells like  our late friend, the Warden.
+JONATHAN	m	You did not!?... We're not!?
+O'CONNELL	f	Rat gizzards. They smell bad and  taste worse, but that's the best the  desert has to offer.
+HENDERSON	m	Say O'Connell, whadaya think these  honey's'll fetch back home?
+BURNS	m	We hear you gentlemen found yerselves  a nice gooey mummy. Congratulations.
+DANIELS	m	Ya know if ya dry him out, you can  sell him for firewood.
+EVELYN	f	Scarabs, flesh eaters, I found them  inside our friend's coffin. They can  stay alive for years living off the  flesh of a corpse, or in this case...
+EVELYN	f	Famished.
+O'CONNELL	f	Are you saying somebody threw these  things in with our guy, and they  slowly ate him alive?
+EVELYN	f	Very slowly.
+JONATHAN	m	He certainly was not a popular fellow  when they planted him.
+O'CONNELL	f	Must of got a little too frisky with  the Pharaoh's daughter.
+EVELYN	f	According to my readings, our friend  suffered the HOM-DAI, the worst of  all ancient Egyptian curses, one  reserved for only the most evil  blasphemers. In all of my research,  I've never read of this curse actually  having been performed.
+O'CONNELL	f	That bad huh?
+EVELYN	f	Yes, they never used it because they  feared it so. It's written, that if  a victim of the HOM-DAI should ever  arise, he would bring with him the  ten plagues of Egypt.
+O'CONNELL	f	The ten plagues?... You mean all ten  plagues.
+BENI	m	Like what that Moses guy did to that  Pharaoh guy?
+EVELYN	f	That's one way of putting it.
+JONATHAN	m	Let's see, there was frogs, flies,  locusts...
+BURNS	m	Hail and fire.
+HENDERSON	m	The sun turning black.
+DANIELS	m	Water turning to blood.
+JONATHAN	m	And my personal favorite: people  covered in boils and sores.
+EVELYN	f	Fried gizzard anyone?
+O'CONNELL	f	You sure you outta be playin, around  with that?
+EVELYN	f	It's just a book, no harm ever came  from a book.
+EVELYN	f	Ahm kum Ra. Ahm kum Dei.
+EGYPTOLOGIST	?	NO! NOOOO! YOU MUST NOT!
+EGYPTOLOGIST	?	What have we done?
+JONATHAN	m	Did you see that!? Grasshoppers!  Billions of grasshoppers!
+O'CONNELL	f	That's one of the plagues, right?  The grasshopper plague!
+EVELYN	f	This is not a plague. It's  generational. Every so many years  the locusts of Egypt have a population  explosion and they all take flight.
+O'CONNELL	f	Okay,... and what about frogs?
+BURNS	m	Daniels! Henderson!
+BURNS	m	Daniels?... is that you?
+BURNS	m	Henderson?
+JONATHAN	m	EVY!?
+EVELYN	f	Oh thank goodness, you're one of the  Americans, aren't you?
+IMHOTEP	m	Anck-su-namun?
+O'CONNELL	f	Damn-it! Must be a trap door around  here or somethin'.
+HENDERSON	m	RUN, YOU SONS-A-BITCHES! RUUUUN!
+EVELYN	f	Help me,... please,... help me.
+IMHOTEP	m	Kadeesh pharos Anck-su-namun!
+O'CONNELL	f	Would you quit playin, around! Let's  get outta here already!
+O'CONNELL	f	WHOA!
+IMHOTEP	m	ANCK-SU-NAMUUUUUN!!!!
+O'CONNELL	f	Ahhhhhhhh!!
+ARDETH RAY	f	I told you to leave or die, you  refused, and now you may have killed  us all. For you have unleashed the  creature that we have feared for  more than four thousand years.
+O'CONNELL	f	Relax, I got him.
+ARDETH RAY	f	No mortal weapons can kill this  creature. He is not of this world.
+O'CONNELL	f	Are we talkin, about the same  creature? The walking corpse? Really  big mouth? Really bad breath?
+BENI	m	May the good Lord protect and watch  over me as a shepherd watches over  his flock. And may Satan in all his  forms be vanquished forever.
+IMHOTEP	m	The language of the slaves.
+IMHOTEP	m	I may have use for you. And the  rewards will be great.
+IMHOTEP	m	Where are the other sacred jars?
+DANIELS	m	You bastards!
+HENDERSON	m	What did you do to him!?
+ARDETH RAY	f	We saved him! Saved him before the  creature could finish his work. Now  leave, all of you, quickly, before  he finishes you all.
+JONATHAN	m	You're not going to kill us?
+ARDETH RAY	f	We must now hunt him down, and try  and find a way to kill him, before  he consumes the earth. Allah be with  us.
+O'CONNELL	f	I told ya, I already got him!
+ARDETH RAY	f	Know this, the creature will be coming  for you. He must consummate the curse.  And until he does, he will never  eat, he will never sleep, and he  will never stop.
+IMHOTEP	m	ANCK-SU-NAMUUUUUN!!!!
+O'CONNELL	f	I thought you didn't believe in this  stuff!?
+EVELYN	f	Having an encounter with a four  thousand year old walking-talking  corpse tends to convert one.
+O'CONNELL	f	Forget it, we're out the door down  the hall and gone.
+EVELYN	f	No, we are not.
+O'CONNELL	f	Oh yes we are.
+EVELYN	f	No we are not. We woke him up, and  we must try and stop him.
+O'CONNELL	f	We?! What we?! You didn't read that  book. I told you not to play around  with that thing.
+EVELYN	f	Alright then, Me, I,... I read the  book, I woke him up and I intend to  stop him.
+O'CONNELL	f	How!? You heard the man, no mortal  weapons can kill this guy.
+EVELYN	f	Then we'll have to find some immortal  ones.
+O'CONNELL	f	There goes that belief again. Not  me, I am outta here!
+EVELYN	f	According to that Book, once this  creature has been reborn, his curse  will spread, and as he grows in  strength, so will his curse grow,  infecting the people until the whole  of the earth is destroyed.
+O'CONNELL	f	Yeah? So? Is that my problem?
+EVELYN	f	It's everybody's problem!
+O'CONNELL	f	Look lady, I appreciate you saving  my life and all, but when I signed  on, I agreed to take you out there  and bring you back, and I did, now  were even, end of job, end of story,  contract terminated.
+EVELYN	f	That's what I am to you? A contract?
+O'CONNELL	f	You can either tag along with me, or  you can stay here and play around  with Mister Maggot.
+EVELYN	f	I'm staying.
+O'CONNELL	f	FINE.
+O'CONNELL	f	Beni ya little stinkweed, where did  you slink off to?
+BENI	m	You left me! You left me in the desert  to rot.
+O'CONNELL	f	Oh yeah,... sorry bout that. So who's this guy?
+BENI	m	This is Prince Imhotep, High Priest  of Osiris.
+O'CONNELL	f	Oh, hey, how ya doin'?
+BENI	m	The Prince does not like to be touched  by other humans. A Silly eastern  superstition, I'm afraid.
+O'CONNELL	f	Yeah, well, we all got our little  problems today don't we?
+BENI	m	He has come to help Mister Burns.  Somehow I feel responsible.
+O'CONNELL	f	Don't gimme that, you never had any  scruples.
+BENI	m	Do you know where I can steal some?
+O'CONNELL	f	See ya around, Padre.
+WINSTON	m	I'm the last of the Royal Force still  stationed here, you know? All the  other laddies died in the air and  were buried in the sand.
+WINSTON	m	Ever since the end of the Great War,  there hasn't been a single challenge  worthy of a man like me.
+O'CONNELL	f	I've heard it before, Winston.
+WINSTON	m	I just wish I would've chucked it  with the other laddies, gone down in  a flame of glory, instead of sitting  around here, rotting from boredom  and booze!
+BURNS	m	The drawer there, spectacles. As you see, I won't be needing them.
+BENI	m	Mister Burns, Prince Imhotep thanks  you for your spectacles, -- and for  your eyes,... and for your tongue.
+BENI	m	But I am afraid more is needed, the  Prince says he must finish the job,  consummate the curse which you and  your friends have brought down upon  yourselves.
+HENDERSON	m	Sweet Jesus! That tasted just like,...  like...
+O'CONNELL	f	Blood.
+JONATHAN	m	"And the rivers and waters of Egypt  went red and were as blood."
+O'CONNELL	f	He's here.
+JONATHAN	m	Who's here!?
+O'CONNELL	f	The guy! The Priest! THE MUMMY!
+O'CONNELL	f	Evelyn!! EVELYYYYNN!!!
+O'CONNELL	f	We got problems.
+O'CONNELL	f	He's here! I saw him! That thing is  here!
+EVELYN	f	The creature!? Are you sure!?
+O'CONNELL	f	Pretty sure!
+O'CONNELL	f	We are in serious trouble.
+O'CONNELL	f	Back off, creep.
+IMHOTEP	m	You saved me from the undead. For  this, I shall make you immortal.
+HENDERSON	m	The curse. The curse.
+EVELYN	f	There's only one person I know who  can possibly give us some answers.
+EVERYBODY	m	YOU!
+CURATOR	?	Miss Carnavon. Gentlemen.
+EVELYN	f	What is he doing here?
+CURATOR	?	Do you truly wish to know? Or would  you prefer to just shoot us?
+O'CONNELL	f	I just saw my fist vanish into some  guy's head.
+O'CONNELL	f	I'm willin, to go on a little faith,  here.
+CURATOR	?	You will not believe it.
+O'CONNELL	f	Try me.
+CURATOR	?	We are part of an ancient secret  society, the cult-of-the-Mumia, and  we have a sacred mission, passed  down through thirty-nine generations.  For over four thousand years we have  guarded The City Of The Dead. we are  sworn at manhood to do any and all  in our power to stop the High Priest  Imhotep from being reborn into this  world.
+ARDETH RAY	f	And because of you, we have failed.
+EVELYN	f	And you think this justifies killing  innocent people!?
+CURATOR	?	To have stopped this creature? Yes!
+O'CONNELL	f	Okay, let's cut to the chase. He's  afraid of cats, what's that about?
+CURATOR	?	According to the ancients, cat's are  the guardians at the gates of the  underworld. Imhotep will fear them  until he is fully regenerated, and  then he will fear nothing.
+DANIELS	m	Right! And ya know how he gets fully  regenerated?! By killing everybody  who opened that chest and sucking us  dry! That's how!
+CURATOR	?	Yes, the creature must first try and  regenerate, and then he will attempt  to resurrect the one he has loved  for more than four thousand years.
+EVELYN	f	Anck-su-namun.
+EVELYN	f	In the necropolis, when I saw him, - alive,... walking, he called me Anck- su-namun. And then in Mister Burns'  quarters he tried to kiss me.
+CURATOR	?	It is because it was you who read  from the Book. He has chosen you to  be the human sacrifice needed to  regenerate the body of Anck-su-namun.
+JONATHAN	m	This is not good. Not good at all.
+ARDETH RAY	f	Tonight is the full moon. The moon  of Osiris. It will begin tonight.
+JONATHAN	m	"...and he stretched forth his hands  towards the heavens, and there was  darkness throughout the land of  Egypt."
+EVELYN	f	We must stop him from regenerating.
+EVELYN	f	Who opened that chest?
+HENDERSON	m	Well, there was me and Daniels here  and then poor Burns of course, oh  yeah, and that Egyptologist fella.
+O'CONNELL	f	What about my buddy, Beni?
+DANIELS	m	Naw, he scrammed outta there,
+EVELYN	f	We must find the Egyptologist and  bring him back here to the safety of  the fort, before the creature can  get to him.
+O'CONNELL	f	Okay,... Evelyn, you wait here, you  two come with me.
+HENDERSON	m	The hell with that! I'm not goin'  nowhere! We're safe here.
+DANIELS	m	Yeah, I'm not leavin, this fort for  nothin'.
+EVELYN	f	Who put you in charge? You can't  just leave me behind like some old  suitcase. I'm the one responsible  for this mess and I intend to be the  one to clean it up.
+O'CONNELL	f	Keep an eye on her. If you leave her  door, I'll rip your spleen out. C'mon,  Jonathan.
+JONATHAN	m	Me?
+O'CONNELL	f	Well, well, well.
+O'CONNELL	f	Lemme guess, spring cleaning?
+O'CONNELL	f	Where's your new friend?
+BENI	m	What friend? You're my only friend.
+O'CONNELL	f	Then you got no excuse for living.  What the hell you doin, being buddies  with this creep, Beni? What's in it  for you?
+BENI	m	It is better to be the right hand of  the Devil,... than in his path. As  long as I serve him, I am immune.
+O'CONNELL	f	Immune from what?
+BENI	m	You shall see.
+O'CONNELL	f	What are you looking for? Lie, and  I'll slit your throat.
+BENI	m	The book! The black book they found  at Hamunaptra! Imhotep wants it back.  Said to me it would be worth it's  weight in diamonds.
+O'CONNELL	f	What does he want the book for?
+BENI	m	Something about bringing his dead  girly-friend back to life. He needs  the book... And your sister.
+JONATHAN	m	That looked rather painful.
+O'CONNELL	f	Ya know, ever since I met you, my  luck has been for crap.
+JONATHAN	m	Yes, I know, I do that to people.
+O'CONNELL	f	Damn-it! That's two down and only  two to go.
+JONATHAN	m	And then he'll be coming after Evy.
+SOLDIER	m	Ten o'clock! All is well!
+DANIELS	m	The hell with this. I'm goin,  downstairs to get me a drink. You  want somethin'?
+HENDERSON	m	Yeah, get me a glass of bourbon, a  shot of bourbon and a bourbon chaser.
+O'CONNELL	f	Get your hands off my girl, pal.
+O'CONNELL	f	Nice lips.
+O'CONNELL	f	I figured you might be here, so I  brought a friend.
+EVELYN	f	You called me your girl?
+O'CONNELL	f	What?... Oh yeah, that was just um,  you know, figure a speech.
+EVELYN	f	I think you were jealous
+O'CONNELL	f	Jealous? You kiddin' me? Did you see  that guy's face?
+DANIELS	m	Shut-up! JUST SHUT-UP! We gotta do  somethin'! we gotta do somethin,  NOW! Before it's too late!
+EVELYN	f	Last month I came across an  inscription that mentioned The Book  Of The Dead.
+DANIELS	m	That book we found at Hamunaptra?
+EVELYN	f	Yes. I dismissed it, because it talked  about bringing people back from the  dead. A notion I was unwilling to  believe.
+O'CONNELL	f	Believe it, sister. That's what  brought our buddy back to life.
+JONATHAN	m	And now he's going to use it to bring  his girlfriend back
+ARDETH RAY	f	And if he succeeds, the two of them  together will bring about the  apocalypse.
+THE CURATOR	m	The plagues we have seen so far, are  merely Imhotep flexing his muscles.  Only at the moment of Anck-su-namun's  resurrection will he be truly  invincible.
+EVELYN	f	I'm thinking that if the black Book  Of The Dead can bring people back to  life --
+CURATOR	?	-- then perhaps, the golden Book Of  The Living can return them to the  underworld.
+EVELYN	f	Exactly --
+O'CONNELL	f	So your sayin', if we find the book  made outta gold --
+CURATOR	?	-- And read the sacred incantations  contained inside it.
+O'CONNELL	f	You think it'll send this guy back  to hell?
+CURATOR	?	Correct, And that's when --
+ARDETH RAY	f	It has begun. The beginning of the  end.
+EVELYN	f	Not quite yet it hasn't. C'mon.
+EVELYN	f	Got it!
+O'CONNELL	f	Got what?
+EVELYN	f	Since the black Book of The Dead was  found inside the statue of Anubis,  then according to this, the golden  Book of The Living should be inside...
+O'CONNELL	f	What?
+JONATHAN	m	What?
+DANIELS	m	WHAT!?
+EVELYN	f	The golden Book Of The Living, is  inside the statue of Horus.
+CURATOR	?	Which would be located not far to  the east of the Anubis statue.
+O'CONNELL	f	Don't tell me we gotta go back out  there?
+CURATOR	?	If we want to kill the creature,  yes.
+JONATHAN	m	Anck-su-namun! Anck-su-namun!
+BENI	m	Imhotep! IMHOTEP!
+O'CONNELL	f	You're gonna get yours, pal!
+O'CONNELL	f	C'mon! C'mon! Let's go! Let's go!
+EVELYN	f	He's gorgeous.
+THE CURATOR	m	He has consummated the curse, now  all he need do is raise Anck-su-namun  from the dead, then it will be the  end of us, and the beginning for  them.
+IMHOTEP	m	Koontash dai na.
+BENI	m	Take his hand and he will spare the  others.
+EVELYN	f	Any bright ideas?
+O'CONNELL	f	Sorry, fresh out.
+O'CONNELL	f	Don't do it, Evelyn.
+EVELYN	f	I have no choice.
+IMHOTEP	m	Keetah mi pharos, aja nilo, isirlan.
+BENI	m	Come with me my princess. It is time  to make you mine, forever.
+EVELYN	f	All eternity, idiot.
+EVELYN	f	You better think of something, because  if he turns me into a mummy, you're  the first one I'm coming after.
+O'CONNELL	f	Got guts, lady.
+EVELYN	f	Yes, I know, and I'd like to keep  them.
+JONATHAN	m	Hey that's mine -- !
+O'CONNELL	f	Evelyn!
+ARDETH RAY	f	Be calm. There is still time. We can  stop him yet.
+IMHOTEP	m	Pared oos.
+EVELYN	f	NOOO!!
+BENI	m	Kill them.
+O'CONNELL	f	EVELYN!
+CURATOR	?	Go! Find a way! Kill the creature!
+O'CONNELL	f	We gotta get her back.
+JONATHAN	m	I'm with you, old man. No one touches  my sister like that and gets away  with it.
+O'CONNELL	f	You know where he's taking her?
+ARDETH RAY	f	Yes. To Hamunaptra. To perform the  ritual.
+JONATHAN	m	And what ritual would that be?
+ARDETH RAY	f	The ritual to bring the body of Anck- su-namun back to life.
+JONATHAN	m	And how does one do that?
+ARDETH RAY	f	By reading the Book Of The Dead.
+JONATHAN	m	Oh yes, of course.
+ARDETH RAY	f	And then killing your sister.
+JONATHAN	m	Excuse me?
+ARDETH RAY	f	Imhotep is now able to cross the  desert with great haste.
+JONATHAN	m	Begging your pardon, but I wasn't  quite clear on that last part.
+ARDETH RAY	f	If he arrives before us, it will be  too late.
+JONATHAN	m	Did you say 'kill' my sister?
+O'CONNELL	f	I know how to beat him to it.
+WINSTON	m	So what's your little problem got to  do with His Majesty's Royal Air Corp?
+O'CONNELL	f	Not a god-damned thing.
+WINSTON	m	Is it dangerous?
+O'CONNELL	f	You probably won't live through it.
+WINSTON	m	By Jove, do you really think so?
+JONATHAN	m	Everybody else we've bumped into has  died, why not you?
+WINSTON	m	So what's the challenge then?
+O'CONNELL	f	To save the damsel in distress, kill  the bad guy and steal his treasure.
+WINSTON	m	Winston Havlock at your service,  sir!
+EVELYN	f	What just happened?
+BENI	m	All I remember is him turning into a  blast of sand,... and then I remember  nothing.
+WINSTON	m	Hang on, men!
+WINSTON	m	We're going down!
+WINSTON	m	Here I come, laddies!
+EVELYN	f	Stop it! You'll kill them!
+JONATHAN	m	Excuse me... A little help would be  useful... IF IT'S NOT TOO MUCH
+O'CONNELL	f	Okay, now what the hell does this  Horus guy look like?
+JONATHAN	m	He's a big fellow with pointy ears  and a face like a falcon.
+O'CONNELL	f	Got it.
+BENI	m	Keep moving.
+EVELYN	f	You know, nasty little fellows such  as yourself, always get their  comeuppance.
+BENI	m	Yeah?
+EVELYN	f	Oh yes, always.
+JONATHAN	m	I say, look at that.
+JONATHAN	m	Say, gents! You should come have a  look at this.
+O'CONNELL	f	From now on, don't touch anything.  Not a damn thing. Keep your hands  off the furniture, got it?
+BENI	m	Prince Imhotep wants your heart.
+EVELYN	f	Tell him, I'm truly flattered... but  that it's already taken.
+BENI	m	He wants your heart and your brain,  your liver, your kidneys...
+BENI	m	...and how do you say? Those slimy  things, in your stomach?
+EVELYN	f	Intestines.
+BENI	m	Yeah! Them.
+EVELYN	f	You only want me for my organs?!
+O'CONNELL	f	Who the hell are these guys?
+ARDETH RAY	f	Priests. Imhotep's priests.
+O'CONNELL	f	I never killed a priest before.
+ARDETH RAY	f	They are evil, cursed, they matter  not.
+O'CONNELL	f	Well, okay then.
+O'CONNELL	f	Oh come on, gimme a break here.
+IMHOTEP	m	Kill them! Kill them all! And bring  me the Book Of The Living!
+ARDETH RAY	f	My turn.
+O'CONNELL	f	This whole place is comin, alive!
+ARDETH RAY	f	I'm out.
+JONATHAN	m	There he is!
+JONATHAN	m	Hello Horus old boy.
+ARDETH RAY	f	Allow me.
+O'CONNELL	f	These guys just don't quit.
+ARDETH RAY	f	Keep digging!
+ARDETH RAY	f	Save the girl! Kill the creature!
+O'CONNELL	f	That's the last one, we better get  lucky.
+IMHOTEP	m	With your death, my love and I will  be invincible!
+JONATHAN	m	I found it, Evy! I found it
+EVELYN	f	Shut-up and get me off of here!
+EVELYN	f	Open the book, Jonathan! Open the  book! That's the only way to kill  him!
+JONATHAN	m	I can't open it! It's locked or  something!
+JONATHAN	m	We need the key!
+JONATHAN	m	What do I do, Evy!? What do I do!?
+EVELYN	f	Read the inscription on the cover!
+JONATHAN	m	Keetash-something, naraba-something.
+JONATHAN	m	Ebarra im hatu Kashka ummmmm -- ?
+JONATHAN	m	Rasheem Aaaaa ANUBIS!
+JONATHAN	m	Oh boy.
+O'CONNELL	f	This just keeps gettin, better and  better.
+O'CONNELL	f	Do something, Jonathan! Kill it!
+JONATHAN	m	You have got to be joking?
+EVELYN	f	Finish the inscription, idiot!
+JONATHAN	m	Oh.
+JONATHAN	m	Ummm, Hootash im... Hootash im now  what is this last symbol here?
+EVELYN	f	What's it look like!?
+JONATHAN	m	It's an Anck symbol, with two little  squiggly lines above it, and a bird,  a stork! on either side.
+EVELYN	f	Ah! Ah! Ahmenophus!
+JONATHAN	m	Yes,... I see.
+JONATHAN	m	Hootash im Ahmenophus!
+O'CONNELL	f	Okay pal, let's see how tough you  are without your right arm.
+O'CONNELL	f	Alright,... so he's left handed.
+JONATHAN	m	I got it!
+EVELYN	f	Kadeesh mal! Kadeesh mal! Pared oos!
+EVELYN	f	Death is only the beginning.
+O'CONNELL	f	C'mon!
+BENI	m	O'CONNELL!!
+BENI	m	Go away.
+JONATHAN	m	Well,... I guess we go home empty  handed.
+O'CONNELL	f	Wouldn't say that.
+O'CONNELL/JONATHAN	?	TUK-TUK-TUK!!
+

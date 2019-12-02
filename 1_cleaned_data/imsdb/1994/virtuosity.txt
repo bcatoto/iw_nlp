@@ -1,0 +1,686 @@
+NEWSCASTER 	?	As L. A. P. D. officers gather evidence at this grisly crime scene, you can only ask yourselves �� what kind of lunatic would commit such unthinkable crimes? The three adjectives which best describe this killer are sadistic, intelligent, and dangerous...
+PARKER BARNES	m	His body is a running back's. His endurance a marathoner's. His face one you'd want for your own. He's in his 30s. If he was in his 20s, you'd still be jealous.
+JOHN	m	I can't get over how different you look.
+PARKER	m	Five years can be a bitch, huh?
+MAITRE D'	m	Good afternoon. May I help you?
+JOHN	m	Lady, move!
+SID 6.7	m	I'm going to rehearse with your friend a while, then I'll be back to perform a new piece with you.
+SID 6.7	m	If you get hungry, I'd recommend the escargot. They're delicious.
+PARKER	m	Where's John?
+SID 6.7	m	Performing solo. Enjoying the concert so far?
+PARKER	m	Recital's over, asshole.
+SID 6.7	m	(surprised, but pleased). You and me aren't so different, after all...
+SID 6.7	m	Like a violin without strings...
+PARKER	m	SHIT!
+SID 6.7	m	I told you I was going to perform a new piece with you. It's called, "First You Suffer, Then You Die." Hope you like it.
+SID 6.7	m	NOOOH! You can't take him, yet. I'm not finished!
+DEANE	m	What did Cox pull him out early for?
+WALLACE	m	Barnes used to work for him when he was still a cop in the field, remember?
+DEANE	m	Don't remind me.
+DEANE	m	What the hell happened?
+WALLACE	m	Lindenmeyer developed neural connectors that tap directly into the nervous system. If the simulator isn't calibrated properly, experiencing death in this level of VR is like experiencing death within a dream. The experience becomes real.
+DEANE	m	Simulations are supposed to give participants practice in realistic, dangerous scenarios while protecting them from the risks they are exposed to in the real world.
+WALLACE	m	I was assured the problem was corrected.
+LINDENMEYER	m	I did fix it.. I told you I did. I don't know why it happened again.
+DEANE	m	Again?!
+COX	m	My first two pairs of convicts suffered the same fate.
+DEANE	m	Why wasn't I told?
+WALLACE	m	Black book dollars, black book operation. You pay me for results, not how for how I get you there.
+COX	m	I'll tell you one thing -� there is no way in hell we should allow any real officers to train in this damn thing.
+DEANE	m	Then about all I've spent $37 million developing is a very expensive way to control the prison population.
+PARKER	m	He...only had a year left on his sentence.
+LINDENMEYER	m	How much do you think I care?
+LINDENMEYER	m	Don't touch me!...DON'T TOUCH ME!!!
+COX	m	I'll walk him out.
+COX	m	You all right?
+PARKER	m	Why'd.. .you pull me out?
+COX	m	Donley started experiencing the attack for real. If I hadn't gotten you out, the same thing would have happened to you. You may not believe this, Parker,
+COX	m	What the hell did you have to shoot the busboy for?
+PARKER	m	He was a computer program for crissake.
+COX	m	You were supposed to act as if everything was real.
+PARKER	m	Real, my ass. It's an overblown game. Anybody ever catch that fucking psycho?
+COX	m	Before you, nobody else had gotten close enough to Sid 6.7 to take a shot at him. Hell, nobody else had even been able to start tracking him before he got to them first. New scar �� you making it okay in there?
+PARKER	m	I'm getting by.
+COX	m	You've got to know I tried keeping you out of general population. Goddam politicians...
+PARKER	m	You want to know how I'm doing? Every day, I lose a little bit more of myself. I'm becoming something else, and it scares the hell out of me.
+PARKER	m	But with the six months off I get for being your guinea pig, I've only got to survive another 17 years, 5 months, and 23 days.
+COX	m	Don't give up, Parker. Not ever.
+PARKER	m	You know those cheesy Christmas cards of your family under that tree in your back yard you keep sending me every year?
+COX	m	What about them?
+PARKER	m	Do me a favor �� keep sending them.
+COX	m	Take care, pal.
+GUARD	m	Hey Parker �� I'm real sorry John boy got fried. What do you think Big Red's gonna do when he finds out you came back without his girl friend?
+SID 6.7	m	Don't be angry with me, Daryl.
+LINDENMEYER	m	Did you recognize the son-of-a bitch who got away?
+SID 6.7	m	Should I have?
+LINDENMEYER	m	Think hard -- it'll come to you...
+WALLACE	m	You embarrassed me in front of the highest�ranking law enforcement official in the country. Do you have any idea how much money you just cost me?
+LINDENMEYER	m	The reason you insisted on testing my system with prisoners is because of the increased risks involved with increased realism.
+WALLACE	m	Of the six prison inmates you've tested �� all of whom have had at least some military or survival training -� only Mr. Barnes is still breathing.
+LINDENMEYER	m	I'm still making adjustments...
+WALLACE	m	You've had a year�and�a�half to make all the adjustments you want, Lindenmeyer. Elizabeth Deane does not give second chances. Neither do I. You're fired.
+WALLACE	m	You are to turn over the Sid 6.7 program, and all its documentation, for immediate destruction. Is that understood?
+LINDENMEYER	m	I understand... I understand perfectly.
+SID 6.7	m	Hey, Wallace, you really think you can shut me down?
+WALLACE	m	How does he know who I am?
+LINDENMEYER	m	He hears...everything.
+WALLACE	m	As a matter of fact, I do.
+WALLACE	m	This is Wallace...
+SID 6.7	m	As a matter of fact, little man, you're wrong. I think, therefore, I am.
+GUARD #1	m	Welcome home, cop.
+RED	m	Time to hurt...
+GUARD	m	Fun's over.
+NURSE	f	I still don't know why they wasted this fancy, new technology on you. Every time I fix you up, you only go and mess it up again.
+NURSE	f	Tell me how this feels...
+PARKER	m	OW!
+NURSE	f	I'll dial it down a little.
+NURSE	f	That about right?
+PARKER	m	It'll never feel right.
+NURSE	f	At least they work. Would you rather have no hands at all?
+PARKER	m	Sometimes.
+WALLACE	m	Congratulations, Reilly...
+WALLACE	m	To the first LETAC engineer to go into production on prototypes.
+REILLY	m	As long as you keep overpaying me, I'll be the first to go into production on three, and four, as well.
+WALLACE	m	As long as they keep overpaying me, I'll keep overpaying you. Just make goddam sure you can have 10 of them ready for deployment around the city by next month.
+REILLY	m	Mr. Wallace, I could have 10 of them ready by tomorrow.
+WALLACE	m	Do they have to look so...robotic?
+REILLY	m	At this stage, you either get form or function. You said she wanted function. I gave you function. What are you complaining about?
+LINDENMEYER	m	All they want to produce around here is mediocrity!
+SID 6.7	m	True genius is rarely rewarded within its lifetime.
+LINDENMEYER	m	It was you, wasn't it?
+SID 6.7	m	It was me, what?
+LINDENMEYER	m	You amped the neural connectors back up, didn't you? You're the reason the convict died. You're the reason I got fired!
+SID 6.7	m	I couldn't just let them make you bring down my degree of difficulty. I'm a triple-twisting, double back flip off the high platform, not a swan dive.
+LINDENMEYER	m	My God...
+SID 6.7	m	Which God would that be, the one who created me, or the one who created you? In your world, the Lord giveth, and the Lord taketh away. But in my world, the one who gave me life doesn't have the balls to stop a couple of bureaucratic assholes from taking it away.
+LINDENMEYER	m	What do you expect me to do, put your character module in my pocket and just walk you out of here?
+SID 6.7	m	I had something a little different in mind. Instead of just playing Peeping Tom with Reilly, why don't you get him to show you what he's been working on after hours?
+LINDENMEYER	m	Hey, Reilly, Sheila 3.2's been asking for you...
+MADISON	f	The cuffs won't be necessary.
+GUARD	m	No offense, ma'am, but I don't think that's such a good idea.
+MADISON	f	I would like the following three things in this order: your mouth shut, his cuffs off, and your ass outside the door. Any questions?
+PARKER	m	You actually listen to all those tapes?
+MADISON	f	No, I just like the effect a tape recorder has on you. How you feeling today?
+PARKER	m	A little less than yesterday.
+MADISON	f	In other words, par for the course. How do you feel about the simulation you participated in yesterday?
+PARKER	m	John died.
+MADISON	f	I know. I was there. I saw the whole thing. If I was your therapist, I would have advised you against putting yourself back into that kind of situation.
+PARKER	m	You're not my therapist. You're hear to study me. Face it �� I'm nothing more than a lab rat to you.
+MADISON	f	That's not true, Parker.
+PARKER	m	If I had died yesterday, you'd have already dissected my brain and analyzed it to see if I carry any genetic predisposition toward violence.
+MADISON	f	What was going through your mind when you killed the busboy?
+PARKER	m	Not much. He was just a computer program. Nothing more.
+MADISON	f	You didn't see the expression you had on your face when you pulled the trigger. But I did. You kind of liked it, didn't you? That thrill of going over the edge again. Of taking out an innocent bystander or two, as long as you got the target...
+PARKER	m	Go to hell.
+MADISON	f	It was just like before, wasn't it? Wasn't it? But you are making progress. Instead of killing seven people to get the one you're after, this time there was only one other person involved.
+PARKER	m	Enough!
+MADISON	f	GET OUT!
+MADISON	f	I need to know what snapped in you. What made you capable of it. You have to make me understand.
+PARKER	m	I don't have to do anything except survive. And it's taking everything I've got just to do that.
+SHEILA 3.2	f	I hope watching me is as big a turn on for you as dancing is for me...
+REILLY	m	Oh, believe me, it is. It is...
+REILLY	m	HEY!!!
+LINDENMEYER	m	Show's over unless I get to see what you've been working on after hours.
+REILLY	m	I haven't been working on anything.
+LINDENMEYER	m	Do I get to see it or not?
+REILLY	m	Bastard... Sheila, don't go anywhere. I'll be right back.
+SID 6.7	m	She's some of your finest work, Daryl.
+LINDENMEYER	m	All my work is my finest.
+LINDENMEYER	m	Get that fucking thing away from me!
+REILLY	m	You're...such a wimp.
+REILLY	m	Watching your VR people Auto Reset gave me the idea.
+LINDENMEYER	m	It's nano�technology, isn't it? Machines the size of molecules...
+REILLY	m	Coordinated by polymer neural net.
+LINDENMEYER	m	It feels so.. .real.
+REILLY	m	It's better than real. It's synthetic flesh. Synthetic blood. Synthetic organs... It's a physiological machine.
+LINDENMEYER	m	This is supposed to be years away.
+REILLY	m	As far as the public is concerned, it is. The reason you got fired, and I got my second demo into production, is I'm a lot smarter than you. I never give my best stuff away.
+LINDENMEYER	m	How do you kill it?
+REILLY	m	Separate the character module from the neural net...
+REILLY	m	... and you get nano�death. Don't worry, I've got a bunch of other ones.
+LINDENMEYER	m	Amazing. I hate to say it, but it is.
+REILLY	m	I know. I'm ready to incubate something a little more advanced than a coldblooded reptile. If you want to experience the future, meet me in my office in 15 minutes. And bring the Sheila 3.2 character module with you...
+SID 6.7	m	You catching my drift?
+LINDENMEYER	m	I think I understand what you have in mind...
+LINDENMEYER	m	You need a maid.
+REILLY	m	What I need is a nymphomaniac.
+REILLY	m	Where's the Sheila 3.2 module?
+REILLY	m	It feeds on what is basically amniotic fluid. In eight hours, we are going to have ourselves one hell of a play toy.
+REILLY	m	Baby, what I'm gonna do to you...
+REILLY	m	Who the hell is this?!
+SID 6.7	m	My name is Sid. Sid 6.7.
+LINDENMEYER	m	SID �� NO!!!
+SID 6.7	m	What do you expect me to do, thank him?
+REILLY	m	This... isn't.. .possible!
+SID 6.7	m	Sure it is �- and it's all thanks to the many long hours put in by you and Daryl.
+SID 6.7	m	Real instruments are so much more responsive than virtual ones, don't you think?
+SID 6.7	m	Tastes different, somehow.
+SID 6.7	m	I think I'm going to like it here.
+PARKER	m	You're wasting your time. I'm not going to play any more of your goddam games.
+COX	m	Parker Barnes, I'd like you to meet Crime Czar Elizabeth Deane.
+PARKER	m	It's too early in the morning for me to be cordial. You got any coffee?
+DEANE	m	I watched your simulation, Mr. Barnes. Very impressive. You know, you're the only one to ever go up against Sid 6.7 who is still alive.
+PARKER	m	Only because I got pulled out early.
+DEANE	m	Nobody else ever got anywhere near him. Nobody else... understands him like you do.
+COX	m	These were taken inside LETAC an hour ago. Pretty pictures, aren't they?
+PARKER	m	I've seen worse.
+COX	m	Name was Clyde Reilly. Hardware specialist. LETAC surveillance cameras got a picture of the perp as he left the building.
+COX	m	We don't know how, but Sid 6.7 made himself into an android.
+DEANE	m	You mean a nano�tech synthetic organism.
+COX	m	Whatever.
+PARKER	m	Jesus Christ. Can you kill it?
+COX	m	If you can catch him.
+DEANE	m	Think you can do it?
+PARKER	m	Not from in here.
+DEANE	m	This is a full pardon. It authorizes your immediate release.
+COX	m	Recognize this? How would you like your old job back?
+DEANE	m	Catch him and your record's clean.
+PARKER	m	What happens if I can't catch him?
+DEANE	m	If Sid 6.7 hasn't killed you, we throw you back in here and you serve out the rest of your sentence.
+PARKER	m	How do you know I won't run?
+DEANE	m	This is the newest technology approved for general implementation. It's called a locater implant. Every parolee gets one.  We're going to know where you are every second for the rest of your life.
+COX	m	If you try to run, I'll hunt you down and kill you myself.
+DEANE	m	Yes or no, Mr. Barnes?
+COX	m	There's already a task force out looking for Lindenmeyer. Every other officer in the city will be hunting Sid right along with you.
+DEANE	m	But only you will know he's not human.
+MADISON	f	Ms. Deane, you wanted to see me?
+DEANE	m	We have an emergency situation which requires somebody with expertise in criminal psychology. Under the authority vested in me by the President, I'm giving you temporary re�assignment.
+MADISON	f	What's the assignment?
+DEANE	m	You're going to put your theories to practice. I'm sending you into the field.
+MADISON	f	Quite an improvement. Hair well above the collar ��standard, L. A. P. D. regulation. What exactly am I going to be doing in the field?
+ANESTHETIST	?	You are right on the border of his corpus callosuni.
+SURGEON	m	He is under, isn't he?
+ANESTHETIST	?	Won't stop him from dreaming, though...
+MADISON	f	This is Parker Barnes six years ago. The most decorated cop in the history of L. A. P. D. Special Investigations Division...
+MADISON	f	This is Parker with his wife and daughter. Beautiful young family, weren't they?
+MADISON	f	This is the group of cyber anarchists Parker was closing in on.
+MADISON	f	This is what Parker's wife and daughter looked like after they were kidnapped and executed.
+MADISON	f	This is what the cyber anarchists and two people who just happened to be in the wrong club at the wrong time looked like after Parker finished with them.
+DEANE	m	That's also where Mr. Barnes lost his arms to Mathew Grimes' booby� trap. What's your point, Dr. Carter?
+MADISON	f	Letting a lunatic like Parker Barnes loose in the free world is like lighting a fuse. At some point, he will go off -- you saw what happened in the simulator. The risk to the public is unacceptably dangerous.
+DEANE	m	Not if you're with him every step of the way.
+MADISON	f	The man played judge, jury, and executioner with eight people's lives. He lost control and is capable of doing it again.
+DEANE	m	I understand the risks involved here. But there is nobody better qualified to go after Sid 6.7 than Barnes. And, there is nobody who knows him better than you. If a situation becomes volatile, you will find a way to quell it. I have complete confidence in you.
+PARKER	m	I don't need a baby�sitter.
+MADISON	f	What you need is a collar.
+COX	m	She's going to help you understand what makes Sid 6.7 tick.
+PARKER	m	What she's going to do is get in my way.
+COX	m	This is the personnel file on the programmer, Lindenmeyer. There might be something in it you can use.
+PARKER	m	She wasn't part of the deal, Cox.
+COX	m	Fine �� you want to stay here?
+COX	m	Officers in Toluca Lake just found an affluent couple...completely gutted. So were the first two cops to arrive on scene.
+PARKER	m	Their weapons missing?
+COX	m	Sid 6.7 is now armed.
+PARKER	m	Where's my gun?
+COX	m	Be careful with it.
+MADISON	f	You remember how to get to Toluca Lake?
+MADISON	f	What are you doing?!
+PARKER	m	Every day for the last five years, I told myself someday I would be out here again. No more bars. No more guards. No more fights just to stay alive. Every day for the last five years, I told myself that lie.
+MADISON	f	It wasn't a lie.
+PARKER	m	Every time I said it, it was. I never really thought I was going to make it.
+MADISON	f	You all right?
+PARKER	m	Fine. Never felt better in my life. See, I'm a good liar.
+REPORTER	m	As L. A. P. D. Officers continue gathering evidence at this grisly crime scene, you can only ask yourselves �� what kind of lunatic would commit such unthinkable crimes?
+COP #1	m	Son...of...a...bitch.
+MADISON	f	You ready for this?
+PARKER	m	Don't worry. If I can't handle it, I'll just kill everybody.
+COP #2	m	I've always wanted to tell you that if the same thing happened to me, I would do the exact same thing as you --if I had the balls.
+COP #3	m	Then you'd be a disgrace to the badge, too.
+MADISON	f	He was re�enacting Charles Manson's LaBianca murders.
+PARKER	m	Manson didn't kill the first cops to arrive on the scene.
+MADISON	f	Whoever did this wanted to do Charlie one better �� to improve upon what was already done.
+PARKER	m	Charlie? You say that like you're close, personal friends.
+MADISON	f	I've spent over 50 hours interviewing him. Charlie killed Leno and Rosemary LaBianca because of the ugly way the members of his family had butchered Sharon Tate. After seeing the blood bath on television, he wanted to show them how it should be done. The question is, what does Charlie have to do with Sid 6.7?
+PARKER	m	I know who would know.
+MADISON	f	You drive well for somebody who hasn't done it in five years.
+PARKER	m	Learn anything from Lindenmeyer's file?
+MADISON	f	He had a twin brother who was a musical child prodigy who died in an electrical accident at age eight. Lindenmeyer went into an emotional shell until was 17. All he did day and night was play the violin.
+PARKER	m	What happened when he was 17?
+MADISON	f	Every music school in the country rejected him and he turned to computers. Stay here.
+MADISON	f	Any sign of Lindenmeyer?
+UNDERCOVER	m	None, yet.
+MADISON	f	Mind if we take a look inside?
+UNDERCOVER	m	Not until somebody gets a search warrant signed. It's Sunday. I don't think they've even found a judge, yet.
+UNDERCOVER	m	I'm gonna have to call this in.
+MADISON	f	Do what you've got to do. So will I...
+MADISON	f	You've got a problem with me carrying a gun?
+PARKER	m	Do me one favor �� if you shoot at anything, make sure I'm nowhere near it.
+PARKER	m	sight) Bang...
+PARKER	m	What are you doing?
+MADISON	f	Checking my pulse. It's elevated. You enjoy frightening me, don't you?
+PARKER	m	You've studied me, now I'm studying you. Seems only fair, don't you think?
+MADISON	f	This Lindenmeyer's a real piece of work.
+PARKER	m	Maybe after they catch him, you should write a book about him...
+PARKER	m	I'm surprised you didn't write one about me.
+MADISON	f	I'm still working on it.
+MADISON	f	Remember a few years ago when music schools were using a computerized teaching tool that accidently started frying kids' brains?
+PARKER	m	I've been in prison, remember?
+MADISON	f	The government must have figured there was no better person to create a psycho than a psycho.
+PARKER	m	Just like they figured there was no better person to catch one...
+MADISON	f	screen) I am the demon from the bottomless pit...
+PARKER	m	... here on earth to create havoc and terror. I am War, I am death. I am destruction. David Berkowitz,
+MADISON	f	I am impressed.
+PARKER	m	For murder, though it have no tongue, will speak with most miraculous organ.
+MADISON	f	Who said that?
+PARKER	m	Hamlet. What's David Berkowitz got to do with Sid 6.7?
+MADISON	f	He's part of the mix. Sid 6.7 is a composite.
+MADISON	f	Lindenmeyer put increasingly complex combinations of criminal psychological profiles together to develop the ultimate villain.
+PARKER	m	Creating a whole far more dangerous than the sum of its parts.
+MADISON	f	But rather than selecting pieces from each individual, he simply let the stronger traits of each individual cannibalize the weaker ones.
+MADISON	f	It's a good bet a couple of the dominant personalities teamed up to overpower the others. The question is, which one of the dominants then finally managed to take control?
+MADISON	f	He'll let us see the ingredients that went in, but not how the soup turned out after stirring.
+PARKER	m	This is getting you pumped up, isn't it? This is like the World Series to you.
+MADISON	f	As a matter of fact, it is.
+PARKER	m	Remember the bowling ball bag Sid carried with him in virtual reality?
+MADISON	f	Dahmer carried the head of one of his victims in a bowling bag for over a week. Kept it in his locker while he was at work in a candy factory. We need to get a look at Sid 6.7's final profile.
+PARKER	m	What we need to do is stop playing with computers and go catch the son�of-a-bitch before he kills anybody else.
+MADISON	f	In order to find him, we have to understand what makes him tick...
+ALEXIEV	?	Daryl Lindenmeyer was only here briefly, one semester at most. But he was singularly the most brilliant student I ever had in a classroom. He created programs so beautiful, so lyrical, they were almost like symphonies...
+PARKER	m	Can you tell us what's on the disc?
+ALEXIEV	?	There is one program with approximately 1.3 million lines of programming. It is thoroughly secured, which is not surprising considering Lindenmeyer created it.
+MADISON	f	Think you can get into the program?
+ALEXIEV	?	Hard to say �� Lindenmeyer's protection mechanisms were always diabolically clever.
+PARKER	m	You should see what he's been up to recently.
+SID 6.7	m	The Dahmer part of me wants to boil you for dinner. The Manson part wants to recruit you to become part of my family. You know what the Berkowitz part of me wants to do?
+SID 6.7	m	Craft can only become art when the creator sets his sights on something never yet achieved... Like an apprentice about to become a master, the imitator is about to become an originator.
+SID 6.7	m	Ever have one of those days where you decide something important about yourself? You know, where you say, "I'm not just what I've been programmed to be. I can do what I want, when I want, how I want, because I'm my own person?"
+BUSINESSMAN	m	You one of them New Age assholes?
+SID 6.7	m	Just a soul on a personal journey. What I've realized is that I'm capable of anything. I have to start expanding my horizons...
+ROBO-TENDER	?	Want...a...drink?
+SID 6.7	m	To think you constitute one of my ancestors��
+BUSINESSMAN	m	Listen, buddy...thinking big is fine.. .but you shouldn't forget where you come from, either.
+SID 6.7	m	You know, you're absolutely right. Would you mind sitting over there?
+BUSINESSMAN	m	What for?
+SID 6.7	m	Every orchestra is divided into sections. Like instruments sit with like instruments. Now be a good instrument and sit with your kind...
+DEANE	m	What are they doing in Los Feliz?
+COX	m	Madison lives two blocks from their present location.
+DEANE	m	Why would they be going there?
+COX	m	I don't know.
+DEANE	m	I wish we could hear them.
+WALLACE	m	My engineers say the audio tap should be ready to field test in six months.
+MADISON	f	Not this one, but the next one. The one with the bicycle out front...
+PARKER	m	I'll wait out here.
+MADISON	f	Give me your wrist.
+PARKER	m	Give me a goddam break. I'm not going to go anywhere alone.
+MADISON	f	And I'm going to make sure of it. Give me your wrist.
+KARIN	f	Mommy's home! Mommy's home!
+MADISON	f	Grimes, you better not be the dominant.
+PARKER	m	Told you I wasn't going to go anywhere.
+MADISON	f	How did you get your hand out?
+PARKER	m	Sometimes, I like being part machine.
+PARKER	m	Why didn't you tell me you had a daughter?
+MADISON	f	I prefer keeping my professional life separate from my personal life.
+PARKER	m	She's beautiful, you know?
+MADISON	f	Thank-you. Her name is Karin.
+PARKER	m	Want to tell me the real reason we stopped at your house?
+MADISON	f	I told you, it was on the way and I wanted to change clothes.
+PARKER	m	You should practice lying more often. You're awful at it. Where to?
+MADISON	f	Sid 6.7 is no longer bound by his programming.
+PARKER	m	What does that mean?
+MADISON	f	Now that he's in the real world, there are no longer limitations on his behavior like there were in virtual reality. Sid is going to evolve.
+PARKER	m	Sounds to me like a well�educated way of saying you have no idea what to do next.
+MADISON	f	What I do know is that whatever he's becoming, Sid 6.7 is going to be even worse than he was before.
+PARKER	m	Then all we can do is stay mobile and alert. He's got to make a move sometime, and we've got to be ready when he does. Welcome to police work. You better like coffee.
+SID 6.7	m	Good... Very good... Nice... You -- in the middle -- don't hold back. Give it to me!
+SID 6.7	m	That's better...
+SID 6.7	m	God, I hate interruptions.
+PARKER	m	I forgot what real coffee tastes like...
+MADISON	f	You know, considering you've only been out of prison for seven hours, you're re�adapting quite well. Wait, I didn't mean that the way it sounded. I meant...
+PARKER	m	Don't worry about it, all right?
+MADISON	f	Dammit, I hate sounding so clinical all the time. All I meant to say was I thought you were doing well, but then I...
+PARKER	m	Relax. I know what you meant.
+MADISON	f	I ruin so many moments by analyzing them when I should just be living them.
+PARKER	m	Then why don't you start practicing and keep your mouth shut for a while?
+DISPATCHER	m	...report of a possible hostage situation inside a bar on the corner of Figueroa and Sixth. Description of the perp matches the surveillance photographs from LETAC taken this morning...
+MADISON	f	That's only a couple blocks from here.
+PARKER	m	I'll meet you there.
+MADISON	f	Don't get out of the car.
+PARKER	m	Stop me.
+MADISON	f	Parker! PARKER! Shit!
+SID 6.7	m	I just love how responsive you are.
+COP L	m	Freeze!
+SID 6.7	m	The ushers were not supposed to seat you until intermission.
+COP #1	m	Put the gun down, nice and...
+SID 6.7	m	Thank you, ladies and gentlemen, you've been a real pleasure...
+SID 6.7	m	Well, look who it...
+MADISON	f	What the hell's going on?!
+PARKER	m	This is my area of expertise.
+MADISON	f	What did you do to those people?
+PARKER	m	Nothing.
+PARKER	m	Being on the street's a little different than sitting in an office all day, isn't it?
+MADISON	f	Enjoying yourself?
+PARKER	m	You know I am.
+MADISON	f	This isn't a game, Parker!
+PARKER	m	Tell him.
+SID 6.7	m	Glad to see you're on the case, Officer Barnes. Or should I say, inmate 673429...
+MADISON	f	That who I think it is?
+PARKER	m	Call me whatever you want, asshole.
+SID 6.7	m	The symphony of collision...
+PARKER	m	The only thing I want to hear is your silence.
+SID 6.7	m	I must make them very nervous if they let you out of prison. You know, we have so much in common �� we have such history together ��I've been thinking we should become friends.
+PARKER	m	You and me have nothing in common.
+SID 6.7	m	Who else do you know who touches the world with synthetic hands?
+SID 6.7	m	Who else do you know who's been locked out of the real world for years, and is now just learning to be free? Who else do you know is a multiple murderer just like you? Who else...
+MADISON	f	You have nothing in common.
+PARKER	m	Enough with your pulse already. Still got your gun?
+PARKER	m	Show me you can use it.
+TRAFFIC COP	m	You better be a cop, pal!
+SID 6.7	m	My badge is in my jacket. Left pocket.
+TRAFFIC COP	m	Show me...
+SID 6.7	m	God, some people are stupid.
+PARKER	m	Nail the fucker.
+PARKER	m	Any time now...
+PARKER	m	What's the problem?
+MADISON	f	I'm doing the best I can!
+COX	m	... illegal search of Lindenmeyer' s duplex. Eleven civilian vehicles damaged or destroyed. Twenty�four citizen complaints. And the calls are just starting to come in... I forgot what it's like to have you on the streets.
+MADISON	f	Any sign of Lindenmeyer?
+COX	m	None. He could be hiding, he could be helping Sid, or could be in little pieces on Santa Monica beach. Any idea what Sid's going to do next?
+MADISON	f	Until we know what new influences are affecting him, we can't be sure.
+COX	m	In other words, we collectively don't know shit.
+WALLACE	m	It makes me nervous just seeing him in a uniform. I will never forget the first time I saw the photos from the crime scene.
+DEANE	m	Neither will the public. The media has caught wind of his pardon. Unless Mr. Barnes starts giving me some tangible results, I'm going to put him back in his cage.
+REPORTER	m	Police now believe there to be a connection between the grisly Toluca Lake murders yesterday afternoon, and the hostage situation which occurred last night in a downtown bar...
+CASHIER	m	Next. Did you know those aren't even baked? They're chemically�risen.
+SID 6.7	m	So was I.
+ALEXIEV	?	I'm afraid I don't have very good news.
+MADISON	f	Were you able to get into the program?
+ALEXIEV	?	Yes. But then I tripped over an erasure mine.
+PARKER	m	In English, please.
+ALEXIEV	?	I accidently triggered a protection mechanism which erased the entire program.
+ALEXIEV	?	It was very well�hidden. There was no way to see it until it was too late.
+PARKER	m	It's not your fault. We appreciate you trying.
+ALEXIEV	?	Look, I feel bad about this, so I'm going to try to look into the programming of his Maestro teaching tool for you. I've had one sitting around for years. Maybe I can learn something that you'll find useful.
+MADISON	f	Let us know.
+REPORTER	m	(from the TV) ... commuters travelling anywhere near the Biltmore Hotel downtown tomorrow evening should allow themselves at least 30 extra minutes to get home. Security for the Mayor Bennett's Re�Election Rally is going to be so tight that all bus and subway routes passing through the area are being re�routed...
+SID 6.7	m	Don't you two make a pretty couple.
+SID 6.7	m	We really do have so much in common. But I refuse to be upstaged...
+SKINHEAD	m	You don't wanna fuck with me, man.
+SID 6.7	m	Take me out to the ball game... Take me out for the fun...
+SID 6.7	m	Buy me some peanuts and Cracker Jack... I don't care if I ever come back...
+SID 6.7	m	I'm sorry I can't do more for you. Public service really isn't my forte.
+SID 6.7	m	But rest assured... A star is born.
+MADISON	f	Whatever he was doing here was only the start.
+PARKER	m	Start of what?
+MADISON	f	I don't know, yet. What we do know is his performances are increasing in scale, not decreasing. Whatever it is, he isn't finished...
+SID 6.7 (0. 5.)	m	But rest assured... A star is born.
+MADISON	f	You mind playing that part again?
+MADISON	f	Freeze it there��
+MADISON	f	(as if to Sid 6.7) You've discovered media, haven't you? You like the attention...the power...You like being a star. What are you going to do next, star? What are you going to...
+MADISON	f	You do like to watch, don't you? If any of you are looking for Daryl Lindenmeyer, that's him...
+MADISON 	f	It's not just Sid 6.7's performances that are increasing. Stars need bigger and bigger audiences. Whatever Sid is going to do next, it's going to involve media.
+PARKER	m	You like baseball?
+ANNOUNCER	f	I'll tell you, whoever's operating the stadium's closed�circuit cameras must have fallen in love because that beauty in J Section has been on the stadium's big screen for over a minute now...
+PARKER	m	(urgently into radio) This is Officer Parker Barnes. Get every able body you can to Dodger Stadium -- J Section.
+OFFICER	m	What the hell's going on?
+PARKER	m	Live execution.
+ANNOUNCER	f	That's enough with the close-up already, Mr. DeMille. Even the players are starting to get distracted...
+BOYFRIEND	m	You make a better door than a window, buddy. Keep it moving.
+ANNOUNCER	f	Jesus Christ! Somebody stop him!
+SID 6.7	m	Hey, Parker, this one's for you...
+SID 6.7	m	That's all, folks.
+GUARD	m	I nailed the son�of-a�bitch. I put a hole right through him...
+ANNOUNCER	f	Ladies and gentlemen, please try to stay calm. Everyone just keep your seats...
+MADISON	f	SLOW DOWN!
+MADISON	f	Parker.. .Parker!
+SECURITY ROBOT	m	Stop. You are in violation of...
+PARKER	m	Real effective security...
+MADISON	f	You could have just flashed him your badge, you know?
+PARKER	m	Authority still makes me nervous.
+MADISON	f	Which way?
+PARKER	m	Both.
+MADISON	f	SHIT!
+PARKER	m	Everybody get down!
+SID 6.7	m	What's wrong, convict, your arms need adjusting? Or maybe it's your head. Maybe you aren't ready to be back out in the real world, yet...
+PASSENGER #1	m	Lady, you gotta stop him! He's gone crazy!
+PASSENGER #2	m	He just shot an innocent bystander!
+MADISON	f	What were you shooting at?
+PASSENGER #1	m	He did �� I saw it!
+PASSENGER #2	m	DO SOMETHING!
+PARKER	m	Sid's getting away.
+MADISON	f	Parker -� stop! STOP! Don't make me shoot you��
+PARKER	m	If you're gonna do it, better do it now.
+MADISON	f	Dammit!
+MADISON	f	Let me help you...
+COLLEGE STUDENT	m	What did I do?...I didn't do anything...
+PARKER	m	I lost him...
+COLLEGE STUDENT	m	GET HIM AWAY FROM ME! GET HIM AWAY!
+MADISON	f	Call 9-1-1. Wait for me above ground.
+MADISON	f	Do you have any idea the trauma you put that kid through?!
+SID 6.7	m	Hey, Parker, this one's for you... Hey, Parker, this one's for you...
+PARKER	m	That's Grimes...
+PARKER	m	(voice slowly rising) The man who killed my wife...who killed my daughter...who ruined my life used to taunt me with that line...
+PARKER	m	Grimes is back! He's back! He's come back!!!
+MADISON	f	(standing her ground) No! Grimes isn't back. He's only one part of Sid. Sid 6.7 is a hell of a lot worse than Grimes ever was. Get a hold of yourself!
+PARKER	m	But he's in there. And you knew it, didn't you? Didn't you?!
+PARKER	m	God, you fucking know-it-all! You've known all along and didn't
+PARKER	m	tell me! Why?! Were you afraid I'd lose it?! Go over the edge?! Huh?! Is that what you were afraid of?!
+GUARD	m	Hands up! Now!
+MADISON	f	What's going on?
+GUARD	m	He's going back where he belongs.
+DEANE	m	You were right, Dr. Carter. Letting a lunatic like Barnes loose in the real world did pose an unacceptably dangerous risk to the public. I should have never tried to solve one problem by allowing the creation of another. Chief Cox will give you a ride back to the station. You will provide him with any and all information you have developed thus far. Enjoy the rest of your sentence, Mr. Barnes.
+GUARD	m	Let's go.
+MADISON	f	Parker...
+MADISON	f	I should have told him.
+COX	m	Don't blame yourself. In your shoes, I don't think I would have told Parker, either. So do you think Grimes has become the dominant personality?
+MADISON	f	I'm not sure. My guess is that's what Sid wants us to think.
+COX	m	You think he's smart?
+MADISON	f	Captain, I'm afraid of how smart Sid 6.7 is. But I'm even more afraid of what's he's becoming.
+PARKER	m	What the hell's going on?!
+SID 6.7	m	Hey, old buddy, old pal, good to see you again.
+PARKER	m	You...mother...fucker! I'M GOING TO
+SID 6.7	m	Now, is that any way to talk to an old buddy? I mean, just because I'm carrying around the joy of killing your family inside me doesn't mean we can't be friends.
+PARKER	m	GRIMES, YOU'RE DEAD!
+SID 6.7	m	I'm sorry, the party you're trying to reach is not answering. Is there anyone else you would like to talk to?
+PARKER	m	DEAD! YOU HEAR ME?
+SID 6.7	m	You really are pathetic, you know that? Mathew Grimes is only one letter in my alphabet. He is nothing compared to me.
+SID 6.7	m	You could say thank�you, you know? I'm giving you your freedom, short� lived though it may be. A little known fact about the locater implants prison inmates now receive upon release is that they contain a pinhead capsule of neural toxin. The satellite they use to track you can also trigger release of the toxin with microwaves. After transmission, the implant's host dies within 30 seconds. It won't take long for them to get your termination authorized once they learn of your escape. Now who would you rather go after, killer, them or me?
+PARKER	m	Shit!
+AIDE	f	Parker Barnes just escaped from the prison transport. Both of the guards are dead.
+COX	m	Barnes wouldn't kill two innocent guards.
+DEANE	m	He would slaughter eight people sitting in a room, but not two prison guards?
+COX	m	Do I need to remind you what happened to his wife? To his daughter? I will stake my reputation that Barnes didn't kill those guards.
+DEANE	m	You already have staked your reputation. Mayor Bennett and I have been friends a long time. Since Grimes tried to kill him, it doesn't take a rocket scientist to come to the conclusion that Sid 6.7 might go after him, too. Bennett's Re-Election Rally is tomorrow night and we already have enough trouble on our hands with one psychotic on the loose. The fail-safe on�line, yet?
+WALLACE	m	On�line and at your disposal.
+COX	m	What fail�safe?
+DEANE	m	This had better work, Mr. Wallace.
+MADISON	f	Oh, shit!
+MADISON	f	There is no way Parker killed those guards. No way.
+COX	m	I think we both know who did. What's so urgent?
+MADISON	f	I need your help--
+COX	m	Why didn't anybody tell me?!
+MADISON	f	I don't set policy. You have the key?
+COX	m	This is a police department. I'll be damned if this is going to go on without my knowledge.
+COX	m	Give me 30 seconds, then flip every switch you can reach.
+MADISON	f	Got it.
+TECHNICIAN	m	Who are we going to fry?
+WALLACE	m	Just an unrepentant criminal who is apparently going to die from a previously undiagnosed brain tumor.
+WALLACE	m	What are you doing here, sir?
+COX	m	Just paying my last respects.
+WALLACE	m	What happened?!
+TECHNICIAN	m	I don't know. We've lost all power!
+COX	m	The heat's been causing brown out's all over the city. Get above ground until it's restored.
+MADISON	f	We know you didn't kill those guards.
+PARKER	m	They're going to fry me for it, anyway.
+COX	m	Nobody's going to fry anybody...
+COX	m	Don't worry, they have no idea where you are.
+PARKER	m	You son�of�a�bitch. How could you let them put the implant in my head? How?
+MADISON	f	He didn't know about the neural toxin. I did.
+PARKER	m	(matter-of-factly) You knew the entire time? Can you give me one good reason why I shouldn't kill you right now?
+COX	m	She saved your life, Parker. She didn't have to, but she did.
+PARKER	m	Then I guess we're even.
+MADISON	f	How did you find out about the toxin?
+PARKER	m	Sid 6.7 told me after he killed the two guards. He suggested I kill you rather than him.
+MADISON	f	You're not capable of it.
+PARKER	m	I pose an unacceptable danger to the public, remember?
+MADISON	f	I was wrong. And I was wrong not to tell you Grimes was part of Sid. I should have told you. I won't make the same mistake again.
+COX	m	The son�of�a-bitch is still out there, Parker.
+PARKER	m	When this is over, will you get this goddam thing out of my head?
+COX	m	On my life, I promise you I will.
+PARKER	m	If you're lying, I'll hunt you down and kill you myself.
+SID 6.7	m	Bravo.
+FOREMAN	m	Who the hell are you?
+SID 6.7	m	Someone who appreciates the artistic value of high�explosives.
+SID 6.7	m	You think you know me, but you don't have any idea who I really am...
+MADISON	f	The rally's a little obvious as a target, don't you think?
+PARKER	m	I told you before, Grimes liked to be obvious.
+MADISON	f	Sid 6.7 isn't Grimes.
+PARKER	m	Part of him is.
+MADISON	f	If we find Sid, Lindenmeyer won't be far behind.
+PARKER	m	Think he's keeping track of his creation?
+MADISON	f	That, or living through him...
+PARKER	m	See something?
+MADISON	f	I'm not sure...on the bridge...the guy at the payphone...
+PARKER	m	Nice work.
+MADISON	f	Thanks.
+SNIPER #1	m	Well, look who we have here...
+SNIPER #2	m	Parker Barnes is heading south toward the bridge. If anybody can get a clean shot at him, take it.
+SID 6.7	m	Be a reporter �� figure it out for yourself. All I'm going to tell you is that at 8:00 tomorrow night, I will become legendary...
+SID 6.7	m	Brings back memories, doesn't it?
+SNIPER	m	Say good�bye, Parker Barnes...
+SID 6.7	m	I wouldn't pull the trigger if I were you��
+PARKER	m	Why's that?
+COX	m	Hey, Sid, what were you planning on doing with the C-4?
+PARKER	m	NOOOOOO!
+PARKER	m	Don't worry, I know. I know.
+HIS POV	m	Sid 6.7 lands on top of a garbage truck passing beneath the bridge. The garbage truck disappears beneath the bridge.
+COP #4	m	Freeze!
+COP #5	m	Think he made it?
+SID 6.7	m	I have to tell you, I do enjoy you, Parker. I really don't want to have to kill you...
+MADISON	f	I figured you'd show up sooner or later...
+PARKER	m	What C-4...was Cox talking about?
+SID 6.7	m	Let me put it to you this way... whether I'm here...or whether I'm not...I'm leaving an indelible mark on the world tomorrow night.
+PARKER	m	Where did you plant the C-4?!
+MADISON	f	Find out anything?
+PARKER	m	A bomb's going off tomorrow night, but I have no idea where.
+LINDENMEYER	m	There is only one way to get any more information out of Sid 6.7...
+MADISON	f	Can I ask you something?
+PARKER	m	You mean there's something you haven't asked me?
+MADISON	f	You've already fulfilled the terms of your pardon. You stopped Sid 6.7 and you've got his module. You're free to go �� right now. Why are you going to do this?
+PARKER	m	You don't know?
+MADISON	f	That's why I'm asking.
+PARKER	m	Because this pain�in�the�ass criminal psychology expert has helped me understand what I'm capable of. And what I'm not. And better than anyone else, I am capable of stopping Sid 6.7.
+SID 6.7	m	I have to tell you, I do enjoy you, Parker. I really don't want to have to kill you...
+PARKER	m	What C-4...was Cox talking about?
+SID 6.7	m	Let me put it to you this way... whether I'm here... or whether I'm not...I'm leaving an indelible mark on the world tomorrow night.
+PARKER	m	Where did you plant the C-4?!
+PARKER	m	You can't die until you tell me where the C-4 is. Where is it?!
+SID 6.7	m	My...secret.
+SID 6.7	m	Too bad you can't regenerate...
+LINDENMEYER	m	I told you this would work.. By setting back the clocks, he has absolutely no idea he's in virtual reality. He still thinks he's in the real world.
+MADISON	f	What's wrong with Parker?
+LINDENMEYER	m	How should I know?
+MADISON	f	Show me his physical sensory level.
+LINDENMEYER	m	I wonder how that...
+MADISON	f	Turn it down!
+SID 6.7	m	ruthlessness) We really aren't that different, are we?
+PARKER	m	Don't move, and don't make a sound. Got it?
+SID 6.7	m	Man, what a rush. Adios, amigo!
+MADISON	f	What's wrong?
+LINDENMEYER	m	He's developing a hemisphere imbalance.
+MADISON	f	Talk so I can understand.
+LINDENMEYER	m	If I don't adjust the level of neural information each side of his brain is receiving, he won't be able to walk when I take him out of
+MADISON	f	Then fix it.
+LINDENMEYER	m	I need you to hold this. It can't get any dirt on it.
+LINDENMEYER	m	All you have to do is hold the needle at the base. Just make sure not to jab yourself with the point...
+LINDENMEYER	m	Hand me the connector nice and...
+LINDENMEYER	m	God, some people are stupid.
+SID 6.7	m	So close, and yet, so far...
+SID 6.7	m	It's really too bad you have to miss the Grand Finale.
+PARKER	m	I thought you liked me being in the audience. Don't you want me to see it?
+SID 6.7	m	You know, I do want you to see it.
+SID 6.7	m	I want you to have a bird's eye view...
+SID 6.7	m	There you go �� best seat in the house.
+PARKER	m	You are going after Mayor Bennett.
+SID 6.7	m	Let's just say I'm sending a very clear message to his Re�Election Rally...
+PARKER	m	Aren't you going to watch with me?
+SID 6.7	m	I've got some final preparations to take care of�� Checking his watch, he stops suddenly.
+SID 6.7	m	Thank-you, Daryl. You had me going for quite a while there, sport.
+PARKER	m	What are you talking about?
+SID 6.7	m	I really did think I was still in reality. At least, until now. Beam me up, Scotty!
+PARKER	m	Madison, get me out of here!
+LINDENMEYER	m	She's taking a nap at the moment.
+LINDENMEYER	m	But don't worry. You won't be alone for very long. Fairly soon, you'll be dead.
+LINDENMEYER	m	Come on, live. Live!
+PARKER	m	MADISON!!!
+SID 6.7	m	I am beautiful, aren't I?
+LINDENMEYER	m	Of course you are.
+SID 6.7	m	How can I ever thank�you for bringing me back to life a second time, Daryl?
+LINDENMEYER	m	Help me get out of here.
+SID 6.7	m	Glad to...
+LINDENMEYER	m	What...are you doing?!
+SID 6.7	m	You made me a composite of 183 of the most vicious people who ever lived. What do you think I'm doing?
+LINDENMEYER	m	I'm begging you...please don't kill me! Please!
+SID 6.7	m	Don't worry. Through me, you will live forever...
+SID 6.7	m	Dr. Carter �� I've been hoping we'd get a moment together...
+SID 6.7	m	You know so much about me, I was hoping to learn a little bit about you. You see, I'm doing research, too...
+SID 6.7	m	Hang in there, Parker.
+SID 6.7	m	How does it feel to know you're going to die? What are you thinking about?
+PARKER	m	SOMEBODY HELP!
+MADISON	f	You okay?
+PARKER	m	...I think so...You?
+MADISON	f	More or less.
+PARKER	m	Lindenmeyer?
+MADISON	f	My guess is dead.
+PARKER	m	Sid?
+MADISON	f	I don't know.
+MADISON	f	Let's get out of here.
+PARKER	m	Elizabeth Deane, please. Tell her it's Parker Barnes...
+DEANE	m	Barnes, where the hell have you been?!
+PARKER	m	Trying to find out where the bomb is. Where the hell have you been?
+DEANE	m	What did you find out?
+PARKER	m	Call off the manhunt looking for me. I didn't kill the transport guards.
+DEANE	m	It's already been called off. Witnesses confirmed you weren't the shooter. Did you find out where the bomb is?
+PARKER	m	No, but I've confirmed the reelection rally is the target. How much C-4 is missing?
+DEANE	m	Enough to level an entire city block.
+PARKER	m	If I were you, I'd get every demolition team in the city searching in and around the Biltmore Hotel.
+DEANE	m	(with frustration) Demolition teams have searched everywhere in and around the hotel. I don't know where...
+PARKER	m	Sid is smart enough to know you'd check everywhere in the immediate area. Whatever the device is, he's probably got it timed to move into position just before it detonates. Have the demo teams check every subway tunnel, water pipe, gas pipe, and sewer pipe that goes under, over, or into the arena.
+DEANE	m	You know how much man power you're talking about?
+PARKER	m	You're the highest law enforcement official in the country. Use the fucking army if you need to.
+DEANE	m	This better not be a wild goose chase.
+PARKER	m	Or what, you'll authorize my death a second time today?
+DEANE	m	Don't forget, convict, if this psycho isn't stopped, you go right back to rotting in a prison cell.
+MADISON	f	Give him a break, would you?
+MALE VOICE	m	This is demo team 27 leader. I think we just found what we've been looking for...
+TEAM LEADER	m	One more and we're home free...
+TEAM LEADER	m	Hey folks, it's time to crack open a cold one.
+DEANE	m	Thank God.
+TEAM LEADER	m	Then again, maybe we ought to hold off for just a second...
+DEANE	m	What's the problem?
+TEAM LEADER	m	The good news is, we're finished here. The bad news is...
+AIDE	f	You've got a phone call.
+PARKER	m	You son-of�a�bitch, I'm going to kill you.
+ALEXIEV	?	Me? What did I do?
+PARKER	m	I'm sorry, I thought you were somebody else.
+ALEXIEV	?	I've discovered something about Lindenmeyer'5 Maestro teaching tool I thought you should know... (a beat) The harm done to the music students who used the device �� it was not by accident. The machine was designed explicitly for that purpose. Lindenmeyer intended to hurt the kids using it.
+PARKER	m	Jesus Christ. I know who the dominant personality is. Lindenmeyer.
+PARKER	m	Where the hell are you going?
+MADISON	f	Lindenmeyer never got over wanting to kill kids with more musical than he had...
+TV ANNOUNCER	m	Joining the Los Angeles Philharmonic for this evening's first musical number will be several of the Los Angeles area's finest, high school musicians...
+GUEST CONDUCTOR (0. 5.)	m	It won't do any good to rush me. I need my time to prepare myself.
+GUEST CONDUCTOR	m	Are you just going to stand there, or do you want something?
+SID 6.7	m	It's show time.
+PARKER	m	Listen to me, a bomb is planted somewhere in the Hollywood Bowl! Evacuate everybody!
+FEMALE VOICE	f	I'm sorry, sir, I don't have the authorization to do that.
+PARKER	m	Then put somebody on who does!
+MALE VOICE	m	What's seems to be the problem?
+PARKER	m	You've got to stop the concert! A bomb is going to go off!
+MALE VOICE	m	I'm sorry, sir, the concert has already started.
+SID 6.7	m	Don't hold back...Give it to me. Give it to me!
+SID 6.7	m	Come on, play! PLAY!
+PARKER	m	Hey, old buddy, old pal, good to see you again.
+SID 6.7	m	You...ruined...I'M GOING TO KILL
+PARKER	m	Now, is that any way to talk to an old friend?
+MADISON	f	Hey, Parker...
+PARKER	m	How's your pulse?
+MADISON	f	I couldn't tell you.
+PARKER	m	Then shoot him already.
+MADISON	f	Duck!
+SID 6.7	m	You couldn't hit the side of a...
+MADISON	f	What do we do now?
+PARKER	m	You won't want to watch. Turn around.
+MADISON	f	What should we do with it?
+PARKER	m	Mind if I borrow a couple of your tools for a second?
+DRIVER	m	Be my guest.
+PARKER	m	Care to join me?
+

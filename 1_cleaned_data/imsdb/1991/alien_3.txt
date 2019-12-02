@@ -1,0 +1,703 @@
+BROTHER KYLE	m	Well would he guess the ascending of the star, Wherein his patient's fortunes settled were. He knew the course of every malady, Were it of cold or heat or moist or dry. Brother John, would-be Doctour of Physick.
+BROTHER KYLE	m	Tend you quickly he will, with bottles from a shelf. But heals not, so easily, The ills which plague himself.
+BROTHER JOHN	m	   (to Kyle) Enough.
+BROTHER JOHN	m	  (to the burned Monk) Relax.   (to Kyle) Put those lungs of yours to better use.
+BROTHER KYLE	m	Yes, Doc Tor.
+JOHN	m	Keep this from getting wet.  Go home at late afternoon mealtime and don't come back to work today --
+BURNED MONK	m	But John --
+JOHN	m	I'll tell the Abbot.  Just rest today. You're lucky you only burned yourself on the side of the furnace.  If some of that glass had gotten on your arm --
+JOHN	m	That's late afternoon.  Now get on.
+BURNED MONK	m	Thank you, John.  I --
+JOHN	m	You're welcome.  Go!
+KYLE	m	Good work.
+JOHN	m	All right, but I'm no Father Anselm.
+KYLE	m	The Abbot will be pleased.
+JOHN	m	Don't.
+KYLE	m	Don't what?
+JOHN	m	Please don't tell him.  At least until I know if there's an infection.
+KYLE	m	You want to be the Abbey's Physician, and you haven't learned the first rule: Don't worry about the patient.
+KYLE	m	I shouldn't have. Sorry.  Look, I know how you must --
+JOHN	m	You don't, but thanks anyway.
+KYLE	m	Not coming down?
+JOHN	m	I have someone waiting for me.
+JOHN	m	Come on, Mattias.
+PHILIP	m	Brother John.
+JOHN	m	Brother Philip.
+PHILIP	m	Feeding the mind instead of the body again?
+JOHN	m	My training has taught me to feed what's hungry.
+PHILIP	m	As did mine.  As long as you're alone. Enjoy yourself -- and remember, no book leaves the library.
+JOHN	m	How could I forget?  Have a good meal...
+JOHN	m	Perfect.
+VOICE O/S	m	Sometimes, I think you'd like that.
+ABBOT	m	Mind?  Just Philip, if he knew.  I passed him on the way up.  He said you'd come  in alone.  I knew better.
+ABBOT	m	Hello, Mattias.  How are you, boy?
+ABBOT	m	You know what Philip says about Mattias' hair and his breathing.  You'll have to  take him out of here.
+JOHN	m	He likes when I read to him and -- I  can't --
+ABBOT	m	    (smiles) Someone must have left this one unlocked. Take the book with you.
+JOHN	m	Father, I --?
+ABBOT	m	Kyle tells me you did a good job at the glassworks today.
+JOHN	m	I'll reserve judgement until the patient lives.
+ABBOT	m	It will get easier.  Father Anselm was... an unexpected loss.  You'll do fine.
+ABBOT	m	Just have it back before the end of lunch. Oh -- And I didn't see you in here.
+JOHN	m	Thank you.       (to Mattias) Let's go upstairs, boy.
+JOHN	m	In the year of our Lord 1348 I, Brother Gerhado of the Minorite Abbey helped bury the Abbot and my sixty fellow monks, day by day, one by one, until I am the only  one left.  I stayed as long as I could bear  it, then with my dog --
+JOHN	m	- fled.  I have put this to parchment lest this pestilence - this Black Death -  stay my hand. (beat) This was finished by another hand...
+RELIGIOUS COLONY ARCEON	m	-----------------------
+-----------------------	?	POPULATION: 350 Exiles CRIME:  Political Heresy
+KYLE O/S	m	Watch it!
+KYLE	m	John!  Wait -- !  Don't go in!
+COMPUTER VOICE	m	(sotto) Seal broken...seal broken...
+WOMAN	f	...taking pod four.  The Crew of the SS Sulaco and all Marine commandoes are dead. Ship's sensors have interrupted the hyper sleep cycle.  An overlooked alien egg has hatched.  Bishop and Hicks have been killed. Xenomorphs have infested the cruiser.  Newt  and I are taking pod four.  The Crew of...
+KYLE	m	John - what is it?  Is this a Supply ship?
+JOHN	m	No.  No supplies.  Kyle, there's someone in here --
+SECOND MONK	m	This is forbidden.
+KYLE	m	John.  Just get the hell out of there --
+JOHN	m	I don't want to stay.  I have to get her out before this sinks.  You come in, give me a hand --
+KYLE	m	Her?  Look, this is not the supply ship, so this is technology forbidden to us. Get out of there now!
+JOHN	m	All right --
+FIRST MONK	m	     (reverent) A space ship...
+SECOND MONK	m	A woman...
+KYLE	m	You shouldn't have gone in --
+JOHN	m	I'm supposed to be a doctor.
+JOHN	m	She could've been lost.
+FIRST MONK	m	Been a long time since I saw either.
+SECOND MONK	m	It isn't sinking.  Look at it.  What are we supposed to do with it?
+KYLE	m	What was it like in there --?
+JOHN	m	Lights.  So many lights --
+THIRD MONK	m	Tow it in.  Bring it in.
+SECOND MONK	m	It's evil.
+FIRST MONK	m	It's just technology.
+SECOND MONK	m	Evil technology.  Look at these fish --
+THIRD MONK	m	The Abbot will know what we should do with it --
+KYLE	m	Just lights?
+JOHN	m	Machines.  Buttons.  Metal.
+SECOND MONK	m	See?  Just look at the fish.
+THIRD MONK	m	The Abbot will know.
+SECOND MONK	m	They're boiled.  These fish are boiled.
+JOHN	m	Thousands of lights.  Like the stars. Like Heaven on Earth.
+RIPLEY	m	Wait.  New...
+RIPLEY	m	AAAAAAAAAAAARGH!
+JOHN	m	You're out of it.  Out of it...
+ABBOT	m	How is the woman, John?
+JOHN	m	I don't think she's here yet.
+JOHN	m	She is close, though.
+RIPLEY	m	What the hell --?
+RIPLEY	m	This must be a dream.  A bad one.
+RIPLEY	m	Who are you?
+ABBOT	m	I am the Abbot.  Leader of this Colony. And you?
+RIPLEY	m	Ripley.  How did I get here?
+ABBOT	m	Your vehicle crash landed.      (indicates John) Brother John found you and brought you here.
+RIPLEY	m	Where is here?
+ABBOT	m	This is the Minorite Abbey within the manmade orbiter Arceon.
+RIPLEY	m	Can I use a radio to --
+ABBOT	m	We have no radio here.  We are a monastic order that has renounced all modern technology.  We live the old way.  The pure way.
+RIPLEY	m	Uh, I - I still don't feel 100%.  Whoever took me out of the stasis tube must not  have run the full D-F program... Where's Newt?
+RIPLEY	m	There was a little girl with me --
+ABBOT	m	You were alone.
+RIPLEY	m	No.  She was with me.  I put her in her stasis tube -- We launched when the --
+ABBOT	m	You were the only living thing found aboard that vessel.
+RIPLEY	m	     (slowly) Oh, God.  Newt.
+RIPLEY	m	It came with us.
+ABBOT	m	What came with you?
+RIPLEY	m	Listen -- there is a danger here.  It came with me.  How long have I been here?
+ABBOT	m	Almost two days --
+RIPLEY	m	     (calculates) Loose for two days.  This planet could be overrun within the week.
+RIPLEY	m	Look, there's a xenomorph --     (sees his confusion) An Alien creature.  A killer.  A monster. And now it's here.
+RIPLEY	m	Calm down, Ripley.  Okay, I was with a platoon of Colonial Marines on a mission to planetoid LV426.  We left Earth six months ago - maybe a year --
+ABBOT	m	     (interrupts) Wait a moment --
+ABBOT	m	Leave us.
+ABBOT	m	Continue.
+RIPLEY	m	We launched in the Cruiser Sulaco from  Gateway sub-orbital space station --
+ABBOT	m	Not possible.
+RIPLEY	m	What do you mean?
+ABBOT	m	When we left Earth seventy years ago, it was on the brink of a New Dark Age. Technology was on the verge of destroying the planet's environment.  A computer virus was threatening to wipe away all recorded knowledge.  There didn't seem to be any way it could be averted.  In the almost forty years since we were towed out here in hypersleep, the news that came with  occasional supply ships only got worse. Finally, the ships stopped coming.  We  had to resign ourselves to the fact that worst had come to pass, and the Earth no longer existed.
+RIPLEY	m	    (slowly) Uh...All right... Forget the Earth - How many people do you have here?  Let's worry about them.  Warn them --
+ABBOT	m	Your mind is troubled.  You need to rest some more.
+RIPLEY	m	I don't need rest - I need to get to  your people.  You've got to get to them -- tell them about the alien --
+ABBOT	m	I have had enough for now.
+RIPLEY	m	Enough?  Didn't you hear what I said? It could wipe out the entire population of this planet.  It may have started  already - Have there been any unusual  deaths since I got here?
+ABBOT	m	No.  And there won't be.
+ABBOT	m	Bolt it.
+JOHN	m	What is it -- What's wrong?
+ABBOT	m	Your patient is in a dangerous mental state.  Nobody gets in or out until I say so.
+JOHN	m	But I.  Her meals --
+ABBOT	m	Nobody.
+JOHN	m	Father, I don't understand --
+HYSTERICAL MONK	f	Brother John!  You're here!  The Abbot said you'd -- I need -- you're the medic --
+JOHN	m	What?!
+HYSTERICAL MONK	f	My Sandy -- she's ill --
+JOHN	m	Huh?  A woman?
+HYSTERICAL MONK	f	Sandy.  My ewe.
+JOHN	m	One of your sheep?  Jesus Christ. Call a vet.
+HYSTERICAL MONK	f	Father Anselm was the vet.
+JOHN	m	You're no help.  Okay, let me get my bag. All creatures great and small...
+HYSTERICAL MONK	f	I just gave her dinner and she keeled over.
+JOHN	m	So would I.  It's freezing in here.
+HYSTERICAL MONK	f	Been using the wood from the walls for the fire in my cabin.
+JOHN	m	Haven't we all...
+JOHN	m	May be pneumonia.  Pitch some of that hay around her.  Stop this damn cold breeze.
+JOHN	m	First, I'll --
+JOHN	m	Wait a minute...
+HYSTERICAL MONK	f	What is it?
+JOHN	m	I don't know.  It's all over the ground. Some sort of --
+HYSTERICAL MONK	f	What?!  WHAT?!
+JOHN	m	Jesus!  Help m --
+RIPLEY	m	Idiots...I'll --
+RIPLEY	m	What the -?
+ABBOT V.O.	m	An evil has come to Arceon...
+ABBOT	m	You heard Brother Graham tell of the devil inside sheep's wool --
+ABBOT	m	An evil brought by this woman in her vessel of technology.
+RIPLEY	m	This can't be happening.
+BALD TRIBUNAL MONK	m	You have no voice in this tribunal.
+RIPLEY	m	You must listen to me!  You're all in terrible danger!  It came with me on the ship --
+ABBOT	m	We know that.  At first we believed its arrival was a good omen.  But it has only brought pestilence.  Dead sheep.  Dead fish.
+BALD TRIBUNAL MONK	m	Evil.
+RIPLEY	m	Yes, the ship brought it.  Not evil. It brought the Alien.  I told you, it's here.
+ABBOT	m	We know the name of the evil it brought. It brought technology.  Technology to destroy our planet, as surely as it destroyed the Earth.
+MONK IN AUDIENCE	m	Destruction!
+RIPLEY	m	I was on the Earth less than a year ago. It's still there.  People, cities, all  still there!
+ABBOT	m	    (matter of fact) All dead.
+RIPLEY	m	    (screams) It's still there!
+ABBOT	m	You could not have been on the Earth a year ago, because there is no Earth to be on -- for at least twenty years.
+RIPLEY	m	I haven't been floating in space for twenty years.  Let me get to my ship and I'll prove it.
+BALD TRIBUNAL MONK	m	No.  Who knows what new evils she'll release if allowed back into that infernal machine.
+MONK IN AUDIENCE	m	No!  Don't let her!!
+TRIBUNAL MEMBER	m	This woman is a danger.  She denies The New Dark Age.  She denies reality.
+RIPLEY	m	This is reality.  There is a Xenomorph loose on this planetoid - a alien -- it must have stowed away on my ship -- must have killed -- (swallows hard) Newt.  Killed the girl I brought with me. You can't stop it.  It goes inside you like an egg - grows - (mimes) Explodes out of you - keeps growing into some sort of monster.  Kills you -- Kills all of you...
+RIPLEY	m	Who are you people?  Look at you -- all of you -- the way you're dressed.  This isn't the Middle Ages.  You're in space -- on a artifical planet.  What are you doing out here?
+RIPLEY	m	Isn't there anyone here who will listen?
+RIPLEY	m	    (defeated) I guess not.  I can't believe this... 
+ABBOT	m	Then there is no choice.
+ABBOT	m	   (to Ripley) The evil is inside you.  I cast you down. To be sealed away.  And God have mercy on your soul.
+RIPLEY	m	You won't be able to fight it... You don't know what it is --!
+RIPLEY	m	You've sentenced yourselves to  death!
+BALD TRIBUNAL MONK	m	...they'll have started before she gets down to the Hermitage level.
+ABBOT	m	No trouble?
+BALD TRIBUNAL MONK	m	Only finding the wood for the ship.  But Anderson's hut was about that big, and he's dead three months now.
+ABBOT	m	I had that wood earmaked for the Cloister  next winter.  Well, we might not get to the winter if we don't take care of this. By winter time we can start taking the  penitent cells apart.  No one in them.
+ANOTHER TRIBUNAL MONK	m	The wood isn't going to last forever.
+ABBOT	m	Neither are we --
+ABBOT	m	Go ahead.
+JOHN	m	This woman.  Ripley.  I tended her --
+ABBOT	m	Yes, and you did a good job.  You shouldn't feel responsible.  You couldn't have known --
+JOHN	m	Please, sir, let me finish.  I feel that there may be something to what she says.
+ABBOT	m	There isn't.
+JOHN	m	I don't understand what you are doing.
+ABBOT	m	This colony is my responsibility.  I am protecting the colony.
+JOHN	m	From what?  This woman?  You never gave her a chance.  How can you be so sure you're right?
+ABBOT	m	A better question is what makes you think I'm wrong?
+JOHN	m	You didn't see this thing -- this demon -- Brother Graham and I -- we both saw it.
+ABBOT	m	      (realizes) That's right.  You both did.       (beat) And what was it?
+JOHN	m	I -- I don't know what it was.  But I don't think Ripley was a party to it.
+ABBOT	m	She admits she brought it.
+JOHN	m	But she tried to warn us --
+ABBOT	m	You know that's how the devil works. Deception.
+JOHN	m	But I believe her.  I don't know how to describe it -- A feeling.
+ABBOT	m	You haven't seen a woman in thirty years. Where does this feeling originate, John?
+JOHN	m	     (points to his head) Here.
+ABBOT	m	I believe you.  But your feelings are fooling you.
+JOHN	m	It's - It's her conviction.  I just think --
+ABBOT	m	Don't think.
+ABBOT	m	It's been a long night.  For all of us. You really don't understand what you're dealing with here.
+JOHN	m	That's what she said.
+ABBOT	m	These are ideas which threaten the very system we live under.  The creature is dead and the woman is gone.  Forget them. Both.  Go read.  Go fishing.  Go anywhere, but leave this alone.
+JOHN	m	But I --
+ABBOT	m	Alone.  I'll get Philip to let Mattias into the Library, all right?  For your own good, just stay out of this.
+ABBOT	m	I mean it.
+JOHN	m	     (slowly) Yes, Father.
+WORKER	m	Here you go, woman.  Something from your ship.  Something to keep you company --
+RIPLEY	m	You fucking idiots!  You're dead! You're all dead!
+RIPLEY	m	     (sotto) Dead...
+RIPLEY	m	Christ.  Jesus Christ.  It's here.  Here. Shit.  Here.  I can't get rid of it...
+RIPLEY	m	Newt.  This isn't what I wanted...
+RIPLEY	m	     (snaps) Don't stare at me!
+VOICE O/S	m	Sorry.
+JOHN	m	Now find John and have him brought to  me immediately.
+THIRD BURLY MONK	m	Yes, Father.
+ABBOT	m	Start in the library.  And keep it quiet.
+KYLE	m	Hey!  Watch it!
+KYLE	m	What?  What is it?
+JOHN	m	I -- Abbot.  Must --
+KYLE	m	John - relax.  Take a deep breath - Christ, now I sound like you --
+KYLE	m	Is that it, John?  Is it the book --?
+JOHN	m	     (panting) Yes.  Devil.
+WHISPERING MONKS	m	He's got it...
+SECOND WHISPERING MONK	m	Like the Comet Woman...
+THIRD WHISPERING MONK	m	He found her...
+	?	WHISPERING MONK
+WHISPERING MONK	m	He's infected...
+KYLE	m	Everything's gonna be fine.  Now, let's see the --
+JOHN	m	Don't humor me -- I'm --
+KYLE	m	Sure.  Everything's gonna be fine...
+KYLE	m	Wait -- JOHN!
+ABBOT	m	Cold tonight --
+BALD TRIBUNAL MEMBER	m	Gets colder every night.
+ABBOT	m	And every day.  Never this bad.  Taken so much wood out of the structure the surface wind blows right through the colony.  Right under the floor --
+BALD TRIBUNAL MEMBER	m	Right up your bloody backside.  Nights like this make me miss plumbing --  Ack --!
+ABBOT O/S	m	What?
+BALD TRIBUNAL MONK	m	I don't -- AAH --
+ABBOT	m	Matthew?  Matthew?  Jesus, what's wrong?
+RIPLEY V.O.	m	Death...
+RIPLEY	m	Wherever I go.
+WHITE-HAIRED MAN	m	Take it.
+RIPLEY	m	Thanks, but no thanks, Anthony.
+ANTHONY	m	You waiting for meat?  They don't bring me meat because they know I'm an android. Really don't need it.  Bread's better for you anyway.  Harder to digest, so  it makes you feel fuller than you are.
+RIPLEY	m	Not hungry.
+ANTHONY	m	Mmmm.  Just a little crunchy.
+RIPLEY	m	Waste of time.
+ANTHONY	m	You don't eat, you'll starve to death, girl.
+RIPLEY	m	That was the plan when they put me down here.  And why should you care?
+ANTHONY	m	Because I'm a synthetic person you don't think I can care?
+RIPLEY	m	Believe me, that's a discussion you don't want to have with me.
+ANTHONY	m	You told me you had a bad experience and a good one with androids --
+RIPLEY	m	That's one of each.  That means you could go either way.  I'm tired of talking about this.
+ANTHONY	m	You've still gotta eat.  You gotta fight the bastards --
+RIPLEY	m	I'm tired of fighting.  Maybe I'll be dead before he finds me.  Maybe he won't get the satisfaction.
+ANTHONY	m	He?  You make it sound like this Alien has a personal score to settle with you. The biology you describe:  Queen laying eggs, larvae, drone -- that's very insectoid.  Insects usually don't bear grudges.
+RIPLEY	m	And Androids usually aren't the prisoners of lunatics that believe they're ancient  Greeks.
+ANTHONY	m	Medieval Monks.
+RIPLEY	m	Whatever.
+ANTHONY	m	And they've only chose to live the life style, they don't believe they're --      (hears something) What's that?
+JOHN	m	     (hoarse) Ripley!
+ANTHONY	m	Hey -- you knocking -- cut it out -- You're going to wake everybody up.
+ANTHONY	m	Brother John?
+JOHN	m	Anthony?  Thought you dead fifteen years.
+ANTHONY	m	Made too good for that.  What're you doing?
+JOHN	m	I -- I'm looking -- the Abbot --
+ANTHONY	m	What?  You look like you've seen the devil.
+RIPLEY O/S	m	He has.
+ANTHONY 	m	You mean he --
+RIPLEY	m	I was right, wasn't I?  You've seen it, you've seen the Alien?
+RIPLEY	m	I can tell you have.  I was right. It came with me. (to the wall, sharp) Go away.
+RIPLEY	m	Listen, priest, or whatever you are, I know what you want.  I can't help you. I couldn't help any of the others.   Just stop what you're doing.  Go away. Do you understand?
+RIPLEY	m	You going to stay, Father?  But you're  not going to talk.  Okay.  Then you can listen.  You should listen.  Your Abbot was right.  I am guilty.  But not of  heresy.  Of murder.
+RIPLEY	m	The murder of the crew of the Nostromo. That was when I first met the Alien.
+RIPLEY	m	No, not the same one that's here now. Or maybe it is.  Maybe they're all the  same one.  I couldn't save my crew then. I should have been able to.  But I couldn't. When I went the second time --
+RIPLEY	m	Then I met Newt.  Newt.  I fought -- stayed alive to keep Newt alive. Hoped maybe that would make up for...
+RIPLEY	m	Now he got her too.  What's the point?      (hard again) Just go away.  Leave me in here.  If you let me out you'll want me to help you and it will start all over again. Let it end.
+RIPLEY	m	I can't help you.
+JOHN	m	Puh. (pant) Please.
+RIPLEY	m	It never ends.
+RIPLEY O/S	m	Sheep?
+ANTHONY	m	It must be able to take on some of the characteristics of the animal it grows in. Maybe they are from some sort of aggressive soldier race -- warring parties drop the eggs on opposing planets --
+RIPLEY	m	And the alien takes on the form of the creature that finds it, assuming that animal is the dominant life form on the planet.  So when it gestates in a man --
+ANTHONY	m	It's a biped.  In a sheep or cow, a quadroped.
+RIPLEY	m	Shit.  I just didn't think it could do that to animals.
+JOHN	m	Wait a minute - I thought you were the expert on this monster.
+RIPLEY	m	Is that the only reason you came to get me out?  Because I knew about this thing?
+JOHN	m	Yes.  I mean no.  I mean, that was part of it.  Look.  I never thought you were wrong. I was wrong not to say anything.  I was afraid to speak up.  It's hard to be a  monk, you know?
+RIPLEY	m	Thank you.  If anything, you're honest.
+JOHN	m	We all are.  Took vows.
+RIPLEY	m	I don't know about the Abbot.
+JOHN	m	I'm sure he thinks what he did was right.
+RIPLEY	m	Is that speaking up for someone?
+JOHN	m	No.  Charity.
+RIPLEY	m	All right, let's forget about the past and get on to our survival.  No more prisoners behind us?
+ANTHONY	m	Not for years.
+RIPLEY	m	Okay -- If the Alien's had a few days to lay his eggs our only hope is to get off this - What is this?
+JOHN	m	Arceon.
+ANTHONY	m	Satellite.
+RIPLEY	m	Get to my ship and get off this Satellite.
+JOHN	m	We can't.
+RIPLEY	m	We can't what?
+JOHN	m	Leave Arceon.  Can't leave the library --
+RIPLEY	m	A Tape Library?
+JOHN	m	Books.
+RIPLEY	m	So?
+JOHN	m	The reason we are out here.  Like the Monks who guarded Monastery Libraries  on remote islands off England during the First Plague --
+RIPLEY	m	There must be books on other colonies --
+JOHN	m	Some of these books survived the burning of the Libraries of Alexandria.  They contain knowledge that exists in no  other record.  Their value is unestimable.
+JOHN	m	We're supposed to protect them.
+RIPLEY	m	    (to Anthony) And what does an android have to do  with all this?
+JOHN	m	He's a spy.
+ANTHONY	m	The Company planted me here.
+RIPLEY	m	The Company?  What does the Company have to do with this?
+ANTHONY	m	They built this prison.
+RIPLEY	m	Prison?
+JOHN	m	Colony.
+ANTHONY	m	Prison.  They are all political heretics.
+RIPLEY	m	You left that part out.
+JOHN	m	The order was more of a counter culture, a reaction to the Technology that was beginning to take over everyone's lives. It was a simple enough idea - Read, don't  watch disk.  Walk, don't pump more carbons into the air.  The earliest members renounced technology.  Started to collect the remaining books.  Nobody would have noticed if it hadn't been for the Virus.
+RIPLEY	m	Your Abbot talked about that.  The New Plague.
+ANTHONY	m	A computer virus.  A bad program.  By this time the Corporate structure was transglobal, all the world's data storage systems were linked.  It spread through two countries before it was stopped.
+JOHN	m	After a scare like that, thousands flocked to our retreat.  People started clamoring for written information.  For our books. They abandoned the modern ways --
+RIPLEY	m	I think I can see how this comes out. They gave up their possessions.
+ANTHONY	m	This was a threat --
+RIPLEY	m	To the Company.
+JOHN	m	They sold the technology.  A movement  to live simply was quickly twisted by  Federal agents into a political movement against the Company-controlled World Government.  Too much was at stake.
+RIPLEY	m	Too much profit.
+JOHN	m	We were sentenced as political dissidents. This orbiter is our gulag.  All the men were packed up with all our books, and towed into space.  Ten thousand men.  The eldest died very quickly.
+RIPLEY	m	The Company had such a sense of irony.   Sending you out on this wooden tub.
+ANTHONY	m	I was placed among them as a sensor. Keeps tabs on the movement.
+RIPLEY	m	So how'd they find out about you?
+ANTHONY	m	I told them.  After the supply ship's stopped coming I saw no point in keeping up the charade.  Since I was a sort of walking reminder of technology, they cast me down.
+RIPLEY	m	Join the club.      (to John) I figured this wasn't planned.  You don't have to be a genius to see it wouldn't be prudent to try to preserve man's written works for generations -- without women.
+RIPLEY	m	And I don't know about your New Plague, but I was just on Earth and everything's  fine.
+RIPLEY	m	I was right about the Alien, wasn't I? Means I must be right about the Earth.
+JOHN	m	     (beat) Perhaps.
+RIPLEY	m	That's better than nothing.  Come on.
+RIPLEY	m	At any rate, let's forget about the Earth completely - whether you're right or I'm right what's important is getting the hell out of here.  From here my ship is...?
+ANTHONY	m	In Heaven.
+RIPLEY	m	Right.  And this is...
+ANTHONY	m	This orbiter was patterned after a  medieval concept of the universe --  (makes a circle in the air) They call the top half "Heaven - "
+JOHN	m	The Abbey, the fields --
+ANTHONY	m	The bottom half is "Hell."  Where we are.
+RIPLEY	m	Aptly named.  What's in the middle?
+JOHN	m	The sea.
+ANTHONY	m	Really.
+RIPLEY	m	Work with me here.  How far is it back to the surface of the planet?
+JOHN	m	As a stone falls --- Five miles through the center.
+RIPLEY	m	And the elevator -- the thing they lowered me down in?
+JOHN	m	Ropes cut.
+ANTHONY	m	It's smart.  First he cuts their escape off, then works his way down through the  monastery level by level until there isn't a thing left alive.  Interesting...
+RIPLEY	m	Well, you start appreciating him more than me and I'll find a way to shut you down, capisce, Andy?  How do we get up?
+JOHN	m	There are ladders.
+RIPLEY	m	Five miles with the Alien between us and there?  Good luck, boys.
+JOHN	m	You can't --
+RIPLEY	m	Can't what?  Not help you go to your deaths?  I've had my fill of that.
+JOHN	m	I need you.  I can't do it alone.
+RIPLEY	m	I've fought these creatures twice before.  It take a lot to kill these things.  Heavy artillery.
+ANTHONY	m	We don't have weapons here.
+RIPLEY	m	How about something we can make weapons from?  Do you have anything like that -- any modern things here?
+JOHN	m	We renounced technology.  It was those things that caused the Plague.
+RIPLEY	m	This is a man-made planet.  Something has to be recirculating your air, your water.
+JOHN	m	God?
+RIPLEY	m	Please.
+JOHN	m	I don't know.  I just took it for granted.
+RIPLEY	m	Most people do.  Without some sort of technology we haven't got a chance.
+ANTHONY	m	There is technology.
+ANTHONY	m	A room.  A Technology room.  Fresh air and water come out.
+RIPLEY	m	An atmosphere processing plant --
+ANTHONY	m	The heart and lungs of Arceon.
+RIPLEY	m	Where is it?
+ANTHONY	m	One level beneath the underground sea.
+JOHN	m	That's five levels up --
+ANTHONY	m	     (points into the gloom) On the other side of the orbiter.
+JOHN	m	A chance.
+RIPLEY	m	All right.  You've got me - so far. But here's the deal:  I don't know how many of your brethren are going to be alive when we get up there, but if we make it to my ship, you're all coming with me.  We'll take as many of your precious books as we can carry, but we're going.  I'm not going to fight this thing again to  end up alone again.  Understand?
+RIPLEY	m	We're all dead anyway.  We might as well go fi --
+RIPLEY	m	Ugh - I'm all right.
+RIPLEY	m	Still thawing out.  I hate hyper sleep... Come on.
+ABBOT	m	     (sotto) Stay together.  Together...
+ABBOT	m	Run!  RUN!
+ABBOT	m	No - NO.  The --
+JOHN O/S	m	It isn't your fault, you know.
+RIPLEY	m	What?
+JOHN	m	Those things you said before --
+JOHN	m	I read about it in psychology books. Sometimes when people outlive someone they cared for, they transfer some of the guilt for that person's death to themselves.
+RIPLEY	m	I got a belly full of that from the Psychtechs when I was on Earth.  Yeah. "Survivor Guilt syndrome," or something like that.  But that's not what I was thinking about.  I was thinking about my "friend" up there.
+RIPLEY	m	He was on the pod.  He killed Newt but not me.  Why not me?  It's almost like he's playing with me.  Maybe they have some sort of race memory.  Maybe he knows what I did to his "mother." That's why he didn't just kill me. That would be too easy.  He has to torment me.
+JOHN	m	You make it sound human.
+RIPLEY	m	Hell, I don't know what it is.
+JOHN	m	I think I do.
+JOHN	m	Jesus Christ.  Ripleeeee -!
+RIPLEY	m	Thanks.
+JOHN	m	You're welcome.
+RIPLEY	m	I'm all right.
+JOHN	m	Hold this against your nose.  It'll stop the flow.
+JOHN	m	I'm a doctor.
+ANTHONY	m	No - please.  Just let me sit. Awhile.
+ANTHONY	m	Damn it.
+RIPLEY	m	What was that?
+ANTHONY	m	The reason I'm down here.
+JOHN	m	Visions.
+ANTHONY	m	Dreams.
+RIPLEY	m	Androids can't dream...
+ANTHONY	m	That's probably what they thought when they built me.  But my brain is cyber- organic - patterned after the human brain - it functions the same way a human brain does.  It accumulates random images and sensations during waking  hours, but unlike the human brain that sloughs them off during sleep --
+RIPLEY	m	Androids don't sleep.
+ANTHONY	m	Right.  Maybe they've fixed this on later models, but I don't.  Do you know what  happens to the human brain when it is deprived of sleep?  It starts to run off the dreams while you're awake, as  hallucinations.  Same thing with me. For twenty years I absorbed data on this planetoid.  A little after we lost contact with Earth the visions started.  They thought I was insane.  I had to explain  that it was because I was an android. They liked that even less.
+RIPLEY	m	What did you see?
+ANTHONY	m	What I always see.  Images of Monsters. Demons.
+JOHN	m	They're portents.  They stand for an evil yet to come.
+ANTHONY	m	Just images I've absorbed from those old books and have no way to get rid of.
+RIPLEY	m	I saw the inside of your cell.
+ANTHONY	m	     (shrugs) My head is full of them.  I try to get them out any way I can.
+JOHN	m	You need sleep.
+ANTHONY	m	I know that.  I'll settle for rest.
+RIPLEY	m	Stay with him.
+JOHN	m	No.  We all need rest.  You especially.
+JOHN	m	Doctor's orders.
+JOHN	m	Besides, you see what happens when you get ahead of us.  We should stay together.
+RIPLEY	m	All right.  He's still above us, anyway.
+JOHN	m	What do you mean?
+RIPLEY	m	I've faced this evil twice before - I guess I've gotten sensitive to it --      (beat) You're really a Doctor?
+JOHN	m	See my bag?
+RIPLEY	m	What's that book?
+JOHN	m	Just a book.
+RIPLEY	m	I don't buy "just a book" from a guy who says we can't leave the planet without the library.
+	?	JOHN
+JOHN	m	It's just... a medical book I might need.
+RIPLEY	m	You don't have any food in there, do you?
+JOHN	m	Only if you can eat bandages.
+RIPLEY	m	In a few hours that's going to sound good.  Going in and out of suspended animation - Christ I probably haven't eaten in a year.
+ANTHONY	m	    (without opening eyes) You should've eaten the bread.
+RIPLEY AND JOHN	m	Rest!
+JOHN	m	You all right?
+RIPLEY	m	Aces.
+JOHN	m	You weren't hurt when I landed on you? Bruised a rib?
+RIPLEY	m	Are you sure you're a doctor?
+JOHN	m	Sort of.  My father passed on when we  first came here.  The Abbey's Physician - Father Anselm - took me in.  He really raised me --   (pause) Taught me what he could before he passed away.  He was schooled on Earth.
+RIPLEY	m	Well, I'm just hungry.
+JOHN	m	You haven't eaten since I took you out of your tube.
+RIPLEY	m	You did that...
+RIPLEY	m	You burned yourself on the escape pod.
+RIPLEY	m	Thank you, I guess.
+ANTHONY O/S	m	You should've eaten the bread.
+ANTHONY	m	Enough rest.  There's beasties afoot.
+JOHN	m	Blood.      (sniffs) Mixed with sea water.
+ANTHONY	m	We're getting close to the center of the arc -- near the sea.
+RIPLEY	m	Blood.
+JOHN	m	Getting close...
+RIPLEY	m	The Abbot.
+JOHN	m	Father --
+RIPLEY	m	   (sarcastic) What are you doing down here, father? You look like you've seen something that doesn't exist.
+ABBOT	m	I was their spiritual leader.  I was not prepared to lead them in battle. Not against that thing.
+JOHN	m	No one could be.
+RIPLEY	m	I thought you said the evil was inside me -- that sealing me up was the answer to all your problems?
+ABBOT	m	Destruction.  The destruction YOU brought to us!
+RIPLEY	m	I only tried to warn you.
+ABBOT	m	What are you doing with this woman --?
+JOHN	m	We are going to the Technology Room. Trying to find some way to fight --
+ABBOT	m	You don't join the devil to fight the devil.
+ANTHONY	m	She's helping us --
+ABBOT	m	Look who defends the deceiver -- the one who isn't even human.  John, can't you see what is happening?  On ancient Earth, during the Black Death - many believed that God had abandoned them, so they appealed to the Devil.  Flocked to him hoping to save their bodies - losing their souls in the bargain.
+RIPLEY	m	Father, we're all on the run from the  same monster so let's not resort to the fire and brimstone routine.  I've been enlightened about your "movement." Pretty funny to be tried for heresy on a planet of heretics.
+JOHN	m	Please.
+ABBOT	m	All right.  I was trying to keep you quiet.
+JOHN	m	Sir --?
+ABBOT	m	I do what I have to do to keep the Brotherhood together.  We all gave up believing in Earth a long time ago.  How do you think they would feel if told their exiled was in vain?  That the holocaust they were trying to avoid never occured?  Those men up there have grown to live with it.
+RIPLEY	m	And with you as their leader.
+ABBOT	m	You threatened the status quo.
+RIPLEY	m	So you, protector of knowledge and truth, lied to them.
+ABBOT	m	Only about you.  The rest I still believe.  If Earth still orbits its sun there is no way it could have survived being reduced to Barbarism.
+RIPLEY	m	You're as bad as the Company.
+JOHN	m	Ripley --
+RIPLEY	m	That's why you ran.  After all your talk death stared you in the face and you were afraid.
+ABBOT	m	Not afraid of death.
+RIPLEY	m	The Alien.
+ANTHONY	m	The Organism.
+ABBOT	m	The Devil.
+ABBOT	m	What was that?
+ANTHONY	m	Man trap.
+ANTHONY	m	In case anyone tried to get in and tamper with the technology.
+ABBOT	m	What do we do?
+RIPLEY	m	Don't move.  Don't breath.
+ABBOT	m	We can't just stand here and wait.
+RIPLEY	m	Floor's too unstable to try to walk around them.
+ABBOT	m	John - what are you doing?
+RIPLEY	m	He's thinking like a leader.  Everyone: Grab wood.  Spring the traps.  Clear a path.       (proud of him) Good work, Father John.
+JOHN	m	Brother.
+RIPLEY	m	Brother.  Let's go.
+JOHN	m	I just - are you allright?
+RIPLEY	m	Tied.  Without sleep, food -- I just feel my age.        (smiles) Figuring hyperspace time, I'm almost a hundred.
+JOHN	m	Hello?
+JOHN	m	I think this is it.
+ABBOT	m	Technology.
+RIPLEY	m	Yeah - a hundred years ago.  An antique.
+ABBOT	m	     (to Ripley) Go ahead.
+RIPLEY	m	Go ahead and what?
+ABBOT	m	Open the door, woman.
+RIPLEY	m	I'll get to it, but listen to me -- you may dress like you're living in the middle ages but you can't treat me like your chambermaid, or whatever Monks had.
+ABBOT	m	OPEN IT!!
+ABBOT	m	What's wrong?!
+RIPLEY	m	Shit.
+RIPLEY	m	It's open!!
+ABBOT	m	Close it -- close it -- it's coming -
+RIPLEY	m	We wait.  John!!
+ABBOT	m	Hurry --
+JOHN	m	HURRY!!
+RIPLEY	m	No.  NO!  I beat you!  I beat you mother fucker!!
+JOHN	m	I thought we'd lost you.
+RIPLEY	m	What are you writing?
+JOHN	m	Last will and testament.       (beat) Just kidding.
+RIPLEY	m	Is he --?
+JOHN	m	Resting.       (shakes his head) He'll be fine.
+ANTHONY	m	No I won't.  He's a terrible liar.
+RIPLEY	m	I'm sorry.
+ANTHONY	m	It's ironic.  I guess my visions were prescience after all.  How will I ever resolve that with my artifical con- science?
+ABBOT	m	Do you see what you've delivered us into?
+RIPLEY	m	Yeah.  Lead me not into temptation to kick your -- ahh --
+RIPLEY	m	Oh shit.
+RIPLEY	m	Where is the Big Boy -?
+ABBOT	m	On the other side of that door. Waiting for us to starve to death.
+RIPLEY	m	It's playing with us.  It could get in here any time it wants.
+ABBOT	m	Why should he enter?  He knows that one of the people in this room is in league with him.
+JOHN	m	Sir.  We're all in the same coracle, so to speak.
+ABBOT	m	Maybe more than one of us.
+RIPLEY	m	Let's talk about the facts, Mr. Abbot.
+RIPLEY	m	This is your technology?
+ABBOT	m	Even this is forbidden to us.
+RIPLEY	m	Well then, the facts are that we're screwed.
+RIPLEY	m	An Eco system.  Nothing to recycle your atmosphere except the green plants.  Winds generated down here --      (looks at the floor) Windmills use the natural surface winds to turn wheels underground, create tides on the seas to recirculate your water...
+ANTHONY	m	More than that.  There are pumps beneath the floor - I can feel their vibration.
+RIPLEY	m	Probably pumping this air through charcoal filters.
+RIPLEY	m	It gets colder all the time here, right?
+JOHN	m	Yes...
+RIPLEY	m	Your wood burning fires throw soot into the atmosphere, building the cloud layer - cutting off the sun's rays - cooling the planet, forcing you to burn more wood.
+ANTHONY	m	The Greenhouse Effect.  It's how the Earth almost destroyed itself in the late 20th century.
+RIPLEY	m	Don't you see?  This is a planet set to self destruct.  Not in ten minutes or two hours but soon.  Your atmosphere here is finite.  If the plants die the fires will eat up all the oxygen - this planetoid will be dead - Everyone will die.
+ABBOT	m	It's here.  I was just hoping I would be dead long before it came to this.
+JOHN	m	What?
+ABBOT	m	We're supposed to die here.  That's the point.
+RIPLEY	m	Wait a minute -- you were exiled --?
+ABBOT	m	The punishment for our crime was death.
+ANTHONY	m	This planet is the supreme triumph of planned obsolesence.  A certain amount of primitive materials with an atmosphere processing system as fragile as a real environment but not replenishable.
+ABBOT	m	Poetic justice for the anti-technologists. The Company's best work.  You know, I used to be a corporate executive.  Middle range V.P.  Then my wife got hit by a speed craft. I chucked it all and joined the order. Be a monk -- see the world.  Being here, being chairman of the board...
+RIPLEY	m	No, now I understand why I landed here. To join you happy lunatics in your  deaths.
+JOHN	m	Ripley, wait --
+ABBOT	m	Where can she go?  She's trapped.        (beat) Trapped inside her own prison.  A prison in her mind.  Inside her mind.  Dancing. Sparklets of light - dance with the june bugs in the recesses of ourmindstheyare coming to danceintheshadowof...
+ABBOT	m	RidingthewildwindsofchangeNoescapeNo escapeforthewickedEvilEvilthynameis woman.Woman.Womanheiscoming.Heiscoming foryouuuuuuuuu --*
+RIPLEY	m	BASTARD!!  It came out of his fucking head!
+ANTHONY	m	I didn't have to see that to know what that means.
+RIPLEY	m	He sent him to us.  That bastard outside. I can't get away from him.  He's fucking with my mind.  He's my punishment!
+ANTHONY	m	I'm confused.  Before you said it came out of the torso, not the head --
+RIPLEY	m	I don't feel like a discussion of Alien biology.
+JOHN	m	Ripley, don't --
+RIPLEY	m	I should just wait for the air to run out...
+JOHN	m	I believe - I know - that we can win -- there is an answer in our books.
+RIPLEY	m	Your books?  Your books are gone, Brother. Your world is gone.  Once that thing starts to lay its eggs, all your brothers - if they aren't already - are dead.
+JOHN	m	If that's true, then all of us, the books, are consigned to ashes.
+ANTHONY O/S	m	Ripley?
+RIPLEY	m	What?
+ANTHONY	m	There are several inconsistancies between this and the other Aliens you described.
+RIPLEY	m	Give it up.
+ANTHONY	m	I think this is important.  This may help us fight it.  The creature that I fought in the hall - when I first saw it, it had camoflaged itself to look like wood.
+	?	RIPLEY
+RIPLEY	m	Wood?  When I saw it in my room it looked the way it did before -- black, mechanical -- unless that was a dream.
+ANTHONY	m	I don't think it was.  I think that this  creature, if it is the efficient predator that you say it is, has the ability to adapt to its environment.
+RIPLEY	m	Then the reason they've always looked the same to me is that I only ever saw them in the same environment.
+ANTHONY	m	Or this may be an as yet unseen stage of development -- you saw a queen -- This could be like a King ant -- more highly advanced than the drone, bred for  survival -?
+JOHN	m	How does this explain the thing that came out of the ewe's chest?  The Abbot's head?
+RIPLEY	m	Maybe it can deposit different types of eggs.  The chest burster is probably dormant until the host eats - The first one I ever saw came out of Kane after he started to eat --
+RIPLEY	m	No.
+JOHN	m	No what?
+RIPLEY	m	No, we're not beat yet, Father --
+JOHN	m	Brother --
+RIPLEY	m	Brother.  Not yet.  If he's taunting me, then maybe we can use that.  We can beat this bastard.  We can get to my ship. We can live.
+ANTHONY	m	Don't have second thoughts.  Blind and crippled I would only slow you down. Give him time to figure out what you're doing.  Just leave me my staff.
+RIPLEY	m	Okay.  Good luck.
+ANTHONY	m	Ripley, I know.  Good luck.
+RIPLEY	m	Sit tight.
+RIPLEY	m	He could be waiting on the other side of that door.  We might not get ten feet before he kills the three of us.
+JOHN	m	We had better go, then.
+JOHN	m	Must be day on the surface of the planet.
+RIPLEY	m	Where is the light coming from?
+JOHN	m	Mirrors.  Reflect the outside light down great shafts -- through lenses.  That's what they make in the glass factory.  Lenses.  Look --
+JOHN	m	Opens to the surface.  Water flows in and out.  I don't know how.  There's one at either end.  I came down on the other side.
+RIPLEY	m	What do we do?
+JOHN	m	We cross.
+ANTHONY	m	Now the seer can only see what God wants him to.  Forty years on a planet of Monks and I've finally found religion.
+ANTHONY	m	John?  Ripley?
+ANTHONY	m	Well come then.  I haven't got forever.
+RIPLEY	m	Your hands okay?
+JOHN	m	They'll be fine.  You've been on a boat before.
+RIPLEY	m	I was a warrant officer on a ship -- but I did all my sailing in space.
+JOHN	m	Father Anselm used to take me on his coracle when I was little.
+RIPLEY	m	How old were you when they towed this satellite out here?
+JOHN	m	Five.  The Abbot said they put us to  sleep for the thirty years it took to get here.  We've had almost forty more.  Until now.
+RIPLEY	m	What happened to your mother?
+JOHN	m	Never had one.  I mean, never knew her. I mean, I did, once.  She left my father when he joined the movement.  If she hadn't I wouldn't be here.  They kept the other children with the women, on Earth.  That was too long ago now.  Like a dream.
+RIPLEY	m	Did you know that I was a mother?
+JOHN	m	The girl in the ship with -?
+RIPLEY	m	No.  On Earth.  I never mentioned my daughter.  My daughter.  I have - had I guess, by now - a daughter on Earth. Kathy.  She was nine when I signed on to the Nostromo.  Mommy will be home before you know it I said.  My shares would have set us up good.  Then I lost sixty years floating around in a rescue pod.  Thanks to the Alien.  I came home to face a bitter, 70 year old woman.  My daughter.  A little girl who's mother never came home.
+JOHN	m	Jesus Christ.
+RIPLEY	m	They said I should have been happy to be alive.  Funny, huh?  That's why I went back the second time.  Not so I could fight it -- You can't fight it -- So I could let it kill me.
+JOHN	m	You didn't choose to get lost in space.
+RIPLEY	m	Thanks for the try Father --
+JOHN	m	Brother.
+RIPLEY	m	Brother, but I'm not looking for absolution. I couldn't be a good mother to my daughter. I couldn't be a good mother to Newt.  But I can be a good mother to you.  I can make sure you survive.
+RIPLEY	m	Blood.
+JOHN	m	From the levels above.
+JOHN	m	He must have slaughtered all --
+RIPLEY	m	Don't think about it.  Don't think about what's up there.  Just row.
+RIPLEY	m	Holy shit.
+JOHN	m	There's Andrew.  And Raphael.  Peter...
+RIPLEY	m	Stop.  How far?
+JOHN	m	We're right below the Abbey now.
+JOHN	m	This is the glassworks.  They have tools here -- (spots) Kyle --
+KYLE	m	     (sotto) Can't see my baby. Don't see my baby.  Bay be.
+JOHN	m	Kyle.  Brother Kyle.
+KYLE	m	Cards on the floor, fifty two pickup. Black king on red queen, put the ace up --
+JOHN	m	Kyle goddammit!
+RIPLEY	m	John - it's too late --
+KYLE	m	Ace up.  Put the ace up.  Redaceupup. Blackaceup.Up.Pup-pup-pup-chaka- boomloommawhacka -- Booomalooma looma --
+JOHN	m	Keep singing, my friend.
+JOHN	m	I killed him.  I'm a doctor and I killed him.
+RIPLEY	m	You had to.  You're supposed to end suffering.
+RIPLEY	m	Let's get the hell out of here.
+RIPLEY	m	He's made a mess.
+JOHN	m	No.  He hasn't been up here yet.  I  did this.
+JOHN	m	Here - philosophy - we'll start here --
+JOHN	m	Mattias!
+JOHN	m	He waited.  Ripley, this is Mattias.  My dog.  Good fellow.
+RIPLEY	m	I'm glad.  Really.  But we've probably only got a few minutes before this entire place goes up in flames.  Just grab whatever books you want and --
+JOHN	m	Easy, boy...
+RIPLEY	m	Is there another way out?
+JOHN	m	Not that will do us any good.
+JOHN	m	We hurt it.
+RIPLEY	m	You wanna give it a bandage?  Look -- Where is my ship from here?
+JOHN	m	On the roof directly above this room.
+RIPLEY	m	Here's the plan --
+	?	JOHN
+JOHN	m	But the books --
+RIPLEY	m	Forget the books!
+RIPLEY	m	Shit.
+JOHN	m	No!  THE BOOKS!!
+RIPLEY	m	Don't --!
+JOHN	m	Are you all right?
+JOHN	m	Ripley -!
+RIPLEY	m	Aargh.  I'm fine.  Let's get the fuck out of --
+JOHN	m	Ripley - the lever!!
+JOHN	m	Saw that happen to a bottle once.
+RIPLEY	m	    (panting) Beat... Beat him - ugh --
+JOHN	m	We've got to get to the Library --
+RIPLEY	m	Don't worry.  Ship.  Just --
+RIPLEY	m	Don't be stupid --
+JOHN	m	Some of them!  I've got to save some of them!  Mattias!!
+RIPLEY	m	They're lost.  You did your best.  If you get out, it wasn't in vain. We've got to live!!
+RIPLEY O/S	m	Come on in!
+JOHN	m	The Library --
+RIPLEY	m	I told you -- the Earth is still there --
+RIPLEY	m	Not working.
+JOHN	m	What does that mean?
+RIPLEY	m	It means I don't know how long I was in hyper sleep.
+JOHN	m	It means the Abbot could've been right --
+	?	RIPLEY
+RIPLEY	m	It means my clock isn't working.  We have to get out of here.  Even if he was right this ship's onboard computer is filled  with man's knowledge.
+JOHN	m	Not everything.  Some things will be lost forever.
+RIPLEY	m	Then man starts over.  He's done it before.
+RIPLEY	m	Okay.  The seals weren't broken so we're probably clear.  But those dead monks out there are going to start hatching soon.  Let's get ready to take off.
+JOHN	m	What can I do?
+RIPLEY	m	Here, I need a compressor tank from in that compartment.
+JOHN	m	Hey!  What?!
+JOHN	m	Hey - I'm locked in.
+RIPLEY	m	I know.  I locked you in.
+JOHN	m	What?
+RIPLEY	m	I'm not going with you.  I've got one inside me.
+JOHN	m	What?!  You can't --
+RIPLEY	m	I figured it out.  That's why it didn't kill me.  He must have impregnated me when I was in the stasis tube.     (remembers nightmare) It hasn't come out yet because I  haven't eaten, It's still dormant.  So either I eat and it kills me or I don't eat and I starve to death.  Either way  I die.
+JOHN	m	My book -- I know what to do --
+RIPLEY	m	What, an exorcism?  No good.
+JOHN	m	You can't do this.  Ripley - listen to me - you're confusing feeling of guilt for actual sin - I can help you --
+RIPLEY	m	    (ignoring) I've set a time lock.  When the pod escapes the Colony's gravitational pull this compartment will open.  Then all you have  to do is get into the Stasis tube with Mattias and press the blue button.  With any luck a freighter or something will pick you up.  Good luck.
+JOHN	m	NO!  No, Goddammit - you can't do this. You can't let it win.
+RIPLEY	m	It always wins.  We killed it, but it's still inside me -- You're my last chance. If I can keep you alive it'll make up for all those I've lost.
+JOHN	m	Listen to me!  You have to let me try! Ripley:  You're MY only chance!
+JOHN	m	I told you Father Anselm raised me. He raised me and when he was dying I couldn't do anything to save him.  I  didn't know enough.  It was my fault he died.  If you don't let me try to save you my body will live but my soul will be dead.
+JOHN	m	Please.
+RIPLEY	m	What is this stuff?
+JOHN	m	     (forceful) Something that will make you well. Something that will make you sick.
+RIPLEY	m	I don't --
+JOHN	m	Shut up and drink.
+RIPLEY	m	Why?
+JOHN	m	Choking.  It was the only way.
+JOHN	m	They knew.
+RIPLEY	m	But you --
+RIPLEY	m	You'll die --
+JOHN	m	That's idea.  Join...my brothers.  If we were right, Heaven.  If we were wrong -- either way, where we belong.  World of books.  Pages.
+JOHN	m	You... are from the real world.
+JOHN	m	Stay -- both of you.
+RIPLEY	m	No - wait!  John!
+JOHN V.O.	m	I, Brother John Goldman of the orbiter Arceon, Minorite abbey and gaol, know the Abbot was wrong.  There is a great evil here.  I have seen it.  I put pen to paper now lest this plague - this creature stills my hand.  I have gone down below - both to try to warn the others and get  the woman - Ripley - get from her some clue as to how to battle this evil, or at least to make my peace for not defending her.  She believes there is still and Earth and I hope she is right. I hope she will be able to find out. I hope she can find some rest for the devils that torment her.
+RIPLEY V.O.	m	Whether the Earth exists or not, whether we end up in Heaven, or Hell, or the cold vacuum of space, she has.
+

@@ -1,0 +1,582 @@
+BILLY	m	... I love violence!
+JULIAN	m	Two fifty, three hundred...
+JULIAN	m	You did well out there. You've got something, Liang. Potential, yeah?
+JULIAN	m	Don't spend it all in once place.
+JULIAN	m	He still in there?
+THE LIZARD	m	... No.
+JULIAN	m	You told him I was coming...
+THE LIZARD	m	Wouldn't listen...
+JULIAN	m	Well maybe you didn't try hard enough.
+JULIAN	m	When was the last time you slept?
+THE LIZARD	m	Just cause I ain't slept for three days, don't mean I don't know right from wrong... and your brother has become a real problem...
+JULIAN	m	No.
+THE LIZARD	m	Good - 'cause Billy ripped me off and then he broke my face...
+GORDON	m	Like I always said. One day he's going to meet the devil.
+JULIAN	m	You know where he is now?
+THE LIZARD	m	Bangkok has millions of people my friend. You and your brother, you're lost to my world...
+JULIAN	m	You go. I'm gonna look around. See if I can find him.
+GORDON	m	Sure--?
+JULIAN	m	Go on.
+JULIAN	m	Which way'd he go?
+THE LIZARD	m	His brother didn't pay.
+GORDON	m	So? That's his problem.
+THE LIZARD	m	Now it's your problem.
+GORDON	m	I'm with you mate. Billy's fucked--
+THE LIZARD	m	You don't pay his debt - you don't enter.
+GORDON	m	How much...?
+JULIAN	m	You seen Billy?
+MA LONG	f	Not this evening.
+JULIAN	m	Well if he comes in, tell him I'm looking for him, yeah?
+MA LONG	f	He's not coming in. I tell him to stay away. He hurt one of my girls Julian. Not good...
+JULIAN	m	Yeah, well... if you see him, tell him I'm looking for him...
+DAENG	m	Who is that guy?
+DAENG	m	Is he a cop?
+PHAIBAN	?	He was...
+CHANG	m	Is this your daughter? Yes.
+CHANG	m	How could you? ... What?
+CHANG	m	How could you let this happen? I didn't do anything.
+CHANG	m	Well now's your chance.
+CHANG	m	Do what thou will. You missed my turning. I live that way.
+KIM	?	We'll get you there. I'm so sorry. Please. Please. Please don't hurt me. I'm so sorry.
+CHANG	m	What are you sorry for? I thought... You were there. He killed my daughter. I thought you were letting me...
+CHANG	m	Answer the question. What are you sorry for? I killed the Westerner?
+CHANG	m	And why did you do that? He killed my daughter.
+CHANG	m	And why did he do that?
+CHANG	m	How old was she? Fifteen...
+CHANG	m	You knew what she was doing and you did nothing. How else can we make money? Four daughters. No sons. What else could I do? What did you expect me to do? You have to have pity on me. My daughter's just been murdered.
+CHANG	m	This isn't about her. This is about your other three daughters and making sure you don't forget them. I won't forget. I promise. Forgive me. I'll change. I'll be a better man.
+CHANG	m	I know.
+VOICE	m	I set off running to wake from the dream My brother's rifle went into the sheen I kept on running Into the south lands That's where they found me My head in my hands
+CHANG	m	The sheriff he asked me Why I had run And then it came to me Just what I had done And all for no reason Just one piece of lead I hung my head I hung my head.
+CHANG	m	So now that they've caught him... What are they going to do?
+KANITA	f	Put him in jail.
+CHANG	m	Come on. They haven't got a jail big enough. Look at the size of him.
+KANITA	f	Keep him as a pet?
+CHANG	m	But he blew down all their houses. Would you want to keep a pet that could do that?
+KANITA	f	What if they just let him go?
+CHANG	m	How could they be sure he wouldn't do it again?
+KANITA	f	They could ask him...? Very nicely?
+CHANG	m	"And so the king and the fairies that lived in the village said to the creature: this is your mark which will stay with you forever. If you ever try and blow down our village again, it will heat up until it boils your brains, for it has magical properties. Go in peace.
+JULIAN	m	Julian's not here mate. Fuck off...
+JULIAN	m	What is it?
+JULIAN	m	I can't deal with my brother right now...
+JULIAN	m	What?
+JULIAN	m	What happened?
+GORDON	m	They found his body in a hotel room...
+GORDON	m	Look, get dressed and I'll see you downstairs.
+MAI	f	What happened?
+JULIAN	m	Someone killed Billy...
+GORDON	m	What do we do?
+JULIAN	m	For now... We wait.
+JULIAN	m	Hello Mum.
+JULIAN	m	It's me... Julian... Something's happened.
+JENNA	f	I'd like to check in now please.
+CONCIERGE	m	I'm afraid the room won't be ready until four o'clock.
+CONCIERGE	m	... It's policy
+JENNA	f	I'd like to speak to your manager.
+CONCIERGE	m	Yes of course...
+MANAGER	m	Good afternoon madam, what seems to be the problem?
+JENNA	f	Listen to me... I've just travelled six thousand miles to see the corpse of my first born son and I haven't slept for thirty hours and he says I can't go to my room.
+MANAGER	m	I'm sorry madam...
+JENNA	f	How much?
+MANAGER	m	... it simply isn't possible.
+JENNA	f	...Fuck off you cunt, just hand me the fucking key...
+MANAGER	m	Well I might be able to arrange something...
+JENNA	f	Don't leave the money there. Some cunt'll nick it. Put it in your pocket.
+JENNA	f	Put it in your pocket.
+MANAGER	m	There's really no need--
+JENNA	f	Put it in your fucking pocket.
+MANAGER	m	Room 300.
+JENNA	f	Hey... Open this.
+JENNA	f	I need a drink.
+JENNA	f	Well don't just stand there...
+JENNA	f	I loved him so much you know... Billy...
+JENNA	f	Everyone loves their children don't they? Well, not everyone, but...
+JENNA	f	Do you want to see a picture?
+PORTER	m	Madam. I have to return to my station.
+JENNA	f	What, yeah, thanks.
+JENNA	f	Could it be have been one of the gangs?
+JULIAN	m	Maybe. Take your pick. Billy wasn't popular.
+JENNA	f	What do you mean?
+JULIAN	m	You know Billy... He was eccentric.
+JENNA	f	But you're going to find out who did it, right?
+JULIAN	m	I'll make sure it gets done.
+JENNA	f	No, it needs to be you that does it. We need to show them. Do you understand what I'm saying?
+JULIAN	m	Yeah, okay, I'll do it.
+JENNA	f	Good.
+VOICE	m	Love is a burning thing And it makes a firey ring Bound by wild desire I fell into a ring of fire
+CHANG	m	I fell into a burning ring of fire I went down, down, down And the flames went higher And it burns, burns, burns The Ring of Fire / The Ring of Fire
+CHANG	m	I fell into a burning ring of fire I went down, down, down And the flames went higher And it burns, burns, burns The Ring of Fire / The Ring of Fire You can't kill me. I'm a cripple. Who are you? What do you think you're doing? Get out or we'll call the police.
+JULIAN	m	Ask him if he's Choi Yan Lee.
+CHARLIE LING	m	Is your name Choi Yan Lee?
+JULIAN	m	Ask him why he killed my brother.
+CHARLIE LING	m	You killed his brother. Big mistake fat man. Why'd you do it? He murdered my daughter.
+CHARLIE LING	m	He says he killed his daughter. Oh God. Please don't kill me. Please. I'll give you anything. Anything you want. My daughters. My shop. Please. I've paid for what I did. Look at me. I've paid for what I did. Don't you see?
+JULIAN	m	What's he saying?
+CHARLIE LING	m	He says... He says he's paid for what he's done. That he's been punished already. He told me to do it. Then he took my hand. Look.
+JULIAN	m	Who did that to him? The Angel of Vengeance...
+CHARLIE LING	m	It's a lie - he doesn't exist... I'm telling the truth. It was the Angel of Vengeance.
+JULIAN	m	What's he saying?
+CHARLIE LING	m	He's lying...
+JULIAN	m	Tell me.
+CHARLIE LING	m	It's a story old women tell their grand children... 'The Angel of Vengeance' is supposed to come down from the heavens and judge the living... restore karma to the world..
+JULIAN	m	How does he do that?
+CHARLIE LING	m	Leads people to their destiny... That's the myth anyway.
+JULIAN	m	Ask him who cut his hand off.
+JULIAN	m	Do it.
+CHARLIE LING	m	Who turned you into a cripple - and no bullshit this time.
+CHARLIE LING	m	He says it was The Angel of Vengeance... The Angel of Vengeance. Yes. You don't find the Angel of Vengeance. No. He finds you.
+JULIAN	m	What's he saying?
+CHARLIE LING	m	Pull yourself together fat man. If you don't talk sense I'll cut off your cock and shove it down your throat. I'm telling you the truth. He'll find you.
+JULIAN	m	What did he say?
+CHARLIE LING	m	He said you don't find The Angel of Vengeance. He finds you...
+GORDON	m	Are we going to kill him or what?
+GORDON	m	What are you doing?
+JULIAN	m	Nothing... We're not going to do anything... Just leave him. Leave them all.
+JENNA	f	Did you kill him?
+JULIAN	m	It's a little bit more complicated than that Mum.
+JENNA	f	Complicated? He killed my son... What's so fucking complicated about that?
+JULIAN	m	Mum, calm down...
+JENNA	f	Don't tell me to calm down. I want him dead.
+JENNA	f	We don't forgive. Only God does.
+JULIAN	m	I know, you always say that - but this is different...
+JENNA	f	How?
+JULIAN	m	Maybe... Maybe Billy had it coming...
+JENNA	f	What are you talking about?
+JULIAN	m	...because of what he did.
+JENNA	f	I don't care.
+JULIAN	m	Why?
+JENNA	f	Just don't - some Thai cunt murdered your brother and we're not going to let him get away with it.
+JULIAN	m	What if... What if it was The Angel of Vengeance?
+JENNA	f	The Angel of fucking what...?
+JULIAN	m	...it - or he - restores karma and order in the world.
+JENNA	f	'Restores' things? Who said anything about 'restoring' things?
+JULIAN	m	He loves all humans...
+JENNA	f	I don't know what kind of spiritual journey you're on, but you will kill
+JULIAN	m	I'm not, I'm just...
+JULIAN	m	... I've got to go.
+JENNA	f	How's business?
+GORDON	m	It's alright, yeah. Well, what with Billy not being around, it's tricky to be honest...
+JENNA	f	What d'you mean?
+GORDON	m	Well, we're supposed to be moving five keys out the end of this week. But Billy's not here, is he?
+JENNA	f	I'm here. Julian's here.
+JENNA	f	What's gotten into him...? Is he high or something?
+GORDON	m	I don't know. Earlier today - we had the guy... The guy that killed Billy. Had a gun against his face. But then - nothing...
+JENNA	f	Nothing?
+GORDON	m	Julian let him go. Now there's all this stuff about angels... I don't know what the fuck's wrong with him.
+JENNA	f	Not like you...
+GORDON	m	I know how to do what needs to be done. That's all.
+JENNA	f	So tell me... What did he mean when he said it was complicated?
+GORDON	m	There's this other guy... Might have been involved...
+JENNA	f	So we kill them both.
+GORDON	m	We don't know who the other guy is yet...
+JENNA	f	Okay. Well how about we start with the guy we do know?
+MAI	f	Sorry I'm late.
+JULIAN	m	It's alright...
+MAI	f	What's wrong?
+JULIAN	m	Nothing.
+MAI	f	See anyone you want us to take home tonight?
+MAI	f	What?
+JULIAN	m	Nothing...
+MAI	f	What's with you? You want to get high?
+JULIAN	m	I want you to meet my Mum.
+MAI	f	Is she here?
+MAI	f	D'you want me to?
+MAI	f	Why d'you want me to meet her?
+JULIAN	m	To show her... To show that I've got something here...
+MAI	f	What, like we're a couple?
+GORDON	m	Never come back - you understand me?
+GORDON	m	Good...
+GORDON	m	You're a fighter, kid. No doubt about it. Good luck with that.
+JULIAN	m	When did you last see him?
+LIANG'S SISTER	f	Last night. He went out.
+JULIAN	m	Did he have any enemies?
+LIANG'S SISTER	f	None.
+LIANG'S MOTHER	f	Someone called him.
+LIANG'S SISTER	f	Someone called his mobile.
+JULIAN	m	Who?
+LIANG'S SISTER	f	She doesn't know. They spoke in English.
+JULIAN	m	This his phone?
+JULIAN	m	What is it?
+JUILAN	m	What do they want?
+JULIAN	m	No, I'll talk to them.
+JULIAN	m	Good morning officers. How can I help you?
+KIM	?	We're investigating the murder of Choi Yan Lee.
+JULIAN	m	Never heard of him.
+KIM	?	His arm was cut off. Here.
+JULIAN	m	I run a boxing club. Not much call for one armed men.
+JULIAN	m	What's this got to do with me?
+KIM	?	He was the father of the girl that was found dead with your brother.
+JULIAN	m	Then I guess you boys have got a lot of work to do - so have I, so if you'll excuse me...
+KIM	?	That's why we're here Mr Hopkins. If you could just answer our questions.
+JULIAN	m	Sure, sorry. What do you want to know?
+KIM	?	Where were you last night?
+JULIAN	m	With my mum...
+JULIAN	m	You want to speak to her?
+KIM	?	That wont be necessary at the moment.
+JULIAN	m	Am I suspect?
+CHANG	m	This is not the man.
+JULIAN	m	I want you to find out who that guy is. Okay?
+GORDON	m	Sure. No problem.
+JULIAN	m	Now.
+CHANG	m	Why are you here?
+JULIAN	m	You're him... Aren't you?
+CHANG	m	Who?
+JULIAN	m	The one who killed my brother.
+CHANG	m	I love all living things.
+CHANG	m	I restore karma. Is that why you came?
+JULIAN	m	I came here to kill you.
+CHANG	m	What's stopping you?
+JULIAN	m	I don't know...
+CHANG	m	Would you like me to tell you?
+CHANG	m	You want the Angel of Vengeance.
+JULIAN	m	Yes.
+CHANG	m	Why?
+JULIAN	m	Cause, all my life... I don't know.
+CHANG	m	Yes you do.
+JULIAN	m	My mother wants me to kill you.
+CHANG	m	And what do you want?
+JULIAN	m	... I love violence.
+CHANG	m	You want to fight me?
+JULIAN	m	Thai style.
+KIM	?	What about his brain?
+PHAIBUN	?	It's a risk... One hit in the wrong place and he'll be straight back in hospital. And maybe he wont be so lucky as last time.
+DAENG	m	Then why's he going to fight the Westerner?
+PHAIBUN	?	He used to be a great boxer.
+KIM	?	He has to do it. Since he came out of the coma, that's what he's done. Whatever's been asked of him, he's done it. He can't help it. It's all a mystery...
+DAENG	m	And if he loses?
+PHAIBUN	?	He can't lose. He's the Angel of Vengeance.
+CHANG	m	View.
+NADEE	f	Window.
+CHANG	m	Table.
+NADEE	f	Do you like the table?
+CHANG	m	Yes. I like the table.
+NADEE	f	What is it?
+CHANG	m	I need to speak to you in Thai.
+NADEE	f	What is it?
+CHANG	m	I love you.
+MAI	f	What is it?
+JULIAN	m	You can't wear that.
+MAI	f	Why not?
+JULIAN	m	My mother's... Very particular about colours.
+MAI	f	You're kidding?
+JULIAN	m	She hates red. Come on, we'll get you something else.
+JULIAN	m	Come on.
+MAI	f	This is insane.
+JULIAN	m	Look, I'm telling you. It's easier this way. Trust me.
+JENNA	f	So... May, isn't it?
+JULIAN	m	It's Mai, Mum.
+JENNA	f	How long have you two known each other then?
+JULIAN	m	A year and a half isn't it?
+MAI	f	...that sounds about right.
+JENNA	f	Well it's always a rare treat to meet one of Julian's lady friends.
+JULIAN	m	Mum, please...
+JENNA	f	So, where did you two meet?
+JULIAN	m	I saw her walking down the street.
+JULIAN	m	And I thought - this is the most beautiful girl I've ever seen - so I just walked up to her and started talking.
+JENNA	f	I hear that happens a lot in this part of the world... Tell me, what's your line of work, Mai?
+MAI	f	I work in the service industry.
+JENNA	f	I bet you do. But tell me Mai, before you started serving my son, how many cocks were you serving? Was it over a thousand?
+JENNA	f	I know girls like you. Just because you might be pulling the wool over my son's eyes don't think it's going to work with me.
+JULIAN	m	Mum, stop it, for fuck's sake.
+JENNA	f	I'm sorry Julian, but I won't stand by and let a dirty little hooker take advantage of my son in the vain hope that her womb isn't so diseased that she can trick him into impregnating her and putting another cocksucking child on to this earth.
+JULIAN	m	Leave her alone Mum. You've got her wrong. She's a good girl.
+JENNA	f	What do you know about what's good?
+MAI	f	He's good to me...
+JENNA	f	Well that's nice isn't it, I'm really happy for you--
+JULIAN	m	Mum!
+JULIAN	m	The cops came by my club today.
+JULIAN	m	They're investigating a murder. The guy that killed Billy turned up dead this morning.
+JENNA	f	Oh really, shame that, still, live by the sword, die by the sword...
+JULIAN	m	I know it was you, Mum.
+JENNA	f	I did what had to be done.
+JULIAN	m	He was there. He was with them.
+JENNA	f	Who?
+JULIAN	m	The Angel of Vengeance.
+JENNA	f	D'you kill him?
+JULIAN	m	No.
+JENNA	f	Cause he as good as killed Billy. What I want to know is, what are you going to do about it?
+JULIAN	m	I'm not going to kill him...
+JENNA	f	Yes you are. You're going to do it for me and you're going to do it for your brother.
+JULIAN	m	This isn't about Billy. This is about me. All my life I've been running...
+JENNA	f	That's right you cunt, cause you always run away whenever there's a problem... just like you're running away from killing this fucking Angel of whatever
+JULIAN	m	- his name is Chang-
+JENNA	f	Chang?!
+MAI	f	I should be going now.
+JENNA	f	Sit down you cunt.
+JULIAN	m	Mum, don't talk to her like that.
+JENNA	f	So what am I left with?
+JULIAN	m	Me.
+JENNA	f	You're right. We're family. We stick together. But Billy was family too.
+JULIAN	m	Billy was a fuck up... He deserved everything he got. You know it and I know it.
+JENNA	f	That's it. I'm not listening to this. I don't ever want to hear you mention his name again... Do you hear me?
+JULIAN	m	Yeah we were brothers, but we were never close... And he was only in Bangkok cause you couldn't control him. So you sent him to me--
+JULIAN	m	-- So you sent him to me and what could I do?
+JENNA	f	You could have protected him.
+JULIAN	m	I did what I could. And that's more than you ever did.
+JENNA	f	I would've done anything for him. Okay, he wasn't born with as many advantages as you were. He struggled with things. But I always stood by him.
+JULIAN	m	And what did that get him? I'll tell you what, a one way ticket to this fucking place, just like me.
+JENNA	f	Don't you dare blame me for what happened back then.
+JULIAN	m	I'm only here 'cause of you. If you didn't exist, I wouldn't be here.
+JULIAN	m	I could've been someone, Mum. I was on my way...
+JENNA	f	You would've been a great fighter... You could've gone pro.
+JULIAN	m	Don't you think I know that? And look at me now. I'm a front for a drugs smuggling.
+JULIAN	m	It's true... The whole thing's a front. Every day I see kids coming in with great potential. And every day I see kilos of heroin going out. And it's all because of you, Ma. You and the money and the drugs.
+JENNA	f	At least you're not behind bars and that's more important to me.
+JULIAN	m	That's right Mum. That's what's more important to you. But what about me? Sometimes I think you only got me out of there so the cops couldn't trace it back to you...
+JULIAN	m	...that's right Mum. Think about it. With me gone you were safe. And it turned out to be good for business as well. All very convenient.
+JULIAN	m	Is that what happened with Billy? Did Billy become a problem like I did? Wouldn't surprise me, he was a big fucking problem when he was here... Still, at least you didn't have him killed.
+JULIAN	m	I'm not going to kill him for you, Mum. Doesn't matter what you say. And do you want to know why?
+JENNA	f	Surprise me.
+JULIAN	m	'Cause I'm going to fight him. In the ring. Me versus him.
+JENNA	f	Well that seems sensible... And what do you hope that's going to achieve?
+JULIAN	m	I don't expect you to understand. Cause you don't understand anything that isn't about you.
+JENNA	f	And when you lose, what's going to happen then?
+JULIAN	m	I don't know... But maybe this time I'll win. Like you say, only God forgives. Maybe this time he'll forgive me...
+JENNA	f	Do you understand what he's talking about? 'Cause I haven't got a fucking a clue.
+JULIAN	m	You never did, Mum.
+JENNA	f	I hope you find what you're looking for. 'Cause if you don't, it's going to find you and I'm not always going to be there to look after you.
+JENNA	f	Nice to meet you Mai. Hope to see you again soon.
+MAI	f	Are you alright?
+JULIAN	m	I'm fine.
+JULIAN	m	I'll be fine. In a minute.
+JULIAN	m	Sorry about that.
+GORDON	m	Nice evening?
+JENNA	f	Lovely, yeah. Just catching up, you know.
+JENNA	f	You're a piece of work, aren't you?
+JENNA	f	No fucking hanging about with you, is there?
+GORDON	m	Well, I don't know about that. Just been out here a while... Know how to get things done.
+JENNA	f	I bet you do.
+GORDON	m	But things are going to shit. Since Billy died, Julian's all over the place...
+JENNA	f	We'll have to something about that the, wont we? But, first things first, what about Chang?
+GORDON	m	Who?
+JENNA	f	My son's guardian angel.
+GORDON	m	He's just a retired cop...
+JENNA	f	Good, then he won't be to hard to kill, will he?
+GORDON	m	It's not that simple... Is there somewhere we can go that's a little more private?
+JENNA	f	What did you have in mind?
+GORDON	m	You can't just going round killing cops here anymore. It's not that easy.
+JENNA	f	I didn't say it was easy. But then, you're a resourceful man, aren't you?
+GORDON	m	I looked into it. Chang's a hard man to get to. None of the Thais'll go near him...
+JENNA	f	Well then you're going to have to find someone who's not a fucking Thai then, aren't you?
+GORDON	m	There might be a way... But Julian can't find out...
+JENNA	f	Don't you worry about that. There are certain things that a mother and son shouldn't - and don't - discuss...
+MAI	f	What are you doing?
+JULIAN	m	Seeing when it hurts.
+MAI	f	I'm going to go.
+JULIAN	m	Didn't you like what I got you?
+MAI	f	It's fine, but you know... It's not my style.
+JULIAN	m	What do you mean?
+MAI	f	Maybe you should give it to your mother.
+JULIAN	m	Don't to be so hard on her. Her life hasn't been easy.
+MAI	f	Come on Julian. She's a fucking bitch.
+JULIAN	m	Don't say that, okay? You don't know what you're talking about. She'd do anything for me.
+MAI	f	The way she talks to you --
+JULIAN	m	Don't go there.
+MAI	f	What? 'Don't talk about my mother'? Come on Julian.
+MAI	f	Why don't you fuck her instead of me?
+JULIAN	m	You don't get to judge her. You think she's bad? You should've met my dad. But he's not around anymore, and do you know why? Cause she loved me too much.
+MAI	f	You're fucked.
+JULIAN	m	How much do I owe you?
+MAI	f	Fuck you.
+YURI KARKOV	m	... so why do you want to kill a policeman? Policemen are good. They mind their own business and keep the streets safe. Stop people stealing my cars...
+JENNA	f	You really want to know?
+YURI KARKOV	m	Yes. It may effect the price.
+JENNA	f	He killed my son.
+YURI KARKOV	m	Revenge. Pricey...
+JENNA	f	This is Bangkok. Nothing's that expensive.
+YURI KARKOV	m	You're right. Most things are cheap in Bangkok. Especially life... We'll take care of this business for you. But it won't be easy and it won't be cheap.
+CHANG	m	Do you want to die? Do you want me to kill you? For what you've done? No. Please. Don't kill me.
+CHANG	m	Tell me why not. Tell me why I shouldn't shoot you as soon as you come out of that door. I'm sorry?
+CHANG	m	Not good enough. It's my first time. I've never done anything like this before.
+CHANG	m	I know that. You're wearing sandals. Hitmen don't wear sandals.
+CHANG	m	Give me a reason.
+GUNMAN THREE	m	I'm begging you. Please--
+CHANG	m	You showed no mercy in there. Why should mercy be shown to you?
+GUNMAN THREE	m	I don't know...
+CHANG	m	Yes you do.
+GUNMAN THREE	m	I don't know his name.
+CHANG	m	But you know where he is.
+CHANG	m	You know why we're here.
+LI PO	f	Yes...
+GUNMAN THREE	m	He set it up. He knows who ordered the hit. He'll tell you.
+CHANG	m	Don't talk unless I ask you to. Understood?
+GUNMAN THREE	m	Yes. Completely understood.
+CHANG	m	Do you have anything to say for yourself?
+LI PO	f	I'm a salesman. Some of the things I sell aren't exactly legal... But I'll give you the man that hired the hit...
+CHANG	m	Good...
+LI PO	f	As for myself, I'm not scared of paying for what I've done. I just... just don't hurt my son.
+GUNMAN THREE	m	You see? He knows. He's got the details. I told you he would.
+CHANG	m	And I told you not to talk unless I asked you.
+GUNMAN THREE	m	Wait. You said if I took you to him you'd let me live.
+CHANG	m	I never said that.
+CHANG	m	This him?
+CHANG	m	Where do I find him?
+LI PO	f	Skylight bar at the Jupiter.. Every night.
+CHANG	m	I'm taking your phone.
+LI PO	f	What about me?
+CHANG	m	I forgive you...
+YURI	m	You better have a fucking good reason for doing this. Don't you know who you're fucking with.
+CHANG	m	You live in my country. Can't speak my language... Too bad the one guy on my team that could speak English got murdered today.
+YURI	m	Can someone tell me what the fuck this guy's trying to say...
+CHANG	m	Can you turn the music off. It won't be long, I promise.
+CHANG	m	That's better. Thank you very much...
+CHANG	m	You're under arrest...
+CHANG	m	I need information.
+CHANG	m	And you're going to help me.
+CHANG	m	Whether you like it or not.
+DIMITRI	m	It was an English woman - she wanted you dead...
+CHANG	m	Why?
+DIMITRI	m	Said you... murdered her son....
+CHANG	m	Who was she?
+DIMITRI	m	I don't know...
+CHANG	m	How did she know me?
+DIMITRI	m	She asked for you by name...
+CHANG	m	And what's my name?
+CHANG	m	I see the way you look at my people. The way you abuse them with your eyes. For this, I take your sight.
+CHANG	m	You live in my country, but you fail to learn our language. You don't even try. For this I take your tongue...
+CHANG	m	You had opportunities. You could have chosen other paths... But you wouldn't listen... For this I give you silence...
+NADEE	f	I hope life treats you kind And I hope you have all you've dreamed of... And I wish you, joy and happiness.
+CHANG	m	But above all this, I wish you love. And I will always love you.
+REFEREE	m	Fight.
+JULIAN	m	Come on.
+REFEREE	m	Break.
+KIM	?	Get up. Please get up.
+CHANG	m	It wasn't you, was it?
+CHANG	m	You're innocent.
+JULIAN	m	What are you talking about?
+CHANG	m	It's not your fault.
+JENNA	f	He doesn't want to see anyone.
+JENNA	f	Just give him time...
+MAI	f	...tell him I came?
+JENNA	f	Of course.
+JENNA	f	We'll get him through this together.
+JENNA	f	You deserved to win. You should've
+JULIAN	m	Give it a break mum. Just... give it as rest.
+JENNA	f	I'll never get use to seeing you get hurt - even when you win.
+JULIAN	m	Yeah, well I lost.
+JENNA	f	And did it make a difference?
+JENNA	f	I want to know... Did it make a difference?
+JULIAN	m	... No... it didn't make a difference... No difference at all.
+JENNA	f	And how do you feel now?
+JULIAN	m	Nothing. I don't feel anything at all.
+JENNA	f	Don't you see, that's how I felt when Billy died...
+JULIAN	m	What do you want, Mum?
+JENNA	f	What d'you think I want? I want it to be like it used to be... I don't want to lose you...
+JULIAN	m	What's wrong Mum?
+JULIAN	m	What's wrong?
+JENNA	f	He knows... He knows it was me.
+JULIAN	m	Who does?
+JULIAN	m	Chang?
+JULIAN	m	What did you do, Mum? What did you do?
+JENNA	f	He's going to come after me. And after he's come after me, he's going to come after you.
+JENNA	f	I'm scared, Julian.
+JENNA	f	What are we going to do?
+JULIAN	m	We'll be okay - I'll do it, I'll take him out...
+JENNA	f	Not just him. We've got to take them all out.
+JENNA	f	Kill them all. The final solution.
+CHANG	m	What happened to the princess' head?
+KANITA	f	The monsters were angry. They bit it off.
+CHANG	m	I thought the King banished them all from his kingdom?
+KANITA	f	These were new monsters. The woods are full of them.
+KANITA	f	What's wrong Dad?
+CHANG	m	Nothing's wrong. Go to sleep.
+CHANG	m	They're going to come after me... Okay. Good.
+CHANG	m	Hello...
+VOICE	m	She is in her room...
+CHANG	m	You sure it's her?
+VOICE	m	Yes...
+CHANG	m	Good... see you very soon.
+CHANG	m	What's your name?
+LI HOM	f	Li Hom.
+CHANG	m	Listen Li Hom. You see anyone you don't like... You call me, okay?
+LI HOM	f	And by the way... Congratulations. Last night. Everyone in the station's talking about it.
+JULIAN	m	We're outside.
+JULIAN	m	I need you here. Right now.
+JULIAN	m	Okay.
+JULIAN	m	Let's make a move.
+KIM	?	They wont disturb us.
+CHANG	m	What floor?
+KIM	?	Top.
+JULIAN	m	What's it say?
+CHARLIE LING	m	"Boxing Cop Hero Back From Grave". One of Bangkok's finest, blah blah blah, came out of a coma that lasted for an entire year, waking up as if nothing had happened... Wife was really happy, blah blah blah... "It's hard to describe" Chang said, "but I do feel different."
+JULIAN	m	The Angel Of Vengeance.
+KO SAM	m	I'm the new guard. Please, go on in.
+JENNA	f	I came here to collect my son's body. Now it's released, my business in Bangkok is completed.
+KIM	?	When are you leaving?
+JENNA	f	Tonight.
+KIM	?	And your other son - is he going with you?
+JENNA	f	I've had no real contact with Julian since he ran away.
+KIM	?	You watched him fight.
+JENNA	f	I watched him lose. And he deserved to. You were the better fighter. My only sadness is that Billy got caught up in what he's doing out here. And paid for it with his life.
+JENNA	f	I'll never testify against my own flesh and blood, Officer Chang. But he's a killer.
+JENNA	f	... It pains me to say it, but my own son is a killer. He killed a cop back in England ten years ago. He's been on the run ever since. I say son... But he hasn't been a son to me.
+JENNA	f	Not for a long time. Not since he killed that cop back home... That was ten years ago. He's been running ever since. And he'll never stop until he's caught. Until you catch him.
+HELLO	?	It's me... Did you change the guard? No.
+NADEE	f	Someone else is out there now...
+CHANG	m	Get out of the apartment...
+NADEE	f	Hold on...
+NADEE	f	Kanita - go to your room.
+NADEE	f	... go to your room now.
+CHARLIE LING	m	Wait...
+JULIAN	m	No way.
+JULIAN	m	Who said?
+JULIAN	m	My mother?
+JULIAN	m	What kind of a mother says that?
+CHARLIE LING	m	If you've got a problem, talk to her.
+JULIAN	m	No. We're not doing it.
+CHARLIE LING	m	You don't have to. I will.
+JULIAN	m	Only God forgives. And now mother - you will die...
+GORDON	m	Easy...
+JULIAN	m	Where's is she?
+GORDON	m	She's gone... Picked up Billy's body... She's gone home.
+GORDON	m	Didn't she tell you?
+GORDON	m	You alright mate? D'you want something?
+JULIAN	m	I'm so fucked...
+GORDON	m	We're good mates aren't we?
+JULIAN	m	... Yeah.
+GORDON	m	I'm sorry about this Julian. I wish there was another way...
+JULIAN	m	What did she say? What did she promise you?
+GORDON	m	Don't make this harder--
+GORDON	m	You've become a liability. You can see that, can't you?
+GORDON	m	And now she wants me to take over. She wants me to be the favoured son. What am I supposed to say?
+GORDON	m	I didn't want it to end like this. First I fuck your mother. Then I--
+CO-WORKER	?	Mai. Some guy's out there asking for you.
+CO-WORKER	?	Don't forget it's supposed to be my break next.
+MAI	f	What happened to you?
+JULIAN	m	I've got to get out of Bangkok. Didn't want to leave...
+JULIAN	m	... without saying goodbye.
+MAI	f	Who did this to you?
+JULIAN	m	My mother... She made me what I am. And now I've got nothing. And they're after me.
+MAI	f	Come with me...
+MAI	f	...to Cambodia - we can hide there... You'll be safe there.
+JULIAN	m	I got about twelve grand at the club... Should be enough to get us there. Set ourselves up. Disappear...
+MAI	f	Now?
+JULIAN	m	Right now.
+MAI	f	Wait outside...
+MAI	f	Let's go.
+JULIAN	m	Stay here. If I'm not out in five minutes... Go.
+MAI	f	Five minutes.
+CHANG	m	Let's go.
+CHANG	m	Get up.
+CHANG	m	Get up. Now.
+JULIAN	m	I'm sorry...
+CHANG	m	Do you have anything to say?
+JULIAN	m	Don't hurt her.
+CHANG	m	Do you have anything to say?
+JULIAN	m	I'm sorry...
+CHANG	m	What do you expect me to do?
+JULIAN	m	I don't know... I'm sorry.
+CHANG	m	Come on.
+CHANG	m	When you were born - what's the first thing you remember seeing?
+CHANG	m	What do you remember?
+JULIAN	m	Dark... Darkness.
+CHANG	m	And do you ever see light?
+JULIAN	m	No... Never.
+CHANG	m	I am the Angel of Vengeance... I restore order and karma. I love all living things...
+CHANG	m	...I want you to walk away from here now... Do you understand?
+CHANG	m	Good.
+CHANG	m	Go with God.
+CHANG	m	Country roads, take me home to the place I belong West Virginia, mountain momma Take me home, country roads..
+CHANG	m	Country roads, take me home to the place I belong West Virginia, mountain momma Take me home, country roads Take me home, country roads Take me home, country roads
+

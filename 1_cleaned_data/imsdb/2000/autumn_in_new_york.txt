@@ -1,0 +1,903 @@
+WILLS	m	-- and I could have waited to tell  you, but I wanted to leave no room  for misunderstanding.
+WOMAN	f	Well, you certainly didn't.
+WOMAN	f	No, I see how you could feel this  way. Of course I do. It's human. But  what I don't get is why you'd want  to announce it so quickly. I mean,  we just met. Feelings change. You  don't even know me.
+WILLS	m	Yes, I do.
+WOMAN	f	Oh, really?
+WILLS	m	The minute I laid eyes on you. It's  the saddest thing about getting older.  You know people so quickly. I even  knew you'd end up hating me.
+WOMAN	f	Well, you're wrong. I don't.
+WILLS	m	Give it time.
+CHARLOTTE	f	-- and for weeks I sat by her bed  and cried. I told her I loved her  and I begged her not to leave me.  All I could think about was what I'd  lose if she died. And then one  night... she was in really bad pain...  I stopped thinking about myself for  a second and I thought about her. I stopped crying. I said goodbye.  And in less than an hour Ella was  gone.
+WOMAN	f	It's so sad.
+CHARLOTTE	f	I really think it's possible to hold  a person back... cry them back...  from dying. That's what I did to  Ella and I'll never do it to anyone  else again. I hope no one ever does it to me.
+WOMAN	f	So what do you know about her?
+WILLS	m	That she's just a kid.
+OLD MAN	m	I met Ella at City College in 1938...
+CHARLOTTE	f	Shit.
+CHARLOTTE	f	Dolly! The bulb burned out!
+CHARLOTTE	f	Dolly?
+RASPY VOICE	m	My ass hurts.
+ALL	m	SURPRISE!
+CHARLOTTE	f	See? Surprises suck!
+TANYA	f	Oh, Wills, please, not again. It's  our third date and we're already in  a rut.
+WILLS	m	But I thought you loved it.
+TANYA	f	Oh, I do -- except for the fact that  there isn't a single thing on the  menu I can eat.
+WILLS	m	Sure, there is; there's just very  little you're willing to digest.
+TANYA	f	Fine then. We'll go, I'll get big,  fat, and horrible, and it'll serve  you right.
+WILLS	m	No, it won't. Because it takes at  least a few weeks to get fat and by  then you won't even be speaking to  me.
+TANYA	f	Why do you say that?
+WILLS	m	Because we have no future. All I can  offer you is this... what we have  right now... nothing more  meaningful... until it ends.
+WILLS	m	I could have waited to tell you, but  I wanted to leave no room for  misunderstanding.
+JESUS	m	Good evening, Mr. Keane. Will you be  dining with us tonight?
+WILLS	m	We certainly will. Table seven, Jesus,  if it's available.
+JESUS	m	Yes, sir.
+WILLS	m	How are you, Melissa?
+MELISSA	f	Fine, Mr. Keane.
+WILLS	m	Good evening, Celia. And how --
+CELIA	f	Just dandy, sir, thanks!
+JESUS	m	Table seven.
+CELIA	f	This way, please.
+WILLS	m	I'll be right with you.
+WILLS	m	How's it going?
+JOHN	m	Chaos.
+WILLS	m	The house specialty.
+JOHN	m	Easy for you to say, ya prick.  Waltzin' in here like you own the  joint.
+JOHN	m	So who's the new potential ex-wife?  I thought you were still wastin'  time with Tanya-von-What's-her-name.
+WILLS	m	We wisely agreed to cut our losses.
+CELIA	f	Look, I have no right to say this,  okay? And you can fire me if you  want, but in the six weeks we've  been open you've brought in six  different women -- tonight makes  seven -- and it's really starting to  get to me.
+WILLS	m	In what way?
+CELIA	f	I have to greet them! It's like  working at a dog shelter! I'm afraid  to learn their names or even smile  at them because I know any minute  they could be put down!
+WILLS	m	I assure you it's an absolutely  painless procedure.
+CELIA	f	It is?
+WILLS	m	Sure. Especially for me.
+WILLS	m	Actually, I appreciate your concern,  Celia. The truth is I'm a little  worried myself.
+CELIA	f	Seriously?
+WILLS	m	Seriously. I've been trying to do  better. But... you know how it is... old  habits die hard.
+CELIA	f	So I'm not fired?
+WILLS	m	Nope. In fact, John's been looking  for an assistant. Tell him you've  just been promoted.
+CHARLOTTE	f	You guys! Let me think! Okay. Okay.
+SIMON	m	Watch carefully, everyone -- they  ought to begin emerging any moment  now.
+CHARLOTTE	f	Very funny! Actually, any moment now  you're gonna turn straight and fall  at my feet.
+SIMON	m	Oh, darling, you know I would if I  could.
+SHANNON	f	The only time he falls at your feet  now is when he wants to borrow your  Prada loafers.
+WOMAN'S VOICE	f	Is that Wills Keane?
+WOMAN	f	It sure as hell is and he hasn't  changed a bit!
+WILLS	m	I'm sorry, do I --
+WOMAN	f	You little fool, it's Dolores Talbot.  Dolly!
+WILLS	m	My God, it is.
+DOLLY	f	Yeah, I know, time's kicked my ass  but good. Come on, Romeo, let's bury  the hatchet. Give me a hug. Careful  of the cocktail.
+DOLLY	f	So what the hell're you doin' around  here? Last I heard you were out in  earthquake country blowin' the family  fortune.
+WILLS	m	Actually, I doubled it.
+DOLLY	f	Good for you!
+SHANNON	f	-- and you know how bouncer's get.  He's like, "That's the worst fake  I.D. I've ever seen." And I'm like,  "Yeah? Well, you have the worst dread- extensions!" And then just when --
+SIMON	m	Are you feeling all right? You look  positively green.
+CHARLOTTE	f	He's here. And he's staring at me  again.
+SHANNON	f	No way!
+CHARLOTTE	f	Don't! Wait a few seconds, then go to the  bathroom.
+SIMON	m	How will I know him?
+CHARLOTTE	f	He's beautiful. And much older.
+SIMON	m	Really? If he's rich you might have a fight  on your hands.
+CHARLOTTE	f	Okay, look.
+SHANNON	f	He's as old as my dad!
+DOLLY	f	Sure, L.A.'s okay if you're a cactus  or a lizard, but if you're a New  Englander, your soul dries up and  blows away like a god damn leaf.
+WILLS	m	It only took me twenty years to come  to my senses.
+DOLLY	f	So what're you doin' now? You owned  some restaurants out there, didn't  you?
+SHANNON	f	And so, after all that, we pay our  cover, we get in, and it's totally  heinous! Nothing but losers and --
+CHARLOTTE	f	Oh, shit.
+SHANNON	f	What?
+DOLLY	f	Kids! I want you to meet an old chum  of mine, the owner of this fine  establishment -- Wills Keane!
+DOLLY	f	And that over there's the birthday  girl -- my granddaughter, Charlotte.
+WILLS	m	Not Katie and Jay's daughter?
+DOLLY	f	You bet. She got her height from her  dad. But her talent's all Katie's.
+DOLLY	f	Made it herself from scratch. That  one, too. Honey, show 'im.
+WILLS	m	Impressive.
+CHARLOTTE	f	Thanks.
+WILLS	m	I think we can do better than that.
+WILLS	m	Happy birthday, Charlotte.
+CHARLOTTE	f	Thanks.
+SHANNON	f	Twenty years old and never been...
+CHARLOTTE	f	Shut up!
+WILLS	m	I'll let you get back to your  celebration. A pleasure to see you again.
+DOLLY	f	Same here.
+SIMON	m	Leaving so soon?
+SIMON	m	Be still my beating heart. Or is that your heart?
+SHANNON	f	You're not really into him, are you?
+CHARLOTTE	f	Hey, Dolly, how do you know him?
+DOLLY	f	From Newport. Old friend of your  mom's.
+CHARLOTTE	f	Okay, bitch, I'm ready!
+WILLS	m	For what?
+CHARLOTTE	f	Oh my God, I'm so sorry! Wait. Who  is this?
+WILLS	m	Wills Keane.
+WILLS	m	Who did you think it was?
+CHARLOTTE	f	My friend Simon, actually. He always  calls me the morning after to sort  of... you know... sum everything up.
+WILLS	m	And how would you sum it up,  Charlotte? Turning twenty.
+CHARLOTTE	f	Kinda cool, kinda creepy. Anyway,  you wanna speak to my grandmother?
+WILLS	m	I don't think so.
+WILLS	m	I called because I'm going to be  attending a benefit... a black-and- white ball.... and I'd like you to  design a hat... for my date.
+CHARLOTTE	f	Really? Wow. Sounds fun. Okay.
+WILLS	m	It's a gift. I don't have her  measurements, but she's about your  size. What're you, a six?
+CHARLOTTE	f	Uh-huh.
+WILLS	m	Good -- then let's assume your hat  size is also the same.
+CHARLOTTE	f	But that doesn't necessarily --
+WILLS	m	It's a risk we'll just have to take.
+WILLS	m	Her dress is a sheath... sleeveless,  black. The hat must, of course, be  black or white or both.
+CHARLOTTE	f	Any particular style?
+WILLS	m	No, just plenty of it. How long will  it take?
+CHARLOTTE	f	A week or two.
+WILLS	m	You have till Thursday. I'll need it  here by seven o'clock. I'm at the  Pembroke on Central Park West and  76th.
+CHARLOTTE	f	Oh. Wow. Okay.
+WILLS	m	What's your fee?
+CHARLOTTE	f	I don't really have one. I usually  just make them for friends.
+WILLS	m	How's five hundred dollars?
+CHARLOTTE	f	Really? Wow.
+WILLS	m	Charlotte?
+CHARLOTTE	f	Yeah?
+WILLS	m	You say "wow" a lot.
+CHARLOTTE	f	I know.
+WILLS	m	It has to stop. You're a woman now.
+CHARLOTTE	f	I know.
+WILLS	m	Bye.
+CHARLOTTE	f	Bye.
+OLIVIA	f	See, now you got me worried.
+WILLS	m	What do you mean?
+OLIVIA	f	You slept alone last night. You must  be sick or somethin'. You want me to  call a doctor?
+WILLS	m	Thank you, no, I'm fine.
+JOHN	m	Save it, pal! Don't even bother! I  may not have gone to a fancy school  like Bendover --
+WILLS	m	That would be Andover.
+SARAH	f	Sure, if his folks could have afforded  it.
+JOHN	m	-- but when Wills Keane comps three  bottles of Dom to a twenty-year-old  girl, then tells me he did it 'cause  he likes the kid's grandma, I smell  a rat!
+SARAH	f	Oh, is that what that is? I figured  there was a dirty diaper somewhere.
+WILLS	m	Okay, I admit it, she interests me.
+JOHN	m	He's gonna do it! I don't believe  it! He moved us back here for nothing!
+SARAH	f	So much for that turned leaf.
+WILLS	m	Come on, you're overreacting.
+JOHN	m	Is that what you think? Buddy, since  we hit town, I have done nothin' but  cut you slack! Every week a new woman  on your arm and I didn't say a word.  Why? 'Cause I figured at least they're  in the right demographic. Maybe by  accident you'll trip over something  substantial. But this little girl?  Best she could be is Miss Right's  daughter!
+WILLS	m	I know. It's just that there's  something about her. She's special...  and I just thought --
+SARAH	f	"She's young. She's hot. I'm on the  verge of menopause. Why not go for  it?"
+WILLS	m	There wouldn't be much point in lying  to you, would there?
+KIDS' VOICES	m	Mommy, Daddy, look, look!
+JOHN	m	Hey, they're bigger than you are!
+CHARLOTTE	f	Why don't you mark what isn't  important? That way you'll save ink.
+SHANNON	f	Why don't you sew your mouth to my  butt? That way you'll stop annoying  me.
+DOLLY	f	Now, now, if you two kids can't play  nice --
+SHANNON	f	God, I hate school.
+CHARLOTTE	f	Oh, come on, just last week, you  said you were on a roll. You loved  it!
+SHANNON	f	Well, now I'm on the rag and I hate  it.
+CHARLOTTE	f	I think you're incredibly lucky. I'd  love to be going to college.
+SHANNON	f	Am I the most spoiled brat in the  world or what?
+CHARLOTTE	f	Spoiled brats don't even ask questions  like that. What do you think?
+SHANNON	f	That you're the most beautiful person  in the entire world.
+DRIVER	m	Mikey! How ya doin'?
+DOORMAN	m	A bit early, aren't you?
+DRIVER	m	Hey, in this soup, better safe than  sorry, you know what I mean?
+CHARLOTTE	f	KEANE!
+MICHAEL	m	He's goin' to a fancy party tonight.
+CHARLOTTE	f	Oh, really?
+MICHAEL	m	Watch your step, Miss.
+CHARLOTTE	f	Thank you.
+OLIVIA	f	He's waitin' for you, Miss Fieldin'.
+WILLS	m	What happened?
+CHARLOTTE	f	I couldn't get a cab, so I took the  subway... only it was an express and  it didn't stop at --
+WILLS	m	You realize, don't you, that you're  a full eighteen minutes late?
+CHARLOTTE	f	I know... I'm so sorry... I --
+WILLS	m	Charlotte, relax. What's the point  of being a beautiful young woman if  it isn't to keep your admirers  waiting? In fact, you disappoint me:  I was looking forward to at least  another half hour of suspense.
+CHARLOTTE	f	I could leave and come back.
+WILLS	m	Nope, too late. Anyway, I want to  see the hat.
+WILLS	m	Try it on.
+CHARLOTTE	f	I can't. I'm soaked.
+WILLS	m	It's all right.
+WILLS	m	It's perfect. It's like a tiny  sculpture.
+CHARLOTTE	f	I wanted it to be a tiny poem.
+WILLS	m	If only I had some use for it. My date canceled a few hours ago.
+CHARLOTTE	f	Why?
+WILLS	m	I don't know. She was vague. Would  you... like to come in her place?
+CHARLOTTE	f	Like this?
+WILLS	m	The outfit I bought her is hanging  in the guest room closet.
+CHARLOTTE	f	It's okay? Are you sure?
+WILLS	m	Of course.
+WILLS	m	Nonsense. You're very good. Where  did you learn?
+CHARLOTTE	f	From Ella. The woman whose memorial  you crashed.
+WILLS	m	So you did see me there.
+CHARLOTTE	f	Uh-huh. And the next time I saw you,  you were on the cover of New York  magazine. And I had to pick a place  for my birthday. So...
+RICH WOMAN #1	f	Of course he moved back. I mean,  he'd already seduced every A- and B- list actress in town. What was left  for him?
+LISA	f	The C-list?
+RICH WOMAN #2	f	Exactly.
+RICH WOMAN #1	f	But if what I hear is true and he's  shopping for a bride, I can tell you  one thing -- he's barking up the  wrong tree there.
+LISA	f	Why do you say that?
+RICH WOMAN #1	f	Good wives are rarely found up cherry  trees.
+CHARLOTTE	f	I met Ella in the fourth grade. She  was my teacher at the Little Red  School House. We stayed friends after  she retired. She taught me how to  cook and sew... speak Italian...  basically enjoy life, have fun --  that's what she was best at... even  when she knew she was dying. The most important thing she did was  introduce me to poetry. She believed  it was the highest form of art and  that everything we say and do should  aspire to it.
+WILLS	m	It sounds as though, in a way, she  took your mom's place...
+CHARLOTTE	f	My mom and my dad's. After they died,  Dolly was so devastated she pretty  much gave up on everything. It was  like if something that tragic could  happen, there was no way she was  ever gonna care about anyone else  ever again. Including herself. She  wasn't a horrible parent... she didn't  abuse me or anything... she just  ignored me. She was more like a weird  landlady than a grandmother.
+WILLS	m	I'm sure she did the best she could.
+CHARLOTTE	f	For a long time I kinda thought that,  too, and I made excuses for her, but  now I don't. I was seven years old  and I needed her and she wasn't there.
+WILLS	m	I remember when I heard the news  about your parents. You know how  after a crash they print a long list  of names in the newspaper? Well, I  grew up outside Boston, so I naturally  started to scan the list. But  casually, not expecting to --
+CHARLOTTE	f	Oh, no, come on! I love this stuff!  Don't you? Didn't you grow up on it?
+WILLS	m	How old do you think I am?
+CHARLOTTE	f	Ancient!
+WILLS	m	I have no idea what to do!
+CHARLOTTE	f	Have fun!
+LISA	f	I had to come. I work at the Met.  What's your excuse?
+CHARLOTTE	f	Sort of a date.
+LISA	f	With Wills Keane, right?
+CHARLOTTE	f	You know him?
+LISA	f	Just by reputation.
+CHARLOTTE	f	A major womanizer, right?
+LISA	f	That's what they say. I'm Lisa.
+CHARLOTTE	f	Charlotte Fielding.
+LISA	f	Anyway, I should keep mingling. But  it was nice to meet you.
+CHARLOTTE	f	Same here.
+WILLS	m	Who was that?
+CHARLOTTE	f	Lisa something.
+WILLS	m	Here's to --
+CHARLOTTE	f	Us.
+CHARLOTTE	f	God, you talk like you're a hundred  and sixteen!
+WILLS	m	That's usually how I feel. But not  tonight. Tonight I feel sixteen...  just sixteen... and three-quarters.
+WILLS	m	Champagne?
+CHARLOTTE	f	He asked nonchalantly.
+WILLS	m	You see, Charlotte, the way you know  you're getting older is that you  start to notice patterns. People  start falling into types. Pretty  soon you know a person before you've  even been introduced. And if it's a  woman, before the romance even starts,  a whisper in your head tells you  exactly what it is and how long it's  going to last. And the saddest, the  most tedious, part of all is that  that little voice is almost always  right. Now, what I like about you -- and I  think that's actually what inspired  this little lecture -- is that I  find you completely unprecedented...  and, therefore, wholly unpredictable.
+CHARLOTTE	f	God, it must be a relief.
+WILLS	m	What?
+CHARLOTTE	f	To finally deliver that speech to a  woman and actually have it apply to  her.
+WILLS	m	Now wait a minute.
+CHARLOTTE	f	No, because coincidentally I am all  those things you just said. And more.
+CHARLOTTE	f	I'm a "unique". At least that's what  my yoga teacher says. He says there  are very few uniques in the world  and I'm one of them.
+WILLS	m	Well, he's a wise man.
+CHARLOTTE	f	You, on the other hand, are what  he'd call a "typical."
+WILLS	m	Oh, really?
+CHARLOTTE	f	Uh-huh. And I can prove it. Want me  to? Come here.
+CHARLOTTE	f	Closer.
+CHARLOTTE	f	No, come on, really close.
+CHARLOTTE	f	Perfect. Now watch very carefully.
+CHARLOTTE	f	See? You're a typical. And for what you just did, most girls  my age would slap your face. Or ask  to be put in a cab. Lucky for you, I'm a unique.
+CHARLOTTE	f	Boy, do you look guilty.
+CHARLOTTE	f	Didn't anyone ever teach you that  it's bad manners to stare at a girl  when she's eating like a pig?
+WILLS	m	Listen --
+CHARLOTTE	f	Uh-oh. Here it comes.
+WILLS	m	That's right, because, look, I could  put this off, but I genuinely like  you. So I want to be clear... right  now... from the start, so there's no  chance for misunderstanding later.
+CHARLOTTE	f	Okay.
+WILLS	m	What I want to say you is.... well...  that all I can offer you is this...  what we have right now... nothing  more substantial... just this...  until it ends.
+WILLS	m	The truth is, we have no future  together.
+CHARLOTTE	f	I know. I'm dying.
+WILLS	m	What... what do you mean?
+CHARLOTTE	f	What I said. Nobody thought I'd even  last this long.
+CHARLOTTE	f	I could have put off telling you,  but I genuinely like you, so I wanted  to be clear... you know, right from  the start.
+CHARLOTTE	f	Thanks, Olivia!
+SIBLEY	m	Mr. Keane? Dr. Sibley.
+WILLS	m	Thank you so much for taking the  time.
+SIBLEY	m	It's my job, sir. Please, sit down.
+SIBLEY	m	Now, Mr. Keane, on the phone you  referred to Charlotte's condition as  cancer. That isn't strictly accurate.  Neuroblastoma is a soft tissue  malignancy, but it isn't cancer --  although it sometimes can be just as  aggressive. It's most common in children. In  young adults, the condition is  extremely rare. In Charlotte's case,  the tumor is located in her chest.  It's growing rapidly and has proved  resistant to both irradiation and  chemotherapy. And because of its  proximity to her aorta, surgery is  out of the question.
+WILLS	m	So then what treatment is she getting?
+SIBLEY	m	At present? Nothing.
+SIBLEY	m	Eventually she'll be treated for  pain. In the end, surgery could become  an option, but her chances of survival  would be slim. Right now Charlotte's  against it. She's signed a directive  forbidding any sort of heroic  intervention.
+SIBLEY	m	There's more here if you're  interested, but it won't mean much  to you.
+WILLS	m	How long?
+SIBLEY	m	Optimistically? A year.
+CHARLOTTE	f	A real charmer, isn't he?
+CHARLOTTE	f	How are you on Cambodian money units?
+CHARLOTTE	f	Are you okay, old man? You look kinda  woozy. Is there a doctor in the house?
+CHARLOTTE	f	Hey.
+CHARLOTTE	f	Look on the bright side: if I weren't  sick, there's no way we could hang  out together. I'm serious. You'd be scared of  hurting me and I'd be scared you  were just using me for my perfect  young body.
+CHARLOTTE	f	And then our friends would say we  were just into each other for weird  psychological reasons. You know,  because I'm looking for a daddy  substitute and you're looking for  someone you can feel superior to so  you won't have to confront how scared  you are of real intimacy -- and, of  course, they'd be right and eventually  we'd break up. But since I'm so sick it doesn't  really matter what deep-seated  weirdness has brought us together  because there's no way we can possibly  screw each other over... or up...  because that takes time. And I don't  have much left.
+CHARLOTTE	f	So considering everything, don't you  think we should just sort of chill  out, forget I'm sick, and enjoy what  we have... right now... no strings...  just this... until it ends? 'Cause  that's really all I have to offer.
+CHARLOTTE	f	Think about it, okay? But not too  hard.
+CHARLOTTE	f	Last night was so incredibly hot. By the way -- it was my first time.  And I picked you for the job. I hope  you're flattered.
+DRIVER	m	Okay, pal, where to?
+SHANNON	f	I don't believe it! I don't believe  it!
+SIMON	m	I think what Miss Harris is trying  to say, is that you've strained her  credulity.
+CHARLOTTE	f	Really? Better put some ice on that.
+SHANNON	f	Girlfriend, you are so incredibly  cool!
+SIMON	m	So I've been told.
+SHANNON	f	Okay, now tell us everything! Don't  leave anything out!
+JOHN'S VOICE	m	Okay, then what happened?
+WILLS	m	Not much. I took her home and she  pointed out an irony -- that fate  was now offering us the very same  thing that just this morning I'd  told her was all I could offer her:  a relationship with no future.
+JOHN	m	A kid figured that out?
+WILLS	m	She's not a kid! That's what I've  been trying to tell you. Nothing's  lost on her. I'm the kid. She... I  don't know what the hell she is... But I do know what she was.
+WILLS	m	A virgin.
+JOHN	m	What?
+WILLS	m	I had no idea. That's the only reason  she had her party here, so she could  lure me into doing the honors.
+JOHN	m	She used you, pal.
+WILLS	m	I know.
+JOHN	m	The hangman got hanged. How's it  feel?
+WILLS	m	Embarrassing.
+JOHN	m	So what now?
+WILLS	m	I end it.
+JOHN	m	How come?
+WILLS	m	What, you're endorsing this now?
+JOHN	m	I don't know, when you talk about  her, you're not such an arrogant son  of a bitch. You get all whiny and  stupid. I like that.
+WILLS	m	Thanks.
+JOHN	m	And since I don't see you gettin'  serious with any of your other  victims, I figure why not spend a  little time together?
+WILLS	m	Because she's dying.
+JOHN	m	I got bad news for you, brother, so  are you.
+DOLLY	f	Well, well.
+DOLLY	f	She'll be right down. She's upstairs,  gildin' the lily.
+DOLLY	f	Excuse the mess. My maid died fourteen  years ago and it's been simply  impossible to replace her. She did  windows and spoke English.
+WILLS	m	For you.
+DOLLY	f	Well, aren't they loverly.
+DOLLY	f	Care for a cocktail?
+WILLS	m	No, thanks.
+SIMON	m	It really is uncanny. I tell you, in  that dress you're the spitting image  of Michel Simon.
+CHARLOTTE	f	Who's she?
+SIMON	m	A French character actor, long dead,  who was not only hideous and fat,  but quite male.
+CHARLOTTE	f	So that would be a "no."
+DOLLY	f	What can I say? Time's a thief. One  day you're rich as an Arab, the next  you're lucky if you can afford a god  damn can of pistachio nuts.
+DOLLY	f	How about that, huh? That was the  summer you two --
+WILLS	m	I know.
+DOLLY	f	Who'd have guessed what time had in  store for her, huh? Look at that  smile.
+DOLLY	f	Then again, time loves some people.  Like you, for instance. Oh, time's  just wild about you.
+DOLLY	f	Just as handsome and charming as  ever. And still up to the same old  tricks.
+WILLS	m	What do you mean?
+DOLLY	f	First time you came to pick up Katie,  you brought me flowers. Just like  those. Flower the mother; then deflower the  daughter. But Katie was too smart  for you...
+WILLS	m	Dolly, look --
+DOLLY	f	Aw, why the hell don't you leave her  alone? Christ, she's sick!
+CHARLOTTE	f	What? What's wrong?
+DOLLY	f	You look like your mom is all.
+WILLS	m	What do you mean, you knew?
+CHARLOTTE	f	I did! I just didn't think it would  take so long!
+WILLS	m	Two days is long?
+CHARLOTTE	f	It is when you're sitting by the  phone. You wanna know how I knew?
+WILLS	m	You're psychic?
+CHARLOTTE	f	I am, but no -- it's because of my  birthday wish.
+WILLS	m	But we hadn't even been introduced  yet.
+CHARLOTTE	f	I know, but I wished that whatever  happened... you know, with my  illness... I'd go out with a bang.  Nothing heavy. No violins. No  melodrama. Just fun. A total  adventure!
+WILLS	m	CAREFUL!
+CHARLOTTE	f	Wow, it's getting exciting already.
+CHARLOTTE	f	"Lord, I do fear  Thou'st made the world too beautiful  this year!  My soul is all but out of me, -- let  fall  No burning leaf; prithee, let no  bird call!"
+WILLS	m	We could go to a museum.
+CHARLOTTE	f	No, that would be a thing! I don't  want to do any thing today. I want  to do no thing all day.
+WILLS	m	Nothing at all?
+CHARLOTTE	f	Uh-huh. No thing at all.
+WILLS	m	So a movie is out.
+CHARLOTTE	f	Way out!
+WILLS	m	Ice cream at the Plaza? High tea at  the Palace?
+CHARLOTTE	f	Both out.
+WILLS	m	What about shopping?
+CHARLOTTE	f	Possible.
+WILLS	m	It's not a thing?
+CHARLOTTE	f	Only when I have money.
+WILLS	m	But all I gave you was champagne.  That's not a proper birthday present.
+CHARLOTTE	f	I agree, and I promise I'll let you  give me something else, but not today.
+WILLS	m	When?
+CHARLOTTE	f	Soon. But I'm warning you, it's not  going to be anything material.
+WILLS	m	Why not? Oh, I see... because you're sick.  Because --
+CHARLOTTE	f	That's right, but we're not gonna  talk about that.
+WILLS	m	How come?
+CHARLOTTE	f	Because it's my rule.
+WILLS	m	Any particular reason?
+CHARLOTTE	f	Yeah, because everybody always wants  to talk about miracles, or about  some genius quack-doctor, or their  friend's friend who went into  remission eating nothing but sunflower  seeds. It's boring and pointless.
+WILLS	m	Are you sure? I mean, there are  specialists who --
+CHARLOTTE	f	Don't start, okay? Now what I would enjoy is taking you  shopping. For clothes. I'm serious.  It's quality not quantity, you know.
+CHARLOTTE	f	At work you should look perfect, but  in everyday life you need to delight  in disorder more. Don't you know? "A  sweet disorder in the dress kindles  in clothes a wantonness."
+WILLS	m	I think that goes without saying.
+CHARLOTTE	f	It was true when that poem was written  three hundred years ago and it's  true today. Wouldn't it be fun to  look wanton occasionally?
+WILLS	m	It's been a lifelong dream of mine.  But will a scarf do it?
+CHARLOTTE	f	Totally. Accessories rule. But we  have to be careful. I don't want you  looking too young. Nothing's worse  than an old guy trying to look young.
+WILLS	m	Good advice. I'll remember that for  when I get old.
+CHARLOTTE	f	You know what I meant.
+WILLS	m	That I'm old.
+CHARLOTTE	f	Uh-huh.
+CHARLOTTE	f	Perfectly imperfect!
+WILLS	m	I don't know why, but for some odd  reason, I feel absolutely compelled  to tell you the truth about this...  even at the risk of --
+CHARLOTTE	f	Hey, you're giving me the creeps.  Just spit it out.
+WILLS	m	I never had a date for the benefit.  My plan from the beginning was for  you to come with me.
+CHARLOTTE	f	So I made the hat for myself? And you bought that dress for me? And you did all this just so you  could sleep with me? Why? I mean, why me?
+WILLS	m	The eulogy you gave at Ella's service  was so... impressive. You spoke about  her death... about loss... in a way  that I could never have done. You  understood life emotionally in a way  that I didn't. Whatever that  understanding was, I wanted to get  close to it.
+CHARLOTTE	f	And sex seemed like the best way to  do it.
+WILLS	m	And the most enjoyable, yeah.
+CHARLOTTE	f	Well, first of all, let me say, you  have great taste because that little  Dolce & Gabbana was to die for.
+WILLS	m	Thanks.
+CHARLOTTE	f	And, second, don't ever lie to me  again.
+WILLS	m	All right.
+CHARLOTTE	f	Seriously. There isn't a lie in the  whole world I'd rather hear than the  truth.
+CHARLOTTE	f	I thought I told you to wait right  there!
+WILLS	m	I got restless.
+CHARLOTTE	f	Well, I hope you didn't talk to  anybody!
+WILLS	m	Not a soul.
+CHARLOTTE	f	You know what would scare me right  now?
+WILLS	m	What?
+CHARLOTTE	f	This.
+CHARLOTTE	f	Have I told you my latest motto?
+WILLS	m	No.
+CHARLOTTE	f	If it's scary, do it.
+WILLS	m	I'm not sure I like that motto.
+CHARLOTTE	f	I'm not sure that matters.
+CHARLOTTE	f	Oh my God.
+WILLS	m	What?
+CHARLOTTE	f	You're scared, too.
+CHARLOTTE	f	Your turn.
+CHARLOTTE	f	What's the matter, old man? Can't  afford a gym?
+WILLS	m	That's it!
+CHARLOTTE	f	"Counting the beats,  Counting the slow heart beats,  The bleeding to death of time  In slow heart beats,  Wakeful they lie."
+WILLS	m	So many words in that wonderful head  of yours...
+CHARLOTTE	f	If I could give you anything in the  whole world, that's what it would  be.
+WILLS	m	Words?
+CHARLOTTE	f	Poetry.
+JOHN	m	Oh no, your boy made it! At ten  minutes before close! All night I  got a card announcing a halibut  special, only I got no halibut! Now  it's Sunday and I got three dozen  cats lickin' their chops in the alley!  Tony, I don't wanna hear it! I don't  wanna hear it! I don't wanna -- MAN,
+WILLS	m	Are you familiar with the phrase,  "You can catch more flies with honey  than with vinegar?"
+JOHN	m	Are you familiar with the phrase,  "Mind your own god damn business?"
+WILLS	m	Sure, it's from Poor Richard's  Almanac. But the last time I checked --
+JOHN	m	No, your business is to smile, make  friends, and get rich! My business  is the business.
+JOHN	m	What're you doin' here, anyway? You  got a girl. Go home. Carve a pumpkin.
+WILLS	m	We can't spend every waking moment  together.
+JOHN	m	Why not? No, seriously. Why not?
+CELIA	f	Special delivery!
+WILLS	m	No trouble?
+CELIA	f	None.
+JOHN	m	Every year. You got no imagination.
+WILLS	m	It's a classic. A little spirit gum  and voila!
+WILLS	m	-- young women are rendered helpless.
+CELIA	f	It's true. I see a guy with horns  growing out of his head and my knees  go weak.
+WILLS	m	Of course -- it's biological.
+JOHN	m	What's goin' on?
+WILLS	m	What do you mean?
+JOHN	m	At home.
+WILLS	m	Nothing. Honestly. We're having a  lot of fun. We're very happy.
+CHARLOTTE'S VOICE	f	Don't come in! Don't!
+WILLS	m	I'm not even tempted!
+CHARLOTTE'S VOICE	f	I'll be right out!
+OLIVIA	f	You like hot cider?
+WILLS	m	Sure, thanks.
+WILLS	m	Mmmm.
+OLIVIA	f	Charlotte made it. I just poured it  in the cup.
+CHARLOTTE	f	Ta-da!
+WILLS	m	Incredible.
+CHARLOTTE	f	Don't I look just like her?
+WILLS	m	Absolutely incredible.
+CHARLOTTE	f	You have no idea who I am.
+WILLS	m	Give me a hint.
+CHARLOTTE	f	"Hope is the thing with feathers  that perches in the soul."
+WILLS	m	Was that the hint?
+CHARLOTTE	f	You dummy! Emily Dickinson! Only the  greatest American female poet ever!
+CHARLOTTE	f	Uncultured swine.
+WILLS	m	The truth is out. I've lost you  forever.
+CHARLOTTE	f	Wanna bet?
+CHARLOTTE	f	When do I get to see your costume?
+JESUS	m	No, I think we make a great couple.  A good witch and a bad hombre. That  could make for some very interesting  sex.
+JOHN	m	O, Ricky, chill out! You're gonna  get snot in the water!
+JOHN	m	That's it -- outta the pool!
+SARAH	f	Where're the girls? I thought you  were tucking them in!
+JOHN	m	We got a volunteer!
+WOMAN	f	Guess who?
+WILLS	m	Wonder Woman?
+WOMAN	f	No.
+WILLS	m	Batgirl?
+WOMAN	f	I'll give you a hint. You dumped me.
+WILLS	m	Princess Di?
+WILLS	m	Wendy?
+WILLS	m	Yup, I'd know that throttle anywhere!
+MOLLY	f	Just one more.
+CARLA	f	Please?
+CHARLOTTE	f	All right, but this is the last last  one!
+CHARLOTTE	f	"Because I could not stop for Death,  He kindly stopped for me;  The carriage held but just ourselves  And Immortality.  We slowly drove, he knew no haste,  And I had put away  My labor, and my leisure too,  For his civility."
+CHARLOTTE	f	"We passed the school where children  played  At wrestling in a ring;  We passed the fields of grazing grain,  We passed the setting sun."
+CELIA	f	Sweet dreams?
+CHARLOTTE	f	I had no idea I was so tired.
+SARAH	f	They're down?
+CHARLOTTE	f	And out. Where's Lucifer?
+JESUS	m	Last time I saw him, he was in the  kitchen going pretty heavily with  Holly Golightly.
+CELIA	f	Hey, no gossip! Holly's a valued  customer.
+CHARLOTTE	f	Lemme at 'er!
+JESUS	m	Hell hath no fury like a recluse  scorned.
+CHARLOTTE	f	Hey, shouldn't one of your minions  be doing that?
+JOHN	m	You know, in my day, you bobbed for  the apple, and, sure, maybe there  was a nickel inside it and that was  sweet -- but you ate the god damn  apple! These little animals grab the  coin and they're out the door!
+CHARLOTTE	f	-- off to buy crack!
+JOHN	m	Exactly my point.
+CHARLOTTE	f	Seen Beelzebub around?
+JOHN	m	The Prince of Darkness?
+CHARLOTTE	f	Uh-huh.
+JOHN	m	Yeah, he went upstairs.
+CHARLOTTE	f	Shit.
+CHARLOTTE	f	You lost your horns.
+WILLS	m	Hey, looking for me?
+CHARLOTTE	f	Uh-huh.
+WILLS	m	We were checking out the roof. John's  got quite a set-up.
+WILLS	m	Wendy, this is Charlotte Fielding.  Charlotte -- my friend Wendy Lister.
+WENDY	f	Actually, I saw you at that memorial  service in Connecticut. Your eulogy  was beautiful.
+CHARLOTTE	f	Thank you.
+WENDY	f	Betsy Ross, right?
+CHARLOTTE	f	You guessed it.
+WILLS	m	Is the party over?
+WILLS	m	I have a strange feeling that you're  upset with me.
+CHARLOTTE	f	No, I was just wondering if you had  sex with that woman.
+WILLS	m	Ever?
+CHARLOTTE	f	No, the answer to that's pretty  obvious. I meant tonight. On the  roof.
+WILLS	m	You're not serious.
+WILLS	m	Of course not. Why would I want to  do something like that?
+CHARLOTTE	f	That's what I was wondering. I  thought, "We're so happy he'd have  no reason to do it. And if he did do  it, he'd at least look guilty,  wouldn't he? But he doesn't. He looks  more relaxed than before the party  started."
+WILLS	m	Well, there you have it.
+CHARLOTTE	f	But then I thought, "He's a womanizer --  that's what they say." Funny word,  huh? Sounds like some sorta machine.  "And how do you get to be a womanizer?  Obviously by sleeping with lots of  different women for no good reason  and being really good at lying about  it."
+WILLS	m	Sure, except that --
+CHARLOTTE	f	Let me finish.
+CHARLOTTE	f	Anyway, there's something about being  sick right here --
+CHARLOTTE	f	-- that has made me acutely aware of  my heart. Nothing corny -- I mean,  literally... I feel every beat. I  know how sensitive it is. It reacts  to everything.
+CHARLOTTE	f	If you're lying to me, I'll know it. Did you have sex with Wendy on the  roof?
+CHARLOTTE	f	My God... oh my God.
+WILLS	m	Look, I never pretended to be anything  other than --
+CHARLOTTE	f	You hate yourself so much!
+WILLS	m	This was all a mistake. Right from  the start. All of it. I'm a grown  man and you're a child. Anyway, you have better things to do  with your last -- With your time  than spend it with me.
+CHARLOTTE	f	What about you? Do you have anything  better?
+CHARLOTTE	f	You know, maybe you're right. Maybe  this is the best time to end it.  Because I was actually starting to  love you, Wills, and that's the last  thing I ever wanted.
+DOLLY	f	Well, if it ain't the Belle of  Amherst.
+DOLLY	f	Seen that face before.
+CHARLOTTE	f	You have?
+DOLLY	f	And for the same god damn reason.
+CHARLOTTE	f	But you said Wills and my Mom were  just friends.
+DOLLY	f	Sure, but she was nuts about him.  The only reason she didn't sleep  with him is 'cause she was  sentimental. And smart. She wanted a  ring first.
+CHARLOTTE	f	Why didn't he give her one?
+DOLLY	f	'Cause he knocked up little Millie  Tyler instead. In Newport. At Bailey's  Beach. During the Labor Day clam  bake.
+DOLLY	f	Millie was your mom's best friend  from Nightingale. You had to hand it  to him. He sure knew how to make a  point.
+CHARLOTTE	f	Why did he do that?
+DOLLY	f	Aw, who the hell knows? 'Cause the  moon was full. 'Cause life's short.  'Cause he's Wills Keane. I'll tell  you a little secret -- after that,  your Mom hated his guts, but your  dad never made her smile like he  did. 'Course your dad never made her cry  like that either.
+CHARLOTTE	f	Why didn't you tell me any of this  before?
+DOLLY	f	Oh, I dunno...
+CHARLOTTE	f	You never talk to me! You never try  to help me!
+DOLLY	f	Christ, look at me. I'm gonna tell  you what to do?
+CHARLOTTE	f	Yes! You're my family. You're supposed  to take care of me.
+DOLLY	f	Aw, you wouldn't listen. That's the  thing about people -- they just do  what they want from the day they're  born till the day they die.
+CHARLOTTE	f	No, that's you, Dolly! People who  have given up don't listen to other  people! People who want to die close  off! That's not me! I wanted your  help! I wanted to learn!
+CHARLOTTE	f	Anything... anything you would ever  have told me, I would have listened  to! I promise.
+DOLLY	f	Aw, come on, honey. I can throw a  party and I can mix a gimlet. After  that, what the fuck do I know?
+PATTY	f	Oh, Wills, it's beautiful!
+WILLS	m	Thank you. It was designed by a team  from --
+PATTY	f	So functional! Is that stainless  steel?
+WILLS	m	Actually, no, it's velvet.
+PATTY	f	Oh, my God, it is!
+WILLS	m	How are you?
+MELISSA	f	How are you, sir?
+PATTY	f	Well, if the food's even half as  good as the moldings I'm in for a  very special treat.
+JESUS	m	Uhhh, good evening, Mr. Keane. Will  you be dining with us?
+WILLS	m	Yes, Jesus. Table seven, if it's  available.
+JESUS	m	Certainly, sir.
+WILLS	m	Hello, Celia.
+CELIA	f	How are you this evening, sir?
+WILLS	m	I've been worse.
+CELIA	f	Are you sure?
+JESUS	m	Table Seven.
+NEW HOSTESS	m	This way, please.
+WILLS	m	Order a drink. I'll be right with  you.
+JOHN	m	Where the hell you been?
+WILLS	m	Splendid, how are you?
+JOHN	m	Where's Charlotte?
+WILLS	m	Deliveries on time?
+JOHN	m	Who's the broad? She looks like a  Holiday-Inn hooker from Ohio.
+WILLS	m	Keep up the good work!
+CHARLOTTE	f	Okay, I'm chugging Scotch, gagging  on smoke, and losing my hearing! Now  why is this so good for me again?!
+SIMON	m	That's just it! The great spiritual  benefit in leaving one's room is  that it reminds one of how odious it  is to leave one's room!
+SHANNON	f	Excuse me! Excuse me! Sorry! Excuse  me!
+BOY'S VOICE	m	No problem!
+SIMON	m	There's one thing you don't know  about Mr. Keane and his adultery and  as painful as it is I feel that I  should tell you!
+CHARLOTTE	f	What? What is it!
+SIMON	m	That woman on the roof? That was no  ex-girlfriend! In fact, no woman at  all. It was I, Simon Loring, master  of disguise! Willsy and I have moved  in together!
+SHANNON	f	Look what I found!
+CHARLOTTE	f	Eric! Wow!
+ERIC	m	Hey, Char!
+CHARLOTTE	f	God, long time no see! One night we  show up to rent Eraserhead and you're  just gone!
+ERIC	m	Sorry about that!
+SHANNON	f	It was such a drag! You know, having  to actually start paying to rent  movies!
+ERIC	m	I bet!
+CHARLOTTE	f	What's up? Ralph said you moved to  Rockland County!
+ERIC	m	Yeah, I got a job working for my  mom's new boyfriend!
+CHARLOTTE	f	What does he do?
+ERIC	m	He sells pot!
+SHANNON	f	Cool!
+ERIC	m	Not really. I was a driver! I got  laid off when he got busted. He's  awaiting trial!
+CHARLOTTE	f	So what're you doing now?
+ERIC	m	Same thing pretty much. Only for  Domino's!
+SHANNON	f	Whoa, I don't believe it! She hasn't laughed in like a week!
+PATTY	f	-- so everybody on the conference  call starts introducing themselves.  Ned Lewey, Paris Office. Takashi  Matsuo, Tokyo Office. Whoever, the  London Office. And then someone says,  "Will the architect from the New  York office please identify himself."  And I pipe up and say, "Well, guys,  I'm not a him or an architect. I'm  Patty Strauss and I'm head of East  Coast marketing." And there's like  total silence. It was hysterical!
+WILLS	m	I'm sorry, would you excuse me?
+PATTY	f	Of course.
+WILLS	m	Who is it?
+JOHN	m	Nobody!
+JOHN	m	Last time I checked I was your best  friend!
+WILLS	m	So?
+JOHN	m	So after the party, no thank you! I  call you three times -- no call back!  And for six days you don't even eat  at your own god damn restaurant!  What am I supposed to think? Huh?! I  was ready to call the morgue!
+WILLS	m	Relax, I'm alive.
+JOHN	m	Well, you sure don't look it!
+JOHN	m	I'll tell you why it's my concern!  Because I had a god damn swimming  pool! An ocean view! A fabulous lemon  tree hangin' right over my Jacuzzi!  And I gave it up for you, brother!  Back to a life of concrete and dirt  and sirens just so you could get  your shit together!
+JOHN	m	On my roof? You gotta be kiddin'!  Not on my green chair! Tell me it  wasn't on the green chair.
+JOHN	m	Oh, great. Now how am I gonna clean  that?
+WILLS	m	Look, it doesn't matter that she's  sick -- she's still a kid and there's  no way we should be together. It's  unhealthy... it's... it's  inappropriate...
+JOHN	m	What the hell is that? Some sorta  shrink talk?
+WILLS	m	Look, if she were just fun... just  some sort of diversion... maybe I  could justify it. But the worst part  is that it's becoming more. Much  more. It's embarrassing how much I  like her. She gets to me. She affects  me...
+WILLS	m	And she's gonna be gone and... I'm  not sure I can... I mean... I already  think about her all the time... Her smile kills me... and the  thought... that it'll be gone...  forever... that I'll never see her  again... I don't know... I can't --  I don't think I'm that strong, Johnny.  It's too much. I'd rather have it be  over... over now. I'll start missing  her now.
+JOHN	m	Buddy, I hate to break it to you,  but in the real world... where I  live... there're only two kindsa  love stories. Boy loses girl and  girl loses boy. That's all there is.  Somebody always gets left behind.  You try to avoid that, you'll end up  an old man toastin' yourself with  egg nog in the mirror on Christmas  Eve. You'll end up dying in your own  arms.
+PATTY	f	Thank you so much. I had such a great  time.
+WILLS	m	Good. I'm... I'm glad.
+PATTY	f	Didn't you?
+WILLS	m	Patty, I... I want to be honest with  you... right now, from the start...  so there's no room for  misunderstanding. I didn't have a  good time, but it's nothing personal.  I just split up with someone and  rather than admit to myself how much  I miss her, I asked you out instead.  And it's unfair. If I feel sad I  should just feel sad and not try to  use you... and your body... as some  sort of painkiller, right? Anyway, I think you're a warm and  engaging woman and I wish you all  the best.
+MICHAEL	m	Mr. Keane --
+WILLS	m	Good night, Michael.
+MICHAEL	m	You've got a visitor.
+WILLS	m	Who?
+MICHAEL	m	She's been waitin' almost an hour.  In the lobby. A little surprise for ya.
+LISA	f	Sorry to disappoint you.
+WILLS	m	No, no. Not at all. You surprised  me, that's all. I didn't expect to  see you... not here... not after  your letter.
+LISA	f	Well, I didn't expect you to show up  at my job.
+WILLS	m	I followed you in. I wasn't even  sure it was you. All I have is an  old snapshot.
+LISA	f	My boss thought you were a stalker.
+WILLS	m	I didn't mean to run off like that.
+LISA	f	But you did.
+LISA	f	So you got my letter. What'd you do?  Freak out? Burn it?
+WILLS	m	I saved it.
+LISA	f	I was just blowing off some steam,  okay? I think I have the right.
+WILLS	m	So do I. Look, why don't we go  upstairs.
+LISA	f	No. I didn't plan to come. Peter...  my husband... he agrees. He thinks  it's a futile exercise. But it turns  out I'm pregnant. Just a few months,  but --
+WILLS	m	Lisa -- Congratulations. That's  wonderful.
+LISA	f	Thanks. Anyway, I guess it made me  want to meet you. I've been a little  sentimental about parent-hood.
+WILLS	m	Is that what you consider me?
+LISA	f	In a lousy absentee sorta way, sure.
+WILLS	m	How's your mom?
+LISA	f	Great. Nuts. She moved to Costa Rica  last summer.
+WILLS	m	Why?
+LISA	f	A guy, what else? He owns a charter  airline and wears sunglasses indoors.  I think he might be a gunrunner.
+LISA	f	You know, you're much better looking  in person than in photographs. I  always assumed Mom was exaggerating,  but she wasn't.
+WILLS	m	Thanks. You're not bad looking  yourself.
+LISA	f	Anyway... I should go...
+WILLS	m	Already?
+LISA	f	I really just wanted to meet you  and... maybe... I don't know...
+WILLS	m	What is it? Tell me.
+LISA	f	Nothing earth-shattering. Maybe just  to hear you say you were sorry.
+WILLS	m	I am. I'm very sorry.
+LISA	f	Okay. Thanks.
+WILLS	m	Can I call you?
+LISA	f	Before... when you came in... who  did you think I was?
+WILLS	m	A friend.
+LISA	f	You must like her an awful lot.
+CHARLOTTE	f	Hey.
+WILLS	m	Where were you? I was worried.
+CHARLOTTE	f	So worried you fell asleep. What're  you doing here?
+WILLS	m	I've missed you. You have no idea  how much.
+CHARLOTTE	f	How'd you get in?
+WILLS	m	Dolly. We watched TV. She fell asleep.  What time is it?
+CHARLOTTE	f	I didn't know I had a curfew.
+WILLS	m	Where were you?
+CHARLOTTE	f	None of your business. So what is  it? What do you want?
+WILLS	m	To tell you that you were right. I  do hate myself. But not so much that  I can't see how stupid and despicable  and --
+CHARLOTTE	f	Cowardly.
+WILLS	m	And cowardly what I did was. And  even though there's no excuse for  it, I want you to forgive me.
+CHARLOTTE	f	Why should I?
+WILLS	m	Because, for better or worse, I'm  falling in love with you, and the  thought of our not being together is  unbearable to me.
+CHARLOTTE	f	Let's sleep.
+CHARLOTTE	f	In the morning, we'll talk about  what a gigantic asshole you are.
+WILLS	m	So where were you?
+CHARLOTTE	f	With Shannon and Simon and Eric.
+WILLS	m	Who's Eric?
+CHARLOTTE	f	An old friend who used to work at  Blockbuster.
+WILLS	m	What'd you guys do?
+CHARLOTTE	f	Talked and drank. Simon and Shannon  finally went home. Eric and I hung  out.
+WILLS	m	Hung out where?
+CHARLOTTE	f	Stop. We'll talk about it tomorrow.
+WILLS	m	Fine.
+WILLS	m	Talk about what? Is there something  to talk about? What happened?
+WILLS	m	No, honestly, I think I have a right  to know.
+CHARLOTTE	f	And I honestly think I have a right  not to tell you.
+WILLS	m	You're being unreasonable.
+CHARLOTTE	f	You're being nosy.
+WILLS	m	You know, in this day and age it's  not so outrageous a request. I mean,  I don't know this kid. I don't know  where he's been.
+CHARLOTTE	f	You're worried about where he's been?  Give me a break!
+WILLS	m	It requires balance and I have lousy  balance, okay?
+CHARLOTTE	f	Oh, come on, what's the worst that  can happen? Well, I guess you could break a hip.
+WILLS	m	Look, I'm not in a sporting mood!
+CHARLOTTE	f	How come?
+WILLS	m	I'm jealous, okay?! Is that what you  want to hear? Are you satisfied now?
+CHARLOTTE	f	Not even close!
+WILLS	m	All I want is a simple answer and  you're torturing me! And I resent  it! It's cruel and juvenile! And I --
+CHARLOTTE	f	It's not! It's adult! It's revenge!  And if you think it's bad not knowing  what I did -- well, it's even worse  knowing exactly what you did!
+CHARLOTTE	f	Do me a favor, okay? Never ask me  again what happened with Eric. Just  accept the fact that you'll never,  ever know. And if that hurts, then  think about it next time you want to  cheat on somebody.
+WILLS	m	I wish I were exaggerating, but I'm  not. I slept with every one of them.  Really. Look through Dolly's old  photo albums... or any movie  magazine... visit Aspen at Christmas.  I was on a mission. And until recently  I really didn't think I had a problem.  Or if I did, it was definitely the  most pleasurable one I could imagine.
+CHARLOTTE	f	What changed?
+WILLS	m	My house in Malibu burned to the  ground.
+WILLS	m	I know, it sounds funny. But it must  have triggered something because the  next thing I knew I couldn't sleep.  I'd lie awake at night absolutely  terrified. Like a kid left alone in  the dark.
+CHARLOTTE	f	What were you scared of?
+WILLS	m	How quickly time was passing and how  adolescent I still felt. How  meaningless all my choices seemed.  How lonely I was. So I liquidated my  portfolio, sold my businesses, and  moved back here. To start over, settle  down, start acting my age. You were supposed to be my one last  dalliance with youth.
+CHARLOTTE	f	Well, for your sake, I hope I am.
+SARAH	f	Judge you? Why would I? Screw the  age difference -- I like the new  you! Before Charlotte came along, do  you have any idea how hard it was to  get you to sit down for a Happy Meal?
+MOLLY	f	Uncle Wills, how come you don't get  married?
+JOHN	m	Yeah, how come, Uncle Wills?
+WILLS	m	I want to, Carla, but --
+MOLLY	f	I'm not Carla! I'm Molly!
+WILLS	m	Well, Molly, I just haven't met the  right woman yet.
+CARLA	f	What about Charlotte? She's funny- pretty.
+SARAH	f	It means funny and pretty. It's their  highest compliment.
+WILLS	m	I agree. She's also demanding.
+JOHN	m	Where're you goin'?
+WILLS	m	She's decided she wants her birthday  present today.
+JOHN	m	But that was last month.
+WILLS	m	The Dom didn't count. This is her  real present. She chose it herself  and it's not material.
+JOHN	m	Now you got me curious.
+SARAH	f	Yeah, what is it?
+HARI	m	Okay... breath of fire... now inhale  deeply... hold the breath... let  your heart lotus blossom... feel the  energy rise... and exhale. Good. Now  peacock pose.
+WILLS	m	When does the enlightenment start?
+CHARLOTTE	f	When you realize that I'm God.
+HARI	m	Are you all right?
+CHARLOTTE	f	Yeah. No big deal. Cramp in the old  fifth shakra!
+WILLS	m	Don't worry. You're gonna be okay.
+CHARLOTTE	f	It's no big deal. I just  hyperventilated. Really.
+WILLS	m	Excuse me... do you have an extra  one of those?
+LITTLE MAN	m	You a smoker?
+WILLS	m	Not for years.
+LITTLE MAN	m	Well, hell, if I'm gonna be the one  to get you goin' again.
+WILLS	m	Thanks.
+LITTLE MAN	m	Don't mention it.
+SIBLEY	m	The repeat MRI and CAT scan do show  interval progression.
+WILLS	m	Which means the tumor's grown?
+SIBLEY	m	Yes. Yes, it has. Considerably. As  for her loss of consciousness, one  explanation is a disturbance in her  heart's electrical function. We'll  be monitoring her overnight for any  arrhythmias. If we find something,  we'll treat it. Unfortunately, the  more likely explanation is that the  tumor has begun to obstruct the  outflow of her heart. If that's the  case, there's little we can do. We  could be speaking in terms of weeks  not months.
+SIBLEY	m	When she returns home, we'll want  her to stay active, but don't let  her overexert herself. Don't stay long. She's been sedated.
+CHARLOTTE	f	Hey.
+WILLS	m	Are you all right? You're okay? How  do you feel?
+CHARLOTTE	f	Stoned.
+WILLS	m	I'll let you rest. I should. You'll  sleep and then --
+CHARLOTTE	f	Shhh.
+CHARLOTTE	f	You still owe me a birthday present.
+WILLS	m	I do not.
+CHARLOTTE	f	Just 'cause I fainted is no excuse  for you to bail on your peacock pose.
+WILLS	m	It ought to be illegal.
+CHARLOTTE	f	What?
+WILLS	m	Your smile. It's too pretty.
+CHARLOTTE	f	I've ruined you for other women.
+WILLS	m	You have.
+CHARLOTTE	f	All part of my master plan. Do you wanna hear a story... a bedtime  story?
+WILLS	m	Shouldn't I be telling you one?
+CHARLOTTE	f	Once upon a time, there was a woman  on a ship crossing the Atlantic and  her little boy got sick. Very sick.  And she said whoever saves my boy's  life... I'll name my next baby after  them. Well, they got into port and  they rushed her son to St. Vincent's  hospital... to here... and they saved  his life. And so the mother named  her next baby Edna St. Vincent Millay. And Edna grew up to be, as I am sure  you know, the second greatest female  poet in American history.
+WILLS	m	The first would be Emily Dickinson.
+CHARLOTTE	f	You're a quick learner -- I like  that about you... "It may be, when my heart is dull,  Having attained its girth,  I shall not find so beautiful  The meagre shapes of earth,  Nor linger in the rain to mark  The small of tansy through the dark."
+CHARLOTTE	f	I am so pretentious...
+WILLS	m	Charlotte, listen, I --
+CHARLOTTE	f	Uh-oh. Heavy, heavy...
+WILLS	m	I just think --
+CHARLOTTE	f	No. No violins. I'm fine. Go home...  sleep...
+SHANNON	f	It just didn't seem real and now  that it is, I hate it! It's so unfair!
+DOLLY	f	Fare is what you pay on the train to  Jersey. Fair is the place that smells  like manure where, if you're real  lucky, you win a blue ribbon for  your home-made pickles. Fair is a  sky without a cloud and a face with  a mark. Fare is food. What fair isn't  is everything else.
+SIMON	m	Well, I think I speak for all of us  when I say that we've heard quite  enough from Dolores.
+SIMON	m	Now, correct me if I'm wrong, but I  believe what you're saying is that  while the end may be in sight, it  has not yet arrived.
+WILLS	m	That's right. The tumor's begun to  interfere with the function of her  heart, but she --
+SIMON	m	Then why exactly have you called us  here?
+SIMON	m	I cut short a lunch date, Shannon's  missing her low-impact aerobics class,  and Dolores has delayed the start of  her happy hour -- surely you must  have had good reason.
+WILLS	m	I thought Charlotte's health might  be of some interest you.
+SIMON	m	It is. You could have told me all  about it on the telephone.
+WILLS	m	I also thought it might be a good  idea if we discussed ways to make  her as comfortable as possible for  the --
+SIMON	m	Charlotte loathes comfortable. I  never sought to bore her with comfort  while she was well, why should I  start now that she's sick?
+WILLS	m	Tell me, are you really so cold? Or  is it just a pose that you've  cultivated?
+SIMON	m	It's a pose that I've cultivated. I chose it, as a sort of smoke screen,  some time after attending my twentieth  funeral in as many months.
+WILLS	m	I'm sorry.
+SIMON	m	It's quite all right. But, honestly,  it shocks me how often you people  forget. Our phone books have as many  numbers crossed out as written in.  So that while death is certainly as  painful to us as it is to you, we do  not find it nearly so...  extraordinary. Don't misunderstand me. I adore  Charlotte and when she dies, I  would... were it not already in that  state... cry my heart dry.
+WILLS	m	She's in the hospital now. She doesn't  have long. Weeks maybe and -- She...  Anyway, I have something to ask you.  A favor. I have no right to ask. I  know. I'd do it myself, but I can't.  I'm too... I'm...
+LISA	f	What is it?
+WILLS	m	I want you to find a surgeon. Dr.  Sibley told me... Charlotte's doctor  told me... he said at some point,  when it's hopeless, surgery could be  an option. Heroic surgery, he called  it. I want to make sure that when  the time comes a hero is performing  that heroic surgery. Do you  understand? You'll have to make calls.  I'll get names. Sibley will give me  names. I'm sorry to ask you... I have no  right. But, you see, she doesn't  want it... this surgery... I'll have  to convince her. So no one can know...  for now. And I trust you. You're my  only family and I... You have every right to refuse me.  After what I did. You were a child...  and you needed me... and I was nowhere  to be found. There's no excuse for  that. I'm so terribly sorry!
+LISA	f	I'd be happy to do it.
+LISA	f	Dad, I'm really sorry she's sick.
+WILLS	m	I am, too. So sorry. I should be the  one. It should be me.
+CHARLOTTE	f	You never talk about my mother. Talk about her.
+WILLS	m	What do you want to know?
+CHARLOTTE	f	Everything. All I remember is that  she smelled like vanilla, loved to  read to me, and was really good at  cutting up fruit. I couldn't believe  she didn't cut her fingers off.
+WILLS	m	Well, I remember a little more than  that. Let's see... she was blonde...  about your height --
+CHARLOTTE	f	I've seen pictures, dummy.
+WILLS	m	Oh, okay. She... always ate her ice  cream with a fork -- how's that?
+CHARLOTTE	f	Much better.
+WILLS	m	And she wrote great letters, but  couldn't spell at all.
+CHARLOTTE	f	Neither can I.
+WILLS	m	She was a McGovern Democrat but also  an incredible snob. She loved  blueberries. She had the world's  worst backhand. Her favorite singer  was Stephen Stills.
+CHARLOTTE	f	Who?
+WILLS	m	Never mind. She was afraid of sharks.  And, considering the times, she was  pretty square. She only tried drugs  once -- a lifeguard gave her a hash  brownie and she threw it up all over  him.
+WILLS	m	And she laughed just like that. And  she bit her fingernails. And she  couldn't tell a joke. In short, she was a unique.
+CHARLOTTE	f	Did you know she was in love with  you?
+WILLS	m	She told me.
+CHARLOTTE	f	Were you in love with her?
+WILLS	m	Yes.
+CHARLOTTE	f	Why? Because she was the only girl  in Rhode Island who wouldn't sleep  with you?
+WILLS	m	That's how she got my attention;  it's not why I fell in love with  her. I fell in love with her because she  charmed me senseless day and night  for an entire summer.
+CHARLOTTE	f	Then why did you screw her best friend  on Labor Day?
+CHARLOTTE	f	It's just a question.
+WILLS	m	I have no idea. The summer was over.  Your mom was going back to Smith. I  was moving down here to work on Wall  Street. It was our last day together.  She was crying. She told me, for the  first time, that she loved me. I  said I loved her, too. I promised to  call and visit. A few hours later I  was in a cabana with Millie. When Millie told me she was pregnant  and that she wanted to marry me, I  escaped to L.A... and I never saw  her or your mom again.
+CHARLOTTE	f	Well done.
+WILLS	m	I think it's part of the reason I  never came back.
+CHARLOTTE	f	But why're you like that? What is  it? I mean, you weren't born that  way.
+WILLS	m	I might as well have been. For as  long as I can remember, I've always  run off at the first sign of a woman  wanting anything from me... relying  on me in any way.
+CHARLOTTE	f	But I want everything from you, Wills.  I rely on you in every way.
+WILLS	m	I know.
+CHARLOTTE	f	So the only reason you don't dump me  is because I'm sick? Because you  know that it's all going to be over,  anyway?
+WILLS	m	Maybe. But it doesn't feel that way. It feels as though I'm not afraid  anymore.
+WILLS	m	Driver! Quick! Pull over here! Right  here!
+CHARLOTTE	f	I didn't know you could sing!
+WILLS	m	I didn't know you couldn't!
+CHOIRMASTER	?	Well, you all know what time it is!
+CHARLOTTE	f	No, I don't. Do you?
+CHOIRMASTER AND CROWD	m	TEN, NINE, EIGHT, SEVEN, SIX, FIVE,
+CHOIRMASTER	?	HAPPY HOLIDAYS!
+WILLS	m	I love you, Charlotte.
+CHARLOTTE	f	You call that a rose? It looks more  like a hand grenade!
+HENRY	m	Mr. Keane, you get her outta here  or, I swear to God, I'm gonna  butterfly and stuff her!
+WILLS	m	I'll add it to the specials list.
+CHARLOTTE	f	No way! I'm too pricey!
+CHARLOTTE	f	Hello, Sunshine!
+JOHN	m	You seen Celia?
+WILLS	m	What's the matter?
+JOHN	m	The matter is I got a half-hour wait  and no help up front! You got a call  on Two!
+WILLS	m	Wills Keane.
+LISA	f	I've got him!
+LISA	f	His name's Tom Grandy. Harvard  undergrad. Columbia Medical School.  He's at the Cleveland Clinic. I know,  I know. But don't laugh. It's one of  the best in the world.
+LISA	f	He did his residency at the Brigham  in Boston... his cardiac surgery  training at Cleveland.
+LISA	f	He was so good they kept him on and  within three years he was chief of  the program.
+LISA	f	He travels a lot. Spends lots of  time lecturing. I got you an  appointment tomorrow at twelve-thirty.  Don't be late. He only has fifteen  minutes.
+LISA	f	The surgeon that recommended him  said, and these are his words not  mine, "Don't let his appearance fool  you. He's brilliant and has balls  the size of your head."
+GRANDY	m	Listen, I'm not gonna bullshit you.  If she were a baby, she'd have a  decent chance, 'cause these sorts of  tumors can regress like crazy, but  she's twenty and... I don't know,  man... I've never seen anything like  it. I mean, look! It's wrapped around  her vital structures like an octopus! You know, just once I'd like to get  sent something simple. A "cabbage,"  a valve replacement. Even a good old- fashioned transplant. But it doesn't  happen anymore. It's the downside of  being good at my job.
+WILLS	m	Good? They say there's no one better.
+GRANDY	m	I don't know. I'm like most people.  I do the best I can.
+WILLS	m	Can your best save her?
+GRANDY	m	Probably not.
+GRANDY	m	In these sorts of cases, it's best  if she signs a consent.
+WILLS	m	No problem.
+GRANDY	m	Good. The last time Charlotte passed out,  she regained consciousness almost  immediately. The next time or the  time after, she won't. When that  happens, call me. Here's my service. They'll reach me  no matter where I am. In the meantime,  I'll coordinate with Dr. Sibley.
+WILLS	m	I can't thank you enough.
+GRANDY	m	I haven't done anything yet.
+CHARLOTTE	f	By the way -- where were you today?
+WILLS	m	What do you mean?
+CHARLOTTE	f	When you called I assumed you were  at the restaurant, but when I called  back later, Jesus said you hadn't  been in all day.
+WILLS	m	I was in Montclair, New Jersey.
+CHARLOTTE	f	Why?
+WILLS	m	An opportunity.
+CHARLOTTE	f	Oh, really? Sexual or professional?
+WILLS	m	I was considering opening a  restaurant. But the rents are too  high.
+CHARLOTTE	f	Hey! How do you feel about Christmas?
+WILLS	m	Bah humbug...
+MICHAEL	m	Will you and Mister Keane be goin'  away for the holidays?
+CHARLOTTE	f	I doubt it.
+MICHAEL	m	I've seen so little of America. I  don't care for airplanes, you see,  and I have so little time to travel. Did Mister Keane enjoy his trip then?
+CHARLOTTE	f	What trip?
+MICHAEL	m	Why, just yesterday.
+CHARLOTTE	f	I wouldn't really call that a trip.
+MICHAEL	m	Perhaps not. But I've never been to  Ohio myself. They say parts of it  are quite lovely.
+MICHAEL	m	All right, you little hellions! Get  in here!
+WILLS	m	Straight?
+CHARLOTTE	f	I thought we had a deal.
+WILLS	m	I'm sure we do. About what?
+CHARLOTTE	f	Lying. You were in Ohio yesterday.
+WILLS	m	I met with a heart specialist. He's  willing to operate.
+CHARLOTTE	f	But you know I don't want that! You  know I've signed papers that --
+WILLS	m	Well, maybe I want it.
+CHARLOTTE	f	It isn't your decision!
+WILLS	m	Of course not, but if you'll hear me  out --
+CHARLOTTE	f	No! I told you right from the start  how I felt and you went behind my  back! You lied and --
+WILLS	m	Oh, Christ, knock it off! You're  such a god damn saint, so above it  all, but you're scared to death! You  do want to live! And if you were as  honest as you say you are you'd let  the doctors do whatever they can to  help you!
+CHARLOTTE	f	I won't give people hope when there  isn't any.
+WILLS	m	Why not?! Maybe we want hope! Or  maybe we just need to know that we  did everything we could! Maybe I  need to know that... if I'm going to  be able to live... to go on without...  without --
+CHARLOTTE	f	Now I know why you hurt so many women.  Because you always knew if you held  on to one of them, you'd never let  go.
+CHARLOTTE	f	When we met, I was so lonely. But I  didn't even know it. I'd been alone  so long.. almost forever...
+WILLS	m	So had I.
+CHARLOTTE	f	But now we have each other. Oh, what would I do, Wills? What  would I do if you weren't here? Where  would I be?
+WILLS	m	You don't ever have to worry about  that.
+CHARLOTTE	f	I'll do whatever I have to! I'll  tear up the papers! Whatever you  want! Tell the doctor! Because... I  really do want... I don't want to  leave you!
+CHARLOTTE	f	Wills?!
+WILLS	m	Yeah?
+CHARLOTTE	f	How long was I asleep?
+WILLS	m	A couple of hours.
+CHARLOTTE	f	Wow. And I'm still tired.
+WILLS	m	That's all right. Relax.
+CHARLOTTE	f	What're you doing in there?
+WILLS	m	Nothing.
+CHARLOTTE	f	Liar!
+WILLS	m	Don't! Don't move! Just one more  minute!
+CHARLOTTE'S VOICE	f	What're you doing?!
+CHARLOTTE'S VOICE	f	Oh no! You didn't!
+WILLS	m	You were just going to tire yourself  out!
+CHARLOTTE'S VOICE	f	This I've gotta see!
+WILLS	m	Just hold on!
+WILLS	m	Finishing touches!
+WILLS	m	Almost!
+WILLS	m	Voila!
+WILLS	m	Time cannot break the bird's wing  from the bird. Bird and wing together  Go down, one feather. No thing that  ever flew, not the lark, not you,  Can die as others do.
+CHARLOTTE	f	What have I done to you?
+WILLS	m	Ruined me for other women.
+CHARLOTTE	f	No... I saved you for them...
+MALE VOICE	m	Is she type 'n' cross for six units?!
+NURSE'S VOICE	m	Yes, Doctor.
+GRANDY	m	What're we waiting for?
+PRE-OP NURSE	f	Just you, Doctor!
+GRANDY	m	Then let's move!
+WILLS	m	It happened so quickly. We'd just  talked about the surgery. She agreed  to it. But I thought there'd be time.
+SIMON	m	I've had friends who weren't expected  to last till morning who lived another  seven years. Another ran a marathon  and died the next weekend. It's all  so terribly random the way life  actually works. I take nothing for  granted.
+WILLS	m	You know, it's funny, the first time  I saw her, I --
+LISA	f	Actually, to be honest, Peter's more  than a little freaked. I mean, how  could he not be? He's twenty-six.  His first child. A baby girl, no  less. Nothing really prepares you  for it.
+WILLS	m	I guess not.
+LISA	f	He said it's the first time since we  got married that he's actually  realized what marriage is. That it's  forever. That he can't just pick up  and run away to Nepal or something  if we have a fight. That he's part  of the cycle of things now. That  he's gonna die some day. That it's  the next generation's turn to take  the stage.
+LISA	f	So what about you, Mr. Keane? You  ready to be a grandpa?
+

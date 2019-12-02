@@ -1,0 +1,970 @@
+WEINER	m	Whoa, whoa, whoa... what's that?
+OCK	m	We begin again... let's kick in that new transducer. See if we can double the power output.
+WEINER	m	Whoa, Doc... wait a minute...
+OCK	m	Okey... dokey!
+LIZ	f	Hiya Peter...
+PETER	m	Hiya Liz... how're you doing...?
+LIZ	f	How'm I doing what?
+HARRY	m	Peter! Peter! Wait up!
+HARRY	m	Would you, uh... excuse us for a minute?
+PETER	m	What is it? what...
+HARRY	m	Did the Astro-Physics Journal really accept your paper?
+PETER	m	Yeah... well... all I got's the data but they've agreed to publish it when it's finished. You know... it's my calculation on the Planetary Conjunction.
+HARRY	m	And its influence on the anti-force. Isn't it?
+PETER	m	Yes. Look, Harry, I am busy with...
+HARRY	m	Yeah, you and the rest of the class. Every one is busy with Liz.
+LIZ	f	Peter?
+FLASH	m	Hiya, cupcakes...
+LIZ	f	Flash...!
+HARRY	m	And Flash is the busiest of them all...
+PETER	m	Come on, Harry... we'll be late for Octavius.
+HARRY	m	Ock is nuts, don't you agree?
+PETER	m	Ock is a genius, Harry. Crazy, Yes! But, a genius misunderstood, and unappreciated.
+ROZ	f	Doctor Octavius! You are late for your lecture. The students are waiting. Doctor Octavius!
+THORKEL	m	Your friend is impossible Professor Rosomorf, I told the board we should let him go.
+THORKEL	m	What's he doing in there, not his crazy experiment again.
+ROZ	f	You mean his anti-force theory... one day they'll give him the Nobel Prize for it.
+THORKEL	m	Meanwhile he is demolishing our university. Octavius!! Open the door.
+OCK	m	The anti-force experiment has now reached the limit of electronic overload safety. Therefore, Weiner, you will disconnect the overload safety device...
+WEINER	m	Whoa, Doc... someone's at the door...
+OCK	m	World class scientific mind and they stick me in the basement with this third rate cyclotron...
+OCK	m	Okey! Dokey!
+LIZ	f	What is it, Peter?
+PETER	m	It's nothing.
+WEINER	m	Yes, gentleman can I help you?
+THORKEL	m	Tell your boss, that his class is waiting.
+WEINER	m	You better tell him yourself.
+ROZ & THORKEL	f	Professor Octavius!!
+OCK	m	Gentlemen, come, you must see this.
+ROZ	f	But, your students...
+OCK	m	The imbeciles can wait... I have better things to do than teach introductory Physics Rosomorf. Undergrads are kindless adolescence.
+THORKEL	m	You see he is impossible.
+OCK	m	Thorkel you are the dummiest administrator our university has ever had. Don't go Thorkel!! Come! Look!
+THORKEL	m	The university pays you to teach something to your students.
+LIZ	f	Well, do you mean nothing... or do you mean something but you won't tell me what it is?
+PETER	m	I mean plain nothing.
+LIZ	f	Well, I guess that's about as nothing as you can get... plain nothing. A beat.
+PETER	m	Liz...!
+LIZ	f	Ahh, it is something.
+PETER	m	No... look.
+OCK	m	I am going for 20 percent power!
+THORKEL	m	NO!! Don't do that...
+ROZ	f	Ock! Its dangerous...
+THORKEL	m	Ock I warn you...
+THORKEL	m	Keep calm, everybody keep calm. Use the front door. Everybody out the front.
+PETER	m	Liz! Come on...!
+LIZ	f	I can't. Help me!
+PETER	m	I'm coming!
+LIZ	f	Peter!
+THORKEL	m	Get back, you idiots. You can't go in there!
+LIZ	f	Help! Help me!
+PETER	m	Thanks for your help Flash.
+FLASH	m	No problem wimp.
+PETER	m	Our hero has a real way with words.
+LIZ	f	Oh, why don't you grow up.
+THORKEL	m	This man will bring a disaster upon this university.
+OCK	m	The universe is made up of forces... and counter-forces. Science is the study of the forces!
+OCK	m	But I... Professor Otto Octavius... have devoted my life to the study of the counter-forces! Good job, Peter.
+PETER	m	Thanks, Professor.
+THORKEL	m	I don't believe it, I simply don't...
+OCK	m	Can we carry on Mr. Thorkel.
+THORKEL	m	I don't believe... oh, all right carry on Professor.
+OCK	m	Well! This week my dear students I have made a stunning breakthrough...
+THORKEL	m	Wait a minute, wait a minute... you've got fire forms to fill out, Dr. Octavius.
+OCK	m	I have no time for forms, or administrators who persist in interrupting me, Mr. Thorkel.
+OCK	m	I now believe its possible that these counter forces can be... collected... the way the magnifying glass collects the sunlight... and focused into a hard beam I call... Weiner!
+OCK	m	I call it, the Anti-Force!
+OCK	m	This anti-force, once harnessed, is capable of undoing any natural force at which it is aimed... for instance... Gravity!
+LIZ	f	I'm sorry...
+PETER	m	It's alright.
+OCK	m	We patch in the cyclotron... The lights flicker and go dim.
+OCK	m	Pay no attention to the lights... I of course steal its energy, and it looses power. We patch in the cyclotron... and we gradually apply power. The power that I am stealing...
+OCK	m	And so we stand, four square against the fundamental force that orders and maintains our universe... gravity... which is holding down this goddamn ball. Rise!
+HARRY	m	What a crock...
+PETER	m	Shut up Harry... this is very interesting.
+OCK	m	Mr. Parker! Have you some... interesting observation you'd like to share with the class?
+PETER	m	No sir...
+OCK	m	Then shut up! And pay some attention to the experiment.
+OCK	m	Rise! Rise!!!
+OCK	m	Now that's what I call an experiment!
+OCK	m	You are looking at a representation of two universes. Our Blue one. Our real universe... something we can touch and feel and see and draw calculations about. This is us. The Yellow universe... this is something else. Some other dimension... something... on the other side!
+OCK	m	If it were possible to generate enough power behind it, the anti-force could wipe out not just gravity... but all our universal forces at the same time. In effect... it would blast a hole between this universe and the next. Each... would flow into each other. No blue universe. No yellow. End, finished, over.
+LIZ	f	That sounds like a scenario for the end of the world.
+OCK	m	My girl, it is! It is. It would mean wiping out everything that's known... and letting in everything that's unknown.
+FLASH	m	Isn't that a little dangerous?
+OCK	m	Don't worry yourself, true inter- dimensional penetration is still purely theoretical, but one day... Maybe very near... maybe in the 21st century...
+LIZ	f	Look, it's just... I don't know... when you and Flash go after each other like that...
+PETER	m	He's not my type.
+LIZ	f	He doesn't have to be.
+PETER	m	Check.
+LIZ	f	And besides, he's not all bad.
+PETER	m	You don't get nicknamed Flash because you're a rocket scientist, Liz.
+LIZ	f	Give it up, Parker. You'd die for a nickname like Flash.
+PETER	m	Yeah, of embarrassment.
+KIM	?	Hey, Flash... I'm scalping a pair of the Midnight Madness Wrestling Match tomorrow night.
+FLASH	m	The Slammies??? I'd kill for that!!!
+KIM	?	Would you pay $125?
+FLASH	m	Well, uh, I... gee... if... can I tell you tomorrow?
+KIM	?	You snooze, you lose. Hiya Liz...
+LIZ	f	Kim, you know Peter and Harry? This is my new roommate... Kim Nickson.
+KIM	?	Hellooo, Peter.
+PETER	m	Hi...
+LIZ	f	We're going to the Student Reunion Meeting. You coming?
+PETER	m	I can't... I gotta go over to the Daily Bugle. I'm trying to sell some photos.
+KIM	?	Soooh, a photographer...?
+PETER	m	Just an amateur. Well... nice meeting you, Kim.
+KIM	?	Yeah... I bet it would be.
+HARRY	m	Can I be your date for the reunion ShooShoo?
+KIM	?	No Jerk!
+HARRY	m	What did I say...
+LIZ	f	It's not what you said, it's how you say it, ShooShoo!
+HARRY	m	Damn!
+WEINER	m	Peter, Doc Ock wants to see you.
+PETER	m	About my data I bet.
+WEINER	m	I don't know.
+PETER	m	He knows about my work on the Planetary Conjunction, doesn't he?
+WEINER	m	I don't know.
+PETER	m	Hello, Professor Octavius. I really admired your experiment.
+OCK	m	We have a lot of interests in common, Peter. Perhaps we should put our heads together, if you know what I mean...
+PETER	m	That would be... great.
+OCK	m	Now you take the Planetary Conjunction. This Saturday night we will witness Saturn, Jupiter, the Moon, the Earth, the Sun... all in a row. Never seen within the memory of man, or measured for its effect. The total gravitational force must be quite exceptional. Isn't that the subject of your paper...?
+PETER	m	Yes sir, I've worked out a new way to calculate the combined gravitational effect.
+OCK	m	I'm a busy man, Mr. Parker. But I think I could find the time to go over it with you. Make sure it all... checks out.
+PETER	m	Well... I'm sort of working with Professor Rosomorf and he suggested we kind of keep it between us. He thinks that my theory is... well, I don't know...
+OCK	m	The scoundrel... I want to see that data, Peter!
+PETER	m	But Professor Octavius... if I knew you were interested... sorry, I've already given it to... Professor Rosomorf, and he is after all the head of our Physics Department... and I couldn't...
+OCK	m	Well, I'm certain something can be worked out. Run along, young man.
+OCK	m	Just a minute... how about if I show you my discoveries... something I never showed to any other student... as a matter of fact to anybody at all.
+PETER	m	Well I am really flattered, I mean I'd love to... but I...
+OCK	m	Very well shall we say if you come here tonight...
+PETER	m	But Professor I don't now if I should...
+OCK	m	Make it eight sharp... I'll be waiting for you... Right here...
+OCK	m	The same academic world that's so keen to embrace that boy's undergraduate work, ridicules my anti-force theory as quackery. I ask you, Weiner... what is our society coming to? Ha!
+WEINER	m	They are all a bunch of brainless assholes, that's what I say...
+OCK	m	Weiner! Go get me that boy's data!
+WEINER	m	Cost you fifty bucks.
+OCK	m	Just get it. We'll negotiate your fee when you have the data, alright Weiner?
+JAMESON	m	Garbage! Absolute, 100% garbage! 
+JAMESON	m	Bag ladies. I hate bag ladies.
+PETER	m	Yes, sir.
+JAMESON	m	Little kids... I hate little kids. This is a daily newspaper. We need news value photographs, not artsy-fartsy shit!
+PETER	m	Yes, sir.
+JAMESON	m	Kid? You want a pro's assessment?
+PETER	m	Yes, sir!
+JAMESON	m	Your photos suck. Parker, my readers are morons. I gotta grab them by the eyes. Every time you press the button of that Nikon of yours it costs you fifty-five cents. So the next time you're about to take the plunge, ask yourself, am I taking dog bites man? Because if you are...
+PETER	m	I know, I know. You want man bites dog...
+JAMESON	m	Parker, this is the post modern 20th century. I want man eats dog! Get out!
+PETER	m	Rent! Rent, more bills, rent... electricity, bills...
+PETER	m	There's nothing in there worth stealing!
+MAY	f	That's the understatement of the year.
+PETER	m	Aunt May, you're trespassing.
+MAY	f	I was just so desperately bored... I thought I'd come over and make you dinner...
+PETER	m	I am old enough to... to make my own--
+MAY	f	But I didn't feel like getting to know your roaches.
+PETER	m	I'll introduce you.
+MAY	f	Oh. And those foul chemicals in the pots...
+PETER	m	I take pictures, remember?
+MAY	f	Anyway, I've decided to kidnap you for dinner in Forest Hills...
+PETER	m	It's Friday night...
+MAY	f	Yes. Do you have a date?
+PETER	m	No.
+MAY	f	Then come on.
+THORKEL	m	Professor Rosomorf, what happened here?
+ROZ	f	Someone tried to rob me of some paper... I suspect they were looking for that one.
+THORKEL	m	What is it?
+ROZ	f	Award winning stuff. Peter Parker's data on the Planetary Conjunction. Damn lucky I hid it in my computer under another title.
+THORKEL	m	My God, what's going on in our school? First Professor Octavius almost blows up the Physics lab... Now this. You report it in triplicate, of course.
+ROZ	f	Thorkel, be careful when you talk to Octavius. Remember... the man is a very fragile genius. One day he'll bring us all the Noble Prize.
+THORKEL	m	Rosomorf, the man is a very dangerous crackpot!
+ROZ	f	That's him again. He's working day and night.
+THORKEL	m	I tell you the man is very dangerous. Come on Rosomorf, let's stop him before this building will explode.
+THORKEL	m	Shut it down, Octavius.
+THORKEL	m	You've blown half the circuits in the Science Center.
+OCK	m	Call an electrician.
+THORKEL	m	I have called the locksmith.
+OCK	m	What... what is he doing.
+THORKEL	m	We have to shut your lab down and take a look at the lines.
+ROZ	f	Please, Otto, we must lock it up.
+OCK	m	You're denying me access to my cyclotron?!
+THORKEL	m	You bet.
+OCK	m	Okey, dokey... just give me till tomorrow. I want to clean up my papers. Tomorrow... Ha... Tomorrow you can have this room...
+ROZ	f	Oh... well Thorkel... few more hours won't make a difference.
+THORKEL	m	I hope.
+BEN	m	Another brewski?
+PETER	m	No, I'm fine, Uncle Ben.
+BEN	m	Yah! Way to do it. Alright! You don't follow the Mets like you used to, do you, Pete?
+PETER	m	No, not so much anymore.
+BEN	m	Funny. When your Mom and Dad, uh, passed away... I had this idea... I wanted you to be the best baseball player that ever was. Geez, what ever happened to that?
+PETER	m	Little league.
+BEN	m	Yeah... Babe Ruth you wasn't.
+AUNT MAY	f	It's on the table! Turn off the TV!
+AUNT MAY	f	How's that girl you told us about, Peter?
+PETER	m	Liz? She's great... But she has a boyfriend.
+AUNT MAY	f	A boy your age should have a girlfriend.
+PETER	m	Aunt May... she has a steady boyfriend.
+AUNT MAY	f	Peter, any girl that's worth your attention is of course gonna have a boyfriend... But if she really gets to know what you have to offer she'll... you get my drift?
+BEN	m	Look, just leave him alone, okay. When he's ready for girls he'll be a holy terror. It's in the blood. Lookit, how are you fixed for money, Pete? Maybe I can help you out a little.
+PETER	m	No, I'm alright. My scholarship covers almost everything, and I sell some photos here and there. Today my physics professor asked for some of my work... he wants to study my data. They might publish my work in the science magazine... that'll bring me some money...
+BEN	m	Publish your work?! You hear that May...?
+PETER	m	Yeah, in fact I have to leave a little early tonight, to meet Professor Octavius... He offered me to be his assistant...
+BEN	m	Whoa! Did you hear that May...?
+AUNT MAY	f	Oh, Peter, you promised you'd spend the night...
+PETER	m	I... I can't, Aunt May. Professor Octavius wants to discuss my new findings.
+AUNT MAY	f	Peter, what you should be finding... is a nice girlfriend.
+OCK	m	I'll show them... closing the cyclotron on me... Weiner!
+WEINER	m	Yes, Professor...
+OCK	m	Where is he? It's ten past eight o'clock...
+WEINER	m	That must be him. He opens the door.
+PETER	m	Good evening.
+OCK	m	You are late. Weiner, go outside and get us something to eat. And don't steal it! Just buy it. I'll reimburse you.
+WEINER	m	Do you want anything Parker?
+PETER	m	No thank you, I just had dinner at my aunt's...
+OCK	m	Piss off, Weiner!
+OCK	m	Okey, dokey, Parker... how would you like to take Weiner's place... I mean, be my assistant?
+PETER	m	Well, Professor, that would be a great honor, but I'm already working with...
+OCK	m	Rosomorf... that imbecile. Don't you understand, kid, that I am about to uncover the greatest discovery since Einstein came up with his theory of relativity... The "Anti-Force."
+PETER	m	Wow! The theory of the Anti-force! You should go for the Noble Prize Professor...
+OCK	m	Noble Shmoble, I am going for a much bigger prize kid. Okey, dokey. Let me show you, kid, what I got here.
+OCK	m	Present maximum anti-force power to date is 38 percent of theoretical limit. I have patched in the variable particle-wave accelerator... I will now try to reach 50% power... And if your paper has any value... I can use it to get the power I'm missing to create the anti-force, to break through and beat any other form of power in our or any other universe, capish!
+PETER	m	Sorry, Professor, I can't do it. I gave my word to Professor Rosomorf.
+OCK	m	50 percent... anti-force... 50 percent... that's all I'm missing! Parker, we can be rich together!
+PETER	m	Sorry... I'd better go now.
+OCK	m	You'll be sorry, Parker.
+OCK	m	You! Get out of there, you creeping...
+OCK	m	Noooooooooooo!
+OCK	m	It's an energy storm! Okey! Dokey!
+WEINER	m	Professor... what happened to you? What did you do...
+WEINER	m	Oh my God... what happened here...
+WEINER	m	I better get out of here.
+THORKEL	m	There is no danger. Please go back to your dorms. I repeat, there is no danger.
+JAMESON	m	Spill it out, Professor! The public wants to know!
+THORKEL	m	Who are you?
+JAMESON	m	Jameson, Daily Bugle, Chief Editor, now what really happened here?
+THORKEL	m	There will be a press announcement in the morning Mr. Jameson... now if you'll excuse me.
+THORKEL	m	I have nothing to say... there will be an announcement. Now, please go home... everybody... we must clear the grounds...
+FLASH	m	You think they'll cancel classes?
+HARRY	m	They must... the whole building must be contaminated with some kind of poisonous gas.
+PETER	m	How about nuclear contaminations?
+KIM	?	My God... lets beat it. But nobody moves.
+LIZ	f	Could anyone be in there, Peter?
+PETER	m	I don't know... Maybe Professor Octavius. He usually works late...
+FLASH	m	That nut, I bet it was all his doing...
+JAMESON	m	Hey Parker! Peter Parker!
+PETER	m	Mr. Jameson! What are you doing here? What's going on?
+JAMESON	m	That's for them to know, and for you to find out.
+PETER	m	But sir, they wouldn't tell us. You heard Thorkel... he said...
+JAMESON	m	A press announcement tomorrow...! But we must know tonight Parker. This is your university, right...
+PETER	m	Yes, but...
+JAMESON	m	You got your camera?
+PETER	m	Sure, but I can't--
+JAMESON	m	A hundred dollars says you can?
+PETER	m	Yes sir!
+JAMESON	m	Get inside and get pictures, fifty bucks.
+PETER	m	You just said a hundred.
+JAMESON	m	Seventy, but I want blood and gore.
+PETER	m	Seeya guys.
+LIZ	f	Where is he going?
+JAMESON	m	To make fifty bucks.
+ROZ	f	Take it easy. Take it easy with him.
+THORKEL	m	Take him away and never bring him back!
+THORKEL	m	What was that?
+ROZ	f	What was what?
+THORKEL	m	What hit me?
+ROZ	f	What hit you?
+THORKEL	m	I don't know. It was so fast.
+ROZ	f	You're going to be fine, Otto.
+PETER	m	Ow!!!
+GUARD	m	Hey! What are you doing here, kid?
+PETER	m	I feel a little funny...
+GUARD	m	Yeah? Well, I ain't laughing. Get out... Just get out of here...
+GUARD	m	You get yourself over to the Police lines.
+PETER	m	Right. Police lines.
+JAMESON	m	Okay, scoop, whaddaya got?
+PETER	m	I... got pictures of the Professor... in there... it's so strange in there... so bizarre...
+JAMESON	m	Good job, kid. Bizarre is what we need. Pick this up in the morning. There'll be two crisp twenties tucked inside.
+PETER	m	This is weird. My God, I feel so weird...
+PETER	m	Very weird.
+PETER	m	Very, very weird.
+PETER	m	Well, what the hell!!
+REISS	m	You're a kid who's going places, and I'm gonna point you the right way.
+PETER	m	Max Reiss, models, strip dancers, escort girls, blue movies...
+REISS	m	Oops... sorry, wrong card.
+PETER	m	Max Reiss, Talent management.
+REISS	m	It's a big outfit. Got a lot of departments.
+PETER	m	Yeah... well... why you approach me? I'm not...
+REISS	m	Oh yes you are... very talented. The three questions of show business success. One do you think you possess a unique talent?
+PETER	m	Well...
+REISS	m	Two... what are you gonna do with it?
+PETER	m	Well... I don't know.
+REISS	m	Three... how much money you got in your pocket?
+PETER	m	Ten.
+REISS	m	You invest half of that with me and I'll make you a star.
+PETER	m	What are you talking about?
+REISS	m	I'm talking about fame. I'm talking about fortune. I'm talking about the chance of a lifetime. How'd you like to be on MTV tomorrow night?
+PETER	m	MTV...? Me? Really?
+REISS	m	Taxi!
+PETER	m	Hey!
+REISS	m	Kid! Tomorrow night. Same place, same time.
+PETER	m	How do you know I'll show up?
+REISS	m	Because you wanna be a star... everybody does.
+PETER	m	Hello? Aunt May?
+AUNT MAY	f	Peter? What time is it? Are you alright?
+PETER	m	Well, no, I mean yeah I'm fine, but listen... Aunti, the craziest thing happened to me tonight.
+AUNT MAY	f	Does this have to do with a certain girl we talked about at dinner?
+PETER	m	No, no, look, there was this radioactive experiment... I was poisoned!
+AUNT MAY	f	You were what?
+PETER	m	I was bitten by a bug.
+AUNT MAY	f	Oh! I get it, you mean a love bug.
+PETER	m	No... No... A spider...
+AUNT MAY	f	Peter, did you at least talk to her?
+PETER	m	Aunt May, listen to me. I got bitten on the hand... by a poisonous spider.
+AUNT MAY	f	She bit you?
+PETER	m	No. I was in the bathroom and...
+AUNT MAY	f	Oh, you did it in the bathroom? Peter, this is craziness, why don't you use your bed? You're up all night. You're in the radioactive labs. You never take time to eat or sleep. Am I right?
+PETER	m	Yes, Aunt May.
+AUNT MAY	f	Did you eat something today?
+PETER	m	Yes, Aunt May.
+AUNT MAY	f	Okay, Peter go back to bed, and remember we love you.
+PETER	m	And I love you too, Aunt May. And by the way, I got a mess of super powers today.
+CHIEF SURGEON	m	Look at these brainwave readings. The mental activity is ten times of any normal man...!
+BRAINMAN	m	Equipment malfunction...?
+CHIEF SURGEON	m	Hell, yeah... his. My God... I thought I'd seen everything...
+SURGEON #2	m	But this is beyond medicine. This is madness...!
+NURSE	f	It is so freaky...
+CHIEF SURGEON	m	Okay, lets stop yakking and get cracking. I want to go in at the upper thoracic. Then we'll work our way around. Hang in there, man.
+CHIEF SURGEON	m	Nurse! Number seven scalpel. Arthroscope stand by. Read out parameters in progress. Let's go in. You alright?
+NURSE	f	Yes... Yes, of course. Everything's online.
+CHIEF SURGEON	m	Scalpel! No... no... a larger one... the largest we have!
+HEAD NURSE	m	Kill the alarms!
+BRAINMAN	m	He's going off the chart!
+CHIEF SURGEON	m	Mop. Mop! Sutures and clamps! Hurry up!
+SURGEON #2	m	We're losing him. Defibrillate!
+CHIEF SURGEON	m	Zap him!
+BRAINMAN	m	Stabilizing alpha waves...
+NURSE	f	You have a visitor, Doctor...
+THORKEL	m	Octavius, I'm afraid I have bad news for you.
+OCK	m	The cyclotron is damaged...
+THORKEL	m	What used to be the cyclotron was permanently shut down this afternoon.
+OCK	m	But my work!
+THORKEL	m	Your work is a disaster! Look at yourself!
+OCK	m	Myself? I don't matter. Nobody matters anymore. To enter a new dimension we must first destroy our own...
+THORKEL	m	What are you saying?
+OCK	m	Destroy life. Life is... insignificant. Bags of sleepy, sluggish flesh. What would you say?
+THORKEL	m	Oh, my God, what are those horrible things sticking from your body?
+OCK	m	Thorkel, if I told you that for one moment in time I broke all the laws! For one brief glorious moment, I broke through to the other side. I saw... I felt... I became creation.
+THORKEL	m	What on Earth are you rambling about?
+OCK	m	Destiny!!! My destiny! I see it all so clearly now. Universal destruction, yes. All I need is the power... then I can destroy this illusion you call life. It is my destiny to lead us to the light!
+THORKEL	m	You're a madman.
+OCK	m	And you are a fool. I will end the universe as you know it. And in that final moment... I'll laugh my ass off while you're kissing yours goodbye!
+THORKEL	m	Goodbye is right, Octavius... You're fired... sacked... canned. You are history, Doctor Octavius. And I couldn't be more pleased to be the first to tell you this good news...
+THORKEL	m	Let me down Ock... you crazy... MONSTER! Let me down!
+OCK	m	Okey, dokey.
+PETER	m	MTV Wrestling?!
+REISS	m	That's the place. Pay the man.
+PETER	m	Look, Mr. Reiss... I'm not real interested in watching a wrestling match.
+REISS	m	Who said anything about watching a wrestling match? You're here to win a wrestling match!
+PETER	m	Me? You must be kidding.
+REISS	m	You hop around. You know, the way you did last night. Your opponent gets tired. He falls down. The ref counts to three, you win, and we pick up a thousand bucks.
+REISS	m	You're really gonna love this.
+PETER	m	Look, really, I don't know...
+REISS	m	You don't have to know. I know enough for both of us. Change in there.
+PETER	m	What is this?
+REISS	m	A costume... something that fits your talent. Go put it on. I'm sure you'll like it.
+PETER	m	How does it look? I feel like it's Halloween.
+REISS	m	Cover your face with the mask.
+PETER	m	Why?
+REISS	m	Mystery, my friend. Nobody should know who you are...
+RING ANNOUNCER	f	And now, a new challenger, for the thousand dollar fight, weighing in at one hundred and fifty pounds... from parts unknown! Here is the Amazing... Mysterious... Incredible Superman...
+REISS	m	No, not Superman... Spider-Man...
+RING ANNOUNCER	f	...Spider-Man!!!!!
+OLD LADY	m	Kill the sucker, Crusher!
+HIPSTER	m	Whatsamatter, Crusher, can't you crush that bug?
+CRUSHER	m	Okay, Web Face, this is it!
+HIPSTER	m	Hey, Crusher, you need a insecticide!
+FLASH	m	Will you look at this Spider-Man guy! He is absolutely incredible!
+KIM	?	Liz, get a load of this outfit! I wish I had it for the Halloween party... it's quite sexy.
+LIZ	f	Will you two shush. I'm trying to work.
+REF	m	One...!
+REISS	m	Get up...! Get up...!
+REF	m	Two...!
+SPIDER-MAN	m	Wow...
+REF	m	Ladies and Gentlemen, history is made today, we have here the first man to win a thousand dollars against the mighty Crusher.
+PETER	m	Max! Am I really gonna get a thousand...
+REISS	m	We are going to get a thousand--
+CRUSHER	m	Hi, who are you, kid?
+PETER	m	I'm Peter Parker.
+REISS	m	He is Spider-Man, and I handle him... Whenever you want a rematch call me. Next time it's gonna be ten thousand, what do you say... Crusher?
+SPIDER-MAN	m	Oh, look, Mr. Crusher, I'm really sorry about what happened in there. Really...
+CRUSHER	m	Oh, well, I don't know what happened to me tonight... I really don't know...
+REISS	m	I know... you lost. Big man you lost to the Amazing Spider-Man.
+PETER	m	You know who that is?
+LIZ	f	Yeah... he's some clown we saw on TV last night... boy does Flash think he's hot.
+PETER	m	He does...
+KIM	?	I love wrestling.
+HARRY	m	Wrestling is all bluff. Do you really believe this little guy in a stupid Spider-Man suit beat the Crusher?
+LIZ	f	Hey, we better rush... visiting hours will be over soon.
+NURSE	f	Doctor Octavius? You have visitors. Doctor Octavius?
+PETER	m	Ock is not here!
+LIZ	f	My God, what happened?
+NURSE	f	I'd better call the doctor!
+HARRY	m	You'd better call the police!
+OCK	m	What a wreck. What a useless, wasted wreck. Okey, dokey. We rebuild you, my damaged darling. Bigger, better, hotter! A world class, super cyclotron!
+WEINER	m	There you are, doc... where have you been... whoa this place is messed up.
+WEINER	m	Whoa, doc! You look a little messed up yourself.
+OCK	m	Where have you been, you imbecile?
+WEINER	m	I went to the wrestling...
+OCK	m	Wrestling...
+WEINER	m	I went after the kid. You still want that Parker guy's data, don't you?
+OCK	m	Well, did you get it?
+WEINER	m	No, I followed him... but I lost him in the crowd.
+OCK	m	Lost him? You--
+WEINER	m	I'll find him, Maestro... I promise... soon... maybe by tomorrow.
+OCK	m	So how was the wrestling?
+WEINER	m	Fantastic! There was this new wrestler... beat the mighty Crusher. You won't believe it... a nothing of a guy... calls himself this stupid name... the Amazing Spider-Man... would you believe it?
+OCK	m	Spider-Man, huh? Well, maybe I'll just go and wrestle myself one of these days... with all my new arms... I'm sure I can beat Crusher or any other monster.
+OCK	m	Will I beat him, this Crusher, will I beat him or not?
+WEINER	m	No... no, please... I mean yes, yes... you'll beat him easily... let me down... Please... I'll do anything for you...
+OCK	m	The Parker data... get me the Parker data, you hear?!!!
+SPIDER-MAN	m	And one like this... And one looking real sincere.
+SPIDER-MAN	m	What are you doing here?
+WEINER	m	I'm looking for Peter Parker.
+SPIDER-MAN	m	Oh, yes... so why not use the front door?
+WEINER	m	Hey, I know you...
+SPIDER-MAN	m	You do?
+WEINER	m	I saw you crushing the Crusher.
+SPIDER-MAN	m	You like wrestling?
+WEINER	m	I love it! You are the best wrestler I have ever seen... please don't hurt me!
+WEINER	m	Oh, please... don't kill me. Please help me down.
+SPIDER-MAN	m	Of course I'll help you down. I am Spider-Man... the good guy, am I not?
+WEINER	m	Yes... yes, you are.
+SPIDER-MAN	m	And by the way, Peter Parker does not live here anymore...
+SPIDER-MAN	m	And tell the Professor he can't have Peter's data. Goodbye.
+OCK	m	Wrap it up...
+OCK	m	Cash! I'll be back soon.
+BANK GUARD	m	What's going on here?
+OCK	m	Cash!
+PETER	m	Doesn't he look amazing in that one? Look, he's flying in the air!
+JAMESON	m	I don't care if he flies to the moon. He's just another wrestler in a silly costume. Look at this, Parker, right off the wire. This is the guy who hit that armored truck this morning. They say he has metal arms... get me a picture of this character!
+PETER	m	Metal arms?
+JAMESON	m	Four of them.
+PETER	m	Ock...?!
+JAMESON	m	The web faced weirdo... He is a joke in a Halloween costume... don't make me laugh.
+JAMESON	m	Now get out of here and don't come back without something I can use!
+PETER	m	Yes sir...
+JAMESON	m	A mega baloney... A bug in blue tights... what next?
+PETER	m	The Journal said he was a mega-smash on
+OCK	m	What do you think you're doing?
+WEINER	m	I'm going to the Masquerade. It's Halloween tonight Doc, aren't you coming to the School Ball? Whoa, you could go without an outfit.
+OCK	m	You're not going to any ball, clown. You're going to get me Peter Parker's data...
+WEINER	m	I was almost killed on my last try... Look at all these bruises...
+OCK	m	I don't care if you come back dead. Just get it!
+WEINER	m	Cost you a thousand bucks, if I get it.
+WEINER	m	All right... boss please let go...
+OCK	m	Just get it, Weiner. I'm running out of time. If you fail me again, you won't have to concern yourself with money anymore... DO YOU GET ME CLOWN?!
+HARRY	m	You should have worn a costume. I told you to wear a costume.
+PETER	m	It's... embarrassing.
+HARRY	m	There's Liz...
+PETER	m	Yeah...
+ROZ	f	... howdy partners.
+PETER/HARRY	?	Hiya, Professor Rosomorf.
+HARRY	m	Any word on Doctor Octavius?
+ROZ	f	Nothing beyond what I read in the papers. I'm afraid he's not the same man we knew. You know, I've been digging through the notes on his experiments...
+ROZ	f	You boys must have had an extraordinary classroom experience.
+PETER	m	Yes sir... oh... I'm going to be a little late with my paper on the Planetary Conjunction, sir...
+ROZ	f	Whenever you're ready... I'll look at it. I know it's going to be an important work... and Peter, take my hat.
+ROZ	f	It is a costume party.
+HARRY	m	Look, there's Spider-Man!
+PETER	m	Not the real one, I'm sure...
+HARRY	m	You can never be sure... all kinds of crazy stuff can happen at a masquerade ball...
+PETER	m	I bet I know who it is.
+PETER	m	Hiya, Liz...
+LIZ	f	Hiya, Peter. Who is in the Spider-Man costume?
+PETER	m	It's a very clever outfit you've got there, Flash.
+FLASH	m	Take a hike, asshole.
+LIZ	f	How did you recognize him?
+PETER	m	His pretty blue eyes give him away...
+HARRY	m	Anyway, who'll be sitting with you at the Halloween Ball?
+LIZ	f	I wanna dance... Hey, Spider-Man... Shall we Flash dance?
+FLASH/SPIDER-MAN	?	Hey, I'm reading the paper, okay?
+HARRY	m	Take her now, it's easy...
+HARRY	m	Wanna dance, Schechrezaa?
+KIM	?	I'm pooped.
+LIZ	f	I'm not...
+FLASH	m	Holy jumping jelly beans, willya look at these pictures of Spider-Man? Wow! Is this guy great or what?
+LIZ	f	Hey, Peter! These are your pictures!
+FLASH	m	Can't be...
+LIZ	f	It says here "Photos by Peter Parker."
+FLASH	m	You know this guy, Parker?
+PETER	m	Well, yeah... sort of...
+FLASH	m	Wow... I'll give you anything if you introduce us.
+HARRY	m	Will you grant me this dance...?
+KIM	?	Hey, Flash-Man... Wanna dance...?
+FLASH	m	Well, why not.
+YOUNG WOMAN	f	Thank you, thank you. We have a special surprise guest tonight. The Empire State University Masquerade Ball presents... The "Slammy" winning star of MTV'S wrestling tournament... The Amazing Spider-Man!
+FLASH	m	Go ahead... go ahead!
+LIZ	f	Come on... Flash...
+LIZ	f	Who are you...?
+PETER	m	One day you'll know...
+LIZ	f	You sound very familiar.
+PETER/SPIDER-MAN	?	Sure I do... I'm your friendly neighborhood Spider-Man!
+BEN	m	What a bunch of crap. Goddamn rock and roll's screwed up the whole TV.
+BEN	m	Come on, May. Wake up and go to sleep.
+SPIDER-MAN	m	Hey! Can't you go any faster?
+CABBIE	m	What'm I in, a race?
+SPIDER-MAN	m	I don't know... I get this tingling in my brain, like some danger is lurking just ahead. I'm worried about Aunt May and Uncle Ben...
+CABBIE	m	Your family?
+SPIDER-MAN	m	Well, they are kind of my parents. They raised me. I lost both of my parents in a car accident... please step on it!
+CABBIE	m	Step on it... so now you want to kill yourself in another accident... not with me, Boychick.
+SPIDER-MAN	m	But I'm telling you... I've got this--
+CABBIE	m	... tingling... I know. And I got ulcers... Everybody's got something to worry about.
+SPIDER-MAN	m	Please... Faster... Please.
+CABBIE	m	Okay, you asked for it.
+AUNT MAY	f	What's that?
+BEN	m	What? It's nothing... go back to sleep... Oh, I'll go look. Go back to sleep.
+WEINER	m	Hmmm...
+CABBIE	m	Some crazy kinda town, huh? You hear about that hold-up? The guy with the six arms? Hey, I see it all on this job. What kinda outfit is that, anyway?
+SPIDER-MAN	m	Look, I'm really in a hurry.
+CABBIE	m	You said the magic words, we have a flat Boychick.
+BEN	m	Mice...
+CABBIE	m	Hey! You wanna hand me that lug wrench?
+CABBIE	m	Some crazy kinda town...
+SPIDER-MAN	m	Sporting goods...
+WEINER	m	All I want it the kid's computer crap!
+BEN	m	Let go before I blow your brain's out.
+BEN	m	Let go!
+WEINER	m	You let go!
+PETER	m	Uncle Ben!
+BEN	m	Peter...
+PETER	m	Oh my God... Uncle Ben...
+AUNT MAY	f	Ben gets through everything. He'll be alright. The doctors are...
+DETECTIVE	m	Excuse me. You the nephew?
+DETECTIVE	m	Your uncle's a brave man. Apparently, the perpetrator was after something of yours. Your uncle didn't know what it was but he stood up to him anyway. You ought to be proud of him.
+PETER	m	I am... how is he...
+DETECTIVE	m	Ask the Doctor.
+AUNT MAY	f	How's my... how's my husband doing...?
+DOCTOR	m	Mrs. Parker, I'm sorry. We tried.
+DOCTOR	m	Crash cart! STAT!
+DETECTIVE	m	Let the medics handle it. Look, if it makes you feel any better. We're gonna nail this guy. He crashed his getaway car. We got him trapped in a warehouse on Jackson.
+NURSE	f	She's alright. She just fainted. We'll have to check her for symptoms of shock. If you want to wait, you can get some coffee on the third floor.
+PETER	m	No, I... I think I wanna go out for some fresh air.
+COP #1	m	That place is loaded with solvents and chemicals. If we blast our way in, it's gonna go up like a roman candle.
+COP #2	m	We could go in through the fifth floor wash room.
+COP #1	m	What's that up there? Throw a light on that!
+COP #1	m	He's got a partner!
+COP #2	m	We got an accomplice up there! And we got a clear shot. Do we have a go?
+RADIO	m	That's a go.
+SPIDER-MAN	m	Say your prayers, Weiner!
+WEINER	m	You ain't takin' me... Spider-Man... who ever you are...
+SPIDER-MAN	m	Hey, creep!
+SPIDER-MAN	m	Try again.
+COP	m	This is your last chance, you two. Either you're coming out, or we're coming in!
+WEINER	m	Stay back! Whoa... stay back down there!
+WEINER	m	Stand up, you.
+COP	m	You have thirty seconds to come out!
+WEINER	m	You're my ticket outa here. Gimme that stupid mask!
+WEINER	m	Then I'll take it myself.
+SPIDER-MAN	m	Well, look what we've caught in our web...
+WEINER	m	Don't hurt me, man. Please don't hurt me...
+COP #1	m	Hold your fire!
+WEINER	m	Get me out of this madhouse!
+OCK	m	Okey, dokey.
+OCK	m	Amperage, okay. Flux, 14. Negative variable differential... good enough.
+OCK	m	Okey, dokey... now all I need is Parker's data. Where the hell is Weiner? Damn it... I can't trust anybody. Only you, my babies... only you can I trust... Okay... If I have to do everything myself... I'm going to do it. I'll be back... my babies... my new babies!
+LIZ	f	Hey, Peter! Are you finished with my computer yet? I got a paper too, you know...
+PETER	m	Oh my God... oh, it's you, Liz... I didn't expect you... uh... give me a minute.
+PETER	m	Hi, Liz. Come on in.
+LIZ	f	What were you doing in here?
+PETER	m	Cleaning up. Come on. I'll get your computer. Where's Flash parked?
+LIZ	f	Flash didn't come.
+PETER	m	Oh. Well... how are you going to get it home?
+LIZ	f	Taxi... I guess.
+LIZ	f	You must spend a lot of time with this Spider-Man guy... Peter! Don't you think you ought to unplug that!
+PETER	m	I, uh, I'll go down to the corner... see it I can hail that taxi.
+LIZ	f	Peter...?
+LIZ	f	Doctor Octavius...! You're... You're... You're so weird!... with those... what do you call those...
+OCK	m	Waldos... Did you hear about Spider-Man? That's me... the real Spider-Man... now tell me, where is that jerky friend of yours... Parker?
+LIZ	f	Peter?... oh... he's not here. He's gone. I don't think he'll be back for awhile.
+OCK	m	You wouldn't lie to your Professor now, would you?
+LIZ	f	Of course not. Why would I lie about a thing like that? Really. He's... out.
+OCK	m	We'll wait. OCK grabs LIZ'S HAIR with his WALDOS.
+LIZ	f	What are you doing... let me go! Please... take those things out of my hair!
+OCK	m	My Waldos, you mean.
+LIZ	f	Whatever you call them... please...
+OCK	m	Sit.
+OCK	m	He's a nice boy. A little nerdy maybe, but nice, wouldn't you say?
+LIZ	f	Oh, I don't know. Maybe. He's very inexperienced.
+OCK	m	You know, you're a fascinating young lady...
+LIZ	f	Thank you...
+OCK	m	You're so refreshing. You're so...
+LIZ	f	Shocking...?
+OCK	m	Oh, I wouldn't say shocking...
+LIZ	f	I would!
+LIZ	f	Peter...!
+PETER	m	Wait here...
+PETER	m	Liz?
+LIZ	f	Peter! Help! Peter!
+OCK	m	Peter Parker has something I want... And I'm going to have something he wants.
+SPIDER-MAN	m	Put her down, Ock.
+SPIDER-MAN	m	I know what's happening to you, Ock. I've been through a lot of changes myself lately. You have to listen to me.
+OCK	m	Who the hell are you?
+SPIDER-MAN	m	Spider-Man.
+LIZ	f	Spider-Man...
+OCK	m	That's a lot of crap, clown... I am Spider-Man, not you. Ask you girlfriend. Tell him!
+SPIDER-MAN	m	I'm a good friend of Peter Parker's Ock. Just like that girl you're holding. Now let her go.
+OCK	m	Let her go? What an excellent idea. If you do not deliver your friend, Mr. Spider-Man, yes. Yes, of course, I'll let her go.
+LIZ	f	Put me down, you mechanical mutant!
+LIZ	f	You jerk!
+LIZ	f	Tell your friend Peter next time I'll get the taxi myself...
+OCK	m	Hey... you jerk... you phony Spider-Man... Prepare to meet your death, bug.
+SPIDER-MAN	m	Actually, I'm rather fond of living... especially now...
+SPIDER-MAN	m	Octavius. Just stop and think.
+OCK	m	I am thinking, insect. I'm thinking about exterminating you!
+SPIDER-MAN	m	Okay, if that's the way you want it... Let's see what those chrome knuckles can do, Doc...
+LIZ	f	Great...
+OCK	m	Now I must kill you, you cretinous clown.
+OCK	m	Once I dispose of you, Spider-Man, no one will be able to stop me.
+SPIDER-MAN	m	Stop you from what...?
+OCK	m	My destiny!
+SPIDER-MAN	m	Over here, Octopus!
+OCK	m	That's Professor Octopus to you Spider Jerk!
+SPIDER-MAN	m	Give it up, Professor. You'll never catch me!
+SPIDER-MAN	m	So long, sucker.
+COP #1	m	There he is!
+COP #2	m	It's that Spider-Man!
+LIZ	f	What do you think you're doing?
+SPIDER-MAN	m	I'm rescuing you.
+LIZ	f	Thanks but nooooooooooo!
+COP #2	m	He won't get away this time!
+COP #1	m	Hold your fire! He's got a girl.
+COP #2	m	Looks like he's got a hostage.
+LIZ	f	Wait a minute. Where are you taking me? SPIDEY hounded by the Police, rejected by the girl.
+SPIDER-MAN	m	I better just take you back where you belong.
+SPIDER-MAN	m	Hold on tight.
+LIZ	f	Where are we?
+SPIDER-MAN	m	Open your eyes.
+LIZ	f	If you're trying to impress me Spidey, I want you to know I'm not easy. Okay, I'm impressed... now put me down, Spidey... put me down.
+SPIDER-MAN	m	I like the way you say Spidey... Nobody calls me Spidey... now we go...
+LIZ	f	Wow... look, this is our dormitory. I can get to my room. Hey, wait a minute... there's Flash, if I'm not mistaken.
+SPIDER-MAN	m	Liz?
+LIZ	f	You know my name?
+SPIDER-MAN	m	Liz, listen to me. There's something I have to tell you.
+LIZ	f	Okay, put me down and we can talk, alright?
+SPIDER-MAN	m	Do you know who I am?
+LIZ	f	All I know is you're the Amazing Spider-Man... or better you're Spidey the good guy on the block... you're a weirdo in a clown spider suit.
+SPIDER-MAN	m	And that's all you know about me? Okay, lets get your boyfriend.
+LIZ	f	Which one?
+SPIDER-MAN	m	How many do you have? I meant Flash.
+LIZ	f	Well, Flash is not exactly my boyfriend...
+SPIDER-MAN	m	He's not? Then who is?
+LIZ	f	There's someone I like, but he's too shy to notice.
+SPIDER-MAN	m	Flash!
+FLASH	m	Liz!
+LIZ	f	You know everybody... Flash we have to call Peter!
+FLASH	m	Hey, they won't let up, man! They keep calling you an accomplice in that burglary murder. But that's a crock, ain't it? I'm with you, Spidey, 100%
+SPIDER-MAN	m	Thanks.
+FLASH	m	By the way, what are you doing with... Liz?
+SPIDER-MAN	m	She needed a lift.
+FLASH	m	Oh... okay! This calls for a beer! A lot of beer!
+SPIDER-MAN	m	Thanks, but I have some business to take care of.
+FLASH	m	Well... take care of that later. Wait here. I'll get the beer.
+LIZ	f	How'd you know this was Flash's place?
+SPIDER-MAN	m	Peter Parker told me all about it.
+LIZ	f	Peter told you all about Flash?
+SPIDER-MAN	m	No... he told me all about you. See you later.
+FLASH	m	Hey, where'd he go? Hey, Spider-Man!!
+LIZ	f	Peter told your Hero all about me...
+FLASH	m	He would, wouldn't he... that jerk!
+PETER	m	Octavius!!!
+PETER	m	Kim! Have you seen Harry?
+KIM	?	Sure, lots of times. What a brainiac...
+PETER	m	Yeah... have you seen him today?
+KIM	?	No, un unh.
+LIZ	f	Peter...!
+PETER	m	Hi... have you seen Harry?
+LIZ	f	No. What a night, huh?
+PETER	m	Yeah, that was some ride home... must have been pretty exciting.
+LIZ	f	It was... okay. Look, I got two tickets to Les Miserables... wanna go?
+PETER	m	Sorry... I'm really busy... I mean, not tonight... see you later.
+LIZ	f	Hey, Peter... how did you know about last night...?
+PETER	m	What about last night?
+LIZ	f	My exciting ride with Spider-Man...
+PETER	m	Oh... Sorry... I gotta hurry... I have to find Harry... I'll see you later.
+LIZ	f	Peter!
+PETER	m	Hey! Can I get a lift downtown?
+FLASH	m	Take your shoes for a walk, Dork.
+OCK	m	We are new inserting Peter Parker's data on tonight's Planetary Conjunction.
+OCK	m	Yes, yes! Go on! Go on!
+OCK	m	Enormous. It's enormous. The Parker calculations add 4% gravitational force at the moment of full Planetary Conjunction. Adding this to present maximum power potential, I get...
+OCK	m	I knew it. I knew it! Universal destruction! It's doable! I am putting a countdown clock on the Planetary Conjunction now!
+OCK	m	Okey, dokey. Now let's see if I have enough power to drive this beast.
+PETER	m	I gotta remember to have that fixed. There you are, I've been looking for you all over town.
+HARRY	m	What happened?
+PETER	m	Where were you?
+HARRY	m	I went to the wrestling, wanted to see that Amazing Spider-Man, but he didn't show up.
+PETER	m	Listen, Harry something terrible happened.
+HARRY	m	What? What?
+PETER	m	My Planetary Conjunction papers... they were stolen...
+HARRY	m	Oh my God... Are you sure...? Who would do such a thing?
+PETER	m	Ock...
+HARRY	m	Of course... but why...?
+PETER	m	We have to find out, sit down. I want to access Dr. Octavius' main program. I want to know about his experiments with the cyclotron. Can you do it?
+HARRY	m	I can try. I could access the system in the dorm. Okay. And through that I could crack the main line.
+PETER	m	Alright. Now if we can just disrupt the Octavius file...
+HARRY	m	Okay, let's try.
+PETER	m	Yeah?
+JAMESON	m	Parker? Peter Parker? This is J. Jonah Jameson!
+PETER	m	Mr. Jameson, you got me at a bad time.
+JAMESON	m	I need pictures of your friend, the Amazing Spider-Man. But I need bad guy shots, you got it? Lots of bad guy shots. We're gonna pin that insect to the wall. Whaddaya say?
+JAMESON	m	What about that kid? On the job already?
+OCK	m	Fusion cells...? All up. Internal temperature... okay. Risk? Acceptable. Let's fly.
+HARRY	m	Got something!
+PETER	m	What is it?
+HARRY	m	Let me see. It's some kind of countdown clock.
+PETER	m	Countdown to what?
+HARRY	m	I don't know, but whatever it is, it's only six hours away.
+PETER	m	The Planetary Conjunction?
+HARRY	m	Could be...
+PETER	m	Or Doc Ock's end of the world experiment... Or both!
+HARRY	m	Wait a minute. You're not telling me you think the world is gonna end tonight...?
+PETER	m	You want to wait around till midnight to find out?
+HARRY	m	No, but...
+PETER	m	Let's see what else we've got.
+HARRY	m	What's that?
+PETER	m	It might be a calculation of the amount of power he needs to create the hole between the force and the anti-force.
+HARRY	m	That's a lot of energy. What could generate power like that?
+PETER	m	The closest you could come is the New York City Subway System.
+ROZ	f	Plutonium...
+GIRL	f	What's going on?
+WOMAN	f	Oh my God!
+MAN	m	Get back! Get back!
+WOMAN	f	Henry!!!
+WOMAN	f	What are you doing here? Get out of here! Get out of here!
+WOMAN	f	It's Spider-Man!
+TRUCK DRIVER #1	m	Get outa here, you bum!
+WOMAN	f	Hey, what are you talking about?!
+TRUCK DRIVER #2	m	What's the matter, lady don't you read the papers?
+MAN	m	Go Spidey! Go!
+SPIDER-MAN	m	Hello, everybody...
+SPIDER-MAN	m	Okay, everyone, stand back and stay cool.
+WOMAN	f	Is that the real Spider-Man?
+SPIDER-MAN	m	Somebody wanna give me a hand with this?
+SPIDER-MAN	m	On three. One... Two... Three!
+SPIDER-MAN	m	Have a nice evening, Ma'am... and you too, Henry.
+SPIDER-MAN	m	Okay, folks, just hang on...
+SPIDER-MAN	m	Okay, one at a time. You first, Ma'am...
+FIREMAN	m	Gimme more ladder! I need more ladder!
+ROZ	f	This is Doctor Otto Octavius' work. I must get back to my university. I must stop Ock... he's gone crazy. Can you help me?
+SPIDER-MAN	m	Sure thing, just don't take the train. Come on... give me your hand.
+ROZ	f	Spider-Man! Listen to me! If he can do this with the train, if he's come this far, then I can pretty well predict his next step. He'll go to Plutonium SL 270 for the power. He must be stopped... or else he'll destroy our world.
+SPIDER-MAN	m	Let's get you out of here first, Professor.
+ROZ	f	Wait Spider-Man. I don't think I can make it... You mustn't waste time saving me... you must save the world! You must go and stop Ock!
+SPIDER-MAN	m	Where can I find him...?
+ROZ	f	He is looking for Plutonium SL 270 I'm sure...
+SPIDER-MAN	m	Think Rosomorf, think where one can find Plutonium? Where could he find SL 270...?
+ROZ	f	There's only one place he can get the Plutonium SL 270...
+SPIDER-MAN	m	Where...?
+ROZ	f	Toxic... toxic dump... any toxic dump would have SL 270.
+COP	m	Put your hands up, Spider-Man.
+SPIDER-MAN	m	You're making a big mistake.
+COP	m	And you're looking at twenty years.
+COP	m	What the hell!
+SPIDER-MAN	m	Must go on... must find Ock... SL 270 Plutonium... must get that crazy old loony... before he gets to the Plutonium... toxic dump... where are the toxic dumps...?
+AUNT MAY	f	You're as lovely as Peter said you were.
+LIZ	f	Thank you. He really wanted so badly to come see you. He called me up out of the blue.
+AUNT MAY	f	Tell me about Peter. What's he been up to? He seems so preoccupied.
+LIZ	f	Oh, you know Peter... he's all caught up in some kind of study he's doing. Things are really crazy at the university now. Things are crazy... everywhere. I guess Peter's just... well, you know... pulled into his shell.
+AUNT MAY	f	When Peter was little, he loved to hide. In the closets. Under the sink. He always needed a secret place. But when I'd look for him, he'd always laugh... he wanted to be found.
+LIZ	f	Yeah... well. I don't think he wants me to find him... Well, I'd better be going. My friend Flash is picking me up.
+AUNT MAY	f	This Flash... he isn't your boyfriend, is he?
+LIZ	f	No... not really... I think you can guess why...
+AUNT MAY	f	Elizabeth...? She turns.
+AUNT MAY	f	Finders keepers, losers weepers.
+LIZ	f	What?
+AUNT MAY	f	That's what I used to say to Peter when I found him.
+SPIDER-MAN	m	Got to find Ock... got to find the toxic dumps. Oh! Oh! Oh... yeah!
+SPIDER-MAN	m	What's up, Ock?
+OCK	m	You!!!
+OCK	m	You're a doomed bug, Wall Crawler. I've no time to waste on you now.
+FEMALE COP	f	Alright! Freeze! Up against the wall and spread 'em
+SPIDER-MAN	m	Hey, you big OCK, why don't you pick on someone your own size?!
+OCK	m	Alright Spider-Bug... here I've come for you...
+SPIDER-MAN	m	Hey, driver. Could you follow that red Vette for me?
+SPIDER-MAN	m	Flash Thompson... I never thought I'd be happy to see you.
+SPIDER-MAN	m	Sorry about that!
+FLASH	m	Spider-man! This is unbelievable...!
+SPIDER-MAN	m	Flash, I need your help.
+FLASH	m	You got it.
+SPIDER-MAN	m	You any good with this thing?
+FLASH	m	I'm the best.
+SPIDER-MAN	m	Okay... catch that Vette!
+FLASH	m	Roger, wilco, over and out.
+FLASH	m	Why is he going to New Jersey, and who is it in that shitty red car...
+LIZ	f	Don't you recognize him... it's Ock!
+SPIDER-MAN	m	New Jersey has the largest toxic waste dump in the world.
+FLASH	m	What does he want with toxic waste?
+SPIDER-MAN	m	He's looking for Plutonium, my dear... The car has to slow down... it's in a traffic jam.
+FLASH	m	Sorry... can't do anything about this traffic.
+SPIDER-MAN	m	Try to stay with me. I don't want to lose him!
+SPIDER-MAN	m	Bingo.
+OCK	m	Okey, dokey...
+SPIDER-MAN	m	Open that now, and you'll spoil Christmas.
+OCK	m	Insect! I am going to squash you to death... Once I lay my Waldos on your skinny bones...
+OCK	m	Goodbye, Spider-Man!
+SPIDER-MAN	m	Noooooooooooooo!
+SPIDER-MAN	m	Okay now, Spidey. Easy does it.
+SPIDER-MAN	m	Don't give up, Spidey. Don't give up.
+SPIDER-MAN	m	Empty... now what do I do?
+OCK	m	So you've avoided the nuclear pool, have you, Spider-Man?
+SPIDER-MAN	m	Well, so far so good. But I can't hold on much longer.
+OCK	m	Pity...!
+SPIDER-MAN	m	Oh, come on, Ock, be a good sport. Let's talk this over face to face... throw me a line...
+OCK	m	Okay... face to face... Catch this!
+FLASH	m	Don't do it, Professor!
+OCK	m	I know you... and you, young lady. Both of you are in my physic class, aren't you...? Come... you can help me. I need to get some of these drums to my laboratory... help me... and I'll give you special grades. What'd you say?
+LIZ	f	Leave him alone!!!
+ROZ	f	Leave them alone Otto!
+OCK	m	But, they won't help me. Everybody is trying to destroy my experiment. And so are you, Rosomorf.
+ROZ	f	Otto... I was wrong. I've gone over your research. It's brilliant, Otto. It's mad, but it's brilliant. You have much work left to do. I want to help you, Otto. For the sake of science, go and do your experiment. Leave... these kids alone and I'll help you.
+OCK	m	You will? You too?
+OCK	m	Help me with these drums, I need to get them to my laboratory immediately.
+ROZ	f	Do as he says.
+OCK	m	Drive, Flash, before I flush your girl right down the toilet!
+SPIDER-MAN	m	Professor Rosomorf, it's no good, double dealing... why did you help him...?
+ROZ	f	Don't lose your energy screaming. Catch this rope and climb up, come on!
+ROZ	f	I've been through the Octavius data. He has enough power with his Plutonium. Especially if he gets his hands on Parker's data, there he has enough power to do what he wants to do. And we are not going to stop him in time before the Planetary Conjunction occurs tonight...
+SPIDER-MAN	m	Stop the car. I have an idea.
+SPIDER-MAN	m	Do you have a dime?
+PETER	m	Harry?!
+HARRY	m	Peter, where are you?
+SPIDER-MAN	m	Listen, Harry. You must get my paper before Ock uses it...
+HARRY	m	Your Planetary Conjunction data? It's too late... Ock's got your paper, it's in his computer already.
+HARRY	m	But don't worry... he can never use it without Plutonium.
+SPIDER-MAN	m	He's got the Plutonium, and he's on his way back to the lab! And he's got two prisoners with him... Liz and Flash!
+HARRY	m	Don't worry... he needs a huge amount of power... thousands of volts of electricity... to get to the Anti-Force.
+SPIDER-MAN	m	He can get to the power. Electrical power... to the max. Nuclear power... SL 270. And now, at the moment of full Planetary Conjunction. When all the planets line up with the sun... maximum gravitational power. The Conjunction is Ock's final power source.
+HARRY	m	Damn... the Conjunction is due at midnight! What are we going to do?
+OCK	m	Okey, dokey... have fun, young ones... for the last time.
+LIZ	f	What do we do now?
+FLASH	m	We kiss the world goodbye. If he is right, all there is left to do is...
+LIZ	f	Wait... I think I can release my right hand...
+HARRY	m	How much time is left? Wait... I can find out... my God... 59 minutes!
+SPIDER-MAN	m	The only way we can interfere with Ock's plan is to find a computer center... fast.
+HARRY	m	Our University has the biggest center in town.
+SPIDER-MAN	m	Yeah, but who's gonna work 'em?
+HARRY	m	I think I can get some help... I can teach anyone how to work a code in five minutes.
+SPIDER-MAN	m	Then do it!
+KIM	?	Hey, this is easy.
+FLASH	m	Hey, Harry I need help.
+HARRY	m	Coming!
+KIM	?	I got one! I got one!
+LIZ	f	Harry! Get over here!
+HARRY	m	A goddamn water leak...
+FLASH	m	Hey, look at this. Empire State University. This is our cyclotron, right?
+HARRY	m	What does it say?
+FLASH	m	It says "no information on net."
+HARRY	m	Damn... we can't do it...
+KIM	?	You mean... we can't stop loony Ock...
+HARRY	m	I mean the world is in danger...
+FLASH	m	We must find Peter, he knows these computers better than all of us.
+HARRY	m	Yes, but where the hell is he?
+LIZ	f	I bet he is with Spider-Man...
+LIZ	f	Look at the moon... I have never seen it so big.
+FLASH	m	What is that...
+HARRY	m	Must be the sun.
+SPIDER-MAN	m	It's started. Step on it Professor, or we'll never make it.
+ROZ	f	Our campus... right there... see those beams from Ock's lab. We're late... it's coming... the Conjunction will happen in a few seconds.
+SPIDER-MAN	m	Stop the car...! Come with me.
+ROZ	f	Where...? What...?
+OCK	m	Aha! You never included the Conjunction in your calculations, did you?! Rosomorf!
+ROZ	f	Damn the calculations! My God, Otto, you have to hear me! The world we know will collapse! Everything we have devoted our lives to... all the patterns, all the harmonies... everything will be destroyed.
+OCK	m	A new world waits! Rosomorf! It is my destiny!!!
+ROZ	f	It is cosmic suicide! You have no right!
+ROZ	f	You have to stop him... Spider-Man you have to stop him.
+SPIDER-MAN	m	I'm afraid we're too late.
+LIZ	f	He's in there. I know Peter is in there. She breaks into a run.
+FLASH	m	Liz, don't... Liz come back... come back! LIZ runs inside. They run after her. A BOLT OF ELECTRICITY flashes across the doorway, stopping them.
+OCK	m	Okey, dokey!! My energy storm has started. My Anti-Force is on! History is being made... Spider-Man, Rosomorf cheer up friends... we're on our way to the unknown cosmos... we three are about to visit heaven... real Gods heaven.
+ROZ	f	Spider-Man! The Conjunction! It's happening!
+LIZ	f	Peter! Peter, where are you?!
+FLASH	m	Liz! Liz come on out!
+HARRY	m	Get back! Flash... get back!
+FLASH	m	Wow...!
+LIZ	f	Peter!
+FLASH	m	Oh my God... Liz is inside there!
+HARRY	m	And Professor Rosomorf and crazy Ock.
+FLASH	m	What about Peter? Is he there with them?
+HARRY	m	No, but I bet Spider-Man is.
+MAX	m	That's some show... if ever I saw one.
+JAMESON	m	Tear out the front page! Change the headline... The biggest news is happening right now... we need photos... a camera... get me a camera...!
+ROZ	f	Where is it going Otto?
+OCK	m	Other worlds, Roz, other times, other dimensions, who knows? Who cares?
+ROZ	f	Then... why?
+OCK	m	Truth, Rosomorf. Look at it! The new truth! The new way!
+SPIDER-MAN	m	Don't listen to him Professor Roz.
+OCK	m	No, you don't listen to that clown, he can't save you, or the world for that matter.
+OCK	m	Once and for all, Spider-Man... once and for all we'll end the legend of your powers.
+OCK	m	You!! You were my teacher!!!
+OCK	m	You were my teacher! And you want to destroy my experiment. You are a scientist for heaven sake... don't you want to know what's up there?
+ROZ	f	Yes, but not on account of our world. We have only one world... only one life. The floor begins to craze and then crack like ice around a hole on a pond. BANG! BANG! SPIDEY comes to just as the section of floor beneath himself and ROZ gives way and falls through.
+ROZ	f	Spider-Man! Only you can save us now...
+SPIDER-MAN	m	Roz!!! Murderer!!!
+OCK	m	Forget that old fool, insect. My Spider-Man... Come join me on my fantastic voyage to the 7th heaven.
+LIZ	f	Peter! Peter!
+SPIDER-MAN	m	Let's have it, old boy! A bizarre DUEL takes place. The CENTER pitches this way and that. SPIDEY and OCK move from foothold to foothold, from WINDOW to LEDGE to PARAPET.
+SPIDER-MAN	m	Liz!! OCK seizes the opportunity to whack SPIDEY across the head. SPIDEY loses his footing but the building now lurches back and LIZ goes flying back inside. SPIDEY ducks inside too and pulls the GRATE.
+SPIDER-MAN	m	Come on.
+LIZ	f	Where's Peter? He must be here somewhere.
+SPIDER-MAN	m	He's around, don't worry... we'll find him.
+LIZ	f	This building is flying. I'm in a goddamn flying building...
+SPIDER-MAN	m	I think we have to pull some of these cables. Try those over there. I'll work on these. We gotta slow this thing down somehow. We got helicopters coming.
+SPIDER-MAN	m	Pull!
+LIZ	f	Oh my God...
+SPIDER-MAN	m	The power!
+OCK	m	Spider-Man. You're end is coming. Life in its present form is ending... new dimensions, new horizons...
+LIZ	f	What is happening?
+SPIDER-MAN	m	I don't know!!!
+LIZ	f	I can't... hold on!
+SPIDER-MAN	m	Hold tight, Liz, hold tight!
+OCK	m	You cut my power... there's too little power... It's so tiny... so tiny... there's only space... for me. But I've done it, Spider-Man. I have broken through... I've broken through!
+LIZ	f	Don't do it, Dr. Octavius!
+OCK	m	Okey... dokey... Now that's what I call an experiment!!!
+SPIDER-MAN	m	I can't control her. She's dropping too fast! Alright... let's go!
+LIZ	f	But what about Peter? We've got to find Peter!
+SPIDER-MAN	m	Peter will be okay, I promise you... Let's go before it's too late.
+LIZ	f	Go where?
+SPIDER-MAN	m	Maybe there's another way...
+LIZ	f	It's breaking apart!
+SPIDER-MAN	m	Alright, keep moving, a step at a time!
+LIZ	f	We have to go back.
+SPIDER-MAN	m	We can't go back.
+LIZ	f	Forget it...
+SPIDER-MAN	m	Okay, have it your way.
+LIZ	f	What am I supposed to do with this!
+SPIDER-MAN	m	Go ahead. It's easier than it looks! We've got to try the fire escape.
+LIZ	f	The door is stuck.
+PETER	m	Liz, Up here!
+PETER	m	Come on. I've found a way down.
+LIZ	f	I knew you were going to say that.
+LIZ	f	Where's the way out?
+PETER	m	Right there!
+PETER	m	Come on, help me with this.
+PETER	m	Okay, stand still.
+LIZ	f	Is this going to work?
+PETER	m	How do I know?
+LIZ	f	I just adore confidence in a man.
+PETER	m	Come on...
+LIZ	f	What is it you say when you jump?
+PETER	m	Your prayers.
+LIZ	f	We have a lot to thank your friend Spider-Man for.
+PETER	m	Somehow, I don't think we've seen the last of him.
+LIZ	f	Peter...! Finders, keepers...
+PETER	m	What...? What is it? Why do you look like that?
+LIZ	f	I think I'm in love.
+PETER	m	You are...
+LIZ	f	With your friend...
+PETER	m	Spider-Man? You're in love with Spider-Man?
+LIZ	f	I am... you think we'll see him again?
+PETER	m	We might... you never know. He kisses her.
+LIZ	f	Oh. This may be the end of a beautiful friendship you know?
+PETER	m	Nah.
+

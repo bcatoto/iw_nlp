@@ -1,0 +1,761 @@
+DRIVER	m	Goddamn bugs.
+DRIVER	m	Deja me hablar.
+AGENT JANUS	m	Well. Nick the Dick. What a surprise. Where you comin' from?
+DRIVER	m	I was fishing in Cuernavaca.
+AGENT JANUS	m	Sure you were. What do you say we have a look at your catch?
+AGENT JANUS	m	Me, I woulda thrown 'em back. Vamanos. Fuera. Hagan una lina!
+AGENT JANUS	m	What do you get, Nick? Hundred bucks a head?  Two hundred? I hope you saved it all for your lawyer, pal, 'cause you're gonna need --
+KAY	?	We'll take it from here.
+AGENT JANUS	m	Who the hell are you?
+KAY	?	INS Division 6.
+AGENT JANUS	m	Division 6? I never heard of Division 6.
+KAY	?	Really?
+KAY	?	What're we thinking, Dee?
+DEE	?	Tough call, Kay.
+KAY	?	!Oye! Que pasa, coma estas? Hey! No se preocupe, abuela. Bienvenida a los Estados Unidos. A donde vas? San Antonio? Buscando trabajo, no? Buena suerta. Es un placer verle aqui.
+KAY	?	Que dices si te rompo la cara?
+KAY	?	No hablas ni una palabra del Espanol, verdad, amigo?
+KAY	?	We got a winner. Los restos estan libres a irse. Largense!
+AGENT JANUS	m	Sir!
+KAY	?	Tomen el camion, y vayeuse.
+AGENT JANUS	m	Sir, you can't just --
+KAY	?	Don't "Sir" me! You have no idea who you're dealing with!
+KAY	?	We're gonna have a little chat with our friend here. You boys can hit the road ... and keep on protecting us from dangerous aliens.
+AGENT JANUS	m	You ever heard of Division 6?
+2ND INS AGENT	f	There is no Division 6.
+3RD INS AGENT	f	Who are those guys?
+KAY	?	I think you jumped off the bus in the wrong part of town, amigo. In fact, I'll bet dollars to pesos that you're not --
+KAY	?	-- from anywhere near here.
+KAY	?	Mikey?! When did they let you out of jail?
+KAY	?	Political refugee. Right.
+DEE	?	You know how many treaty articles you've just violated?
+KAY	?	One, my ass. Try seven.
+DEE	?	From unauthorized immigration to failure to properly inoculate prior to landing.
+KAY	?	Okay, that's enough. Hand me your head and put up your arms.
+KAY	?	Ah, shit.
+KAY	?	Dee! Shoot him!
+KAY	?	Dee, for Christ's --
+AGENT JANUS	m	Th -- th -- th --
+KAY	?	"That."
+AGENT JANUS	m	That wasn't -- wasn't -- wasn't --
+KAY	?	Human, I know. Oops. Got some entrails on you.
+KAY	?	Okay, everybody, situation's under control, calm down. If you'll just give me your attention for a moment I'll tell you what happened.
+KAY	?	This is called a "neuralyzer." A gift from some friends from out of town. The red eye here isolates and measures the electronic impulses in your brain. More specifically, the ones for memory.
+KAY	?	Gimme a splay burn on the perimeter, please; holes at 40, 60, and 80.
+2ND INS AGENT	f	What in the hell is going on?!
+KAY	?	Exactly the right question. And the answer lies right -- here. Pay attention.
+JANUS	m	Who are you, really?
+KAY	?	Really? I'm just a figment of your imagination.
+KAY	?	God, we're a gullible breed.
+KAY	?	I mean it, fellas, you are lucky to be alive after a blast like that.
+AGENT JANUS	m	What -- blast?
+KAY	?	Underground gas vein, genius. You guys need to exercise more caution before discharging your firearms.
+KAY	?	Especially you.
+DEE	?	I'm sorry. About...back there.
+KAY	?	Happens.
+DEE	?	Didn't used to.
+DEE	?	The spirit's willing, Kay, but the rest of me...
+DEE	?	They're beautiful, aren't they?
+KAY	?	What?
+DEE	?	The stars. We never just -- look. Anymore. I'll tell ya, Kay. I will miss the chase.
+KAY	?	No. You won't.
+EDWARDS	m	Stop! NYPD!
+COP	m	All yours, Edwards!
+EDWARDS	m	Grand Central Station off to your left, folks...
+EDWARDS	m	Dammit, man, you're making me sweat up my gear!
+EDWARDS	m	Yo, man, your luck just ran out.
+PERP	?	He's coming! He's coming!
+EDWARDS	m	And when he gets here, I'll kick his ass too.
+EDWARDS	m	What the...
+EDWARDS	m	Wassup?
+PERP	?	He's coming! He's coming because I failed, and now he'll kill me too!
+EDWARDS	m	Stop!
+PERP	?	You don't understand. Your world is gonna end.
+EDWARDS	m	What are you?!
+INSPECTOR	m	Perpetrator then blinked two sets of eyelids. You mean blinked with both eyes?
+EDWARDS	m	No, sir. He blinked once with one set, then again with another completely different set.
+SERGEANT	m	Sort of a low beam, high beam.
+INSPECTOR	m	Was that before or after he drew the weapon which you claim evaporated into a million pieces?
+EDWARDS	m	After, sir.
+INSPECTOR	m	And why do you suppose none of the other officers saw either of these two events?
+EDWARDS	m	'Cause some of the other officers are a little soggy in the midsection. And they couldn't keep up, sir.
+SERGEANT	m	Hey, Edwards, if you were half the man I am --
+EDWARDS	m	What do you mean? I am half the man you are.
+SERGEANT	m	What the hell is your problem?
+EDWARDS	m	My problem is you being all up in my damn face all the time.
+SERGEANT	m	I think he threw him off the roof. Ten minutes -- your best shot.
+INSPECTOR	m	Sergeant. I want to talk to you outside. Now.
+EDWARDS	m	You need ten minutes on a Stairmaster, you pudgy bastard.
+LAUREL	f	Laurel Weaver. Deputy Medical Examiner. I believe you. I opened him up. Find me at the morgue. On 26th. I'll tell you what I found.
+EDWARDS	m	Hey...Wait a minute. Wait a minute.
+LAUREL	f	You have really pretty eyes.
+VOICE	m	Dr. Weaver, from the coroner's office? Working on the John Doe?
+LAUREL	f	Yes. That's right.
+VOICE	m	Would you look right here, please.
+LAUREL	f	Look where?
+KAY	?	Some night, huh?
+EDWARDS	m	Oh, yeah, some night.
+KAY	?	They were gills.
+KAY	?	Not eyelids.
+EDWARDS	m	Who are you?
+KAY	?	Did he say anything to you?
+EDWARDS	m	Yeah, sure. He said the world was coming to an end.
+KAY	?	Did he say when?
+EDWARDS	m	You're kidding, right?
+KAY	?	Would you recognize his weapon if you saw it again?
+EDWARDS	m	Absolutely.
+KAY	?	Let's take a ride.
+EDWARDS	m	Wait a minute. I got a ton of paperwork.
+KAY	?	It's all done.
+INSPECTOR	m	Good work, Edwards.
+KAY	?	You ran that guy down on foot? That's tough. That's double tough.
+EDWARDS	m	So who you with?
+EDWARDS	m	You got the plain clothes, the government-issued wheels. Secret Service?
+EDWARDS	m	Yeah, well, whoever it is, you're short on funding.
+KAY	?	Nothing is what it seems, kid.
+EDWARDS	m	Oh, yeah, my bad '86 Ford LTD. That's a luxury ride. C'mon, who ya with?
+KAY	?	I'm part of a secret organization that monitors and polices alien activity on earth.
+EDWARDS	m	This is where we're going?
+EDWARDS	m	Jack Jeebs? Guy buys from chain snatchers. Doesn't even sell guns.
+KAY	?	Really?
+EDWARDS	m	All right, you think it's worth shaking him up, fine. I'll do my thing. Then I want some answers.
+KAY	?	Do your "thing," kid.  Edwards goes inside.
+JEEBS	m	Officer Edwards. Oh, hey, geez, how'd these get here? I thought I turned 'em in to the proper authorities.
+EDWARDS	m	Way I hear it, Jeebs, you into something a little hotter than some stolen Rolexes.
+JEEBS	m	Sure -- I'm a big crack dealer now. I just work here because I love the hours.
+EDWARDS	m	I'm talking about guns, Jeebs. High-tech stuff.
+JEEBS	m	C'mon, Edwards, whatcha see is what I got.
+KAY	?	Why don't you show him the imports, Jeebs.
+JEEBS	m	H-hiya Kay, how are you?
+KAY	?	The imports, Jeebs. Now.
+JEEBS	m	You know I got outta that business a long time ago, Kay.
+KAY	?	Why do you lie to me? I hate it when you lie.
+JEEBS	m	Whoa, whoa, Kay, hold on a minute here...
+KAY	?	I'm going to count to three.
+EDWARDS	m	He'll do it, Jeebs.
+KAY	?	One.
+EDWARDS	m	I've seen him do it.
+KAY	?	Two.
+EDWARDS	m	Talk to me, Jeebs, he's crazy when he's like this.
+JEEBS	m	He's always crazy. Take a cruise. Get a massage --
+KAY	?	Three.
+EDWARDS	m	Put down the gun and put your hands on the counter!
+KAY	?	I warned him.
+EDWARDS	m	Drop the weapon!
+KAY	?	You warned him.
+EDWARDS	m	You are under arrest. You have the right to remain silent.
+KAY	?	Will you relax?
+JEEBS	m	Don't do that.
+JEEBS	m	Do you know how much that hurts?
+KAY	?	Show us what you got, Jeebs. Or I'll use up another one.
+KAY	?	Edwards?
+EDWARDS	m	Uh, this. This is what I saw.
+KAY	?	You sold a carbonizer with implosion capacity to an unlicensed cephlapoid.
+JEEBS	m	He looked all right to me.
+KAY	?	A carbonizer is an assassin's weapon, Jeebs. Who was the target?
+JEEBS	m	I don't know.
+KAY	?	Jeebs!
+JEEBS	m	I don't know!
+KAY	?	This is all confiscated. All of it. I want you on the next transport off this rock. Or I'll shoot you where it doesn't grow back.
+EDWARDS	m	Yeah. I'll be by tomorrow for those Rolexes.
+EDWARDS	m	The eyelids, fine ... and the jumping thing ... and the gun ... okay, but the head?
+KAY	?	Searching for a handle on the moment here? A place to file all this.
+EDWARDS	m	See a head doesn't do that, it doesn't just grow back. What's going on?
+KAY	?	Can't help you, kid. Only comfort I can offer is that tomorrow, you won't remember a thing.
+EDWARDS	m	Oh, no. This I'm gonna remember for a long, long time.
+KAY	?	Ever see one of these?
+KAY	?	-- and the wife says yeah, Harry, I know, but this one's eating my popcorn!
+EDWARDS	m	Huh?
+KAY	?	Whoops. Gotta run. Thanks for the egg rolls.
+EDWARDS	m	Where am I?
+KAY	?	See what I mean about tequila? You're a bright young man, James. Just lay off the sauce. I'll see you tomorrow, nine a.m. sharp.
+WAITRESS	?	Another beer?
+EDWARDS	m	Coffee. Please.
+EDGAR	m	I go out, I work my butt off to make a living, all I want is to come home to a nice clean house with a nice fat steak on the table, but instead I get this -- this -- I don't even know what you call this!
+EDGAR	m	I'll tell you what it looks like, it looks like poison. Don't you take that away, I'm eating that, damn it! It is poison, isn't it?!
+EDGAR	m	I swear to God, I would not be surprised if it was, the way you skulk around here like a dog been hit too much -- or ain't been hit enough, I can't make up my mind.
+EDGAR	m	You're useless, Beatrice! The only thing that pulls its weight around here is my goddamn truck!
+EDGAR	m	Stay here!
+EDGAR	m	Figures.
+BEATRICE	f	What is it, Edgar?!
+EDGAR	m	Get your big butt back in that house!
+VOICE	m	Place projectile weapon on ground.
+EDGAR	m	You can have my gun when you pry it from my cold, dead fingers!
+VOICE	m	Your proposal is acceptable.
+BEATRICE	f	What on earth was it?!
+EDGAR	m	Sugar.
+BEATRICE	f	I've never seen sugar do that.
+EDGAR	m	Give me sugar.
+EDGAR	m	In water.
+EDGAR	m	More.
+BEATRICE	f	Edgar, your skin! It's -- it's -- just hanging off your bones!
+EDGAR	m	That better?
+GUARD	m	Help you?
+EDWARDS	m	Maybe, I'm not sure, see, I got this card --
+GUARD	m	Elevator. Push the "call" button.
+ZED	m	You're late. Sit down.
+ZED	m	My name is Zed. You're all here because you're the best of the best. Marines, Navy SEALS, Army Rangers...NYPD.
+ZED	m	And we're looking for one of you. Just one. What will follow is a series of simple tests designed to quantify motor skills, hand-eye coordination, concentration, stamina -- I see we have a question.
+EDWARDS	m	Why, uh -- I'm sorry, it's just no one really asked this, but -- why, exactly, are we doing this?
+ZED	m	Son?
+AMBITIOUS RECRUIT	m	Jake Jensen, West Point, graduate with honors. We're here because you're looking for the best of the best of the best, sir!
+ZED	m	What's so funny, Edwards?
+EDWARDS	m	I -- I don't know, sir. This guy. "Best of the best of the best of the best of the --" It just struck me as -- Humorous. Sir.
+ZED	m	Okay. Let's get going.
+EDWARDS	m	Anyone, uh...any of you guys know what we're doing here?
+MARINE	f	Looking for the best of the best of the best.
+EDWARDS	m	Well, yeah, I know, but...
+ZED	m	The hell happened?
+EDWARDS	m	Hesitated, sir.
+ZED	m	May I ask why you felt little Tiffany deserved to die?
+EDWARDS	m	She was the only one who actually seemed dangerous. At the time.
+ZED	m	And how did you come to that conclusion?
+EDWARDS	m	Hook-head guy. You explain to me how he can think with a hook for a head. Answer; it's not his head. His head is that butt-ugly bean-bag thing over there. 'Cause if you look at the snarling beast-guy, he's not snarling, he's sneezing -- he's got tissues in his hand. No threat there, and anyhow, the girl's books were way too advanced for an eight-year-old's. And besides, from where I'm looking, she was the only one who appeared to have a motive. And I don't appreciate your jumping down my throat about it.
+EDWARDS	m	Or, uh -- do I owe her an apology?
+ZED	m	He's got a real problem with authority.
+KAY	?	So do I. The guy ran down a cephlapoid, Zed. On foot. Tenacity. That I can use.
+ZED	m	I hope you know what you're doing.
+ZED	m	Congratulations, you're everything we've come to expect from years of government training. Now, if you'll just follow me, we have one more test to administer, an eye exam.
+EDWARDS	m	You! Hey, what's goin' on?
+KAY	?	Back in the mid-fifties, the government started a little underfunded agency with the simple and laughable purpose of making contact with a race not of this planet.
+ZED	m	Now, if you'll look directly at the end of this device.
+KAY	?	Everybody thought the agency was a joke. Except the aliens. They made contact on March 2nd, 1961, outside New  York City.
+KAY	?	There were nine of us that night. Seven agents. An amateur astronomer. And one poor kid who got lost on the wrong back road.
+EDWARDS	m	You brought the aliens flowers?
+KAY	?	They were intergalactic refugees with a simple request. Let us use the earth as an apolitical zone for people without a planet.  Ever see "Casablanca?" Same thing, no Nazis.  We agreed. So we masked all evidence of their landing.
+EDWARDS	m	The 1964 World's Fair was a coverup?
+KAY	?	Why else would we hold it in Queens? Now left. More nonhumans arrive every year. They live among us, in secret.
+EDWARDS	m	I see. Not to change the subject, but when was your last cat-scan?
+KAY	?	Every six months; it's company policy.
+EDWARDS	m	Well, thanks for the very amusing morning, but I'm hopin' you'll show me where I came in?  'Cause this is where I go out.
+KAY	?	Yeah, sure, hang on, I wanna grab a coffee while we're right here.
+KAY	?	Don't tell me we've only got that powdered shit for cream again?
+KAY	?	Oh.
+KAY	?	For future reference, this is a better look for you.
+KAY	?	Any given time, around fifteen hundred landed aliens are on the planet, the majority right here in Manhattan. Most aliens are decent enough, just trying to make a living.
+EDWARDS	m	Cab drivers?
+KAY	?	Not as many as you'd think. Humans, for the most part, don't have a clue. Don't want one, either. They're happy. They think they've got a pretty good bead on things.
+EDWARDS	m	Why the big secret? People are smart, they can handle it.
+KAY	?	A person is smart. People are dumb. Everything they've ever "known" has been proven to be wrong. A thousand years ago everybody knew as a fact, that the earth was the center of the universe. Five hundred years ago, they knew it was flat. Fifteen minutes ago, you knew we humans were alone on it. Imagine what you'll know tomorrow.
+EDWARDS	m	So what's the catch?
+KAY	?	What you'll gain in perspective, you'll lose in ways you're too young to comprehend. You give up everything. Sever every human contact. No one will know you exist. Ever.
+EDWARDS	m	Nobody?
+KAY	?	You're not even allowed a favorite shirt. There.  That's the speech I never heard. That's the choice I never got.
+EDWARDS	m	Hold up. You track me down, put me through those stupid-ass tests, now you're trying to talk me out of it. I don't get it.
+KAY	?	You got 'til sun-up.
+EDWARDS	m	Is it worth it?
+KAY	?	You find out, you let me know.
+ORKIN MAN	m	Well, well, well. Movin' right in, are we? Think we own the place?
+ORKIN MAN	m	Got a little eviction notice for you, boys.
+VOICE	m	Just what exactly do you think you're doing?
+ORKIN MAN	m	Takin' care of your pest problem.
+EDGAR	m	"Pest" problem? "Pest?"
+ORKIN MAN	m	Yeah. You got a hell of an infestation.
+EDGAR	m	You know, I have noticed an infestation here. Everywhere I look, in fact. Nothing but undeveloped, unevolved, barely conscious pond scum. So convinced of their own superiority as they scurry about their short, pointless lives.
+ORKIN MAN	m	Well -- yeah. Don't you want to get rid of 'em?
+EDGAR	m	In the worst way.
+EDWARDS	m	One thing you gotta know right now.
+EDWARDS	m	All right. I'm in because there's some next-level shit going on around here, and I'm with that. Before you beam me up, there are a couple of things we need to get straight. You chose me 'cause you recognize the skills. So as of now you can cease with all of that calling me "son" or "kid" or "sport." Cool?
+KAY	?	Cool, slick. Now about those skills of yours,
+KAY	?	As of this moment, they don't mean much.
+PASSPORT OFFICER	m	Purpose of trip?
+ARQUILLIAN	?	Diplomatic mission.
+PASSPORT OFFICER	m	Duration of stay?
+ARQUILLIAN	?	Lunch.
+PASSPORT OFFICER	m	Carrying any fruits or vegetables?
+KAY	?	Let's go. He's a little...grouchy.
+KAY	?	A couple of hours wait after a 17-light-year flight would get on anybody's nerves.
+EDWARDS	m	What branch of the government do we report to?
+KAY	?	None. They started asking too many questions.
+EDWARDS	m	So who pays for all this?
+KAY	?	Oh, we hold a few patents on gadgets we confiscated from our out-of-state visitors. Velcro. Microwave Ovens. Liposuction.
+KAY	?	Here. A new recording device to replace CD's.  So now I gotta buy the White Album again? This is amusing. Universal translator.
+KAY	?	We're not supposed to have it. I'll tell you why.  Human thought is so primitive it's considered an infectious disease. Makes you proud, doesn't it?
+EDWARDS	m	What's this?
+KAY	?	Don't touch that!
+KAY	?	Caused the '77 New York blackout. Practical joke by the Great Attractor. He thought it was funny as hell.
+EDWARDS	m	Sorry!
+KAY	?	Observation, the heart of our little endeavor.
+KAY	?	This map shows the location of every registered alien on earth at any given time. Some of them we keep under constant surveillance.
+KAY	?	Everyone on these screens is an alien. In public -- normal. In private -- you'll get the idea.
+KAY	?	Meet the twins.
+EDWARDS	m	I gotta be honest about something.
+KAY	?	It makes no sense?
+EDWARDS	m	It makes perfect sense. When I was a third grader in Philadelphia, they told me I was crazy 'cause I swore that our teacher was from, like, Venus or something.
+KAY	?	Mrs. Edelson.
+KAY	?	Jupiter, actually. Well, one of the moons.
+ZED	m	What's your jacket size, Edwards?
+EDWARDS	m	Uh -- forty regular.
+ZED	m	Then let's put it on.
+EDWARDS	m	Put what on?
+ZED	m	The last suit you'll ever wear.
+ZED	m	From now on, you'll dress only in attire specially sanctioned by MIB Special Services.
+ZED	m	You'll conform to the identity we give you, eat where we tell you, live where we tell you, get approval for any expenditure over a hundred dollars.
+ZED	m	You will have no identifying marks of any kind.  You will not stand out in any way.
+ZED	m	Your entire image is carefully crafted to leave no lasting memory whatsoever with anyone you encounter.
+ZED	m	You're a rumor, recognizable only as deja vu and dismissed just as quickly. You don't exist; you were never even born.
+ZED	m	Anonymity is your name. Silence your native tongue.
+ZED	m	You are no longer part of "the system." We're above the system. Over it. Beyond it.
+ZED	m	We're "them." We're "they."
+ZED	m	We are the Men in Black.
+JAY	m	The difference between you and me?
+JAY	m	I make this look good.
+ZED	m	Okay, let's see. Bee, we got the deposed sur-prefect of Sinalee touching down in the forest outside Portland tonight. I'm pulling you down from Anchorage to do a meet-and-greet.
+BEE	f	Humanoid?
+ZED	m	You wish. Bring a sponge. What else -- everybody, we gotta keep Rolling Fish-Goat out of the sewer system, he's scaring the rats. And Bobo the Squat wants to reveal himself on "Unsolved Mysteries." Bee, make sure he doesn't.
+ZED	m	Red-letter from last night -- we had an un-authorized landing somewhere in upstate New York farm country. Keep your ears open for this one, Kay, we're not hosting a galactic kegger down here.
+ZED	m	Well, well, well -- we got a skimmer.
+KAY	?	Landed alien out of zone. Who is it?
+ZED	m	Redgick. He's not cleared to leave Manhattan but he's way out of town right now, stuck in traffic on the New Jersey Turnpike. Why don't you take Jay? This is a good one for him to warm up on.
+JAY	m	Yo, wussup with Zed? "Go get em, tiger. We're not hosting an intergalactic kegger..."
+KAY	?	Zed was saving the world before you were born, son. Show some respect.
+JAY	m	We got the use of unlimited technology from the entire universe and we cruise around in this?
+KAY	?	Seat belt.
+JAY	m	You know, ya'll gotta learn how to talk to people. You could be a little kinder and gentler.
+KAY	?	Buckle up, please.
+JAY	m	Now did that hurt?
+KAY	?	Makin' fun of my ride...
+KAY	?	Jay. The button?
+JAY	m	Yeah?
+KAY	?	Never push the button, Jay.
+KAY	?	License and registration, please.
+KAY	?	Other license and registration, please.
+KAY	?	Your resident card has you restricted to the five boroughs only. Where do you think you're going?
+REDGICK	?	It's my wife! She's -- she's -- well, look!
+KAY	?	Oh God. How soon?
+KAY	?	Okay. All right. No big deal. You handle it.
+JAY	m	Me?
+KAY	?	Sure, it's easy, you just sorta -- catch.
+REDGICK	?	Are you sure he knows what he's doing?
+KAY	?	Yeah, hell, sure, he does this all the time. C'mon, let him work, Redgick, I wanna ask you something.
+JAY	m	Oh God! I see it I see it I see it!
+KAY	?	Croagg the Midwife's back on 64th and 8th. You were headed out of town.
+REDGICK	?	Well, we're, uh -- meeting someone.
+JAY	m	Oh sweet Jesus Mother of God did you see that?!
+KAY	?	So? Who you meeting?
+REDGICK	?	Well, it's -- a ship.
+KAY	?	Really? I didn't see a departure clearance for today.
+REDGICK	?	You didn't? Uh, well -- it was an emergency.
+JAY	m	Guys -- guys --
+KAY	?	Doin' fine, Ace. What kind of emergency? What's the rush to get off the planet all of a sudden?
+JAY	m	Help?! HELP! Hello?!
+REDGICK	?	We just don't like the neighborhood anymore. Some of the -- new arrivals.
+KAY	?	What new arrivals? This have anything to do with the crasher from last night?
+JAY	m	Can you guys do this later?!
+JAY	m	Oh -- oh -- oh -- man.
+KAY	?	Congratulations! It's a lizard.
+JAY	m	Hey, you know, it is sorta --
+KAY	?	Anything about that seem unusual to you?
+JAY	m	Pick.
+KAY	?	What kind of "new arrival" would scare Redgick so bad that he'd risk a warp jump with a newborn? Let's check the hot sheets.
+JAY	m	These are the hot sheets?
+KAY	?	Best damn investigative reporting on the planet.  But hey, go ahead, read the New York Times if you want. They get lucky sometimes.
+JAY	m	You're actually looking for tips in a supermarket tabloid?
+KAY	?	Not looking for. Found.
+KAY	?	Not so fast. Walk up slow.
+JAY	m	Why?
+KAY	?	Part of the routine. Makes it look like we're sizing up the situation. Gives her time to get the wrong impression.
+KAY	?	Puts some fear into her. Makes things go smoother.
+BEATRICE	f	Can I help you gentlemen?
+KAY	?	How do you do, ma'am, I'm Special Agent Manheim, this is Agent Black, FBI. Had a few questions about your visitor.
+BEATRICE	f	Are you here to make fun of me too?
+KAY	?	No ma'am. We at the FBI don't have a sense of humor that we're aware of. Mind if we come in?
+BEATRICE	f	Sure. Lemonade?
+BEATRICE	f	And they said to me, "If he was murdered, how could he walk back in the house?" And I must admit, I was a little stumped by that one. But I know Edgar. And that wasn't him. It was more like something else that was wearing him. Like a suit. An Edgar suit.
+JAY	m	Damn. If he was this ugly before he was an alien...
+BEATRICE	f	Sorry?
+KAY	?	Go on.
+BEATRICE	f	Anyway, when I came to, he was gone.
+KAY	?	Did he say anything?
+BEATRICE	f	Yes! He asked for water. Sugar water, if I remember.
+KAY	?	Sugar water.
+JAY	m	Did you taste her lemonade?
+KAY	?	Ray Bans. Okay, Beatrice. There was no alien, and the flash of light you saw in the sky wasn't a UFO. Swamp gas from a weather balloon was trapped in a thermal pocket and refracted the light from Venus --
+JAY	m	Whoa! That thing erases her memory, and you give her a new one?
+KAY	?	Standard issue neuralyzer.
+JAY	m	And that's the best you can come up with?
+KAY	?	On a more personal note, Beatrice, Edgar ran off with on old girlfriend. Go stay at your mother's for a few days and get over it. Decide you're better off.
+JAY	m	Yeah, and you're better off 'cause he never appreciated you anyway. In fact, you kicked him out, and now that he's gone, you ought to buy some new clothes, maybe hire a decorator or something...
+JAY	m	Hey. Kay...when am I gonna get one of those memory things?
+KAY	?	When you're ready. Please -- not green.
+KAY	?	Do you know what alien life form leaves a green spectral trail?
+JAY	m	Wait -- don't tell me -- that was the question on Final Jeopardy last night.
+KAY	?	Zed, we have a bug.
+JAY	m	I'm gonna jump way past you and just guess that this is bad. Right?
+KAY	?	Bugs thrive on carnage, Tiger.  They consume, infest and destroy. They live off the death and decay of other species.
+JAY	m	So basically you have a racial problem with all insect-based life forms?
+KAY	?	Listen, kid -- imagine a giant cockroach five times smarter than Albert Einstein, four times stronger than an ox, nine times meaner than hell, strutting his stuff around Manhattan Island in his brand new Edgar suit. Does that sound like fun?
+JAY	m	What do we do?
+KAY	?	With a bug in town? Watch the morgues.
+ROSENBERG	m	Sorry I'm late. The cab drivers on this planet are terrible.
+ARQUILLIAN	?	Your majesty, you are in grave danger.
+ROSENBERG	m	Yeah, and they overcharge you every time.
+ARQUILLIAN	?	Sir, a bug landed here. We must get you off the planet.
+ROSENBERG	m	A bug? He must know why I'm here.
+ARQUILLIAN	?	We think he does. Is that what I think it is?
+ROSENBERG	m	No, just some diamonds for your children. Do we have time to eat?
+ARQUILLIAN	?	Sure. I ordered you some pirogi.
+COOK	m	Table six is up!
+ARQUILLIAN	?	To the continued reign of the Arquillian Empire.
+ROSENBERG	m	To the safety of the galaxy.
+ROSENBERG	m	You can kill us both -- but you will not find it.
+EDGAR	m	You're right about one thing.
+COP	m	What am I supposed to do with the cat?
+INSPECTOR	m	I don't know. Send it with the stiff. Let family claim it.
+COP	m	Where do you want contestant number three?
+LAUREL	f	By the wall, I guess. What's with the cat?
+COP	m	Oh, the cat. There's a problem with the cat. Sign here.
+LAUREL	f	What's the problem with the cat?
+COP	m	Your problem.
+LAUREL	f	Are you having a bad day, baby?  Cheer up. His is worse.
+LAUREL	f	Okey-dokey. Shall we?
+LAUREL	f	Oh, my God.
+LAUREL	f	...approximately 112 degrees at time of autopsy, indicating, quite impossibly, a post-mortem increase in body temperature. Examiner attempted to verify result rectally, only to find subject was, uh, without rectum. Which can only be described as...well...as really...
+KAY	?	Weird? Dr. Leo Menville, Department of Public Health. This is Dr. White.
+LAUREL	f	Yeah, well whoever you are, I'm afraid I'm going to need to see some ID.
+LAUREL	f	You boys must not have much of a home life.
+KAY	?	We watch the morgues very carefully. You've got something unusual?
+LAUREL	f	I'd say so -- triple homicide.
+LAUREL	f	The first corpse was perfectly normal, except that he was broken in half, but when I opened up the other two -- well, look.
+LAUREL	f	There's a skeletal structure at work here unlike anything I've ever seen.
+KAY	?	I'll have a look at this one. Dr. White, why don't you and Dr. Weaver check out the other body?
+LAUREL	f	This way, Doctor.
+LAUREL	f	This one's even stranger. I did a full laparotomy. I started with the lesser curvature of the stomach -- though, if you want, we could begin at the gastro-esophageal junction.
+JAY	m	I think, uh, we should start at the same place you did.
+LAUREL	f	All right.
+JAY	m	Your cat?
+LAUREL	f	Guess it is now. Came in with the bodies.
+LAUREL	f	Okay. Dive right in. God knows he won't mind.
+LAUREL	f	You have very pretty eyes.
+JAY	m	Thank-you, but is this really the time to uh -- you know, come on to me?
+LAUREL	f	Hey, just walking the dog. Feel that? Where the piloric junction would be?
+JAY	m	Oh, yes. Exactly.
+LAUREL	f	Now push that aside. Notice anything strange? Stomach? Liver? Lungs?
+JAY	m	Nope. All fine.
+LAUREL	f	Doctor, they're all missing.
+JAY	m	Well, of course they are. What I'm pointing out is that there are no pieces of them left. So they're intact, wherever they are. That we can be sure of.
+LAUREL	f	Have we met before? I have the strangest feeling of deja vu.
+JAY	m	You know, I was just going to ask you the same thing.
+LAUREL	f	Okay. You wanna know what I really think? But don't tell that guy. He looks like he's already under enough stress. This body is not really a body, but it's actually some sort of transport unit for something else altogether. The question is: what?
+LAUREL	f	By the way, stop me if I'm freaking you out.
+JAY	m	No, no...not at all.
+LAUREL	f	You know what I like to do sometimes? When it's really late?
+JAY	m	No...
+JAY	m	Excuse me.
+KAY	?	What do you think?
+JAY	m	Very interesting. Got a real Queen of the Undead thing goin' on.
+KAY	?	Of the body.
+JAY	m	Great body.
+KAY	?	The dead body?
+JAY	m	Not a clue.
+KAY	?	All right. Keep her occupied. Try not to sound too dumb.
+LAUREL	f	Dr. White.
+LAUREL	f	Dr. White. Dr. White.
+KAY	?	You're up, Slugger.
+LAUREL	f	Look at this.
+JAY	m	What is that?
+LAUREL	f	Far -- freaking -- out.
+BALTIAN	?	Must -- to pre -- prevent -- -- contest? No...to prevent --
+JAY	m	It's all right -- What are you trying to say? Struggle?
+LAUREL	f	War?
+BALTIAN	?	Galaxy on -- or -- or -- Orion's -- What is word? Be...?
+JAY	m	Bed? Belt? Orion's Belt?
+JAY	m	"To prevent war, the galaxy is on Orion's Belt?"  The hell does that mean? Hey! Kay! I mean, Dr., uh, whatever, come here!
+LAUREL	f	"Doctor Whatever"? You're not with the Department of Public Health, are you?
+JAY	m	He's dead.
+KAY	?	Rosenberg. Damn. Good man.
+JAY	m	You knew him?
+KAY	?	One of the few I actually liked. Exiled High Prince.
+LAUREL	f	I was right -- this is an alien life form, and you're from some government agency who wants to keep it under wraps...
+JAY	m	He said "to prevent war, the galaxy is on Orion's Belt."
+LAUREL	f	... This make total sense. How else do you explain New York? The other night I'm in a cab, this guy...
+KAY	?	He said there's a galaxy on Orion's Belt? That makes no sense.
+JAY	m	That's what he said. Didn't he? Right after he -- Oh, for Christ's sake, you did the flashy thing already.
+LAUREL	f	Uh, hi, whoever you guys are, I'm afraid I'm going to need to see some ID if you're going to be in the morgue, okay?
+KAY	?	Sure thing, sweetheart. Here you go.
+JAY	m	Stop that --
+KAY	?	Typical day, too much caffeine, get a life.
+JAY	m	-- that thing probably gives you brain cancer!
+KAY	?	Never hurt her before.
+JAY	m	"Never hurt her before"?! How many times have you done the flashy thing to this poor woman?!
+KAY	?	Couple.
+JAY	m	Aren't you worried about, you know, long term damage?
+KAY	?	Little bit.
+JAY	m	What the hell happened to make you such a callous son of a bitch?
+KAY	?	I took this job.
+JAY	m	Hey, you never flashed me with that thing, did you?
+KAY	?	Nah.
+JAY	m	Hey, Kay, I really think I should be in charge of the flashy memory thing department.
+KAY	?	Not while I'm around, Slim.
+JAY	m	Yeah, well you're a menace with that thing...
+KAY	?	We've got two dead aliens in there, and a deputy medical coroner in need of a new memory.
+EDGAR	m	No. No, NO, NO, NOOOO!
+JAY	m	Doesn't anybody believe in sleep around here?
+ZED	m	The twins keep us on Alpha Centaurian time -- a 37-hour day. Give it a few months -- you'll get used to it. Or you'll have a psychotic episode.
+ZED	m	Here's Orion; the brightest grouping of stars in the northern sky... and here's Orion's belt --
+JAY	m	That's what the little guy was talking about, "To prevent war, the galaxy's on Orion's belt..."
+ZED	m	There are no galaxies on Orion's belt. The belt is just these three stars; galaxies are huge, made up of billions of stars. You heard wrong.
+JAY	m	You're attracted to me, aren't you?
+JAY	m	Pretty lady...
+JAY	m	You were the guy with the flowers in the photo, (the night the aliens arrived.) (What, you were on your way to a dance or something and you got lost? And she never got those flowers, did she?] 
+JAY	m	Grumpy Guy's story comes into focus. She ever get married?
+KAY	?	No.
+JAY	m	Well, it's better to have loved and lost than never to have --
+KAY	?	Try it.
+ZED	m	Kay.
+KAY	?	They're leaving.
+ZED	m	We've had twelve jumps in the last hour. Redgick was just the beginning.
+JAY	m	What do they know that we don't know?
+KAY	?	Why do rats desert the ship? Go to Lem Sat IV. Put up a forty-field view of Manhattan.
+KAY	?	Four hundred.
+KAY	?	Four thousand.
+KAY	?	That's an Arquillian battle cruiser.
+JAY	m	And we've got a dead Arquillian prince.
+KAY	?	Message coming in.
+KAY	?	Speak of the devil.
+JAY	m	They sound pissed.
+ZED	m	Translate that and step on it! Meanwhile get down to Rosenberg's store and see what you can turn up.
+ZED	m	And Kay -- take a lot of fire power.
+JAY	m	I like that.
+KAY	?	Series four de-atomizer.
+KAY	?	Here. We call this the "Noisy Cricket."
+JAY	m	You get a series four de-atomizer and I get a "Noisy Cricket?!" I'm afraid I'm going to break it.
+EDGAR	m	That's my truck!
+DRIVER	m	And make sure you tell them that at the impound.
+DRIVER	m	I got worse.
+JAY	m	Who robs a jewelry store and leaves the jewels?
+KAY	?	Someone who's not looking for jewels.
+JAY	m	This guy had a serious crush on his cat.
+JAY	m	Kay! GET DOWN!
+JAY	m	The bug in the Edgar suit! The ugly redneck from the picture! That's him!
+KAY	?	Damn it.
+KAY	?	We do not discharge our weapons in view of the public.
+JAY	m	Can we drop the cover-up bullshit?! There's an Alien Battle Cruiser that's gonna blow-up the world if we don't...
+KAY	?	There's always an Alien Battle Cruiser...or a Korlian Death Ray, or...an intergalactic plague about to wipe out life on this planet, and the only thing that lets people get on with their hopeful little lives is that they don't know about it.
+KAY	?	Don't worry about the bug. He's not leaving town. We've got his ship.
+KAY	?	Zed, we're gonna need a containment crew down here at McDougal, south of Houston.
+ZED	m	Containment may be a moot point, my friend. The exodus continues. It's like the party's over and the last one to leave gets stuck with the check.
+ZED	m	You sorry little ingrates!
+KAY	?	What about the Arquillians?
+ZED	m	We've only translated a part of the message so far: "Deliver the Galaxy."
+KAY	?	No, they don't want much, do they?
+ZED	m	Oh, it gets better... They're holding us responsible.
+ZED	m	Another contestant has entered the ring.
+KAY	?	All right, kid. The Arquillians want the galaxy, whatever the hell that means. We need help. A professional. Someone with years of experience in intergalactic politics. I just hope the little prick hasn't skipped town.
+EDGAR	m	Where do you keep your dead?
+VENDOR	m	I don't have any dead.
+EDGAR	m	Where?!
+VENDOR	m	I don't know, the city morgue!
+JAY	m	Of course that guy's an alien. That's gotta be the worst disguise I've ever seen.
+FRANK THE PUG	m	You don't like it, you can kiss my furry little butt.
+KAY	?	You busy, Frank?
+FRANK THE PUG	m	Sorry, Kay, I can't talk right now, my ride's leaving in --
+KAY	?	Call the pound. We got a stray.
+FRANK THE PUG	m	Hey! Get your paws off me!
+JAY	m	The, uh...dog owes my friend some money.
+KAY	?	Arquillians and bugs. What do you know?
+FRANK THE PUG	m	I know nothing.
+KAY	?	Not a thing?
+FRANK THE PUG	m	Stop it. Okay, okay. Rosenberg wasn't some two-bit Arquillian. He was the guardian of a galaxy. They thought he would be safe here on earth.
+KAY	?	And the bug had other plans.
+FRANK THE PUG	m	The galaxy is the best source for subatomic energy in the universe. If the bugs get their slimy claws on it, kiss the Arquillians goodbye.
+JAY	m	Ask him about the belt.
+KAY	?	Rosenberg said something about a galaxy on "Orion's belt." What's he talking about, Frank?
+FRANK THE PUG	m	Beats me.
+JAY	m	They're rehearsing a ventriloquist act.
+FRANK THE PUG	m	The galaxy is here.
+KAY	?	Here?
+JAY	m	The galaxy is hundreds of millions of stars and planets? How's it here?
+FRANK THE PUG	m	You humans, when're you gonna learn that size doesn't matter? Just 'cause something's important, doesn't mean it's not very, very small.
+KAY	?	How small?
+FRANK THE PUG	m	Tiny. Like the size of a marble. Or a jewel. Now if you'll excuse me, I need to be walked before the flight.
+KAY	?	Get out of here. The galaxy's here. It's not on Orion's belt.
+JAY	m	Kay...
+LAUREL	f	Boy, when you want attention --
+LAUREL	f	"Orion." That's a pretty name.
+LAUREL	f	What's this?
+LAUREL	f	Wow.
+JAY	m	So two galaxies have been fighting for years. And the only people who've been benefiting are a race of creatures called bugs. Then the two galaxies decide to make peace...and the bugs send this guy down to make sure the fighting never stops.
+KAY	?	By killing the emissaries, and stealing the galaxy they've been fighting about.
+JAY	m	And if we don't get it back before he leaves the planet...we're history.
+KAY	?	We're not even history. 'Cause history implies there's someone around to remember it.
+TONY	m	Thank you for making sure the bell works.
+TONY	m	What's up, Farmer John?
+EDGAR	m	A man came in here earlier. A dead man.
+TONY	m	And this means what to me?
+EDGAR	m	He was a very dear friend of mine. And I believe he had an animal with him. A gift I gave him, a pet cat that means worlds to me. I would like it back.
+TONY	m	I'll need a picture ID, written proof of ownership of the cat, or notarized proof of kinship with --
+TONY	m	-- the deceased.
+EDGAR	m	Don't -- do that.
+TONY	m	Do what?
+TONY	m	Shit!
+JAY	m	I'll handle this one, you wait outside.
+KAY	?	What the hell for?
+JAY	m	Because all we have to do is walk in and get a cat, it's not that hard. But if you go in, you're gonna lay your Jack Webb on her and flash your brain ray in her face and she's gonna end up with leukemia or some shit. The woman's a doctor, she doesn't need you erasing half her med school classes. Take me five minutes.
+KAY	?	Two minutes!
+EDGAR	m	Where is the animal?!
+LAUREL	f	I told you, I don't know, it ran under some equipment! Over there.
+EDGAR	m	Get it!
+JAY	m	Hello? Anybody here?
+JAY	m	Hello?
+JAY	m	Uh, hi.
+LAUREL	f	Hello.
+JAY	m	I'm Sergeant Friday, from the Twenty-Sixth precinct. They brought a cat in here with a corpse the other day, might have said "Orion" on the cat's name tag?
+LAUREL	f	Yes. That's right.
+JAY	m	Right, well, the cat is, uh -- the cat's a witness in a murder case and I'm going to need to take it with me.
+LAUREL	f	I don't know where the cat is at the moment.
+JAY	m	You don't?
+LAUREL	f	No. Maybe you could take me with you instead.
+JAY	m	Excuse me?
+LAUREL	f	I said, maybe you could take me with you instead.
+JAY	m	Damn, you do start fast, don't you?
+LAUREL	f	I'd really like to go with you. Now.
+JAY	m	And, uh, why exactly is that?
+LAUREL	f	I just do.
+LAUREL	f	I have something I need to show you.
+JAY	m	Now slow down, you don't have to hit the gas like that.
+LAUREL	f	You don't understand. You really need to see this.
+JAY	m	And I will. But we gotta get something straight here -- I'm gonna drive. It's not some kind of macho trip, it's just the way I'm used to doing things, okay?
+LAUREL	f	Look, Stud, I don't know how many more times I'm going to get to tell you this. There's something --
+LAUREL	f	-- that you have to help me with.
+KAY	?	Freeze it, Bug!
+JAY	m	Don't shoot! Don't shoot!
+LAUREL	f	CHRIST, are you THICK!
+JAY	m	How was I supposed to know!?!
+LAUREL	f	What did I have to do, SING it for you!?!
+JAY	m	Maybe if you didn't come on like a drunken prom date!
+LAUREL	f	Oh, that's SO typical. Any time a woman shows the slightest hint of sexual independence, men just --
+EDGAR	m	Everybody shut UP!
+KAY	?	Let her go, Shit Eater.
+EDGAR	m	Listen, Monkey Boy, I may have to take that kind of talk in my end of the universe, but compared to you humans, I'm the top rung on the evolutionary ladder, so can it, all right?!
+KAY	?	You're breakin' my heart. Move six inches to your left and I'll solve all your problems.
+EDGAR	m	That's better. Now put down your weapons. We're leaving.
+EDGAR	m	Have you ever pulled the wings off a fly?
+EDGAR	m	Would you care to see the fly get even?
+KAY	?	How far you think you'll get without your ship? If that's what you call that hunk of space crap we've got back at our office.
+EDGAR	m	Put the weapons down!
+KAY	?	Never gonna happen, Insect.
+JAY	m	It's okay, Laurel!
+LAUREL	f	HOW is it okay?!
+JAY	m	I mean it's going to be okay!
+EDGAR	m	Don't bet on it, meat sack.
+KAY	?	Damn it!
+EDGAR	m	Take me here.
+LAUREL	f	What???
+JAY	m	They're in a cab.
+JAY	m	Hey! Laurel!? Hey!
+KAY	?	Stop wasting time. He's not getting off the planet in a cab.
+KAY	?	Come with me. Put up a bio-net all the way around Manhattan; if it's not human, it's not leaving the island.
+KAY	?	What've we got from our friends upstairs?
+ZED	m	Same thing: "Deliver the galaxy."
+KAY	?	Yeah, well the bug's got the galaxy, but we've got his ship. He's got to be looking for a way out.
+JAY	m	WHAT THE HELL ARE THEY SHOOTING AT US FOR?!
+ZED	m	Arquillian battle rules, kid. First we get an ultimatum, then a warning shot, then we have a galactic standard week to respond.
+JAY	m	A galactic standard week? How the hell long is that?
+KAY	?	One hour.
+JAY	m	One hour?
+ZED	m	To keep the bugs from getting it, the Arquillians will destroy the galaxy and whatever planet it's on.
+JAY	m	You're talking about US!
+ZED	m	Sucks, doesn't it?
+KAY	?	Pull up the locations of all land-based interstellar vehicles.
+ZED	m	They're all gone. Frank the Pug took the last ship on the planet.
+KAY	?	Atlantic City?
+ZED	m	Gone.
+KAY	?	That landfill on the Jersey Shore?
+ZED	m	Gone.
+JAY	m	Uh, gentlemen.
+KAY	?	Epcot?
+ZED	m	Gone.
+KAY	?	Miami Beach?
+ZED	m	Gone.
+JAY	m	Fellas.
+KAY	?	Hartford?
+ZED	m	Gone, thank God.
+JAY	m	Hey. Old guys.
+JAY	m	Do those still work?
+EDGAR	m	You're coming with me.
+LAUREL	f	What?! Why?!
+EDGAR	m	It's a long trip. I'll need a snack.
+KAY	?	Whaddya say we bag us some bug?
+JAY	m	You're taking the tunnel?!
+KAY	?	You know a better way to Queens?
+JAY	m	It's usually jammed?!
+JAY	m	I told you!
+KAY	?	Jay. The button?
+JAY	m	Yeah?!
+KAY	?	Push the button, Jay.
+KAY	?	And you may want to throw on a seat belt.
+KAY	?	Mind if I smoke?
+JAY	m	What?!?
+KAY	?	In the car, I mean.
+JAY	m	I don't care!!
+KAY	?	Hey, just a common courtesy. It bothers some people if you smoke in a car.
+KAY	?	Yeah, it's harder and harder to smoke anywhere these days. Hell, I suppose I should quit. I've tried. Never took, though. I'm beginning to think I lack self-control.
+KAY	?	Well, back to work.
+LAUREL	f	Come on, let me go, you don't want to eat me. I'm a very important person on my planet. Like a queen. A goddess, even. There are those who worship me, yes. I'm not trying to impress you with this, I'm just letting you know. It could start a war.
+EDGAR	m	Good. War means food for my family, all seventy-eight million of them. That's a lot of mouths to feed, your highness.
+LAUREL	f	You're a wonderful dad.
+JAY	m	You know how to work that?
+KAY	?	No idea whatsoever.
+KAY	?	Let's bag us some bug.
+JAY	m	Oh, shit.
+KAY	?	Set it to pulsar level five, sub-sonic implosion factor --
+JAY	m	What?
+KAY	?	Press the little green button, on three.
+KAY	?	One...two...
+EDGAR	m	You don't get it. I've won. It's over.
+KAY	?	You are under arrest for violating number 4-1-53 of the Tycho accord. Please hand over any galaxy you might be carrying.
+EDGAR	m	You milk-suckers! You don't matter! In a few seconds you won't even be matter!
+KAY	?	Move away from the vehicle and put your hands on your head.
+EDGAR	m	Put my hands on my head?
+BUG	m	Like this?
+JAY	m	That did not go at all like I had planned.
+KAY	?	This guy's really starting to bug me.
+KAY	?	Whatever happens, Jay, don't let him get on that ship.
+JAY	m	Where are you going?
+KAY	?	Getting my gun back.
+JAY	m	What!?
+KAY	?	Hey, Bug!
+KAY	?	I'm talking to you, Bug! You know how many of your kind I've swatted with a newspaper?
+KAY	?	You're just a smear on the sports page to me, you slimy, gut-sucking, intestinal parasite! Eat me!
+JAY	m	Hey! Come over here and try that!
+JAY	m	Stop right there, or I'll start wailing on your waxy, pointed ass!
+JAY	m	What are you, afraid of me? Come on! Stand and fight like an arthropod!
+JAY	m	You want a piece of this, huh?! Maybe you're a badass in your hive, but this is New York City. You're just another tourist here!
+JAY	m	You're messing with the wrong species, Bug --
+JAY	m	Hey, Bug!
+JAY	m	If I'm not mistaken, that was a cousin of yours.
+JAY	m	Whoa! That had to hurt. And, what d'you know, here's your old Uncle Bob!
+JAY	m	What's that? Can you hear what he's saying? 'Help me! Help me!'
+JAY	m	Ooh! There's a pretty one. That one looks kinda familiar, don't you think? I know who that is!
+BUG	m	Don't do that!
+JAY	m	That's your Momma!
+JAY	m	Didn't she ever teach you not to bite off more than you can chew?
+JAY	m	You son of a --
+KAY	?	Zed. Get a message to the Arquillians.  We have the galaxy.
+ZED	m	I think the word's already out. Our friends are coming back. Got an authorized landing at Times Square. You and Jay check it out on the way back... And pick me up one of those soft pretzels, while you're at it. Extra salt. I feel like celebrating.
+KAY	?	You were saying?
+JAY	m	Getting eaten!? That was your plan!?
+KAY	?	Worked.
+JAY	m	After I got the shit beat out of me!
+KAY	?	And I almost got digested. It goes with the job.
+JAY	m	You coulda told me what you were doing.
+KAY	?	There wasn't time, sport!
+LAUREL	f	Interesting job you guys got.
+DRIVER	m	Damn bugs.
+JAY	m	Look, I know we got rules, but she did just bust the Bug for us.  And so maybe you don't have to flashy thing her.
+JAY	m	Who's she gonna tell, anyway? She only hangs out with dead people.
+KAY	?	Not her. Me. They're beautiful, aren't they? The stars. I never just look anymore and they're beautiful.
+JAY	m	Kay, you're scaring your partner.
+KAY	?	I haven't been training a partner -- I've been training a replacement.
+JAY	m	Oh no, I can't do this job by myself.
+LAUREL	f	Hey, guys, we're nowhere near my apartment. We're not even on the right island.
+KAY	?	Maybe you won't have to.
+KAY	?	Days. Months. Years. Always face it forwards.
+KAY	?	I've just been down the gullet of an interstellar cockroach. That's one of a hundred memories I don't want.
+KAY	?	See you around, sport.
+JAY	m	No, you won't.
+ELLE	f	Zed called. The High Consulate of Regent-9 emissary wants floor seats to the Knicks -- Bulls game.
+JAY	m	I'll talk to Dennis Rodman, it's his damn planet.
+ELLE	f	Let's roll.
+

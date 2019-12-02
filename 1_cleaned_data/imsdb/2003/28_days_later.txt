@@ -1,0 +1,594 @@
+CHIEF ACTIVIST	m	Fucking hell...
+FEMALE ACTIVIST	f	Oh God...
+CHIEF ACTIVIST	m	(to Female Activist) Keep your shit together. If we're going to get them out of here...
+FINNISH ACTIVIST	m	I can pop these, no problem.
+CHIEF ACTIVIST	m	So get to it.
+SCIENTIST	m	Security! We have a break-in! Get to sector...
+SCIENTIST	m	...nine.
+SCIENTIST	m	I know who you are, I know what you think you're doing, but you have to listen to me. You can't release these animals.
+CHIEF ACTIVIST	m	If you don't want to get hurt, shut your mouth, and don't move a fucking muscle.
+SCIENTIST	m	The chimps are infected! 
+SCIENTIST	m	(continuing; stumbling,
+FLUSTERED)	?	These animals are highly contagious. They've been given an inhibitor.
+CHIEF ACTIVIST	m	Infected with what?
+SCIENTIST	m	Chemically restricted, locked down to a... a single impulse that...
+CHIEF ACTIVIST	m	Infected with what?
+SCIENTIST	m	Rage.
+SCIENTIST	m	(desperately trying to
+EXPLAIN)	?	In order to cure, you must first understand. Just imagine: to have power over all the things we feel we can't control. Anger, violence...
+FINNISH ACTIVIST	m	What the fuck is he talking about?
+CHIEF ACTIVIST	m	We don't have time for this shit! Get the cages open!
+SCIENTIST	m	No!
+CHIEF ACTIVIST	m	We're going, you sick bastard, and we're taking your torture victims with us.
+SCIENTIST	m	NO! You must listen! The animals are contagious! The infection is in their blood and saliva! One bite and...
+FEMALE ACTIVIST	f	They won't bite me.
+SCIENTIST	m	STOP! You have no idea!
+FEMALE ACTIVIST	f	Good boy. You don't want to bite me, do you?
+SCIENTIST	m	NO!
+FEMALE ACTIVIST	f	Get it off! Get if off!
+FEMALE ACTIVIST	f	I'm burning! Jesus! Help me!
+SCIENTIST	m	We have to kill her!
+FEMALE ACTIVIST	f	I'm burning! I'm burning!
+CHIEF ACTIVIST	m	What's...
+SCIENTIST	m	We have to kill her NOW!
+CHIEF ACTIVIST	m	What's wrong with them?
+SCIENTIST	m	Oh God.
+ACTIVIST	m	Terry? Jemma?
+ACTIVIST	m	Mika? Where are you?
+ACTIVIST	m	Bloody hell.
+JIM	m	Ow...
+JIM	m	Hello?
+JIM	m	...Hello?
+JIM	m	Father?
+JIM	m	Father, what are you...
+JIM	m	Jesus!
+JIM	m	Oh, that, was bad, that was bad... I shouldn't have done that...
+JIM	m	Shit.
+WOMAN'S VOICE	f	HERE!
+WOMAN'S VOICE	f	OVER HERE!
+JIM	m	Those people! Who were... who...
+MARK	m	This way! Move it!
+MARK	m	A man walks into a bar with a giraffe. They each get pissed. The giraffe falls over. The man goes to leave and the barman says, you can't leave that lying there. The man says, it's not a lion. It's a giraffe.
+MARK	m	He's completely humorless. You two will get along like a house on fire.
+SELENA	f	Who are you? You've come from a hospital.
+MARK	m	Are you a doctor?
+SELENA	f	He's not a doctor. He's a patient.
+JIM	m	I'm a bicycle courier. I was riding a package from Farringdon to Shaftesbury Avenue. A car cut across me... and then I wake up in hospital, today... I wake up and I'm hallucinating, or...
+MARK	m	What's your name?
+JIM	m	Jim.
+MARK	m	I'm Mark. This is Selena. Okay, Jim. We've got some bad news.
+SELENA	f	It began as rioting. And right from the beginning, you knew something bad was going on because the rioters were killing people. And then it wasn't on the TV anymore. It was in the street outside. It was coming through your windows. We all guessed it was a virus. An infection. You didn't need a doctor to tell you that. It was the blood.
+JIM	m	Where are your families?
+MARK	m	They're dead.
+SELENA	f	Yours will be dead too.
+JIM	m	No... No! I'm going to find them. They live in Greenwich. I can walk. (heading for the exit) I'm going to... to go and...
+SELENA	f	You'll go and come back.
+JIM	m	(pulling at the grill) Yes! I'll go and come back.
+MARK	m	Rules of survival. Lesson one - you never go anywhere alone, unless you've got no choice. Lesson two - you only move during daylight, unless you've got no choice. We'll take you tomorrow. Then we'll all go and find your dead parents. Okay?
+MARK	m	How's your head? Fucked?
+MARK	m	(gesturing at the city) I know where your head is. You're looking at these windows, these millions of windows, and you're thinking - there's no way this many people are dead. It's just too many windows.
+MARK	m	The person who owned this bag. Can't be dead.
+MARK	m	A woman - (car keys) - who drove a Nissan Micra - (teddy) - and had a little teddy bear - (condoms) - and carried protection, just in case.
+MARK	m	Believe me, we won't need them anymore than she will.
+MARK	m	Hey!
+JIM	m	Down there. Westlink Street. Second on the left.
+SELENA	f	If there's anyone in there who isn't human...
+JIM	m	I understand.
+SELENA	f	Anyone.
+JIM	m	I understand.
+MARK	m	Okay.
+MARK	m	Wait.
+SELENA	f	They died peacefully. You should be grateful.
+JIM	m	I'm not grateful.
+MARK	m	The roads out were all jammed. So we went to Paddington Station. Hoping: maybe we could get to Heathrow, maybe buy our way on a plane. My dad had all this cash, even though cash was already useless, and Mum had her jewellery. But twenty thousand other people had the same idea. The crowd was surging, and I lost my grip on my sister's hand. I remember realizing the ground was soft. I looked down, and I was standing on people. Like a carpet, people who had fallen, and... somewhere in the crowd there were infected. It spread fast, no one could run, all you could do was climb. Over more people. So I did that. I got up, somehow, on top of a kiosk. Looking down, you couldn't tell which faces were infected and which weren't. With the blood, the screaming, they all looked the same. And I saw my dad. Not my mum or my sister. But I saw my dad. His face.
+MARK	m	Selena's right. You should be grateful.
+SELENA	f	We don't have time to get back to the shop before dark. We should stay here tonight.
+JIM	m	My old room was at the end of the landing. You two take it. I'll sleep down here.
+SELENA	f	We'll sleep in the same room. It's safer.
+JIM'S DAD	m	Give me a glass of that, would you?
+JIM	m	(draining the carton, and giving it a shake) It's empty.
+JIM	m	Help!
+JIM	m	It's Mr. Bridges...
+SELENA	f	Were you bitten?
+JIM	m	He lives four doors down...
+JIM	m	That's his daughter...
+SELENA	f	Were you bitten?
+JIM	m	No... No! I wasn't!
+SELENA	f	Did any of the blood get in your mouth?
+JIM	m	No!
+SELENA	f	Mark?
+MARK	m	Wait.
+MARK	m	DON'T!
+SELENA	f	Get that cleaned off.
+SELENA	f	Do you have any clothes here?
+JIM	m	(fazed, frightened of her) I... I don't know. I think so.
+SELENA	f	Then get them. And get dressed. We have to leave, now.
+SELENA	f	More infected will be coming. They always do.
+JIM	m	How did you know?
+JIM	m	How did you know he was infected?
+SELENA	f	The blood.
+JIM	m	The blood was everywhere. On me, on you, and...
+SELENA	f	I didn't know he was infected. Okay? I didn't know. He knew. I could see it in his face. You need to understand, if someone gets infected, you've got somewhere between ten and twenty seconds to kill them. They might be your brother or your sister or your oldest friend. It makes no difference Just so as you know, if it happens to you, I'll do it in a heartbeat.
+JIM	m	How long had you known him?
+SELENA	f	Five days. Or six. Does it matter?
+SELENA	f	He was full of plans. Long-distance weapons, so they don't get close. A newsagent's with a metal grill, so you can sleep. Petrol bombs, so the blood doesn't splash.
+SELENA	f	Got a plan yet, Jim? You want us to find a cure and save the world? Or fall in love and fuck?
+SELENA	f	Plans are pointless. Staying alive is as good as it gets.
+SELENA	f	Shhh.
+JIM	m	Let's hope we don't have to get out of here in a hurry.
+SELENA	f	Need a break?
+JIM	m	(completely out of breath) No. You?
+SELENA	f	No.
+JIM	m	I do need a break, by the way.
+SELENA	f	What's up?
+JIM	m	Nothing.
+JIM	m	I've got a headache.
+SELENA	f	Bad?
+JIM	m	Pretty bad.
+SELENA	f	Why didn't you say something before?
+JIM	m	Because I didn't think you'd give a shit.
+SELENA	f	(going through the bag) You've got no fat on you, and all you've had to eat is sugar. So you're crashing. Unfortunately, there isn't a lot we can do about that...
+SELENA	f	...except pump you full painkillers, and give you more sugar to eat.
+SELENA	f	As for the sugar: Lilt or Tango?
+JIM	m	...Do you have Sprite?
+SELENA	f	Actually, I did have a can of Sprite, but...
+JIM	m	Jesus!
+SELENA	f	Quiet.
+SELENA	f	That's an infected.
+SELENA	f	They're in.
+SELENA	f	Come on!
+JIM	m	(out of breath, barely able to speak) I can't.
+MAN	m	Down the corridor! Flat 157!
+SELENA	f	Let us in!
+GIRL	f	Where's Dad?
+MAN	m	It's okay, Hannah. Let them inside.
+MAN	m	Come in, come in.
+MAN	m	So... I'm Frank, anyway.
+JIM	m	I'm Jim.
+SELENA	f	Selena.
+FRANK	m	Jim and Selena. Good to meet you. And this is my daughter, Hannah. (turning to Hannah) ...Come on, sweetheart. Say hello.
+FRANK	m	So... so this is great. Just great. It calls for a celebration.
+HANNAH	f	We've got Mum's creme de menthe.
+FRANK	m	Yes, her creme de menthe. Great. Look, sit, please. Get comfortable. Sit tight while I get it.
+SELENA	f	Shall we?
+HANNAH	f	Middle cupboard.
+HANNAH	f	Top cupboard.
+JIM	m	This is your place, then.
+JIM	m	It's nice.
+FRANK	m	There! I know it isn't much but... well, cheers!
+FRANK	m	Normally we keep the windows covered at night, because the light attracts them. But when we saw your petrol station fire, we knew it had to be survivors... So we hooked up the Christmas tree lights. Like a beacon.
+SELENA	f	We're grateful.
+FRANK	m	Well, we're grateful you came. I was starting to really worry. Like I say, we haven't seen any sign of anyone normal for a while now.
+JIM	m	There aren't any others in the building?
+SELENA	f	And you haven't seen any people outside?
+FRANK	m	We haven't left the block for more than two weeks. Stayed right here. Only sensible thing to do. Everyone who went out...
+SELENA	f	Didn't come back.
+FRANK	m	And there's two hundred flats here. Most of them have a few cans of food, or cereal, or something.
+SELENA	f	It's a good set-up.
+FRANK	m	It isn't bad.
+FRANK	m	We've got by, haven't we?
+JIM	m	Yes. Fine.
+FRANK	m	Have to empty it each morning. We just chuck it over the balcony... No mod cons here.
+JIM	m	It's fine.
+FRANK	m	...Well, look, it's pretty late. I'm going to turn in. We've got a spare room. Are you and Selena...?
+JIM	m	I'll take the living room.
+FRANK	m	Oh, right. I mean, yes... So, good night then, anyway.
+JIM	m	Good night, Frank.
+SELENA	f	Very spruce.
+JIM	m	Very shredded.
+SELENA	f	Uh-huh.
+JIM	m	So what do you make of them?
+SELENA	f	They're desperate. Probably need us more than we need them.
+JIM	m	...I think they're good people.
+SELENA	f	Good people?
+JIM	m	Yeah.
+SELENA	f	Well, that's nice. But you should be more concerned about whether they're going to slow you down.
+JIM	m	Right. Because if they slowed you down...
+SELENA	f	I'd leave them behind.
+JIM	m	In a heartbeat.
+SELENA	f	Yeah.
+JIM	m	I wouldn't.
+SELENA	f	Then you're going to wind up getting yourself killed.
+SELENA	f	I'm going to get some sleep.
+JIM	m	Selena - you think I don't get it. But I do get it. And I know I'd be dead already if I hadn't met you.
+SELENA	f	Sure.
+JIM	m	No, look - I mean thank you.
+SELENA	f	And I mean sure. Good night, Jim.
+JIM	m	Good night.
+FRANK	m	Morning, Jim.
+JIM	m	Morning.
+FRANK	m	Listen, have you got a minute?
+FRANK	m	We lost water pressure three weeks ago. For a while, I thought we'd be okay with the water in the other flats. The cistern and tanks. But it vanishes so quick you wouldn't believe. You drink it, it evaporates, turns stagnant...
+JIM	m	(looking at the pans) They're all empty...
+FRANK	m	It hasn't rained in over a week.
+FRANK	m	You can set up a plastic sheet to catch dew and condensation. Trap it somehow. I saw it on TV once and I've been experimenting, but I can't get it to work, and... you don't happen to...
+FRANK	m	You'd never think it. Needing rain so badly... Not in fucking England... (he breaks off) Jim, we don't have enough water for and Selena.
+JIM	m	Right.
+FRANK	m	No. It's not what you think.
+SELENA	f	There haven't been any broadcasts for weeks.
+FRANK	m	Just listen.
+SELENA	f	Soldiers.
+FRANK	m	There's more. Listen.
+FRANK	m	Then it just repeats.
+JIM	m	It's a recording?
+FRANK	m	It's a recording. But this is where it's telling us to go.
+JIM	m	The North...
+FRANK	m	The way things are, we might need two or three days to get up there.
+SELENA	f	We.
+FRANK	m	Sound carries in this flat. Jerry- built, I suppose, and... me and Hannah do need you more than you need us.
+SELENA	f	I wasn't -
+FRANK	m	It's okay. Look, it's the truth. I can't leave the block if it's just the two of us.
+SELENA	f	If it's a recording, for all we know the soldiers who made it are dead.
+FRANK	m	Yes. It's possible.
+SELENA	f	And that stuff about the answer to infection. There is no answer to infection. It's already done pretty much all the damage it can.
+JIM	m	Maybe they've got a cure.
+SELENA	f	Maybe they've got nothing at all.
+FRANK	m	The only way to find out is to reach them.
+SELENA	f	We could die trying.
+HANNAH	f	Or die here.
+HANNAH	f	And anyway, it isn't true what Dad said. You need us just the same as we need you. We need each other. And we'll never be safe in the cities, and soldiers could keep us safe.
+HANNAH	f	So we have to try and get there.
+JIM	m	Get there how?
+FRANK	m	Just so as you know. I don't take cheques or credit cards.
+FRANK	m	What do you think?
+SELENA	f	It's the most direct route to the other side of the river.
+JIM	m	Then we should go the indirect route. The one in broad daylight. That isn't underground.
+FRANK	m	Let's just get it done.
+JIM	m	I knew this was a shit idea. You know why? Because it was really obviously a shit idea. Driving into a dark tunnel, full of smashed cars and broken glass is really fucking obviously a shit idea.
+JIM	m	Oh no.
+FRANK	m	HOLD ON!
+FRANK	m	Fuck.
+JIM	m	The world's worst place to get a flat.
+FRANK	m	Agreed. I think we'd better do this quick.
+FRANK	m	You know what to do.
+JIM	m	...You heard that?
+FRANK	m	(from the front of the
+CAB)	?	Heard what?
+JIM	m	Holy shit.
+FRANK	m	(as the rats rush around
+THEM)	?	What the fuck?
+SELENA	f	They're running from the infected.
+FRANK	m	Hannah, get out, get out! (to Jim and Selena) Just lift it! LIFT IT!
+SELENA	f	(straining with the
+WEIGHT)	?	Come on!
+HANNAH	f	Almost there!
+FRANK	m	Go! Go!
+JIM	m	(at the Infected) Fuck you!
+FRANK	m	Honey, you're a cab driver's daughter.
+SELENA	f	Whoa! Stop the cab! Stop the cab!
+SELENA	f	Un. Believable.
+JIM	m	You're getting out?
+SELENA	f	This place hasn't been looted. It's a gold mine.
+HANNAH	f	But we don't know what's in there.
+SELENA	f	Food and drink is what's in there. And we need it.
+JIM	m	Wait!
+SELENA	f	I've been living off Mars Bars and Coke for two weeks. I need some tinned fruit.
+SELENA	f	Let's shop.
+SELENA	f	I'll have you, you, you, you...
+SELENA	f	Don't take anything we need to cook.
+JIM	m	It's okay. I think you can eat this stuff raw.
+FRANK	m	Mmm. Irradiated.
+SELENA	f	Ugh. If I never see chocolate again, it'll be too soon.
+SELENA	f	Not counting Terry's Chocolate Orange, of course.
+HANNAH	f	(taking a handful of
+YORKIE BARS)	m	Or Yorkies.
+SELENA	f	Or Yorkies, obviously.
+FRANK	m	Put that back. We can't just take any crap.
+JIM	m	It isn't any crap. It's whisky. It might be good to have.
+FRANK	m	Who's arguing about whisky? I'm saying, don't get a cheap blend.
+FRANK	m	Single malt. Eighteen-year-old. Dark, full flavor.
+FRANK	m	Warm, but not aggressive. Peaty after taste.
+SELENA	f	We could have a problem here.
+JIM	m	Jesus Christ. We're never going to be able to get out of London.
+FRANK	m	Don't you worry about that. I've sat twenty years in this seat. I've got my routes.
+FRANK	m	Okay. We either do this now, or we're walking.
+FRANK	m	If anything goes wrong, you just drive. You put your foot down. And go as far as you can.
+FRANK	m	You hear me, Hannah?
+HANNAH	f	Yes, Dad.
+SELENA	f	Stay close, Jim.
+JIM	m	...What?
+SELENA	f	You heard.
+SELENA	f	Where are you going?
+SELENA	f	We've got enough food.
+JIM	m	We don't have any cheeseburgers. "Stay close." It's like going on holiday with your fucking aunt.
+SELENA	f	Find anything.
+SELENA	f	Find anything, Jim?
+JIM	m	No.
+FRANK	m	Okay. We're done.
+HANNAH	f	(leaning out of the
+WINDOW)	?	I am a cab driver's daughter.
+FRANK	m	You're Ayrton Senna's bloody daughter.
+JIM	m	Who's unbelievably hungry?
+ALL	m	Me.
+JIM	m	Let's have a picnic.
+SELENA	f	Oh my God, yes. I can taste the vitamin C. I can feel it in my blood.
+JIM	m	(cracking a bun in half) These are great. They're like huge biscuits.
+HANNAH	f	It's true. They are like biscuits.
+(COMPLETELY	?	unintelligible, mouth full, spraying crumbs) An de phraisins ar phrill moipht.
+HANNAH	f	What did you say?
+JIM	m	I said, the raisins are still moist.
+FRANK	m	Hey.
+FRANK	m	Look over there.
+HANNAH	f	Do you think they're infected?
+FRANK	m	No. I think they're doing just fine.
+JIM	m	You know what I was thinking?
+SELENA	f	You were thinking that you'll never hear another piece of original music ever again. You'll never read a book that isn't already written. Or see a film that isn't already shot.
+JIM	m	That's what you were thinking.
+SELENA	f	No... I was thinking I was wrong.
+JIM	m	About what?
+SELENA	f	All the death, all the shit - it doesn't really mean anything for Frank and Hannah. Because she's got her dad, and he's got his daughter, so... it's okay.
+SELENA	f	(looking back at Jim) I was wrong when I told you that staying alive is as good as it gets.
+JIM	m	That's what I was thinking.
+SELENA	f	...Was it?
+JIM	m	Uh-huh. You stole my thought.
+SELENA	f	(smiling back at Jim) Sorry.
+JIM	m	(slightly surprised, but
+PLEASED)	?	Ah, keep it.
+FRANK	m	It's getting late. We should stay here the night.
+HANNAH	f	Can't sleep.
+JIM	m	Nor can I. It doesn't feel safe, outdoors like this.
+FRANK	m	I think we're safe enough.
+HANNAH	f	...Selena didn't seem to have any trouble.
+JIM	m	I know. I noticed that too. (reaching over and shaking
+SELENA'S SHOULDER)	f	Selena...Selena!
+SELENA	f	What... what is it...
+JIM	m	How did you manage to get to sleep?
+FRANK	m	Bloody hell. You must have needed a hell of a prescription for that lot.
+SELENA	f	I didn't need a prescription. I'm a qualified chemist.
+JIM	m	(inspecting the bottle) Valium. Great. Not only will it get us to sleep, but if we get attacked during the night, we won't even care. (pops the lid) Two each?
+FRANK	m	Not for me, thanks.
+JIM	m	What about...?
+HANNAH	f	Can I, Dad?
+FRANK	m	I don't know, honey.
+HANNAH	f	Da-ad, plee-ease. I can't sleep.
+FRANK	m	All right, all right. Give her half of one.
+THE DRIVER	m	You stupid cunt!
+JIM	m	Fuck you!
+FRANK	m	Hey.
+JIM	m	(confused, semi-conscious) What...
+FRANK	m	Shh. You're having a bad dream, that's all.
+JIM	m	(mumbled, half-asleep
+ALREADY)	?	Okay, Dad.
+JIM	m	Here you go, Frank. This is how you catch dew. I'm covered in the fucking stuff.
+FRANK	m	(packing the spare away) Okay. Let's get rolling. (he checks his watch) If we make good time, we'll be there before midday.
+JIM	m	Bloody hell...
+FRANK	m	It must be Manchester.
+JIM	m	But, the whole of Manchester. The whole city...
+SELENA	f	No fire crews to put it out.
+JIM	m	It can't be...
+HANNAH	f	Is it snow?
+FRANK	m	(hitting the windscreen
+WIPERS)	?	It's ash.
+FRANK	m	Okay, everyone. I think this is it.
+JIM	m	Try the horn.
+SELENA	f	Don't. We might attract the wrong kind of attention.
+FRANK	m	What do you think?
+JIM	m	It looks deserted.
+SELENA	f	Or overrun.
+FRANK	m	Let's check it out.
+HANNAH	f	I don't understand. Did they leave?
+JIM	m	They didn't all leave.
+SELENA	f	I don't like this. I think we should go.
+FRANK	m	No! The vehicles. We should check the vehicles first. There has to be something...
+FRANK	m	Nothing. Nothing here. I can't believe it.
+SELENA	f	Frank.
+FRANK	m	"We should go."
+SELENA	f	Yes.
+FRANK	m	Go fucking where? What the fuck are we supposed to do? How is this going to fucking end? It's never going to -
+FRANK	m	(under his breath) Get out it. GET OUT OF IT!
+HANNAH	f	Dad... are you okay?
+FRANK	m	I... I'm fine, honey. I'm sorry. I just lost my temper. I...
+HANNAH	f	...What?
+FRANK	m	Hannah...
+FRANK	m	Get away from me.
+HANNAH	f	...Dad?
+FRANK	m	Get away from me! Get her away from me!
+HANNAH	f	(moving to Frank) Why? What's...
+FRANK	m	GET AWAY FROM ME!
+SELENA	f	Jim... (breaking into a run) Jim, he's infected!
+HANNAH	f	No! No!
+SELENA	f	(holding Hannah back) Jim!
+HANNAH	f	Dad!
+SELENA	f	Jim!
+SELENA	f	KILL HIM!
+HANNAH	f	...Dad?
+CLIFTON	m	STAY AWAY FROM HIM!
+FARRELL	m	Get away from the man! NOW!
+SELENA	f	Jesus.
+HENRY	m	I'm Major Henry West. Welcome. We've got beds with clean sheets and a boiler that produces hot water. So you can all have a shower. You look like you need one.
+HENRY	m	You heard our broadcast.
+JIM	m	Yes.
+HENRY	m	We must be a disappointment. You were hoping for a full brigade. An army base, with helicopters and field hospitals.
+JIM	m	We were hoping for...
+HENRY	m	The answer to infection. Well, as I said, it's here. Though it may not be quite what you imagined.
+JIM	m	I didn't know what to imagine, so... We just feel lucky to have found you.
+HENRY	m	You were lucky. The fire drove hundreds of infected out of Manchester. The surrounding area is teeming with them.
+HENRY	m	But there's no need for you to worry. We're well protected here.
+HENRY	m	Three-sixty visibility. Flat terrain all around the house... Floodlights, which we've rigged up to a generator. Don't like to waste the fuel, but when we want to, we can turn night into day.
+HENRY	m	High perimeter wall, which helps, and we've been lacing the grounds with trip wires and land mines.
+HENRY	m	You wouldn't want to go mowing the lawn, but if they get in, we hear them.
+HENRY	m	Secondary to protection, our real job is to rebuild. Start again. Down here is the wood-fired boiler that provides us with hot water. Our first step to civilization.
+HENRY	m	And here, the kitchen.
+HENRY	m	What are you cooking, Jones?
+JONES	m	It's a surprise, sir!
+HENRY	m	And finally...
+HENRY	m	...meet Mailer.
+HENRY	m	Mailer, Jim. Jim, Mailer. Got infected three days ago. Mitchell managed to knock him out cold. Got a chain around his neck.
+JIM	m	You're keeping him alive?
+HENRY	m	The idea was to learn something about infection. Have him teach me.
+JIM	m	And has he?
+HENRY	m	In a way. He's teaching me he'll never bake bread. Plant crops, raise livestock. He's telling me he's futureless. And eventually he'll tell me how long the infected take to starve to death.
+HENRY	m	Dinner's at seven. Don't forget to tell the girls.
+JIM	m	...So how is she?
+SELENA	f	She's lost her dad. That's how she is. It's all fucked, Jim.
+JIM	m	Hey, don't...do that. Look, Hannah... Hannah's what Frank said she was. Tough. Strong. And just like me, just like you, she will cope...
+SELENA	f	Shut up, Jim. Just shut up. I don't want her to fucking cope. I want her to be okay. And when Hannah had her dad, it was all okay. Remember? And when it was okay for them, it was okay for us. And now it's all fucked.
+HENRY	m	So, what have we here? Tinned ham, tinned peas, and omelette. You've prepared a feast, Jones.
+JONES	m	Honor of our guests, sir.
+HENRY	m	Absolutely. I was going to suggest a toast, but this omelette will do just as well. (cuts off a chunk of omelette and raises it) To new friends.
+HENRY	m	Jones, did you notice while cooking that these eggs are off?
+JONES	m	I thought the salt might cover the taste, sir.
+HENRY	m	(pushing his plate away) Get rid of it.
+HENRY	m	I don't suppose you can cook, can you? I can't tell you how badly we need someone who shows a little flair in the kitchen.
+DAVIS	m	That's a fucking disappointment. When I saw those eggs, I thought it was Christmas.
+BELL	f	We'll have eggs again. Once everything's back to normal.
+MITCHELL	m	Listen to him! He's still waiting for Marks and Spencer's to reopen.
+FARRELL	m	I think Bell's got a point. If you look at the whole life of the planet, man has only been around for a few blinks of an eye. So if the infection wipes us all out, that is a return to normality.
+FARRELL	m	Is that what you meant, Bell?
+BELL	f	Uh...yeah.
+HENRY	m	(to Jim and Selena) Have you met our new-age sergeant? Remind me, Farrell, why exactly did you join the army in the first place.
+HENRY	m	This is what I've seen in the four weeks since infection. People killing people. Which is much what I saw in the four weeks before infection, and the four weeks before that, and before that, as far back as I care to remember... People killing people. Which to my mind puts us in a state of normality right now.
+SELENA	f	You're not eating.
+HANNAH	f	I don't want to eat.
+HENRY	m	You must eat, Hannah.
+HANNAH	f	I don't want to eat. I want to bury my dad. He's one of the people you're talking about.
+FARRELL	m	Stand to!
+MITCHELL	m	Go, go, go!
+FARRELL	m	Jones! Cover right!
+SMITH	m	Three o'clock! Three o'clock!
+MITCHELL	m	That was mad! Did you see that! That was fucking mad!
+FARRELL	m	Clear!
+JONES	m	Clear.
+MITCHELL	m	Clear. Fuck me, I never saw that before. Keeled over and - bam! Gone, like fucking magic.
+SMITH	m	I drew a lovely bead. One shot. Right between its eyes.
+MITCHELL	m	It was all hanging in the air, and all these bits coming down, and...
+MITCHELL	m	Hello.
+MITCHELL	m	I'll tell you what: you don't need this penknife any more, sweetie. I'm here to protect you now. (winks at the other
+SOLDIERS)	?	But listen, if you want to hold a huge chopper...
+MITCHELL	m	Whoa! Feisty!
+SELENA	f	Fuck you!
+MITCHELL	m	You bet. How about right now?
+MITCHELL	m	Yeah! A little rough stuff!
+FARRELL	m	MITCHELL!
+MITCHELL)	?	Cut it out!
+MITCHELL	m	(grabbing Jim, propelling him back across the room, up against a wall) Easy, tiger. You don't want to go picking a fight with me.
+MITCHELL	m	(gasping, on the ground) Ahh, you cunt. Cunt.
+HENRY	m	Corporal, first point of order after an attack.
+MITCHELL	m	Re-secure the perimeter, sir.
+HENRY	m	Then get to it. Jones, Bedford, go with him. Sergeant.
+FARRELL	m	Sir.
+HENRY	m	Clear the bodies off the lawn. The rest of you go with him.
+HENRY	m	My apologies.
+HENRY	m	Drink?
+JIM	m	Look. We're grateful. Very grateful for your protection, and just to have found other people. But if we're going to stay here with you, you're going to have to stop your men from -
+HENRY	m	Who have you killed?
+JIM	m	I haven't killed anyone.
+HENRY	m	Since it began, who have you killed? You wouldn't be alive now if you hadn't killed somebody.
+JIM	m	A boy. I killed a boy.
+HENRY	m	A child?
+JIM	m	Yes.
+HENRY	m	But you had to. Otherwise he'd have killed you. Survival. I understand. I promised them women.
+JIM	m	What?
+HENRY	m	Eight days ago I found Jones with his gun in this mouth. He said he was going to kill himself because there was no future. What could I say to him? We kill all the infected or wait until they starve to death. And then what? What do nine men do except wait to die themselves? I moved us from the blockade, I set the radio broadcasting, and I promised them women. Because women mean children.
+HENRY	m	And children mean a future.
+JIM	m	Get up. Get up!
+SELENA	f	Wha...
+JIM	m	We've got to get out of here!
+SELENA	f	But we...
+JIM	m	(hauling them up) We're leaving. Now! NOW!
+FARRELL	m	You can't do this! You can't do this! Get back! I'll fucking slot you! I'll slot you, I fucking swear it!
+HENRY	m	I want to give you a chance. You can be with us, or not.
+HENRY	m	Okay, Jim. Okay.
+HENRY	m	Him too.
+FARRELL'S VOICE	m	He's insane.
+FARRELL	m	You know what they're doing, a few hundred miles from here? Across the channel, across the Atlantic, they're eating dinner. They're wondering what to watch on TV tonight. They're sleeping next to their wives.
+FARRELL	m	But we're here, chained to a fucking radiator because the OC has gone insane. Starting the world again when the rest of the world hasn't even fucking stopped. Think about it! How could infection cross the oceans? How could it cross the mountains and the rivers? They stopped it. And right now TVs are playing and planes are flying in the sky and the world is continuing as fucking normal. Think. Actually think about it. What would you do with a diseased little island?
+FARRELL	m	They quarantined us.
+FARRELL	m	There is no infection. It's just people killing people. He's insane.
+JIM	m	... Quarantine?
+FARRELL	m	Come on then, you fucking pansies. Do me first.
+FARRELL	m	So you're going to stick me, Mitchell? Is that it? Is that how you're going to let your sergeant go out, Jones?
+JONES	m	No, Mitch. Do it with the gun.
+FARRELL	m	You're going to let him stick me, are you? Like a fucking dog?
+JONES	m	Mitch, come on. Just shoot him.
+MITCHELL	m	Why?
+JONES	m	Because it's quick.
+MITCHELL	m	So?
+JONES	m	I'll shoot him, then.
+MITCHELL	m	You fucking won't. Any last words?
+MITCHELL	m	I'm going to enjoy this.
+MITCHELL	m	You stupid cunt! What are you doing?
+JONES	m	How did he...
+JONES	m	There!
+JONES	m	Oh no. We're fucked, we're fucked.
+MITCHELL	m	No problem. He's outside. No gun. No vehicle. He's a dead man.
+SELENA	f	You can't do this to her! She's only fourteen!
+SELENA	f	You need to give me a moment with Hannah. Alone.
+CLIFTON	m	The OC. He... he wants you to...
+SELENA	f	He wants us to dress up nice.
+SELENA	f	But if you want us to change, you'll have to get out of the room.
+SELENA	f	(calm, powerful) It's just fucking polite.
+CLIFTON	m	(to the others) Okay. Clear out.
+SELENA	f	Eat them.
+SELENA	f	Eat them, Hannah!
+HANNAH	f	Are you killing me?
+SELENA	f	No. I'm making you not care.
+CLIFTON	m	Hey! What the fuck are you doing?
+SELENA	f	Jim.
+BEDFORD	m	He's at the blockade!
+JONES	m	He went over the wall! We thought he'd be dead sir!
+HENRY	m	Shut up! Davis - you're coming with me!
+HENRY	m	Okay. Let's see if we can sidestep the cat-and-mouse bullshit.
+DAVIS	m	Fuck.
+HENRY	m	Jim?
+HENRY	m	Davis?
+HENRY	m	Fine! Fine, you little bastard! Fucking die out here!
+HENRY	m	Jim.
+JONES	m	What was that? Was that a claymore?
+MITCHELL	m	It was lightning.
+JONES	m	But I heard something.
+MITCHELL	m	I'll go and hit the floods. Take a butcher's. Girls, keep an eye on him, would you?
+HANNAH	f	Those pills. I think they're having an effect. I can feel them, and... I don't feel sleepy, but...
+HANNAH	f	They've been a long time.
+HANNAH	f	What are you going to do if they don't come back?
+HANNAH	f	Will you be the boss if Henry is dead? Is that the way if works?
+JONES	m	Shut up.
+HANNAH	f	I don't think they are coming back. I think they've been killed.
+JONES	m	I told you to shut up!
+SELENA	f	Hannah...
+HANNAH	f	They're dead.
+HANNAH	f	You're going to be next.
+JONES	m	Shit!
+CLIFTON	m	Help! Shoot him! Shoot him!
+SELENA	f	Hannah! Hannah! We have to get out of here!
+SELENA	f	Oh Jesus, Jesus, Hannah, stay with it, stay with it.
+HANNAH	f	(relaxed, as she's yanked
+ALONG)	?	Don't worry. I feel fine. Really.
+MITCHELL	m	What the fuck's going on? What's all the shouti...
+MITCHELL	m	Don't just fucking stand there! Get after them!
+BEDFORD	m	What the fuck are you going to do now, eh?
+MITCHELL	m	Up! Up!
+BELL	f	Mitchell? What's going on?
+MITCHELL	m	Stay here and defend these stairs with your fucking life!
+SELENA	f	Hannah!
+JIM	m	Hannah! Selena!
+BELL	f	I don't have any bullets! I don't have any fucking bullets!
+BELL	f	Don't leave me!
+SELENA	f	Hannah!
+MITCHELL	m	Shut your fucking mouth! You want to get us killed?
+MITCHELL	m	...Shit.
+MITCHELL	m	In here! IN HERE!
+MITCHELL	m	It's me and you, now. And I'm going to get you out of here, and then we're going to find some nice little fucking place, with a pretty little fucking garden, and...
+JIM	m	That was longer than a heartbeat.
+SELENA	f	...Jim?
+SELENA	f	I thought...I thought you were...
+JIM	m	Listen to me. I've got to tell you - I've got to tell you. The world isn't fucked. It's going to be okay. We've got a chance, if we can get to...
+JIM	m	Ow!
+SELENA	f	Hannah! Stop! It's okay!
+SELENA	f	He's not infected!
+HANNAH	f	I thought he was biting you.
+JIM	m	(holding the back of his
+HEAD)	?	I was kissing her! Are you stoned?
+SELENA	f	It's a long story.
+SELENA	f	We have to get out of here.
+HENRY	m	You killed all my boys.
+SELENA	f	Jim!
+HENRY	m	What...Hannah! Hannah?
+SELENA	f	We're going to crash!
+SELENA	f	We're going to crash!
+JIM	m	Just fucking do it!
+JIM	m	Jesus. Not the curtains too.
+JIM	m	You looked all right in this, you know.
+HANNAH	f	There! THERE!
+JIM	m	Do you think he saw us this time?
+

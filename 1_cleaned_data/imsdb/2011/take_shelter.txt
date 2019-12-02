@@ -1,0 +1,610 @@
+CURTIS	m	(takes a seat) No, no, no...Don't feed the dog darlin'.
+CURTIS	m	Thanks babe.
+SAMANTHA	f	You slept late.
+CURTIS	m	Yeah. I need to go. What you got going today?
+SAMANTHA	f	I've got to finish up some curtains for Saturday, and Nat and Cam are coming over.
+CURTIS	m	With the kids?
+SAMANTHA	f	Yeah. Cammie said she just needed to get out of the house.
+CURTIS	m	Tell Nat to take it easy on her.
+SAMANTHA	f	Cam can hold her own. We need to send in the deposit for the beach condo.
+CURTIS	m	I love you.
+CURTIS	m	Just write the check, babe. Okay.
+SAMANTHA	f	Okay. Bye.
+SAMANTHA	f	(as she signs) No more food. You, eat.
+CURTIS	m	Yeah, let's keep going with that bit! It'll go another 10 feet!
+DEWART	?	We won't get the gravel pack down today!
+CURTIS	m	Why not?!
+DEWART	?	Those clouds! We're gonna have to call it!
+CURTIS	m	Happy hour starts at five Dewart!
+DEWART	?	Not if it's rainin'...Ready?
+CURTIS	m	Oh, yeah.
+NAT	f	They were just drinkin' and laughin' and oh, my god...it was like I was bein' in a museum and I saw the progress from apes to men. I saw it. I saw the future. Dewart, that was him...that was going to be him in 20 years.
+SAMANTHA	f	Oh my god.
+NAT	f	Let me tell you, you laugh. You laugh. But this little one in your arms is gonna be shufflin' in a bar just like `em. Yep... Hannah!
+SAMANTHA	f	You guys okay?
+SUE	f	Yeah.
+SAMANTHA	f	No. Don't touch.
+SAMANTHA	f	(signing and speaking) You understand?
+SAMANTHA	f	Oksy. Come here.
+SAMANTHA	f	Hey, DJ. Bring the girls inside.
+DEWART	?	What? It's not my fault! I told you!
+CURTIS	m	Yeah. All right...All right! I'm callin' it! Shut it down!
+SAMANTHA	f	Bye guys. Thanks for coming over.
+NAT	f	I'll call next week about the Lions Club supper.
+SAMANTHA	f	Okay. Love you.
+CAMMIE	f	Bye Sam.
+SAMANTHA	f	Bye Cam.
+SAMANTHA	f	Can you sign s-t-o-r-m?
+SAMANTHA	f	Storm.
+CURTIS	m	I gotta get home.
+DEWART	?	Nat and me been lookin' into a threesome. We've been chattin' with a girl online from Canton. Yeah. Big `ol girl.
+CURTIS	m	What's big?
+DEWART	?	She's about two fifty, two seventy five. She can't be no taller than 5 foot.
+CURTIS	m	Shit man.
+CURTIS	m	I don't see me and Sam gettin' into somethin' like that.
+DEWART	?	No. I don't guess you would.
+DEWART	?	You got a good life Curtis.
+DEWART	?	I'm serious. I think that's the best compliment you can give a man, take a look at his life and say, that's good. That guy's doin' somethin' right.
+CURTIS	m	Well. It ain't always so easy.
+DEWART	?	Hell I know that.
+DEWART	?	Ah shit. I gotta go...Manana.
+CURTIS	m	Good night.
+CURTIS	m	Hey baby.
+CURTIS	m	She do all right today?
+SAMANTHA	f	She was fine. She's still not playin' with the others, though. She can't connect. Honey, you gotta clean up that trash pile in the back. She fished out a board that had nails on it.
+CURTIS	m	I'll get to it this weekend.
+CURTIS	m	I still take off my boots so I won't wake her up.
+SAMANTHA	f	I still whisper.
+SAMANTHA	f	Curtis?
+CURTIS	m	What?
+SAMANTHA	f	Did you hear me? You got to be home, showered, ready to walk out the door by six tonight.
+SAMANTHA	f	What's wrong?
+CURTIS	m	Nothing. I just want her to eat her breakfast and stop playin' with the damn dog.
+SAMANTHA	f	She's fine down there. She had toast already.
+CURTIS	m	Hannah. Come here. Hannah.
+SAMANTHA	f	Curtis?
+CURTIS	m	What?
+CURTIS	m	I'm late.
+SAMANTHA	f	You didn't eat anything?
+CURTIS	m	It's okay.
+JIM	m	I didn't say you had control over the weather Russell, what I did say was that the top shelf has to be cleared by the 15th. That's non- negotiable.
+JIM	m	Umm, Curtis. Where we at on that east 82nd site?
+CURTIS	m	Yesterday slowed us down. We couldn't get the second pilot hole drilled.
+JIM	m	It rained for two hours yesterday. Two hours and our entire schedule went in the toilet. We lose the permit if you're not out of there by end of day.
+CURTIS	m	Yes sir.
+JIM	m	End of day Curtis.
+JIM	m	All right. Valerie tells me that the father son pancake cook off...
+CURTIS	m	Hey, I gotta make a stop before we head out there.
+DEWART	?	Think we got time?
+CURTIS	m	Yeah. There's time.
+CURTIS	m	Sonofabitch.
+DEWART	?	We stripped that bit.
+CURTIS	m	Yeah. Well, bring it up. We gotta re-set it.
+CURTIS	m	Shit.
+DEWART	?	Curtis!
+CURTIS	m	You ever see birds fly like that?!
+DEWART	?	(holding his hand to his
+EAR)	?	What?!
+CURTIS	m	Shit.
+SAMANTHA	f	Come on we gotta go.
+CURTIS	m	Ah, Jesus. I could really use a shower.
+TEACHER	m	Between the ages of four and seven the focus is more on the sign and then later we'll begin adding the alphabet as more of a support syster. Now in ASL...
+TEACHER	m	...the male sign is signed at the forehead area. For example, father is signed up here like this...Father, very good.
+SAMANTHA	f	You're not sorry.
+CURTIS	m	I am sorry.
+SAMANTHA	f	Well, you stink. You smell really bad.
+CURTIS	m	I think I smell good.
+CURTIS	m	Do I smell good?
+CURTIS	m	See. Maybe I should marry her instead.
+SAMANTHA	f	Stop.
+CURTIS	m	(signing and speaking) You okay?
+CURTIS	m	Are you okay?
+CURTIS	m	You're okay.
+CURTIS	m	Hannah! Hannah!
+SAMANTHA	f	Here honey. Put on your shoes
+SAMANTHA	f	Good, you're up.
+SAMANTHA	f	Honey, you're soaked.
+SAMANTHA	f	Are you sick?
+CURTIS	m	I've felt better.
+SAMANTHA	f	I guess we could stay home if we need to.
+CURTIS	m	Where you goin'?
+SAMANTHA	f	It's Saturday, I was going to take Hannah to my booth.
+CURTIS	m	Oh. Yeah.
+SAMANTHA	f	You look really sick honey.
+CURTIS	m	I'm all right. It's just a cold or somethin'.
+SAMANTHA	f	Let me get you some Advil.
+CURTIS	m	No. Don't worry about it. Ya'll just go. I'll be fine.
+SAMANTHA	f	You sure?
+CURTIS	m	Yeah. (holds up the mug) Better already.
+SAMANTHA	f	Okay. I got my phone if you need anything. Don't forget Sunday lunch is here tomorrow.
+SAMANTHA	f	If you're sick, we should cancel.
+CURTIS	m	I'll be all right.
+SAMANTHA	f	Okay, we'll talk later.
+SAMANTHA	f	Come on. Let's go. You sure?
+CURTIS	m	Honey, please.
+SAMANTHA	f	Okay.
+BARGAIN HUNTER	m	How much you asking for this pillow?
+SAMANTHA	f	This pillow's fifteen dollars.
+BARGAIN HUNTER	m	That's more than I want to spend.
+SAMANTHA	f	This is all hand stitched. It takes a really long time. That's why I charge that.
+BARGAIN HUNTER	m	I'll give you seven for it.
+SAMANTHA	f	I can't go that low.
+BARGAIN HUNTER	m	Well that's my offer.
+SAMANTHA	f	How about 10?
+BARGAIN HUNTER	m	I'll give you eight, but it's in change.
+SAMANTHA	f	That's fine.
+SAMANTHA	f	Lucky for you she likes to count change.
+CURTIS	m	Red! Come on.
+CURTIS	m	Get in.
+CURTIS	m	Good boy.
+CURTIS	m	I'm sorry about this buddy. We just gotta work it like this for awhile okay?
+NEWS ANCHOR	m	While rescue workers made several attempts to reach the family, Walter Jacobs wife...
+SAMANTHA	f	But that's what I don't understand. If he didn't do anything why did you put him out back?
+SAMANTHA	f	What?
+SAMANTHA	f	You hear me? I said if he didn't do anything why did you have to put him outside?
+CURTIS	m	I just wanted him to be outside for awhile.
+SAMANTHA	f	He's your dog. He's always been an inside dog.
+CURTIS	m	He's my dog, and that's why he's outside. Right now with Hannah and everything I just think it'd be better.
+SAMANTHA	f	Hannah loves Red.
+CURTIS	m	Hold on.
+NEWS ANCHOR	m	...the gas cloud spread across their six acre property.
+WALTER JACOBS	m	(from a hospital bed) I tried using some wet rags and towels to breathe through but that just seemed to make it worse.
+NEWS ANCHOR	m	While rescue workers made several attempts to reach the family, Walter Jacobs' wife and brother-in- law died in the home. Jacobs survived despite enduring eleven hours of exposure to the gas cloud before finally being flown out by helicopter.
+CURTIS	m	You hearin' this?
+SAMANTHA	f	It's awful.
+CURTIS	m	Eleven hours. No way out.
+CURTIS	m	Hannah.
+CURTIS	m	Hey!
+CURTIS	m	Babe?
+SAMANTHA	f	Yeah?
+CURTIS	m	You got the number for Dr. Shannan?
+SAMANTHA	f	You're still not feeling good?
+CURTIS	m	Yeah, but you got the number?
+SAMANTHA	f	Uh, yeah baby but he'll be closed today.
+CURTIS	m	Right. Yeah. I'll call tomorrow.
+SAMANTHA	f	Honey if you're not feeling good we take you in somewhere.
+CURTIS	m	No. Stop!
+SAMANTHA	f	Okay. Do you want me to cancel lunch today...
+CURTIS	m	Shit...
+SAMANTHA	f	What is that?
+CURTIS	m	I'm sorry. I'm sorry. It's just I got a sore throat. I'm sorry I'm taking it out on you.
+SAMANTHA	f	I was gonna leave Hannah with you so I could go to church, but I'm not going to with you like this.
+CURTIS	m	It's fine. I'll be fine.
+SAMANTHA	f	No. She needs breakfast.
+CURTIS	m	I've got it.
+SAMANTHA	f	I'm sorry that you feel bad but you need to drop the attitude.
+CURTIS	m	Come on. Just go.
+SAMANTHA	f	What's wrong with you?
+CURTIS	m	I'm sorry, I'm sorry. Just go.
+SAMANTHA	f	Hannah's in the den. We have cereal for her.
+CURTIS	m	We're going out.
+CURTIS	m	(with open palms) We're going out. Okay? It's okay.
+CURTIS	m	You stay put okay?
+SAMANTHA	f	Let's just start.
+MELVIN	m	Let's all join hands for the blessing.
+SAMANTHA	f	Where the hell have you been?
+CURTIS	m	I know. I'm sorry. I had to run an errand.
+SAMANTHA	f	You're really late.
+CURTIS	m	I know.
+SAMANTHA	f	You didn't even bring your cell phone.
+MELVIN	m	Missed you at church this mornin' Curtis.
+SAMANTHA	f	Dad.
+MELVIN	m	He knows what to do if he wants me to stop askin'.
+CURTIS	m	Was it a good service?
+MELVIN	m	It was. It was good work.
+CURTIS	m	I'm thinking about cleaning up that storm shelter out back.
+NURSE	f	Curtis?
+DOCTOR SHANNAN	m	Curtis, how you doin' bud?
+CURTIS	m	Hey Doc.
+DOCTOR SHANNAN	m	How's my girl?
+CURTIS	m	She's good.
+DOCTOR SHANNAN	m	That's good to hear. Tilt your head back for me.
+CURTIS	m	I don't have a cold.
+DOCTOR SHANNAN	m	Oh. Did she get that down wrong?
+CURTIS	m	No, I just told her that.
+DOCTOR SHANNAN	m	Oh. So what's the problem?
+CURTIS	m	I've been havin'...I've been having some trouble sleepin'. I was hopin' you could give me somethin' for it.
+DOCTOR SHANNAN	m	How long's this been goin' on?
+CURTIS	m	`Bout four nights now.
+DOCTOR SHANNAN	m	You're not sleepin' at all?
+CURTIS	m	Well some, but real restless.
+DOCTOR SHANNAN	m	Well, I think four nights is a little too soon to tell. My advice would be to not eat or drink anything after 8 o'clock at night. Cut back on any alcoholic drinks, tobacco, caffeine...get some daily exercise.
+CURTIS	m	Well, I think...
+CURTIS	m	I think I may need to try some medication.
+DOCTOR SHANNAN	m	Why do you say that?
+CURTIS	m	The reason I've been having trouble sleeping is because of some dreams I've been havin'. I didn't think it was anything at first, but then the other day I woke up and the bed was wet.
+DOCTOR SHANNAN	m	You urinated in your bed?
+CURTIS	m	Yeah. Couple days before that I had a dream that my dog attacked me and it took all day for the pain in my arm to go away.
+DOCTOR SHANNAN	m	You been to see your mother lately?
+CURTIS	m	It's been about a month.
+DOCTOR SHANNAN	m	Okay. This is a prescription for a pretty mild sedative. It's non- habit forming, but I'm only giving you enough for a few days anyway. Take it and see if it helps. In the meantime, (holds up the other slip) This is the number of a good friend of mine in Columbus. He's a psychiatrist. It's a drive, but he's the best I know.
+CURTIS	m	Okay.
+DOCTOR SHANNAN	m	I'll give him a call and let him know you'll be down to see him.
+CURTIS	m	All right.
+CURTIS	m	Hey Dewart!
+DEWART	?	What you say Curtis?
+CURTIS	m	Not much.
+DEWART	?	They want us to get a pilot hole drilled by lunch. I figure worse comes to worse we can eat on the rig.
+CURTIS	m	Yeah, we'll get it done. Weekend all right?
+DEWART	?	Yeah. Same old shit.
+INSURANCE AGENT	m	(into the phone) No. Look it. I've told you this twice. Please. Just get me the name and or the approval code. Okay.
+SAMANTHA	f	Can I give you a hug?
+INSURANCE AGENT	m	It's fine. It's fine. You know your husband's company actually has very good insurance when it kicks in. Not a lot of jobs offer policies half as good. You're very lucky.
+PHARMACIST	m	That's okay. We have your insurance on file. That'll be
+CURTIS	m	What's the co-pay?
+PHARMACIST	m	That is your co-pay.
+CURTIS	m	Hey.
+SAMANTHA	f	I love you.
+CURTIS	m	I love you too.
+SAMANTHA	f	I have good news.
+SAMANTHA	f	Green? How `bout a red?
+SAMANTHA	f	It was like talking to a sane person for once. She made one phone call. That's it. I've been trying that 800 number for weeks.
+CURTIS	m	It's great. It's great. Hey, Hannah.
+CURTIS	m	You excited? Huh? We're gonna get you some help.
+CURTIS	m	How do you say...sign excited?
+SAMANTHA	f	Like this.
+CURTIS	m	Excited. Yeah?
+CURTIS	m	Now I got to do you.
+SAMANTHA	f	Oh, honey. Look at this one. It's a 2-1 and it sits directly on the beach. Wouldn't that be great? We wouldn't have to worry about Hannah crossing traffic.
+CURTIS	m	What's the rent?
+SAMANTHA	f	Eight ninety nine a week.
+CURTIS	m	That sounds real nice.
+SAMANTHA	f	You sleep well?
+CURTIS	m	Yeah. I did.
+SAMANTHA	f	You look like you're feeling better.
+CURTIS	m	You want me to come there and do it for you? Jesus.
+CURTIS	m	Hey, how much food do you think you'd need to live on for a week?
+DEWART	?	What do you mean?
+CURTIS	m	I mean to stay alive. What do you think you'd need?
+DEWART	?	Not a lot.
+CURTIS	m	You think?
+DEWART	?	I don't know. You hear about people livin' for days all the time offa bark and melted snow.
+CURTIS	m	I've never heard of that.
+DEWART	?	Shit I don't know. You asked the question.
+CURTIS	m	It's on there. It's on. Come on.
+CURTIS	m	Dammit.
+DEWART	?	What?
+CURTIS	m	It sounds like thunder.
+DEWART	?	What sounds like thunder?
+DEWART	?	Where you goin'? Curtis. Where you goin'?
+SARAH	f	Curtis.
+CURTIS	m	Hey Mom.
+SARAH	f	Come in.
+CURTIS	m	Sure.
+CURTIS	m	I'm going to get some water.
+CURTIS	m	You want some?
+SARAH	f	No.
+SARAH	f	Isn't she lovely.
+CURTIS	m	Mom?
+SARAH	f	Yes.
+CURTIS	m	I need to ask you somethin'.
+CURTIS	m	Do you remember what year we brought you up here? To the first place.
+CURTIS	m	It was `86.
+SARAH	f	Yes. Because Kyle was going to be a senior.
+CURTIS	m	I was 10.
+SARAH	f	Yes.
+CURTIS	m	Can you remember what happened before you got diagnosed?
+SARAH	f	What do you mean?
+CURTIS	m	I mean...I just want to know how it all started. Before you had to leave.
+SARAH	f	Oh, I don't know. I remember it was a real stressful time. Your father was gone a lot, and I couldn't handle things on my own.
+CURTIS	m	Did you ever have any dreams? Like bad dreams.
+SARAH	f	No. Nothing like that. There was always...
+SARAH	f	(searches for the words) There was always a panic that took hold of me. I thought people were watching me or listening to me.
+CURTIS	m	It's all right. It's all right. It's fine.
+SARAH	f	Are you okay?
+CURTIS	m	Yeah. Yeah. I'm fine.
+CURTIS	m	(into the phone) May I have the number for Doctor George Shannan? Thanks.
+CURTIS	m	(into the phone) Hi, is Doctor Shannan there? May I speak with him? This is Curtis LaForche. Hey Doc. Yeah, sorry...Sorry to call you at home, I just don't think I can make it to Columbus to see that psychiatrist. Yeah, it's just too far. Is there somewhere local you can send me?
+SAMANTHA	f	Hey.
+CURTIS	m	Oh, hey. Sorry I woke you up.
+SAMANTHA	f	It's okay. Where you been?
+CURTIS	m	I went to see mom.
+SAMANTHA	f	Is she okay?
+CURTIS	m	Mmm hmm. I just wanted to check up on her.
+SAMANTHA	f	You shoulda told me we would have gone with you.
+CURTIS	m	That's okay.
+SAMANTHA	f	Come to bed.
+CURTIS	m	I will in a bit.
+MYERS	m	Well you've kept up with the payments on the house.
+CURTIS	m	We've been good about that.
+MYERS	m	I gotta tell you Curtis, banks aren't loaning money the way they used to. We've got you a loan today, but the interest rates are variable and we have to tie it to your house.
+CURTIS	m	That's fine.
+MYERS	m	Curtis, I've known you a long time. We financed your house for you, two vehicles. I'm telling you this is a risky loan you're taking.
+CURTIS	m	I need the money John.
+MYERS	m	Okay.
+CURTIS	m	Hey.
+DEWART	?	Hey.
+CURTIS	m	Sorry I left you yesterday.
+DEWART	?	Jim came by. I covered for you.
+CURTIS	m	Thanks.
+DEWART	?	I need your help with the depth charts.
+CURTIS	m	Sure.
+DEWART	?	Fuckin' Nat put me in charge of frying oysters for that Lions Club supper.
+CURTIS	m	You need another burner?
+DEWART	?	Yeah, if you still got yours I could use it.
+CURTIS	m	You think you could help me with somethin'?
+DEWART	?	Whatta you need?
+CURTIS	m	I'm gonna build out the tornado shelter in my backyard. I could use some help.
+DEWART	?	The hell you wanna do that for?
+CURTIS	m	Just needs to be done.
+DEWART	?	What do you need?
+CURTIS	m	I figure I'll do it on Saturday, borrow some equipment from work.
+DEWART	?	You sure about that?
+CURTIS	m	I just need a backhoe, a hauler. I'll rent the rest.
+DEWART	?	Yeah. Whatever. I'll help.
+CURTIS	m	Thanks.
+DEWART	?	You all right man?
+CURTIS	m	What do you mean?
+DEWART	?	I just don't wanna see you fuck up.
+CURTIS	m	I'm not.
+KENDRA	f	Hi.
+CURTIS	m	Hello.
+KENDRA	f	Have a seat. I'm Kendra.
+CURTIS	m	Curtis.
+KENDRA	f	I'm gonna start by askin' you some questions.
+CURTIS	m	Okay. I already answered all the questions on the forms.
+KENDRA	f	Yeah, I know. I looked at `em, but I need to get a profile started on you.
+CURTIS	m	Right. Well...
+CURTIS	m	Out of the five possible symptoms needed to be diagnosed with
+CURTIS	m	(reads off the pad) delusions, hallucinations, disorganized speech, disorganized behavior, and the negative symptoms, I've had two. Delusions and hallucinations. But they say it has to continue for six months to be diagnosed schizophrenia and mine hasn't been goin' on anywhere near that long. So, I took this quiz in the back of the book and I scored a five out of a possible twenty. Schizophrenia starts at twelve. So, they say it might be a... (reads off the pad) brief psychotic disorder. Whatever it is, I need to know what to do or what to get on to get this thing under control.
+KENDRA	f	Look. I'm a counselor. Certified, but I'm not a psychiatrist. I can't prescribe anything to you. I can talk to you, I can recommend where to send you, but that's it.
+KENDRA	f	Now that said, if you want to talk, I'll listen. For a lot of people that's a good start.
+KENDRA	f	Now you said here that your mother was diagnosed with paranoid schizophrenia in her thirties. And you're at 35. You wanna talk about that?
+CURTIS	m	Yeah, I don't know my mother's symptoms. I was just 10. My brother was 17. And, uh...I don't know. She just left me in the car in the parking lot at the grocery store one day. And she didn't come back. And then they found her a week later eatin' trash out of a dumpster in northern Kentucky.
+CURTIS	m	My dad had to put her in the state hospital in Columbus. And she's been in assisted living ever since. Yep. My dad raised me. He died last April.
+KENDRA	f	So tell me `bout these dreams.
+SAMANTHA	f	I don't know what our schedule will be, but...
+TEACHER	m	That's all right. But I really do think you should continue with the sign language. And any additional therapies that kids need for the cochlear implant.
+SAMANTHA	f	Absolutely.
+TEACHER	m	Okay. Good night.
+SAMANTHA	f	Good night.
+CURTIS	m	Is anyone seeing this?
+CURTIS	m	Hey. It's all right. Calm down.
+CURTIS	m	Samantha.
+SAMANTHA	f	Are you out of your mind?
+SAMANTHA	f	Not a word. You didn't say one word about this to me. Don't you think you owe me that? Don't you think that you might respect me enough to at least consider what I had to say?
+CURTIS	m	I didn't want you worryin' about it.
+SAMANTHA	f	Well I'm worried Curtis. How are you paying for all that?
+CURTIS	m	I got a home improvement loan from the bank.
+SAMANTHA	f	How could you do that without talking to me? You know the expenses we have comin' up. You want to waste money on a stupid tornado shelter?
+CURTIS	m	I'm doin' it...I'm doin' it for us. I know you don't understand.
+SAMANTHA	f	You're right. I don't understand. I don't understand half the stuff you've been doin' lately. I don't understand you puttin' Red out back. I don't understand you stayin' up all night in that stupid tornado shelter. You don't come to bed half the time. You leave and don't tell me where you're goin'. Explain that to me. Please. Tell me something that helps me understand why you're bein' like this.
+CURTIS	m	There's nothin' to explain.
+CURTIS	m	I'm gonna go put Hannah to bed.
+SAMANTHA	f	Curtis!
+SAMANTHA	f	Baby. Oh, my God. Baby...Oh, my God. Baby.
+SAMANTHA	f	I need an ambulance! My husband's having a seizure. 41800 Tindale Road. Hurry up. He's bleeding!
+SAMANTHA	f	(into the phone) Okay. Okay.
+SAMANTHA	f	Honey?
+SAMANTHA	f	Honey? Are you okay?
+SAMANTHA	f	You were having a seizure. I called an ambulance.
+CURTIS	m	(into the phone) No. It's fine. It's fine. Don't send an ambulance. It's fine.
+SAMANTHA	f	What are you doing?
+SAMANTHA	f	Baby what's goin' on?
+CURTIS	m	I'm sorry you fellows had to come all the way out.
+EMT	m	It's what we do. Now we can still take you in if you want a doctor to look at those cuts in your mouth.
+CURTIS	m	Yeah. That's all right.. I'll see somebody on Monday.
+EMT	m	All right.
+CURTIS	m	Thanks.
+CURTIS	m	I haven't been honest with you. I'm sorry.
+SAMANTHA	f	What's goin' on?
+CURTIS	m	I've been havin' these dreams. I guess they're more like nightmares. It's why I've been actin' like this.
+CURTIS	m	They always start with a kind of storm. Like a real powerful storm.
+CURTIS	m	And there's always this dark, thick rain. Like fresh motor oil. And then the things, people, it just makes `em crazy. They attack me. Sometimes they go after Hannah. First one I had Red nearly chewed through my arm.
+SAMANTHA	f	That's why you put him out back?
+CURTIS	m	Yeah.
+SAMANTHA	f	What was the dream? Tonight.
+CURTIS	m	It was Dewart. We were at the job site. The storm started and somethin' happened. His face. His eyes were different. He came after me with a pick ax. And we fought. And he ran it through my leg.
+CURTIS	m	It's hard to explain, because it's not just a dream. It's a feeling. I'm afraid something might be comin'. Something that's...not right. I can not describe it. I just need you to believe me.
+CURTIS	m	I've been to a counselor. I've seen her a few times.
+CURTIS	m	You know what I come from. And I promised myself...I promised myself I would never leave. And I am doin' everything that I can to make that true.
+ATTENDANT	?	Since the doctor's approved her for surgery, We just need to get her scheduled. The next possible opening is... (reviews a calendar) The 21st of next month. That's six weeks.
+CURTIS	m	Six weeks?
+ATTENDANT	?	Is that okay?
+SAMANTHA	f	It's wonderful.
+RUSSELL	m	...this point just to the west. I don't think we'll have any problem. We should be able to get twenty, maybe thirty in this next week. But we're looking to see how that's gonna shape up, so...
+RUSSELL	m	Curtis?
+CURTIS	m	Yeah.
+RUSSELL	m	What do you think?
+CURTIS	m	Yeah. That sounds good. We'll get it done.
+JIM	m	Come in.
+JIM	m	What you need Curtis?
+CURTIS	m	I need a favor Jim.
+JIM	m	What's that?
+CURTIS	m	Can you take Dewart off my crew? Just reassign him someplace else.
+JIM	m	What's the trouble? He not pullin' his weight?
+CURTIS	m	No, nothin' like that. He's a good worker. He's a good man. He's my friend. I think it'd be easier not being in charge of someone I'm so close to.
+JIM	m	You know, I understand. This is part of what it means to manage people Curtis. You're gonna have to learn that.
+CURTIS	m	Yes sir. I appreciate that but... well it would just be very helpful in this case.
+JIM	m	Okay. Well, I can put him with Russell. Anybody else you prefer?
+CURTIS	m	No. Whoever you think's right.
+JIM	m	Okay.
+CURTIS	m	Thank you.
+JIM	m	You been missin' a lotta work Curtis.
+CURTIS	m	I know. My daughter's had a lot of doctor's visits. I haven't let anything get behind.
+JIM	m	No. But don't. Okay.
+CURTIS	m	Yessir.
+SAMANTHA	f	I know they just usually do oysters and fries but what if we did something healthier on the side?
+NAT	f	What like slaw?
+SAMANTHA	f	I don't know. Maybe a vegetable or salad.
+NAT	f	Dewart's been tellin' me how strange Curtis has been actin' lately. I am so sorry.
+NAT	f	It's not like you don't have enough on your plate with Hannah.
+SAMANTHA	f	Things are fine. We're fine.
+OWNER	m	Can I help you?
+CURTIS	m	Yeah. Can I look at one of these gas masks?
+OWNER	m	Sure. Which one you want to look at?
+CURTIS	m	The newest one.
+CURTIS	m	How much?
+OWNER	m	One seventy eight.
+CURTIS	m	Anything cheaper?
+OWNER	m	No. That's the cheapest one I got in the store. They go all the way up to two ninety. I don't know what you want to spend but a gas mask ain't something you want to go cheap on.
+CURTIS	m	You got any kids sizes?
+OWNER	m	No. Kids can't wear those. They got a have a special thing, its like a hood. I don't fool with those.
+CURTIS	m	Yeah. Ring me up a couple of `em.
+KYLE	m	What you got goin' on here?
+CURTIS	m	Just addin' on to the storm shelter.
+KYLE	m	Why?
+CURTIS	m	Just `cause.
+KYLE	m	You runnin' water to it?
+CURTIS	m	Oh, yeah. From our well. Runnin' sewer out to the city line.
+KYLE	m	How much you spendin' on this thing?
+CURTIS	m	It's not bad.
+KYLE	m	Doesn't look it.
+KYLE	m	You take your eye off the ball one minute in this economy and you're screwed. You got the cash for this?
+CURTIS	m	Yeah.
+KYLE	m	Don't put nothin' on credit cards. That shit'll eat you up.
+CURTIS	m	I'm not.
+KYLE	m	Samantha called me.
+CURTIS	m	I figured.
+CURTIS	m	Called you to come tell me to quit?
+KYLE	m	She called `cause she's worried. Says you've been stressed out.
+KYLE	m	So?
+CURTIS	m	So what?
+KYLE	m	You stressed out?
+CURTIS	m	No. No more than anybody else.
+KYLE	m	Work all right?
+CURTIS	m	Uh, huh...Hey, look. You wanna come by and have dinner sometime, Kyle. That's fine. We'll have a beer and talk about the old days, but you got somethin' to say just say it.
+KYLE	m	You can stop that shit right now. I'll come over there and remind you what it feels like to get your ass whipped.
+KYLE	m	I'm just coming here to check on you.
+CURTIS	m	Well I appreciate it Kyle.
+KYLE	m	You been to see Mom?
+CURTIS	m	Yeah. A few days ago.
+KYLE	m	She all right.
+CURTIS	m	You should see her. Take your girls.
+KYLE	m	Yeah. I'll get around to it.
+KYLE	m	You need a hand?
+CURTIS	m	No. I've got it.
+KYLE	m	Okay. Call me if you need me okay?
+CURTIS	m	I will.
+CURTIS	m	Hey Kyle?
+CURTIS	m	Actually you could do me a favor.
+KYLE	m	What's that?
+CURTIS	m	You still looking for a dog?
+KYLE	m	Sure.
+CURTIS	m	They got a good spot for you, okay bud.
+KYLE	m	You sure?
+CURTIS	m	Yeah.
+KYLE	m	I know it'll make my girls happy. All right.
+CURTIS	m	Hey Kyle?
+KYLE	m	Yeah?
+CURTIS	m	Take care of yourself.
+KYLE	m	All right. All right. I will little brother. You take care of your family. Handle your business. Okay?
+KYLE	m	All right.
+CURTIS	m	All right. Bedtime.
+SAMANTHA	f	You okay?
+SAMANTHA	f	Who's that?
+CURTIS	m	Ah shit.
+CURTIS	m	Hey Jim.
+JIM	m	Curtis. Dewart told me you took equipment from work for a project at your house. Said that's why you wanted him off your crew. I came out here to see it myself.
+CURTIS	m	Yeah. It was just a hauler and a backhoe. It was Saturday. I had `em back in less than 8 hours.
+JIM	m	You know that doesn't matter. I can't even tell you how many rules you broke.
+JIM	m	What if you had an accident? Huh? What if you ran somebody over on your way out here? Lawsuit like that could bankrupt me.
+CURTIS	m	Well, I'm sorry Jim. I hadn't thought of that. Thank God nothin' like that happened. You know? I'll do whatever I can to make it right.
+JIM	m	You can pick up your last check on Friday. You've got two weeks benefits.
+CURTIS	m	Did you fire Dewart?
+JIM	m	He's on two weeks leave unpaid... I'm sorry Curtis. You did this to yourself.
+CURTIS	m	I've been fired.
+SAMANTHA	f	What about the health insurance?
+CURTIS	m	We get two more weeks.
+CURTIS	m	I'm sorry...
+CURTIS	m	Oh, `scuse me.
+ANDY	m	Are you Curtis?
+CURTIS	m	Yeah.
+ANDY	m	Come in. Kendra transferred out. I'll be meeting with you today.
+ANDY	m	Please, sit down.
+CURTIS	m	What happened to Kendra?
+ANDY	m	She got into a program at OSU so she'll be transferring near there. I've split her case load with another counselor. It's been kind of crazy around here lately.
+CURTIS	m	Huh.
+ANDY	m	So I've looked over your file. It says your mother was diagnosed with paranoid schizophrenia in her early thirties. Let's start there.
+SAMANTHA	f	I'm so sorry. I completely forgot.
+WOMAN	f	That's okay. Don't worry about it.
+SAMANTHA	f	Here. I hope you like them.
+WOMAN	f	Thanks. I brought cash.
+SAMANTHA	f	That's terrific. It's fine.
+SAMANTHA	f	Call me if they don't work and I'm sorry again.
+WOMAN	f	Oh, it's okay. Thank you.
+SAMANTHA	f	What's that?
+CURTIS	m	That's the alternator from the truck.
+CURTIS	m	I was just trying to figure out a way to charge enough batteries to run lights down there. Ah, what the hell? Maybe I'll hook it up to your old exercycle.
+CURTIS	m	You gonna leave me?
+SAMANTHA	f	You flinched when I touched your hand this morning.
+CURTIS	m	I'm sorry.
+SAMANTHA	f	I was in one of your dreams?
+CURTIS	m	Yeah.
+SAMANTHA	f	Can you deal with that?
+CURTIS	m	Yeah.
+SAMANTHA	f	Okay. Then I made a decision. We cancel the beach trip. We have enough to cover bills for the next two months with your last check. I'm going to get a job. You're gonna find another job. I'm going to call to see if we can move Hannah's surgery up. We'll need to see what it costs to extend your policy to the end of the year. I want you to see a psychiatrist. Not a counselor from the free clinic. Someone good.
+CURTIS	m	Doctor Shannan gave me the number of somebody. But, uh, I just don't think we can afford it.
+SAMANTHA	f	We'll find the money. Also, the Lions Club supper's this weekend. I want you to come with me.
+CURTIS	m	I don't want to see any of those people.
+SAMANTHA	f	I want you to go. I need to do something normal.
+CURTIS	m	All right.
+CURTIS	m	How many pieces does Hannah get?
+SAMANTHA	f	Just one.
+DEWART	?	What're you doin' here?
+CURTIS	m	Not here man.
+DEWART	?	I said what are you doin' here.
+SAMANTHA	f	Curtis.
+DEWART	?	I told people what you been doin'.
+CURTIS	m	I know.
+DEWART	?	You cut me loose. Everything we been through.
+CURTIS	m	I know. I'm sorry.
+DEWART	?	You ain't fucking sorry. You sorry you wouldn't cut me loose. We fuckin' friends! This how you treat friends?
+CURTIS	m	Come on.
+CURTIS	m	God dammit.
+CURTIS	m	You think I'm crazy?! Huh! Is that what he told you!
+CURTIS	m	Well, listen up! There is a storm comin' like nothing you have ever seen. And not a one of you is prepared for it. You think I'm crazy? I'M TALKIN' LEWIS! You think I'm a thief?
+CURTIS	m	Sleep well in your beds. Cause if this thing comes true, there ain't gonna be any more.
+CURTIS	m	Hannah?
+CURTIS	m	Hannah!
+SAMANTHA	f	Curtis! Wake up! Wake up!
+CURTIS	m	Come on. It's okay.
+CURTIS	m	It's okay. All right. Come on. Sit down.
+SAMANTHA	f	No. Don't do that.
+CURTIS	m	It's okay. It's oxygen. Here. Put this on.
+SAMANTHA	f	Are you kidding?
+CURTIS	m	Please just do it. Okay?
+CURTIS	m	There we go. All right. Keep it out of your eyes. Okay?
+CURTIS	m	Hey. I love you. It's okay.
+SAMANTHA	f	Wake up babe.
+CURTIS	m	Where's your mask?
+SAMANTHA	f	We took them off. It's fine. Take it off.
+CURTIS	m	No.
+SAMANTHA	f	We're fine. Take it off.
+SAMANTHA	f	You need to open the door now.
+CURTIS	m	What if it's...What if it's not over?
+SAMANTHA	f	What?
+CURTIS	m	What if it's not over?
+SAMANTHA	f	It's over. Get the keys. Open the door.
+CURTIS	m	It's still storming.
+SAMANTHA	f	No. It's not.
+CURTIS	m	I can hear it.
+SAMANTHA	f	I don't hear anything.
+CURTIS	m	Put your hand on the door. You can feel it.
+CURTIS	m	(signing and speaking) Thunder? Do you feel it?
+CURTIS	m	(signing and speaking) You feel it? You feel it?
+CURTIS	m	I'm sorry.
+SAMANTHA	f	Baby, there's no storm outside.
+CURTIS	m	I'm sorry.
+SAMANTHA	f	Curtis. I wouldn't lie to you. We love you very much. Please open the door.
+CURTIS	m	I'm sorry. I can't.
+SAMANTHA	f	I love you, but if I open the door, then nothin's gonna change. You'll see that everything's fine, but nothing will change. Please. This is what it means to stay with us. This is something you have to do.
+CURTIS	m	Could you move Hannah back?
+CURTIS	m	It's fine.
+PSYCHIATRIST	?	Do you have any vacation time that you could use?
+CURTIS	m	I don't have a job right now.
+PSYCHIATRIST	?	Well, I know that times are hard, but I think it's really important for you to separate yourself from that storm shelter.
+PSYCHIATRIST	?	I think you need to break away from it for awhile. We can start you on some medication that I think will help, but that action alone would mean a lot.
+SAMANTHA	f	We usually go on a trip to Myrtle Beach every summer. We were gonns go this month.
+PSYCHIATRIST	?	I think that would be okay if we start the medication now. It would give you all some time to prepare as a family, but I want to be clear, when Curtis gets back he'll need to take more time than that.
+SAMANTHA	f	What does that mean?
+PSYCHIATRIST	?	I mean that he'll need hands on therapy at a real facility.
+CURTIS	m	You mean I have to leave my family.
+PSYCHIATRIST	?	I think you need to seriously commit to some treatment.
+CURTIS	m	(signing and speaking) Hey. Good, huh?
+CURTIS	m	Good. We put a top on it.
+CURTIS	m	What is it honey?
+CURTIS	m	What?
+CURTIS	m	Sam.
+SAMANTHA	f	Okay.
+

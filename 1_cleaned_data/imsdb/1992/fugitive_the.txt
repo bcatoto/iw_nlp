@@ -1,0 +1,668 @@
+ROBERTS	m	Richard...
+ROBERTS	m	Cancun. Nat just talked everybody  into it...
+KIMBLE 	m	So, what's the deal? If the hospital  buys ten new -
+NAT	f	No, no, no, no strings attached, Dr.  Kimble. Industrial Hospital Supply  has no ulterior motives.
+KIMBLE 	m	On the house, huh? Tonic water with lime.
+KIMBLE 	m	Never get me to sell my soul for one of those trips...
+KIMBLE	m	tickets, Nat, give me a call.
+KIMBLE 	m	You're slicing, Dave. Don't turn  your hip.
+GOLFING MAN 	m	Thanks, Richard...
+DR. WAHLUND 	?	I'm so glad you talked me into  coming, Richard... I can pick my cruise wardrobe.
+RICHARD 	m	It's for a good cause, Kath...  Besides you need to get out of the lab more. Your electron microscope is starting to give you a tan.
+KIMBLE	m	Hey, Jim.
+NICHOLS	m	Richard, I just saw someone who  wanted to meet you...
+NICHOLS	m	Richard Kimble... Alex Lentz. Alex is working on the RDU90 trials for  Devlin-Macgregor.
+LENTZ	m	Dr. Kimble... Sorry, we've been  trading phone calls last few days  ... something about a biopsy report  I returned to you?
+KIMBLE	m	Yeah... Three. Livers appeared  hepatetic to me.
+LENTZ	m	I'll be in my office in the morning  and I'll pull up the samples. Is that  a good time for you?
+KIMBLE	m	Sure.
+LENTZ	m	See you, Jim.
+NICHOLS	m	Before I forget, I went by the garage this afternoon and picket up the  Ferrari. Thanks for the loaner again.
+KIMBLE	m	They fix it this time?
+NICHOLS	m	We'll see.
+NICHOLS	m	You look fabulous, Helen.
+HELEN	f	Hello, Jim.
+NICHOLS	m	We've got a court tomorrow at three.
+KIMBLE	m	Well, I've seen everyone, can we  leave?
+HELEN	f	That would be a little abrupt, don't  you think?
+NOW EAU WIFE	f	I told my husband that he was going  to kill us if he didn't stop  operating. What with this AIDS thing,  he's putting us all at risk.
+HELEN	f	I'm sorry, I have to get my husband  home.
+HELEN	f	You looked handsome tonight...
+KIMBLE	m	Thank you...
+HELEN	f	Uh, huh... most men in a tuxedo look  like waiters...
+KIMBLE	m	But me?
+HELEN	f	You looked more like... a band  director.
+HELEN	f	Are we home yet?...
+KIMBLE	m	Dr. Kimble When? Okay, tell them I'll be there  in ten minutes.
+KIMBLE	m	Tim's got a problem.
+HELEN	f	Call me on your way home.
+KIMBLE	m	Cavalry's here.
+RESIDENT	m	Patient is a male, forty-three. We  pulled his gall bladder and the  bleeding started.
+KIMBLE	m	What's his pro time?
+RESIDENT	m	He's at 36 seconds. We got a major  bleeder in here.
+KIMBLE	m	You talk to the family?
+RESIDENT	m	None. He's off the street.
+KIMBLE	m	Okay... I'm clamping. Can he  tolerate it?
+ANESTHESIOLOGIST	?	He's a very sick guy.
+KIMBLE	m	Do we have a choice?
+ANESTHESIOLOGIST	?	Go for it.
+KIMBLE	m	Marie, give me a clamp...
+KIMBLE	m	Your husband know you're here tonight, Marie?... What about this liver?
+RESIDENT	m	History's sketchy. Could be an  alcoholic.
+KIMBLE	m	Who referred him?
+RESIDENT	m	He's on a drug protocol. RDU90.
+KIMBLE	m	The wave of the future... Marie, you  told Frank yet? Frank is so jealous  of this late night thing we've got  going here... This should hold him.  Bleeding's stopped. Let's get a  biopsy... Send it downstairs and make sure you  get Kath her slice.
+SURGEON	m	You staying for the closing, Rich?
+KIMBLE	m	No. I got a date.
+SURGEON	m	Hey, Richard...
+SURGEON	m	Thanks.
+KIMBLE	m	Hi. I'm five minutes away...
+HELEN	f	I'm glad it went well. I'll see you  in a minute.
+KIMBLE	m	I'm home. Did you hear who won the  Bulls game?
+KIMBLE	m	Helen?
+HELEN	f	He's here... still in the house...
+911	?	Did I hear you right? Your attacker  is still in the house? Ma'am?
+HELEN	f	He's trying to kill me...
+911	?	Will you repeat that please?
+HELEN	f	Richard... He's trying to kill me...  my head.
+KIMBLE	m	Hang on, babe... going to be all  right.
+HELEN	f	My head. Richard my hold me.
+911	?	... Hello. You said his name is  Richard? Ma'am, can you talk to me?  Ma'am?
+COP #1	m	Move away from her.
+DETECTIVE KELLY	m	Can you give us a little more to go  on besides the fact that he had an  artificial arm? What kind of gun was it, Doc?
+KIMBLE	m	It was .38... I think. I only saw it  for a second. I knocked it out of  his hand.
+DETECTIVE ROSETTI	m	Do you own a gun, Dr. Kimble?
+KIMBLE	m	Yes.
+DETECTIVE ROSETTI	m	What kind of gun?
+KIMBLE	m	A .38 Smith.
+DETECTIVE KELLY	m	Did you have your key with you tonight,  Dr. Kimble?
+KIMBLE	m	What's going on here? This guy was  trying to rob us.
+KIMBLE	m	You guys have got to be out of your  minds. I didn't kill my wife!
+DETECTIVE KELLY	m	Let's start over, Dr. Kimble. What'd  you have for breakfast?
+MAN	m	We're all adults here so I'll lay it out...
+MAN	m	... If you two come up with a deal,  I'll listen, but let me make one  thing perfectly clear.
+NEWS REPORTER	m	Police are revealing no details in  the case against Chicago surgeon...
+MAN	m	... It's an election year...
+JUDGE BENNETT	m	... and this case is a heater. It  will not end up a bench trial...
+GUTHERIE	?	We've had private investigators  interview over a hundred amputees,  Richard...
+GUTHERIE	?	... We can't find this guy.
+KIMBLE	m	I know what I saw, Walter.
+GUTHERIE	?	I put you up on the stand to say what  you saw without anything that  remotely smells like proof and the  State's attorney is going to take  this one-armed man story and run it  up our ass. Look, Richard, you're paying us a  lot of money to defend you... A plea to second degree -
+KIMBLE	m	I didn't kill my wife.
+GUTHERIE	?	You're a successful upper middle  class white man charged in a  violent crime...
+GUTHERIE	?	It's a circumstantial case, but it's  also a jury trial. We play 'em, they  play 'em...
+GUTHERIE	?	... But if we lose, we lose big.  Just remember, they're lined up a  block long to have your hide.
+DETECTIVE KELLY	m	No forcible entry was found. From  the beginning of the investigation,  it did not appear to be a break-in.  Nothing was missing.
+FORENSICS TECHNICIAN	m	The defendant's prints were found on the neck, gun, bullets, and lamp...  no other sets were fount other than  the deceased.
+911	?	Did I hear you right? Your attacker  is still in the house? Ma'am?
+HELEN	f	He's trving to kill me...
+911	?	Will you repeat that please?
+HELEN	f	Richard... He's trying to kill me...
+PROSECUTOR	m	Dr. Nichols. You are aware that  Richard Kimble was the only  beneficiary of Helen Kimble's estate. 12 million dollars roughly.
+NICHOLS	m	I was aware of that. The money meant  nothing to him.
+PROSECUTOR	m	Yet in your presence, Richard Kimble  once said that 'if he had Helen's  money he could find plenty of uses.' Did he not?
+NICHOLS	m	We were talking about -
+PROSECUTOR	m	Yes or no?
+CORONER	m	The wound to the head caused a  massive hemorrhage to the brain. It  took from five to seven minutes for  her to die...
+KIMBLE	m	... And I was holding her when the  officers came in.
+PROSECUTOR	m	How tall was this man, Dr. Kimble?
+KIMBLE	m	I can't be sure. We were, mostly on  the floor, fighting... I couldn't -
+PROSECUTOR	m	Did that fight cause the scratches  on your face and arms?
+KIMBLE	m	No. As I explained -
+PROSECUTOR	m	And how did this man enter your  house?
+KIMBLE	m	I don't know -
+PROSECUTOR	m	And you probably don't know why your  wife told the emergency operator You  were her attacker?
+KIMBLE	m	She didn't -
+PROSECUTOR	m	Your name is Richard, isn't it? Your  gun is a .38, isn't it? Your prints  were on the gun, the bullets, the  lamp, her neck, weren't they?
+KIMBLE	m	Look...
+PROSECUTOR	m	Weren't they?
+JUDGE BENNETT	m	After careful and studied review of  all evidence presented during each  phase of this proceeding, and  because aggravated circumstances,  detailed at length, were present  the night of January 20th.
+JUDGE BENNETT	m	Therefore, it is the decision of  this court...
+JUDGE BENNETT	m	... that you be remanded to Menard  State penitentiary...
+JUDGE BENNETT	m	... where you will serve a sentence  of life imprisonment without  possibility of parole.
+PRISONER #1	m	Hey. Illinois penal regulations  require a meal for transport rides of four hours or more.
+YOUNG GUARD	m	Jack! Feedin' time.
+COPELAND	m	Breathe, and you're first.
+YOUNG GUARD	m	Suit yourself.
+KIMBLE	m	Look out!
+OLD GUARD	m	You. You're a doctor. C'mere.
+OLD GUARD	m	Do something.
+KIMBLE	m	He isn't going to make it unless he  gets to a hospital. Fast.
+OLD GUARD	m	ZL.
+KIMBLE	m	Just where the hell are we?
+OLD GUARD	m	Oh, shit...
+KIMBLE	m	It's locked. Where're your keys?
+KIMBLE	m	Which one? This? This one?!
+KIMBLE	m	Help me get him -
+COPELAND	m	Give me that.
+COPELAND	m	You listen to me. I don't give a  damn which way you go, just don't  follow me.
+GERARD	m	Good lord...
+REFRO	m	What is this... a circus?
+BIGGS	m	Point of impact.
+GERARD	m	Biggs, your turn to babysit Newman.
+BIGGS	m	Shit. Come on.
+GERARD	m	How ya doing? Who's in charge?
+TROOPER	m	Sheriff Rollins. Just follow the  lights -
+OLD GUARD	m	... train was bearin' down on us,  fast. I don't know how - it's still  kind of hazy - but I grabbed him and pushed him out of the bus.
+SHERIFF	m	You coulda both been killed.
+OLD GUARD	m	I know, but hell, he's my partner. Woulda done the same for me.
+GERARD	m	Excuse me, Sheriff Rollins? Deputy  U.S. Marshal Samuel Gerard.
+SHERIFF	m	I'll be with you in a minute.
+SHERIFF	m	For the record. These three dead.  And this one...
+OLD GUARD	m	Well, everything happened so fast... Huh-uh. Don't think he made it.
+SHERIFF	m	You get some rest.
+SHERIFF	m	Looks like you came a long way for  nothing. My men've already done a  thorough search from point of  impact and found nothing.
+GERARD	m	With all due respect, may I suggest  check-points starting at a 15-mile  radius on I-57, I-24, Route 13 east  of -
+SHERIFF	m	Whoa, whoa, whoa... For what?  Prisoners are all dead. The only  thing check-points will do is get a  lot of good people out here frantic  and flood my office with calls.
+GERARD	m	Well, shit, Sheriff, I'd hate for  that to happen... So, I'll be  taking over the investigation.
+SHERIFF	m	On whose authority?
+GERARD	m	By authority of the Governor of the  State of Illinois and the office of the United States Marshal, 5th  District Northern Illinois...
+SHERIFF	m	Okay. You want jurisdiction over  this mess, you got it. Shut it down. Wyatt Earp is here to mop up for us.
+GERARD	m	Please, ladies and gentlemen, step back and give this poor man some  room.
+GERARD	m	Always an interesting thing when we  find leg irons and no legs in them  who held the keys, sir?
+OLD GUARD	m	Uh, me.
+GERARD	m	Would you be so kind as to show them to me, sir?
+GERARD	m	Second chance.
+OLD GUARD	m	He mighta got out.
+GERARD	m	Thank you.
+SHERIFF	m	What the hell is this? A minute ago  you tell me he's part of the  wreckage, now you're -
+GERARD	m	Renfro - Take that bus apart. I want  an accurate body count. Poole - Set  up operations right here.
+GERARD	m	Ladies and gentlemen... our  fugitive's been on the run for  ninety minutes. Average foot speed  over uneven ground - barring injury  is approximately four miles an hour,  giving us a radius of six miles. I  want a hard-target search of any  residence, gas station, farmhouse,  henhouse, doghouse and outhouse in  that area. Check-points go up at  15 miles. You got that? Good. Now, turn  those damn things off and get out  of our way.
+POOLE	m	Blood trail found. Two miles  southwest.
+GERARD	m	Type it and match it against all  four prisoners. Renfro, get an I.D. fax on Kimble to  every local hospital. Newman...
+NEWMAN	m	Yes, sir...
+GERARD	m	I need some coffee.
+WORKER	m	Hey, one's alive!
+NURSE	f	There's your fax...
+DUTY NURSE	m	Mr. Patterson, do you need some more  water?
+DUTY NURSE	m	... Oh, you did a good job on this.
+DUTY NURSE	m	... It does get dry in here, doesn't  it?
+TROOPER	m	'Scuse me, Doc?...
+TROOPER	m	... Don't know if you heard or not  but we're looking for an escaped  prisoner from that bus train wreck  'couple hours ago. Thought he might  show up here if he was hurt.
+KIMBLE	m	What's he look like?
+TROOPER	m	Approximately six one, 180 pounds,  brown hair, brown eyes and beard.
+TROOPER	m	... Seen anyone that fits that  description?
+KIMBLE	m	Every time I look in the mirror ... but without the beard.
+KIMBLE	m	Excuse me...
+TROOPER	m	Sure.
+KIMBLE	m	Here...
+PARAMEDIC #2	m	Thanks, Doc, we had to dig him out  from under a train.
+YOUNG GUARD	m	It's him... It's -
+KIMBLE	m	How is he?
+PARAMEDIC #1	m	He's pretty bad off. Broken leg,  ribs. Concussion.
+KIMBLE	m	Tell the E.R. doctor he's also got  a perforated spleen.
+PARAMEDIC #2	m	Jesus, how could he tell that from  looking at his face?
+POOLE	m	Background just came in from  Chicago.
+GERARD	m	Hit me.
+RENFRO	m	Richard David Kimble. Vascular  Surgeon. Convicted of first-degree  murder in the killing of his wife.  Pleaded innocent. Claimed a  one-armed -
+GERARD	m	Let's not retry the case. Priors and accomplices?
+RENFRO	m	None. No previous arrests.
+GERARD	m	Sealed juvie record?
+POOLE	m	Nothing. Total cherry.
+GERARD	m	Relatives? Children?
+RENFRO	m	No relatives.
+POOLE	m	One child. A son. Died in drowning  accident three years ago.
+GERARD	m	Girl friends? Ex-wives? Friends?  Combinations of the above?
+POOLE	m	Lot of friends. Doctors. Hospital  staff.
+GERARD	m	Start there. Authorize taps. Cover his lawyer first.
+RENFRO	m	Never get it.
+GERARD	m	Bet me.
+GERARD	m	Have Stevens go to Judge Rubin,  he'll sign 'em.
+BIGGS	m	DeLange Hospital. Wounded guard  swears to High Holy he saw Kimble  right there in the hallway.  Ambulance, missing too.
+GERARD	m	Give me a time.
+BIGGS	m	O-nine-thirty. Twenty minutes ago.
+COP	m	... We're waiting up here in Canton. Wondering if you heard anything on  this Kimble chase -
+DISPATCHER	m	Two-twelve-A, be advised that all  discussion on this matter is to be  conducted on a tactical frequency  - either Channel K or Z. Over.
+POOLE	m	Ambulance just spotted two miles  west of Doverville. Heading north  on State road 53.
+RENFRO	m	Running outta map, Sam.
+GERARD	m	Just the way we want it. Okay,  people, let's button up.
+PILOT	m	We've got a visual... He's heading toward the viaduct.
+GERARD	m	Seal it up.
+P.A.	?	Please remain in your vehicles and  lock your doors. Repeat, please  remain in -
+RENFRO	m	Got him.
+GERARD	m	Okay, ladies and gentlemen hard  part's over.
+RENFRO	m	We're movin' in.
+POOLE	m	Where'd he go?
+GERARD	m	Biggs, Renfro with me.
+GERARD	m	Channel Three.
+BIGGS	m	Nothing yet.
+GERARD	m	Got a possible here. Stand by.
+KIMBLE	m	I didn't kill my wife.
+GERARD	m	So, you didn't kill your wife.
+BIGGS	m	Gerard? You there?
+GERARD	m	Straight ahead!
+GERARD	m	Turn around, hands over your head.  And get down on the ground.
+GERARD	m	Your choice, Kimble...
+GERARD	m	Get down on your knees.
+RENFRO	m	Son of a bitch...
+HEAD TROOPER	m	Running out of daylight, Inspector.
+GERARD	m	Lights and generators are coming,  Captain.
+HEAD TROOPER	m	Look, I don't mean to tell you your  job, but maybe one person in a  million could've survived that fall. The guy's fish food.
+GERARD	m	Then find me the fish that ate him.
+HELEN	f	Good-bye. I love you.
+RECEPTIONIST	m	The law offices of Gutherie, Morgan  and Wainwright.
+KIMBLE	m	Walter Gutherie please.
+RECEPTIONIST	m	I'm sorry, Mr. Gutherie has left  for the day, would you like his  voice mail?
+OLDER WAITRESS	m	Need to look at the menu?
+KIMBLE	m	Some soup, please.
+OLDER WAITRESS	m	Good choice.
+OLDER WAITRESS	m	Need a ride?
+KIMBLE	m	Which way are you going?
+RENFRO	m	We feel confident about the I.D.
+RENFRO	m	Local officials were about to wet  their pants to move in.
+GERARD	m	I bet they were. Where's the woman?
+RENFRO	m	Same room.
+GERARD	m	Okay... I'll take front. Biggs and  Renfro, rear. Poole, handle support.  I don't want anyone hurt. Stay  outside unless called. Radios on  three.
+NEWMAN	m	Uh, just want me to wait here, sir?
+GERARD	m	Hell, no. You're with me, Newman.  Let's go.
+GERARD	m	U.S. Marshals. Down! Down!
+COPELAND	m	I got your man! Now I want outta  here!
+COPELAND	m	You hear me? I said, I want out or  I'll cut your man's throat!
+GERARD	m	Shut up.
+NEWMAN	m	My ear... I can't hear a thing out  of it. I can't believe you did that!
+GERARD	m	You think I should have bargained  with him, don't you?
+NEWMAN	m	Yes. You could've missed! You  could've killed me!
+GERARD	m	Yeah, you're absolutely right. I  could've.
+GERARD	m	How bad's your ear?
+NEWMAN	m	Terrible. I probably have permanent  hearing damage.
+GERARD	m	Let me see it.
+GERARD	m	I don't bargain.
+KIMBLE	m	Walter. It's Richard.
+GUTHERIE	?	Richard... Jesus, why did you run?  Running only makes you look guilty.
+KIMBLE	m	I wasn't worrying about appearances,  Walter.
+GUTHERIE	?	Tell me where you are. I'll come meet you so you can turn yourself  in .
+KIMBLE	m	I'm not turning myself in. I need  money.
+GUTHERIE	?	Richard. You're asking me to harbor and aid a convicted felon... I can't help you that way. My advice - both  as a friend and as your legal counsel  - is for you to give yourself up.  Now tell me... where are you?
+KIMBLE	m	St. Louis.
+GUTHERIE	?	Give me an address. I'll be -
+DESK ATTENDANT	m	See you tomorrow, Dr. Nichols?
+NICHOLS	m	Creature of habit, Sharon.
+NICHOLS	m	Not today, please.
+NICHOLS	m	No. Not -
+NICHOLS	m	Oh, my God... Richard...
+KIMBLE	m	How're you doing, Charlie?
+NICHOLS	m	You're alive...
+KIMBLE	m	Yeah. And I need your help.
+NICHOLS	m	Anything.
+KIMBLE	m	I need some money. Whatever you've  got on you.
+NICHOLS	m	Of course.
+NICHOLS	m	Tell me where you're staying. I'll  get you more money. Some clothes.  Just give me an address...
+KIMBLE	m	I'll call you.
+NICHOLS	m	I know why you came back - to find  him. If I can help, call me...  Call me.
+KIMBLE	m	Thanks, Charlie...
+NICHOLS	m	Here, Richard, take my coat...
+COP	m	Hey, buddy - green light. Let's go.
+POOLE	m	We've alerted St. Louis P.D
+GERARD	m	Call them back. Tell them you've  made a mistake.
+POOLE	m	What?
+GERARD	m	Stop it there.
+GERARD	m	Drop the voices.
+GERARD	m	Listen.
+BIGGS	m	Trains? Traffic?
+GERARD	m	More... there's a voice in the  background.
+RENFRO	m	That's an El announcement.
+GERARD	m	And there's no E1 in St. Louis.  Ladies and gentlemen, Richard Kimble is in Chicago. Poole, get his  artwork out to local police and have  C.P.D. check the shelters... Biggs,  bring in the detectives that handled  his case.
+STEVENS	m	I'll prepare the press release.
+GERARD	m	No.
+GERARD	m	They don't know he's alive and as  far as Kimble knows we don't either.  I want to keep it that way as long  as we can. Are we clear?
+RENFRO	m	Perfectly.
+GERARD	m	Noah... go to my office and let's  officially take Dr. Kimble out of  purgatory.
+KELLY	f	As of this morning Chicago P.D. was  alerted to the reappearance of  Richard Kimble.
+KELLY	f	Police units have also increased  patrols around homeless shelters and mass transit stations in the city.
+FLYNN	m	I ran his office for twelve years.  Yes, we were very close. But he  wouldn't come to me for help.
+PATIENT	m	Good morning.
+KIMBLE	m	Good morning.
+ROBERTS	m	Don't underestimate this guy...
+ROBERTS	m	R.K.'s one smart, cold sonofabitch... He did her, no question.
+GERARD	m	Gentlemen, I appreciate the  cooperation of the Chicago police...
+SALESMAN	m	Did you say, 38/34?
+KIMBLE	m	No. 34/34.
+RENFRO	m	Was there anything in your initial  investigation that would make you  think Kimble would come back to  Chicago.
+ROSSETTI	?	The man definitely has friends here.
+GERARD	m	What about lady friends?
+KELLY	f	Not that we found.
+BIGGS	m	What about the man he claimed  attacked his wife?
+KELLY	f	Right... You ever been downwind of a  stockyard when the breeze is  blowing? That's where we were  sitting when Richard Kimble told that one...
+ROSETTI	m	We found nothing.
+KELLY	f	If this guy existed believe me  someone would've found him.
+NICHOLS	m	Richard Kimble... I saw him two  days ago.
+NICHOLS	m	He stopped me in my car. I gave him  some money.
+GERARD	m	Where was this?
+NICHOLS	m	Outside our tennis -  - my tennis club.
+GERARD	m	Did he ask you for help?
+NICHOLS	m	I volunteered. He wouldn't accept  it.
+GERARD	m	Why do you think he came back to  Chicago?
+NICHOLS	m	He didn't tell me.
+GERARD	m	I didn't ask you that, sir. I'm sure he was trying to protect you from  having to lie for him.
+GERARD	m	If you're really his friend, you'll  help us bring him in unharmed.
+NICHOLS	m	Why, so he can go back to prison?  If you want help, gentlemen, you've  come to the wrong man.
+GERARD	m	Dr. Nichols, last year the U.S.  Marshals' office closed out 11,003  warrants... 10,975 of those were  captured. The twenty-eight others  thought they were smarter than  us... Now they're dead. Nice car.
+GERARD	m	Stay on him.
+WOMAN DOCTOR	f	Where's Rudy?
+KIMBLE	m	They said he's sick.
+WOMAN DOCTOR	f	Didn't they tell you to put up the  sign?
+KIMBLE	m	Uhhh. No they didn't.
+WOMAN DOCTOR	f	Put up the 'wet floor' sign before  someone gets hurt.
+KIMBLE	m	Asshole.
+WOMAN DOCTOR	f	What did you say?
+KIMBLE	m	Nothing.
+WOMAN	f	Hey, Ricky... Weren't you just in  here?
+TECHNICIAN	m	Sorry, I thought you were Ricky.
+KIMBLE	m	No... I've got to clean the blinds in the office. Want me to wait till  you're finished?
+TECHNICIAN	m	Naw... I'm going to be here all  night. You won't bother me.
+ANNE	f	Hey, how're you doing?
+KIMBLE	m	Fine.
+ANNE	f	You find that sign?
+KIMBLE	m	Yes, I did.
+ANNE	f	You called me an asshole.
+KIMBLE	m	Excuse me. I was having a bad  shift.
+ANNE	f	You worked at other hospitals?
+KIMBLE	m	Lots of them over the years. Here,  long ago. Hasn't changed much.
+ANNE	f	I bet it hasn't. See you.
+PUNK KID	m	Hey. Hey! I know that guy!
+ANNE	f	What happened?
+ORDERLY	m	A bus flipped off the overpass. Got at least twenty more coming in.
+ANNE	f	What about this one here?
+ORDERLY	m	Fractured sternum. X-ray's coming  up.
+ANNE	f	Okay, we've got to get some room in this hallway, people.
+ANNE	f	Hey, take this one up the hall to Critical Care.
+KIMBLE	m	Hey. Hey!
+KIMBLE	m	They just sent this one up.
+SURGEON	m	Bob! Get this one into room four,  stat.
+ANNE	f	Gladys, where's the boy I sent down  with the janitor?
+GLADYS	f	What boy?
+ANNE	f	The one with the fractured sternum.
+GLADYS	f	He never came in here.
+KIMBLE	m	Wrong...
+ANNE	f	Dave, did you see a janitor come up  here earlier?
+SURGEON	m	Yeah, he brought a kid up. Anne, did you write the orders? I  couldn't make out the signature...
+ANNE	f	I saw -
+SURGEON	m	Whoever did knew what the hell he  was doing. Kid's a hair away from  a ruptured aorta.
+KIMBLE	m	Seventy-five. Hell, yes.
+KIMBLE	m	What else?
+ANNE	f	Do you have a particular interest in our patients' x-rays?
+KIMBLE	m	What do you mean?
+ANNE	f	I saw you looking at that boy's  chest film.
+KIMBLE	m	It's a hobby of mine -
+ANNE	f	What other hobbies do you have?  Brain surgery?
+ANNE	f	I want to know how that kid ended  up in surgery.
+KIMBLE	m	I'm a janitor. I did what I was  told.
+ANNE	f	Bullshit. Who changed those orders?
+ANNE	f	You stand right here. I'm calling  security.
+GERARD	m	A man posing as a janitor orders an  emergency operation and all you do  is pull his I.D.?
+ANNE	f	A little boy's alive today because  he did something.
+GERARD	m	So, you weren't aware that when he  escaped he was being transported to  Menard State Prison to begin a term  of life imprisonment.
+ANNE	f	For what?
+GERARD	m	For murdering his wife.
+GERARD	m	Thank you for your help, Doctor.
+RENFRO	m	What I can't figure is, if you were  Kimble, why'd you take a major  league chance of hanging around a  trauma ward?
+RENFRO	m	The place would be crawling with cops.
+MAN	m	Can I help you find something?
+GERARD	m	Thank you, sir, I think you already  have.
+KIMBLE	m	Yes... This is Dr. Elway at Cook  County. I'm doing follow-up work for  the Prosthetic Clinic on Matthew  Zelick... He did... I'm terribly sorry. No,  I'll correct our files. Thank you.
+GERARD	m	The onearmed man. Missing the right or left hand?
+POOLE	m	Right.
+POOLE	m	... age 35-45...
+GERARD	m	Location of the attachment.
+POOLE	m	Mid-humerus.
+KIMBLE	m	Hello... looking for your brother,  Clive. This is Ted Riley with the  high school reunion committee.  Believe it or not, 25 years is just  around the corner, and Clive's on  our list of lost souls. Information  gave me a number, but when I tried  it...
+KIMBLE	m	No kidding?... Armed robbery. He's where?
+RENFRO	m	It could take us a week to track  down every one of those names.
+GERARD	m	Stevens... I've got a list of names  I want searched for criminal history.
+ELEVATOR COP	m	Comin' or not?
+COPS	m	Aw, shit... Not now... Anybody  bring a deck of cards?
+CLEARING OFFICER	m	Booth Three. No hands on the glass.  Five minutes maximum. Be advised that  under a Federal court ruling your  conversation can be recorded. Next.
+CLEARING OFFICER	m	Name of inmate?
+KIMBLE	m	Clive Driscoll.
+CLEARING OFFICER	m	Sign here, print your name, address,  and relationship to inmate below. Two-zero-ten. Driscoll, Clive R. Be about five minutes. You can wait  in the hall.
+GERARD	m	We need to see a prisoner.
+DESK CLERK	m	Fifth floor.
+BIGGS	m	It's hinky. Man risks everything to  find a man his own investigators  say doesn't exist. Something's really  hinky about this thing.
+GERARD	m	I hate that word.
+CLEARING OFFICER	m	Visitor for Driscoll...?
+DRISCOLL	m	So who are you?
+KIMBLE	m	Sorry. I made a mistake.
+DRISCOLL	m	Shit, that's okay. Stick around a  few minutes, talk about whatever you want...
+DRISCOLL	m	... They're not exactly wired for  cable downstairs, y'know?
+GERARD	m	Where're the damn stairs?
+BIGGS	m	It's five flights!
+GERARD	m	Then you wait.
+GERARD	m	(a quick probe) Kimble.
+GERARD	m	Kimble!
+KIMBLE	m	Officers - there's a man in the  stairwell waving a gun and  screaming.
+GERARD	m	U.S. Marshal! Get on the phone, call your commander, tell him there's a  top-fifteen warrant in the building.  Go.
+GERARD	m	Kimble. Stop!
+GERARD	m	Down. down. everybody down!
+GERARD	m	Kimble. Stop!
+GERARD	m	Open the doors!
+NICHOLS	m	Richard... Alex Lentz.
+SECRETARY	f	U.S. Marshal's office...
+SECRETARY	f	It' 9 Kimble on line three.
+GERARD	m	Renfro, Biggs...
+GERARD	m	This is Gerard.
+KIMBLE	m	Do you remember what I told you in  the tunnel?
+GERARD	m	You told me, you didn't kill your  wife.
+KIMBLE	m	Remember what you said to me?
+GERARD	m	I remember you were pointing my gun  at me.
+KIMBLE	m	You said, 'I don't care.'
+TECHNICIAN	m	He's on the southside.
+GERARD	m	That's right, Kimble... I'm not  trying to solve a puzzle here. I'm  just the poor working man that's  paid to hunt you down.
+RENFRO	m	He's in Pullman area... Fifteen  seconds for location.
+KIMBLE	m	Well, I am trying to solve the  puzzle, Gerard and I just found a  piece.
+TECHNICIAN	m	Three seconds.
+GERARD	m	Kimble?
+GERARD	m	You can't control this thing,  Kimble... Kimble?
+GERARD	m	Where is he?
+RENFRO	m	Holy shit. We've got a car there  right now.
+KIMBLE	m	This an R.D.U.90 patient?
+POOLE	m	Name is Fredrick Sykes. 45. Ex cop .
+FORENSIC TECH	m	Inspector, we're ready for you to  look at this.
+FORENSIC TECH	m	Kimble's prints are all over the  apartment, but the concentration  is here.
+FORENSIC TECH	m	He flips through the pack but  paused here.
+GERARD	m	Let me see the negatives.
+GERARD	m	One's missing.
+BIGGS	m	Here he comes...
+SYKES	m	What the hell's going on here?  Who are you people?
+GERARD	m	You had a break-in, Mr. Sykes.
+SYKES	m	You a cop?
+GERARD	m	My name is Gerard. U.S. Marshal's  Office.
+GERARD	m	This morning a fugitive named  Richard Kimble made a call from your apartment.
+SYKES	m	Richard Kimble... I don't know a  Richard Kim -
+SYKES	m	Wait a minute... This is the doctor  who killed his wife... He claimed  the killer had a prosthetic limb.  You telling me he's coming after  me?
+GERARD	m	Would he have a reason to?
+SYKES	m	What the hell's that supposed to  mean? Because I have this?
+SYKES	m	Look, a year ago some people came  to see me. They asked me questions  about the night of the murder and  I'll tell you the same thing I told them. I wasn't even in town then.  I was on a business trip.
+GERARD	m	What kind of business are you in,  Mr. Sykes?
+SYKES	m	Security.
+GERARD	m	Independent?
+SYKES	m	No, I work for a pharmaceutical  company. I handle security for its  top executives.
+GERARD	m	Any idea why Kimble would be  interested in these?
+SYKES	m	No. Just some doctors on a company  junket.
+SYKES	m	Look, you mind if I talk to the cops  to see if anything's missing?
+GERARD	m	By all means.
+RENFRO	m	He's pulling our chain, Sam. If this was the guy Kimble was looking for,  why call us?
+GERARD	m	Kimble said he's putting together a  puzzle. We don't need to put it  together too, we just need to be  there when he gets to the next  piece.
+GERARD	m	Keep somebody on him. If he moves  I want to know.
+OPERATOR	m	I'm sorry sir, Dr. Nichols is at a  medical conference at the Hilton.
+KIMBLE	m	It's very important I reach him.
+ASSISTANT	m	I'm sorry, sir, they said it was an  emergency.
+KIMBLE	m	Can you talk?
+NICHOLS	m	Richard. Yes... I'm on a hotel  phone. What's going on?
+KIMBLE	m	I found him, Charlie. I found the  guy that killed Helen.
+NICHOLS	m	What?
+KIMBLE	m	It's all about a drug, Charlie. They  tried to kill me because of a drug.
+NICHOLS	m	Who?
+KIMBLE	m	Devlin-MacGregor and Lentz. Lentz  was supervising the R.D.U.90  protocol. He knew I'd found out the drug had problems. It's Lentz.
+NICHOLS	m	Richard, Lentz is dead. He died in  an auto accident last summer.
+NICHOLS	m	Can you prove this about the drug?
+KIMBLE	m	I need your help. Call Mr. Roosevelt  and tell him I'm coming in.
+RENFRO	m	If you were Richard Kimble... Why  would you hunt for a one-armed man  you think killed your wife; find  hint then leave him and call us?
+POOLE	m	To throw us off his trail.
+RENFRO	m	Unless... What if you were a well  respected surgeon and wanted to kill  your wife? How would you do it?
+BIGGS	m	I'd hire a pro. Sight unseen.
+POOLE	m	Set it up to look like a robbery  gone bad.
+RENFRO	m	How would you find him? Look in the  phone book?
+RENFRO	m	Through a connection.
+POOLE	m	Maybe through a company you did some  business with.
+BIGGS	m	Like a pharmaceutical company.  Someone in security.
+NEWMAN	m	On the night of his wife's murder,  Kimble attended a hospital benefit  sponsored by Devlin-Macgregor  Pharmaceutical - Sykes' company.
+BIGGS	m	But Sykes claims he was out of town.
+POOLE	m	And company records support that he  was on a business trip.
+RENFRO	m	That's an easy fix. So let's say he  was in town. Did the job. Everything  goes as planned with one problem.
+BIGGS	m	... tried, convicted...
+POOLE	m	... and the hit man gets away clean.
+RENFRO	m	So Kimble returns to hunt for and  find the hit man.
+NEWMAN	m	Why? To share the blame? He'd still  go to prison.
+RENFRO	m	You're underestimating the power of  the good doctor. It would be his  word against... Sykes'. Who would  you believe?
+BIGGS	m	So what does Kimble do next?
+RENFRO	m	Get help.
+GERARD	m	Stevens, check phone records for  Sykes and Kimble.
+GERARD	m	Find out who this guy is.
+NEWMAN	m	Why do I get all the great jobs?
+ROOSEVELT	m	It sure is good to see you again,  Dr. Kimble.
+KIMBLE	m	You too, Roosevelt... Been a long  time.
+ROOSEVELT	m	This is the R.D.U.90 file and  samples. Dr. Nichols said you  needed.
+KIMBLE	m	Thanks, Roosevelt.
+EMERGENCY OPERATOR	m	Emergency operator.
+SYKES	m	I want to report a fire; No, it's  not my place, it's a couple doors  down.
+WAHLUND	?	Oh, my God... Richard.
+KIMBLE	m	I loaned you something once, Kath,  and I need them back.
+NICHOLS	m	Mr. Gerard.
+GERARD	m	Doctor. Could I have a minute?
+RENFRO	m	He's a security specialist at  Devlin-Macgregor Pharmaceuticals.
+NICHOLS	m	I don't know him. You're getting  pretty desperate aren't you, Mr.  Gerard. I told you, you wouldn't  find Richard.
+GERARD	m	Dr. Kimble hasn't come back to you  for help, has he?
+NICHOLS	m	No. And it seems like we've been  over this ground before. Now if  you'll excuse me.
+GERARD	m	Dr. Nichols. Do you know the other man in the photograph?
+NICHOLS	m	I never saw him before.
+RENFRO	m	"Advances in Nuclear Tissue and  Pathology Research," by Dr. Charles  Nichols. I bet they line up to hear that one.
+KIMBLE	m	Half the people in the study were  indigents. No follow-up, no baseline  on them. Who could say they didn't  come into the study with bad livers?
+WAHLUND	?	The one on the right is one of the  samples you sent me. It shows a lot  of perriportal inflammation loaded  with eosinophils. When you see that  with the accumulation of bile it's  a classic for -
+KIMBLE	m	- drug induced hepatitis.
+WAHLUND	?	I'm impressed. Now look at this.
+WAHLUND	?	According to the study, this is a  slice from the same liver.
+KIMBLE	m	Cold normal.
+WAHLUND	?	Clearly not from the same tissue.  In fact.
+WAHLUND	?	See this small area of bile duct  proliferation? Von Meyenberg's  Complex. Occurs in only 2% of the  population. But it's in every one  of your five samples.
+KIMBLE	m	That's statistically impossible.
+WAHLUND	?	That's because they're all from the  same liver.
+BETTY	f	His name's Lentz. A pathologist. I  only remember him because he died  last summer.
+NEWMAN	m	Anybody down in pathology who might  know something about the guy?
+BETTY	f	It's kinda late to catch anyone,  but you might go by the morgue.  There's an old guy down there  who's been around forever.
+BIGGS	m	Just what I want to do before  dinner.
+NEWMAN	m	Are you Mr. Roosevelt?
+ROOSEVELT	m	Yes.
+BIGGS	m	We're United States Marshals. We're  trying to find out some information  about a pathologist, named Lentz. He  used to be on staff here.
+ROOSEVELT	m	He's dead.
+NEWMAN	m	Yeah, we heard. We wanted to know if  he knew or had any contact with Dr.  Richard Kimble?
+ROOSEVELT	m	I... I haven't seen Dr. Kimble.
+NEWMAN	m	That's not what I asked, sir. I just  wanted to know if Dr. Kimble and Dr.  Lentz knew each other?
+ROOSEVELT	m	I... I don't know. Excuse me, I got to go.
+BIGGS	m	I think you're lying to us.
+KIMBLE	m	They'd be home free if I hadn't been  leaning on them to account for the  livers I was seeing. And I wouldn't  have seen the livers if I hadn't  told the guys on my service to call me when they had cases that were  bleeding excessively in surgery.
+WAHLUND	?	Big bucks. One schmuck standing in  the way. Easy, get rid of him and  his wife. But why Lentz?
+KIMBLE	m	Why not? He's one of the original  patent holders. Toss the samples I  sent, replace them with healthy  samples, issue the path report on  the healthy stuff-piece of cake.
+KIMBLE	m	When did Lentz die?
+WAHLUND	?	Oh, last summer sometime. August...  Why?
+KIMBLE	m	Because a good third of the samples  Lentz approved were signed after he  died.
+KIMBLE	m	Someone else used Lentz's name.
+WAHLUND	?	A pathologist at Devlin-Macgregor?
+KIMBLE	m	They wouldn't have had the access.  They would have needed someone at  the hospital.
+WAHLUND	?	Where are you going?
+KIMBLE	m	To see an old friend.
+POOLE	m	It's Newman. Line two.
+NEWMAN	m	The old guy didn't know where he was  going. But he picked up some tissue  samples.
+GERARD	m	Tissue samples?
+NEWMAN	m	... From a drug study. And signed  for by Dr. Charles Nichols.
+NEWMAN	m	Nichols also knew Lentz. He was a  pathologist.
+RENFRO	m	He was covering for Kimble.
+GERARD	m	Get CPD to bring in Sykes.
+HOST	m	Tonight to close our conference,  we're honored to hear a report from  one of the most respected men in  his field...
+HOST	m	... He is the A. Jude Robinson  Fellow and Administrative Chief of  Pathology at Chicago Memorial  Hospital... and just recently has  been appointed member of the board  of directors for Devlin-Macgregor  Pharmaceuticals. Please welcome...
+HOST	m	... Dr. Charles Nichols.
+STEVENS	m	I checked Sykes' calls for the last  two years against Kimble's like you  asked and found nothing.
+GERARD	m	All right. It was a thought.
+STEVENS	m	But when I cross-checked Kimble's  phone records... one came up.
+GERARD	m	Kimble called Sykes. Renfro! Get C.P.D. to bring in Sykes!
+STEVENS	m	Night of his wife's murder -  seven-thirty in the evening from  his car.
+STEVENS	m	I have the phone record right here.
+GERARD	m	Poole! Bring me Kimble's arrest  report, now. No, Stevens... I believe you.
+POOLE	m	Sam, C.P.D. just checked Sykes'  apartment. He's not there.
+SYKES	m	Back up. Move to the door, Doc.
+TRANSIT COP	m	This is transit unit, 23. I have a  possible sighting of Richard Kimble.  Northbound coming into the Balbo  station. Request immediate back-up  at the station.
+SYKES	m	This is my stop, Doc.
+KIMBLE	m	Good, it's my stop, too.
+TRANSIT COP	m	Kimble. Sir, move away from him.
+KIMBLE	m	Not as easy as Helen, was it? You missed your stop.
+DISPATCHER	m	... units in the vicinity of Balbo  Street station. Be alert to possible  sighting of Richard Kimble...
+RENFRO	m	Balbo station. That's -
+GERARD	m	Poole, get Biggs and Newman.
+POLICE DISPATCHER	m	... all units in vicinity of Balbo  E1. Officer down. Repeat, officer  down. Man leaving scene with two  guns matches description of Richard  Kimble...
+GERARD	m	Damn...
+NEWMAN	m	C.P.D. just reported -
+GERARD	m	I heard. Was it Kimble?
+BIGGS	m	Conflicting reports, but the cops  are considering him a shooter.
+POLICE CAPTAIN	m	Witnesses say he entered hotel from  the subway.
+KELLY	f	Okay. I want it locked down. Start  on the lower levels.
+GERARD	m	That's my man in there, Kelly.
+KELLY	f	Not since he took down one of ours,  Gerard. This is a police matter, now. Stay, the hell, out of it.
+GERARD	m	C'mon, I know where he's going.
+NICHOLS	m	... And I especially would like to  thank my researchers who helped me...
+NICHOLS	m	Richard...
+KIMBLE	m	What's wrong, Charlie? Surprised?
+CROWD	m	It's Richard. It's Kimble.
+KIMBLE	m	After Lentz died, you were the only  one that had access to the  pathology reports.
+NICHOLS	m	Reports? What are you?
+KIMBLE	m	You switched the samples and  falsified the reports so R.D.U.90  could get approval.
+NICHOLS	m	Richard, I don't know what you're  talking about?...
+KIMBLE	m	I have a set of the original  samples.
+KIMBLE	m	You almost pulled it off, Charlie.  But I know all about it now, and I  can prove it.
+KIMBLE	m	Ladies and gentlemen. My friend, as  you can see, is obviously not well.  Richard, if you want to talk -
+KIMBLE	m	I didn't come here to talk
+BIGGS	m	C.P.D. has the perimeter, hotel  security has the parking structure.
+GERARD	m	Let them keep busy down below.  Newman, get with security. See if  you can locate Kimble from the  monitors. Keep in radio contact.
+NICHOLS	m	Your best quality, Richard, is that  you don't give up -
+NICHOLS	m	... even when it's clearly in your  best interest to...
+NICHOLS	m	I always knew that I'd have to kill  you.
+NICHOLS	m	Now, I must thank you for giving me  200 witnesses tonight who will  support me... when I tell them it  was self-defense...
+KIMBLE	m	You missed your chance, Charlie...
+NEWMAN	m	I've got Kimble on the roof with  Nichols. Southeast exit.
+BIGGS	m	Keep and eye on him. Biggs has roof plans.
+BIGGS	m	There are four exits to the roof.
+GERARD	m	I want them covered.
+KIMBLE	m	You took everything away from me...  for money.
+GERARD	m	This way.
+KIMBLE	m	I want to know, Charlie... was it  worth it...?
+NICHOLS	m	This thing is bigger than even you  think, Richard. You can't stop it.
+VOICE FROM HELICOPTER	m	Chicago police. Freeze.
+GERARD	m	Clear the hallway. Get that door open.
+GERARD	m	Stay at this door.
+HELICOPTER PILOT	m	I've got a visual on Kimble. He's  running.
+KELLY	f	Bring him down.
+GERARD	m	This is a United States Marshal.  Get that helicopter out of here!
+RENFRO	m	There is a U.S. Marshal out there.  Hold your fire!
+RADIO	m	Hold your fire.
+GERARD	m	Kimble!
+GERARD	m	Where did the elevator stop?
+NEWMAN	m	Level five.
+GERARD	m	Get out of here.
+GERARD	m	We're going in. Give me five  minutes. Keep C.P.D. out.
+GERARD	m	Kimble!
+GERARD	m	... There is no way out of here.
+GERARD	m	Kimble... I know about Nichols. I  know about Sykes. Kimble stops.
+GERARD	m	... Nichols borrowed your car the  night of the murder and called  Sykes from it.
+GERARD	m	... That's why there was no forced  entry at your house. He'd used your  keys.
+GERARD	m	Kimble... Come meet me out here.
+GERARD	m	It's time to quit running... if you  don't, you know I'll stop you. He  listens, there is no answer.
+KIMBLE	m	Hey, Chuckles...
+T.V. NEWS REPORTER	m	... As we reported a few minutes  ago, the saga of once-prominent  Chicago surgeon, Dr. Richard Kimble,  who escaped from an Illinois  Corrections bus, took a strange twist this evening when Dr. Kimble  was captured at the Chicago Hilton...
+ANOTHER REPORTER	m	... there are unconfirmed reports  from police of new evidence which  may exonerate Kimble while  implicating some of the biggest  names in medicine...
+STUNNED DOCTOR	m	He just walked in... We didn't know  what he was going to do. My wife  was very frightened... The next  thing I knew cops were charging in  and...
+REPORTER	m	Dr. Kimble, is it true you can prove  your innocence!
+GERARD	m	Get them back.
+BIGGS	m	Watch your head, Dr. Kimble.
+GERARD	m	Poole, you got that thing? Give me your hands.
+GERARD	m	Take care of those hands, Doc,  you're going to need them again  soon.
+KIMBLE	m	I thought you told me 'you didn't  care.'
+GERARD	m	Yeah, well, don't spread it around.
+

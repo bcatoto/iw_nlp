@@ -1,0 +1,1003 @@
+THREEPIO	m	Did you hear that? They've shut down  the main reactor. We'll be destroyed  for sure. This is madness!
+THREEPIO	m	We're doomed!
+THREEPIO	m	There'll be no escape for the Princess  this time.
+THREEPIO	m	What's that?
+THREEPIO	m	I should have known better than to  trust the logic of a half-sized  thermocapsulary dehousing assister...
+LUKE	m	Hurry up! Come with me! What are you  waiting for?! Get in gear!
+THREEPIO	m	Artoo! Artoo-Detoo, where are you?
+THREEPIO	m	At last! Where have you been?
+THREEPIO	m	They're heading in this direction.  What are we going to do? We'll be  sent to the spice mine of Kessel or  smashed into who knows what!
+THREEPIO	m	Wait a minute, where are you going?
+IMPERIAL OFFICER	m	The Death Star plans are not in the  main computer.
+VADER	m	Where are those transmissions you  intercepted?
+VADER	m	What have you done with those plans?
+REBEL OFFICER	m	We intercepted no transmissions.  Aaah... This is a consular ship.  Were on a diplomatic mission.
+VADER	m	If this is a consular ship... were  is the Ambassador?
+VADER	m	Commander, tear this ship apart until  you've found those plans and bring  me the Ambassador. I want her alive!
+TROOPER	m	There she is! Set for stun!
+TROOPER	m	She'll be all right. Inform Lord  Vader we have a prisoner.
+THREEPIO	m	Hey, you're not permitted in there.  It's restricted. You'll be deactivated  for sure..
+THREEPIO	m	Don't call me a mindless philosopher,  you overweight glob of grease! Now  come out before somebody sees you.
+THREEPIO	m	Secret mission? What plans? What are  you talking about? I'm not getting  in there!
+THREEPIO	m	I'm going to regret this.
+CHIEF PILOT	m	There goes another one.
+CAPTAIN	m	Hold your fire. There are no life  forms. It must have been short- circuited.
+THREEPIO	m	That's funny, the damage doesn't  look as bad from out here.
+THREEPIO	m	Are you sure this things safe?
+WOMAN	f	I've told you kids to slow down!
+FIXER	m	Did I hear a young noise blast through  here?
+CAMIE	f	It was just wormie on another rampage.
+LUKE	m	Shape it up you guys!... Biggs?
+LUKE	m	I didn't know you were back! When  did you get in?
+BIGGS	m	Just now. I wanted to surprise you,  hot shot. I thought you'd be here...  certainly didn't expect you to be  out working.
+LUKE	m	The Academy didn't change you  much...but you're back so soon? Hey,  what happened, didn't you get your  commission?
+BIGGS	m	Of course I got it. Signed aboard  The Rand Ecliptic last week. First  mate Biggs Darklighter at your  service... ...I just came to say good-bye to  all you unfortunate landlocked  simpletons.
+LUKE	m	I almost forgot. There's a battle  going on! Right here in our system.  Come and look!
+DEAK	?	Not again! Forget it.
+LUKE	m	There they are!
+BIGGS	m	That's no battle, hot shot... they're  just sitting there! Probably a  freighter-tanker refueling.
+LUKE	m	But there was a lot of firing  earlier...
+LUKE	m	Hey, easy with those...
+CAMIE	f	Don't worry about it, Wormie.
+FIXER	m	I keep telling you, the Rebellion is  a long way from here. I doubt if the  Empire would even fight to keep this  system. Believe me Luke, this planet  is a big hunk of nothing...
+LEIA	f	Lord Vader, I should have known.  Only you could be so bold. The  Imperial Senate will not sit for  this, when they hear you've attacked  a diplomatic...
+VADER	m	Don't play games with me, Your  Highness. You weren't on any mercy  mission this time. You passed directly  through a restricted system. Several  transmissions were beamed to this  ship by Rebel spies. I want to know  what happened to the plans they sent  you.
+LEIA	f	I don't know what you're talking  about. I'm a member of the Imperial  Senate on a diplomatic mission to  Alderaan...
+VADER	m	You're a part of the Rebel Alliance...  and a traitor. Take her away!
+COMMANDER	m	Holding her is dangerous. If word of  this gets out, it could generate  sympathy for the Rebellion in the  senate.
+VADER	m	I have traced the Rebel spies to  her. Now she is my only link to find  their secret base!
+COMMANDER	m	She'll die before she tells you  anything.
+VADER	m	Leave that to me. Send a distress  signal and then inform the senate  that all aboard were killed!
+SECOND OFFICER	m	Lord Vader, the battle station plans  are not aboard this ship! And no  transmissions were made. An escape  pod was jettisoned during the  fighting, but no life forms were  aboard.
+VADER	m	She must have hidden the plans in  the escape pod. Send a detachment  down to retrieve them. See to it  personally, Commander. There'll be  no one to stop us this time.
+COMMANDER	m	Yes, sir.
+THREEPIO	m	How did I get into this mess? I really  don't know how. We seem to be made  to suffer. It's our lot in life.
+THREEPIO	m	I've got to rest before I fall apart.  My joints are almost frozen.
+THREEPIO	m	What a desolate place this is.
+THREEPIO	m	Where are you going?
+THREEPIO	m	Well, I'm not going that way. It's  much too rocky. This way is much  easier.
+THREEPIO	m	What makes you think there are  settlements over there?
+THREEPIO	m	Don't get technical with me.
+THREEPIO	m	What mission? What are you talking  about? I've had just about enough of  you! Go that way! You'll be  malfunctioning within a day, you  nearsighted scrap pile!
+THREEPIO	m	And don't let me catch you following  me begging for help, because you  won't get it.
+THREEPIO	m	No more adventures. I'm not going  that way.
+THREEPIO	m	That malfunctioning little twerp.  This is all his fault! He tricked me  into going this way, but he'll do no  better.
+THREEPIO	m	Wait, what's that? A transport! I'm  saved!
+THREEPIO	m	Over here! Help! Please, help!
+LUKE	m	...so I cut off my power, shut down  the afterburners and came in low on  Deak's trail. I was so close I thought  I was going to fry my instruments.  As it was I busted up the Skyhopper  pretty bad. Uncle Owen was pretty  upset. He grounded me for the rest  of the season. You should have been  there... it was fantastic.
+BIGGS	m	You ought to take it easy Luke. You  may be the hottest bushpilot this  side of Mos Eisley, but those little  Skyhoppers are dangerous. Keep it  up, and one day, whammo, you're going  to be nothing more than a dark spot  on the down side of a canyon wall.
+LUKE	m	Look who's talking. Now that you've  been around those giant starships  you're beginning to sound like my  uncle. You've gotten soft in the  city...
+BIGGS	m	I've missed you kid.
+LUKE	m	Well, things haven't been the same  since you left, Biggs. It's been  so... quiet.
+BIGGS	m	Luke, I didn't come back just to say  good-bye... I shouldn't tell you  this, but you're the only one I can  trust... and if I don't come back, I  want somebody to know.
+LUKE	m	What are you talking about?
+BIGGS	m	I made some friends at the Academy. ...when our frigate goes to one of  the central systems, we're going to  jump ship and join the Alliance...
+LUKE	m	Join the Rebellion?! Are you kidding!  How?
+BIGGS	m	Quiet down will ya! You got a mouth  bigger than a meteor crater!
+LUKE	m	I'm sorry. I'm quiet. Listen how quiet I am. You can barely  hear me...
+BIGGS	m	My friend has a friend on Bestine  who might help us make contact.
+LUKE	m	You're crazy! You could wander around  forever trying to find them.
+BIGGS	m	I know it's a long shot, but if I  don't find them I'll do what I can  on my own... It's what we always  talked about. Luke, I'm not going to  wait for the Empire to draft me into  service. The Rebellion is spreading  and I want to be on the right side --  the side I believe in.
+LUKE	m	And I'm stuck here...
+BIGGS	m	I thought you were going to the  Academy next term. You'll get your  chance to get off this rock.
+LUKE	m	Not likely! I had to cancel my  application. There has been a lot of  unrest among the Sandpeople since  you left... they've even raided the  outskirts of Anchorhead.
+BIGGS	m	Your uncle could hold off a whole  colony of Sandpeople with one blaster.
+LUKE	m	I know, but he's got enough vaporators  going to make the place pay off. He  needs me for just one more season. I  can't leave him now.
+BIGGS	m	I feel for you, Luke, you're going  to have to learn what seems to be  important or what really is important.  What good is all your uncle's work  if it's taken over by the Empire?...  You know they're starting to  nationalize commerce in the central  systems... it won't be long before  your uncle is merely a tenant, slaving  for the greater glory of the Empire.
+LUKE	m	It couldn't happen here. You said it  yourself. The Empire won't bother  with this rock.
+BIGGS	m	Things always change.
+LUKE	m	I wish I was going... Are you going  to be around long?
+BIGGS	m	No, I'm leaving in the morning...
+LUKE	m	Then I guess I won't see you.
+BIGGS	m	Maybe someday... I'll keep a lookout.
+LUKE	m	Well, I'll be at the Academy next  season... after that who knows. I  won't be drafted into the Imperial  Starfleet that's for sure... Take  care of yourself, you'll always be  the best friend I've got.
+BIGGS	m	So long, Luke.
+THREEPIO	m	Artoo-Detoo! It's you! It's you!
+FIRST TROOPER	m	Someone was in the pod. The tracks  go off in this direction.
+SECOND TROOPER	m	Look, sir -- droids.
+THREEPIO	m	Wake up! Wake up!
+THREEPIO	m	We're doomed.
+THREEPIO	m	Do you think they'll melt us down?
+THREEPIO	m	Don't shoot! Don't shoot! Will this  never end?
+BERU	?	Luke, tell Owen that if he gets a  translator to be sure it speaks Bocce.
+LUKE	m	It looks like we don't have much of  a choice but I'll remind him.
+OWEN	m	I have no need for a protocol droid.
+THREEPIO	m	Sir -- not in an environment such as  this -- that's why I've also been  programmed for over thirty secondary  functions that...
+OWEN	m	What I really need is a droid that  understands the binary language of  moisture vaporators.
+THREEPIO	m	Vaporators! Sir -- My first job was  programming binary load lifter...  very similar to your vaporators. You  could say...
+OWEN	m	Do you speak Bocce?
+THREEPIO	m	Of course I can, sir. It's like a  second language for me... I'm as  fluent in Bocce...
+OWEN	m	All right shut up! I'll take this one.
+THREEPIO	m	Shutting up, sir.
+OWEN	m	Luke, take these two over to the  garage, will you? I want you to have  both of them cleaned up before dinner.
+LUKE	m	But I was going into Toshi Station  to pick up some power converters...
+OWEN	m	You can waste time with your friends  when your chores are done. Now come  on, get to it!
+LUKE	m	All right, come on! And the red one,  come on. Well, come on, Red, let's  go.
+LUKE	m	Uncle Owen...
+OWEN	m	Yeah?
+LUKE	m	This R2 unit has a bad motivator.  Look!
+OWEN	m	Hey, what're you trying to push on  us?
+THREEPIO	m	Excuse me, sir, but that R2 unit is  in prime condition. A real bargain.
+LUKE	m	Uncle Owen...
+OWEN	m	Yeah?
+LUKE	m	What about that one?
+OWEN	m	What about that blue one? We'll take  that one.
+LUKE	m	Yeah, take it away.
+THREEPIO	m	Uh, I'm quite sure you'll be very  pleased with that one, sir. He really  is in first-class condition. I've  worked with him before. Here he comes.
+LUKE	m	Okay, let's go.
+THREEPIO	m	Now, don't you forget this! Why I  should stick my neck out for you is  quite beyond my capacity!
+THREEPIO	m	Thank the maker! This oil bath is  going to feel so good. I've got such  a bad case of dust contamination, I  can barely move!
+LUKE	m	It just isn't fair. Oh, Biggs is  right. I'm never gonna get out of  here!
+THREEPIO	m	Is there anything I might do to help?
+LUKE	m	Well, not unless you can alter time,  speed up the harvest, or teleport me  off this rock!
+THREEPIO	m	I don't think so, sir. I'm only a  droid and not very knowledgeable  about such things. Not on this planet,  anyways. As a matter of fact, I'm  not even sure which planet I'm on.
+LUKE	m	Well, if there's a bright center to  the universe, you're on the planet  that it's farthest from.
+THREEPIO	m	I see, sir.
+LUKE	m	Uh, you can call me Luke.
+THREEPIO	m	I see, sir Luke.
+LUKE	m	Just Luke.
+THREEPIO	m	And I am See-Threepio, human-cyborg  relations, and this is my counterpart,  Artoo-Detoo.
+LUKE	m	Hello.
+LUKE	m	You got a lot of carbon scoring here.  It looks like you boys have seen a  lot of action.
+THREEPIO	m	With all we've been through, sometimes  I'm amazed we're in as good condition  as we are, what with the Rebellion  and all.
+LUKE	m	You know of the Rebellion against  the Empire?
+THREEPIO	m	That's how we came to be in your  service, if you take my meaning,  sir.
+LUKE	m	Have you been in many battles?
+THREEPIO	m	Several, I think. Actually, there's  not much to tell. I'm not much more  than an interpreter, and not very  good at telling stories. Well, not  at making them interesting, anyways.
+LUKE	m	Well, my little friend, you've got  something jammed in here real good.  Were you on a cruiser or...
+LEIA	f	Help me, Obi-Wan Kenobi. You're my  only hope.
+LUKE	m	What's this?
+THREEPIO	m	What is what?!? He asked you a  question... What is that?
+LEIA	f	Help me, Obi-Wan Kenobi. You're my  only hope. Help me, Obi-Wan Kenobi.  You're my only hope.
+THREEPIO	m	Oh, he says it's nothing, sir. Merely  a malfunction. Old data. Pay it no  mind.
+LUKE	m	Who is she? She's beautiful.
+THREEPIO	m	I'm afraid I'm not quite sure, sir.
+LEIA	f	Help me, Obi-Wan Kenobi...
+THREEPIO	m	I think she was a passenger on our  last voyage. A person of some  importance, sir -- I believe. Our  captain was attached to...
+LUKE	m	Is there more to this recording?
+THREEPIO	m	Behave yourself, Artoo. You're going  to get us in trouble. It's all right,  you can trust him. He's our new  master.
+THREEPIO	m	He says he's the property of Obi-Wan  Kenobi, a resident of these parts.  And it's a private message for him.  Quite frankly, sir I don't know what  he's talking about. Our last master  was Captain Antilles, but with what  we've been through, this little R2  unit has become a bit eccentric.
+LUKE	m	Obi-Wan Kenobi? I wonder if he means  old Ben Kenobi?
+THREEPIO	m	I beg your pardon, sir, but do you  know what he's talking about?
+LUKE	m	Well, I don't know anyone named Obi- Wan, but old Ben lives out beyond  the dune sea. He's kind of a strange  old hermit.
+LUKE	m	I wonder who she is. It sounds like  she's in trouble. I'd better play  back the whole thing.
+THREEPIO	m	He says the restraining bolt has  short circuited his recording system.  He suggests that if you remove the  bolt, he might be able to play back  the entire recording.
+LUKE	m	H'm? Oh, yeah, well, I guess you're  too small to run away on me if I  take this off! Okay.
+LUKE	m	There you go.
+LUKE	m	Well, wait a minute. Where'd she go?  Bring her back! Play back the entire  message.
+THREEPIO	m	What message? The one you're carrying  inside your rusty innards!
+AUNT BERU	?	Luke? Luke! Come to dinner!
+LUKE	m	All right, I'll be right there, Aunt  Beru.
+THREEPIO	m	I'm sorry, sir, but he appears to  have picked up a slight flutter.
+LUKE	m	Well, see what you can do with him.  I'll be right back.
+THREEPIO	m	Just you reconsider playing that  message for him.
+THREEPIO	m	No, I don't think he likes you at  all.
+THREEPIO	m	No, I don't like you either.
+LUKE	m	You know, I think that R2 unit we  bought might have been stolen.
+OWEN	m	What makes you think that?
+LUKE	m	Well, I stumbled across a recording  while I was cleaning him. He says he  belongs to someone called Obi-Wan  Kenobi.
+LUKE	m	I thought he might have meant old  Ben. Do you know what he's talking  about? Well, I wonder if he's related  to Ben.
+OWEN	m	That old man's just a crazy old  wizard. Tomorrow I want you to take  that R2 unit into Anchorhead and  have its memory flushed. That'll be  the end of it. It belongs to us now.
+LUKE	m	But what if this Obi-Wan comes looking  for him?
+OWEN	m	He won't, I don't think he exists  any more. He died about the same  time as your father.
+LUKE	m	He knew my father?
+OWEN	m	I told you to forget it. Your only  concern is to prepare the new droids  for tomorrow. In the morning I want  them on the south ridge working out  those condensers.
+LUKE	m	Yes, sir. I think those new droids  are going to work out fine. In fact,  I, uh, was also thinking about our  agreement about my staying on another  season. And if these new droids do  work out, I want to transmit my  application to the Academy this year.
+OWEN	m	You mean the next semester before  harvest?
+LUKE	m	Sure, there're more than enough  droids.
+OWEN	m	Harvest is when I need you the most.  Only one more season. This year we'll  make enough on the harvest so I'll  be able to hire some more hands. And  then you can go to the Academy next  year.
+OWEN	m	You must understand I need you here,  Luke.
+LUKE	m	But it's a whole 'nother year.
+OWEN	m	Look, it's only one more season.
+LUKE	m	Yeah, that's what you said last year  when Biggs and Tank left.
+AUNT BERU	?	Where are you going?
+LUKE	m	It looks like I'm going nowhere. I  have to finish cleaning those droids.
+AUNT BERU	?	Owen, he can't stay here forever.  Most of his friends have gone. It  means so much to him.
+OWEN	m	I'll make it up to him next year. I  promise.
+AUNT BERU	?	Luke's just not a farmer, Owen. He  has too much of his father in him.
+OWEN	m	That's what I'm afraid of.
+LUKE	m	What are you doing hiding there?
+THREEPIO	m	It wasn't my fault, sir. Please don't  deactivate me. I told him not to go,  but he's faulty, malfunctioning;  kept babbling on about his mission.
+LUKE	m	Oh, no!
+THREEPIO	m	That R2 unit has always been a  problem. These astro-droids are  getting quite out of hand. Even I  can't understand their logic at times.
+LUKE	m	How could I be so stupid? He's nowhere  in sight. Blast it!
+THREEPIO	m	Pardon me, sir, but couldn't we go  after him?
+LUKE	m	It's too dangerous with all the  Sandpeople around. We'll have to  wait until morning.
+OWEN	m	Luke, I'm shutting the power down  for the night.
+LUKE	m	All right, I'll be there in a few  minutes. Boy, am I gonna get it.
+LUKE	m	You know that little droid is going  to cause me a lot of trouble.
+THREEPIO	m	Oh, he excels at that, sir.
+OWEN	m	Luke? Luke? Luke? Where could he be  loafing now!
+OWEN	m	Have you seen Luke this morning?
+AUNT BERU	?	He said he had some things to do  before he started today, so he left  early.
+OWEN	m	Uh? Did he take those two new droids  with him?
+AUNT BERU	?	I think so.
+OWEN	m	Well, he'd better have those units  in the south range repaired be midday  or there'll be hell to pay!
+LUKE	m	How's that.
+LUKE	m	Old Ben Kenobi lives out in this  direction somewhere, but I don't see  how that R2 unit could have come  this far. We must have missed him.  Uncle Owen isn't going to take this  very well.
+THREEPIO	m	Sir, would it help if you told him  it was my fault.
+LUKE	m	Sure. He needs you. He'd probably  only deactivate you for a day or  so...
+THREEPIO	m	Deactivate! Well, on the other hand  if you hadn't removed his restraining  bolt...
+LUKE	m	Wait, there's something dead ahead  on the scanner. It looks like our  droid... hit the accelerator.
+LUKE	m	Hey, whoa, just where do you think  you're going?
+THREEPIO	m	Master Luke here is your rightful  owner. We'll have no more of this  Obi-Wan Kenobi jibberish... and don't  talk to me about your mission, either.  You're fortunate he doesn't blast  you into a million pieces right here.
+LUKE	m	Well, come on. It's getting late. I  only hope we can get back before  Uncle Owen really blows up.
+THREEPIO	m	If you don't mind my saying so, sir,  I think you should deactivate the  little fugitive until you've gotten  him back to your workshop.
+LUKE	m	No, he's not going to try anything.
+LUKE	m	What's wrong with him now?
+THREEPIO	m	Oh my... sir, he says there are  several creatures approaching from  the southeast.
+LUKE	m	Sandpeople! Or worst! Come on, let's  have a look. Come on.
+LUKE	m	There are two Banthas down there but  I don't see any... wait a second,  they're Sandpeople all right. I can  see one of them now.
+BEN	m	Hello there! Come here my little  friend. Don't be afraid.
+BEN	m	Don't worry, he'll be all right.
+LUKE	m	What happened?
+BEN	m	Rest easy, son, you've had a busy  day. You're fortunate you're still  in one piece.
+LUKE	m	Ben? Ben Kenobi! Boy, am I glad to  see you!
+BEN	m	The Jundland wastes are not to be  traveled lightly. Tell me young Luke,  what brings you out this far?
+LUKE	m	Oh, this little droid! I think he's  searching for his former master...  I've never seen such devotion in a  droid before... there seems to be no  stopping him. He claims to be the  property of an Obi-Wan Kenobi. Is he  a relative of yours? Do you know who  he's talking about?
+BEN	m	Obi-Wan Kenobi... Obi-Wan? Now thats  a name I haven't heard in a long  time... a long time.
+LUKE	m	I think my uncle knew him. He said  he was dead.
+BEN	m	Oh, he's not dead, not... not yet.
+LUKE	m	You know him!
+BEN	m	Well of course, of course I know  him. He's me! I haven't gone by the  name Obi-Wan since oh, before you  were born.
+LUKE	m	Then the droid does belong to you.
+BEN	m	Don't seem to remember ever owning a  droid. Very interesting...
+BEN	m	I think we better get indoors. The  Sandpeople are easily startled but  they will soon be back and in greater  numbers.
+LUKE	m	Threepio!
+THREEPIO	m	Where am I? I must have taken a bad  step...
+LUKE	m	Can you stand? We've got to get out  of here before the Sandpeople return.
+THREEPIO	m	I don't think I can make it. You go  on, Master Luke. There's no sense in  you risking yourself on my account.  I'm done for.
+LUKE	m	No, you're not. What kind of talk is  that?
+BEN	m	Quickly, son... they're on the move.
+LUKE	m	No, my father didn't fight in the  wars. He was a navigator on a spice  freighter.
+BEN	m	That's what your uncle told you. He  didn't hold with your father's ideals.  Thought he should have stayed here  and not gotten involved.
+LUKE	m	You fought in the Clone Wars?
+BEN	m	Yes, I was once a Jedi Knight the  same as your father.
+LUKE	m	I wish I'd known him.
+BEN	m	He was the best star-pilot in the  galaxy, and a cunning warrior. I  understand you've become quite a  good pilot yourself. And he was a  good friend. Which reminds me...
+BEN	m	I have something here for you. Your  father wanted you to have this when  you were old enough, but your uncle  wouldn't allow it. He feared you  might follow old Obi-Wan on some  damned-fool idealistic crusade like  your father did.
+THREEPIO	m	Sir, if you'll not be needing me,  I'll close down for awhile.
+LUKE	m	Sure, go ahead.
+LUKE	m	What is it?
+BEN	m	Your fathers lightsaber. This is the  weapon of a Jedi Knight. Not as clumsy  or as random as a blaster.
+BEN	m	An elegant weapon for a more civilized  time. For over a thousand generations  the Jedi Knights were the guardians  of peace and justice in the Old  Republic. Before the dark times,  before the Empire.
+LUKE	m	How did my father die?
+BEN	m	A young Jedi named Darth Vader, who  was a pupil of mine until he turned  to evil, helped the Empire hunt down  and destroy the Jedi Knights. He  betrayed and murdered your father.  Now the Jedi are all but extinct.  Vader was seduced by the dark side  of the Force.
+LUKE	m	The Force?
+BEN	m	Well, the Force is what gives a Jedi  his power. It's an energy field  created by all living things. It  surrounds us and penetrates us. It  binds the galaxy together.
+BEN	m	Now, let's see if we can't figure  out what you are, my little friend.  And where you come from.
+LUKE	m	I saw part of the message he was...
+BEN	m	I seem to have found it.
+LEIA	f	General Kenobi, years ago you served  my father in the Clone Wars. Now he  begs you to help him in his struggle  against the Empire. I regret that I  am unable to present my father's  request to you in person, but my  ship has fallen under attack and I'm  afraid my mission to bring you to  Alderaan has failed. I have placed  information vital to the survival of  the Rebellion into the memory systems  of this R2 unit. My father will know  how to retrieve it. You must see  this droid safely delivered to him  on Alderaan. This is our most  desperate hour. Help me, Obi-Wan  Kenobi, you're my only hope.
+BEN	m	You must learn the ways of the Force  if you're to come with me to Alderaan.
+LUKE	m	Alderaan? I'm not going to Alderaan.  I've got to go home. It's late, I'm  in for it as it is.
+BEN	m	I need your help, Luke. She needs  your help. I'm getting too old for  this sort of thing.
+LUKE	m	I can't get involved! I've got work  to do! It's not that I like the  Empire. I hate it! But there's nothing  I can do about it right now. It's  such a long way from here.
+BEN	m	That's your uncle talking.
+LUKE	m	Oh, God, my uncle. How am I ever  going to explain this?
+BEN	m	Learn about the Force, Luke.
+LUKE	m	Look, I can take you as far as  Anchorhead. You can get a transport  there to Mos Eisley or wherever you're  going.
+BEN	m	You must do what you feel is right,  of course.
+TAGGE	m	Until this battle station is fully  operational we are vulnerable. The  Rebel Alliance is too well equipped.  They're more dangerous than you  realize.
+MOTTI	m	Dangerous to your starfleet,  Commander, not to this battle station!
+TAGGE	m	The Rebellion will continue to gain  a support in the Imperial Senate as  long as....
+TARKIN	m	The Imperial Senate will no longer  be of any concern to us. I've just  received word that the Emperor has  dissolved the council permanently.  The last remnants of the Old Republic  have been swept away.
+TAGGE	m	That's impossible! How will the  Emperor maintain control without the  bureaucracy?
+TARKIN	m	The regional governors now have direct  control over territories. Fear will  keep the local systems in line. Fear  of this battle station.
+TAGGE	m	And what of the Rebellion? If the  Rebels have obtained a complete  technical readout of this station,  it is possible, however unlikely,  that they might find a weakness and  exploit it.
+VADER	m	The plans you refer to will soon be  back in our hands.
+MOTTI	m	Any attack made by the Rebels against  this station would be a useless  gesture, no matter what technical  data they've obtained. This station  is now the ultimate power in the  universe. I suggest we use it!
+VADER	m	Don't be too proud of this  technological terror you've  constructed. The ability to destroy  a planet is insignificant next to  the power of the Force.
+MOTTI	m	Don't try to frighten us with your  sorcerer's ways, Lord Vader. Your  sad devotion to that ancient religion  has not helped you conjure up the  stolen data tapes, or given you  clairvoyance enough to find the  Rebel's hidden fort...
+VADER	m	I find your lack of faith disturbing.
+TARKIN	m	Enough of this! Vader, release him!
+VADER	m	As you wish.
+TARKIN	m	This bickering is pointless. Lord  Vader will provide us with the  location of the Rebel fortress by  the time this station is operational.  We will then crush the Rebellion  with one swift stroke.
+LUKE	m	It looks like Sandpeople did this,  all right. Look, here are Gaffi  sticks, Bantha tracks. It's just...  I never heard of them hitting anything  this big before.
+BEN	m	They didn't. But we are meant to  think they did. These tracks are  side by side. Sandpeople always ride  single file to hide there numbers.
+LUKE	m	These are the same Jawas that sold  us Artoo and Threepio.
+BEN	m	And these blast points, too accurate  for Sandpeople. Only Imperial  stormtroopers are so precise.
+LUKE	m	Why would Imperial troops want to  slaughter Jawas?
+LUKE	m	If they traced the robots here, they  may have learned who they sold them  to. And that would lead them home!
+BEN	m	Wait, Luke! It's too dangerous.
+LUKE	m	Uncle Owen! Aunt Beru! Uncle Owen!
+VADER	m	And, now Your Highness, we will  discuss the location of your hidden  Rebel base.
+BEN	m	There's nothing you could have done,  Luke, had you been there. You'd have  been killed, too, and the droids  would be in the hands of the Empire.
+LUKE	m	I want to come with you to Alderaan.  There's nothing here for me now. I  want to learn the ways of the Force  and become a Jedi like my father.
+BEN	m	Mos Eisley Spaceport. You will never  find a more wretched hive of scum  and villainy. We must be cautious.
+TROOPER	m	How long have you had these droids?
+LUKE	m	About three or four seasons.
+BEN	m	They're for sale if you want them.
+TROOPER	m	Let me see your identification.
+BEN	m	You don't need to see his  identification.
+TROOPER	m	We don't need to see his  identification.
+BEN	m	These are not the droids your looking  for.
+TROOPER	m	These are not the droids we're looking  for.
+BEN	m	He can go about his business.
+TROOPER	m	You can go about your business.
+BEN	m	Move along.
+TROOPER	m	Move along. Move along.
+THREEPIO	m	I can't abide these Jawas. Disgusting  creatures.
+LUKE	m	Go on, go on. I can't understand how  we got by those troopers. I thought  we were dead.
+BEN	m	The Force can have a strong influence  on the weak-minded. You will find it  a powerful ally.
+LUKE	m	Do you really think we're going to  find a pilot here that'll take us to  Alderaan?
+BEN	m	Well, most of the best freighter  pilots can be found here. Only watch  your step. This place can be a little  rough.
+LUKE	m	I'm ready for anything.
+THREEPIO	m	Come along, Artoo.
+BARTENDER	m	We don't serve their kind here!
+LUKE	m	What?
+BARTENDER	m	Your droids. They'll have to wait  outside. We don't want them here.
+LUKE	m	Listen, why don't you wait out by  the speeder. We don't want any  trouble.
+THREEPIO	m	I heartily agree with you sir.
+CREATURE	?	Negola dewaghi wooldugger?!?
+HUMAN	m	He doesn't like you.
+LUKE	m	I'm sorry.
+HUMAN	m	I don't like you either.
+HUMAN	m	Don't insult us. You just watch  yourself. We're wanted men. I have  the death sentence in twelve systems.
+LUKE	m	I'll be careful than.
+HUMAN	m	You'll be dead.
+BEN	m	This little one isn't worth the  effort. Come let me buy you  something...
+BARTENDER	m	No blasters! No blaster!
+BEN	m	This is Chewbacca. He's first-mate  on a ship that might suit our needs.
+THREEPIO	m	I don't like the look of this.
+HAN	m	Han Solo. I'm captain of the  Millennium Falcon. Chewie here tells  me you're looking for passage to the  Alderaan system.
+BEN	m	Yes, indeed. If it's a fast ship.
+HAN	m	Fast ship? You've never heard of the  Millennium Falcon?
+BEN	m	Should I have?
+HAN	m	It's the ship that made the Kessel  run in less than twelve parsecs!
+HAN	m	I've outrun Imperial starships, not  the local bulk-cruisers, mind you.  I'm talking about the big Corellian  ships now. She's fast enough for  you, old man. What's the cargo?
+BEN	m	Only passengers. Myself, the boy,  two droids, and no questions asked.
+HAN	m	What is it? Some kind of local  trouble?
+BEN	m	Let's just say we'd like to avoid  any Imperial entanglements.
+HAN	m	Well, that's the trick, isn't it?  And it's going to cost you something  extra. Ten thousand in advance.
+LUKE	m	Ten thousand? We could almost buy  our own ship for that!
+HAN	m	But who's going to fly it, kid! You?
+LUKE	m	You bet I could. I'm not such a bad  pilot myself! We don't have to sit  here and listen...
+BEN	m	We haven't that much with us. But we  could pay you two thousand now, plus  fifteen when we reach Alderaan.
+HAN	m	Seventeen, huh!
+HAN	m	Okay. You guys got yourself a ship.  We'll leave as soon as you're ready.  Docking bay Ninety-four.
+BEN	m	Ninety-four.
+HAN	m	Looks like somebody's beginning to  take an interest in your handiwork.
+TROOPER	m	All right, we'll check it out.
+HAN	m	Seventeen thousand! Those guys must  really be desperate. This could really  save my neck. Get back to the ship  and get her ready.
+BEN	m	You'll have to sell your speeder.
+LUKE	m	That's okay. I'm never coming back  to this planet again.
+GREEDO	m	Going somewhere, Solo?
+HAN	m	Yes, Greedo. As a matter of fact, I  was just going to see your boss.  Tell Jabba that I've got his money.
+GREEDO	m	It's too late. You should have paid  him when you had the chance. Jabba's  put a price on your head, so large  that every bounty hunter in the galaxy  will be looking for you. I'm lucky I  found you first.
+HAN	m	Yeah, but this time I got the money.
+GREEDO	m	If you give it to me, I might forget  I found you.
+HAN	m	I don't have it with me. Tell Jabba...
+GREEDO	m	Jabba's through with you. He has no  time for smugglers who drop their  shipments at the first sign of an  Imperial cruiser.
+HAN	m	Even I get boarded sometimes. Do you  think I had a choice?
+GREEDO	m	You can tell that to Jabba. He may  only take your ship.
+HAN	m	Over my dead body.
+GREEDO	m	That's the idea. I've been looking  forward to killing you for a long  time.
+HAN	m	Yes, I'll bet you have.
+HAN	m	Sorry about the mess.
+VADER	m	Her resistance to the mind probe is  considerable. It will be some time  before we can extract any information  from her.
+IMPERIAL OFFICER	m	The final check-out is complete. All  systems are operational. What course  shall we set?
+TARKIN	m	Perhaps she would respond to an  alternative form of persuasion.
+VADER	m	What do you mean?
+TARKIN	m	I think it is time we demonstrate  the full power of this station. Set your course for Princess Leia's  home planet of Alderaan.
+TROOPER	m	With pleasure.
+THREEPIO	m	Lock the door, Artoo.
+TROOPER	m	All right, check that side of the  street. It's secure. Move on to the  next door.
+THREEPIO	m	I would much rather have gone with  Master Luke than stay here with you.  I don't know what all the trouble is  about, but I'm sure it must be your  fault.
+THREEPIO	m	You watch your language!
+LUKE	m	He says it's the best he can do.  Since the XP-38 came out, they're  just not in demand.
+BEN	m	It will be enough.
+BEN	m	If the ship's as fast as he's  boasting, we ought to do well.
+JABBA	m	Come on out, Solo!
+HAN	m	I've been waiting for you, Jabba.
+JABBA	m	I expected you would be.
+HAN	m	I'm not the type to run.
+JABBA	m	Han, my boy, there are times when  you disappoint me... why haven't you  paid me? And why did you have to fry  poor Greedo like that... after all  we've been through together.
+HAN	m	You sent Greedo to blast me.
+JABBA	m	Han, why you're the best smuggler in  the business. You're too valuable to  fry. He was only relaying my concern  at your delays. He wasn't going to  blast you.
+HAN	m	I think he thought he was. Next time  don't send one of those twerps. If  you've got something to say to me,  come see me yourself.
+JABBA	m	Han, Han! If only you hadn't had to  dump that shipment of spice... you  understand I just can't make an  exception. Where would I be if every  pilot who smuggled for me dumped  their shipment at the first sign of  an Imperial starship? It's not good  business.
+HAN	m	You know, even I get boarded  sometimes, Jabba. I had no choice,  but I've got a charter now and I can  pay you back, plus a little extra. I  just need some more time.
+JABBA	m	Put your blasters away. Han, my boy,  I'm only doing this because you're  the best and I need you. So, for an  extra, say twenty percent I'll give  you a little more time... but this  is it. If you disappoint me again,  I'll put a price on your head so  large you won't be able to go near a  civilized system for the rest of  your short life.
+HAN	m	Jabba, I'll pay you because it's my  pleasure.
+LUKE	m	What a piece of junk.
+HAN	m	She'll make point five beyond the  speed of light. She may not look  like much, but she's got it where it  counts, kid. I've added some special  modifications myself.
+HAN	m	We're a little rushed, so if you'll  hurry aboard we'll get out of here.
+THREEPIO	m	Hello, sir.
+TROOPER	m	Which way?
+TROOPER	m	All right, men. Load your weapons!
+TROOPER	m	Stop that ship!
+TROOPER	m	Blast 'em!
+HAN	m	Chewie, get us out of here!
+THREEPIO	m	Oh, my. I'd forgotten how much I  hate space travel.
+HAN	m	It looks like an Imperial cruiser.  Our passengers must be hotter than I  thought. Try and hold them off. Angle  the deflector shield while I make  the calculations for the jump to  light speed.
+HAN	m	Stay sharp! There are two more coming  in; they're going to try to cut us  off.
+LUKE	m	Why don't you outrun them? I thought  you said this thing was fast.
+HAN	m	Watch your mouth, kid, or you're  going to find yourself floating home.  We'll be safe enough once we make  the jump to hyperspace. Besides, I  know a few maneuvers. We'll lose  them!
+HAN	m	Here's where the fun begins!
+BEN	m	How long before you can make the  jump to light speed?
+HAN	m	It'll take a few moments to get the  coordinates from the navi-computer.
+LUKE	m	Are you kidding? At the rate they're  gaining...
+HAN	m	Traveling through hyperspace isn't  like dusting crops, boy! Without  precise calculations we could fly  right through a star or bounce too  close to a supernova and that'd end  your trip real quick, wouldn't it?
+LUKE	m	What's that flashing?
+HAN	m	We're losing our deflector shield.  Go strap yourself in, I'm going to  make the jump to light speed.
+MOTTI	m	We've entered the Alderaan system.
+LEIA	f	Governor Tarkin, I should have  expected to find you holding Vader's  leash. I recognized your foul stench  when I was brought on board.
+TARKIN	m	Charming to the last. You don't know  how hard I found it signing the order  to terminate your life!
+LEIA	f	I surprised you had the courage to  take the responsibility yourself!
+TARKIN	m	Princess Leia, before your execution  I would like you to be my guest at a  ceremony that will make this battle  station operational. No star system  will dare oppose the Emperor now.
+LEIA	f	The more you tighten your grip,  Tarkin, the more star systems will  slip through your fingers.
+TARKIN	m	Not after we demonstrate the power  of this station. In a way, you have  determined the choice of the planet  that'll be destroyed first. Since  you are reluctant to provide us with  the location of the Rebel base, I  have chosen to test this station's  destructive power... on your home  planet of Alderaan.
+LEIA	f	No! Alderaan is peaceful. We have no  weapons. You can't possibly...
+TARKIN	m	You would prefer another target? A  military target? Then name the system!
+TARKIN	m	I grow tired of asking this. So it'll  be the last time. Where is the Rebel  base?
+LEIA	f	Dantooine.
+LEIA	f	They're on Dantooine.
+TARKIN	m	There. You see Lord Vader, she can  be reasonable. Continue with the operation. You may  fire when ready.
+LEIA	f	What?
+TARKIN	m	You're far too trusting. Dantooine  is too remote to make an effective  demonstration. But don't worry. We  will deal with your Rebel friends  soon enough.
+LEIA	f	No!
+VADER	m	Commence primary ignition.
+LUKE	m	Are you all right? What's wrong?
+BEN	m	I felt a great disturbance in the  Force... as if millions of voices  suddenly cried out in terror and  were suddenly silenced. I fear  something terrible has happened.
+BEN	m	You'd better get on with your  exercises.
+HAN	m	Well, you can forget your troubles  with those Imperial slugs. I told  you I'd outrun 'em.
+HAN	m	Don't everyone thank me at once.
+HAN	m	Anyway, we should be at Alderaan  about oh-two-hundred hours.
+THREEPIO	m	Now be careful, Artoo.
+THREEPIO	m	He made a fair move. Screaming about  it won't help you.
+HAN	m	Let him have it. It's not wise to  upset a Wookiee.
+THREEPIO	m	But sir, nobody worries about  upsetting a droid.
+HAN	m	That's 'cause droids don't pull  people's arms out of their socket  when they lose. Wookiees are known  to do that.
+THREEPIO	m	I see your point, sir. I suggest a  new strategy, Artoo. Let the Wookiee  win.
+BEN	m	Remember, a Jedi can feel the Force  flowing through him.
+LUKE	m	You mean it controls your actions?
+BEN	m	Partially. But it also obeys your  commands.
+HAN	m	Hokey religions and ancient weapons  are no match for a good blaster at  your side, kid.
+LUKE	m	You don't believe in the Force, do  you?
+HAN	m	Kid, I've flown from one side of  this galaxy to the other. I've seen  a lot of strange stuff, but I've  never seen anything to make me believe  there's one all-powerful force  controlling everything. There's no  mystical energy field that controls  my destiny.
+HAN	m	It's all a lot of simple tricks and  nonsense.
+BEN	m	I suggest you try it again, Luke.
+BEN	m	This time, let go your conscious  self and act on instinct.
+LUKE	m	With the blast shield down, I can't  even see. How am I supposed to fight?
+BEN	m	Your eyes can deceive you. Don't  trust them.
+BEN	m	Stretch out with your feelings.
+BEN	m	You see, you can do it.
+HAN	m	I call it luck.
+BEN	m	In my experience, there's no such  thing as luck.
+HAN	m	Look, going good against remotes is  one thing. Going good against the  living? That's something else.
+HAN	m	Looks like we're coming up on  Alderaan.
+LUKE	m	You know, I did feel something. I  could almost see the remote.
+BEN	m	That's good. You have taken your  first step into a larger world.
+TARKIN	m	Yes.
+OFFICER CASS	m	Our scout ships have reached  Dantooine. They found the remains of  a Rebel base, but they estimate that  it has been deserted for some time.  They are now conducting an extensive  search of the surrounding systems.
+TARKIN	m	She lied! She lied to us!
+VADER	m	I told you she would never consciously  betray the Rebellion.
+TARKIN	m	Terminate her... immediately!
+HAN	m	Stand by, Chewie, here we go. Cut in  the sublight engines.
+HAN	m	What the...? Aw, we've come out of  hyperspace into a meteor shower.  Some kind of asteroid collision.  It's not on any of the charts.
+LUKE	m	What's going on?
+HAN	m	Our position is correct, except...  no, Alderaan!
+LUKE	m	What do you mean? Where is it?
+HAN	m	Thats what I'm trying to tell you,  kid. It ain't there. It's been totally  blown away.
+LUKE	m	What? How?
+BEN	m	Destroyed... by the Empire!
+HAN	m	The entire starfleet couldn't destroy  the whole planet. It'd take a thousand  ships with more fire power than  I've...
+HAN	m	There's another ship coming in.
+LUKE	m	Maybe they know what happened.
+BEN	m	It's an Imperial fighter.
+LUKE	m	It followed us!
+BEN	m	No. It's a short range fighter.
+HAN	m	There aren't any bases around here.  Where did it come from?
+LUKE	m	It sure is leaving in a big hurry.  If they identify us, we're in big  trouble.
+HAN	m	Not if I can help it. Chewie...jam  it's transmissions.
+BEN	m	It'd be as well to let it go. It's  too far out of range.
+HAN	m	Not for long...
+BEN	m	A fighter that size couldn't get  this deep into space on its own.
+LUKE	m	It must have gotten lost, been part  of a convoy or something.
+HAN	m	Well, he ain't going to be around  long enough to tell anyone about us.
+LUKE	m	Look at him. He's headed for that  small moon.
+HAN	m	I think I can get him before he gets  there... he's almost in range.
+BEN	m	That's no moon! It's a space station.
+HAN	m	It's too big to be a space station.
+LUKE	m	I have a very bad feeling about this.
+HAN	m	Yeah, I think your right. Full  reverse! Chewie, lock in the auxiliary  power.
+LUKE	m	Why are we still moving towards it?
+HAN	m	We're caught in a tractor beam! It's  pulling us in!
+LUKE	m	But there's gotta be something you  can do!
+HAN	m	There's nothin' I can do about it,  kid. I'm in full power. I'm going to  have to shut down. But they're not  going to get me without a fight!
+BEN	m	You can't win. But there are  alternatives to fighting.
+OFFICER	m	To you stations! Come with me.
+OFFICER	m	Close all outboard shields! Close  all outboard shields!
+TARKIN	m	Yes.
+VOICE	m	We've captured a freighter entering  the remains of the Alderaan system.  It's markings match those of a ship  that blasted its way out of Mos  Eisley.
+VADER	m	They must be trying to return the  stolen plans to the princess. She  may yet be of some use to us.
+VOICE	m	Unlock one-five-seven and nine.  Release charges.
+OFFICER	m	There's no one on board, sir.  According to the log, the crew  abandoned ship right after takeoff.  It must be a decoy, sir. Several of  the escape pods have been jettisoned.
+VADER	m	Did you find any droids?
+OFFICER	m	No, sir. If there were any on board,  they must also have jettisoned.
+VADER	m	Send a scanning crew on board. I  want every part of this ship checked.
+OFFICER	m	Yes, sir.
+VADER	m	I sense something... a presence I  haven't felt since...
+OFFICER	m	Get me a scanning crew in here on  the double. I want every part of  this ship checked!
+LUKE	m	Boy, it's lucky you had these  compartments.
+HAN	m	I use them for smuggling. I never  thought I'd be smuggling myself in  them. This is ridiculous. Even if I  could take off, I'd never get past  the tractor beam.
+BEN	m	Leave that to me!
+HAN	m	Damn fool. I knew that you were going  to say that!
+BEN	m	Who's the more foolish... the fool  or the fool who follows him?
+TROOPER	m	The ship's all yours. If the scanners  pick up anything, report it  immediately. All right, let's go.
+HAN'S VOICE	m	Hey down there, could you give us a  hand with this?
+GANTRY OFFICER	m	TX-four-one-two. Why aren't you at  your post? TX-four-one-two, do you  copy?
+GANTRY OFFICER	m	Take over. We've got a bad  transmitter. I'll see what I can do.
+LUKE	m	You know, between his howling and  your blasting everything in sight,  it's a wonder the whole station  doesn't know we're here.
+HAN	m	Bring them on! I prefer a straight  fight to all this sneaking around.
+THREEPIO	m	We found the computer outlet, sir.
+BEN	m	Plug in. He should be able to  interpret the entire Imperial computer  network.
+THREEPIO	m	He says he's found the main computer  to power the tractor beam that's  holding the ship here. He'll try to  make the precise location appear on  the monitor.
+THREEPIO	m	The tractor beam is coupled to the  main reactor in seven locations. A  power loss at one of the terminals  will allow the ship to leave.
+BEN	m	I don't think you boys can help. I  must go alone.
+HAN	m	Whatever you say. I've done more  that I bargained for on this trip  already.
+LUKE	m	I want to go with you.
+BEN	m	Be patient, Luke. Stay and watch  over the droids.
+LUKE	m	But he can...
+BEN	m	They must be delivered safely or  other star systems will suffer the  same fate as Alderaan. Your destiny  lies along a different path than  mine. The Force will be with you...  always!
+HAN	m	Boy you said it, Chewie.
+HAN	m	Where did you dig up that old fossil?
+LUKE	m	Ben is a great man.
+HAN	m	Yeah, great at getting us into  trouble.
+LUKE	m	I didn't hear you give any ideas...
+HAN	m	Well, anything would be better than  just hanging around waiting for him  to pick us up...
+LUKE	m	Who do you think...
+LUKE	m	What is it?
+THREEPIO	m	I'm afraid I'm not quite sure, sir.  He says "I found her", and keeps  repeating, "She's here."
+LUKE	m	Well, who... who has he found?
+THREEPIO	m	Princess Leia.
+LUKE	m	The princess? She's here?
+HAN	m	Princess? What's going on?
+THREEPIO	m	Level five. Detention block A A-twenty- three. I'm afraid she's scheduled to  be terminated.
+LUKE	m	Oh, no! We've got to do something.
+HAN	m	What are you talking about?
+LUKE	m	The droid belongs to her. She's the  one in the message... We've got to  help her.
+HAN	m	Now, look, don't get any funny ideas.  The old man wants us to wait right  here.
+LUKE	m	But he didn't know she was here.  Look, will you just find a way back  into the detention block?
+HAN	m	I'm not going anywhere.
+LUKE	m	They're going to execute her. Look,  a few minutes ago you said you didn't  want to just wait here to be captured.  Now all you want to do is stay.
+HAN	m	Marching into the detention area is  not what I had in mind.
+LUKE	m	But they're going to kill her!
+HAN	m	Better her than me...
+LUKE	m	She's rich.
+HAN	m	Rich?
+LUKE	m	Yes. Rich, powerful! Listen, if you  were to rescue her, the reward would  be...
+HAN	m	What?
+LUKE	m	Well more wealth that you can imagine.
+HAN	m	I don't know, I can imagine quite a  bit!
+LUKE	m	You'll get it!
+HAN	m	I better!
+LUKE	m	You will...
+HAN	m	All right, kid. But you'd better be  right about this.
+LUKE	m	All right.
+HAN	m	What's your plan?
+LUKE	m	Uh... Threepio, hand me those binders  there will you?
+LUKE	m	Okay. Now, I'm going to put these on  you.
+LUKE	m	Okay. Han, you put these on.
+HAN	m	Don't worry, Chewie. I think I know  what he has in mind.
+THREEPIO	m	Master Luke, sir! Pardon me for  asking... but, ah... what should  Artoo and I do if we're discovered  here?
+LUKE	m	Lock the door!
+HAN	m	And hope they don't have blasters.
+THREEPIO	m	That isn't very reassuring.
+LUKE	m	I can't see a thing in this helmet.
+HAN	m	This is not going to work.
+LUKE	m	Why didn't you say so before?
+HAN	m	I did say so before!
+OFFICER	m	Where are you taking this... thing?
+LUKE	m	Prisoner transfer from Block one-one- three-eight.
+OFFICER	m	I wasn't notified. I'll have to clear  it.
+HAN	m	Look out! He's loose!
+LUKE	m	He's going to pull us all apart.
+HAN	m	Go get him!
+HAN	m	We've got to find out which cell  this princess of yours is in. Here  it is... cell twenty-one-eight-seven.  You go get her. I'll hold them here.
+HAN	m	Everything is under control. Situation  normal.
+INTERCOM VOICE	m	What happened?
+HAN	m	Uh... had a slight weapons  malfunction. But, uh, everything's  perfectly all right now. We're fine.  We're all fine here, now, thank you.  How are you?
+INTERCOM VOICE	m	We're sending a squad up.
+HAN	m	Uh, uh, negative. We had a reactor  leak here now. Give us a few minutes  to lock it down. Large leak... very  dangerous.
+INTERCOM VOICE	m	Who is this? What's your operating  number?
+HAN	m	Boring conversation anyway. Luke! We're going to have company!
+LEIA	f	Aren't you a little short to be a  stormtrooper?
+LUKE	m	What? Oh... the uniform. I'm Luke  Skywalker. I'm here to rescue you.
+LEIA	f	You're who?
+LUKE	m	I'm here to rescue you. I've got  your R2 unit. I'm here with Ben  Kenobi.
+LEIA	f	Ben Kenobi is here! Where is he?
+LUKE	m	Come on!
+VADER	m	He is here...
+TARKIN	m	Obi-Wan Kenobi! What makes you think  so?
+VADER	m	A tremor in the Force. The last time  I felt it was in the presence of my  old master.
+TARKIN	m	Surely he must be dead by now.
+VADER	m	Don't underestimate the power of the  Force.
+TARKIN	m	The Jedi are extinct, their fire has  gone out of the universe. You, my  friend, are all that's left of their  religion.
+TARKIN	m	Yes.
+INTERCOM VOICE	m	Governor Tarkin, we have an emergency  alert in detention block A A-twenty- three.
+TARKIN	m	The princess! Put all sections on  alert!
+VADER	m	Obi-Wan is here. The Force is with  him.
+TARKIN	m	If you're right, he must not be  allowed to escape.
+VADER	m	Escape is not his plan. I must face  him alone.
+HAN	m	Chewie!
+HAN	m	Get behind me! Get behind me!
+HAN	m	Can't get out that way.
+LEIA	f	Looks like you managed to cut off  our only escape route.
+HAN	m	Maybe you'd like it back in your  cell, Your Highness.
+LUKE	m	See-Threepio! See-Threepio!
+THREEPIO	m	Yes sir?
+LUKE	m	We've been cut off! Are there any  other ways out of the cell bay?...  What was that? I didn't copy!
+THREEPIO	m	I said, all systems have been alerted  to your presence, sir. The main  entrance seems to be the only way in  or out; all other information on  your level is restricted.
+TROOPER VOICE	m	Open up in there!
+THREEPIO	m	Oh, no!
+LUKE	m	There isn't any other way out.
+HAN	m	I can't hold them off forever! Now  what?
+LEIA	f	This is some rescue. When you came  in here, didn't you have a plan for  getting out?
+HAN	m	He's the brains, sweetheart.
+LUKE	m	Well, I didn't...
+HAN	m	What the hell are you doing?
+LEIA	f	Somebody has to save our skins. Into  the garbage chute, wise guy.
+HAN	m	Get in there you big furry oaf! I  don't care what you smell! Get in  there and don't worry about it.
+HAN	m	Wonderful girl! Either I'm going to  kill her or I'm beginning to like  her. Get in there!
+HAN	m	Oh! The garbage chute was a really  wonderful idea. What an incredible  smell you've discovered! Let's get  out of here! Get away from there...
+LUKE	m	No! wait!
+LUKE	m	Will you forget it? I already tried  it. It's magnetically sealed!
+LEIA	f	Put that thing away! You're going to  get us all killed.
+HAN	m	Absolutely, Your Worship. Look, I  had everything under control until  you led us down here. You know, it's  not going to take them long to figure  out what happened to us.
+LEIA	f	It could be worse...
+HAN	m	It's worse.
+LUKE	m	There's something alive in here!
+HAN	m	That's your imagination.
+LUKE	m	Something just moves past my leg!  Look! Did you see that?
+HAN	m	What?
+LUKE	m	Help!
+HAN	m	Luke! Luke! Luke!
+LEIA	f	Luke!
+LEIA	f	Luke, Luke, grab a hold of this.
+LUKE	m	Blast it, will you! My gun's jammed.
+HAN	m	Where?
+LUKE	m	Anywhere! Oh!!
+HAN	m	Luke! Luke!
+LEIA	f	Grab him!
+LEIA	f	What happened?
+LUKE	m	I don't know, it just let go of me  and disappeared...
+HAN	m	I've got a very bad feeling about  this.
+LUKE	m	The walls are moving!
+LEIA	f	Don't just stand there. Try to brace  it with something.
+LUKE	m	Wait a minute!
+LUKE	m	Threepio! Come in Threepio! Threepio!  Where could he be?
+FIRST TROOPER	m	Take over! See to him! Look there!
+THREEPIO	m	They're madmen! They're heading for  the prison level. If you hurry, you  might catch them.
+FIRST OFFICER	m	Follow me! You stand guard.
+THREEPIO	m	Come on!
+THREEPIO	m	Oh! All this excitement has overrun  the circuits of my counterpart here.  If you don't mind, I'd like to take  him down to maintenance.
+TROOPER	m	All right.
+LUKE	m	Threepio! Come in, Threepio! Threepio!
+HAN	m	Get to the top!
+LEIA	f	I can't
+LUKE	m	Where could he be? Threepio! Threepio,  will you come in?
+THREEPIO	m	They aren't here! Something must  have happened to them. See if they've  been captured.
+THREEPIO	m	Hurry!
+HAN	m	One thing's for sure. We're all going  to be a lot thinner! Get on top of it!
+LEIA	f	I'm trying!
+THREEPIO	m	Thank goodness, they haven't found  them! Where could they be?
+THREEPIO	m	Use the comlink? Oh, my! I forgot I  turned it off!
+THREEPIO	m	Are you there, sir?
+LUKE	m	Threepio!
+THREEPIO	m	We've had some problems...
+LUKE	m	Will you shut up and listen to me?  Shut down all garbage mashers on the  detention level, will you? Do you  copy?
+LUKE	m	Shut down all the garbage mashers on  the detention level.
+LUKE	m	Shut down all the garbage mashers on  the detention level.
+THREEPIO	m	No. Shut them all down! Hurry!
+THREEPIO	m	Listen to them! They're dying, Artoo!  Curse my metal body! I wasn't fast  enough. It's all my fault! My poor  master!
+LUKE	m	Threepio, we're all right!
+LUKE	m	We're all right. You did great.
+LUKE	m	Hey... hey, open the pressure  maintenance hatch on unit number...  where are we?
+HAN	m	Three-two-six-eight-two-seven.
+HAN	m	If we can just avoid any more female  advice, we ought to be able to get  out of here.
+LUKE	m	Well, let's get moving!
+HAN	m	Where are you going?
+LEIA	f	No, wait. They'll hear!
+HAN	m	Come here, you big coward!
+HAN	m	Chewie! Come here!
+LEIA	f	Listen. I don't know who you are, or  where you came from, but from now  on, you do as I tell you. Okay?
+HAN	m	Look, Your Worshipfulness, let's get  one thing straight! I take orders  from one person! Me!
+LEIA	f	It's a wonder you're still alive. Will somebody get this big walking  carpet out of my way?
+HAN	m	No reward is worth this.
+OFFICER	m	Secure this area until the alert is  canceled.
+FIRST TROOPER	m	Give me regular reports.
+FIRST TROOPER	m	Do you know what's going on?
+SECOND TROOPER	m	Maybe it's another drill.
+SECOND TROOPER	m	What was that?
+FIRST TROOPER	m	Oh, it's nothing. Don't worry about  it.
+HAN	m	There she is.
+LUKE	m	See-Threepio, do you copy?
+THREEPIO	m	For the moment. Uh, we're in the  main hangar across from the ship.
+LUKE	m	We're right above you. Stand by.
+LEIA	f	You came in that thing? You're braver  that I thought.
+HAN	m	Nice! Come on!
+FIRST TROOPER	m	It's them! Blast them!
+HAN	m	Get back to the ship!
+LUKE	m	Where are you going? Come back!
+LEIA	f	He certainly has courage.
+LUKE	m	What good will it do us if he gets  himself killed? Come on!
+LUKE	m	I think we took a wrong turn.
+LEIA	f	There's no lock!
+LUKE	m	That oughta hold it for a while.
+LEIA	f	Quick, we've got to get across. Find  the control that extends the bridge.
+LUKE	m	Oh, I think I just blasted it.
+LEIA	f	They're coming through!
+LUKE	m	Here, hold this.
+LEIA	f	Here they come!
+LEIA	f	For luck!
+THREEPIO	m	Where could they be?
+TROOPER	m	Close the blast doors!
+TROOPER	m	Open the blast doors! Open the blast  doors!
+VADER	m	I've been waiting for you, Obi-Wan.  We meet again, at last. The circle  is now complete.
+VADER	m	When I left you, I was but the  learner; now I am the master.
+BEN	m	Only a master of evil, Darth.
+VADER	m	Your powers are weak, old man.
+BEN	m	You can't win, Darth. If you strike  me down, I shall become more powerful  than you can possibly imagine.
+HAN	m	Didn't we just leave this party?
+HAN	m	What kept you?
+LEIA	f	We ran into some old friends.
+LUKE	m	Is the ship all right?
+HAN	m	Seems okay, if we can get to it.  Just hope the old man got the tractor  beam out of commission.
+LUKE	m	Look!
+THREEPIO	m	Come on, Artoo, we're going!
+HAN	m	Now's our chance! Go!
+LUKE	m	No!
+HAN	m	Come on!
+LEIA	f	Come on! Luke, its too late!
+HAN	m	Blast the door! Kid!
+BEN'S VOICE	m	Run, Luke! Run!
+HAN	m	I hope the old man got that tractor  beam out if commission, or this is  going to be a real short trip. Okay,  hit it!
+HAN	m	We're coming up on the sentry ships.  Hold 'em off! Angle the deflector  shields while I charge up the main  guns!
+LUKE	m	I can't believe he's gone.
+LEIA	f	There wasn't anything you could have  done.
+HAN	m	Come on, buddy, we're not out of  this yet!
+HAN	m	You in, kid? Okay, stay sharp!
+LEIA	f	Here they come!
+LUKE	m	They're coming in too fast!
+THREEPIO	m	Oooh!
+LEIA	f	We've lost lateral controls.
+HAN	m	Don't worry, she'll hold together.
+HAN	m	You hear me, baby? Hold together!
+LUKE	m	Got him! I got him!
+HAN	m	Great kid! Don't get cocky.
+LEIA	f	There are still two more of them out  there!
+LUKE	m	That's it! We did it!
+LEIA	f	We did it!
+THREEPIO	m	Help! I think I'm melting! This is all your fault.
+TARKIN	m	Are they away?
+VADER	m	They have just made the jump into  hyperspace.
+TARKIN	m	You're sure the homing beacon is  secure aboard their ship? I'm taking  an awful risk, Vader. This had better  work.
+HAN	m	Not a bad bit of rescuing, huh? You  know, sometimes I even amaze myself.
+LEIA	f	That doesn't sound too hard. Besides,  they let us go. It's the only  explanation for the ease of our  escape.
+HAN	m	Easy... you call that easy?
+LEIA	f	Their tracking us!
+HAN	m	Not this ship, sister.
+LEIA	f	At least the information in Artoo is  still intact.
+HAN	m	What's so important? What's he  carrying?
+LEIA	f	The technical readouts of that battle  station. I only hope that when the  data is analyzed, a weakness can be  found. It's not over yet!
+HAN	m	It is for me, sister! Look, I ain't  in this for your revolution, and I'm  not in it for you, Princess. I expect  to be well paid. I'm in it for the  money!
+LEIA	f	You needn't worry about your reward.  If money is all that you love, then  that's what you'll receive!
+LEIA	f	Your friend is quite a mercenary. I  wonder if he really cares about  anything... or anyone.
+LUKE	m	I care!
+LUKE	m	So... what do you think of her, Han?
+HAN	m	I'm trying not to, kid!
+LUKE	m	Good...
+HAN	m	Still, she's got a lot of spirit. I  don't know, what do you think? Do  you think a princess and a guy like  me...
+LUKE	m	No!
+WILLARD	m	You're safe! We had feared the worst.
+WILLARD	m	When we heard about Alderaan, we  were afraid that you were... lost  along with your father.
+LEIA	f	We don't have time for our sorrows,  Commander. The battle station has  surely tracked us here. It's the only explanation for the  ease of our escape. You must use the  information in this R2 unit to plan  the attack. It is our only hope.
+TARKIN	m	Yes.
+DODONNA	?	The battle station is heavily shielded  and carries a firepower greater than  half the star fleet. It's defenses  are designed around a direct large- scale assault. A small one-man fighter  should be able to penetrate the outer  defense.
+GOLD LEADER	m	Pardon me for asking, sir, but what  good are snub fighters going to be  against that?
+DODONNA	?	Well, the Empire doesn't consider a  small one-man fighter to be any  threat, or they'd have a tighter  defense. An analysis of the plans  provided by Princess Leia has  demonstrated a weakness in the battle  station.
+DODONNA	?	The approach will not be easy. You  are required to maneuver straight  down this trench and skim the surface  to this point. The target area is  only two meters wide. It's a small  thermal exhaust port, right below  the main port. The shaft leads  directly to the reactor system. A  precise hit will start a chain  reaction which should destroy the  station.
+DODONNA	?	Only a precise hit will set up a  chain reaction. The shaft is ray- shielded, so you'll have to use proton  torpedoes.
+WEDGE	m	That's impossible, even for a  computer.
+LUKE	m	It's not impossible. I used to bull's- eye womp rats in my T-sixteen back  home. They're not much bigger than  two meters.
+DODONNA	?	Man your ships! And may the Force be  with you!
+VADER	m	This will be a day long remembered.  It has seen the end of Kenobi and it  will soon see the end of the  Rebellion.
+MAN'S VOICE	m	All flight trooper, man your stations.  All flight troops, man your stations.
+LUKE	m	So... you got your reward and you're  just leaving then?
+HAN	m	That's right, yeah! I got some old  debts I've got to pay off with this  stuff. Even if I didn't, you don't  think I'd be fool enough to stick  around here, do you? Why don't you  come with us? You're pretty good in  a fight. I could use you.
+LUKE	m	Come on! Why don't you take a look  around? You know what's about to  happen, what they're up against.  They could use a good pilot like  you. You're turning your back on  them.
+HAN	m	What good's a reward if you ain't  around to use it? Besides, attacking  that battle station ain't my idea of  courage. It's more like suicide.
+LUKE	m	All right. Well, take care of  yourself, Han. I guess that's what  you're best at, isn't it?
+HAN	m	Hey, Luke... may the Force be with  you!
+HAN	m	What're you lookin' at? I know what  I'm doing.
+LEIA	f	What's wrong?
+LUKE	m	Oh, it's Han! I don't know, I really  thought he'd change his mind.
+LEIA	f	He's got to follow his own path. No  one can choose it for him.
+LUKE	m	I only wish Ben were here.
+BIGGS	m	Luke! I don't believe it! How'd you  get here... are you going out with  us?!
+LUKE	m	Biggs! Of course, I'll be up there  with you! Listen, have I got some  stories to tell...
+RED LEADER	m	Are you... Luke Skywalker? Have you  been checked out on the Incom T-sixty- five?
+BIGGS	m	Sir, Luke is the best bushpilot in  the outer rim territories.
+RED LEADER	m	I met your father once when I was  just a boy, he was a great pilot.  You'll do all right. If you've got  half of your father's skill, you'll  do better than all right.
+LUKE	m	Thank you, sir. I'll try.
+BIGGS	m	I've got to get aboard. Listen, you'll  tell me your stories when we come  back. All right?
+LUKE	m	I told you I'd make it someday, Biggs.
+BIGGS	m	You did, all right. It's going to be  like old times, Luke. We're a couple  of shooting stars that'll never be  stopped!
+CHIEF	m	This R2 unit of your seems a bit  beat up. Do you want a new one?
+LUKE	m	Not on your life! That little droid  and I have been through a lot  together. You okay, Artoo?
+CHIEF	m	Okay, easy she goes!
+THREEPIO	m	Hang on tight,Artoo, you've got to  come back.
+THREEPIO	m	You wouldn't want my life to get  boring, would you?
+BEN'S VOICE	m	Luke, the Force will be with you.
+MASSASSI INTERCOM VOICE	m	Stand-by alert. Death Star  approaching. Estimated time to firing  range, fifteen minutes.
+RED LEADER	m	All wings report in.
+RED TEN	m	Red Ten standing by.
+RED SEVEN	m	Red Seven standing by.
+BIGGS	m	Red Three standing by.
+PORKINS	m	Red Six standing by.
+RED NINE	m	Red Nine standing by.
+WEDGE	m	Red Two standing by.
+RED ELEVEN	m	Red Eleven standing by.
+LUKE	m	Red Five standing by.
+RED LEADER	m	Lock S-foils in attack position.
+READ LEADER	m	We're passing through their magnetic  field.
+RED LEADER	m	Hold tight!
+RED LEADER	m	Switch your deflectors on.
+RED LEADER	m	Double front!
+WEDGE	m	Look at the size of that thing!
+RED LEADER	m	Cut the chatter, Red Two.
+RED LEADER	m	Accelerate to attack speed. This is  it, boys!
+GOLD LEADER	m	Red Leader, this is Gold Leader.
+RED LEADER	m	I copy, Gold Leader.
+GOLD LEADER	m	We're starting for the target shaft  now.
+RED LEADER	m	We're in position. I'm going to cut  across the axis and try and draw  their fire.
+WEDGE	m	Heavy fire, boss! Twenty-degrees.
+RED LEADER	m	I see it. Stay low.
+LUKE	m	This is Red Five; I'm going in!
+BIGGS	m	Luke, pull up!
+BIGGS	m	Are you all right?
+LUKE	m	I got a little cooked, but I'm okay.
+ASTRO-OFFICER	?	We count thirty Rebel ships, Lord  Vader. But they're so small they're  evading our turbo-lasers!
+VADER	m	We'll have to destroy them ship to  ship. Get the crews to their fighters.
+RED LEADER	m	Luke, let me know when you're going  in.
+LUKE	m	I'm on my way in now...
+RED LEADER	m	Watch yourself! There's a lot of  fire coming from the right side of  that deflection tower.
+LUKE	m	I'm on it.
+CONTROL OFFICER	m	Squad leaders, we've picked up a new  group of signals. Enemy fighters  coming your way.
+LUKE	m	My scope's negative. I don't see  anything.
+RED LEADER	m	Keep up your visual scanning. With  all this jamming, they'll be on top  of you before your scope can pick  them up.
+RED LEADER	m	Biggs! You've picked one up... watch  it!
+BIGGS	m	I can't see it! Where is he?!
+BIGGS	m	He's on me tight, I can't shake him...  I can't shake him.
+LUKE	m	Hang on, Biggs, I'm coming in.
+LUKE	m	Got him!
+VADER	m	Several fighters have broken off  from the main group. Come with me!
+BIGGS	m	Pull in! Luke... pull in!
+WEDGE	m	Watch your back, Luke!
+WEDGE	m	Watch your back! Fighter's above  you, coming in!
+LUKE	m	I'm hit, but not bad.
+LUKE'S VOICE	m	Artoo, see what you can do with it.  Hang on back there.
+RED LEADER	m	Red Six...
+RED LEADER	m	Can you see Red Five?
+RED TEN	m	There's a heavy fire zone on this  side. Red Five, where are you?
+LUKE	m	I can't shake him!
+WEDGE	m	I'm on him, Luke!
+WEDGE	m	Hold on!
+LUKE	m	Blast it! Wedge where are you?
+LUKE	m	Thanks, Wedge.
+BIGGS	m	Good shooting, Wedge!
+GOLD LEADER	m	Red Leader...
+GOLD LEADER	m	This is Gold Leader. We're starting  out attack run.
+RED LEADER	m	I copy, Gold Leader. Move into  position.
+VADER	m	Stay in attack formation!
+GOLD LEADER	m	The exhaust post is...
+GOLD LEADER	m	...marked and locked in!
+GOLD LEADER	m	Switch power to front deflector  screens.
+GOLD LEADER	m	How many guns do you think, Gold  Five.
+GOLD FIVE	m	I'd say about twenty guns. Some on  the surface, some on the towers.
+MASSASSI INTERCOM VOICE	m	Death Star will be in range in five  minutes.
+GOLD LEADER	m	Switching to targeting computer.
+GOLD TWO	m	Computer's locked. Getting a signal.
+GOLD TWO	m	The guns... they've stopped!
+GOLD FIVE	m	Stabilize your read deflectors. Watch  for enemy fighters.
+GOLD LEADER	m	They've coming in! Three marks at  two ten.
+VADER	m	I'll take them myself! Cover me!
+WINGMAN'S VOICE	m	Yes, sir.
+GOLD LEADER	m	I can't maneuver!
+GOLD FIVE	m	Stay on target.
+GOLD LEADER	m	We're too close.
+GOLD FIVE	m	Stay on target!
+GOLD LEADER	m	Loosen up!
+GOLD FIVE	m	Gold Five to Red Leader...
+GOLD FIVE	m	Lost Tiree, lost Dutch.
+RED LEADER	m	I copy, Gold Five.
+GOLD FIVE	m	They came from behind...
+OFFICER	m	We've analyzed their attack, sir,  and there is a danger. Should I have  your ship standing by?
+TARKIN	m	Evacuate? In out moment of triumph?  I think you overestimate their  chances!
+VOICE	m	Rebel base, three minutes and closing.
+RED LEADER	m	Red Group, this is Red Leader.
+RED LEADER	m	Rendezvous at mark six point one.
+WEDGE	m	This is Red Two. Flying toward you.
+BIGGS	m	Red Three, standing by.
+DODONNA	?	Red Leader, this is Base One. Keep  half your group out of range for the  next run.
+RED LEADER'S VOICE	m	Copy, Base One. Luke, take Red Two  and Three. Hold up here and wait for  my signal... to start your run.
+RED LEADER	m	This is it!
+RED TEN	m	We should be able to see it by now.
+RED LEADER	m	Keep your eyes open for those  fighters!
+RED TEN	m	There's too much interference!
+RED TEN'S VOICE	m	Red Five, can you see them from where  you are?
+LUKE	m	No sign of any... wait!
+LUKE	m	Coming in point three five.
+RED TEN	m	I see them.
+RED LEADER	m	I'm in range.
+RED LEADER	m	Target's coming up!
+RED LEADER	m	Just hold them off for a few seconds.
+VADER	m	Close up formation.
+RED LEADER	m	Almost there!
+RED TEN	m	I can't hold them!
+RED LEADER	m	It's away!
+RED NINE'S VOICE	m	It's a hit!
+RED LEADER	m	Negative.
+RED LEADER	m	Negative! It didn't go in. It just  impacted on the surface.
+LUKE	m	Red Leader, we're right above you.  Turn to point...
+LUKE	m	...oh-five; we'll cover for you.
+RED LEADER	m	Stay there...
+RED LEADER	m	...I just lost my starboard engine.
+RED LEADER	m	Get set to make your attack run.
+DEATH STAR INTERCOM VOICE	m	Rebel base, one minute and closing.
+LUKE	m	Biggs, Wedge, let's close it up.  We're going in. We're going in full  throttle.
+WEDGE	m	Right with you, boss.
+BIGGS	m	Luke, at that speed will you be able  to pull out in time?
+LUKE	m	It'll be just like Beggar's Canyon  back home.
+BIGGS	m	We'll stay back far enough to cover  you.
+WEDGE	m	My scope shows the tower, but I can't  see the exhaust port! Are you sure  the computer can hit it?
+LUKE	m	Watch yourself! Increase speed full  throttle!
+WEDGE	m	What about the tower?
+LUKE	m	You worry about those fighters! I'll  worry about the tower!
+LUKE	m	Artoo... that, that stabilizer's  broken loose again! See if you can't  lock it down!
+WEDGE	m	I'm hit! I can't stay with you.
+LUKE	m	Get clear, Wedge.
+LUKE	m	You can't do any more good back there!
+WEDGE	m	Sorry!
+VADER	m	Let him go! Stay on the leader!
+BIGGS	m	Hurry, Luke, they're coming in much  faster this time. I can't hold them!
+LUKE	m	Artoo, try and increase the power!
+BIGGS	m	Hurry up, Luke!
+BIGGS	m	Wait!
+DEATH STAR INTERCOM VOICE	m	Rebel base, thirty seconds and  closing.
+VADER	m	I'm on the leader.
+THREEPIO	m	Hang on, Artoo!
+BEN'S VOICE	m	Use the Force, Luke.
+BEN'S VOICE	m	Let go, Luke.
+VADER	m	The Force is strong with this one!
+BEN'S VOICE	m	Luke, trust me.
+BASE VOICE	m	His computer's off. Luke, you switched  off your targeting computer. What's  wrong?
+LUKE	m	Nothing. I'm all right.
+LUKE	m	I've lost Artoo!
+MASSASSI INTERCOM VOICE	m	The Death Star has cleared the planet.  The Death Star has cleared the planet.
+DEATH STAR INTERCOM VOICE	m	Rebel base, in range.
+TARKIN	m	You may fire when ready.
+DEATH STAR INTERCOM VOICE	m	Commence primary ignition.
+VADER	m	I have you now.
+VADER	m	What?
+HAN	m	Yahoo!
+WINGMAN	m	Look out!
+HAN	m	You're all clear, kid.
+HAN	m	Now let's blow this thing and go  home!
+INTERCOM VOICE	m	Stand by to fire at Rebel base.
+INTERCOM VOICE	m	Standing by.
+HAN	m	Great shot, kid. That was one in a  million.
+BEN'S VOICE	m	Remember, the Force will be with  you... always.
+LEIA	f	Luke! Luke! Luke!
+HAN	m	Hey! Hey!
+LUKE	m	I knew you'd come back! I just knew  it!
+HAN	m	Well, I wasn't gonna let you get all  the credit and take all the reward.
+LEIA	f	Hey, I knew there was more to you  than money.
+LUKE	m	Oh, no!
+THREEPIO	m	Oh, my! Artoo! Can you hear me? Say  something! You can repair him, can't you?
+TECHNICIAN	m	We'll get to work on him right away.
+THREEPIO	m	You must repair him! Sir, if any of  my circuits or gears will help, I'll  gladly donate them.
+LUKE	m	He'll be all right.
+

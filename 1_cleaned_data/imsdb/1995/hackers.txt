@@ -1,0 +1,733 @@
+WOMAN	f	Oough! Ahhh! 
+SECRET SERVICE AGENT	m	Upstairs.
+WOMAN	f	What's going on? What's the matter? Who are you?
+WOMAN	f	Hey!
+WOMAN	f	Dade! Dade!
+AGENT	m	Knock it down.
+PROSECUTOR	m	The defendant, Dade Murphy, who calls himself "Zero Cool", has repeatedly committed criminal acts of a malicious nature. This defendant possesses a superior intelligence, which he uses to a destructive and antisocial end. His computer virus crashed one thousand five hundred and seven computer systems, including Wall Street trading systems, single handedly causing a seven point drop in the New York Stock Market.
+JUDGE	m	Dade Murphy, I hereby fine your family forty-five thousand dollars...
+JUDGE	m	...and sentence you to probation, under which you are forbidden to own or operate a computer or touch tone telephone, until the day of your eighteenth birthday.
+MRS. MURPHY	f	Dade?
+DADE	m	Yeah, mom?
+MRS. MURPHY	f	What are you doing?
+DADE	m	I'm taking over a TV network.
+MRS. MURPHY	f	Finish up, honey, and get to sleep. And happy birthday.
+NORM	m	Security, uh Norm, Norm speaking.
+DADE	m	Norman? This is Mr. Eddie Vedder, from Accounting. I just had a power surge here at home that wiped out a file I was working on. Listen, I'm in big trouble, do you know anything about computers?
+NORM	m	Uhhmmm... uh gee, uh...
+DADE	m	Right, well my BLT drive on my computer just went AWOL, and I've got this big project due tomorrow for Mr. Kawasaki, and if I don't get it in, he's gonna ask me to commit Hari Kari...
+NORM	m	Uhhh.. ahahaha...
+DADE	m	Yeah, well, you know these Japanese management techniques. Could you, uh, read me the number on the modem?
+NORM	m	Uhhhmm...
+DADE	m	It's a little boxy thing, Norm, with switches on it... lets my computer talk to the one there...
+NORM	m	212-555-4240.
+COMMENTATOR	?	...so-called American Indians, Latinos and Blacks come from a genetically mediocre stock...
+DADE	m	Yak yak yak. Get a job!
+TV	m	You are about to experience the awe and mystery, which reaches from the inner mind, to... The Outer Limits.
+DADE	m	Yesssss!
+DADE	m	Hey! What?
+DADE	m	No, wait.
+DADE	m	Unbelievable. A hacker!
+DADE	m	Yeah, okay "Acid Burn", that's enough.
+DADE	m	Shit on me!
+MRS. MURPHY	f	Good morning. You unpack your stuff yet?
+DADE	m	Mm-hmm.
+MRS. MURPHY	f	Up all night again, huh?
+DADE	m	Can this wait until both my eyes are open, please?
+MRS. MURPHY	f	Can I cut the electricity to his room so he'll sleep normal hours? He's been playing with his computer all night for a solid week. Well yes, he could be playing with himself. Mmm hmm. Yes I'll ask. Dade, you like girls, don't you?
+DADE	m	Well, yeah, I just haven't found one as charming as you yet.
+MRS. MURPHY	f	You haven't been doing anything stupid, right, Dade? Right, Dade?!
+DADE	m	Right, mom. And I'm still a virgin!
+MRS. MURPHY	f	You hooked it up to the phone, didn't you? Dade! Turn the shower off! You screw up again and you won't get into college!
+MRS. MURPHY	f	I'm sorry we had to move in your senior year. I didn't want to sell the house but I had to take this new job, you know that. You're going to love New York, it's the city that never sleeps!
+DADE	m	Excuse me.
+KID	m	Yo, chill man, I'm talking to Venezuela.
+DADE	m	Yeah, I'm sorry, I was just looking for the principal's office.
+KID	m	Sorry, I can't help you, okay?
+GIRL	f	Do you have your transfer forms?
+GIRL	f	It's a relatively straightforward question.
+GIRL	f	Do you speak English?
+DADE	m	Sorry, you wanted...?
+GIRL	f	I wanted transfer forms.
+GIRL	f	Thank you.
+GIRL	f	Are you coming?
+GIRL	f	The gym is through there, and the cafeteria is through there.
+DADE	m	Great. Cool. What's your name?
+GIRL	f	Kate. Kate Libby.
+KATE	f	Here's your class.
+DADE	m	My... class. You mean I'm not in your class?
+KATE	f	No, you're not in my class.
+DADE	m	Give me time!
+GUY	m	Hey, you new?
+DADE	m	Yeah.
+GUY	m	Tell him about the pool, Kate.
+DADE	m	Pool?
+KATE	f	Yeah, there's an Olympic size swimming pool up on the roof. Take the stairs over there.
+DADE	m	Yeah! Sure.
+DADE	m	Thanks!
+GEEK	m	Hey! Hold the door! No pool.
+KATE	f	Oh my God! He found the pool.
+TEACHER	m	I'm Mr. Simpson. And I'm subbing for Ms. Bayliss who was arrested at the anti-fur rally. I know some of you kids got computers at home. But these are school property, people, and I don't want to see any gum stuck to 'em. Chapter 1. Designing graphical interface...
+KID	m	So, um, what's your interest in Kate Libby, eh? Academic? Purely sexual?
+DADE	m	Homicidal?
+KID	m	What's up, man? I'm the Phreak!
+PHREAK	m	The Phantom Phreak? The king of Nynex? I know you play the game.
+JOEY	m	Phreakphreakphreakphreakphreak, dudedudedudedudedudedude... I gotta...
+PHREAK	m	Joey, Joey...
+JOEY	m	What? whatwhatwhat?
+PHREAK	m	One more "dude" out of you and I'm gonna slap the shit outa you, okay? Now I'm trying to save you from yourself but you gotta stop letting your mama dress you, man! Check it...
+JOEY	m	I need a handle, man. I don't have an identity until I have a handle.
+PHREAK	m	You know, you're right about that. Check it, Friday.
+JOEY	m	Alright. How about the Master of Disaster, huh?
+PHREAK	m	You're hopeless, man, utterly hopeless.
+JOEY	m	Ultra Laser. Doctor Doom!
+CEREAL	m	Check this out, each and every one of you. Compilation tape, of my own making. I call this the "Greatest Zooks Album". Featuring artists like, well I got some Hendrix on there, some Joplin, Mama Cass, Belushi... all great artists that asphyxiated on their own vomit!
+CEREAL	m	Can't get this in stores, man, I made it!
+OPERATOR	m	Please deposit five dollars for the first minute.
+OPERATOR	m	Thank you.
+PHREAK	m	Nonono, thank YOU!
+DADE	m	That's a nice score for a girl.
+KATE	f	Think you can do better?
+DADE	m	I'll give it a shot.
+CURTIS	m	Is this kid bothering you, Kate?
+DADE	m	Sorry, can I get some room here?
+CURTIS	m	Yeah. Why don't you come up here?
+CURTIS	m	He's good!
+DADE	m	Well, it looks like I'm on top.
+PHREAK	m	Congratulations. No one's ever beat her before. You just made an enemy for life. Boy meets world. Let's go?
+DADE	m	Who's that?
+PHREAK	m	Curtis.
+DADE	m	And what's he do?
+PHREAK	m	That's it, you're looking at it, he just looks slick all day.
+PHREAK	m	What's up?
+PHREAK	m	Way cool! You saw that?
+KATE	f	What the hell is going on?
+DADE	m	Pool on the roof must have a leak.
+PHREAK	m	Man, oh man, this is gonna be good.
+KATE	f	If God gave men brains bigger than dogs', they wouldn't hump womens' legs at cocktail parties.
+KATE	f	Ruth Libby.
+TEACHER	m	I'm not so sure your mother qualifies as a significant author of the twentieth century.
+KATE	f	Her last book sold two million copies.
+CLASS	m	Woooooo!
+TEACHER	m	"Angel-headed hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of the night."
+DADE	m	That's Ginsburg.
+TEACHER	m	Nice. Very nice.
+KATE	f	He's not in this class.
+DADE	m	I said give me time.
+KATE	f	He's not enrolled in this class.
+TEACHER	m	Well, he's on my list.
+TEACHER	m	"Of all the things I've lost, I miss my mind the most?"
+CEREAL	m	Ozzy Osbourne!
+TEACHER	m	You. What is your name?
+CEREAL	m	Uh, Emmanuel Goldstein, sir?
+TEACHER	m	You, however, are not on my list.
+CEREAL	m	Whoa, this isn't wood shop class?
+MRS. MURPHY	f	How was school?
+DADE	m	Hmmm.
+MRS. MURPHY	f	What did we learn in school today?
+DADE	m	Revenge.
+MRS. MURPHY	f	Aaaah. Did we meet someone special?
+DADE	m	No. No one special.
+MRS. MURPHY	f	Okay, I gotta get back to work. I'm gonna be home late.  And would you try and please fill these out?
+MRS. MURPHY	f	Oh don't worry, it's only the rest of your life.
+DADE	m	Right. Anything else, you want me to mow the lawn? Oops, forgot. New York. No grass.
+MRS. MURPHY	f	And unpack.
+CEREAL	m	FYI, alright man, you can sit at home, and do like absolutely nothing and...
+CEREAL	m	...and your name goes through like seventeen computers a day. 1984, yeah right man, that's a typo. Orwell's here and now, he's living large. We have no names, man, no names. We are nameless. Can I score a fry? Thanks.
+PHREAK	m	Meet Cereal Killer. As in Froot Loops? But he does know things.
+JOEY	m	Anyways, guys, guys, listen, listen to me. I'm in this computer right? So I'm looking around...
+PHREAK	m	D'you bring those Crayola books?
+CEREAL	m	Oh yeah, technicolor rainbow.
+CEREAL	m	Green one.
+JOEY	m	What is that, what is that? Lemmie see. What are these?
+DADE	m	International Unix Environments.
+CEREAL	m	Luscious orange?
+DADE	m	Computer security criteria, DOD standards.
+DADE	m	The Pink Shirt Book, Guide to IBM PCs. So called due to the nasty pink shirt the guy wears on the cover.
+CEREAL	m	What's that?
+DADE	m	Devil book. The Unix Bible.
+CEREAL	m	What's that?
+DADE	m	Dragon book. Compiler design.
+CEREAL	m	Oh yeah? What's that?
+DADE	m	The Red Book. NSA Trusted Networks. Otherwise known as the Ugly Red Book that won't fit on a shelf.
+JOEY	m	Anyway, anyway, guys guys guys, come on. I'm in this computer, right. So I'm looking around, looking around, you know, throwing commands at it, I don't know where it is or what it does or anything. It's like, it's like choice, it's just beautiful, okay. Like four hours I'm just messing around in there. Finally I figure out, that it's a bank. Right, okay wait, okay, so it's a bank. So, this morning, I look in the paper, some cash machine in like Bumsville Idaho, spits out seven hundred dollars into the middle of the street.
+CEREAL	m	That's kinda cool.
+JOEY	m	That was me. That was me. I did that.
+DADE	m	You did this from your house.
+PHREAK	m	What are you, stoned or stupid? You don't hack a bank across state lines from your house, you'll get nailed by the FBI. Where are your brains, in your ass? Don't you know anything?
+CEREAL	m	Stupid, man. It's universally stupid.
+JOEY	m	You guys always think I should know everything, and you never tell me anything. Am I right?
+PHREAK	m	Alright, what are the three most commonly used passwords?
+JOEY	m	Love, secret, and uh, sex.  But not in that order, necessarily, right?
+CEREAL	m	Yeah but don't forget God. System operators love to use God. It's that whole male ego thing.
+PHREAK	m	Look, you wanna be elite? You gotta do a righteous hack. None of this accidental shit.
+CEREAL	m	Oh yeah, you want a seriously righteous hack, you score one of those Gibsons man. You know, supercomputers they use to like, do physics, and look for oil and stuff?
+PHREAK	m	Ain't no way, man, security's too tight. The big iron?
+DADE	m	Maybe. But, if I were gonna hack some heavy metal, I'd, uh, work my way back through some low security, and try the back door.
+CEREAL	m	Yeah but oh man, wouldn't you just love to get one of those Gibsons, baby? Ooooh!
+PHREAK	m	Yo, who ate all of my fries?
+CEREAL	m	Joey?!
+JOEY	m	What, no, nonononono, I didn't touch your fries. I did not touch your fries.
+PHREAK	m	Cereal, man, you owe me a pack.
+CEREAL	m	It was him, man!
+PHREAK	m	You're psyched. You need to lay off of that shit.
+CEREAL	m	I'm gonna hit you!
+JOEY	m	YES! Home run, home run. You and me Lucy. We're gonna show em baby.
+HAL	m	Mr. Belford?
+PLAGUE	m	My name is the Plague.
+HAL	m	Uh, Mr. The Plague, uh, something weird's happening on the net.
+PLAGUE	m	As in what, you hapless techno-weenie?
+HAL	m	Uh, the accounting subdirectory in the Gibson is working really hard. We got one person online, the workload is enough for like ten users. I think we've got a hacker.
+JOEY	m	Okay, okay, we need proof that we were here. Right, uh...
+JOEY	m	Yeah, Garbage, okay, give me Garbage.
+PLAGUE	m	Never fear. I is here.
+HAL	m	I've narrowed the activity to terminal 23.
+PLAGUE	m	Let's echo 23, see what's up.
+PLAGUE	m	"God" wouldn't be up this late.
+PLAGUE	m	Shit! Get me the switching control center.
+PLAGUE	m	I need to trace a call that's in progress.
+JOEY	m	Shit! Uh yeah... hold on, mom. Hold on one second.
+JOEY'S MOM	f	I mean it! Open the door, Joseph.
+JOEY	m	Yeah, uh, yeah, okay.
+JOEY	m	There you go.
+JOEY'S MOM	f	Bed. Sleep. Now!
+JOEY'S MOM	f	Sweet dreams, Joey.
+HAL	m	He's gone!
+PLAGUE	m	Did you get a trace?
+OPERATOR	m	Yeah, we got him.
+PLAGUE	m	Good.
+CEREAL	m	Nice place, huh.
+DADE	m	You heard of a hacker called Acid Burn? You know who he is?
+PHREAK	m	No, don't know who he is. Do you?
+PHREAK	m	Nikon! Lord Nikon this is...
+DADE	m	Crash Override.
+NIKON	m	Never heard of you. Done anything?
+DADE	m	No.
+PHREAK	m	Come on!
+NIKON	m	What, your mom buy you a 'Puter for Christmas? Does he know anything?
+PHREAK	m	Sure man, he's elite.
+NIKON	m	Come in.
+CEREAL	m	Uh... Nikon, can I... can I crash at your place tonight?
+NIKON	m	Again? Yeah sure.
+BOTH	m	Ooka-pow!
+GILL	f	Hackers penetrate and ravage delicate public and privately owned computer systems, infecting them with viruses, and stealing materials for their own ends. These people, they are terrorists.
+CEREAL	m	Agent Richard Gill, You're hacker enemy number one, man. You're a boner!
+NIKON	m	Yo, showtime, showtime!
+DADE	m	What's going on?
+RAZOR	m	Welcome to our show!
+BLADE	m	Hack the Planet!
+ALL BUT DADE	m	Hack the Planet!
+RAZOR	m	For those late night hacks...
+BLADE	m	Jolt Cola! The soft drink of the elite hacker.
+DADE	m	Who are these guys?
+NIKON	m	That's Razor and Blade.
+DADE	m	Razor and Blade.
+RAZOR	m	That's right, this IS a payphone.
+RAZOR AND BLADE	m	Don't ask.
+BLADE	m	As you can see, this is just a simple microcassette recorder. (shows the microcassette recorder)  Hook it up to the phone and drop in five bucks in quarters.
+RAZOR	m	Record the tones that the coins make. And hang up and get your money back!
+BLADE	m	And never again have to pay for a service that would be dirt cheap...
+RAZOR	m	...IF it weren't run by a bunch of profiteering gluttons!
+BLADE	m	Remember, hacking is more than just a crime. It's a survival trait!
+SS AGENT	m	FREEZE!
+JOEY	m	What? What? What did I do? What?
+JOEY'S MOM	f	Joey!
+AGENT	m	Get in there! Sit down!
+ANOTHER AGENT	m	Stay down there. Don't move.
+JOEY	m	Lucy!
+JOEY'S MOM	f	JOEY!!!
+GILL	f	How's it going, Ray?
+AGENT RAY	m	It looks good, sir. We've got an uncorrupted hard drive.
+GILL	f	In English, please. I didn't spend ten years protecting the president so I could finish my career feeling like an idiot.
+AGENT RAY	m	I'm sorry, sir. We caught him by surprise, so we don't think he had time to erase his computer files.
+GILL	f	Good. Good man. Alright, let's finish up here, and take him in for interrogation.
+AGENT RAY	m	Alright sir.
+REPORTER	m	Agent Gill, can you spare a moment of your time?
+GILL	f	Why of course, Jennifer.
+JOEY'S MOM	f	Joey!
+JOEY	m	Mom...
+JENNIFER	f	Just how dangerous are hackers?
+GILL	f	Well, hackers penetrate and ravage delicate public and privately owned computer systems, infecting them with viruses...
+JOEY'S MOM	f	Joey!
+GILL	f	...and stealing sensitive materials for their own ends. These people, they're terrorists...
+JOEY'S MOM	f	Joey!
+MARGO	f	Good morning, Gentlemen. Please be seated. I see we're still dressing in the dark, Eugene.
+PLAGUE	m	Once again, don't call me Eugene. A recent unknown intruder penetrated, using a superuser acount, giving him access to our whole system.
+MARGO	f	Precisely what you're paid to prevent.
+PLAGUE	m	Someone didn't bother reading my carefully prepared memo on commonly used passwords. Now, as I so meticulously pointed out, the for most used passwords are love, sex, secret and... ...God. So would your holiness care to change her password?
+PLAGUE	m	A hacker planted the virus.
+MARGO	f	Virus?
+PLAGUE	m	Yesterday, the ballast program for a supertanker training model mistakenly thought the vessel was empty, and flooded its tanks.
+MARGO	f	Excuse me?
+PLAGUE	m	The little boat flipped over. A virus planted in the Gibson computer system claimed responsibility.
+MARGO	f	What, it left a note?
+VIRUS	m	Unless five million dollars are transferred to the following numbered account in seven days, I will capsize five tankers in the Ellingson fleet.
+BOARD MEMBER	m	Is that...
+PLAGUE	m	That is the virus. Leonardo da Vinci. The problem is we have twenty six ships at sea and we don't know which ones are infected.
+DUKE ELLINGSON	m	Well then, put the ships' ballasts under manual control.
+PLAGUE	m	There's no such thing anymore, Duke. These ships are totally computerized. They rely on satellite navigation, which links them to our network, and the virus, wherever they are in the world.
+MARGO	f	So what are we supposed to do?
+PLAGUE	m	Well luckily, you have a gifted and talented security officer. I traced the hacker's call. The secret service picked him up this morning. I'll just search his files for the original virus code, and then I can eliminate it.
+SUIT #1	m	Now look, now we expect you to get onto this right away, yeah?
+PLAGUE	m	Yeah!
+SUIT #1	m	Well, how soon?
+PLAGUE	m	Well, we're working on it as fast as we can. This is a very common occurrence in corporations as large as ours. You have nothing to worry about.
+SUIT #2	m	Yeah, right.
+SUIT #1	m	Now, you're sure about that, Mr. The Plague?
+PLAGUE	m	Yeah, the Secret Service is helping us out 100 percent. Okay?
+SUIT #2	m	Yeah.
+SUIT #1	m	Okay.
+PLAGUE	m	We'll be in touch. Talk to you later.
+MARGO	f	What the hell was that all about?
+PLAGUE	m	I had to move fast. The hacker copied my garbage file.
+MARGO	f	What?
+PLAGUE	m	I created Mister da Vinci so we could call in the Secret Service. So they'd arrest the hacker, sieze his equipment, things that we can't do on our own.
+MARGO	f	I don't want to go to jail for this.
+PLAGUE	m	Relax. Think about the 25 million dollars.
+MARGO	f	But you've created a virus that's going to cause a worldwide ecological disaster, just to arrest some hacker kid?
+PLAGUE	m	Basically, uhmm, yeah. Mmm hmmm.
+MARGO	f	Jesus. You know, you're sick, Eugene. You...
+PLAGUE	m	Sh, sh sh sh sh.
+PLAGUE	m	I'll take care of this.
+SECRETARY	f	Alright, sir.
+PLAGUE	m	I can cancel it any time. I don't need any program code. But it's the perfect cover, to confiscate the disc and find out how much of that garbage file has been copied.
+MARGO	f	Get it! Why did I ever trust you? Get the file. Otherwise you'll lose all your toys.
+GILL	f	Did you find the program for the virus on any of the discs we confiscated?
+PLAGUE	m	No. He's either very smart or very stupid.
+GILL	f	Then he stashed it somewhere, or he has an accomplice. We'll release him until his indictment, keep tight surveillance, and see if he leads us to your disc.
+SECRET SERVICE AGENT BOB	m	Unit 3 outside suspect Joey Pardella's apartment. Nothing to report. Suspect still grounded... by his mother.
+AGENT BOB	m	Listen to this bullshit. "This is our world now. The world of the electron and the switch, the beauty of the baud. We exist without nationality, skin color, or religious bias. You wage wars, murder, cheat, lie to us and try to make us believe it's for our own good, yet we're the criminals. Yes, I am a criminal. My crime is that of curiosity. I am a hacker and this is my manifesto." Huh, right, manifesto? "You may stop me, but you can't stop us all."
+AGENT RAY	m	Now that's cool.
+AGENT BOB	m	Cool?
+AGENT RAY	m	Yeah, cool.
+AGENT BOB	m	You think it's cool?
+AGENT RAY	m	It's cool!
+AGENT BOB	m	It's not cool. It's commie bullshit!
+CEREAL	m	So what do you think, can I crash at your place tonight?
+DADE	m	What is it with this guy?
+PHREAK	m	His parents missed Woodstock and he's been making up for it since. Hey, you hear about Joey's bust?
+CEREAL	m	Yeah. Probably had something to do with that bank in Idaho.
+PHREAK	m	Do you think he could hack a Gibson?
+DADE	m	Did you talk to him?
+PHREAK	m	Nope. His mom said he's grounded for his next three lifetimes. He isn't to consort with his computer friends. The secret service is really out to get him. Hey there's a big party tonight, you wanna go?
+PHREAK	m	It's at Kate's...
+GILL	f	What the hell are you doing? Plague!
+GILL	f	PLAGUE!
+PLAGUE	m	Gill.
+GILL	f	I think we've got something.
+PLAGUE	m	Uuugh, hard copy.
+PLAGUE	m	Dade Murphy.
+AGENT RAY	m	Secret Service!
+AGENT BOB	m	Don't move!
+DADE	m	Christ! What is the...
+AGENT BOB	m	Shut up!
+DADE	m	What are you doing, man? Get off me!
+PLAGUE	m	The year was 1988.  And this nasty virus crashed fifteen hundred systems in one day.
+DADE	m	Fifteen hundred and seven.
+AGENT RAY	m	Wow, huh!
+GILL	f	It got you seven years probation. No computer, couldn't even use a touch tone phone.
+PLAGUE	m	Must have been hell, huh? Zero Cool? A virus has been planted in the Ellingson Mineral computer system. You were our prime suspect, till we trashed your stuff and found no trace of it.
+GILL	f	However, we have come to believe that one Joey Pardella is involved in this Ellingson virus. He or perhaps his accomplice has a disk that Mr. Belford needs to disable that virus. We want you to help us find it.
+PLAGUE	m	Gill.
+PLAGUE	m	Loser. I can't believe you were only eleven when you wrote this. It's quite an impressive virus. Dade, I know how you might feel about narking on your friends, but, we're hackers. For us, there's no such thing as family and friends. We're each our own country, with temporary allies and enemies. I'd like to make a treaty with you.
+DADE	m	I'm sorry. Who are you?
+PLAGUE	m	I'm the one who understands you. Now, can we be allies?
+DADE	m	Nah. I don't play well with others.
+DADE	m	Shit! Come on!
+PLAGUE	m	Watch which friends you do play with. A record like yours could land you in jail, get you kicked out of school, no colleges would take you. No future. Exiled from everyone and everything you love.
+PLAGUE	m	I'll be in touch.
+PLAGUE	m	I'm fine. Oh, and Dade, try to stay out of trouble, okay?
+DADE	m	Blow me.
+PLAGUE	m	Thank you!
+PHREAK	m	Her mom makes big bucks writing self-help books for women. Stuff like "Women Who Love Men Who Are Emotional Amoebae"
+DADE	m	That explains a lot.
+PHREAK	m	Yo, what's up Nikon!
+NIKON	m	Yo Phreak! Dade, man, you made it. Houston, we have liftoff, 3 o'clock, check it... don't look right away, what's wrong with you! Look at her man...
+NIKON	m	Look out, man. Lisa Blair, 26 East 7th St., apartment 16, 555-4817, BOOM!
+DADE	m	How did you know that?
+NIKON	m	I got photographic memory. It's a curse! Lisa!
+LISA	f	Hey, how do you know my name?
+CEREAL	m	Oooo, look at that pooper man. Spandex, it's a privilege, not a right!
+VICKIE	f	Hi, my name is Vickie, and I'm an addict.
+HANK	m	Hi, my name is Hank, and uh, I'm an addict.
+JOEY	m	Uh, my name's Joey but, uh, I'm not an addict.
+JOEY	m	Nono, really, really, listen, listen to this. I got in trouble with my computer, right, okay, and my lawyer told the judge that I'm an addict, but I'm not addicted to my computer! No really, really,
+JOEY	m	I'm not an addict. I'm not, I'm not.
+JOEY	m	Can I get some more coffee?
+PHREAK	m	Yo. Check this out guys, this is insanely great, it's got a 28.8 BPS modem!
+DADE	m	Yeah? Display?
+CEREAL	m	Active matrix, man. A million psychedelic colors. Man, baby, sweet, ooo!
+NIKON	m	I want it.
+PHREAK	m	I want it to have my children!
+CEREAL	m	Yeah, I bet it looks crispy in the dark.
+PHREAK	m	Yo, hit the lights. Dade hits the lights. The four ooo and ahh at its graphics. Kate and Curtis walk into the room and hit the bed, unaware of the hackers in the corner by her laptop.
+DADE	m	Shit!
+CEREAL	m	Shh!
+DADE	m	Was that her top?
+PHREAK	m	One-handed!
+CEREAL	m	Difficulty rating?
+NIKON	m	Seven. Wow! Burn's wetware matches her software!
+DADE	m	Burn!
+NIKON	m	What the f...
+KATE	f	Hey! What are you guys doing in here?
+PHREAK	m	I'm sorry, we're sorry, just checking out your fly laptop!
+NIKON	m	Yeah, it's hyped, you know... you're in the butter zone now, baby.
+PHREAK	m	Uh-huh!
+KATE	f	Yeah, it is... I wanna triple the RAM...
+CURTIS	m	Oooh, Leopard Boy... AND the Decepticons. Uh, Kate, Kate, you're not going into that computer shit now, right?
+CURTIS	m	Humm, yeah.
+CEREAL	m	Right.
+DADE	m	The sensitive type.
+KATE	f	What is he doing in here?
+PHREAK	m	Relax, Burn, he's my guest.
+DADE	m	Burn. You're Acid Burn. You booted me out of
+KATE	f	What?
+DADE	m	I'm Crash Override.
+KATE	f	You're the moron that's been invading my turf?
+CEREAL	m	Whoa, whowhowhowhoa. Crash... and Burn!
+MARGO	f	Murphy kid turn you down?
+PLAGUE	m	I disguised myself as an Alabama State Trooper and penetrated the FBI NCIC.
+MARGO	f	Pervert! What are you talking about?
+PLAGUE	m	The FBI computer holds files on twenty million Americans.  I just hacked into it.
+MARGO	f	Congratulations.
+PLAGUE	m	From here I got access to every piece of data ever stored on Dade Murphy's parents. His parents separated five years ago, reconciled two years later, filed for divorce last year, custody battle, boy chose to go with his mother. Hmm.
+MARGO	f	So?
+PLAGUE	m	So, we get the mother, we get the boy.
+KATE	f	What the hell are you doing?
+DADE	m	It's cool, I'm just looking.
+KATE	f	It's too much machine for you.
+DADE	m	Yeah?
+KATE	f	I hope you don't screw like you type.
+DADE	m	It has a killer refresh rate.
+KATE	f	P6 chip. Triple the speed of the Pentium.
+DADE	m	Yeah. It's not just the chip, it has a PCI bus. But you knew that.
+KATE	f	Indeed. RISC architecture is gonna change everything.
+DADE	m	Yeah. RISC is good.
+DADE	m	You sure this sweet machine's not going to waste?
+KATE	f	Crash Override. What was it. "Mess with the Best, Die Like the Rest?"
+DADE	m	Yeah.
+KATE	f	Are you challenging me?
+DADE	m	Name your stakes.
+KATE	f	If I win, you become my slave.
+DADE	m	Your slave?
+KATE	f	You wish. You'll do shit work, scan, crack copyrights, whatever I want.
+DADE	m	And if I win?
+KATE	f	Make it my first born.
+DADE	m	Make it our first date.
+KATE	f	You're not gonna win.
+DADE	m	And you have to smile.
+KATE	f	I don't do dates. But I don't lose either, so you're on.
+PHREAK	m	So here's the deal. The chosen contest: To hassle Secret Service Agent Richard Gill, and get one back for Joey.
+NIKON	m	Our decisions are final, by a vote of 2 to 1. No appeals.
+CEREAL	m	The duel will last until we declare a winner.
+PHREAK	m	Use only the dialups, access codes and passwords in your collection. Can't ask for any help from us.
+DADE	m	Talking to me?
+PHREAK	m	Any questions?
+KATE	f	Yeah. Whose gonna notify his next of kin?
+KATE	f	Alright, he's in the personal ads. "Disappointed white male, crossdresser, looking for discreet friend to bring dreams to reality. Leather, lace, and water sports. Transvestites welcome."
+GILL	f	I... I... I know where you can stick it... I know where you can stick it...
+CALLER	m	...wanna lick your earlobes... I wanna lick your lips... I wanna lick your toes... I wanna lick your ankles...
+GILL	f	Awww, yeah, you wanna lick something? Lick this.
+CALLER	m	That's why they call me Stallion...
+GILL	f	Aw, that's disgusting!
+CALLER	m	My heart is steaming for you...
+CALLER	m	...spank you with my...
+GILL	f	Aww, Spank your ass...
+PLAGUE	m	Animal!
+EMPLOYEE	m	This is accounting, sir. You enquired about an employee of ours, an Agent Richard Gill?
+GILL	f	Yes.
+EMPLOYEE	m	Our records indicate he's deceased.
+GILL	f	I'm what?
+DADE	m	Dead.
+PHREAK	m	Dead?
+DADE	m	Yeah. Like Rigor Mortis, Habeas Corpus.
+NIKON	m	Very impressive.
+CEREAL	m	Super hero like even.
+KATE	f	Yeah, whatever. What's the score?
+PHREAK	m	Tie.
+PHREAK	m	Due to Mr. Gill's untimely demise and everything, I guess you two will have to improvise the next round.
+DADE	m	Right. If I win, you wear a dress on our date.
+KATE	f	And if I win, so do you.
+DADE	m	Deal.
+KATE	f	Oooohhhh...
+KATE	f	Dade. I didn't know your size, so I guessed.
+KATE	f	You are man enough to stick with the deal, aren't you?
+DADE	m	Thanks.
+PLAGUE	m	You wanted to know who I am, Zero Cool? Well let me explain the New World Order. Governments and corporations need people like you and me. We are samurai. The keyboard cowboys. And all those other people out there who have no idea what's going on are the cattle. Mooo! I need your help, you need my help. Let me help you earn your spurs. Ahh, think about it. Enjoy the laptop, "Cool"! Tell me where the disk is.
+JOEY'S MOM	f	You look pitiful. Okay, okay, you're not grounded anymore.
+PHREAK	m	Yo, what's up?
+JOEY	m	Dude dude dude, I gotta talk to you a minute, listen listen listen. I copied a garbage file from...
+PHREAK	m	Big deal. A garbage file's got shit in it, Joey, come on.
+JOEY	m	Nono, it's like hot or something. I don't know.
+PHREAK	m	Joey, a garbage file holds miscellaneous data. Junk. Bits of stuff that's been erased, man.
+JOEY	m	I copied it from Ellingson, okay? They're asking me about it, alright? Will you take a look for me?
+PHREAK	m	Oh shit, Joey, you've got a tail.
+JOEY	m	Shit!
+GILL	f	I'm watching you...
+PHREAK'S MOM	f	Ramon? Wake up. Ramon! Wake up! Vamano. Time for school, come on.
+AGENT	m	Secret Service, don't move!
+PHREAK	m	Deja vu!
+AGENT BOB	m	Ray Sanchez, you are under arrest, under the Computer Fraud and Abuse Act of 1986.
+PHREAK	m	What are you waiting for, arrest me already!
+COP	m	You get one call. Uno. Understand?
+OPERATOR	m	Hello, operator services.
+PHREAK	m	Hello, operator? I'm having trouble dialing a number.
+OPERATOR	m	What number please?
+PHREAK	m	555-4202.
+OPERATOR	m	Just one moment.
+PHREAK	m	Thank you.
+KATE	f	Hello?
+PHREAK	m	Hey, it's me.
+KATE	f	Phreak?
+PHREAK	m	I'm freaking! Joey wasn't making it up! He really hacked into Ellingson! He gave me the disc with a file he copied and now I'm in jail! They're charging me with some serious shit! And there's stuff I didn't even do, like inserting some virus called Da Vinci, and they keep asking about you guys.
+KATE	f	You think they're going to bust us?
+PHREAK	m	Yeah! You better figure out what's on that disc, cause we're being framed. It's in that place where I put that thing that time?
+MRS. MURPHY	f	Hi! Well, now I see what all the fuss is about. Dade... you have company.
+CEREAL	m	It's a nice room.
+KATE	f	We need your help.
+DADE	m	Do my ears deceive me?
+CEREAL	m	Nonononono. Truce, you guys. Listen, we got a higher purpose here, alright? A wake up call for the Nintendo Generation. We demand free access to data, well, it comes with some responsibility. When I was a child, I spake as a child, I understood as a child, I thought as a child, but when I became a man I put away childish things. What... It's Corinthians I, Chapter 13, verse 11, no duh. Come on.
+KATE	f	Phreak and Joey are being framed. We need your help to figure out what's on this disc.
+DADE	m	I can't. Everybody who touches that thing gets busted, I can't afford to get arrested, I'm sorry.
+CEREAL	m	Maybe I should just go to the bathroom or something.
+KATE	f	What is it with you? I know we've been playing games, but, we're supposed to be on the same side and we really need your help. I really need your help.
+DADE	m	I'm sorry, I can't.
+KATE	f	Well, could you just make a copy of the disc? And just hide it in case we get busted, so we have something to give our lawyers, something that hasn't been tampered with? Can you do that?
+MRS. MURPHY	f	Listen you guys, help yourself to anything in the fridge. Cereal has.
+KATE	f	Thank you.
+DADE	m	Okay. I'll copy it.
+KATE	f	Okay, thank you.
+PLAGUE	m	The girl. The girl has the disc I need.
+DADE	m	I told you, I don't play well with others.
+PLAGUE	m	Turn on your laptop. Set it to receive a file.
+PLAGUE	m	Lauren Murphy is now a wanted felon in the state of Washington. Forgery, Embezzlement, two drug convictions, plus she jumped parole. When she's arrested, she will not have a trial, she will not pass go, she will go directly to jail. Then I change this file back to the original, and your mom disappears.
+DADE	m	That's bullshit.
+PLAGUE	m	What can I tell you. Computers never lie, kid. Your mom will be arrested at work, she'll be handcuffed, and later, strip searched.
+DADE	m	You lay a finger on her and I'll kill you.
+PLAGUE	m	Kid, don't threaten me. There are worse things than death and, uh, I can do all of them!
+PLAGUE	m	Talk to me.
+DADE	m	I got it. But listen, Kate didn't know what's on it. I mean, she came to me to figure it out. She's not the one who planted the virus. You leave her alone.
+PLAGUE	m	Hey, don't worry, kid. If she's innocent, she'll be fine. Your mommy's safe now, okay?
+DADE	m	Kate, listen.
+KATE	f	Uh, hold on...
+DADE	m	I have to tell you something.
+CEREAL	m	Hold on a second!
+NIKON	m	Look at this, it's so lean and clean.
+CEREAL	m	Looks like a hacker wrote it.
+KATE	f	Come here, look at this. This thing is dense.
+NIKON	m	But that's ill, man. It's incomplete. This is taking forever and a day to figure out. I'm gonna make some coffee.
+CEREAL	m	Tag, you're in.
+DADE	m	This isn't a virus. It's a worm!
+NIKON	m	What's this one eat?
+DADE	m	It nibbles. You see this?
+DADE	m	This is every financial transaction Ellingson conducts, yeah? From million dollar deals to the ten bucks some guy pays for gas.
+KATE	f	The worm eats a few cents from each transaction.
+DADE	m	And no one's caught it because the money isn't really gone. It's just data being shifted around.
+KATE	f	Right. And when the worm's ready, it zips out with the money and erases its tracks.
+DADE	m	Joey got cut off before he got to that part. Check it out. By this point, it's already running at, what, twice the speed as when it started.
+KATE	f	Right, and at this rate it ends its run in...
+NIKON	m	Two days.
+DADE	m	And judging by this segment alone, it's already eaten about...
+CEREAL	m	21.8 million bucks, man.
+KATE	f	Whoever wrote this needs somebody to take the fall. And that's Phreak, and that's Joey, and that's us. We've got to get the rest of the file, so we can find out where the money is going before the worm disappears, so we can find out WHO created it.
+DADE	m	I know, I know who wrote it.
+KATE	f	What?
+DADE	m	This Ellingson security creep. I gave him a copy of the disc you gave me.
+KATE	f	You what?
+DADE	m	I didn't know what was on it.
+CEREAL	m	Oh man. That's universally stupid, man!
+NIKON	m	Yo, man, you an amateur, man.
+KATE	f	Why did he come to you?
+DADE	m	I got a record. I was Zero Cool.
+NIKON	m	Zero Cool? Crashed fifteen hundred and seven systems in one day?
+NIKON	m	Biggest crash in history, front page, New York Times, August 10th, 1988. I thought you was black, man! Yo, man, this is Zero Cool! Oh, shit!
+CEREAL	m	That's far out!
+NIKON	m	This is Zero Cool, man! Whooo, haha!
+KATE	f	Well that's great. There goes MIT.
+DADE	m	I'll make it up to you!
+KATE	f	How?
+DADE	m	I'll hack the Gibson.
+NIKON	m	They'll trace you like that man, cops are gonna find you, they're gonna find you with a smoking gun.
+DADE	m	Fucked if I care, man.
+NIKON	m	Look, even if you had the passwords, it'll take you ten minutes to get in, and you've still gotta find the files, man, I mean, the cops will have you in... five minutes.
+CEREAL	m	Oh wow, we are fried.
+KATE	f	Never send a boy to do a woman's job. With me, we can do it in seven.
+CEREAL	m	You're both screwed. I help, we can do it in six.
+NIKON	m	Jesus, I gotta save all your asses. I help, we can do it in five minutes, man.
+DADE	m	Okay. Let's go shopping.
+CEREAL	m	Woo hoo! Boom!
+DADE	m	You know, if I didn't live by a strict code of honor, I might take advantage of this situation.  Erotically, as it were.
+GUARD	m	Alright, hold it right there!
+DADE	m	Shit!!
+KATE	f	It's my subway defense system.
+NIKON	m	He's way down there.
+CEREAL	m	Ta-da!
+NIKON	m	Yo, brain dead, the manual!
+PHONE COMPANY TECH	m	Hey!
+WOMAN	f	Find it?
+CEREAL	m	Phone's alright. The problem must be somewhere else.
+MARGO	f	They had a large chunk of the garbage file? How much do they know?
+PLAGUE	m	Not everything. But enough to implicate us.
+MARGO	f	You said the worm was untreaceable!
+PLAGUE	m	Yeah. To civilians. But they're hackers. But don't worry. All we have to do is launch the Da Vinci virus, and then they'll all be put away.
+MARGO	f	Launch the Da Vinci virus? You can't do that!
+PLAGUE	m	No one believes the guilty. Besides, by the time they realize the truth, we'll be long gone with all of our money.
+PLAGUE	m	Look, there is no right and wrong.  There is only fun and boring. A thirty year prison sentence sounds pretty dull to me.  Who do you prefer serves it, us? Or them?
+VIRUS	m	Unless five million dollars are transferred to the following numbered account in seven days, I will capsize five tankers in the Ellingson fleet.
+PLAGUE	m	The virus goes off tomorrow morning at 10:30, and those hackers tried to get into our system again. At this point I insist you take more strenuous action, or Ellingson Mineral will hold the Secret Service responsible.
+GILL	f	Get me arrest warrants on Kate Libby, alias Acid Burn, Emmanuel Goldstein, alias Cereal Killer, Dade Murphy, alias Crash Override, also known as Zero Cool, and Paul Cook, alias Lord Nikon. We pick them up tomorrow morning at nine o'clock.
+CEREAL	m	Snoop onto them...
+NIKON	m	...as they snoop onto us.
+KATE	f	Yeah, it's Kate.
+NIKON	m	Hey, Burn. We got a little problem here.
+KATE	f	Alright, so what have we got?
+DADE	m	Well, we have fifty passwords, plus whatever Polaroid head here got inside Ellingson.
+NIKON	m	Well, I got a lot, alright? I don't know how many but... my head hurts.
+CEREAL	m	Yo, everyone check this out. Hey, what's the Da Vinci virus?
+DADE	m	What?
+CEREAL	m	Check this out. It's a memo about how they're gonna deal with those oil spills that happened on the fourteenth.
+KATE	f	What oil spills?
+NIKON	m	Whoa, whoa. Yo, brain-dead, today is the thirteenth.
+CEREAL	m	Well this hasn't happened yet.
+KATE	f	Wait a minute, the fourteenth, that's the same day the worm ends its run.  I mean... Da Vinci virus, didn't Phreak say that's what he was being charged with? Look... "Infecting ballast programs of Ellingson tankers" - they blame hackers!
+NIKON	m	Damn!
+CEREAL	m	A worm AND a virus? The plot thickens.
+NIKON	m	Whoa, whoa whoa whoa, where are you going, huh?
+KATE	f	I got an idea. We've got a few hours, right, till we get arrested. So just stay low. I'm gonna go get some help. I'll beep you, okay? Are you coming?
+CEREAL	m	May the Force be with you, man.
+KATE	f	There they are!
+DADE	m	Razor and Blade! They're flakes!
+KATE	f	They're elite! Let's get 'em.
+KATE	f	I lost 'em. Where were you?
+DADE	m	I don't like this.
+DADE	m	AAAAAUGH! I definitely don't like this!
+BLADE	m	What do you want?
+DADE	m	Ummm... we come in peace?
+KATE	f	We need your help.  If you're up to it.
+RAZOR	m	She's buff. Ballsy.
+BLADE	m	Let's keep her.
+RAZOR	m	Waste the dude.
+KATE	f	A virus called Da Vinci will cause oil spills at 10:30 AM Eastern Time tomorrow.
+DADE	m	It's somehow connected with the worm that's stealing the money.
+KATE	f	We need your help to overload the Gibson so we can kill the Da Vinci virus and download the worm program.
+RAZOR	m	She's rabid, but cute.
+BLADE	m	See, we're very busy. A TV network that wishes to remain nameless has expressed an interest in our show.
+DADE	m	Let's go, Kate.
+RAZOR	m	Wait. Nobody said no. But you are going to need more than just two media icons like us. You need an army.
+BLADE	m	That's it! An electronic army! If I were us, I'd get on the internet, send out a major distress signal.
+RAZOR	m	Hackers of the World, Unite!
+BLADE	m	How are you going to take care of the cops?
+CEREAL	m	Yo. I'm blowing up. It's Kate, Grand Central. Let's hit it!
+CEREAL	m	Hey Joey, you made it!
+KATE	f	Now listen up, use your best viruses to buy us time, we have to get into Plague's file and copy the worm.
+CEREAL	m	Ai! Boom boom aiaiaiaiaee! Alright, that was a little tension breaker, that had to be done, alright?
+KATE	f	Cereal.
+CEREAL	m	Yeah?
+KATE	f	Go fix the phones.
+CEREAL	m	Roger.
+KATE	f	Joey, take his place.
+JOEY	m	What, me?
+KATE	f	Take his place, man, do it. You can do it.
+KATE	f	Ready?
+DADE	m	Yeah.
+KATE	f	Alright, let's boot up.
+MARGO	f	What is it? What's wrong?
+PLAGUE	m	Nothing, it's just a minor glitch.
+MARGO	f	"Minor glitch" with you seems to turn into a major catastrophe.
+HAL	m	There's a new virus in the database.
+MARGO	f	What's happening?
+HAL	m	It's replicating, eating up memory. What do I do?
+PLAGUE	m	Type "Cookie", you idiot. I'll head 'em off at the pass.
+HAL	m	We have a Zero Bug attacking all the login and overlay files.
+PLAGUE	m	Run anti-virus. Give me a systems display!
+PLAGUE	m	Die, dickweeds!
+HAL	m	The rabbit is in the administration system.
+PLAGUE	m	Send a Flu-shot.
+MARGO	f	Rabbit, Flu-shot, someone talk to me.
+HAL	m	A rabbit replicates till it overloads a file, then it spreads like cancer.
+MARGO	f	Cancer?
+KATE	f	It's the Gibson, it's finding us too fast.
+DADE	m	Man, there's too many garbage files, I need more time.
+PLAGUE	m	They're at Grand Central Station, lower level. Don't screw up.
+PLAGUE	m	Game's over. Last chance to get out of this without a prison sentence.  You're not good enough to beat me, you little shit.
+DADE	m	Yeah, maybe I'm not. But we are, you asshole.
+PLAGUE	m	Give it up! Just give it up.
+RAZOR	m	Are we fashionably late?
+SYSOP	m	We have massive infection.  Multiple GPI and FSI viruses.
+HAL	m	They're coming in from remote nodes. They're going after the Kernal!
+MARGO	f	Colonel who?
+HAL	m	The System Command Processor, it's the brain.
+MARGO	f	Cancer, brain... Brain Cancer?
+DUKE ELLINGSON	m	Belford, what's going on?
+PLAGUE	m	In short, Duke, a shit storm.
+DADE	m	I found it! I found it!
+PLAGUE	m	This is the end, my friend. Thank you for calling!
+DADE	m	Oh, shit! He got me.
+NIKON	m	Joey's getting stupid busy.
+DADE	m	Joey. I need you to drop your viruses, go after the worm. You're the closest.
+DADE	m	It's root slash period workspace slash period garbage period.
+GILL	f	Freeze!
+GILL	f	Ahhh Come on!
+KATE	f	Kill the Gibson.
+RAZOR	m	Roger that.
+PLAGUE	m	Come on you son of a bitch, is that all you got, huh? Come on, let's see what else you can do! You talking to me? Huh? Hahahaha. Are you nuts? Come at me!
+HAL	m	They're in the kernal.
+DA VINCI VIRUS	m	Help... me...
+WOMAN	f	The tankers have stopped capsizing.
+SOMEONE ELSE	m	Ballast tanks are emptying. It'll be okay.
+PLAGUE	m	Little pissant!
+NIKON	m	Yes!
+DADE	m	We did it!
+KATE	f	Let's get out of here!
+GILL	f	FREEZE!
+DADE	m	They're TRASHING our rights, man! They're TRASHING the flow of data! They're TRASHING!
+GILL	f	Shut up and get in the car!
+PLAGUE	m	Hello?
+GILL	f	We caught 'em.
+PLAGUE	m	Good.
+GILL	f	Red handed! You won't be having any more trouble from them.
+DADE	m	Me, alright? I did it. She knows shit about computers. She... she's just my girlfriend.
+GILL	f	I suggest you modify your attitude. Because you are floating. And I'm about to flush your ass.
+AGENT	m	You've got a Mrs. Murphy to see you, sir.
+KATE	f	Are you crazy? What are you doing?
+DADE	m	I'm trying to help you.
+KATE	f	Dade.
+DADE	m	What?
+KATE	f	Thanks for your help.
+GILL	f	Your son is in big trouble. He has violated his probation and he has engaged in criminal activity.
+MRS. MURPHY	f	My son happens to be a genius. He understands something happening today that you won't comprehend if you live to be a hundred, and he would never use what he knows to harm a living soul.
+AGENT BOB	m	The news crew you requested is here.
+MRS. MURPHY	f	Oh good. Cause I have a few things to tell them.
+GILL	f	Your son is facing thirty felony counts in an ongoing investigation. You face possible arrest if you do that.
+MRS. MURPHY	f	Mister, I don't care if I face certain death.
+GILL	f	Mrs. Murphy stays right here.
+KATE	f	Oh, wow, she's great.
+DADE	m	Yeah.
+REPORTER	m	...and attacked the Ellingson's computer network. Is the last we've seen of this type of high-tech espionage?
+GILL	f	Well, I'm afraid not. Hackers are a grave threat to the national security. This incident just proves without a doubt that we need increased funding to stop...
+SOMEONE	m	That kid cut him off!
+CEREAL	m	Hold on, boys and girls. It is I, the Cereal Killer, making my first coast to coast, world wide, global television appearance. Yes, that's right, I'm here to tell you about this heinous scheme hatched from within Ellingson Mineral.
+CEREAL	m	But for what, you ask? World domination? Nay. Something far more tacky. A virus called Da Vinci, that when launched, would cause Ellingson Mineral tankers to capsize was to be blamed on innocent hackers. But this virus was really the smokescreen, right. What could be so vitally important to protect that someone would create such a nasty, antisocial, very uncool virus program?
+CEREAL	m	But why? Could it be to cover the tracks for this worm program? A worm that was to steal 25 million bucks. The password for this hungry little sucker belongs to Margo Wallace, head of public relations at Ellingson Mineral...
+MARGO	f	Oh my God!
+CEREAL	m	...and Eugene Belford, Computer Security Officer.
+GILL	f	Son of a BITCH!
+CEREAL	m	What's this? Is this the unnamed account in the Bahamas where the money was to be stashed? I think so!
+CEREAL	m	Yo. I kinda feel like God!
+MARGO	f	Plague? Eugene?
+MARGO	f	I don't even know how to work a VCR, let alone a computer! Get off! Look, listen, I'll make a deal. Eugene Belford! I know where his mother is, I promise you. Get offa me! I need a lawyer!
+STEWARDESS	f	Here you are, Mr. Babbage.  Flight time to Tokyo should be about 14 hours today. Can I get you anything else?
+PLAGUE	m	Just a pillow please.
+PLAGUE	m	Thank you.
+GILL	f	You're welcome.
+PLAGUE	m	What's going on? Let go of me! Stewardess! I'll never fly this airline again!
+DADE	m	You look good in a dress.
+KATE	f	You would have looked better.
+DADE	m	Wanna go for a swim?
+KATE	f	I can't believe they decided you won.
+DADE	m	They didn't. The guys felt it was the only way I'd get a date. Anyway, you're pretty good. You're elite.
+KATE	f	Yeah? You know if you would have said so in the beginning, you would have saved yourself a whole lot of trouble.
+DADE	m	Beat that!
+DADE	m	You know, I've been having these really weird..
+KATE	f	Dreams?
+

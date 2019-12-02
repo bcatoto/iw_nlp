@@ -1,0 +1,1061 @@
+DIVINCI	m	Says here they got slips in Honolulu.  325 a month. Utilities included.  That's not bad.
+DIVINCI	m	But I gotta get at least a forty  footer. It'll handle rough water  better and I'll need the room if I'm  gonna live on it.
+RODRIGUEZ	m	I don't know how you do it.
+DIVINCI	m	What?
+RODRIGUEZ	m	How you can think about Hawaii now?
+DIVINCI	m	My heart's in Hawaii.
+RODRIGUEZ	m	You never been there. How can your  heart be there.
+DIVINCI	m	You're tellin' me there's no place  you'd rather be other than here?
+RODRIGUEZ	m	No, I'm saying I just don't know how  you can think about Hawaii right  now.
+DIVINCI	m	If I was in Hawaii right now, I  wouldn't be thinking about here. See  the difference?
+RODRIGUEZ	m	No.
+DIVINCI	m	Look, I'm not in Hawaii, I'm here.  But I don't want to be here, I want  to be in Hawaii. I can't be in Hawaii,  therefore I think about it so as to  not get depressed about being here.
+RODRIGUEZ	m	But I'm here, I know I'm here, I  don't like being here, but I can't  be anyplace else because I look around  and I see all this shit. How do you  get around that?! That's what I'm  asking.
+DIVINCI	m	Focus.
+RODRIGUEZ	m	Focus.
+RODRIGUEZ	m	It's time. No more Hawaii, okay?  Focus on this.
+DIVINCI	m	Aloha.
+RODRIGUEZ	m	Aloha my ass.
+CYNTHIA	f	Left at the corner.
+DIVINCI	m	Hope you don't mind me checkin' you  for weapons.
+HUDD	m	Hell yes I mind.
+HUDD	m	I just don't want no man handlin'  me.
+DIVINCI	m	Okay. Check him.
+HUDD	m	Lotta good hidin' places on this  body. Check good.
+HUDD	m	Careful. It's loaded.
+CYNTHIA	f	He's got nothin'.
+HUDD	m	Not bad, not bad. Any more where  this came from?
+DIVINCI	m	Maybe.
+HUDD	m	Then maybe we talk again.
+DIVINCI	m	Maybe.
+HUDD	m	Told you there was a lotta good hidin'  places on this body.
+HUDD	m	Bet you gotta lotta nice hidin'  places, too.
+RODRIGUEZ	m	Come on! Hurry up!
+CYNTHIA	f	Hey, Joe, wake up. Get outa the street  before you get run over. Joe, wake  up!
+CYNTHIA	f	You're in the street, Joe. Get outa  the street.
+CYNTHIA	f	Other way, Joe.
+CYNTHIA	f	Forget it, Joe. Maybe you're better  off right there. I don't think you'd  even feel it.
+CYNTHIA	f	Who is it?
+DIVINCI	m	Got your money.
+CYNTHIA	f	Put it on the table.
+DIVINCI	m	Tired?
+CYNTHIA	f	Yes.
+DIVINCI	m	I'm not.
+CYNTHIA	f	Take a sleeping pill. There's some  in my purse.
+DIVINCI	m	You want your money?
+CYNTHIA	f	I already worked for that.
+DIVINCI	m	This is a bonus.
+CYNTHIA	f	For who?
+DIVINCI	m	This ain't my fault. This is a failure  of our educational system. If you  hadn't fallen through the cracks and  dropped outa school, you wouldn't be  here now.
+CYNTHIA	f	So what's your excuse?
+DIVINCI	m	I'm in love.
+VIC	m	Keepin' some late hours.
+RODRIGUEZ	m	What the hell you doin'? What're my  neighbors gonna think?
+VIC	m	I apologize. I understand your  concerns. But you must understand  that, unlike a bank, I cannot rely  on a late fee as sufficient  encouragement to repay one's debts.  I am forced to employ the likes of  Mr. Cutless Supreme, whom I might  add, contributes significantly to my  overhead. I am the real loser here.  And I am concerned about your  sincerity in repaying the twenty- seven thousand, nine hundred forty- two dollar gambling debt that is one  week past due. What can you do to  reassure me of your good intentions?
+RODRIGUEZ	m	I can make your life fuckin' miserable  that's what I can do.
+VIC	m	Look at me. Do I have a wife and  three kids? Do I have a good job at  IBM? Am I a handsome guy? No, no and  no. I loan money at excessively high  interest rates to pricks like you  who can't control their urges to  lose big money playing cards and  then I am forced to stay up all night  trying to convince them that I have  needs, too. The point of which is, I  already have a fuckin' miserable  life. So don't threaten me you lousy  bag of cat shit.
+VIC	m	All I'm askin' is that you be  responsible. Is that unreasonable?
+RODRIGUEZ	m	Four thousand is all I got.
+VIC	m	I am proportionally reassured. You  purchased yourself an extension.
+RODRIGUEZ	m	Cutless Supreme, what kind of fuckin'  idiot name is that?
+CUTLESS SUPREME	m	It was the car my daddy stole to  take my momma to the hospital, but  the cops stopped him and shot him  dead in an alley before he could  explain. I was born in the back seat.
+PATROLMAN MAHONEY	m	Another day, another body. Where you  wanna start?
+FIRST MAN	m	A hit?
+PATROLMAN MAHONEY	m	Looks like. Could be gang related.
+PATROLMAN MAHONEY	m	Happened sometime last night, early  morning, two, three o'clock. African- American male, looks like in his  thirties. But even that's a guess.  Half his head is on the upholstery.
+RODRIGUEZ	m	Any witnesses?
+PATROLMAN MAHONEY	m	Oh, sure, hundreds.
+DIVINCI	m	Fuckin' Animals.
+FIRST DETECTIVE	m	...three shotgun shells, twelve gauge.
+DESK OFFICER	m	Three shotgun shells, twelve gauge.
+SECOND DETECTIVE 	m	Heard you got a gang related. Lucky  guy, Divinci. You get all the pretty  ones.
+DIVINCI	m	One less drug store on the street.
+DESK OFFICER	m	And the world is a safer place.
+RODRIGUEZ	m	-- a green car... you know what  make... Maybe a Ford, uh-huh. You  didn't see the license, did you?
+RODRIGUEZ	m	Yeah, no, I understand, it was dark...  Uh-huh.
+DIVINCI	m	Wanna go for a ride?
+RODRIGUEZ	m	You think you could describe the  driver? You bought it?
+DIVINCI	m	As of last night, I've got the down.  Just picture me under swayin' palms  with a Mai Tai.
+RODRIGUEZ	m	Uh-huh. You're gonna buy it, no shit. When?
+DIVINCI	m	Just a phone call away.
+RODRIGUEZ	m	That's really great, man.
+RODRIGUEZ	m	Uh-huh, okay... how tall was he?
+CAPT. HENDERSON	m	You got primary on the drug related  this morning on 27th.
+DIVINCI	m	I'm workin' it up now.
+CAPT. HENDERSON	m	Who's your second? In my office. Both of you.
+DIVINCI	m	Why?
+CAPT. HENDERSON	m	Now.
+RODRIGUEZ	m	What the hell --
+CAPT. HENDERSON	m	Detectives Divinci and Rodriguez,  this is Richard Simms. He's with the  D.E.A. He wants to ask you some  questions about your case.
+DIVINCI	m	What's the occasion?
+SIMMS	m	You get an i.d. on the victim?
+RODRIGUEZ	m	We're waitin' for prints.
+DIVINCI	m	Car was registered to --
+SIMMS	m	-- Anchor Imports. 81 El Dorado.  Black.
+DIVINCI	m	If you got all this, what d'you want  from us?
+SIMMS	m	...The man in the car is Lionel Hudd.
+RODRIGUEZ	m	How d'you know that? What's goin' on here?
+SIMMS	m	Hudd was DEA, undercover.
+SIMMS 	m	He was workin' a case on syndicate  distribution of drugs on the south  side. But every dealer we tagged  kept getting killed. He finally got  a lead on a girl -- Hudd was a friend  of mine... I'm gonna nail the  sonuvabitch who killed him.
+DIVINCI	m	We'll do everything we can to help.
+RODRIGUEZ	m	SHIT, FUCK, SHIT, JESUS CHRIST!
+DIVINCI	m	Calm down!
+RODRIGUEZ	m	WE'RE DEAD, WE'RE FUCKING DEAD!
+DIVINCI	m	SHUT UP!
+RODRIGUEZ	m	FUCK, FUCK, FUCK!
+DIVINCI	m	STOP IT! YOU HEAR ME, RIGHT NOW,
+RODRIGUEZ	m	GOD, GOD, THIS IS REALLY FUCKIN' OUT
+RODRIGUEZ	m	LET GO OF ME!
+DIVINCI	m	Shut up and listen to me!
+DIVINCI	m	They could be watchin' us right now  you asshole. So fuckin' shape up!  You got it?! I want you to nod!
+DIVINCI	m	Get the fuck up!
+DIVINCI	m	Get in the car!
+DIVINCI	m	There's no fuckin' reason to panic.
+RODRIGUEZ	m	No fuckin' reason to panic? Did you  say no fuckin' reason to panic!
+DIVINCI	m	Stop being an idiot! We're the cops  on the case. It's our case. We are  going to find the fuckin' killers.
+RODRIGUEZ	m	WE'RE THE FUCKIN' KILLERS!
+DIVINCI	m	Since when does that matter?!
+DIVINCI	m	All they want is someone to go down  for the crime, right? Do we care who  goes down for the crime? Fuck no. As  long as someone goes down for the  crime. It's a slot that's gotta be  filled.
+RODRIGUEZ	m	We killed a cop, doesn't that bother  you?
+DIVINCI	m	Of course it bothers me. What d'you  want me to do, turn myself in? Well  I'm not. That's the risk we take  everyday, somebody might pop us,  especially undercover like that. So  he got popped. It happens.
+RODRIGUEZ	m	Not by other cops!
+DIVINCI	m	I patted him down! He wasn't wearin'  a wire, he had no badge, no gun, how  was I supposed to know?!
+DIVINCI	m	Look, I feel just as bad as you do,  but we gotta start thinkin' about us  here. The important thing is we don't  lose control of the case. We can  never lose control of the case.  Whatever evidence there is goes  through us. We lay down the trail.  Make it nice and logical. We're the  teachers and two and two can add up  to five if it's our classroom.
+RODRIGUEZ	m	What're you talkin' about, are you  sayin' we stick somebody with this?
+DIVINCI	m	Evidence points wherever we want it  to point. Shit, we can provide so  much evidence, even the asshole we  pick will think he fuckin' killed  him.
+RODRIGUEZ	m	You got some asshole in mind?
+DIVINCI	m	Just don't worry. We'll find a killer.  There's lots of 'em out there.
+JAMES	m	What the hell'd I do now?
+JAMES	m	Ain't my gun.
+DIVINCI	m	Never is, is it.
+JAMES	m	That ain't my fuckin' gun.
+DIVINCI	m	Got your fuckin' prints on it.
+RODRIGUEZ	m	Where were you Friday night?
+JAMES	m	Friday night... last Friday night?
+RODRIGUEZ	m	Where were you?
+JAMES	m	Whatever you think I did went down  last Friday night?
+DIVINCI	m	Better have a good alibi, James, or  it's good ali bye-bye.
+JAMES	m	I was in jail you assholes. Check it  out. All night. What a couple a dickheads!
+DIVINCI AND RODRIGUEZ	m	NOBODY MOVE! HANDS IN THE AIR! NOW!
+CORTEZ	m	Ain't my gun.
+RODRIGUEZ	m	Got your prints on it.
+CORTEZ	m	You fuck, I ain't never seen that  gun before!
+RODRIGUEZ	m	Where were you last Friday night?
+CORTEZ	m	Fuck you. I wanna talk to a lawyer!
+RODRIGUEZ	m	Lawyer's not gonna help you, Cortez.  All the evidence we got points right  to you.
+CORTEZ	m	Did you say last Friday night?
+CORTEZ	m	Intensive Care, you pindejo fuckin'  gutter shits. And Thursday night,  and Saturday, too. I just fucking  got out this morning.
+DAVE	m	Alright, alright, alright... shit. I  ain't gonna fight you.
+DAVE	m	Ain't my gun.
+RODRIGUEZ	m	That's what they all say.
+DAVE	m	Wish it was. No better gun than Smitty  and Wes .44 mag with serial numbers  filed off. Got any bullets?
+DAVE	m	Who did I kill?
+DIVINCI	m	Where were you last Friday night?
+DAVE	m	You mean, what's my alibi right?
+DAVE	m	I was breakin' and entering. Jewelry  store on seventh and Front, about  nine o'clock. Not even close to your  jurisdiction. I got the rocks to  prove it.
+DAVE	m	Sorry I can't help ya. But one to  five is better than ten to life.
+DIVINCI	m	Montrose LaJolla...
+RODRIGUEZ	m	We pulled him in last year for knifing  that dealer on 32nd.
+DIVINCI	m	Yeah. Almost killed him, remember?  He'd be good.
+ANOTHER DETECTIVE	m	He's dead. His life partner killed  him in a Domestic D about a month  ago.
+RODRIGUEZ	m	Shit!
+DIVINCI	m	Take it easy.
+RODRIGUEZ	m	This isn't gonna work!
+DIVINCI	m	Nobody said it was gonna be easy.  But let's not advertise our despair...  Okay?
+DIVINCI	m	Divinci.
+DIVINCI	m	This is our case! Not the goddamn  DEA's!
+CAPT. HENDERSON	m	It's been three days.
+DIVINCI	m	We're not fuckin' magicians! What  the hell is three days?! This is a  goddamn murder case! It takes a little  bit of goddamn time!
+CAPT. HENDERSON	m	When a Federal Undercover Officer  goes down, it's never a fuckin' murder  case! I don't like the DEA on my ass  any better than you like 'em on yours.  But this is personal for them and  they want answers. Forget your other  cases and get something, anything  that I can give to them. The last  thing I want is the goddamn F.B.I.  on my back, too.
+DIVINCI	m	We've got a couple leads. We need a  little more time.
+CAPT. HENDERSON	m	I can't hold 'em off much longer.
+RODRIGUEZ	m	This is no fuckin' way to run an  investigation.
+CAPT. HENDERSON	m	Let me tell you both something, if  you don't solve this quick, they're  gonna start askin' why? And they'll  be lookin' to blame somebody in this  department. So my advise to you is,  get something fuckin' fast or turn  over what you've got and get outa  the way.
+DIVINCI	m	How much time we got?
+CAPT. HENDERSON	m	A couple days. The funeral's this  afternoon.
+RODRIGUEZ	m	What funeral?
+CAPT. HENDERSON	m	For Agent Hudd. Simms wants you there.
+DIVINCI	m	What for? We didn't know him.
+CAPT. HENDERSON	m	How the hell do I know?! It's DEA,  it's their thing. You're the cops on  the case, I suppose they want you to  know what a great guy Hudd was so  you'll work all that harder to find  his killer. Just go. It'll reassure  'em how much you care and keep 'em  off my ass.
+REVEREND	m	-- and it is too easy to say that he  was a good man in his job because he  gave more than most. And it's too  easy to say that he was a good man  in his community because he gave  more than others. And it's too easy  to say he was a good man at home  with his family because he was always  there when they needed him. Special  Agent Lionel Hudd was not just a  good man, he was an extraordinary  man. And his death shall not be in  vain.
+DIVINCI	m	Don't Humpty Dumpty on me.
+RODRIGUEZ	m	What's that mean?
+DIVINCI	m	Your cracks are startin' to show.
+RODRIGUEZ	m	Bullshit.
+DIVINCI	m	Get your balance. Here comes the  King.
+SIMMS	m	Glad you came... Anything break?
+DIVINCI	m	Nothin' to brag about. But we've got  a couple new leads we're followin'.
+SIMMS	m	...Look, normally we'd be all over  this, but your Captain seems to think  you can do the job. It's your  territory. I guess you know it better  than anybody. And that can be worth  a lot. But you understand... we won't  wait forever.
+DIVINCI	m	Just outa curiosity... What happened  to his backup? You guys use backup  on undercover don't you?
+SIMMS	m	It was a new lead. Hudd was afraid  backup would blow his cover. He was  supposed to check in ten minutes  after the deal went down. He never  checked in.
+RODRIGUEZ	m	We want this one as bad as you do. A  cop's a cop. We're in this together,  right?
+SIMMS	m	That's why I asked you to come here.  Just so you knew that.
+DIVINCI	m	He didn't have backup. You believe  that?! Jesus what a dick.
+RODRIGUEZ	m	I don't think we should criticize  that particular decision of his.
+DIVINCI	m	I don't care what the reasons are,  you don't play Lone Fuckin' Ranger  on a drug buy. You're just askin'  for it. That's all I'm sayin'.
+RODRIGUEZ	m	I don't trust those bastards. They're  not waitin' for us. That's bullshit.  They're runnin' their own  investigation. I know it!
+DIVINCI	m	Let 'em. The gun, the coke came from  evidence. The car came from impound.  So what's to find?
+RODRIGUEZ	m	That's what I'm afraid of. There's  nothing for them to find. We were  too good.
+DIVINCI	m	So what're you worried about?
+RODRIGUEZ	m	Nobody is that fuckin' good.
+DIVINCI	m	Except us.
+CYNTHIA	f	I think this is breaking and entering,  isn't it?
+DIVINCI	m	I work homicide, I don't deal with  that shit.
+CYNTHIA	f	Learn anything you didn't already  have on file?
+DIVINCI	m	Yeah. You surprise me sometimes.  Here I think you're just a hard case  and I discover you've got a heart of  gold. You're an organ donor. That's really  nice. The only problem is, they'll  never use your best parts.
+CYNTHIA	f	I'll make sure you get them.
+DIVINCI	m	Hey, don't get me wrong. I was just  surprised that we had something in  common... Besides what we have in  common.
+CYNTHIA	f	Do everybody a favor, if you're gonna  donate your heart, make sure it goes  to science. Most people want one  that beats.
+DIVINCI	m	Cynthia... pretty name. What do the  first three letters spell?
+CYNTHIA	f	Don't get so clever. It's out of  character.
+CYNTHIA	f	What's so interesting up there?
+DIVINCI	m	Nothing.
+CYNTHIA	f	Then why's it got all your attention?
+DIVINCI	m	I'm thinkin', that's all.
+CYNTHIA	f	About us?
+DIVINCI	m	No.
+CYNTHIA	f	Good.
+DIVINCI	m	What if I was thinkin' about us?
+CYNTHIA	f	Don't waste your time.
+DIVINCI	m	What if I was?
+CYNTHIA	f	Where's it gonna get us?
+DIVINCI	m	Maybe I got plans.
+CYNTHIA	f	I don't wanna hear 'em. Plans just  make you think somethin's gonna get  better. I'm fine now. I don't need  to get screwed up waitin' for  something good to happen.
+DIVINCI	m	I just want you to know, love is  important to me.
+CYNTHIA	f	Me, too.
+DIVINCI	m	But more important is loyalty. Nothing  is more important than that. Not  love, not anything. Because loyalty  is about respect. You can talk about  love all you want, but without respect  it's empty. I mean the first thing  that goes in a marriage is respect.  And once it's gone, forget the love.  So I am telling you, I am loyal to  you. Like I'm loyal to my partner.  We are closer than blood. And I trust  him with my life.
+CYNTHIA	f	Why're you telling me this?
+DIVINCI	m	When you asked if I was thinkin'  about us and I said I wasn't, I just  want you to know that I do.
+CYNTHIA	f	Just don't ask me to marry you.
+DIVINCI	m	Why aren't more women like you?
+DIVINCI	m	You fuckin' idiot.
+DIVINCI	m	What've we got here?
+DIVINCI	m	Where were you last Friday night?
+DIVINCI'S VOICE	m	What's your name?
+DIVINCI	m	Your name, what's your name?
+WILLIAM	m	...Joe...
+DIVINCI	m	Where'd you get the gun, Joe?
+DIVINCI	m	It was in your pocket, Joe, your  coat pocket. You must keep it for  protection, right?
+WILLIAM	m	I don't know.
+DIVINCI	m	Sure you do, Joe. Everybody needs  protection. Especially a guy like  you lives on the street, right?
+DIVINCI	m	Put it back in your pocket, Joe. You  don't have to worry about me, I'm  not gonna hurt you.
+DIVINCI	m	Wake up, Joe! I want you to look at  something. Out the window, Joe. Look  out the window.
+DIVINCI	m	This is where it happened, Joe. I  want you to remember it. This is  where you killed him
+DIVINCI	m	You remember it now? How you shot  him through the head? You remember  it?
+WILLIAM	m	I... don't...
+DIVINCI	m	You will.
+RODRIGUEZ	m	Who the hell is this?
+DIVINCI	m	Is that any way to answer the phone?
+RODRIGUEZ	m	Divinci, shit! It's quarter to six.
+DIVINCI	m	I know what time it is, I'm not the  one in bed. I need the photos of the  scene.
+RODRIGUEZ	m	Now?
+DIVINCI	m	I got a suspect. But he can't remember  all the details. He needs a little  help. And I thought, since you're my  partner, you might jump at the  opportunity to lend me a fuckin'  hand.
+RODRIGUEZ	m	He doesn't remember last Friday?
+DIVINCI	m	He doesn't remember a lotta Fridays.  Bring the shots and pick up a fifth  of Vodka. Make it two.
+DIVINCI	m	Time to get up, Joe.
+DIVINCI	m	I want you to look at something.
+DIVINCI	m	There's the guy and the street and  the car. You remember how you shot  him.
+DIVINCI	m	You don't remember? That's not what  you told me last night.
+DIVINCI	m	If you remember you can have a drink.
+DIVINCI	m	But you gotta remember how you saw  him driving toward you and you were  in the street and you were afraid he  was going to hit you so you had to  shoot to protect yourself. You  remember now don't you?
+DIVINCI	m	And where's your gun, Joe, where do  you keep your gun?
+RODRIGUEZ	m	Why'd you kill him?
+WILLIAM	m	I... don't know...
+RODRIGUEZ	m	It was your gun.
+WILLIAM	m	...I don't have a gun.
+DIVINCI	m	Yes you do. In your pocket.
+WILLIAM	m	...I'm tired.
+DIVINCI	m	I know, Joe, it's tough to remember  things you don't wanna remember.  What about your last name, Joe. You  got a last name?
+RODRIGUEZ	m	Come on, Joe, everybody's got a last  name.
+WILLIAM	m	I don't remember.
+RODRIGUEZ	m	Don't fuck with us, Joe. We're trying  to help you. What's your last goddamn  name?
+WILLIAM	m	I don't know.
+DIVINCI	m	Come on, we're all tired here, Joe.  Just give us your last name.
+WILLIAM	m	I don't remember.
+DIVINCI	m	...Okay, fine, what's in a name? But  you remember the gun, right, in your  pocket.
+DIVINCI	m	And you remember that you told me  you thought he was going to hit you,  right? That's why you shot...
+WILLIAM	m	...Yeah.
+DIVINCI	m	How'd it happen, Joe, tell me how it  happened. You saw him driving toward you --
+WILLIAM	m	-- I saw him driving toward me --
+RODRIGUEZ	m	Then what did you do?
+DIVINCI	m	You ran.
+JOE'S VOICE	m	I didn't mean to...
+WILLIAM	m	He was going to hit me... I was  scared... he was going to hit me.
+DIVINCI	m	That's why you shot him.
+WILLIAM	m	That's why I...
+JOE'S VOICE	m	...shot him.
+DIVINCI	m	Helluva nice shot, Joe.
+CYNTHIA	f	It's the middle of the day.
+DIVINCI	m	Just talk.
+CYNTHIA	f	Since when?
+DIVINCI	m	I need you to do something.
+CYNTHIA	f	Good, I need the money.
+DIVINCI	m	This isn't a deal. Where you goin'?
+CYNTHIA	f	I got perishables, okay?
+DIVINCI	m	The guy we did the last deal with is  dead.
+CYNTHIA	f	What?
+DIVINCI	m	Somebody popped him that night,  probably when he tried to unload the  stuff. I don't know.
+CYNTHIA	f	Jesus, does anybody --
+DIVINCI	m	-- Don't worry, there's no connection.  We got the guy who did it.
+CYNTHIA	f	You scared the hell outa me.
+DIVINCI	m	We just need you to do one thing.
+CYNTHIA	f	...What?
+DIVINCI	m	He'll be third from the left. Don't  fuck up. Third from the left.
+CYNTHIA	f	What'm I supposed to say?
+DIVINCI	m	Just look at 'em and then look at  the man the third from the left and  say, It's him.
+RODRIGUEZ	m	And I'll say, Are you sure?
+DIVINCI	m	And you say, Absolutely. No question.
+CYNTHIA	f	This is all I need to do right?
+DIVINCI	m	We have a signed confession. You  i.d. him, he's goin' straight into  the can.
+CYNTHIA	f	Okay, okay. But this is it. I'm not  doin' anything more than this.
+DIVINCI	m	Hey, it's a done deal.
+A VOICE	m	Stop and face front.
+THE VOICE	m	Lift your heads, look straight.
+DIVINCI	m	Take your time. Try and remember his  face.
+CYNTHIA	f	I know him.
+DIVINCI	m	If you can identify the man --
+CYNTHIA	f	I know him.
+DIVINCI	m	Just tell us which one.
+CYNTHIA	f	No. I fucking know him.
+RODRIGUEZ	m	What's the problem?
+DIVINCI	m	There's no problem! Do you see him up there?!
+CYNTHIA	f	You don't understand.
+ONE OF THE MEN	m	Hey, come on, do it or don't!
+THE VOICE	m	No talking.
+DIVINCI	m	Pick the asshole out!
+CYNTHIA	f	Third man from the left.
+DIVINCI	m	You mind telling me what that was  all about?!
+CYNTHIA	f	I know him. He hangs around my  building. He lives in the alley or  something.
+DIVINCI	m	You don't think people that hang  around your neighborhood can kill  somebody. Well let me tell you  something. You don't live in a great  fuckin' neighborhood.
+DIVINCI	m	Just sign the goddamn paper.
+CYNTHIA	f	What paper?
+RODRIGUEZ	m	You picked a man out of a lineup,  you have to sign that you did that  so they don't think we made it up.
+CYNTHIA	f	Now why the hell would they think  something like that?
+DIVINCI	m	Sign it.
+CYNTHIA	f	You said all I had to do was pick  him out.
+DIVINCI	m	This is part of it. Just sign it and  you're done.
+CYNTHIA	f	How come you're so sure it was him?
+RODRIGUEZ	m	Jesus Christ!
+DIVINCI	m	He confessed.
+CYNTHIA	f	Bullshit.
+RODRIGUEZ	m	We got it in writing.
+CYNTHIA	f	He didn't do it.
+DIVINCI	m	How the hell d'you know that? Were  you with him at the time?! You have  a good goddamn alibi for him?!
+RODRIGUEZ	m	Maybe she was blowing him!
+CYNTHIA	f	Better him than you.
+DIVINCI	m	Take it easy.
+RODRIGUEZ	m	Fine, I got nothin' at stake here.
+DIVINCI	m	This is what they call an open and  shut case. He did the kill and he's  going down. Don't make the mistake  of thinking you know the right thing  to do.
+SIMMS	m	Doe?
+RODRIGUEZ	m	He wouldn't give us his last name.
+SIMMS	m	He signed a confession but he wouldn't  give you his last name?
+DIVINCI	m	He said he couldn't remember it. He's a head case.
+AGENT HOOPER	m	You run prints?
+RODRIGUEZ	m	No priors.
+AGENT SARKASIAN	m	Ballistics match?
+RODRIGUEZ	m	We're waiting. But a forty-four was  used in commission. He had a forty- four on him.
+AGENT HOOPER	m	It went down pretty quick.
+DIVINCI	m	It's our street.
+CAPT. HENDERSON	m	I think they did a helluva job.
+SIMMS	m	Goddammit!
+SIMMS	m	Some goddamn piece a shit blows him  away for NOTHING!
+SIMMS	m	I'm sorry. Hudd was too good for  this to happen... I just didn't think  he'd go down this way.
+SIMMS	m	Good work. Thanks.
+CAPT. HENDERSON	m	Do me a favor. Make sure this one  sticks. I don't want the D.E.Assholes  back in here.
+DIVINCI'S VOICE 	m	Cynthia... pretty name. What do the  first three letters spell?
+GUARD	m	Word is he killed a DEA undercover... Word is he shot him in the face... Word is he signed a confession.
+ELLIOT	m	Word is everyone's entitled to a  defense... no matter how guilty they  are.
+ELLIOT	m	Oh shit.
+DOCTOR	m	He's detoxing. I gave him something  to help him through it.
+ELLIOT	m	Can I talk to him?
+ELLIOT	m	Joe, can you hear me?
+ELLIOT	m	I'm Elliot Goff. I'm your attorney...  Do you understand what I'm saying?
+HELEN	f	-- when the defendant, Clyde Dunner,  entered the house of George and Carol  Beaman on Friday night, a .44 caliber  pistol in his hand. He entered the  house with one thing in mind. To  kill George and Carol, the people he  blamed for the break up of his  marriage to Carol's sister, Paula.
+HELEN	f	George and Carol were watching a  movie when he entered the living  room and opened fire. George was  killed instantly, hit in the face.  Carol died later of three bullet  wounds to her chest.
+HELEN	f	Then the defendant, in his effort to  cover up the crime, doused them with  lighter fluid and set the house on  fire... Carol was still alive.
+HELEN	f	Ladies and gentlemen of the jury we  will prove to you, beyond any  reasonable doubt, that the defendant,  Clyde David Dunner, is guilty of two  counts of murder in the first degree.
+JUDGE WEINBERG	m	The defense may now proceed.
+RICHARD STEIN	m	-- Jesus Christ!
+YOUNG MAN	m	-- I don't know where?
+RICHARD STEIN	m	Are you sure?
+YOUNG MAN	m	They looked all over --
+HELEN	f	What's wrong?
+RICHARD STEIN	m	They can't find the murder weapon.
+HELEN	f	What're you talking about?
+RICHARD STEIN	m	Dunner's .44. They can't find the  goddamn gun!
+YOUNG MAN	m	They lost it or something. Misplaced  it, I don't know. They can't find it  anywhere.
+HELEN	f	What?!
+HELEN	f	-- I don't have a goddamn case without  the goddamn gun. His fingerprints,  the ballistics, everything! I have  to have the fucking gun or he's gonna  walk. That murdering piece of filth  will go free without the .44. How  could they lose it?!
+RODRIGUEZ	m	The Dunner gun, you used the fucking  Dunner gun?!
+DIVINCI	m	This is not my fuck up! Our shooting  was supposed to be gang-related and  unsolved! Only because we tagged a  goddamn undercover cop do we need  the fucking .44 for evidence!  Otherwise, we never woulda needed  it. So don't point your finger at  me!
+RODRIGUEZ	m	Alright, alright... But how are we  supposed to explain how the same gun  was used in two murder cases by two  different killers when it was supposed  to be in police custody?!
+DIVINCI	m	We don't explain it. It's not our  fault they lost the evidence.  Ballistics are already complete in  Dunner's case. All we need is another  gun.
+THE GUN SELLER	m	All my merchandise is in top  condition. Untraceable. The best  money can buy.
+THE GUN SELLER	m	It's got good knock down, but it's  slow. Unless you have a preference  for revolvers, I suggest a nine  millimeter auto. They are more  expensive, but what they cost in  money, they save in time.
+DIVINCI	m	The .44.
+RODRIGUEZ	m	What?
+THE GUN SELLER	m	You look like police.
+THE GUN SELLER	m	No offense.
+ELLIOT	m	Joe, I'm Elliot, we met the other...  well, you weren't in very good shape.  You look much better.
+ELLIOT	m	Have a chair. We need to talk.
+WILLIAM	m	About what I did.
+ELLIOT	m	Yes.
+ELLIOT	m	Joe, before we get into what happened  that night, I'd like to check a couple  of things first. Joe is your first name, I assume  Joseph?
+WILLIAM	m	Okay.
+ELLIOT	m	What about Doe? Is that what you  told the officers your last name  was?
+WILLIAM	m	I don't think so.
+ELLIOT	m	What did you tell them your last  name was?
+WILLIAM	m	I don't remember.
+ELLIOT	m	Well, is Doe your last name?
+WILLIAM	m	I'm not sure.
+ELLIOT	m	Do you know what your last name is?
+WILLIAM	m	I don't remember.
+ELLIOT	m	Joe, I'm your attorney, I'm here to  help you. It doesn't matter if you  give the court your last name or  not, they will still put you on trial.  Do you understand?
+WILLIAM	m	Yes.
+ELLIOT	m	So there's no reason to try and hide  your identity. What is your last name?
+WILLIAM	m	I would tell you if I could remember.
+ELLIOT	m	Joe Smith, Joe Jones, Joe DiMaggio...
+WILLIAM	m	...I don't think so.
+ELLIOT	m	Okay. Look, we'll move on. You  understand the charges against you.  They're serious. And if you are found  guilty, you could go to prison for a  very long time.
+WILLIAM	m	Maybe I should.
+ELLIOT	m	What?
+WILLIAM	m	Go to prison. I killed him. I didn't  mean to. But he was going to hit me.
+ELLIOT	m	Yes, I know, I read your confession.  Joe, if you really felt your life  was in danger, we might be able to  use self-defense as our argument.  But before we get into that... Do  you have any family, Joe? Any friends?
+WILLIAM	m	I don't think so.
+ELLIOT	m	Joe... do you know what a psychiatrist  is?
+WILLIAM	m	Yes.
+ELLIOT	m	Have you ever seen a psychiatrist?
+WILLIAM	m	...I'm not sure.
+ELLIOT	m	Joe, you don't remember much about  yourself.
+WILLIAM	m	No.
+ELLIOT	m	...but you remember the night you  shot the man in the car.
+WILLIAM	m	Yes.
+ELLIOT	m	Why?
+WILLIAM	m	...because... I can... I'm sorry,  I'm not much help.
+HELEN	f	-- and when you approached the suspect  in his apartment, did you identify  yourself as a police officer?
+DIVINCI	m	Yes.
+HELEN	f	Did the suspect respond?
+DIVINCI	m	Yes, he did?
+HELEN	f	In what way?
+DIVINCI	m	He started shooting through the door.
+HELEN	f	The Defendant fired six times, until  his gun was empty. We would like to  show you the weapon he used.
+HELEN	f	And we would like to enter it into  court records. It was the same Smith  and Wesson revolver he used to  viciously murder George and Carol  Beaman.
+HELEN	f	The prosecution would like to call  Mr. Steven J. Allen to the stand.
+BAILIFF	?	Steven J. Allen.
+HELEN	f	Mr. Allen, would tell the court what  you do.
+STEVEN J. ALLEN	m	I am a lab technician for the police  department. One of my duties is to  examine weapons used in violent  crimes.
+STEVEN J. ALLEN	m	I tested the defendant's revolver  and matched the bullets fired to the  bullets removed from the deceased.
+CLYDE	m	That ain't my gun.
+JUDGE WEINBERG	m	I must remind the defendant that he  is not to speak out when --
+CLYDE	m	That ain't my gun!
+CLYDE	m	THAT AIN'T MY FUCKIN' GUN!
+CLYDE	m	YOU'RE TRYIN' TO FUCKIN' FRAME ME!
+CLYDE	m	IT AIN'T MY FUCKIN' GUN!
+RODRIGUEZ	m	We gotta put the right gun back.
+DIVINCI	m	We can't put the right gun back!  Without that gun, they won't convict  Joe.
+RODRIGUEZ	m	Without that gun they won't convict  Clyde!
+DIVINCI	m	I'm not worried about Clyde, I'm  worried about us!
+RODRIGUEZ	m	Look, Joe's never goin' to trial,  right. He signed a goddamn confession!  Like you said, this one is open and  shut. Clyde's the one we gotta worry  about. We can't let him go back on  the street! He's a fuckin' psychopath.  He'll kill somebody again.
+DIVINCI	m	Shit. How the hell did that piece of  puke know it wasn't his fuckin' gun?!  I don't think he knows his own fuckin'  mother, but he knows his fuckin'  gun!
+RODRIGUEZ	m	I don't think that's important right  now.
+DESK OFFICER	m	Sorry, Divinci, can't do it.
+DIVINCI	m	What d'you mean you can't do it? I  gotta check something.
+DESK OFFICER	m	You gotta get written permission  from the Chief.
+RODRIGUEZ	m	Since when?!
+DESK OFFICER	m	Since an hour ago when he came down  here and chewed me a new asshole  bigger than a three car garage.
+DIVINCI	m	What's the problem?
+DESK OFFICER	m	Something about missing evidence or  who the hell knows. I just wanna  transfer the hell outa here.
+DIVINCI	m	What the hell're we supposed to do?!
+DESK OFFICER	m	Ask the chief. Policy ain't my  department!
+JUDGE HAROLD PINE	m	Whenever you're ready.
+ELLIOT	m	We would like to plead not guilty to  the charge of murder at this time  for reason of Insanity.
+WILLIAM	m	But I did it.
+ELLIOT	m	Yes, Joe. Let me handle this.
+WILLIAM	m	But I signed the confession.
+ELLIOT	m	Yes, Joe. Don't worry about it. I'm  the attorney.
+HELEN	f	Your honor, can we have a moment?
+JUDGE HAROLD PINE	m	Council may approach the bench.
+HELEN	f	Your honor, my colleague's client  admits to the killing. I don't see  any reason to go through a trial  when it's obvious he would like to  plead guilty.
+ELLIOT	m	I don't agree.
+HELEN	f	If he wants to plead guilty, you  have to let him plead guilty.
+ELLIOT	m	Not if he's not of sound mind.
+HELEN	f	Come on, Elliot!
+ELLIOT	m	I think he's crazy. I know you think  he's just putting it on, that's D.A.  standard procedure, but I don't think  he is. So, your honor, I'm standing  by the not guilty because I believe  he's incapable of making that  judgment.
+JUDGE HAROLD PINE	m	Have you had a psychiatrist look at  him?
+ELLIOT	m	Yes, your honor. I think you'll see that my diagnosis  is not without warrant.
+JUDGE HAROLD PINE	m	I'll review the findings and make my  decision tomorrow.
+ELLIOT	m	Thank you, your honor. Besides, I hear there's a good chance  of beating the charges for lack of  evidence.
+DIVINCI	m	Nobody can connect us to the evidence  thing... we're clean there.
+DIVINCI	m	The most important one is this DEA  mess anyway. Once that's finished,  we're completely in the clear.
+RODRIGUEZ	m	You know we can't do it anymore.
+DIVINCI	m	...yeah, I guess.
+RODRIGUEZ	m	No, we're through. That's it.
+DIVINCI	m	Good while it lasted though. A hundred  grand apiece. Not bad for a few nights  work.
+RODRIGUEZ	m	I just wanna get through this.
+DIVINCI	m	We're gonna get through it. No  evidence problems on this one.
+RODRIGUEZ	m	I hope not... I don't know, Frank,  lately I been thinkin'... maybe what  we did wasn't such a good idea.
+DIVINCI	m	Hey, we took out a few scumbags,  that's it. Nobody's ever gonna miss  those shitheels. They were all pieces  of garbage. Not one of 'em had a  sheet less than a mile long. Drugs,  extortion, assault. They were all  fuckin' guilty as hell and still on  the street, you know that.
+RODRIGUEZ	m	Except the cop.
+DIVINCI	m	Yeah, except the cop. That's part of  the job. Could just as easily have  happened to you or me.
+RODRIGUEZ	m	But we're cops, you know? We fucked  up.
+DIVINCI	m	We fucked up once. Once outa ten.  That's not bad. I'm sorry, okay? I'm sorry. He was  in the wrong place at the wrong time,  what can I say. I'm not goin' down  for it.
+RODRIGUEZ	m	I know.
+DIVINCI	m	Look, if we got paid a decent salary  we wouldn't be tempted by this, right?  And what happens when we retire? You  think our pension's gonna take care  of us? Shit no. We are on our own. I  mean all I want in life is a goddamn  fishing boat, a beach, a couple drinks  and some Hawaiian fuckin' music.  That ain't much for twenty years  putting murdering assholes behind  bars. I mean, the dealers, the pimps,  the killers, they got no rules. We  got all the fuckin' rules. It ain't  fair. That's all I'm sayin', it ain't  fair... For awhile, we made it fair.
+DIVINCI	m	Quit thinkin' you're a bad guy. You're  not a fuckin' bad guy. You made one  mistake. Let it go.
+RODRIGUEZ	m	Do you think we're corrupt?
+DIVINCI	m	Hey, I never took a fuckin' bribe in  my life.
+RODRIGUEZ	m	Me either.
+DIVINCI	m	Nobody ever bought me.
+RODRIGUEZ	m	I know.
+DIVINCI	m	No fuckin' way. Even the thought  makes me sick. And what we did has  nothing to do with being corrupt.  It's two completely different things.  Don't get 'em confused.
+RODRIGUEZ	m	I guess you're right.
+DIVINCI	m	I'm telling you. It's nothin' to do  with corrupt.
+RODRIGUEZ	m	I'm worried, that's all.
+DIVINCI	m	Hey, you gotta worry a little. It's  natural. Just don't lose your sense  of humor.
+RODRIGUEZ	m	My sense of humor, right.
+DIVINCI	m	The problem with people is, nobody  gives a shit about makin' the world  a better place. You and me, I don't  care what anybody says, we made the  world a better place. No matter what  happens. There are ten less drug  dealin' assholes on the street today  because of us. They're not plea  bargainin' their way back onto the  street, they're not clogging up the  courts, and they're not costing the  tax payers a fuckin' penny because  they're not in prison. They were  garbage. And there's nothin' wrong  with takin' out the garbage.
+RODRIGUEZ	m	So, you think you'll get back with  Caroline?
+DIVINCI	m	Shit. Nothin' I ever do is good  enough, you know?
+RODRIGUEZ	m	Never is, never was, never will be.
+DIVINCI	m	Guess I gotta make the effort. It's  gonna cost me if I don't.
+RODRIGUEZ	m	Tell me about it. You know how much  I got left.
+DIVINCI	m	You're gonna think I'm an idiot,  but... I like Cynthia. There's no  bullshit with her. I just fuckin'  like her.
+RODRIGUEZ	m	I think you just like fuckin' her.
+DIVINCI	m	Yeah, that, too.
+CYNTHIA	f	What the hell, Joe, at least you  won't get run over.
+JUDGE WEINBERG	m	The defendant will stand and face  the jury.
+JUDGE	m	What is your verdict?
+JURY FOREMAN	m	We find the defendant, Clyde David  Dunner, not guilty.
+CLYDE	m	Fuckin' A!
+DIVINCI	m	-- when was the last time you saw  him? -- Uh-huh -- And you haven't  seen him since then?
+RODRIGUEZ	m	We gotta talk.
+DIVINCI	m	Just a second. Calm down. I heard. Clyde walked.
+RODRIGUEZ	m	No! They're takin' Joe to trial.
+RODRIGUEZ	m	They found him mentally unable to  plead so his attorney pleaded not  guilty by reason of insanity.
+DIVINCI	m	You gotta be kiddin' me.
+RODRIGUEZ	m	Yeah, that's me, I love to make people  laugh. You hear the one about the  two cops who popped the undercover
+CYNTHIA	f	Who the hell're you and what the  fuck are you doing in here?!
+ASIAN MAN	m	You're Cynthia Webb.
+ASIAN MAN	m	But you are Cynthia Webb the famous  dancer, yes?
+CYNTHIA	f	Yeah, yeah, nice try, get out.
+ASIAN MAN	m	I liked your show very much.
+CYNTHIA	f	What the hell's this?!
+CYNTHIA	f	A subpoena?! For what?! I didn't do  anything!
+CYNTHIA	f	Oh shit... oh shit. He served me! He  fuckin' served me!
+MAN'S VOICE	m	Hello.
+ANOTHER MAN'S VOICE	m	Detective Divinci?
+DIVINCI	m	Yeah.
+ANOTHER MAN'S VOICE	m	This is Sergeant Gardner down at the  station.
+SERGEANT GARDNER	m	Sorry to call so late, but I got a  hysterical woman here says she needs  to talk to you about a murder.
+SERGEANT GARDNER	m	I told her I couldn't call you at  home, but she said that it was very  important. A matter of, you know,  life and death.
+DIVINCI	m	What's her name?
+SERGEANT GARDNER	m	Cynthia.
+DIVINCI	m	Tell her to wait, I'll be right down.
+WOMAN	f	What the hell're you doing?
+DIVINCI	m	I gotta go down to the station.
+WOMAN	f	Now? What time is it?
+DIVINCI	m	Go back to sleep.
+WOMAN	f	Frank, this is no way to repair our  marriage, you know?
+DIVINCI	m	Hey!
+CYNTHIA	f	Frank, I can't do this. He came to  the club. You gotta --
+DIVINCI	m	Not here!
+CYNTHIA	f	I thought you said all I had to do  was pick him out?! That's what you  said, that's all I had to do. I did  what you said. But that was supposed  to be all.
+DIVINCI	m	SHUT UP!
+DIVINCI	m	What're you talkin' about?
+CYNTHIA	f	They want me in court.
+CYNTHIA	f	You promised me I wasn't gonna have  to do anything! What the hell is  goin' on?!
+CYNTHIA	f	I can't do this, Frank. I can't go  into court. I'm gettin' outa here!
+DIVINCI	m	You are not getting outa here!
+CYNTHIA	f	Well I can't go to court! THAT'S NOT
+DIVINCI	m	WELL THIS WASN'T SUPPOSED TO HAPPEN!
+CYNTHIA	f	Fine. Think away.
+DIVINCI	m	Look, you're a witness, that's all.  You got nothin' to worry about. You  saw something happen --
+CYNTHIA	f	-- What?! What did I see?!
+DIVINCI	m	I will tell you everything you gotta  know. You understand? Everything.  You will know exactly what to say.
+ELLIOT	m	Hi, Joe. You're looking much better.
+WILLIAM	m	I guess jail's been good for me.
+ELLIOT	m	Trial date's been set for Thursday.
+WILLIAM	m	I've been thinking about what I did...  and I don't think it's right that I  try getting off.
+ELLIOT	m	Excuse me?
+WILLIAM	m	I want to plead guilty. I killed a  man and I should be punished.
+ELLIOT	m	...I'm a little surprised.
+WILLIAM	m	Why?
+ELLIOT	m	Nobody ever wants to be punished for  what they've done. It's just a new  concept. But I still think our defense  is reasonable. I don't believe, under  the condition you were in, that you  were responsible for your actions.
+WILLIAM	m	But why was I carrying a gun? I had  no right to carry a gun.
+ELLIOT	m	If you hadn't been carrying the gun,  you might be dead.
+WILLIAM	m	And he might be alive.
+ELLIOT	m	I understand... Can I think about  this?
+WILLIAM	m	No. I've made up my mind.
+RODRIGUEZ	m	What if she takes off?
+DIVINCI	m	Then we got no goddamn witness puts  him at the scene.
+RODRIGUEZ	m	And what happens if she testifies  and nobody fuckin' believes her?
+DIVINCI	m	Perjury, maybe. But that's a fifty  fifty. They might believe her.
+RODRIGUEZ	m	Shit, Frank, she's a goddamn stripper  for Chrissake, who's gonna believe  her. I don't believe her when she's  telling the truth!
+DIVINCI	m	What?
+OFFICER	m	Ahh, we got two bodies out here and  three more in the house.
+DIVINCI	m	So?
+OFFICER	m	I was just wondering if you were  gonna be the primary on this one,  that's all.
+DIVINCI	m	Yeah, yeah, we're comin'. Just give  us some room.
+RODRIGUEZ	m	She could blow the whole thing. She  could tie us in and that would be  it. We'd be fuckin' fried.
+DIVINCI	m	If it looks like she's gonna crumble  we'll take steps.
+RODRIGUEZ	m	What steps?
+DIVINCI	m	One more chalk outline more or less  in this city who's gonna know?
+RODRIGUEZ	m	Oh shit, Frank.
+DIVINCI	m	Hey, hey, you think I like this?!
+RODRIGUEZ	m	We just can't go around killin'  everybody!
+DIVINCI	m	Just a second. Look around. Whatta  we got here? Two stiffs on the street,  shot to shit, three more inside.  That's five chalk lines in one night  in one deal in one neighborhood in  one city. Let me fill you in on some  statistics, we're not killin'  everybody. Look, this is strictly last resort.  Okay? But let's not kid ourselves.  If push comes to shove, somebody has  to go down. If you got another  candidate, I'm willin' to listen.
+CYNTHIA	f	Hello.
+RICHARD STEIN	m	Cynthia Webb?
+CYNTHIA	f	...yeah.
+RICHARD STEIN	m	I'm Richard Stein with the District  Attorney's office. You're a witness  in a case we're handling and I'd  like to talk to you as soon as  possible.
+RICHARD STEIN	m	Ms Webb?
+CYNTHIA	f	Yeah.
+RICHARD STEIN	m	Any chance we could get together  today?
+CYNTHIA	f	I'm ah... pretty busy.
+RICHARD STEIN	m	It won't take long. Will you be home  about two? Ms Webb?
+CYNTHIA	f	Yeah, okay... two.
+RICHARD STEIN	m	Good. Let me make sure I've got your  correct address.
+BUTLER	m	Mr. Baylor is here.
+WILLIAM	m	Arthur.
+ARTHUR	m	Nathan. How are you?
+WILLIAM	m	Good, Arthur, thanks. Would you like  some coffee, juice.
+ARTHUR	m	No, I'm fine.
+WILLIAM	m	Well, this is all a bit of a mystery.  You certainly got my attention with  your phone call. What's this all  about?
+WILLIAM	m	Is there something you want me to  see?
+WILLIAM	m	Oh my God.
+DIVINCI	m	Cynthia.
+DIVINCI	m	Shit!
+DIVINCI	m	Jesus!
+RICHARD STEIN	m	Divinci?
+RICHARD STEIN	m	Richard Stein, D.A.'s office.
+DIVINCI	m	Oh, yeah, sorry. I didn't expect --  what're you doing here?
+RICHARD STEIN	m	I have to talk with Cynthia Webb. A  witness in -- well, wait, aren't you  and Detective Rodriguez on this one?
+DIVINCI	m	Yeah, yeah, that's why I'm here. I  wanted to go over some of the details.
+RICHARD STEIN	m	Me, too. Is she there?
+DIVINCI	m	No.
+RICHARD STEIN	m	I was supposed to meet her at two. Do you know her?
+DIVINCI	m	What d'you mean?
+RICHARD STEIN	m	Well, I just mean, if she's not  here... you were... ...inside.
+DIVINCI	m	Oh, yeah, the legal thing. Well,  she's a witness in a murder case.  And when they don't answer a knock  and the door's open, it's my  experience, you know. I like to make  sure there's no dead bodies layin'  around. Don't tell on me.
+RICHARD STEIN	m	No, no, of course not... Well, maybe  I should wait. She might be stuck in  traffic or something.
+DIVINCI	m	Yeah. If she shows up, let me know.  I'd like to talk to her, too.
+RICHARD STEIN	m	Of course.
+DIVINCI	m	See you in court.
+RICHARD STEIN	m	Right.
+ELLIOT	m	Yeah.
+ARTHUR	m	Elliot Goff?
+ELLIOT	m	Arthur Baylor?
+ARTHUR	m	Yes.
+ELLIOT	m	Arthur Baylor, oh my God. I ahh,  would you ahh... are you here to see  me?
+ARTHUR	m	Yes.
+ARTHUR	m	William.
+WILLIAM	m	...yes.
+HELEN	f	What are you telling me?!
+HELEN	f	She missed the appointment? She forget  you were coming? What?!
+RICHARD STEIN	m	If you want my best guess, I'd say  she split.
+HELEN	f	She split, our witness split... Can't  we keep our evidence and witnesses  from disappearing around here? I  mean what do I have to do, lock them  in the trunk of my car? What the  fuck is going on?! I want that bitch  back here and on the stand or in  jail!
+RICHARD STEIN	m	I'll get her.
+MANNY	m	-- yeah, uh-huh. Why you think he'd go there?
+DIVINCI	m	We need to talk.
+MANNY	m	Just a second.
+DIVINCI	m	Not just a second, now!
+MANNY	m	I'll call you back. What d'you want, Divinci?
+DIVINCI	m	I got a witness who took off. I gotta  get her back. I don't got a lotta  time.
+MANNY	m	You're the fuckin' police. What're  you comin' to me for?!
+DIVINCI	m	Don't ask fuckin' questions, you  just find her!
+MANNY	m	Where've I seen her before?
+DIVINCI	m	She dances.
+MANNY	m	Yeah, right, okay. So what'd she  take off for?
+DIVINCI	m	I said --
+MANNY	m	-- I know what you fuckin' said, but  you want me to find her I gotta know  why the fuck she took off! So I know  where not to look! Okay?!
+DIVINCI	m	...she's supposed to testify. She  got scared, thinks somebody might  kill her, so she's hidin'. That's  why I want you to find her. If  somebody is tryin' to pop her, I  don't want anyone knowin' where she  is. Manny eyes Divinci. He doesn't  believe anything anybody tells him.  Especially in his business.
+MANNY	m	How long I got?
+DIVINCI	m	Two days.
+MANNY	m	Shit, two fuckin' days!
+DIVINCI	m	Find her, puss head.
+MANNY	m	Sure, Detective. Always like to help  out the police whenever possible!
+RICHARD STEIN	m	Isn't that Arthur Baylor?
+HELEN	f	Yes.
+RICHARD STEIN	m	What's he doing here?
+HELEN	f	What the hell?
+BAILIFF	?	Hear ye, hear ye. All rise, face our  flag and recognize the principles  for which it stands. The Criminal  Court, Department G is now in session.  The Honorable Harold W. Pine  presiding.
+BAILIFF	?	Please be seated and come to order.
+BAILIFF	?	The People versus Joe Doe in case  number 95-24705.
+JUDGE HAROLD PINE	m	Before we proceed, I'd like to ask  the Defense if there's anything this  court should be made aware of.
+ARTHUR	m	Yes, your honor. I have joined the  defense in the representation of Mr.  William Dane McCall, otherwise known  to this court as Joe Doe.
+ARTHUR	m	I have represented the McCall family  for several years before William  McCall's disappearance seven years  ago. It was assumed that he had died,  but since he has reappeared under  these tragic circumstances, I would  ask this court for a continuance to  allow the defense to prepare  adequately in light of his real  identity now being known.
+JUDGE HAROLD PINE	m	How long do you need.
+ARTHUR	m	One week should be sufficient.
+JUDGE HAROLD PINE	m	Any objection to a week's continuance  by the State?
+HELEN	f	I don't... believe so, your honor.
+JUDGE HAROLD PINE	m	Then I grant a one week continuance.  We will start the proceedings next  Monday morning.
+NEWSCASTER	?	-- when it was discovered that the  man who has confessed to killing an  undercover DEA agent, was actually  himself thought dead for seven years.  The man who signed the confession as  Joe Doe is actually William Dane  McCall, brother of Nathan McCall.  Both are sons of the founder of McCall  International, a corporation involved  in telecommunications, computer design  and development and other related  industries. The net worth of both  men is estimated at over a billion  dollars --
+RODRIGUEZ	m	-- but William McCall shunned the  business world and turned his life  to medicine, receiving his medical  degree from Harvard in 1969. Once  again he turned his back on the  established norm and spent several  years in Africa performing organ  transplants for the poor.
+RODRIGUEZ	m	Jesus Christ, this is who you picked?  A goddamn surgeon who performs organ  transplants on poor Africans?!
+DIVINCI	m	He was living in the fuckin' street!  How the hell was I supposed to know  he was a goddamn doctor?!
+RODRIGUEZ	m	He's not a goddamn doctor! You picked  a fuckin' Saint to pin a fuckin'  murder on!
+RODRIGUEZ	m	When we pick 'em, we really fuckin'  pick 'em. We shoulda just picked up  the fuckin' Pope.
+DIVINCI	m	-- he disappeared seven years ago on  September 19 two weeks after the  tragic death of his wife and two  young children in a multiple vehicle  accident. At the time it was assumed  that he had returned to Africa, but  that was never confirmed. What William  McCall has been doing for seven years  is now the mystery that the court  will try to help unravel.
+DIVINCI	m	Alright, alright, let's think here.  What's the worse case scenario?
+RODRIGUEZ	m	Are you asking me if I can think of  something worse than what we've done  that we can still do, or something  worse that might happen to us if  this all blows up and we are convicted  and sent to jail and die in the  electric chair and go to hell?
+DIVINCI	m	Work with me here.
+RODRIGUEZ	m	I'm sorry. I'm a little on edge.  Would you repeat the question?
+DIVINCI	m	Even if the doc walks, there's no  evidence ties us to it. There's only  one person who can connect us to  Hudd.
+RODRIGUEZ	m	Okay, fine, I don't wanna argue about  it anymore. Let's just fuckin' kill  her.
+DIVINCI'S VOICE	m	We need to talk.
+MANNY	m	Are you fuckin' with me?
+DIVINCI	m	No, I'm not fuckin' with you. Are  you fuckin' with me?!
+MANNY	m	You don't know?
+DIVINCI	m	Know what?
+MANNY	m	Well this is a good one. You're a  cop and you don't know.
+DIVINCI	m	Stop it.
+MANNY	m	Cops got her. Ain't that a gas. Cops  got her, you're a cop, and you gotta  find out from me. It's a crazy world  we live in, don't you think?
+DIVINCI	m	Cops?! What fuckin' cops?!
+MANNY	m	I don't know what fuckin' cops. All  I know is, my people got to her  sister's place and she was already  gone. Her sister said some cops took  her. I thought it was you!
+SECRETARY	f	What an asshole.
+MANNY	m	You're a good judge of character.
+DIVINCI	m	-- look, she's our witness, if she's  in custody, somebody better tell me!
+DIVINCI	m	Anything?
+RODRIGUEZ	m	Nothin'. Nobody knows nothin'. The  D.A. thinks she's gone. D.E.A. doesn't  know shit.
+DIVINCI	m	If she was bein' held by police,  we'd know.
+RODRIGUEZ	m	Unless she said somethin'.
+DIVINCI	m	If she said something we wouldn't be  sittin' here. I think it's that lyin' piece of  shit.
+DIVINCI	m	Don't ever lie to me again.
+DUNCAN	m	First trial, huh.
+WILLIAM	m	Yes.
+DUNCAN	m	I got one piece of advise. When you  break for lunch, don't get the  pastrami.
+GUARD	m	Time to go.
+THE BAILIFF'S VOICE	m	Hear ye, hear ye. All rise, face our  flag and recognize the principles  for which it stands.
+BAILIFF'S VOICE	m	The Criminal Court, Department G is  now in session. The Honorable Harold  W. Pine presiding. Please be seated and come to order.
+BAILIFF'S VOICE	m	The People versus William McCall in  case number 95-24705.
+HELEN	f	-- when he pulled this gun and fired  at the driver of the car. Killing  him instantly. Let the record show  that this is the weapon used in the  crime, a Smith and Wesson forty-four  caliber handgun.
+RICHARD STEIN	m	All these goddamn guns are startin'  to look the same to me.
+HELEN	f	And when you arrested the defendant,  did he deny that he had killed Agent  Hudd.
+DIVINCI	m	No.
+HELEN	f	Can you describe the defendant's  condition at the time of his arrest.
+DIVINCI	m	He was drunk. We could smell the  booze on him. But we drew blood. He  didn't object.
+HELEN	f	We have the blood test report that  shows -- -- that he had four times the legal  limit to drive. The people would  like to enter this into evidence.
+ELLIOT	m	-- and you arrested the defendant  four days after the killing. What  lead you to suspect Mr. McCall?
+RODRIGUEZ	m	You ask questions. Work the  neighborhood. Find out who was on  the street that night.
+ELLIOT	m	Yes, but specifically Mr. McCall? He  had no previous criminal record.
+RODRIGUEZ	m	We found someone who'd seen him in  the area. So we picked him up for  questioning. We didn't expect it to  be him. But if someone saw him in  the area that night we would want to  talk to him. If he wasn't the killer,  he might've seen the killer. Just  routine really.
+ELLIOT	m	Where did you find the defendant?
+RODRIGUEZ	m	On the street. Corner of Third and  Madison.
+ELLIOT	m	What was he doing?
+RODRIGUEZ	m	He was passed out.
+ELLIOT	m	But you knew it was the man you were  looking for.
+RODRIGUEZ	m	Yes.
+ELLIOT	m	Based on what?
+RODRIGUEZ	m	His description.
+ELLIOT	m	Who provided you with the description?
+RODRIGUEZ	m	Cynthia something, I think.
+ELLIOT	m	I believe her name is Cynthia Webb.  According to the statement filed the  night she picked him out of the line- up. The name familiar?
+RODRIGUEZ	m	Yes... that's her.
+ELLIOT	m	Where did you find Ms Webb?
+RODRIGUEZ	m	On the street. Same area.
+ELLIOT	m	And she agreed to pick the defendant  out of a line up.
+RODRIGUEZ	m	Yes.
+ELLIOT	m	Where you aware that Ms Webb  disappeared after she was served  with a subpoena?
+RODRIGUEZ	m	Yes, my partner and I tried to contact  her about the case and were  unsuccessful.
+ELLIOT	m	Thank you, Detective, that's all the  questions I have.
+DIVINCI	m	To justice in all its forms.
+RODRIGUEZ	m	We're not home free yet.
+DIVINCI	m	Without Ms Webb, there's no place  they can go. We still got the  confession, the gun, the ballistics...  And I don't give a shit about all  this African doctor crap... the man  is a drunk and he's been a drunk for  seven goddamn years. So lets have a  drink for drunks.
+DIVINCI	m	That's the thing about life. You  control it or it controls you. Most  people don't understand that. They  try'n blame their fuck-ups on  something or somebody else. But it's  not like that. I don't wanna hear  why your life's a mess. It's a mess  cause you're a mess. That simple.  They're waitin' to live happily ever  after. But after what? After all the  shit happens? Well, I got a clue for  everybody, the shit never stops  happening. So you deal with it or  you get buried in it. I'm not talkin'  about you, you know what I'm sayin'  here.
+RODRIGUEZ	m	Yeah.
+DIVINCI	m	Life don't work in mysterious ways.  There ain't no mystery to it. You  just work it. And you don't take it  too serious. You can't take it too  serious otherwise you get fragile.  And you can't be fragile and have  any fuckin' fun.
+RODRIGUEZ	m	You think I'm fragile?
+DIVINCI	m	That's the first sign of trouble,  when you start askin' other people.
+RODRIGUEZ	m	...I just wish I knew where the hell  she was.
+RICHARD STEIN	m	-- so I think we'll have to rely on  the confession for his description  of what happened. He'll never take  the stand, even if --
+RICHARD STEIN	m	D.A.'s office... What?... When?...  Where will --
+RICHARD STEIN	m	They found Cynthia Webb.
+HELEN	f	Where?
+RICHARD STEIN	m	I don't know.
+HELEN	f	When?
+RICHARD STEIN	m	I don't know.
+HELEN	f	Well who the hell was that?
+RICHARD STEIN	m	I don't know. They hung up.
+HELEN	f	What the fuck is going on?!
+HELEN	f	Your honor, the people call Ms.  Cynthia Webb to the stand.
+BAILIFF	?	Raise your right hand.
+BAILIFF	?	You swear to tell the truth, the  whole truth and nothing but the truth  so help you God.
+CYNTHIA	f	Sure.
+BAILIFF	?	You may be seated.
+WILLIAM	m	I know her.
+ELLIOT	m	She's the woman who identified you.
+WILLIAM	m	No. I mean I know her.
+ARTHUR	m	...How?
+WILLIAM	m	I'm not sure... I think I lived near  her.
+HELEN	f	Please state your name for the court.
+CYNTHIA	f	Cynthia Webb.
+HELEN	f	Do you see the man that you identified  in a police line-up in this room.
+CYNTHIA	f	Yes.
+HELEN	f	Is it the defendant, Mr. McCall?
+CYNTHIA	f	Yes.
+HELEN	f	Please describe what you saw the  night of September 14th.
+CYNTHIA	f	I was comin' out of an all night  minimart --
+HELEN	f	And you're positive the man you saw  with the gun is the defendant.
+CYNTHIA	f	Yeah.
+HELEN	f	No further questions.
+ARTHUR	m	Miss Webb... is it Miss?
+CYNTHIA	f	Yes.
+ARTHUR	m	Miss Webb, had you ever seen the  defendant before that night, the  night you described to us?
+CYNTHIA	f	No.
+ARTHUR	m	Do you know what perjury is?
+CYNTHIA	f	When you lie.
+ARTHUR	m	When you lie under oath in a court  of law. Do you know what the penalty  for that is?
+CYNTHIA	f	You go to jail.
+ARTHUR	m	Yes... Cynthia, have you ever seen  the defendant before that night?
+HELEN	f	Objection. The witness has already  answered that question.
+JUDGE HAROLD PINE	m	Sustained.
+ARTHUR	m	I just want to give the witness the  opportunity to remember if she could  have seen Mr. McCall anyplace else  before the night in question.
+JUDGE HAROLD PINE	m	Ms. Webb, do you understand the  consequences of perjury?
+CYNTHIA	f	Yes.
+JUDGE HAROLD PINE	m	Let's get on with it then.
+ARTHUR	m	What did you buy the night you went  into the mini-mart?
+CYNTHIA	f	What did I buy?
+ARTHUR	m	You remembered seeing Mr. McCall  that night and hearing the gunshot  and a car crash. I just wondered if  you remembered what you bought in  the mini-mart.
+CYNTHIA	f	...shampoo I think.
+ARTHUR	m	That's all?
+CYNTHIA	f	Yes.
+ARTHUR	m	Where do you live?
+CYNTHIA	f	4356 17th Street. Number 37.
+ARTHUR	m	Is that close to where this mini- mart is?
+CYNTHIA	f	Close? Sort of.
+ARTHUR	m	How far would you say?
+CYNTHIA	f	I don't really know.
+ARTHUR	m	Within walking distance?
+CYNTHIA	f	No... I don't think so.
+ARTHUR	m	Did you walk there that night or  drive?
+CYNTHIA	f	I ahh... drove.
+ARTHUR	m	You drove. But when you left the  mini-mart you stated that you walked  down the street.
+CYNTHIA	f	Yeah.
+ARTHUR	m	How far?
+CYNTHIA	f	...to the corner.
+HELEN	f	Objection. Your honor, I don't see a  point to this line of questioning.
+JUDGE HAROLD PINE	m	Is there a point?
+ARTHUR	m	Yes, your honor. Since this is the  only witness, I'm trying to establish  what the scene was like that night.
+JUDGE HAROLD PINE	m	Try to get there as quickly as  possible.
+ARTHUR	m	And how far away from the corner was  the Mini-mart? For example was it in  the middle of the block, close to  the corner, where?
+CYNTHIA	f	In the middle I think.
+ARTHUR	m	So you walked all the way to the  corner. I assume then you were walking  back to your car, yes?
+CYNTHIA	f	...yeah.
+ARTHUR	m	Was there a reason you parked so far  away?
+CYNTHIA	f	Um... there were lots of cars parked  on the street.
+ARTHUR	m	Was there anyone else on the street  besides you?
+CYNTHIA	f	No.
+ARTHUR	m	Lots of cars, but no people. Any  traffic?
+CYNTHIA	f	I don't remember.
+ARTHUR	m	So you were the only person to see  Joe on the street that night?
+CYNTHIA	f	I didn't see anybody else.
+ARTHUR	m	So you heard a gunshot, a car crash  and a man running with a gun in his  hand.
+CYNTHIA	f	Yes.
+ARTHUR	m	What did you do then? Did you call  the police, 911?
+CYNTHIA	f	I went home.
+ARTHUR	m	You went home. Straight home?
+CYNTHIA	f	Yes.
+ARTHUR	m	And you're sure it was Joe you saw  that night?
+CYNTHIA	f	Yes.
+ARTHUR	m	When you went home.
+CYNTHIA	f	Yes.
+ARTHUR	m	When you went home you saw Joe?
+CYNTHIA	f	No.
+HELEN	f	Objection. Defense is trying to  confuse the witness.
+ARTHUR	m	I'm not trying to confuse the witness,  it's the witness that's trying to  confuse the court. I have witnesses  who will refute her testimony.  Witnesses who were on that corner  the night of the shooting, who never  saw Ms. Webb, who never heard the  gunshot, who never saw Joe run past.  Ms Webb saw Joe outside her apartment  building that night because he lived  in the alley next to it. Isn't that  right, Ms Webb?
+HELEN	f	Objection!
+ARTHUR	m	When I referred to him as Joe, you  knew who I was talking about, didn't  you. This case is the People versus  Mr. William McCall. Not Joe. Joe has  never been mentioned in this trial.  How did you know who I was talking  about, Ms. Webb?
+ARTHUR	m	Ms. Webb, how did you know that Joe  was the defendant?
+CYNTHIA	f	He lived in the alley next to my  apartment building.
+HELEN	f	Oh shit.
+ARTHUR	m	Why did you lie to this court?
+CYNTHIA	f	I don't know.
+ARTHUR	m	Are you afraid of somebody?
+CYNTHIA	f	I don't know.
+ARTHUR	m	Are you protecting somebody?
+CYNTHIA	f	I don't know.
+JUDGE HAROLD PINE	m	Answer the questions, Ms. Webb or  I'll be forced to cite you for  contempt.
+RODRIGUEZ	m	She didn't talk.
+DIVINCI	m	Don't hold your breath.
+RODRIGUEZ	m	You think she'll talk.
+DIVINCI	m	I know she'll talk.
+RODRIGUEZ	m	We'll make it look gang related.
+DIVINCI	m	Problem is we're gonna need another  gun.
+RODRIGUEZ	m	The problem?! Have you forgotten?  She's in fucking jail. That's the  goddamn problem.
+DIVINCI	m	Since when is being in jail a guaranty  of a long life? You just get a fuckin'  gun.
+MANNY	m	Oh shit. I didn't do anything!
+DIVINCI	m	Everything's fine, Manny. I just  came to apologize. We need some privacy...
+DIVINCI	m	Just one more favor. I want you to  bail somebody out of jail.
+MANNY	m	You're kiddin'.
+DIVINCI	m	Bail's twenty-five thousand.
+DIVINCI	m	I want her out tonight. And don't  tell her who. It's a surprise.
+MANNY	m	And how'm I payin' for this? They  don't take American Express.
+DIVINCI	m	I know you know how to exchange that.  It's worth a lot more than twenty- five grand. You can keep the change. I want her back in two hours... Or  I'll nail you for possession.
+MANNY	m	How'd you get to be such a prick?
+DIVINCI	m	DNA.
+MANNY	m	What a piece of shit.
+DUNCAN	m	You don't have to say nothin', but...  you really a doctor?
+WILLIAM	m	...I was... a surgeon.
+DUNCAN	m	No shit, no shit, really. A surgeon.  I know I'm nobody to judge, but you  musta been a smart guy. What the  hell's a smart guy like you doin' in  here?
+WILLIAM	m	...I had an affair with another  woman... a nurse at the hospital I  worked at. It was nothing... I can't  even remember much about her... Except  my wife found out. We had a fight.  She left the house, took the kids...  She was hysterical. I should've done  something... gone after them, I don't  know... they were killed in a car  accident about a mile from the  house... I've never told anybody  that... about why she left.
+DUNCAN	m	Hey, doc, you can trust me. It won't  go no farther.
+DIVINCI	m	You get the gun?
+RODRIGUEZ	m	I got it.
+DIVINCI	m	Everything okay?
+RODRIGUEZ	m	Are you kidding? We're going to kill  a goddamn witness who's in fucking  jail because we killed an undercover  DEA agent. I'm sorry, but this kinda  shit troubles me a little.
+DIVINCI	m	Take off the dress and get back in  the game. We gotta do what we gotta  do.
+RODRIGUEZ	m	Yeah. I know. Let's just get it over  with.
+CYNTHIA	f	I don't understand. Why can't you  tell me who put up the bond?
+MANNY	m	Look, a guy comes in, says bail her  out, gives me the money, I do it.  That's how I make my living, I bail  fuckin' people outa jail. You wait  with me.
+CYNTHIA	f	Was it a cop?
+MANNY	m	Yeah, right. Cops bail people outa  jail all the time. Doesn't there  seem to be a dichotomy there for  you?
+CYNTHIA	f	I don't like this.
+MANNY	m	You wanna stay in jail, that's up to  you. Or you come with me.
+CYNTHIA	f	What'd he look like?
+MANNY	m	You're a stripper right? Lotta guys  fall in love with your type. But  they don't know how to get close,  know what I mean? Somebody wants you  to owe them something. Take it or leave it.
+RODRIGUEZ	m	This is the last time, Frank. The  last time we kill somebody.
+DIVINCI	m	Yeah, it's the last time.
+RODRIGUEZ	m	This'll be eleven, Frank. Eleven is  enough.
+DIVINCI	m	I get the picture.
+RODRIGUEZ	m	It was all okay until you shot Hudd.
+DIVINCI	m	What's goin' on here? You mad at me  or something?
+RODRIGUEZ	m	It wasn't my idea to start killing  people, Frank. That's all I'm sayin'.  We're in this goddamn mess because  you started killing people.
+DIVINCI	m	Drug dealers don't qualify as people.  Never did, never will. So what the  hell's wrong with you tonight? You  suddenly worried about where all the  money went?
+RODRIGUEZ	m	I'm just sick of it, that's all.
+RODRIGUEZ	m	What're you doin'?
+DIVINCI	m	I need some fresh air.
+RODRIGUEZ	m	Frank --
+DIVINCI	m	Talk to me, okay? Just fuckin' talk  to me.
+RODRIGUEZ	m	I don't know... I owe some money. I  don't know how I'm gonna pay it...
+DIVINCI	m	You gambling again?
+RODRIGUEZ	m	Yeah, yeah... I just couldn't...  Frank... let's forget about this.  Let's just get the fuck outa here.  We got enough money, let's go. We'll  get outa the country or something.
+RODRIGUEZ	m	What the hell're you doin'?!
+DIVINCI	m	Take off your shirt.
+RODRIGUEZ	m	What're you talkin' about?
+DIVINCI	m	Just take off your shirt. If there's  nothin' to worry about, then I'll  apologize. But I'm not gonna argue.  Take off your fuckin' shirt now.
+RODRIGUEZ	m	What is this, you piece of shit?!  You don't trust me?! Is that it?!
+DIVINCI	m	...Take off your shirt.
+RODRIGUEZ	m	Fuck you, you don't trust me.
+DIVINCI	m	I'm askin' you one more time.
+RODRIGUEZ	m	You wanna shoot me? Shoot me.
+DIVINCI	m	Okay, I'm sorry. You're right. I'm  fuckin' nervous. Like you. Forget  it. This thing... shit. Let's just  get it over with.
+DIVINCI	m	I'll just feel a whole lot better  when she's dead. Then we're off the  hook.
+RODRIGUEZ	m	Right.
+DIVINCI	m	YOU FUCKIN' RAT!
+RODRIGUEZ	m	Yeah... yeah... I am, I'm a fuckin'  rat... I traded you, Frank, I fuckin'  traded you... Simms knows everything.
+RODRIGUEZ	m	Just fuckin' shoot me, get it the  fuck over with! I DESERVE IT! I
+DIVINCI	m	You're fuckin' right.
+DIVINCI	m	...Get out.
+RODRIGUEZ	m	Frank --
+DIVINCI	m	Get outa the car NOW!
+DIVINCI	m	This is why you can never -- ever --  lose your sense of fuckin' humor.
+MAN'S VOICE 	m	I guess we caught you at a bad time.
+VIC	m	But we all have problems.
+VIC	m	Oh shit. You shot him, you fuckin'  shot him!
+AGENT SARKASIAN	m	Divinci musta figured it. I didn't  think he'd kill his own partner  though.
+SIMMS	m	He's an animal.
+AGENT HOOPER	m	Recorders busted up. But we might be  able to salvage some of the tape.
+SIMMS	m	I want him. You understand me, I  don't care what it takes. I want  that sonuvabitch!
+MANNY	m	Shit! Who the fuck're you?!
+AGENT SARKASIAN	m	Ms. Webb. We'd like you to come with  us.
+CYNTHIA	f	This was the big secret? Shit. You're  an asshole.
+SIMMS	m	Who set it up?
+CYNTHIA	f	I don't know.
+AGENT HOOPER	m	It was Divinci wasn't it?
+CYNTHIA	f	I don't know.
+SIMMS	m	Which one pulled the trigger? Divinci  or Rodriguez?
+CYNTHIA	f	I don't know.
+SIMMS	m	Detective Rodriguez is dead. He was  shot in the head last night.
+SIMMS	m	Rodriguez was wearing a recorder.  Divinci found it. You can do addition,  can't you.
+CYNTHIA	f	You're full of shit.
+AGENT SARKASIAN	m	Just tell us what you know.
+CYNTHIA	f	Where's Divinci?
+SIMMS	m	We don't know. But we're gonna find  him.
+CYNTHIA	f	You're gonna find him? Right... I don't know a fuckin' thing.
+SIMMS	m	Get a copy of the tape to Bailor.  But make sure it doesn't come from  us.
+GUARD	m	Your attorney's here.
+CYNTHIA	f	What attorney?
+ARTHUR	m	Hi, Cynthia. Please sit down.
+CYNTHIA	f	I got nothin' to say.
+ARTHUR	m	So I'm told.
+DIVINCI'S VOICE	m	...Take off your shirt...
+RODRIGUEZ'S VOICE	m	Fuck you, you don't trust me.
+DIVINCI'S VOICE	m	I'm askin' you one more time.
+RODRIGUEZ'S VOICE	m	You wanna shoot me? Shoot me.
+DIVINCI'S VOICE	m	Okay, I'm sorry. You're right. I'm  fuckin' nervous. Like you. Forget  it. This thing... shit. Let's just  get it over with. I'll just feel a  whole lot better when she's dead.  Then we're off the hook.
+RODRIGUEZ'S VOICE	m	Right.
+DIVINCI'S VOICE	m	YOU FUCKIN' RAT!
+RODRIGUEZ'S VOICE	m	Yeah... yeah... I am, I'm a fuckin'  rat... I traded you, Frank, I fuckin'  traded you... Simms knows everything.  Just fuckin' shoot me, get it the  fuck over with! I DESERVE IT! I
+DIVINCI'S VOICE	m	You're fuckin' right.
+ARTHUR	m	I think you know my client is  innocent. That's all I care about,  my client. But I understand why you're  scared. You're already facing perjury  charges. My guess is, your involvement  is deeper than that. But I don't  really care, I'm not after you... I  get nothing if you go to jail. But I  think if I help you, I can help my  client.
+CYNTHIA	f	...how?
+ARTHUR	m	William -- Joe -- didn't do it, did  he?
+ARTHUR	m	Why don't you sit down.
+SIMMS	m	No goddamn way! I'm not going to  grant that whore immunity. She lied  on the stand, she's protecting  somebody. And she's involved. I want  them all.
+ARTHUR	m	Before I leave, let me remind you  that you have shit for a case. If  you really care about seeing justice  for your dead agent, don't blow this  deal. Immunity for her testimony is  a small price for a bad cop. It's  the only way she's going to talk.
+ARTHUR	m	And William McCall walks, right now,  all charges dropped.
+SIMMS	m	If what she says is any good, I'll  deal. If it isn't, then nobody goes  anywhere.
+REPORTERS	m	How does it feel to be a free man  again?
+REPORTERS	m	Do you remember everything that  happened to you? What are your plans?
+WILLIAM	m	I just want to go back to work.
+REPORTERS	m	As a surgeon?
+WILLIAM	m	Yes.
+REPORTERS	m	What about the signed confession,  did the police coerce you into signing  it?
+ARTHUR	m	I'm sorry, no more questions.
+NATHAN	m	Good to have you back, Will.
+WILLIAM	m	...I'd like to make one stop.
+NATHAN	m	I know.
+ELLIOT	m	-- you know, it just didn't make  sense, a man wanting to be punished  for a crime? How many times does  that happen? Once in a lifetime, I  can tell you.
+ARTHUR	m	-- to tell the truth, I had no other  witnesses to refute her testimony.  But she didn't know that. All we  knew was that she was reluctant to  testify. You look for signs.
+A MAN	m	My God, we thought you were dead,  you know. It's just incredible that  you're here.
+A WOMAN	f	Life moves in such strange ways. Oh,  I just think what might've happened  to you had you not been arrested for  killing that poor policeman. You  still might be on the street.
+ANOTHER WOMAN	f	Joe, you look wonderful. After what  you've been through... I just can't  imagine.
+ANOTHER MAN 	m	When you're ready to come back to  work, let me know. I've already spoken  to the board, they're ready to re- certify you anytime. I can put you  in the emergency sector until you  get warmed up. We all want you back.  We can't afford to waste someone of  your talent.
+WILLIAM	m	...I'm ready.
+MAN'S VOICE 	m	I guess you had no choice.
+DIVINCI	m	You had to do the right thing.
+CYNTHIA	f	What d'you want?
+DIVINCI	m	What do I want?
+DIVINCI	m	Why're you asking me that? You gonna  grant me three wishes? I don't know  where to start. Let's see... money  would be nice... love would be  better... but a little loyalty...  you can never get enough of that. ...But we'll start with... money.
+CYNTHIA	f	This is all I've got.
+CYNTHIA	f	They'll catch you.
+DIVINCI	m	I don't think so.
+CYNTHIA	f	You wanna bet?
+DIVINCI	m	They don't have a clue, baby. And  you wanna know why? Because I am  following my heart.
+DIVINCI	m	And they don't know where that is.
+CYNTHIA	f	So tell me about your plans. I think  I'd like to hear 'em now.
+DIVINCI	m	Loyalty is what it all comes down  to. Nothing holds together when it's  gone. And once it's gone, you don't  ever get it back... You shouldn't've  told 'em.
+CYNTHIA	f	I shouldn't've done a lotta things  in my life. But that's not one of  'em.
+DIVINCI	m	Let me tell you something... the  only difference between a liar and a  witness is that just one of 'em knows  what he's doing.
+DIVINCI'S VOICE	m	Shut the door and lock it.
+MANNY	m	Jesus Christ!
+MANNY	m	You scared the shit outa me.
+DIVINCI	m	Lock the door.
+DIVINCI	m	One more favor, Manny.
+MANNY	m	Since when did I become such a good  guy?
+DIVINCI	m	I'm takin' some time off. I want a  car, here tonight, and a driver. You  can do that for your old friend,  right?
+MANNY	m	Yeah, I can do that. But you are a  hot fuckin' potato. And drivers that  don't talk, don't come cheap.
+DIVINCI	m	I got the money. Just put it together.
+VOICES	m	-- come on, hang in there, hold on.
+OTHER SURGEON	m	Just like riding a bike.
+MANNY	m	Leather upholstery, moon roof, CD.  What more could you ask for?
+DIVINCI	m	Better not be a set up.
+MANNY	m	Want me to hold your hand?
+DIVINCI	m	Just walk me to the door.
+DIVINCI	m	I think I'll let you live.
+MANNY	m	You are a real prince. Now how about  my money?
+DIVINCI	m	You never saw me.
+MANNY	m	Don't I wish that were true.
+MANNY	m	Have a nice trip.
+DIVINCI	m	Head south. Get on the interstate.  Don't break the speed limit.
+DIVINCI	m	You know, the one thing about life...  you can never lose your sense of  humor. Without it, you got nothin'.
+CLYDE	m	Fuckin' A.
+MAN'S VOICE	m	-- run the cardioplegia.
+WILLIAM	m	She's fibrilating. Go on bypass.
+SURGEON SINCLAIR	m	Forceps. Just like old times.
+WILLIAM	m	I wouldn't have done this without  you... I owe you.
+SURGEON SINCLAIR	m	Lucky to have a donor. Never would've  survived the night. Have a suture  ready.
+NURSE	f	I heard it was a cop's heart.
+NURSE	f	He was shot in the head a couple  hours ago.
+NURSE	f	They think it was gang related.
+

@@ -1,0 +1,758 @@
+PRICE	m	'Morning, Jimmy, think you could  squeeze me in?
+JIMMY	m	Where is you would care to go at  once, Mr. Price?
+PRICE	m	Bang-bang.
+JIMMY	m	Twenty dollar.
+PRICE	m	You're a thief, Jimmy.
+JIMMY	m	Booteeful picture, huh, snap-snap?
+PRICE	m	I don't do skies.
+PRICE	m	Hi, guys.
+OATES	m	G'damn, Price, you tuna sucking piece  of raw meat -- whatchyou goin' to  Zambeze for?
+PRICE	m	Thought I'd get some great shots of  your head gettin' blown to  smithereens.
+OATES	m	Smithereens?! Be a great fuckin'  picture, eh?
+PRICE	m	Be a prize winner.
+OATES	m	Ya think so? Trade ya some greenies for a joint. I gotta have a joint.
+PRICE	m	I'm on the wagon, man, sorry.
+OATES	m	Ahh. Dope-wise, this place sucks. Lotta fuckin' coons around here, eh?
+PRICE	m	I thought you were fighting for the  Government?
+OATES	m	I am. This is the Government.
+PRICE	m	These are the Rebels.
+OATES	m	Fuck they are. This is a Government  convoy to Calunda.
+PRICE	m	This is the Abou-Deian Revolutionary  Front.
+OATES	m	You're shitting me.
+OATES	m	These guys be pissed if they knew,  eh? This is the dumbest motherfucker I  ever signed up for. Don't pay shit  either. Nicaragua. That's the spot. Cheap  shrimp, lotta rays -- real thin in  the spook department too, dig?
+OATES	m	Well hell... I wonder where the  fuckin' Guvmint is?
+PRICE	m	Hold it! Hold it!
+OATES	m	Well, I guess we know where the  Guvmint is.
+PRICE	m	You can walk to work from here.
+OATES	m	Convenient, ain't it?
+OATES	m	My brother just got married.
+PRICE	m	I don't know your brother.
+PRICE	m	What's this?
+OATES	m	Great shit, eh?
+OATES	m	U.S. Gummint offers this house to  any Cuban pilot flying Migs for the  Rebels who chooses to defect to  America with a Russian jet. We know  they ain't gonna run off with no  planes -- but the Rebs don't --  They're scared. They start thinking  about that swimming pool. Damn near  smell that chlorine. Starts workin'  on 'em, and pretty soon they don't  let the Cubies near a Mig. Use their  own spook pilots and destroy their  own air force in a week. Guaran-fuckin- teed.
+PRICE	m	C.I.A.?
+OATES	m	Smartest guys in the world. Hey, you gotta scoop here, eh? You'll  be famous.
+PRICE	m	Maybe.
+OATES	m	I gotta run... have a good one.
+PRICE	m	I love Africa.
+CLAIRE	f	"...and so this strange war that  features two provincial governments,  three rival liberation fronts, and  at least twenty-five tribal  associations, grinds into its seventh  year..."
+CLAIRE	f	"...The Battle for the Airfield at  Abou Deia is just another chapter in  this endless story. From Ndjamena,  Chad, this is Claire Stryder." No -- you didn't hear any music --  must be the connection. Okay? So  long.
+CLAIRE	f	Alex, don't play that God damn thing  when I'm filing. We're late.
+ALEX	m	It's my party -- we'll be late. You  called it a "strange war" and an  "endless story." If you filed that  story for me, I'd say you were  editorialishing.
+CLAIRE	f	I like to editorialize. You drunk?
+ALEX	m	Drunk? Only with the memories of  making love with you on the plains  of Fianga as the first Army of  Liberation marched in and opened  fire.
+CLAIRE	f	And freed the Proletariat.
+ALEX	m	Right.
+CLAIRE	f	I'm going to the party without you.
+ALEX	m	Christ, I don't want to go to this  stupid party. I'm bad at false  modesty.
+CLAIRE	f	You're great at it.
+CLAIRE	f	Alex, you're going to make a great  anchorman in New York and undoubtedly  I could be a Pulitzer Prize winning  hostess -- but I'm not going with  you.
+ALEX	m	You can work out of the East Coast.  We'll get a place on Long Island and  burn our suitcases.
+CLAIRE	f	I still like suitcases.
+ALEX	m	Every Saturday night we'll have a  party... invite all our friends, sit  out on the veranda and interview  each other.
+CLAIRE	f	I've done all that.
+ALEX	m	I haven't. Well, God dammit, I'm getting tired  of memorizing who's the president of  the... Republic of Maldives.
+CLAIRE	f	Mamoon Abdul Gayoom.
+ALEX	m	Yeah, he succeeded Mamoon Abdul  Gayeem.
+ALEX	m	And I'm tired of Third World  elevators.
+ALEX	m	Don't leave me.
+CLAIRE	f	I already have.
+ALEX	m	Fuck Abou Deia and New York. I'm  going to Nicaragua with you.
+CLAIRE	f	No.
+ALEX	m	I've heard it's a neat little war  with a nice hotel.
+PRICE	m	Alex, get up here!
+PRICE	m	To the man who gave me my first job,  and fired me from my first job...  and gave me my second job...
+VOICE FROM CROWD	m	And fired you from your second job...
+PRICE	m	Just a few words, Alex.
+VOICES FROM CROWD	m	Impossible! Can't be done! etc.
+ALEX	m	You may be asking yourself what  exactly are you doing here in this  "strange war, just another chapter  in an endless story... that grinds  into its seventh year..."
+PRICE	m	Oh. I didn't know you were here.
+CLAIRE	f	Sure you did. You were taking pictures  of me all over the room.
+PRICE	m	Well... yeah... you looked great.  Why aren't you partying?
+CLAIRE	f	In a minute.
+PRICE	m	I printed that up for Alex.
+CLAIRE	f	It wouldn't be the greatest thing  you could give him right now... We just split up.
+PRICE	m	Jesus, I'm sorry. Who left who this  time?
+CLAIRE	f	I'm the villain... I thought it could  be a little cleaner this time -- me  in Central America, him in New York.
+PRICE	m	That's pretty clean.
+CLAIRE	f	But he's decided to go to Nicaragua  too.
+PRICE	m	To cover you or the war?
+CLAIRE	f	To cover everything.
+CLAIRE	f	No.
+CLAIRE	f	For godsakes, Russell, listen.
+PRICE	m	I don't want to wait for you again.  We've been circling each other since  the Montreal Olympics.
+CLAIRE	f	You're a genius of bad timing. I'm going back to the party.
+CLAIRE	f	This is a great shot.
+PRICE	m	Thanks.
+CLAIRE	f	I've heard the light in Nicaragua's  even better.
+PRICE	m	Wait here.
+TEENAGE BOYS	m	Rafael, Rafael, Rafael... libre o  muerte... Rafael...
+ALEX	m	Welcome to Managua.
+PRICE	m	You have something to do with this?
+ALEX	m	Well... I thought of calling your  photographs "Pictures from a Lost  War"... I'm great at captions -- the  New York editors loved it since none  of them knew where the hell Chad was  anyway -- it legitimized their  ignorance, got you a cover, me a  feature, and packaged a class struggle  in two words. Nifty, eh?
+PRICE	m	Nifty.
+PRICE	m	I'm Russell Price.
+ALEX	m	I'm sorry... this is Isela Cruz. She  works for the hotel and helps out as  a translator.
+ISELA	f	My pleasure.
+PRICE	m	Looks like you guys have a lot of  bang-bang down here, eh? Little  misunderstanding between the poets  and the government?
+ISELA	f	"Misunderstanding?!" "Down here"  it's called a war. It started in  nineteen thirty. Before you were  born.
+ALEX	m	My Spanish is a little out of shape --  what'd he say?
+ISELA	f	He said he considers it an honor to  be able to photograph our war.
+ALEX	m	Russell's got a way with words.
+ISELA	f	I can tell.
+PRICE	m	You're a helluva translator.
+ISELA	f	I know. I'm much in demand around  here. Will you excuse me? If you  have any questions, just ask.
+PRICE	m	Who is Rafael?
+ALEX	m	It depends who you ask.
+ISELA	f	Rafael? Comandante Rafael. He is  either a Marxist dupe of Russia and  Cuba... ...or the most popular leader of a  most popular democratic revolution. Take your pick.
+PRICE	m	I don't really give a damn... but  the guy's got a great face.
+PRICE	m	How would he like to be photographed?
+ISELA	f	You'd never find him.
+PRICE	m	Wanta lay odds?
+ISELA	f	You would lose. You must excuse me.
+PRICE	m	Just one more thing -- is Rafael  owned by the C.I.A. or the K.G.B.?  I'll figure out the rest.
+ISELA	f	Mr. Price... the world is not divided  into East and West anymore. It is  divided into North and South. By the  time you people figure that out --  it will be too late. Congratulations on your cover.
+PRICE	m	So far this war's got it all over  Africa.
+ALEX	m	You're gonna have a ball.
+ALEX	m	Hands off. I need an interpreter  more than you do right now.
+PRICE	m	You still hanging in there with  Claire?
+ALEX	m	I'm hanging in there like an interim  post-war government waiting for the  palace to be overrun... by younger  men.
+PRICE	m	Younger men.
+CLAIRE	f	Hi, Alex... Russell! When did you  get in?
+PRICE	m	Just now.
+CLAIRE	f	You're not going to believe this --  I just beat you guys and everybody  else here to a story... ...exclusive... eat your heart out.
+PRICE	m	What'd ya get?
+CLAIRE	f	I've just been promised a private  interview with Tacho.
+ALEX	m	Congratulations. The bastard won't  talk to me.
+PRICE	m	Who's Tacho?
+CLAIRE	f	That's President Somoza's nickname.
+PRICE	m	I don't know who the players are  yet.
+ALEX	m	Want me to order you a hot dog and a  program?
+CLAIRE	f	Fellas! No fighting after six at  night, all right? Curfew. C'mon, we've all got something to  celebrate.
+BOY PHOTOGRAPHER	m	Sometimes it doesn't work.
+PRICE	m	Let me look.
+DAISY	f	Ladeez and Gen'mun, hep me get Aaleex  ov' here...
+ALEX	m	There's not many piano bars left  where I'm still welcome.
+CLAIRE	f	Go ahead.
+ALEX	m	If she can't sing in the key of C  I'm in trouble.
+PRICE	m	Well...
+CLAIRE	f	"Well"... you finished your assignment  in Chad?
+PRICE	m	Got Africa all wrapped up and pouched  to my editor.
+CLAIRE	f	You're going to love this war,  Russell... there's good guys, bad  guys, cheap shrimp... And Alex is still singing in the  background. I missed you.
+PRICE	m	We gotta get alone somewhere to talk.
+ALEX	m	Sometimes I wonder why I spend these  lonely nights, Dreaming of a song...
+CLAIRE	f	Jesus... he's doing it on purpose.
+PRICE	m	Alex is one of the world's leading  experts on military strategy.
+PRICE	m	Well, hell, I just got off the boat...  gimme the scoop on Nicaragua...
+CLAIRE	f	Well... about sixty years ago the  U.S. Marines invaded to protect  American business interests and put  down a peasant revolt led by a little  man who wore a giant cowboy hat -- his name was Augusto Sandino... In  nineteen thirty-four he was murdered  at a peace conference, and the Somoza  family has ruled ever since...
+PRICE	m	No, no, no... I don't mean the stuff  about the peasants -- I mean the  real stuff.
+CLAIRE	f	The "real" stuff?... you mean a  history of class struggle in agrarian  societies?
+PRICE	m	No, c'mon!
+CLAIRE	f	Oh. Okay... well... Just a couple things. One -- there's only two kinds of  beer available -- Tona and Victoria.  Victoria's better. And two -- if you see Miss Panama  hanging around the hotel bar -- hot,  hot, hot -- but don't touch. She  belongs to Tacho, and if anybody  gets caught with her then El  Presidente has promised to personally  cut off the guy's...
+PRICE	m	Pecker?
+CLAIRE	f	Yeah... and throw it into Lake  Managua.
+PRICE	m	Jesus.
+CLAIRE	f	And the lake's already polluted.
+PRICE	m	Is there anybody here we don't know?
+CLAIRE	f	No.
+REGIS	m	G'damn, Price... kudos on the African  snaps. Jeez, Claire, I haven't seen you  since...
+CLAIRE	f	Three Mile Island.
+REGIS	m	Yeah... shit... Holiday Inn, right?
+CLAIRE	f	Jesus... Louis Jordan walks in, and  I'm sitting with the Everly Brothers.
+REGIS	m	Before you fall in love -- that's  Marcel Jazy... friend of wine, women,  and Somoza. They say he's a  businessman...
+CLAIRE	f	He's a businessman in search of a  business... he doesn't try very hard  to cover up his connections to the
+CLAIRE	f	But look at his moves -- can the  C.I.A. light cigarettes like that?
+PRICE	m	What's wrong with the Everly Brothers?
+WAITER	m	Please stay at your table, and you  won't be hurt.
+GUERRILLA LEADER	m	We do not want to waste any ammunition  on a head as empty as yours -- but  we will.
+BUSINESSMAN	m	What is this?!
+GUERRILLA LEADER	m	Shut up! Get up!
+GUERRILLA LEADER	m	You are coming with us -- you will  not be hurt -- we will trade you for  the release of some Nicaraguans who  care about Nicaragua.
+TIME STRINGER	m	...it's Charlie, from New York --  says that a terrorist bombing of a  Central American restaurant isn't  big enough to hold for the world  section...
+ALEX	m	Tell him we have pictures.
+YOUNG JOURNALIST	m	He knows.
+ALEX	m	Tell him there were pieces of body  in the piano, and somebody was  singing, "I Left My Heart in San  Francisco." What's he got better than that?
+TIME STRINGER	m	He's got the Pope visiting Egypt.
+ALEX	m	Forget the Pope, Charlie. Every week  you got the Pope somewhere. This is  a very big story down here because  it's the first sign of fighting in  Managua. Yeah, well get a map and look up  Nicaragua -- ya drive to New Orleans  and turn left.
+ALEX	m	Like hell I'm editorializing, the  whole thing happened in a roomful of  C.I.A. and press. What do you want?! How do I know they were C.I.A.? They  wore name tags, what do you think?  We're backing a Fascist again -- I  know that ain't news, but see if you  can find an angle!
+HUB	m	Hey! There's fascists and then there's  fascists, right? Be careful how you  throw words like that around.
+ALEX	m	We don't have any pictures of Rafael  because nobody knows where the son  of a bitch is, and anybody crazy  enough to go after him...
+ALEX	m	...is liable to get his nuts shot  off.
+ALEX	m	Yeah, well g'bye... Who the fuck are you?
+HUB	m	Hub Kittle. I'm with Lewitsky and  Knupp -- New York. We have a client  down here.
+ALEX	m	Who?
+HUB	m	President Somoza.
+HUB	m	I know, I know... But there's an untold story here. I  mean, the man has a point of view  too, right?
+HUB	m	We got a national anthem contest  going on right now, and you guys are  ignoring it. Lotta human interest.
+CLAIRE	f	I want you to get me copies of the  Government inventory lists of all  captured Guerrilla weapons. I want  to know if the guns are Israeli,  Belgian, Russian, Cuban...
+YOUNG WOMAN	f	The Guerrillas are not supplied by  anybody from the outside.
+CLAIRE	f	Fine -- give me proof.
+OPERATOR	m	Su hija, su hija! Your daughter from  Los Angeles.
+CLAIRE	f	Hi, baby! How are you? Has Grandmother spoiled you silly by  now? She has? Good. Yes, I got your letter with the  picture of your new boyfriend. He's  very good looking... but he's a bit  old, isn't he? No? Just how old is  he?...
+PRICE	m	Cuanto?
+OLD WOMAN	f	Quince.
+PRICE	m	Veinte.
+OLD WOMAN	f	Diezysiete.
+PRICE	m	What is this? I'm a journalist!
+PRICE	m	Journalista, journalista!
+GUARD	m	Padre Puta, Padre Puta, Padre Puta... Here is a Priest for you to confess  your sins.
+PRISONER PRIEST	m	Cigarillo?
+PRICE	m	Priest? What are you doing here?
+PRISONER PRIEST	m	The government accused me of using  the church to hide Rebels and guns.
+PRICE	m	Governments are always wrong, eh?
+PRISONER PRIEST	m	This time they're right. Who are  you?
+PRICE	m	Un periodista.
+PRISONER PRIEST	m	Whose side are you on?
+PRICE	m	I don't take sides. I take pictures.
+PRISONER PRIEST	m	No sides?
+PRICE	m	No.
+PRISONER PRIEST	m	Periodista Puta, todos periodistas  son putas.
+PRISONER PRIEST	m	Go home.
+PRICE	m	Mi amigo -- mala interpretacion, eh?  Periodista, comprende? Famoso. Time  magazine.
+SOLDIER	m	Shut up!
+PRICE	m	Soy un periodista.
+SENIOR GUARD OFFICER	m	Mr. Price... you must accept our  deepest apologies for the  misunderstanding. Somebody saw you  taking photographs of terrorists  hooligans in the parade and at the  nightclub -- our young officers get  carried away... they're always looking  for traitors.
+PRICE	m	That film is half way to New York by  now.
+SENIOR GUARD OFFICER	m	I know, I know... It was all a  misunderstanding... una mala  interpretacion. Your cameras.
+SENIOR GUARD OFFICER	m	I'm sorry.
+PRICE	m	Forget it.
+SENIOR GUARD OFFICER	m	This way.
+CLAIRE	f	You throw a journalist in jail -- it  gets in the papers. You walk all  over the same press credentials you  pass out. I demand to speak to someone  in authority or I'll go to Tacho  myself... I don't understand you --  you're big and strong and handsome  but you're not so smart! You should be trying to seduce us!
+OFFICER	m	Senora...
+PRICE	m	Claire!
+CLAIRE	f	You're okay?
+PRICE	m	I'm fine -- what're you doing here?  These guys are goons.
+CLAIRE	f	They love being beaten up by a woman I've been looking for you all night --  why'd they lock you up?
+PRICE	m	I don't know. Taking pictures. The  usual. Jazy got me released.
+CLAIRE	f	Jazy?! You think there's a story  there?
+PRICE	m	Ahh... C.I.A. stories are all alike.  I wanta find Rafael.
+CLAIRE	f	You need help?
+PRICE	m	No. You?
+CLAIRE	f	No. When should we start.
+PRICE	m	I figure you probably want to do a  little research on the history of  Marcel Jazy's business connections  in the third world countries with  C.I.A. influence...
+CLAIRE	f	Oh. I assumed you'd just look him in  the eye and say "Gimme a break, for  crissakes, Marcel, are you a spy or  aren't you?"
+PRICE	m	...are you a spy or aren't you, eh?
+JAZY	m	Spy is such an odd word, Mr. Price...  nobody is a... 'spy'... anymore.
+CLAIRE	f	Russell prefers pictures to words...
+JAZY	m	You don't have to apologize... you're  journalists.
+CLAIRE	f	And you're a businessman?
+JAZY	m	A businessman? That sounds good.  Okay, I'm a businessman.
+PRICE	m	Why was I arrested, and why did you  get me released, and who are you?
+WOMAN IN SWIMSUIT	f	No agua.
+JAZY	m	No agua.
+WOMAN IN SWIMSUIT	f	Oh, Marcel! You told me there would  be water in the pool this week!
+JAZY	m	If she dove in, I assure you she  wouldn't notice.
+JAZY	m	Sweetheart, the Guerrillas knocked  out the pumping station on the road  to Masaya, and we must ration water  for the time being. Next week maybe  things will be better.
+WOMAN IN SWIMSUIT	f	Maybe I should go back to Panama.
+JAZY	m	Maybe you should.
+JAZY	m	You were arrested because the Guardia  are clowns who specialize in excess.  You were released because I told  them to release you.
+CLAIRE	f	These are not the normal duties of a  businessman.
+JAZY	m	But they are the normal duties of  a... spy, eh? You win, I'm a spy. There, are you happy? I feel better.
+JAZY	m	Now we can relax. You can turn off  your little thing.
+JAZY	m	Oh, I trust you won't say anything  to hurt me. In some ways I'm a  terrible spy. I used to be much better  at it, but now it seems everyone  knows who I am. I have too many  girlfriends. I like to be  photographed. I talk too much.
+JAZY	m	I always talk too much... but my  girlfriends like that... No matter. You know who she is?
+CLAIRE AND PRICE	f	No.
+JAZY	m	That's Miss Panama. Do you know who  that is?
+CLAIRE AND PRICE	f	Oh, yeah, yes, etc.
+JAZY	m	She's in love with me. I've got to  get some water in the pool. And once a week I have lunch with  President Somoza to discuss security  measures against the Sandinista  insurgents, but all he wants to talk  about is Miss Panama... he's worried  about her.
+CLAIRE	f	Because he thinks she's seeing another  man?
+JAZY	m	...and he assigned me to find out  who the man is.
+JAZY	m	We all know the Revolutionaries are  going to win, don't we?
+PRICE	m	There's a rumor about this picture.  Some people say you're a genius --  that you invented this scheme.
+JAZY	m	It was lots of people's idea... Have  you been to Leon?
+CLAIRE	f	We're going to Masaya... they say  the Rebels have hit the cuartel.
+PRICE	m	It's supposed to be nasty there... a  lotta people think Rafael's in the  South. I want to find out.
+JAZY	m	No, no, it's not "nasty" yet. Another  week maybe. You would love Leon. A nice cathedral  and beautiful light... et un peu de  bang-bang.
+CLAIRE	f	We're not doing a travelogue, you  understand.
+JAZY	m	Of course, of course... only I have  heard that Comandante Rafael has  recently had his unit in the area.
+PRICE	m	Rafael is near Leon?
+JAZY	m	Well... it's a rumor, what do I know?
+MISS PANAMA	f	Estoy desemperado!
+JAZY	m	She's lonely!
+CLAIRE	f	Don't let us stand in the way.
+JAZY	m	It's my job. You think I talk too much?
+CLAIRE	f	Did you dream about Miss Panama last  night?
+PRICE	m	I dreamed about you.
+CLAIRE	f	Have a good time?
+PRICE	m	Yeah... so'd you.
+CLAIRE	f	And old war injury flaring up?
+PRICE	m	Is the tape on?
+CLAIRE	f	Of course.
+PRICE	m	I was on the deck of the U.S.S. Pueblo  catching some rays when the North  Koreans attacked... took a bullet  right in the chest, but by luck I  had an extra roll of high speed  ektachrome in this pocket right  here... over the heart...
+CLAIRE	f	And the bullet ricocheted off the  film, grazed your cheek, and saved  your life.
+PRICE	m	You heard about it?! I was lucky.
+CLAIRE	f	Did anyone ever die next to you in  combat?
+PRICE	m	Yeah.
+CLAIRE	f	What did you do?
+PRICE	m	F.8 at a sixtieth.
+CLAIRE	f	That's an old joke. My question was  serious.
+PRICE	m	So was I. You ever dream about me?
+CLAIRE	f	Once.
+PRICE	m	How was I?
+CLAIRE	f	Fast.
+CLAIRE	f	I'm basically a coward, Russell, I  hope you understand that. I hope we  don't get shot.
+PRICE	m	Me too.
+CLAIRE	f	I thought it was quiet here.
+SOLDIER	m	Quiet? Are you sure you want to go  down there? Not me.
+SOLDIER	m	You must leave the car here.
+PRICE	m	You thinking of scoring a Toyota?
+CLAIRE	f	No problem -- we leave the car.
+CLAIRE	f	Now what?
+PRICE	m	C'mon. Be careful.
+CLAIRE	f	Be careful?! Where the fuck we going?  Better light?
+CLAIRE	f	...June tenth... the evacuation of  Leon... a woman carries a pig...  signs for the F.S.L.N. are  everywhere... a body...
+CLAIRE	f	Russell?!
+SANDINISTA #1	m	You must come and help us... one  more time.
+PEDRO	m	No, please...
+SANDINISTA #2	m	For Leon... for Nicaragua!
+PEDRO	m	Americans? Journalists?
+CLAIRE AND PRICE	f	Yes.
+PEDRO	m	Ah! I put my autograph on this ball.
+SANDINISTA #1	m	Pedro! There is no time to waste.
+PEDRO	m	When you get back to the United  States, I want you to give this ball  to Tippy Martinez for me. He is from  Nicaragua.
+SANDINISTA #1	m	Enrique is dead! Roberto has  disappeared! The Guardia has the  church, and we need you!
+PEDRO	m	You come, eh? Can they come with us?
+SANDINISTA #2	m	Come! Everybody come!
+PRIEST	m	No, please... it's not safe. You  must come with me.
+RED CROSS MAN	m	Hay heridas o muertes aqui? Hay  heridas o muertes aqui?
+RED CROSS MAN	m	Hay heridas o muertes aqui?
+VOICE	m	Price. You motherfucker, Price, I'm  talking to you.
+VOICE	m	Where are those bastards... are they  away?
+PRICE	m	They're away.
+OATES	m	What the fuck are you doing here?
+PRICE	m	What the fuck are you doing here?
+OATES	m	Awright, awright -- you're lookin'  good... how ya like Nicaragua?
+PRICE	m	It's beautiful.
+OATES	m	Shitload o' greasers though, eh?
+SANDINISTA #1	m	It's getting late -- come on.
+CLAIRE	f	You're okay?
+SANDINISTA #1	m	San-dee Koufax, no?
+SANDINISTA #2	m	Si, Koufax.
+SANDINISTA #3	m	Es mejor que Koufax, eh?!
+CLAIRE	f	Much better than Koufax.
+PEDRO	m	Koufax is okay... but Tippy Martinez,  he is the best... he pitches for the  Baltimore Orioles, and some day I  will be the second man from Nicaragua  to play in the major leagues...
+SANDINISTA #1	m	Tippy Martinez had a good fastball,  but Pedro has a curveball and a  screwball that are better.
+PEDRO	m	You will give my autographed baseball  to Tippy and tell him in five years  I will be pitching with him, okay?  He better watch out for me, eh?
+SANDINISTA #1	m	It's too dangerous to return to  Managua at night. You should stay at  the house of hammocks.
+CLAIRE	f	Gracias. Can they get into trouble  for keeping us?
+PEDRO	m	No, no... you are not combatants. The Baltimore team is my team...
+PRICE	m	You bastard!
+CLAIRE	f	What about him?!
+SANDINISTA #1	m	He's dead.
+SANDINISTA #1	m	I will talk to Pedro's mother. You  must go to the house of the hammocks  if you want to be safe.
+CLAIRE	f	Hello sweetheart, this is your mother.  I'm in Leon and I miss you. Don't  worry about me -- it's not dangerous  at all. I guess you can't believe  what you hear on the news. I'll put  this this tape in the mail when I  get back to Managua, but knowing  what the mail service is like, I may  be home before it arrives. I think  about you all the time and hope I  can make it back before you graduate  from Jr. High.
+CLAIRE	f	I love you and I'll finish this letter  when I get back to the hotel.
+PRICE	m	I know who shot Pedro. I knew somebody  was in the tower.
+CLAIRE	f	Why didn't you tell the guerrillas?
+PRICE	m	I don't know... then they would've  killed him I guess. I didn't want to  interfere.
+CLAIRE	f	It wasn't an easy choice.
+PRICE	m	I think I made the wrong one.
+CLAIRE	f	You didn't take any pictures when it  was over.
+PRICE	m	I didn't? I picked up a gun. Jesus. Is something happening to us?
+CLAIRE	f	Yes.
+PRICE	m	Are you asleep?
+CLAIRE	f	No.
+PRICE	m	G'morning.
+CLAIRE	f	What are you doing?
+PRICE	m	You look beautiful.
+CLAIRE	f	How long have you been doing this?
+PRICE	m	'Bout ten frames. Wait'll you see  the pictures -- you look great.
+CLAIRE	f	I'll bet I look great -- give me the  film.
+PRICE	m	After they're printed.
+CLAIRE	f	I'll develop them myself -- give it  to me or I'll start taping what you  say in your sleep.
+PRICE	m	I talk in my sleep?
+CLAIRE	f	Girl's names and F-stops. Terrible.
+PRICE	m	Call the office. I don't want to go  to work today.
+ALEX	m	How was Matagalpa?
+MINI-CAM CREW #1	m	No bang-bang, Alex... none at all.
+ALEX	m	You find anything?
+MINI-CAM CREW #2	m	Half the press corps.
+CLAIRE	f	Oh!
+ALEX	m	Oh. How was Leon?
+CLAIRE	f	Bloody.
+ALEX	m	Yeah... I'll bet... Claire...
+ALEX	m	I'm tired of Nicaragua.
+CLAIRE	f	You haven't been here very long.
+ALEX	m	Long enough, lets face it, you were  right... everybody was right.
+CLAIRE	f	About what?
+ALEX	m	My cheekbones. What do you think of  'em?
+CLAIRE	f	I like your cheekbones. Alex, are  you all right?
+ALEX	m	This is a face made for television.
+CLAIRE	f	You decided to go with the network.
+ALEX	m	Is he a good fuck?
+CLAIRE	f	Alex...
+ALEX	m	That's a reasonable question for a  reporter to ask, isn't it?! I shoulda never come down here, eh?  This is the way it's going to be. I'll make a shitload of money in  television for just sitting there. I'm gonna show up to work at  Rockefeller Center every morning and  they're gonna hand me the news with  my coffee and toast. I shoulda never come down here, eh?  This war down here belongs to you  guys, okay? I'm on tommorrow's plane.
+CLAIRE	f	Alex...
+ALEX	m	You want to take me to the airport?  It's okay. I shoulda never come down here.
+ALEX	m	Take this to check in. I'll be right  there.
+PRICE	m	Sniff this sucker, eh?
+ALEX	m	Jesus, where'd you get this?
+CLAIRE	f	The C.I.A.
+ALEX	m	Where else.
+PRICE	m	Hey -- I'll leave you guys alone,  eh?
+CLAIRE	f	No, no, don't be ridiculous.
+ALEX	m	We're grownups, Russell... Most of us.
+PRICE	m	You two wanta happy snap?
+ALEX	m	No happy snaps.
+PRICE	m	Okay, okay... I'll just... be over here.
+ALEX	m	You're sure about him?
+CLAIRE	f	For the moment.
+PRICE	m	I'm a personal friend of Tacho's.
+PRICE	m	Don't look, huh? No mire!
+ALEX	m	Don't get hurt.
+PRICE	m	Ahh, I'm a chicken, don't worry. Alex, listen to me...
+ALEX	m	Yeah?
+PRICE	m	Within a year you're gonna be one of  the "Ten Most Admired Men in America."
+CLAIRE	f	You're late to your own luncheon,  Mr. President -- we can schedule  this for another time.
+SOMOZA	f	Nonsense -- let them wait. We are a  stunning couple, eh? My stomach is  very flat -- I've been working out.
+CLAIRE	f	We are a stunning couple. Mr.  President, you own one fifth of all  the land in Nicaragua, you own the  shipping port, the national airlines,  the Mercedes dealership...
+SOMOZA	f	I am on a salt free diet...
+CLAIRE	f	Do you always hold hands with  reporters?
+SOMOZA	f	This is my mother and father. They  were very special to me. Every Sunday  morning I drive out to the cemetery  and put flowers on their grave. I  think people should know that.
+CLAIRE	f	Would you care to comment on the  fall of Leon to the rebels?
+HUB	m	Listen, Russell, let's grow up. It's  very easy to fall in love with the  underdog, eh? But there's an upside  and downside to this thing -- just  wanta remind you... this stuff about  a "Revolution of Poets" is crap.
+PRICE	m	But it's great P.R. So what's the  upside?
+HUB	m	Simple. And it could happen. Somoza  destroys the terrorist insurgents,  rebuilds the country, shitcans the  purveyors of excess, stabilizes the  cordoba, and is finally beloved as  the savior of Nicaragua. Our pal. Got a smoke?
+PRICE	m	What's the downside?
+HUB	m	The Commies take over the world.
+HUB	m	Excuse me, gentlemen, but the war  may be over.
+SOMOZA	f	My people love me. My stomach is  flat. Did I say that already? No  matter. It is flat.
+CLAIRE	f	There are reports that the Guardia  operates a torture chamber at  Coyotepe.
+SOMOZA	f	I like this song.
+CLAIRE	f	Since the earthquake in 1972 destroyed  half of Managua, over three hundred  million dollars in foreign relief  aid have poured into the country,  yet nothing has been re-built. It is  said that the money has gone into  your pocket.
+SOMOZA	f	I love the press, I really do. Some  of my best friends are journalists.
+CLAIRE	f	Ecuador, Mexico, Peru, Brazil, and  Panama are reportedly on the verge  of breaking off diplomatic relations  with your regime. Would you comment?
+SOMOZA	f	I am busy! Get out of here at once  or I'll put my foot up your ass!
+SOMOZA	f	I'm sorry to have to conclude this  most pleasant encounter, but something  has happened.
+HUB	m	Did he tell you about his parents in  the graveyard, the flowers and all  that? Good, good...
+SOMOZA	f	My friends... this gathering was not  intended to be a press conference as  much as a... "get-together"... but I  have just been handed a piece of  news.
+SOMOZA	f	Rafael is dead. He has been killed in an ambush in  the Cordillera mountains of the  Jinotega district.
+JOURNALISTS	?	Mr. President! Mr. President!
+SOMOZA	f	Please my friends -- no questions. A  press release is being prepared.
+OTHER JOURNALIST	m	They got Rafael? You believe that?
+REGIS	m	Every six months Tacho gives this  speech -- maybe they finally lucked  out.
+JAZY	m	Russell, excuse me... but I've just  been put in a rather embarrassing  position. Mrs. Somoza would like her picture  taken with Miss Panama. In color?
+PRICE	m	How the hell could Tacho find Rafael.
+JAZY	m	Russell, please... I have my hands  full...
+MRS. SOMOZA	f	Tacho, Tacho... venga, por favor!
+PRICE	m	Is Tacho lying again? They did kill  him, didn't they?
+JAZY	m	Everybody smile.
+PRICE	m	One more, please! Una mas, por favor?
+PRICE	m	We help each other, right? Could you  move your girlfriend into the sun...
+JAZY	m	What do you need?
+PRICE	m	Is Rafael alive or dead?
+JAZY	m	I don't know.
+PRICE	m	Just one more -- thank you. I thought you knew everything?
+JAZY	m	What do I know, eh? Tacho needs a  victory very badly... he needs to  prove to Jimmy Carter that he is  still winning. He thinks Rafael's  death is the proof he needs.
+PRICE	m	Carter don't need proof. He just  sent twenty-five million in new arms  to Tacho. I'm sorry... almost got it here.
+JAZY	m	No, no... the arms shipment has been  delayed in New Orleans because Jimmy  is getting nervous.
+PRICE	m	The State Department's gonna pull  the plug on Tacho?! Pardon my French --  but whose fucking side are you on?
+JAZY	m	...I work for everybody. If there is  a transition of power, I facilitate  a relationship with the new people.  If there is not, I facilitate the  status quo. Either way, I facilitate.
+PRICE	m	Great job.
+JAZY	m	I send messages to Jimmy and I tell  him that the Revolution is a flood  that cannot be stopped but it can be  controlled... nobody listens... I  can't even get a little water in my  pool.
+PRICE	m	Rough ain't it. Thank you everybody,  very nice.
+PRICE	m	I don't think Rafael is dead. I'm  gonna find him.
+JAZY	m	They say he's very handsome. It would make a wonderful picture,  eh?
+PRICE	m	Con permiso -- who controls what  today?
+RED CROSS WORKER	m	The Sandinistas hold the hills, the  Guardia has everything else.
+CLAIRE	f	How do we find the guerillas?
+RED CROSS WORKER	m	Va alli, dos o tres cuartos, doble  la esquina al francotirador.
+REGIS	m	What'd he say?
+CLAIRE	f	Go two or three blocks and turn right  at the sniper.
+PRICE	m	You can drop us off.
+PRICE	m	Wrong way!
+REGIS	m	We're not looking for the guerillas.
+CLAIRE	f	Then let us out.
+SOLDIER	m	Lo siento!
+PRICE	m	Go one more block.
+CLAIRE	f	He just wanted to see credentials,  for crissakes, what're doing?
+REGIS	m	You want to drive?
+PRICE	m	We want out!
+PRICE	m	Periodista, periodista, periodista!
+BOY	m	Busca triquitraques?
+CLAIRE	f	Si.
+BOY	m	Venga.
+ISELA	f	You are looking for Rafael?
+PRICE	m	Yeah. If it's possible.
+CLAIRE	f	Do you know why we're here... exactly?
+ISELA	f	Mr. Price doesn't do anything before  announcing it first in the bar. It's a good story. You'll be more  famous.
+CLAIRE	f	Rafael's tent?
+ISELA	f	Venga, companeros.
+CLAIRE	f	What is it?
+PRICE	m	Rafael is dead.
+PRICE	m	I can smell it.
+CLAIRE	f	I don't know.
+ISELA	f	Venga por favor! Alli!
+CLAIRE	f	What're you talking about?
+PRICE	m	He's dead. I know it.
+CLAIRE	f	Then why did they bring us all the  way here to see him?
+ISELA	f	This is Commandante Cinco.
+ISELA	f	Today we took Matagalpa. Leon is  about to fall, and Masaya. And next  week we could be in Managua but it  is still possible to lose. In the last days of our final  offensive the people of Nicaragua  must know that Rafael is alive and  well.
+COMMANDANTE CINCO	m	Queremos un fotografia.
+ISELA	f	We need a photograph. Come with us.
+COMMANDANTE CINCO	m	Usted es un fotografo magnifico. Queremos que vive.
+ISELA	f	Why is he laughing?
+PRICE	m	You're crazy.
+CINCO	m	We have momentum, but many more lives  will be lost. Even Washington is  starting to admit that the butcher  Somoza is not loved by his people.  They have detained twenty-five million  dollars in new arms shipments for  Somoza at an airfield in Florida  until they find out if Rafael is  alive or dead. We know about these  things.
+CLAIRE	f	If Washington thinks Rafael is dead,  they will ship the arms to Somoza.  Do you understand.
+PRICE	m	Yeah. Commandante... Soy un periodista.
+CINCO	m	This has nothing to do with journalism --  there is more to the world than  journalism. We are going to end this  war with you or without you. People don't really believe in Rafael --  they believe in the idea of Rafael,  no? Because for now the idea of Rafael  is enough for the people of Nicaragua.  When the war is over -- none of this  matters.
+PRICE	m	I don't do things... like this.
+CINCO	m	Enough lives have been lost already. It's difficult, I know -- but you  must do it.
+CINCO	m	In the morning, eh? When there's  better light!
+CLAIRE	f	I spend my whole life separating how  I feel from how I think and what I  see from what I say -- that's called  journalism, isn't it?
+CLAIRE	f	It's disciplined. It civilized. It  involves distinctions. I'm great at  distinctions. I wish I wasn't so  good at them. Sometimes I envy you --  you don't make any -- it's very  convenient. The only time I don't worry about  all those things is when I'm with my  daughter.
+PRICE	m	Or when you're in bed.
+CLAIRE	f	Yes! My job is to find a story, then tell  a story -- whatever it is -- because  I believe that if enough people hear  enough stories then somehow, through  information alone, we all have a  better chance to survive. I believe in information. That's a very romantic streak I have  running through me -- maybe it's a  weakness. Information is good --  lack of information is bad. Simple,  eh?
+PRICE	m	Not so simple.
+CLAIRE	f	You're God damn right it's not. You take that picture you'll take it  for all the right reasons -- I  understand.
+PRICE	m	I'm not gonna take it.
+CLAIRE	f	That's fine for you. But do I go  back and say I interviewed Rafael?  Do I go back and say I missed the  biggest story of the war? Or do I  say Rafael was stone cold dead --  that's the information, isn't it? Or  do I say he entertained us all in  his inimitably charismatic manner  around the ol' revolutionary campfire? Can we throw up our arms and say we  fell in love with the querillas  because their cause was...  sympathetic? Journalists don't fall in love. Which story do you want me to tell?
+PRICE	m	Do what you want to do.
+CLAIRE	f	Christ, what the fuck are we doing  here?
+PRICE	m	I want to be here. With you. What do you want.
+CLAIRE	f	I want this war to end. I'm not going to tell the world that  Rafael is dead.
+PRICE	m	I love you.
+CLAIRE	f	I think I love you.
+PRICE	m	Don't think so much.
+MISS PANAMA	f	Marcel!
+REGIS	m	We got the smoke in frame?
+CREWMEMBER	m	We got the smoke.
+REGIS	m	Roll it...
+CLAIRE	f	Under a steel gray July sky... start  again... under a gray steel Managuan  sky... scratch it... In an  extraordinary development in Managua,  President Anastazio Somoza has ordered  the Air Force to begin bombing his  own capitol, under a sky... fuck  it...
+CLAIRE	f	Oh my God...
+CLAIRE	f	A Scotch, please... Double.
+PRICE	m	What's he doing here?
+CLAIRE	f	I have no idea.
+ALEX	m	Congratulations.
+PRICE	m	On what?
+ALEX	m	On what?! The Washington Post, the  Times, networks, wire services --  everybody's picked up the picture.  It's fabulous.
+CLAIRE	f	Well, yes... it's fabulous.
+PRICE	m	Fabulous.
+CLAIRE	f	Why are you back?
+ALEX	m	I came back because of Russell.
+PRICE	m	Because of me?
+ALEX	m	Yeah... the whole fucking East Coast  is falling in love with Rafael --  they were sure he was dead this time.  Somebody wants to do a musical about  him and his mug's on every T-shirt  in Central Park.
+ALEX	m	I think he's bigger than Farrah  Fawcett.
+CLAIRE	f	You look good. Things're okay?
+ALEX	m	I'm happier in New York, sure, things  are great. You guys?
+PRICE	m	Terrific... now... I'm a little slow  here, Alex... what exactly did you  come back for?
+ALEX	m	It's a great story. I want to talk to Rafael... and you're  the only man in the world that can  take me to him.
+HUB	m	Alex! Couldn't stay away, eh?
+CLAIRE	f	We've got to tell Alex what happened.
+PRICE	m	No way.
+CLAIRE	f	I'll tell him. He deserves to know.
+PRICE	m	We don't owe him anything!
+CLAIRE	f	We owe him that! He got you started in this business...  he covered for your missed deadlines  and made excuses for your  unprofessional attitude before the  world fell in love with your  pictures... Before kids fresh out of journalism  school were rushing off to any war  they could to interview bullets and  take pictures of bodies -- like Price! He took care of you before you were  hot!
+PRICE	m	He wouldn't understand.
+CLAIRE	f	Before Nicaragua you wouldn't  understand. I'm not sure I exactly  understand. What are we going to do?
+PRICE	m	I'll take Alex to find Rafael --  we'll go to Sebaco on the road to  Matagalpa -- the Guardia heavily  control the area and they're scared  right now -- they'll never let us  through. We won't be able to get  near Rafael. Alex will understand --  and we'll turn around and drive back  without a story.
+CLAIRE	f	That's a lie!
+PRICE	m	Tell me about lies!
+CLAIRE	f	I don't want to tell him either.
+PRICE	m	We may not be able to find him,  y'know...
+ALEX	m	I've got supreme confidence in you.
+ALEX	m	Claire looks good, eh?
+PRICE	m	Everybody looks good in the tropics.
+ALEX	m	Since I haven't been able to find  Isela since coming back, you're going  to have to translate for me -- what  the hell does that mean?
+PRICE	m	Alex... I love her.
+ALEX	m	And she 'thinks' she loves you.
+PRICE	m	It's past the thinking stage.
+ALEX	m	I'd like to know something -- it  probably doesn't matter in the great  final scheme of things... but I'm  interested... Did you ever lay a hand on her before  she left me?
+PRICE	m	No!
+ALEX	m	That's the truth?
+PRICE	m	Yes! Alex -- we're friends!
+SOLDIER	m	Venga.
+ALEX	m	I bet you go through a few rental  cars.
+PRICE	m	Don't worry. I put this in your name.
+OATES	m	No pictures, eh? Might look bad.
+PRICE	m	You get paid by the body or by the  hour?
+OATES	m	I get paid the same way you do. What  the fuck you doin' in Sebaco -- this  place's about to blow... ain't it?
+PRICE	m	You didn't have to nail Pedro.
+OATES	m	Who's Pedro?
+ALEX	m	Oh my God...
+OATES	m	There's a motherfucking war goin'  on, pal... lotta sad stories.
+PRICE	m	Why them? Why them?!
+PRICE	m	You're a cocksucker!
+OATES	m	I don't suck no dick, man...
+OATES	m	I'd prefer not splattering your brains  in a dump like this -- I got  priorities. Guy wants to be a hero, pops, get  him outta here before he's a number. Be a shitty little town to buy it  in. Who are you?
+ALEX	m	Russell, let's get outta here.
+PRICE	m	Fuck you.
+OATES	m	Guy's got a sense of humor, old man. Got any dope? Tough place to find  decent dope?
+PRICE	m	Why them?
+OATES	m	Them? C'mere. You too.
+OATES	m	If your mug shows up in this box...  and ya try to make it through  Sebaco... I owe yer ass.
+ALEX	m	Who gives you the pictures?
+OATES	m	What's this, an interview? I ain't  that dumb.
+ALEX	m	Off the record.
+OATES	m	Off the record... some pachuco gives  'em to me. Ain't none of my business,  but I heard he gets 'em from a Frog.
+OATES	m	Nice, eh?
+PRICE	m	She dead?
+OATES	m	Not yet.
+OATES	m	Whatya' expect? We're the ones gettin'  our butts kicked.
+PRICE	m	Some-motherfucker-took-my-fucking- pictures-I-don't-fucking-know-what- happened! Fuck me!
+ALEX	m	Didn't you ship the film to New York?
+PRICE	m	I developed it in my room. Jesus Christ, Alex?!
+ALEX	m	Slow down. It wasn't your fault if somebody  stole your stuff...
+PRICE	m	It was.
+ALEX	m	What about Rafael?
+PRICE	m	Algo no esta aqui. Fotografias.
+MAID	m	Everything's always a mess here. You  should be neater.
+PRICE	m	Negativos, negativos!
+CLAIRE	f	Commandante Cinco's body was just  found on the road to Matagalpa.
+CLAIRE	f	I don't think it's Jazy.
+PRICE	m	Oates said it was a Frog. How many  Frenchmen you know around here? Jazy  ain't 'facilitating' shit.
+CLAIRE	f	Christ!
+CLAIRE	f	Are we looking for negs or prints?
+PRICE	m	Anything.
+CLAIRE	f	Que quiere?
+SOLDIER	m	Donde esta senor Jazy?
+CLAIRE	f	No esta aqui.
+SOLDIER	m	Que quienes?
+CLAIRE	f	Una novia suya.
+SOLDIER #2	m	El hombre tiene muchas novias, eh?
+CLAIRE	f	No, no, no...
+CLAIRE	f	Russell? Russell?
+PRICE	m	Let's get out of here.
+MISS PANAMA	f	Hola.
+PRICE	m	We've got to talk to Alex.
+CLAIRE	f	You think our flags are big enough?
+PRICE	m	This is what I want to show you.
+ALEX	m	We drove through three roadblocks a  half hour before curfew so you could  show me a statue of Tacho.
+PRICE	m	It's not Tacho. It's Mussolini. Tacho  went to Italy to commission a statue  of himself, he found a warehouse  full of Il Duces on horseback, got a  great deal on one of 'em -- brought  it back and switched heads. Ya can't tell, can ya?
+ALEX	m	What the hell are you talking about?
+CLAIRE	f	I think what he's trying to say --  what we're trying to say -- is that  things aren't exactly what they seem  to be.
+ALEX	m	Well, they don't "seem" to be that  great so I can't wait for this one... Hey, here we are! Two guys in the  tropics in love with the same dame...  bullets flying!
+CLAIRE	f	Alex! That's not why we're here.
+ALEX	m	Oh yeah? I left the country because  of him... ...and I came back because of him... And now the cutest couple in town  has me looking up a horse's ass on a  midnight tour of Managua. What are we doing here?
+CLAIRE	f	Rafael is dead.
+ALEX	m	In the picture he's dead?
+PRICE	m	Dead!
+ALEX	m	How the hell...
+CLAIRE	f	Who cares how?!
+PRICE	m	Alex... I think I finally saw one  too many bodies. Somoza is a killer. I thought the war would end sooner. How many reasons do you want?
+ALEX	m	You saw too many bodies? That's a  lot of bodies. You stupid son of a bitch. Did he talk you into it?
+CLAIRE	f	No! I wanted Rafael to be alive.
+ALEX	m	In some way I understand him doing  it, I don't like it but I  understand... but you?
+CLAIRE	f	I'd do it again.
+ALEX	m	You two have, of course, just served  me up your balls -- if that's what  they're called -- on a platter. I can bury you both. You're handing  me your careers.
+ALEX	m	Well, Jesus Christ... this is a  motherfucking story, Russell... What am I supposed to do with it?
+CLAIRE	f	Anything you want.
+ALEX	m	They're holding the lead in the World  section for Rafael.
+PRICE	m	It's great stuff, isn't it? We'd go  down in a blaze of glory.
+ALEX	m	Oh yeah... I don't know what to do. I've gotta take some kind of a story  back with me. Maybe Jazy, eh?
+CLAIRE	f	Oh Jesus.
+PRICE	m	It's a little dangerous looking for  Jazy at the moment.
+ALEX	m	Ah, danger -- I love it. You could  ask the pointy-shoed little bastard  about your pictures... and I could  ask him whatever happened to Isela.
+CLAIRE	f	She's an officer in the Rafael army --  we saw her in Matagalpa.
+ALEX	m	You mean I slept with a Sandinista?
+ALEX	m	I guess Rafael is alive, eh?
+PRICE	m	Damn air conditioning.
+CLAIRE	f	I wish I was home.
+PRICE	m	C'mere.
+CLAIRE	f	Do you think it's almost over?
+PRICE	m	Alex... let's go back.
+ALEX	m	Jazy's probably sitting in the bar  laughing at us. Which way's the hotel?
+PRICE	m	I don't know.
+ALEX	m	I'll ask her... be right back.
+PRICE	m	Just a sec'... take a flag.
+PRICE	m	You fucks! You fucks!
+GUARDIA SOLDIER	m	Fotografia!
+SOMOZA	f	It is with grave concern that we  announce that Alexander Grazier,  senior American correspondent, has  been murdered at the hands of  terrorists...
+SOMOZA	f	Mr. Kittle has prepared statements  for you.
+REGIS	m	Get my bill and get me a cab, hey,  amigo!
+CLERK	m	No cabs.
+REGIS	m	Cabs!
+CLERK	m	No cabs!
+REGIS	m	I'm sorry, Claire...
+CLAIRE	f	Heard from Russell?
+REGIS	m	Nobody has.
+CLAIRE	f	Wanta help me find him?
+REGIS	m	Claire... it's on the weird side out  there...
+HUB	m	Jesus Christ, Claire, a human tragedy,  what can I say?
+CLAIRE	f	Fuck off, Hub, get outta my way.
+CLAIRE	f	Do you know where the American  journalist was killed?
+CLAIRE	f	Have you seen him?
+WOMAN	f	This is the best I can offer.
+PRICE	m	Gracias.
+SOLDIER	m	Venga aqui.
+WOMAN	f	Nobody is here. Get out.
+LEADER	m	Esta alli?!
+LEADER	m	Esta alli?!
+BOY SOLDIER	m	No esta aqui.
+GUARDIA OFFICER	m	We are you! We are you! What are you  doing?!
+CLAIRE	f	Russell!
+PRICE	m	What're you doing here?!
+CLAIRE	f	Alex!
+PRICE	m	The Guardia did it -- I got pictures.
+PRICE	m	Hola. Do you control this area?
+DISCO SANDINISTA	m	I don't know.
+MUCHACHO #1	m	Who are you?
+JAZY	m	They are my friends.
+MUCHACHO #2	m	Shut up. We kill them all.
+MUCHACHO #3	m	No. Only him.
+MUCHACHO #1	m	Him or him or her?
+JAZY	m	Well, here we are, eh?
+MUCHACHO #1	m	Assassin! Shut up!
+JAZY	m	The boys are confused -- they think  I had their family killed.
+PRICE	m	You murder people.
+JAZY	m	"Murder" is a word for criminals. I  have a job to protect the stability  of a continent.
+MUCHACHO #3	m	Pig! Hijo de puta!
+JAZY	m	Please...
+CLAIRE	f	You got caught by some boys?
+JAZY	m	Yes. Poets too, I imagine. Is your recorder on?
+CLAIRE	f	Yes.
+JAZY	m	Good. I have a speech to make.
+JAZY	m	I like you people, but you are  sentimental shits. You fall in love  with the poets, the poets fall in  love with the Marxists, the Marxists  fall in love with themselves. The  country is destroyed with rhetoric,  and in the end we are stuck with  tyrants.
+MUCHACHO #1	m	Shut up!
+JAZY	m	Un minuto, por favor.
+MUCHACHO #2	m	Who are you?
+JAZY	m	They are journalists.
+MUCHACHO #1	m	Periodistas! Take this picture! I'm  going to blow his head off.
+JAZY	m	Somoza? He is a tyrant too, of course.  A butcher. But finally that is not the point,  you see. If we wish to survive -- we  have a choice of tyrants, and for  all the right reasons, your poets  choose the wrong side.
+MUCHACHO #1	m	Fotografia!
+PRICE	m	No.
+JAZY	m	Yes. Your picture of Rafael was  brilliant... but I am alive, and  better looking. A good looking  Frenchman with a sympathetic face is  murdered in cold blood while fighting  for the survival of Europe and  America. You will have another magazine cover! Muy complicado, no?
+MUCHACHO #1	m	Ready! Now!
+CLAIRE	f	You picked the wrong side.
+JAZY	m	In fifty years we will know who's  right. Are you going to take the picture as  the bullet enters the skull or as it  comes out? This wall's a nice color,  eh? I can move into the sunlight.
+JAZY	m	It's just a story!
+MUCHACHO #1	m	Shut up!
+JAZY	m	They say that if somebody's holding  a gun on you, you should never stop  talking... that's the theory -- who  knows?...
+JAZY	m	Maybe it's a good thing that I talk  too much...
+CLAIRE	f	You okay? Russell... what did Alex do?
+PRICE	m	Nothing. He asked for directions.
+PRICE	m	We gotta get outta sight -- half the  fucking army's looking for me...
+CLAIRE	f	They're not looking for me.
+CLAIRE	f	Let me have the film... ...if I can't get to the hotel I'll  come back here...
+PRICE	m	Aw, Christ... I've wrecked everything else, at  least let me take care of you here.
+CLAIRE	f	Russell... it's more dangerous being  with you than being alone.
+PRICE	m	Don't get hurt.
+CLAIRE	f	That's great advice.
+DOCTOR	m	Journalist? You knew the man who was killed? Fifty thousand Nicaraguans have  died... and now one Yankee. Perhaps now Americans will be outraged  at what is happening here, eh?
+CLAIRE	f	Yes... perhaps they will.
+DOCTOR	m	Maybe we should have killed an  American journalist fifty years ago.
+CLAIRE	f	Have you seen La Guardia?
+WOMAN WITH CHILDREN	f	No. Is the war over?
+CLAIRE	f	I don't know.
+CHILD	m	Tanquettas! Tanquettas!
+WOMAN WITH CHILDREN	f	Is the war over?
+CLAIRE	f	Yes.
+WOMAN WITH CHILDREN	f	Es bueno.
+PRICE	m	Alex.
+VOICE OF HUB KITTLE	m	It was the best I would do under the  circumstances. The casket, I mean.
+CLAIRE	f	Can you help us ship it home?
+HUB	m	I've already taken care of it. I always liked the guy. I can't even  get tickets for my own family, but I  could get you two on the plane if  you want.
+PRICE	m	Yes, please...
+HUB	m	Tacho's in Miami.
+HUB'S DAUGHTER	m	Daddy!
+HUB	m	I am sorry. I had a job to do --  that's all -- it put me in some  unhappy situations.
+OATES	m	Hey, Pricey...
+OATES	m	It's all over, eh? We made it. I  like the singing.
+PRICE	m	What're you doing here?
+OATES	m	Free country. Now it's free, anyway. Nicalibre!
+OATES	m	How 'bout a quickie? No? Things are heating up in  Thailand... thought I'd check it  out. You ain't gonna turn me in, are ya?
+OATES	m	Am I gonna see ya in Thailand? We  could be friends!
+PRICE	m	We've got a plane to catch.
+CLAIRE	f	Did you get enough pictures?
+

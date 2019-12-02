@@ -1,0 +1,1000 @@
+DAVID	m	I'd have more peace of mind if the live-in nurse were still here. 
+HANNA	f	She was nothing but bother.  I not like her, Mr. Jimmy not like her. We do better if you live-in again, Mr. David.
+DAVID	m	You'll contact me if there's an emergency?
+HANNA	f	Yes, I call you at this number. Mr. Jimmy?  More coffee?
+WHALE	m	What?  Oh yes.  Why not?
+WHALE	m	Isn't Hanna a peach?
+DAVID	m	She tells me you haven't been sleeping well.
+WHALE	m	It's the ridiculous pills they prescribe.  If I take them, I spend the next day stupid as a stone. If I don't, my mind seems to go off in a hundred directions at once --
+DAVID	m	Then take the pills.
+WHALE	m	I wanted to be alert for your visit today.  Especially since I saw so little of you in the hospital.
+DAVID	m	I'm sorry, Jimmy.  But with this movie and two difficult stars --
+WHALE	m	"The fault, dear David, is not in ourselves but in our stars."
+DAVID	m	You remember how a production eats up one's life.
+WHALE	m	Oh, David.  There's no pleasure in making you feel guilty. You better go, my boy.  You'll be late for that aeroplane.
+DAVID	m	By the way, I like the Renoir.
+WHALE	m	Thank you.
+DAVID	m	Goodbye, Hanna.
+SARAH WHALE	f	Stop lagging behind, Jimmy.  We'll be late for church.
+YOUNG WHALE	m	Yes, Mum.
+WILLIAM WHALE	m	Straighten up, son.
+WHALE	m	Hanna?  Who's the new yardman?
+HANNA	f	Bone?  Boom?  Something Bee.  I hire him while you were in the hospital.  He came cheap.
+WHALE	m	The bells of hell go ting-a-ling For you but not for me. Oh death where is thy sting-a-ling? Grave where thy victory?
+WHALE	m	Good morning.
+CLAY	m	Mornin'.
+WHALE	m	My name is Whale.  This is my house.
+CLAY	m	Nice place.
+WHALE	m	And your name is --?
+CLAY	m	Boone.  Clayton Boone.
+WHALE	m	I couldn't help but notice your tattoo.  That phrase?  Death Before Dishonor.  What does it mean?
+CLAY	m	Just that I was in the Marines.
+WHALE	m	The Marines.  Good for you.  You must have served in Korea.
+WHALE	m	Getting to be a warm day.  A scorcher, as you Yanks call it.
+CLAY	m	Yeah.  I better get on with my work.
+WHALE	m	When you're through, Mr. Boone, feel free to make use of the pool. We're quite informal here.  You don't have to worry about a suit.
+CLAY	m	No thanks.  I got another job to get to this afternoon.
+WHALE	m	Some other time, perhaps?  Keep up the fine work.
+SARAH WHALE	f	Jimmy.  The privy needs cleaning.
+WHALE	m	I have my class tonight.
+SARAH WHALE	f	Don't get above yarself, Jimmy. Leave the drawring to the artists.
+WHALE	m	Quite so, mum.  To the privy.
+SARAH WHALE	f	"Quite so." Jimmy Whale.  Who are ya to put on airs?
+WHALE	m	There is iced tea, Hanna?  Cucumber sandwiches?
+HANNA	f	Yes, Mr. Jimmy. An interview.  After so many years. Very exciting.
+WHALE	m	Don't be daft.  It's just a student from the university.
+HANNA	f	Mr. Kay, sir.
+WHALE	m	Yes?
+WHALE	m	Ah, Mr. Kay.  I'd almost forgotten. My guest for tea.
+KAY	?	Mr. Whale, this is such an honor. You're one of my favorite all-time directors.  I can't believe I'm meeting you.
+WHALE	m	No.  I expect you can't.
+KAY	?	And this is your house.  Wow.  The house of Frankenstein. I thought you'd live in a spooky old mansion or villa.
+WHALE	m	One likes to live simply.
+KAY	?	I know.  People's movies aren't their lives.
+KAY	?	Love dead.  Hate living.
+KAY	?	That's my favorite line in my favorite movie of yours.  "Bride of Frankenstein."
+WHALE	m	Is it now?  Hanna?  I think we'll take our tea down by the swimming pool.
+WHALE	m	Will that be good for you, Mr. Kay?
+KAY	?	Sure.
+WHALE	m	After you then.
+KAY	?	I love the great horror films.  And yours are the best.  "The Old Dark House."  "The Invisible Man."  They look great and have style.  And funny!
+WHALE	m	This is the studio where I paint.
+KAY	?	Nice. And your lighting and camera angles.  You're got to go back to German silent movies to find anything like it.
+HANNA	f	Time for you to leave.
+CLAY	m	I'm on my way.
+WHALE	m	So, Mr. Kay?  What do you want to know?
+KAY	?	Everything.  Start at the beginning.
+WHALE	m	I was born outside London, the only son of a minister who was a master at Harrow.  Grandfather was a bishop.  Church of...Church of Eng...
+KAY	?	Mr. Whale?
+WHALE	m	Yes?
+KAY	?	Your father was a schoolmaster?
+WHALE	m	Of course.  I attended Eton -- it wouldn't do for a master's son to attend where his father taught.  I was to go up to Oxford but the war broke out and I never made it.  The Great War, you know.  You had a Good War, but we had a great one.
+WHALE	m	You can't imagine what life was like after the Armistice.  The twenties in London were one long bank holiday, a break from everything dour and respectable.  I had a knack with pencil and paper, so I was hired to design sets for stage productions.
+WHALE	m	Thank you, Hanna.  Very nice.
+WHALE	m	You can go now.
+WHALE	m	There was one play in particular, a beautiful, grim study of war called "Journey's End".  Every experienced director turned it down, so I offered myself, bullying and begging for the job.  "Journey's End" made the careers of everyone associated with it.  It was only a matter of time until Hollywood beckoned.
+KAY	?	How much longer before we get to "Frankenstein"?
+WHALE	m	Am I correct in assuming, Mr. Kay, that it's not me you're interested in, only my horror pictures?
+KAY	?	Oh no, I want to hear everything. You made twenty pictures in all --
+WHALE	m	Twenty-one.  The romantic comedies and dramas were much more to my liking.  The horror pictures were trifles.  Grand guignol for the masses.
+KAY	?	But it's the horror movies you'll be remembered for.
+WHALE	m	I am not dead yet, Mr. Kay.
+KAY	?	No.  I never said you were.  Or will be soon.
+KAY	?	So.  "Journey's End" brought you to Hollywood --
+WHALE	m	I have a proposal, Mr. Kay.  This mode of questioning is getting old, don't you think?
+KAY	?	I don't mind.
+WHALE	m	Let's make it more interesting.  I will answer any question you ask. But, for each answer, you must remove one article of clothing.
+KAY	?	That's funny, Mr. Whale.
+WHALE	m	It is, isn't it?  My life as a game of strip poker.  Shall we play?
+KAY	?	You're serious.
+WHALE	m	Quite.
+KAY	?	Then the rumors are true?
+WHALE	m	What rumors might those be?
+KAY	?	That you were forced to retire because, uh -- a sex scandal.
+WHALE	m	A homosexual scandal, you mean? For me to answer a question of that magnitude, you'll have to remove both your shoes and your socks.
+KAY	?	You're a dirty old man.
+WHALE	m	You are kind to indulge your elders in their vices.  As I indulge the young in theirs.
+WHALE	m	No.  There was no scandal.
+WHALE	m	My only other vice.  I suppose you'd like a fuller answer to your question.
+WHALE	m	It will cost you your sweater.
+KAY	?	Too warm for a sweater, anyway.
+WHALE	m	You must understand how Hollywood was twenty years ago.  Nobody cared a tinker's cuss who slept with whom, so long as you kept it out of the papers.  Outside of Hollywood, who knows who George Cukor is, much less what he does with those boys from the malt shops along Santa Monica?
+KAY	?	George Cukor?  Who made "A Star Is Born"?  I never guessed.
+WHALE	m	Take off your vest and I'll tell you a story.
+WHALE	m	Don't be shy.  There's time to stop before you go too far.
+KAY	?	I guess.
+WHALE	m	George is famous for his Saturday dinner parties.  Great artists, writers, society folk, all rubbing elbows with Hollywood royalty.  But how many of those oh-so-proper people know about the Sunday brunches that follow?  Gatherings of trade eating leftovers, followed by some strenuous fun and frolic in the pool. If a goat like that can continue about his business, my more domestic arrangements could've raised very few eyebrows.
+KAY	?	Can we talk about the horror movies now?
+WHALE	m	Certainly, Mr. Kay.  Is there anything in particular you want to know?
+KAY	?	Will you tell me everything you remember about making "Frankenstein"?
+KAY	?	Can that count as one question?
+WHALE	m	Of course.
+KAY	?	I can't believe I'm doing this.
+KAY	?	Just like going swimming, isn't it?
+WHALE	m	Maybe you'd like a swim when we're through.  I never swim myself, so the pool tends to go to waste.
+KAY	?	Okay.  "Frankenstein."  Tell me everything.
+WHALE	m	Righto.  Let me see.
+WHALE	m	Universal wanted me for another story, and wanted me so baldly -- I mean badly, not baldly.  I was given the pick of stories being developed, and I picked that one.
+KAY	?	Who came up with the Monster's makeup and look?
+WHALE	m	My idea.  Muchly.  My sketches. Big heavy brow.  Head flat on top so they could take out the old brain and put in the new, like tinned beef.
+KAY	?	He's one of the great images of the twentieth century.  As important as the Mona Lisa.
+WHALE	m	You think so?  That's very kind --
+KAY	?	Boris Karloff.  Where did you find him?
+KAY	?	Karloff, Mr. Whale.  How did you cast him?
+WHALE	m	Please.  Excuse me.  I must go lie --
+KAY	?	Mr. Whale?  Are you all right?
+WHALE	m	I just need to -- lie down. Studio.  Daybed in studio.
+KAY	?	Oh my God.  What's wrong, Mr. Whale?  Is it your heart?
+WHALE	m	Head.  Not heart.
+WHALE	m	Forgive me.
+HANNA	f	Water.  Glasses at the sink.
+HANNA	f	Which ones?  I bring them all.
+WHALE	m	Luminal.
+WHALE	m	Mr. Kay.  You're not dressed.
+KAY	?	I was going to take a swim.
+WHALE	m	I'm sorry I spoiled it for you. You should probably go home.
+KAY	?	Right.
+WHALE	m	You must think I'm terrible, Hanna.
+HANNA	f	I do not think you anything anymore.  Just back from the hospital and already you are chasing after boys.
+WHALE	m	Oh shut up.  All we did was talk. My attack had nothing to do with him.
+HANNA	f	Perhaps we should get you uphill before the pills knock you cold.
+WHALE	m	No.  Let me lie here.  Thank you.
+DWIGHT	m	Boone!  You awake?  Eight o'clock.
+CLAY	m	Fuck off!
+DWIGHT	m	You told me to get you up, asshole.
+CLAY	m	I'm up.  Thanks.
+DWIGHT	m	Hasta la vista, Boone.  And give the jail bait a squeeze for me.
+CLAY	m	Hey, um...Rose --
+DAISY	f	Daisy.
+CLAY	m	Huh?
+DAISY	f	My name is Daisy.
+CLAY	m	Time to go, Daisy.
+DAISY	f	You know.  I could help you fix up this place real nice.
+CLAY	m	Don't you have to be somewhere? Like high school maybe.
+DAISY	f	I gave it up for Lent.
+CLAY	m	Right. Time to hit the road, kid.
+WHALE	m	The bells of hell go ting-a-ling...
+WHALE	m	Everything alright, Mr. Boone?
+CLAY	m	Just got away from me.  Sorry to disturb you.
+WHALE	m	I was just about to ask Hanna to bring down iced tea.  I'd like it very much if you'd join me.
+CLAY	m	I stink to high heaven right now.
+WHALE	m	The honest sweat of one's brow.  I assure you I won't be offended. Let me tell Hanna to bring tea for two.
+WHALE	m	Or would you prefer a beer?
+CLAY	m	No.  Iced tea's fine.
+WHALE	m	Splendid.
+WHALE	m	Come in, Mr. Boone.
+WHALE	m	My workshop, my studio.  Hardly somewhere in which a sweaty workman should feel out of place.
+CLAY	m	These are your paintings?
+WHALE	m	What?  Oh yes.
+CLAY	m	Excuse me, but -- are you famous?
+WHALE	m	You know what they say.  If you have to ask --
+CLAY	m	I'm just a hick who cuts lawns. But some of these look familiar.
+WHALE	m	They were familiar when I painted them.  That one's copied from a Dutch still life done almost three hundred years ago.  And that's a Rembrandt.
+CLAY	m	They're just copies then.  Gotcha.
+WHALE	m	But before I retired, you might say I had a brief time in the sun. Fame, as it were.  Tell me, do you like motion pictures?
+CLAY	m	Sure, everybody does.  When I was a kid I'd go with my sister twice a week.  Why?  Were you an actor or something?
+WHALE	m	In my youth, yes, but never in Hollywood.  No, I was merely a director here.
+CLAY	m	Yeah?  What were some of your movies?
+WHALE	m	This and that.  The only ones you maybe have heard of are the "Frankenstein" pictures.
+CLAY	m	Really?
+CLAY	m	"Frankenstein" and "Bride of" and "Son of" and all the rest?
+WHALE	m	I made only the first two.  The others were done by hacks.
+CLAY	m	Still.  You must be rich.  Making a couple of famous movies like those.
+WHALE	m	Merely comfortable.  Here's Hanna with our refreshments.  Can you get the door?
+HANNA	f	How are you feeling, Mr. Jimmy? How is your mind today?
+WHALE	m	My mind's lovely.  And yours?
+HANNA	f	You remember what the doctor tells us.
+WHALE	m	Yes, yes, yes.  I merely invited Mr. Boone in for a glass of tea. We'll have a brief chat and he'll finish the yard.
+HANNA	f	I am not forgetting your last brief chat.
+WHALE	m	Just go.  We can manage without you.
+HANNA	f	He looks plenty big.  You won't need my help if anything goes flooey.
+WHALE	m	Go.
+WHALE	m	When they stay in your employ too long, servants begin to think they're married to you. Please, Mr. Boone.  Help yourself.
+CLAY	m	What did she mean by going flooey?
+WHALE	m	I returned recently from a stay in hospital.
+CLAY	m	What was wrong?
+WHALE	m	Nothing serious.  A touch of stroke.
+WHALE	m	You must excuse me for staring, Mr. Boone.  But you have a marvelous head.
+CLAY	m	Huh?
+WHALE	m	To an artistic eye, you understand. Have you ever modeled?
+CLAY	m	You mean, like posed for pictures?
+WHALE	m	Sat for an artist.  Been sketched.
+CLAY	m	What's to sketch?
+WHALE	m	You have the most architectural skull.  And your nose.  Very expressive.
+CLAY	m	Broke is more like it.
+WHALE	m	But expressively broken.  How did it happen?
+CLAY	m	Football in college.
+WHALE	m	You went to university?
+CLAY	m	Just a year.  I dropped out to join the Marines.
+WHALE	m	Yes.  You were a Marine.
+WHALE	m	I apologize for going on like this. It's the Sunday painter in me.  Of course I can understand your refusal.  It's a great deal to ask of someone.
+CLAY	m	You mean -- you really want to draw me?
+WHALE	m	Indeed.  I'd pay for the privilege of drawing your head.
+CLAY	m	But why?
+WHALE	m	Even an amateur artist needs a subject to inspire him.
+CLAY	m	And it's just my head you want? Nothing else?
+WHALE	m	What are you suggesting?  You'll charge extra if I include a hand or a bit of shoulder.
+CLAY	m	You don't want to draw pictures of me in my birthday suit, right?
+WHALE	m	I have no interest in your body, Mr. Boone.  I can assure you of that.
+CLAY	m	All right then.  Sure.  I could use the extra dough.
+WHALE	m	Excellent.  We'll have a most interesting time.
+DR. PAYNE	m	This is the area of infarction.  By which we mean the portion of brain affected by the stroke.
+DR. PAYNE	m	You're a lucky man, Mr. Whale. Whatever damage was done by your stroke, it left your motor abilities relatively unimpaired.
+WHALE	m	Yes, yes, Dr. Payne.  But from the neck up?  What's my story there?
+DR. PAYNE	m	That's what I'm trying to explain.
+DR. PAYNE	m	The central nervous system selects items from a constant storm of sensations.  Whatever was killed in your stroke appears to have short-circuited this mechanism. Parts of your brain now seem to be firing at random.
+WHALE	m	You're saying there's an electrical storm in my head?
+DR. PAYNE	m	That's as good a way as any to describe it.  I've seen far worse cases.  You might even learn to enjoy these walks down memory lane.
+WHALE	m	But the rest of it?  The killing headaches.  The phantom smells.  My inability to close my eyes without thinking a hundred things at once. It's all nothing more than bad electricity?
+DR. PAYNE	m	In a manner of speaking.  I've never encountered the olfactory hallucinations, but I'm sure they're related.
+WHALE	m	So what do I do?
+DR. PAYNE	m	Take the Luminal to sleep, or whenever you feel an attack coming on.
+WHALE	m	You seem to be saying that this isn't just a case of resting until I'm better.  That my condition will continue to deteriorate until the end of my life.
+CLAY	m	Don't worry, you already paid me. I'm here because --
+HANNA	f	The Master is waiting for you.
+HANNA	f	He's down in his studio.  Here. Take this with you.
+CLAY	m	It's your job, lady, not mine. I'm here so he can draw my picture.
+HANNA	f	I'm keeping away.  What you are doing is no business of mine.
+CLAY	m	What're you talking about?
+HANNA	f	What kind of man are you?  Are you a good man?
+CLAY	m	Yeah, I'm a good man.  Something make you think I'm not?
+HANNA	f	You will not hurt him?
+CLAY	m	Gimme a break.  I'm going to sit on my ass while he draws pictures.  Is that going to hurt him?
+HANNA	f	No.  No. I am sorry.  Forget everything I say.  Here.  I will take the tray.
+CLAY	m	You do that.
+WHALE	m	Very good, Hanna.  Now goodbye.
+WHALE	m	I'm sure you'd like something to wet your whistle while I work.
+WHALE	m	We'll go slowly today.  Since this is your first time as a model.
+CLAY	m	Did you see this?  They're showing one of your movies tomorrow night.
+WHALE	m	You don't say?  Which picture?
+CLAY	m	"Bride of Frankenstein."
+WHALE	m	Hmmm.  I much prefer "Show Boat" or "The Invisible Man."  Shall we begin?
+CLAY	m	Ready when you are.
+WHALE	m	That shirt, Mr. Boone.
+CLAY	m	It's new.
+WHALE	m	I'm sorry.  It's too white, too distracting.  Would it be asking too much for you to take it off?
+CLAY	m	I'm not wearing an undershirt.
+WHALE	m	Pish posh, Mr. Boone.  I'm not your Aunt Tilly.
+CLAY	m	But it's just my face you want to draw.
+WHALE	m	Oh if it's going to make you uncomfortable... Perhaps we can find something else for you to wear.
+WHALE	m	We could wrap this like a toga around your shoulders.  Would that help you overcome your schoolgirl shyness?
+CLAY	m	All right already.  I'll take it off.  Kind of warm in here anyway.
+WHALE	m	Yes.  Much better. Here.
+WHALE	m	I think we'll have you sit slightly sideways, so you can rest one arm on the back of the chair.  Yes. Just so.
+CLAY	m	Take a picture, it lasts longer.
+WHALE	m	That's exactly what I intend to do.
+WHALE	m	You seem to have no idea how handsome you are, Mr. Boone.  It has to do with how snugly your face fits your skull.
+WHALE	m	Would you be more comfortable barefoot?  Feel free to remove your boots and socks.
+CLAY	m	No.  I'm fine.
+WHALE	m	It's a bit like being at the doctor, isn't it?  You have to remain perfectly still while I examine and scrutinize you.
+WHALE	m	Dripping? Do you ever eat dripping in this country?  The fat from roasts and such, congealed in jars.  Used like butter on bread.
+CLAY	m	Sounds like something you feed the dog.
+WHALE	m	It is.  Only the poorest families ever ate it.  We kept ours in a crockery jar.
+CLAY	m	Your family ate dripping?
+WHALE	m	Of course not.  As I said, only poor people --
+WHALE	m	I'm sorry.  I've just realized how terribly ironic it all is.
+CLAY	m	What?
+WHALE	m	I've spent most of my life outrunning my past.  Now it's flooding all over me.
+WHALE	m	There's something about the openness of your face that makes me want to speak the truth.  Yes, my family ate dripping.  Beef dripping and four to a bed, and a privy out back in the alley.  Are you also from the slums, Mr. Boone?
+CLAY	m	We weren't rich.  But we weren't poor either.
+WHALE	m	No, you were middle class, like all Americans.
+CLAY	m	I guess you'd say we lived on the wrong side of the tracks.
+WHALE	m	In Dudley there were more sides of the tracks than any American can imagine.  Every Englishman knows his place.  And if you forget, there's always someone to remind you.  My family had no doubts about who they were.  But I was an aberration in that household a freak of nature.  I had imagination, cleverness, joy.  Where did I get that?  Certainly not from them.
+WHALE	m	They took me out of school when I was fourteen and put me in a factory.  They meant no harm.  They were like a family of farmers who've been given a giraffe, and don't know what to do with the creature except harness him to the plow.
+WHALE	m	Hatred was the only thing that kept my soul alive in that soul-killing place.  And among those men I hated was my own poor, dumb father.  Who put me in that hell to begin with.
+CLAY	m	Mr. Whale?
+WHALE	m	You have to excuse me, Mr. Boone. Since my stroke, I am often overcome with nostalgia.
+CLAY	m	I don't mind.  I'm not crazy about my old man either.
+WHALE	m	Why don't we break for five minutes?  You probably want to stretch your legs.
+DWIGHT	m	So you just sat there while this old limey banged his gums?
+CLAY	m	I liked it.  You learn stuff listening to old-timers.
+DWIGHT	m	You ever hear of this Whale fellow?
+HARRY	m	Can't say that I have.  Can't say I've heard of a lot of people though.
+CLAY	m	If you don't believe me, let's watch this movie.  See if his name's on it.  How about it, Harry? Can I watch my damn movie?
+HARRY	m	I told you.  I don't turn on the TV except for the fights.
+BETTY	f	A spooky movie.  Just what this place needs tonight.
+DWIGHT	m	Couldn't make it any deader, doll. Set me up.
+BETTY	f	Sure.  Your friend want one?
+DWIGHT	m	Yeah, one for what's-his-name here.
+CLAY	m	Thanks, doll.
+BETTY	f	I say let loverboy watch his movie.  And be grateful Boone's not cutting Shirley Temple's lawn.
+CLAY	m	Why is everybody giving me crap tonight?
+DWIGHT	m	Jesus, Boone.  You come in here proud as a peacock because some old coot wants to paint your picture. We're just bringing you back to earth.
+BETTY	f	Sounds screwy to me.  I can't imagine a real artist wanting to spend time looking at that kisser.
+CLAY	m	This kisser wasn't so bad you couldn't lay under it a few times.
+DWIGHT	m	Ooooh.
+BETTY	f	I bet this is just some fruit pretending to be famous.  So he can get in the big guy's pants.
+DWIGHT	m	Ooooh.
+CLAY	m	What makes you say that?
+BETTY	f	Just thinking out loud.
+CLAY	m	Yeah, well keep your filthy thoughts to yourself.
+BETTY	f	All right, then.  He's interested in you for your conversation.  We know what a great talker you are.
+CLAY	m	Fuck you.
+BETTY	f	Not anymore you don't.  Doll.
+CLAY	m	We're watching the movie, Harry. You got that!  We are watching my fucking movie.
+HARRY	m	Calm down, Clay.  Just calm down. We'll watch it.
+CLAY	m	Good.  Fine.
+CLAY	m	Right there.  What did I tell you? James Whale.
+BETTY	f	This looks corny.
+CLAY	m	Go wash glasses if you don't like it.
+DWIGHT	m	Not bad.  Two down and it's just started.
+WHALE	m	Wonderful old Una.  Gobbling like an old turkey hen.
+HANNA	f	Oh, that monster.  How could you be working with him?
+WHALE	m	Don't be silly, Hanna.  He's a very proper actor.  And the dullest fellow imaginable.
+BETTY	f	These old movies are such a hoot. They thought they were being scary, but they're just funny.
+CLAY	m	Maybe it's supposed to be funny.
+BETTY	f	Funny is funny and scary is scary. You don't mix them.
+CLAY	m	Hey!  Some of us are watching a movie!
+SAYLOR	?	Go ahead.  Free country.
+SAYLOR	?	You want me to turn it down?
+SAYLOR	?	Hey, I didn't know.  It's your favorite movie.  Sorry, okay?
+HARRY	m	You're like a dog with a bone over this movie, Clay.
+CLAY	m	I just want to watch it, okay?
+HANNA	f	He is not going to kill the old man?
+WHALE	m	No, Hanna.  My heart isn't that black.
+WHALE	m	The cigars were my own brand.  So that I could have the leftovers.
+HARRY	m	Sick stuff.  Necrophilia.  I wonder if they knew how sick they were.
+CLAY	m	The Monster's lonely and he wants a friend, a girlfriend, somebody. What sick about that?
+BETTY	f	All right!  You don't want
+HANNA	f	She is horrible.
+WHALE	m	She is beautiful.
+HANNA	f	Ugh.  I am sorry, Mr. Jimmy, but your movie is not my teacup. Still, I am glad there is a happy ending.  The bad people are dead and the good people live.
+BETTY	f	Weird movie.  Weird, weird, weird.
+CLAY	m	So what did you think?
+BETTY	f	Weird.
+DWIGHT	m	I loved it.  I want a switch like that in my trailer, so I can blow us to kingdom come when things don't go my way.
+DWIGHT	m	Damn but it's getting drunk in here.  Late too.  The bride of Dwight is going to bite my head off.
+DWIGHT	m	You coming, Boone?
+CLAY	m	I think I'll hang around.
+HARRY	m	Go home, Clay.  We're closing up.
+CLAY	m	I thought I'd give you a hand since I kept you open.
+HARRY	m	I'm next door if you need me.
+CLAY	m	You know what?  I think you guys are all jealous.
+BETTY	f	What's to be jealous of?
+CLAY	m	I've gotten to know someone who's famous.
+BETTY	f	Not so famous any of us have ever heard of him.
+CLAY	m	If he were that famous, he probably wouldn't give me the time of day. This way, he's like
+CLAY	m	You want to go for a swim?
+CLAY	m	What's that mean?
+BETTY	f	It means it's too cold to go swimming.  And I don't mean the water.
+CLAY	m	I wasn't going to try anything.
+BETTY	f	Yeah, and I'm never going to smoke another cigarette.
+CLAY	m	Let's go for a walk at least.  Walk and talk.  I really feel like talking tonight.
+CLAY	m	This old guy -- he's the kind of person I expected to meet when I moved out here.  Someone who's done things with his life.
+BETTY	f	Do you realize you're more interested in this old goober than you ever were in me?
+CLAY	m	It's different.  He's a man.  And by the way you have no business calling him a homo.
+BETTY	f	It never crossed your mind?
+CLAY	m	He's an artist.  Anyway, he's too old to think about sex.
+BETTY	f	All the old men I know think about nothing but sex.
+CLAY	m	C'mon.  What's eating you tonight?
+BETTY	f	You picked up that girl right in front of me.
+CLAY	m	Hey, no strings, right?  That's what you always said.  Just good pals who have the hots for each other.
+BETTY	f	It still hurt.  A lot.
+CLAY	m	I didn't mean to...
+BETTY	f	No, I'm actually kind of glad it happened.  It made me wonder what the hell I was doing with my life. Letting you pull me into bed whenever the spirit moved you.
+CLAY	m	You liked it too.
+BETTY	f	Sure.  I loved it.
+CLAY	m	If you enjoy it, you should do it.
+BETTY	f	You know, I just can't do that anymore.  I still have time to get things right.  Get married again --
+CLAY	m	You mean us?
+BETTY	f	The look on your face!  You're not marriage material.  You're not even boyfriend material.  You're a kid. A big, fun, slightly irresponsible kid.
+CLAY	m	I'm not a kid.
+BETTY	f	What are you then?  What will you be ten years from now?  Still cutting lawns?  Still banging horny divorcees in your trailer?
+CLAY	m	I like my life.  I'm a free man.
+BETTY	f	Sure you're free, for now at least. But how long before you're just alone?  Pathetic and alone.
+CLAY	m	So you don't want to fuck.  That's what you're telling me?
+BETTY	f	Is that all this conversation means to you?  Am I going to put out or not?
+CLAY	m	Damn straight.  I'm sick of playing games.
+CLAY	m	Betty, look.  This is coming out all wrong --
+BETTY	f	From here on out, Boone, you're just another tired old face on the other side of the bar.
+CLAY	m	It's all shit!  Shit on by women! Shit on by the Marines.  Shit on by the world!  Fuck!
+CLAY	m	Fuuuck!
+HANNA	f	You will take them all, Mr. Jimmy?
+WHALE	m	I'll be fine, Hanna.  Thank you.
+HANNA	f	Good night.
+HANNA	f	Oh no, Mr. Jimmy.
+ELSA LANCHESTER	f	You done yet, love?  I am absolutely dying for a fag.
+BORIS KARLOFF	m	Goo' 'orning, 'ames.
+WHALE	m	Good morning.  And a very good morning to you.
+ELSA LANCHESTER	f	Uh-oh.  The way you look at me, James.  What have you done this time?
+WHALE	m	Bring a mirror.  Let the Bride feast upon her visage.
+ELSA LANCHESTER	f	Boris?  Do I look a fright?
+JACK	m	Behold, the Bride of Frankenstein.
+ELSA LANCHESTER	f	Oh, James.
+ELSA LANCHESTER	f	And you said there'd be some of me left.  Nobody's going to know me in this getup.
+WHALE	m	Nonsense, my dear.  You look extraordinary. Today's script.  Quick.  And a pencil.
+WHALE	m	Jack, I want to get on this right away.  Sorry, Boris, we won't get to you until this afternoon.
+BORIS KARLOFF	m	I 'ish you 'old 'e 'ooner.
+BORIS KARLOFF	m	I could have spent the morning tending to my roses.
+ERNEST THESIGER	m	My God.  Is the audience to presume that Colin and I have done her hair?  I thought we were mad scientists, not hairdressers.
+ELSA LANCHESTER	f	Only a mad scientist could do this to a woman.
+ERNEST THESIGER	m	Oh no, my dear.  You look absolutely amazing.  There's no way I can compete with you.  The scene is yours.
+ELSA LANCHESTER	f	In the sequel, James, two lady scientists should make a monster. And our monster would be Gary Cooper.
+ERNEST THESIGER	m	I would've thought Mr. Leslie Howard would be more your line.
+ELSA LANCHESTER	f	More your line.
+ERNEST THESIGER	m	My line nowadays runs to Rin Tin Tin.  Dogs are so much more dependable than men.
+WHALE	m	Colin?  Please.  It's time. How is he today?
+ERNEST THESIGER	m	Stiff as a board. Yes, Colin.  Come see what they've done to our Elsa.
+COLIN CLIVE	m	I'm not at my best today, Jimmy. A touch of flu, you know.
+WHALE	m	Relax, my boy.  You could do this scene in your sleep.
+ERNEST THESIGER	m	I gather we not only did her hair but dressed her.  What a couple of queens we are, Colin.
+WHALE	m	Yes, a couple of flaming queens. And Pretorius is a little in love with Dr. Frankenstein, you know.
+WHALE	m	Yes.  I think it's coming together. Shall we have a go?
+ASSISTANT DIRECTOR	m	Quiet on the set!
+ASSISTANT DIRECTOR	m	Lights!
+ASSISTANT DIRECTOR	m	Sound!
+SOUND MAN	m	Okay for sound.
+ASSISTANT DIRECTOR	m	Camera!
+CAMERA ASSISTANT	m	Scene two-fifteen.  Take one.
+WHALE	m	Action.
+ERNEST THESIGER	m	The Bride of Frankenstein!
+WHALE	m	Luminal.  Illumine all.
+WHALE	m	Thank you.  Thank you so much.
+WHALE	m	It isn't working.  The experiment is a failure.
+CLAY	m	Just go to sleep.
+WHALE	m	I'm up, Hanna.
+WHALE	m	What in God's name --
+CLAY	m	I told you to sleep.
+WHALE	m	Does the yardman come today?
+HANNA	f	Of course.  This afternoon.
+CLAY	m	Something I can do for you?
+HANNA	f	The Master wants to know if you are free for lunch.  I tell him you will be having other plans, but he insists I ask.
+CLAY	m	Got a lawn this afternoon, but I'm free until then.
+HANNA	f	Expect nothing fancy.
+HANNA	f	The Master is dressing.  I am to offer you a drink.  There is whiskey and there is iced tea.
+CLAY	m	Tea is fine.
+HANNA	f	No.  You are a guest now.  You go in the living room.
+CLAY	m	That's okay, Hanna.  I'm more comfortable in here.  It is Hanna, isn't it?
+CLAY	m	How long you worked for Mr. Whale?
+HANNA	f	Long enough.  Fifteen years.
+CLAY	m	I bet you've seen a lot of famous people come and go?  Movie stars?
+HANNA	f	No.  We live simply, Mr. Jimmy and I.  People come to play bridge. And now and then, young men to swim.  You have people, Boone?
+CLAY	m	You mean family?  All in Joplin, Missouri.
+HANNA	f	Your wife?
+CLAY	m	I'm not married.
+HANNA	f	Why?
+CLAY	m	Oh, I don't know.  Because no girl in her right mind will have me?
+HANNA	f	A man who is not married has nothing.  He is a man of trouble. You need a woman.
+CLAY	m	You proposing what I think you're proposing?  Don't you think I'm a little young for you?
+HANNA	f	Men.  Always pulling legs. Everything is comedy. "How very amusing.  How marvelously droll."
+CLAY	m	You ever been married, Hanna?
+HANNA	f	Of course.  I am married still.
+CLAY	m	Yeah?  What's your husband do?
+HANNA	f	He is dead now, twenty years.
+CLAY	m	Then you're as single as I am.
+HANNA	f	No.  I have children, grandchildren too.  I visit when I can.  But now that Mr. Jimmy cannot be left very long, I do not get away much. Poor Mr. Jimmy.  There is much good in him, but he will suffer the fires of hell.  Very sad.
+CLAY	m	You're sure of that?
+HANNA	f	This is what the priests tell me. His sins of the flesh will keep him from heaven.
+CLAY	m	Sins of the flesh?  Everybody has those.
+HANNA	f	No.  His is the worse. The unspeakable.  The deed no man can name without shame?
+HANNA	f	What is the good English?  All I know is bugger.  He is a bugger. Men who bugger each other.
+CLAY	m	A homo?
+HANNA	f	Yes!  You know?
+HANNA	f	That is why he must go to hell.  I do not think it fair.  But God's law is not for us to judge.
+CLAY	m	You're telling me Mr. Whale is a homo.
+HANNA	f	You did not know?
+CLAY	m	Well...no, not really --
+HANNA	f	You and he are not doing things?
+CLAY	m	No!
+HANNA	f	Good.  That is what I hope.  I did not think you a bugger too.  I fear only that you might hurt him if he tries.
+CLAY	m	I'm not going to hurt anyone.
+HANNA	f	Yes.  I trust you.
+HANNA	f	You must go in.  Quickly.  He will not like to think I have had you in the kitchen.
+WHALE	m	How are you, Mr. Boone?  So glad you are free for lunch.
+CLAY	m	All right, I guess.
+WHALE	m	I assume you worked up an appetite with your labor.
+WHALE	m	Forgive my rudeness.  At my age, the post is the cream of the day.
+WHALE	m	Do you mind?
+CLAY	m	Go ahead.
+WHALE	m	Hmmm?  Princess Margaret?
+WHALE	m	Her Majesty's Loyal Subjects in the Motion Picture Industry... Cordially invited...Reception at the home of...Mr. George Cukor!
+WHALE	m	That pushy little -- horning in on the Queen's sister, then offering to share her with the whole damn raj?  I live in this country to get away from this rubbish!
+WHALE	m	Is this David's doing?
+CLAY	m	This David's a friend?
+WHALE	m	Yes.  An old, useless friend.  You must excuse me, Mr. Boone.  This is a world I finished with long ago. I pay them no mind and expect them to return the compliment. Lunch should be ready.  Shall we?
+WHALE	m	Cheers.
+WHALE	m	Smells lovely, Hanna.
+CLAY	m	Saw your movie the other night. Watched it with some friends.
+WHALE	m	Did you now?
+CLAY	m	I liked it.  We all did.
+WHALE	m	Did anyone laugh?
+CLAY	m	No.
+WHALE	m	Pity.  People are so earnest nowadays.
+CLAY	m	Why?  Was it supposed to be funny?
+WHALE	m	Of course.  I had to make it interesting for myself, you see.  A comedy about death.  The trick is not to ruin it for anyone who isn't in on the joke. But the Monster never receives any of my gibes.  He is noble.  Noble and misunderstood.
+WHALE	m	In Korea, Mr. Boone?
+WHALE	m	Did you kill anyone?
+CLAY	m	I don't like to talk about that.
+WHALE	m	It's nothing to be ashamed of, in the service of one's country. That's something to be proud of.
+CLAY	m	Proud?  Any jerk with a gun can kill someone.
+WHALE	m	Quite true.  Hand-to-hand combat is the true test.  Did you ever slay anyone hand-to-hand?
+CLAY	m	No.  I could have, though.
+WHALE	m	Yes, I believe you could. How free is your schedule this afternoon?
+CLAY	m	Full up.  I got the hedges to do here, then another lawn out by La Cienega.
+WHALE	m	What is we say phooey to the hedges?  Could you spare an hour after lunch?  To sit for me?
+CLAY	m	Can't today.
+WHALE	m	I'll pay our going rate.  Plus what you'd get if you did the hedges.
+CLAY	m	Sorry.  I don't feel like sitting still today.
+WHALE	m	All righty.  I understand.
+WHALE	m	Use this.
+WHALE	m	Just a trim.  And mine while you're at it.  Fingers are a bit stiff today.
+CLAY	m	You ever been married, Mr. Whale?
+WHALE	m	No.  At least not in the legal sense.
+CLAY	m	So you had a wife?
+WHALE	m	Or a husband.  Depending on which of us you asked.  My friend David. He lived here for many years.
+WHALE	m	Does that surprise you?
+CLAY	m	No, I -- you're a homosexual.
+WHALE	m	Oh dear.  If one must have a clinical name.
+CLAY	m	I'm not, you know.
+WHALE	m	I never thought you were.
+CLAY	m	You don't think of me that way, do you?
+WHALE	m	What way might that be?
+CLAY	m	You know.  Look at me like -- like I look at women.
+WHALE	m	Don't be ridiculous.  I know a real man like you would break my neck if I so much as laid a hand on him. Besides, you're not my type.
+WHALE	m	So we understand each other?
+CLAY	m	What you do is no business of mine. Live and let live, I say.
+WHALE	m	I hope this has nothing to do with your refusing to sit for me today?
+CLAY	m	No.  I --
+WHALE	m	What are you afraid of, Mr. Boone? Certainly not a frail old man like me.
+CLAY	m	Can I see what you did so far?
+WHALE	m	It will only make you self-conscious.  You'll have to remove your shirt.
+CLAY	m	Sorry.  Not today.
+WHALE	m	But we have to match the other sketch.
+CLAY	m	I just feel more comfortable keeping it on.  You just said you didn't want me self-conscious.
+WHALE	m	Perhaps if we open the shirt and pull --
+WHALE	m	Oh dear.  I
+CLAY	m	I'm fine.  I'd just rather keep it on.
+WHALE	m	Suppose we unbutton the top and pull it down around your shoulders? Two buttons.  Is that so much to ask?  Just two little buttons.
+CLAY	m	No!  Look.  What you told me at lunch is still very weird for me. So either you sketch me like I am or I'll say forget it and go do your hedges.
+CLAY	m	I don't mean to be a prick, but that's how I feel.
+WHALE	m	Of course.  I don't want to scare you off.  Not before I'm finished with you.
+WHALE	m	Tell me more about yourself, Mr. Boone.  You have a steady companion?
+CLAY	m	Not at the moment.
+WHALE	m	Why not?
+CLAY	m	You know how it is.  You have to kiss ass just to get a piece of it.
+WHALE	m	Very well put.
+CLAY	m	The world is just one kiss-ass game after another.  A man has to make up his own life, alone.
+WHALE	m	Ah.  A philosopher.
+CLAY	m	Thoreau with a lawnmower.
+WHALE	m	I like that.  But take care, Mr. Boone.  Freedom is a drug, much like any other.  Too much can be a very bad thing.
+CLAY	m	Is that why you and your friend split up?  Because you wanted to be free?
+WHALE	m	In a way, yes.  I suppose so.  I know it's why I stopped making pictures.
+WHALE	m	You might not think it to look at me now, but there was a time when I was at the very pinnacle of my profession.  The horror movies were behind me.  I'd done "Show Boat." Major success.  Great box office. Now I was to do something important.  "The Road Back."  An indictment of the Great War and what it did to Germany.  It was to be my masterpiece.
+CLAY	m	What happened?
+WHALE	m	The fucking studio butchered it. It was 1937, Hitler's armies were already massing -- and still the New York bankers stood in line to curry his favor.  Anything to avoid losing the German market.  They cut away the guts and brought in another director to add slapstick. The picture laid an egg, a great expensive bomb.  For which I was blamed.
+WHALE	m	After that, I went out of fashion. I was no longer able to command the best projects, so I walked away.  Why should I spend my time working in such a dreadful business?
+CLAY	m	Do you miss it?
+WHALE	m	It's so far in the past now.  Over fifteen years --
+WHALE	m	Making movies was the most wonderful thing in the world. Working with friends. Entertaining people.  Yes, I suppose I miss it.  More so now that --
+WHALE	m	I think we all want to feel we've left our mark on the world.  Yes. I wish I had done more work.
+CLAY	m	You've done a helluva lot more than most people.
+WHALE	m	Better work.
+WHALE	m	But I chose freedom.  David was still in the thick of it, his life full of anxiety and studio intrigue.  I didn't fancy spending my golden years as merely "the friend."  The dirty little secret of a nervous producer.
+CLAY	m	How long were you...?
+WHALE	m	Twenty years.  Too long.  We were like a play whose run outlasted the cast's ability to keep it fresh. So I finally decided to close down the show.
+WHALE	m	When all fetters are loosened, a certain hedonism creeps in, don't you think?  There was a period when this house was overrun with young men.  Some even posed for me. Right where you're sitting now.
+WHALE	m	Of course, they weren't nearly as bashful.  No, this room was once filled with bare buttocks.  And pricks.  Hard, arrogant pricks --
+CLAY	m	Cut it out!
+CLAY	m	Fuck it.  I can't do this anymore.
+CLAY	m	Isn't it enough you told me you're a fairy?  Do you have to rub my nose in it?
+WHALE	m	I assure you, Mr. Boone, I meant no --
+CLAY	m	From now on, Mr. Whale, I cut your grass and that's it.  Understand?
+YOUNG MAN	m	Come on, Jimmy.  Watch me dive.
+WHALE	m	I think I'll just rest for a moment.
+WHALE	m	I think we're ready to go.
+WHALE	m	You're up, Mr. Boone.
+WHALE	m	The extras are in their places. Now we need the star.  Wouldn't you like to get in the pool?
+CLAY	m	You first.
+WHALE	m	Oh no.  I never swim.
+WHALE	m	You'll have to remove that shirt.
+CLAY	m	Do you mind turning on a light? It's getting pretty soupy out here.
+OWNER	m	Should have been here when you said you would.  You whack off a tow, don't think about taking me to court.
+CLAY	m	You're lucky I even squeezed you in today.
+OWNER	m	Don't take that tone with me, bub. There's Japs in this town that work cheaper and do flowers too.
+CLAY	m	Will you just turn on the porch light?  Sir?
+CLAY	m	Where's Betty?
+HARRY	m	She took the night off.  Heavy date.  Some guy she's had her eye on for a while.
+CLAY	m	Thanks a lot, pal.
+CLAY	m	Dwight!
+DWIGHT	m	Hey, Boone.
+CLAY	m	Have a drink?
+LIBRARIAN	m	Here are the trade newspapers you wanted.
+WHALE	m	Who was that at the door?
+HANNA	f	A visitor.
+WHALE	m	Thank you, Hanna.  That will be all.
+WHALE	m	Mr. Boone.  You're not due to cut the lawn until Wednesday.
+CLAY	m	I'd like to sit for you again.  But only if you ease up on the locker room talk.  Okay?
+WHALE	m	Scout's honor.
+WHALE	m	I'm curious, Mr. Boone.  What convinced you to come back?
+CLAY	m	I don't know.  I guess I like your stories.
+WHALE	m	Everybody has stories to tell.
+CLAY	m	Not me.
+WHALE	m	What about your stint in Korea? I'm sure it was full of dramatic episodes.
+CLAY	m	I told you.  I don't like to talk about that.
+WHALE	m	And the fear you showed at our last session?  How did you overcome that?
+CLAY	m	Not fear.  More like disgust.
+WHALE	m	Same difference, Mr. Boone. Disgust, fear of the unknown -- all part of the great gulf that stands between us.  Am I right in assuming that you've had little experience with men of my persuasion?
+CLAY	m	There's no people like you in my crowd.
+WHALE	m	No teammates in football?  No comrades in Korea?
+CLAY	m	You must think the whole world is queer.  Well it's not.  War sure isn't.
+WHALE	m	Oh, there may not be atheists in the foxholes, but there are occasionally lovers.
+CLAY	m	You're talking through your hat now.
+WHALE	m	Not at all.  I was in the foxholes myself.
+CLAY	m	You were a soldier?
+WHALE	m	I was an officer.
+CLAY	m	This was World War I?
+WHALE	m	No, my dear.  The Crimean War. What do you think?  The Great War. You had a Good War, while we had --
+WHALE	m	-- a war without end.  There were trenches when I arrived, and trenches when I left, two years later.  Just like in the movies. Only the movies never get the stench of them.  The world reduced to mud and sandbags and a narrow strip of rainy sky. But we were discussing something else.  Oh yes.  Love in the trenches.
+WHALE	m	Barnett.  Was that his name? Leonard Barnett.  He came to the front straight from Harrow.  And he looked up to me.  Unlike the others, he didn't care that I was a workingman impersonating his betters.  How strange, to be admired so blindly.  I suppose he loved me.  But chastely, like a schoolboy.
+CLAY	m	Something happened to him?
+WHALE	m	I remember one morning in particular.  A morning when the sun came out.
+WHALE	m	Odd, how even there one could have days when the weather was enough to make one happy.  He and I were standing on the fire step and I showed him the sights of no-man's land, through the periscope.  It was beautiful.  The barbed wire was reddish gold, the water in the shell holes green with algae, the sky a clear quattrocento blue.  And I stood shoulder to shoulder with a tall apple-cheeked boy who loved and trusted me.
+WHALE	m	Don't do this to me again, Mr. Boone.  I absolutely refuse.
+WHALE	m	You will not set me on another walk down memory lane.  Not this lane. Not today.
+CLAY	m	I didn't --
+WHALE	m	Why do I tell you this?  I never told David.  I never even remembered it until you got me going.
+CLAY	m	You're the one who started it.
+WHALE	m	You're very clever, Mr. Boone.  You just sit there and let me talk. What a sorry old man, you're thinking.  What a crazy old poof. Why are you here?  What do you want from me?
+CLAY	m	You asked me to model.  Remember?
+WHALE	m	Of course I remember.  Do you think I'm so senile --
+CLAY	m	Mr. Whale?  Are you okay?
+WHALE	m	Stupid.  Very stupid.  What have I been thinking?
+WHALE	m	Just go.  Please.  Why don't you go?
+CLAY	m	I don't get it.  First you creep me out with homo shit.  Then you hit me with war stories.  And now you're upset because I listen? What do you want?
+WHALE	m	I want -- I want...
+WHALE	m	I want a glass of water.
+WHALE	m	A touch of headache.
+WHALE	m	Thank you.
+WHALE	m	My apologies.  I had no business snapping at you.
+CLAY	m	No harm done.
+WHALE	m	It was foolishness to attempt this portrait.  You cannot force what will not flow.
+CLAY	m	You don't want me to sit for you anymore?
+WHALE	m	How would you like to come to a party with me?  A reception for Princess Margaret.
+CLAY	m	I thought you weren't going.
+WHALE	m	If you don't mind driving, I'd like to take you as my guest.  There should be lots of pretty starlets to keep you amused.
+CLAY	m	I'm game.  Sure.
+WHALE	m	Very good, Clayton.  May I call you Clayton?  Or do you prefer Boone?
+CLAY	m	Clayton is fine.
+CLAY	m	Mom?  Yeah, it's me.
+CLAY	m	No, I'm not in jail...I don't want any money, no... Look, is Sis there?  I want to tell her about this movie person I met out here.  She'll get a kick out of it.
+CLAY	m	No, I still...I'd give you my phone number if I had a phone --
+CLAY	m	How's the old man?
+CLAY	m	Right.
+CLAY	m	Time's up.  I better go.
+HANNA	f	Mr. Boone.  He is an interesting friend.
+WHALE	m	I'd hardly call our yardman a friend.
+HANNA	f	No.  But someone you can talk to.
+WHALE	m	Do you miss having someone to talk to, Hanna?
+HANNA	f	I have my family.  Also our Lord Jesus Christ.
+WHALE	m	Of course.  How is the old boy these days?
+WHALE	m	It needs a hat.  There was a wide-brimmed cream fedora...
+HANNA	f	It must be up in your old room.  I will look.
+WHALE	m	Gas masks on.  Gas masks on.
+BARNETT	m	Don't mind me, Lieutenant.  Save yourself.
+HANNA	f	Oh, Mr. Jimmy.  You make a mess of it.  Here.
+HANNA	f	That is my daughter.  She say she and her husband are coming to town this afternoon.  I am sorry, Mr. Jimmy.  I will make it short.
+WHALE	m	I'll be out this afternoon, remember?  Your family can visit as long as they like.
+HANNA	f	No.  I do not cook for them.  My daughter's no-good husband will not take one bite of our food.
+WHALE	m	You can toss this one in the trash.
+WHALE	m	Good afternoon, Clayton.
+CLAY	m	Do I look okay?
+WHALE	m	You look splendid, my boy.  Quite splendid.
+WHALE	m	I suppose you'd like the top down.
+CLAY	m	If that's okay?
+WHALE	m	Nothing would please me more.
+WHALE	m	Stars, you know.  The suns of other galaxies.
+WHALE	m	Good old George.  He loves to put on the dog.  Only his dogs tend to have a bit of mutt.
+WHALE	m	What did I tell you?  Listen.
+CLAY	m	I don't hear anything.
+WHALE	m	Exactly.  Cukor was too cheap to hire music.  There's nothing but chin-wag.  The cold dreary custard of English chin-wag.
+WHALE	m	Slim pickings.  Well, it's early yet.  Perhaps this is a good time to pay our respects.
+WHALE	m	Let's get this over with quickly.
+PRINCESS MARGARET	f	I had no idea you'd be here.
+PRINCESS MARGARET	f	How are you?
+WHALE	m	Fine.  Quite fine.  And Your Royal Highness?
+PRINCESS MARGARET	f	Splendid.  Now that I know you're around.
+PRINCESS MARGARET	f	Can we get together while I'm in town?  I so badly want to sit for you again.
+WHALE	m	Sit?
+PRINCESS MARGARET	f	I've changed my hair, you see. Since our last session.  Those old snaps look rather dowdy now.
+PRINCESS MARGARET	f	Oh dear.  Have I made a blunder?
+WHALE	m	Ma'am, the pleasure is all mine.  James Whale.
+PRINCESS MARGARET	f	I am such a goose.  I mistook you for Cecil Beaton.  It's the hat. You're wearing one of Cecil's hats, you know.
+WHALE	m	Hello, George.  James Whale.  David Lewis's friend.  I once made pictures myself, Ma'am.
+GEORGE CUKOR	m	Yes.  Of course.  One can't throw a rock in this town without hitting one of us old movie directors.
+WHALE	m	Ma'am, may I present Mr. Clayton Boone?
+WHALE	m	My gardener, who insisted I bring him today.  He so wanted to meet royalty.
+CLAY	m	Pleased to meet you.
+PRINCESS MARGARET	f	Quite.  I adore gardens.
+WHALE	m	He's never met a princess.  Only queens.
+WHALE	m	George, Ma'am, this has been an honor.  An occasion to remember for the rest of my days.
+CLAY	m	What was that about?
+WHALE	m	Nothing of importance.  Just two old men slapping each other with lilies.  Shall we have a drink?
+CLAY	m	Who's that?
+WHALE	m	David.  The friend I thought was in New York.
+CLAY	m	No.  The girl.
+WHALE	m	Girl?  Oh.  Elizabeth Taylor.
+CLAY	m	Is that really her?
+WHALE	m	David produced her last picture.
+DAVID	m	What are you doing here?
+WHALE	m	Just what I was about to ask you. I thought you were in New York.
+DAVID	m	I was, until last night.  Publicity asked me to fly Miss Taylor in for today's reception.
+DAVID	m	David Lewis.
+CLAY	m	Clay Boone.
+WHALE	m	Our yardman.  Who was kind enough to serve as my escort to George's little do.
+DAVID	m	Should you be drinking in your condition?
+WHALE	m	Oh, David, stop being a nanny.
+CLAY	m	I think I'll go look at Elizabeth Taylor.
+WHALE	m	You should have seen Georgie's face when he met Clayton.
+DAVID	m	You didn't, Jimmy.
+WHALE	m	I did.  But Princess Margaret was a doll.  We're all equals in her eyes.  As commoners, I presume.
+DAVID	m	You only embarrass yourself.
+WHALE	m	Oh dear.  I'll never work in this town again?
+DAVID	m	You know what I mean.  Your reputation.
+WHALE	m	But I have no reputation.  I'm as free as the air.
+DAVID	m	Well the rest of us aren't.  Can't you remember that?
+WHALE	m	No.  I never could.  You must regret having had the invitation sent.
+DAVID	m	I didn't ask George to invite you.
+WHALE	m	Then who did?
+DAVID	m	Jimmy, there are people here I need to speak to.  You'll be fine on your own?
+WHALE	m	Yes.  Perfectly.
+DAVID	m	All right, then.  I'll come by tomorrow for breakfast.
+KAY	?	Mr. Whale!
+WHALE	m	Mr....Kay?
+KAY	?	Bet you thought you'd never see me again.  I didn't know if you'd be well enough to come to this party.
+WHALE	m	You didn't?
+KAY	?	I'm the one who got you on Mr. Cukor's guest list.
+WHALE	m	You, Mr. Kay?  How do you know George Cukor?
+KAY	?	I interviewed him after I met you. I'm his social secretary now. Well, assistant to his secretary.
+WHALE	m	I commend you.  If you're going to pursue poofs, go after those who can do favors for you.  You waste everybody's time when you court dinosaurs.
+KAY	?	Don't think that, Mr. Whale.  I love your movies.  That's why I wanted you to come to this.  So I could see you with your monsters.
+WHALE	m	My monsters?
+KAY	?	Don't go away.
+ELSA LANCHESTER	f	Jimmy.  How are you?
+WHALE	m	Elsa?
+ELSA LANCHESTER	f	I saw Una O'Conner a few weeks ago. She said you'd been under the weather.
+WHALE	m	Oh, nothing out of the ordinary. Growing old.
+ELSA LANCHESTER	f	We're all getting a bit long in the tooth.
+WHALE	m	But you appear quite fresh, my dear.
+ELSA LANCHESTER	f	Please.  You shouldn't stand on my account.
+WHALE	m	Perfectly all right.  But if you'd like to sit --
+ELSA LANCHESTER	f	I'm fine, Jimmy.  I can only stay a few minutes.
+WHALE	m	Of course.
+ELSA LANCHESTER	f	What's our pesky friend up to now?
+ELSA LANCHESTER	f	Is that Boris?  Our little chum appears to be arranging a reunion.
+WHALE	m	Oh dear.
+ELSA LANCHESTER	f	Boris, darling.  I didn't know you were here.  These public revels are hardly up your alley.
+BORIS KARLOFF	m	I came for the sake of my visiting niece.  Alice.  And Miranda, my great-niece.
+ELSA LANCHESTER	f	And what do you make of our royal visitant?
+BORIS KARLOFF	m	Perfectly charming.  A real lady.
+ELSA LANCHESTER	f	Of course she's a lady.  What did you expect?  A hussy in tennis shoes?
+KAY	?	Hey, you!  With the camera!  We got a historical moment here.  Come get a picture of it.
+KAY	?	This is Mr. James Whale, who made "Frankenstein" and "Bride of Frankenstein."  and this is the Monster and his Bride.
+PHOTOGRAPHER	m	Oh, Karloff.  Right.
+ELSA LANCHESTER	f	Don't you just love being famous?
+ELSA LANCHESTER	f	Are you all right, Jimmy?
+PHOTOGRAPHER	m	Let me get one with Frankenstein holding the kid.
+PHOTOGRAPHER	m	Got it!
+BORIS KARLOFF	m	So good to see you again, James.
+KAY	?	Catch you before you go, Mr. Whale. I'll make sure everybody gets sent a print.
+ELSA LANCHESTER	f	We'll be in touch, Jimmy.
+WHALE	m	Good-bye.  So nice to see you...
+CLAY	m	You okay?
+WHALE	m	Tired.  A bit tired.
+WHALE	m	Are you enjoying yourself?
+CLAY	m	Actually, no.  I feel a little out of place.
+WHALE	m	Neither of us really belongs here.
+CLAY	m	Must have been funny for you. Seeing your monsters again.
+WHALE	m	Monsters?  The only monsters... ...are here.
+CLAY	m	Oh fuck.  And we left the top down. You want to run for it?
+WHALE	m	Run for what?
+CLAY	m	Can't you see?  It's raining!
+CLAY	m	Here.
+CLAY	m	Mr. Whale?
+WHALE	m	Let's get out of this funk hole
+CLAY	m	You don't want to wait it out? Rain should let up soon.
+WHALE	m	We're not sugar.  We won't melt.
+CLAY	m	I better get you home before you catch your death from pneumonia.
+WHALE	m	Catch my death.
+CLAY	m	You all right, Mr. Whale?
+WHALE	m	Jimmy.  Please.  Call me Jimmy.
+WHALE	m	Hanna!  Bring us some towels. We're drenched to the bone!
+WHALE	m	Blast her.  If we soil her holy floor, it's her own damn fault.
+WHALE	m	I don't believe this.
+WHALE	m	It's not like her.
+CLAY	m	Just a night out.  Sounds like she can't say no to her daughter.
+WHALE	m	Certainly you have better things to do than babysit an old man?
+CLAY	m	Good.  Let's get dry.
+WHALE	m	What do you think?
+CLAY	m	Mr. Whale?
+CLAY	m	Where's those clothes you promised?
+WHALE	m	He trusts me, you know.
+CLAY	m	Mr. Whale?  Jimmy?
+CLAY	m	Mr. Whale?
+WHALE	m	Oh, of course.  Clayton.  You finished your shower already?
+CLAY	m	Ten minutes ago.  Didn't you hear me calling?
+WHALE	m	I'm afraid not.  Terribly sorry. I believe I promised you some clothes.
+WHALE	m	You're much wider than I am.  You won't want to attempt to get into my pants.
+CLAY	m	No.  Definitely not.
+WHALE	m	Very good, Clayton.
+WHALE	m	I know.
+WHALE	m	Absolutely swims on me, but should take care of your upper half.
+WHALE	m	That only leaves the rest.
+CLAY	m	You don't have any baggy shorts? Pajama bottoms?
+WHALE	m	Sorry.  My pajamas are tailored. Would it be too distressing to continue with the towel?  No more immodest than a kilt, you know.
+CLAY	m	Do I have any other choice?
+WHALE	m	Very sporting of you, Clayton.
+CLAY	m	Is that --?
+WHALE	m	The only memento I ever kept.  My original sketch for the Monster.
+WHALE	m	Shall we?
+WHALE	m	After dinner, if Hanna isn't back? Can we try a few more sketches?
+CLAY	m	I thought you'd given up on my picture.
+WHALE	m	I'd like to try again.  If you're game.
+CLAY	m	Why not?  Give us something to do while we wait.
+WHALE	m	Tell me something, Clayton.  Do you believe in mercy killing?
+CLAY	m	Never gave it much thought.
+WHALE	m	Come now.  I'm sure you came across such situations in Korea.  A wounded comrade, or perhaps one of the enemy?  Someone for whom death would be a blessing.
+CLAY	m	I never went.
+CLAY	m	I never made it to Korea.
+WHALE	m	But you said --
+CLAY	m	-- that I was a Marine.  Which is true.  You filled in the rest.
+WHALE	m	I see.
+CLAY	m	My old man was a Marine.  He enlisted the day he turned seventeen.
+WHALE	m	The Great War?
+CLAY	m	By the time he was ready to ship out, the fighting was over.  He missed out.
+WHALE	m	A very lucky thing indeed.
+CLAY	m	That's not the way he saw it.  To him, it was like his life never got started.  Nothing else really mattered.  Definitely not his family.
+CLAY	m	The morning after Pearl Harbor, he drove down to St. Louis to reenlist.  He was so damn excited. World War II was going to be his second chance. They told him he was too old...fat ...nearsighted.  Said he'd be more use to his country if he stayed home and looked after his family.
+WHALE	m	Is that why you joined the Marines? For your father's sake?
+CLAY	m	I figured he'd think, you know -- it was the next best thing.  Hey, I loved it too.  A chance to be a part of something important. Something bigger than yourself.
+WHALE	m	What happened?
+CLAY	m	I didn't have the guts for it.
+CLAY	m	I mean, literally.  My body screwed me up.  Burst appendix. They gave me a medical discharge. All I thought about was, how am I going to tell the old man.
+CLAY	m	You know what he did when I called him?  He laughed.  He laughed so hard he practically burst a blood vessel.  Said it was a good lesson for me.  Not to try to fill his shoes.
+WHALE	m	I'm very sorry.
+CLAY	m	Them's the breaks, right?  No war stories for this pup.
+WHALE	m	That's where you're wrong, Clayton. You've just told one.  A very good story indeed.
+CLAY	m	Do you mind?
+WHALE	m	Not at all.
+CLAY	m	Storm's getting worse.
+WHALE	m	"A perfect night for mystery and horror.  The air itself is filled with monsters."
+CLAY	m	That's from your movie, right? "The only monsters are here."
+WHALE	m	I don't remember that one.
+CLAY	m	James Whale.  This afternoon at the party.
+CLAY	m	I said it must be weird seeing your monsters again, and you said, "The only monsters are here."  I was wondering which here you meant.
+WHALE	m	I don't recall.  Memories of the war, perhaps.
+CLAY	m	But that was so long ago.  It can't still bother you.
+WHALE	m	Oh, but it does.  Especially in light of the journey I'm about to make.
+CLAY	m	You're planning a trip?
+WHALE	m	Barnett.  Barnett on the wire.
+CLAY	m	Your friend?
+WHALE	m	He caught his one night coming back from the reconnoiter.  I wouldn't take him out, but McGill did.  Just to give the lad a taste.  They were nearly home when a Maxim gun opened fire.
+WHALE	m	Come on.  Come on.
+WHALE	m	Barnett's body fell in wire as thick as briers.  It was hanging there the next morning, a hundred yards from the line, too far out for anyone to fetch it.
+WHALE	m	We saw him at morning stand-to and evening stand-to.  "Good morning, Barnett," we'd say each day. "How's ole Barnett looking this morning?"  "Seems a little peaky. Looks a little plumper."  His wounds faced the other way and his hat shielded his eyes, so one could imagine he was napping on bedsprings.  He hung there until we were relieved.  We introduced him to the new unit before we marched out, speaking highly of his companionship.
+WHALE	m	Oh, but we were a witty lot. Laughing at our dead.  Telling ourselves it was our death too. But with each man who died, I thought, "Better you than me, poor sod." A whole generation was wiped out by that war.  Millions and millions of young men.
+WHALE	m	Oh death where is thy sting-a-ling? Grave where thy victory?
+CLAY	m	You survived it.  It can't hurt you now.  It's no good to dig it up.
+WHALE	m	Oh no, my friend.  It's digging itself up.  There is nothing in the here and now to take my mind off it.  All my diversions have abandoned me.  Parties.  Reading. Painting.  Work.  Love.  All gone to me now.
+CLAY	m	You wanted to draw me like a Greek statue.  All right, then.
+CLAY	m	There.  Not so bad.
+WHALE	m	So it is going to happen after all.
+CLAY	m	What'd you say?
+WHALE	m	No.  It won't do.
+CLAY	m	What won't do?
+WHALE	m	You are much too human.
+CLAY	m	What did you expect?  Bronze?
+WHALE	m	Don't move.
+WHALE	m	I would like you to wear this?
+CLAY	m	Why?
+WHALE	m	For the artistic effect.  The combination of your human body and that inhuman mask.  It's quite striking.
+CLAY	m	I don't know.
+WHALE	m	Please, Clayton.  Just for a minute.  Long enough for me to see the effect.
+CLAY	m	It's from the first World War, isn't it?
+WHALE	m	There are straps in back.
+WHALE	m	Let me help you.
+CLAY	m	Now what?
+CLAY	m	All right.  Let's take it off now.
+WHALE	m	What was that?
+CLAY	m	It's too tight.
+WHALE	m	Allow me.
+WHALE	m	We don't want to tear the straps.
+WHALE	m	Oh yes.  I am still here.
+WHALE	m	What steely muscles, Clayton.
+CLAY	m	Just take off the fucking mask!
+WHALE	m	Relax, Clayton.  I can't hear you. I can't hear a word.
+WHALE	m	What a solid brute you are.
+WHALE	m	No?  Maybe this, then?
+WHALE	m	Oh yes.  I have you now.
+CLAY	m	Get the fuck off!
+WHALE	m	What will you do to get yourself back?
+CLAY	m	I'm not that way.  Get it through your fucking head.  I don't want to mess with you.
+WHALE	m	Oh, but you feel good, Clayton.
+WHALE	m	That didn't even sting.  You're not such a real man after all.  Are you?
+WHALE	m	Wait until I tell my friends I had you naked in my arms.  Won't they be surprised?
+CLAY	m	I haven't done a damn thing with you!
+WHALE	m	Oh, but you have.  You undressed for me.  I kissed you.  I even touched your prick.  How will you be able to live with yourself?
+CLAY	m	What the hell do you want from me?!
+WHALE	m	Break my neck.  Or strangle me.  It would be oh so easy to wrap your hands around my neck and choke the life out of me.  Please, Clayton. We've come this far.
+CLAY	m	You're crazy.
+WHALE	m	Exactly, I'm losing my mind. Every day, another piece goes. Soon there will be nothing left. Look at the sketch I made of you.
+CLAY	m	Look, if you want to die do it yourself!
+WHALE	m	No, I don't want to die alone.  But to be killed by you -- that would make death bearable.  They say you never see the one with your name on it.  But I want to see death coming at me.  I want it to be sharp and hard, with a human face.  Your face.  Think, Clayton.  You'd be my second Monster.  Almost as famous as the first.  It would be the great adventure you've yearned for. A war story for both of us to share.
+WHALE	m	You'd be fully exonerated, I've taken care of that.  I wrote a note, I'll even leave you the house, the car...
+WHALE	m	Do it now, Clayton.  Make me invisible.
+CLAY	m	I am not your monster.
+WHALE	m	What have I done? Oh, selfish, selfish fool.  I
+WHALE	m	What was I thinking?
+WHALE	m	You're a softhearted bloke.  A bloody pussycat.
+WHALE	m	My deepest apologies.  Can you ever forgive me?
+WHALE	m	I suppose not. Good God, I am tired.  I really must go to bed.
+CLAY	m	You okay?
+WHALE	m	Oh Clayton.
+CLAY	m	Did I hurt you?
+WHALE	m	Nothing I didn't deserve.
+CLAY	m	Need some help?
+WHALE	m	Pray you, undo this button.
+WHALE	m	I can never manage it when I'm tired.
+WHALE	m	Do you believe people come into our lives for a reason?
+WHALE	m	I can undress myself, thank you.
+CLAY	m	All right.
+WHALE	m	When you die...be sure your brain is the last organ to fizzle --
+CLAY	m	You'll feel better tomorrow.
+WHALE	m	Tomorrow and tomorrow and tomorrow...
+WHALE	m	Goodnight, Clayton.
+HANNA	f	Hello?  Oh, Mr. David!
+HANNA	f	No, no, he did not tell me.  But no problem.  I will make breakfast.
+HANNA	f	Ten?  Very good, then.  Good-bye.
+CLAY	m	It's not what you think.
+HANNA	f	I have brought you your clothes. All I ask is that you get dressed and go.  We are having a guest for breakfast.
+CLAY	m	I need to talk to you about Mr. Whale.
+HANNA	f	There is nothing you can say that will surprise me.
+CLAY	m	Maybe.  But I still need to talk. Do I have time for a cup of coffee before I go?
+HANNA	f	I blame my daughter for keeping me out so late.  I only hope you did not get him excited.  It could give him a new stroke.
+CLAY	m	Thanks. Why do you do it?
+HANNA	f	What do I do?
+CLAY	m	Take care of Mr. Whale like he was your flesh and blood.
+HANNA	f	It is my job.  I did it when he was happy and it was easy.  It is only fair I do it now when he is ill. Enough talk.  I must wake up the master.
+HANNA	f	Mr. Jimmy?  Morning, Mr. Jimmy.
+HANNA	f	What have you done with him?
+CLAY	m	I put him to bed.  He's not there?
+HANNA	f	Mr. Jimmy!  Mr. Jimmy!
+HANNA	f	Look for him!
+CLAY	m	No.
+CLAY	m	Almost there.  Almost there.
+CLAY	m	Son of a bitch.  You crazy son of a bitch.
+HANNA	f	Ohhh!
+CLAY	m	I didn't do it.  This wasn't me.
+HANNA	f	Oh, Mr. Jimmy.
+CLAY	m	He wanted me to kill him, but I didn't.  He did it himself.
+HANNA	f	He says here good-bye.  I find it in his room.  He is sorry, he says. He has had a wonderful life.
+HANNA	f	You poor, foolish man.  You couldn't wait for God to take you in his time?
+HANNA	f	You must leave.  You were not here this morning.
+CLAY	m	But I didn't do this!
+HANNA	f	The police will not know that. They will want to investigate.
+CLAY	m	We have his note.
+HANNA	f	Do you want to be questioned about you and Mr. Jimmy?  Please, Clayton.  It will be better if I find the body alone.
+CLAY	m	But how're you going to explain this? How did you get him out of the pool?
+HANNA	f	You are right.  Yes.  We must put him back.
+HANNA	f	Poor Mr. Jimmy.  We do not mean disrespect.  You will keep better in water.
+BLIND MAN	m	Who is it?  You're welcome, my friend, whoever you are.
+BLIND MAN	m	I cannot see you.  I cannot see anything.  You must please excuse me.  But I am blind.
+BLIND MAN	m	Come in, my poor friend.  No one will hurt you here.  If you're in trouble, perhaps I can help you.
+BLIND MAN	m	Can you not speak?  It's strange. Perhaps you're afflicted too.  I cannot see and you cannot speak.
+BLIND MAN	m	It's been a long time since any human being came into this hut.  I shall look after you.  And you will comfort me.
+BLIND MAN	m	We are friends, you and I. Friends.
+MONSTER	m	Friends.
+BLIND MAN	m	Before you came, I was all alone. It is bad to be alone.
+MONSTER	m	Alone, bad.  Friend, good.
+MONSTER	m	Friend, good.
+CLAY	m	Time for bed, sport.
+CLAY	m	What'd you think of the movie?
+MICHAEL	m	Pretty cool.  Better than most monster movies.
+CLAY	m	I knew the guy who made it.
+MICHAEL	m	Come on, Dad.  Is this another one of your stories?
+CLAY	m	Here.
+CLAY	m	It's his original sketch of the Monster.
+MICHAEL	m	This is for real?
+DANA	f	The trash, Clay.  Before it rains.
+CLAY	m	Okay.
+CLAY	m	Off to bed.
+

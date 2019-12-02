@@ -1,0 +1,656 @@
+FRY	m	Hear me? Cap'n? Some kinda compromise to the hull...holding for now, but...Goddamn, I'm glad you're alive. Gotta pull your E-release...no, red handle, red handle. I'll get the warm-ups out while --
+OWENS	m	Why did I fall on you?
+FRY	m	He's dead. Cap'n's dead. Christ, I was looking right at him when --
+OWENS	m	I mean, I mean, chrono shows we're 22 weeks out, so gravity wasn't supposed to kick in for another 19. I mean, I mean, I mean, why did I fall
+FRY	m	You hear me? Captain's dead. Owens too.
+OWENS	m	Oh, no. Not Owens, not.... Wai', wai', wait.
+FRY	m	Cryo-sleep. Swear to God, it sloughs brain cells.
+FRY	m	1550 millibars, dropping 20 MB per minute, shit, we're hemorrhaging air.
+OWENS	m	Just tell me we're still in the shipping lane. Just show me all those stars, all those bright, beautiful, deep-space....
+FRY	m	Jesus God....
+OWENS	m	They trained you for this, right? Fry?
+OWENS	m	... crisis program selected Number Two of this system because it shows at least
+OWENS	m	...showing no major water bodies...maximum terrain, 220 meters over mean surface... largely cinder and gypsum with some evaporite deposits....
+OWENS	m	Fry? What're you doing?
+OWENS	m	Fry?
+FRY	m	Can't get my nose down...too much load back there....
+OWENS	m	You mean that "load" of passengers?
+FRY	m	So what, we should both go down too? Out of sheer fucking nobility?
+OWENS	m	Look, Fry. Company says we're responsible for every one of those --
+FRY	m	Company's not here, is it?
+OWENS	m	When captain went down, you stepped up -- whether you like it or not. Now they train you for this, so --
+FRY	m	And there wasn't a simulated cockroach alive within 50 clicks of the simulated crash site!
+OWENS	m	Don't touch that switch!
+FRY	m	I'm not dying for them.
+FRY	m	Owens!
+OWENS	m	70 seconds! You still got 70 seconds to level this beast out!
+OWENS	m	What the shit was that?
+AUDREY	f	Somethin' went wrong, huh?
+JOHNS	m	One chance and you blew it, Riddick. Never cease to disappoint me.
+FRY	m	Hey.
+JOHNS	m	Hey, who?
+FRY	m	Hey, me. Over here.
+JOHNS	m	Amazing. I'm Johns.
+FRY	m	Carolyn Fry. I'd shake hands, but...
+FRY	m	Are there any others, Johns?
+OWENS	m	Out, out, out, GET IT OUTTA ME!
+VOICES	m	Pull it out of him...No, it's too close to the heart...You gotta do it, just do it fast....
+OWENS	m	Don't touch it! Don't touch that switch!
+VOICES	m	You'll kill him, I'm tellin' you, shit, just leave it alone...delirious...doncha you got some drugs for this poor man....
+OWENS	m	Don't touch that switch!
+FRY	m	Awright, awright, someone...there's Anestaphine in the med-lock, that end of the cabin...next to....
+FRY	m	Get away. Everybody.
+PARIS	?	Well. Our own little slice of heaven.
+IMAM	m	Please...which way to New Mecca? We must know the direction in order to pray.
+JOHNS	m	Big talk about a scouting party...
+JOHNS	m	...then we saw this.
+PARIS	?	Anyone else having breathing problems? Aside from me?
+AUDREY	f	Like I just ran, or something....
+SHAZZA	f	Feel one lung short. All of us.
+PARIS	?	Well, I tend toward the asthmatic. And with all this dust....
+FRY	m	It's the atmosphere. Too much pressure, not enough oxygen. Might take a few days to --
+ZEKE	m	So what the bloody hell happened, anyways?
+FRY	m	Somethin' knocked us off-lane. Maybe a rogue comet. Maybe we'll never know.
+SHAZZA	f	Well, I for one, am thoroughly fucking grateful. This beast wasn't made to land like this. But cripes, you rode it down. C'mon, you lousy ingrates, only reason we're alive is a'cuzza her.
+FRY	m	Liquid oxygen canisters inside. Start ripping them out. Quick hits only -- try to make it last.
+AUDREY	f	Well, is someone coming for us? Or are we all just gonna die of exposure or dehydration or sunstroke or maybe even something worse? Hey, you don't have to worry about scaring me.
+SHAZZA	f	We're worried you'll scare us. Name's "Audrey," right, love? And you're goin' to Taurus Three like we were?
+AUDREY	f	Yeah, but...do we even have enough food to get there? Or will we have to resort to cannibalism?
+ZEKE	m	I'll see 'bout makin' this air go a bit further, cap'n. With your permission, a' course.
+FRY	m	And him?
+JOHNS	m	Big Evil?
+FRY	m	We just keep him locked up forever?
+JOHNS	m	Be my choice. Already escaped once from the max-slam facility on --
+FRY	m	I don't need his life story. Is he really that dangerous?
+JOHNS	m	Only around humans.
+FRY	m	Oh, Christ....
+ZEKE	m	Well? Is it just the pump?
+FRY	m	Ask if anyone has anything in cargo! Anything to drink!
+PARIS	?	Mine here....
+FRY	m	S'matter?
+JOHNS	m	Little swamp-flu from the Conga system. Never shook it with all this cryo-sleep.
+JOHNS	m	King Tut's tomb....
+PARIS	?	Be surprised what these will fetch in the Taurus system. Here. This Wooten here -- easy, easy. Very rare.
+FRY	m	This is it? Booze?
+PARIS	?	200-year-old single-malt scotch is to "booze" as foie gras is to "duck guts."
+JOHNS	m	A toast to whatever he just said.
+PARIS	?	I'll need a receipt for that. For all these.
+FRY	m	Top of my list.
+FRY	m	I don't suppose....
+IMAM	m	One of the Christian habits we
+JOHNS	m	For what? There is no water. You understand that, don't you?
+IMAM	m	All deserts have water, somewhere. God shall lead us there.
+JOHNS	m	Like we needed another way to die.
+JOHNS	m	What the hell are these?
+PARIS	?	Maratha crow-bill war-picks from Northern India. Very rare.
+ZEKE	m	An' this?
+PARIS	?	Blow-dart hunting stick from Papua New Guinea. Very
+ZEKE	m	'Cuz they couldn't hunt shit with these things, be my guess.
+PARIS	?	Well, what's the need, anyway? If he's gone, he's gone. Why should he bother us?
+JOHNS	m	First, because he can only live out there for so long -- he's gonna come back and take what we got. Second, for the sheer thrill of the kill.
+FRY	m	Imam. We should leave soon. Before nightfall but while it's cooler.
+ZEKE	m	What, you're goin' off, too?
+FRY	m	Johns is leaving you a gun. Just do me a favor, huh? Get my crewies buried? They were good guys who died bad.
+SHAZZA	f	A'course we will.
+PILGRIM #1	m	Imam...Imam....
+SHAZZA	f	My bloody oath....
+AUDREY	f	Three suns?
+ZEKE	m	So much for your nightfall.
+PARIS	?	So much for my cocktail hour.
+IMAM	m	We take this to be a good sign -- a path, a direction from God.
+JOHNS	m	A very good sign. That's Riddick's direction. You do
+FRY	m	Thought you found his restraints over there. Toward sunset.
+JOHNS	m	Which means he went toward sunrise.
+FRY	m	So quiet. You get used to the sounds of the ship, then....
+IMAM	m	You know who Muhammad was?
+FRY	m	Some prophet guy?
+IMAM	m	"Some prophet guy." And a city man. But he had to travel to the desert -- where there was quiet -- to hear the words of God.
+FRY	m	You were on a pilgrimage? To New Mecca?
+IMAM	m	Chrislam teaches that once in every lifetime should there be a great hajj -- a great pilgrimage. To know God, better, yes, but to know yourself as well.
+FRY	m	Frightening thought.
+IMAM	m	We're all on the same hajj now.
+FRY	m	What?
+JOHNS	m	Tell me it's not a mirage.
+FRY	m	Trees?
+ZEKE	m	Comfy up there?
+PARIS	?	Amazing how you can do without the essentials of life -- so long as you have the luxuries.
+ZEKE	m	Well, just keep your bloody-fuckin' eyes open. Don't want that ratbag sneakin' up on me bloody-fuckin' arse.
+AUDREY	f	He'd probably get you right here, right under the jaw. And you'd never hear him coming. That's how good Riddick is.
+PARIS	?	Now did you run away from your parents? Or did they run away from you?
+PILGRIMS	?	Allahu Akbar...Allahu Akbar....
+FRY	m	Is this whole planet dead?
+IMAM	m	He asks what could have killed so many great things...
+IMAM	m	Some...communal graveyard, perhaps... like the elephants of Earth....
+JOHNS	m	Long time ago. Whatever happened.
+PILGRIM #1	m	Ah....
+FRY	m	Probably makes it worse. Dehydrates you even more.
+JOHNS	m	Probably right.
+JOHNS	m	You know, I woulda played road dog for these guys. You could've stayed back. Pro'bly should've -- because, you know, if we
+FRY	m	No, no, I wanted to get away.
+JOHNS	m	So I noticed. Never seen a "captain" quite so ready to leave her ship.
+FRY	m	Better keep moving....
+JOHNS	m	What'd Owens mean? 'Bout not touching the switch?
+JOHNS	m	Hey. You can tell me, Carolyn.
+FRY	m	Promise me. Swear to me you won't --
+JOHNS	m	You see anybody else here? Just between you and me.
+FRY	m	During the landing...when things were at their worst...Owens was at his best. He's the one who wouldn't let the pilot dump the passenger cabin.
+FRY	m	So now you know.
+JOHNS	m	Fuck. Guess I'm more glad to be here than I thought.
+JOHNS	m	Hold up.
+JOHNS	m	Didn't bite.
+FRY	m	What?
+JOHNS	m	Thought he might be coolin' it in the boneyard -- could either double-back to the ship or slip in behind us. So I left the bottle out as bait.
+JOHNS	m	But nah. Didn't bite.
+PILGRIM #1	m	Captain...captain....
+FRY	m	Wait, wait, wait....
+IMAM	m	We are not alone here, yes?
+JOHNS	m	Never thought we were.
+PILGRIM #1	m	Assalamoo ahlaykum!
+PILGRIM #2	m	Assalamoo ahlaykum!
+JOHNS	m	Long gone. Whoever they were.
+IMAM	m	Water...water there was here....
+PILGRIMS	?	Allahu Akbar....
+IMAM	m	"God is Great," yes?
+JOHNS	m	I'm born-again.
+FRY	m	Lights.
+JOHNS	m	Hey. Don't go too far, huh?
+FRY	m	No darkness. No lights because no darkness....
+FRY	m	Allahu Akbar! Allahu Akbar!
+FRY	m	Allahu Akbar!
+PARIS	?	This now qualifies as the worst fun I've ever had.
+PARIS	?	Audrey? Oh, Audrey....
+PARIS	?	Tell me that was you.
+AUDREY	f	Okay, it was me. What'd I do now?
+PARIS	?	Assailing my fragile sense of security, that's what.
+SHAZZA	f	What're you goin' on about? She's been right here for the last....
+SHAZZA	f	Zeke?
+AUDREY	f	No!
+TOTAL STRANGER	m	I thought...my God, I thought I was the only one who....
+PARIS	?	Oh, Lord....
+AUDREY	f	It was just somebody else. From the crash. He was just....
+ZEKE	m	Cripes galore, I thought it was him. The murderin' ratbag. I thought he was....
+FRY	m	No juice, looks like it's been laid up for years. But we might be able to adapt --
+JOHNS	m	Shut up.
+JOHNS	m	Sorry. Thought I heard something.
+FRY	m	Like what?
+JOHNS	m	Like my pistola.
+ZEKE	m	Now what the bloody hell....
+JOHNS	m	Same crap, different planet, huh?
+JOHNS	m	...I don't play that...I don't play that so just try again. C'mon, Riddick, tell me a better lie....
+FRY	m	Ease up, ease up. JOHNS! Just tell me what....
+SHAZZA	f	What'd you do with 'im? You bloody sick animal you, what'dja do with me Zeke?
+FRY	m	He used that?
+JOHNS	m	Sir Shiv-a-lot. He likes to cut.
+FRY	m	So why isn't it all bloody?
+JOHNS	m	I assume he licked it clean.
+FRY	m	So where is he?
+FRY	m	Tell me about the sounds. You told them you heard something right before.... If you don't talk to me, Johns'll take another crack at it -- at your skull.
+RIDDICK	m	'Mean the whispers?
+FRY	m	What whispers?
+RIDDICK	m	The ones tellin' me to go for the sweet spot -- just to the left of the spine, fourth lumbar down. The abdominal aorta. What a gusher. Had a cup on his belt, so I used it to catch a little run-off. Metallic taste to it, human blood. Coppery. But if you cut it with peppermint schnapps, that goes away. Course, that's more for winter. Summertime, I take mine straight.
+FRY	m	Why don't we try the truth now?
+RIDDICK	m	All you people are so scared of me -- an' most days, I'd take that as a compliment -- but it ain't me you gotta worry about now.
+FRY	m	Show me your eyes.
+FRY	m	You did this? To yourself?
+RIDDICK	m	Slam doctor. Well, we called him "doctor."
+FRY	m	Heard about it. Just never seen it.
+RIDDICK	m	Fairly fuckin' ironic, wouldn't you say? Slamlight's so dim that you go and get your eyeballs taken out and shined up -- then you wind up here. Three ass-kick suns. Maybe I did do a few people. But not this one. No ma'am, not this time.
+FRY	m	Then where is he? He's not in the hole. We looked.
+RIDDICK	m	Look deeper.
+JOHNS	m	I
+FRY	m	Let's just be sure.
+JOHNS	m	I
+JOHNS	m	Well, don't ask me to.
+FRY	m	Thought you didn't believe his story.
+JOHNS	m	I don't. But that ground looked none too stable, and I don't want anyone --
+AUDREY	f	If you're afraid, I'll go.
+FRY	m	Nobody else is going down but me, okay?
+JOHNS	m	Hey. Bein' ballsy with your life now doesn't change what came before -- it's just stupid.
+FRY	m	What, you think I'm doin' this to prove something?
+JOHNS	m	You said it, not me. Let's just not let one bad call lead to another.
+FRY	m	Thanks for the tip, Johns.
+FRY	m	They're hollow....
+FRY	m	Here! I'm in HERE, HERE, HERE!
+IMAM	m	Did you hear....
+FRY	m	I'm over here in the --
+FRY	m	Oh, God....
+JOHNS	m	We got you...it's okay, it's okay...we got you now....
+IMAM	m	The child heard you before any of us could even....
+SHAZZA	f	Did you find him? You find Zeke?
+FRY	m	...wasn't Riddick...it was...it was... goddamn, that was stupid....but wasn't Riddick. Somethin' else down there that got Zeke and nearly got --
+IMAM	m	One is all?
+FRY	m	For now.
+RIDDICK	m	Found somethin' worse than me, huh?
+JOHNS	m	We're movin'. And I'm just wondering if I shouldn't lighten the load right now.
+RIDDICK	m	Woof, woof.
+JOHNS	m	Want you to remember this moment, Riddick. The way it coulda gone and didn't.
+RIDDICK	m	Say that again.
+JOHNS	m	Here's the deal. You work without the chains, without the bit -- without the shivs. You help us get off this rock....
+RIDDICK	m	For what? The honor of goin' back to some asshole of a cell?
+JOHNS	m	Truth is, Riddick, I'm tired of this head-up shit. I wanna be free of you as much as you wanna be free of me.
+RIDDICK	m	You'd cut me loose, Boss?
+JOHNS	m	Only if we both get outta this alive. And there may be a way.
+RIDDICK	m	My recommendation: Do me. Don't take the chance that I'll get shiv-happy on your wannabe ass. Ghost me, Riddick. Would if I were you.
+JOHNS	m	If you were me, I'd kill us both. C'mon, you wanna sit at the grown-up table or not?
+RIDDICK	m	Want you to remember this moment.
+PARIS	?	So just like that. Wave your little wand and he's one of us now.
+JOHNS	m	Didn't say that. But least this way I don't have to worry about falling asleep and not wakin' up.
+IMAM	m	Well, I feel we owe Mr. Riddick amends.
+SHAZZA	f	Oh, right. Let's all line up and beg his forgiveness. Right you are.
+IMAM	m	At least give the man some oxygen....
+JOHNS	m	He's happy just bein' vertical. Leave him be.
+AUDREY	f	So I can talk to him now?
+PARIS	?	Paris P. Ogilvie. Antiquities dealer, entrepreneur.
+RIDDICK	m	Richard B. Riddick. Escaped convict, murderer.
+PARIS	?	You know, if I owned Hell and this planet...I believe I'd rent this out and live in Hell.
+PARIS	?	I mean, usually I can appreciate antiques, but, uh....
+JOHNS	m	Little ratty-ass.
+FRY	m	Nothing we can't repair -- so long as the electrical adapts.
+SHAZZA	f	Not a star-jumper.
+RIDDICK	m	Doesn't need to be. Use this to get back up to the Sol-Track Shipping Lanes, stick out a thumb. You'll get picked up. Right?
+FRY	m	Little help here?
+JOHNS	m	Check those containers for me. See what we can patch wings with.
+FRY	m	Okay, that should buy us a sys-check. But we'll need more cells.
+JOHNS	m	How many?
+FRY	m	15 6-gigs here...90 gigs total...other ship carries 20-gig cells, so...five. Five total to launch.
+JOHNS	m	25 kilos each, huh?
+SHAZZA	f	Old sand-cat outside. See if I can't get it up and chuggin'.
+JOHNS	m	Do it. And if you need an extra hand, tap our problem child out.... Where's Riddick?
+ROBOT	m	"...to all intruders. I am the guardian of this land. I will protect my masters at all cost. Death to all intruders..."
+JOHNS	m	Missin' the party. C'mon.
+RIDDICK	m	Missin' the party. C'mon.
+AUDREY	f	Talkin' to me?
+IMAM	m	...and for this, our gift of drink, we give thanks in the name of our Prophet, Muhammad, peace be upon him, and to our Lord, Jesus Christ of Nazareth, and to his father, Allah the Compassionate and the Merciful.
+PARIS	?	The
+PARIS	?	Perhaps we should toast our hosts. Who were these people, anyway? Miners?
+SHAZZA	f	Looks like geologists. Advance team, moves around from rock to rock.
+JOHNS	m	Musta crapped out here, huh?
+AUDREY	f	But why did they leave their ship?
+JOHNS	m	Well, just a skiff. Disposable, really.
+PARIS	?	Like an emergency life-raft, right?
+SHAZZA	f	Sure. Coulda had a real drop-ship take them off-planet. Long gone.
+PARIS	?	A toast to their ghosts, then....
+RIDDICK	m	Didn't leave, these people. Whatever got Zeke got them. They're all dead.
+RIDDICK	m	What, you don't really think they left with their clothes on the lines? Photos on the walls?
+SHAZZA	f	Maybe they had weight limits, you don't know.
+RIDDICK	m	I know you don't uncrate your emergency ship unless there's a fucking emergency.
+JOHNS	m	Rag it, Riddick. Nobody wants your theories on --
+FRY	m	So what happened? Where are they, then?
+IMAM	m	Has anyone seen the young one? Ali?
+IMAM	m	Ali?
+SHAZZA	f	Why was the door chained up? Why the bloody hell would they lock themselves in like that?
+JOHNS	m	Not sure, but tell you what: Chrislams better not be diggin' another grave out there.
+RIDDICK	m	Other buildings weren't secure...
+RIDDICK	m	...so they ran here. Heaviest doors. Thought they'd be safe inside, but... Someone forget to lock the back door.
+SHAZZA	f	So that's what come of me Zeke. An' you saw it. You was right there.
+SHAZZA	f	You were tryin' to kill him too.
+SHAZZA	f	Take it.
+RIDDICK	m	What, it's broken?
+SHAZZA	f	Startin' to acclimate, anyhow. Take it.
+JOHNS	m	Let's board this up and get the hell gone. They seem to stick to the dark, so if we stick to daylight, should be all --
+FRY	m	60 years ago.
+JOHNS	m	Wha'?
+FRY	m	Core-samples are dated. Last one is 60 years ago. This month.
+SHAZZA	f	Yeah? What's special about that?
+FRY	m	Dunno. Maybe nothing, but....
+JOHNS	m	Are you fuckin' kidding me?
+RIDDICK	m	Not afraid of the dark, are you?
+FRY	m	...need those cells from the crash ship. Shit, still gotta check out the hull, patch the wings --
+JOHNS	m	Let's wait on the power cells.
+FRY	m	Wait for what? Until it's so dark we can't even find our way back to --
+JOHNS	m	We're not sure
+JOHNS	m	Ever tell you how Riddick escaped?
+FRY	m	He can pilot?
+JOHNS	m	Hijacked a prison transport, made a helluva good run 'fore I tracked him down.
+FRY	m	Okay, maybe that's a
+JOHNS	m	He also figured out how to kill the pilot, Fry.
+FRY	m	You said we were going to trust him now. You said there was a deal.
+JOHNS	m	That's what I said.
+FRY	m	Oh, this is a dangerous game you're playing, Johns.
+JOHNS	m	May've noticed chains don't work on this guy. Only way we're truly safe is if he believes he's goin' free. But if he
+FRY	m	You mean, if he learns that you're gonna royally fuck him over.
+JOHNS	m	-- we need a fail-safe. Bring the cells over at the last possible minute -- when the wings are ready, when we
+FRY	m	You know, he hasn't harmed any of us. Far as I can tell, he hasn't even lied to us. Just stick to the deal, Johns. Let him go if that's what it --
+JOHNS	m	He's a murderer. The law says he's gotta do his bid.
+FRY	m	Dancin' on razor blades here...
+JOHNS	m	I won't give him a chance to grab another ship -- or to slash another pilot's throat.
+RIDDICK	m	Bad sign. Shakin' like that in this heat.
+RIDDICK	m	I'll cut.
+RIDDICK	m	Looks like we're a few shy....
+RIDDICK	m	Power cells.
+FRY	m	They're coming.
+RIDDICK	m	Strange, not doin' a run-up on the main drive yet. Strange unless he told you the particulars of my escape.
+FRY	m	I got the quick-and-ugly version.
+RIDDICK	m	An' now you're worried about a repeat of history?
+FRY	m	Entered our minds.
+RIDDICK	m	I asked what
+FRY	m	You scare me, Riddick. That's what you wanna hear, isn't it? There, I admit it, Can I get back to work now?
+RIDDICK	m	Think Johns is an do-right man? You think I can trust him to cut me loose?
+FRY	m	Why, what'd you hear?
+RIDDICK	m	Well, guess if it was trickeration he'd just do me, huh? Then again...I am worth twice as much alive. Didn't know? Johns ain't a cop. Oh, he's got that shiny badge an' all, but nah -- he's just a merc and I'm just a payday. That's why he won't kill me. The creed is greed.
+FRY	m	Save it, Riddick. We aren't gonna turn on each other -- no matter how hard you try.
+RIDDICK	m	I don't truly know what's gonna happen when the lights go out, Carolyn -- but I do know that once the dyin' starts, this little psycho family of ours is gonna rip itself apart. So you better find out the truth. Come nightfall, you better know exactly who's standing behind you.
+RIDDICK	m	Oh, ask him 'bout those shakes. And ask why your crew-pal had to scream like that 'fore he died.
+FRY	m	Who are you? Really?
+FRY	m	You're not a real cop, are you? Just some mercenary who goes around talkin' about the law like --
+JOHNS	m	I never said I was.
+FRY	m	Never said you were a hype, either.
+JOHNS	m	You have a little caffeine in the morning, I have a little morphine. So what?
+FRY	m	And here you got two mornings every day. Wow, were you
+JOHNS	m	Not a problem unless you're gonna make --
+JOHNS	m	Owens was already dead. His brain just hadn't caught on to that fact.
+FRY	m	Anything
+JOHNS	m	My first run-in with Riddick. Went for the sweet-spot and missed. They had to leave a piece of the shiv in there. I can feel it, sometimes, pressing against the cord. So maybe the care and feeding of my nerve-endings is my business.
+FRY	m	You coulda helped. And you didn't.
+JOHNS	m	Yeah, well, look to thine own ass first. Right, "captain"?
+PARIS	?	What do my eyes see?
+FRY	m	It's starting....
+SHAZZA	f	If we need anything from the crash ship -- I suggest we kick on. That sand-cat's solar.
+FRY	m	LET'S GET THOSE CELLS!
+SHAZZA	f	We stay together! C'mon!
+RIDDICK	m	Don't wanna miss this.
+AUDREY	f	Lookit. Lookit!
+FRY	m	Don't stop, don't stop....
+JOHNS	m	Jesus, how many can there....
+PARIS	?	Just a suggestion, but perhaps we should flee.
+FRY	m	Cargo hold, everyone in the cargo hold. lesgo, lesgo, lesgo.
+AUDREY	f	Tell her to stay there. Stay down.
+FRY	m	No, no, NO, NO, NO....
+FRY	m	What is it? What's happening?
+RIDDICK	m	Like I said. Ain't me you gotta worry about.
+AUDREY	f	What if...what if she's still out there... still alive....
+JOHNS	m	Well, I don't want to jump to conclusions here...but 'member that boneyard? These just might be the fuckers that killed every other living thing on this planet, okay? Chances of Shazza knockin' on that door anytime soon are just about zero squared.
+FRY	m	I saw the cut-marks on the bones. Wasn't a natural die-off.
+IMAM	m	Quiet, please. Everyone.
+AUDREY	f	Why do they do that? Make that sound?
+IMAM	m	Perhaps the way they see. With sound, reflecting back.
+FRY	m	Echo-location.
+FRY	m	Breach in the hull. I dunno.
+JOHNS	m	I'd rather piss glass.
+RIDDICK	m	Well, you got the big gauge.
+JOHNS	m	Wanna rag your fat mouth?
+AUDREY	f	Maybe it's just their beads again. Imam, are you still --
+IMAM	m	No, no, no, I do not believe --
+JOHNS	m	C'mon, man, you're drivin' everybody bugfuck with those things. Why don't you just lose the goddamn....
+RIDDICK	m	Big beads.
+JOHNS	m	Okay. We're okay. Just some small ones that musta --
+JOHNS	m	Very big beads.
+PARIS	?	Not staying in here another....
+FRY	m	Christ, you don't know what's out there!
+PARIS	?	I know what's in here!
+IMAM	m	Everybody come, this way and we should be safe. Hurry, please....
+RIDDICK	m	Can you do sumpin' else with that? 'Sides holding it in my fucking face?
+PARIS	?	Hello, hello?
+RIDDICK	m	Don't. Move.
+FRY	m	Imam? Where are they?
+IMAM	m	Hasan?
+FRY	m	Riddick?
+RIDDICK	m	No....
+FRY	m	Stop it, stop it, STOP IT!
+JOHNS	m	'Sokay, 'sokay. I killed it.
+FRY	m	There....
+PARIS	?	Like the light is scalding it.
+FRY	m	It hurts them. Light actually hurts them....
+IMAM	m	Is that...Hasan?
+JOHNS	m	We'll burn a candle for him later. C'mon.
+FRY	m	...one cutting torch...one handlight here, two more in the cabin...I
+PARIS	?	Spirits. Anything over 45 proof burns well.
+FRY	m	How many bottles?
+PARIS	?	Not sure. Ten?
+FRY	m	Those umbrellas, the ones that mist. Would they burn? If you got a receipt?
+PARIS	?	Possibly.
+FRY	m	Awright. So maybe we'll have enough light.
+JOHNS	m	Enough for what?
+JOHNS	m	Oh, lady. If you're in your right mind, I pray you go insane.
+FRY	m	We can stick to the plan. If we get four cells back to the skiff, we're off this rock.
+PARIS	?	I hate to kill a beautiful theory with an ugly fact, but that sand-cat won't run at night.
+FRY	m	We'll have to carry the cells...drag them...whatever it takes.
+AUDREY	f	You mean...tonight? With all those things still out there?
+PARIS	?	Oh, sure. Why not? Sounds like a hoot.
+JOHNS	m	Back it up. How long can this last? Few minutes? Couple hours?
+IMAM	m	I had the impression...from the model... that the two planets were moving as one. That there would be...a lasting darkness.
+JOHNS	m	Those suns gotta come back
+FRY	m	I'm sure that's what someone else said. Locked inside that coring room.
+JOHNS	m	Look, we gotta think about everyone now -- the kid especially. How scared is she gonna be out there?
+FRY	m	Oh, don't use her like that, for a smoke screen.
+JOHNS	m	Smoke screen for what?
+FRY	m	For your own fear.
+JOHNS	m	Hey. Why don't you rag your hole for two seconds and let someone else come up with a plan that doesn't involve MASS SUICIDE?
+FRY	m	How much you weigh, Johns?
+JOHNS	m	What the hell's it matter?
+FRY	m	How much?
+JOHNS	m	79 kilos.
+FRY	m	Because you're 79 kilos of gutless white meat, and
+RIDDICK	m	Think about that reward, Johns.
+JOHNS	m	I'm willing to take a cut in pay.
+RIDDICK	m	How 'bout a cut in your gut?
+JOHNS	m	Oh, Trash Baby, you're gonna regret this.
+IMAM	m	Please...this solves nothing...please....
+FRY	m	They're afraid of our light. That means we don't have to be so afraid of them.
+IMAM	m	And you're certain you can find the way back? Even in the dark?
+FRY	m	No, I'm not. But
+FRY	m	Riddick.
+RIDDICK	m	Looks clear.
+RIDDICK	m	Said "looks clear."
+JOHNS	m	Well, what's it look like now?
+RIDDICK	m	Looks clear.
+FRY	m	Just get the goddamn lights on....
+FRY	m	Ready, Johns.
+JOHNS	m	He'll lead you over the first cliff. You know that, don't you?
+FRY	m	We're just burnin' light here.
+JOHNS	m	You give him the cells and the ship -- and he will leave you. He will leave you all out there to die.
+FRY	m	I don't get it, Johns. What is so goddamn valuable in your life that you're worried about losing? Huh? Is there anything at all? Besides your next hype? Got no right to be so scared. Neither one of us.
+FRY	m	Keep the light going. That's all we have to do to live through this. Just keep your light burning.
+RIDDICK	m	Be runnin' about 10 paces ahead. I want light on my back -- but not in my eyes. And check your cuts. These things know our blood now.
+FRY	m	Riddick...was thinkin' we should make some kind of deal. Just in case, you know, this actually --
+RIDDICK	m	Had it with deals.
+FRY	m	But I just wanted to say --
+RIDDICK	m	Nobody's gonna turn a murderer loose. I fuckin' knew better.
+RIDDICK	m	Been a long time since anyone's trusted me. That's somethin' right there.
+FRY	m	We can, can't we? Trust you?
+RIDDICK	m	Actually... That's what I been askin' myself.
+JOHNS	m	So you noticed too?
+FRY	m	Riddick.
+FRY	m	Where are the sand-cat tracks? Why aren't we still following them?
+RIDDICK	m	Saw something I didn't like.
+JOHNS	m	Such as.
+RIDDICK	m	Hard to tell, sometimes...even for me... but looked like a bunch of those big boys chewin' each other's gonads off. Thought we'd swing wide. Okay by you?
+FRY	m	Let's move. Just a detour. He'll get us there.
+PARIS	?	Can we switch?
+FRY	m	What, switch what?
+PARIS	?	I think I twisted my ankle running backwards like that. And I'm not sure I can.... Okay, that's a lie. I just don't want to be alone back there anymore. If you could just give me a few minutes up front here --
+JOHNS	m	She's the pilot, she should stay close to the cells.
+PARIS	?	Oh, so I'm disposable?
+FRY	m	I'll switch, I'll switch! Christ, just get this train moving!
+PARIS	?	Light, please, need light here....
+IMAM	m	Please...have we been cut? Can someone tell me if....
+PARIS	?	Oh, sweet Jesus....
+PARIS	?	Oh, sweet Jesus, WILL YOU GET ME SOME
+FRY	m	What do you see? Riddick?
+RIDDICK	m	Hunger. I see 60 years of hunger.
+FRY	m	Bottle-count.
+AUDREY	f	Four fulls, one half. That mean we're halfway there? I hope?
+FRY	m	Can we pick up the pace?
+JOHNS	m	We aren't completely stupid.
+FRY	m	Stay in the light! Everybody! Stay in the fucking --
+IMAM	m	We crossed our own tracks.
+JOHNS	m	He's running us 'round in circles. Look for yourself. Look!
+FRY	m	Riddick? What the hell are you --
+RIDDICK	m	Canyon ahead. I circled once to buy some time to think.
+FRY	m	Think about what?
+JOHNS	m	About how to kill us and still get these cells to the skiff. Goddamnit, we're just doin' the heavy lifting for this prick!
+RIDDICK	m	About the girl.
+FRY	m	What about her?
+RIDDICK	m	What it's gonna be like when we hit that canyon. With her bleeding.
+JOHNS	m	What're you jaw-jackin' about? Girl's not cut.
+RIDDICK	m	No. She's not.
+AUDREY	f	I didn't want you to leave me there... back at the ship...that's why I didn't say anything....
+FRY	m	No, we'd never....Oh, God, honey, you shoulda told me sooner.
+JOHNS	m	Aw, this can't be happening to me....
+RIDDICK	m	They been nose-open for her ever since we left. They go off blood.
+IMAM	m	Well...we must keep her close, then. Here, she'll be safe if we put her between --
+RIDDICK	m	There is no "safe."
+FRY	m	It's not gonna work. We gotta go back.
+JOHNS	m	Hey,
+FRY	m	I was wrong. I admit it. My bad, okay? Now let's just go back to the ship.
+JOHNS	m	I dunno. Nice breeze, wide open spaces -- you know, I'm startin' to enjoy myself out here.
+FRY	m	Are you fucking high again? Just listen to --
+JOHNS	m	No, no, you're right, Fry. What's to be afraid of? My life is a steamin' pile of meaningless toadshit anyhow. So I say mush on! Canyon's only couple hundred meters, after that we're in Skiff City! So why don't you just butch up, stuff a cork in that kid, and get --
+IMAM	m	She's the captain, we should listen to --
+JOHNS	m	Listen to her?
+AUDREY	f	What's he talkin' about?
+JOHNS	m	During the crash, she --
+FRY	m	This does not help us, Johns.
+JOHNS	m	-- she tried to blow the whole fucking passenger cabin, tried to kill us --
+FRY	m	Just shut up, okay?
+JOHNS	m	-- tried to kill us in our sleep. Paris had it right -- we
+FRY	m	Would you RAG YOUR STUPID HOLE!
+JOHNS	m	We're not alive because of her -- we're alive
+FRY	m	We cannot go through there....
+JOHNS	m	How much you weigh right now, Fry? Huh?
+IMAM	m	Fine, fine, you've made your point. We can all be so scared as you.
+JOHNS	m	Verdict's in. The light moves forward.
+JOHNS	m	Ain't all of us gonna make it.
+RIDDICK	m	Just realized that, huh?
+JOHNS	m	Six of us left. If we could get through that canyon and lose just one, that'd be quite a fucking feat, huh? A good thing, right?
+RIDDICK	m	Not if I'm the one.
+JOHNS	m	What if you're one of five?
+AUDREY	f	What're they doin' up there?
+IMAM	m	Talking about the canyon, I suppose. How to get us through.
+JOHNS	m	Look, it's hellified stuff -- but no different than those battlefield doctors when they have to decide who lives and who dies. It's called "triage," okay?
+RIDDICK	m	Kept calling it "murder" when I did it.
+JOHNS	m	Either way, figure it's something you can grab onto.
+RIDDICK	m	Sacrifice play. Hack up one body, leave it at start of the canyon. Like a bucket of chum.
+RIDDICK	m	Nice embellishment.
+JOHNS	m	Don't wanna feed these land-sharks -- just keep 'em off our scent.
+RIDDICK	m	So which one caught your eye?
+JOHNS	m	Don' look, don' look, don' look....
+FRY	m	Imam. Slow down.
+IMAM	m	What?
+FRY	m	Don't stop, just slow down.  Little more space 'tween us and them.
+IMAM	m	I would rather we all stay--
+FRY	m	Do what I say. Please.
+RIDDICK	m	What's her name, anyway?
+JOHNS	m	What do you care?
+JOHNS	m	Then let's not name the Thanksgiving turkey, okay? I assume you still got a shiv.
+RIDDICK	m	What, you 'spect
+JOHNS	m	What's one more to you? Like
+RIDDICK	m	Oh, you're a piece of art, Johns. They oughtta hang you in a museum somewhere. Or forget the museum -- maybe they should just hang you.
+JOHNS	m	Awright. You do the girl, I'll keep the others off your back.
+JOHNS	m	Aw, don't tell me you're growin' scruples.
+RIDDICK	m	Just wonderin' if we don't need a bigger piece of chum.
+JOHNS	m	Like who, Mr. Chrislam?
+FRY	m	Bring the light!
+AUDREY	f	What're they doing? What're
+FRY	m	Leave the sled, let's go, go, go!
+RIDDICK	m	Gotta stay in the light, Johns. That's the only rule.
+RIDDICK	m	Remember that moment?
+RIDDICK	m	Shoulda never took the chains off, Johns. You were one brave fuck, before. Now look at you. Oh, yeah, you were Billy Bad-ass with your gauge...with your chains....
+RIDDICK	m	Back to the ship, huh?
+FRY	m	Get out of our way.
+RIDDICK	m	So everybody huddles together till the lights burn out? Until you can't see what's eating you? That the big plan?
+IMAM	m	Where's Mr. Johns?
+RIDDICK	m	Which half?
+IMAM	m	You mean....
+AUDREY	f	Gonna lose everybody out here....
+RIDDICK	m	He died fast. And if we got any choice, that's the way we should all go out. Don't you cry for Johns. Don't you dare.
+FRY	m	How many you see?
+RIDDICK	m	One or two.
+FRY	m	Audrey?
+AUDREY	f	Three full bottles. But almost time to refill.
+FRY	m	Doesn't seem like enough to turn back on, does it?
+RIDDICK	m	Only see one way. Turn the sled over and drag it like that, girl down low. Light up everything we got -- and run through like dogs on fire.
+IMAM	m	The sled as a shield....
+FRY	m	And what about the cells?
+RIDDICK	m	I'll take those.
+FRY	m	We're just here to carry your light, aren't we? Just the torch-bearers.
+RIDDICK	m	Let's drop back an' boot up.
+RIDDICK	m	What're you doin'?
+IMAM	m	Blessing you like the others. It's painless.
+RIDDICK	m	And pointless.
+IMAM	m	I see. Well, even if you don't believe in God, it doesn't mean He won't be --
+RIDDICK	m	You
+RIDDICK	m	'Cuz you don't spend half your life in lock-down with a horse-bit in your mouth and not believe. And you surely don't start out in a liquor store trash bin with an umbilical cord wrapped around your neck and not believe. Oh, absolutely I believe in God. And I absolutely hate the fucker.
+IMAM	m	He will be with us. Nonetheless.
+RIDDICK	m	Give my blessing to the girl. She needs a spare.
+RIDDICK	m	As fast as you can.
+FRY	m	You sure you can keep --
+RIDDICK	m	As fast as you can.
+RIDDICK	m	Don't look.
+RIDDICK	m	Do
+RIDDICK	m	Keep going, keep going, keep going, keep going!
+IMAM	m	"So dark the clouds around my way But through the darkness I believe I gladly place my hand in His when And, closing my weary eyes, lean
+FRY	m	Riddick? RIDDICK?
+AUDREY	f	What? What is it?
+RIDDICK	m	It's a fucking staircase! Go over it!
+FRY	m	Audrey!
+RIDDICK	m	Didn't know who he was fuckin' with.
+IMAM	m	Suleiman!
+RIDDICK	m	Get the girl back under. Keep going.
+IMAM	m	SULEIMAN!
+RIDDICK	m	KEEP GOING OR I WILL!
+FRY	m	Oh, no. No, no, no....
+IMAM	m	Rain.
+RIDDICK	m	So where the hell's God now, huh? I'll tell you where! He's up there
+FRY	m	Riddick? How close?
+FRY	m	Tell me the settlement is right there!
+RIDDICK	m	We can't make it.
+RIDDICK	m	Here...hide here....
+RIDDICK	m	Inside...inside....
+AUDREY	f	Why's he still out there?
+AUDREY	f	He's not coming back, is he?
+FRY	m	There's light in here.
+FRY	m	What are they?
+IMAM	m	Larva....
+AUDREY	f	Glow worms....
+FRY	m	How many bottles we got? Empty ones?
+AUDREY	f	More, more, we need more....
+RIDDICK	m	Strong survival instinct. Admire that in a woman.
+FRY	m	You're not leaving. Not until we go back for the others.
+FRY	m	I promised them we'd go back with more light. And that's exactly what we're gonna do..
+RIDDICK	m	Think you've mistaken me for somebody who gives a fuck.
+FRY	m	What, you're afraid?
+RIDDICK	m	Confusin' me with Johns now -- fear was
+RIDDICK	m	Truthfully? I wouldn't know how.
+FRY	m	Then wait for me. I'll go back myself. Just give me more light for them.
+FRY	m	Just come with me!
+RIDDICK	m	Got a better idea. Come with
+RIDDICK	m	They're already dead. Get on board.
+FRY	m	You're fuckin' with me. I know you are.
+RIDDICK	m	'Course I am -- but doesn't mean I won't leave you here. If you believe anything about me, better be that.
+FRY	m	No, you see, I
+RIDDICK	m	Step aboard, Carolyn.
+FRY	m	I can't....I can't....
+RIDDICK	m	Here. Make it easy on you.
+FRY	m	Don't do this to me....
+RIDDICK	m	Just give me your hand.
+FRY	m	But they...they could still be....
+RIDDICK	m	No one's gonna blame you. C'mon. Take my hand and save yourself, Carolyn.
+FRY	m	I will not give up on them! I Will not leave
+RIDDICK	m	You'd die for them?
+FRY	m	I would try for them.
+RIDDICK	m	You barely know them.
+FRY	m	But I'm human. I know you view that as a weakness, but I'm sorry -- I
+AUDREY	f	You came for us....
+RIDDICK	m	Yeah, yeah -- we're all fuckin' amazed. Anyone not ready for this?
+RIDDICK	m	Tighter, tighter....
+RIDDICK	m	Stop.
+FRY	m	I don't hear --
+RIDDICK	m	Doesn't see us...wait for it to leave....
+RIDDICK	m	Get behind me.
+RIDDICK	m	When I go, we go. Full-throttle.
+RIDDICK	m	Ready...ready....
+RIDDICK	m	You know the way!
+IMAM	m	Captain....
+FRY	m	It's me, it's me, it's me!
+FRY	m	C'mon, Riddick -- said I'd die for
+FRY	m	Just 10 steps...keep turning, keep turning...that's right...others're already 'board, waitin' for us right now...five steps...c'mon, almost there, Riddick... almost there...we're almost --
+RIDDICK	m	Not for me....
+RIDDICK	m	Probably okay to talk to me now.
+AUDREY	f	Not sure where to go. I was just runnin' away when this whole thing started. Where you goin'?
+RIDDICK	m	Not sure. I was just runnin' away when this whole thing....
+RIDDICK	m	Might interest you....
+IMAM	m	New Mecca....
+RIDDICK	m	Think a soul could get lost there? With all those pilgrim-types?
+IMAM	m	It's more a place where souls are found, Mr. Riddick.
+

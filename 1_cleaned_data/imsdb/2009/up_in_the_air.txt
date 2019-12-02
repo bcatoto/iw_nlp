@@ -1,0 +1,849 @@
+RYAN	m	How much does your life weigh?
+RYAN	m	Imagine for a second that you're carrying a backpack... I want you to feel the straps on your shoulders... You feel them? (gives us a beat) Now, I want you to pack it with all the stuff you have in your life. Start with the little things. The stuff in drawers and on shelves. The collectables and knick-knacks. Feel the weight as it adds up. Now, start adding the larger stuff. Your clothes, table top appliances, lamps, linens, your TV. That backpack should be getting pretty heavy at this point - Go Bigger. Your couch, your bed, your kitchen table. Stuff it all in... Your car, get it in there... Your home, whether you have a studio apartment or a two story house, I want you to stuff it into that backpack.
+RYAN	m	Now try to walk.
+RYAN	m	Kinda hard, isn't it? This is what we do to ourselves on a daily basis. We weigh ourselves down until we can't even move. And make no mistake - Moving is living.
+RYAN	m	Now, I'm going to set your backpack on fire. What do you want to take out of it? Photos? Photos are for people who can't remember. Drink some gingko and let the photos burn. In fact let everything burn and imagine waking up tomorrow with nothing. (a beat of emphasis) It's kind of exhilarating isn't it? That is how I approach every day.
+RYAN	m	Excuse me? Do you want the cancer?
+RYAN	m	Oh... No. Um, no thank you.
+STEVE	m	Who the fuck are you?
+STEVE	m	What did I... do? What could I have done differently here?
+RYAN	m	This is not an assessment of your productivity. It's important not to personalize this.
+RYAN	m	Steve, I want you to review this packet. Take it seriously. I think you're going to find a lot of answers in there.
+STEVE	m	Oh, I'm sure it's going be really helpful.
+RYAN	m	Look, anybody who ever built an empire, or changed the world, sat where you are now. And it's because they sat there that they were able to do it.
+RYAN	m	I'm going to need your key card.
+STEVE	m	Right...
+RYAN	m	Take the day. Put together your personal things. Talk to your co- workers. Tomorrow, go out and get some exercise. Go for a jog. Give yourself routines and pretty soon you'll find your legs.
+STEVE	m	Wait, how do I get in touch with you?
+RYAN	m	Don't worry. We'll be in touch soon. This is just the beginning.
+CHECKOUT GIRL	f	Do you have your Hilton Honors Card with you?
+CHECKOUT GIRL	f	Oh my God... Do you like, live, at the Hilton?
+AIRPORT CLERK	m	Pleasure to see you again, Mr. Bingham.
+AIRPORT CLERK	m	Pleasure to see you again, Mr. Bingham.
+KEVIN	m	Ryan Bingham's office.
+RYAN	m	You have me in a Dodge Stratus in Kansas City.
+KEVIN	m	They are completely out of all full sized sedans...
+RYAN	m	Did you?...
+KEVIN	m	(not the first time) Yes, I reminded them of your remarkable #1 Gold Club status and years in the program. They are moving mountains to see you in a Sebring.
+RYAN	m	Fair enough. Any other messages?
+KEVIN	m	Your sister Kara called. Needs to speak urgently about your sister's wedding. I told her you were midair and not even I knew your final destination.
+RYAN	m	Well done.
+KEVIN	m	And you got an invitation to speak at GoalQuest in Vegas.
+RYAN	m	GoalQuest twenty?
+KEVIN	m	It's got a hologram. They're calling it Dos Equis. That's some pretty major Tony Robbins shit there.
+RYAN	m	Talk about burying the lead. I'll check in when...
+KEVIN	m	Hold on, I have Craig Gregory for you...
+RYAN	m	I... ah, fuck...
+CRAIG GREGORY	m	How's the road warrior?
+RYAN	m	Twenty minutes from boarding into a world of bliss.
+CRAIG GREGORY	m	Great numbers out of Phoenix. You know Big Auto is going to drop another 10K this month.
+RYAN	m	No kidding?
+CRAIG GREGORY	m	Yeah, Christmas came early. Wish I could have you in five places at once. I need you back in Omaha by the end of the week.
+RYAN	m	I thought you needed me everywhere.
+RYAN	m	I don't know why you ever bring me in. Wherever I go, the money follows. Let me plant seeds, they'll grow to Oaks.
+CRAIG GREGORY	m	I'm thinking of planting seeds right now.
+RYAN	m	What are we talking about here?
+CRAIG GREGORY	m	You'll see. Today, I took my first crap in two weeks. Hallelujah.
+RYAN	m	That's me, hanging up on you.
+CRAIG GREGORY	m	Good. I love that sound.
+RYAN	m	Hello?
+RYAN	m	Hey Kara.
+KARA	?	How are you holding up?
+RYAN	m	Just fine. You? The kids?
+KARA	?	Missy's outstanding. Matthew made varsity. How's the road?
+RYAN	m	Couldn't be better.
+KARA	?	That's good. So, Ryan?
+RYAN	m	Yeah?
+KARA	?	I didn't even want to have to ask you for this, because I know how you are about... doing things for others...
+KARA	?	But we're coming in on three weeks to go for Julie's wedding and there's something we could really use your help on.
+RYAN	m	You're satisfied with Maestro?
+ALEX	m	Yeah, I am.
+RYAN	m	They're stingy with their miles. I like Hertz.
+ALEX	m	Hertz keeps its vehicles too long. If a car's over twenty-thousand miles, I won't drive it.
+RYAN	m	Maestro doesn't instant check out. I like to park and go.
+ALEX	m	Hertz doesn't guarantee Navigation.
+RYAN	m	Funny, you don't seem like a girl who needs directions.
+ALEX	m	I hate asking for directions. That's why I get a Nav.
+RYAN	m	The new outfit, Colonial, isn't bad.
+ALEX	m	Is that a joke?
+RYAN	m	Yes.
+ALEX	m	Their kiosk placement is a joke.
+RYAN	m	Never have available upgrades.
+ALEX	m	It's basically a fleet of shit boxes - Don't know how they're still in business.
+RYAN	m	(I love you) I'm Ryan.
+ALEX	m	Alex.
+RYAN	m	So are you going to join me?
+RYAN	m	(grabs one of Alex's cards) Maplewood Card? How dare you bring that into this palace.
+ALEX	m	Hilton offers equal value and better food - But the Maplewood gives out warm cookies at check in.
+RYAN	m	They got you with the cookies?
+ALEX	m	I'm a sucker for simulated hospitality.
+RYAN	m	There's actually an industry term for that. It's a mixture of faux and homey. It's faumey.
+ALEX	m	(holds her hands eight
+INCHES APART)	m	(extends a few inches)
+RYAN	m	Let's just say I've got a number in mind and I haven't hit it yet.
+ALEX	m	This is pretty fucking sexy.
+RYAN	m	I hope it doesn't cheapen our relationship.
+ALEX	m	We're two people who get turned on by elite status. We may have to settle for cheap.
+RYAN	m	There's nothing cheap about loyalty.
+RYAN	m	I really have to start throwing these out.
+ALEX	m	We can always use that room with the ice machine.
+RYAN	m	Good call on the towel rack.
+ALEX	m	Thanks. I liked how you burritoed me in the sofa cushions.
+RYAN	m	I was improvising.
+ALEX	m	Too bad we didn't make it to the closet.
+RYAN	m	We got to do this again.
+RYAN	m	I'm in Newark on the 12th, Madesto on the 13th, Oklahoma City on the 15th.
+ALEX	m	Any Southwest? I'm swinging through Albuquerque the week of the 16th?
+RYAN	m	No, but I'll be in Florida by the 20th.
+ALEX	m	Miami?
+RYAN	m	Ft. Lauderdale.
+ALEX	m	That's nothing.
+RYAN	m	Forty minutes.
+ALEX	m	I should probably go back to my room so I can wake up in my bed.
+RYAN	m	I think that's the lady like thing to do.
+NOSEY NEIGHBOR	m	Ryan?
+RYAN	m	(doesn't know his name) Hi...
+NOSEY NEIGHBOR	m	Feels like it's been months, busy man. We missed you at our Summer party.
+RYAN	m	Yeah, sorry I couldn't be there.
+NOSEY NEIGHBOR	m	We've been trying to get a vote on the new landscaping. Can I e-mail you the plans...? We'd love to get a final tally.
+RYAN	m	It's fine. Really. I'll go with the majority.
+NOSEY NEIGHBOR	m	Sometimes I forget that you even live here. You could probably save money and move into a hotel.
+RYAN	m	I looked into it, but the IRS requires a permanent address for employment. Otherwise, they classify you as a vagrant.
+NOSEY NEIGHBOR	m	Oh.
+WOMAN'S VOICE	f	Hey neighbor.
+RYAN	m	Hey yourself.
+DIANNE	f	(hands over a package) I signed for this while you were gone.
+RYAN	m	Thanks. Hope it wasn't a bother.
+DIANNE	f	They seem happy.
+RYAN	m	It's my sister. She's getting married. Haven't met the guy yet.
+DIANNE	f	Lots of luck.
+RYAN	m	I know, right?
+DIANNE	f	It's good to see you. Feels like a while this time.
+RYAN	m	Hey, you want to come over tonight?
+DIANNE	f	Actually, I kind of started seeing somebody.
+RYAN	m	Oh, that's... that's great.
+DIANNE	f	Yeah, we're having drinks tonight if you want to come over.
+RYAN	m	That's okay... I' think I'll settle in.
+CRAIG GREGORY	m	Just thrilled to have everyone under one roof. Welcome home boys. 25.
+NATALIE	f	If there's one word I want to leave you with today, it's this...
+NATALIE	f	Glocal.
+NATALIE	f	Our global must become local.
+NATALIE	f	This company keeps twenty three people on the road, at least two hundred fifty days a year. It's expensive and it's inefficient. When I came to Craig three months ago with this, he told me, and quite astutely - it's only a problem if you have a solution. 26.
+NATALIE	f	Well, today I stand before you with jus that.
+NATALIE	f	You all know Ned in reception.
+NATALIE	f	Today, I'm going to fire Ned. Sorry, Ned. I'm sure H.R. will hire you back this afternoon.
+NATALIE	f	Ned could be any employee in any one of our client's locations worldwide. Strategy packets would be shipped in advance. Ned would be given a seat and find one of our transition specialists waiting for him.
+NATALIE	f	Mr. Laskin, the reason we're having this conversation today is your position is no longer available.
+NED	m	(from a script) I don't understand. I'm fired?
+NATALIE	f	Hearing the words "You've been let go" is never easy. Change is always scary. But consider the following - (using Ryan's line) Anybody who ever built an empire, or changed the world, sat where you are now. And it's because they sat there that they were able to do it.
+RYAN	m	That's my fucking line.
+NED	m	Well, what happens now?
+NATALIE	f	This is the first step of a process that will end with you in a new job that fulfills you.
+NED	m	Yeah, but, how does it work?
+NATALIE	f	I want you to take that packet in front of you.
+NATALIE	f	Review it. All the answers you're looking for are inside. Start filling out the necessary information and before you know it, you'll be on your way to new opportunities.
+NATALIE	f	Now Ned, I'm going to need you to go back to your desk and start putting together your things. As a favor to me, I'd appreciate it if you didn't spread the news just yet. Panic doesn't help anybody.
+NED	m	I understand.
+NATALIE	f	Have a good day, Mr. Laskin and good luck with your future.
+NED	m	Thank you.
+NATALIE	f	Give it up for Ned.
+NATALIE	f	You can start the morning in Boston, stop in Dallas over lunch and finish the day in San Francisco. All for the price of a T1 line. Our inflated travel budget is eviscerated by eighty-five percent... And most importantly to you guys on the road... No more Christmases in a hotel in Tulsa... No more hours lost to weather delays... You get to come home.
+RYAN	m	Tell me you're not taking this seriously.
+CRAIG GREGORY	m	Yeah, that's why we brought the entire company in from the road - Because we're not taking this seriously.
+RYAN	m	It doesn't make any sense. It's... ... completely impersonal.
+CRAIG GREGORY	m	Who am I even talking to?
+RYAN	m	There's a methodology to what I do. A reason why it works.
+CRAIG GREGORY	m	Ryan, Coke and IBM have been doing it for years. Just like anything, there's a few months of transition, but everyone settles in.
+RYAN	m	Who are you taking off the road?
+CRAIG GREGORY	m	You don't get it. You're grounded, Ryan. Everyone is. It's done.
+RYAN	m	Okay, what we do here is brutal and leaves people devastated, but there's a dignity to the way I do it.
+CRAIG GREGORY	m	Stabbing people in the chest instead of the back?
+NATALIE	f	You wanted to see me?
+RYAN	m	Yeah, why don't you come in.
+CRAIG GREGORY	m	Great job in there, Nat.
+NATALIE	f	Thank you. How's everyone taking it?
+RYAN	m	Look, I appreciate your... zeal. And you have some good ideas. But you know nothing of the realities of my job. Sure, you can set up an iChat... but you don't know how people think.
+NATALIE	f	Actually, I minored in psychology.
+CRAIG GREGORY	m	Nice.
+RYAN	m	Okay kiddo, fire me.
+CRAIG GREGORY	m	Ryan, stop it.
+RYAN	m	She's going to be doing this on a regular basis. You don't want to know if she can fire somebody?
+CRAIG GREGORY	m	She just fired Ned.
+RYAN	m	My dog could fire Ned. Fire me.
+CRAIG GREGORY	m	Ryan.
+NATALIE	f	It's okay, I got this.
+NATALIE	f	Mr. Bingham, I regret to inform you that your position is no longer available.
+RYAN	m	Who the hell are you?
+NATALIE	f	My name is Miss Keener and I'm here today to discuss your future.
+RYAN	m	My future? I don't know you. The only person who can fire me is Craig Gregory.
+NATALIE	f	Mr. Gregory hired me to handle this for him.
+RYAN	m	Handle what? Handle me? Mr. Gregory hired me and he's the only one who can fire me. I'm going to talk to him.
+NATALIE	f	Mr. Bingham...
+RYAN	m	You can't follow me... You're on a computer screen. Remember?
+NATALIE	f	Ryan...
+RYAN	m	Try again. Fire me.
+NATALIE	f	I just did.
+RYAN	m	Actually, you didn't. Now, fire me.
+CRAIG GREGORY	m	Stop it, Ryan.
+NATALIE	f	Mr. Bingham, I'm here today to inform you that your position is no longer available.
+RYAN	m	I'm fired?
+NATALIE	f	Yes, you're fired.
+RYAN	m	Never say fired.
+NATALIE	f	You've been let go.
+RYAN	m	Why?
+NATALIE	f	(breaks the moment) This is a mythical situation. How could I possibly know why?
+RYAN	m	You never know why. Why doesn't matter.
+NATALIE	f	(back on track) It's important not to focus on the "why" and rather to spend your energy thinking about your future.
+RYAN	m	I'm going to spend my energy on suing you if you don't give me a reason that you're firing me.
+NATALIE	f	Mr. Bingham, the reason is not important.
+RYAN	m	Oh, so you're firing me without grounds. Now, I really have a lawsuit.
+CRAIG GREGORY	m	Ryan, I think we know what you're trying to say...
+NATALIE	f	(still in character) Don't take this personally, Mr. Bingham.
+RYAN	m	Personally? (quiet and calm) This is the most personal situation you will ever enter. So before you try to revolutionize my business, I'd like to know that you actually know my business.
+CRAIG GREGORY	m	Hell-of-a-way to welcome her to the team.
+RYAN	m	Am I the only one who sees that by automating our own business, we're making ourselves irrelevant.
+CRAIG GREGORY	m	(frankly...) No... We're making you irrelevant. Watch yourself, Ryan. You're too young to be a dinosaur...
+RYAN	m	I'm not... I'm not a dinosaur.
+CRAIG GREGORY	m	I want you to show her the ropes.
+RYAN	m	What do I know about what happens around here? Have Ferguson do it.
+CRAIG GREGORY	m	I'm not talking about here.
+RYAN	m	No.
+CRAIG GREGORY	m	Hey, you seem pretty confident that this girl doesn't know what she's doing...
+RYAN	m	Excuse me. I just don't think a MySpace page qualifies you to rewire an entire company.
+CRAIG GREGORY	m	Great. Well, here's your chance. Show her the magic. Take her through the paces.
+RYAN	m	I'm not a fucking tour guide.
+CRAIG GREGORY	m	(re: his hand) This is the boat.
+RYAN	m	Yes. Alone.
+CRAIG GREGORY	m	Ryan, we're ringing the bell. Rounding everybody up. If you want to stay out there a little longer, you can. But you're not going to be on your own. (begins to leave) Let me know.
+RYAN	m	Huh.
+NATALIE	f	What?
+NATALIE	f	I really like my luggage.
+RYAN	m	That's exactly what it is. Luggage. (off of Natalie's look) You know how much time you lose by checking in?
+NATALIE	f	I don't know, maybe five minutes waiting for...
+RYAN	m	Thirty five minutes per flight. I travel two hundred seventy days a year. That makes one hundred fifty seven hours... That's Seven Days. (points to her luggage) You ready to throw away a whole week on that?
+RYAN	m	Bingo. Asians.
+NATALIE	f	You can't be serious.
+RYAN	m	Never get behind people travelling with infants. I've never seen a stroller collapse in less than twenty minutes.
+RYAN	m	Old people are worse. Their bodies are littered with hidden metal and they never seem to appreciate how little time they have left on Earth.
+RYAN	m	Five words. Randomly selected for additional screening.
+RYAN	m	Asians. They're light packers, treasure efficiency, and have a thing for slip-on shoes. God love'em.
+NATALIE	f	That's racist.
+RYAN	m	I'm like my mother. I stereotype. It's faster.
+RYAN	m	Are you upset at your laptop?
+NATALIE	f	No. Why?
+RYAN	m	Fats Domino had a lighter touch.
+NATALIE	f	I type with purpose.
+RYAN	m	What are you working on so furiously?
+NATALIE	f	I'm building a work flow of firing techniques. Questions & responses. Actions & reactions. A script that works kind of like a tributary, taking you through the steps of firing someone.
+RYAN	m	Who is it for?
+NATALIE	f	Theoretically, you could put it in the hands of anybody and they could be downsizing immediately. All they have to do is follow the steps.
+RYAN	m	Natalie, what is it, you think we do here?
+NATALIE	f	We prepare the newly unemployed for the emotional and physical hurdles of job hunting while... Minimizing potential legal blowback?
+RYAN	m	That's what we're selling. But it's not what we're doing.
+NATALIE	f	Okay, what are we doing?
+RYAN	m	Our job is to make limbo tolerable - To ferry wounded souls across the river of dread and humiliation to the point at which hope's bright shore is dimly visible... And then to stop the boat, shove'em in the water, and make them swim while we row back to the palace of their banishment to present the employers with our bills.
+NATALIE	f	That was really impressive. You rehearse that?
+RYAN	m	I got to grab this. I'll meet you at the rental lot.
+RYAN	m	Hey, I was hoping I'd hear from you.
+ALEX	m	I'm in Hotlanta. I need a rib joint recommend bad.
+RYAN	m	Fat Matt's. Bring a bib.
+ALEX	m	You haven't called.
+RYAN	m	You know, I didn't know what was appropriate...
+ALEX	m	Ryan, I'm not some waitress you banged in a snow storm. The word "Appropriate" has no place in our collective vocabulary. I'm the woman you don't have to worry about.
+RYAN	m	This sounds like a trick.
+ALEX	m	Next time you're worried about manners - Don't. If you want to call - Call. Just think of me as yourself... only with a vagina.
+RYAN	m	When am I going to see you?
+ALEX	m	I'm out of Hartsfield, into IAD, then a connection at ORD into SDF.
+RYAN	m	Oh... sorry.
+ALEX	m	Tell me about it.
+RYAN	m	How long is your layover in O'Hare? They've got multiples into SDF... Think you could push?
+ALEX	m	I can push.
+RYAN	m	(to desk girl) Ryan Bingham, from CTC.
+RYAN	m	All you have to do today is watch and listen. When I talk about the strategy packet. You hand them one of these...
+NATALIE	f	You ever find it strange that termination comes with a packet.
+RYAN	m	Everything important in life comes with a packet.
+RYAN	m	Thank you for coming by. As you're probably well aware, this is a tough economic climate and your company is not immune.
+RYAN	m	While I wish I was here with better news, the reason you and I are meeting is this is your final week of employment here.
+RYAN	m	This is not a time to look for blame. Your position simply no longer exists.
+RYAN	m	I understand why you are saying these things. 42.
+RYAN	m	It's perfectly natural to feel this way. I want you to take the next week to explore this strategy packet...
+RYAN	m	Fill out the skill set work sheet... Use the hopes and dreams diagram... And the tree of aspirations.
+RYAN	m	The answers are all in there.
+RYAN	m	The answers are all in there. The answers... The answers... ... are-all-in-there.
+BOB	m	And what do you suggest I tell them?
+NATALIE	f	Perhaps you're underestimating the positive effect your career transition may have on your children.
+BOB	m	Positive effect?
+NATALIE	f	Well, tests have shown that children under moderate trauma have a tendency to apply themselves academically as a method of coping.
+BOB	m	Go fuck yourself. That's what my kids'll think.
+RYAN	m	Your children's admiration is important to you?
+BOB	m	Yeah. It was.
+RYAN	m	Well, I doubt they ever admired you, Bob.
+BOB	m	Hey asshole, aren't you here to console me?
+RYAN	m	I'm not a shrink, Bob. I'm a wake up call. You know why kids love athletes?
+BOB	m	Because they screw lingerie models.
+RYAN	m	No, that's why we love athletes. Kids love them because they follow their dreams.
+BOB	m	Yeah, well I can't dunk.
+RYAN	m	But you can cook.
+BOB	m	What are you talking about?
+RYAN	m	Your resume says you minored in French Culinary Arts. Most students work the frier at KFC. You bussed tables at Il Picatorre to support yourself. Then you got out of college and started working here. (looks up at Bob) How much did they first pay you to give up on your dreams?
+BOB	m	Twenty seven thousand a year.
+RYAN	m	At what point were you going to stop and go back to what made you happy?
+RYAN	m	Do you believe in fate, Bob?
+BOB	m	Fate?
+RYAN	m	Yeah. You know, the mysterious ways in which we wind up doing the things we were meant to do.
+BOB	m	I met my wife at a gas station.
+RYAN	m	Exactly. Well, I think fate is telling you to do something, Bob.
+RYAN	m	I see guys who work for the same company their entire lives. Clock in. Clock out. Never a moment of happiness. (pauses for effect) Not everyone gets this kind of opportunity. 45.
+RYAN	m	The chance for rebirth. If not for yourself... Do it for your kids.
+BUSINESS WOMAN	f	I've been waiting ten minutes. He just waltzes in and gets to cut in line.
+DESK CLERK	m	We reserve priority assistance for our Hilton Honors members.
+RYAN	m	You should look into it - The promotions are great...
+BUSINESS WOMAN	f	Fuck off.
+RYAN	m	You okay?
+NATALIE	f	Yeah. Fine.
+NATALIE	f	Hungry, much?
+RYAN	m	Our expense account allots for forty dollars each on dinner. I plan on grabbing every mile I can.
+NATALIE	f	Okay, you got to fill me in on this mile business. What's that all about? Are you talking like frequent flier miles?
+RYAN	m	Your really want to know?
+NATALIE	f	I'm dying to know.
+RYAN	m	I don't spend a nickel, if I can help it, unless it somehow profits my mileage account. I'm not talking hotel rooms and rental cars either, but internet services, cell phone, music downloads, teleflorists. The works. I shop them according to the miles they pay and I pit them against each other for the most value.
+NATALIE	f	So, what are you saving up for? Hawaii? South of France?
+RYAN	m	No, it's not like that... The miles are the goal.
+NATALIE	f	That's it? You're saving to save?
+RYAN	m	Let's just say I've got a number in mind and haven't hit it yet.
+NATALIE	f	Wow. Seems a little abstract. What's your target?
+RYAN	m	I'd rather not.
+NATALIE	f	It's a secret target?
+RYAN	m	It's ten million miles.
+NATALIE	f	Huh. Isn't ten million just a number?
+RYAN	m	Pi is just a number.
+NATALIE	f	I guess we all need a hobby.
+NATALIE	f	Oh hey, I didn't mean to belittle your collection. I get it. Sounds cool.
+RYAN	m	I'd be the seventh person to do it. More people have walked on the moon.
+NATALIE	f	Do they give you a parade or something?
+RYAN	m	Lifetime Exec Platinum status. You get to meet the Chief Pilot, Maynard Finch. And... They put your name on the side of a plane.
+NATALIE	f	Men get such a hard-on from putting their name on stuff... You guys don't grow up - You just need to pee on everything.
+RYAN	m	Now, who's stereotyping?
+NANCY	f	Fear of mortality. It's like Yes, you're going to die one day.
+RYAN	m	And why do you suppose that's singular to men?
+NATALIE	f	Probably cause you can't have babies.
+NATALIE	f	If I had that many miles, I'd just show up at the airport, look up at one of those big destination boards, pick a place and go.
+INTERCUT WITH:	?	49.
+RYAN	m	Thanks for the advice.
+RYAN	m	Man alive.
+NATALIE	f	Left, left, left, left... one more inch... and stop.
+NATALIE	f	I don't get it.
+RYAN	m	My sister is cooky. She thinks this is charming... Like the gnome thing.
+NATALIE	f	No, I mean... why would your sister want a fake photo in front of the St. Louis Airport?
+RYAN	m	She should be so lucky to visit Lambert Field. The Wright Brothers flew through there... (points out the conical
+MAIN TERMINAL)	m	The domed main terminal was the first of its kind. A precursor to everything from JFK to DeGualle.
+NATALIE	f	Wow. Pretty sweet.
+RYAN	m	Why she wants dozens of reminders of all the places she hasn't been is beyond me.
+NATALIE	f	Well, I'm sure she's going to be crushed for having missed this airport.
+RYAN	m	Look - Before Lindbergh could cross the Atlantic, he took off from one of those runways... Ever wondered why they call it the Spirit of St. Louis?
+NATALIE	f	No. 51.
+RYAN	m	Sometimes, they just need to vent.
+NATALIE	f	Please, for the love of God, can I fire the next one?
+KAREN	f	I'm here to be fired, right?
+NATALIE	f	We're here to talk about your future.
+KAREN	f	You don't have to sugar coat it. I get the drill. What are they offering?
+NATALIE	f	Inside the packet you'll find a clearly worked out severance package.
+KAREN	f	Give me the bullet points.
+NATALIE	f	Three months pay. Six months medical. A full year of placement services through our company, CTC.
+KAREN	f	Placement services? How generous.
+NATALIE	f	Commonly, it takes one month of searching for every ten thousand dollars you expect to earn in salary.
+KAREN	f	So I could be looking for a while.
+NATALIE	f	Not necessarily...
+KAREN	f	Oh, don't sweat it. I'm pretty confident about my plans.
+NATALIE	f	Oh yeah?
+KAREN	f	Yeah. Can you tell me? Is high tide in the morning or the evening?
+NATALIE	f	I don't know. Why?
+KAREN	f	There's this beautiful bridge by my apartment. I need to figure out what time to jump off it.
+RYAN	m	People say these things all the time. It comes with the trade.
+NATALIE	f	They do?
+RYAN	m	Sure. People are always saying crazy stuff. They get worked up.
+NATALIE	f	She was so calm.
+RYAN	m	(not quite sure) I think that's a good sign.
+NATALIE	f	So they don't actually ever do it?
+RYAN	m	No... it's just talk.
+NATALIE	f	How do you know? Do you follow up?
+RYAN	m	I mean, no, nothing good can come of that, but I don't think you should worry about it.
+RYAN	m	This is the job. Taking people at their most fragile moment and setting them adrift.
+NATALIE	f	I'll be back soon. Not really sure how long this whole exercise is supposed to last. He's fine... It's hard for these guys to accept change, you know. (listens, rolls eyes) I... I'm not even going to answer that... No, I can't even think of him that way... He's old.
+RYAN	m	Okay. This is where it gets a little difficult, but stay with me. You have a new backpack... but this time, I want you to fill it with people. Start with casual acquaintances, people around the office, friends of friends and work your way to the people you trust with your most intimate secrets. Now move into family members - cousins, aunts, and uncles. Get your sisters and your brothers and you parents. Get them all in that backpack. And finally your husband or wife or boyfriend or girlfriend. Get them in their too.
+RYAN	m	Don't worry. I'm not going to ask you to light it on fire.
+RYAN	m	Feel the weight of that bag. Make no mistake, your relationships are the heaviest components of your life. Feel the straps cutting into your shoulders. All those negotiations and arguments and secrets and compromises.
+RYAN	m	Now set that bag down.
+RYAN	m	You don't need to carry all that weight.
+RYAN	m	Some animals were meant to carry each other. To live symbiotically over a lifetime. Star-crossed lovers. Monogamous swans. We are not one of those animals.
+RYAN	m	The slower we move, the faster we die. We are not swans. We're sharks.
+NATALIE	f	Never...?
+NATALIE	f	You never want to get married? Never want kids?
+RYAN	m	Is that so bizarre?
+NATALIE	f	Yes. Yes it is.
+RYAN	m	I don't see the value.
+RYAN	m	Sell it to me.
+NATALIE	f	What?
+RYAN	m	Sell me marriage.
+NATALIE	f	I... Uh... How how about love?
+RYAN	m	Pff...
+NATALIE	f	Okay. Stability?
+RYAN	m	How many stabile marriages do you know?
+NATALIE	f	Someone to talk to, spend your life with?
+RYAN	m	I'm surrounded by people to talk to. I doubt that will change.
+NATALIE	f	How about just not dying alone?
+RYAN	m	Starting when I was twelve, we moved each one of my grandparents into a nursing facility. My parents went the same way. Make no mistake. We all die alone.
+RYAN	m	Those cult members down in San Diego with the white sneakers and little Dixie cups of Kool-Aid. They didn't die alone.
+RYAN	m	Just saying - There's options.
+RYAN	m	Oh fuck.
+NATALIE	f	Brian left me.
+RYAN	m	Oh, hey... I...
+RYAN	m	Hi. Alex this is Natalie. Natalie, this is my... friend, Alex.
+ALEX	m	I should give you both a moment.
+NATALIE	f	No, it's fine. I'm fine. Just stupid emotions.
+ALEX	m	Maybe a drink?
+NATALIE	f	Now we're talking.
+ALEX	m	He broke up with you over text message?
+RYAN	m	That's kind of like firing people over the internet.
+ALEX	m	(re: the ex-boyfriend) What a weasely prick.
+NATALIE	f	Yeah, but what does that make me? Someone who falls for a prick?
+ALEX	m	We all fall for them. Pricks are spontaneous, unpredictable, and fun. And then we're surprised when they turn out to be pricks.
+NATALIE	f	I followed him to Omaha.
+RYAN	m	You did?
+NATALIE	f	I had a job waiting for me in San Fran, when he got an offer from ConAgra. He told me we could start a life together. So I followed him.
+RYAN	m	To Nebraska.
+NATALIE	f	I look in the mirror and I just see compromise... I'm supposed to do something.
+ALEX	m	You'll do plenty.
+NATALIE	f	I just can't... I thought I'd be engaged by now. No offense.
+NATALIE	f	When I was sixteen, I thought by twenty three, I would be married, maybe have a kid... Corner office by day, entertaining at night. I was supposed to be driving a Grand Cherokee by now.
+ALEX	m	Life can underwhelm you that way.
+NATALIE	f	Now I have my sights on twenty nine, because thirty is just way too... apocalyptic. I mean, where did you think you'd be by...
+ALEX	m	It doesn't work that way.
+RYAN	m	At a certain point, you stop with the deadlines.
+ALEX	m	They can be a little counterproductive.
+NATALIE	f	I don't want to say anything that's... anti-feminist. I mean, I really appreciate everything your generation did for me.
+ALEX	m	(my generation?) It was our pleasure.
+RYAN	m	Well done.
+NATALIE	f	But sometimes it feels like no matter how much success I have, it all won't matter until I find the right guy.
+ALEX	m	You really thought this guy was the one.
+NATALIE	f	Yeah, I guess. I don't know. I could have made it work. He just really fit the bill.
+RYAN	m	The bill?
+NATALIE	f	My type. You know, white collar. College grad. Loves dogs. Likes funny movies. Six foot one. Brown hair. Kind eyes. Works in finance but is Outdoorsy, you know, on the weekends. (we think she's done) I always imagined he'd have a single syllable name like Matt or John or... Dave. In a perfect world, he drives a Four Runner and the only thing he loves more than me is his golden lab. Oh... and a nice smile. (back to Alex and Ryan) How about you?
+RYAN	m	I'm not sure if...
+NATALIE	f	I meant Alex...
+RYAN	m	Right.
+ALEX	m	Huh, let me think for a sec. (mulls it over) Well, by the time you're thirty four, all the physical requirements are pretty much out the window. I mean you secretly prey he'll be taller than you.
+ALEX	m	Not an asshole would be nice? Just someone who enjoys my company. Comes from a good family - You don't think about that when you're younger. Wants kids... Likes kids... 62.
+ALEX	m	Wants kids. Healthy enough to play catch with his future son one day.
+ALEX	m	Please let him earn more than I do. That doesn't make sense now, but believe me, it will one day. Otherwise it's just a recipe for disaster. Hopefully some hair on his head...? But it's not exactly a deal-breaker anymore. Nice smile... Yep, a nice smile just might do it.
+NATALIE	f	Wow. That was depressing.
+NATALIE	f	I should just date lesbians.
+ALEX	m	Tried it. We're no picnic ourselves.
+NATALIE	f	I don't mind being married to my career, and I don't expect it to hold me in bed as I fall asleep. I just don't want to settle.
+ALEX	m	You're young. Right now you see settling as some sort of failure.
+NATALIE	f	It is. By definition.
+ALEX	m	Don't worry, by the time someone is right for you, it won't feel like settling... And the only person left to judge you will be the twenty four year old girl with a target on your back.
+NATALIE	f	So, what's the plan for this evening?
+NATALIE	f	What...? Oh, is it illicit?
+RYAN	m	No...
+ALEX	m	It's nothing like that.
+NATALIE	f	We are in Miami.
+RYAN	m	... We were going to hit that party for the tech conference in the hotel.
+NATALIE	f	I didn't know you could just attend those...
+ALEX	m	Well, I mean...
+NATALIE	f	You're going to crash it?
+NATALIE	f	No, I get it. I'm in!
+ALEX	m	Jennifer Chu?
+NATALIE	f	Oh shit!
+RYAN	m	It's going to be fine.
+RYAN	m	You okay there?
+NATALIE	f	Oh yeah... This was a great idea. You are so pretty. You're exactly what I want to look like in fifteen years.
+ALEX	m	Thank you, Natalie.
+CONFERENCE LEADER	m	How's everyone doing out there?!
+CONFERENCE LEADER	m	I'm going to need you to all put your hands together for a very special guest - YOUNG... M... C!
+YOUNG MC	m	THIS HERE'S A TALE FOR ALL THE
+RYAN	m	Think she'll be okay?
+ALEX	m	Look...
+ALEX	m	Back home, I don't get to act the way I do with you.
+RYAN	m	That's why I don't have a "back home".
+ALEX	m	I know. You're so cool. "Mr. Empty Back Pack".
+RYAN	m	You know about the back pack?
+ALEX	m	I googled you.
+RYAN	m	You did?
+RYAN	m	(smiles, continues story)
+RYAN	m	Right? (relives it for a second) So just as we're hovering over the hospital, I sit up. And from there, I could see the whole western horizon. We'd been flying twenty minutes. Twenty minutes to reach a city I'd thought of as remote, halfway across the state... a foreign capital. My parents had taught me we lived in the best place on Earth, but now I could see the world was really just one place and comparing didn't make much sense. And I remember thinking - Don't tell me this isn't an age of miracles. Don't tell me we can't be everywhere at once.
+RYAN	m	I don't know what originally sparked the back pack. I probably needed to be alone. Recently, I've been thinking that maybe I needed to empty the bag before I knew what to put back in.
+SOFTWARE DUDE	m	Hey... I think we're out of gas.
+RYAN	m	Hey, you're up...
+ALEX	m	Got to fly stand-by and make a meeting in Milwaukee.
+RYAN	m	Oh... Okay.
+ALEX	m	(notices, teasing) Oh, no. I made you feel cheap.
+RYAN	m	Yeah, all right... Just leave the money on the dresser.
+ALEX	m	I'll text you later so we can swap schedules.
+RYAN	m	I can't remember the last time I enjoyed spending time with someone as much as you.
+ALEX	m	Neither can I.
+NATALIE	f	Last night got a little out of hand. I said things... I don't remember everything I said. I just didn't want you to think...
+RYAN	m	Just relax. It was nice to see you cut loose. So, did you wake him up or slip out?
+NATALIE	f	What?
+RYAN	m	This morning... Your new friend. Did you wake him for an awkward good bye or just slip out so he could feel like a whore.
+NATALIE	f	I... just left.
+RYAN	m	Protocol is always tricky.
+NATALIE	f	I didn't know what was right.
+RYAN	m	Sometimes there really is no right thing to do.
+RYAN	m	(a good lie)
+RYAN	m	It's simple, you know that moment when you look into someone's eyes and you feel them looking right into your soul, and the whole world goes quiet for a second.
+NATALIE	f	(finally, a break through) Yes.
+RYAN	m	Right. Well, I don't.
+NATALIE	f	You're an asshole.
+RYAN	m	Oh come on, I'm just dicking around. I need your help...
+NATALIE	f	Don't you think it's worth giving her a chance?
+RYAN	m	A chance to what?
+NATALIE	f	A chance at something real?
+RYAN	m	Natalie, your definition of "real" is going to evolve as you get older...
+NATALIE	f	Would you stop condescending for one second? Or is that one of the principles of your bullshit philosophy?
+RYAN	m	Bullshit philosophy?
+NATALIE	f	The isolation? The traveling? Is that supposed to be charming?
+RYAN	m	No, it's simply a life choice.
+NATALIE	f	It's a cocoon of self-banishment.
+RYAN	m	Wow. Big words.
+NATALIE	f	Screw you.
+RYAN	m	Well, screw you too.
+NATALIE	f	You've set up a way of life that basically makes it impossible for you to make any human connections. Now, somehow, this woman runs the gauntlet of your ridiculous "life choice" and comes out the other end with a smile - Just so you can call her casual. Jesus. I need to grow up? You're a twelve year old.
+RYAN	m	I don't have a gauntlet of...
+RYAN	m	... Fuck!
+RYAN	m	These Detroit guys can be tough. They've been getting hammered. Don't get distracted. Stick to the simple stuff. Get the packet in their hands and get them out the door.
+CRAIG GREGORY	m	Welcome to Detroit.
+RYAN	m	What's going on here?
+CRAIG GREGORY	m	I've been getting those great numbers over the last few days. Thought we should nut up and give this a try.
+RYAN	m	We could use a little more time.
+CRAIG GREGORY	m	Gotta leave the nest at some point.
+RYAN	m	This is a real company, Craig. We're here to do some damage.
+CRAIG GREGORY	m	I know. Good thing we brought our best. So let's stop screwing around, alright?
+RYAN	m	Just give me a minute to prepare and get my things together.
+CRAIG GREGORY	m	I was thinking Natalie takes this one.
+RYAN	m	She's hardly ready for this.
+CRAIG GREGORY	m	I've been watching her. She's great.
+RYAN	m	(re: the webcam) This is a whole other animal...
+CRAIG GREGORY	m	I mean, she created it. Natalie, you not up for it?
+NATALIE	f	I'm... I'm game.
+CRAIG GREGORY	m	Atta girl.
+RYAN	m	Just remember, don't apologize. Don't tell them how hard this is for you. Today is one of the worst days they will ever have. What we feel doesn't even compare.
+NATALIE	f	Got it.
+RYAN	m	Just keep it professional. You're going to do fine.
+NATALIE	f	Hello, Mr. Samuels. My name is Natalie Keener.
+SAMUELS	m	(checking out the PC) What's going on here?
+NATALIE	f	I wish I was here with better news, however your position here at Deckers is no longer available.
+SAMUELS	m	What are you talking about?
+NATALIE	f	You've been let go.
+SAMUELS	m	What, just like that? I can't believe... Who are you?
+NATALIE	f	My name is Miss Keener. I am here to tell you about your options...
+SAMUELS	m	I work here for seventeen years and they send some fourth grader in here to can me? What the fuck is this?!
+NATALIE	f	It's perfectly normal to be upset. However, the sooner you can tell yourself that there are greater opportunities waiting for you...
+SAMUELS	m	Greater opportunities? I'm fifty- seven-fucking years old!
+NATALIE	f	Anybody who ever built an empire, or changed the world, sat where you are now. And it's because they sat there that they were able to do it.
+NATALIE	f	There's a packet in front of you.
+NATALIE	f	I want you to take some time and review it.
+NATALIE	f	All the answers you're looking for are inside those pages. 77.
+NATALIE	f	The sooner you trust the process, the sooner your next step in life will unveil itself.
+NATALIE	f	I need you to return to your office now and begin to put together your personal things.
+NATALIE	f	Thank you for your time, Mr. Samuels.
+NATALIE	f	Mr. Samuels? There's nothing else we can discuss now. Thank you for your time.
+NATALIE	f	Mr. Samuels... Mr. Samuels.... MR.
+RYAN	m	You did good.
+RYAN	m	You okay? Want me to take over.
+NATALIE	f	No, I'm alright.
+RYAN	m	... We just got out here. That was one place. I think we need to try a few more... Maybe there isn't a difference, but it's comforting to know we're in the next room. I know you don't give a shit about my comfort. We could just use a little more time. That's all I'm saying. Right... Right. (shakes his head) Yeah... Alright... Uh huh. Bye.
+RYAN	m	He thought you did a great job. You did - I was real proud of you.
+NATALIE	f	Thanks.
+RYAN	m	We're being pulled off the road. We're going home.
+NATALIE	f	For good?
+RYAN	m	That's what it looks like.
+NATALIE	f	I'm sorry about what I said about Alex. I was out of line.
+RYAN	m	It's alright. I understand.
+NATALIE	f	I mean, who am I to be dolling out relationship advice?
+RYAN	m	It's fine.
+NATALIE	f	You going to be okay?
+RYAN	m	What do you mean?
+NATALIE	f	In Omaha?
+RYAN	m	Oh, I don't know.
+NATALIE	f	It's better than you'd think.
+NATALIE	f	Ryan, where are you going?
+RYAN	m	Grabbing another flight... Something I need to take care of. I'll see you in, uh... at home.
+ALEX	m	I have to admit, when you asked me to meet you in Vegas... I thought we'd gamble, make out in a heart shaped jacuzzi, maybe see one of those weird French Canadian circus shows.
+RYAN	m	There'll be plenty of time for all that. (directing the photo) One more foot to the left.
+ALEX	m	How do you feel about the wedding?
+RYAN	m	I'm fine, I guess. (directing the photo) Okay great... walk away.
+ALEX	m	They're a cute couple.
+RYAN	m	Think so?
+ALEX	m	Yeah, they'll make cute kids. If they're lucky, maybe look a little like you.
+RYAN	m	How do you like Wisconsin in February?
+ALEX	m	Who doesn't? 81.
+ALEX	m	I like it if you're there. Besides, I know a killer burger in Milwaukee.
+RYAN	m	Northern Wisconsin. What are you doing this weekend?
+ALEX	m	No...
+RYAN	m	What? I haven't even...
+ALEX	m	I can't.
+RYAN	m	Why not?
+ALEX	m	I couldn't.
+RYAN	m	I'm being serious.
+ALEX	m	You want me to be your date?
+RYAN	m	Well... Yeah.
+ALEX	m	To a wedding... Jesus, Ryan. Your sister's wedding?
+RYAN	m	It's not like I know her that well.
+ALEX	m	I'm just not sure if it's appropriate for me to...
+RYAN	m	Look. You know. I'm not the wedding type. But for the first time in my life... I don't want to be that guy, alone with his drink. I want a dancing partner. I want a plus one. And if you can stomach it, I'd like it to be you.
+ALEX	m	Okay.
+RYAN	m	Really?
+ALEX	m	Yeah, I can't believe I... Yeah, I'm in. When is it?
+RYAN	m	I feel like we should kiss or something.
+ALEX	m	Then kiss me.
+RYAN	m	(to the CHECK-IN LADY) Are you available?
+CHECK-IN LADY	m	Sorry, this line is for members of our Matterhorn program.
+KARA	?	Ryan?
+RYAN	m	Kara...
+RYAN	m	Alex, this is my sister Kara.
+KARA	?	Well, hello.
+ALEX	m	Hi.
+KARA	?	(quite frankly...) Ryan has told me nothing about you.
+RYAN	m	Kara, what are you doing at a hotel?
+KARA	?	Fuck, I was hoping I wouldn't have to... Yeah, uh, Frank and I are trying out a trial separation.
+RYAN	m	You're not staying at the house?
+KARA	?	There was an extra room on hold here, so I just took it for the weekend.
+RYAN	m	Oh, okay.
+KARA	?	Yup. So, you guys are dating?
+RYAN	m	Um...
+ALEX	m	It's not exactly...
+KARA	?	Hey, don't worry about it. We're all getting a little old to be calling someone girlfriend... I remember when mom used to call Jack her boyfriend. It drove me up the wall. Boyfriends are for kids... And I'm just a divorcee!
+RYAN	m	So, the rehearsal dinner?
+KARA	?	Yeah, I'll see you two there.
+RYAN	m	There's a packet.
+ALEX	m	What in life is worth doing that doesn't have a packet.
+RYAN	m	Um, I love you?
+JULIE	f	Oh my God, Ryan!
+JULIE	f	You must be Alex. You are so beautiful. Kara was right. Did you get the basket?
+ALEX	m	The basket was very lovely.
+JULIE	f	Tammy wrapped all of them.
+JULIE	f	Ryan, you look so grown up.
+RYAN	m	Me? You're the one getting married.
+JULIE	f	I know, right? You haven't even seen my ring.
+JULIE	f	Jim designed it.
+RYAN	m	I brought those photos you were asking for...
+JULIE	f	Oh great! They go over there.
+RYAN	m	There were quite a few already up there. Almost couldn't find room.
+JULIE	f	I know, isn't it great how everyone chipped in?
+RYAN	m	What gave you the idea to do something so...
+ALEX	m	... Substantial?
+JULIE	f	Well, Jim has a lot of our nest egg invested in this real estate venture right now. So when we went over our finances, a honeymoon just didn't seem affordable this second... So I thought... Hey, just because we can't travel doesn't mean we can't have pictures.
+ALEX	m	It was a great idea.
+JULIE	f	Thanks.
+JIM	m	It's sixty acres up against the foothills. I subdivided the old Lazy W Ranch and took a nice slice for myself.
+RYAN	m	Sounds nice.
+JIM	m	Homes will go in the high fours.
+RYAN	m	Must be a nice development.
+JIM	m	It's a community, not a development. The concept is turn-key everything. You buy a maintenance contract with the home. We'll whack your weeds, we'll even change the light bulb. Furniture? You buy your own or choose a package. Seamless traditionalism, yet all the perks.
+RYAN	m	Nice.
+JIM	m	We all need a place to call our own. This is America. This is what we were promised.
+RYAN	m	That's a nice touch.
+JIM	m	What?
+RYAN	m	That bit at the end about promise... I like it.
+JIM	m	(a little embarrassed) Thanks. So, you still renting that one- bedroom?
+RYAN	m	I gave it up.
+JIM	m	You own now?
+RYAN	m	No.
+JIM	m	But you're looking?
+RYAN	m	Not really. No.
+TAMMY	f	Can you believe it's tomorrow?! How are you going to sleep?
+JULIE	f	I don't know!
+TAMMY	f	You want some Xanax?
+RYAN	m	I don't think that's for sleeping.
+JULIE	f	No, I'm good. I'll have some warm milk. That should do the trick.
+JIM	m	One more box...
+ALEX	m	I'll get it.
+RYAN	m	You sure?
+ALEX	m	Yeah, yeah...
+RYAN	m	Jim seems like a good guy.
+JULIE	f	Yeah, I know... Isn't he great?
+KARA	?	He's going to make a great husband.
+RYAN	m	Hey, Julie, I was thinking... with dad not being... Well, I didn't know if you had someone to walk you down the aisle...
+JULIE	f	Oh, yeah, Jim's uncle is going to do it.
+KARA	?	He's been really supportive.
+RYAN	m	Oh... Oh, great. Just wanted to make sure you were covered. So I should get there at...
+JULIE	f	Guests are arriving around 5ish. Things get going at 530. So you know, around then. It's easy. Just come down the elevator.
+RYAN	m	Hey Kara?
+KARA	?	Yeah.
+RYAN	m	Can you believe she's getting married already? She's just a kid.
+KARA	?	No Ryan. Actually, she's 37 years old. She's barely squeaking by.
+RYAN	m	Oh.
+KARA	?	Yup. Sleep tight.
+ALEX	m	That's all you got?
+RYAN	m	Are we really doing this?
+ALEX	m	Give me a boost.
+RYAN	m	I took geography in here. That was my seat.
+ALEX	m	You ever fool around with one of your teachers?
+RYAN	m	No. You?
+ALEX	m	Not until college. Come on, show me around.
+ALEX	m	You played basketball?
+RYAN	m	Point guard. Don't act so surprised.
+ALEX	m	I didn't know you were such a jock.
+RYAN	m	My first fight.
+ALEX	m	How'd it go?
+RYAN	m	Got my ass kicked.
+RYAN	m	This is where we used to go to make out.
+ALEX	m	Very romantic.
+ALEX	m	I'm really happy I came here.
+RYAN	m	(to the team) Go Cougars!
+RYAN	m	(checks caller ID) It's Kara.
+KARA	?	Ryan, where are you? We're having a meltdown here.
+RYAN	m	What's wrong? What happened?
+KARA	?	It's Jim. Can you get back here? We need your help.
+RYAN	m	Yeah, of course...
+ALEX	m	I'll grab your suit. Good luck.
+RYAN	m	What happened?
+KARA	?	Jim's got cold feet.
+RYAN	m	Today?
+KARA	?	That's how cold feet work.
+RYAN	m	What do you want me to do?
+KARA	?	Talk to him.
+RYAN	m	You want me to talk to him?
+KARA	?	Hey, it's either you or me. You know my record. I've already struck out once.
+RYAN	m	I haven't been to bat. I haven't been in the dugout.
+KARA	?	Don't you talk for a living? Motivational type stuff?
+RYAN	m	I tell people how to avoid commitment.
+KARA	?	What kind of fucked up message is that?
+RYAN	m	It's a philosophy.
+KARA	?	It's stupid.
+RYAN	m	Hey, it might have helped you.
+KARA	?	Come on, Ryan. You haven't been around much. Fuck, you basically don't exist to us. I know you want to be there for her... Well here it is. This is your chance.
+JIM	m	Ryan?
+RYAN	m	Oh, hey Jim.
+JIM	m	You ever read this?
+RYAN	m	Yeah, it's pretty powerful stuff.
+JIM	m	I'll say.
+RYAN	m	Kara mentioned you were having some... thoughts?
+JIM	m	I don't think I can do this.
+RYAN	m	Okay. What makes you say that today?
+JIM	m	I was just laying there last night in bed and I couldn't sleep. I was thinking about the wedding and the ceremony and all. Us buying a house and moving in together. Having a kid... Having another kid... (begins to snowball) ... Thanksgiving, Christmas, spring break, football games, all of a sudden they're out of school, getting jobs, getting married, And then, you know... I'm a grandparent. I'm retired. Before you know it - I'm dead... and I just kept thinking... "What's the point?"
+JIM	m	(now asking Ryan directly) I mean what is the point?
+RYAN	m	The point?
+JIM	m	Yeah, I mean, what am I starting here?
+RYAN	m	It's marriage... it's the most beautiful thing on Earth... you know, what everyone aspires to...
+JIM	m	You never got married.
+RYAN	m	That's true...
+JIM	m	You never even tried.
+RYAN	m	Well, it's hard to define "try".
+JIM	m	You seem happier than most of my married friends.
+RYAN	m	Jim, I'm not going to lie. Marriage can be a pain in the ass. And you're kind of right - All of this is just stuff on the way to your eventual demise.
+RYAN	m	We are all on running clocks that cannot be slowed down or paused and they all lead to the same place. Some guys leave marks that last beyond their own mortality. Not guys like you and me... But some. But even those footprints disappear. There isn't a "point".
+RYAN	m	I'm not the guy you'd normally want to talk to about all this stuff... But think about it - your favorite memories. The greatest moments of your life? Were you alone?
+JIM	m	(thinks about it) No... I guess not.
+RYAN	m	I don't want to sound like a Hallmark card, but... Life? It's better with company.
+RYAN	m	Come to think of it... Last night, the night before your wedding, when all this shit was circling through your head... Weren't you two sleeping in separate rooms?
+JIM	m	Yeah, Julie went back to the apartment and I was all alone in that big honeymoon suite...
+RYAN	m	Kind of lonely?
+JIM	m	Yeah.
+RYAN	m	Hey. Everybody needs a copilot.
+JIM	m	That's a nice touch.
+RYAN	m	Thanks.
+JIM	m	What's the mood like out there?
+RYAN	m	It's not good... Emotional.
+JIM	m	What should I do?
+RYAN	m	(twinkle in his eye) Go get her.
+JIM	m	I'm sorry I'm such a fuck up... Will you be my co-pilot?
+KARA	?	Welcome home.
+RYAN	m	Hi, I'm Ryan.
+WEDDING GUEST	m	I'm your cousin... Harold.
+RYAN	m	Oh, hey!
+ALEX	m	When am I going to see you?
+RYAN	m	You're just going to have to come and visit.
+ALEX	m	So settled down. You're not going to change on me...
+RYAN	m	Same guy. Just one address.
+ALEX	m	Call me if you get lonely.
+RYAN	m	... I'm lonely.
+NATALIE	f	... Some guy sits down in a conference room somewhere and a server routes their session to one of our termination engineers.
+RYAN	m	You don't actually call them that.
+NATALIE	f	I prefer "terminators", but it bumped with legal.
+RYAN	m	Really? I can't imagine why.
+NATALIE	f	They follow a workflow that can take them through anything from a standard dismissal to a violent aggressor.
+RYAN	m	Are they actually on line, right now?
+NATALIE	f	No, they're beta-testing. Role-playing. We go live at the end of the month. (catches one of the guys making a mistake) Kyle, you're running through the events too quickly. You have to give them time to acknowledge each statement. Okay? It's a legal thing.
+RYAN	m	This is ridiculous.
+GOALQUEST HOST	m	You ready to rock?
+RYAN	m	Last year, I flew three hundred fifty thousand miles. The moon is only two fifty.
+RYAN	m	Imagine for a second that you're carrying a backpack... I want you to feel the straps on your shoulders... You feel them?
+RYAN	m	Now, I want you to pack it with all the stuff you have in your life. Start with the little things.
+RYAN	m	The... um... The stuff in drawers and on shelves.
+RYAN	m	Excuse me.
+GOALQUEST HOST	m	What the fuck are you doing? Okay, everyone just relax. We'll have your next guest out in a sec.
+RYAN	m	Surprise.
+ALEX	m	What are you doing here?
+ALEX'S HUSBAND	m	Who was that?
+ALEX	m	... just some guy who was lost.
+RYAN	m	How could you lie to me?
+ALEX	m	What were you thinking - Just showing up at my door like that?
+RYAN	m	What do you mean? I wanted to see you. I didn't know you had a family - Why didn't you tell me that?
+ALEX	m	Come on, I thought we signed up for the same thing.
+RYAN	m	Try to help me understand. What is it you signed up for?
+ALEX	m	I thought our relationship was perfectly clear. You're... 105.
+ALEX	m	(a long beat) ... an escape.
+RYAN	m	I'm an escape?
+ALEX	m	You know, a break from our normal lives... A parenthesis.
+RYAN	m	I'm a parenthesis?
+ALEX	m	Seriously, Ryan? I can't believe we're having this conversation. I mean what do you want?
+ALEX	m	You don't even know what you want. I'm sorry that I ruined your night... But you could have seriously screwed things up for me. That was my family. That's my real life.
+RYAN	m	I thought I was a part of your real life.
+ALEX	m	Look, Ryan. I'm a grown up. I don't hold a grudge. When you're ready to be an adult and see me again, just give me a call.
+RYAN	m	Yeah, right, you got me in 2C?
+RYAN	m	What's got you so fucking happy?
+PURSER	m	Ladies and gentlemen, we have a special announcement to make.
+PURSER	m	Our pilot has just informed me that we are passing over the city of Mesa... which might not mean much to most of you, but means a lot to one of our fliers today, because he just hit
+RYAN	m	Oh no...
+MAYNARD FINCH	m	That seat taken?
+MAYNARD FINCH	m	You're the youngest yet to hit twenty mil. Don't know where you found the time... Oh right, here you go.
+RYAN	m	You know how many times I've thought about this moment? Played out the conversation I'd have with you right here.
+MAYNARD FINCH	m	Really? What did you want to say?
+RYAN	m	You know, I... I can't remember.
+MAYNARD FINCH	m	That's alright. Happens to all of us. (attempts chit chat) So, where you from?
+RYAN	m	I'm from here.
+AIRLINE OPERATOR	m	Hello, Mr. Bingham.
+RYAN	m	Oh, how did you know it was me?
+AIRLINE OPERATOR	m	This is your dedicated line. We reserve them for our most loyal and dedicated fliers.
+RYAN	m	Oh. I'd like to transfer some of my miles. Can you open up an account under Jim and Julie Miller?
+AIRLINE OPERATOR	m	Certainly. How many miles would you like to transfer?
+RYAN	m	How many miles would it take to circle the globe?
+AIRPORT OPERATOR	m	We have our "around-the-world" tickets. They're five hundred thousand miles each.
+RYAN	m	Sounds perfect.
+CRAIG GREGORY	m	Got a second?
+RYAN	m	(to the airline operator) I'm going to have to call you right back.
+CRAIG GREGORY	m	What happened to you yesterday? I was trying to reach you all day.
+RYAN	m	I got tied up in... personal stuff. What's going on?
+CRAIG GREGORY	m	Do you remember Karen Barnes?
+RYAN	m	No, I fire dozens of people a day.
+CRAIG GREGORY	m	She killed herself. Jumped off a bridge.
+RYAN	m	Fuck.
+CRAIG GREGORY	m	Yeah. Do you remember anyone giving you any signals of anything? Depression?
+RYAN	m	They're all depressed. We're firing them.
+CRAIG GREGORY	m	Hey, look, you know I have to ask.
+RYAN	m	No, I don't remember anything. Of course they're upset. You never think that...
+CRAIG GREGORY	m	Wasn't any woman who gave you any indication...? Anything?
+RYAN	m	No, nothing that stands out. Is Natalie alright? Is she coming in?
+CRAIG GREGORY	m	Natalie quit.
+RYAN	m	Just like that?
+CRAIG GREGORY	m	Text message.
+RYAN	m	She say where she was going?
+CRAIG GREGORY	m	Nah. She was pretty upset.
+RYAN	m	I should give her a call.
+CRAIG GREGORY	m	I need you back in the air.
+RYAN	m	I'm fine. What about video conferencing?
+CRAIG GREGORY	m	CTC is pausing on the whole new media front for a moment. Giving it a little more thought. Getting our work horses back out doing what they do best.
+RYAN	m	How long are you sending me out?
+CRAIG GREGORY	m	We're going to let you sail and sail. Send us a postcard if you ever get there.
+MANAGER	m	So, what happened?
+NATALIE	f	How exactly do you mean?
+MANAGER	m	You graduated top of your class. You seemed to have your pick of employment... Including right here. Instead, you went to Omaha... to fire people for a living.
+NATALIE	f	It's challenging work.
+MANAGER	m	I can't imagine doing that day-in- day-out. Not in this climate.
+NATALIE	f	(after a beat) ... I followed a boy.
+MANAGER	m	Everybody does at one point or another.
+MANAGER	m	This guy says I'd be lucky to have you.
+MANAGER	m	Hope he's right.
+

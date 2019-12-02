@@ -1,0 +1,662 @@
+WIFE	f	Where's the girl?
+DOCTOR	m	I only called her ten minutes ago --
+WIFE	f	I made our reservation for 8:15.  We're going to be late.
+DOCTOR	m	Here she is now.
+JILL	f	Dr. Minakis?
+DOCTOR	m	Mandrakis. It's okay. Everyone gets  it wrong the first time. You're Jill?  Come on in.
+JILL	f	Thank you.
+WIFE	f	I've written the number of the  restaurant on the notepad by the  phone. Zip me up, will you please? If we aren't home in two hours, it  means we've decided to go on to a  movie and won't be back until after  midnight. Is that all right?
+JILL	f	Sure.
+DOCTOR	m	I've told my service to pick up any  calls coming in to my office phone.
+WIFE	f	The children are asleep upstairs --  first door on your left at the top  of the landing. They're both just  getting over a cold -- so try not to  wake them.
+JILL	f	Okay.
+WIFE	f	Do you have any questions?
+WIFE	f	We have to go now. We're late.
+DOCTOR	m	Make yourself at home. The  refrigerator's loaded.
+WIFE	f	Goodbye.
+DOCTOR	m	We even have some low-fat yogurt.
+WIFE	f	Will you please come on!
+DOCTOR	m	Bye.
+NANCY	f	Hello?
+JILL	f	Nancy?
+NANCY	f	Hello, Jill? How's it going? I got it, Dad! Father! Jesus Christ! My father's in one of  his moods again. Male menopause, you  know. So how are you?
+JILL	f	All right.
+NANCY	f	Are you over at Dr. Mandrakis'?
+JILL	f	Yeah, I've been here for about an  hour already.
+NANCY	f	Isn't it a neat house?
+JILL	f	I guess... I haven't looked around  very much.
+NANCY	f	Did you see his kids?
+JILL	f	No, they were asleep when I got here.
+NANCY	f	They're really cute. So what can I  do for you?
+JILL	f	You didn't happen to talk to Billy  today, did you?
+NANCY	f	Yeah, I talked to him.
+JILL	f	Did he say anything about me?
+NANCY	f	I don't know what you did to him, or  said to him, or what... but he's  really pissed off at you! What did  you do?
+JILL	f	It's what I didn't do.
+NANCY	f	Yeah, I can imagine.
+JILL	f	Do me a favor, Nance.
+NANCY	f	What.
+JILL	f	Do you think you'll be talking with  Billy some time tonight?
+NANCY	f	Prabably. I'm going to the library  in a few minutes. I just have to get  out of this house! Hey! Why don't Billy and I come over  there? He'll come along if I tell  him to.
+JILL	f	That isn't what I had in mind.
+NANCY	f	You'll be safe with Billy. I'll be  there. Come on.
+JILL	f	Nancy, all you want to do is come  over here and get drunk.
+NANCY	f	Who? Me?
+JILL	f	Who? Me?
+NANCY	f	You want to see Billy, don't you?!
+JILL	f	I've got a lot of work to do. I don't  want you coming over!
+NANCY	f	You know what your problem is, Jill,  is you're so straight. I really mean  that. You go to a private school,  you wear a bra. No one can have a  good time with you! You know, Billy asked me to go out  with him this weekend, and I was  really really tempted because I like  Billy... a lot... as much as you do.  But I told him I couldn't, that I  didn't think it was right because  you were my friend --
+JILL	f	You are my friend.
+NANCY	f	Yeah. I guess so.
+JILL	f	Listen, just give Billy the number  here, but don't tell him I told you  to. Okay?
+NANCY	f	Okay. I've got to go now.
+JILL	f	Okay, Nancy. Bye. And thank you.
+NANCY	f	Yeah. Bye.
+JILL	f	Hello?
+JILL	f	Billy?...
+DUNCAN	m	Have you checked the children?
+JILL	f	What?
+JILL	f	Hello?
+DUNCAN	m	Have you checked the children?
+JILL	f	Mrs. Mandrakis?
+JILL	f	Hello!
+DUNCAN	m	Have you checked the children?
+JILL	f	Billy! I don't think this is very  funny!
+JILL	f	...Who is this?
+MAITRE D'	m	Golden Bull...
+JILL	f	Hello, I'd like to speak to Dr.  Mandrakis. This is his babysitter.
+MAITRE D'	m	Hold on a minute.
+MAITRE D'	m	Hello?
+JILL	f	Yes?
+MAITRE D'	m	Dr. Mandrakis left the restaurant  about forty minutes ago.
+JILL	f	Forty minutes?
+MAITRE D'	m	That's right.
+JILL	f	Okay. Thank you.
+OPERATOR	m	Operator...
+JILL	f	Hello, Operator? Can you get me the  police?
+OPERATOR	m	Is this an emergency?
+JILL	f	Yes! No, not really.
+OPERATOR	m	The number is 555-9431. Would you  like me to connect you?
+JILL	f	Please.
+MAN'S VOICE	m	Seventh Precinct, Sergeant Sacker.
+JILL	f	Hello, I've been getting phone calls,  every fifteen minutes or so. I think  it's a man. He's trying to scare me.
+SACKER	m	An anonymous caller?
+JILL	f	That's right.
+SACKER	m	Has he threatened you?
+JILL	f	No.
+SACKER	m	Has he been using obscene language?
+JILL	f	No. He just keeps calling me.  Sometimes he doesn't say anything.
+SACKER	m	There's really nothing we can do  about it down here. Is the phone  listed in your name?
+JILL	f	No, I'm just the babysitter.
+SACKER	m	It's probably just some weirdo. The  city's full of them. Believe it or  not, we get reports like this every  night. It's nothing to worry about.
+JILL	f	Oh...
+SACKER	m	Have you tried whistling?
+JILL	f	What?
+SACKER	m	If you can find a good loud whistle  somewhere in the house, blow it into  the phone hard, next time he calls.  Probably break his eardrum. He won't  bother you after that.
+JILL	f	No, I... You're probably right. It's  nothing to worry about.
+SACKER	m	Or you could just take your phone  off the hook.
+JILL	f	No, the people I'm babysitting for  might try to reach me.
+SACKER	m	Well, as I say, there's nothing we  can really do to help you down here.
+JILL	f	Okay. Thank you.
+SACKER	m	You bet. Goodnight.
+JILL	f	Goodnight.
+JILL	f	Hello?
+DUNCAN	m	Why haven't you checked the children?
+SACKER	m	Seventh Precinct, Sergeant Sacker.
+JILL	f	I called you before... about the man  who keeps calling me?
+SACKER	m	Oh, yeah.
+JILL	f	He called me again.
+SACKER	m	Did you try whistling?
+JILL	f	No, he's out there somewhere.
+SACKER	m	Out where?
+JILL	f	In the neighborhood. He's been  watching me... through the windows.
+SACKER	m	Did you see him?
+JILL	f	No. I know he's there.
+SACKER	m	Is the house locked up?
+JILL	f	Yes.
+SACKER	m	And the windows?
+JILL	f	Yes. Everything.
+SACKER	m	Then you're safe. If he wanted to  break in, he wouldn't be calling  you.
+JILL	f	Please, can't you help me? I'm all  alone.
+SACKER	m	Tell you what. If this guy calls you  again --
+JILL	f	He will call again! I know he will!
+SACKER	m	Okay, calm down now. I can alert the  phone company so that if he calls  again we can try to trace the call.  What's your number there?
+JILL	f	555-0672.
+SACKER	m	And the address?
+JILL	f	3317 Oakridge Drive.
+SACKER	m	Oh, yeah, I know where that is. All  right. If the guy calls again, try  to keep him on the line for at least  a minute so we can trace the call.
+JILL	f	But he never stays on that long!  Sometimes he hangs up after just a  couple of seconds.
+SACKER	m	It's the only way we can help you. By the way, what's your name?
+JILL	f	Jill Johnson.
+SACKER	m	Jill, the important thing is to relax.  You're safe where you are. We've got  patrolmen cruising the area all night  long. Just stay calm. Will you do  that for me?
+JILL	f	Yes.
+SACKER	m	In the meantime, we'll be watching  your line. Okay, Jill?
+JILL	f	Okay.
+SACKER	m	Call again if there's any problem.
+JILL	f	Thank you.
+SACKER	m	Goodnight.
+JILL	f	Hello?
+DUNCAN	m	It's me.
+JILL	f	I know. Who are you?
+JILL	f	I won't be here much longer. The  doctor and his wife are coming home  soon.
+DUNCAN	m	I know.
+JILL	f	Can you see me?
+DUNCAN	m	Yes.
+JILL	f	I'm sorry I turned the lights down.  It didn't work anyway. I can turn  them back up if you like --
+DUNCAN	m	Don't.
+JILL	f	Don't? You've really scared me. Is that  what you wanted? Is that what you wanted?
+DUNCAN	m	No.
+JILL	f	What do you want?
+DUNCAN	m	Your blood... all over me.
+JILL	f	You don't know me. You don't know  who I am or where I live. I'll get  Dr. Mandrakis to drive me home. Him  or the police.
+DUNCAN	m	You've called the police?
+JILL	f	I want to talk to you.
+JILL	f	Leave me alone!
+SACKER	m	Jill, this is Sergeant Sacker! Listen  to me! We've traced the call. It's coming  from within the house. A squad car's  on its way over there now... just  get out of that house!
+CLIFFORD	m	Are the parents here yet?
+COP'S VOICE	m	Yeah, they arrived about ten minutes  ago.
+CLIFFORD	m	Christ! What a homecoming!
+COP'S VOICE	m	They wanted to talk to someone. I  asked them to wait until you got  here. Come on in.
+GARBER	m	We were only a block away when the  call went out. When we got here, the  guy was still waiting upstairs in  the children's bedroom. He was covered  with blood.
+CLIFFORD	m	Blood?
+GARBER	m	Not his own. The children had been  dead for several hours.
+CLIFFORD	m	Jesus...
+GARBER	m	He'd been using an old phone in their  bedroom that the parents had never  had disconnected.
+CLIFFORD	m	Who is he?
+GARBER	m	We found a Merchant Seaman's card on  him. He's English. Entered the country  less than a week ago.
+CLIFFORD	m	How about the babysitter?
+GARBER	m	She's going to be all right.
+MASTER	m	So you're in business for yourself  now.
+CLIFFORD	m	Yes, sir, for the past three and a  half years.
+MASTER	m	That's good. And you'd heard about Curt Duncan's  escape?
+CLIFFORD	m	Oh, yes.
+MASTER	m	Do you think the police will... find  him?
+CLIFFORD	m	I know they haven't assigned anyone  to it specifically. It's an old case.
+MASTER	m	An old case. Can you find him?
+CLIFFORD	m	Yes. Maybe not tomorrow, maybe not  this week, but I'll find him.
+MASTER	m	He could be anywhere by now.
+CLIFFORD	m	I don't think so... because he's a  foreigner. He'll come back to the  city. After six years in confinement,  it's the only place that's familiar  to him. That's important.
+MASTER	m	A man murders two children in cold  blood. A jury declares him insane.  How could such a person not be?
+MASTER	m	He is sent to a state mental  institution where the security is...  less than perfect. And he escapes.  It... it isn't fair.
+MANDRAKIS	?	A thing like that should never be  allowed to happen again.
+CLIFFORD	m	I couldn't agree with you more.
+MANDRAKIS	?	Go ahead then. My accountant will  contact you.
+CLIFFORD	m	Thank you. How is Mrs. Mandrakis?
+MANDRAKIS	?	She is... unable to have any more  children.
+CLIFFORD	m	I'm sorry. Please give her my best.
+MANDRAKIS	?	Of course.
+MAN'S VOICE	m	Curt Duncan isn't going to run right  out and kill more children. I'm not  worried about that.
+MAN'S VOICE	m	We had him for six years... under  continuous therapy, some of it rather  forceful...
+MAN'S VOICE	m	...and drugs... tranquilizers  depressants, lithium...
+DR. MONK	m	Eventually, anyone will respond to  the treatment here.
+CLIFFORD	m	You gave him electric shock?
+DR. MONK	m	Yeah, we zapped him a few times.  It's fairly standard.
+CLIFFORD	m	It says here thirty-eight... thirty- eight times.
+CLIFFORD	m	What will happen to him now, without  the drugs he was on?
+DR. MONK	m	There'll be some deterioration. That's  inevitable, but we can't say how  much.
+CLIFFORD	m	During the time that you had him  here, did you discover any particular  habits of his, peculiarities, quirks,  anything that might help me find  him?
+DR. MONK	m	It's all in the folder.
+CLIFFORD	m	Any letters from people back in  England? Family?
+DR. MONK	m	That, too, is in the folder.
+CLIFFORD	m	Let's get something straight here,  Doctor. I've been 33 years in the  business of tracking people down and  putting them away. I spent almost a  year on Curt Duncan alone, with the  trial, the testimonies, the background  investigations. I didn't come here  today to look in your goddamn folders.  In fact, I wouldn't have come here  at all if you'd done your job right.
+DR. MONK	m	Mr. Clifford, this is a hospital,  not a penitentiary. Everything that  pertains to one of our patients is  meticulously recorded in that  patient's folder... whether you can  make sense of it or not.
+DR. MONK	m	Curt Duncan is a classic paranoid- schizophrenic. They see themselves  as victims, and they always blame  other people for the way they are.  When Duncan killed the Mandrakis  kids, it wasn't an act of hostility  against the children but against  their parents. He was getting back  at his own parents for traumas he  suffered in early childhood. The  criminal side of Curt Duncan is one  of terrible, symbolic vengeance.
+CLIFFORD	m	Assuming he isn't found right away...  what will happen to him?
+DR. MONK	m	I think you'll find him. Somebody  will find him. He can't function out  there. He'll make a mistake. This is where he belongs. After six  years in here, he's suddenly gone  out to confront the world again. I  think he's in for a bit of a shock.
+RETIRED MAN	m	Rackin' 'em up today, Bill?
+BILL	m	Doin' all right.
+HANK	m	C'mon in and shut the door.
+HANK	m	What'll it be? Hey! What'll it be?
+CLIFFORD	m	What kind of clothes was he wearing...  when he escaped?
+DR. MONK	m	Ordinary street clothes. Not all of  our patients have to wear the green  Gucci gowns.
+CLIFFORD	m	Did he have any money with him?
+DR. MONK	m	Probably. But not more than, say,  fifty dollars. Some of the patients  are given little jobs around the  ward, for which they are paid. It's  part of the rehabilitation.
+CLIFFORD	m	What's Guy du Mar--
+DR. MONK	m	Guy du Marraux syndrom.
+DR. MONK	m	It's a psycho-motor dysfunction.
+CLIFFORD	m	Duncan had it?
+DR. MONK	m	Only from time to time, which is  unusual.
+CLIFFORD	m	What is it?
+DR. MONK	m	It attacks the nervous system. People  suffering from it are irresistibly  compelled to utter obscenities,  sometimes one, sometimes a whole  string of them. They can't control  it.
+CLIFFORD	m	Are you being serious?
+DR. MONK	m	Yeah. Here, I'll give you an example.
+DR. MONK	m	Duncan never had the twitch that  sometimes goes with it. And with  Duncan, as I said, the disease would  only manifest itself in periods of  extreme anxiety. When he was really  flipping out, in other words.
+CLIFFORD	m	Duncan was Catholic?
+DR. MONK	m	Yeah. So am I.
+CLIFFORD	m	That makes three of us.
+DR. MONK	m	Is that right? So we all share the  same guilt.
+DR. MONK	m	Here. This is Curt Duncan shortly  after he was admitted here in 1972.
+DR. MONK	m	-- to put the situation right. The  hypodermic needles are only used to  give you medication that will calm  you down. They make you feel good,  relaxed. All right? We're not putting anything in your  food either. The food is just food.
+DUNCAN	m	No. I don't eat the food. It doesn't  taste right.
+DR. MONK	m	That's Duncan.
+DR. MONK	m	Curt, why are you fidgeting? Can't  you get comfortable?
+DUNCAN	m	No, I'm not comfortable!
+DR. MONK	m	Wait a -- Hey! Hold him down there. Grab him! Never  mind the chair!
+DR. MONK	m	Pull him down... That's right...  Just lay him out... Lay him right  out... Steady... Pull out his knees...
+TRACY	f	A little action for your game?
+BILL	m	What, him?
+TRACY	f	I wouldn't bet against you.
+BILL	m	What's the matter? You don't like me  playing with myself?
+DUNCAN	m	Hi.
+DUNCAN	m	What you been up to?
+TRACY	f	My own business. Thanks for the light. Okay?
+DUNCAN	m	Next round's on me.
+TRACY	f	Listen, mister, I've got my own money.  So, if you don't mind...
+DUNCAN	m	After what I been through, I don't  mind anything.
+DUNCAN	m	See, that's the whole point. My  mind... Your mind... Where do they  fit in? You know what I mean?
+DUNCAN	m	Do you live around here?
+TRACY	f	Get offa me!!
+DUNCAN	m	Listen, I didn't mean nothin'. I  don't live around here. See -- ?
+BILL	m	I think the lady wants to be left  alone.
+BILL	m	I think an apology is in order.
+BILL	m	That the best you can do?
+BILL	m	I think you'd better just move along,  pal.
+HANK	m	He'll be okay now, Bill. He just --
+BILL	m	No! I want him out of here!
+BILL	m	Go on, beat it.
+BILL	m	I'm not going to say it again, mister.
+BILL	m	Who're you calling?
+BILL	m	You're welcome, baby!
+BILL	m	Okay?
+OLD MAN	m	Good riddance to bad rubbish, eh,  Bill?
+HANK	m	A fight breaks out, there's gonna be  damages. Insurance company doesn't  pay without a police report...
+BILL	m	You see any damages?
+BILL	m	See ya 'round.
+HANK	m	No, it's over now...
+MAN	m	Donna. Donna! Hey! What the hell -- !
+GARBER	m	What is all this?!
+SCATTERED VOICES	m	Happy birthday, Charlie!
+WOMAN'S VOICE	f	Look at him!
+MAN'S VOICE	m	Don't shoot us, Charlie!
+GARBER	m	How was I supposed to know?
+GARBER	m	Will you tell me what this is about,  Cliff?
+CLIFFORD	m	Yeah, in a minute.
+GARBER	m	I don't think I can take any more of  these surprises.
+GARBER	m	Okay now, what's the big deal?
+CLIFFORD	m	Stand still. I want you to remember  this in the morning.
+GARBER	m	If you want me to remember something  in the morning, then tell it to me  in the morning.
+CLIFFORD	m	Charlie, come on.
+GARBER	m	All right, all right. What is it?  You're getting married.
+CLIFFORD	m	No. I got a job today, tracking  someone.
+GARBER	m	That's great, Cliff; I'm sure you'll  find your man.
+CLIFFORD	m	It's Curt Duncan.
+GARBER	m	What?
+CLIFFORD	m	You didn't know he got out?
+CLIFFORD	m	I need your cooperation on this one.
+GARBER	m	Sure. Anything.
+TRACY	f	Oh, it's you! What do you want?
+DUNCAN	m	...Came to apologize. I...
+TRACY	f	Look, I'm the one who should be sorry.  I didn't want that to happen. Oh, God! Look at you. Are you all  right.
+DUNCAN	m	I'm new in town. Don't know anybody...
+TRACY	f	Where're you from?
+DUNCAN	m	New York. Ever been there?
+TRACY	f	Sure. Sure I've been there.
+DUNCAN	m	Kind of a mean place to be. Everyone  cold, unfriendly...
+TRACY	f	Excuse me.
+TRACY	f	Hello?...
+TRACY	f	...No, I just got in... I don't know  if I can... Listen, I can't talk  now. Can I call you back?... Okay...  Goodbye.
+DUNCAN	m	I'm not from New York, actually. But  I'm very, very far from home.
+TRACY	f	Look, you can't come in here.
+DUNCAN	m	I thought we might get some coffee.  Can I buy you -- ?
+TRACY	f	I don't think so.
+DUNCAN	m	Someplace nearby?
+TRACY	f	Not tonight. You'd better go.
+DUNCAN	m	I got no place to go.
+TRACY	f	You can't --
+DUNCAN	m	Just, just a little coffee?
+TRACY	f	Maybe tomorrow.
+DUNCAN	m	Okay, tomorrow. When?
+TRACY	f	I said maybe. I don't know. Listen, I'm sorry about this  afternoon. I really am. All right?  That was my boyfriend on the phone.  He's coming over. So please leave.  Now.
+DUNCAN	m	I like you.
+TRACY	f	Look, do you want me to call the  cops?
+DUNCAN	m	It's okay. It's okay.
+DUNCAN	m	I'll see you later... sometime. I  still want to buy you that drink.
+CLIFFORD	m	Jesus, I don't recognize anybody.
+GARBER	m	Three years is a long time in a place  like this.
+CLIFFORD	m	Three and a half.
+WC	m	Hiya, Cliff. Howya doin'?
+CLIFFORD	m	Hi...
+GARBER	m	How long will you be here?
+CLIFFORD	m	Depends on how lucky I get. I'll only be coming around once,  maybe twice a week.
+GARBER	m	You want to use your old desk?  Someplace to sit down?
+CLIFFORD	m	Is it vacant?
+MAINTENANCE MAN	m	Okay, man, move it out. Let's go.
+CHEATER	m	Wha -- ?
+OLD WOMAN	f	There's another one down there.
+MAINTENANCE MAN	m	Hey!
+MAINTENANCE MAN	m	Come on, bright eyes. Wake up. Wake --  Jesus Christ! What happened to you?
+MAINTENANCE MAN	m	You get hit by a truck or what?
+MAINTENANCE MAN	m	I'm sorry, man, but you can't stay  in here. Go out to the park, lay in  the sunshine. You'll feel better.  Okay?
+MAINTENANCE MAN	m	God bless it! Hey!
+MAINTENANCE MAN	m	Out. Out. Out. Out. Out.
+CHEATER	m	All right! All right!
+CHEATER	m	Whaddya say, pardner. I'm dry as a  bone. You got any money?
+CHEATER	m	You neither, huh? My name is Morgan, but it ain't J.P.  Guess I better go to work. Take 'er  easy now, pardner.
+TRACY	f	Who is it?
+CLIFFORD	m	My name's John Clifford. I'm a private  investigator.
+TRACY	f	A what?
+CLIFFORD	m	A private detective.
+TRACY	f	What do you want with me?
+CLIFFORD	m	I'd just like to talk, ask a few  questions.
+TRACY	f	I've got nothing to say about anything  or anybody.
+CLIFFORD	m	Listen, lady, I can be back in thirty  minutes with a search warrant and a  handful of cops, and I can probably  have you arrested, whether or not  the charges would stick. Now do you  want to let me in and talk?
+TRACY	f	Have you got a badge?
+CLIFFORD	m	I'll show you a badge when you open  the goddamn door!
+CLIFFORD	m	I don't carry a badge. I'm issued a  license, a piece of paper, and I  left it at home. You're Tracy Fuller?
+CLIFFORD	m	Can we sit down?
+CLIFFORD	m	Do you recognize this man?
+TRACY	f	Why?
+CLIFFORD	m	He's escaped from the insane asylum.  In 1972, he murdered two children...  broke into a house and found them  asleep in bed. It was a little boy,  five an a half, and a little three- year-old girl. After the coroner's  investigation, their bodies were  taken to the mortuary, where the  undertaker took one look at them and  said he couldn't have their bodies  reconstructed for the funeral without  six days of steady work. Then he  asked what had been the murder weapon,  because looking at the mess in front  of him, he couldn't imagine what had  been used. The coroner told him there  had been no murder weapon. The killer  had used only his hands. The undertaker went to work and had  them done in four.
+CLIFFORD	m	What's the matter?
+TRACY	f	He's been here.
+CLIFFORD	m	Do you think he'll try to see you  again?
+TRACY	f	I don't know. He said he had no place  else to go.
+CLIFFORD	m	Let's play it safe. Let's assume  that he will.
+CLIFFORD	m	Will you work with me?
+HANK	m	You again?
+CLIFFORD	m	What are your hours tonight?
+HANK	m	No hours. Bar's closed on Mondays.
+CLIFFORD	m	I want you to be open if that's  possible.
+HANK	m	No way. Monday's my night off. Come  back tomorr...
+CLIFFORD	m	This is tomorrow! Now what are your  hours?
+GARBER	m	Any luck?
+CLIFFORD	m	I've come to say goodbye, and thank  you.
+GARBER	m	You found him?
+CLIFFORD	m	I think so.
+GARBER	m	Where?
+CLIFFORD	m	From here on, I go it alone.
+GARBER	m	What's the point of chancing it,  Cliff? We'll let you take the credit.
+CLIFFORD	m	No.
+CLIFFORD	m	I'm going to kill him, Charlie.
+CLIFFORD	m	The closer I get to this guy, the  more I... It gets to me. I don't  know...
+GARBER	m	I think you'd better go on home,  Cliff. You've fallen in.
+CLIFFORD	m	No. Not this time. This is the case  that makes up for a whole career. If  you can't understand it now, you  will in a few years.
+GARBER	m	What part does money play in all  this? Play straight with me.
+CLIFFORD	m	For what I'm being paid, it's not  out of line.
+GARBER	m	Who's hired you for this?
+GARBER	m	So you're a hitman now.
+CLIFFORD	m	He murdered two kids in cold blood.  You were there, too.
+GARBER	m	You could get busted.
+CLIFFORD	m	I understand that.
+GARBER	m	What are you going to use?
+CLIFFORD	m	Jimmy needles.
+GARBER	m	You're stretching our friendship,  Cliff. If you blow this at all --
+CLIFFORD	m	You'll never hear from me again.
+GARBER	m	Take your time. Do it right.
+CLIFFORD	m	Don't worry.
+GARBER	m	Do you need any help preparing for  this thing?
+CLIFFORD	m	I'm ready. I'm just trying to think  where he could be in the meantime.
+WAITRESS	?	What happened to you?
+DUNCAN	m	Coffee.
+WAITRESS	?	You get mugged?
+DUNCAN	m	Black.
+WAITRESS	?	Coffee's twenty-seven.
+WAITRESS	?	Coffee's twenty-seven cents. Ya got  it or don't ya?
+WAITRESS	?	Okay, buster, one cup. On the house.
+WAITRESS	?	Drink it and be on your way.
+WAITRESS	?	You're welcome.
+DUNCAN	m	No, thank you.
+CHEATER	m	Well! I can't say much for your  protocol, but your timing's dead on.  Here's to you, pardner.
+CLIFFORD	m	I'm looking for an old buddy of mine,  English fella. Name's Crazy Curt.  Any of you guys seen him?
+CLIFFORD	m	I owe him some money.
+CHEATER	m	Aaahh. Show me an honest man...
+CLIFFORD	m	Stands about so. Brown hair. Face  kind of banged up. Was in an accident.
+CHEATER	m	Oh, yeah? I was just with that guy,  not more'n an hour ago. Looked bad.  Crazy Curt, huh?
+CLIFFORD	m	Where?
+CHEATER	m	Hell, I can't remember. Prob'bly see  him again though. Tell you what. You  leave the money with me, I'll see he  gets it... as a favor to you.
+CLIFFORD	m	I have to talk to him.
+CHEATER	m	Whatsa matter? You don't trust me?  I'll have you know I used to be a  college professor. We can work  together.
+CLIFFORD	m	Sure. Keep the bottle. I'll be back.
+CHEATER	m	"Long life to the grape! For when  summer is flown, The age of our nectar  Shall gladden our own." That's  Shelley, you know.
+CUSTOMER	m	Hey, Hank, what're you doing open  tonight?
+HANK	m	Trying to make a buck.
+HANK	m	Keep it, honey. My treat.
+CUSTOMER	m	That how you make a buck?
+CLIFFORD	m	No luck. You see him?
+CLIFFORD	m	He still could be out there, though.
+TRACY	f	Oh, God...
+CLIFFORD	m	Are you all right?
+TRACY	f	I'm okay.
+CLIFFORD	m	I'm going to hang around outside for  awhile. I'll be back on and off again  all night.
+CLIFFORD	m	Are you sure you're okay?
+TRACY	f	I'm fine.
+CLIFFORD	m	All right. Bolt your door. Don't let  anybody in, no matter what.
+TRACY	f	Okay.
+CLIFFORD	m	I'll be seeing you. Listen. Thanks.
+TRACY	f	Sure.
+DUNCAN	m	I just have to talk to you. I want you to be my friend.
+DUNCAN	m	Please...
+SEAMAN	m	So this will be your first time? An old salt like you?
+SEAMAN	m	You'll love it here. It's where they  make the bombs. It's where they make  the planes that carry the bombs; the  planes we saw over Singapore and  Manila.
+SEAMAN	m	There she is. That's America.
+MAN	m	What's the matter?
+WOMAN	f	Save it for later. Let's go out and  get some food.
+MAN	m	What about the lad? You can't leave  him.
+WOMAN	f	Curt's asleep. He'll never know we're  gone.
+DUNCAN	m	Hey, Crazy Curt!
+CHEATER	m	Hail fellow well met, and all that  jazz. It's our lucky day! A friend of your's got money for  you. We got to get back to the park  and meet him.
+CHEATER	m	C'mon. He'll be comin' for you, Crazy  Curt. S'got some money. We'll get us a little joy juice.
+CHEATER	m	C'mon! Hey!! You really are crazy!  C'mon!
+CHEATER	m	"Blow, winds, and crack your cheeks!  Rage! Blow, you cataracts and  hurricanoes, spout till you have  drench'd our steeples and drown'd  the cocks!"
+CLIFFORD	m	Duncan. Duncan. It's over now. Come  on out.
+CLIFFORD	m	My name's John Clifford. I'm a private  detective. I've been hired by  Alexander Mandrakis to take you back.  I'm not going to hurt you.
+CLIFFORD	m	I'm not going to hurt you... I'm not  going to hurt you... There'll be no  more pain... You're safe now...
+DUNCAN	m	No! Mandrakis! No!
+TRACY	f	I used to see my two kids every  weekend. They lived in a nice house  with their father, outside the city.
+TRACY	f	Now... it's been years. They're grown  up.
+TRACY	f	I look at where I am now. I know I  could've done better, but... it's  too late for that.
+CLIFFORD	m	I know.
+TRACY	f	Well, you've got to keep looking, I  suppose.
+CLIFFORD	m	I don't think he'll come back here.
+CLIFFORD	m	Thanks... for all your help.
+CLIFFORD	m	I know it wasn't easy. Maybe, someday, I'll be able to...
+TRACY	f	I wish you wouldn't leave me  altogether...
+TRACY	f	I'm not a young woman anymore. I've  given up all my dreams of the future.  Now, I just want to make it to the  end. You know what I mean.
+CLIFFORD	m	I'll be around.
+TRACY	f	Sure.
+CLIFFORD	m	You like ice cream?
+TRACY	f	Yes.
+CLIFFORD	m	What flavor?
+TRACY	f	Chocolate chip.
+CLIFFORD	m	Okay.
+JUNE & STEVIE	f	Hi, Mommy!
+JILL	f	Well, look what the wind blew in!
+STEVIE	m	Mommy, what's for dinner? Could we  have hamburgers?
+JILL	f	Is that all you ever want?
+STEVIE	m	Hello?
+JOHN	m	Hey, how's my little tiger?
+STEVIE	m	Daddy, Junie threw my baseball down  the street; and I can't find it!
+JOHN	m	Well, we'll look for it real hard  later. Let me talk to mommy.
+STEVIE	m	Okay. Bye, daddy.
+JILL	f	Hi.
+JOHN	m	Hi, babe -- whaddya say you put on a  sexy dress, and I take you out to  dinner tonight?
+JILL	f	Great... what's the occasion?
+JOHN	m	Just a little surprise.
+JILL	f	What?
+JOHN	m	I'm leaving here now; be home in  half an hour.
+JILL	f	Okay, see ya.
+JOHN	m	Bye, babe.
+STEVIE	m	Mommy, is Daddy gonna get me a new  baseball?
+HOUSEBOY	m	Dr. and Mrs. Mandrakis are out of  town.
+CLIFFORD	m	For how long?
+HOUSEBOY	m	Three more weeks.
+CLIFFORD	m	It's just as well. Will you be here?
+HOUSEBOY	m	Yes.
+CLIFFORD	m	Here. Call if you need me.
+STEVIE	m	...I pray the Lord my soul to keep.  If I die before I wake, I pray the  Lord my soul to take. God bless Mommy  and Daddy and...
+JUNE	f	And me.
+STEVIE	m	...and Granmom and Aunt Lucy and  Uncle George...
+JUNE	f	And me!
+STEVIE	m	...and her. Now will you tell us a  story?
+JILL	f	No, I will not tell you a story. You  go to sleep now. And be good. Carol  will be here while we're gone.
+STEVIE	m	Goodnight.
+JUNE	f	Mommy, will you come here a minute?  I want to tell you something.
+JILL	f	What is it?
+JUNE	f	Come closer.
+JUNE	f	I love you.
+JILL	f	I love you, too, Junebug. Goodnight. Sleep tight.
+JILL	f	Hi, Carol.
+CAROL	f	Hello, Mrs. Lockhart. I saw your  picture in the paper the other day.  Congratulations.
+JILL	f	Ugggh... wasn't it a dreadful picture?
+JOHN	m	I thought it was nice.
+JOHN	m	Are the kids asleep?
+JILL	f	They will be soon. Give them about twenty minutes and  then take a peek -- but if Stevie  sees you, you'll have to tell him a  story. Here's the number of the restaurant.  Call us if you need us. For police,  ambulance, any emergency like that,  just dial 911. You know that, right?
+CAROL	f	Nine-one-one? Oh, sure.
+JILL	f	And just in case, I've written the  number of the children's Uncle George  and Aunt Lucy here, too.
+JOHN	m	Honey, in ten seconds I eat the  staircase.
+JILL	f	Okay. Okay.
+JILL	f	Here.
+JOHN	m	I'm not wearing that thing!
+CAROL	f	Have a good time.
+JILL	f	Thanks, Carol.
+JOHN	m	Bye, Carol.
+CAROL	f	Goodbye.
+JILL	f	Goodbye.
+BOYFRIEND	m	Hello?
+CAROL	f	Hi. It's me.
+BOYFRIEND	m	Oh, hi.
+CAROL	f	Can you come over?
+BOYFRIEND	m	I can't. I really have a lot of work  to do.
+CAROL	f	Ohhh...
+JOHN	m	I've eaten enough breadsticks to  turn into a pretzel.
+JILL	f	John, tell me about the surprise.
+JOHN	m	Oh, yeah. Brace yourself.
+JILL	f	I'm braced.
+JOHN	m	Good. I got the sack today.
+JILL	f	What sack?
+JOHN	m	The can... I was fired!
+JILL	f	Oh, sure.
+JOHN	m	You don't believe me?
+JILL	f	No, I don't believe you.
+JOHN	m	Well, Wally did call me into his  office today. And he did tell me I  didn't have my old job anymore.
+JILL	f	John, what did you get?
+JOHN	m	Are you ready for this?
+JILL	f	District Sales Manager!
+JOHN	m	Regional!
+JILL	f	Regional?!
+JOHN	m	Nah, District.
+JILL	f	John, I don't believe it! District  Sales Manager!
+JILL	f	Well, it's about time!
+JILL	f	Not you. It's about time they recognized you  for what you are.
+WAITER	m	Enjoy your dinner, folks.
+JOHN	m	I'll be the youngest District Manager  in the company's history. God, am I  hungry!
+JILL	f	Does this mean a raise?
+JOHN	m	It sure does.
+JILL	f	How much?
+JOHN	m	A lot.
+JILL	f	How much?
+JILL	f	You're kidding! And a car?
+JOHN	m	And a car.
+JILL	f	John, I'm so proud of you.
+JOHN	m	What's the matter? You don't like  your food?
+MAITRE D'	m	Mr. and Mrs. Lockhart?
+JILL	f	That's right.
+MAITRE D'	m	There's a telephone call for you.
+JILL	f	Eat your dinner. It's probably Carol.  I'll talk to her.
+JILL	f	Hello?
+DUNCAN	m	Have you checked the children?
+JOHN	m	Jill, what's happening? What's wrong?
+JILL	f	It was him! Somebody call the police!  Help me!
+JOHN	m	Wait a minute! Just hold on!  Sweetheart, what was him? What are  you talking about?
+JILL	f	That man... Curt Duncan... He's home  again! He's got our children!
+JOHN	m	He was on the phone?
+CAROL	f	Hello?
+JOHN	m	Hello, Carol, it's Mr. Lockhart.  What's going on over there?
+CAROL	f	Nothing's going on.
+JOHN	m	Is everything all right?
+CAROL	f	Yes, there's nothing --
+JOHN	m	Are you sure?
+CAROL	f	Everything's fine. Why? What's --?
+JOHN	m	Carol, listen to me very carefully.  If there's a man in the house, if  there's any reason why you can't  talk to me right now, just answer  yes to me over the phone. That's  all. If there's any danger of any  kind, just say yes.
+CAROL	f	I don't understand what's happening.  What man in the house?
+JILL	f	Carol, it's Mrs. Lockhart. Answer me  truthfully. When was the last time  you looked in on the children?
+CAROL	f	About forty-five minutes ago.  Everything's fine. They were fast  asleep.
+JOHN	m	Carol, I'm sorry about all the  hysterics. We're leaving the  restaurant now. We'll explain  everything when we get home. Before  we hang up, could you do just one  more thing for me, please?
+CAROL	f	What?
+JOHN	m	Would you go upstairs and, and check  on the children for me?
+CAROL	f	Sure. Hold on.
+POLICEMAN #1	m	What seems to be the problem here,  sir?
+JOHN	m	Officer, I'm John Lockhart. Just a  second please, and I'll explain  everything.
+JILL	f	I'm Jill Johnson, the babysitter  seven years ago with the child killer.
+JOHN	m	The babysitter. The guy got into the  house and killed the two children  upstairs.
+POLICEMAN #2	m	Oh, yeah, I remember something about  that. A Greek doctor...
+JOHN	m	That's right. That's the one.
+POLICEMAN #2	m	It was in the seventh precinct...
+JILL	f	Hello?
+JILL	f	Carol?
+JILL	f	Carol? Carol?!
+JOHN	m	Carol? Carol?
+JOHN	m	Jill!
+JUNE	f	Mommy?
+JILL	f	Sshhh...
+JOHN	m	Nothing was wrong?
+CAROL	f	When I got back to the phone, the  line was dead. I figured we got cut  off somehow. What's been going on?
+JILL	f	What are you thinking about?
+JOHN	m	If I ever get my hands on the guy  that made that call...
+JILL	f	John, it wasn't a prank. I know that  voice.
+JOHN	m	He disguised it though, didn't he?  Same as before?
+JILL	f	I know that voice.
+JILL	f	How can we just sit here?
+JOHN	m	Look, we promised never to talk about  this.
+JOHN	m	What are we supposed to do? Leave  town? Take the kids and lock ourselves  up somewhere? Come on... Let's get a  good night's sleep, and in the morning  we can rethink this whole thing.
+JILL	f	Nothing has to be rethought. And I'm  not about to fall asleep.
+JOHN	m	Try to relax, honey. I'm here. We're  both here. The house is locked up.  The cops'll be just outside all night  long. We're safe now.
+JILL	f	That's what they told me before.
+JOHN	m	Okay. Look. If it'll make you feel  any better...
+JOHN	m	I'll keep it right here beside me  all night. You know I'm a light  sleeper and a damn good shot. Are  you satisfied?
+JILL	f	John, I'm sorry to be putting you  through all this.
+JOHN	m	Hey, you're not putting me through  anything that you don't have to go  through yourself. I'm with you all  the way. Trust me. Okay?
+JOHN	m	That's my girl.
+JOHN	m	Now try to relax. We'll get some  sleep. You'll be surprised how  differently things will look in the  morning.
+JILL	f	Honey...
+JOHN	m	What?
+JILL	f	Not so loud. You're going to wake  the children.
+JOHN	m	Naw. Those kids'd sleep through an  earthquake. They're good kids. Here, take a couple of these. They're  just what the doctor ordered.
+JOHN	m	You know, I read somewhere about  this psychological thing called  hysterical delusion or hysterical  recall or something. It had to do  with how an event from your past can  sneak up on you sometimes and fool  you when it's only just a memory. I  don't know. We'll talk about it in  the morning. Maybe there's someone  we can see about that...
+POLICEMAN #1	m	What's a word for "an outsider, of  sorts"?
+POLICEMAN #3	m	Trespasser.
+POLICEMAN #1	m	Uh-uh. Eight letters.
+POLICEMAN #3	m	Stranger.
+POLICEMAN #1	m	Uh-uh. Starts with an "I".
+POLICEMAN #2	m	Hey, Bert. A report just came in on  that guy, Curt Duncan.
+POLICEMAN #2	m	Broke outta the nuthouse two months  ago.
+POLICEMAN #1	m	Oh, yeah? You going to put that in  our report?
+OFFICER #1	m	Diamonds, Charlie. Diamonds was led.
+POLICEMAN #2	m	Course I'm going to put it in the  report. Maybe this gal tonight really  did get a call from him. Who knows?
+OFFICER #1	m	Your lead, Charlie.
+OFFICER #1	m	What the hell are you doing? That's  a trump.
+OFFICER #2	m	A card laid is a card played.
+POLICEMAN #1	m	Yeah, you're right. We'd better leave  that on Ruznik's desk in the morning.
+OFFICER #2	m	Toss 'em in. I got the rest.
+OFFICER #1	m	Jesus Kay-Reist!
+GARBER	m	Hey, Tucker, lemme see that a minute.
+GARBER	m	You guys have a stake on the house?
+POLICEMAN #2	m	Bernstein and Waller are checkin' it  every twenty minutes or so.
+GARBER	m	Thanks.
+POLICEMAN #1	m	Hey, what's an eight letter word for  "an outsider, of sorts"? Starts with  an "I".
+POLICEMAN #2	m	Intruder!
+POLICEMAN #1	m	Right! Intruder!
+CLIFFORD	m	Hello?
+GARBER	m	Cliff?... I think I got something  for you...
+OPERATOR	m	Operator.
+CLIFFORD	m	Can you dial a local number for me?
+OPERATOR	m	What is the number, please?
+CLIFFORD	m	555-2183.
+CLIFFORD	m	Operator, what does that mean?
+OPERATOR	m	I'm sorry, sir, that line seems to  be disconnected.
+CLIFFORD	m	Why don't I get a recording?
+OPERATOR	m	I don't know, sir. Maybe the number  was just recently disconnected. Maybe  there's a temporary malfunction in  the wiring. Why don't you try it  again in the morning?
+CLIFFORD	m	Yeah, okay. Thanks.
+JILL	f	Stevie... Stevie...
+STEVIE	m	Yes?
+JILL	f	Stevie, listen to me. Where did you  get this candy?
+STEVIE	m	What?
+JILL	f	Where did you get this?
+STEVIE	m	The man gave it to me...
+JILL	f	What man?
+STEVIE	m	I don't know... He was... Wings on a  horse...
+JILL	f	John?... John?...
+JILL	f	John!... John!...
+CLIFFORD	m	Your husband's okay.
+JUNE	f	Mommy?
+

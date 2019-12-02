@@ -1,0 +1,1020 @@
+LARCH	?	In other parts of the world, young  men of promise leave home to make  their fortunes, battle evil, or solve  the problems of the world. 
+LARCH	?	I was myself such a young man, when  I came to save the orphanage in St.  Cloud's... many years ago.
+LARCH	?	Here in St. Cloud's, I have come to  understand that promises are rarely  kept, that the battle isn't so much  against evil as ignorance, and that  being successful can't hold a candle  to being of *use*.
+LARCH	?	Nor have I solved the problem I came  here to solve.
+LARCH	?	Even in the most enlightened times,  unwanted babies will manage to be  born. That there will always be  orphans is simple not a problem to  be solved. Here is St. Cloud's, we  don't regard the sordid facts of  life as problems.
+LARCH	?	In truth, we've only had one real  problem.
+LARCH	?	His name was Homer Wells.
+LARCH	?	I named him after the Greek writer.  You know Homer, of course?
+LARCH	?	I made his name "Wells" because I  could tell he was very deep.
+LARCH	?	In truth, Nurse Angela named him-- her father *drilled* wells, and  "Homer" was one of her family's  umpteen cats.
+LARCH	?	"Good night, you Princes of Maine,  you Kings of New England!"
+ADOPTING MOTHER	f	There's something wrong with him! He  never makes a sound.
+LARCH	?	He didn't cry enough for them, if  you can believe it.
+ADOPTING FATHER	m	Do you think we could have a look at  someone a little different?
+LARCH	?	Thus was Homer Wells returned. He  was too happy a baby.
+LARCH	?	The second family has an unfortunate  gift for getting sounds out of Homer.
+LARCH	?	The rumor was true. They beat him.  He couldn't stop crying.
+LARCH	?	Here is St. Cloud's, I try to  consider, with each rule I make or  break, that my first priority is an  orphan's future.
+LARCH	?	Easier said than done.
+LARCH	?	I told the third family to take good  care--this was a special boy.
+LARCH	?	It was Homer who took too much good  care of himself.
+HOMER	m	Don't be frightened. Everyone is  nice here.
+PREGNANT WOMAN	f	Do you live here?
+HOMER	m	I just belong here.
+LARCH	?	What could I do with him? He kept  coming back!
+LARCH	?	Homer, if you're going to stay at  St. Cloud's, I expect you to be of  use.
+LARCH	?	But, in failing to withhold love,  had I created a true and everlasting  orphan? I had been too successful  with Homer Wells. I had managed to  make the orphanage his *home*.
+LARCH	?	God forgive me. I have *made* an  orphan by loving him too much. Homer  Wells will belong to St. Cloud's,  forever.
+HOMER	m	Dr. Larch! Dr. Larch!
+HOMER	m	We've got two new patients, one to  deliver.
+LARCH	?	First pregnancy?
+HOMER	m	Yes, for both.
+LARCH	?	I presume you'd prefer handling the  delivery.
+HOMER	m	All I said was, I don't want to  perform abortions. I have no argument  with *you* performing them.
+LARCH	?	You know *how* to help these women-- how can you not feel *obligated* to  help them when they can't get help  anywhere else?
+HOMER	m	One: it's illegal. Two: I didn't ask  how to do it--you just showed me.
+LARCH	?	What *else* could I have showed you,  Homer? The only thing I can teach  you is what I know! In every life,  you've got to be of use.
+LARCH	?	Have you ever had ether, Dorothy?
+DOROTHY	f	Once, when they took out my appendix.
+ANGELA	f	No one's touched your appendix.
+DOROTHY	f	Whatever it was... the ether made me  sick.
+LARCH	?	It won't make you sick this time,  Dorothy--not the way I do it, just a  drop at a time.
+DOROTHY	f	I can't pay for this, you know--I  got no money.
+LARCH	?	One day, Dorothy, if you have any  money, a donation to the orphanage  would be very much appreciated.
+ANGELA	f	Only if you can afford it.
+LARCH	?	Try to think of nothing, Dorothy.
+HOMER	m	That was good, Carla--that was  *perfect*. Everything's fine.
+CARLA	f	I don't wanna see it!
+EDNA	f	You don't have to see it, dear. Don't  worry.
+CARLA	f	I don't even wanna know what sex it  is--don't tell me!
+HOMER	m	We won't tell you, Carla. You're  going to be okay.
+EDNA	f	Your *baby's* going to be okay, too.
+CARLA	f	I don't wanna know!
+LARCH	?	He's a big boy!
+CARLA	f	Let me see him, for Christ's sake--I  wanna see him.
+LARCH	?	Would you mind having a look at  Dorothy?
+HOMER	m	There was no visible wound?
+LARCH	?	No. The fetus was dead. Her uterus  was virtually *disintegrating*--my  stitches pulled right through the  tissue!
+HOMER	m	It looks like scurvy.
+LARCH	?	Scurvy! Ah yes, the curse of the old- time sailor, suffering long periods  at sea with no fresh fruits or  vegetables. Homer, Dorothy isn't a  *sailor*!
+ANGELA	f	She's a prostitute, isn't she?
+HOMER	m	Did you look in her purse?
+LARCH	?	I looked everywhere else!
+ANGELA	f	It's called French Lunar Solution.
+LARCH	?	It's not ergot, it's not pituitary  extract, it's not oil of rue...
+ANGELA	f	It claims to restore monthly  regularity.
+HOMER	m	It's obviously an aborticide.
+LARCH	?	Obviously.
+LARCH	?	Christ, it's oil of tansy!
+HOMER	m	I don't know it.
+LARCH	?	If you take enough of it, your  intestines lose their ability to  absorb Vitamin C.
+HOMER	m	In other words, scurvy.
+LARCH	?	Good boy. Good job. And you call  yourself "not a doctor"! Keep an eye on her--she's in trouble.
+LARCH	?	Take care of that, will you?
+BUSTER	m	I'll help you.
+BUSTER	m	He *sniffs* that ether! I've seen  him do it!
+HOMER	m	It's because he's too tired to sleep.  He has to.
+BUSTER	m	He *smells* like he could put you to  sleep!
+HOMER	m	He's a doctor, Buster--doctors smell  like ether.
+BUSTER	m	*You're* a doctor, Homer--you don't  smell like ether.
+HOMER	m	I'm *not* a doctor. I haven't been  to medical school--I haven't even  been to high school!
+BUSTER	m	But you've studied with the old man  for *years*!
+HOMER	m	I'm *not* a doctor!
+BUSTER	m	I'm sorry, Homer.
+LARCH	?	Fuzzy is not uncommon. I tell you,  there's something about the premature  babies of alcoholic mothers. They  seem susceptible to every damn thing  that comes along.
+HOMER	m	I haven't read that.
+LARCH	?	I haven't, either. But you *will*.  The morons who write the books should  do a little research *here*.
+HOMER	m	But isn't Fuzzy just... well,  underdeveloped?
+LARCH	?	When *doesn't* he have bronchitis? I  wouldn't call his bronchial infections  "underdeveloped." Would you?
+HOMER	m	What is it, Mary Agnes?
+MARY AGNES	f	Look!
+HOMER	m	Did you bite it?
+MARY AGNES	f	I don't remember.
+HOMER	m	It looks like you bit it--it'll be  all right.
+MARY AGNES	f	Maybe I was kissing someone and he  bit me.
+HOMER	m	No, you did it yourself. Maybe in  your sleep.
+MARY AGNES	f	I must have been *dreaming* of kissing  someone.
+HOMER	m	Story time, Fuzzy!
+EDNA	f	"Oh Lord, support us all the day  long..."
+EDNA	f	"...until the shadows lengthen and  the evening comes, and the busy world  is hushed, and the fever of life is  over, and our work is done."
+EDNA	f	"Then in Thy mercy grant us save  lodging, and holy rest, and peace at  the last."
+ALL THE GIRLS	f	Amen! Amen! Amen!
+LARCH	?	"A dog, which had lain concealed  till now, ran backwards and forwards  on the parapet with a dismal howl,  and collecting himself for a spring,  jumped for the dead man's shoulders."
+LARCH	?	"Missing his aim, he fell into a  ditch, turning completely over as he  went; and striking his head against  a stone, dashed his brains out.
+LARCH	?	Good night, you Princes of Maine!  You Kings of New England!
+FUZZY	m	Why does Dr. Larch *do* tht every  night?
+CURLY	f	Maybe to scare us...
+COPPERFIELD	m	No, you jerk.
+STEERFORTH	m	Dr. Larch *loves* us!
+FUZZY	m	But why does he do *that*?
+BUSTER	m	He does it because we like it.
+MARY AGNES	f	Buster is mine. You two get  Copperfield and Curly. Nobody touches  Fuzzy.
+EDNA	f	Stop it! No fighting! *Share* the  snowballs!
+BUSTER	m	They're *our* snowballs! They *stole*  them!
+MARY AGNES	f	They attacked us--just like the Japs!
+EDNA	f	Listen to you, Fuzzy! You've been  running. You get to the shower!
+MARY AGNES	f	I know the type--they'll take one of  the babies.
+ANGELA	f	Wilbur, the adopting couple is waiting  in your office.
+LARCH	?	Life is waiting.
+LARCH	?	Where's the name sheet?
+HOMER	m	Nobody's named this one yet.
+LARCH	?	It's my turn!
+LARCH	?	Henceforth you shall be... Little  Dorrit!
+HOMER	m	He doesn't like it. He's a boy, That's why.
+LARCH	?	Can't a boy be a Dorrit?
+HOMER	m	I don't think so.
+LARCH	?	You do it then.
+HOMER	m	Henceforth you shall be... Little  Wilbur.
+LARCH	?	I'm not crazy about the "Little..."
+HOMER	m	Okay, he's just a Wilbur then.
+LARCH	?	We haven't had a Wilbur here in a  year or so, have we? We used to have  *dozens*!
+COPPERFIELD	m	They picked Hazel! The idiots chose  Hazel!
+MARY AGNES	f	If people want to adopt one of us,  they should have to take the oldest  first.
+EDNA	f	Please, Mary Agnes! This is Hazel's  special day--don't make her feel  sad.
+MARY AGNES	f	Hazel's practically the youngest of  us. She should be the *last* to leave!
+CLARA	f	At least Hazel can talk. Usually  they take one of the stupid babies.
+MARY AGNES	f	They take the babies so they won't  ever have to tell them that they  were orphans!
+HAZEL	f	I'm not a baby!
+MARY AGNES	f	If you cry, Hazel, they'll just send  you back.
+EDNA	f	Mary Agnes, that's not true!
+MARY AGNES	f	That's what they did to me!
+EDNA	f	You *wanted* to come back--that's  why you cried. You can cry if you feel like it,  Hazel. You cry as much as you want.
+LARCH	?	It is strictly for our orphans' sake  that I destroy any record of their  natural mothers. Of course they will,  one day, want to know. But orphans,  especially, should look forward to  their *futures*. Not back to their  pasts.
+HOMER	m	Hi, Curly. You going somewhere?
+CURLY	f	I thought they might take me.
+HOMER	m	They wanted a girl.
+CURLY	f	Nobody ever wants me!
+HOMER	m	You're one of the best, Curly--we  couldn't let just anyone take you.
+CURLY	f	Dr. Larch wouldn't let just anyone  take *any* of us!
+HOMER	m	That's true.
+CURLY	f	Nobody's asked for me, have they?
+HOMER	m	Nobody special enough, Curly.
+CURLY	f	You mean somebody asked?
+HOMER	m	Only the right people can have you,  Curly.
+EDNA	f	Let us be happy for Hazel. Hazel has  found a family. Good night, Hazel.
+THE GIRLS	f	Good night, Hazel! Good night, Hazel!  Good night, Hazel!
+LARCH	?	I was dreaming about you. How  beautiful you were!
+ANGELA	f	You weren't dreaming about me.
+LARCH	?	I was!
+ANGELA	f	Then I wasn't beautiful.
+LARCH	?	You were! You *are*! It was fantastic.
+ANGELA	f	It was just the ether, Wilbur...
+HOMER	m	Are you okay? Can I get you anything?
+DISTRAUGHT WOMAN	f	No one but me ever put a hand on me,  to feel that baby. Don't you want to  touch it or put your ear down to it?
+HOMER	m	Okay.
+DISTRAUGHT WOMAN	f	Put your ear there. Go on.
+DISTRAUGHT WOMAN	f	You shouldn't have a baby if there's  no one who wants to put his face  right there!
+DISTRAUGHT WOMAN	f	Stay right there. Right where you  are. Stay right here. Right here.
+BUSTER	m	Do you ever think about leaving this  place to go find them?
+BUSTER	m	I mean your parents.
+HOMER	m	I know who you mean. I think about  leaving here, but not to find *them*.
+BUSTER	m	Why not?
+HOMER	m	Whoever they were, they didn't *do*  any of the things parents are supposed  to do. Dr. Larch did those things,  and Nurse Edna, and Nurse Angela.
+BUSTER	m	Yeah. But sometimes I wish I could  meet mine, anyway.
+HOMER	m	What for, Buster? What would you do  if you met them?
+BUSTER	m	Uh... I'd like to show them that I  can cook, a little.
+HOMER	m	You cook very well!
+BUSTER	m	And that I can drive a truck!
+HOMER	m	Better than I can!
+BUSTER	m	Sometimes I want to meet them so I  can kill them. Just sometimes.
+BUSTER	m	Homer, you know I would never kill  anyone--you know I wouldn't.
+HOMER	m	I know.
+BUSTER	m	I think Mary Agnes could kill someone.
+HOMER	m	I doubt it. She's just an...
+HOMER	m	...emotional girl.
+BUSTER	m	What's she so emotional about?
+HOMER	m	I don't know. She got left here,  like the rest of us, didn't she?
+FUZZY	m	He thinks she's his *mother*!
+COPPERFIELD	m	He doesn't think she's his mother,  Fuzzy.
+FUZZY	m	He does so! He *loves* her!
+CARLA	f	How could she be his *mother*?
+LARCH	?	They want to replace me! The Board  of Trustees wants to *replace* me!
+ANGELA	f	They just want you to hire some new  help.
+LARCH	?	Some new *things* would be useful. I  don't need any "new help."
+LARCH	?	Homer! I need you!
+LARCH	?	I thought you took care of this. It  always breaks in the same place.  It's your splice, isn't it?
+HOMER	m	It's *your* splice! You blame me for  everything!
+LARCH	?	Angela, we need a new movie, a new  projector, a new typewriter--*that's*  what they should replace around here!
+EDNA	f	We have a delivery. Imminent, in my  estimation...
+LARCH	?	Homer, would you get this one?
+HOMER	m	She's a patient, right? She should  see a doctor.
+LARCH	?	Homer, you are a skilled and gifted  surgeon. You have near-prefect  obstetrical and gynecological  procedure.
+HOMER	m	I just mean I'd rather fix the movie.  Tonight.
+LARCH	?	Sure. Okay. You splice. I'll deliver.
+FUZZY	m	Homer... doesn't King Kong think the  woman is his *mother*?
+HOMER	m	Uh, sure--that's what Kong thinks,  all right.
+FUZZY	m	That's why Kong loves her!
+HOMER	m	I thought it was my turn.
+LARCH	?	It is. I'll get this. You go ahead.
+HOMER	m	"Whether I shall turn out to be the  hero of my own life, or whether that  station will be held by anybody else,  these pages must show."
+HOMER	m	"I was a posthumous child. My father's  eyes had closed upon the light of  this world six months, when mine  opened on it."
+FUZZY	m	His father's dead, right?
+LARCH	?	That's right, Fuzz.
+HOMER	m	"There is something strange to me,  even now, in the reflection that he  never saw me..."
+FUZZY	m	Is *your* father dead?
+LARCH	?	Cirrhosis--it's a disease of the  liver.
+FUZZY	m	*Liver* killed him?
+LARCH	?	*Alcohol* killed him--he drank himself  to death.
+FUZZY	m	But did you know him?
+LARCH	?	Barely. It hardly mattered that I  knew him.
+FUZZY	m	Did you know your mother better?
+LARCH	?	She's dead now, too. She was a nanny.
+FUZZY	m	What's a nanny do?
+LARCH	?	She looks after other people's  children.
+FUZZY	m	Did you grow up around here?
+LARCH	?	No. She was an immigrant.
+FUZZY	m	What's an immigrant?
+LARCH	?	Someone not from Maine.
+EDNA	f	No one's going to hurt you, dear.  Have you come to visit us? We have  beds, you know. Have you had any  breakfast? What's your name?
+EDNA	f	Her temperature is a hundred and  four.
+LARCH	?	How old are you, dear? Thirteen?
+LARCH	?	Twelve? Are you twelve, dear? You have to tell me how long you've  been pregnant. Three months?
+LARCH	?	Are you *four* months pregnant?
+HOMER	m	She's at least *five*.
+LARCH	?	Dear child, it won't hurt when I  look. I'm just going to *look*.
+LARCH	?	Tell me: you haven't done something  to yourself, have you?
+TWELVE-YEAR-OLD GIRL	f	It wasn't me!
+LARCH	?	Did you go to someone else?
+TWELVE-YEAR-OLD GIRL	f	He said he was a doctor. I would  never have stuck that inside me!
+HOMER	m	Stuck *what* inside you?
+TWELVE-YEAR-OLD GIRL	f	It wasn't me! I would never do no  such thing! I wouldn't stick that  inside me! It wasn't me!
+LARCH	?	Listen, you've been very brave. I'm  going to put you to sleep--you won't  feel it anymore. You've been brave  enough.
+EDNA	f	That's a heavy sedation.
+LARCH	?	You *bet* it's a heavy sedation! The  fetus is unexpelled, her uterus is  punctured, she has acute peritonitis,  and there's a foreign object. I think  it's a crochet hook.
+LARCH	?	If she'd come to you four months ago  and asked you for a simple D and C,  what would you have decided to do?  *Nothing*? *This* is what doing  nothing gets you, Homer. It means  that someone else is going to do the  job--some moron who doesn't know  *how*!
+LARCH	?	I wish you'd come to *me*, dear child.  You should have come to me, instead.
+BUSTER	m	What'd she die of?
+LARCH	?	She died of *secrecy*, she died of  *ignorance*...
+LARCH	?	If you expect people to be responsible  for their children, you have to give  them the right to decide whether or  not to *have* children. Wouldn't you  agree?
+HOMER	m	How about expecting people to be  responsible enough to control  themselves to begin with?
+LARCH	?	How about this child? You expect  *her* to be responsible?
+HOMER	m	I didn't mean her. I'm talking  about... adults. You know who I mean!
+HOMER	m	What?!
+LARCH	?	It's just a marvel to me that you  still have such high expectations of  people.
+HOMER	m	I'm happy I amuse you.
+LARCH	?	Try to look at it this way. What  choice does Buster have? What are  his options? Nobody will ever adopt  him.
+HOMER	m	Try to look at it *this* way. Buster  and I are sitting right here beside  you. We could have ended up in the  incinerator!
+LARCH	?	Happy to be alive, under any  circumstances--is that your point?
+HOMER	m	Happy to be alive... I guess so.
+CANDY	f	So many children. Are they all  orphans?
+WALLY	m	Well, this *is* an orphanage.
+CANDY	f	Oh, they're getting into the car...  watch your fingers!
+CURLY	f	I'm the best.
+CANDY	f	You are?
+WALLY	m	The best? Wow! The best at *what*?
+CURLY	f	I'm the best one.
+CANDY	f	Here, blow...
+CURLY	f	I really *am* the best, I just have  a cold.
+CANDY	f	Blow! There, I bet that feels better.
+CURLY	f	Yeah.
+LARCH	?	Curly, come here!
+CURLY	f	*Tell* them! I'm the one.
+HOMER	m	I'm sorry. They're not used to seeing  a car like this.
+WALLY	m	It's okay--I don't mind.
+WALLY	m	We brought some chocolates for the  kids.
+LARCH	?	Chocolates. How *thoughtful*.
+CURLY	f	I'm the best! *Tell* them!
+LARCH	?	You're the best, Curly.
+HOMER	m	So, Mrs...
+CANDY	f	Candy. Candy Kendall.
+WALLY	m	Wally. Wally Worthington.
+HOMER	m	How many months are you?
+CANDY	f	Two.
+WALLY	m	So, now, uh... you're not... I mean,  do *you* do the--
+HOMER	m	No. Dr. Larch will be performing the  procedure.
+WALLY	m	Ah, well... okay. Good! I just  wondered...
+EDNA	f	Excuse me, Homer. Dr. Larch said  this one is your turn.
+EDNA	f	Oh, dear--I'm sorry. I meant the  circumcision. That boy you delivered  on Tuesday...
+HOMER	m	Sure. Fine. Have you prepped him?
+EDNA	f	I'll get started.
+WALLY	m	I think it was the ether--the smell  got to me. God. This is all my fault.
+EDNA	f	Steerforth got into the pantry--he's  eaten all the pie dough.
+CURLY	f	He wasn't sharing it, either.
+EDNA	f	He's down the hall, throwing up.
+HOMER	m	What kind of plane are you flying?
+WALLY	m	A B-24 Liberator.
+HOMER	m	Liberator...
+WALLY	m	Have you enlisted?
+HOMER	m	They wouldn't take me. I'm Class IV-- I've got a heart defect.
+WALLY	m	Really! Is it serious?
+HOMER	m	No, it's not serious. I'm just not  supposed to get excited. You know-- no strain, no stress. I try to keep  calm all the time.
+WALLY	m	Oh, well. I don't imagine there's  any strain or stress around *here*!
+WALLY	m	How is she doing?
+LARCH	?	Just fine.
+CANDY	f	Boy or girl?
+ANGELA	f	It was nothing--it's all over.
+WALLY	m	It's all over, honey.
+CANDY	f	I would like to have a baby, one  day. I really would.
+ANGELA	f	Why, of course--you can have as many  children as you want. I'm sure you'll  have very beautiful children.
+LARCH	?	You'll have Princes of Maine! You'll  have Kings of New England!
+LARCH	?	I suggest you find yourself some  fresh air, Lieutenant.
+FUZZY	m	Homer, when is Halloween?
+HOMER	m	Uh... it's the end of October.
+FUZZY	m	Is that soon?
+STEERFORTH	m	That's a few months away, Fuzz. I still don't feel so good.
+FUZZY	m	Oh. It's the best time! How come we  only get pumpkins once a year?
+HOMER	m	Don't get too excited, Fuzzy.
+FUZZY	m	Why can't we have pumpkins for  Christmas, too? We don't get any  good presents at Christmas, anyway.
+HOMER	m	Has anyone offered you anything to  eat?
+WALLY	m	Actually, someone did. I just didn't  think I could eat anything.
+HOMER	m	I wonder if you might give me a ride.
+WALLY	m	Sure! Be glad to! Uh... a ride where?
+HOMER	m	Where are you going?
+WALLY	m	We're heading back to Cape Kenneth.
+HOMER	m	Cape Kenneth...
+HOMER	m	That sounds fine.
+LARCH	?	Doubtless you'll let me know what  immensely worthwhile or at least  *useful* thing it is that you find  to do.
+HOMER	m	I wasn't intending to leave here in  order to be entirely useless--I expect  I'll find some ways to be of use.
+LARCH	?	In other parts of the world, I suppose  there are other ways.
+HOMER	m	Of course.
+LARCH	?	Are you really so *stupid* that you  imagine you're going to find a more  gratifying life? What you're going  to find is people like the poor people  who get left here--only nobody takes  care of them as well! And you won't  be able to take care of them, either.  There's no taking care of *anybody*-- not out there!
+HOMER	m	You know I'm grateful for everything  you've done for me...
+LARCH	?	I don't need your gratitude.
+HOMER	m	I don't need this--I know all about  my condition.
+LARCH	?	It's your heart--you ought to take  it with you.
+EDNA	f	Going where? Does he have a plan of  some kind?
+ANGELA	f	Will he be back soon?
+LARCH	?	I don't know! He's just leaving-- you're the one who says he needs to  see the world! *That's* what he'll do--he'll see  the world!
+EDNA	f	He's leaving...
+ANGELA	f	He'll need clothes... some money...
+LARCH	?	Let him try to *make* some money!  That's part of "seeing the world,"  isn't it?
+ANGELA	f	Oh, just stop it! You knew this was  going to happen. He's a young man.
+LARCH	?	He's still a boy--out in the world,  he's still a boy.
+ANGELA	f	Just find him some clothes, Wilbur.  He could use some clothes.
+LARCH	?	I think these will fit you.
+EDNA	f	You'll need some money--just a little  something, until you find a job.
+CANDY	f	I'm okay--I can walk.
+WALLY	m	I don't want you to walk--I want to  carry you. Should I put the top up?  It might get cold.
+CANDY	f	No--keep it down. I want to feel the  air.
+CANDY	f	Coming with us? It's always a good  idea to have a doctor along for the  ride.
+HOMER	m	I have to go, Curly. I'm sorry. I couldn't find Buster. Will you  tell him...
+ANGELA	f	Let us be happy for Homer Wells...
+ANGELA	f	Homer Wells has found a family. Good  night, Homer!
+ALL THE BOYS	m	Good night, Homer!
+ALL THE BOYS	m	Good night, Homer! Good night, Homer!  Good night, Homer Wells!
+WALLY	m	Actually, the Army has given me leave  twice. First when my father died,  and now I'm on leave to help my mother-- I'm just trying to get her ready for  the harvest. She's no farmer. Apples  were my dad's business. And with the  war on, she's short on pickers.
+CANDY	f	Wally thinks apples are boring.
+WALLY	m	I never said they were boring.
+CANDY	f	You said, "Apples aren't exactly  flying."
+WALLY	m	Well, they aren't.
+HOMER	m	I think I'd probably like the apple  business.
+WALLY	m	You're a little overqualified, aren't  you?
+HOMER	m	No, I'm not. I need a job.
+WALLY	m	The only jobs are picking jobs.  Picking apples is truly boring.
+CANDY	f	There! You said it was boring.
+WALLY	m	Well, *picking* them is! It's about  as exciting as... walking!
+HOMER	m	Is your family in the apple business,  too?
+CANDY	f	No, but I work there--I like it. My  dad's a lobsterman.
+HOMER	m	I've never seen a lobster.
+CANDY	f	Really?
+HOMER	m	I've never seen the ocean, either.
+WALLY	m	You've never seen the *ocean*?
+WALLY	m	That's not funny... that's *serious*.
+CANDY	f	I couldn't have a baby with someone  who's leaving me--I didn't know what  else to do!
+HOMER	m	I know.
+CANDY	f	He's going to be dropping bombs on  Mandalay! They're going to be shooting  at him!
+HOMER	m	Where's Mandalay?
+CANDY	f	Burma!
+HOMER	m	Oh...
+CANDY	f	I can't have a baby alone. I don't  even know if he's coming back!
+HOMER	m	I understand.
+WALLY	m	Honey, honey... of course I'll come  back.
+CANDY	f	You don't *know*, Wally. You have no  *idea*!
+CANDY	f	Stay away from me!
+HOMER	m	This is all normal. Don't worry. The  abortion procedure... it affects  you. It's the ether, too. It'll take  a little time.
+WALLY	m	I don't *have* any time. There's a  *war*!
+HOMER	m	It's all very normal.
+WALLY	m	You ought to cut that shit out--it's  terrible for you.
+CANDY	f	I'm a little worried about the... ...about how much bleeding is okay.
+HOMER	m	It should taper off tomorrow, but it  can come back again. You have cramps? They'll ease up, almost entirely. As  long as the bleeding isn't heavy,  it's normal.
+WALLY	m	Catch!
+WALLY	m	Give it here!
+WALLY	m	What was *that*?! Come over here!
+WALLY	m	It's called the Burma run. It's about  a seven-hour round-trip flight between  India and China.
+HOMER	m	"Burma run" because you fly over  Burma...
+WALLY	m	*And* over the Himalayas. That's  called flying over the hump.
+HOMER	m	At what altitude?
+WALLY	m	I've got thirty-five minutes to climb  to fifteen thousand feet--that's the  first mountain pass.
+HOMER	m	What lousy luck--I mean your orders...  to draw an assignment like that!
+WALLY	m	Actually, I volunteered.
+HOMER	m	It's the flying, right? You love to  fly, don't you?
+WALLY	m	I love the bombing, too. But there's  also the Himalayas--they have the  most wicked air currents in the world.  I wouldn't miss flying there for  anything.
+WALLY	m	Uh, look... if you're serious about  wanting a job, picking apples isn't  that boring.
+HOMER	m	Oh, I would love that, Wally.
+CANDY	f	I guess I'll see you around the  orchards. Thanks for everything.
+HOMER	m	Sure... I'll see you around.
+CANDY	f	I love you, Wally.
+WALLY	m	I love you, too. See you tomorrow.
+WALLY	m	Come on. You have to meet my mom. If it comes up, I've been at a  wedding. That's where I met you, at  the wedding.
+OLIVE	m	Wally? I expected you earlier...
+WALLY	m	This is Homer Wells--he's the most  overqualified apple picker you'll  ever meet, but he's dying to learn  the apple business.
+OLIVE	m	How do you do, Homer Wells...
+HOMER	m	How do you do...
+OLIVE	m	Were you a friend of the bride or  the groom?
+WALLY	m	Homer is everybody's friend, Mom...  the bride's, the groom's, mine,  Candy's, *everybody's*.
+OLIVE	m	Well, perhaps you'll come to dinner,  Homer...
+WALLY	m	Not tonight, Mom--he's got to meet  *Mr. Rose*!
+JACK	m	You already used up the hot water!
+MUDDY	m	You're usin' my soap, ain't you?
+JACK	m	I ain't usin' no soap--it's too cold  to bother with soap!
+MUDDY	m	There ain't never enough hot water,  soap or no soap.
+WALLY	m	They're migrants.
+HOMER	m	Migrants?
+WALLY	m	Yes. They pick fruit, all kinds.  They travel up and down the coast  with the seasons. The trick to Mr. Rose is, you have  to let him be the boss.
+ROSE ROSE	f	That sink's backed up again, Wally.  I thought you was gonna get me a  plumber.
+WALLY	m	Rose, this is Homer--Homer, this is  Mr. Rose's daughter, Rose.
+HOMER	m	Rose Rose?
+ROSE ROSE	f	Pretty, ain't it? You a plumber?
+WALLY	m	No, no--Homer is a new *picker*.  He's going to stay here with you.
+ROSE ROSE	f	He's stayin' *here*?
+MR. ROSE	m	That daughter of mine sure is Miss  Hospitality, ain't she, Wally?
+MR. ROSE	m	You got lots of experience pickin',  I suppose.
+WALLY	m	Homer's got no experience, Arthur,  but he's smarter then I am. He's a  fast learner.
+MR. ROSE	m	This is history. Ain't that what  you're sayin', Wally? I guess we  makin' *history*... havin' this young  man stay with us!
+WALLY	m	See you later.
+HOMER	m	So. What should I do now?
+MR. ROSE	m	Out back, there's a shed. It's just  a mess. If that shed was better  organized, I could put my truck in  there.
+MR. ROSE	m	If you're as smart as Wally says,  you know you sometimes gotta do one  job before you do another.
+MR. ROSE	m	You did a good job with that shed,  Homer.
+PEACHES	f	What kind of a name is Homer?
+HOMER	m	It's the name of a cat. Originally.  Well, not *originally*.
+MR. ROSE	m	Now, now--we all got names, sensible  or not. Peaches is from Georgia, where we  met him pickin' peaches. He's still  better with peaches than hs is with  apples. Jack here is new. And this here is  Hero, 'cause he was a hero of some  kind or other once. Ain't that right,  Hero?
+MR. ROSE	m	And this here sensitive-lookin' fella  is Muddy. The less said about Muddy,  the better. Ain't that right, Muddy?
+ROSE ROSE	f	What's that?
+HOMER	m	It's just my heart.
+ROSE ROSE	f	What you got a picture of your heart  for?
+HOMER	m	There's a little something wrong  with it. Just this part here--the  right ventricle. It's slightly  enlarged.
+ROSE ROSE	f	So what?
+HOMER	m	Yes, so what. It's nothing serious,  really. Just a small defect.
+MR. ROSE	m	It's big enough to keep you out of  the war, I suppose. Ain't that right?
+HOMER	m	Right.
+MR. ROSE	m	They told me I was too old to serve.
+PEACHES	f	They told Muddy his feet was too  flat!
+MUDDY	m	And you was "generally unfit," as I  recall.
+HOMER	m	Do you like to read?
+ROSE ROSE	f	I can't read. Nobody taught me.
+ROSE ROSE	f	What does it say there?
+HOMER	m	"I looked at the stars, and considered  how awful it would be for a man to  turn his face to them as he froze to  death, and see no help or pity in  all the glittering multitude."
+HOMER	m	More?
+JACK	m	Since you're the one who's smart  enough to read... what's this?
+HOMER	m	It's a list of rules, it seems.
+ROSE ROSE	f	*Whose* rules?
+MUDDY	m	They're for us, I suppose.
+JACK	m	Go on and read 'em, Homer.
+HOMER	m	"One. Please don't smoke in bed."
+ROSE ROSE	f	It's too late for that one!
+MR. ROSE	m	Stop it, Homer. They aren't our rules.  We didn't write them. I don't see no  reason to read them.
+HOMER	m	Okay...
+LARCH	?	Good night, you Princes of Maine!  You Kings of New England.
+WALLY	m	Remember this! In the morning, when  the tall grass is wet, you can make  the Jeep slide on the grass. Can you  feel it?
+WALLY	m	It's almost like flying.
+HOMER	m	What about the trees?
+WALLY	m	The trees are flak--antiaircraft  fire from those geeks on the ground.
+WALLY	m	I was just showing Homer the  orchards... kind of a geography  lesson.
+CANDY	f	I know what you've been doing.
+CANDY	f	You've been giving him a *flying*  lesson!
+WALLY	m	He *loved* it! Didn't you?
+HOMER	m	Yeah, it was great.
+CANDY	f	He thinks people *like* to get whacked  by branches.
+WALLY	m	*Homer* liked it! Didn't you?
+HOMER	m	Yeah, sure. There's no stress or  strain around here...
+VERNON	m	What's wrong with you?
+MR. ROSE	m	That's Vernon. You best stay away  from him until he gets to know you  better--then you best stay away from  him *more*!
+MR. ROSE	m	Out lieutenant's calling you, Homer.  Mind your ass.
+WALLY	m	You getting along okay?
+BIG DOT	m	Where is that Candy?
+FLORENCE	f	Did she leave you, Wally?
+DEBRA	f	Who's the boy?
+FLORENCE	f	Wally, you can marry Debra if Candy  leaves you!
+BIG DOT	m	Wally's gonna marry *me* if Candy  leaves him!
+DEBRA	f	You can marry all three of us, Wally!
+FLORENCE	f	We can take turns.
+WALLY	m	You girls make it hard for a guy to  go off to war. But I'll leave my best man here to  pinch-hit for me.
+WALLY	m	Uh... I'm shipping out sooner than I  thought. I just wanted to be sure  you were settled in--and happy enough,  considering... Are you bored stiff? Or can you stick  it out for a bit?
+HOMER	m	Uh... actually, picking apples is as  much excitement as I want for a while.  I'm grateful for the job.
+WALLY	m	You're the one who's helping *me*,  Homer. You're going to give my mom a  little peace of mind while I'm gone.  Candy, too.
+HOMER	m	Well, sure... that's good, then. All I mean is, I'm lucky I met you.
+WALLY	m	I don't think so, Homer. *I'm* the  lucky one.
+WALLY	m	You want to fight about it?
+MR. ROSE	m	You pickin' more cider apples then  anythin' else. Them drops is good  only for cider. And you pickin' the  stems with the apples only half the  time. They good only for cider, too-- if you don't pick them stems. The rule is, you wanna pick the apple  *with* the stem, Homer. And see  here... see that *bud* that's just  above the stem? That's the bud for  *next year's* apple--that's called  the *spur*. You pick the spur, you  pickin' two years in one--you pickin'  next year's apple 'fore it have a  chance to grow. You leave that on  the branch, you hear?
+MR. ROSE	m	That's better. I can tell you got  yourself some education. Them's good  hands you got, Homer. Them hands you  got, they know what they're doin'-- ain't that right?
+HOMER	m	I guess so...
+ANGELA	f	Wilbur! Wilbur!
+ANGELA	f	Wilbur, you should read this.
+ANGELA	f	It's from the Board. Another letter.
+ANGELA	f	Uh... "merely suggesting that some  new blood might benefit you all...  someone with new ideas in the  obstetrical and pediatric fields." I think they're just testing some  ideas for our next meeting.
+EDNA	f	Dr. Holtz seems nice. I think he  only wants to help...
+LARCH	?	He is a goddamn psychiatrist--of  *course* he wants to "help"! He'd be  happy if he could help *commit* me!
+ANGELA	f	It's that Mrs. Goodhall you have to  be careful of, Wilbur.
+LARCH	?	One has to be more than "careful" of  Mrs. Goodhall--she has sufficient  Christian zeal to start her own  country! I'd like to give her a little  ether.
+EDNA	f	So what are you going to do?
+LARCH	?	"Homer Wells, born Portland, Maine,  March 2, 1915..."
+EDNA	f	Homer was born *here*, in, what was  it, 1922?
+LARCH	?	"...graduated Bowdoin College, 1935,  and Harvard School of Medicine, 1939."
+ANGELA	f	This is *your* life story, Wilbur!  You just changed the dates!
+LARCH	?	"An internship and two years of  training at the Boston Lying-in,  South End Branch. For his age, he  was judged an accomplished  gynecological obstetrical surgeon;  he is also experienced in pediatric  care..."
+ANGELA	f	You *invented* him! You've completely  made his up!
+LARCH	?	Don't you understand? The board is  going to *replace* me! That's what  the "new blood" is *for*!
+EDNA	f	You mean they'll replace you with  someone who won't perform abortions.
+LARCH	?	Well, we can only guess about that,  Edna. They *are* against the law.
+ANGELA	f	These *credentials* are against the  law!
+LARCH	?	We all know who trained Homer--his  credentials are as good as mine are.  Don't you be holy to me about the  *law*! What has the law done for any  of us here?
+LARCH	?	So here is my candidate. What do you  think?
+EDNA	f	But what about school records? Homer  doesn't have any *diplomas*...
+LARCH	?	He *will* have them, Edna.
+ANGELA	f	Oh, Wilbur, I don't know... We don't even know where he is!
+ROSE ROSE	f	Where's that Homer?
+JACK	m	Who cares?
+MR. ROSE	m	Now, now. He's a good boy.
+JACK	m	Shit. We don't know what he is.
+MR. ROSE	m	Jack, you gotta watch your language  'round my daughter.
+MR. ROSE	m	Here he is.
+MR. ROSE	m	Where's your manners? Make room for  Homer, so's he can enjoy the view.
+MUDDY	m	What view?
+HOMER	m	Are we supposed to be up here? The  rules said...
+MR. ROSE	m	Homer, you the only one who's read  them rules, so you the only one who  feels like he's doin' somethin' wrong.
+MUDDY	m	*What* view?
+MR. ROSE	m	Well, Muddy, we can look at all these  angry stars Homer's been readin' to  us about.
+JACK	m	I bet the view looks better from the  Worthin'tons'.
+MR. ROSE	m	You think so, Jack? Well... I wouldn't  want to be in that Wally's shoes  tonight.
+ROSE ROSE	f	Daddy, I'd like to be in that Wally's  shoes *every* night.
+MR. ROSE	m	You lucky you in your work boots  tonight, girl...
+ROSE ROSE	f	What's lucky about that?
+MR. ROSE	m	You know where that Wally is tonight,  darlin'? He's up there in them angry  stars. He's flyin' all around up there...  with them Japs shooting at him.
+MR. ROSE	m	They all on board, Mrs. Worthin'ton.
+OLIVE	m	Thank you, Arthur. And how is our Homer working out?
+MR. ROSE	m	Oh, he's a smart young man, most of  the time--Wally was right about him.
+OLIVE	m	No rotten apples?
+MR. ROSE	m	No, no--not this year. Well... maybe  we got *one*, but it ain't Homer.
+OLIVE	m	Rose... dear girl, I'm sure I can  find you some other clothes. You must have some things that would  fit her.
+CANDY	f	I have a *ton* of things that would  fit you.
+MR. ROSE	m	Now, now, Candy--this girl don't  need no more clothes, not for pickin'.
+OLIVE	m	Arthur, there's no such thing as a  young woman who's got all the clothes  she needs.
+CANDY	f	So. Not bored yet?
+HOMER	m	I'm *never* bored! It's all very...  different for me... here.
+HOMER	m	Uh... have you been *feeling* okay?
+CANDY	f	When I'm not thinking about Wally.  I'm not good at being alone. Oh, goodness. You meant... yes, I'm  fine. I... ...I don't suppose you've seen a  lobster yet.
+CANDY	f	You have to come to my dad's lobster  pound and see one, then.
+HOMER	m	Okay...
+HOMER	m	I better go.
+CANDY	f	I don't think Mr. Rose would leave  without you.
+CANDY	f	Sorry!
+CANDY	f	Come next week!
+PEACHES	f	Whoa--look at that Homer! He's gettin'  all dressed up for supper tonight!
+ROSE ROSE	f	He ain't gettin' dressed to have  supper with *us*, Peaches!
+MR. ROSE	m	Don't let us make you nervous or  nothin'--we know you gotta job to  do.
+MUDDY	m	Yeah, we can wait all night for the  water to come back on--you just go  on and take your time.
+RAY	m	Hungry?
+RAY	m	They're the garbage-eaters of the  ocean's floor. The seagulls clean up  the shore. The lobsters clean up the  bottom of the sea.
+HOMER	m	They eat everything?
+RAY	m	Everything that falls to the bottom.
+CANDY	f	It's time somebody ate *them*.
+RAY	m	I was lookin' for Wally's letter. I  was gonna show it to Homer... They made him a captain already-- *Captain* Worthington!
+CANDY	f	Daddy, it's a letter to *me*.
+RAY	m	He mentions Homer, too, you know.
+CANDY	f	Wally said to say, "Hello."
+HOMER	m	Oh! That's... nice.
+RAY	m	Wally said the most spectacular hits  were in the oil fields at Yenangyat.
+HOMER	m	A movie *outside*?
+CANDY	f	Yes. But it's closed all the time  now, because of the blackout.
+HOMER	m	People watched the movies in their  cars?
+CANDY	f	When they watched at all. Do you  like movies?
+HOMER	m	Yes! I've only seen one, though.
+CANDY	f	You've seen only one movie? Which  one?
+HOMER	m	"King Kong". It's really good.
+CANDY	f	I haven't seen "King Kong" since I  was a kid!
+ANGELA	f	That's a pie apple, Wilbur. Homer  said you're not supposed to eat it!
+LARCH	?	So he's an apple expert, is he?
+LARCH	?	Oh my, yes! This is a *far* superior  taste--and crisp, too! You know, so  many apples are disappointingly mealy.  I wonder of most of the apples in my  life weren't meant for pies!
+ANGELA	f	Wilbur, he picked them for us  himself...
+LARCH	?	You don't find it depressing that  Homer Wells is picking apples?
+LARCH	?	Or that he can't be bothered to write  us a proper letter? A dissertation  on apples, we don't need!
+EDNA	f	He probably doesn't make much money  picking apples--he must have had to  pay to send them, too.
+LARCH	?	I wouldn't worry, Edna, that he  doesn't have money. If he gets hungry,  he can pick his dinner!
+EDNA	f	Wilbur, it's a *gift*! How can you  be angry with Homer for sending us a  *gift*?
+LARCH	?	I'll show him a *gift*! I'll give  him a gift he can *use*!
+CANDY	f	But you looked as if you liked it.
+HOMER	m	I *did* like it. All I said was,  "It's not 'King Kong'."
+HOMER	m	First she loved him, then she didn't,  then no one else could have him...
+CANDY	f	She *did* love him! How many women have you known?
+HOMER	m	And what did she die of, exactly?
+CANDY	f	She was torn apart! She died of a  broken heart.
+HOMER	m	Oh, sure!
+HOMER	m	What's the *medical* explanation?
+CANDY	f	Well, she was in a weakened  condition... I don't know! What about "King Kong"?!  Is that medically possible?
+HOMER	m	At least King Kong knew what he  *wanted*.
+ROSE ROSE	f	What is you *doin'* with that Candy,  Homer?
+MUDDY	m	He's makin' history, I suppose.
+ROSE ROSE	f	You ain't gettin' in no trouble, I  hope.
+HOMER	m	No trouble.
+PEACHES	f	That Candy--she's the nicest girl I  know!
+MUDDY	m	She's about the most beautiful girl  I ever seen--I don't know if she's  the nicest.
+HOMER	m	She's the nicest *and* the most  beautiful girl I've ever known.
+ROSE ROSE	f	That sounds like you is in trouble  already, Homer.
+MR. ROSE	m	That's right--that sounds like trouble  to me.
+HOMER	m	I'm not in trouble.
+ROSE ROSE	f	Yeah, you is. I know when people is  in trouble, and you is.
+LARCH	?	His name is Homer Wells...
+LARCH	?	...and his *pathetic* resume is the  best I've seen. Though I find it  hard to believe the Board would be  interested in this character.
+DR. HOLTZ	m	But he looks like an excellent young  man, a first-rate candidate!
+LARCH	?	He looks like a bleeding-heart  missionary *moron* to me, but that's  going to be the problem with any  doctor interested in coming here!
+MRS. GOODHALL	f	Do you know him?
+LARCH	?	*No*! I don't want to know him! He's  doing *missionary* work--in *India*!  I wrote him *weeks* ago, but he's  either too holy or too busy to answer.  Maybe he got killed in the war!
+MRS. GOODHALL	f	I fail to see how someone courageous  enough to make a commitment to a  foreign mission is automatically to  be dismissed--that part of the world  requires precisely the kind of  dedication that is needed here.
+LARCH	?	Does it *snow* in Bombay? One winter  here and we'll be shipping him south,  in a *coffin*!
+MRS. GOODHALL	f	You can't think that a man who has  *served* under such conditions as  exist over there will be in the  slightest daunted by a little *snow*-- have you no idea how harsh and  primitive and full of *disease* that  part of the world is?
+LARCH	?	Then I suppose we can look forward  to catching various diseases from  him!
+DR. HOLTZ	m	But, Dr. Larch, he seems exceptionally  qualified...
+LARCH	?	I'm not talking about his medical  qualifications. It's the *Christian*  thing that bothers me--I just don't  see it being of much *use* around  here.
+MRS. GOODHALL	f	I fail to see how a little  Christianity could *hurt* anyone  here!
+LARCH	?	Anyway, I was just showing you this  guy as an example of what's available-- I didn't think you'd be interested.
+DR. HOLTZ	m	We're *very* interested!
+MRS. GOODHALL	f	Yes, *very*!
+DR. HOLTZ	m	You wouldn't be opposed to meeting  with him?
+LARCH	?	I suppose it wouldn't hurt to *meet*  him. What's his name again?
+ANGELA	f	Dr. Homer Wells.
+LARCH	?	I just hope he won't expect us to  say *Grace* all the time.
+MRS. GOODHALL	f	It's a nice name, very New England.
+DR. HOLTZ	m	Very *Maine*, a very *local*-sounding  name.
+EDNA	f	*Very*!
+EDNA	f	I just wanted to ask you...
+LARCH	?	Edna! Come dance with me! Let's be  foolish tonight.
+EDNA	f	Does he *know* he's supposed to be  in India? Does he even *want* to  come back?
+LARCH	?	He's a field hand! What could possibly  hold him there?
+MR. ROSE	m	Cider don't have no taste till later  in October--it's too watery now,  when we're usin' just them early  Macs and them Gravensteins. You don't  get no *good* cider till you're  pickin' them Golden Delicious and  them Winter Bananas, them Baldwins  and them Russerts...
+HOMER	m	What about the worms? Most of these  apples are the drops--off the ground,  right? There have to be worms.
+MR. ROSE	m	Of *course* there's worms, Homer!  And what is them worms, really? They  just *protein*, them worms! They is  *good* for you!
+MR. ROSE	m	That just ain't right, Jack--your  cigarette's gonna end up in nine or  ten gallons of this batch of cider!  That ain't right.
+JACK	m	Them people drinkin' that cider,  they don't know there's a cigarette  in there!
+MR. ROSE	m	It's not that hard to find it in  there, Jack--it'll take you just a  minute. You just gotta go fishin'.
+JACK	m	You mean *swimmin'*. I ain't goin'  in that vat to fish out no cigarette!
+MR. ROSE	m	What business is you in, Jack? Just  tell me what your business is...
+MUDDY	m	Just say you're in the *apple*  business, man. That's the only  business you wanna be in. Just say  it.
+PEACHES	f	You don't wanna go in the knife  business with Mistuh Rose--just say  you're in the *apple* business, Jack!
+JACK	m	What business are *you* in?
+MR. ROSE	m	I'm in the *knife* business, Jack.  You don't wanna go in the knife  business with me.
+MUDDY	m	You're lucky he didn't cut your  *nipples* off, man.
+PEACHES	f	The good news, Jack, is you're half- undressed for *swimmin'*...
+MUDDY	m	Yeah, that cigarette ain't hard to  find when you're properly undressed.
+HOMER	m	Give men that. I know how to do it.
+ROSE ROSE	f	Oh, I suppose you is a doctor, Homer?
+HOMER	m	Almost.
+MR. ROSE	m	I don't need no "almost" a doctor,  Homer.
+ROSE ROSE	f	We should drown that damn Jack in  the vat!
+MR. ROSE	m	Now, now, darlin'... Jack just needs  to know what business he's in.
+ROSE ROSE	f	Yeah, you really showed him, Daddy-- you just about cut your own hand  off, and all you cut off *him* was  his clothes!
+MR. ROSE	m	You oughta know you don't go to jail  for cuttin' a guy's *clothes*. Ain't  that right, Homer?
+CANDY	f	You're a natural. You were born to  drive a car like this.
+HOMER	m	You think? Maybe I was. I love this place!
+HOMER	m	The screen is enormous! Imagine King  Kong up *there*! Have you seen a lot  of movies here?
+CANDY	f	Yes... and no. When you come here,  you don't really care about the movie.
+HOMER	m	You don't care about the movie?
+CANDY	f	What are you so crazy about the movies  for?
+HOMER	m	It was my favorite night at the  orphanage--movie night. We'd race  into the dining hall. Of course  everyone wanted to sit in front, so  we'd be packed in so tight you could  feel the kid next to you breathing.
+CANDY	f	At least you were never lonely.
+HOMER	m	I didn't say that. Growing up in an  orphanage, you're always lonely.  You're just never alone.
+HOMER	m	You're not alone in the bathroom,  or... or in the shower... you're  never alone in wanting the last piece  of meatloaaf, or even in your own  bed on a cold morning.
+CANDY	f	You don't miss it?
+HOMER	m	I miss things. I miss... people. I miss reading to the boys.
+CANDY	f	But you had so much *responsibility*.
+HOMER	m	I never *asked* for any  responsibility.
+CANDY	f	Just a little privacy.
+CANDY	f	Privacy is exactly the point of drive- in movies.
+HOMER	m	Did you come here with Wally--to  *not* watch movies?
+CANDY	f	Sometimes... movies mostly bore Wally.
+HOMER	m	Ah-ha. So what is that--a radio?
+CANDY	f	The *speaker*. For the movie sound.
+CANDY	f	Scrunch down like this.
+HOMER	m	How could you not *care* about the  movie?
+CANDY	f	You just cuddle. You come to hug...  to kiss. You don't *come* here to  watch the movie.
+HOMER	m	That's what *I'd* come here for. I'd  watch the movie.
+CANDY	f	Not with the right girl you wouldn't.
+LARCH	?	Fuzzy? Fuzzy?
+BUSTER	m	What are you going to tell the little  ones?
+LARCH	?	I'll tell them Fuzzy was adopted.
+BUSTER	m	Why would the little ones believe  that *anyone* would adopt him?
+LARCH	?	They'll believe it because they want  to believe it.
+BUSTER	m	Shouldn't we tell Homer?
+LARCH	?	If Homer wanted to know what was  happening here, he could pick up a  telephone and call us.
+BUSTER	m	It was a family with a better  breathing machine then the one Dr.  Larch built.
+BUSTER	m	The family that adopted Fuzzy, they  *invented* the breathing machine.  It's their business... breathing  machines.
+CURLY	f	Lucky Fuzzy!
+ALL THE BOYS	m	Good night, Fuzzy! Good night, Fuzzy!  Good night, Fuzzy Stone!
+OLIVE	m	Some mail for you, Homer.
+OLIVE	m	And some clothes for you, dear-- let's go see if they fit.
+PEACHES	f	Ain't you gonna see what it is, Homer?
+MR. ROSE	m	Mind your own business, Peaches.
+PEACHES	f	Sorry, Homer...
+HOMER	m	Aren't you worried that people will  cut their feet?
+CANDY	f	Nobody will swim here until next  summer. By then, the water will have  rubbed the glass smooth against the  sand--there won't be any sharp edges.
+CANDY	f	See? That's last year's glass, or  from some year before. I put glass  here every year. The ocean makes it  beautiful.
+CANDY	f	Give me your hand.
+CANDY	f	*Nobody* volunteers for the Burma  run--he said so himself. And nobody  knows *me* better than him! So how  am I supposed to feel? He's a bomber  pilot and I'm just selfish, I know.  Well, I'm *not* a brave little girl  and I'm *not* sorry.
+CANDY	f	I *know* this was right. I told you. I'm not good at being  alone. I told him, too.
+CANDY	f	I *know* this was right.
+HOMER	m	Right.
+MR. ROSE	m	Slow down, Homer--don't be in such a  big hurry.
+HOMER	m	This is easy--I'm not hurrying.
+MR. ROSE	m	You still doin' it too fast!
+ROSE ROSE	f	He's in a big hurry, all right. I  told you he's in trouble.
+HOMER	m	Just tell me. Do you want me to go?  Do you want me to stay?
+CANDY	f	It will be okay.
+HOMER	m	*What* will be okay?
+CANDY	f	We have to wait and see. I think  that, for *everything* in life, you  have to wait and see.
+HOMER	m	I'll just move on, get another job  somewhere.
+RAY	m	Every time you throw a snail off the  dock, you're makin' someone start  his whole life over.
+CANDY	f	Maybe we're doing the snails a favor,  Daddy.
+RAY	m	It's gettin' late. I think I'll pack  it in.
+CANDY	f	Good night, Daddy.
+CANDY	f	We'll just have to wait and see.
+OLIVE	m	I used to hate it when Wally went  back to college--even when it was  just college! And this was when his  father was still alive... I hated it  even then. Naturally I hate this  more.
+OLIVE	m	What I mean is... I would like it  very much if you thought you could  be happy here, Homer.
+HOMER	m	Mrs. Worthington, I feel I'm very  lucky to be here.
+OLIVE	m	There's not a lot of work in the  winter, and you'll have to tolerate  Vernon--even Wally despises him, and  Wally likes everyone.
+HOMER	m	I think Wally will be fine, Mrs.  Worthington--he seems indestructible  to me.
+OLIVE	m	I don't know. Just promise me one thing.
+HOMER	m	Uh... sure.
+OLIVE	m	Just promise me that, if there's a  blizzard, you'll move into Wally's  room until it's over.
+OLIVE	m	Good-bye. Have a safe trip home.  Thank you, again, for all your hard  work.
+MR. ROSE	m	You take care now, Mrs. Worthin'ton.
+OLIVE	m	Good-bye, Arthur. Homer, I'll see you tomorrow?
+HOMER	m	Right.
+MUDDY	m	We all set, I think.
+MR. ROSE	m	You all take care of yourself, too,  Homer!
+PEACHES	f	We see you next harvest.
+MUDDY	m	Don't freeze to death, Homer.
+JACK	m	Go on and freeze to death if you  want to, Homer.
+MR. ROSE	m	Now, now, Jack--that just ain't right.
+ROSE ROSE	f	You just stay out of trouble, Homer!
+CANDY	f	So, you're staying.
+CANDY	f	Olive told me. You might have told me yourself.
+HOMER	m	I'm just waiting and seeing. Like  you said.
+HOMER	m	Dear Dr. Larch, thank you for your  doctor's bag...
+HOMER	m	...although it seems that I will not  have the occasion to use it.
+HOMER	m	Barring some emergency, of course. I  am not a doctor. With all due respect  to your profession. I am enjoying my  life here.
+HOMER	m	I've looked at so many women... I  mean, I've seen *everything* about  them, *everything*... but I never  felt a thing. I felt nothing. Now...  with you... it *hurts*... to look at  you.
+HOMER	m	I am enjoying being a lobsterman and  an orchardman--in fact, I have never  enjoyed myself so much.
+HOMER	m	The truth is, I want to stay here. I  believe I am being of *some* use.
+LARCH	?	My dear Homer, I thought you were  over your adolescence, that period  which I would define as the first  time in our lives when we imagine we  have something terrible to hide from  those who love us.
+LARCH	?	Do you think it's not obvious to us  what's happened to you?
+LARCH	?	You're fallen in love, haven't you?  By the way, whatever you're up to  can't be too good for your heart.  Then again, it's the sort of condition  that can be made worse by worrying  about it. So don't worry about it!
+HOMER	m	Dear Dr. Larch, what I am learning  here may not be as important as what  I learned from you, but everything  is new to me. Yesterday I learned  how to poison mice. You use poison  oats and poison corn.
+HOMER	m	Field mice girdle an apple tree.  Pine mice kill the roots. I *know*  what you have to do--you have to  play God. Well... killing mice is as  close as I want to come to playing  God.
+LARCH	?	Do I interfere? When absolutely  helpless women tell me that they  simply *can't* have an abortion,  that they simply *must* go through  with having another--and yet another-- orphan... do I interfere? *Do* I? I  do not. I do not even *recommend*. I  just give them what they want: an  orphan or an abortion. You are my work of art, Homer.  Everything else has been just a job.  I don't know if you've got a work of  art in you, but I know what your job  is. You're a doctor!
+HOMER	m	I am not a doctor.
+LARCH	?	You know everything I know, plus  what you've taught yourself--you're  a better doctor then I am and you  know it!
+LARCH	?	They're going to replace me, Homer!  The Board of Trustees is looking for  my *replacement*!
+HOMER	m	I can't replace you! I'm sorry...
+LARCH	?	Sorry? I'm not 'sorry'! Not for  anything I've done. I'm not even  sorry that I love you!
+LARCH	?	I think we may have lot him to the  world. He's not coming back.
+HERO	m	Who's that?
+PEACHES	f	It's that Homer!
+MUDDY	m	It's that Candy, too...
+MR. ROSE	m	Don't this place look like home?
+PEACHES	f	It look nicer then home!
+MR. ROSE	m	What have you two been doin' to make  it look so nice?
+ROSE ROSE	f	How is that Wally doing?
+CANDY	f	Oh, he's fine! I just heard from  him. He's bombing all these places...
+HOMER	m	...bridges, oil refineries, fuel  depots...
+HOMER	m	Where's Jack?
+MUDDY	m	He just wasn't up for the trip.
+MR. ROSE	m	That Jack just never knew what his  business was.
+MR. ROSE	m	You pickin' nothin' but cider apples,  Peaches--I hope you understand that.
+PEACHES	f	They ain't drops--I picked 'em off  the tree!
+MR. ROSE	m	Then you pickin' 'em too fast--they  ain't no better than drops to me.  See that bruise, and that one? *Half*  of these is bruised! Look at this  one! It ain't got no stem! You might  as well *step* on 'em, too--they  only good for cider.
+CANDY	f	Do you think I'm having a good time?  Do you think I'm just *teasing* you?  Do you think I *know* whether I want  you or Wally?
+HOMER	m	So we should "wait and see." For how  long?
+CANDY	f	I grew up with Wally. I began my  adult life with him.
+HOMER	m	Fine. That's all there is to it then.
+CANDY	f	No! That's not all there is to it! I  love you, too--I *know* I do.
+HOMER	m	Okay, okay--I know you do, too.
+CANDY	f	It's a good thing I didn't have that  baby, isn't it?
+PEACHES	f	Ain't you eatin' with us, Rose? She used to eat with us. Now we ain't  good enough for her, I guess.
+HERO	m	She ain't hungry, maybe.
+MUDDY	m	She ain't hungry every mornin' 'cause  she's sick every mornin'.
+HOMER	m	You okay, Rose?
+ROSE ROSE	f	I guess you must like watchin' me be  sick...
+HOMER	m	I don't like watching anyone be sick.
+HOMER	m	How many months are you?
+HOMER	m	You're not yet three months, are  you?
+ROSE ROSE	f	Not yet. What do you know about it?
+HOMER	m	I know more than I want to know about  it. Who's the father?
+ROSE ROSE	f	Don't trouble yourself about it,  Homer--this ain't your business.
+HOMER	m	But you don't look very happy.
+ROSE ROSE	f	*Happy*! What are you thinkin'? How  am I supposed to take care of a baby!  I can't have a baby.
+HOMER	m	Rose, please listen. Whatever you  want to do, I can help you.
+HOMER	m	What I mean is, if you don't want  to... keep the baby, I know a place  where you can go.
+ROSE ROSE	f	You think Daddy's gonna let me go  anywhere? I ain't going *nowhere*.
+ROSE ROSE	f	Why don't you just go back to your  pickin', Homer? I can take care of  it myself!
+HOMER	m	Rose, listen--don't *do* anything.  You know, I mean to yourself. Please  listen...
+MR. ROSE	m	Homer! Is this a workin' day or what?
+CANDY	f	We should take her to St. Cloud's.  That much is obvious, isn't it? Let  her make up her mind when she gets  there...
+HOMER	m	I told her! She doesn't feel she can  do that. Something about her father  not letting her go anywhere...
+CANDY	f	Well, we have to help her!
+CANDY	f	We have to do *something*. Don't we? Homer?
+CANDY	f	Hi...
+ROSE ROSE	f	Hi...
+CANDY	f	I've got some more clothes for you-- I just keep forgetting to bring them  with me.
+ROSE ROSE	f	I don't need no more clothes, thank  you.
+CANDY	f	Rose, I know what's going on. Homer  told me. I got pregnant, too--about  a year ago. I've been through this.
+ROSE ROSE	f	You ain't been through what I been  through, Candy.
+CANDY	f	Yes, I *have*!
+CANDY	f	Who's the father, Rose?
+CANDY	f	You want to have the baby?
+CANDY	f	I know where you can go. Homer and I  can take you...
+ROSE ROSE	f	I can't go nowhere.
+CANDY	f	Why?
+CANDY	f	Is it the father? Does he know?
+CANDY	f	You can trust me. Is it Jack? It's  not Jack, is it? It's *Muddy*! Is it  Muddy?
+ROSE ROSE	f	No. It ain't Muddy. Muddy's just...
+ROSE ROSE	f	It sure ain't Jack.
+MR. ROSE	m	I'll be up top...
+CANDY	f	She won't go to St. Cloud's!
+HOMER	m	Well, we can't force her. It's her  decision.
+CANDY	f	You don't understand! It's her  father...
+HOMER	m	Mr. Rose *knows*?
+CANDY	f	He's the *father*! He's her baby's  father!
+HOMER	m	Wait... *wait*! Are you sure?
+CANDY	f	We've got to keep her away from that  bastard!
+MR. ROSE	m	I didn't see where you was pickin'  this mornin', Homer, but you musta  worked up a big appetite. You look  like you're serious about gettin' to  your lunch today!
+HOMER	m	Is it true?
+HOMER	m	Are you sleeping with your own  daughter?
+MR. ROSE	m	I think you been stayin' up too late  at night, Homer.
+HOMER	m	You're actually having sex with your  own little girl? Is that possible?
+MR. ROSE	m	Ain't nobody havin' *sex* with my  little girl, Homer--that's somethin'  a father knows.
+HOMER	m	You're lying. How can you... with  your own daughter!
+MR. ROSE	m	Homer, don't you know what business  you in? You don't wanna go into no  business with me, Homer--ain't that  right?
+HOMER	m	Go on, cut my clothes. I've got other  clothes.
+MR. ROSE	m	You a fine one to be talkin' about  lies. Shame! These people took you  in. That boy Wally's at *war*!
+HOMER	m	But she's your *daughter*...
+MR. ROSE	m	And I *love* her! There ain't nobody  else gonna treat her as good as I  do! I wouldn't do nothin' to hurt her,  Homer--you must know that.
+HOMER	m	She's *pregnant*. Do you know *that*?
+MUDDY	m	Don't mess in this, Homer, if you  know what's good for you.
+HOMER	m	How long's this been going on, Muddy?
+MUDDY	m	Long enough. You ain't gonna stop  it.
+MUDDY	m	There's my knife, Homer. It ain't  gonna do *me* no good. You give that  knife to Rose Rose, you hear?
+MUDDY	m	You best just watch you ass, Homer!  You don't wanna end up like Jack!
+CANDY	f	No! No!
+MAJOR WINSLOW	m	When the plane was hit, the crew  chief and the radioman jumped close  together. The copilot jumped third.  All on Captain Worthington's orders-- the captain was still flying the  plane. None of the men of the ground  could see the sky--that's how thick  the jungle was. They never saw the  plane crash--they never *heard* it  crash. They never saw Captain  Worthington's parachute, either.
+OLIVE	m	Why was he missing for twenty days?
+MAJOR WINSLOW	m	Because the crew thought he'd gone  down with the plane. They were  hospitalized for almost a week in  China before they were flown back to  India. It wasn't until that they  sorted through their gear...
+CANDY	f	Who cares about their *gear*?
+MAJOR WINSLOW	m	Three men jumped from the plane, but  they had four compasses with them.  One of the crew jumped with Captain  Worthington's compass.
+CANDY	f	He was in Burma for twenty days  without a compass?
+MAJOR WINSLOW	m	He followed the Irrawaddy River, all  the way to Rangoon. Somehow he managed  to avoid the Japs, but not the  mosquitoes.
+OLIVE	m	Then it's malaria?
+MAJOR WINSLOW	m	It's encephalitis B. He's recovering  at Mount Lavinia Hospital, Ceylon. Uh... Captain Worthington is  paralyzed. Waist down. He won't walk.
+MAJOR WINSLOW	m	I'm sorry.
+HOMER	m	There are no autonomic effects, are  there?
+MAJOR WINSLOW	m	No autonomic effects... that's  correct.
+OLIVE	m	When will he be home, Major?
+MAJOR WINSLOW	m	Four weeks or so, right around  Halloween.
+HOMER	m	There are no autonomic effects, just  the paralysis of the lower  extremities.
+HOMER	m	Wally can have kids, a normal sex  life...
+RAY	m	How about him not needin' the friggin'  compass! How about that?
+CANDY	f	Daddy, *please*...
+RAY	m	Good night, kids. Don't catch cold-- it's gettin' cold already.
+CANDY	f	Good night, Daddy.
+HOMER	m	Good night, Ray.
+HOMER	m	Just tell me. I'll do whatever you  want to do.
+CANDY	f	Nothing.
+HOMER	m	Isn't that like waiting and seeing?
+CANDY	f	No. Nothing is nothing. I want Wally  to come home. I'm afraid to see him,  too.
+HOMER	m	I know. Is *that* nothing.
+CANDY	f	No, don't--that's something. Nothing  is nothing. Don't even look at me. I want...
+CANDY	f	...to do nothing.
+HOMER	m	It's a tempting idea, I know... to  do nothing.
+CANDY	f	Please don't move, don't go anywhere.
+HOMER	m	*Go* anywhere? Of course not! That  would be *doing* something, wouldn't  it? We wouldn't want to *do*  something. Let's just sit here all  night!
+CANDY	f	If you're trying to be funny, Homer...
+HOMER	m	I'm not trying to be anything--I'm  just doing nothing! If I wait and  see long enough, then--with any luck-- I won't *ever* have to make up my  mind! Decisions can be painful, after  all...
+CANDY	f	Stop it! Just cut it out!
+HOMER	m	You got up! You *did* something! If  you keep this up, you might be in  danger of making a *decision*!
+CANDY	f	For God's sake, Homer, Wally's been  shot down!
+HOMER	m	I know, I'm sorry.
+CANDY	f	He's *paralyzed*!
+HOMER	m	He's *alive*. He still loves you. So do I.
+CANDY	f	What do you want me to *do*?
+HOMER	m	Nothing. You're not the one who has  to do anything.
+MR. ROSE	m	Where do you think you're going?
+ROSE ROSE	f	You gotta let me go, Daddy. Please...
+MR. ROSE	m	You ain't goin' nowhere in the middle  of the night, girl!
+ROSE ROSE	f	I ain't your business no more, Daddy.  Please let me go.
+HOMER	m	Hey, hey! Stop it. Maybe I can help.
+MR. ROSE	m	You just go inside, Homer. We don't  need no help.
+ROSE ROSE	f	That's right, Homer. This ain't your  business.
+HOMER	m	Please listen to me! *Both* of you...
+MR. ROSE	m	You forget yourself, Homer. This  here's my daughter! You got your own  mess to deal with--ain't that right?
+MR. ROSE	m	What business is you in, Homer?
+HOMER	m	Mr. Rose, I'm in the *doctor*  business. If you want, I can help you. You  don't have to go anywhere.
+MR. ROSE	m	What's that? What's it called?
+HOMER	m	One cervical stabilizer, two sets of  dilators--Douglas points. One medium- sized curette, one small; one medium  speculum, one large; two vulsellum  forceps.
+MR. ROSE	m	There ain't no *almost* about this  stuff, Homer--ain't that right?
+HOMER	m	Merthiolate, ether, vulval pads,  gauze--lots of gauze.
+MR. ROSE	m	When it comes to this, you is the  real thing--is that what you sayin'?
+HOMER	m	No *almost* about it--I'm a doctor.
+HOMER	m	Get out of here, please.
+MR. ROSE	m	I'm stayin', Homer.
+HOMER	m	Okay. Then you can be of use.
+HOMER	m	You better get some air.
+CANDY	f	The bleeding should taper off  tomorrow, but it can come back again.  The cramps will ease up, almost  entirely. The bleeding is usually  much lighter in two days. As long as  the bleeding isn't heavy, it's normal.
+MUDDY	m	It's that Vernon--he keeps askin'  where you and Homer and Rose Rose is  at.
+MR. ROSE	m	Tell that Vernon to mind his own  business, Muddy.
+MUDDY	m	I told him that you all is sick.
+MR. ROSE	m	Tell him what you want, Muddy--*you*  is the crew boss today.
+PEACHES	f	Look at that. Them same damn rules  is tacked up again!
+MUDDY	m	Why don't you put them damn rules in  the wood stove, Peaches?
+ROSE ROSE	f	I want to hear what they are, first.
+ROSE ROSE	f	Homer, let me hear what they are.
+HOMER	m	"One: Please don't smoke in bed."
+MUDDY	m	We heard that one already, Homer.
+HOMER	m	"Two: Please don't go up to the roof  to eat your lunch."
+PEACHES	f	That's the best place to eat lunch!
+HOMER	m	"Three: Please--even if you are very  hot--do not go up to the roof to  sleep."
+HERO	m	What do they think? They must think  we're crazy!
+MUDDY	m	They think we're dumb niggers so we  need dumb rules--that's what they  think.
+HOMER	m	This is the last one.
+HOMER	m	"Four: There should be no going up  on the roof at night."
+PEACHES	f	Why don't they just say, "Stay off  the roof!"?
+HERO	m	Yeah, they don't want us up there  *at all*!
+ROSE ROSE	f	That's *it*?
+HOMER	m	That's it.
+ROSE ROSE	f	It means nothin' at all! And all  this time I been *wonderin'* about  it!
+PEACHES	f	They're *outrageous*, them rules!
+MR. ROSE	m	Who *live* here in this cider house,  Peaches? Who grind them apples, who  press that cider, who clean up the  mess, and who just plain *live*  here... just breathin' in the vinegar? Somebody who *don't* live here made  them rules. Them rules ain't for  *us*. *We* the ones who make up them  rules. We makin' our *own* rules,  every day. Ain't that right, Homer?
+HOMER	m	Right.
+CANDY	f	Please don't make me say it again.
+HOMER	m	No, that's not it--I just want to be  sure I understand you.
+HOMER	m	I *helped* you not to think about  Wally. You were so upset--you couldn't  stand worrying about him, about his  being killed and not coming back-- but when you were with me, you could  stop worrying... well, for a while,  anyway. This is how I helped you,  right?
+CANDY	f	Please... that's enough. I *loved*  you, too--you know I did.
+HOMER	m	"...did." Well, okay.
+CANDY	f	Please don't...
+HOMER	m	And now that Wally's coming back,  and because he'll certainly *need*  you...
+CANDY	f	You say that as though it's some  awful thing! I never stopped loving Wally!
+HOMER	m	At least there's no more waiting and  seeing. At least I got to see the  ocean.
+MUDDY	m	Rose Rose has runned away!
+PEACHES	f	She took off in the night!
+MUDDY	m	She took off on the bicycle, man.
+MR. ROSE	m	Ain't nobody gonna find her, Homer-- she's long gone. I swear, I didn't try and stop her-- I just wanna touch her hand before  she go. That's all I wanna do, I  swear. Where'd she get that knife, Muddy?  That looked like *your* knife--what  I seen of it.
+MR. ROSE	m	If that was your knife, Muddy, I  wanna thank you for givin' it to her-- no girl should be goin' *hitch-hikin'*  if she don't got a good knife with  her.
+HOMER	m	Where'd she get you?
+MR. ROSE	m	She just plan misunderstand me--I  was tryin' to give her my knife, I  was just reachin' to touch her hand.  But I understand if she misunderstand  me--it's all my fault, ain't that  right?
+MR. ROSE	m	It's too late for the doctor now,  Homer--ain't that right?
+MR. ROSE	m	She's *good* with that knife! She's  real fast. She's a lot better with  that knife than *you* is, Muddy! And  who do you suppose taught her?
+MUDDY	m	*You* taught her, I suppose...
+MR. ROSE	m	That's right! A girl's gotta know  how to defend herself, don't she?
+HOMER	m	There's more than one laceration,  more than one cut.
+MR. ROSE	m	That's 'cause I sticked my *own*  knife in the wound--after she go, I  sticked my *own* knife in there. I  poked it all around, I just tryin'  to find the same place she got me.
+MR. ROSE	m	You listen to me: you tell them police  how this happen, you tell it *this*  way, you hear? My daughter, she runned  off--and I so sad about it that I  stabbed myself. I so unhappy that  she gone, I killed myself--that what  you say, you hear? That the true  story--ain't that right?
+MR. ROSE	m	Let me hear you say that! I so unhappy  she runned away that I killed myself-- that what happen here, ain't that  right?
+HOMER	m	Right?
+MUDDY	m	That what happen--you lost you only  daughter so's you killed yourself!  That's what we say, all right.
+MR. ROSE	m	That's right. I know you understand  how I feel, Homer--you is breakin'  them rules, too. Ain't that right?
+CANDY	f	Do you think she'll be all right?
+HOMER	m	She knows how to take care of herself.
+CANDY	f	This came for you a couple of days  ago. Olive asked me to bring it.  With everything happening, I guess  she forgot.
+HOMER	m	Sure. Thanks.
+CANDY	f	I know you don't think much of being  needed, or of me for that matter...
+HOMER	m	I'm sorry for what I said about Wally  needing you. It was... unnecessary.
+CANDY	f	No, I'm the one who should be sorry.  You have every right to be angry.
+HOMER	m	No. You warned me. I didn't listen,  but you warned me.
+HOMER	m	You told me you weren't any good at  being alone. You told Wally, too. Right?
+HOMER	m	He's going to be fine, Wally's going  to be fine. I know he is.
+ANGELA	f	Dear Homer, I am writing to tell you  about Wilbur.
+BUSTER	m	Dr. Larch? Dr. Larch?
+ANGELA	f	I can assure you that the overdose  was entirely accidental.
+ANGELA	f	Let us be happy for Dr. Larch. Dr.  Larch has found a family.
+THE BOYS	m	Good night, Dr. Larch! Good night,  Dr. Larch! Good night, Dr. Larch!
+MUDDY	m	You ever see a palm tree, Homer?
+PEACHES	f	He ain't never been outta Maine!
+HERO	m	Ain't you sick of pine trees, Homer?
+PEACHES	f	Let me tell you somethin' about  Florida, Homer.
+HERO	m	The Sunshine State!
+PEACHES	f	It's so nice 'n' warm down there,  you can pick them grapefruits and  oranges *naked*, if you want to.
+HOMER	m	Thanks, guys... I'd like to go with  you. But I've got to move on.
+MUDDY	m	Yeah, well... you could move on with  *us*, man! You could move on somewhere  *warm*!
+PEACHES	f	Homer, stayin' in Maine ain't movin'  on!
+ANGELA	f	Dr. Larch often wondered how the  world was treating you.
+ANGELA	f	He talked a lot about you, hoping  you would be of use, whatever you  were up to.
+EDNA	f	"Oh, Lord, support us all the day  long..."
+EDNA	f	"...until the shadows lengthen and  the evening comes, and the busy world  is hushed, and the fever of life is  over, and our work is done."
+EDNA	f	"Then, in Thy mercy grant us a safe  lodging, and a holy rest, and peace  at the last."
+THE GIRLS	f	Amen! Amen! Amen!
+CURLY	f	Did you bring something for me?
+HOMER	m	You know what? I did.
+HOMER	m	It's from the ocean. It's for you.
+BUSTER	m	What are you doing here?
+MARY AGNES	f	We made up a room for you.
+ANGELA	f	Wouldn't you be more comfortable by  yourself?
+EDNA	f	Homer, do you know what this is?
+HOMER	m	Sure. It's my heart.
+ANGELA	f	Actually, it's Fuzzy's. There's  nothing wrong with your heart.
+HOMER	m	Fuzzy's?!
+EDNA	f	Dr. Larch wanted to keep you out of  the war, Homer--that's why he did  it. That's why he told you it was  yours.
+ANGELA	f	I think he worried about his own  heart. He said it would never stand  up to Homer Wells going off to war.
+HOMER	m	"Thus I began my new life, in a new  name, and with everything new about  me... I felt... like one in a dream...  The remembrance of that life is  fraught with so much... want of  hope... Whether it lasted for a year,  or more, or less, I do not know. I  only know that it was, and ceased to  be; and... there I leave it."
+CURLY	f	What happens next?
+HOMER	m	That's tomorrow, Curly. Let's mot  give the story away.
+HOMER	m	Good night, you Princes of Maine!  You Kings of New England!
+

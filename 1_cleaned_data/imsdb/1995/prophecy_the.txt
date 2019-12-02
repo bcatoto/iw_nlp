@@ -1,0 +1,976 @@
+GARGOYLE	m	Where is it?
+SIMON	m	Leave me alone.
+GARGOYLE	m	You've found it, haven't you?
+SIMON	m	Fuck you.
+THOMAS DAGGET	m	Hey.
+BURROWS	m	Hey.
+DAGGETT	m	Thought those clouds this morning  spelled rain for sure, but it's turned  into a beautiful day, wouldn't you  say, Sergeant Burrows?
+BURROWS	m	I warned you about that cheerful  shit.
+DAGGETT	m	Sorry. I'm working on it.
+DAGGETT	m	What's the word?
+BURROWS	m	Friend here did a half-gainer with a  firebird tuck from the third floor.
+DAGGETT	m	Jumper?
+BURROWS	m	Not unless he decided not to bother  opening the window first.
+DAGGETT	m	Drugs? Alcohol?
+BURROWS	m	Well, he wasn't exactly in a condition  to walk a chalk line when we got  here. You're welcome to try and smell  his breath if you like, that is if  you can find the mouth.
+DAGGETT	m	Ghouls been by?
+BURROWS	m	On their way. Willie promises a white  paper tomorrow. Or Wednesday,  depending on his golf game.
+DAGGETT	m	Firebird driver?
+BURROWS	m	Mr. Jiminez. Was taking a short cut  to his job at a packing plant on San  Pedro. First thing he remembers about  the deceased is several vital organs  bouncing off his windshield.
+DAGGETT	m	Have you had him walk a chalk line?
+BURROWS	m	He's straight. Shook up some.
+DAGGETT	m	Anything on him?
+BURROWS	m	No wallet, license, nothing. He is  missing one or two things, though.
+DAGGETT	m	Like?
+BURROWS	m	His eyes.
+DAGGETT	m	Along with everything else.
+BURROWS	m	We've found everything else -- and  what fun that was, let me tell you --  but the eyes are still AWOL. Might  just be stuck in the radiator grill.  Little weird though.
+DAGGETT	m	What?
+BURROWS	m	Both popping out together like that.  Worth a page in my scrapbook.
+DAGGETT	m	Who's the room registered under?
+BURROWS	m	John Smith.
+DAGGETT	m	Anything interesting inside?
+BURROWS	m	There are, what an intelligent,  experienced detective like yourself  could possibly construe as signs of  a struggle.
+BURROWS	m	Naturally nobody saw or heard  anything.
+DAGGETT	m	In such a fine establishment as this?
+BURROWS	m	Ku San's on fourteenth is still open  for another hour. Whatd'ya say we  pull out the 'ol "SUICIDE" rubber  stamp and get some lunch. Rancid  chow mein and watered beer for under  three bucks.
+DAGGETT	m	There's glass in the carpet.
+BURROWS	m	That usually happens when you break  a window.
+DAGGETT	m	It's on the inside.
+DAGGETT	m	Where's Chimney Rock?
+BURROWS	m	Arizona desert, I think. Which is  exactly where I'm going to be in two  years, three months.
+DAGGETT	m	And give up all this?
+BURROWS	m	You're breaking my heart.
+SIMON	m	Qui ex Patre Flioque procedit...
+KATHERINE	f	Hey bright eyes, what's the deal  being out here all alone without a  coat?
+MARY	f	Someone's here.
+KATHERINE	f	Where?
+MARY	f	Pig out on all the cake?
+KATHERINE	f	Oh, there might be one, tiny, skinny  piece left, but you're gonna have to  race me for it.
+MARY	f	What's that?
+MARY	f	Ha!
+KATHERINE	f	You little sneak!
+LT.	?	How's it going?
+DAGGETT	m	I was just looking for my "SUICIDE"  rubber stamp.
+LT.	?	Sorry about leaving you without a  partner. Everything's up in the air  till the commission settles their  manpower budget.
+DAGGETT	m	I'm okay. Dagget... It's done already? Must have rained over the golf course  this morning. I'll be right over.
+DAGGETT	m	Hey, Willie, sorry to hear about the  weather.
+DAGGETT	m	Should I bother sitting?
+CORONER	m	Sit.
+CORONER	m	Where would you like me to start?
+DAGGETT	m	I think we can skip the cause of  death.
+CORONER	m	All right. To begin with, your man  has no eyes.
+DAGGETT	m	Weren't stuck in the radiator grill?
+CORONER	m	No, he never had any eyes. We checked  the sockets. There's no optic nerve,  muscle pores, loose viscus, nothing.
+DAGGETT	m	Huh.
+CORONER	m	We also did a toxicology on his blood:  High sodium, elevated selenium, no  floating cholesterol platelets, trace  ammonia.
+DAGGETT	m	Something wrong with that?
+CORONER	m	No, it's actually pretty common --  for an aborted fetus.
+DAGGETT	m	I should have listened to Burrows...
+CORONER	m	We also did a bone section. Wasn't  that much trouble since most of them  were sticking out of his chest anyway.
+DAGGETT	m	And?
+CORONER	m	When babies grow up their bones get  larger by adding calcium layers over  the interior haversham canals. Child  growth isn't uniform though, comes  in spurts that always leave growth  rings in the bone. Everybody has  them -- except your man. That would,  to a hasty observer, seem to indicate  he had never been a child.
+DAGGETT	m	I assume you, a cautious and learned  observer, of course have an  explanation.
+CORONER	m	Not even remotely. Want to hear the  last one?
+DAGGETT	m	Not even remotely.
+CORONER	m	He's a hermaphrodite. -- Has both male and female sex  organs.
+DAGGETT	m	Think of the possibilities.
+CORONER	m	Yeah, you can be impotent and frigid  all at the same time -- they don't  normally work.
+DAGGETT	m	Well, I'd love to say thank you, but --
+CORONER	m	Oh, I also have a bonus prize for  you.
+CORONER	m	Found this sealed in his coat lining.
+DAGGETT	m	It's a bible.
+CORONER	m	A pretty old one, I think.
+CORONER	m	We checked it out inside. Thought  there might be a name or fingerprint  somewhere. All we found was a curled  page marking the fourteenth chapter  of St. John's Revelations.
+DAGGETT	m	There is no fourteenth chapter to  Revelations.
+CORONER	m	Maybe this is the teacher's edition.
+DAGGETT	m	Can I keep this awhile?
+CORONER	m	Sure.
+DAGGETT	m	Can you sit on all this a few days,  Willie? Not circulate the file? I  need some time before all the  questions start.
+CORONER	m	Oooh, are we breaking the rules again?
+DAGGETT	m	So what else is new?
+KATHERINE	f	In a minute, in a minute...
+JOHN	m	You could save my life with some  coffee.
+KATHERINE	f	Tough night?
+JOHN	m	You don't want to hear about it. Or maybe you do.
+KATHERINE	f	No thanks.
+JOHN	m	Just checking.
+KATHERINE	f	Shouldn't they be getting to school?
+JOHN	m	Impromptu field trip. I'm broadening  their minds. And sparing them the  sight of their beloved chauffeur  barfing his guts out.
+JOHN	m	I hate horses. How was the canyon?  Honey-suckle out yet?
+KATHERINE	f	Didn't see any.
+JOHN	m	I hate that canyon. I hate this this  whole plateau. Too many goddamn  ghosts. Leave it to them I say. San  Diego, that's where I'm going. Or  Oxnard. I like the sound of that. Ox- nard.
+KATHERINE	f	I'm happy here.
+JOHN	m	Oh lord protect us, another romantic  pale face in love with the desert.
+KATHERINE	f	Just got to give it a chance.
+JOHN	m	Try growing up here. Ox-nard. Uno mas, see-boo-play. Speaking of romantic pale faces, the  rumor mill is in high gear again.
+KATHERINE	f	Who this time?
+JOHN	m	That funny looking guy from Window  Rock. The BIA lawyer.
+KATHERINE	f	Huh.
+JOHN	m	No! Say it isn't so!
+KATHERINE	f	It isn't so.
+JOHN	m	Thank you.
+JOHN	m	Thanks for the joe.
+KATHERINE	f	No prob.
+JOHN	m	You're a credit to the community.
+JOHN	m	All right children, looks sharp!  This is a school day! And no talking  loud!
+KATHERINE	f	This is "Camposaurus". Camposaurus  was a herbavore, which meant he only  ate plants. Camposaur stayed mostly  to himself and never bothered anyone.
+KATHERINE	f	This is a leg fragment that belongs  to the killer of the plateau,  Alosaurus. Alosaurus was a vicious  carnivore, which meant he'd eat  anything that moved, especially nice,  juicy Camposaurs.
+KATHERINE	f	Both these guys lived together right  here on the White Rock plateau eighty  million years ago, when this area  used to be on the banks of a huge,  shallow sea. Remember how we talked  about how sedimentation fossilizes  bones? That's also what made the  hills out behind our town and put  the copper in the ground.
+HIGH SCHOOL KID	m	Lot of good that did us.
+BOY	m	It's radioactive! Like Godzilla!
+KATHERINE	f	Just a tiny bit, Alex. Do you know  why? Uranium, that's the rock they  use in nuclear power plants --
+BOY	m	And bombs!
+KATHERINE	f	And bombs Alex, yes, is all through  these hills naturally. Millions of  years ago the dinosaurs here ate  plants and drank water which had  uranium in it that became concentrated  in their bones, which is exactly  how, with Mr. Geiger counter here,  we're going to find some.
+KATHERINE	f	-- Hey. Come on. What's the deal,  Brian?
+BRIAN	m	She...
+KATHERINE	f	Yes?
+BRIAN	m	...She, she called me a "Dick Head".
+KATHERINE	f	Sandra?
+SANDRA	f	Well, he is.
+KATHERINE	f	All right, Brian. You get one free  insult. Make it good.
+PAUL	m	You... You're a... Cow Demon!
+KATHERINE	f	Uh... Okay. Everybody satisfied? Cow Demon?
+MARY	f	I got one! I got one!
+KATHERINE	f	Easy... Easy... Don't break it.
+BOY	m	I'm all done with the cleaning, Miss  Henley.
+KATHERINE	f	Thank you, Jason. I appreciate it.
+BOY	m	Find out what it is, yet?
+KATHERINE	f	Well, it's either a 44 million year  old Strychtosaurus or that cow Mr.  Sorenson lost last winter.
+KATHERINE	f	Go eat your lunch, Jason.
+BOY	m	Sure, Miss Henley. Thanks. See ya.
+MARY	f	Hi.
+SIMON	m	Hi.
+MARY	f	What's your name?
+SIMON	m	Simon.
+MARY	f	You don't look so good, Simon.
+SIMON	m	No, I don't.
+MARY	f	I'm Mary.
+SIMON	m	Hello Mary.
+MARY	f	Does Miss Henley know you're here?
+SIMON	m	No one does, Mary. Can we keep it  just our secret. For a little while?
+MARY	f	Okay.
+MARY	f	I have to go.
+SIMON	m	It was nice meeting you, Mary.
+MARY	f	Are you hungry? I could bring  something.
+SIMON	m	That would be very nice.
+MARY	f	Okay. Bye.
+GABRIEL	m	Gee Jerry, you look like shit.
+JERRY	m	Leave me alone, Gabriel.
+GABRIEL	m	Soon, pal. Soon.
+GABRIEL	m	Come here.
+JERRY	m	Go away.
+GABRIEL	m	Come here...
+GABRIEL	m	Hmmm. Still a little life left in  you. Barely.
+JERRY	m	Fuck you.
+GABRIEL	m	There's something I want you to do  for me.
+JERRY	m	What a surprise.
+GABRIEL	m	Don't be that way.
+JERRY	m	I just want to... Why won't you let  me...
+GABRIEL	m	I will, I will. Promise.
+GABRIEL	m	You need some new clothes, son.
+GABRIEL	m	Aw come on, don't start. You know  how I hate that...
+JERRY	m	I'm so tired. I'm so goddamn tired.
+GABRIEL	m	Watch the profanity. -- Just one  more favor. Honest.
+JERRY	m	What?
+GABRIEL	m	I want you to get something for me.  A few personal effects the cops ripped  off from the lovely Allenwood Arms  on Seventh Street. It'll be sitting  in their property room down on San  Julian.
+JERRY	m	I'm supposed to just go in there?  Like this?
+GABRIEL	m	Give you a bath, put on some decent  clothes, Maybe a very large brim hat, you'll  be fine. Just go in between five and  five-ten, it's a shift change and  nobody'll notice you.
+JERRY	m	How do you know?
+GABRIEL	m	C'mon. This should be more or less up to  date.
+JERRY	m	Got a name this stuff is under?
+GABRIEL	m	John Doe.
+JERRY	m	Why doesn't that surprise me.
+GABRIEL	m	I'll see you tonight. Here's some bus fare.
+PLAYER	m	Cover me! Cover me!
+DAGGETT	m	Pop it up!
+DAGGETT	m	Thanks a lot.
+PLAYER #2	m	You're missing the point of the game,  Thomas. You must absolutely trust no  one. Form alliances, but break them.  Lure another to trust you, then betray  him! You play with too much honor.  Sink to the gutter. Use people. Lie  and double-cross them.
+PLAYER #2	m	Come on Thomas, let's take out Sam  together!
+PLAYER #2	m	Magnificent decadence.
+PLAYER #1	m	The important thing, Tom, is seeing  the game for what it is.
+PLAYER #2	m	A sickening, hopeless, giant sucking  hole of depravity.
+PRIEST #1	m	See ya guys next Tuesday, huh?
+BILL	m	So how's work?
+DAGGETT	m	Okay. Y'now.
+BILL	m	Life on the dark side.
+DAGGETT	m	Can I ask you about something?
+BILL	m	Sure.
+DAGGETT	m	It has to stay between us. I need  your word on it.
+BILL	m	As a racquetball player or a priest?
+DAGGETT	m	I'll take the priest for the moment.
+BILL	m	What's on your mind?
+DAGGETT	m	It's a case. We found this guy. He  was... different. But he had on him  an old bible.
+BILL	m	It's a Vichini.
+DAGGETT	m	Worth a little?
+BILL	m	More than a little. They're the best.  Sixth century. Hand illuminated.  Vichini only did twenty, each pocket  size for a king to carry into battle  beside his heart. Some consider them  the finest bibles ever made. I thought  they'd all be in museums. What are  you doing with it?
+DAGGETT	m	This one's a bit special.
+BILL	m	How?
+DAGGETT	m	It's has a bonus chapter to St, John's  Revelations.
+BILL	m	Really? What does it say?
+DAGGETT	m	"And as in the first war, the angels  so fought over the nature of their  God, and there was much vanity and  destruction in heaven. For some angels  called their Lord the son of God,  and others called Him the begotten  father of Jesus Christ." What do you  think?
+BILL	m	I've never heard that quote before.  Theologically, The "first war"  obviously refers to the war in heaven  where Michael the archangel threw  out Satan and his gang. Old time  bible stuff. But this implies there  was a second war. That's news to me.
+DAGGETT	m	And the rest of it?
+BILL	m	Oh, it's a fairly common theological  debate. Or was. The idea that if  Christ is God's son, does that make  him less than God or are they the  same being in different forms. That  very argument almost tore the early  Christian church apart in the 4th  Century. That was the good old days  when people actually worried about  theology. Anyway, it was settled  when the bishops of the world got to  together at the Council of Nicene in  325 and hashed out the various  interpretations of scripture into a  uniform dogma of belief. The result  was the Nicene Creed, which basically  said that Christ was in fact the  same as God and was owed the same  power and respect as the Father.  That they were the same. But it's not exactly the sort of  thing angels would fight over.
+DAGGETT	m	Why?
+BILL	m	Well, they could just ask God, right?
+DAGGETT	m	Do you think it's possible that John  might have written that extra chapter?
+BILL	m	Who knows? Vichini was the greatest  biblical scholar of the age, some  claimed he made his own translations  from the original writings. Maybe he  did find some unknown writings by  John. It's possible I suppose. John  always was a little negative about  angels. All this actually has  something to do with an LAPD murder?
+DAGGETT	m	I don't know yet. Maybe. Probably  not.
+BILL	m	I hate to break it you, but that  particular family spat has been  settled for 1,600 years. Nobody loses  sleep over it anymore. Honest.
+DAGGETT	m	What did John have against angels?
+BILL	m	Oh, he didn't trust them much. All  that running around smiting and  killing in the name of the Lord.  God's wild bunch. He thought it made  them fickle and vain. One click above  ghosts. Satan didn't help the image  much either.
+DAGGETT	m	Satan?
+BILL	m	Well, he did start as an angel.
+BILL	m	So when are you going to get a real  job?
+DAGGETT	m	You mean with the Church?
+BILL	m	You almost did it once. I never saw  a seminary student more called to  the collar than you. Why didn't you  ever become ordained?
+DAGGETT	m	It's a long story.
+BILL	m	You'll have to tell it to me sometime.
+DAGGETT	m	Sometime.
+GUARD	m	Need a pass, friend.
+GABRIEL	m	I'll just be a second.
+GUARD	m	C'mon...
+GABRIEL	m	Sorry.
+KATHERINE	f	Brian, have you seen Mary?
+BRIAN	m	I think she's out back somewhere.
+KATHERINE	f	Allison?
+ALLISON	f	We haven't seen her since lunch.
+KATHERINE	f	We're you guys up in the...
+KATHERINE	f	Okay everybody, get started on today's  reading. Quietly. I'll be right back.
+KATHERINE	f	I mean quiet.
+KATHERINE	f	Mary...
+KATHERINE	f	Mary... Shit.
+KATHERINE	f	Mary?
+KATHERINE	f	Mary, come here.
+MARY	f	But Simon and I were --
+KATHERINE	f	Come here.
+KATHERINE	f	Go back to class.
+MARY	f	But --
+KATHERINE	f	Go.
+SIMON	m	She wasn't doing any harm.
+KATHERINE	f	It's not her I'm worried about.
+SIMON	m	Of course.
+KATHERINE	f	What are you doing here?
+SIMON	m	Small job. Mostly done now. Just  passing through.
+KATHERINE	f	This is school property, you can't  sleep here.
+SIMON	m	It wasn't part of the plan. Honest.
+KATHERINE	f	Are you all right?
+SIMON	m	No. Not really.
+KATHERINE	f	I'll have to call the police.
+SIMON	m	I wish you wouldn't, but I understand.
+KATHERINE	f	They'll help you.
+SIMON	m	Oh, I rather doubt that.
+MARY	f	Hi.
+SIMON	m	Hello. I thought you'd left.
+MARY	f	I hid. I'm very clever.
+SIMON	m	I'm sure you are. You were nice to give me the food.
+MARY	f	I know.
+SIMON	m	I haven't much time, Mary. And since  you've been so nice to me, there's  something I'd very much like to give  to you.
+MARY	f	What?
+SIMON	m	Just for a little while. Something  very special. Can you keep it a  secret? The biggest secret ever?
+MARY	f	Yes. What is it?
+SIMON	m	Come here, Mary.
+SIMON	m	Closer...
+MARY	f	I don't feel good...
+KATHERINE	f	What's the matter, pumpkin? Did you  eat something? Did he give you something?
+MARY	f	Can I go home now?
+KATHERINE	f	Sure, hon. Let's go.
+KATHERINE	f	I'll have the school send over a  doctor.
+KATHERINE	f	...He's was just laying up there. I  thought, with the kids and  everything...
+VOICE	m	Most of my boys are up the highway  on a tanker spill at the moment.  They may be a while. These people  are rarely any problem. I'll have a  deputy come by tonight or tomorrow  and shoo him out.
+KATHERINE	f	He looked hurt.
+VOICE	m	They all do, ma'am. Inside or out,  they're all damaged goods.
+DAGGETT	m	Yeah.
+VOICE	m	It's your friendly coroner.
+DAGGETT	m	Why is my friendly coroner, after a  long day at work, calling me at home?
+VOICE	m	I have something you'll want to see.
+DAGGETT	m	I doubt it.
+VOICE	m	No, you'll definitely want to see  this.
+CORONER	m	They also took the autopsy file.
+DAGGETT	m	"They"?
+CORONER	m	He, she, it. They took it. They also  lifted all the physical evidence  from the San Julian impound.
+DAGGETT	m	Where was everyone?
+CORONER	m	The cop at the desk is in the hospital  as we speak with a broken collarbone.  Everyone else was down the hall  watching the basketball playoffs.
+DAGGETT	m	Who won?
+CORONER	m	Temple.
+DAGGETT	m	Lucky.
+CORONER	m	Yeah. Foul on the buzzer.
+DAGGETT	m	Looks like the snow angels we used  to make as kids. Lie down in a clean  bank. Move your arms up and down...
+CORONER	m	You know what this means. Our friend's  cleaned out all the evidence on this  guy. Everything.
+DAGGETT	m	Did the cop get a look at who nailed  him?
+CORONER	m	Tall. Smiled a lot.
+DAGGETT	m	Anything else?
+CORONER	m	He wore sunglasses.
+CORONER	m	You gonna figure this one out, Tom?
+DAGGETT	m	I'm going to try.
+CORONER	m	When you do, give me a call. Tell me  I'm not crazy.
+GABRIEL	m	You like the desert, Jerry?
+JERRY	m	You promised. You promised that --
+GABRIEL	m	-- Soon. Honest. Don't be a pest  about it.
+JERRY	m	Never trust a fucking angel.
+GABRIEL	m	Excellent advice.
+LT. PAUL	m	Do you ever have one of those  afternoons where you feel no one's  giving you a straight answer about  anything?
+DAGGETT	m	Oh, maybe five or six times a week.
+LT. PAUL	m	It says here somebody got into the  property warehouse and cleaned  everything out of your evidence box.  No, he did leave one thing. A  footprint. 11-D.
+DAGGETT	m	Mud on his shoes?
+LT. PAUL	m	Spinal fluid.
+LT. PAUL	m	I'm not going to get a straight answer  out of you either, am I?
+DAGGETT	m	Not yet.
+DAGGETT	m	I need to go to Arizona.
+LT. PAUL	m	For your health?
+DAGGETT	m	So I can give you a straight answer.
+LT. PAUL	m	Sure, why not? Take the kids. See  the Grand Canyon. Send me a fucking  postcard.
+DAGGETT	m	Sorry.
+LT. PAUL	m	I've got a headache, Tom, and I hate  my life. If you have to go, go.
+JERRY	m	Why do you need me? I can hardly  walk now.
+GABRIEL	m	Some things are human work, son.  Live or dead, human work. Besides, I  like you.
+JERRY	m	Lucky moi.
+GABRIEL	m	I can always smell a graveyard.
+JERRY	m	I hope you're enjoying this.
+GABRIEL	m	I always enjoy watching you work,  Jerry.
+JERRY	m	How did I ever get you in my life?
+GABRIEL	m	Come on, you didn't really want to  kill yourself.
+JERRY	m	But I did it, didn't I? I did kill  myself.
+GABRIEL	m	Well, yes. Technically.
+JERRY	m	And you're just keeping me alive.
+GABRIEL	m	Letting you die slower.
+JERRY	m	I'm so in your debt.
+GABRIEL	m	Thank you, Jerry. I'm touched. Really.
+JERRY	m	Not much to look at.
+GABRIEL	m	Ah, but it's not what's on the outside  that matters --
+GABRIEL	m	-- It's what's on the inside.
+GABRIEL	m	It's not here.
+GABRIEL	m	It's not here!
+JERRY	m	Oooh, bad news for the war effort.
+GABRIEL	m	Shut up!!
+GABRIEL	m	Now, if you were a soul, where would  you hide?
+JERRY	m	The hell away from you.
+FEMALE VOICE	f	Hey little brother.
+DAGGETT	m	Hey. How's the world?
+VOICE	m	The world's the usual. Except for a  guppy. the world's minus one guppy  this morning.
+DAGGETT	m	And Jamie and Mac?
+VOICE	m	They keep asking for Uncle Tommy.  The only man that can make stuffed  bears talk.
+DAGGETT	m	My one true calling. What's up?
+VOICE	m	What do you mean?
+DAGGETT	m	It's five-thirty in the morning.
+VOICE	m	I just thought I should call.
+DAGGETT	m	You always were telepathic.
+VOICE	m	Don't go.
+DAGGETT	m	It's my job, Jan. I go places  sometimes.
+VOICE	m	I just had this terrible feeling  about it. What's happening, Tom?
+DAGGETT	m	I don't know.
+VOICE	m	I miss you. Even when you're here. I  miss you. I miss my brother. It's  been four years, Tom, since...
+DAGGETT	m	I know.
+VOICE	m	We're the only blood family we have  left, you and me. I worry about you.
+DAGGETT	m	I'll be okay.
+VOICE	m	Sorry about the dawn-attack call. I  love you.
+DAGGETT	m	I love you too, Jan.
+GABRIEL	m	Boy, what a dump, huh?
+GABRIEL	m	Why can't this shit ever go down in  Miami? Or Bora Bora? I feel like  I've spent my whole damn stay in gin  swills like this.
+JERRY	m	Life's a bitch.
+GABRIEL	m	Well well...
+GABRIEL	m	Hi, Simon.
+SIMON	m	Gabriel.
+JERRY	m	Don't mind me. Just along for the  ride.
+GABRIEL	m	So, what shall we talk about?  Theology?
+SIMON	m	I'm a little talked out on theology.
+GABRIEL	m	Fair enough...
+GABRIEL	m	You know why I'm here.
+SIMON	m	Oh yes.
+GABRIEL	m	Don't happen to have it on you by  chance?
+SIMON	m	No.
+GABRIEL	m	That would have been too easy.
+GABRIEL	m	Please, Simon. Get serious.
+GABRIEL	m	Now. Where's the soul? You know. So high. Used to reside in  the recently departed General  Hawthorne.
+GABRIEL	m	Have it your way, big guy.
+SIMON	m	I do have one question.
+GABRIEL	m	Shoot.
+SIMON	m	Do you even remember what this war's  about?
+GABRIEL	m	That's hardly the point, is it?
+SIMON	m	I guess I never did get the point.
+GABRIEL	m	Happens.
+SIMON	m	How do you do it, Gabriel? How do  you go on and on in this place?
+GABRIEL	m	I like it here, Simon. I always have.
+SIMON	m	I'm so tired...
+GABRIEL	m	Then join us, Simon. Reject the Nicene  Council. We were here first.
+SIMON	m	I can't do it, Gabriel. I don't even  know why anymore, but I can't.
+GABRIEL	m	You know the routine.
+SIMON	m	Yes.
+GABRIEL	m	Not yet.
+GABRIEL	m	I can do this for five months,  Simon...
+GABRIEL	m	This is getting boring, Simon.
+JERRY	m	Amen.
+GABRIEL	m	Where is it? Where did you put it?
+GABRIEL	m	Where is it!
+GABRIEL	m	I'm just about out of tricks here.  You're a tough one, friend. Old  school.
+GABRIEL	m	God loves you, Simon.
+DEPUTY	m	You may want to skip this, ma'am.
+CROUCHED DEPUTY	m	God damn...
+DEPUTY	m	Were any of your students up here?
+KATHERINE	f	Mary...
+KATHERINE	f	How is she?
+GRANDMOTHER	f	Same.
+KATHERINE	f	Did the doctor come by?
+GRANDMOTHER	f	He found nothing. But something is  in her. I know. Something the  Belagaana doctor can't see. The night  people have been around two days  now. It is a warning. So we have called the hand trembler.  To find if she must have an Enemy  Ghost Way.
+SHERIFF	m	And to what do I owe the thrill of a  visit from a So Cal homicide cop?
+DAGGETT	m	Run of of the mill psycho killer  body dismemberment on our end. The  usual.
+SHERIFF	m	Lovely place, Los Angeles.
+DAGGETT	m	Got a lead I wanted to run down  Chimney Rock way. Thought I'd do the  courtesy of telling you first.
+SHERIFF	m	Big of you.
+DAGGETT	m	You're welcome to put a babysitter  on me if you like.
+SHERIFF	m	Son, this is the third biggest county  in the country, not even counting  the 25,000 square mile Indian  reservation right next door, and  I've got fewer men than just one of  your little palm tree precincts to  cover all of it. 'Fraid the only  help you're gonna get from me, short  of another shoot out at the OK Corral,  is that cup of coffee in your hand.  A middle-aged secretary enters with  a stack of paper.
+SECRETARY	f	Here's the last week's watch reports.
+SECRETARY	f	Bobby just called this in from Chimney  Rock.
+SHERIFF	m	Sent a car up there this morning.  Teacher complained some vagrant was  sleeping in her schoolhouse.
+SHERIFF	m	Damn it, get Bobby on the phone,  Clarice. What the hell is this suppose  to be?
+DAGGETT	m	May I?
+DAGGETT	m	Thanks for the coffee.
+SHERIFF	m	Small piece of advice, Lt. Dagget,  that I give free of charge to all  visiting big city policemen: It's  wild country up there. Always has  been, always will be. You come across  anything that snarls, you call me  first, hear?
+DAGGETT	m	I never turn down advice, Sheriff.  Especially when it's free.
+DAGGETT	m	How long ago was he buried?
+GRAVE KEEPER	m	Which time?
+DAGGETT	m	What do you mean?
+GRAVE KEEPER	m	Somebody dug him up last night. I  just finished putting him back.
+DAGGETT	m	Did they take anything?
+GRAVE KEEPER	m	Nothin' on the outside.
+DAGGETT	m	Hello.
+KATHERINE	f	Can I help you with something?
+DAGGETT	m	Tom Dagget. I'm with the police.
+KATHERINE	f	About the guy upstairs?
+DAGGETT	m	I'd like to ask you a few questions.
+KATHERINE	f	I've kinda got my hands full right  now.
+DAGGETT	m	I'll just tag along.
+KATHERINE	f	Here, make yourself useful.
+KATHERINE	f	Okay, everbody stays on the courts  today. -- I mean it.
+DAGGETT	m	What grade is this?
+KATHERINE	f	All of 'em.
+DAGGETT	m	Town doesn't look that small.
+KATHERINE	f	Nearly all ghosts now. When the copper  mine closed it took most of the town  with it. We just teach out of this  one corner of the schoolhouse now.  Rest of it's been abandoned for years.
+DAGGETT	m	You're the only teacher.
+KATHERINE	f	Yup. Just me. -- Randy...
+RANDY	m	But he --
+KATHERINE	f	Do it again and I'll put your head  in the door and slam it. Love and understanding are important  tools in education.
+DAGGETT	m	Clearly.
+DAGGETT	m	The man upstairs, did you talk to  him?
+KATHERINE	f	I wanted to know what the hell he  was doing there.
+DAGGETT	m	What did he say?
+KATHERINE	f	That it wasn't part of the plan. He  looked hurt. Bloody. Like someone  had cut him. That happens here. Was that... stuff... on the floor  really him?
+DAGGETT	m	Did any of the children talk to him?
+KATHERINE	f	Yes.
+DAGGETT	m	Who?
+KATHERINE	f	She's home sick from school today.
+DAGGETT	m	Can I speak with her parents?
+KATHERINE	f	They're dead. She lives with her  grandmother. I'll have to ask her.
+DAGGETT	m	All right. This is my number at the hotel.
+DAGGETT	m	Did you know Arnold Hawthorne?
+KATHERINE	f	The General? Saw him here and there.  It's a small town.
+DAGGETT	m	Military man?
+KATHERINE	f	About a million years ago. His  interests lately were more like  gardening and herbal tea.
+DAGGETT	m	Did you go to the funeral?
+KATHERINE	f	Everyone did. He lived here.
+DAGGETT	m	No dark hidden secrets?
+KATHERINE	f	There are no secrets in small towns,  Mr. Dagget, dark or otherwise.
+GABRIEL'S VOICE	m	It's unusual to see someone of your  age in church on a weekday.
+GABRIEL	m	Don't get me wrong. I think it's an  excellent sign of character.
+GABRIEL	m	Never mind him. He shouldn't even be  in here. Least not standing.
+GABRIEL	m	You're not from here.
+DAGGETT	m	Either are you.
+GABRIEL	m	I'm looking for something.
+DAGGETT	m	Have you found it?
+GABRIEL	m	I will. Have you found what you're  looking for?
+DAGGETT	m	I will.
+GABRIEL	m	I don't doubt it. You'll let me know? When you find  it?
+DAGGETT	m	Where are you staying?
+GABRIEL	m	I'm around.
+MICROPHONE VOICE	m	...B-26... B-26...
+DAGGETT	m	I got your note.
+KATHERINE	f	Have a seat. You need a card. Here,  play one of mine.
+DAGGETT	m	No, it's okay. Really --
+JOHN	m	You must learn to shed your high- strung ways, pale face. You must  learn the spirit joy in patience,  peace, and making fifty or sixty  bucks.
+MICROPHONE VOICE	m	...G-19... G-19...
+KATHERINE	f	John, this is Mr. Dagget. Says he's  with the police, though judging by  his coat and basic command of the  english language, I don't think it's  from anywhere around here.
+DAGGETT	m	Tom. From Los Angeles.
+JOHN	m	That near Oxnard?
+DAGGETT	m	Sort of.
+KATHERINE	f	Long way from home, Tom-from-Los- Angeles.
+MICROPHONE VOICE	m	D-9... D-9...
+DAGGETT	m	-- Hey, wait. I won. I won!
+KATHERINE	f	-- What? No way --
+JOHN	m	Recount! Recount!
+KATHERINE	f	Your turn.
+DAGGETT	m	Oh, no thanks.
+KATHERINE	f	C'mon, don't be a drip.
+DAGGETT	m	I'm not very good at this...
+KATHERINE	f	No, you're not, are you?
+KATHERINE	f	Let me lead.
+JOHN	m	So how's our star pupil feeling today?
+KATHERINE	f	Mary? The school doctor came by.  Declared it "Non-specific  gastrointestinal disorder".
+JOHN	m	Latin for "I don't have the slightest  fucking idea".
+DAGGETT	m	Will she be able to talk with me?
+KATHERINE	f	That's up to her. Mary's grandmother called a hand  trembler.
+JOHN	m	Uh oh. Hocus pocus time.
+DAGGETT	m	Is that serious?
+JOHN	m	Depends what the hand trembler says.  People call them in when they think  a witch or a Yei is trying to sprinkle  corpse sickness in their hogan, or  if the Night People have been hanging  around too much. Night people screw  around a lot, but they're good at  warning of evil ghosts.
+DAGGETT	m	Who are the Night People?
+JOHN	m	They come as coyotes.
+DAGGETT	m	Beautiful stars out here.
+JOHN	m	Too much fucking sky in the desert.  It pushes on you. Sometimes I wonder if anyone in heaven  even knows this place is here...
+KATHERINE	f	Where do you keep the coffee in this  joint?
+JOHN	m	Above the stove.
+DAGGETT	m	What happens if the hand trembler  says a ghost has been...
+JOHN	m	-- Messing with Mary? If you're smart  you say thank you very much and forget  about it. But if you're heavy  traditional, and Mary's people are  serious traditional, you have an  Enemy Ghost Way.
+DAGGETT	m	What's that?
+JOHN	m	Goddamn expensive. It's a Sing to  purify and drive off the corpse  sickness. Two days of dancing and  ceremony and feeding the whole damn  village. Not even to mention hiring  the yataallii, if you can even find  one these days. And you can bet they  don't come cheap. But every clan  does it a bit different. Especially  Mary's.
+DAGGETT	m	You know them?
+JOHN	m	The Bitter Sky Clan. Hard core  reservation. No lights, no running  water, no HBO. Their village is out  on the edge of Old Woman Butte.  Million miles from anything. Witch  country. Settled right there in the  Dead People Land where no one else  would, right on top of the old Anasazi  village. They're a dying clan. Just  the old ones now. All alone out there  in the middle of nothing. They can keep it.
+DAGGETT	m	Do people really still believe in it  all? Ghosts, Sings, corpse sickness?
+JOHN	m	Depends, I guess. Sometimes you go  along because it's a village thing,  or you don't want to disappoint  grandma. But sometimes, when you're  alone out there, far from town, and  the wind kicks up and sneaks into  your hogan... I don't know.
+DAGGETT	m	I think John's out for the evening.
+KATHERINE	f	Saturday night in Chimney Rock.
+DAGGETT	m	So how does a person like you end up  teaching here?
+KATHERINE	f	When I was younger I used to believe  that no matter how much you mucked  around in your life, one day, if you  listened hard enough, a voice would  tell you what you were really cut  out to do. And when it didn't show  up on schedule I decided to go look  for it. And I looked in a lot of  places, believe me. I drove that  road out there so far that the end  became the beginning again. And it  was when I got here that I realized  there never was going to be a voice.  So I stopped looking and took the  first job they offered me. That make  any sense to you?
+DAGGETT	m	Oh, I know all about voices. Problem  is not all of them are very nice.
+KATHERINE	f	How did you end up a cop?
+DAGGETT	m	It was the evil of two lessers.
+KATHERINE	f	Are you always this cryptic?
+DAGGETT	m	No. When you get to know me I can be  down right evasive.
+DAGGETT	m	Thanks for the lift. Tomorrow at  noon? At the little girl's house?
+KATHERINE	f	First trailer on the highway past  town.
+KATHERINE	f	I must say, Mr. Dagget, that you  don't seem very like a police officer  to me.
+DAGGETT	m	That's what my bosses keep saying.
+KATHERINE	f	I meant it as a compliment.
+DAGGETT	m	So taken. Goodnight, Miss Henley.
+KATHERINE	f	Goodnight, Tom-from-Los-Angeles.
+GABRIEL	m	Get any sleep? -- Just kidding.
+GABRIEL	m	...There, and there. Now pucker your  lips... aim it that way, and just  blow a little bit, this is a special  trumpet.
+GABRIEL	m	Very good, Timmy. Very good. Here,  have a Junior Mint on me. Open up.
+GABRIEL	m	Who's next?
+GABRIEL	m	And who are you?
+SANDRA	f	Sandra.
+GABRIEL	m	And did you see the man upstairs,  Sandra?
+SANDRA	f	A little.
+GABRIEL	m	Did you talk to him?
+SANDRA	f	No.
+GABRIEL	m	And who did, Sandra. Who talked to  the man?
+SANDRA	f	Mary.
+GABRIEL	m	And where is Mary, Sandra?
+SANDRA	f	She isn't here. She's sick.
+GABRIEL	m	You've got very pretty teeth, Sandra.  Here, let me see...
+KATHERINE	f	What the hell do you think you're  doing?
+GABRIEL	m	Just talking to the kids, Ma'am.
+KATHERINE	f	Get off his knee, Sandra. Everyone  else, go inside. Now.
+BRIAN	m	'Bye, Gabriel.
+GABRIEL	m	See ya, kids. Be sure to study your  math.
+KATHERINE	f	Who are you?
+GABRIEL	m	It's a long story.
+GABRIEL	m	Ignore him.
+JERRY	m	Everyone else does.
+KATHERINE	f	I don't know what the hell is going  on, but you both better get out of  here. Right now.
+GABRIEL	m	You're right...
+GABRIEL	m	...You have no idea what's going on.
+KATHERINE	f	Al! Keep an eye on the children for  me. I'll be right back. And call the  sheriff.
+JANITOR	m	Sheriff? What the hell do I tell  him?
+KATHERINE	f	Just call.
+KATHERINE	f	You weren't suppose to be here till  noon.
+DAGGETT	m	You're a little early yourself.
+KATHERINE	f	I wanted to check on her.
+DAGGETT	m	That makes two of us.
+KATHERINE	f	How are you feeling, pumpkin?
+MARY	f	Better.
+KATHERINE	f	This is Mr. Dagget, Mary. He'd like  to ask you some questions. You don't  have to answer if you don't want to.
+MARY	f	It's okay.
+DAGGETT	m	Mary, when you talked to man up in  the building --
+MARY	f	-- Simon.
+DAGGETT	m	Yes, Simon. What did Simon say?
+MARY	f	That's funny. "Simon says".
+DAGGETT	m	Right. Like the game.
+MARY	f	I'm good at it. I'm very clever.
+DAGGETT	m	We'll have to play together sometime.
+MARY	f	Simon even said so. He also asked if  I could keep a secret.
+DAGGETT	m	And what was that?
+MARY	f	Something he gave me.
+KATHERINE	f	What, pumpkin?
+MARY	f	Then it wouldn't be a secret.
+DAGGETT	m	You're a good friend not to tell,  Mary. But I'm a friend of Simon's  too. So if you ever want to tell,  you can to me. Okay?
+MARY	f	It's a secret...
+MARY	f	...But sometimes it hurts.
+MARY	f	Have you ever killed a chinaman?
+DAGGETT	m	No Mary, I haven't.
+MARY	f	They don't bleed. Not the way you  and I do. Or maybe it was just the  cold...
+MARY	f	I've killed them, you know. Lots.  You could always tell when they were  coming. There'd be the trumpets first.  Every note flat. Then those songs...  After that they'd charge. Right down  through the snow. The guns would  freeze and it would be just knives...  It was so cold and there were so  many of them. But I was smarter than  they were. Even at Chosin, I was  smarter...
+MARY	f	It scares me, Miss Henley. I hate  it. Please, make it stop!
+MARY	f	Make it stop!
+KATHERINE	f	It's okay... It's okay...
+KATHERINE	f	I'm sorry, I didn't mean to --
+GRANDMOTHER	f	It's all right, Miss Henley. We know  you love Mary...
+KATHERINE	f	What are we going to do?
+GRANDMOTHER	f	She's going to have the Enemy Ghost  Way. We leave this afternoon.
+DAGGETT	m	Where will they do the ceremony?
+KATHERINE	f	In the home village. The Hand Trembler  must have found corpse sickness...
+DAGGETT	m	They're taking her away? Shouldn't  she see a doctor?
+KATHERINE	f	She's already seen a doctor. That son of a bitch...
+DAGGETT	m	Who?
+KATHERINE	f	Gabriel the children called him. The  little shit was hanging around my  kids this morning asking about Mary.  He and his buddy make a real pair.
+DAGGETT	m	Maybe it's time I checked out Mr.  Gabriel.
+KATHERINE	f	I know where he parks his car.
+KATHERINE	f	Chinamen? Chosin? I've never heard  her talk like that before.
+DAGGETT	m	Chosin Reservoir was a Korean war  battle the Marines had against the  Chinese, supposedly the bloodiest  hand-to-hand fighting of the century.  Someone been teaching that to your  class?
+KATHERINE	f	Sure, right next to Jack 'N Jill.
+DAGGETT	m	Where would she have heard it?
+KATHERINE	f	Nobody I can think of. Maybe one.
+DAGGETT	m	Who?
+KATHERINE	f	General Hawthorne.
+DAGGETT	m	Did she know him?
+KATHERINE	f	He didn't like children.
+DAGGETT	m	You couldn't and tell a story like  that to one.
+KATHERINE	f	It was there earlier.
+DAGGETT	m	If I was smart I'd call the Sheriff  or somebody in town who knows this  place. Then again, there is one thing  worse than getting killed.
+KATHERINE	f	What?
+DAGGETT	m	Looking like an idiot if it's nothing.
+KATHERINE	f	I'll come along.
+DAGGETT	m	No, if someone has to fall a hundred  feet down a black pit, he should at  least be on official duty.
+DAGGETT	m	Then again, it is kind of spooky in  there. Here, you can hold the  flashlight.
+KATHERINE	f	It's cold...
+DAGGETT	m	Shit.
+DAGGETT	m	You okay?
+KATHERINE	f	Yeah... Sorry.
+DAGGETT	m	Well, I've seen enough.
+DAGGETT	m	Wonderful.
+KATHERINE	f	What is that?
+DAGGETT	m	I don't know. Maybe a bum or  something.
+KATHERINE	f	Do you feel it?
+DAGGETT	m	...Yes.
+KATHERINE	f	What is it?
+DAGGETT	m	Oh no... Oh God no...
+DAGGETT	m	No!
+KATHERINE	f	What... What was that? Hell?
+DAGGETT	m	...No. The voices. They were screaming  and fighting over... theology. They  don't sweat much about that in hell.  But they do in... heaven.
+DAGGETT	m	The son of a bitch. He carries it  around with him like a photo album.  A big, greasy cloud wherever he goes.  They all do.
+KATHERINE	f	How can that be heaven? Jesus Christ.  How? I don't even believe in heaven.
+KATHERINE	f	You dumb fucking assholes! How could  you have done that!
+DAGGETT	m	That extra chapter by St. John was  right. It's a war... Just like the  first one. Just like when the angel  Michael beat Lucifer and cast him  out. Only now they've turned on each  other... Turned on each other in a  civil war over theology.
+DAGGETT	m	Oh sweet God, theology. "God's wild bunch". God's morons!
+KATHERINE	f	How do you know know so much about  that?
+DAGGETT	m	I just know. Yes folks, the good news is that  there's life after death in heaven.  The bad news is that it's as screwed  up as here.
+KATHERINE	f	They were like us.
+DAGGETT	m	They are us. Aborted children. And  they need us. They need our corrupt,  dark souls for their fight. They  need...
+KATHERINE	f	...Mary.
+DAGGETT	m	What are you doing?
+KATHERINE	f	I don't know what this is. I don't  know what I believe. I don't know if  my sanity is lying back in that cave  flopping around waiting for me. But  I know one thing. Those... Those  things aren't taking her!
+KATHERINE	f	In those... visions... did you ever  see... God?
+DAGGETT	m	No.
+KATHERINE	f	Me either.
+KATHERINE	f	Mary?
+DAGGETT	m	Get away from her.
+GABRIEL	m	You know. Son of a bitch, the priest  wanna-be actually figured it out.  That's a rare club, son. At least  down here.
+DAGGETT	m	Back away from the kid, man. Now.
+GABRIEL	m	She won't feel anything, honest.  I'll have to tear her apart of course --  just the way it goes -- but it'll be  all right in the end. A good catholic  boy like you, Mr. Daggett, you should  be on my side.
+DAGGETT	m	Goddamn it --
+GABRIEL	m	You're gonna have to watch that  profanity.
+GABRIEL	m	It'll only be a moment...
+JERRY	m	Thanks man, I appreciate it. You're  a sport.
+GABRIEL	m	You little pest, do you have any  idea how hard it is to get one of  those?
+KATHERINE	f	You son of a bitch, why? Why do this?
+GABRIEL	m	Because I'm an angel, you miserable  wretch! I kill first borns while  their mothers watch! I turn whole  cities into salt! I even, when I  feel like it, rip the souls from  little girls! And from now until  eternity, the only thing you'll be  able to count on in your pathetic  little existence is never knowing  why! I'm wasting my time here. C'mon petunia, let's get on with  it...
+DAGGETT	m	Go. Go!
+KATHERINE	f	...You...
+KATHERINE	f	...Can't...
+KATHERINE	f	...Have Her!!
+DAGGETT	m	Where...
+KATHERINE	f	She was coming up the street.
+MARY	f	Is Gabriel dead?
+MARY	f	They're not like you and me. You've  got to cut their hearts out. The  only thing God gave them.
+DEPUTY	m	What the hell happened here?
+DAGGETT	m	LAPD.
+DEPUTY	m	That's a start. How about the rest  of it?
+DAGGETT	m	That man over there. He's wanted.  Murder. I'm taking him in. -- Shit...
+DEPUTY	m	I think you're going to the hospital  first.
+DAGGETT	m	-- No, I have to --
+DEPUTY	m	Is he alive?
+DEPUTY #2	m	He's alive.
+DEPUTY	m	Cuff him. We'll take him to the  hospital in our car.
+DAGGETT	m	-- No, you don't understand. You  have to let me have him --
+DAGGETT	m	You'll never hold him.
+DAGGETT	m	Take off his sunglasses... Jesus  Christ, just take off his  sunglasses...
+FIREMAN	m	He'll be all right. Just a bad hit.
+FIREMAN	m	Let's get a splint.
+DAGGETT	m	We have to get out of here.
+KATHERINE	f	But your head...
+DAGGETT	m	If you want Mary to stay alive past  sundown we have to leave, and we  have to do it now.
+DAGGETT	m	Where are we going?
+KATHERINE	f	Mary's village.
+TELEPHONE VOICE	m	County Coroner's office, Assistant  Coroner Raphael speaking.
+DAGGETT	m	Willie?
+VOICE	m	Tom?
+DAGGETT	m	You weren't crazy, man.
+DAGGETT	m	So what's the deal, huh?
+DAGGETT	m	I mean, do you have any kind of plan  here? Cause I'm just about of ideas,  friend.
+DAGGETT	m	Do you even listen? Do you still  come to places like this? Old Man,  you have been calling me most of my  goddamn life, but every time I get  close, you just keep moving that far  away. What's it to be? You want me  to kill your henchmen? Can't you  even control your own killers anymore?
+DAGGETT	m	What do you want from me!
+OLD MAN	m	I am Bartholomew Grey Horse, born to  the Deer Spring Clan, born for the  Slow Talking People. Today I am the  yataalii for Mary Tsosie of the Bitter  Sky Clan.
+GREY HORSE	m	Ya-tah.
+GRANDMOTHER	f	Ya-tah-hey.
+MARY	f	This is a good place.
+DAGGETT	m	Yes?
+MARY	f	Separate water source. Stocked grain.  Only one possible approach. A man  could, with the proper defenses,  hold off an entire battalion for  weeks. Months.
+DAGGETT	m	Which one of you is that talking,  Mary? Or do you even know anymore?
+GREY HORSE	m	We will start the Sing soon to remove  the Yei spirit and stop the ghost  sickness.
+DAGGETT	m	This might not be the work of a Navaho  ghost.
+GREY HORSE	m	It's all the same.
+GRANDMOTHER	f	Now we sleep, Katherine. Tomorrow,  after dark, we begin again.
+VOICE	m	Hello, Katherine.
+KATHERINE	f	Oh Lord, I can't do this. I can't do  this anymore...
+FIGURE	m	We must talk, Katherine.
+KATHERINE	f	You're... You're... ...God?
+FIGURE	m	God is love, Katherine.
+FIGURE	m	-- I don't love you.
+KATHERINE	f	I can't. I can't do this tonight. Go  away.
+FIGURE	m	I can kill you, Katherine. I can lay  you out and fill your mouth with  your mother's feces. Or I can talk  with you.
+FIGURE	m	I am here, before you, in a form to  put you at ease.
+KATHERINE	f	Good job.
+FIGURE	m	I rarely do this in person. I am,  perhaps, somewhat out of touch.
+KATHERINE	f	Are you one of them?
+FIGURE	m	No.
+KATHERINE	f	You're not an angel?
+FIGURE	m	Oh, I am an angel. A very special  one. The first. The oldest. The naive  eagle scout, he once loved me above  all others, and I him. It was the  only true love for either of us, but  like all true love, it couldn't  possibly last.
+FIGURE	m	The winged party boys will come,  Katherine. They'll come to feed on  the guts of your little Mary.
+KATHERINE	f	What do you care?
+FIGURE	m	I have my interests...
+FIGURE	m	The naive eagle scout, he has his  interests too. He even has a place  for them, as I do for mine. Big,  shiny place. You'd like it. Only  it's been empty for a long time.  Can't open till after the  resurrection. The problem's with the  hired help. Always had problems with  the hired help. They're arrogant,  boastful little pricks. Not like me.  What I did I did for love. But they,  the winged party boys, even before  the park could open for its first  customer, they started fighting over  the popcorn stand.
+FIGURE	m	You see, Katherine, heaven can't  start accepting guests till this  fight is settled. And without people,  there is no heaven. All those good  and true souls left mouldering in  the ground clutching their H-tickets  and waiting and waiting and waiting...  Some, lying down there with the worms  century after century, they start to  get doubts about the whole program.  That's when, out of sheer boredom,  some of them come to me. Because I'm  always open for business. 24 hours a  day, seven days a week. Even on  Christmas.
+FIGURE	m	Some of the angels cheat. They sneak  a few souls in to help with the fight.  The really dark ones. And now one of  them has found a special soul so  wonderfully sick that it might just  win it for them. And if one side  wins, even the wrong one, then there's  no fight. And if there's no fight,  there can be a heaven.
+KATHERINE	f	And if there's a heaven?
+FIGURE	m	I'd be very unhappy. I am here to help you and the little  bitch not because I love you, not  because I care about you, but because  I want this war to go on and on and  on.
+FIGURE	m	I bring you the chance to save your  Mary, Katherine. And along the way,  stop the resurrection.
+KATHERINE	f	How?
+FIGURE	m	Listen when I speak. Now go to bed,  Katherine. Tomorrow, I promise you,  is a big day.
+DAGGETT	m	Is it over?
+KATHERINE	f	For now. They start again tomorrow.
+DAGGETT	m	And at the end of it?
+KATHERINE	f	The Enemy Way chant removes the  invading yei ghost.
+DAGGETT	m	Will it work on a general's soul?
+KATHERINE	f	We'll see. How's the head?
+DAGGETT	m	Still attached. Barely.
+KATHERINE	f	Here, I'll change the bandage.
+KATHERINE	f	Does that hurt?
+DAGGETT	m	No.
+KATHERINE	f	Then I must be doing it wrong.
+KATHERINE	f	I saw the devil tonight.
+DAGGETT	m	How nice. Which one?
+KATHERINE	f	The main one. Satan. Lucifer. The  dark angel. You know.
+DAGGETT	m	What did he have to say?
+KATHERINE	f	That he did it all for love. That  and I have a choice. Mary's life or  a billion souls waiting in the  pipeline for heavenland to open.
+DAGGETT	m	You're not kidding, are you?
+KATHERINE	f	No sir.
+DAGGETT	m	Satan? You're sure?
+KATHERINE	f	You had to be there.
+DAGGETT	m	Why wasn't I!
+KATHERINE	f	We can double date next time if it's  that important to you.
+DAGGETT	m	You don't understand, I've spent my  whole life... I don't suppose it would occur to  anyone in authority to fill me in on  what's going on every once in awhile,  huh? Shit!
+DAGGETT	m	Did he say anything about the Nicene  Council? About the rank of Jesus  Christ in the holy Trinity?
+KATHERINE	f	It didn't seem important to him.
+KATHERINE	f	Are you a priest?
+DAGGETT	m	A near miss.
+KATHERINE	f	Why?
+DAGGETT	m	It's a long story.
+KATHERINE	f	This may be your last chance to tell  it.
+DAGGETT	m	The other night, you were talking  about waiting for a voice to call  you to something. Well, let me tell  you, the worst thing that can happen  to you is to be called to something.  Since I can remember a voice from  somewhere deep in the Church called  me. So loud and so often that by  thirteen I knew I was going to be a  priest. You know what that's like?  My parents, friends, all of them  thought I was crazy. But see, I had  this voice. The voice that kept  coaxing me along, telling me there  was a reason. So I entered the  seminary and was half way to my  starched white collar when my mother,  father, and my little brother were  wiped out in a car crash.
+DAGGETT	m	I had never asked anything of the  voice. Not when the neighborhood  kids made fun of me, not when my  father looked down at me like some  knock-kneed faggot. I never questioned  a damn thing. But on the morning I  spent looking down at three parallel  graves, I asked it one question.  Why. Why were these people taken  from me? And the voice, that same  voice that would wrench me out of my  sleep some nights with its jabbering,  it was suddenly stone silent. It was  the only question I ever asked of it  and it just left me hanging in the  fucking wind...
+DAGGETT	m	So after that I traded in priest  school for homicide school. Because  if God wouldn't talk to me the devil  sure as hell would, and his ways  were a lot easier to understand.
+KATHERINE	f	We've never seen God, have we? Not  in any of this.
+DAGGETT	m	Yeah, He's certainly a shy son of a  bitch, I'll give Him that.
+KATHERINE	f	Maybe we're not supposed to. Maybe  that's faith.
+DAGGETT	m	Do you still have faith in anything,  Katherine?
+KATHERINE	f	I have faith in Mary. And that I'm  going to save that little girl from  those creeping things out there.  From all of them.
+DAGGETT	m	Maybe you were called to something  after all.
+KATHERINE	f	Maybe we both were.
+GABRIEL	m	Heavy sleeper, John.
+JOHN	m	Don't -- Don't hurt me, man. My  wallet's in the dresser.
+GABRIEL	m	Don't be such a materialist, John. No end to your bad habits.
+JOHN	m	What do you want?
+GABRIEL	m	A moment of your time.
+JOHN	m	You ought to have that nose looked  at, man.
+GABRIEL	m	Where are they, John? Katherine and  Mary? Where would they go?
+JOHN	m	What? Mary? I don't know.
+GABRIEL	m	Sure you do. Think hard.
+JOHN	m	No, really. I don't know. The school  maybe.
+GABRIEL	m	Now you're not even trying, John.  You're Katherine's best friend. She  tells you everything.
+JOHN	m	I'm just the driver, y'know?
+GABRIEL	m	I can help you remember, John...
+NURSE	f	Can I help you?
+GABRIEL	m	Someone's going to die here soon.  I'll just be a minute.
+NURSE	f	There's no visitors allowed in ICU.
+GABRIEL	m	The timing's important. I can smell  these things, you know.
+GABRIEL	m	Go to sleep.
+GABRIEL	m	Recovering... Recovering... Stable... Deteriorating critical.
+GABRIEL	m	Whoa, not just yet. Come on back.  That's it...
+GABRIEL	m	Hi.
+WOMAN	f	No, no...
+GABRIEL	m	Hey, c'mon, don't start... -- Rachael. Here... It's only for a short time. Promise.
+MARY	f	Hi, Miss Henley.
+KATHERINE	f	Hi, pumpkin. Good morning.
+KATHERINE	f	How's the head?
+DAGGETT	m	Shitty. Coffee?
+KATHERINE	f	What are we going to do if he comes?
+DAGGETT	m	You mean when, right?
+KATHERINE	f	When he comes.
+DAGGETT	m	There's no phone here? Radio? Stupid question. If we were smart we'd leave. Get to  a town. A sheriff station.
+KATHERINE	f	Mary's ceremony isn't over yet. The  Enemy Ghost Way. The alien spirit  hasn't been driven out.
+DAGGETT	m	Do you really believe in the ceremony?
+KATHERINE	f	Would you have believed in any of  this three days ago?
+DAGGETT	m	So we stay and dump the General's  soul.
+KATHERINE	f	You have the gun?
+DAGGETT	m	With one shot left. The spares -- -- And a change of clothing, are all  still at the hotel. We're going to have to come up with  something.
+KATHERINE	f	We could always ask him.
+LUCIFER	m	I always forget how cold it gets in  the desert.
+LUCIFER	m	Mr. Daggett, I presume. How's the  faith?
+LUCIFER	m	Come come, must you be so wishy-washy  about everything? With the absent- minded eagle scout, I can see that.  But you're looking at the devil man,  say something.
+DAGGETT	m	Fuck you.
+LUCIFER	m	Much better. Can I have some coffee?
+DAGGETT	m	Keep it.
+LUCIFER	m	I have come to remind you that the  winged party boys are just that:  spoiled boys. You are armed, however  pathetically, with the one thing  they never really understood:  theology. It's not much, but that's  life.
+DAGGETT	m	Is this supposed to be our "win one  for The Ripper" speech?
+LUCIFER	m	Don't press your luck, Mr. Daggett.
+LUCIFER	m	Go and get ready, Thomas.
+LUCIFER	m	Have you ever considered Katherine,  that the great absentee landlord,  the soft-eyed eagle scout your  childhood prayers are for, is just  using you? That you're only the  exterminator to get rid of his pests?
+LUCIFER	m	God's junkies are coming, Katherine.  And when they do, all hell is going  to break loose...
+GABRIEL	m	Say, Ma'am, any idea where I can  find Old Woman Butte?
+MADGE	f	It's on the reservation.
+GABRIEL	m	I don't suppose you could be just a  tad more specific. Madge.
+MADGE	f	Isn't your friend hungry?
+GABRIEL	m	Not for a while, I'm afraid. Funniest  thing.
+MADGE	f	Take 522 to the Sonsela Wash cut- off. First dirt road go left. Twenty,  twenty-five miles you'll see it.  Big, black and all alone.
+GABRIEL	m	I doubt we'll meet again.
+MADGE	f	Suits me.
+DAGGETT	m	You could always lend a hand.
+KATHERINE	f	He's coming.
+DAGGETT	m	Is there any way to speed this up?
+VILLAGER	m	No.
+DAGGETT	m	Lock the door.
+DAGGETT	m	Stay inside. It's only one round, so  make it count.
+GABRIEL	m	You'll like this, Rachael.
+GABRIEL	m	Nice move.
+GABRIEL	m	You ought to come work for us.  Upstairs. We sneak the odd civilian  in now and then, you know. You'd  like it. Nobody tells you when to go  to bed, can eat all the ice cream  you want. And you get to kill. All  day and all night. Just like an angel.
+GABRIEL	m	Save yourself, friend. Why go to the  wall with the bitch and her rug rat?  It'll all turn out the same anyway.  Here or in heaven, we're still gonna  tear the kid apart.
+DAGGETT	m	I'm not an angel, heaven or hell.  I'm a man you eyeless puke, which  means I have one thing you never  will. A soul. And though I may,  somewhere inside, believe in a God,  I will never, never, believe in you.
+GABRIEL	m	A little speechy today, aren't we? Okay pal, have it your way.
+GABRIEL	m	This is going to really, really hurt.
+DAGGETT	m	...You -- your war...
+GABRIEL	m	C'mon, son, out with it. Make this  one count.
+DAGGETT	m	Your war's a lie!
+GABRIEL	m	What?
+DAGGETT	m	Running around acting like this is  really about whether Christ is just  the son of God or if he is God.  Bullshit! That's not what this is  about at all, is it?
+GABRIEL	m	You're wrong.
+DAGGETT	m	Then prove it to me, Gabriel. I  studied three fucking years of  theology before I picked up a gun.  C'mon, you're chief goddamn angel,  I'm just a little man. Prove to me  Christ is just a son and less than  God. Prove it!
+GABRIEL	m	I don't have to.
+DAGGETT	m	Because you can't! Because this war  isn't about some obscure medieval  hangup. You're just jealous.
+GABRIEL	m	You're wrong!
+DAGGETT	m	Try me, Gabriel. Go on. Prove to me  the temporal nature of the Trinity.  Show me through logic how the Son of  the Word can be separated from the  Father. Fight me with philosophy,  Gabriel!
+GABRIEL	m	No!
+DAGGETT	m	Because you and your army are wrong!  And you know it. You knew it sixteen  centuries ago.
+GABRIEL	m	We don't have to listen to him! He's  just a son!
+DAGGETT	m	That's it. You're jealous. Jealous  He could love something more than  you...
+GABRIEL	m	Shut up...
+DAGGETT	m	If you wanted to know so badly,  Gabriel, why didn't you just ask  Him? Why didn't you just ask God?
+GABRIEL	m	Because He doesn't talk to us anymore!
+GABRIEL	m	Relax folks, it's just a soul.
+GABRIEL	m	I'm getting real tired of you.
+KATHERINE	f	Go to hell.
+GABRIEL	m	Heaven, darling. Heaven. At least  get the zip code right.
+KATHERINE	f	It's all the same, isn't it?
+GABRIEL	m	No. In heaven we believe in love.
+KATHERINE	f	And what do you love, Gabriel?
+GABRIEL	m	-- Cracking your skull.
+KATHERINE	f	That's all it is for you anymore,  Gabriel, isn't it? Just the killing  and the burning. You don't work for  God anymore. You don't fight for  love.
+GABRIEL	m	Shut up!
+GABRIEL	m	God loves you, Mary!
+KATHERINE	f	Finish it.
+KATHERINE	f	Finish it!
+KATHERINE	f	Go home.
+LUCIFER	m	No.
+LUCIFER	m	Please. Go on.
+GABRIEL	m	Oh man, this just isn't my day.
+LUCIFER	m	Long time.
+GABRIEL	m	The world's young, man.
+LUCIFER	m	And full of ambition.
+GABRIEL	m	This isn't your war.
+LUCIFER	m	But I remember the last one. Michael's  war.
+GABRIEL	m	You lost.
+LUCIFER	m	But lots of angels were with me.  every one followed their leader out  of heaven.
+GABRIEL	m	Yeah yeah, I was there, remember?
+LUCIFER	m	Except one. Oh, he was with me all  right. He hated the Eagle Scout.  Envied the power He gave to His Son.  But this angel never came out front  during the war. And when it ended he  thought maybe, maybe the Eagle Scout  didn't notice. So he laid low and  towed the company line till he could  start his own war. It was all just  jealousy.
+GABRIEL	m	You're dreaming.
+LUCIFER	m	But maybe He did notice. Maybe that's  why I'm here.
+GABRIEL	m	-- Stay away from me.
+LUCIFER	m	You've always been a part of me,  Gabriel. And now it's time to come  home.
+GABRIEL	m	Fuck you!
+GREY HORSE	m	The enemy spirit is gone.
+DAGGETT	m	Where?
+DAGGETT	m	More will come... To look for the  soul...
+KATHERINE	f	And they won't find it. Not in Mary.
+KATHERINE	f	Can you help him?
+VILLAGER	m	We have some bandages.
+KATHERINE	f	Are you all right, pumpkin?
+MARY	f	I'm okay.
+KATHERINE	f	It's going to be okay... We're all  going to be okay...
+KATHERINE	f	I can't quite bring myself to say  thank you.
+LUCIFER	m	I understand.
+KATHERINE	f	Then this is done.
+LUCIFER	m	Not necessarily. Maybe I like you.  Maybe I want you to come with me.
+LUCIFER	m	You owe me, Katherine. And you're  going to ask me to take you home.
+KATHERINE	f	No.
+LUCIFER	m	You will. You will because any other  way is going to be more awful than  you can imagine.
+KATHERINE	f	Are you threatening me?
+KATHERINE	f	Then you've picked the wrong person  this time. I've just about had it up  to here with ghosts. So you can put  away the horror movie sneer and the  K-Mart halloween eyes, because we  know you now. We know you all. And  if you want to force the issue then  go ahead because you're just another  angel to me. Take a look at your  buddy Gabriel. Then ask yourself, do  you really, really want to fuck with  us?
+LUCIFER	m	Perhaps another time.
+KATHERINE	f	I'm holding my breath.
+LUCIFER	m	Goodbye, Katherine. For now.
+MARY	f	Is he coming back?
+KATHERINE	f	I don't think so, honey... I don't  think so...
+SHERIFF	m	Is he going to live?
+DEPUTY	m	With any luck.
+SHERIFF	m	I thought I told you to give me a  call if anything snarled.
+DAGGETT	m	There wasn't a phone.
+SHERIFF	m	Hmmm.
+SHERIFF	m	This fella, Gabriel...
+DAGGETT	m	Yeah.
+SHERIFF	m	Gabriel what?
+DAGGETT	m	Just Gabriel.
+SHERIFF	m	Pretty violent guy, Gabriel. Even  for out here.
+DAGGETT	m	Yeah.
+SHERIFF	m	Caught up with him at the village?
+DAGGETT	m	He caught up with me.
+SHERIFF	m	What were you doing way up here?
+DAGGETT	m	Enemy Ghost Way for Mary Tsosie.
+SHERIFF	m	Indian stuff.
+DAGGETT	m	Yeah. Indian stuff.
+SHERIFF	m	Did you kill this Gabriel?
+DAGGETT	m	Maybe. I think so.
+SHERIFF	m	Don't have any idea where the body  is I suppose.
+DAGGETT	m	No.
+SHERIFF	m	Well, if he's alive he won't get far  out there. Us or the coyotes, it'll  be the same. I rang your office in LA. They don't  have a warrant out for a Gabriel. Or  anybody else in Arizona.
+DAGGETT	m	I hadn't gotten around to it.
+SHERIFF	m	Sort of an out of pocket thing.
+DAGGETT	m	Yes.
+SHERIFF	m	That woman lying at the bottom of  the arroyo, the one still in her  hospital gown, know anything about  that?
+DAGGETT	m	No.
+SHERIFF	m	Really.
+DAGGETT	m	Really.
+SHERIFF	m	This Gabriel was sure one busy dude.
+DAGGETT	m	Yes, he was.
+SHERIFF	m	You'll be going back to Los Angeles  now?
+DAGGETT	m	Yeah.
+SHERIFF	m	Don't hurry back.
+DEPUTY	m	Don't do much but breathe the next  few days. And get to a hospital.  You're going to need some serious  stitches.
+DAGGETT	m	Thanks.
+DEPUTY	m	Say hi to Hollywood for me.
+MARY	f	You look bad.
+DAGGETT	m	Thank you. I feel worse. They lean on you much?
+KATHERINE	f	Not really. I think they might have  even understood. One of them's related  to this clan. He'll give us a ride  back if we want.
+DAGGETT	m	Good. I think I've about run out of  hospitality with the sheriff's  department.
+KATHERINE	f	Do you think it's really over?
+DAGGETT	m	Till we die.
+KATHERINE	f	When I die, I want you with me.
+DAGGETT	m	I want that too.
+

@@ -1,0 +1,1134 @@
+HENRY	m	Smells good.
+DEBBIE	f	Sit down.
+HENRY	m	Wow. Thanks.
+DEBBIE	f	How was your night?
+HENRY	m	Good. How was yours?
+DEBBIE	f	Good.
+HENRY	m	This is great.
+HENRY	m	Your shift's at eight thirty?
+HENRY	m	You not eating?
+DEBBIE	f	I already did.
+HENRY	m	You okay?
+DEBBIE	f	Are you coming with me to Cindy and Bill's on Saturday?
+HENRY	m	Sure. What time?
+DEBBIE	f	For the baby shower.
+HENRY	m	Right.
+DEBBIE	f	Well, I don't want to go to Cindy and Bill's.
+HENRY	m	What?
+DEBBIE	f	I mean I want Cindy and Bill to come here.
+HENRY	m	Cindy and Bill are welcome here anytime.
+DEBBIE	f	Henry. Isn't it time...isn't it time for us?
+HENRY	m	You're talking about kids.
+DEBBIE	f	Of course I am.
+HENRY	m	Okay.
+DEBBIE	f	'Okay' you want kids?
+HENRY	m	I love kids.
+DEBBIE	f	Henry?
+DEBBIE	f	Do you still love me?
+HENRY	m	Of course I do.
+DEBBIE	f	Because I know you did once.
+DEBBIE	f	What happened, Henry?
+EDDIE	m	Henry Torne.
+HENRY	m	Eddie Vibes.
+EDDIE	m	So how you doin', man?
+HENRY	m	I'm okay. What's going on?
+EDDIE	m	Listen, I got a man down here.
+EDDIE	m	Mind if we come in for a second?
+DEBBIE	f	He's hot.
+JOE	m	(holding it in) I'm sorry.
+DEBBIE	f	You better come with me.
+EDDIE	m	Goddamn sausage at Pinwheels.
+HENRY	m	Yeah.
+EDDIE	m	So we're in a little bind, Henry. Got league playoffs in a half-hour and Joe's our first baseman. And he's not exactly game-ready as you can see...
+HENRY	m	Yeah.
+EDDIE	m	So, what do you say?
+HENRY	m	What do I say what?
+EDDIE	m	You feel like playing a little ball? Filling in for Joe?
+HENRY	m	It's November.
+EDDIE	m	Yeah. They keep the field in perfect shape.
+HENRY	m	Oh.
+EDDIE	m	So what do you say?
+EDDIE	m	Henry?
+EDDIE	m	Appreciate you driving, man.
+HENRY	m	So where's this game?
+EDDIE	m	Near Kaisertown. Like fifteen minutes.
+EDDIE	m	Pull up right over here. We gotta grab some beer money at that ATM.
+EDDIE	m	Just hang tight. We'll be right back.
+FRANK	m	Freeze!
+DETECTIVE	m	Henry, we know this wasn't your deal.
+DETECTIVE	m	All you have to do is give me those names. And you can go home. It's that simple.
+DETECTIVE	m	Come on. Why are you sticking up for these people? They're not your friends. You've got a wife. You've got a job... don't you care? All you have to do is say something.
+JUDGE	m	...the court sentences Henry Torne to four years in prison for the crime of Felony 1st Degree Armed Robbery.
+HENRY	m	Huh.
+MAX	m	I said what are you in for?
+HENRY	m	Bank robbery.
+MAX	m	Good. Clean. Simple. I like it.
+HENRY	m	But I didn't do it.
+MAX	m	Ah. Mistaken identity. A perennial favorite. Identities are just constructs, anyway. They're mistaken all the time.
+MAX	m	I'm Max.
+HENRY	m	Henry.
+MAX	m	Go on. Make yourself at home.
+HENRY	m	So...what are you in for?
+MAX	m	Life.
+MAX	m	Don't worry, you'll get used to it.
+MAX	m	Hurry up. We gotta go.
+MAX	m	Breakfast.
+MAX	m	`Monday is whole wheat bun-day.'
+MAX	m	What are you thinking about?
+HENRY	m	Nothing.
+MAX	m	You're thinking something. Let me guess. You're thinking, `How did I get here?'
+MAX	m	How do you think any of us got here?
+HENRY	m	I'm not sure.
+MAX	m	I'll tell you how. Because we committed crimes. But we committed to the wrong thing. You see that was our mistake. We didn't fulfill our potential, we got angry and we took it out on other people.
+MAX	m	See him?
+MAX	m	Hector. He wanted to be a doctor. He could've been, but he chose not to fulfil his potential, he chose not to commit to his dream. And now look at him. Bad choices, see.
+MAX	m	By the way, I recommend the potatoes.
+MAX	m	That's the real crime, Henry. Not committing to your dream.
+MAX	m	So what's yours?
+HENRY	m	My what?
+MAX	m	Your dream.
+HENRY	m	Not sure I ever had one.
+MAX	m	Never had a dream? What kind of a life is that?
+HENRY	m	I don't know. A pretty good one?
+MAX	m	Henry, you're in jail.
+MAX	m	But here's the good news. We got all this time to do. And time is a medium of exchange. You can buy things with it.MAX Knowledge. Self respect. Forgiveness. And in your case, you can figure out what your dream is.
+MAX	m	Your dream is your truth is your destiny.
+HENRY	m	I told you. I'm here by mistake.
+MAX	m	There are no mistakes.
+HENRY	m	What?
+MAX	m	But you're going to have to fight for that dream, Henry.
+HENRY	m	I am.
+MAX	m	You're at a crossroads now. There are going to be tests!
+HENRY	m	What tests?
+MAX	m	This is your moment. Whatever you do now defines you. Go get em!
+MAX	m	You did good, Henry.
+HENRY	m	I don't feel good.
+MAX	m	You're doing better than you feel.
+MAX	m	Go to sleep, Henry. Sleep is for the blessed.
+DEBBIE	f	Hi.
+HENRY	m	Hi. You look beautiful.
+DEBBIE	f	Thank you. How are you doing?
+HENRY	m	I'm okay. How about you?
+DEBBIE	f	I'm good.
+DEBBIE	f	Listen, Henry. I have something I need to talk to you about.
+HENRY	m	Okay.
+DEBBIE	f	I fell in love.
+HENRY	m	Oh.
+DEBBIE	f	I just...I mean it just happened.
+HENRY	m	Okay. Wow...
+DEBBIE	f	I'm sorry, Henry.
+HENRY	m	It's alright.
+DEBBIE	f	You're not mad?
+HENRY	m	No.
+HENRY	m	I want you to be happy.
+DEBBIE	f	You too, Henry.
+MAX	m	I ever tell you I was married?
+MAX	m	I mean nearly. I had a lovely correspondence going with Jocelyn Steinberg in Utica. Problem was when she finally came on visitor's day she said I was too short.
+HENRY	m	Books and covers.
+MAX	m	Right. Books and covers.
+MAX	m	Clean as a whistle.
+FINK	m	(checking himself out) Max, I think you missed your calling.
+MAX	m	Thank you. Who do we got next, Henry?
+HENRY	m	Hector. You're up.
+HECTOR	m	Hey, Max. When are you up for parole?
+MAX	m	October.
+HECTOR	m	Show us what you did for the board last time.
+MAX	m	I'm working.
+OTHER INMATES	m	Show us!
+MAX	m	Leave me alone.
+INMATES	?	Come on! Show us.
+MAX	m	All right, so I'm sitting there, and the head of the board asks me what I'm going to do if they let me out this time. And, so...
+MAX	m	I get this twitch! and then I give him my answer: "I'm gonna break in your house, set your dog on fire, eat all your food, go on a naked rampage through your garden, dance in the streets of your l'il hometown like a crazed harpee, hurl myself headlong flaming through the ethereal sky like God's blackest angel and explode like a goddamn heavenly fireball!
+MAX	m	Oh, yeah. You don't want ME. You don't want THIS. Not out THERE.
+MAX	m	Believe me, I'm not going anywhere.
+HECTOR	m	Hey, White Shadow. When's your review coming up?
+HENRY	m	Next month.
+HECTOR	m	You gonna do the twitch like your cellie?
+HENRY	m	Nope.
+HECTOR	m	What, you don't like it around here?
+MAX	m	Everyone knows Henry's innocent.
+HECTOR	m	The board don't like it when you deny the crime.
+HENRY	m	I didn't do the crime.
+HECTOR	m	Hey, but you got the time...so you may as well have done it.
+MAX	m	I like it! `You got the time, so you may as well have done the crime!'
+MAX	m	Now that's funny, Henry.
+HENRY	m	Yeah, you're right.
+HENRY	m	You know you never did tell me what your dream was, Max.
+MAX	m	I'm living it.
+HENRY	m	Really?
+MAX	m	Sure! It's easier to live in here. You don't have to do anything. You just show up. In fact they even do that for you. I'm living the life.
+HENRY	m	This place is horrible, Max.
+MAX	m	So why didn't you just say something?
+HENRY	m	When?
+MAX	m	Back then. When you had the chance. When you were still innocent.
+HENRY	m	I thought maybe this was my way out.
+MAX	m	And was it?
+HENRY	m	Yeah.
+MAX	m	See. There are no mistakes.
+MAX	m	You got everything, kid?
+HENRY	m	Yeah.
+HENRY	m	Maybe you should think about getting out of here sometime. I'll buy you a cup of coffee on the outside.
+MAX	m	The only thing I've ever missed in twenty three years is a hot bath. And that ain't worth walking out of here for.
+MAX	m	Don't forget. Your dream is your myth is your truth.
+HENRY	m	I thought it was my dream is my truth is my destiny.
+MAX	m	Just testing.
+HENRY	m	I'm going to miss you.
+MAX	m	Yeah, well. I hope I never see you again.
+HENRY	m	I'm still gonna miss you.
+MAX	m	Get out of here, Henry.
+JOE	m	Henry. How you doing?
+HENRY	m	Hey.
+JOE	m	Debbie! Henry's here. Come on in. Make yourself at home.
+HENRY	m	Thanks.
+JOE	m	Don't mind me. I'm just getting set up for my meeting. You want a beer?
+HENRY	m	Sure.
+JOE	m	Honey, do mind getting Henry a beer?
+DEBBIE	f	Hi.
+HENRY	m	Hi.
+DEBBIE	f	I think that's everything you wanted.
+HENRY	m	Thanks.
+HENRY	m	Are you happy?
+DEBBIE	f	I am, Henry.
+HENRY	m	I'm glad.
+DEBBIE	f	So what are you going to do now?
+HENRY	m	I don't know yet.
+JOE	m	Honey, they're starting to arrive.
+DEBBIE	f	We're having a meeting. It's his new business.
+JOE	m	Hey, maybe you'd be interested, Henry. You could become a distributor for Jin Chi.
+JOE	m	It's Korean kitchenware. The future of food storage. Plus, if you recruit distributors, you get paid even more.
+HENRY	m	You mean like a pyramid scheme?
+JOE	m	No! God, no. It's a multi-layered marketing paradigm. Anyway, why don't you give it some thought?
+JOE	m	Henry.
+HENRY	m	Yeah?
+JOE	m	Listen, I just wanted to thank you. For not giving up my name.
+HENRY	m	I don't know your name.
+JOE	m	Sure you do. It's Joe.
+HENRY	m	Right. You're welcome Joe. I'll see you Deb.
+DEBBIE	f	Take care of yourself, Henry.
+NEIGHBOR	m	Henry! How are you?
+HENRY	m	I'm good. How are you?
+NEIGHBOR	m	Great. How was Greece?
+HENRY	m	Greece?
+NEIGHBOR	m	Debbie told us all about your trip.
+HENRY	m	I was in prison.
+NEIGHBOR	m	In Greece?
+PRETTY BLOND	f	Take a chance on life, take a chance on Buffalotto!
+HENRY	m	Good. Thank you.
+HENRY	m	About what?
+HENRY	m	Sure. Sounds good.
+HENRY	m	Thanks.
+HENRY	m	It does? How does it feel?
+HENRY	m	Good.
+JULIE	f	What are you doing? What the fuck are you doing? Are you okay? (into cell phone) Stan. I gotta call you back! I just ran someone over. No, he looks okay.
+JULIE	f	You idiot, you weren't even looking where you were going! Are you okay?
+HENRY	m	I think I'm okay.
+JULIE	f	No. Stay on the ground.
+FRANK	m	Is he alright? Don't get up. I'll call an ambulance.
+HENRY	m	No, don't. (Starts to stand) I think I'm okay.
+FRANK	m	You!
+HENRY	m	Yeah. Me.
+JULIE	f	(to Frank, confused) Is he alright?
+FRANK	m	Are you alright?
+HENRY	m	Yeah. Fine.
+JULIE	f	He just walked right out into the street. He came out of nowhere.
+FRANK	m	I saw the whole thing. You were on the phone. You weren't even paying attention.
+JULIE	f	Yes. I was. I know how to drive.
+JULIE	f	What are you doing? Get back on the ground!
+FRANK	m	Park your car. I'm going to take him into that cafe.
+FRANK	m	They let you out, huh.
+HENRY	m	Yeah.
+FRANK	m	Let's get you a seat in here.
+FRANK	m	Pierre! Une Verre d'eau.
+HENRY	m	Thanks.
+JULIE	f	Did you call an ambulance? I'm calling an ambulance.
+HENRY	m	It's okay. I really am fine.
+FRANK	m	Yeah. He's alright for a guy who just got run over. (sucks his teeth) Lucky I guess.
+JULIE	f	I think we should call a doctor.
+JULIE	f	What? Are you okay?
+JULIE	f	Hello, guy? Are you okay? Do you need a doctor?
+HENRY	m	No. You look familiar.
+JULIE	f	What?
+JULIE	f	Oh. That.
+HENRY	m	What?
+JULIE	f	'Take a chance on life, take a chance on Buffa-lotto'?
+HENRY	m	Oh, that's why.
+JULIE	f	Well, I guess you seem to be okay.
+HENRY	m	Yeah. I'm okay.
+JULIE	f	Okay. So you're okay?
+HENRY	m	Yeah.
+JULIE	f	Great. So I can go now?
+HENRY	m	Sure.
+JULIE	f	Bye. And be more careful.
+HENRY	m	Thanks.
+WAITRESS	?	Anything else I can get you?
+HENRY	m	A bathroom?
+MAX	m	I thought I told you I didn't want to see your face again.
+HENRY	m	Nice to see you too.
+GUARD	m	No contact.
+HENRY	m	I figured it out.
+MAX	m	What?
+HENRY	m	My destiny.
+MAX	m	Good. What is it?
+HENRY	m	The bank.
+MAX	m	The bank is your destiny?
+HENRY	m	Yeah.
+MAX	m	What bank?
+HENRY	m	The one I didn't rob.
+MAX	m	But you went to jail for it.
+HENRY	m	Exactly.
+MAX	m	What are you talking about Henry?
+HENRY	m	I did the time, I may as well have done the crime.
+MAX	m	Ah, that. Time. Crime. Right. I still don't get it.
+HENRY	m	I need your help.
+MAX	m	What for?
+HENRY	m	To rob the bank.
+HENRY	m	So what do you say?
+MAX	m	I'm in Jail. That's what I say.
+HENRY	m	You've got your review coming up --
+MAX	m	-- So?
+HENRY	m	So you can get of here. If you want to.
+MAX	m	No. It's not as simple as that.
+HENRY	m	Yes, it is.
+MAX	m	No, it's not.
+HENRY	m	Yes. It is.
+MAX	m	No, it's not.
+MAX	m	I'm happy here. This is my home.
+HENRY	m	This is not a home. This is a prison.
+MAX	m	Whatever you want to call it, I'm happy here.
+HENRY	m	Max. You can't die in this place.
+MAX	m	I can die wherever I want.
+HENRY	m	You really want to die here?
+MAX	m	What do you want, Henry?
+HENRY	m	I'm asking for your help.
+MAX	m	To rob that bank?!
+HENRY	m	I've thought about it. It's the right thing. For both of us.
+MAX	m	Henry. I got cards.
+MAX	m	Great to see you, kid.
+HENRY	m	Max!
+JULIE	f	(as Madame Ranevsky) I think I must be dreaming. God Knows I love my country. I love it deeply. I couldn't see out the train window I was crying so much. But...I must drink my coffee...thank you Firs, thank you, you dear old man. I'm so glad to find you still alive. I just want you to believe in me like the old days. I just want your wonderful tender eyes to look at me like they did
+DAREK	m	Stop! Stop!
+DAREK	m	Too small, too safe! Stop showing me your `safe face' --
+ARNOLD	m	-- But I was --
+DAREK	m	Not you. You're doing the best you can. You.
+DAREK	m	What are you doing?
+JULIE	f	I'm...listening.
+DAREK	m	Listening? You look like you're hearing. To hear is to be weak. To listen is to be strong. To listen is an action.
+DAREK	m	What is that?
+JULIE	f	An action. I'm listening. Is this what you mean, Darek? Is this what you want?
+DAREK	m	No, Djula.
+JULIE	f	Then what do you want?
+DAREK	m	I want you to be more. I want you to be better than that.
+DAREK	m	Now go drink coffee. And don't think about what I want, think about what you want!
+JULIE	f	Fine. I'll go drink coffee.
+DAREK	m	I'll go drink coffee too! Let's all `go drink coffee'. Ten minutes everyone! (to his Eastern European
+ASSISTANT)	?	Olga! Coffee. Coffee for everyone. We'll all have coffee Djula! Every single one of us! And think about what we want!
+JULIE	f	What are you doing here?
+JULIE	f	Are you here to sue me?
+HENRY	m	No.
+JULIE	f	Then what are you doing here?
+HENRY	m	I saw your picture outside. The door was open. I came in.
+HENRY	m	Is it always like that?
+JULIE	f	What?
+HENRY	m	(gesturing back to the
+THEATRE)	?	That.
+JULIE	f	You mean rehearsal?
+HENRY	m	Yeah.
+JULIE	f	It's a process.
+HENRY	m	Looks complicated.
+JULIE	f	It's all pain. Chekhov, right?
+HENRY	m	I thought you were listening.
+HENRY	m	I'm Henry by the way.
+JULIE	f	Julie.
+PIERRE	m	Madame Julie!
+JULIE	f	Coffee, Pierre.
+JULIE	f	You want one?
+HENRY	m	Sure.
+JULIE	f	Two.
+JULIE	f	What?
+JULIE	f	So what do you think?
+HENRY	m	Doesn't look like you.
+JULIE	f	No, I meant the poster.
+HENRY	m	Oh. It's funny.
+JULIE	f	Actors on a tree is funny?
+HENRY	m	Yeah.
+JULIE	f	That's the director's joke.
+JULIE	f	He's making a comment on the American culture. Actors faces as falling fruit. Birth, death, the consumption of the ID.
+JULIE	f	To him, the American dream has become the world's nightmare. "You are the country of apocalypse." That's what he told us on the first day of rehearsal, anyway.
+HENRY	m	Oh.
+JULIE	f	The irony is, he loves the American dream. I mean that's why he's here, right? But I know for a fact he hates himself for loving it. It's always an inside job, isn't it?
+HENRY	m	Yeah. I guess.
+JULIE	f	But the truth is I wasn't listening. I was playing it safe. He was right. The jerk. About that, anyway...
+JULIE	f	You know the Cherry Orchard was Chekhov's last play. He was dying when he wrote it.
+JULIE	f	It's perfect.
+HENRY	m	Why?
+JULIE (CONT'D	f	It's my last play too. Here in Buffalo.
+HENRY	m	You're leaving?
+JULIE	f	Right after we're done. I'm glad you came by. Thanks for not suing me. I'll see ya.
+INMATE	m	Hey Barber, tomorrow lunch, right?
+MAX	m	Right.
+ANOTHER CONVICT	m	Give `em hell!
+MAX	m	I always do, Felipe!
+GUARD	m	Morning, Max. Here we are again.
+MAX	m	How's your grandson?
+GUARD	m	Just started first grade.
+MAX	m	That's great. The socialization begins!
+GUARD	m	How many more of these you think you got in you, Max?
+MAX	m	As many as it takes. Mr. Saltzman. Could you please tell the board why you believe we should grant you parole? Come on, Mr. Saltzman, what have you got for us this time? (o.s.) Mr. Saltzman?
+MAX	m	Well...
+HENRY	m	I knew you could do it.
+MAX	m	Where's the car?
+HENRY	m	I don't have a car.
+MAX	m	You don't have a car? What's wrong with you? You came to pick me up without a car. That's not picking a person up.
+HENRY	m	Yes, it is. I'm here. I'm picking you up.
+MAX	m	I don't know about this. Maybe this is a mistake.
+MAX	m	Dave! Carl!
+HENRY	m	Max, it's okay. You're free.
+MAX	m	Open up! DAVE!
+HENRY	m	Come on, Max.
+MAX	m	I don't like this.
+HENRY	m	Take it easy. There's nothing to be frightened of. I promise. You're okay. The bus station's just a short walk.
+MAX	m	I can't breathe. I -- can't breathe...
+HENRY	m	You're going to be alright.
+MAX	m	(nearly on his knees) I'm going to die right here. I told you!
+HENRY	m	Come on, Max, we're going to miss that bus.
+HENRY	m	You hungry?
+HENRY	m	It's pastrami. On rye.
+HENRY	m	Here we are.
+HENRY	m	That one's yours.
+MAX	m	Thanks.
+HENRY	m	Anything else you need?
+MAX	m	Yeah.
+MAX	m	(reads the label) Ah. The land of milk and honey.
+MAX	m	What is this obsession with coffee, Henry? When did that happen?
+HENRY	m	I'm not sure, Max. But it seems to give people a lot of purpose.
+MAX	m	Oh my God. Are you kidding? This was eighty years ago. It's ridiculous. Oh my God. That tunnel's probably not even there anymore! Are you dreaming, Henry?
+HENRY	m	It's a start.
+MAX	m	A start? This was your plan? An old cartoon in a pissoir?
+HENRY	m	It's an article.
+MAX	m	Whatever, Henry. Why don't we just go in with guns and do it the old-fashioned way?
+HENRY	m	No. No guns.
+MAX	m	What?
+HENRY	m	Someone could get hurt.
+MAX	m	That's sweet, kid.
+HENRY	m	(the tunnel photo) Maybe it's still there, Max.
+MAX	m	Uh-huh.
+HENRY	m	Maybe it is.
+MAX	m	Right. Okay. Yes. First things first. Why don't we go take a look at this bank of yours? At least we know that's still there.
+MAX	m	Money is a mistress with a hard heart.
+MAX	m	I'd like to speak to your manager please. I'm interested in opening an account.
+MAX	m	What kind do you have?
+MAX	m	You know my uncle put all his money in that vault when I was a kid, after we came from Europe, before the war...the Brownshirts. He said that vault will be there for three hundred years!
+MAX	m	He was never wrong. How long's it been there already Mr. Tuttle?
+MAX	m	And in the very same spot, correct? See, my boy!. History. It's all about history.
+MAX	m	You'll have to give us some time to think about which one.
+MAX	m	Thank you. You've been very helpful. No. Thank you.
+FRANK	m	Have a nice day, gentlemen.
+HENRY	m	The vault is here.
+HENRY	m	The tunnel runs under here...
+HENRY	m	And ends up somewhere in there.
+MAX	m	It's virtually robbing itself!
+JULIE	f	Jesus...goddamn! Goddamn Czech Chekhov shit!
+HENRY	m	(rubbing his head) Hi.
+JULIE	f	Jesus. Henry?
+HENRY	m	Julie, Max. Max, Julie.
+MAX	m	Hiya.
+JULIE	f	What are you doing here?
+HENRY	m	Oh, we were, you know --
+MAX	m	I was just showing Henry the place I used to perform.
+JULIE	f	Oh. What?
+SIMON	m	That's lunch, Julie.
+JULIE	f	Thank God.
+MAX	m	Chekov's tough stuff. It takes a steel stomach.
+JULIE	f	You know Chekhov?
+MAX	m	Of course. Apart from Gorbachev he's my favorite Russian.
+MAX	m	Would you mind if we took a look around? It's been over thirty years since I've been inside.
+JULIE	f	Sure.
+JULIE	f	Sure. Yeah. Come on in.
+MAX	m	Thank you.
+HENRY	m	How you doing?
+JULIE	f	Great. I'm in hell.
+MAX	m	Home again.
+JULIE	f	So what productions were you in?
+MAX	m	Oh. Shakespeare, Ibsen, Mahoney, the greats. And the not-so-greats!
+SIMON	m	Mary wants to fit your wig at four. Darek says to stay hungry.
+JULIE	f	Fuck him.
+SIMON	m	Got it.
+MAX	m	Would it be a tremendous imposition to have a little tour for old time's sake?
+JULIE	f	He used to perform here.
+SIMON	m	I don't see why not. We're on a break.
+MAX	m	That okay, Henry?
+HENRY	m	Sure. Go ahead.
+JULIE	f	Is that your dad?
+HENRY	m	No. He's a friend.
+JULIE	f	He seems like your dad.
+HENRY	m	It's peaceful out here.
+HENRY	m	Is it fun?
+JULIE	f	What?
+HENRY	m	Pretending to be other people.
+JULIE	f	It's not really like that. I don't pretend to be someone else. I find some part of me, and reveal it in a new way...just inside of a character.
+HENRY	m	So, in a way, you're still playing `you'.
+JULIE	f	Yes. Exactly. In a way.
+HENRY	m	So what part of `you' are you playing now?
+JULIE	f	That's the question you always have to ask yourself.
+MAX	m	Ah, the inner sanctum. The magic before the magic! I remember it like it was yesterday.
+ARNOLD	m	People often make the mistake in Chekhov of going down...but you must always always go up...
+MAX	m	Simon, did you know there used to be a speakeasy down here during prohibition days?
+SIMON	m	Yes. And they hid the booze in the bank!
+MAX	m	I know.
+SIMON	m	And there was a tunnel too!
+MAX	m	I know! I forget. Where was it?
+JULIE	f	So what's your story, Henry?
+HENRY	m	My story?
+JULIE	f	I mean, like...what do you do?
+HENRY	m	I'm figuring that out.
+JULIE	f	Does that mean you don't have a job?
+HENRY	m	I just got out of jail.
+JULIE	f	Jail!
+HENRY	m	Sounds worse than it is.
+JULIE	f	Really? Jail sounds bad. Why were you in there?
+JULIE	f	Are you a murderer or something?
+HENRY	m	No. Do I look like one?
+JULIE	f	No.
+HENRY	m	What do I look like?
+JULIE	f	I don't know. A criminal.
+HENRY	m	I do?
+JULIE	f	Yeah.
+SIMON	m	We got to be quick. Arnold doesn't like people in his dressing room.
+SIMON	m	It was right here.
+MAX	m	Booze, broads and lucre. The good old days. I like it.
+SIMON	m	They filled it in, in 1931 when they built the theatre.
+SIMON	m	Times have changed.
+MAX	m	All good things must come to... (he hits a hollow spot) ...an end.
+MAX	m	Do you need volunteers?
+HENRY	m	The Cherry Orchard. (leafing through it) So what happens? What's it about? Is it funny?
+JULIE	f	A woman returns to her family estate in the Russian countryside and realizes she has no choice but to sell her beloved Cherry Orchard, the magical place of her youth, the only place she ever felt safe.
+HENRY	m	I guess it's not funny.
+JULIE	f	It's about being forced to let go of the past and create a new life in order to survive.
+MAX	m	Thank you, Julie. And thank you, Simon. I'll see you tomorrow.
+JULIE	f	Tomorrow?
+SIMON	m	Max has very kindly offered to volunteer at the theatre!
+JULIE	f	Oh.
+MAX	m	Henry, let's get out of these people's way!
+HENRY	m	What are you doing after rehearsal?
+JULIE	f	Why?
+HENRY	m	Do you like Chinese?
+JULIE	f	Yeah.
+HENRY	m	Golden Dragon?
+JULIE	f	It's okay.
+HENRY	m	Eight o'clock?
+JULIE	f	Sure.
+DAREK	m	Work. Work! It's time to work Americans! Even you Djula...
+MAX	m	Let's go.
+HENRY	m	See you, Julie.
+JULIE	f	Stay out of jail.
+MAX	m	You were right, Henry. You got a nose like a bloodhound!
+HENRY	m	You found it?
+MAX	m	Yeah. Right there. In Lophakin's dressing room.
+HENRY	m	Who?
+MAX	m	Lophakin. We find a way to get into his dressing room and we're right as rain!
+MAX	m	I can see it, Henry. It's all in front of me. The vault. The bank. The tunnel. The pieces of the puzzle are on the table. All we got to do is put them in the right order! The only thing is the dirt...where does the dirt from the tunnel go?
+HENRY	m	What about the vault?
+MAX	m	First things first. I'm on the dirt.
+HENRY	m	Okay. How do I look?
+MAX	m	Like Henry. We had a good day, Kid. It's good to be back in the soup.MAX (he starts to take off his
+CLOTHES)	?	Go have a nice supper.
+JULIE	f	Sorry I'm late. I'm starving.
+GUY	m	Julie.
+JULIE	f	Bruce.
+JULIE	f	That guy's a total dick. Hi, Henry.
+HENRY	m	Hi. How was rehearsal?
+JULIE	f	I feel like duck.
+JULIE	f	I don't just want to be good, I want to be great. And I don't just want to be great in Buffalo.
+HENRY	m	Where then?
+JULIE	f	Don't laugh. Hollywood.
+HENRY	m	I guess that's where people go.
+JULIE	f	I don't want my legacy to be a Buffalotto commercial. And it's not going to be. Soon as this thing is done I'm out of here. Before it's too late.
+HENRY	m	Sounds like a plan.
+JULIE	f	I hate fortune cookies.
+HENRY	m	We going anywhere in particular?
+JULIE	f	(hits the joint) Want some?
+JULIE	f	You know there's a whole bunch of bodies down there churning around. Just caught in the current. They all took the risk and look what happened to them. Same in death as they were in life. Imagine that. You kill yourself and nothing changes.
+JULIE	f	All those dreams churning around down there. It makes you sick. I got to get out of here.
+HENRY	m	I get it.
+JULIE	f	So what did you do before jail, Henry?
+HENRY	m	I worked at a toll booth.
+JULIE	f	Which one?
+HENRY	m	Rainbow bridge.
+JULIE	f	No!
+HENRY	m	Yes.
+JULIE	f	I had family that used to live on the other side. I took that bridge all the time. We must of met a hundred times!
+JULIE	f	Wow. So you were one of the guys in the tollbooth with those weird rubber gloves?
+HENRY	m	Yeah.
+HENRY	m	What's so funny?
+JULIE	f	You were watching everyone go somewhere and you were going nowhere.
+HENRY	m	That's funny?
+JULIE	f	Yeah. Funny sad, not funny funny.
+HENRY	m	I worked nights. It gave me time to think.
+JULIE	f	About what?
+HENRY	m	About where I wasn't going.
+JULIE	f	See, that's funny. What about now? Where you going now?
+HENRY	m	I'm working on it.
+JULIE	f	What'd they send you to jail for Henry?
+HENRY	m	For trying to rob the First Buffalo Bank.
+JULIE	f	What!
+HENRY	m	I thought I was on my way to a softball game. It was a mistake.
+JULIE	f	Sounds like it.
+HENRY	m	But now I'm going to rob it for real.
+JULIE	f	You're going to rob the bank you already went to jail for robbing?
+HENRY	m	Yeah.
+JULIE	f	Ha!
+HENRY	m	There's a tunnel.
+JULIE	f	What tunnel?
+HENRY	m	Runs from the bank to the theatre.
+JULIE	f	My theatre?
+HENRY	m	Yeah.
+JULIE	f	Ha!
+JULIE	f	You're fucking hilarious, Henry.
+HENRY	m	Thank you.
+JULIE	f	You know what?
+HENRY	m	What?
+JULIE	f	I'm hungry.
+HENRY	m	What for?
+JULIE	f	(as the thought occurs) Ice cream.
+JULIE	f	I can't believe I'm sitting here.
+HENRY	m	Neither can I.
+JULIE	f	I want to dance and clap my hands.
+JULIE	f	I think I must be dreaming!
+JULIE	f	God knows I love my country. I love it deeply.
+JULIE	f	I couldn't see out the train window I was crying so much.
+JULIE	f	Page twenty one.
+JULIE	f	I couldn't see out the train window I was crying so much. But I must drink my coffee. Read Lophakin.
+HENRY	m	`I have to go to Kharkov on the five o'clock train. Such a bother, I wanted to stay and look at you and talk to you. You're as wonderful as ever....'
+JULIE	f	Read the next line!
+HENRY	m	`Even more beautiful, and dressed like a Parisian...you could blow me down.'
+JULIE	f	Say it like you feel it. Like it's real. Say it to me.
+`HENRY	?	Even more beautiful, and dressed like a Parisian...you could blow me down.'
+JULIE	f	You're good. Keep reading! And get up. Walk around!
+HENRY	m	`Your brother says I'm an upstart, a money-grubber.'
+JULIE	f	Yes, you are. You're a bank robber, Henry!
+HENRY	m	(the text again) `I don't care a bit. I just want you to believe in me like the old days!'
+JULIE	f	(pulling him around the room) Don't stop --
+HENRY	m	`I just want your wonderful tender eyes to look at me like they did then.'
+JULIE	f	Again!
+HENRY	m	`I just want your wonderful tender eyes to look at me like they did then.'
+JULIE	f	I'm glad I ran you over.
+HENRY	m	Me too.
+JULIE	f	Good morning.
+HENRY	m	Good morning.
+HENRY	m	Good morning.
+MAX	m	Henry!
+MAX	m	(pulling up his boxers) I figured it out! Once we're in that dressing room the dirt from the tunnel goes out through the roof!
+MAX	m	(rushing out into the front
+ROOM)	?	That bank doesn't stand a chance.
+MAX	m	Ah. Company.
+JULIE	f	Good morning, Max.
+HENRY	m	It's alright. She knows.
+MAX	m	She does?
+JULIE	f	I didn't know the dirt from the tunnel goes out through the roof.
+HENRY	m	We brought breakfast. How do you like your eggs?
+JULIE	f	It's okay. I'm not going to tell anyone.
+MAX	m	Hold on.
+MAX	m	You told her? About what we're doing?
+HENRY	m	Yeah. I did.
+MAX	m	It's a crime. You're supposed to keep crimes a secret.
+HENRY	m	It's okay, Max.
+MAX	m	No. It's not kosher.
+HENRY	m	How do you like your bacon?
+MAX	m	Crispy.
+MAX	m	Okay. I'll get dressed.
+JULIE	f	So what were you in prison for, Max?
+MAX	m	I'm a confidence man.
+JULIE	f	You mean a `con' man?
+MAX	m	I never liked that word. It's only half of what it is. The word confidence comes from the latin. Fides. With Faith. Belief. That's what I'm about.
+JULIE	f	You mean you make people feel good...and then you rip them off?
+MAX	m	Yes.
+MAX	m	But I was always much better at the feeling good part than the ripping off part. Hence, the prison.
+JULIE	f	Aren't you guys worried about getting caught?
+MAX	m	Not really. For me it's a win-win situation.
+JULIE	f	How?
+MAX	m	I like jail. Three hots and a cot.
+JULIE	f	You too, Henry? You like jail?
+HENRY	m	No. I like it out here.
+JULIE	f	So why would you take the risk? Is it the money?
+JULIE	f	It must be the money.
+JULIE	f	You are a criminal. A greedy little criminal.
+HENRY	m	(washing the plates) `Your brother Leonid says I'm an upstart, a money grubber... ...but I don't care a bit'.
+HENRY	m	`I just want you to believe in me like the old days.'
+JULIE	f	You remember!
+MAX	m	What is that?
+JULIE	f	It's Chekhov!
+MAX	m	Chekhov?!
+HENRY	m	We read it last night.
+JULIE	f	You really are good. He's a natural.
+MAX	m	I thought you were on a date.
+HENRY	m	We were.
+MAX	m	Reading Chekhov's a date?
+HENRY	m	Yeah.
+JULIE	f	I got to get to the theatre --
+MAX	m	Can you give me a ride there?
+JULIE	f	Why?
+MAX	m	I'm a volunteer!
+JULIE	f	You weren't in any of those plays, were you?
+MAX	m	No. But can you give me a ride?
+JULIE	f	All white! All White! Oh, my Cherry Orchard. After the dark, stormy autumn and the winter frosts you are young again and full of happiness; the heavenly angels have never abandoned you...JULIE Oh, if only I could be free of the stone that weighs me down! If only I could forget my past!
+GAYEV	?	Yes and now the orchard will be sold to pay our debts, which seems impossible...
+JULIE	f	Look! It's mamma walking in the orchard...in a white dress! (laughing with joy) There she is.
+GAYEV	?	Where?
+VARYA	f	Momma, don't!
+MAX	m	This is driving me crazy.
+HENRY	m	What?
+MAX	m	We could be digging right now!
+HENRY	m	We could?
+MAX	m	If we were in that dressing room.
+HENRY	m	It's rehearsal. There are people everywhere.
+MAX	m	This is pissing me off.
+HENRY	m	What?
+MAX	m	I got an idea.
+HENRY	m	What?
+MAX	m	You have to be Lophakin!
+HENRY	m	What?
+MAX	m	If you did we'd be able to get into that tunnel whenever we want.
+HENRY	m	I'm not an actor.
+MAX	m	You're not a bank robber either! And you're doing that.
+HENRY	m	Max. Come on.
+MAX	m	She said you were a natural. That means you can do it.
+HENRY	m	No, it doesn't.
+MAX	m	Yes, it does Henry. You ARE Lophakin! A man who came from nothing. A man who's not afraid to create a new life. A man who's in love with her!
+MAX	m	Your dream is your truth is your destiny!
+HENRY	m	I can't be Lophakin. They have a Lophakin.
+MAX	m	What if they didn't?
+HENRY	m	There has to be another way.
+MAX	m	Kid, You forced me out of jail to help you. And I'm going to goddamn help you. But you got to help me help you. Now I need to know... (a fierce stare) ...do you want this bank or not?
+HENRY	m	Yes. I want it.
+HENRY	m	Then you're gonna be Lophakin!
+ARNOLD	m	Good morning, everyone!
+ARNOLD	m	You knew this day would come. You deserve this, lubya.
+DAREK	m	Unprofessional shit!
+ARNOLD	m	Mr. Millodragovich --
+DAREK	m	Shit!
+MAX	m	What's happening?
+JULIE	f	Arnold's leaving the production.
+MAX	m	Oh. Gosh.
+ARNOLD	m	But I have no choice it's Willie Lohman we're talking about! (brandishing the letter) A Ken Waterstone production!
+DAREK	m	OOOH-LA-LA! A Ken Waterstone production. The heaven's have opened. You lucky boy.DAREK Run, run, to that pandering, populist, piece-of-shit-Waterstone and his spineless productions! You're perfect for it.
+ARNOLD	m	Good-bye, Darek. I'm sorry.
+DAREK	m	Simone! I need a new Lopakhin. Now. I'm dying, Olga! Cigarettes! Cigarettes NOW! And COFFEE!
+SIMON	m	We'll hold auditions this afternoon, Darek! I'll get the list --
+DAREK	m	I've seen that shit-list! It's a disaster.
+SIMON	m	What do we do?
+DAREK	m	I must think.
+DAREK	m	Djula! Your orchard cannot be felled before she has a chance to grow.
+JULIE	f	Perfect.
+MAX	m	It is Ken Waterstone.
+JULIE	f	Yes, Stan, yes! I know it's bullshit but that's what's happening... I don't know, he's `thinking'...
+JULIE	f	What?
+JULIE	f	Sorry, I can't give you a ride --
+MAX	m	You said he was a natural.
+JULIE	f	Stan. Let me call you back. (she hangs up, to Max) What?
+MAX	m	Henry.
+JULIE	f	Henry what?
+MAX	m	Henry would be perfect for it.
+JULIE	f	Perfect for what?
+MAX	m	For Lophakin.
+JULIE	f	You mean Henry should play Lophakin?
+MAX	m	Yes.
+JULIE	f	He's not even an actor!
+MAX	m	Exactly. He'd be playing himself. (off her shocked look) Think about it Julie! He is Lophakin.MAX A man who came from nothing. A man who's not afraid to create a new life and put his past behind him. A man who's in love with you...Madame Ranevsky.
+JULIE	f	Why do I feel like the earth is suddenly shifting under my feet?
+MAX	m	Fact is you need a Lophakin and Lophakin needs a dressing room. Can you get him in to see Darek?
+JULIE	f	What's going on here, Max? What are you doing?
+MAX	m	Nothing.
+JULIE	f	You made this happen, didn't you?
+MAX	m	Sometimes a good guy needs a less good guy to help the good guy be good.
+MAX	m	Fair enough.
+JULIE	f	What am I supposed to do now?
+MAX	m	He just needs a shot. One audition. Let the chips fall where they may.
+JULIE	f	What if it doesn't work?
+MAX	m	They'll get someone else.
+MAX	m	Give him a shot. One shot. That's all I'm asking, Julie.
+JULIE	f	Okay, confidence man.
+DAREK	m	...you've never had any training...you've never been in a production...you don't even know the play...
+HENRY	m	I read it. I think I know the scene.
+DAREK	m	Think.
+DAREK	m	Start.
+HENRY	m	`Your brother , Leonid Andrevich...'
+DAREK	m	How can you perform Chekhov and not be able to say AND-REY-E-VICH! Now say it!
+HENRY	m	Your brother, Leonid ANDREYEVICH says I'm an upstart, a money grubber --
+DAREK	m	A what?
+HENRY	m	A money-grubber!
+DAREK	m	Are you?
+DAREK	m	Convince her.
+HENRY	m	Your brother, Leonid Andreyevich says I'm an upstart, a money grubber. He can say whatever he likes. I don't care a bit --
+DAREK	m	(into his ear)
+HENRY	m	I just want you to believe in me like in the old days.
+JULIE	f	Show me, tell me.
+HENRY	m	Good God in Heaven. My father was one of your father's serfs, and your grandfather's serf before that. But you, you did so much for me in the old days that I've forgotten all that...
+HENRY	m	I love you...like a sister...more than a sister.
+DAREK	m	You piece of shit! Yes!
+DAREK	m	Good.
+HENRY	m	Good?
+DAREK	m	Yes.
+DAREK	m	Tomorrow. Be more good.
+JULIE	f	Does this make me an accessory?
+HENRY	m	I think so.
+JULIE	f	Things have certainly gotten a lot more interesting since you showed up.
+HENRY	m	You mean since you ran me over...
+JULIE	f	So why are you robbing the bank, Henry?
+JULIE	f	It's not just about the money, is it?
+HENRY	m	No.
+JULIE	f	So why are you doing it?
+HENRY	m	I used to sit in that toll booth and think about just getting in one of those cars, going wherever they went. Just joining someone else's life.
+JULIE	f	You were asleep at the wheel.
+HENRY	m	Yeah, I was. It was easier for me to go to jail than tell my wife the truth.
+JULIE	f	Which was?
+HENRY	m	That I was going along with everything. I didn't know I could change it. So now I'm changing it.
+JULIE	f	Robbing the bank is changing it?
+HENRY	m	It already has.
+JULIE	f	What was your wife like?
+HENRY	m	Nice.
+HENRY	m	Are you sure you're okay with this? I know it's a lot.
+JULIE	f	Not for a girl like me, Henry.
+DAREK	m	This is Mr. Henry Smith. He will be taking over the role of Lophakin. If you please.
+HENRY	m	Thanks. Thank you. Looking forward.
+DAREK	m	Top of act three. Twenty minutes. Olga, cigarettes!
+MAX	m	Tracks! Trolley tracks!
+HENRY	m	There's still twenty feet to go.
+HENRY	m	We're going to need another pair of hands.
+HENRY	m	That's him.
+MAX	m	That's him?
+HENRY	m	Thanks for meeting us.
+JOE	m	Sure.
+HENRY	m	How's your pyramid scheme?
+JOE	m	It wasn't a pyramid scheme.
+HENRY	m	Okay.
+JOE	m	It all fell apart. We were banking on that money, Henry. And now all I've got is a garage full of dumb Korean plastic.
+MAX	m	What's he talking about?
+HENRY	m	Kitchenware.
+MAX	m	Oh.
+JOE	m	See what happens when a person tries to go `legit'? It's killing me.
+HENRY	m	So how's Debbie?
+JOE	m	She's worried, Henry. The baby's due in a couple months.
+HENRY	m	She's pregnant?
+JOE	m	Yeah, she's pregnant.
+HENRY	m	Congratulations.
+JOE	m	Thanks, Henry. It's okay if you want to punch me out. Tonight would be a good night. In fact I could use it.
+HENRY	m	Come on. This is great news. (off Joe's hopeless look) It's going to be okay.
+JOE	m	Really? It is? You know how much diapers cost? You know how much it costs to send a kid to college?
+MAX	m	You want to send your baby to college?
+JOE	m	Of course not. I'm just saying. The kid needs stuff. Stuff that's expensive. Stuff it deserves. These things are hot! I'm on fire.
+HENRY	m	Listen, Joe, maybe we can help.
+JOE	m	How?
+HENRY	m	We might have a job for you.
+JOE	m	No foolin'?
+HENRY	m	There's maybe twenty feet till the bottom of that vault.
+JOE	m	That's a lot of dirt, Henry.
+HENRY	m	So what do you think?
+JOE	m	I think we should get some guns and go get the money through the front door!
+HENRY	m	No guns. People could get hurt.
+JOE	m	What about fake ones?
+HENRY	m	They're still guns.
+MAX	m	Listen Joseph, guns are dangerous and we're not doing a simple hold-up. Tellers and tears and chump change. We're doing an old fashioned heist. We're going right into the belly of the beast. Are you in or are you in?
+JOE	m	I hope we don't get caught.
+JULIE	f	I hate that commercial.
+HENRY	m	I like it.
+JULIE	f	So what's your plan?
+HENRY	m	For what?
+JULIE	f	For when it's done. After. (making light of it) Am I going to see your picture in the post office or something?
+HENRY	m	I hope not.
+JULIE	f	But have you thought about what happens after?
+HENRY	m	Not really, no.
+HENRY	m	I don't know. Maybe I could meet you out west...
+JULIE	f	Out west?
+HENRY	m	Yeah. Maybe you could meet me there.
+JULIE	f	When did you think of that?
+HENRY	m	Just now. So what about it?
+JULIE	f	What about what?
+HENRY	m	Meeting me --
+JULIE	f	-- I'm not going anywhere, Henry --
+HENRY	m	You're not?
+JULIE	f	No.
+HENRY	m	I thought that was your plan. Do the play
+JULIE	f	Plans change, Henry. Okay?
+JULIE	f	I think I ran out of maple syrup.
+HENRY	m	Is there a reason you didn't leave before?
+JULIE	f	Because life is fucked. It never works out the way you want it to.
+HENRY	m	Yeah. Well. Maybe... But you could still meet me.
+JULIE	f	Right! On the lam? You're dreaming.
+HENRY	m	It was just an idea. Why not --
+JULIE	f	This isn't going to work out, Henry.
+JULIE	f	Didn't we both know that?
+HENRY	m	I didn't.
+JULIE	f	I did.
+JULIE	f	I think you should leave.
+MAX	m	Palm trees. Sandy beaches. All you can eat sunshine. Grapefruits as big as your head!
+HENRY	m	Why couldn't I have met her after?
+MAX	m	Who?
+HENRY	m	Julie. I asked her to meet me. After we're done.
+MAX	m	Oh yeah? What'd she say?
+HENRY	m	She said no.
+MAX	m	Of course she said no.
+HENRY	m	Why of course?
+MAX	m	Because life ain't like that. There's always a cost. That's why they call it life. You got to pay somewhere. The piper must be paid to pipe.
+HENRY	m	I paid already, Max. I don't want to leave her.
+MAX	m	Who's that?
+HENRY	m	I'll check.
+HENRY	m	Who is it?
+JOE	m	Sorry, Henry.
+EDDIE	m	The same bank. Shit, Henry. Now that's poetry! I like it.
+MAX	m	Who is this guy?
+EDDIE	m	Your new partner.
+MAX	m	What do you mean?
+EDDIE	m	I'm in. Or you're out.
+JOE	m	I screwed up. Sorry, Max.
+EDDIE	m	(amused by the whole thing) Joe tells me you guys might need a little help with that vault. I know the whole story.
+EDDIE	m	And I don't dig. Dig? Got any cold ones?
+MAX	m	Joe doesn't know what he's talking about. He's a drunk. He made a mistake. Get out of that chair.
+EDDIE	m	Relax, old man. Henry and I go way back. We've known each other since high school, isn't that right?
+HENRY	m	Yeah. I know you.
+EDDIE	m	Appreciate you keeping your mouth shut, Henry. One thing I admire in a man is the quality of loyalty.
+HENRY	m	What do you want, Eddie?
+EDDIE	m	Nothing. Just the American dream.
+MAX	m	I'm gonna kill him. With a knife.
+HENRY	m	You can't kill him.
+JOE	m	(slurred, on the floor) Yeah. You can't kill him, Max. He's got the vault --
+MAX	m	Shut up, Joe.
+JOE	m	Deb says we can't have sex till the kid's born. Says the kid'll know about it.
+MAX	m	Go home. Please. Before it's too late.
+TROFIMOV	m	I'm sorry to be blunt, but, for God's sake, the man has robbed you.
+MADAME RANEVSKY	f	(stopping her ears) No! No! No! Don't say that!
+TROFIMOV	m	He's a scoundrel: everybody knows it but you. He's a petty scoundrel, a user...
+MADAME RANEVSKY	f	You are twenty six or twenty seven, and you're still in the lower grades!
+TROFIMOV	m	Who cares?
+MADAME RANEVSKY	f	You ought to be grown up by now. At your age, you ought to understand about love --
+DAREK	m	Where are you, Djula? Where?!
+MADAME RANEVSKY	f	(with double the fire) You ought to love someone yourself! You ought to have an affair. Yes! Yes!
+DAREK	m	Yes. Yes. Good Djula! Scene. Carlotta and the girls.DAREK Let's run the magic scene!
+HENRY	m	What happened last night?
+JULIE	f	I came to my senses. And you should too.
+HENRY	m	We should talk about it.
+JULIE	f	I don't want to, Henry.
+MAX	m	(tugging the pulley) Three feet of it so far today. We'll make it.
+JOE	m	What do you think guys? If it's a boy do I cut him or not?
+MAX	m	Well, you know what they say, cleanliness is next to Godliness.
+JOE	m	What do you say, Henry?
+FRANK	m	Now I see you coming out of the theatre behind the bank.
+FRANK	m	I know what you're up to Gentlemen.
+FRANK	m	And I want in.
+MAX	m	In on what?
+FRANK	m	We can't talk here. Let's drive.
+HENRY	m	What's on your mind, Frank?
+FRANK	m	The I.C.R.E. Indigenous Currency Retrieval and Exchange.
+FRANK	m	Once a month a truck goes to all our partner banks across the border in Canada, picks up all the currency and brings it back home.
+FRANK	m	I'd say on average eight to twelve million, held in our vault at First Buffalo for just a few hours before it's picked up for redistribution.
+FRANK	m	Only a bunch of fools would rob that bank any other time.
+FRANK	m	I can give you that date. I can help with alarms. I can be your guy on the inside.
+MAX	m	Hypothetically say you were right about what we're up to...which you're not. But just say...why would you help us rob your bank?
+FRANK	m	I got my reasons.
+JOE	m	This sounds like a set-up, man --
+FRANK	m	I don't fuck around, kid. I told you. I got my reasons.
+MAX	m	Well, forgive us, Frank. But we're going to need to hear them.
+FRANK	m	The wife got sick a few years ago. Insurance wouldn't pick up all the costs. So I went to the bank. They wouldn't help cover the difference. We were going to retire to the Loire valley. We had to use all our savings to cover the bills.
+JOE	m	The man gave it to you, huh.
+FRANK	m	I spent everything we had -- then she died...thirty years I've been at that bank.
+HENRY	m	What was her name?
+FRANK	m	Annie. Her name was Annie.
+HENRY	m	I'm Sorry.
+FRANK	m	November 23rd. The money's delivered at eight and picked up at midnight.
+FRANK	m	I retire in two weeks. This is it. You set up the table. I make sure dinner arrives hot.
+HENRY	m	Shit.
+HENRY	m	Opening night.
+MAX	m	And?
+HENRY	m	That's soon.
+MAX	m	We're going to have pull some nights.
+HENRY	m	Maybe we should wait. Do it closing night.
+MAX	m	We can't. He's retiring. This is a one time deal. I told you there were going to be tests, Henry.
+MAX	m	You're going to have to leave her. No looking back.
+MAX	m	There he is!
+MAX	m	You okay, Henry?
+HENRY	m	No.
+HENRY	m	I'm not leaving her.
+JOE	m	Who?
+MAX	m	The girl --
+MAX	m	Now listen, Henry. You're digging this tunnel. And you're gonna rob that bank. You're gonna take the money and you're gonna put it in the car and we're gonna drive away. This is one thing. Julie is another thing. This is not that. That is not this. Understand?
+JOE	m	Hey! I think I got something...
+MAX	m	We have arrived! Look at that.
+HENRY	m	Not a cloud in the sky.
+MAX	m	So clear you can see tomorrow. You're a good man, Henry. Thank you.
+HENRY	m	You too, Max. Let's go.
+DAREK	m	In this `American dream' of ours, everyone is happy and smiling, they have achieved their objectives...and yet in life there is only change, upheaval, the birth of the new...and that birth is painful.
+DAREK	m	Our play is about misery, disconnection, a future that we don't see hitting us like a train...but tonight, my players, we show them...that this not a future to fear!
+GAYEV	?	Off the cushion in the corner ; double into the centre pocket!
+SIMON	m	Ten minutes people!
+JULIE	f	Come in.
+HENRY	m	I want you to meet me in California.
+JULIE	f	Henry, we've been over this --
+HENRY	m	We're doing it tonight.
+JULIE	f	What?
+HENRY	m	It's the only time we can get in the
+JULIE	f	Of course! Opening night. What else? Like I said, everything always fucks up --
+HENRY	m	Nothing's fucked up. If it's tonight or a month from now, what's the difference? I still want you to meet me.
+JULIE	f	Nothing's fucked up? Have you looked around recently? You're leaving. What about the goddamn play?
+HENRY	m	Arnold's coming back. Max arranged it already.
+JULIE	f	I'm sure he did.
+HENRY	m	I want us to be together.
+JULIE	f	We screwed a couple of times, Henry! So what?
+HENRY	m	You know that's not true --
+JULIE	f	No, really. A couple of times. Don't you get it? I don't want to be with you.
+JULIE	f	You're a thief. Go rob your bank.
+MAX	m	Enjoy the show, folks!
+SIMON	m	Curtain!
+LOPHAKIN	?	Well, thank god the train is in. What time is it?
+DUNYASHA	f	(checks his watch) Almost two. (blowing out the candle) It's light already.
+LOPHAKIN	?	The train's late. At least two hours.
+BERNIE	m	How you doin', Frank?
+FRANK	m	Doin' good, Bernie. Real good.
+MADAME RANEVSKY	f	My nursery, my dear, beautiful, sweet nursery! This is where I used to sleep when I was a little girl!
+GAYEV	?	Your train was two hours late. How do you explain that? Is that good management?
+MAX	m	Shit.
+MADAME RANEVSKY	f	Oh, my childhood, my innocent childhood! I used to sleep in this nursery.HENRY Isn't she beautiful?
+SIMON	m	Yes.
+MADAME RANEVSKY	f	Oh, my cherry orchard...
+BERNIE	m	You ever think what you could do with all that money, Frank?
+STAN	m	I know what you'd do. Buy the Bills and put them in first place.
+BERNIE	m	You'd need a lot more money than that. But I guarantee you I'd have them back in the Super Bowl within two seasons.
+STAN	m	Perfect. Another chance to lose.
+MAX	m	Oh god, oh god. Where are you, you little pischer?
+BERNIE	m	We're good.
+MADAME RANEVSKY	f	I'm sure it wasn't in the least funny. I believe people like you should examine their own lives instead of going to the theatre to observe other peoples!
+LOPHAKIN	?	True enough. To be honest. We live a stupid life.
+STAN	m	Well this is it, Frank.
+BERNIE	m	We got you something.
+STAN	m	A little retirement gift.
+STAN	m	Go ahead. Open it.
+FRANK	m	Thanks guys.
+BERNIE	m	We wanted to get you something from France.
+STAN	m	You like French Roast, right?
+FRANK	m	Thanks. You know this isn't from France.
+BERNIE	m	What are you talking about? It's French roast.
+FRANK	m	Right. But over there they call it coffee.
+STAN	m	(slightly baffled, at Bernie) But this is French roast...
+EDDIE	m	Where is he? Where's that old man?
+MAX	m	Julie -- Break a leg!
+JULIE	f	Play's already started, Max.
+JULIE	f	Good-bye confidence man.
+MAX	m	Good-bye, Julie.
+MAX	m	Go! Go! Go!
+EDDIE	m	About time, old man.
+MAX	m	Do your job.
+EDDIE	m	Jesus! Not again! What is it with you?
+JOE	m	Sorry.
+EDDIE	m	You're a pussy, Joe, you know that?
+MADAME RANEVSKY	f	Well, what should we do? Tell us what to do?
+LOPHAKIN	?	I tell you every day. Every day I say the same thing over and over. You must rent out the Cherry Orchard and the rest of the Estate for villas. At once, right this second, the auction is coming up very soon --
+MADAME RANEVSKY	f	It's all so vulgar!
+MAX	m	That was good, kid. Good acting.
+JOE	m	(a little giddy) There she is.
+EDDIE	m	Get out of there!
+EDDIE	m	This shit comes straight from hell.
+EDDIE	m	Welcome to my world, bitches.
+JOE	m	Fuck, yeah.
+MAX	m	You're on, Henry!
+LOPHAKIN	?	Yes.
+MADAME RANEVSKY	f	Who bought it?
+LOPHAKIN	?	I did.
+LOPHAKIN	?	I bought it. Wait a minute ; don't rush me. I'm all dizzy. I can't talk...
+JOE	m	Deb's gonna freak.
+LOPHAKIN	?	...and now the Cherry Orchard is mine. Mine! God! God in heaven. The Cherry Orchard is mine! Tell me I'm drunk, tell me I'm out of my mind, tell me I'm dreaming!
+MAX	m	That's everything.
+EDDIE	m	Yes, it is.
+MAX	m	What's that, Eddie?
+EDDIE	m	It's a gun, Max.
+EDDIE	m	(with the gun) Joe! Take the money out back to my car.
+EDDIE	m	Joe!
+MAX	m	Stay right where you are, Joe.
+EDDIE	m	Don't be stupid, Max.
+MAX	m	You're not going to do this, Eddie.
+MAX	m	You can shoot me dead if you want, but you're going to have to shoot me dead.
+EDDIE	m	I'm not playing with you, old man.
+JOE	m	What are you doing, Eddie?
+EDDIE	m	Welcome to the party, Brando.
+HENRY	m	What are you doing, Eddie?
+EDDIE	m	It's money, Henry. Money.
+MAX	m	This was your chance you idiot. You could've been a better man but you did it again. You messed up. And now you're back with the maggots. Just one big missed opportunity.
+JOE	m	Yeah. Come on, Eddie. We're here. We're done. He's right. Come on, man.
+EDDIE	m	Shut up, Joe. Get the money. Put it in the car. Shut up.
+EDDIE	m	Now move, Torne. No happy ending for you.
+EDDIE	m	You animal!
+MAX	m	Famach deh mohl! Gey lig mitt'n vahntzin son of a bitch!
+JOE	m	Get the extension chord.
+EDDIE	m	You couldn't have done this without me.
+MAX	m	Our new partner. Huh.
+MAX	m	You ok?
+HENRY	m	I got shot.
+HENRY	m	I gotta get on stage.
+GAYEV	?	Thank you, my friends, thank you.
+YASHA	m	The peasants have come to say good-bye. They're good fellows, Yermolai Aleksayovich but in my opinion a little stupid...
+GAYEV	?	(to Madame Ranevsky) You gave them everything in your purse, Lyuba. Wrong, quite wrong!
+MADAME RANEVSKY	f	I couldn't help it. I couldn't help it.
+LOPHAKIN	?	(still a little out of
+BREATH)	?	Won't you please come here and drink a glass as a good-bye?
+MAX	m	Old man, huh.
+MADAME RANEVSKY	f	We're going and not a soul will be here until after we're gone.
+LOPHAKIN	?	Until spring.
+JOE	m	Where is he?
+MAX	m	Any minute now.
+ANYA	f	Goodbye, home! Goodbye to the old life!
+TROFIMOV	m	Hello to the new life!
+LOPHAKIN	?	Until the spring, then. Goodbye my friends, until we meet again!
+GAYEV	?	My sister! My sister!
+MADAME RANEVSKY	f	Oh, my dear, sweet, lovely orchard! My life, my youth, my happiness, farewell! Farewell!
+MAX	m	How's the leg?
+HENRY	m	It's fine. Go.
+JULIE	f	(as Madame Ranevsky) One last look at these walls, these windows...Dear mother used to love to walk about in this room.
+GAYEV	?	My sister! My sister!
+JULIE	f	(as Madame Ranevsky) We're coming.
+HENRY	m	Stop the car!
+MAX	m	Henry!
+HENRY	m	Joe, stop the car.
+MAX	m	He can't stop the car, it's the getaway!
+JOE	m	Yeah, you can't --
+MAX	m	What the hell are you doing?
+MAX	m	Henry!
+LOPHAKIN	?	I had to come back. I couldn't get on the train. The moment I stepped on the platform, the blood drained from my heart.
+LOPHAKIN	?	I knew I might never see you again.
+DAREK	m	What is he doing? Why is Lophakin back?!
+LOPHAKIN	?	I had to come back.
+MADAME RANEVSKY	f	Henry, what is this? What are you doing?
+LOPHAKIN	?	This is the only way you'll listen to me.
+MADAME RANEVSKY	f	You should have gotten on that stupid train. You made a mistake.
+LOPHAKIN	?	The mistake would have been getting on that train without telling you how I feel.
+MADAME RANEVSKY	f	Ha! Don't pretend you care about me. All you care about is money.
+LOPHAKIN	?	You think this is about money?
+MADAME RANEVSKY	f	Yes.
+HENRY	m	It's never been about money. You know that.
+MADAME RANEVSKY	f	Let go of me!
+LOPHAKIN	?	No.
+MADAME RANEVSKY	f	Damn it! Just leave, Henry! (under her breath) Get off the fucking stage --
+HENRY	m	Take a chance. Meet me in Moscow.
+MADAME RANEVSKY	f	No, I'm perfectly happy here.
+HENRY	m	That's not true. Meet me in Moscow.
+MADAME RANEVSKY	f	Let me go!
+HENRY	m	I can't.
+MADAME RANEVSKY	f	Why are you doing this?
+LOPHAKIN	?	You're just afraid.
+MADAME RANEVSKY	f	I'm not afraid of anything --
+LOPHAKIN	?	You're afraid because I love you.
+MADAME RANEVSKY	f	...what?
+HENRY	m	Meet me in Moscow.
+HENRY	m	Tell me you'll meet me in Moscow.
+AUDIENCE MEMBER	m	Go with him!
+DAREK	m	He loves her.
+JULIE	f	Henry. You're bleeding.
+HENRY	m	I know.
+DAREK	m	(whisper to Simon) Lights down ten. Down ten more. Slowly...
+JULIE	f	Oh, fuck, Henry...
+FRANK	m	Hello miou-miou.
+DEBBIE	f	A girl.
+MAX	m	Time is a medium of exchange. You can buy things with it. Education. Self-respect. You can even figure out your dream.
+MAX	m	You're done. Next!
+MAX	m	So tell me, Javier. What's your dream?
+JULIE	f	Look. You can see the ocean.
+HENRY	m	`Your brother says I'm an upstart, a money grubber...but I don't care a bit.'
+EDDIE	m	I told you before. Dopey. Sleepy. Happy and Doc --
+EDDIE	m	I may be all those things but one thing I'm not...is a rat.
+

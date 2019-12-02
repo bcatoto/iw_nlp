@@ -1,0 +1,530 @@
+VOICE	m	Omnia in duos: Duo in Unum: Unus in  Nihil: Haec nec Quattuor nec Omnia  nec Duo nec Unus nec Nihil Sunt.
+VOICE	m	Come on, candles, out!
+VOICE	m	In Volunta Divina et Verbum Magi:  Lux! Exstinguat!
+GALEN	m	Vide, Magister. There's something  wrong.
+GALEN	m	What's the matter? What's happened?
+ULRICH	m	I've just seen something. Something  of consequence to you.
+GALEN	m	To me?
+ULRICH	m	Yes. My own death.
+ULRICH	m	Perhaps we had better hasten your  training.
+ULRICH	m	This wood, these leaves, the birds,  the very dome of heaven, once they  all rang with one great chord: and  philosophers like me kept it all in  tune. Now, new voices are singing  new songs. Have you mastered the threefold  transmutation?
+GALEN	m	Of course.
+ULRICH	m	You have?
+GALEN	m	Well, almost.
+ULRICH	m	It's very difficult. Have you  committed to memory undying the Codex  de Profundis?
+GALEN	m	The first two chapters.
+ULRICH	m	It's long. And what about the Ritual  of Banishment as prescribed by my  late master Balisarius?
+GALEN	m	To tell the truth, I haven't dared  try it. What's the point, anyway?
+ULRICH	m	The point? The point is you don't  know it, and you're no magician  without it. It was my hope to school  you, to mold your faculties and  wits... I still believe you have  some talent. Somewhere.
+GALEN	m	I hate books. I hate drill. I want a  real task.
+ULRICH	m	There's no time now. When I'm gone,  half the powers in the universe will  vanish with me. And what's the use  of a few lingering skills if they're  left in the hands of a child? Listen!
+GALEN	m	I don't hear anything.
+ULRICH	m	Here, wear this.
+GALEN	m	Voices, singing on the road.
+GALEN	m	I don't see anything.
+ULRICH	m	We have visitors!
+ULRICH	m	Looks forbidding enough, don't you  think?
+GALEN	m	Here are your sticks.
+ULRICH	m	No -- they'll think me infirm. You  know, Balisarius wore this whenever  he changed lead into gold. He could  really do that, you know. I never  could. Too bad -- you'd stand to  inherit some real wealth.
+GALEN	m	You're in a morbid frame of mind.  What's all this about dying? You  don't even look sick.
+ULRICH	m	You still wearing that amulet? Good. Don't lose it. It still belongs  to me.
+ULRICH	m	Now, adeptus minor, get yourself a  handful of that sulphurous ash over  there...
+ULRICH	m	Nunc habeus lux!
+ULRICH	m	Et calor!
+ULRICH	m	Welcome to Cragganmore. I am Ulrich.  Which one of you calls himself  Valerian?
+VALERIAN	m	That would be me. We are here on  behalf...
+ULRICH	m	I know why you're here. You're a  delegation from Urland, from beyond  Dalvatia. Let's see the artifacts.
+VALERIAN	m	A bone. Scorched. A rock, fire- blackened. Scales.
+ULRICH	m	All right. How did you come by these?
+VALERIAN	m	I found them. At the mouth of the  lair.
+ULRICH	m	What else?
+VALERIAN	m	A claw.
+ULRICH	m	That's no claw. It's a tooth. By the  gods!
+ULRICH	m	And you want me to do battle with  that?
+VALERIAN	m	Who else can we turn to? We all know  what we're dealing with here. This  is a basilicok. A cockatrice. A dragon. This is no stag, no bear, no natural  creature. This is one of your kind.  And only a necromancer such as  yourself can rid us of it.
+ULRICH	m	Did you try the Meredydd sisters?  What about Rinbod? I've heard it  said he killed a dragon once.
+VALERIAN	m	They're all dead. You're the only  one left.
+ULRICH	m	It's a long way to Urland.
+VALERIAN	m	Every quarter, upon the solstices  and the equinoxes there's a new  victim.
+GREIL	?	My daughter, for one.
+OTHER TRAVELERS	m	My sister... cousins...
+ULRICH	m	All women?
+VALERIAN	m	Girls. Virgins, to be exact, chosen  by lot.
+GALEN	m	Master, don't you think --
+ULRICH	m	Silence!
+VALERIAN	m	Are you afraid of dragons?
+ULRICH	m	No. Sorcerers and dragons go back a  long long time together. If it weren't  for sorcerers, there wouldn't be any  dragons. All right. I'll go.
+ULRICH	m	I know of this dragon. Vermithrax  Pejorative: she's four hundred years  old. As far as I can tell she's the  last of her kind. Very appropriate  that I'm the one to finish her off,  don't you think? There. Flatten the highest mountain.  What say you, Galen? Speak up. You, Hodge.
+ULRICH	m	While I'm gone see you keep your  nose in your books and your hands  out of my reagents. Leave my  instruments alone too.
+GALEN	m	Look at yourself. How far will you  get like that? A league, two leagues?
+ULRICH	m	I'm not worried about the road.
+GALEN	m	Why don't you wave your hands around  and summon up a coach-and-four?
+ULRICH	m	Don't mock me.
+GALEN	m	You pilgrims: You're used to  lotteries. Why not draw straws to  see who'll be first to carry  ironshanks here.
+HODGE	m	Hold your tongue. If the master's  got a mind to go, he'll go.
+GALEN	m	Send me. You're always saying I need  seasoning. I need a test. Let me go.
+ULRICH	m	You're not ready.
+GALEN	m	I'm ready for anything.
+ULRICH	m	Don't be so hasty. Your time will  come.
+VALERIAN	m	Tyrian!?
+TYRIAN	m	Good morning, all.
+VALERIAN	m	We're not afraid of you. Give us the  road.
+TYRIAN	m	Why, the road is yours. All the way  to Urland. It's a long journey, isn't  it? But when you're in search of a  sorcerer, I suppose no distance is  too great.
+ULRICH	m	Say nothing.
+HODGE	m	What do you want with us?
+TYRIAN	m	Well, like my good friends here,  I've come for a bit of black magic.  No doubt you've heard of our troubles  at home. This is Cragganmore, is it  not?
+HODGE	m	Aye, this be the place of Ulrich.
+TYRIAN	m	And here we have the mystical presence  himself, no?
+HODGE	m	You'd best keep your distance -- and  your manners.
+TYRIAN	m	If he's ready to lay a dragon in its  grave, he's got nothing to fear from  me. I've no more love for that creature  than you lot. Nor has the King. But,  before you stir things up, don't you  think it a good idea to see you've  got the right man for the job?
+HODGE	m	Aha -- it's a test you're looking  for. We don't do tests.
+TYRIAN	m	I'm sure you don't. They never do  tests -- and not many real deeds  either. Oh, conversation with your  grandmother's shade in a darkened  room, the odd love potion or two...  but comes a doubter, well then, it's  the wrong day, the planets are not  aligned, the entrails aren't  favorable, we don't do tests.
+VALERIAN	m	We've got no doubts. We require no  test.
+HODGE	m	And you're not going to get one.
+ULRICH	m	Go to the conjuring room. The iron  box. Fetch me the dagger within.
+ULRICH	m	The dagger. Be quick.
+ULRICH	m	You shall have your test.
+ULRICH'S VOICE	m	Where are you, boy? I'm waiting.
+GALEN	m	Not this one, was it?
+ULRICH	m	The very one. Let it fall.
+ULRICH	m	Vita regula, vita hieratica!
+ULRICH	m	Go on. Don't worry, you can't hurt  me.
+GALEN	m	Hodge -- what are you doing?
+HODGE	m	Just making my farewell, thank you  very much.
+HODGE	m	Be careful with that! You don't know  what you're doing.
+GALEN	m	Stand back!
+GALEN	m	Cragganmore! Domus non i am! Silva  celet!
+HODGE	m	Oh, it's a vale of tears in which we  dwell. It doesn't matter who you  are, a king in his robes, a peasant  in his rags, when your time comes,  no magic can save you...
+GALEN	m	I guess...
+HODGE	m	...the kindest lord a man could ask  for... now he's gone. Ye gods he was  fussy about his bath. And you'd think  he could boil his own eggs with the  snap of a finger, but no, he had old  Hodge do it, of course. Up before five I was, mucking out  the cages, slopping the pigs, and  never once got so much as a thankyou  or a pat on the back... I'm going to miss him.
+GALEN	m	Me too...
+HODGE	m	No you don't. All you care about is  the tricks and knavery. Well, you  don't pull any wool over these old  eyes. It'll be a mighty long walk  before you fill his shoes, you mark  my word.
+GALEN	m	What's the matter, Hodge, pack too  heavy? Here.
+HODGE	m	Careful with that!
+GALEN	m	Too cold, is it?
+HODGE	m	Stop it!
+GALEN	m	Too warm?
+HODGE	m	Stop it, I say! Out of respect for  the master!
+GALEN	m	I've got as much respect for the  master as anyone, old man. But --  then again, I'm master now.
+GREIL	?	I left my farm with seeds unplanted,  calves unborn, nothing but a wife to  chase down the strays, and for what?  A funeral, that's what.
+GREIL	?	Because some people said, find a  magician. Not just a local fellow,  an import, a good forty leagues from  home. An all-powerful necromancer.  Ha -- some necromancer!
+MALKIN	m	Hold your tongue, Greil. Sit. Eat.
+GREIL	?	I'll not sit. I'll not eat. See you  the Great Bear. His tail points east.  It's the equinox. Have you forgotten?  Or rather not think about it?
+VALERIAN	m	He's right. I brought us here for  nothing. May the gods help whoever's  daughter it is tonight.
+HODGE	m	Good morrow, good morrow. Peace be  with you.
+GALEN	m	Easy now. We mean no harm. We've  been looking for you.
+GREIL	?	Well, you've found us.
+GALEN	m	More the other way around, I'd say.
+VALERIAN	m	What do you want?
+GALEN	m	A few words, that's all. You were  looking for a conjurer.
+VALERIAN	m	He's dead.
+GALEN	m	Right. Requiscat in pace. Ecce: magister novus!
+GREIL	?	How say you?
+GALEN	m	My lord Ulrich is no longer. All  that you asked of him, you may now  expect of me. The dangers he would  face, I will now conquer. The task  he would undertake I will now fulfill.  I am Galen Bradwardyn, inheritor of  Ulrich's craft and knowledge, and I  am the Sorcerer you seek.
+GREIL	?	Well, that's a handsome thought, O  wizard of wizards. But if there's  one thing our friend Tyrian has shown  us, it's to beware the pig in the  poke. Who's got a dagger?
+HODGE	m	No tests!!
+GREIL	?	Call it proof, then.
+VALERIAN	m	We've seen enough tests.
+GREIL	?	Well I haven't. All I've seen is  death. Death in our families, death  on the road, and tonight, death at  home.
+VALERIAN	m	What's come over you, anyway? Have  you lost your wits?
+GREIL	?	I don't like it. Young snot-nose  comes in here for sport at our  expense. We're on a fool's errand,  but we don't have to listen to this.  I don't want to hear any more about  sorcery. I don't want to hear any  more about spells.
+VALERIAN	m	You must be hungry.
+GALEN	m	What's the matter with him?
+VALERIAN	m	It's not just him. It's all of us.  It's the equinox.
+HORSRIK	?	Close enough! Bring her out!
+HORSRIK	?	Now be it known throughout the  kingdom, that this maiden, having  lawfully been chosen by a deed of  fortune and destiny, shall hereby  give up her life for the greater  good of Urland.
+HORSRIK	?	By this act shall be satisfied the  powers that dwell underground and  the spirits that attend thereto. In  gratitude for this sacrifice His  Majesty has declared the family --  what's the name? --
+RETAINER	?	Plowman! The family Plowman!
+HORSRIK	?	-- the family Plowman to be free of  obligations, taxations, levys and  imposts for a period not to exceed  five years...
+HORSRIK	?	-- ordained and signed this day,  etc., Casiodorus, in his glory the  reigning king of this our realm...  his seal, his mark, duly read by  Chancellor Horsrik in his holy name.
+MAN	m	There. I see them.
+TYRIAN	m	Who's that old man?
+MAN	m	Where? Which one?
+TYRIAN	m	That one. That's the man from  Cragganmore. Now what's he doing  here?
+MAN	m	Filling in for the chief, I reckon.
+TYRIAN	m	What a pity.
+GALEN	m	What have you got there?
+HODGE	m	None of your business.
+GALEN	m	A little gold, eh? What do you say I  change it into lead?
+HODGE	m	Save your jokes for someone else.  Me, I don't care for braggarts.
+HODGE	m	And I don't care for frauds.
+GALEN	m	I'm no fraud.
+HODGE	m	Call it fool then. Upstart. Whatever  pleases you.
+GALEN	m	Hodge, nobody forced you to come  along.
+HODGE	m	Oh, I'm here of my own free will,  all right. We each do the master's  bidding in our own way.
+GALEN	m	Well, if he told you I needed  wetnursing, why don't you just turn  yourself around and go back home.
+HODGE	m	Home, is it? You've seen to that,  haven't you? Gone to seed, I'd say...
+GALEN	m	You're too far behind us. Come on  out.
+VALERIAN	m	You go ahead, I'll catch up.
+GALEN	m	Not a good idea to get separated.  Let's go.
+VALERIAN	m	Right. I'll be along.
+VALERIAN	m	That's all right. Don't come in.
+VALERIAN	m	You better get back to the group,  they're probably worried.
+VALERIAN	m	I prefer to swim alone, if you don't  mind.
+GALEN	m	By the gods!
+VALERIAN	m	Stay away.
+VALERIAN	m	I suppose you'll tell everyone. Go  ahead, I don't care. It's a relief.
+GALEN	m	I'm not going to say anything.
+VALERIAN	m	I don't blame you. I was stupid.  Careless. A silly woman!
+GALEN	m	Take it easy. I knew the moment I  saw you. I've known the whole time.
+VALERIAN	m	You never knew a thing. No one knew.  Not since I was born. Go on, run off  and tell them. It'll make a great  story.
+GALEN	m	Don't worry. No one's going to find  out. Just tell me: why?
+VALERIAN	m	Ask my father.
+GALEN	m	The lottery! Daughters are chosen,  but sons are not!
+VALERIAN	m	That's right. Unless you have plenty  of gold or property.
+GALEN	m	What do you mean?
+VALERIAN	m	If you're rich enough, your name  never goes in. My father is poor. So are a lot of  fathers.
+GALEN	m	No!
+GALEN	m	No!
+GALEN	m	Hodge!
+HODGE	m	Galen? Can you hear me?
+GALEN	m	I hear you.
+HODGE	m	You know, somebody shot me, but I  can still talk. There's something  that has to be done.
+GALEN	m	I know.
+HODGE	m	Not that cockatrice. Ulrich's ashes.  Here.
+HODGE	m	Take it. Sorry, you'll have to peel  it loose.
+HODGE	m	...burning water... find the lake,  throw it in...
+GALEN	m	What are you doing with this, Hodge?
+HODGE	m	...burning water...
+GALEN	m	Hodge, don't die. Listen to me. You're  not going to die.
+GALEN	m	Excede, mortem! Revoca, vitam! Excede, mortem! Revoca, vitam!
+GREIL	?	Urland!
+VALERIAN	m	Come on. Don't dawdle here.
+GALEN	m	The whole kingdom like this?
+VALERIAN	m	No. We're near the lair. Keep moving.
+GALEN	m	Where?
+VALERIAN	m	Over there. Doesn't matter. We're in  no danger if we just pass through  quickly.
+GALEN	m	I see it. Let's have a look.
+VALERIAN	m	No!
+VALERIAN	m	Greil! Malkin! Help!
+GREIL	?	Look, you don't have to do this. We  know you're a fine young magician.  None better. There's no need to prove  it to us.
+GALEN	m	Are there other entrances?
+VALERIAN	m	No. One's enough.
+GREIL	?	Come on. The road's this way. We'll  tell everybody how close you got.
+GALEN	m	No smoke. How do you know it's in  there?
+GREIL	?	Don't be a fool. Come away now and  live to tell about it.
+VALERIAN	m	Go ahead! You're going to die! What  a fine trick that will be!
+GALEN	m	Now, great mountain, hear my command:  Terrae lapsus consignet latibulum  draconis! Evanescat latibulum  draconis!
+VALERIAN	m	Father? Hello?
+BROTHER JACOPUS	m	Now are you cleansed of your sins!  Now are you born again, purified in  spirit, into the fellowship of Jesus  Christ!
+SIMON	m	Welcome back, my son.
+VALERIAN	m	Father, what are you doing? Have you  all lost your minds?
+SIMON	m	Some have.
+SIMON	m	It's this monk. He can read and write,  and talk too, I'm afraid.
+VALERIAN	m	And they listen?
+SIMON	m	Shh! They think this a holy place, a  tabernacle.
+VALERIAN	m	This is the granary. What kind of  welcome is this? I've got news of  the sorcerer and news of the dragon.
+SIMON	m	You were brave to go, you and your  friends. But nobody cares. Listen --  he knows what they want to hear.
+BROTHER JACOPUS	m	The man who walks with Christ is not  a man to fear a dragon: Yea, though  I walk through the valley of the  shadow of death I will fear no evil!  You say you are preyed upon by a  foul beast. Yes, but what is the  nature of this beast? It comes to  you on bat's wings and clawed feet,  does it not? It breathes fire, does  it not? And it lives under ground.  This is no dragon. This is Lucifer!
+VOICE	m	Whoever it is, he's dead.
+BROTHER JACOPUS	m	Nay, brother! It is not as easy as  that. Allegiance to Christ, to be  sure, but also prayer and confession.  These are the arms by which Satan  may be put down.
+GALEN	m	You're talking about superstition,  friend. None of that has anything to  do with what I, Galen, have already  achieved.
+SIMON	m	You brought this stranger?
+VALERIAN	m	Ulrich's apprentice. He's a braggart,  but it doesn't matter.
+GALEN	m	People of Urland! Send a messenger  to the king. Vermithrax is dead.  Crushed by the power of the moon and  the stars! Laid low by ancient wisdom.  Dropped into the Abyss by mystical  practice.
+BROTHER JACOPUS	m	Spoken like a pagan. Every word as  reprobate as it is false! Solum in hoc signo vinces!
+GALEN	m	Nihil plus mysterium!
+BROTHER JACOPUS	m	Praise God! Blessed is he that is  humble before the Lord!
+VALERIAN	m	Your god had nothing to do with it.
+MALKIN	m	We saw it with our own eyes. He flew  to the mountain top. He was a bird.  He brought forth lightning. I saw  it.
+SIMON	m	Put that away. What if you were seen?
+VALERIAN	m	I'm going to be seen. I want to be  seen. Tonight the world finds out  that you never had a son.
+SIMON	m	No, you mustn't do that. It's too  soon. We've got to think about this,  we've got to make a plan.
+VALERIAN	m	Father: the danger is over.
+SIMON	m	I know. What am I going to say to my  friends who still mourn for their  lost girls.
+VALERIAN	m	You'll say you did what you had to.  This is a time for celebration --  and forgiveness.
+GALEN	m	Looks like you've been up to a little  sorcery yourself.
+GALEN	m	Or is it witchcraft?
+GALEN	m	What's the matter? A real woman never  stops talking.
+VALERIAN	m	I think it was much easier being a  boy.
+SIMON	m	The damnedest thing is, she was twice  the man of anyone else in the village.  Now she's twice the woman.
+GREIL	?	Would that I had been as clever as  her father.
+SIMON	m	Come now, Greil. Don't begrudge a  life spared.
+GREIL	?	I begrudge nothing. But I wonder at  what we have seen and how it was  done.
+SIMON	m	You were there.
+GREIL	?	I saw what I saw. But this jack-anapes  was barely ready to carry his master's  chamberpot. Isn't it strange that at  the very moment the beast is put  down we should have a holy man here  in the village?
+SIMON	m	You don't believe that superstitious  Christian rot, do you?
+GREIL	?	It is said God works his wonders in  mysterious ways.
+TYRIAN	m	A celebration! Don't stop on my  account. You -- musicians, more music!
+TYRIAN	m	A toast! To the deed of the day! You  see, good news travels fast. The  King himself has already heard it.  And like yourselves, tonight he's  overcome with joy.
+MALKIN	m	What would you have of us then?
+TYRIAN	m	Not a thing. It's this one. The King would meet our new benefactor  and offer his gratitude to the man  who succeeded where so many have  failed.
+GALEN	m	What sort of gratitude? A knife in  the belly? An arrow in the back?
+TYRIAN	m	My young friend, I'd as soon dispatch  you as I did the others, and for the  same reason. But his Majesty would  like a cozy chat, and commands  otherwise.
+VALERIAN	m	Don't go, Galen. Cast a spell and  turn them into toads. It should be  easy; that's what they are.
+TYRIAN	m	Well, well: still plenty of cheek  under those skirts, it seems.
+GALEN	m	Don't worry. I'll be back.
+GALEN	m	One of the best things about the  water here in Urland is that there's  so much of it -- look at that!
+GALEN	m	Mmm. Good. But not cold enough.  Perhaps I could borrow a scarf from  his Majesty.
+GALEN	m	I cover the goblet, so... remove,  so... and behold: winter in a mug!
+GALEN	m	All right. How many of you have ever  seen a table fly?
+KING	m	Enough! That's fine.
+GALEN	m	Wait, it'll rise now.
+KING	m	Don't bother. Not necessary.
+KING	m	Tell me: the landslide -- it was  accomplished this same way?
+GALEN	m	Yes.
+KING	m	I see. And having rendered such unique  service to our kingdom, what would  you claim as a reward?
+GALEN	m	Please -- no payment. I have always  found magical practice to be its own  reward. I seek only some yet greater  challenge.
+KING	m	Did you ever hear of King Gaiseric?  Of course not, you weren't even born.  He was my brother, a great King and  a valiant man-at-arms. When he  ascended to the throne, the dragon  was unbridled. No one knew where it  might strike next. So he brought  forth his broadsword and his spear,  assembled a company of his best  fighters and went out to do battle. He was never seen again. But his  attack provoked the most terrible  reprisals: whole villages incinerated,  entire crops burned. Death, famine,  horrible.
+KING	m	How did you arrogate to yourself the  role of savior?
+GALEN	m	I was invited.
+KING	m	Not by me. Did you ever consider the  consequences of failure?
+GALEN	m	What failure? What's the matter with  you people? You want the dragon back?
+KING	m	Then the beast is dead?
+GALEN	m	Yes, of course. Dead.
+KING	m	We shall see.
+TYRIAN	m	Thank you.
+GALEN	m	Cubiculum gravis aperat!
+GALEN	m	Open up, dammit! Fenestra gravis  aperat! Asser gravis aperat!  Divinitus!
+VOICE	m	Salve, magistrum iuvenilum.
+ELSPETH	f	I've studied Latin. Greek, too. Me  appelo Elspeth, filia regis.
+GALEN	m	How do you do.
+ELSPETH	f	Please don't think ill of us. My  father is a wonderful man, a wise  man. The lottery was his idea.
+GALEN	m	I see.
+ELSPETH	f	You don't understand. From the moment  it began, the dragon was tame. The  kingdom prospered.
+GALEN	m	And only a few had to be sacrificed.
+ELSPETH	f	Yes, that's true. Isn't it better  that a few should die that many might  live?
+GALEN	m	Depends on who does the dying.
+ELSPETH	f	Oh, but we all take our chances. My  father is a just man. My name is  entered on the lists, along with  every other young --
+GALEN	m	Virgin?
+ELSPETH	f	Maiden.
+GALEN	m	If you say so.
+ELSPETH	f	What do you mean?
+GALEN	m	Nothing.
+ELSPETH	f	I've participated in every drawing  since I came of age.
+GALEN	m	Maybe.
+ELSPETH	f	It's true. You don't believe me. You  think I'm lying. Well I'm not.
+GALEN	m	I'm sorry. I heard a rumor. Families  with money, that sort of thing.
+ELSPETH	f	Don't listen to rumors. They're lies.  I have to go now.
+GALEN	m	Wait -- how long do I have to stay  in here?
+ELSPETH	f	Until we know. Not long. Goodbye.  Vale. Dormi bene.
+KING	m	That's enough. Let's not be greedy  here.
+KING	m	Now then: I, Casiodorus Rex do hereby  command thou base metal to change  thy essence and become gold.
+ELSPETH	f	Father?
+KING	m	Not now. Tyrian, remove all but one  bar. We'll try it one at a time.
+ELSPETH	f	Father: did you know that some  families have paid bribes to stay  out of the lottery?
+KING	m	Nonsense. By the power of this amulet,  justly wielded by my hand in  accordance with the laws of Urland,  now lead be thou gold.
+KING	m	I'm burned! What devilish thing is  this?
+ELSPETH	f	Have you ever kept my name off the  lottery list?
+KING	m	That'll be all, Tyrian. You may  withdraw.
+KING	m	Now, my dear, what's troubling you?
+ELSPETH	f	Answer my question: am I not exposed  to the same risk as every other man's  daughter?
+ELSPETH	f	Well?
+KING	m	Your father loves you very much.
+ELSPETH	f	It's true! What have you done to  me!?
+KING	m	Who fills your head with such ideas?
+TYRIAN	m	You little meddler! It's alive!
+TYRIAN	m	Close the main gate! Quick!
+TYRIAN	m	There! Stop him!
+TYRIAN	m	Get him! Stab the horse!
+KING	m	Tyrian! Tyrian!
+KING	m	So much for your magic! So much for  your sorcery!
+BROTHER JACOPUS	m	Listen to me, my brethren. The moment  of our fear is the moment of our  triumph. This is a sign from God.  Follow me, and our faith will send  this creature straight to hell.
+GREIL	?	You call yourselves Christians?
+BROTHER JACOPUS	m	The Lord is my shepherd, I shall not  want. Thou makest me to lie down in  green pastures. Thy rod and staff  they comfort me...
+BROTHER JACOPUS	m	...for Thine is the kingdom and the  power and the glory forever -- amen.
+BROTHER JACOPUS	m	Unclean beast, get thee down! Be  thou consumed by the fires that made  you!
+MAN	m	Get away, you little bastard. We've  had enough help from you.
+WOMAN	f	This is your doing!
+BURLIES	?	Get him! He's back!
+GALEN	m	Greil -- help!
+GREIL	?	May the Lord forgive you for what  you have done.
+GALEN	m	It's me. Are you hurt?
+VALERIAN	m	Where have you been? Doesn't matter --  listen: Quick! Make it rain. That'll  put the fire out.
+GALEN	m	I can't.
+VALERIAN	m	Then get the animals back. They're  all running loose. There's people  been hurt. Stop their pain. You can  cure them. And we'll need food...
+GALEN	m	I can't do it.
+VALERIAN	m	What? Why not?
+GALEN	m	I just can't.
+VALERIAN	m	But you're a sorcerer.
+GALEN	m	I'm no sorcerer. Whatever power I  might have had, it's gone.
+VALERIAN	m	It can't be!
+GALEN	m	I know: I'm an imposter. A fraud. A  fake. I'm sorry...
+VALERIAN	m	You're sorry?! Listen to that! The  damn thing is loose, we're all on  fire and you're sorry!
+VALERIAN	m	You didn't have the faintest idea  what you were doing, did you? You're  a fool -- and I'm a bigger one for  bringing you here.
+VALERIAN	m	I don't want you in this house. Get  out.
+TYRIAN	m	Where is he?
+VALERIAN	m	Not here. I can't help you.
+VALERIAN	m	You too?
+MALKIN	m	Damn right.
+TYRIAN	m	As the proud new father of an eligible  daughter who was some-how overlooked  all these years, it may interest you  to know that the King has called for  a new lottery.
+SIMON	m	But it's months til the solstice.
+TYRIAN	m	In view of what's happened, we all  know what's required.
+SIMON	m	I've never taken part in your cursed  lottery, and I'll have nothing to do  with it now.
+TYRIAN	m	You were very clever. But she'll  take part, like all the rest. No  exceptions.
+HENCHMAN	m	Nothing. If he was here, he's gone  now.
+SIMON	m	All right. I know what you want. How  much?
+TYRIAN	m	Are you offering me a bribe?
+SIMON	m	Yes.
+TYRIAN	m	Don't waste your time. You could never afford it.
+GALEN	m	Smith -- have you ever forged a  weapon?
+GALEN	m	These are your sharpest?
+SIMON	m	Even Tyrian carries one of these.
+GALEN	m	It's sharp -- but it's not sharp  enough.
+VALERIAN	m	Not sharp enough for what?
+GALEN	m	For what I'm going to do with it.
+VALERIAN	m	Nothing's that sharp.
+SIMON	m	The best I ever made.
+VALERIAN	m	It's beautiful.
+SIMON	m	Don't do that! Girl-child, when you were born I  knew I had to do something, so I set  about the task of fashioning an  extraordinary weapon: I had the skill  to make it -- -- but not the nerve to use it.
+VALERIAN	m	I'm thankful for that. No man should choose a senseless  death.
+VALERIAN	m	If it's me you're worried about,  don't. So my name has been entered,  what of it? There are hundreds of  girls. My name just won't be drawn.  I know it won't.
+GALEN	m	Valerian, this isn't just for your  sake.
+VALERIAN	m	I don't care. It doesn't matter.  What you want to kill isn't flesh  and blood.
+SIMON	m	Oh, it'll bleed, all right.
+VALERIAN	m	How do you know? No one's so much as  even scratched it.
+GALEN	m	I'll need the amulet.
+VALERIAN	m	Look at her. The Princess.
+GALEN	m	I know. We've met.
+HORSRIK	?	People of Urland: whereas the peace  of the kingdom has been disrupted by  the mischief of an interloper; and  whereas this interloper being fled;  now therefore, his majesty the King  hereby proclaims the sum of thirty  ducats to be paid to anyone producing  the miscreant Galen Bradwardyn, fraud  enchanter, to our satisfaction.
+CROWD	m	Stir the tiles! Stir the tiles!
+CROWD	m	Bare the arm! Bare the arm!
+CROWD	m	Draw the name! Draw the name!
+HORSRIK	?	Now, my countrymen, hear me: behold,  for I am chosen. I shall die that  many may live. I shall lay down my  life for family and fellows. I shall  go to my grave for the love of our  King and his wise policy. And my  name is --
+CROWD	m	The name! The name!
+KING	m	Read the name.
+HORSRIK	?	The name is: Princess Elspeth Ulfilas,  filia regis.
+KING	m	That's not the name. It's been  misread.
+VALERIAN	m	There's no mistake! The name's been  chosen -- let it stand!
+KING	m	No, the good Horsrik has misspoke  himself. In fairness to this individual, whose  name I can't make out, we'll destroy  this tile.
+VALERIAN	m	No! What better name than your own  kin? At last we see justice done!
+KING	m	Silence! We will have a new choosing.  I will draw the name myself.
+CROWD	m	Let it stand! Let it stand!
+ELSPETH	f	The name is as you heard it and as  Horsrik read it: Elspeth.
+KING	m	The lottery is invalid. Another and  another. What treachery is this?
+ELSPETH	f	Hear me, good people! It is true,  that my name appears on many of the  lots. This does not falsify the  drawing, it certifies it! I have  learned that my name has been kept  from jeopardy in all the drawings in  the past. So I have put my name among  the rest many times -- once for each  risk that, over the years, you took  and I did not.
+KING	m	Don't go to all that trouble.
+GALEN	m	I'm unarmed. If you want a fight, at  least give me a weapon.
+TYRIAN	m	I think not!
+KING	m	Stop! Don't harm him. And you -- don't run away... please...
+KING	m	I've always had the greatest  admiration for the black arts. You  chaps with your mysterious spells...  I didn't think it would be necessary,  you see. Vermithrax is an old dragon.  And that, I thought, was the beauty  of my plan -- buying time. We'd wait  her out. I'd live to see the end of  her. That's still going to happen.
+TYRIAN	m	Sire!
+KING	m	He shall have it. It's my daughter. Save her, I beg  you.
+GREIL	?	Holy of holies -- he did not die in  vain. Can you hear me, brothers?
+MALKIN	m	We hear you, Greil.
+GREIL	?	Well and good, but I'm Greil no  longer. Call me Gregorius, after the  Bishop of Rome.
+GREIL	?	I saw him die. Like Our Lord Jesus  on the cross he was, scourged by  evil. But he showed no fear. Such is  the power of the Holy Ghost.
+GREIL	?	Of what avail is magic? The old gods  died with our daughters. From whence  comest my help? My help comest from  the Lord!
+SIMON	m	Good and hot.
+GALEN	m	Don't bother. That's not the kind of  fire we need.
+GALEN	m	Nunc, per Potestatem Hermeticum --  ex flammis, ferrum sangrinarium!
+SIMON	m	An edge like no other on this earth.
+GALEN	m	Well done, Simon. Thank you.
+SIMON	m	I'll say goodbye to Valerian for  you. I'm sorry she's not here, but  you know how she is.
+GALEN	m	I understand.
+SIMON	m	Fare thee well.
+VALERIAN	m	Galen.
+VALERIAN	m	Here.
+VALERIAN	m	It's a shield. I made it. Might keep  the fire off you. Might not. You  know, you're an idiot. You're going  to die tonight. You'll be ripped  limb from limb. This is the last  time I'll ever speak to you.
+GALEN	m	Thank you.
+VALERIAN	m	Another thing. That thing isn't alone  up there. There's little ones. Young,  I think. I don't know how many.
+GALEN	m	Hatchlings. They'll have to be killed  too. Anything else?
+VALERIAN	m	You're in love, aren't you?
+GALEN	m	Yes.
+VALERIAN	m	That's all right. I understand. She's  very beautiful, very brave.
+GALEN	m	Who is? What do you mean?
+VALERIAN	m	Your Princess. But I don't care. It  doesn't change the way I feel. Listen to me, Galen Bradwardyn,  sorcerer's apprentice; you're going  to be dead, the dragon will be worse  than ever, there will be more  lotteries, and I'm not a boy any  more.
+GALEN	m	And you'll be eligible because --
+VALERIAN	m	Because I'm still a virgin, and I  want you to do something about it.
+GALEN	m	I am in love. But not with the  Princess.
+HORSRIK	?	Now be it known throughout the  kingdom, that the Princess, having  been chosen by a deed of fortune and  destiny --
+HORSRIK	?	No fire, I beg you.
+GALEN	m	Be gone!
+HORSRIK	?	I declare these proceedings duly  ordained...
+TYRIAN	m	I knew I'd find you here. Well, I'm  not as sentimental as some. The  kingdom, every one of us, need this  sacrifice. If you intend to interfere,  you'll have to kill me.
+GALEN	m	I've got plenty of reasons to kill  you that have nothing to do with  this sacrifice.
+TYRIAN	m	Most impressive. Can you use it?
+ELSPETH	f	Let it be! Please! Tyrian is right --  it's our only hope!
+ELSPETH	f	Tyrian -- both of you -- run! Flee!  It's coming!
+TYRIAN	m	In a trice! This is no swords-man.
+GALEN	m	Run! Get out of here!
+GALEN	m	No! Stop! What are you doing?
+TYRIAN	m	You've failed, my friend, and I thank  the gods for it. Come out from behind  that post.
+GALEN	m	Elspeth!
+GALEN	m	Still alive.
+VALERIAN	m	You know what we have to do. We have to leave Urland.
+VALERIAN	m	Not because of what happened. I  brought you here -- it didn't work --  now I'm taking you away. Do you  understand? You said you loved me. Is it true?  If it is, it's the only good we've  done. Let's not lose that too. Galen?
+SIMON	m	She's right. What kind of a life  could you have here? It's too late  for me, but you're young enough. You know what I think? Magic is dying  out, fading from the world. But that  makes me happy. That means the dragon  will be dying too.
+VALERIAN	m	What's that?
+GALEN	m	Nothing. I was just thinking -- poor  Hodge.
+VALERIAN	m	How's your leg?
+GALEN	m	Hurts. That thing was small, but its  teeth were sharp.
+VALERIAN	m	At least you killed it. You got all  the young.
+GALEN	m	But the big one's alive. Somewhere  down in that burning lake.
+VALERIAN	m	Don't think about it. You had your  fight, and you're still here. That's  more than anyone else can say. Let's  think about what lies ahead.
+VALERIAN	m	What are you doing?
+GALEN	m	You old trickster! The burning water!  The lake of fire!
+VALERIAN	m	Galen, what are you saying?
+GALEN	m	He had it planned. He knew this was  going to happen.
+VALERIAN	m	Who did? What happened?
+GALEN	m	We've got to go back, I want to talk  to him!
+VALERIAN	m	Where are you going?
+GREIL	?	The Church is mother to us all. Not  just one lonely orphan who has lost  his way, not just a few, but all of  us that believeth in Him. When enough  voices come together in prayer, He  shall hear, we shall live and the  beast shall die.
+VALERIAN	m	Galen, stop! Please, I beg you!
+VALERIAN	m	Stop! I won't let you kill yourself.
+GALEN	m	He couldn't walk -- he knew he  couldn't make the journey. So he had  us make the journey for him! Don't  you see?
+VALERIAN	m	No!
+VALERIAN	m	All right, all right. You're going  in there, I'm going too.
+GALEN	m	What? Why? No you're not, this is my  job. Absolutely not.
+VALERIAN	m	I'm not afraid. And you're not going  to stop me. After all -- I've been a  man longer than you have.
+GALEN	m	Stay close.
+VALERIAN	m	What's that?
+GALEN	m	Never mind. Come on.
+GALEN	m	All right. Wait here.
+VALERIAN	m	Galen? Galen? Where are you?
+GALEN	m	Ex favilla, vita nova!
+GREIL	?	Be calm. He watcheth over us! And  this is His sign! Let us pray! Our  Father who art in heaven...
+GALEN	m	Ulrich! Magister! Over here! I can  see you! Over here!
+ULRICH	m	Not so loud. I'm not deaf, you know.
+ULRICH	m	Sic redit magus ex terra mortis.
+GALEN	m	Wonder of wonders -- you're back! I  thank the powers that made me!
+ULRICH	m	Glad to see you, too. You didn't  bring along anything to eat, by any  chance?
+GALEN	m	Food?
+ULRICH	m	No? Oh well, no time anyway.
+ULRICH	m	Come along. There's much to be done.
+GALEN	m	Wait, I have something to tell you.
+ULRICH	m	It can wait.
+GALEN	m	No it can't. Listen: I thought I was  a sorcerer -- but I wasn't. I thought  I had power -- but I didn't. I thought  I was you -- but I'm not.
+ULRICH	m	Well said. Now hurry.
+ULRICH	m	Draco draconis...
+VALERIAN	m	Galen!
+ULRICH	m	Where's my amulet? Give it to me,  please.
+ULRICH	m	Be quick!
+ULRICH	m	Come close to me.
+ULRICH	m	Don't be afraid. You have served me  with great courage. Now you must  show me you have even more.
+GALEN	m	Anything!
+ULRICH	m	You must destroy the amulet, and me  along with it.
+GALEN	m	No!
+ULRICH	m	You brought me from the flames, you  must send me back.
+GALEN	m	I can't.
+ULRICH	m	When the time comes, you'll  understand. Here.
+ULRICH	m	I know what you're thinking. You  have learned much and done well.  Don't worry, you won't need it any  more.
+GREIL	?	Make haste, brother.
+GREIL	?	Now be thou baptized in the name of  the Father, Son and Holy Ghost. May  the Lord our God light our way.
+ULRICH	m	Nimbus! Tempestas! Fulmen!
+VALERIAN	m	Here. Do as he said. Smash it.
+GALEN	m	Not if it means killing him.
+VALERIAN	m	You heard what he said.
+GALEN	m	No! You can't!
+ULRICH	m	Galen!
+GREIL	?	Let us pray.
+GREIL	?	We thank thee, Lord, for this divine  deliverance. Verily is thy presence  amongst us, fully manifest in this,  thy great work.
+GREIL	?	Arise, children of the Lord and  forsake evermore the pagan mysteries.  Rejoice in the true power of the  Christian God!
+HORSRIK	?	All hail Casiodorus Rex -- Dragon  slayer!
+HORSRIK	?	Hail and praise be!
+VALERIAN	m	You want to rest?
+GALEN	m	No. I'm fine.
+VALERIAN	m	You miss Ulricn.
+GALEN	m	Yes.
+VALERIAN	m	And the amulet.
+GALEN	m	That too.
+VALERIAN	m	Not me. I'm glad it's gone. I'm glad  you did what you did. You may not be a sorcerer, Galen,  but I love you anyway. I don't regret  anything that happened. I just wish --
+GALEN	m	Yes?
+VALERIAN	m	-- that we had a horse.
+VALERIAN	m	What is this?
+GALEN	m	A horse.
+VALERIAN	m	Did you...!?
+GALEN	m	No. It must have been wandering loose.  Or wild.
+VALERIAN	m	Wait a minute. I just wished for a  horse and here it is.
+GALEN	m	You don't want to wish it gone, do  you?
+

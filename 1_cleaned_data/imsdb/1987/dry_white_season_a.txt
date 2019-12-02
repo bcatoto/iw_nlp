@@ -1,0 +1,980 @@
+BEN	m	This was your best race.
+JOHAN	m	I beat him, Papa.
+BEN	m	You did son. Come on, shower.
+GORDON	m	We'll be there, Mr. Ben'sir, Jonathan come to help me.
+BEN	m	And how's the algebra?   Still giving you trouble?
+JONATHAN	m	Just a little, Mr. Ben'sir.
+GORDON	m	He's working hard, Mr. Ben'sir, and your money will not be wasted. Emily and me will always thank you.
+BEN	m	See you both later.
+GORDON	m	U ya phi? (Where are you going?)
+LEADER	m	Your children are starving and you are drinking. We demand freedom and our fathers are drunk. We ask you to boycott these beer halls. Revolution and drink don't work together!
+MAN WITH SIDEBURNS	m	Since when do children talk like this to their fathers? They need thrashing.
+MRS. COETZEE 	f	He won't come to church. He lies in bed all day, listening to his headphones.
+BEN	m	I wondered why he wasn't at school. Would it help if I came to see him? He's always seemed a good kid to me.
+MRS. COETZEE	f	Oh, would you?
+SUSAN	f	Ben!   Ben!
+SUSAN	f	Mrs. Coetzee.    She looked worried.
+BEN	m	She's having trouble with her boy. He won't come to school.
+SUSAN	f	So you said you'd have a word with him?
+BEN	m	Yes!
+BEN	m	Gordon!   What are you doing here?
+GORDON	m	That's not why I'm complaining, Mister Ben, sir. If he did wrong, I'd beat him myself. But he didn't.
+GORDON	m	He did nothing and they wouldn't listen. They wouldn't believe him.
+BEN	m	I'm sorry, Gordon.    But there must be a reason.
+GORDON	m	He says he wasn't doing anything wrong, Mister Ben, sir. And I believe him, I know my son! It's an injustice!
+BEN	m	What about the court?    Didn't he state his case?
+GORDON	m	What does he know about court? Before he knew, it was all over.
+BEN	m	I don't think there is anything we can do about it now.
+GORDON	m	We can get a lawyer to appeal.
+BEN	m	A lawyer? That won't heal Jonathan's buttocks.
+SUSAN	f	Ben!
+BEN	m	I'll be out in a minute.
+GORDON	m	You don't understand, Mister Ben, sir. I don't want him to have a police record.
+GORDON  	m	It will be there for  the rest of his life and make it  difficult for him to get a job in  the future.
+BEN	m	Don't worry, Gordon. I'm sure there'll be no record, it's such a minor case. Please don't worry.
+BEN	m	Johan, get some iodine from the cupboard.
+GORDON	m	I'm not worried about the wounds. They'll heal in time, Mister Ben, sir. It's the wounds here. I worry about. Injustice... it festers.
+BEN	m	Rub it on the wounds and it will help.
+BEN	m	Jonathan has been caned, by the police.
+SUSAN	f	He probably deserved it.
+STUDENT LEADER 	m	You all know why we are going to march.
+STUDENTS	m	'No to Bantu education' 'No to apartheid' 'Freedom Now'...
+STUDENT LEADER	m	There must be discipline. We start marching from here and we'll join up with the others at the main road. Please take care of the younger ones. Let's go.
+COMMANDANT	m	This is the last warning. Disperse immediately or I will take action.
+JONATHAN	m	Wellington!   Wellington!
+GIRL	f	Shoot me!   Come on, shoot me! Shoot me!
+LARGE WOMAN	f	Careful with your bag. Can't you see where it's touching?
+MAN #1	m	Can I see where it's touching?
+LARGE WOMAN	f	Men of today only like looking.
+MAN #2	m	It's the electricity.
+MAN IN KHAKI UNIFORM	m	What has electricity to do with it?
+MAN #2	m	Today with the electricity they say: 'Darling let's not switch off the light.'
+WOMAN #1	f	I hope you have electricity with those thick glasses of yours. With your eyes you couldn't find anything.
+MAN #3	m	Tell us, does your wife also wear thick glasses?
+MAN #2	m	You should know, she's your sister.
+MAN IN BLUE OVERALLS	m	Quiet!   Thulani! Thulani!
+MAN IN BLUE OVERALLS	m	They are killing our children and you are making jokes...
+VOICE 	m	They say hundreds of children have died and Soweto is burning.
+SMARTLY-DRESSED MAN	m	The white people, they will pay, and soon.
+YOUNG WOMAN	f	'They will pay, they will pay.' Since when have they been killing us, putting us in jails, starving our children to death, taking our land? Hundreds of years. And what have you men done? Only talk, talk, talk. You are not men. Sis. (Shit.) "That's the superintendent's office on fire." "I hope the children are home." "We have to dodge bullets tonight." "Vorster must hang for this." "I hope the world hears about this."
+SERGEANT VAN ZYL	m	Look, I've tried to help you.
+STANLEY	m	You're here too, sis Paulina, who are you looking for?
+WOMAN	f	They picked up my girl -- 13-year- old girl!
+STANLEY	m	We are all searching.
+GORDON	m	He is our son... we must find him.
+JULIUS	m	I'll make more inquiries -- John Vorster Square -- the special branch -- but I don't hold out much hope.
+GORDON	m	You're a lawyer, Julius!
+STANLEY	m	A black lawyer! Those Boers... the bastards'll kick him around till they lose him.
+EMILY	f	What about the Baas? If he asks, they will give him an answer.
+GORDON	m	When the boy was flogged he didn't help. Why should he help him now?
+GORDON	m	They arrested many. They even deny they've got him. He's disappeared...
+BEN	m	Disappeared? He's a child -- why didn't you tell me?
+BEN	m	Okay!   I'll see what I can find out.
+BEN	m	Our gardener, yes. Probably nothing, but he's worried.
+LEWINSON	m	... And when was this?
+LEWINSON	m	Ngubene -- Jonathan Ngubene.
+LEWINSON	m	I'll get on to them straight away... Not at all -- I think better this time of morning -- after lunch, man, I'm a zombie. Sure -- let you know straight away -- love to, Susan... Cheers! Freda! Open an account... Du Toit. Benjamin Du Toit... Subject... Jonathan Ngubene.
+SUPERINTENDENT	?	It's preposterous. I would have known -- of such a case... I mean... in my hospital. You people! You're always raking up trouble!
+BEN	m	Thanks a lot, Dan... I'll tell Gordon. 'Bye.
+GORDON	m	Mister Ben, sir. If it was me, all right. And if it was Emily, all right. We are not young. But he's out child. My time and your time, it's passing. But the time of our children is coming. And now if they kill our children -- if we let them -- what is it that we lived for?
+BEN	m	What can we do, Gordon? You or I... We can't change it.
+GORDON	m	That day, Mr. Ben, sir, when they whipped Jonathan, you also said we can do nothing. But if we had... if someone heard what we had to say this would not have happened.
+BEN	m	It's a terrible thing, Gordon -- God knows I'm sorry. But you have other children to live for... I'll help them too with their schooling.
+GORDON	m	How did he die, Mister Ben, sir?
+BEN	m	I told you, Gordon... He died on the day of the riots.
+GORDON	m	That's what  they say. But I got to know for  certain. How can I have peace?   I must know how my son died and  where they buried him.
+BEN	m	Gordon.   The police -- if they've said...
+GORDON	m	I don't care what they say. He is my child. God is my witness today: I cannot stop before I know what happened and where he lies. His body belongs to Emily and me.
+CLOETE 	m	... This business of Gordon's son. Be careful, Ben. These are not normal times -- one has to make allowances.
+BEN	m	Don't worry! I'm no crusader. I've known Gordon a long time, that's all.
+CLOETE	m	I understand -- it's your Christian duty to your neighbor.
+BEN	m	Something like that -- yes.
+CLOETE	m	Just don't get too close. Teachers must stay out of politics. Love to Susan!
+ROBERT	m	Look who's coming? It's baba!
+EMILY	f	Oh, no... oh no, Lord.
+EMILY	f	Please don't tell me...
+GORDON	m	I want to know what happened to Jonathan.
+WELLINGTON	m	Isn't he out yet? I last saw him weeks ago.
+STANLEY	m	Jonathan is dead.
+GORDON	m	I have to know how he died.
+SUSAN	f	Isn't that tragic? Jonathan was such a nice boy. Even played with my Johan when they were small, God.
+BEN	m	And he was such a nice boy, well- mannered.
+SUSAN	f	You said he was very bright at school.
+SUZETTE	f	Well, this kind of journalism doesn't help the situation. Look at her face? What does she look like?
+CHRIS	m	The Rand Daily Mail always exaggerates.
+BEN	m	Looks quite attractive to me.
+BEN	m	'... Is only the latest in scores of black youths who have disappeared whilst in police custody.'
+CHRIS	m	What does she expect? They're out of control. Give then an inch and they take a hundred miles. It's in their nature. The only language they understand is force.
+JOHAN	m	Chris, Jonathan was fifteen, like me. Would you use force on me?
+CHRIS	m	You're not a terrorist. If you were -- like an increasing number of them, you'd deserve it. Look, every time you pick up the newspaper...
+BEN	m	My God, one hundred shot! They didn't have to kill them.
+SUSAN	f	This bloody Bruwer woman reports one hundred shot, but the radio said only twenty and the police were attacked first.
+SUZETTE	f	I thought the idea was to give them their own areas, banstustans. Let them live with their own kind. No chance of conflict then. Everybody's happy.
+JOHAN	m	And who would do the work?
+JOHAN	m	The work, who'd do it?
+SUSAN	f	You for a start. Come on!    Help me clear these dishes.
+GORDON	m	'On the second day of our detention at John Vorster Square we were taken to one of the top floors. We were ordered to undress and they started to beat us with fists and sjamboks. This for a long time.'
+GORDON	m	'On one day me and Jonathan...'
+GORDON	m	'... We were asked questions for the whole day and night by Capt. Stolz and different policemen -- they never stopped. They tried to force us to say we were the leaders at our school, that we were working for the A.N.C. and got money from overseas. Capt. Stolz wanted to know the names of the students committee and where he can find Toni Mtimkulu -- Everytime they asked question, they beat us. It was bad beating.'
+GORDON	m	'We told them we had done nothing and didn't know about all the things they are asking us; on two occasion they put a wet bag over my head and I -- couldn't breathe -- I thought I was going to die. One day I heard Jonathan being beaten. He was screaming and crying, and then a noise like tables and chairs being knocked down, and Capt. Stolz shouting "you bastard, get up, do you hear me?" Ngubene, don't pretend here, get up." Then the next day I heard he had gone to hospital and I never saw him again.'
+LIEUTENANT VENTER	m	Stay right where you are.
+STOLZ	m	On your feet! So, you must be Gordon Ngubene?
+STOLZ	m	We know each other, don't we?
+STOLZ	m	Gert, in daardie kammer. (Gert, that room) Jaimie, in die ander. (Jamie, the other room)
+LIEUTENANT VENTER	m	Niks, Kaptein. (Nothing, Captain)
+STOLZ	m	Take the bastards away.
+GORDON 	m	That day, Mister Ben, sir, when they whipped Jonathan, you also said we can do nothing. God as my witness today: I must know what happened and where he lies. His body belongs to Emily and me.
+BEN	m	Jeezus -- Jeezus -- Jeezus Christ.
+JOHAN	m	Good night, Papa!
+JOHAN	m	Oh, Papa!
+SUSAN	f	Coffee!   Come on, Johan.   Time for bed.
+BEN	m	Yes, son.   Go and get some sleep.
+SUSAN	f	I'm proud of you, Ben... what you've done for that family. But darling, you shouldn't take these things to heart so much. What more can you do about it?
+BEN	m	I don't know.    I'm just tired, I suppose.
+SUSAN	f	Come, come to bed.
+BEN	m	I will, in a minute. I'll just put the thoughts of Standar Six away. They mustn't be lost to posterity.
+OFFICE VOICE 	m	'... Seeking the whereabouts of a certain Jonathan Ngubene, regret to inform you we have no record of anyone of that name...'
+BEN	m	All right, time up! Hand in your test.
+BEN	m	What's happened, Emily?
+EMILY	f	I'm sorry, Baas... but it's Gordon.
+STANLEY	m	How's it? I'm Stanley! I heard about you!
+EMILY	f	This is Stanley Makhaya... He helps us all the time.
+BEN	m	Don't worry too much, Emily, I'm sure Gordon will be home in a few days.
+POLICEMAN	m	Somebody will meet you on second floor.
+STOLZ	m	Come on you bloody black bastard. Who has been telling you lies?
+STOLZ	m	I'll be down immediately, Colonel.
+BEN	m	Well... to put it simply, Colonel...
+VILJOEN	m	I'm always grateful for that.
+BEN	m	I thought there might have been some kind of misunderstanding I could help straighten out.
+BEN	m	I know him, Colonel. He works at my school. He's done work for me too.
+VILJOEN	m	And you feel you know him enough to vouch for him.
+BEN	m	Yes, after so many years... 10 years. Gordon's not the type to get himself in trouble. He's an honest, hard-working, church- going man.
+VILJOEN	m	Ha! You'd be surprised how many honest, decent, church-going men we come across during a working day.
+VILJOEN	m	It's routine, Mr. Du Toit -- a routine enquiry. Cleaning up these townships we must leave no stone unturned.
+BEN	m	I appreciate that -- but Gordon would never...
+VILJOEN	m	Not an easy task either -- the press screaming blue murder -- especially the English.
+VILJOEN 	m	And they'll be the first to squeal if the Reds took over, make no mistake. Rushing back overseas clutching their bloody British passports. Have you any idea what will happen here if we don't follow every lead? We have a duty -- obligation. You have your job -- we have ours.
+BEN	m	Colonel -- believe me, I'm with you all the way. But in this case -- I'm sure that in your worthy pursuit of the guilty you have, unwittingly, involved the innocent. After all, we're all human. We all make mistakes sometimes.
+VILJOEN	m	We are indeed, Mr. Du Toit -- we are indeed. Though there's many who might need persuading as to that fact.
+VILJOEN	m	Mr. Du Toit. While you're here, would you mind if I asked you a few questions about Ngubene?
+BEN	m	Colonel, I'd welcome it.
+VILJOEN	m	Shall we start with his son?
+BEN	m	Jonathan.
+VILJOEN	m	The eldest.
+BEN	m	Yes.   He died some time ago.
+VILJOEN	m	What do you know about Gordon's activities since Jonathan's death?
+BEN	m	Nothing, Colonel.
+VILJOEN	m	Did Gordon ever discuss the death with you?
+BEN	m	Of course he did -- he was upset.
+VILJOEN	m	But he accepted the truth?
+BEN	m	He is a religious man... in the end he would have resigned himself to it.
+BEN	m	Come on, Colonel! If one of your kids died... ... and nobody would tell you how it happened or where his body is buried, wouldn't you be upset?
+STOLZ	m	We told him how his son died, Mr. Du Toit.
+VILJOEN	m	You have a son, Mr. Du Toit?
+VILJOEN	m	Does he burn and destroy -- everything he can lay his hands on?... No -- and neither does mine. That's what I can't understand... after everything the government does for them. Think about it, Mr. Du Toit. We're for you, not against you.
+BEN	m	I've never doubted it, Colonel. It's you who appear to be doubting me. These questions.   You're making me feel like a criminal.
+VILJOEN	m	I'm sorry, Mr. Du Toit... I'm sorry. It's force of habit. Once a policeman, always a policeman, eh?
+VILJOEN	m	... As soon as we're satisfied he's innocent, he will be released. We know what we're doing, Mr. Du Toit. You want your wife and that boy of yours to sleep safe tonight, don't you?
+BEN	m	One last favor, Colonel?
+VILJOEN	m	Fire away!
+BEN	m	Gordon's wife -- she's very worried. May she bring him some food and a change of clothes while he's still here?
+VILJOEN	m	No problem!    Thank you for your help...
+BEN	m	Thank you.    I'll rely on you, then.
+VILJOEN	m	Will you find your way out?
+BEN	m	I think so. And thanks.    I feel much happier now.
+VILJOEN	m	Good! And give my regards to your father-in-law -- tell him we'll have a drink sometime -- maybe go to a game.
+BEN	m	I will.   Goodbye.
+VILJOEN	m	Is the little bird singing yet?
+STOLZ	m	I'm working on it.
+VILJOEN	m	Good.
+BEN	m	That's right, Suzette. But, only one detainee: 'Gordon!'
+SUZETTE	f	Our Gordon?
+BEN	m	That's right.
+SUZETTE	f	My God. What on earth for?
+SUZETTE	f	It must be a mistake, Papa.
+BEN	m	Of course it is. I went down there, told them. They're looking into it.
+SUZETTE	f	Went down where?
+BEN	m	John Vorster Square.
+SUZETTE	f	You old devil you. Does Ma know?
+SUZETTE	f	Be careful. I don't want my favorite Papa in trouble, Gordon or no Gordon.
+BEN	m	More wine?   Viviers?
+VIVIERS	?	Not for me, Oom Ben. I'm drunk enough.
+BEN	m	Mrs. Cloete?
+MRS. CLOETE	f	Please!
+MRS. CLOETE	f	Oh, I saw those sheets you liked, Sally, on sale at Bloom's.
+MRS. BESTER	f	Will you be free on Wednesday afternoon? I have one or two other things to buy.
+SUSAN	f	Come in.
+SUSAN	f	Who are you? What do you want?
+BEN	m	It's all right.
+BEN	m	Oh, it's you... hum... Stanley, isn't it? That's all right, darling.
+LEWINSON	m	A Friday night, man! I'm no doctor, I'm not on standby all the bloody time. Can't they wait 'til Monday?
+BEN	m	Dan! I'm standing here with Gordon's clothing in my hand. It's bloodstained...
+BEN 	m	There are broken teeth in the pocket. Monday may be too late! The lawyer has been banned.
+LEWINSON	m	Do you mean Julius Nqakula? Too bad, he's a good lawyer. Why are you getting so involved, Ben?
+BEN	m	I'm just trying to help Gordon. ... You represented many cases, tell me, does this happen often? But Gordon's not political. Okay, Dan, I'm sorry for disturbing your weekend.
+BEN	m	He agrees to see you tomorrow and will apply to the supreme court for an interdict to stop any assaults on Gordon. And, we'll find out what's going on.
+STANLEY	m	You're all right, Lanie.
+EMILY	f	Thank you, Baas.
+STANLEY	m	Come on, sisi. Tomorrow it'll all be first-class again.
+CLOETE	m	I have a responsibility for the children. These are troubled times, Ben, we can't trust the natives any more.
+BESTER	m	You have to be extra careful about any influences, Oom Ben. Even their churches are breeding grounds for all sorts of evil ideas.
+BEN	m	Gordon's not subversive and definitely not a Communist.
+CLOETE	m	Then he's got nothing to worry about!
+VIVIERS	?	Except his three teeth. Our government mustn't allow such things to happen. After all, it's a Christian government. What do you say, Dominee?
+BEN	m	I'm not talking about the government! I believe in our government, damn it...
+SUZETTE	f	Anything else, Papa?
+BEN	m	Dominee?
+BESTER	m	Nee Dankie.
+VIVIERS	?	Oom, Ben, may your problems be small ones!
+CAPTAIN STOLZ 	m	Sorry I'm late.
+CAPTAIN STOLZ	m	Johnannes, the table.
+LIEUTENANT VENTER	m	You're a heavy shitface. Too much mealie porridge!
+STOLZ	m	How do you feel today?   Ready to fly?
+STOLZ	m	Yes, Mister Ngubene, we know about this Wellington... and... ... We know about him... and him ... Now, we want the names of the others. And today you're going to tell us.
+STOLZ	m	Bloody woman. Water!
+LIEUTENANT VENTER	m	'Samson' is ready, Captain, shall I switch him on?
+STOLZ	m	Okay.   Gert!
+GORDON	m	Hai!
+STOLZ	m	That was a small taste of 'Samson.' We have a whole day...
+STOLZ	m	What do you want?
+SEROKE	m	A letter for you, Captain.
+STOLZ	m	What are you bloody-well waiting for?
+SEROKE	m	No reply, Captain?
+STOLZ	m	Get out of here.
+STOLZ	m	Now about these affidavits who told you to collect them? The A.N.C.? Who recruited you?
+GORDON	m	I don't know anything about the
+STOLZ	m	You've had your chance.    Now you're going to shit.
+STOLZ 	m	Reg gert. (Okay, Gert)
+GORDON	m	Hai!   Hai!   Hai!
+BESTER	m	God created the whole human race so that they could occupy the entire earth. He decreed how long each nation should flourish, and what the boundaries of each territory should be. Our task is to preserve that creative diversity.
+BESTER	m	Brothers and sisters, like our forebears, the Voortrekkers, who trekked into the wilderness preserve the Afrikanere way of life given to them by God. Today, we also live in times of great danger. Let not fear overcome you! Cling to the ways of justice and truth preserved by our leaders. So shall God be honored...
+BESTER	m	... So shall the Afrikaner people flourish.
+SUSAN	f	Ben, what's happening? Sometimes it seems to me I don't know you.
+BEN	m	What's happening -- it's something I've never had to face -- deal with -- before.
+SUSAN	f	He's the gardener for God's sake, not one of the family.
+BEN	m	Be patient with me... When Gordon is free you'll have me all to yourself again... promise.
+SUSAN	f	Ben.    We're growing old.
+JOHAN	m	Papa.
+JOHAN	m	Stanley's here, Papa.
+SUSAN	f	Oh, bloody hell!
+STANLEY	m	Gordon's dead.
+STANLEY	m	The bastards say he committed suicide... hanged himself.
+BEN	m	Suicide... is that what they told Emily -- poor woman...
+STANLEY	m	They didn't tell her. She heard it on the radio like the rest of us. I contacted Lewinson immediately. He then rung the police to ask why Emily wasn't informed. Would you believe it, they said they were sorry, and they didn't know where to contact her.
+BEN	m	God! I never thought Gordon could commit suicide.
+STANLEY	m	Did you understand me? I said, they said he committed suicide.
+BEN	m	How do we know?
+STANLEY	m	Gordon wasn't a coward.
+BEN	m	Yes, but...
+STANLEY	m	What do you mean 'but'? What about Timol who they said had jumped from a top-floor window? What about Ngudle? What about Mosala? Joyi? Malele? They all died in that John Vorster Square. All suicide, eh?
+BEN	m	Anything I can do to help?
+STANLEY	m	He's got brothers.
+BEN	m	Brothers?
+STANLEY	m	I'm his brother, man, we all are! We'll take care of everything. That's the African way.
+BEN	m	Stanley, I'd like to see Gordon.
+STANLEY	m	Don't look for trouble, man. You know there are riots all over Soweto. You're out of it. Why don't you stay out?
+BEN	m	Don't you understand?   I've got to go.
+STANLEY	m	You got to go? Of course, Lanie... the last farewell. But we have to be careful.
+STANLEY	m	We expected it.
+BEN	m	How can you talk like that!?
+STANLEY	m	A guy gets picked up by the S.B... he's part of history, man.
+BEN	m	You mean you had no hope, you didn't believe he'd be released?
+STANLEY	m	Hope's a white word, Lanie... It's not hope we need.
+BEN	m	Well, thank God Emily has you to lean on, Stanley.
+STANLEY	m	Emily is like my sister... We go back many years.
+BEN	m	Do you belong to the xhosa tribe too?
+STANLEY	m	I am an African. That's all! Comprende?
+BEN	m	I am an African too!
+BEN	m	I was fourteen before I wore shoes -- except for church... I grew up on a plaas miles from any town... watching sheep and...
+STANLEY	m	Bullshit! Next you'll have me believing we grew up in the same country, same laws, same freedom, same everything!
+STANLEY	m	We are now about to leave the white jungle and entering the land of love and glory.
+BEN	m	So this is Soweto.
+STANLEY	m	Land of love and glory, Lanie! But watch out for the police and army. They're patrolling all the time.
+STANLEY	m	Hurry up, Lanie.
+STANLEY	m	No sweets today. I'm sorry, babies.
+STANLEY	m	What are your thoughts now?
+BEN	m	What do you mean?
+STANLEY	m	Come on. I know you came to see the body. What do you think now?
+BEN	m	I... I cannot think.   I'm confused.
+STANLEY	m	You either believe what you saw or maybe you still prefer the government version.
+BEN	m	For Christ sake, just get off my back, Stanley.
+STANLEY	m	Okay.   It was a simple question.
+STANLEY	m	You know, Lanie, when you run a taxi, especially a pirate taxi like me, you have eyes and ears everywhere. Even when a policeman farts in his bed you know. People want a reference book, a permit to stay in Soweto, a house, anything, we taxi drivers know the routes. I'll tell you something...
+STANLEY	m	Dr. Hassiem has been picked up.
+STANLEY	m	Dr. Hassiem is the doctor we got to represent Emily at Gordon's autopsy. We wanted the truth.
+BEN	m	He would have testified.   Bloody hell!
+STANLEY	m	A smart move by your Boer brothers. They have silenced Hassiem.
+BEN	m	His report has to be important. We can only use what we have. Therefore, Lewinson must get a very good advocate. If only we could get   hold of this Hassiem's report.
+STANLEY	m	What's the use? It's one big game and we blacks are merely spectators. Hey Lanie, can one be a spectator as he's being kicked around?
+BEN	m	It's not a question of being spectators. The courts are impartial, the law is what matters.
+STANLEY	m	That's what you all say. I have to move man. Your neighbors! Now, be careful. They will put their marks on you!
+BEN	m	Who?
+STANLEY	m	You'll find out! In case you need me. Don't give your name -- just say 'Lanie' phoned -- right?
+BEN	m	Now tomorrow at ten...
+STANLEY	m	Sharp! At our smart liberal friend's office, yeh!
+BEN	m	Good night.
+BEN	m	I went to Soweto and saw Gordon's body. They have lied to me, my own people -- they killed him! I saw the body.
+SUSAN	f	Ben, you're not a doctor. His death was announced officially. They wouldn't say anything unless they were certain of their facts.
+BEN	m	Facts? There's a doctor who participated at the autopsy.   A Doctor Hassiem and he...
+SUSAN	f	You mean the Indian doctor who's been arrested?
+JOHAN	m	It was in the five o'clock news, Papa.
+BEN	m	That's him, he represented Emily at the autopsy.
+SUSAN	f	Ben, I'm sorry about Gordon's death, but please for all our sakes, forget about this whole thing. Let's get back to a normal life.
+BEN	m	Can I have a drink?
+BEN	m	You always know what I need.
+SUSAN	f	Please, Ben, I'm frightened.
+SENIOR OFFICER	m	The funeral is over. I order everyone to go home. This is not a political rally. I repeat, disperse.
+COMMENTARY 	?	Despite repeated warnings young blacks attacked the police with rocks and petrol bombs. Five policemen were injured.
+COMMENTARY 	?	Several arrests were made. One youth was killed and five wounded.
+NEWSCASTER 	?	This morning there was a serious disturbance at the funeral of Gordon Ngubene.
+NEWSCASTER	?	The detainee who committed suicide by hanging himself at John Vorster Square. An overseas television cameraman broke an arm during the disturbance. It's been reported that several people had been killed by a car-bomb in Belfast Northern Island...
+BEN	m	How are you, Emily?
+EMILY	f	Well, thank you, Mr. Ben, sir. Eh, that's father Masonwane, our priest, and that's Margaret from next door.
+STANLEY	m	Mfundisi... (priest) ... Sisi! (sister)
+EMILY	f	Please sit down. Take this chair, the other one is broken.
+BEN	m	I didn't mean to disturb you. I've come to talk to you.
+EMILY	f	Yes, it's good. What I want to know is why did they kill him. He didn't do them nothing. You know, Mr. Ben, sir, I washed his whole body for he was my husband. And I know a man who killed himself, he doesn't look like that.
+MARGARET	f	Master, you must understand she's still raw inside.
+EMILY	f	Robert, where are you manners today? Don't you greet visitors?
+EMILY	f	I'm sorry for his rudeness.
+PRIEST	m	You have to understand what's happening to our children today, they're like wasps when you burn their nest.
+MARGARET	f	That's right. Our children are saying 'that's enough!' Things have to change in this country. They accuse us of being cowards.
+BEN	m	Emily, I have really come to assure you that I will do all I can to help you find out what really happened to Jonathan and your husband -- we cannot bring them back to life, but we can make sure that this sort of thing won't ever happen again.
+PRIEST	m	You mean well, sir, but it's better to forgive. If we keep the pain alive then hate and bitterness will remain with us.
+BEN	m	The air must be cleared.   So we can breathe again.
+PRIEST	m	The air can only be cleared if we forget about yesterday's thunder.
+EMILY	f	Mr. Ben is right. It's not that I want to go on with this thing because it's a bad thing that Jonathan died, that Gordon died that's hard enough to bear, but I can forgive it. But they covered Gordon's name with dirt and we must clean it up, else he'll never have peace in his grave.
+STANLEY	m	You must understand for us, suicide is a coward's way out, how do they say, it's a 'cop out.'
+BEN	m	Gordon wasn't a coward and we'll prove that. We have a very good advocate for the inquest. His name is De Villiers. I have confidence in him and the truth will come out.
+EMILY	f	The truth must be known. They killed my husband who wouldn't hurt a fly and they killed Jonathan who was only a child...
+PRIEST	m	Those people who did it are sinful people who don't know what they're doing.
+PRIEST	m	We must help them. That's the only way. They need our help, not hate, but love.
+PRIEST	m	I pity them and I ask the Lord to help me so I can learn to love them.
+STANLEY	m	If that's what you preach in your church you will soon be starving.
+EMILY	f	They covered his name with dirt.
+PRIEST	m	Aren't you afraid sis Emily?
+EMILY	f	No. In the end one grows tired of being afraid.
+BEN	m	Emily, Stanley and I will do all we can. As I said we have a good advocate. Everyone involved with Gordon's death will be questioned and all that's known regarding what happened in John Vorster Square will come out.
+MARGARET	f	How can anything come out of that John Vorster Square? Who there will say: 'Yes, we killed the boy and Gordon?'
+BEN	m	Lawyers ask questions.
+MARGARET	f	And don't policemen lie?
+EMILY	f	Thank you, Mr. Ben, sir for what you're doing.
+BEN	m	I'm pleased I came.
+STANLEY	m	Wait, let me check the situation.
+STANLEY	m	Take it easy. It's okey, dokey, but hurry.
+BEN	m	Do I...
+STANLEY	m	Yes, on the floor man.
+BOY	m	Sure 'bra' Stanley. Take it easy.
+BEN	m	Are we still in Soweto?
+STANLEY	m	Why don't you look for yourself?
+BEN	m	What the hell are you playing at?
+STANLEY	m	Precautions, Lanie.
+BEN	m	Don't call me Lanie!   What does that mean anyway?
+STANLEY	m	You will not understand, Lanie.
+DE VILLIERS	m	You are sure about the hanging? This pressure on the neck, could it also have been exerted in other ways?
+DR. JANSEN	m	It could, but it is not for me to speculate.
+DE VILLIERS	m	Of course not, Doctor. The list of injuries found on the body was horrifyingly long; bruises, swellings, abrasions, broken rib, lacerations, etc. How long before death do you estimate he received these injuries?
+DR. JANSEN	m	I couldn't say exactly.
+DR. JANSEN	m	Some were fourteen to twenty days old, others three to four days and others even more recent.
+DE VILLIERS	m	Even more recent. I see. I understand you had a Dr. Hassiem present at the autopsy.
+DR. JANSEN	m	That's correct.
+DE VILLIERS	m	There were two reports, ours and his. Did they tally?
+DR. JANSEN	m	Yes, it was.   In most respects.
+DE VILLIERS	m	Isn't it normal practice to have one report? Why did Dr. Hassiem decide to draw up a separate report? If he really co-signed yours.
+DR. JANSEN	m	That's for him to answer!
+DE VILLIERS	m	I would very much like to, Dr. Jansen, but he's been detained -- you know of course that he represented the Ngubene family. Thank you.
+DE VILLIERS	m	Dr. Herzog, did you examine the deceased?
+DR. HERZOG	m	Yes, one day Captain Stolz called me in. The man had toothache.
+DE VILLIERS	m	That's all?
+DR. HERZOG	m	As far as I could tell -- yes.
+DE VILIERS	m	You didn't examine him thoroughly?
+DR. HERZOG	m	Why should I? The man was perfectly healthy, just complaining of toothache. I extracted three decayed teeth, and gave him aspirin for the pain... that's all.
+DE VILLIERS	m	Did the captain or anyone else assist you during the examination?
+DR. HERZOG	m	I... I cannot remember.
+DE VILLIERS	m	Dr. Herzog, tell us. Have you been intimidated by the Security Police or did you deliberately cooperate with them in playing their disgusting little game of hide-and-seek?
+LOUW	m	I protest, Your Worship.
+MAGISTRATE	m	Advocate De Villiers, will you refrain from insinuations?
+DE VILLIERS	m	Thank you, Doctor Herzog... I'm sure Gordon Ngubene was extremely grateful!
+MAGISTRATE	m	Advocate Louw?
+LOUW	m	Thank you, Your Worship. I'd like to call Captain Stolz.
+LOUW	m	You're a police officer stationed at John Vorster Square?
+STOLZ	m	That's right, Your Worship.
+LOUW	m	You arrested Gordon Ngubene. Could you describe what happened?
+STOLZ	m	Acting on information we had received, I went to the house of the deceased, accompanied by Lieutenant Venter, Lieutenant Botha, and three native members of the security force. This was about 10 P.M. I informed Ngubene that he was under arrest under Article 6 of the Terrorism Act. He then became violent and resisted arrest. A certain force had to be applied to restrain him.
+STOLZ	m	We found several incriminating documents. These pointed to his involvement with the A.N.C. and activities endangering the security of the state.
+DE VILLIERS	m	Thank you, Your Worship. Captain Stolz, you said you treated the deceased always with courtesy and correctness, then how do you account for the injuries found on the body?
+STOLZ	m	Sometimes detainees deliberately injure themselves for propaganda purposes.
+DE VILLIERS	m	You say he tried to jump out of the open window... Are there no bars to prevent such an act?
+STOLZ	m	They had been removed for repair.
+DE VILLIERS	m	And why did he wish to jump out? Because you were torturing him?
+STOLZ	m	He wasn't tortured.
+DE VILLIERS	m	Perhaps it was the toothache then.
+DE VILLIERS	m	You said you seized incriminating documents at the deceased's home; can you produce them to see how subversive he was?
+LOUW	m	Those documents cannot be introduced as evidence, Your Worship, in view of the fact that state security is involved.
+DE VILLIERS	m	I put it to you, Captain -- that the only subversive activities the deceased had been involved in were his efforts to establish what happened to his son, Jonathan, allegedly shot during a riot, although several witnesses are prepared to testify that he died in detention one month later.
+LOUW	m	I protest...
+DE VILLIERS	m	This would support my case that an innocent man has died in your hands under highly questionable circumstances.
+LOUW	m	If it please Your Worship... this unwarranted slur on the integrity of the special branch is unacceptable... and based, I may say, on allegations which are in any case irrelevant to the present inquest.
+DE VILLIERS	m	If the police are really interested in retaining an unsullied reputation, they should not object to the real facts being presented. Thank you, Captain.
+LOUW	m	The real facts are being presented -- as the following affadivits prove. They are all by detainees -- who testify that they had all seen the deceased intermittently from the time of his detention -- to the time of his death -- and on all occasions he was in good health.
+DE VILLIERS	m	I trust the signatories of these ... documents... are available to corroborate their evidence in person.
+DE VILLIERS	m	Mr. Archibald, when did you first meet Gordon Ngubene?
+ARCHIBALD	m	I never saw Gordon Ngubene.
+DE VILLIERS	m	Are you saying that you didn't sign this statement?
+ARCHIBALD	m	... I never met Mr. Ngubene... they forced me to sign. Captain Stolz, he hit me many times with a rubber hose... he said he would kill me 'less I signed... this... this is what he did to me.
+DE VILLIERS	m	Thank you, Mr. Archibald.
+MAGISTRATE	m	Advocate Louw?
+LOUW	m	No thank you, Your Worship.
+DE VILLIERS	m	May we put up the second signatory?
+LOUW	m	Your Worship -- the other three signatories cannot appear for reasons of state security.
+DE VILLIERS	m	Your Worship, I'd like to recall Captain Stolz.
+DE VILLIERS	m	Captain, you're still under oath -- you took Archibald's statement. Was it voluntary? I'm sure you'll say it was, then how did he come by the injuries on his back?
+STOLZ	m	He fell down the stairs a few days ago.
+DE VILLIERS	m	Fell down the stairs. You should do something about those stairs, Captain, so many people fall on them. Thank you.
+STOLZ	m	Your Worship, may I be excused? I have to escort detainee Archibal back to John Vorster Square.
+MAGISTRATE	m	You may, Captain, and thank you. I think this's a good moment to adjourn -- we'll reconvene at two thirty.
+BEN	m	De Villiers is making mincemeat of them.
+LEWINSON	m	He's very good. His cross- examination has got them rattled.
+BEN	m	It's obvious to anybody! The evidence is clear! Did you see Archibal's back? He didn't have to tell the truth.
+LEWINSON	m	That's what Stolz is saying to him right now in his torture room.
+EMILY	f	Captain Stolz lied. My husband never fight the police when he was arrested. They were rough with him, pushing him and threatening.
+DE VILLIERS	m	When your husband's clothes were given to you, in what condition were they?
+EMILY	f	There was blood on them and in the back pocket I found three broken teeth.
+DE VILLIERS	m	Now Mrs. Ngubene, you have seen the note that's said to have been written by your husband. Do you recognize the writing?
+EMILY	f	That's not how my husband writes. He never wrote that letter, they lie.
+DE VILLIERS	m	Thank you, Mrs. Ngubene.
+MAGISTRATE	m	Advocte Louw?
+EMILY	f	They killed my husband and son.
+MAGISTRATE	m	Will you take the woman out?
+DE VILLIERS	m	I'd like to call my last witness. Grace Nkosi.
+DE VILLIERS	m	Were you ever detained?
+GRACE	f	Yes sir, at John Vorster Square.
+DE VILLIERS	m	For how long?
+GRACE	f	Six months.
+DE VILLIERS	m	Can you tell us what happened to you during that time?
+GRACE	f	I was interrogated by many special policemen, but mainly Captain Stolz and the one they call Venter. As they were searching somebody I know, they wanted me to tell them where that person was hidden. As I refuse to cooperate they beat me with a sjambok. After some time I fell and they kicked me in the face and stomach.
+GRACE	f	I spot blood and they try to make me lick it. Then Captain Stolz threw a wet towel and started twisting it around my neck... ... until I lost consciousness. They did this several time and the last one Captain Stolz said 'come on meid, speak up, or do you want to die like Gordon Ngubene?' A few days later I was released.
+DE VILLIERS	m	Thank you, Miss Grace. That's all, Your Worship.
+LOUW	m	You made that up. Say you made it up.
+GRACE	f	It's the truth. I have nothing more to say.
+MAGISTRATE	m	We shall adjourn until tomorrow morning. I'll hear the arguments and give the verdict.
+MAGISTRATE	m	I wish to thank both advocates for conducting this case without rancour and in the best traditions of the South African legal profession.
+MAGISTRATE	m	I have listened to all the evidence and the arguments. To begin with I have to say that there was no conclusive evidence offered to prove beyond doubt that members of the Security Police had been guilty of assault or any irregular conduct on the deceased. There were indications that Ngubene was aggressive and on more than one occasion had to be restrained with force. There was sufficient evidence to conclude that death had been caused by a trauma following pressure applied to the neck, consistent with hanging. Consequently, I find that Gordon Ngubene committed suicide by hanging himself and that on available evidence his death cannot be attributed to any act or omission or amounting to a criminal offense on the part of any person.
+STANLEY	m	Don't worry, man. There's another day!
+BEN	m	I'm sorry, Emily.
+REPORTERS	m	'Mister Du Toit, how do you know Mrs. Ngubene?' 'Mister Du Toit, can you answer, is it true, he was a terrorist?'
+REPORTERS	m	Mister Du Toit, what do you think of the verdict? Do you believe the police?
+REPORTER	m	Hang on, Melanie, I'm coming with you.
+MELANIE	f	Fuck off.
+BEN	m	My car is over there.
+MELANIE	f	Never mind your car. Let's get away from these vultures.
+MELANIE	f	By the way, I'm Melanie Bruwer.
+BEN	m	Obviously of the Rand Daily Mail. I read your article about Jonathan.
+MELANIE	f	Ten out of ten, Mr. Du Toit.      I know about you too.
+BEN	m	You do?
+MELANIE	f	We have a mutual friend.    One Stanley.
+BEN	m	I remember. The mortuary in Soweto... ... The ambiguous Stanley.
+MELANIE	f	Stanley? No. Just careful. A big black rough uncut diamond. Don't be fooled by his happy-go- lucky attitude. There's much more to him.
+BEN	m	He couldn't have given you a glowing report of me. I'm sorry, but where are we going?
+MELANIE	f	I thought a cooling drink at my house.
+BEN	m	Mrs. Bruwer, I'm not...
+MELANIE	f	I promise you. I'm not after an interview or anything like that.
+BEN	m	I really must go home.
+MELANIE	f	Please, Mr. Du Toit, and you'll meet my darling father.
+MELANIE	f	There he is by the eucalyptus tree, on the left. That's old Bruwer.
+BEN	m	How long have you lived here?
+MELANIE	f	Oh, about twenty-one years.   I love this house.
+BRUWER	m	Is that you, Melanie?
+MELANIE	f	Of course, Dad. I want you to meet a friend.
+BRUWER	m	Does anyone have a friend nowadays?
+MELANIE	f	Mr. Du toit, Dad.
+BRUWER	m	Do you like bees?
+BEN	m	I have nothing against them.
+MELANIE	f	Be careful, I can see philosophy coming.
+BRUWER	m	You shut up. Let me tell you about bees, and for that matter ants: a bee has a completely altruistic sense of purpose -- based on the common good. A course from which he cannot be deflected. Greed, ambition, they mean nothing to him. He lives solely to serve his fellow bee.
+MELANIE	f	What about individuality, Dad?
+BRUWER	m	There's the rub, my girl. There's the rub. One of these days I'll ask the bees. I'm sure they have the answer. Now, you two run along!
+MELANIE	f	A drink, Dad?
+BRUWER	m	I've been peeing too much this morning.
+MELANIE	f	The mugs are the few things that Dad brought from Germany. He studied philosophy in Tubingen and Berlin before the last war.
+BEN	m	I thought they were German?
+MELANIE	f	Mr. Du Toit, tell...
+BEN	m	Please, call me Ben.
+MELANIE	f	All right, Ben, tell me, why are you so depressed? You really expect a different verdict?
+BEN	m	Why do you ask? Can you understand it?
+MELANIE	f	Of course I understand it. What could they have. I'm not cynical. I'm only trying to be realistic.
+BEN	m	Tell me, Miss Bruwer...
+MELANIE	f	Ben and Melanie, that's fair.
+BEN	m	Tell me, do you believe in the notion of justice?
+MELANIE	f	I'll never stop believing. But in this country I've learned it's pointless to look for it in certain situations.
+BEN	m	What use is a system if justice does not apply to all situations?
+MELANIE	f	Exactly. And you cannot fight for justice unless you know injustice very well. You've got to know your enemy first.
+BEN	m	That's a tall order: 'know injustice... know the enemy.' it seems I have a long haul ahead of me.
+MELANIE	f	Not at all, Ben. You have already taken the first steps. Welcome to South Africa!
+SUSAN	f	Did you enjoy the 'bobotie?' When I heard the verdict on the news I knew you'd be upset. I wanted to make you something special.
+BEN	m	Thank you, darling.
+SUSAN	f	I'm glad it's all over. You take things to heart too much.
+BEN	m	They killed Gordon -- first they kill Jonathan, and then him. How can they get away with it?
+SUSAN	f	Now come on, Ben. Gordon's death upset me, too. But the Magistrate had all the facts. He must know what he's doing, he's had years of experience. The case has run its course, and nobody can do anything more about it! It's all over and done with.
+BEN	m	I'm not so sure about that, Susan!
+SUSAN	f	I'm damned well sure! It's over, Ben! You better get that into your head.
+SUSAN	f	A teacher, always a bloody teacher. You never moved yourself for us. But for the blacks, oh yes. Whose side are you on, Ben? And I'm sick and tired of those natives coming here. Why don't you bloody well go and live in Soweto?
+SUSAN	f	Now where are you going?
+BEN	m	Soweto!
+BEN	m	More meneer Van de Merwe. (Morning Mister Van de Merwe.)
+PROPRIETOR	?	More meneer du Toit.
+BEN	m	Our boys gave the Eastern province a thrashing.
+BEN	m	Is anything wrong?
+BEN	m	And a packet of tobacco and pipe cleaners.
+BEN	m	See you tomorrow.
+SUZETTE	f	Now, Papa, this is going too far! How could you?
+BEN	m	How's that, Suzette? "EMILY NGUBENE, wife of native who died in detention, comforted by a friend of family, Mr. BEN DU TOIT."
+SUZETTE	f	You didn't stop to think of the family. Poor mother, how can she face anyone? And tomorrow is Sunday!
+BEN	m	Now listen...
+JOHAN	m	What's everybody yelling about?
+SUZETTE	f	You listen, Papa, just tell me, why?
+BEN	m	Do you really think I specially arranged for the photographers to take that picture? And what's more it's distorted.
+SUZETTE	f	What's distorted about it? Your face is practically touching that meid's face, like you were about to kiss her.
+BEN	m	Suzette, pull yourself together!
+SUZETTE	f	Today the whole country has seen that photograph. We, your children, are going to suffer. At this very moment Chris is negotiating with the Provincial Council. Would you like to see them cancel it? You have no feeling, Papa!
+BEN	m	Suzette!
+JOHAN	m	What's Papa done, anyway? If something happened to him, wouldn't you be upset?
+SUSAN	f	Not enough, Johan, to throw myself into the garden boy's arms.
+BEN	m	That goes without saying.
+JOHAN	m	There must be easier ways of getting your name in the paper.
+BEN	m	Who?... I don't know you and have nothing to say to you... No thank you for your advice!
+BEN	m	It's you, Viviers... I appreciate it... of course... Not yet... Any thank you. Tot siens.
+BEN	m	Morning, Mr. Cloete...   I'd like to say... ... Mr. Cloete, may I ask what on earth has the picture to do with politics?... I'm sorry Mr. Cloete, I have to go.
+BESTER 	m	Isn't it presumptuous to pretend we can speak for someone else?
+BEN	m	Have you no faith in your fellow men, Dominee? Don't you love your neighbor?
+BESTER	m	Wait a minute, instead of criticizing blindly, don't you think we have reason to be proud of the judiciary we have?  suppose this had been Russia; what do you think would have happened then?
+BEN	m	What's the use of reaching a court when a handful of people have all the power to decide what is going to be said in that court and by whom? The one man they allowed to speak for himself, that young Archibald Chigorimbo, didn't he immediately deny everything they forced him to say in his statement? And the girl who spoke of her own torture?
+BEN	m	That did not refer to our situation in this South Africa. Do you know what I believe in, Dominee, that once in one's life, just once, one should have enough faith in something to risk everything for it.
+BESTER	m	One can gain the world and still lose one's soul. Tea must be ready.
+CLOETE	m	I thought I had warned you about involving yourself with Kaffirs. Obviously you didn't heed my advice.  That's all I have to say for now.
+VIVIERS	?	'Morning, Oom Ben.
+BEN	m	Viviers.
+VIVIERS	?	Private coffee with Cloete?
+BEN	m	Good afternoon, Professor.
+BRUWER	m	Melanie isn't home. You are...
+BEN	m	Ben Du Toit. You have a nice vegetable garden.
+BRUWER	m	You mean the area or the produce?
+BEN	m	Both.   What plants are these?
+BRUWER	m	What's the world coming to? It's herbs, can't you see? Thyme there, oregano over there, feunel next to the tomatoes, sage here and rosemary somewhere. Poor plants, they re not in their ideal soil or climate. Next time, I'll bring some soil from the mountain of Zeus. Perhaps the old man's holiness will do the trick.
+BRUWER	m	Come, you are just the person to sample my greengage wine. I don't suppose you've ever tasted it? I'm sure I'm the only person in the country making greengage wine.
+BRUWER	m	The first bottle this year, and you don't have to tell me if you like it or not. Tell me, did you ever study philosophy?
+BEN	m	Not really.   I've read a few books.
+BRUWER	m	Not bad, in fact quite good. Now where was I... Oh, I was going to say after decades of philosophy, I find myself being forced back to the earth. Do you know, Ben, we're all living in the spell of abstractions. Hitler, apartheid, the great American dream, the lot?
+BEN	m	What about Jesus?
+BRUWER	m	Misunderstood.
+BRUWER 	m	You don't have to finish it.
+BEN	m	It's quite nice.
+BRUWER	m	Melanie has told me a little about you. It's not an easy road you have chosen.
+BEN	m	I feel I have no choice.
+BRUWER	m	Of course you have a choice. Damn it. One always has a choice. Only thank God you made the choice you did. But all I want to say is, keep your eyes open, young man.
+BEN	m	That's encouraging.
+BRUWER	m	We are both Boers, Ben. We know how hard our people worked to get a toehold on this land; it was a good life. Now look at the mess. It's all systems and no God! Sooner or later people start believing in their way of life as an absolute: unmutable, fundamental, a precondition. Saw it, with my own eyes in Germany, a nation running after an idea. Sieg heil, sieg heil. I left there thirty years ago because I couldn't take it any longer. And now I see it happening in my own country, step by step. Terrifyingly predictable. This sickness of the great abstraction.
+BEN	m	What you say is very interesting and important.
+BRUWER	m	Take for example the way the government is handling the electorate; like a bloody donkey. Carrot in front and kick at the backside. The carrot is apartheid, Dogma. The kick is quite simply, fear. Black peril, red peril, whatever name you want to give it. Fear can be a wonderful ally, Ben. I talk too much, I always do with younger people, they don't fall asleep to me.
+BEN	m	We Afrikaners have to stop to turn a blind eye and look around us and at ourselves.
+BRUWER	m	You are right. We still have time. History should teach us about those who regarded themselves as the chosen people.
+BEN	m	Professor Bruwer, may I say I have needed to hear somebody say some of the things you said. I still have hope for our country.
+BRUWER	m	If you lose that you have lost everything. I'll get back to the earth.
+BEN	m	Thank you.
+BRUWER	m	I'll tell that hot-head daughter of mine that you came to see her.
+BEN	m	There is absolutely no doubt that they were killed in custody. Those responsible must be punished, whoever they are, or whatever their rank.
+LEWINSON	m	The problem is laying our hands on them.
+BEN	m	Tell me, Dan, we lost at the inquest, what next?
+LEWINSON	m	The family can file a civil claim.
+BEN	m	What does that entail?
+LEWINSON	m	To put it briefly, it means we have to have witnesses, affidavits and any information relating to the arrest and death of Gordon. We also need similar information on Jonathan. You see Ben, for example, Stolz figures in both cases. That's one link at least.
+BEN	m	I know what I have to do.
+MELANIE	f	I didn't think you would want to have anything to do with me after that crap in the Ossewa.
+BEN	m	Why?   You didn't write it.
+MELANIE	f	I'm a journalist, perhaps tarred with the same brush.
+BEN	m	No.
+MELANIE	f	So what happened? I can imagine. The family, the dominee, colleagues, neighbors...
+BEN	m	A distorted photograph and a few poisoned words and meneer Du Toit is a leper. That's why I called on you the other day, I needed to talk to somebody rational.
+MELANIE	f	Thanks for the compliment. But remember, you're an Afrikaner, you're one of them. In their eyes they regard you as the worst kind of traitor.
+BEN	m	You are an Afrikaner too, and your articles, in a liberal English paper?
+MELANIE	f	My mother was a foreigner, I'm not pure, wragte Afrikaner. They don't expect the same loyalty from me that they demand from you.
+BEN	m	What kind of loyalty? Blind loyalty. Until the deaths of Jonathan and Gordon, I gave all the loyalty I could give, laager loyalty. You know, Melanie, we Afrikaners have always lived in our laager, we have not seen what's beyond the mountains.
+MELANIE	f	Has it ever occurred to you that the Volk may be scared to leave the laager? That's the downfall of this country. So, where do you go from here?
+BEN	m	We carry on.   There has to be justice.
+MELANIE	f	Justice.
+BEN	m	We lost at the inquest, so we pursue them in a civil action.    I consulted the attorney Dan Lewinson.
+MELANIE	f	We know each other well.
+STOLZ	m	Mr. Du Toit, if you knew what we're working with every day of our lives, and what we're up against, you would understand why we have to be so thorough.
+BEN	m	However you go about it.
+STOLZ	m	I can understand you're upset about having your house searched ... but...
+BEN	m	I wasn't thinking about myself.
+STOLZ	m	What are you talking about then, Mr. Du Toit?
+BEN	m	My thoughts, Captain, I'm sure, are an open book to you.
+STOLZ	m	An interesting book -- Picasso -- Not one I'm familiar with.
+BEN	m	Not on your list of banned books, Captain?
+STOLZ	m	Mr. Du Toit. If you're keeping anything from us, we can turn this whole house upside down if we want to. We have all the time in the world.
+SUSAN	f	I'm afraid I don't understand.
+BEN	m	Why don't you go upstairs?
+STOLZ	m	I'm afraid she has to stay where we can see her -- in case she wanted to warn someone.
+SUSAN	f	My father's an M.P.!   Warn who?
+FATHER-IN-LAW	m	Roast beef, I hope it's like your mother's.
+SUSAN	f	Papa!
+SUSAN	f	Where's Mama?
+SUSAN	f	Mama!
+SUSAN	f	The perfume and a new hairstyle.
+MOTHER	f	Your father insisted that I don't disgrace you.
+SUSAN	f	I expected you a little later.
+FATHER-IN-LAW	m	She insisted we start early. Where is Ben?
+JOHAN	m	In the study. I'll get him.
+FATHER-IN-LAW	m	Have you put on weight, Susan?
+SUSAN	f	Please don't say that, Papa.
+BEN	m	Sorry.   Didn't hear you arrive.
+FATHER-IN-LAW	m	How are you, Ben?
+BEN	m	Fine.
+BEN	m	And how are you, Ma?
+MOTHER-IN-LAW 	f	Well, Ben, still have trouble with my feet.
+BEN	m	Why doesn't everyone sit down?
+SUSAN	f	I'll prepare some tea.     I baked a cake.
+FATHER-IN-LAW	m	I'm getting tired of the trek to Cape Town and then back to Pretoria. If I had my way, Parliament and government would be in the same city. There's nothing wrong with Pretoria.
+BEN	m	I thought you'd prefer Cape Town; the sea and Table Mountain.
+FATHER-IN-LAW	m	That's for   holidays. Anyway, Ben, one of the   reasons for this visit was that I   wanted to have a discussion   with you.
+BEN	m	What about?
+FATHER-IN-LAW	m	It's that photograph in the papers. Ben, a thing like that could be an embarrassment for someone who is a member of Parliament. It's a grievous day when one's family's behavior comes between him and his duty to the fatherland.
+BEN	m	Are you blaming me for trying to help those people?
+FATHER-IN-LAW	m	I've been doing that all my life, be they black or white. But no member of our family has been seen with a Kaffir woman before, Ben.
+BEN	m	I am glad you mentioned it, Father. Because I'd like to discuss the whole thing with you. First, there's the matter of Gordon Ngubene himself.
+FATHER-IN-LAW	m	What about him? I thought the case was closed.
+BEN	m	It's exactly what I said, Father, when Jonathan first got into trouble. Of course, they have good reasons: hushing up how Gordon died and how his son died!
+FATHER-IN-LAW	m	Ben, how could you side with the enemies of your people?
+BEN	m	You mean you're prepared to sit back and allow an injustice to be done.
+FATHER-IN-LAW	m	It's you, Ben, who talk about injustice? A man who teaches history at school? Did you forget what our people have suffered under the English oppressors? Now that we have at along last come to power in our own land.
+BEN	m	Now we're free to do to others what they used to do to us. What will you do if you were a black man in this country today, Father?
+FATHER-IN-LAW	m	Don't you realize what the government is doing for the blacks? It's a slow process, Ben. One of these days the whole bloody lot of them will be free and independent in their own parts of the land, the bantoustans -- what can be more just than that? But they're not ready yet.
+FATHER-IN-LAW	m	We have nothing to be ashamed of before the eyes of the world, my boy.
+BEN	m	We don't? I'm not sure we're going to survive.
+FATHER-IN-LAW	m	Don't underestimate us, Ben.    Our power of survival. We are Afrikaners!
+STANLEY	m	African time.
+BEN	m	I'm sorry.
+STANLEY	m	Doesn't matter, Lanie -- as long we are on time for the revolution.
+BEN	m	The special branch searched my house four days ago.
+STANLEY	m	The S.B. searches your house? Did they take anything?
+BEN	m	A few journals, letters -- nothing much. Just wanted to scare me, that's all.
+STANLEY	m	Don't be so sure. They may think you're onto something big.
+BEN	m	They're not that stupid.
+STANLEY	m	'Lanie' -- don't you believe it -- nothing's as stupid as the old S.B. If they decide it's a bomb they're looking for, you can shove a turd in their face and they'll swear to God it's a bomb.
+STANLEY	m	And did they?
+BEN	m	What?
+STANLEY	m	Scare you?
+BEN	m	No.   They tried too hard.
+STANLEY	m	Hallelujah! Shake, man. Join the club.
+STANLEY	m	On your knees, everyone, prayers time.
+STANLEY	m	Hey man, you should have been a mfundisi holiness oozer...
+JULIUS	m	Okay, Stanley. It's stupid, but one is forced to do these things.
+JULIUS	m	I'm Julius Nqakula... I'm banned and also under house arrest. That's why I have this ridiculous garb on.
+BEN	m	I understand.
+STANLEY	m	He's one of the most solid lawyers we have; they've immobilized him, that's the right word isn't it?
+BEN	m	Stanley has told me about you. I appreciate the risk you are taking by coming here to meet me. I was reading the notes Gordon smuggled out of John Vorster Square...
+JULIUS	m	May I have a glance at them?
+GORDON 	m	'My dear wife. I am still in these conditions... worse... and too much pain. They don't want to believe me. You must try to help me. They won't stop. You must care for the children. I don't know anymore if I will come home alive. They're very -- -- but God will provide. I love you and I miss you very much. Try to help me because...'
+JULIUS	m	When did you get the letters?
+EMILY	f	The first one two days after they took him away. And the other one came later.
+BEN	m	But, Emily, why didn't you tell me long ago?
+EMILY	f	I had given my word to the man -- who brought them to me --
+BEN	m	Emily, I have to meet the man.
+EMILY	f	He said he didn't want anybody to know who he is. I cannot make trouble for him in his work.
+BEN	m	He has to be persuaded.   He is very important to us.
+EMILY	f	You as a lawyer will understand.
+EMILY 	f	We intend starting a civil suit against the police, to do that it is necessary to have as many affidavits as we can from people who have any information about Gordon since he was arrested. And this man is vital and so is the Indian doctor.
+JULIUS	m	You mean Dr. Hassiem. How are you going to do that? You know of course that he is detained.
+BEN	m	I know, with luck they may release him.
+BEN	m	But, Emily, this man is important, please try to tell him we will protect his identity. No one will know. Nothing will be done without his approval. I only want to talk to him.
+JULIUS	m	Why don't you leave it to Stanley and I? What do you say, Stanley?
+BEN	m	May I call you Julius, I'm not very good with some African names.
+STANLEY	m	Nqakula, that's a hell of a name.
+JULIUS	m	Please call me Julius.
+BEN	m	This case must be reopened and we must win. We have to dig up everything. We need your cooperation, Julius.
+JULIUS	m	Where do I start? Don't forget my restrictions.
+STANLEY	m	They did not ban you so you could sit on your backside and have a Soweto holiday.
+BEN	m	You could help with the affidavits. Lewinson the lawyer has stressed their importance.
+JULIUS	m	We know each other. He's a good lawyer for this kind of case. Of course I'll do what I can. My commitment forces me.
+BEN	m	I'm glad.
+JULIUS	m	How   are you planning to safeguard the   documents? Stanley told me you   have already had a said by the   S.B.
+BEN	m	I wouldn't worry.    I have a secure place.
+STANLEY	m	Let's hope so.
+EMILY	f	I'll make some tea.
+STANLEY	m	Not for me, Sis -- too strong for me. No whisky?
+EMILY	f	In my house? You know better than that, Stanley.
+STANLEY	m	Tea then... ... and God forgive me --
+JOHAN	m	Yes.   I know.
+BEN	m	Does it worry you?
+JOHAN	m	Don't stop, Dad. You mustn't give up now!
+JULIUS 	m	... And on the morning of the autopsy, as I was cleaning the mortuary, Captain Stolz gave me a bundle of Ngubene's and ordered me to burn them.
+SUSAN	f	Call the police, Ben, call the police!
+JOHAN 	m	Papa!    Papa!
+BEN	m	It's okay, son... we're all right. Everything's okay!
+JOHAN 	m	What's happened?
+BEN	m	It's okay, stay there, please!!
+SUSAN	f	My God. They were trying to kill us.
+BEN	m	They were trying to scare us, that's all.
+SUSAN	f	Oh, is that all... What the hell more do you want to happen... we're ordinary people for God's sake -- and you've pitched us into this -- this nightmare. I can't take any more, Ben... I can't take any more!!
+SUSAN	f	Please, Ben, stop. Just stop... please.
+VILJOEN	m	Now you must be exaggerating, Mr. Du Toit.
+BEN	m	My house has been searched. My phone is tapped. My mail is opened. And last night three shots were fired through my window -- close to killing my wife.
+VILJOEN	m	Mr. Du Toit, if shots were fired into your premises, we will investigate.
+BEN	m	All I want to know, Colonel, is why don't you leave me in peace?
+VILJOEN	m	Now wait, wait a minute, Mr. Du Toit, you're not trying to blame me?
+BEN	m	Tell me, Colonel, why is it so important to you people to stop my enquiries about Gordon Ngubene?
+VILJOEN	m	Is that what you are doing? Well, now. If you possess any information that may be of use to us, I trust you won't hesitate to discuss it with me.
+VILJOEN	m	Because if there are facts you are deliberately hiding from us, Mr. Du Toit -- If you give us reason to believe that you may be involved in activities that may be dangerous to both yourself and us -- then I can foresee some problems.
+BEN	m	Is that a threat, Colonel?
+VILJOEN	m	Let's call it a warning. A friendly warning. For God's sake, open your eyes, Mr. Du Toit! Don't you see you're being used!
+BEN	m	By the Communists, I suppose.
+BEN	m	Goodbye, Colonel. I'm sure.
+STANLEY	m	And this is Johnson Seroke.    The man of the letters.
+BEN	m	Johnson.
+SADIE 	f	Please sit down, Mr. Du Toit. A beer, tea or orange squash?
+BEN	m	A beer would be nice.
+STANLEY	m	You know they call this place Vrededorp, but we baptize it Malay Camp. Your first time in Malay Camp, Lanie?
+BEN	m	I've driven through here many times.
+STANLEY	m	The main road, eh?
+SADIE	f	You'll excuse me. Stanley, you know what to do with the key.
+STANLEY	m	Sure, Sadie. And thank you. Can I help myself to another beer?
+SADIE	f	You know it is. Goodbye, Mr. Du Toit, and you, be careful.
+SEROKE	m	Okay, Sadie.
+STANLEY	m	That woman can die for you. We mustn't be long, Johnson has to be back on duty.
+BEN	m	Alright, let's get on with it. Stanley tells me, you work at John Vorster Square.
+SEROKE	m	I had no choice, they transferred me there.
+BEN	m	Yet you smuggled out letters to Emily?
+SEROKE	m	What do you do if a man asks you, and he's in trouble?
+STANLEY	m	If they find out he'd be in very big trouble.
+BEN	m	I know that. Tell me, what do you know about Gordon?
+SEROKE	m	Very little.
+BEN	m	You did talk to him from time to time?
+SEROKE	m	He gave me the letters.
+BEN	m	When was the last time you saw him?
+SEROKE	m	Just before he died.
+BEN	m	Did you attend any of the interrogations?
+SEROKE	m	No. I'm not a member of the Special Branch. But once I had to deliver a letter to Capt. Stolz, Gordon was there.
+BEN	m	How were they interrogating him?
+STANLEY	m	It's okay.   Tell him what you told me.
+BEN	m	What?
+SEROKE	m	They were using the pole.
+BEN	m	The pole, what's that?
+STANLEY	m	They handcuff you and manacle your feet then they put a pole between your arms and the back of your knees. Then you're like a chicken ready for the oven. They hang you between two tables. Then they do what they like with you. The S.B. call it the aeroplane.
+SEROKE	m	Lieutenant Venter and a black S.B.
+BEN	m	You are sure?
+STANLEY	m	He's sure.
+BEN	m	It's very interesting. When was the last time you saw him?
+SEROKE	m	I saw them take the body away to the cells. He was limp.
+BEN	m	You did! Johnson, why do you stay with the police? You don't really belong there.
+SEROKE	m	They must never know I told you anything. Right?
+BEN	m	I understand.    I promise.
+STANLEY	m	This is strictly between the three of us. Don't worry, man.
+STANLEY	m	Take it easy.
+STANLEY 	m	A beer, Lanie?
+BEN	m	No, thank you. You know, Stanley, after what happened the other night I was about to give this whole thing up.
+STANLEY	m	What happened, man?
+BEN	m	My wife nearly got killed. Three shots were fired into the house. What right have I to expose my family to harassment and actual physical danger? That's what I asked myself.
+STANLEY	m	Three bloody shots and you crawl on your hands and knees to people like Stolz, and say 'I give up.' What is the beginning for you is a version of what we suffer all our bloody life. Shit, I thought you had more guts than this, man!
+BEN	m	I didn't say I'm giving up.
+STANLEY	m	But you thought about it.
+BEN	m	Johnson has revived my determination.
+STANLEY	m	It's a hell of a time, Lanie, but we'll survive. You and me. I tell you!
+BEN	m	You think we may still win in the end, Stanley?
+STANLEY	m	Of course not, Lanie -- but we needn't lose either -- what matters is to stick around.
+STANLEY	m	By the way, man, I'm off on a trip -- Botswana -- thought I'd tell you in case you get worried.
+BEN	m	Why are you going there?
+STANLEY	m	Business. Tell you next week. Now for the bad news I've been saving to the last.
+STANLEY	m	Julius has been arrested. He broke his banning order and visited his sister. You know what that means? At least a year's imprisonment.
+BEN	m	A year in jail just for visiting his sister?
+STANLEY	m	That's the chance he took. And he'll be the last to complain.
+BEN	m	Don't you think the real reason for this arrest was that they found out he was helping us?
+STANLEY	m	So what? Lanie, you're not getting guilt complexes now, are you? That's a luxury only liberals can afford. Julius will be back, man. All refreshed by a spell in the deep-freeze.
+BEN	m	How can we shrug off a man we've been working with?
+STANLEY	m	Who said we're shrugging him off? Best way of remembering a man, Lanie, is to carry on fighting.
+MELANIE	f	Alright. I'll tell you. I was brought up in a sheltered way, not that Dad was possessive, not openly anyway. I think he'd just seen enough of the mess the world was in, to want to protect me as much as he could. Then, I went to university. I don't know what you'll think... being a teacher.
+BEN	m	About what?
+MELANIE	f	Then I married my ex-teacher.
+BEN	m	Oh.   He must have been young.
+MELANIE	f	Fifteen years difference. He too protected me like Dad. Then one day I visited Dorothy in Alexandra and saw her home and the appalling conditions in that township. I was shocked, Ben, and ashamed.
+BEN	m	Go on.
+MELANIE	f	That made me think that I was a parasite, something white and maggot-like... just a thing... a sweet and ineffectual thing. I felt more and more claustrophobic. Poor Brian, who loved and pampered me. Had no idea what was happening. I left him for a whole year and we divorced.
+BEN	m	And then you became a journalist?
+STANLEY	m	She's a widow, man. That's what happens in Soweto when a woman loses her man. They throw her out of the house and out of the city.
+BEN	m	Zululand! The whole thing smells of being an excuse to send her hundreds of miles from the case. And how will they live there?...
+STANLEY	m	Shit! I was about to find her a place, but I had to go to look for Robert.
+BEN	m	So, that's why you went to Botswana for.
+STANLEY	m	Sis Emily asked me but it was no use. His mind was made up. He was going to join Wellington in Zambia.
+BEN	m	Couldn't you stop him?   He's a little boy, Stanley!
+STANLEY	m	He'll be back in a few years.     And he won't be throwing stones!
+CLOETE 	m	Traitors like you are threatening centuries of Afrikaner sacrifice.
+BEN	m	That last remark was slanderous -- I'm simply being faithful to the truth.
+CLOETE	m	Slanderous? My God, man, you slander a whole people.
+CLOETE	m	You have given me no alternative. I have to abide by the regulations of the Department of Education -- so I have made my report. And there will have to be a formal inquiry. But until such time...
+BEN	m	It won't be necessary, Mr. Cloete. I'll send you my resignation.
+CLOETE	m	Thank you for making things much easier.
+CLOETE	m	And it would be better if Johan left too.
+BEN	m	Are you serious?
+CLOETE	m	He's a Kaffir-lover too, isn't he?
+STANLEY	m	'Lanie'... compliments of the season, old mate.
+BEN	m	Stanley.   What are you doing here?
+FATHER-IN-LAW	m	Who's this Kaffir, Ben?
+STANLEY	m	Why don't you tell the Boer who this Kaffir is?
+BEN	m	Shut up, Stanley. That's all right. I'll...
+FATHER-IN-LAW	m	A Kaffir calling me a Boer?
+CHRIS	m	Ben, did you hear that?   Call the police, Ben!
+BEN	m	Please, go to the table. Stanley, wait outside.
+STANLEY	m	Who are these people, anyway?
+BEN	m	Stanley, this is still my house.
+CHRIS	m	Let me throw him out.
+STANLEY	m	Let him try, leave him, Lanie.
+BEN	m	Please leave me with him.   I'll explain everything later.
+FATHER-IN-LAW	m	Nothing has changed in this house. Mother, let's go!
+FATHER-IN-LAW	m	Let's leave this house. I've been sworn at by a Kaffir and Ben protects him.
+SUZETTE	f	Chris!
+STANLEY	m	Right. Dead right. Put the Kaffir in his place.
+BEN	m	Bloody hell! Stanley, what's wrong with you?
+STANLEY	m	Emily is dead.
+BEN	m	Emily dead?   How?   When?
+BEN	m	What happened, Stanley?      Oh, my God. Please tell me.
+STANLEY	m	A broken heart. All they said.
+BEN	m	God.
+MELANIE	f	They don't know what you've got and you're a danger to them. I know there's a point of no return, but with our system, one has to plot the route with care.
+BEN	m	That's the main reason for coming here tonight. Melanie, I need your help. Without Emily, we can't pursue our civil suit. The only thing left open to us is to expose them through the press, and the media here and abroad.
+MELANIE	f	And your safety also, Ben, lies in the press. That way the world will know the brutality and power of our security services; here questions can be asked in Parliament. And the white public can appreciate the implications of the fascist laws of this country.
+BEN	m	You know, Melanie, I'm discovering that the enemy is not in Soweto. The enemy is ourselves. Our bigotry, our laws, our system. We have our own fight and it's just beginning.
+MELANIE	f	We better win before the blacks have won.
+BEN	m	Now, before going to the press, I have to have all the documents. I must have two vital affidavits; Dr. Hassiem's, he's detained and Jonathan's friend, Wellington has fled to Zambia.
+MELANIE	f	Zambia? I'm going to Rhodesia... I can go to Zambia.
+BEN	m	Could you?
+MELANIE	f	And I can use my British passport. I know my way around Lusaka.
+BEN	m	That would be very useful.
+MELANIE	f	This calls for a drink.    Gin and tonic?
+BEN	m	Please.
+BEN	m	Melanie.   Be careful.
+MELANIE	f	Of course, Ben.
+BEN	m	Do be careful. I wouldn't want you hurt.
+MELANIE	f	Don't worry.
+BEN	m	And hurry back.
+MELANIE	f	That's my favorite, Ben.
+BEN	m	I can't dance.
+MELANIE	f	Rugger player?
+SUZETTE	f	Papa, I don't want to interfere...
+BEN	m	Then don't.
+SUZETTE	f	I know this is going to sound strange coming from me... I mean I haven't exactly been supportive for the past months... I can't say I agree with what you've done but I respect you for what you are...
+SUZETTE	f	I'm just... destroyed by what's happening to us as a family.
+BEN	m	Suzette...
+SUZETTE	f	Please, Papa, for Mom's sake... For all of our sakes... Let's try and patch it up.
+SUZETTE	f	Let me know if there's anything I can do to help.
+BEN	m	Thanks.   I'm glad you understand.
+SUZETTE	f	I don't want to worry about you. That search, this vandalism, those shots... they're really after the evidence you've been accumulating ... Can I look after them for you, Papa?
+BEN	m	You don't have to worry.   They'll never find them.
+SUZETTE	f	Where on earth do you keep them?
+BEN	m	Dr. Hassiem? I'm Ben Du Toit. I'm a friend of Gordon Ngubene's...
+DR. HASSIEM	m	The inquest is over, Mr. Du Toit.
+BEN	m	Not for me, Doctor. I've got to know what happened to Gordon.
+DR. HASSIEM	m	I only came home yesterday. After three months in detention and now I'm banned and confined to the house. There's nothing I can do for you.
+BEN	m	I know it may be painful to you, Doctor, but I need to talk to you.
+DR. HASSIEM	m	How can I be sure you weren't actually sent by them?
+BEN	m	Ask Emily. Doctor, we are in the process of filing a civil claim. And your help is vital.
+BEN	m	Thank you for inviting me in.
+DR. HASSIEM	m	What do you want to know?
+BEN	m	Just one thing, Doctor. Why did you sign the State Pathologist's report on the autopsy if you drew up your own report as well?
+DR. HASSIEM	m	What makes you think I signed Dr. Jansen's report.
+BEN	m	The report produced in court had both your signatures on it.
+DR. HASSIEM	m	Impossible.
+BEN	m	What did you write in your report?
+DR. HASSIEM	m	Dr. Jansen and I didn't disagree on the facts. After all we examined the same body in the same time. But just on the interpretation. For example, if Gordon, had really been hanged, the marks on his throat would have been concentrated on the front. But in this case, the bruises were more obvious on the sides.
+DR. HASSIEM	m	Something else really upset me, perhaps it isn't important.
+BEN	m	What was it?
+DR. HASSIEM	m	You see, through a misunderstanding I arrived at the morgue too early for the autopsy. There wasn't a soul around except a young African attendant. When I told him I'd come for the autopsy, he let me in. The body was on the table dressed. I noticed blood on the clothes.
+BEN	m	And then?
+DR. HASSIEM	m	As I examined the clothes more closely, a police-officer came in and said I wasn't allowed in the morgue before Dr. Jansen arrived. When I returned with Dr. Jansen, half an hour later, the body was naked.
+BEN	m	Doctor, we've already got the African attendant's affidavit. He testified that Capt. Stolz ordered him to burn the clothes. Did you mention what you said in your report?
+DR. HASSIEM	m	Of course.   I found it most odd.
+BEN	m	Doctor Hassiem would you be prepared to put that in writing?
+DR. HASSIEM	m	Please excuse me for a minute.
+DR. HASSIEM	m	This is my report. I only have one copy.
+BEN	m	You have a copy of the report?
+DR. HASSIEM	m	I know how to hide things from the S.B., Mr. Du Toit.
+DR. HASSIEM	m	I hope you have as secure a place as I have.
+BEN	m	I think so.
+STANLEY	m	Take a pew, man.
+BEN	m	We have it, Stanley!
+STANLEY	m	Have what?
+BEN	m	Hassiem's report. You know what that means, Stanley? Melanie arrives in two days. We'll have all the evidence. Everything is in place. We'll get them yet, especially Stolz.
+STANLEY	m	That's fantastic, man.
+BEN	m	God!   It's Johnson Seroke.
+STANLEY	m	Late at night. A knock on the door. He opened and five shots, point-blank range. Face, chest, stomach.
+BEN	m	'A police spokesman when questioned said: "It's not the first time that a black member of the police has lost his life in the service of his country, fighting terrorism." Bloody bastards! They killed him. Stolz must have thought he knew too much.
+STANLEY	m	What's the score? The nurse is detained; the mortuary attendant has disappeared; the police van driver who brought Jonathan to hospital is detained. Julius is in jail, and now Johnson dead.
+BEN	m	Who's next on their secret list, I wonder? How much longer must the list grow of those who pay the price of our efforts to clear Gordon's name.
+STANLEY	m	Hey! Are you going soft, Lanie? We must keep going even more so now. And for every bloke who's going to die of bloody natural causes in their hands. And for our children's future.
+BEN	m	I know. If I can no longer believe that right is on my side, if I can no longer believe in imperative to go on, what will become of me, Stanley?
+STOLZ	m	We're all made of flesh and blood, Mr. Du Toit -- we've all got our flaws. And if a man likes to sample the grass on the other side of the fence, well, that's his own business. But it would be unpleasant if people found out about it, especially if he's a teacher.
+BEN	m	You mean, if I cooperate, if I stop digging, embarrassing you, threatening you... these photographs will disappear.
+STOLZ	m	Let's just say I may be able to use my influence to make sure that a private indiscretion isn't used against you.
+BEN	m	Suppose I refuse?
+STOLZ	m	Is this your son?
+BEN	m	Johan, leave us alone, please.
+STOLZ	m	Don't you think this business has gone long enough?
+BEN	m	That's for you people to decide. Isn't it? I won't be blackmailed, Captain -- not even by you.
+STOLZ	m	Mind if I smoke?
+STOLZ	m	Now be honest. Has all the evidence you've been collecting in connection with Gordon Ngubene brought you closer to the truth you are looking for?
+BEN	m	Yes, I think so and there's more to come.
+STOLZ	m	I really hoped we could talk man-to-man.
+BEN	m	It's not possible, Captain.    Not between you and me.
+STOLZ	m	It's high time, Mr. Du Toit, we allowed the dead to rest in peace. I'm offering you a chance.
+BEN	m	You mean my very last chance?
+STOLZ	m	One never knows. It may not be important to you, but we have to survive.
+BEN	m	If we can only survive through murder and torture, then we have forfeited our right to exist.
+STOLZ	m	Is that your final answer?
+BEN	m	Before you go. I'll tell this, Captain. I have a pretty good idea of what I will eventually uncover. I mean the truth. And I won't allow anyone or anything to come between me and that truth.
+STOLZ	m	Here's my card -- my private line. If you should change your mind... Let's say before the end of the week?
+BEN	m	Goodbye, Captain, and don't forgt the photograph.
+STOLZ	m	Be careful, Mr. Du Toit. There are people who can make things very difficult for you.
+BEN	m	They are wasting their time. They just can't hurt me anymore. I trust you'll give them the message, Captain.
+JOHAN	m	A brandy, Papa?
+BEN	m	A gin and tonic would be fine.
+JOHAN	m	Is there any other exit, Papa?
+BEN	m	No. They have to collect their luggage and pass through customs.
+JOHAN	m	Maybe she can't find her bag.
+BEN	m	That's possble.
+STOLZ	m	Afternoon, Meneer Du Toit.   Johan, isn't it?
+BEN	m	What now, Captain?
+STOLZ	m	Word came to me that you were asking after your very good friend, Miss Bruwer. You know, subersives come in all guises and can be very resourceful. Now let's take your friend, she has been using her privilege as a journalist to endanger the security of this country. But you know something else? She has been secretly holding a British passport. A South African passport and a British pasport. Now you tell me, where is her patriotism? Her allegiance? The minister telexed to the immigration officers here declaring her an undesirable immigrant. So she is being put on the first available plane to London. This must be heart- breaking for you. Good afternoon, Meneer Du Toit, Johan.
+BEN	m	Let's go home, Johan.
+JOHAN	m	I don't understand, Papa...
+BEN	m	I'll explain later.
+JOHAN	m	I took it out. Hide it in my secret place.
+BEN	m	Thank you, son. You did a man's job.
+JOHAN	m	Somebody has dropped it through the door.
+JOHAN	m	I'm nearly ready, Papa.
+BEN	m	Wellington's affidavit!
+BEN	m	Good old Melanie!
+MALE 	m	Meneer du Toit, tonight we're coming to kill you.
+STANLEY	m	What's happened, man?
+BEN	m	It's you. It was a bomb.
+STANLEY	m	And the papers?
+BEN	m	Don't worry. Safe. Thanks to Johan. Incidentally, I have Wellington's affidavit. Melanie found him. She's being deported. The official reason is that she possessed a British passport. I don't know how she managed to smuggle the envelope to me.
+STANLEY	m	Man, it's all happening!
+STANLEY	m	Like a joint?
+BEN	m	No, thanks.
+BEN	m	What's so funny?
+STANLEY	m	They drop the bomb on you!
+BEN	m	How are you, Suzette?
+SUZETTE	f	Okay, Papa.
+BEN	m	Would you like a drink?
+SUZETTE	f	No, thanks.
+SUZETTE	f	I have to go, Papa.
+BEN	m	I know.
+BEN	m	Look after them.
+VILJOEN	m	I see you got the goodies.
+SUZETTE	f	I was on my way to your office, Colonel.
+STOLZ	m	We thought we'd save you the trouble, Mrs. Klopper.
+SUZETTE	f	Here it is, Colonel.
+VILJOEN	m	Thank you. This country needs more people like you.
+SUZETTE	f	I must hurry, Colonel.   Goodbye.
+VILJOEN	m	Now let's see what we've got.
+VILJOEN	m	The bastard!
+

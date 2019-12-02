@@ -1,0 +1,785 @@
+VOICE	m	Cataleya!
+MOTHER	f	Cat! Is your homework finished yet?
+CAT	f	Working on it Mama.
+MOTHER	f	You draw beautifully my love, but if you want to be something in life you have to study.
+CAT	f	I am studying Mama. I want to be a super hero.
+MOTHER	f	Better to be a doctor. A lawyer.
+CAT	f	Are we going to see Uncle Emilio?
+MOTHER	f	I don't know. Just waiting to hear from your father.
+DON LUIS	m	I can't believe this.
+FABIO	m	Why not?
+DON LUIS	m	Because I love you Fabio. Like a brother.
+FABIO	m	And I love you Don Luis. Like a brother.
+DON LUIS	m	Can you believe this guy Marco? We started when we were little...how old were we Fabio?
+FABIO	m	Ten.
+DON LUIS	m	Ten year old bastards stealing apples from the carts in the market. After all we've been through. And now we're on top, he wants to leave...
+FABIO	m	Luis, I'm going to be honest with you. You remember I had that operation?
+DON LUIS	m	That was last year.
+FABIO	m	Since then, I'm not a hundred percent. And you can't do this thing if you're not a hundred percent. I'm tired.
+DON LUIS	m	So you'll take a rest.
+FABIO	m	You know how many times we should have been dead?
+DON LUIS	m	I don't even want to count.
+FABIO	m	Neither do I. But you gotta think. How lucky we are to still be alive.
+DON LUIS	m	Yeah. That's right. We're alive. And what about the future of this thing we built?
+FABIO	m	It's yours. It's not my thing any more.
+DON LUIS	m	I'm not going to talk you out of it, am I cabron?
+FABIO	m	I'll always be there for you Luis. Just pick up the phone, I'm there.
+DON LUIS	m	I'm gonna hold you to that. You bastard. I'm going to miss you.
+FABIO	m	And I'm going to miss you.
+DON LUIS	m	OK. Enough of this sentimental bullshit. Next we'll be crying like two old women. Come on! One last drink, huh?
+DON LUIS	m	To the future.
+FABIO	m	Bueno.
+DON LUIS	m	So. Business is all clear?
+FABIO	m	All clear.
+FABIO	m	It's all here.
+DON LUIS	m	No other copies?
+FABIO	m	You even have to ask?
+DON LUIS	m	Hey.
+FABIO	m	Adios Marco. Make sure he doesn't get in too much trouble.
+MARCO	m	Adios Don Fabio. I'll do my best.
+DON LUIS	m	Kill this motherfucker.
+FABIO	m	This fucker! The motherfucker!
+DRIVER	m	Not OK Boss?
+FABIO	m	This bastard thinks I'm an idiot. Playing it all mellow and shit. If he would have yelled and screamed and threatened to kill my whole family, it would have been OK. We have an hour to get out of here. At most.
+MOTHER	f	Fabio?
+FABIO	m	We've got ten minutes.
+MOTHER	f	Cataleya, go pack!
+CAT	f	I'm packed Mama.
+FABIO	m	Listen to me my darling. Just in case of anything. This...
+FABIO	m	This is your passport. Do you understand?
+FABIO	m	You find yourself alone? You go to the address on this card. Show it to the man at the front gate.
+CAT	f	I don't understand papa.
+FABIO	m	You don't have to understand. You just have to listen, and remember.
+MAN	m	(polite. smiling) Hola. We want to see Don Fabio.
+BODYGUARD	m	He's not home.
+MAN	m	You mind if we wait?
+BODYGUARD	m	Your time.
+FABIO	m	And this will keep you safe.
+FABIO	m	The Cataleya orchid. It comes from one place on Earth. Our place. My mother, your grandmother, used to grow them. Every morning I would wake up to the sight of them. The smell of them. That's why I named you after them. It reminds us of who we are.
+MOTHER	f	I'm ready.
+MAN	m	They said he's not home yet.
+MAN	m	OK. OK.
+MAN	m	Change of plans.
+FABIO	m	Back!
+FABIO	m	Too late. Get ready!
+FABIO	m	I love you very much.
+CAT	f	I love you too Papa.
+FABIO	m	Alicia!
+MARCO	m	You in the kitchen. You, the bedroom. You, the back.
+MARCO	m	Hey! What are you doing?
+GUNMAN	m	Don Luis said kill everyone.
+MARCO	m	He also said no names.
+GUNMAN	m	She won't remember.
+MARCO	m	HEY!
+MARCO	m	She's a kid.
+GUNMAN	m	So what?
+MARCO	m	What do you mean so what? You take a kid, teach them, they have value.
+GUNMAN	m	I couldn't even get ten bucks for her in the street.
+MARCO	m	Are you stupid or what? Here.
+MARCO	m	Here's twenty asshole. Go do your job.
+MARCO	m	Remember me Cataleya?
+MARCO	m	I was at your confirmation. My name is Marco, and I was a very good friend of your father. I see he gave you his medal.
+MARCO	m	The Cataleya orchid. His symbol. Your name. That's good. This way you will always remember him. I know this is a terrible thing for you to have seen.
+MARCO	m	Some things are too complicated for a kid to understand. This is one of them. But I am going to try explain it and make it very simple for you. So you understand. Now, you know who Don Luis is?
+MARCO	m	Of course you do. He was your father's best friend since they're kids. He's like an Uncle to you. You know he has always been good to your family, don't you?
+MARCO	m	This house, the food you eat, the clothes you wear. Even your school fees. All this comes from Don Luis. You know that?
+MARCO	m	But when someone is good to you and you are not good to them back, then bad things happen. Things like...
+MARCO	m	This.
+MARCO	m	I know you are a smart girl. You do well in school. So I know this is not too complicated for you to understand. Am I right?
+MARCO	m	Good. Now, your father had something that belonged to Don Luis. A little thing. No bigger than...
+MARCO	m	This. Maybe it was in this.
+MARCO	m	Do you know what I am talking about?
+MARCO	m	Excellent. Do you know where it is?
+MARCO	m	Well, if you give it to me, Don Luis will be very grateful. And very generous. He will make sure that you are clothed, fed, and sent to the very best school. You will have everything you want. 12.
+MARCO	m	But if you don't give it to him, he will be very unhappy. And you see what happens when he is not happy, yes?
+MARCO	m	So why don't you just give that little thing which belongs to him. Will you do that?
+MARCO	m	You are a smart girl.
+MARCO	m	And in this life, smart girls get everything they want. What do you want Cat?
+MARCO	m	Just tell me sweetheart...what do you want?
+CAT	f	(in his ear) To kill Don Luis!
+MARCO	m	AAARRRGGGHHHH!!!!!
+MARCO	m	Get her!
+MARCO	m	We need her alive!
+MARCO	m	Go! Go!
+MARCO	m	There!
+MARCO	m	Alive!
+MARCO	m	North! Go North! We're cutting off the southern streets!
+GUNMAN	m	North!
+GUNMAN	m	Let's go.
+MARCO	m	We got her! Close the net!
+MARCO	m	What is she doing?
+MARCO	m	No!
+MARCO	m	Get down there!
+GUNMAN	m	We lost her!
+MARCO	m	FUCK! FUCK!
+VOICE	m	Excuse me...
+AMERICAN 1	m	And you say you have something for us?
+AMERICAN 1	m	May I see it?
+AMERICAN 1	m	Oh jeez...
+AMERICAN 1	m	Thank you.
+AMERICAN 1	m	We have to record this.
+AMERICAN 1	m	Where did you get this?
+CAT	f	My Papa.
+AMERICAN 1	m	And where is your Papa?
+CAT	f	Dead.
+AMERICAN 1	m	Did he tell you what this is?
+CAT	f	Yes...my passport.
+VOICE	m	We are making our final approach to Miami International airport. Please fasten your seat belts.
+MAN	m	Come with me.
+BUREAUCRAT	m	She's the one?
+MAN	m	She is indeed.
+BUREAUCRAT	m	You must have done something pretty important to get the royal treatment little lady.
+BUREAUCRAT	m	Welcome to America.
+MAN	m	You like music?
+VOICE	m	It's been our mission statement since we first opened our doors in nineteen twenty three...
+HEADMISSTRESS	f	To provide a safe, healthy nurturing environment where young women can get the education they will need to meet the challenges of that amazing adventure called life. How does that sound to you, my dear?
+MAN	m	It's been a long day for her. Here's the check for the year's tuition.
+MAN	m	And the five hundred dollars allowance for the first six months.
+HEADMISSTRESS	f	Which we keep right here...
+HEADMISSTRESS	f	And give you twenty a week for incidentals.
+HEADMISSTRESS	f	What do we say darling?
+CAT	f	Where do I sleep?
+MONITOR	m	Girls, this is your new classmate. Please welcome her and show her the ropes. Wake up is at seven. Sweet dreams.
+SHERRI	f	I'm Sherri. And you are?
+CAT	f	Very tired.
+SHERRI	f	Well, 'very tired', I'm sure you want to lay down and rest your little head?
+CAT	f	I do.
+SHERRI	f	There's your bed...
+CAT	f	But it's gonna cost you. Twenty dollars.
+SHERRI	f	A week. Peace has it's price, y'know what I'm saying?
+SHERRI	f	Are we clear on that?
+CAT	f	Twenty dollars a week.
+SHERRI	f	We got a smart one!
+SHERRI	f	You can go now. In peace.
+TICKET AGENT	m	Hola chica, where are we wanting to go today?
+TICKET AGENT	m	Chicago is not next door, you know.
+CAT	f	How much?
+MAN	m	Hey kid. You know what time it is?
+MAN	m	It's late, and this is not the kind of place a kid should be hanging out. What are you doing here?
+MAN	m	Who are you?
+CAT	f	Cataleya.
+MAN	m	Wait here.
+MAN	m	Emilio.
+MAN	m	There's a girl looking for you.
+EMILIO	m	I'm not interested in a girl right now.
+MAN	m	It's not that sort of thing. She's eight.
+MAN	m	Says her name's Cataleya.
+MAN	m	Come with me.
+MAN	m	Hey!
+EMILIO	m	Cataleya?
+CAT	f	Uncle Emilio?
+EMILIO	m	Madonna! I thought you were dead!
+EMILIO	m	I thought you were all...
+EMILIO	m	You're safe now.
+EMILIO	m	You're safe.
+EMILIO	m	Gracias mama.
+EMILIO	m	Good morning.
+MAMA	f	Buenos diaz Cara. Come. Sit. I'll make you some eggs.
+MAMA	f	You have your mother's beautiful eyes. Don't be scared. This is your home.
+EMILIO	m	When was the last time you slept?
+CAT	f	I don't know. A long time ago.
+EMILIO	m	Well good. A growing body needs sleep. When I was your age I would sleep half the day. I don't know if it helped with the growing, but I was well rested for whatever came after.
+CAT	f	Whose room is that?
+EMILIO	m	My son. Your cousin.
+CAT	f	Where is he?
+EMILIO	m	He's dead.
+CAT	f	Killed?
+EMILIO	m	Yes.
+CAT	f	By who?
+EMILIO	m	No one who is still alive.
+EMILIO	m	You are very talented. Is this what you want to be? An artist?
+CAT	f	I used to want to be like Lara. A super agent.
+EMILIO	m	Not anymore?
+EMILIO	m	And now?
+CAT	f	(matter of fact) I want to be a killer.
+CAT	f	Can you help?
+EMILIO	m	Sure.
+EMILIO	m	The good news is your father bought you your life with what he gave you. The bad news is Don Luis was playing both sides, and has disappeared. You tore down everything he spent years building up with that little chip. It is something he will not forget. There is a law in this thing of ours. If someone does you, the revenge goes all the way down the line. Women, children, Grandmothers, dogs, cats. No exceptions.
+CAT	f	Are you trying to scare me?
+EMILIO	m	I am trying to educate you.
+PRINCIPAL	m	Normally we don't accept students in the middle of the academic year, but under the circumstances, losing her parents in that tragic car accident...
+PRINCIPAL	m	Here.
+PRINCIPAL	m	These are the school supplies you'll need.
+EMILIO	m	She's still in a bit of shock.
+PRINCIPAL	m	Of course. See you Monday Cataleya. Such a pretty name.
+EMILIO	m	We'll get all this stuff, then go over to this little place I know down on Maxwell street for some of these hot dogs the Polish people make here.
+EMILIO	m	You like hot dogs?
+EMILIO	m	Hey!
+EMILIO	m	Hey!
+EMILIO	m	Where you going?
+CAT	f	I've already been to school. I told you what I want to be. You don't want to help me, fine. I'll do it myself.
+EMILIO	m	Chica. Any idiot can be a killer. Look!
+EMILIO	m	You want me to teach you to be a killer? No problema. I'll teach you. But you'll be dead in five years. 35.
+EMILIO	m	If you want to be a killer, and survive, you have to be a smart one. You have to know things besides how to pull a trigger. You have to know how the world works. How people think. You got to learn to be psychological. That I cannot teach you, unless you learn the basics at school. Got it?
+EMILIO	m	Now what's it going to be?
+CAT	f	But I still want to be a killer.
+EMILIO	m	Cabron!
+COP 1	m	So then I suggest, y'know, we buy some things to spice it up a bit.
+COP 2	m	Define things.
+COP 1	m	A garter belt, some of those stockings that come up the thigh...it's fourteen years. Know what I mean?
+COP 2	m	Yeah. No matter how much you like steak, sometime a lamb chop is not a bad thing.
+COP 1	m	Exactly.
+COP 1	m	What the...
+SUPERMODEL	f	Oops...
+COP 1	m	That's all you have to say? Oops?
+COP 1	m	Funny?
+COP 1	m	Wanna laugh you crazy bitch? I'll give you something to laugh about!
+SERGEANT	m	No license, no registration. No ID except a library card. Well Ms...
+SERGEANT	m	Valarie Phillips in addition to all that...you're being charged here with DUI, destruction of police property, driving the wrong way on a two way street...
+CAT	f	Is that it?
+SERGEANT	m	Unless you can think of anything else you should be charged with.
+CAT	f	Wearing no panties?
+SERGEANT	m	That's not a crime.
+CAT	f	Thank goodness.
+SERGEANT	m	Take her in the back, lock her up, put a cup of coffee in with her. Let her sleep it off, we'll book her tomorrow.
+MARSHAL	m	US Marshal Warren. We have Gennaro Rizzo here on an overnight.
+SERGEANT	m	Who?
+MARSHAL	m	Rizzo. The Mafia guy? On the way to testify up in San Francisco tomorrow? They didn't notify you?
+SERGEANT	m	Hold on a second.
+SERGEANT	m	Here we go. Says here you're not expected until tomorrow.
+MARSHAL	m	Never expect the expected Sergeant. (to his men) Secure this place.
+MARSHAL	m	One man here. Two more outside the front door. Everyone else on the perimeter, in teams of two.
+MARSHAL	m	It's a caffeine kinda night fellas. Eyes open.
+SERGEANT	m	Hey Doyle!
+SERGEANT	m	Go take a look at the breaker on the ventilation system, will ya?
+MARSHAL	m	Gotta pee.
+CAT	f	Unbutton your shirt.
+RIZZO	m	What...?
+CAT	f	Now.
+RIZZO	m	Who the hell are you?
+CAT	f	Not room service.
+COPS	m	Drop it!!
+MARSHAL	m	Drop it, Joe!!!!!
+MARSHAL	m	I didn't do it!
+COPS	m	Drop it!!!!
+COPS	m	On the floor!
+MARSHAL	m	Call a bus!
+MARSHAL	m	Guys! I didn't do it!!!
+MARSHAL 1	m	Ambulance on the way!
+MARSHAL	m	He's gone.
+SERGEANT	m	Search the place!
+CORONER	m	What the fuck?
+MARSHAL	m	Holy shit! Call Ross.
+MARSHAL	m	Agent Ross?
+ROSS	m	Where is he?
+MARSHAL	m	At the hospital.
+ROSS	m	Let's go.
+CAT	f	I shouldn't drink.
+SERGEANT	m	No you shouldn't.
+CAT	f	I'm so so sorry.
+SERGEANT	m	Tell it to the judge at your hearing in ten days.
+CAT	f	What's going on out there?
+SERGEANT	m	Nothing. Fill out the forms and you can go.
+CAT	f	Really?
+SERGEANT	m	Really. We need to get things organized. But don't worry, the judge will send you back, for sure.
+CAT	f	I probably deserve it.
+ROSS	m	Same handwriting. Same flower. It's him. Let's see the location.
+SERGEANT	m	You're lucky no one was hurt.
+CAT	f	I would have never forgiven myself.
+REPORTERS	m	Is it Rizzo? Was it an assassination? Are there any clues? Is it true a Marshal did it?
+ROSS	m	No comment.
+ROSS	m	You didn't lock it down?
+MARSHAL	m	It was after the fact. I didn't think...
+ROSS	m	Do it. Now. No one in or out.
+MARSHAL	m	OK! That's it. No one in or out! Lock down!
+ROSS	m	I want to see paper on everyone in and out of the station in the last twenty four hours.
+ROSS	m	And I want the tapes from the security cameras.
+EMILIO	m	Are we good?
+CAT	f	We're good.
+EMILIO	m	When are you back?
+CAT	f	Day after.
+EMILIO	m	I have something.
+CAT	f	The morning after OK?
+EMILIO	m	Can't wait to see you Cara.
+CAT	f	Say hello to Mama.
+EMILIO	m	Mama says hello back.
+ROSS	m	He tilted the camera just enough so the angle would catch the guard, not who was holding him.
+ROSS	m	Twenty two murders in four years all with the same M.O. The word, the flower. He's sending a message, for sure. And I'm beginning to think it's not to us.
+AGENT 1	m	But we're the only ones with the information.
+ROSS	m	And we're not getting anywhere with it, are we?
+ROSS	m	If the message is not for us, let's make sure the one it's intended for gets it. I want you to put it out to the press. Splash it across every newspaper, every magazine. National. I want eyeballs on it coast to coast. Monitor it. Let's see if anything comes back.
+MARCO	m	Mr. Richard...
+MARCO	m	Been a long time.
+RICHARD	m	Yes it has Marco. How's the hand?
+MARCO	m	Only hurts when it's humid.
+RICHARD	m	Should've let us relocate you to Arizona instead of New Orleans.
+MARCO	m	The Boss likes it humid.
+RICHARD	m	There it is then.
+MARCO	m	He's waiting for you.
+RICHARD	m	Hello Luis.
+DON LUIS	m	Hello Mr. Richard.
+RICHARD	m	I brought you the morning paper.
+DON LUIS	m	I've seen it.
+RICHARD	m	And...?
+DON LUIS	m	Coincidence.
+RICHARD	m	Coincidence? Twenty two times? A flower that only grows in one place on earth? That used to be the calling card of...what was his name? Your former partner? The one who did your wet work?
+DON LUIS	m	Fabio. Fabio Maria Restrepo. But I don't understand? Why come here with this?
+RICHARD	m	Because when we find the end of a string we like to know where it begins.
+DON LUIS	m	String? Now we are talking about string? I'm not a tailor.
+RICHARD	m	Don Luis. Let's cut to the chase here, OK? When the Agency extracted your ass from Colombia fifteen years ago, and set you up here, we let you resume your business when what we should have done was lock you up for life. In exchange, you were supposed to keep the information flowing.
+DON LUIS	m	And I have.
+RICHARD	m	Not much, and not for a very long time.
+DON LUIS	m	And this is what you traveled all the way down here to tell me?
+RICHARD	m	No. What I traveled all the way down here to tell you, is there's a limit to our patience. The CIA is not an amusement park. There are no free rides. Everyone pays their way. And you, my friend, have not.
+DON LUIS	m	OK OK. What would you want?
+DON LUIS	m	I had nothing to do with this. I swear.
+RICHARD	m	Then find out who does.
+RICHARD	m	And Don Luis, don't play the innocent with us. It won't sit well with my bosses if we find out you had anything to do with this. Have a good day.
+DON LUIS	m	She's talking to us.
+MARCO	m	It could be anyone.
+DON LUIS	m	Idiot! I told you. Everyone dead. Down to the dog. 56. Before she finds us.
+ROSS	m	Rizzo here...
+ROSS	m	The most recent, was done to keep him from talking. Alexa Milshinova...
+ROSS	m	...made a career of getting intimate with big stakes gamblers out of Vegas and then taking them off and sending them to meet their maker. D'Angelo James...
+ROSS	m	...tried to take over the heroin trade in Houston from...
+ROSS	m	The Gemini cartel. Their crimes are self explanatory, if you can read. Now I know some of you are thinking whoever is doing this makes less work for mother. And since there's no collateral damage, why are we wasting valuable manpower and resources on the case? And since until now, there has never been a clue to go on, why go on? But with this last killing...
+ROSS	m	We have one. As we go to the video tape.
+ROSS	m	We can't see the assassin, but we can see...
+ROSS	m	The time. 2 AM. Which means our perp was in the station at...I don't have to spell it out for you.
+ROSS	m	These are the names, phone numbers and addresses of everyone with a pulse who entered that police station before two AM. Cops, criminals, clerks, janitors. Everyone. One of them is our target. I want each of you to locate the ten people in the folder you've been given. I want a complete dossier on every one of them for the last ten years of their lives. Run down every lead. Check out every story. Our killer is out there. And we're going to find him. Before he kills again.
+VOICE	m	Don't move.
+VOICE	m	Take off your shirt.
+DANNY	m	Do I have to?
+VOICE	m	Now.
+VOICE	m	Turn around.
+CAT	f	Hello Danny.
+DANNY	m	Hello Jennifer.
+DANNY	m	You should have called.
+CAT	f	Why?
+DANNY	m	I could have been out.
+CAT	f	I have a key.
+DANNY	m	I could have been late.
+CAT	f	I've got nowhere to go.
+DANNY	m	It's just...
+CAT	f	Just what?
+DANNY	m	You show up whenever you want to...
+CAT	f	And then we have the most incredible sex. Ever.
+DANNY	m	I know. I'm just saying...
+DANNY	m	Wouldn't you like to go to dinner sometime?
+CAT	f	Uh-uh. This taste good enough.
+DANNY	m	Or a movie?
+CAT	f	No. They put me to sleep.
+DANNY	m	So let's pop in a DVD and you can spend the night here?
+CAT	f	Would you like the key back?
+DANNY	m	No. I just want to get...I don't know...
+CAT	f	Closer?
+DANNY	m	Yes. Closer.
+CAT	f	Is this close enough?
+DANNY	m	...Yes.
+DANNY	m	Jen...?
+EMILIO	m	Safe?
+CAT	f	On my end. You?
+EMILIO	m	Safe.
+CAT	f	What do we have?
+EMILIO	m	You remember the guy who was in the news for running that Ponzi scheme about a year ago?
+EMILIO	m	He disappeared fifty billion dollars. The money was never recovered. Skipped out and bought himself citizenship on some shit hole of a Caribbean island that calls itself a country with no extradition laws. Lot of very pissed off people lost everything.
+EMILIO	m	There's something else.
+EMILIO	m	How long has this been going on?
+CAT	f	Not long.
+EMILIO	m	The paper says twenty two. All like this. Tell me why.
+CAT	f	No reason.
+EMILIO	m	Since you're a kid, you don't do anything for no reason. Don't play dumb, it insults me.
+CAT	f	I've got to get ready.
+EMILIO	m	It's not just you in this. It's me, Mama.
+CAT	f	Tio. You're removed. You book the work, you collect the fees...
+EMILIO	m	I watch your ass. Each and every job, I vet, I double vet. For every one I book you, I turn down five, ten. I promised to keep you safe. I KEEP YOU SAFE. Cataleya. It's a full time job, no matter what you think. Those pictures...they freaked me out. OK? I didn't realize...
+CAT	f	I come to you at nine. I say I want to be a killer. What kind of kid makes a career choice like that unless they have something on their mind. I live for the day that the blood of the son of bitch who did my parents drips in the gutter. Stop playing the innocent with me. You know this. Forever.
+EMILIO	m	Sure. Of course. But the way you're playing it. They even have a name for you. The Tag killer. I would have stopped it a long time ago. Had I known about this.
+CAT	f	Why?
+EMILIO	m	Because I love you.
+CAT	f	If you do, you would never have let me get involved in the first place.
+CAT	f	I love you too.
+ROSS	m	OK. Let's try...organization...
+ROSS	m	Fuck...
+CAT	f	Hi guys.
+CAT	f	Hey! Hey!
+CAT	f	OK. OK. Now sit.
+CAT	f	Now let's see what good boys you can be.
+CAT	f	Top cut sirloin.
+CAT	f	Nice, huh?
+CAT	f	Red, juicy, delicious.
+CAT	f	Stay.
+CAT	f	Good boys. Eat.
+PEPE	m	Hola Cataleya.
+CAT	f	Hola Pepe. I guess the boys gave me away.
+PEPE	m	Anyone else? The barking would only have stopped when their screaming began. You spoil them.
+CAT	f	I train them.
+PEPE	m	If that's what you want to call it.
+PEPE	m	Did you get the beans I like?
+CAT	f	Of course.
+PEPE	m	And the salsa Verde?
+CAT	f	And the salsa Verde.
+PEPE	m	Not the one in the short bottle.
+CAT	f	The long one.
+PEPE	m	I hate that other one, the chili they use sucks. Did you see your uncle?
+CAT	f	Of course.
+PEPE	m	We're going to church for Easter.
+CAT	f	As always.
+PEPE	m	And you?
+CAT	f	Not this year.
+PEPE	m	As always. You should, you know.
+CAT	f	I should do a lot of things.
+PEPE	m	You could start with that one. It would make us very happy.
+CAT	f	Maybe next year.
+PEPE	m	Cataleya. No one knows what happens tomorrow, next year is a long time away. How was your trip?
+CAT	f	Rewarding.
+PEPE	m	Passport?
+CAT	f	Your ears are better than my eyes.
+PEPE	m	You work too much. I keep telling that to Emilio. The girl should have a life while she is still young enough to enjoy it. You should take a vacation. Go some place warm. With a nice beach.
+CAT	f	Good idea.
+WILLIAM	m	GRRRAAAHHHH!!!!
+WILLIAM	m	Hey! I pay to see more, not less.
+WILLIAM	m	That's better.
+GIRL	f	Willie you are such a perv.
+WILLIAM	m	I know. Anyone hungry?
+GIRL	f	Always!
+WILLIAM	m	Lunch is served.
+SERVANT	m	For you sir.
+WILLIAM	m	Where did this come from?
+SERVANT	m	It was in the post box this morning.
+GIRL	f	Here fishy fishy!
+GIRL	f	Willie! They're ignoring me!
+WILLIAM	m	Put a drop of blood in there and they'll be your biggest admirers. All the way down to your stripped clean bones. And speaking of stripped...
+WILLIAM	m	Bedtime!
+WILLIAM	m	(to head of security) Bring extra security in for the night.
+HEAD SECURITY	m	Yes sir.
+WILLIAM	m	And make sure we're shut down tight.
+HEAD SECURITY	m	Yes sir. Have a good night, sir.
+WILLIAM	m	I intend to.
+HEAD SECURITY	m	There are already guys in the garden and guys out back. I want you three upstairs, two on the roof. You three downstairs. Follow me.
+WILLIAM	m	Hello?
+WILLIAM	m	Anybody?
+CAT	f	Stop right there.
+WILLIAM	m	Who are you?
+CAT	f	Doesn't matter who I am.
+WILLIAM	m	What do you want?
+CAT	f	I want you exactly where you are.
+WILLIAM	m	ARRRGGGHHHH!
+WILLIAM	m	Whatever they paid you, I'll double it!
+CAT	f	You know the thing about sharks. You can swim with them all day and they will just ignore you, but put one drop of blood in the water and they become your biggest admirers.
+WILLIAM	m	Please. I'll give you anything you want. Don't kill me!
+CAT	f	I'm not going to kill you. They are.
+WILLIAM	m	Please! Please!
+WILLIAM	m	Please! Help! Help!
+RICHARD	m	I can't believe this.
+RICHARD	m	Yes?
+VOICE	m	Mr. Steven Richard?
+RICHARD	m	Who is this?
+ROSS	m	FBI special agent Jack Ross. I'm lead agent on a case. A serial killer we call the tag killer.
+RICHARD	m	I've seen the publicity.
+ROSS	m	Marks his victims with a flower. From Colombia. A Cataleya orchid. 74.
+ROSS	m	When I try to access information, I get stuck with a CIA Access denied folder. I understand you were the station chief down there when this rash of murders with the same MO...
+RICHARD	m	Listen, Agent Ross, we don't give out any type of information over the phone. So what I suggest is you file a formal request with the agency for any information you might want. And I'll be more than happy to get back to you as soon as I can.
+ROSS	m	Thank you.
+MARCO	m	Bueno?
+RICHARD	m	No more bullshitting me Marco. I've got the FBI on my ass now. I want that problem taken care of. Yesterday. Do you hear me?
+MARCO	m	Loud and clear.
+ROSS	m	Where are we?
+AGENT 1	m	We ID'd everyone who came in and out of the police station for the twenty four hours preceding the incident. The only one that we could not verify was a...
+AGENT 1	m	Valarie Phillips. Picked up for drunk driving four hours before the hit on Rizzo.
+ROSS	m	A woman? Are you sure?
+AGENT 1	m	It's our only lead.
+ROSS	m	Let's see her booking report.
+AGENT 2	m	Well, there was a little problem. Seems she was too drunk to get a photo.
+ROSS	m	But not to get prints.
+AGENT 1	m	We ran the prints in the data base. No match was found.
+ROSS	m	Lovely. So if there is no booking record, how did we get the name?
+AGENT 1	m	A library card. The only ID she had was a library card.
+ROSS	m	I don't believe this.
+AGENT 1	m	There are the surveillance tapes.
+AGENT 2	m	From three angles.
+ROSS	m	Well, let's see them.
+ROSS	m	That's it?
+AGENT 1	m	That's it.
+ROSS	m	It's not a lot to go on. But put them in the data base and let's see what matches.
+ROSS	m	...a woman.
+MARCO	m	Hello Eduardo, que pasa?
+EDUARDO	m	I have fifty bucks on this shot. That's what's que pasa.
+MARCO	m	Hey sorry. Come on.
+MARCO	m	Here. For you.
+EDUARDO	m	For what?
+MARCO	m	First for fucking up your shot. Second, for an address. You remember Fabio? The Cataleya Killer?
+EDUARDO	m	It's a long time. My memory...
+MARCO	m	You went to school with his brother in law. What was his name? Emilio?
+EDUARDO	m	Like I said...my memory...
+MARCO	m	I have a problem. And we think Fabio's kid is behind it.
+EDUARDO	m	Look Marco. I gotta be honest with you. Everyone knows you guys were playing a double game, and when the shit went down, you were the only ones who got out of it clean.
+MARCO	m	So you do have a memory.
+EDUARDO	m	Yeah. For rats. Now get the fuck out, and let me take my shot.
+MARCO	m	OK...
+MARCO	m	Fuck...
+MARCO	m	You don't tell me what I want to know by the count of three, you scum sucking lowlife prick, your memory will be permanently disabled. One...two...
+CAT	f	I brought you something.
+DANNY	m	That's real progress. Let's see.
+DANNY	m	Wow! Just what I always wanted.
+CAT	f	You're making fun.
+DANNY	m	No. No. I mean, a gift from you. Something to show me you're thinking of me as more than your boy toy.
+CAT	f	Well, there's that too.
+DANNY	m	Wait.
+CAT	f	You don't want me?
+DANNY	m	Of course I do. But can't we talk a little first?
+CAT	f	What would you like to talk about?
+DANNY	m	Oh, I don't know. Nothing. Anything.
+CAT	f	You really want to do this?
+DANNY	m	Yes, I do.
+CAT	f	OK.
+DANNY	m	So...what's new?
+CAT	f	Nothing much.
+DANNY	m	Where have you been?
+CAT	f	On vacation.
+DANNY	m	Really? Where?
+CAT	f	Down south.
+DANNY	m	Where there are alligators?
+CAT	f	There was that one.
+DANNY	m	Was it nice?
+CAT	f	It was OK.
+DANNY	m	What did you do?
+CAT	f	Nothing much. A little swimming, fed the fish.
+DANNY	m	OK. Now you.
+CAT	f	Now me what?
+DANNY	m	Conversation. It goes two ways.
+CAT	f	OK. Want to fuck?
+DANNY	m	OK. OK. I get it. You want to protect yourself. I understand. But I'm...I don't just want to be here for the sex. I know a lot of guys would think this is perfect. She comes over, we fuck like mad. She leaves. But I need a little more.
+CAT	f	Like what?
+DANNY	m	Like...uh...some trust maybe.
+CAT	f	That's a hard one for me.
+DANNY	m	I got that. I'm not in a hurry. And just so you know. The past? If it's too painful right now? 81.
+DANNY	m	If you can't talk about? That's OK. But, you know, if someone hurt you before...like a broken heart or something. I'm not responsible for that. I just want want to be here for you. To know a little about what's inside. What you feel. Just a little.
+CAT	f	I'm lonely sometimes.
+DANNY	m	...And?
+CAT	f	Isn't that enough?
+DANNY	m	It's a good start.
+DANNY	m	Now we can have sex.
+DANNY	m	Let me this time.
+DANNY	m	Morning.
+DANNY	m	I didn't know if you like your eggs over easy or scrambled, so I made...
+DANNY	m	Wait...
+CAT	f	I shouldn't have done this.
+DANNY	m	Done what?
+CAT	f	Any of it.
+DANNY	m	Why?
+CAT	f	Because.
+DANNY	m	Can we talk about it?
+CAT	f	We already talked. I'm late.
+DANNY	m	I made breakfast.
+CAT	f	I don't like eggs.
+CAT	f	Now you know something else about me.
+CAT	f	Don't come out. Please. Don't.
+CAT	f	Sorry I'm late.
+EMILIO	m	You said you would stop the writing!
+EMILIO	m	Read this!
+EMILIO	m	Seven people slaughtered in a Miami bar. I knew one of them. Years ago, in school.
+CAT	f	So what?
+EMILIO	m	I don't like it. This is getting too close.
+CAT	f	Tio. Could be anyone. You're seeing things that aren't there.
+EMILIO	m	And you are so blinded by your need for revenge that you are not seeing things that are. The handwriting is on the wall Cara. Let me read it to you. This is over. I will no longer accept jobs. I will no longer solicit jobs. You are retired.
+CAT	f	How many people did you kill in revenge for your boy's death? How many? And you're going to give me a lecture about revenge?
+EMILIO	m	Cara. It's time to get a life, before you run out of time. Here.
+EMILIO	m	Maybe this will help you understand what I am telling you.
+VOICE	m	Five six. Brown eyes, hazel really, dark hair, thick, shiny...
+DANNY	m	Great body, killer smile. And I think about her all day long.
+RYAN	m	Dude, you're in love.
+DANNY	m	You're so smart.
+RYAN	m	Seriously. This comes from the heart. OK? You're nuts. The girl comes over, strips down, rocks your world, gets dressed, asks for nothing. Leaves. The only thing she doesn't do is bring the pizza and beer. You are living my dream. And you want to go and fuck it up with love?
+DANNY	m	I knew you were the perfect guy to talk about this with.
+RYAN	m	Hey come on. It's me. Since first grade. You and me?
+DANNY	m	Ryan, I'm twenty eight. I met someone who I want to be with. All the time. I have nothing. A stuffed animal. And a picture.
+RYAN	m	You have a picture?
+DANNY	m	In my phone.
+RYAN	m	Give it up!
+DANNY	m	It's not even a whole picture. I took it while she was asleep.
+RYAN	m	Whoa...total babe-age! When do I meet the future Mrs. Delaney?
+DANNY	m	Haven't you been listening to me? I don't even know how to get in touch with her.
+RYAN	m	Dude. That is such a no brainer.
+SHARI	f	You know, if you weren't my brother's best friend...
+RYAN	m	You're doing it for love Shari. Not for me. When they walk down the aisle, you can say you were the one made it happen.
+DANNY	m	Maybe I shouldn't...
+SHARI	f	Up to you Danny. I do it all the time. Photo goes in here. Bangs around the National Data base looking for a match. Bingo. Address, phone number, shoe size, dress size, rap sheet, anything you want to know. It's really no big deal.
+DANNY	m	I just feel like, maybe, I'm invading her privacy or something.
+SHARI	f	Hey guys, I haven't got all day. (holds her hand on the send button on
+THE COMPUTER)	m	Yes or no?
+RYAN	m	Of course yes.
+ROSS	m	I want a trace put on an incoming transmission!
+MAMA	f	Cara. You will come home for lunch.
+CAT	f	No Mama. One thing at a time.
+MAMA	f	That was such a nice surprise.
+PEPE	m	I knew it would happen.
+EMILIO	m	Everyone grows up.
+MAMA	f	I think she's going to be OK.
+EMILIO	m	I think so.
+TECH	m	We need a common base, so let's try size...
+TECH	m	Good...now let's see...hands...
+TECH	m	Looking good. And now...
+TECH	m	Nice nose.
+TECH	m	That's your girl.
+DANNY	m	Hello?
+CAT	f	It's me.
+DANNY	m	Oh my god! I can't believe it! Hello you.
+CAT	f	Are you busy?
+DANNY	m	No. I...no.
+CAT	f	I was just sitting here, looking out the window. And I thought...where are you?
+DANNY	m	In my apartment. Looking out the window.
+CAT	f	So we're seeing the same sky.
+DANNY	m	Yes. I'm so happy to hear your voice.
+CAT	f	And I'm happy to hear yours.
+ROSS	m	We got her! I want SWAT there! All of them! Now!
+DANNY	m	You know it's so crazy. I was just sitting here, looking at your picture, thinking "I'd wish I could call her." And you called.
+CAT	f	...What picture?
+DANNY	m	I'm sorry. I know I shouldn't have. But I have nothing to remember you by, except this little stuffed...
+CAT	f	What picture Danny???
+DANNY	m	I took a picture of you while you were sleeping. With my phone.
+DANNY	m	Jen. I'm sorry. Really. I didn't mean to offend you.
+DANNY	m	...it's just you looked so cute. I can erase it if you want. It's not even a good picture...Jen?
+CAT	f	Who else saw the picture?
+DANNY	m	Nobody. My friend Ryan...
+CAT	f	Who else?
+DANNY	m	His sister. I didn't want to..it's just...I wanted to contact you. I wanted to...
+CAT	f	What does the sister of Ryan have to do with this?
+DANNY	m	Shari, that's Ryan's sister...she works at Police headquarters...
+DANNY	m	I just wanted to be...
+CAT	f	Closer. I know. Goodbye Danny.
+SWAT 1	m	(whispers, on mic) Shower.
+GUY	m	Hey!
+AGENT 1	m	FBI...
+AGENT 1	m	No ma'am everything is under control. We just need you to stay inside. May we have a look around?
+ROSS	m	She's not here. Lock the building down!
+ROSS	m	Where the hell did she go?
+ROSS	m	No one in or out! Lock this place down! Anyone?
+AGENT 1	m	Nothing here.
+AGENT 2	m	Nothing here.
+AGENT 1	m	Nothing...wait...one security camera down.
+AGENT 1	m	The second one is down.
+ROSS	m	Where?
+AGENT 1	m	The garage!
+ROSS	m	(into walkie talkie) All units! Converge on the garage. Cover every exit!
+ROSS	m	Look under every car. In every trunk!!!
+CAT	f	I'm sorry...I'm sorry...I'm sorry
+OPERATOR	m	Federal Bureau of Investigation. How may I direct your call?
+CAT	f	I'd like to speak to the agent in charge of the TAG killings.
+ROSS	m	Agent Ross. Hello? Hello?
+CAT	f	This won't take long. Hands up.
+CAT	f	Turn around.
+CAT	f	Sit.
+ROSS	m	Just so you know, all this? Being so smart? Covering all your bases? It's not going to matter. It's already over. The whole place is wired with web cams.
+CAT	f	You mean these?
+CAT	f	Talking about covering all your bases. Your chair is pressure wired. You move your ass one inch you don't have one anymore.
+CAT	f	I know what you're thinking. Maybe yes a bluff, maybe no. But you have to figure yes, given what you know about me.
+CAT	f	This wasn't what I had in mind for myself when I was a kid. I wanted to be on the other side of things. Like you.
+ROSS	m	So what happened?
+CAT	f	He did.
+CAT	f	This is the last time I was happy. 100.
+CAT	f	The next day they were dead. He killed them.
+ROSS	m	And all this? All these clues...they weren't for us. They were for him.
+CAT	f	I didn't know how else to find him.
+ROSS	m	And you figured sooner or later we would make this public.
+CAT	f	It took you a long time.
+ROSS	m	You're very patient.
+CAT	f	What else do I have to be? I have no one. I did. Until this morning. I had them.
+ROSS	m	You sent him a message. He sent you one back.
+CAT	f	And now I want to finish it.
+ROSS	m	I can't help you.
+CAT	f	Yes you can. He's protected by your government.
+ROSS	m	By a part of the government I have no way of reaching. It's CIA. I don't know why. But there's no getting through it, under it, around it, believe me, I've tried.
+CAT	f	You're going to have to try harder.
+CAT	f	I found this on your table inside. Your family, right?
+CAT	f	Brothers, sisters, nieces, nephews. Mother, father. Nice.
+CAT	f	I know this sounds harsh. But until I get what I want, you'll go to a funeral a week. And you will begin to feel what I have felt all these years.
+ROSS	m	Wait...
+ROSS	m	What about...?
+CAT	f	When your dinner's ready, the timer on it will have expired. Then you can get to work.
+RICHARD	m	You understand, I only agreed to this meeting out of professional courtesy. 102.
+RICHARD	m	The President wanting us to reach out to you folks on the domestic side, and all that pie in the sky crap. The truth is, I really can't help you at all.
+ROSS	m	Can't or won't.
+RICHARD	m	Same thing really.
+ROSS	m	Look, let's put all our cards on the table here. I've met this woman. The killer.
+RICHARD	m	Really? Where?
+ROSS	m	My apartment. She trapped me. She told me if I did not get her this man.
+ROSS	m	She will kill a member of my family every day until I have none.
+RICHARD	m	You're kidding me?
+ROSS	m	Do I look like I could make something like that up?
+ROSS	m	So? What should I do now?
+RICHARD	m	I'd go to the police. Now if you'll excuse me, I have a meeting...
+ROSS	m	Ross. It's her.
+ROSS	m	She says you either give her what she wants or she is going to redecorate your office.
+ROSS	m	Bright red.
+RICHARD	m	What does she think this is? Amateur hour? Tell her that glass is tempered to resist a direct hit by a fifty seven millimeter ordinance.
+ROSS	m	She says she's using seven point six two steel jacketed armor piercing shells. And you have ten seconds to give her the address.
+RICHARD	m	How can I be sure once she has the address she won't kill me anyway?
+ROSS	m	You can't. But I can assure you that if you don't give her the address you will be number twenty four on her hit parade. Trust me on this one.
+RICHARD	m	Eight seven six Magnolia Terrace... New Orleans.
+ROSS	m	She asked you to keep this conversation strictly confidential.
+RICHARD	m	With pleasure.
+ROSS	m	Thank you. Because honestly I didn't know how I was going to explain you splattered all over your walls.
+CAT	f	You guys ever been to New Orleans?
+CAT	f	Good morning.
+CAT	f	I didn't know if you took sugar and cream, so I got one of each.
+SMITH	m	Who are you?
+CAT	f	You designed the house at eight seven six Magnolia.
+SMITH	m	You either leave immediately young lady or I am going to call the police. Cat pulls a gun.
+CAT	f	I would love to see the plans of this house.
+MARCO	m	You will take up positions here...
+MARCO	m	And here. And here. You must expect the unexpected. She is like mist under a door, like a mouse in the wall. She will never attack straight on. You will not see her, until it is too late. She is that invisible.
+MARCO	m	We would prefer she be taken alive. But with a bitch like this, if you get a kill shot you take it.
+DON LUIS	m	Marco?
+DON LUIS	m	MARCO!
+MARCO	m	You four! Get the armored Mercedes! We have to get Don Luis out of here!
+MARCO	m	Don Luis! This way! Everyone to their positions!
+THUG	m	OK! Everyone in!
+MARCO	m	Don Luis! You hide here.
+MARCO	m	Wait for my call. Either she is dead, or we have her far enough away so you can make it to the garage. Take the van. The armor is so thick nothing short of an atomic bomb can penetrate it.
+DON LUIS	m	Marco. Thank you.
+MARCO	m	That's the first time you ever said that.
+DON LUIS	m	Said what?
+MARCO	m	Thank you.
+DON LUIS	m	Don't get used to it.
+MARCO	m	Down!
+MARCO	m	Go!
+MARCO	m	Now!
+MARCO	m	Outside!
+MARCO	m	Kill her!
+MARCO	m	Checking.
+MARCO	m	I think we got her.
+DON LUIS	m	Did you see the body?
+DON LUIS	m	Marco??
+MARCO	m	Stay where you are!
+MARCO	m	You know what bitch? I loved killing your father. He was a coward! And you know what else? I screwed your mother behind your father's back! We all did! She couldn't get enough of it! The whore! I killed her! I killed him! You want to avenge them? The whore and the coward? That's what you come from! Come out! I'm here! Come get the bullet with your name on it, Bitch!
+MARCO	m	Kill her!
+DON LUIS	m	Marco! Marco!
+MARCO	m	You two here! That door opens...
+MARCO	m	...kill anything that comes through.
+MARCO	m	Shit!
+MARCO	m	Giorgio?
+MARCO	m	Tonino?
+DON LUIS	m	Marco! What the hell's going on???
+MARCO	m	Hold on.
+MARCO	m	I will hold here! Run! Run!
+MARCO	m	Do it! Do it you bitch! Isn't this the moment you've been waiting for?
+CAT	f	Yes, it is.
+DON LUIS	m	I beat you bitch! You can't kill me! I am unkillable!
+DON LUIS	m	Marco?
+CAT	f	It's Cataleya.
+DON LUIS	m	I don't understand you. You should have been dead a long time ago. You got lucky. You escaped. You were given a second chance at a life. Why did you not take it? Why did you involve yourself with this insanity?
+CAT	f	For something you can never understand. The love I had for my parents. And you killed that.
+DON LUIS	m	And because of that, you have ruined your whole life to try to kill me? You stupid bitch. Don't you get it? Someone like me? 114.
+CAT	f	Actually Don Luis...you are exactly where I want you to be.
+CAT	f	EAT!
+ROSS	m	Was there anything else?
+DANNY	m	I already told you everything. She would come over, we'd have amazing sex, and she would leave. It's really late, and I'm really tired, if you're not going to arrest me...
+ROSS	m	We don't really have anything to charge you with.
+DANNY	m	Then can I go?
+ROSS	m	Just a few more questions.
+DANNY	m	Can I have a cup of coffee?
+ROSS	m	Sure.
+DANNY	m	Hello?
+DANNY	m	Jen...I...uh...I'm so sorry. I didn't mean...are you OK?
+DANNY	m	FBI headquarters. I didn't tell them anything...besides...
+DANNY	m	I know.
+DANNY	m	OK...What's your real name?
+DANNY	m	Like the flower.
+DANNY	m	Will I ever see you again?
+CAT	f	I know where to find you.
+AGENT 1	m	Ross. We're picking something up off that kid's phone.
+DANNY	m	If there is ever a chance. I want you to know...I could love you. If you let me.
+DANNY	m	...I love you.
+ROSS	m	Cataleya? Cataleya!
+

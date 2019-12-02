@@ -1,0 +1,499 @@
+CORIN	f	Islene!!!
+AESIR	m	Now, now little whore. Did I get you or your little one?
+ISLENE	f	I'd ask you the same.
+ISLENE	f	Take your child.
+CORIN	f	I cannot.
+ISLENE	f	There is no time, husband. I would see my child's face.
+ISLENE	f	A boy. He will be strong. A warrior with no equal.
+CORIN	f	Do not speak, love.
+ISLENE	f	You have never been able to still my tongue, and you will not this day. He will be wild, Corin. You must temper him.
+ISLENE	f	Conan. His--name--is--Conan.
+URAN	m	A Cimmerian warrior is like any other man. A Cimmerian warrior feels hunger. He feels cold. Like other men he may lie and cheat. (stares the boys down) But when a Cimmerian warrior hungers, he hungers only for the blood of his enemy. When he feels cold, it is the cold steel of his sword. When he lies, he lies in wait for his enemy. And when he cheats, he cheats death itself!
+URAN	m	Conan! You are too young to be here. Withdraw.
+LARGEST TEEN	m	He said leave, motherless whelp.
+URAN	m	In the black crag in the high pass stands a wooden training sword. The one who claims it, with stone still in his mouth, will have earned the right to train with the warriors.
+URAN	m	Well? What are you waiting for?!
+CIMMERIAN BOY	m	Conan! Run!
+CORIN	f	Conan? Conan?!
+CORIN	f	What have you done, boy?
+CONAN	m	They killed one. I killed three. I am a warrior now.
+CORIN	f	A warrior? What you have done a jackal would do. Never a warrior.
+CONAN	m	They would have done the same --
+CORIN	f	As I said, jackals. He is not ready. I will forge him myself.
+CORIN	f	Stoke your fire, boy.
+CONAN	m	"Stoke your fire, chop your wood." I have slept where wolves dare not. I have balanced a thousand river stones. When will you teach me the sword?
+CORIN	f	Think you're ready? Then tell me: what is a sword's purpose?
+CONAN	m	To slay ones enemies.
+CORIN	f	No. That is what it does. Its purpose is why you use it.
+CORIN	f	Tell me, which makes the best sword?
+CORIN	f	The stronger ore, eh? Then we shall make a sword of it, and tomorrow you will show me what brute strength yields.
+CONAN	m	Why did it break?
+CORIN	f	Because it had no life.
+CORIN	f	The softer ore is what a man lives for. It is flexible and lasting. It survives, even against the greatest of foes. But too much of the soft ore, the blade will not cut deep enough when it must.
+CORIN	f	A sword must be tempered, the two ores united through fire and ice. Through its suffering the sword comes to hold both life and death.
+CORIN	f	Now tell me, what is this sword's purpose?
+CORIN	f	This one is not ready yet.
+CIMMERIAN SENTRY	m	See something?
+UKAFA	?	That's the last of their guard towers.
+LUCIUS	m	All this sneaking around for a lowly tribe of barbarians.
+LUCIUS	m	That is only because they have never faced my legion.
+KHALAR SINGH	m	Then show us. But should you fail, remember the plan.
+CORIN	f	Conan?
+LUCIUS	m	Retreat!
+CORIN	f	Wait! Hold your ground!
+URAN	m	Death is in the air, invaders. Can you taste it?
+LUCIUS	m	Indeed. I savor it.
+CONAN	m	Father!
+CORIN	f	Come.
+CONAN	m	Do we need more weapons?
+CORIN	f	Go. There is a hunting lodge in the North Pass with provisions.
+CONAN	m	No! I will fight!
+CORIN	f	This fight is over, but yours has just begun. You wanted to be a warrior of the tribe, Conan--now you must be its last.
+CONAN	m	Father, I am not afraid to die.
+CORIN	f	Good. Make your death have purpose.
+CONAN	m	No!
+PICT	m	(strange dialect -
+SUBTITLED)	?	Their heads. You promised me their heads.
+KHALAR SINGH	m	All you wish, once we are gone.
+CORIN	f	What is it you want?
+KHALAR SINGH	m	I seek neither gold nor steel, but flesh and blood. The last of a royal line that goes back three thousand years.
+CORIN	f	Royalty in Cimmeria? Never. Each man is free here.
+KHALAR SINGH	m	But I seek a woman.
+CORIN	f	My wife was killed, long ago, by swine such as you.
+KHALAR SINGH	m	Then our stories began in the same place, Cimmerian. I too lost my wife to marauders. How many men, in how many lands have suffered so? The only answer is power, strength unfettered, the kind of which can unite all Hyboria under a single crown. That is the legacy I seek. Will you join me?
+FARIQ	m	I would cut out his eyes, father, so that he will not find them. So he will wander the afterlife forever.
+KHALAR SINGH	m	Show me your strength, Fariq. Without it, you will never rule. With it, you will never be forgotten.
+CORIN	f	Soon -- it comes for you.
+KHALAR SINGH	m	Burn this place. It no longer exists.
+BARKEEP	m	He's back there.
+CITY GUARD #1	m	What's this one done?
+BARKEEP	m	What's he done?! What hasn't he done? He's bedded six of my whores and finished off three casks of mead--and he hasn't paid so much as a silver piece for it.
+CITY GUARD #1	m	So have your men deal with him.
+BARKEEP	m	I did.
+CITY GUARD #2	m	Sounds like a real problem. Too bad we have other places to be right now.
+BARKEEP	m	Just get that behemoth out of here.
+DRUNKEN MAN	m	Piss-water! You'll serve my friends and I your best, barman, or you'll taste steel!
+CITY GUARD #1	m	Time to leave, northerner.
+CONAN	m	No, my small friends. It's time to die. Now--
+CONAN	m	Who's first --
+CITY GUARD #1	m	By the gods, he's as heavy as a horse.
+CITY GUARD #2	m	Even a dead horse smells better than this.
+LIEUTENANT	m	What's the charge?
+CITY GUARD #2	m	Public drunkenness. Another damn hill ape who can't handle his liquor.
+LIEUTENANT	m	Is that so, boy? How do you plead?
+CONAN	m	Where's the Captain of the Guard?
+LIEUTENANT	m	In the cells, interrogating a prisoner. And you'll get the same if you don't answer. You're accused of public drunkenness. How do you plead?
+CONAN	m	In truth, I've been guilty of much. Jewels stolen from the crowns of kings, men's heads split in battle for the price of a night's drink. But through that I've searched and waited and hunted my prey.
+CONAN	m	But drink? Haven't had a drop all night.
+CONAN	m	The key to the cells.
+LIEUTENANT	m	I don't have it. There's a guard inside the door. Only he can open it.
+LIEUTENANT	m	You can't kill me! He'll only open the door for me!
+GUARD #1	m	What is it?
+GUARD #1	m	Fine, fine.
+LUCIUS	m	Men!
+LUCIUS	m	You've made a huge mistake, ape. You'll never make it out of this place.
+CONAN	m	I came for you, Lucius.
+LUCIUS	m	You talk as though you know me, ape.
+CONAN	m	I do. And I am no ape. I am Cimmerian.
+LUCIUS	m	What do you want? Who are you?
+CONAN	m	I'm the one who made you pretty.
+LUCIUS	m	Impossible! You're dead!
+CONAN	m	No. I am death. And I came a long way for you.
+LUCIUS	m	Wait!! Wait!! I can tell you where the rest are.
+CONAN	m	Where?
+LUCIUS	m	The end of the earth. You kill me, and you'll never find them.
+CONAN	m	Who are you offering?
+LUCIUS	m	Who do you think? All of them. Ukafa, Remo, Cheren, Akhun -- and Khalar Singh himself. But you have to swear you won't kill me.
+CONAN	m	You have my word. You tell me where I will find Khalar Singh, and I will not kill you.
+LUCIUS	m	He is in a city called on the edge of the Eastern Sea. On the edge of Hyboria. Khor Khalba.
+LUCIUS	m	You gave your word!
+LUCIUS	m	What are you doing?!
+CONAN	m	Toasting, to our deal.
+CONAN	m	Go. You are free.
+ONE-EYED PRISONER	m	I won't get far like this.
+CONAN	m	The key to your shackles sits in the Captain's gut. Happy hunting.
+LUCIUS	m	Barbarian! I had your word! You said you would spare my life!
+CONAN	m	No. I said I wouldn't kill you.
+UKAFA	?	Khalar Singh, we've lost half our cavalry legion, and still Fariq presses on! We must turn back!
+KHALAR SINGH	m	He says the Queen is here.
+UKAFA	?	He leads us in circles. He knows nothing of leading an army --
+KHALAR SINGH	m	Take care, Ukafa. You hold a special place in my kingdom, but blood you are not.
+UKAFA	?	My apologies, Khalar Singh. I am simply concerned for your army.
+KHALAR SINGH	m	And I would gladly sacrifice every last man to get my hands on the Queen. And in that respect, Fariq has my confidence. He knows more of the legends of Acheron than anyone.
+FARIQ	m	Father, they are here! The hidden oasis, just as it was written.
+TAMARA	f	Stop it! I'm trying to pray!
+ILIRA	f	I'm bored.
+TAMARA	f	Then hit yourself.
+FASSIR	?	I expect more from a queen.
+ILIRA	f	I'm sorry, Fassir. I just tire of saying the same prayer every day.
+FASSIR	?	Then you should be able to translate it from its original Acheronian.
+TAMARA	f	Of course she can. She even taught it to me. "Never again."
+FASSIR	?	Go on.
+TAMARA	f	Never again will we stand by as darkness consumes the world. Never again will innocents suffer for others' power. Never again will the Queen suffer so Acheron may rise.
+FASSIR	?	Very good, Tamara. You must have taught her very well indeed, Ilira.
+FASSIR	?	The Queen must not be captured. Take her out the North Gate. Quickly!
+ILIRA	f	We can't leave them.
+TAMARA	f	If you are caught, everything we live for is lost!
+REMO	m	No swords. Khalar needs them alive.
+TAMARA	f	Good to know.
+REMO	m	The north gate. Destroy it.
+TAMARA	f	Run!
+ILIRA	f	We'll die!
+TAMARA	f	We'll die if we stay!
+TAMARA	f	NO!!!
+KHALAR SINGH	m	Who was guarding that gate?
+REMO	m	It was I, Lord.
+KHALAR SINGH	m	Take four legions. Hunt her. Before I hunt you.
+TAMARA	f	Water -- please --
+HEAD SLAVER	m	The gods are good. (to the other slavers) Chain this one in my cage. She'll be the prize of the auction in Khor Kalba.
+KHALAR SINGH	m	All these years searching the ends of the earth. And here you are. Just a two day ride from Khor Kalba. I can scarcely believe it.
+FASSIR	?	(in Acheronian, to monks) Say nothing.
+KHALAR SINGH	m	Yes. Say nothing. Maybe he doesn't know who we are. Maybe he's not looking for the Queen.
+FASSIR	?	You come for your own dark purposes, to raise Acheron.
+KHALAR SINGH	m	Yes. I come to resurrect the greatest empire Hyboria has ever known.
+FASSIR	?	An empire of evil, soaked in blood sacrifice and the blackest of magic.
+KHALAR SINGH	m	Have you hidden from the world so long that you cannot to see? Blood, magic, death: it is everywhere. Acheron is no different than any other kingdom, but for its glory. 34.
+FASSIR	?	You would have all the world suffer, as you have suffered. We will die before we help you.
+KHALAR SINGH	m	Yes. You will.
+FARIQ	m	The caves beneath Khor Khalba contain all manner of creature, many -- altered -- by centuries of blood magic. But one, in particular, has developed a special connection to the blood. A thirst. It is said that only the Queen of Acheron itself can resist its embrace.
+FARIQ	m	So what say you? Will you be the lucky one, or will you tell me who is?
+SLAVE TRADER	m	Wake up, slags! Smile! A new owner approaches!
+TAMARA	f	Let me go. I promise you'll be rewarded.
+SLAVE TRADER	m	And I would sample that reward, fair one, but you wear white. 36. Good day, sir! A lone rider in a desolate land. The perfect customer for what I sell.
+SHEMISH WOMAN	f	Please, master! Your gold can free me from this hole! I can bring you
+SLAVE TRADER	m	Silence whore!
+CONAN	m	Khor Kalba. Which way?
+SLAVE TRADER	m	This is the road to Khor Kalba. Ahead. Past the Great Wall.
+CONAN	m	Use your whips on the horses' legs!
+CONAN	m	You!
+REMO	m	The girl! Bring her to Khalar!
+CONAN	m	Who are you?
+TAMARA	f	I am nobody.
+CONAN	m	Many died to capture nobody. (motions to his horse) Get up.
+TAMARA	f	And if I don't wish to ride with you?
+TAMARA	f	Stop! I want water.
+CONAN	m	Perhaps the slavers took your orders. I don't.
+TAMARA	f	I never knew men could be so cruel. Now I wonder if the world is filled with animals such as you.
+CONAN	m	You speak of animals as if they were less than men. But animals don't stab their brothers in the back or steal their mother's only possession. And they never lie.
+TAMARA	f	I haven't lied.
+CONAN	m	Very well. Give me your name.
+TAMARA	f	I am Tamara Amelia Karushan. And you?
+CONAN	m	I am Conan.
+TAMARA	f	Conan? That's it?
+CONAN	m	What more names do I need?
+CONAN	m	There is only one truth I need from you, Tamara Amelia Karushan. Why does Khalar Singh want you?
+CONAN	m	Then let's hope it's for your cooking.
+CONAN	m	Trying to poison me?
+CONAN	m	What are you doing?
+TAMARA	f	Before we eat, I must pray.
+CONAN	m	Crom! What would you pray for? That a bone may not get stuck in your throat? No words nor gods will give you one more moment than fate allows you.
+TAMARA	f	Then you have no faith. And I am sorry for you.
+CONAN	m	I need no pity.
+TAMARA	f	But you do. You live in a world that is harsh and short. Where fate is unyielding and hope is a cruel joke. I live in a world with a purpose that guides me, where faith sustains me.
+TAMARA	f	Why did you--
+CONAN	m	Don't worry. His back is broken. He won't be slinking away this time.
+CONAN	m	Now, let's eat.
+TAMARA	f	But -- what about him?!
+CONAN	m	I enjoy a little music with my meal.
+REMO	m	Please! Mercy!
+CONAN	m	You are more fit to inflict torture than to endure it. Your life is not nailed to your spine as my peoples are.
+REMO	m	Stop! Stop! I know how make you rich! Rich! You hear name Khalar Singh? You have what he want. The girl, yes? Khalar give you anything for her. More!
+CONAN	m	Why would he?
+REMO	m	She could be the one.
+CONAN	m	One what?
+REMO	m	The one. The Queen.
+CONAN	m	A queen in hiding.
+REMO	m	Yes! Yes! I sent to find her. Bring her. He wait for me now, at Great Wall. He pay you anything. More!
+CONAN	m	So I should ransom her to your master? Not exactly loyal -- but still, a good idea.
+CONAN	m	You'll help me deliver it.
+REMO	m	Please! Please! I help you! I do anything you wish!
+CONAN	m	Good. Die.
+KHALAR SINGH	m	He brought a message?
+UKAFA	?	I'll find them -- and come back with their heads.
+FARIQ	m	You let the girl escape once, Ukafa. What makes you think you can do better now?
+UKAFA	?	I did what?
+FARIQ	m	I found the monastery. It was my understanding that you were in charge of its capture --
+KHALAR SINGH	m	Enough! We will take no chances. We will pay this thief what he wants, and more.
+CONAN	m	Here. Eat.
+TAMARA	f	Couldn't you at least cook it first?
+CONAN	m	Fire draws attention.
+TAMARA	f	Does it bother you, blood on your hands?
+CONAN	m	The only blood on these hands I claimed with my own sword.
+TAMARA	f	What does that mean?
+CONAN	m	Clean hands mean nothing. Kings and Queens claim more lives than I will ever meet, and not a drop is spilled in their presence.
+TAMARA	f	What are you talking about? I've done no harm to you. I've done no harm to anyone.
+CONAN	m	You lie. You are the very reason my people are dead.
+TAMARA	f	Are you mad? I never met your people.
+CONAN	m	But Khalar Singh has. He destroyed my people, looking for you.
+TAMARA	f	The one who came for us? His name is Khalar Singh?
+CONAN	m	You know this.
+TAMARA	f	We did not know who sought us, only that we were sought.
+CONAN	m	You hid from him. And while you did, others died in your place.
+TAMARA	f	If we did not hide, countless more would have been killed! You do not know what purpose he has for our queen.
+CONAN	m	And I do not care, for he will not live to see it bear fruit!
+TAMARA	f	Wait -- you seek to kill this Khalar? We have the same aim. He takes my queen to Khor Kalba. I have sworn an oath to protect her. I can help you.
+CONAN	m	Enough lies.
+CONAN	m	You will keep quiet.
+TAMARA	f	What use is talking? You won't believe a word I speak. I only want to know this -- how will you kill Khalar? You are too big to play the assassin.
+CONAN	m	You will be the lure that will draw me close. Then I will scale the wall and cut him down where he stands.
+TAMARA	f	And the archers and cavalry? They will be napping?
+CONAN	m	They will not be a problem.
+TAMARA	f	No. Not good enough.
+CONAN	m	Did I ask?
+TAMARA	f	Should you fail, I'll be left without a weapon, helpless in my enemies hands. Let me help, Conan.
+CONAN	m	I will not fail.
+FARIQ	m	Let me take care of this thief, father. He's beneath your notice.
+KHALAR SINGH	m	He killed Remo, likely his cavalry legion as well. Whatever he is, he is more than a mere thief.
+CONAN	m	Be still!
+CONAN	m	(yelling to Khalar) I have what you want! Where's my gold?!
+KHALAR SINGH	m	Triple your price. Come and claim it.
+CONAN	m	Send the gold.
+KHALAR SINGH	m	You're fast. But are you fast enough?
+FARIQ	m	You should have run, while you could.
+KHALAR SINGH	m	Fariq!
+CONAN	m	I was wondering what it would take for you to stop cowering.
+KHALAR SINGH	m	I wasn't cowering. I was studying. You're quite gifted with a sword, but it's not from schooling. Your speed and power makes up for a lack of -- finesse. I've seen such fighting before -- Cimmerian.
+CHEREN	f	No!!
+KHALAR SINGH	m	Ukafa, you will take half our forces North, to the Sea. I will take the rest South.
+FARIQ	m	What of me, father?
+KHALAR SINGH	m	You will return to Khor Kalba. You will feed the women to the beast until you find our Queen.
+FARIQ	m	I will not. I will track the barbarian with you --
+KHALAR SINGH	m	You think I care what you wish?! You want to play warrior? It is not in you. One day you will be king, but warlord, never.
+FARIQ	m	I can. Let me prove it to you!
+KHALAR SINGH	m	You will not risk your life again. You are my line, my successor. You will not throw away all that I have worked for.
+CORIN	f	What are you waiting for? The fire is dying.
+CONAN	m	It's not enough. I've failed you father.
+CORIN	f	It will never be enough, Conan.
+CONAN	m	I don't understand --
+CORIN	f	Through suffering, you will learn your purpose, boy. And you have not begun to suffer yet.
+TAMARA	f	I wouldn't move so fast. I bound your wounds as best I could, but I'm no healer.
+CONAN	m	Where am I?
+TAMARA	f	On the Wasp. You told me where it laid, just before you passed out. Though I can't say as I feel much safer here.
+TAMARA	f	Don't embarrass me with thanks, I only saved your life.
+CONAN	m	You were -- adequate.
+ARTUS	m	Look what we have here. A hill ape in over his head.
+CONAN	m	I was just wondering what that smell was. (sniffs near Artus) Now I know.
+ARTUS	m	We take no stowaways. Only paying passengers. You've best be laden with gold.
+CONAN	m	If it's metal you seek, perhaps you'd settle for steel.
+CONAN	m	Still fast Artus.
+ARTUS	m	Fast, deadly, charming, rakishly handsome. (to the pirates) All hail Conan!
+PIRATES	m	All hail Conan!
+ARTUS	m	Sorry, friend. Looks like you've had a rough road.
+CONAN	m	It won't get easier. Khalar Singh lives. He'll be coming for me and the girl.
+ARTUS	m	Good. We're scrapping for a fight these days.
+CONAN	m	This one may be more than you wish. I need you to get me close to Khor Kalba.
+ARTUS	m	Rest up. We'll get you there.
+TAMARA	f	We go to Khor Kalba?
+CONAN	m	I do.
+TAMARA	f	No. We do.
+CONAN	m	Just leave me to sleep.
+CONAN	m	You would risk your life for royalty? Why?
+TAMARA	f	Because she represent freedom, not just ours but all Hyboria's. What do you know of Acheron?
+CONAN	m	A tall tale. Meant to scare children.
+TAMARA	f	It is no fable. It's my people's history. Acheron was an empire that swallowed all of Hyboria, led by the King and his legion of demon warriors. Unstoppable. Insatiable. Immortal. But still it had one weakness. For the true power of Acheron laid not with its King, but the Queen. Every twenty years, a new queen from the royal line would be coronated with a crown of iron. Spikes would pierce her, slowly drain her precious blood, and through her suffering Acheron would remain invincible. Until one of my ancestors, an Acheronian himself, put a stop to this tyranny. He and others spirited the new Queen away, hiding her from the empire and all those who would raise it again.
+CONAN	m	What care I for queens and empires?
+TAMARA	f	Didn't you hear me? This evil faces us all. All of civilization will fall if the army of Acheron is raised again.
+CONAN	m	I heard. Only I would happily put all of your "civilization" to the torch myself.
+TAMARA	f	But -- you owe me a debt, you thankless oaf!
+CONAN	m	My only debt is to my people. And it still lies unpaid.
+SAILOR	m	It was a pirate ship. They left as soon as the girl and the large one boarded.
+KHALAR SINGH	m	Which way did they sail?
+SAILOR	m	North.
+KHALAR SINGH	m	Are you certain?
+SAILOR	m	Yes, please, I'm telling you the truth!
+KHALAR SINGH	m	Send word to Ukafa. They come to him by sea.
+ARTUS	m	Try not to taste it going down would be my advice.
+TAMARA	f	You've known Conan long?
+ARTUS	m	We sailed with him for a while. I would like to say I know the man.
+TAMARA	f	He is a riddle to me.
+ARTUS	m	Aye, he's that too.
+TAMARA	f	We have the same goal. Why will he not trust me?
+ARTUS	m	Why would he? He's a stranger in every land he trods. A man with no home, no people, none but the company of ghosts. And he bears the weight of their deaths every moment of every day.
+TAMARA	f	That is no way to live.
+ARTUS	m	He doesn't live. I've seen in him great mirth, only to watch it smothered by greater melancholy. He owes a blood debt, and he can entertain no other joy, no other cause, until it is fulfilled.
+TAMARA	f	And yet you call him friend, and risk death to help him.
+ARTUS	m	Let me tell you something of Conan. He will never lie. He will never break a trust, once given. And he will never, ever give up.
+TAMARA	f	He's a stubborn ass.
+ARTUS	m	He is that, lass. He is that.
+FARIQ	m	Here we stand again. Will the queen reveal herself, or must another innocent suffer?
+FARIQ	m	My father, he tires of your charade. He grows impatient. But I have no such haste. I enjoy watching you squirm.
+FARIQ	m	Perhaps you'd like to see the end your sisters faced back at the monastery?
+FARIQ	m	No? Your fear is not enough yet? Let's try harder.
+FARIQ	m	I've read all there is to know of mighty Acheron. Why would true Acheronians protect a traitor to their own? You once held the entire world in your grasp, now you hide and cower like pitiful mice.
+FARIQ	m	And mice are meant to be swallowed whole.
+FARIQ	m	What was in the box could only drink from you one at a time. But the beast of Acheron, it will claim four of you this night. 64.
+FARIQ	m	Who will spare the rest and tell me which of you is the queen?
+FEMALE MONK	f	I am the one you seek.
+FARIQ	m	At last. Some bravery. But of course, you wouldn't expect me to take your word, would you?
+TAMARA	f	No!!!
+TAMARA	f	You're drinking? You were near death this time yesterday.
+CONAN	m	Is there a better reason to drink?
+TAMARA	f	Do you think--I could try some of that? I'm curious of its taste.
+CONAN	m	You've never tasted mead?
+TAMARA	f	It's good.
+TAMARA	f	Let me ask you something. Once you've killed Khalar and claimed your vengeance, then what? You will be free from your ghosts. What of your future, Conan?
+CONAN	m	I have no future. It died with my people, as I should have.
+TAMARA	f	So your life is penance? For what, for living? And when you too die, what do you believe happens then?
+CONAN	m	Nothing.
+TAMARA	f	Nothing? I couldn't live without some kind of belief in the world after this.
+CONAN	m	I believe in the cold of steel, the warmth of flesh. All else is fairy tales.
+TAMARA	f	Perhaps. But I still die with faith in my heart, belief in something greater than one's self. What will you die with?
+CONAN	m	Purpose. I die with purpose.
+PIRATE 1	m	To stations! To stations!
+ARTUS	m	What do you think? They have us outnumbered, but we might beat their speed.
+CONAN	m	That is what they wish. They drive us to another force, approaching from the south.
+ARTUS	m	Then we fight?
+CONAN	m	No. We give them what they think they want. (to the Pirates) About ship! Now!
+CAPTAIN	m	They're turning to run.
+UKAFA	?	Good. We only need stay close.
+ARTUS	m	And now?
+CONAN	m	Let us show them why she is called the Wasp.
+TAMARA	f	Why is she called the Wasp?
+ARTUS	m	Open astern! Load the stinger!
+CAPTAIN	m	They are doing -- something.
+CONAN	m	Fire!
+CONAN	m	Rip her apart!
+SAILOR	m	We're taking on water!
+CAPTAIN	m	Hard to port!
+UKAFA	?	No. Let them fire again!
+CAPTAIN	m	We will sink.
+UKAFA	?	So be it. (to his spearmen) Get below. Be ready.
+CONAN	m	Fire!
+UKAFA	?	Now!
+ARTUS	m	Bring her back!
+ARTUS	m	She's dead in the water!
+CONAN	m	Good. I was growing weary with boredom.
+CONAN	m	Hide her below.
+UKAFA	?	Find the girl!
+UKAFA	?	We are each the last of our tribe, Cimmerian. Yours dies this day.
+UKAFA	?	Your head will top my spear today, but know Khalar's pig son will soon share your fate.
+UKAFA	?	Now finally, you die.
+CONAN	m	Time to go.
+ARTUS	m	I could get you closer. Another half day along the coast --
+CONAN	m	I need you head west, to draw off our pursuers. I'll find another path to Khor Kalba.
+ARTUS	m	So be it. Swift wind at your backs.
+TAMARA	f	So you are taking me with you to Khor Kalba.
+CONAN	m	I never said that. But I won't leave a virgin onboard a pirate ship, alone.
+TAMARA	f	I -- but -- who said I was a virgin?
+CONAN	m	We'll rest here until morning.
+TAMARA	f	Will I awake alone? Do you intend to leave me?
+CONAN	m	I would do you a kindness. Khor Kalba will bring only death.
+TAMARA	f	Please, Conan. Artus told me of how you lost your tribe. I too had to watch as my people were taken from me.
+TAMARA	f	All I ask is that you let me travel with you. I too have a purpose. I must get to the queen. I would rather you kill me here, than fail her again.
+TAMARA	f	I was wrong about you. You are no fearless warrior. Your heart is closed to all but fear -- and hate.
+CONAN	m	We leave at dawn. I will not break stride for you. Not once. I will get you into Khor Kalba. Beyond that I have my purpose, and you yours.
+TAMARA	f	Nice fire. Does it mean you'll actually cook the meat this time?
+CAPTAIN	m	The pirate ship sailed to the west. Even under full sail it'll be no easy task to overtake her.
+KHALAR SINGH	m	Fariq has done well. (to the Captain) Head east, back to Khor Kalba.
+CAPTAIN	m	But our chase points the other way.
+KHALAR SINGH	m	The chase is over. They come to me now.
+TAMARA	f	What were the women of your tribe like, Conan?
+CONAN	m	They fought beside the men.
+TAMARA	f	So they were equals. And your mother?
+CONAN	m	She died in battle, even as I was born.
+TAMARA	f	So you never knew her. It was the same with me. I've always known being a mother was somehow not my fate. But--
+TAMARA	f	You said earlier Khor Kalba will bring only death. Were you trying to scare me, or do you really believe our end lies there?
+CONAN	m	I don't lie.
+TAMARA	f	Then we don't have much time. Your mother perished too young, but at least she died having known the touch of one who cared.
+TAMARA	f	So -- do you care, Conan?
+TAMARA	f	I've only ever heard you speak of what you'd die for, Conan. What would you live for?
+CONAN	m	Do you ever tire of talking? Let me rest, woman.
+TAMARA	f	I thought that may work.
+TAMARA	f	I see you clearly now, finally, after all this time. (she kisses him deeply) I would be that which you live for, Conan, if you would have me. You may have faith in nothing, Conan -- but I have faith in you.
+CONAN	m	We'll slip in, along with those traders. But you'll need a change of clothes, those monks' robes will draw attention.
+TAMARA	f	What will I wear?
+TAMARA	f	I don't understand why I couldn't be dressed as you are. I look like a whore.
+CONAN	m	And what better disguise for a monk?
+CONAN	m	Do not test me, beast.
+TAMARA	f	Is there not a living thing you can be at peace with?
+CONAN	m	It's probably only way into Khalar's fortress. I'm sure it is heavily guarded at all times, day and night.
+TAMARA	f	So we must try to scale the cliff.
+CONAN	m	And dodge arrows as we do so?
+CONAN	m	During the day, we'd easily be spotted on the climb. And it would be useless to even attempt at night. No, we must find another way.
+CONAN	m	Thieves. You'll regret finding me.
+CONAN	m	What? Do you wish to join in?
+CONAN	m	So that's it?
+TAMARA	f	Catacombs? You mean sewers.
+CONAN	m	What is it?
+TAMARA	f	A warning. These catacombs are connected to the sea. It says that the beasts of Acheron protect its secrets.
+CONAN	m	Not from me.
+TAMARA	f	Where now?
+CONAN	m	Around. Up.
+TAMARA	f	Oh!!!
+CONAN	m	What?
+TAMARA	f	Something touched me. Something slimy.
+CONAN	m	Crom! Stop wasting time.
+CONAN	m	Crom indeed.
+CONAN	m	Let's go.
+TAMARA	f	What is that?
+CONAN	m	Nothing good.
+AKHUN	m	Which ever one of you slaves gets me the girl, lives.
+CONAN	m	Stay behind me.
+CONAN	m	Who dies first?
+CONAN	m	Crom!
+AKHUN	m	Get her!
+AKHUN	m	You'll make a nice meal.
+TAMARA	f	Where is Ilira?
+FEMALE MONK	f	She was taken away by Fariq.
+TAMARA	f	Then I'm too late.
+ELDER MONK	m	No. She was just taken this morning. It's not yet midnight, and Khalar still must bring her to the cave of Acheron.
+CONAN	m	You're going to fight Khalar's troops? Just you?
+TAMARA	f	Cimmerians aren't the only women who know how to fight. And to kill.
+TAMARA	f	Our duty was to keep the queen safe. We failed. But if Khalar brings her to Acheron, it will rise again -- and all our peoples' sacrifice is for nothing. 88.
+TAMARA	f	So if the queen is not free by the stroke of midnight -- she must be already dead.
+CONAN	m	You want my help again.
+TAMARA	f	No. You kept your word, I'll keep mine. I pray you fulfill your debt.
+ELDER MONK	m	Guard.
+TAMARA	f	Don't kill him. We need to find out which way Ilira was taken.
+TAMARA	f	Tell us where the last girl was taken.
+TAMARA	f	Your debt --
+CONAN	m	Will be where your queen is.
+TAMARA	f	Ilira!
+TAMARA	f	She's dead. It's over.
+KHALAR SINGH	m	It's only begun. Because that one was not the heir to Acheron.
+TAMARA	f	No. It can't be --
+KHALAR SINGH	m	Secretive, the traitors of Acheron. It wasn't easy, but Fariq finally wrung honesty from the girl. That poor innocent was forced to live a lie, even as the truth was kept from the queen herself. 90. And you did the rest, barbarian. My thanks for delivering the Queen to me.
+TAMARA	f	No!
+FARIQ	m	At last you awaken, Cimmerian. It's been hours you've made me wait for my fun.
+FARIQ	m	You made me lose face in front of my father. That wasn't wise. But what should I expect from a Cimmerian?
+CONAN	m	A swift end!
+FARIQ	m	Hardly. But that is a difference between you and me. A swift end would be a mercy I do not intend to grant. No, you must suffer for your transgressions. 91.
+FARIQ	m	You must beg for your suffering to end. Just as your people did.
+CONAN	m	You lie. I was there. My father never uttered a sound.
+FARIQ	m	You were there? What were you doing, warrior? Watching your father die, without saying a sound? Taking your eyes will be justice indeed, coward.
+CONAN	m	I saw my father die. Slain by one who can only kill men already on their knees.
+FARIQ	m	I've killed many in battle, cur.
+CONAN	m	Really? Then why did your father not let you face me before, when I had sword in hand. He thought you unequal to the task.
+CONAN	m	Coward! Prove your strength!
+CONAN	m	Take my eyes, coward -- if you can.
+TAMARA	f	This is no empire, only a graveyard.
+KHALAR SINGH	m	You see only with your eyes.
+KHALAR SINGH	m	The Acheronians had a wonderful sense of balance, don't you think? For one to ascend to royalty, another must fall.
+TAMARA	f	Stop. You don't know what you are about to do.
+KHALAR SINGH	m	But I do. For thirty years I have dreamed of this day. The day our people rise from the ashes.
+CONAN	m	Crom.
+KHALAR SINGH	m	It's good that you pray. Gods will be here soon.
+TAMARA	f	He'll--be---here--sooner.
+KHALAR SINGH	m	Who?
+KHALAR SINGH	m	I will say this for you, barbarian. You are hard to kill.
+CONAN	m	Let her go.
+KHALAR SINGH	m	You've faced me before and lost. What do you think has changed now?
+CONAN	m	My purpose.
+KHALAR SINGH	m	You are strong, Cimmerian, but we both know you are not my equal.
+CONAN	m	Once you used my father to teach your son a lesson about strength. Now let me teach you.
+KHALAR SINGH	m	No.
+TAMARA	f	Conan!!!
+KHALAR SINGH	m	I am Khalar Singh, King of Acheron. I command you to kneel! Show him the might of the army of Acheron!
+ACHERONIAN COMMANDER	m	First, we feed.
+KHALAR SINGH	m	Fine. Take your fill. I will kill him myself.
+CONAN	m	Your story ends here.
+CONAN	m	Like a woman, Fariq cried and begged me to spare him.
+KHALAR SINGH	m	They take her to a place you can never follow. Who will you fail, Cimmerian? Your father or your woman?
+CONAN	m	Tamara!!
+TAMARA	f	Conan!
+TAMARA	f	Conan, you know what you must do. Kill me.
+CONAN	m	No.
+TAMARA	f	It is the only way to end this. My death gives others life.
+CONAN	m	I cannot.
+TAMARA	f	You must. Your parents both understood that purpose. Now it is yours. Live, Conan.
+

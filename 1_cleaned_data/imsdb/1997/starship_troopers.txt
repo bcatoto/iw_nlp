@@ -1,0 +1,1040 @@
+YOUNG PEOPLE	m	I'm doing my part... Me, too... Are you ?
+OFFICIAL VOICE	m	Join the mobile infantery and save the world ! Service guarantees citizen-ship. Would you like to know more ?
+OFFICIAL VOICE	m	The Bugs send another meteor our way !
+OFFICIAL VOICE	m	But this time we are ready ! Planetary defenses are better than ever ! Would you like to know more ?
+OFFICIAL VOICE	m	Klendathu, source of the bug meteor attacks, orbits a twin star system whose brutal gravitational  forces produce an unlimited supply of meteorites...
+OFFICIAL VOICE	m	To ensure the safety of our solar system, Klendathu must be eliminated ! Would you like to know more ?
+OFFICIAL VOICE	m	We break net now and take you live to Klendathu
+NET CORRESPONDENT	?	We 've just landes here on whar cap troopres are calling  "Big K" with the 6th Mobile Infantery division... It 's an ugly planet, a bug planet, a planet hostile to  life as we iGKKKKKK !
+JOHNNY	m	Com'on, let's go !ON THE BOUNCE
+FED NET CENTRAL	m	FOLLOW THEM...! GO ! GO !
+JOHNNY	m	THIS WAY !
+JOHNNY	m	KITTEN !
+JOHNNY	m	AAAAAAAAAAAAAAAA !
+CAMERAMAN	m	AAAAAAAAAAAAAAAA !
+JOHNNY	m	Oh, God... Oh, God, help me... please help me...
+RASCZAK	?	The end of another school year, and for  me no doubt another failure... Rico, pay attention !
+JOHNNY	m	Sorry, Mr. Rasczak.
+RASCZAK	?	Here in History and Moral Philosophy we've explored the decline of  Democracy when social scientists brought the world to the brink of chaos, and how the veterans took control and imposed a stability  that has lasted for generations since... You know these facts but have I taught you anything of value ? You. Why are only citizens allowed to vote ?
+LANNY	?	It's a reward... what the Federation gives you for doing Federal Service.
+RASCZAK	?	No. Something given has no value ! Haven't I taught you dimwits anything ? I guess they ought to revoke my  teaching credential...
+RASCZAK	?	When you vote, you're exercising political authority. You're using force. And force, my friends, is violence, the supreme authority from which all other authority derives.
+CARL	m	Gee, we always thought you were the supreme authority, Mr. Rasczak.
+RASCZAK	?	In my classroom, you bet. Whether it's  exerted by ten or ten billion, political  authority is violence by degree. The  people we call citizens have earned the right to wield it.
+DIZZY	m	My mother always says that violence never solves anything.
+RASCZAK	?	Really ? I wonder what the city fathers of Hiroshima would have to say about that. You.
+CARMEN	f	They probably wouldn't say anything. Hiroshima was destroyed.
+RASCZAK	?	Correct. Naked force has settled more issues in history than any other factor. The contrary opinion 'violence never solves anything' is wishful thinking at its worst.
+RASCZAK	?	People who forget that always pay... They pay with their lives and their freedom.
+RASCZAK	?	You. Tell me the moral difference, if any, between the citizen and the civilian ?
+JOHNNY	m	The difference lies in the field of civic virtue. A citizen accepts personal responsibility for the safety of the body politic, of which he is a member, defending it, if need be, with his life. The civilian does not.
+RASCZAK	?	The exact words of the text. But do you understand it ? Do you believe it ?
+JOHNNY	m	Uh, I don't know.
+RASCZAK	?	Of course you don't. I doubt if any  of you here would recognize 'civic virtue' if it bit you in the ass.
+RASCZAK	?	Well, that's it. Have a nice life.
+CARMEN	f	C'mon, let's see if they've posted the math final test yet.
+STUDENT	m	Hey, Rico, we gonna take Tesla ?
+JOHNNY	m	How should I know ?
+STUDENT	m	You're captain of the team !
+CARMEN	f	First thing Fleet Academy looks at is your math scores.  Wish me luck !
+JOHNNY	m	Good for you.
+CARMEN	f	Your turn...
+CARMEN	f	Hold on... I wanna talk to Marco. His sister's at Fleet !
+CARL	m	You still haven't kissed her yet ? Don't lie.
+JOHNNY	m	What's the hurry ?
+CARL	m	Others are waiting.
+JOHNNY	m	Did you read her mind ?
+CARL	m	Don't have to... Some mating semaphore is pretty hard to miss.
+JOHNNY	m	Yeah, but I want Carmen.
+CARL	m	You got it bad.
+CARL	m	Don't forget about this afternoon. He's always late when he walks you home to fish for a kiss.
+CARMEN	f	She's flying starships !
+JOHNNY	m	Who ?
+CARMEN	f	Marco's sister. Can you imagine  maneuvering half a million tons through crwoded space lanes... You gotta have nerves of steel ! Reflexes are critical
+JOHNNY	m	I have good reflexes.
+CARMEN	f	C'mon Johnny, we'll be late for Biology.
+BIOLOGY TEACHER	f	For our final today, please identify the mouthparts, the abdominal organs, and for extra credit, locate the nerve cord and count the ganglia. You may begin.
+CARMEN	f	Eeuch !
+JOHNNY	m	Aw, c'mon, it's just a bug.
+BIOLOGY TEACHER	f	Just a bug, eh ? We humans like to think we are Nature's finest achievement. I'm afraid it isn't  true. This Arkellian Sand Beetle is superior in many ways. It has fewer moving parts, can reproduce itself in vast numbers, and unboud by concerns of ego and mortality, makes the perfect selfless member of  society.
+JOHNNY	m	Better put your goggles on.
+BIOLOGY TEACHER	f	Our galaxy is teaming with insect life. We have identified over two billion species so far. Human, life, it would seem, is the anomaly.
+CARMEN	f	But we 're intelligent. Human minds have invented art, mathematics and interstellar travel.
+BIOLOGY TEACHER	f	True, we know of no insect society that has produced a Shakespeare, an Einstein or a Cherynkov, but before you let that go to your head, take the example of the Arachnids, a  highly organized, highly evolved insect society.
+BIOLOGY TEACHER	f	They are relatively stupid by human standards. Workers have an IQ of 12, warriors around 35 , and yet the  Arachnids have colonized planets. Over a million years of evolution, Nature has provided the Arachnids with the  biological means to hurl their spore into space.
+JOHNNY	m	Well, if that's the crop, that must be the gastric caecal...
+CARMEN	f	Excuse me...!
+JOHNNY	m	35% on the math final !  No one could be that dumb with numbers.
+CARMEN	f	Well, at least you didn't lose your lunch over a bug. How embarassing.
+JOHNNY	m	Who cares about bugs ? You can't go anywhere if you don't know math.
+CARMEN	f	Don't be so sure. I like you even if you are dumb with numbers.
+JOHNNY	m	Then how come you won't hold hands with me at school ?
+CARMEN	f	I don't want everyone to see.
+JOHNNY	m	Why won't you kiss me when we're all alone ?
+CARMEN	f	How come that's all you talk about anymore ?
+JOHNNY	m	It's all I think about anymore.
+CARMEN	f	You can't walk me home.
+JOHNNY	m	Why not ?
+CARMEN	f	I thought you were going to help Carl.
+JOHNNY	m	Carl can wait.
+CARMEN	f	Johnny, my Dad's home today.
+JOHNNY	m	What's he got against me... I mean, I 'm a teenager. You can't be a citizen when you're only a teenager !
+CARMEN	f	It's not you, Johnny. Your parents are rich they don't need to be citizens, and that stuff means a lot to my dad. He's a veteran.
+JOHNNY	m	Well, if your dad doesn't like me, how come we're such good friends ?
+CARMEN	f	Sometimes I do what I want, eh ?
+CARL	m	Don't think about it... go on instinct.
+JOHNNY	m	Ace of spades.
+CARL	m	Statistically speaking you should've accidentally
+JOHNNY	m	In addition to "psychic dolt" this test also proves  I'm unlucky ? Two of hearts.
+CARL	m	Luck is not a factor. No one really knows why  some people are sensitive and some aren't. Federal studies like this might provide a clue.
+JOHNNY	m	I wouldn't want to know what everyone was thinking. Four of spades.
+CARL	m	Cyrano, you big yellow turd !
+JOHNNY	m	He just wants attention. You don't play with  him like you used to.
+CARL	m	Go bug Mom, Cyrano.
+JOHNNY	m	How do you make him do that ?
+CARL	m	I gave him the impression that there was a fly crawling up my mom's leg. He is going to go eat it.
+MOM	f	Get out ! Get out ! CARL...!
+JOHNNY	m	Carl, promise me you won't ever do anything like that to me.
+CARL	m	Don't be afraid. Can't do humans... yet. C'mon let's go.
+JOHNNY	m	Ten of clubs. You still gonna sign up for Starside R&D ?
+CARL	m	Passport to the Universe. Who wouldn't want that ?
+JOHNNY	m	I've been thinking about applying for  Federal Service, too. Fleet, maybe.
+CARL	m	Your father will never let you.
+JOHNNY	m	I'm eighteen. It's my decision, I think I'd  make a pretty good pilot. I've good great reflexes. You need that for maneuvering, you know.
+CARL	m	Only 1 in 14 male applicants make it through stellar navigation. So what do you think your chances are ?
+JOHNNY	m	Eight point... no, uh, seven...
+CARL	m	If you can't do those numbers, you haven't got a chance.
+JOHNNY	m	All I know is Carmen's going to be a citizen,  and I don't think it'll work out for us if I'm not.
+CARL	m	Love... how excruciatingly pathetic.  Now try and pay attention.
+JOHNNY	m	Queen of hearts.
+CARL	m	Well, what do you know about that !
+DIZZY	m	Tesla's tough. They tumble good and they hit HARD.
+JOHNNY	m	We tumble good, too.
+DIZZY	m	Kick three, fade left. On two.
+ZANDER	m	Time's running out.
+JOHNNY	m	A lot can happen in three minutes.
+DIZZY	m	Hut... hut !
+CARMEN	f	Are you alright ?
+ZANDER	m	I'm getting better.
+ZANDER	m	So what are you doing later ?
+CARMEN	f	Everyone is going to the dance. Aren't you ?
+ZANDER	m	I don't know. It's my last night as acivilian. I ship out for Tereshkova tomorrow.
+CARMEN	f	You're going to the Academy ? That's where I want to go. I'd love to talk to you abou that.
+ZANDER	m	I'm all ears.
+CARMEN	f	Don't you have to finish the game ?
+JOHNNY	m	Don't get any ideas. She's my girl.
+ZANDER	m	You can never be sure.
+DIZZY	m	WATCH THE BLITZ...!
+DIZZY	m	Flip six, three hole. Rico ? Hey !
+JOHNNY	m	What ?
+DIZZY	m	You were drifting. Flip six, three hole. On one, got it ?
+JOHNNY	m	Just throw me the ball, Diz.
+DIZZY	m	Hut !
+MOTHER	f	Who said you could grow up so fast ? Last time I checked you were only five years old. You had such a bright little face...
+JOHNNY	m	Aw, don't get mushy.
+FATHER	m	This came for you today. I presume on your request.
+JOHNNY	m	A lot of my friends are doing Federal Service...
+MOTHER	f	You aren't thinking of applying...?
+FATHER	m	Have you lost you lost your mind ? I'd rather take ten lashes in Public Square than see you ruin your life.
+JOHNNY	m	It's aterm of service, not a career. I just want to get out on my own and see the Galaxy for a couple of years.
+MOTHER	f	Johnny, people get hurt... people get killed in the Federal Service. If something happened  to you I don't know what I would do...
+FATHER	m	Who gave you this idea ? It's that teacher. What's his name ? You know the one I mean.
+JOHNNY	m	Mr. Rasczak.
+FATHER	m	Rasczak... Silly name. There ought to be a law against using a school as a  recruiting station !
+JOHNNY	m	No, Mr. Rasczak doesn't do that at all. He sorta discourages you really.
+FATHER	m	Good, because you're going to Harvard, and that's the end of it.
+JOHNNY	m	I'm eighteen. It's my decision.
+MOTHER	f	Wait you two. Dad and I have a surprise for you that will settle this. Can you guess what it is ?
+JOHNNY	m	Uh, no.
+FATHER	m	A trip to the Outer Rings. Whad'ya think of that ?
+JOHNNY	m	Wow ! Santori and Zegema Beach, I've always wanted to go there.
+MOTHER	f	Good good, then it's all settled.
+FATHER	m	A year at Harvard and you'll  see this "Federal Service" is just menial training  for inferior people so they can call  themselves "citizens" and take airs for  the rest of their lives.
+JOHNNY	m	Wait a minute ! Carl is doing his Federal and he isn't inferior. He's the smartest  kid at school !
+FATHER	m	Sorry. Carl's a fine boy...
+JOHNNY	m	I don't know what they teach at Harvard, but I think I'm pretty good enough the way I am !
+MOTHER	f	Johnny, please. Calm yourself.
+JOHNNY	m	Well, that's what you're saying ! You're saying that I'm not good enough the way I am now !
+MOTHER	f	Why did you go and do that ? He was all ready to go Zegema Beach !
+FATHER	m	Teenagers !
+BAND LEADER	m	Alright, everybody, this is the last dance, so let's turn down the lights and make it a slow one.
+DIZZY	m	Hey, Rico, wanna dance ?
+JOHNNY	m	Actually, Diz, I promised Carmen...
+DIZZY	m	Too bad for her if she's not around.
+DIZZY	m	You know, it's sad... Most of us probably won't see each other again after tonight.
+JOHNNY	m	You still gonna play for Brazil ?
+DIZZY	m	Looks like, unless Tokyo lets me start.
+JOHNNY	m	Well, anyone who gets you is lucky.
+DIZZY	m	How come we never got together ?
+JOHNNY	m	Can't we just be friends, Diz ?
+DIZZY	m	Sure.
+JOHNNY	m	Uh, look, Diz...
+DIZZY	m	Guess you gotta go.
+JOHNNY	m	You're the best.
+JOHNNY	m	Isn't it great to be in love ?
+CARMEN	f	How do I know if this is love ?
+JOHNNY	m	It wouldn't be so romantic if we weren't...
+CARL	m	Outa the way you two !
+CARMEN	f	Romance is just a vestigial biological response to procreation...
+JOHNNY	m	Aw, you're in love with me...  You just dont know it yet.
+JOHNNY	m	Wait, I want to talk to Mr. Rasczak.
+CARMEN	f	I'll meet you outside.
+JOHNNY	m	Mister Rasczak ?
+RASCZAK	?	What is it, Rico ?
+JOHNNY	m	I just wanted to say thanks 'cause History and Moral Philosophy was the best class I had this year.
+RASCZAK	?	Well, it's not really my job to please. Hope you learned something.
+JOHNNY	m	I wanna join up, Mr. Rasczak. I think I have what it take to be a citizen.
+RASCZAK	?	Good for you. Go find out.
+JOHNNY	m	Well, my parents are against it, and I  know it's my choice, but I was wondering... What would you do if you were me ?
+RASCZAK	?	Figuring things out for yourself is the only freedom anyone really has. Use that freedom. Make your own choice, Rico.
+CARMEN	f	Johnny, this is Zander.
+ZANDER	m	Yeah, we know each other from the game.  No hard feeling, eh, chum ?
+JOHNNY	m	None at all... We won.
+CARMEN	f	Good luck at the academy.
+ZANDER	m	Always.
+CARMEN	f	He just got accepted to the Fleet Academy. Isn't that great ?
+JOHNNY	m	Yeah, sure, I guess.
+CARMEN	f	No, I mean if he can get in, maybe I have a chance.
+JOHNNY	m	What are you talking about ? We both know you're gonna be a pilot.
+CARMEN	f	Zander is going for pilot, too.
+JOHNNY	m	You two have so much in common.
+CARMEN	f	Johnny Rico, you're jealous !
+JOHNNY	m	I can't help it.
+CARMEN	f	He's nothing like you.
+JOHNNY	m	I don't even know if you're my girl.
+CARMEN	f	Are you the boy for me ?
+JOHNNY	m	I'm gonna do it, Carmen. I'm gonna sign up for Federal Service.
+CARMEN	f	Oh, Johnny...
+CARMEN	f	Everyone's looking... we shouldn't...
+JOHNNY	m	Who cares ?
+CARMEN	f	You're right. Let's never stop...
+POLICEMAN	m	Hey, you, there's a place for that !
+JOHNNY	m	I love you, Carmen.
+CARMEN	f	Shhh...
+CARMEN'S DAD	m	Carmen, it's late. Get inside.
+CARMEN	f	Sorry, Dad. See you, Johnny.
+CARMEN'S DAD	m	I don't want you around Carmen anymore. Get me ?
+JOHNNY	m	Maybe Carmen's gonna make her own decisions from now on, Mr. Ibanez.
+CARMEN'S DAD	m	Carmen's gonna be a citizen. She don't need you and your rich family. The Federation'll give her everything she needs.
+CARMEN	f	Dad, leave him alone...
+RECRUITING SERGEANT	m	Fresh meat for the grinder, eh ?
+CARL	m	That's us. Where do we sign ?
+RECRUITING SERGEANT	m	Here and here and here.
+RECRUITING SERGEANT	m	Welcome to the adventure of Federal Service. Follow the blue line.
+COLONEL	m	There is no guarantee of service. We don't need all of you. It costs a great deal to train human beings for useful tasks. Many jobs are hazardous to your health. If you are chosen and do not wish to serve you may resign at anytime simply by completing  form 1240/A. Thank you for exercising you constitutonal rights.
+DON	m	They took my sister, they'll take anybody.
+DON	m	Oh, this is the part that hurts !
+PSYCH OFFICER	m	No talking please. I'm going to ask you some  questions. Please answer all questions truthfully. We'll know if you don't. Birthplace ?
+JOHNNY	m	Here in Buenos Aires.
+PSYCH OFFICER	m	Are your parents currently citizens ?
+JOHNNY	m	No, sir.
+PSYCH OFFICER	m	Which do you think is more important, courage or confidence ?
+JOHNNY	m	Courage, I guess.
+PSYCH OFFICER	m	Please complete this sentence. I want to be citizen because...
+JOHNNY	m	I want to be a citizen because... well, because of my girl, sir.
+MAJOR	m	I'm happy to tell you that you've been accepted for Federal Service.
+JOHNNY	m	Wow, that's great.
+MAJOR	m	Looks like you're quite an athlete. Boy, look at those reaction stats.
+MAJOR	m	My job is to dertermine what you're best suited for.
+JOHNNY	m	I want to be a pilot, sir.
+MAJOR	m	Sorry, son, no way. Your school records say you don't have the math skills.
+MAJOR	m	That rules out the scientific and engineering applications, and I'm afraid we reserve non-military options for candidates who are frankly less able-bodied than you are, son...
+MAJOR	m	It looks like the only thing you're good for is cannon fodder. I'm putting you down for the Mobile Infantery.
+JOHNNY ET AL	m	...of my own free will, without promise, coercion, or inducement, after having been duly advised and warned of the meaning and consequence of this oath, do now enroll in the Federal Service of the Terran Federation for not less than two years and as much longer as may be required  by the needs of the Service...
+CARMEN	f	I wonder where Carl is. You don't suppose...?
+JOHNNY	m	Naw, I made it, Carl made it.
+JOHNNY	m	He was in the group with me. I guess he didn't...
+CARMEN	f	Shhh ! Don't make him feel worse.
+RECRUITING SERGEANT	m	They put me out front to discourage the weak-hearted, but at the end of the day I go home. How'd you kids do ?
+CARMEN	f	I'm gonna go for pilot.
+RECRUITING SERGEANT	m	Good for you. We need every pilot we can get.
+CARMEN	f	Hey, Carl, what's wrong ?
+JOHNNY	m	Did you get Starside R&D ?
+CARL	m	No.
+JOHNNY	m	I don't believe it !
+CARL	m	I got Games & Theory.
+CARMEN	f	Games & Theory ? That's Military Intelligence... Oh, Carl !
+JOHNNY	m	Whoa ! Way to go, boy-yo !
+RECRUITING SERGEANT	m	Next time we meet, I'll probably have to salute you. What about you, son ?
+JOHNNY	m	Infantery, sir.
+RECRUITING SERGEANT	m	Well, good for you. The Mobile Infantery made me the man I am today.
+CARMEN	f	Let's all make a vow. Let's swear we'll always be friends no matter what.
+JOHNNY	m	I'll go for that.
+CARL	m	Well, we're gonna be millions of light years away from each other, and chances are we'll never see each other again, but sure...
+CARMEN	f	I can't wait to tell my Dad I'm in. He's gonna be so happy !
+JOHNNY	m	My father's probably gonna kill me.
+FATHER	m	You'll resign, and that's all there is to it. It might look bad, but if that's the worst you suffer...
+JOHNNY	m	I won't quit !
+FATHER	m	I'm telling you, you will ! You're not going back. You're going to go on vacation !
+JOHNNY	m	I'm not going on vacation ! I want to be acitizen ! It's my decision.  I made it.
+FATHER	m	You walk out that door, you're cut off, young man... You understand me ? Alright, THAT'S IT, YOU'RE...
+FATHER	m	...CUT OFF !
+MOTHER	f	Johnny, why won't you change your mind ? Does citizenship mean so much to you ?
+JOHNNY	m	Well, yeah, sure...
+MOTHER	f	I hope so. I hope you don't ruin your life over some silly little girl who wants to look  handsome in a uniform.
+JOHNNY	m	Don't talk about my girl that way.
+P.A.	?	Outbound group 1380, Ursa Minor and Tyko, now transporting at  bank 17...
+JOHNNY	m	You're late.
+CARMEN	f	My Dad had to help me pack. Suddenly he's afraid he's never gonna see me  again or something. It was sweet, but it took forever. Anyway, I guess I'm ready to go.
+JOHNNY	m	Me, too. I'm wearing everything I own.
+CARMEN	f	Poor boy. I'm sorry your parents were so mad.
+JOHNNY	m	Who cares ! The Federation'll give me everything I need for the next two years, right ?
+CARMEN	f	You talk to Carl ?
+JOHNNY	m	He left this morning. He couldn't say where.
+CARMEN	f	It's exciting, but it's scary, too isn't it. Going someplace new where you don't
+JOHNNY	m	I'm gonna miss you.
+CARMEN	f	I'll miss you, too, Johnny.
+JOHNNY	m	I love you.
+P.A.	?	Outbound group 948A, Tereshkova, all sections, transporting at bank 5.
+CARMEN	f	Oh, that's me.
+JOHNNY	m	Com'on, just say it. Try it on for size.
+CARMEN	f	Alright, I love you.
+JOHNNY	m	Do you mean it ?
+CARMEN	f	I said it. Isn't that enough ? Don't forget to write !
+OFFICIAL VOICE	m	From all over the known Galaxy, prospectice citizens work together to make a better tomorrow ! Would you like to know more ?
+OFFICIAL VOICE	m	A murderer was captured and tried today. Sentence:DEATH. Tonight at six, all net, all channels. Would you like to know more ?
+OFFICIAL VOICE	m	If you think you are psychic, maybe you are. Harness your unique abilities and take advantage of the many Federal benefits available for psychic citizens. Would you like to know more ?
+OFFICIAL VOICE	m	Disregarding Federal warnings, Mormon  extremists established Port Joe Smith, a settlement of 300 on Tango Urilla, a system just inside the Arachnid Quarantine Zone.
+OFFICIAL VOICE	m	Too late they realized tha Tango Urilla had already been chosen by other colonists -- Arachnids !
+OFFICIAL VOICE	m	The council asks future colonists to obey all  official Federal warnings. Would you like to know more ?
+ZIM	m	The problem with you is that none of you are good enough the way you are.
+ZIM	m	I am your senior drill instructor, Career Sergeant Zim.
+ZIM	m	Do you think I'm funny ? Do I make you laugh ? Do you think I'm a comedian ?
+KITTEN SMITH	f	Sorry...!
+ZIM	m	The first and last words out of your stinking holes will be "sir". Do you get me ?
+KITTEN SMITH	f	Sir, sorry...sir.
+ZIM	m	See the armory ? Run around it !
+KITTEN SMITH	f	YEOW !
+ZIM	m	RUN, I SAID. Bronski, keep pace !
+ZIM	m	You are now all brothers and sisters in the same family, my family, the Mobile Infantery. I will be your mother. I will be your father. If you do not  please me I will throw you out of my family because I hate all slackers and  negative hackers. Do you get me ?
+JOHNNY ET AL	m	Sir, yes, sir !
+ZIM	m	Anytime you think I'm being to tough, anytime you think I'm being unfair... QUIT ! Grab your gear and take a stroll down "Washout Lane".  Get me ?
+JOHNNY ET AL	m	Sir, yes, sir !
+ZIM	m	I wonder if there's a handful of guts in the whole bunch. Who thinks they've got what it takes to knock me down ?
+BRECKINRIDGE	?	Sir, I guess maybe I do, sir.
+ZIM	m	You alright, Breckinridge ?
+ZIM	m	MEDIC !
+MEDIC	m	Clean break... Doc'll have him back on active duty by tomorrow.
+ZIM	m	Good. Who's next ?
+DJANA'D	?	Lookit the little guy go !
+JOHNNY	m	He's good alright.
+KATRINA	f	I'll bet he makes squad leader.
+ACE	m	He'll have to get past me.
+ZIM	m	MEDIC !
+ZIM	m	Some of you may not �make it.
+ZIM	m	WHY IS THAT WEAPON ON THE GROUND ?
+ZIM	m	You might think I am unfair.
+ZIM	m	Is that all you got ? You hit like kitten, Smith ! This is a punch.
+ZIM	m	You will not like me.
+ZIM	m	But if you survive you will thank me because you will be born again hard. You will be a new person. You will be a Cap Trooper. And then, MAYBE, you'll  be good enough...
+ZIM	m	...to serve in my family.
+ACE	m	Sir, I don't understands who needs a knife in a nuke fight anyway... All you gotta do is push a button, sir !
+ZIM	m	Put your hand on the post, private.
+ACE	m	AWK !
+ZIM	m	The enemy cannot push a button if you disable his hand. MEDIC !
+DIZZY	m	Sir, recruit Flores, reporting for duty , sir.
+ZIM	m	I see you specifically requested transfer from Fort Cronkite to this training group...
+DIZZY	m	Sir, I heard it was the best, sir !
+ZIM	m	It is the best... BUT WHAT MAKES YOU
+ACE	m	I'd like to disable Zim...!
+KATRINA	f	Improper Attitude ! They'll kick you out for talking like that...
+DJANA'D	?	They can kick you out for anything. Improper Conduct, Unsatisfactory  Performance...
+KITTEN SMITH	f	Off you go down Washout Lane, bye-bye !
+ACE	m	Aw, you either got what it takes or you don't.
+DJANA'D	?	C'mon Ace, wait your turn !
+ACE	m	At ease, soldier. It's all the same muck.
+JOHNNY	m	Better get in line like everyone else, Ace.
+ACE	m	You got some guts for a rich kid. I guess you and me could be buddies.
+JOHNNY	m	What an honor...
+ACE	m	Hey, don't laugh. Everyone oughta have a friend like me !
+BRECKINRIDGE	?	Come on, Ace, back off the line ! Bacl off the line !
+DIZZY	m	Hey, amigo, come chow with me.
+JOHNNY	m	No thanks, Diz.
+DIZZY	m	What's your malfunction, Rico ?
+JOHNNY	m	You are. I joined up to get out on my own. And you had to tag along.
+DIZZY	m	What ? You think I joined the Mobile Infantery because of you ?
+JOHNNY	m	You saying you didn't ?
+ACE	m	What makes you think... you'll make... squad leader, Rico ?
+JOHNNY	m	Something... I've got...you don't.
+ACE	m	You rich kids... are all the same !
+JOHNNY	m	It isn't about rich... It's about who's best...!
+DIZZY	m	Coming through !
+ZIM	m	C'mon, move it, you apes !
+KITTEN SMITH	f	We all have one thing in common. We were  all stupid enough to sign up for Mobile Infanterie. What's your excuse, Breckinridge ?
+BRECKINRIDGE	?	Well, my family is all farmers. I hate farming. Mobile Infantery's pure picnic by comparison.
+KITTEN SMITH	f	So the grow 'em big and dumb on the farm planet, eh ?Djana'd ?
+DJANA'D	?	I'm going in for politics. You gotta be a citizen for that. So here I am.
+KITTEN SMITH	f	C'mon, keep it going... Katrina !
+KATRINA	f	I wanna be a mom. It's easier to get a licence if you've served.
+ACE	m	I'm going career... officer's training. That's why I wanna be squad leader. They look for that.
+JOHNNY	m	Wanting it doesn't make you the best one for the job.
+ACE	m	Oh, yeah ? I don't see anyone else here with the chops to lead.
+JOHNNY	m	Well, maybe you better look again.
+SHUJUMI	?	Federation's gonna give me a scholarship when my hitch is up. I wanna be a neurologist, study brain chemisty and associated stimulus...
+KITTEN SMITH	f	Your turn, Rico !
+JOHNNY	m	Aw, who asked you to be so nosey ?
+KITTEN SMITH	f	Me, I got plans to be writer, and a writer's got a right to be nosey. Flores, you know  Rico from Buenos Aires... What's his story ?
+DIZZY	m	Well, some say he turned his back on the family fortune to be a citizen, others say he did it for a girl... missed a spot there, bucko... which is  funny because Johnny says I joined up to be with him, but why would I do that ? He doesn't even like me.
+BRECKINRIDGE	?	Don't look that way to me.
+JOHNNY	m	I know it's not much, but it's home. Over there's my bunk where I dream about you every night...
+JOHNNY	m	Hey, do you mind ?
+KATRINA	f	Hey, what's going on ?
+DIZZY	m	I bet it's that girl I was talking about... Her name's Carmen, I think.
+ACE AND THE OTHERS	m	Carmen ! Ooh la la, Carmencita !
+KATRINA	f	Hi, Carmen !
+ACE AND THE OTHERS	m	Hey, where you going ? Come back...! He's getting awy... Grab him...!
+JOHNNY	m	Boot's pretty tough, and sometimes I think I won't make it, but then I imagine you're watching me, and that gives me someting... I try harder. Thanks to you, I think I might have  a shot at squad leader.
+JOHNNY	m	Uh-oh, I gotta pack it in. I hope you're having fun, hope you're careful. No training accidents for you, eh ? I want to kiss you so badly. I want to feel you next to me, I-
+ACE	m	I love you truly, so truly, dear...!
+ACE	m	Our love will grow, dear, year by year...
+JOHNNY	m	Bye ! Write me ! I'm gonna kill you guys !
+BALD CADET	m	Orbit in five, Ibanez ! First one there gets to fly !
+CARMEN	f	Looking it down !
+LATE CADET	m	Oh no, not Ibanez again, she's crazy !
+CARMEN	f	On my mark, in three, two, one...
+CARMEN	f	...GO !
+BALD CADET	m	Geez, I thought I liked to fly fast !
+CARMEN	f	This is nothing. Today, I get to fly that !
+CARMEN	f	Pilot Trainee Ibanez reporting for duty, ma'am.
+DELADIER	?	Take the number one chair, Ibanez. Follow all instructions of you supervisor.
+CARMEN	f	Yes, ma'am !
+CARMEN	f	Hey ! What are you doing here ?
+ZANDER	m	I'm the guy who's gonna teach you to  fly this crate.
+CARMEN	f	Assistant insructor... You must be some kind of a hot stick. Should I call you "sir" ?
+ZANDER	m	Only when I give you an order.
+DELADIER	?	Prepare for departure.
+CARMEN	f	It's amazing, us running into each other like this. Maybe it's fate.
+ZANDER	m	Maybe not. I heard about this crazy girl coming through the academy, solid math, a little wild on the stick, but a natural. When it turned out it was you, I made sure we'd run into each other...
+DELADIER	?	Alright, take her out, Ibanez.
+CARMEN	f	Yes, ma'am.
+CARMEN	f	In simulation, my supervisors could never keep up.
+ZANDER	m	This isn't simulation anymore. Take'er out easy, cadet.
+CARMEN	f	Oh, yes, sir. Vector ?
+ZANDER	m	Twenty-five by five, roll seven. And don't exceed port speed.
+CARMEN	f	Or...?
+ZANDER	m	They revoke our flight status.
+CARMEN	f	Oh, I see... teamwork.
+DELADIER	?	Steady as she goes, number one. Prepare for warp. Number two, design for Jupiter orbit.
+ZANDER	m	Yes, ma'am. Star drive in three... two... one...
+ZIM	m	The object of this exercise is to capture your enemy's flag before your enemy captures yours.
+ZIM	m	These weapons have been modified for this exercise. If your enemy hits you, your suit will fail. You will be unable to move. You will be as good as dead.
+DJANA'D	?	It's right over the next ridge... Only two guards.
+KITTEN SMITH	f	You are now prisoners of the Blue Team. Tell us your plans or die !
+DJANA'D	?	Oh no ! Name, rank, and mind your own business is all you get from me !
+KITTEN SMITH	f	I'm going in ! Let's go !
+JOHNNY	m	Man, they're defended... no way in.
+DIZZY	m	Flip six, three hole.
+JOHNNY	m	What ?
+DIZZY	m	High school... remember ? Run a flip six, three hole play, and you might score...
+JOHNNY	m	Cover me.
+DIZZY	m	You got it.
+JOHNNY	m	Thanks, pal.
+ZIM	m	Kid's got some moves...
+ZIM	m	Smith, GO ! McIntire, GO ! Flores, GO ! Rico, I'm making you sqaud leader !
+JOHNNY	m	Sir, thank you, sir !
+ZIM	m	Don't stand there dumb... GO !
+JOHNNY	m	YEEEE-Haaaaaaaaaaaaa...!
+KITTEN SMITH	f	Look at him. Do you think anyone has ever been so pleased with himself ?
+ACE	m	Zim hadda choose someone to be his brown nose, I guess.
+JOHNNY	m	I just want you guys to know that I'll never do anything that I haven't asked you to do first.
+JOHNNY	m	Couldn't've done it without you, Diz. Friends ?
+DIZZY	m	Yeah, sure... friends.
+BRONSKI	m	Levy... Shujumi... Rico.
+JOHNNY	m	Bet it's from my girl.
+CARMEN	f	Hi, Johnny, I would've written sooner, but they've really got us going every  moment here.
+ACE	m	Yeow, Rico, you don't deserve that !
+JOHNNY	m	Shhhh...!
+CARMEN	f	I'm glad you're doing so well. If they  haven't made you squad leader by now, I'm sure you will.
+JOHNNY	m	All it takes is the love of a good woman...
+CARMEN	f	Look at that. Isn't it beautiful ? I had  to show you. It's great to be out here on my own. I'm just not some little girl from Buenos Aires anymore. I'm gonna be a starship pilot, and I'm gonna see the universe... And that's also the problem because I don't really want to get married, Johnny. I don't want to have kids. I want a command, a ship of my own, and you know, I don't think that's  gonna leave a lot of room for you and me.
+CARMEN	f	I know that's not what you wanted to hear... but I have to follow my heart. I'm sorry. I'm afraid you'll hate me, and I couldn't stand that. Write me, alright ? Write me, so I'll know that we'll always be friends.
+ACE	m	Funny how they always want to be your friends after they kick your guts out.
+JOHNNY	m	It's what I deserve.
+ACE	m	Whad'ya talkin  about ?
+JOHNNY	m	I joined up for her. I wouldn't even  be here if it wasn't for her. I'm a fool.
+ACE	m	You made squad leader on your own, and, hey, you still got me to kick  around.
+JOHNNY	m	Thanks, Ace.
+ZIM	m	With the Marauder's visual capabilities, all you have to do is look at something to hit it, so you will exercise EXTREME CARE on my firing line. Do you get me ?
+RECRUITS	?	Sir, yes, sir !
+ZIM	m	The live firing combat range is the  closest simulation of actual combat we can provide. If you do not hit  your target, it will shoot you...
+ZIM	m	The Marauder power suit will prevent serious injury, but if you are hit, you will be non-operational and your team  score will suffer accordingly. Rico, has each member of your squad completed a weapons safety check ?
+JOHNNY	m	Sir, yes, sir !
+ZIM	m	Perfect score for this exercise is 300. B company came through last week with 285. I expect you to do better.
+DJANA'D	?	You're in my line of fire, Breckinridge
+JOHNNY	m	CROSSFIRE ! EVERYBODY DOWN !
+JOHNNY	m	Alright, no more screw ups. Ace takes point. Diz, you and Kitten Smith cover the flanks. Djana'd, you're rear guard. Move out.
+JOHNNY	m	What's the problem ?
+BRECKINRIDGE	?	Dunno. Display's fritzed.
+DJANA'D	?	Lose another rifle, we're gonna mess up our score...
+JOHNNY	m	Let me see.
+DJANA'D	?	How come when something goes wrong, it's always you, Breckinridge ?
+JOHNNY	m	Oh, God... uh... MEDIC !
+ZIM	m	Rico, you are relieved of squad command. Levy, McIntire you will escort private Rico to the C.O.'s Office.
+C.O.	?	Rico, did you give the recruit permission to remove his helmet ?
+JOHNNY	m	Sir, yes, sir. Breckinridge reported a helmet malfunction, and I asked him to show it to me, sir.
+C.O.	?	Are you rated to repair a Marauder power suit, Rico ?
+JOHNNY	m	Sir, no, sir.
+C.O.	?	Then why did you order your man to  remove his helmet during a live fire exercise ?
+JOHNNY	m	Sir, I needed everyone in my squad operational, sir... I... I wanted to win, sir.
+C.O:	?	You disobeyed safety regulation 21-404. You may, of course, demand trial by  court martial.
+JOHNNY	m	Sir, no, sir !
+C.O.	?	Do you freely admit to the charges made against you ?
+JOHNNY	m	Sir... I guess I do, sir.
+C.O.	?	Sergeant, we've lost two recruits over this incident already... is there any possibility of salvaging this man ? I believe so, sir.
+C.O.	?	Alright. We'll try administrative punishment. Until then you are  confined to your quarters, Rico.
+ZIM	m	Alright, let's go, Rico.
+C.O.	?	For incompetence of command, for failure to abide by safety regulations in a live fire exercise, for negligence  which contributed to the death of a teammate...
+ZIM	m	Bite on this. It helps. I know.
+C.O.	?	... recruit trainee John Rico is sentenced to administrative punishment. Ten lashes.
+C.O.	?	You may carry out the sentence.
+BRONSKI	m	One.
+BRONSKI	m	Two.
+BRONSKI	m	Three.
+BRONSKI	m	Four.
+BRONSKI	m	Five.
+CARMEN	f	Thanks. You read my mind. Third watch always seems to last forever.
+ZANDER	m	Oh, I don't know... Depends on who you are spending it with.
+ZANDER	m	Profile's wrong... there.
+CARMEN	f	No, I replotted the course. It's more efficient this way.
+ZANDER	m	Three weeks aboard a starship and you know it all, huh ?
+CARMEN	f	Hey, check it.
+ZANDER	m	You know I was talking to Captain, Deladier, and she said...
+CARMEN	f	Don't change the subject. Am I right ?
+ZANDER	m	Well, whad'ya know...
+CARMEN	f	Don't mess with the boss. So what'd the captain say ?
+ZANDER	m	She got a command... and she thinks we  oughta team up officially and crew for her. She thinks we're good together.
+CARMEN	f	You and me, huh ?
+ZANDER	m	I have a feeling about us. We're good together, way ahead of the curve in  every department. I seem to be able to anticipate your needs.  You know what I want...
+CARMEN	f	No, what do you want ?
+CARMEN	f	I want to be part of the best flight team  in the Fleet...
+ZANDER	m	Me, too... Day and Night-Cycle.
+DELADIER	?	Report.
+ZANDER	m	Captain, we are in the path of an unidentified object moving at near light speed...
+CARMEN	f	WHERE IS IT ?
+ZANDER	m	THERE !GRAVITY FIELD... IT'S BIG !
+CARMEN	f	It looks like an... asteroid.
+DELADIER	?	In this part of the system ?
+ZANDER	m	Sweet Jesus...!
+DELADIER	?	Where'd it come from ?
+ZANDER	m	Trajectory indicates it came out of  the Arachnid Quarantine Zone.
+DELADIER	?	Number 4, contact Fleet and tell 'em there's a loose asteroid headed their way.
+COMMUNICATIONS OFFICER	f	Communications are down, ma'am.
+DELADIER	?	Engineering. Damage assessment.
+ENGINEERING OFFICER	m	Hull's compromised.  We're lucky to be alive, ma'am.
+DELADIER	?	Good work, Number 1. You'll do.
+CARMEN	f	Thank you, ma'am.
+DIZZY	m	It stinks, you goin.
+JOHNNY	m	I don't stay where I'm not wanted.
+DIZZY	m	If they didn't want you, they woulda kicked you out, amigo.
+JOHNNY	m	Hey, they humiliated me in front of everyone ! I'm just supposed to take it, huh ? Well, I'm not gonna, and I  guess that proves I just can't cut it.
+BRONSKI	m	Your call's going through, Rico. Take it there.
+MOTHER	f	Hello... Oh, Johnny...!
+JOHNNY	m	Hi, mom.
+MOTHER	f	Bill... pick up... it's Johnny ! You  little rat. You haven't called, you haven't written. It's been so lonely here without you...
+FATHER	m	Johnny ! Where's your uniform...?
+FATHER	m	Well, it's just good to hear from you. What's up, son ?
+JOHNNY	m	It's not really working out for me here, dad. I was thinking... I was hoping it  would be alright if I came home.
+MOTHER	f	Well, of course you should come home immedietly !
+JOHNNY	m	I've made a mess of things. I've been so stupid...
+FATHER	m	Don't talk like that. Get yourself home as fast as you can.
+MOTHER	f	We'll all have dinner. I'll fix your favorite.
+FATHER	m	Yeah ! We'll talk it out and have a good glass of wine ... and... well, we love you, son.
+MOTHER	f	Oh, my, what's that ?
+FATHER	m	Looks like rain.
+MOTHER	f	This time of the year...?
+VU-PHONE VOICE	m	Your transmission has been terminated due to atmospheric interference. Please try your call again later.
+JOHNNY	m	Well, see ya.
+DIZZY	m	You take the stroll down Washout Lane, you're only proving one thing, Johnny.
+JOHNNY	m	What's that, Diz ?
+DIZZY	m	That you don't have what it takes to be acitizen !
+C.O.	?	Now you, Sergeant.
+C.O.	?	That's it, son. You can go.
+JOHNNY	m	Hey, Kitten, what's going on ?
+KITTEN	f	It's war !
+OFFICIAL VOICE	m	... early estimates. Millions dead, a city in  ruins...
+JOHNNY	m	Oh, jeez, is that Geneva ?
+KATRINA	f	Goddam bugs whacked us, Johnny.
+OFFICIAL VOICE	m	... Buenos Aires has been wiped of the Earth. Nothing lives in what was once called the Latin Paradise...
+DIZZY	m	Aw, Johnny, geez... It's home.
+OFFICIAL VOICE	m	The Federal Court met moments ago and voted unanimously for mobilization to destroy the Arachnid threat.
+OFFICIAL VOICE	m	The meteor derived from here, near Klendathu, in the Arachnid's home system...
+ZIM	m	I'm serious, sir. I'll go anywhere. I want combat.
+C.O.	?	Forget it, Zim. We're gonna need you  here. The only way you'll get a combat assignment is if you bust yourself to private. You get me ?
+ZIM	m	Yes, sir, I get you.
+C.O.	?	What can I do for you, Rico ?
+JOHNNY	m	Sir, I wish to reconsider my request to drop out, sir.
+C.O.	?	Sorry, son. I can't do it. You signed the 1240/A. It would be illegal.
+JOHNNY	m	Sir, i know it was wrong. I didn't  learn from one mistake and I made another, sir. Sir, my family... my whole family was in Buenos Aires, sir.
+ZIM	m	Is that your signature, Rico ?
+JOHNNY	m	Sir, yes it is, sir.
+ZIM	m	Doesn't look like it to me.
+ZIM	m	Get outa here, private.
+OFFICIAL VOICE	m	Out of the ashes of Buenos Aires comes first sorrow, then ANGER !
+ANGRY PERSON	m	The only good bug is a dead bug !
+OFFICIAL VOICE	m	Would you like to know more ?
+OFFICIAL VOICE	m	Cap Troopers establish a foothold on Dantana, a planet system at the outer edge of the Arachnid Quarantine Zone. Casualties are high, but casualties won't stop the Mobile Infantery ! Would you like to know more ?
+OFFICIAL VOICE	m	Everyone's doing their share. Are you ? The war effort needs your effort at work, at home, in your community. Would you like to know more ?
+SKY MARSHALL DIENES	m	We are a generation commanded by fate to defend humankind ! We must meet the threat with our valor, our blood, with our very lives, to insure that human civilization, not insect, dominates this galaxy now and always.
+OFFICIAL VOICE	m	Sky Marshall Dienes announces plans for an offensive against Klendathu, source of the  bug meteor that destroyed Buenos Aires.
+OFFICIAL VOICE	m	We now break net and take you live to Fleet Battle Station Ticonderoga deep inside the Arachnid Quarantine Zone.
+NET CORRESPONDENT	?	No one here in the AQZ knows when the  invasion of Kendathu will occur, but everyone's talking about it, and the talk says tomorrow !
+NET CORRESPONDENT	?	Here's a bunch of M.I. kids who look like they eat bugs for lunch !
+DIZZY	m	Yum, yum yum ...!
+NET CORRESPONDENT	?	So you're not to worried about fighting the Arachnids...?
+ACE	m	Hey, shoot a nuke down a bug hole,  lotta dead bugs, am I right ?
+KITTEN SMITH	f	I just hope it's not over before we get in it !
+NET CORRESPONDENT	?	Some say the bugs were provoked by human  attempts to colonize within the AQZ, that a "live and let live" policy is preferable to war with the bugs...
+JOHNNY	m	Yeah, well, I'm from Buenos Aires, and I say kill'em all !
+KITTEN SMITH	f	That guy's been in it.
+JOHNNY	m	How can you tell ?
+KITTEN SMITH	f	The eyes. He's got the 1000 meters stare.
+ACE	m	Great scars.
+DIZZY	m	I like the jewelry. Hey, amigo, where can I get an earring like yours ?
+VETERAN	m	Port Joe Smith, Outer Rings, Dantana... Every time I come back from a drop, my gunny gives me a bone. I got three now. You don't see a lot of guys with three.
+JOHNNY	m	Waht's it like... combat ?
+VETERAN	m	I guess it's not so bad. I mean as  long as you don't get any on you.
+KITTEN SMITH	f	Get any what on you ?
+VETERAN	m	Oh, you'll know when it happens. See you on the bounce.
+ACE	m	I say we all go to the laser parlor and get cut together.
+JOHNNY	m	What do I want with a scar ?
+DIZZY	m	What, your skin's too pretty ? C'mon, everyone's doing it !
+CARMEN	f	HeyJohnny !Johnny Rico !
+JOHNNY	m	Carmen... ?
+CARMEN	f	Oh... at ease. Guess I oughta lose the hat when I'm off duty, eh ?
+JOHNNY	m	What happened to your hair ?
+CARMEN	f	What do you think ? Everyone did it when  we got our wings. You don't like it, do you ?
+JOHNNY	m	It's alright, I guess. You hear from anyone made it out of B.A. alive ?
+CARMEN	f	It's funny. Sometimes I forget. Then it hits me, and I can't stop crying.
+JOHNNY	m	I try just to be happy I'm still alive.
+CARMEN	f	You don't look very happy to see me.
+JOHNNY	m	Should I be ?
+CARMEN	f	Johnny... Life is so different from the  way it was. One day you'll see what I did was best for both of us.
+ZANDER	m	Everything coposetic, Lieutenant ?
+CARMEN	f	Zander, you remember Johnny ? Zander and I are a flight team now.
+ZANDER	m	Best in the Fleet !
+JOHNNY	m	I get it. This is the part that's best for both of us. Don't do me anymore favors, eh ?
+CARMEN	f	Johnny, wait...
+ZANDER	m	Forget it, Carmen. The Mobile Infantery does a thankless, dirty job, so they  naturally tend to be short-tempered, thoughtless and rude.
+JOHNNY	m	You got something to say about the Mobile Infantery ?
+ZANDER	m	You heard me. Wanna make something out of it, private ?
+JOHNNY	m	Not with an officer, no, sir. The M.I. doesn't mint stupid cap troopers.
+ZANDER	m	Let's disregaed rank... Everybody hear that ? Rank is not an issue here.
+CARMEN	f	Zander, please... Let's go !
+ZANDER	m	It's alright. What's he gonna do ?
+ACE	m	Whoa, easy there, buddy... Nice punch.
+CARMEN	f	What's wrong with you ?
+JOHNNY	m	Hey, it's just a vestigal response to  procreation... bitch.
+DIZZY	m	Forget it, Johnny. Cap Troopers and Fleet weren't meant to mix !
+JOHNNY	m	It hurts...!
+ACE	m	No, this hurts.
+JOHNNY	m	YAAAAAAAA !
+KITTEN SMITH	f	Well, here's to it ! We're gonna fightn, and we're gonna win !
+ACE	m	Mobile Infantery rules !
+JOHNNY	m	Death to all bugs !
+DIZZY	m	Don't get any on you !
+ACE	m	Officer on deck !
+LT. WILLY	m	At ease. Alright... we got hot poop straight from the top: Willy's Wildcats is in with the first wave. Means more bugs for us to kill...
+LT. WILLY	m	Now if you follow orders and remember your training, I guarantee you'll make it back alive. Any questions ?
+LT. WILLY	m	Alright... next we got a little last minute briefing from Military Intelli-gence I think you're gonna like...
+OFFICIAL VOICE	m	Everyday Federal scientists are looking for new ways to kill bugs and you can help...
+CARL	m	To defeat the enemy, we must know the enemy. Take for instance your basic Arachnid warrior. Minimal IQ, armored,  completely lethal. You can blow a limb off...
+CARL	m	... and it's still 86% combat effec-tive. But here's a tip: Aim for the nerve stem and put it down for good.
+CARL	m	Now while you are out killing bugs, we want you to be our eyes and ears. The bugs use some kind of plasma burst to divert meteors and aim them toward Earth. We need to know how they do this. If you encounter any plasma, report it immediately to your superior. Good luck and good hunting !
+P.A.	?	This is the Captain speaking. All personnel prepare for drop.We are at D minus three and counting.
+LT. WILLY	m	Move out !
+LT. WILLY	m	Smash the entire area, kill anything that has more'n a couple legs , and don't any of you loafers come back aboard with unexpended bombs. Get me ?
+JOHNNY ET AL	m	Yes, sir !
+FIRE CONTROL	m	Five seconds...
+CARMEN	f	Plasma, ma'am... from the planet.
+DELADIER	?	Bug Batteries... According to Military  Intelligence, it'll be random and light. Drop status ?
+ZANDER	m	Drop is 35% complete, ma'am.
+DELADIER	?	Steady as she goes, Number 1.
+GUIDANCE COMPUTER	m	...surface in twenty-fivr seconds ...LZ has been identified ...beacon is in place...
+DELADIER	?	This isn't random or light. Someone made amistake...!
+ZANDER	m	That's it, we're empty ma'am !
+DELADIER	?	Someone made a big goddam mistake ! Get us out of here, Number 1 !
+GUIDANCE COMPUTER	m	...surface in fifteen seconds... deploying chute now...
+GUIDANCE COMPUTER	m	...surface in five... four ... three...
+LIEUTENANT WILLY	m	Up there on the ridge ! We'll nuke those bug positions from theAAAAAAAA !
+ACE	m	KILL IT !
+JOHNNY	m	Lieutenant's bought the farm. Where's the Sarge...?
+ACE	m	I didn't see him !
+KITTEN SMITH	f	Here they come...!
+DIZZY	m	Ace, what're we doing ?
+ACE	m	I uh... uh...
+SHUJUMI	?	You want some ? Here's some !
+JOHNNY	m	Don't waste your ammon on the  workers !
+SHUJUMI	?	AAAAAAAAAAAA !
+KATRINA	f	Let's get out of here !
+DIZZY	m	Look out !
+KATRINA	f	AAAAAAAAAAAAA !
+JOHNNY	m	C'mon, Katrina was right. We  gotta get out of here !
+JOHNNY	m	It's a general retreat ! The boats are coming down.
+NET CORRESPONDENT	?	We've just landed here on what cap troopers  are calling the "Big K" with the 6th Mobile Infantery Division. It's an ugly planet, a bug planet, a planet hostile to life as we kow iGKKKKK !
+JOHNNY	m	C'mon, let's go ! ON THE BOUNCE !
+KITTEN SMITH	f	I can see the beacon...!
+ACE	m	Retrieval !
+JOHNNY	m	KITTEN !
+JOHNNY	m	AAAAAAAAAAAAA !
+DIZZY	m	Johnny !JOHNNY !WHERE ARE YOU ? JOHNNY !Johnny...!
+JOHNNY	m	Medic... MEDIC...!
+JOHNNY	m	Oh, God... Oh, God, help me... please help me...!
+VOICE	m	Take my hand !
+OFFICIAL VOICE	m	Crsisis for Humankind ! Fleet official  admit they underestimated the  Arachnid's defensive capability. Would you like to know more ?
+OFFICIAL VOICE	m	Accepting responsibility for Klendathu, Sky Marshall Dienes resigns. His successor, Sky Marshall Tahat Meru, outlines her new strategy.
+SKY MARSHALL MERU	m	Until we understand the bug better, we  must proceed with caution... We can ill afford another Klendathu.
+OFFICIAL VOICE	m	To explain the intelligent military actions of the Arachnids, Federal Scientists postulate the existence of a leadership caste...BRAIN BUGS !
+OFFICIAL VOICE	m	Families oof those who have died or become incapacitated by Federal Service are entitled  to benefits ! If you see the name of a loved one, please do not call. A Federation official will call you. Would you like to know more ?
+CARMEN	f	Ticonderoga, this is Rodger Young requesting approach vector...
+TICONDEROGA C&C	m	Affirmative, Rodger Young...one zero zero  niner five two... welcome back.
+CARMEN	f	You know, we're lucky to be alive.
+ZANDER	m	Give me hand, willya ?
+ZANDER	m	I was thinking. Maybe we should get married, Carmen.
+CARMEN	f	You weren't thinking...you were dreaming !
+ZANDER	m	If we're gonna be a team, why not be a real team ?
+CARMEN	f	There's a war on. I want a command, I want my own ship, you do, too...
+ZANDER	m	So ?
+CARMEN	f	So who's got time to get married ?
+ZANDER	m	Fleet encourages marriages among flight officers. You'd probably get a promotion out of it.
+CARMEN	f	Funny...
+ZANDER	m	I'm not kidding. Marriage is -
+CARMEN	f	No, funny there's almost no wounded at all.
+ZANDER	m	Hey, bugs don't take prisoners.
+CARMEN	f	Oh no.
+ZANDER	m	Carmen...?
+CARMEN	f	Excuse me...!
+ZANDER	m	I'm sorry, Carmen.
+CARMEN	f	Please, I... Everybody's lost someone by now. This shouldn't be any different...
+CARMEN	f	No, I... Oh, Zander, I'm a fool.
+ZANDER	m	You're upset, that's alright.
+CARMEN	f	No, don't you see ? No one can wait for anything anymore... You're right... We should get married...
+DIZZY	m	Two more days.
+ACE	m	Dizzy says you two knew this Rasczak character in Buenos Aires...
+JOHNNY	m	He was our teacher... He was great.
+ACE	m	Yeah, well, I hear he's a real nutbuster.
+DIZZY	m	The Roughnecks killed more bugs than any other outfit in 2nd Brigade... Only took 15% casualties on Big K.
+JOHNNY	m	Seeing as how we're about all that's left of  1st Brigade, you'd have to call that an improvement. You top kick ?
+SUGAR WATKINS	f	Are you kidding ? They always get killed. You want the job ?
+JOHNNY	m	I wouldn't mind.
+BIRDIE	?	I would. Nice earring.
+DIZZY	m	Where you been besides Big K ?
+BIRDIE	?	Outer rings. Zegema Beach.
+JOHNNY	m	I always wanted to go to Zegema Beach.
+SUGAR WATKINS	f	Good luck. It's not there anymore.
+ACE	m	Is your Lieutenant as bad as they say ?
+BIRDIE	?	No one talks about the Lieutenant that way. He saved my life !
+SUGAR WATKINS	f	Mine, too.
+OTHER ROUGHNECKS	m	Same for me... me, too...
+ACE	m	Sounds like he is quite a guy.
+GILLESPIE	m	Attention !
+RASCZAK	?	This is for you new people. I only  have two rules. Rule one, everyone fights. Rule two, no one quits. If you don't do your job, I'll kill you myself. Do you get me ?
+JOHNNY, DIZZY AND ACE	m	We get you, sir !
+RASCZAK	?	Get rid of the jewelry. I hate it. Welcome to the Roughnecks.
+BIRDIE	?	Rasczak's Roughnecks !
+RASCZAK	?	Alright. There's a new Sky Marshall and a new plan. We're gonna clean out the systems outlying Klendathu one planet at a time. Tomorrow we hit Tango Urilla. After Fleet glasses the planet, M.I. mops up.
+RASCZAK	?	Spread out, teams of three. When you  locate a bug hole, secure it, gas it, and close it.
+ACE	m	There.
+JOHNNY	m	Fire in the hole !
+BIRDIE	?	You new guys over there... WE could use some help...
+JOHNNY	m	Looks like you've got a little bug problem, ma'am...
+BIRDIE	?	Stow it, trooper. Give it verything you've got !
+JOHNNY	m	WATCH OUT !
+BIRDIE	?	AAAAAAAAAAAAA !
+RASCZAK	?	Sugar, in for pick up !
+RASCZAK	?	Gas that hole and close it !
+RASCZAK	?	Where'd you learn to do that, soldier ?
+JOHNNY	m	Uni High Tigers, sir. Don't you remember ? I was captain of the team.
+RASCZAK	?	I'm not interested in nostalgia, Rico, I need a corporal. You're it until you're dead or I find someone better.
+RASCZAK	?	Don't worry, Birdie, your next arm comes with a factory guarantee !
+DIZZY	m	Way to go, amigo !
+JOHNNY	m	I'm gonna need a squad leader.
+ACE	m	No way. Big K taught me I ain't executive  material.
+JOHNNY	m	What about it, Diz ?
+DIZZY	m	Looks like I'm your girl, sir.
+RASCZAK	?	Saddle up, Roughnecks. That's our trash !
+JOHNNY	m	What kind of stinkin' bug is that ?
+SUGAR WATKINS	f	You never seen how they do it before ?
+ACE	m	Agghh ! It's making me sick...!
+SUGAR WATKINS	f	It's gonna pop !
+GILLESPIE	m	Sir, look !
+RASCZAK	?	We must be right over the colony. Let's get some air support, eh ?
+GILLESPIE	m	Yes, sir ! Fleet, this is Roughneck patrol, over ...?
+RASCZAK	?	Corporal, I want pulse cannons there and there ! Rifle teams, spread out along the ridge ! Sugar, bring up that flame thrower !
+GILLESPIE	m	Fleet's pulling the battle group back to safe distance... They'd like us to knock out those batteries, sir.
+RASCZAK	?	They'd rather spend our lives than risk their ships. Who's got the nuke ?
+DIZZY	m	That'd be me, sir.
+RASCZAK	?	Heat it up.
+RASCZAK	?	Roughnecks, you may fire at will.
+DIZZY	m	I'm hot, sir !
+RASCZAK	?	FIRE ! BLAST SHIELDS DOWN !
+RASCZAK	?	HIT THE DIRT !
+GILLESPIE	m	Now comes the part I hate the most.
+JOHNNY	m	What's that ?
+GILLESPIE	m	We go down into the colony and make sure all the queens are dead.
+SUGAR WATKINS	f	You knew the Lieutenant before the war... What was he like ?
+JOHNNY	m	He was a teacher , kind of a know it all... Always had this little smile.
+SUGAR WATKINS	f	Geez, I don't think I've ever seen him  smile.
+JOHNNY	m	Must fill your bottle up real quick when your wife and kids get smeared.
+JOHNNY	m	All dead except one, sir.
+RASCZAK	?	Kill the bitch.
+JOHNNY	m	Yes, sir.
+RASCZAK	?	Tango Urilla is now bug free. Means the Roughnecks have killed  a helluva lotta bugs...!
+RASCZAK	?	I expect the best, but I give the best. Habve some fun. That's an order !
+DIZZY	m	C'mon...
+JOHNNY	m	Nah, I don't do that anymore...
+DIZZY	m	You used to dance...
+JOHNNY	m	I said no. Want me to pull rank ?
+DIZZY	m	Well, excuse me, sir...
+RASCZAK	?	Yopu asked me some advice once, Rico. Want some now ?
+JOHNNY	m	Yes, sir...
+RASCZAK	?	Never pass up a good thing, eh ?
+GILLESPIE	m	Lieutenant, Brigade's on the com...
+JOHNNY	m	Hey, Diz...
+DIZZY	m	What ?
+JOHNNY	m	May I have the honor ?
+INTELLIGENCE OFFICER	m	At 0821 we received a distress call from  Planet P, priority code, requesting reinforcement...
+RASCZAK	?	I thought 4th brigade cleaned out P.
+INTELLIGENCE OFFICER	m	Owen reported the eradication of a low generation colony a month ago. That's why  MICOM wants onsite assessment.
+RASCZAK	?	Sounds more like some idiot at Military Intelligence Command wants to get me and my cap troopers  killed...
+INTELLIGENCE OFFICER	m	Take your group down to P and have a  look see. Leave the thinking to us, Lieutenant. That's not your job.
+RASCZAK	?	My job is to protect the lives of my soldiers so they can kill bugs, Major, and if you're walking me into a trap-
+INTELLIGENCE OFFICER	m	Bugs don't lay traps... They aren't intelligent ! Unlike you, they're stupid enough to follow orders !
+VOICE	m	That'll be all, Major. Dismissed.
+CARL	m	This conference is over. Do your duty, Lieutenant. That's an order.
+RASCZAK	?	Yes, sir.
+RASCZAK	?	Corporal, the Roughnecks are moving out for Planet P immediately. Get yourself squared away and report to Gillespie for logistics.
+JOHNNY	m	Yes, sir !
+RASCZAK	?	Who's that with you ?
+RASCZAK	?	Report in ten minutes.
+DIZZY	m	Planet P ? What kind of name is that ?
+JOHNNY	m	They ran out of names a long time ago in this part of the galaxy.
+GILLESPIE	m	I don't understand it, Lieutenant. It's not getting anything from 4th Brigade... not even their transponder.
+RASCZAK	?	Keep trying, Sergeant.
+JOHNNY	m	BUGS...!
+DIZZY	m	Johnny, watch out !
+RASCZAK	?	LET'S GO ! ON THE BOUNCE !
+RASCZAK	?	Gillespie, put in call for retrieval. We're off this rock. Gillespie, do you read me ?
+GILLESPIE	m	AAAAAAAAAAA !
+RASCZAK	?	Throw a rifle !
+RASCZAK	?	I expext any one here to do the same for me... Rico, Watkins, Flores, Levy prepare for rear guard action. The rest of you make for 4th Brigade.
+RASCZAK	?	FIRE...!
+RASCZAK	?	FALL BACK 100 METERS...!
+RASCZAK	?	AND FIRE...!
+RASCZAK	?	4TH BRIGADE HQ ! ON THE BOUNCE !
+RASCZAK	?	Jeez, Command really humped the bunk on this one...
+RASCZAK	?	Rico, you're acting Sergeant now. My last Sergeant lost the com pack. Put together a search team and find the radio shack. We need retrieval.
+JOHNNY	m	Yes, sir.
+DIZZY	m	It's here, sir.
+JOHNNY	m	Diz, see what you can do.
+DIZZY	m	I'm on it !
+RASCZAK	?	What's that look like to you, Rico ?
+JOHNNY	m	Looks like a bug was in his brain, sir.
+ACE	m	Lieutenant, I think you're gonna wanna see this, sir.
+ACE	m	Dirty bugs came in right when they  were having chow !
+RASCZAK	?	Gas that hole and seal it.
+ACE	m	Officer on the deck, sir.
+RASCZAK	?	Pick up the general !
+GENERAL OWEN	m	Get out... you gotta get me out...!
+RASCZAK	?	General Owen, sir ?
+GENERAL OWEN	m	At ease, Lieutenant. Thank God for you, for all of you...this is grand... so where's the boat ?
+GENERAL OWEN	m	I was forced to hide, of course. The security of the Federation in this theater of operations was at stake !
+JOHNNY	m	Diz, what's with the uplink ?
+DIZZY	m	Workin on it...!
+GENERAL OWEN	m	They get in your mind... they make you do things ! Look here... They did it to Farley...!
+RASCZAK	?	The distress call... The bugs wanted us  to rescue you...!
+GENERAL OWEN	m	Oh, you can be sure of it ! They were biding their time... waiting for the most opportune moment !
+RASCZAK	?	To all Roughnecks, this is Rasczak. Prepare for attack. Repeat. We are going to be attacked...!
+GENERAL OWEN	m	They weren't gonna do it to me. Oh no ! I know too many secrets !
+SUGAR WATKINS	f	Fire in the hole !
+GENERAL OWEN	m	Oh God...! My soldiers...! All of my boys and girls...!
+LT. RASCZAK	?	Shut up ! Your soldier's dead and you're not !
+GENERAL OWEN	m	I know... I wish you'd shoot me...
+LT. RASCZAK	?	I oughta !
+ACE	m	Lieutenant, we got trouble !
+RASCZAK	?	Warm it all up ! Everything you got ! Levy, collect the big guns from the  towers. Watkins, put General Owen  with the wounded. Rico, where's my  communications ?
+JOHNNY	m	What's going on, Diz ?
+DIZZY	m	I got power ! Gimme a minute !
+JOHNNY	m	We don't have a minute !
+JOHNNY	m	Boat coming down, sir !
+ROUGHNECKS	m	I'm empty...all nuked out... Me, too !
+ACE	m	Jeez, we musta killed a million already...!
+JOHNNY	m	Not enough, I guess.
+SUGAR WATKINS	f	General ! GENERAL, stay with the wounded... Sir, the general...!
+RASCZAK	?	Ah, the hell with him...
+RASCZAK	?	Fall back... form a circle ! If no  living bug comes over that wall, we cannot be harmed.
+RASCZAK	?	Rico, Flores, Watkins, Levy ! We  control the sky until retrieval !
+JOHNNY ET AL	m	Yes, sir !
+ACE	m	Getting low here, sir !
+DIZZY	m	300 rounds and counting, sir !
+RASCZAK	?	Make every shot count !
+RASCZAK	?	Sergeant, secure the boat !
+JOHNNY	m	Yes, sir !
+RASCZAK	?	Board the wounded !
+RASCZAK	?	Move to retrieval on my command ! First group, now...!
+RASCZAK	?	Alright, Flores ! Levy ! Rico...!
+RASCZAK	?	AAAAAAAAAAAA !
+JOHNNY	m	Cover us, Ace !
+JOHNNY	m	Hit your jets, sir !
+RASCZAK	?	I can't My legs are gone... Get on the boat...
+RASCZAK	?	Rico, tell'em to glass this goddam planet. I've never seen so many bugs upstairs at the same time...
+JOHNNY	m	We're not leaving you here, sir !
+RASCZAK	?	This is my farm. Get on the boat, NOW ! That's an order, Sergeant.
+JOHNNY	m	Give'em hell, sir !
+RASCZAK	?	C'mon you sons of bitches ! There's no bug alive can kill a real mAAAAAAA !
+DIZZY	m	AAAAAAA ! GET IT OFF ME
+JOHNNY	m	Hang on, Diz... don't die on me...
+DIZZY	m	I bought the farm, didn't I, Johnny ?
+JOHNNY	m	No, you're gonna be alright, Diz !
+DIZZY	m	It's alright 'cause I got to have you, Johnny...
+JOHNNY	m	Get on the com and tell Fleet to glass that rock...!
+ZANDER	m	On whose authority, Corporal ?
+JOHNNY	m	This would be mine, sir. Acting  Sergeant John Rico. I've assumed command on this mission.
+CARMEN	f	Johnny...! I thought you were dead !
+JOHNNY	m	I'm not, but alot of my soldiers are. Glass the planet !
+CARMEN	f	Rodger Young, this is inbound shuttle De Ruyter with an official request from the Mobile Infantery to bombard Planet P-11...
+DIZZY	m	JOHNNY HEH HEH CAN'T HEH
+CARMEN	f	Negative on your request. Fleet  Command has the battle group  on standby... Carmen sees Dizzy lying dead on the deck.
+CARMEN	f	...I'm sorry.
+JOHNNY	m	We gotta choke on the mud and the blood and Fleet can't be bothered to spit.
+CARMEN	f	No, I think something's up. The Sky Marshall's here.
+CARMEN	f	I thought you were KIA, Johnny...
+JOHNNY	m	That was just a mix up.
+CARMEN	f	You look so... I don't know, you  look like you've really been in it.
+JOHNNY	m	What happened to your eye ?
+CARMEN	f	Almost got knocked out of the sky  over Big K.
+JOHNNY	m	I like it. It's kinda...you.
+ZANDER	m	Where are you going ?
+CARMEN	f	A funeral.
+ZANDER	m	That girl who died on the way up ...his girl ?
+CARMEN	f	Yeah.
+ZANDER	m	How do you feel about him now ?
+CARMEN	f	I don't know, Zander.
+ZANDER	m	I do.
+JOHNNY	m	Dizzy bought the farm. She was my good friend, and friens are the best  luck anyone gets... But in war, we must go on without our friends. We take with us their memory, and we are left to wonder if there is meaning in their death. Let me tell you what it is: Dizzy bough the farm so we can keep on fighting.
+JOHNNY	m	Officer on deck !
+CARL	m	Please continue, Sergeant.
+JOHNNY	m	Dizzy wouldn't want our tears. She'd want us to remember her... with a vengeance. So go out and kill a bug  for Dizzy. Kill as many as you can. You are her revenge, and every bug  you kill honors her death.
+JOHNNY	m	Womb to tomb, cap trooper !
+ROUGHNECKS	m	Womb to tomb !
+CARMEN	f	Well, look at this. The three of us back together again.
+JOHNNY	m	How are you, Carl ?
+CARL	m	Johnny, I'm sorry it had to be your unit on Planet P. That mission had a very low survival probability...
+JOHNNY	m	Bugs laid a trap, didn't they ?
+CARL	m	Elegant proof of intelligence,  isn't it ? We thought there might be a brain on P.
+CARMEN	f	You knew and you sent them anyway ?
+CARL	m	A colony has to reach a certain size before it produces a Brain... we think 300 generations. Woulda too expensive to launch an operation if there wasn't a Brain...
+CARL	m	You don't approve. Well, too bad. We're in this for the species, boys and girls. It's simple numbers, they have more, and everyday I have to make decisions that send hundreds of people like you to their deaths.
+JOHNNY	m	Didn't they tell you, Colonel ? That's what cap troopres are good for.
+CARL	m	Hope you're ready for more. We're going back to P to capture that Brain.
+JOHNNY	m	The Roughnecks are always ready, sir.
+CARL	m	I hear they need a new Lieutenant... Want the job ?
+JOHNNY	m	I'll take it... until I get killed or you find someone better.
+CARMEN	f	Hope you get your Brain Bug, Carl.
+CARL	m	It's good to see you two. It reminds me of the way things were before...
+CARMEN	f	Take care, wilya Johnny ?
+JOHNNY	m	See you on the bounce !
+CARMEN	f	Where's Lieutenant Barcalow ?
+DELADIER	?	He requested a combat assignment. There's always a need for experienced pilots on the ground. I had no choice but to let him go... He said you'd understand.
+ACE	m	Officer on the deck !
+JOHNNY	m	I only have two rules. Rule one, everyone fights. Rule two, no one quits. If you don't do your job, I'll kill you myself. Do you get me ?
+ROUGHNECKS	m	We get you, sir !
+JOHNNY	m	Who're all these kids ?
+ACE	m	We got reinforced. Most of'em just got outa boot...
+JOHNNY	m	We're the old men, Ace.
+JOHNNY	m	We'll take this high ground. Lookouts there and therte and up there. If the bugs come upstairs in this neighbor-hood, we'll be the first to know.
+ACE	m	Got it. Fleet tactical wants to know where they can deploy the skimmers.
+JOHNNY	m	Down there on the flats, eh ? Listen up, Roughnecks ! Our primary objective is to assist our friends from the Fleet...
+JOHNNY	m	Alright, cut it out. We will deploy from skimmers in teams of six. If the bugs open up a battery, we put it out of business. Any questions ?
+JOHNNY	m	Would'ya mind moving your boat ?
+FLEET OFFICER	m	Better talk to the boss.
+JOHNNY	m	You're standing on my H.Q.,  Lieutenant !
+ZANDER 	m	This is a Fleet-driven operation, son, and the Fleet thinks my boat will be  safer on the high ground. You can have everything else, eh ?
+JOHNNY	m	You heard the Sky Marshall... Move it all down -
+ZANDER	m	Rodger Young, prepare to receice  outgoing fire...! I'll take the first group.
+JOHNNY	m	Saddle up, boys, that's our trash !
+DELADIER	?	Evasive action !
+CARMEN	f	Prepare for warp !
+NEW NUMBER 2	m	Yes, ma'am ! Warp in 5... 4...
+CARMEN	f	This is Rodger Young, we're going down... Repeat, this is Rodger Young, we're going down...!
+DELADIER	?	Ibanez...LET'S GO !
+DELADIER	?	AAAAAAAAAAA !
+DELADIER	?	Leave me, Lieutenant ! That's an order !
+CARMEN	f	No way, ma'am !
+CARMEN	f	Mayday, mayday ! This is  Lieutenant Carmen Ibanez in  lifepod RY63... I'm going in...
+JOHNNY	m	What's your problem now, Lieutenant ?
+ZANDER 	m	The Rodger Young just burned up...
+JOHNNY	m	Any survivors ?
+CARMEN	f	This is Lieutenant Carmen Ibanez. Is anyone receiving ?
+JOHNNY	m	Affirmative ! Carmen, this is Roughneck base camp... What is your present  location ?
+CARMEN	f	My present location is 42 degrees  South by 176 degrees East... situation is extremely hostile...
+CARMEN	f	AAAAAAAAAAAAAA !
+JOHNNY	m	We've gotta go get her !
+ZANDER	m	You know as well as I do she's probably already dead.
+SUGAR WATKINS	f	Here they come !
+JOHNNY	m	We're outa here. Lieutenant, get your men into the skimmers. This real estate's about to go buggy.
+ZANDER	m	Hey, just calm down, I'm giving the orders here-
+JOHNNY	m	Form a perimeter !
+JOHNNY	m	Make yourself useful, fly boy...
+ZANDER	m	AAAAAAAAAAA !
+JOHNNY	m	Ace, get on the com. Tell Fleet we need retrieval... Sugar, salvage some armor and suit up Lieutenant Barcalow.
+ZANDER	m	Thanks.
+ACE	m	Fleet Command says retrieval's no go. The battle group's at safe distance... and we got another problem.
+JOHNNY	m	Looks like they're gonna hose us down...
+JOHNNY	m	Alright... Listen up, Roughnecks. We're gonna head west down through bug city, pick up any Rodger Young  survivors we run across, and join A Company. Get me ?
+ROUGHNECKS	m	We get you, sir !
+ZANDER	m	What do you think you're doing ?
+JOHNNY	m	I'm gonna save Carmen.
+ZANDER	m	That would mean a comlete disregard for the mission objective. They hang you for that, Rico.
+JOHNNY	m	Yeah, that's right.
+ZANDER	m	Let's go.
+JOHNNY	m	Move out.
+ACE	m	Bug hunt !
+ROUGHNECKS	m	BUG HUNT !
+JOHNNY	m	Mr. Barcalow, save power, don't waste it on workers... Ace, tell Aardvark we're on our way...
+ACE	m	Yes, sir !
+JOHNNY	m	Sugar, close the tunnel...!
+SUGAR	f	Fire in the hole !
+DELADIER	?	NAAAAAAAA...! OH PLEASE...
+DELADIER	?	...OH GOD AAAAAAAAAAAAA...!
+DELADIER	?	AAAAAAAAAAAAAAA !
+CARMEN	f	AAAAAAAAAAAAAA !
+JOHNNY	m	You know what this is...?
+JOHNNY	m	Sure you do... You're a big fat smart bug, aren't you ?
+JOHNNY	m	I'll take you with me.
+JOHNNY	m	Take my hand !
+JOHNNY	m	Roughnecks...NOW !
+ZANDER	m	AAAAAAAAAAAAA !
+JOHNNY	m	Weapon !
+JOHNNY	m	Are you hurt ?
+CARMEN	f	Johnny...!
+CARMEN	f	Zander...! Oh, you're hurt.
+ACE	m	Ah geez...
+JOHNNY	m	Can you walk ?
+ZANDER	m	Not a problem.
+JOHNNY	m	Let's get some armor on her, and the we'll get outa this stinkin  bug hole !
+CARMEN	f	I thought I was dead. Lucky for me you jokers showed up, eh ?
+ZANDER	m	It wasn't luck. Rico ignored the mission objective to rescue you...
+CARMEN	f	Is it true ?
+JOHNNY	m	Yeah, if I live through this,  they'll probably hang me. Now com'on, let's move out !
+CARMEN	f	Which way ?
+JOHNNY	m	Up. We gotta be near A Company  by now.
+JOHNNY	m	FALL BACK !
+JOHNNY	m	How bad are you, pal ?
+ZANDER	m	Been better, buddy.
+JOHNNY	m	Alright, we're gonna carry you...
+ZANDER	m	Nah, I figureyou folks oughta get  upstairs before it's too late... Gimmee the nuke.
+JOHNNY	m	Don't be a hero...
+ZANDER	m	This is my farm. Now c'mon, give me what you got and get out of here...
+CARMEN	f	Zander, what are you doing ?
+ZANDER	m	Just giving you something to remember me by, baby.
+CARMEN	f	Zander, no...!
+JOHNNY	m	GO.GO GO GO GO...!
+CARMEN	f	Look... they got it.
+GENERAL	m	What's it thinking, Colonel ?
+CARL	m	It's afraid.
+JOHNNY	m	Sir, I'd like to turn myself in. Dereliction of duty by an officer during wartime.
+GENERAL	m	And you freely admit to it ?
+JOHNNY	m	Yes, sir.
+GENERAL	m	Is what this man says true, Lieutenant ?
+CARMEN	f	To the best of my understanding, i
+

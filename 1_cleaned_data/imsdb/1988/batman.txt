@@ -1,0 +1,588 @@
+MOM	f	For God's sake, Harold, can we please just get a
+DAD	m	I'm
+JIMMY	m	We're going the wrong way.
+DAD	m	Put that away. We'll look like tourists. We'll never get a cab here. Let's cut over to Seventh.
+JIMMY	m	Seventh is
+DAD	m	I know where we are!
+VOICE	m	Hey, mister. Gimme a dollar?
+DERELICT	m	Mister. How about it. One dollar? One
+STREET PUNK	m	Do the kid a favor, lady. Don't scream.
+NICK	m	All right. The Gold Card. Don't leave home without it.
+EDDIE	m	Let's beat it, man. I don't like being up here.
+NICK	m	What, scared of heights?
+EDDIE	m	I dunno, man. After what happened to Johnny Gobs --
+NICK	m	Look, Johnny Gobs got ripped and walked off a roof, all right? No big loss.
+EDDIE	m	That ain't what I heard. That ain't what I heard at all. I heard the bat got him.
+NICK	m	Gimme a break, will you? Shut up...
+EDDIE	m	Five stories, straight down. There was
+NICK	m	No shit. It was all over the pavement.
+EDDIE	m	There was no blood, man. My brother says... all the bad things you done... they come back and
+NICK	m	Listen to this. How old are you? There
+EDDIE	m	My brother's a priest, man.
+NICK	m	No wonder you're such a chickenshit. Now
+EDDIE	m	You shouldn'ta turned the gun on that kid, man. You shouldn'ta --
+NICK	m	Do you want this money or
+BATMAN	m	I won't kill you. I want you to do me a favor. Tell your friends. Tell all your friends.
+DENT	m	... it is no longer enough to go after the small-time punks and petty criminals who infest the streets of Gotham City. Crime and corruption must be attacked at the root!
+DENT	m	If elected, my first act as district attorney will be to return an indictment against
+DENT	m	Together we can make Gotham city a safe place for decent people to live and work and play.
+JACK NAPIER	m	Decent people shouldn't live here. They'd be much happier someplace else.
+ALICIA	f	Anything new?
+JACK	m	The usual gas. If this clown could lay a hand on Grissom... I would've had to kill him by now.
+ALICIA	f	If Grissom knew about
+JACK	m	Don't think so, angel. I'm too valuable. That's the way I've planned it. And besides, he doesn't know.
+ALICIA	f	You look just fine, Jack.
+JACK	m	... I didn't ask.
+MEDIC	m	That one there won't say a word. The other one's raving his head off.
+ECKHARDT	m	Variety, huh? The spice of life.
+PATROLMAN	?	They found him hugging a drainpipe. He was scared to come off the roof.
+KNOX	m	Great, but tell me: is this another you-know-what? 'Cause if so, it's the third one this week.
+PATROLMAN	?	I dunno. What's "what"?
+KNOX	m	Good answer. I'm gonna put you in for a commendation.
+ECKHARDT	m	Oh Christ, it's Knox.
+KNOX	m	Hiya, gents. This anything I should know about?
+ECKHARDT	m	Nothing out of the routine.
+NICK	m	A
+KNOX	m	No offense, boys, but these guys are seeing
+ECKHARDT	m	No comment. Print what you like.
+KNOX	m	Come on. One question. Is there a six-foot bat in Gotham City? If so, is he on the police payroll? If so, what's he pulling down after taxes?
+JACK	m	You didn't show up.
+ECKHARDT	m	We had another bat sighting.
+JACK	m	I'm sure that was vitally important. Listen: things are heating up. Someone is leaking information to Harvey Dent.
+ECKHARDT	m	I'm doing the best I can. If it's a problem --
+JACK	m	Eckhardt... our problems are your problems.
+ECKHARDT	m	I'll work on it.
+JACK	m	Very nice, Lieutenant. But a little ostentatious on a cop's salary, don't you think?
+ECKHARDT	m	I answer to Grissom, punk. Not to you.
+JACK	m	You're a smart boy, Eckhardt. You should be thinking about the future.
+ECKHARDT	m	Ambition. Forget it, Jack. You'll never run that organization.
+JACK	m	And why's that?
+ECKHARDT	m	You're a psycho, friend. You're an A-one crazy boy and Grissom knows it.
+JACK	m	Here. Use mine. It's all right, boys. Lt. Eckhardt here is a good cop. A real good cop. Inexpensive.
+KNOX	m	What have you got for me, Jerry? Nice, but... maybe a little more gore on the fangs, huh?
+COLLEAGUE	?	Hey Knox, you got a visitor.
+KNOX	m	I'm real busy, Clark. Be a pal and dust him, okay?
+COLLEAGUE	?	This one you might want to dust yourself.
+KNOX	m	... Vicki Vale.
+VICKI	f	How'd you know it was me?
+KNOX	m	Honey -- I would know any randomly selected
+VICKI	f	A nice, restful vacation.
+KNOX	m	God, a girl could get hurt doing this.
+VICKI	f	I do get hurt.
+KNOX	m	Got any more of those?
+VICKI	f	Nothing I'm at liberty to reveal here. What's new and hot in Gotham City?
+KNOX	m	It's too good, Vick. We got a six- foot bat that swoops out of the night and preys on evildoers.
+VICKI	f	Evildoers, huh? Big or small?
+KNOX	m	Small so far. I mean -- they don't allow bats in boardrooms, do they.
+VICKI	f	Speaking of which... I hear the notorious Bruce Wayne is throwing a big do for the Harvey Dent campaign.
+KNOX	m	Yeah. Hottest ticket in town. Every law'n'order freak in the city's gonna be there. Wa-a-it. Vicki. You're not saying -- Aw, Vicki. Vicki! Got a date? Vicki, baby, I love you, I've always loved you. Will you marry me?
+VICKI	f	No.
+KNOX	m	Well, I'm starving. Will you at least buy me a hamburger?
+VICKI	f	Yes, but please -- be gentle.
+GRISSOM	m	Nine points ahead in the new poll. I don't like the way this is shaping up.
+JACK	m	We can always pop him. -- Or pop someone close to him.
+LIEUTENANT	m	Let's feed him to the bat.
+GRISSOM	m	He's going after our front companies. Specifically Ace Chemical. Which would tie us in with Councilman Kane, Senator Miller... on up the line. We have to clean out our files before the subpoena comes down.
+LIEUTENANT	m	How do we go? The usual fire?
+GRISSOM	m	I'm thinking break-in. Trash the office, remove the relevant documents...
+JACK	m	"Industrial espionage."
+GRISSOM	m	That's right. And Jack -- I'd like you to handle this operation personally.
+JACK	m	...
+GRISSOM	m	Hello, sweetheart. I wonder if you'd mind waiting in the other room.
+JACK	m	Why do you need
+GRISSOM	m	Because I want someone I can
+JACK	m	I understand.
+GRISSOM	m	Jack. Don't forget your lucky deck. My friend, your luck is just about to change. Get me Lieutenant Eckhardt.
+KNOX	m	How high up would you say that is?
+ALFRED	m	I'd say about thirty feet, sir.
+KNOX	m	You know, if you cut your bathroom in half, you'd have my apartment.
+ALFRED	m	Which bathroom is that, air?
+KNOX	m	The small one. Man, I feel like Robin Leach. You actually
+VICKI	f	Some. I
+KNOX	m	Yeah, I guess we move in different circles. -- Though I
+KNOX	m	Commissioner Gordon! What do you hear from our pointy-eared friend?
+GORDON	m	Knox, for the ninth time, and you can quote me --
+KNOX	m	Aww, Commissioner. There's gotta be
+DENT	m	How's your luck, Jim?
+KNOX	m	Mr. Dent. What's
+DENT	m	Mr. Knox, I think we have enough real problems in this city without worrying about ghosts and goblins and Halloween characters.
+KNOX	m	My question is, where does one man get all this
+VICKI	f	All over the world. They say he spends most of the year overseas -- until recently, anyway.
+KNOX	m	Holy shit...
+VICKI	f	Just what I've heard. Rich. Reclusive. Old money and lots of it.
+KNOX	m	Likes to kill?
+VICKI	f	Women find him magnetic.
+KNOX	m	I bet they like him for his big charity balls.
+VICKI	f	That, and the sweet smell of two hundred million bucks.
+KNOX	m	Well, you know me. The more they've got, the less they're worth. This guy must be the most worthless man in America.
+BRUCE WAYNE	m	You disappoint me. Why not the world?
+KNOX	m	I assume in my usual charming manner I've just insulted the host. Alexander Knox.
+BRUCE	m	Bruce Wayne. -- I've read your work. I quite like it.
+KNOX	m	Great. Give me a grant.
+BRUCE	m	I might consider it if you introduce me to Miss Vale.
+KNOX	m	"This is Miss Vale." --
+BRUCE	m	You're just back from Corto Maltese. I saw your combat photos. Quite a departure for you.
+VICKI	f	That's intriguing. They haven't been
+BRUCE	m	... You have an extraordinary eye.
+KNOX	m	Some people think she has
+VICKI	f	Don't mind my friend. He's a little nervous tonight.
+BRUCE	m	I don't... seek publicity. -- Will you be staying in Gotham for a while?
+VICKI	f	As far as I know.
+BRUCE	m	Good. Then with any luck we'll run into each other.
+ALFRED	m	Excuse me, sir. Commissioner Gordon was compelled to leave --
+BRUCE	m	Thank you, Alfred. I hope you'll excuse me. It was a great pleasure meeting you. And you.
+KNOX	m	I know the rich are different, but that guy is
+VICKI	f	Oh. Sorry. I was thinking.
+KNOX	m	What were you thinking?
+VICKI	f	Yum, yum.
+KNOX	m	Well,
+VICKI	f	I get it. Bruce Vain.
+PATROLMAN	?	... anonymous tip. Tonight. The Ace Chemical Company.
+GORDON	m	Good Lord, it we could put our hands on Jack Napier... Why wasn't I told about this? Who's in charge of the --
+PATROLMAN	?	Lt. Eckhardt, sir.
+ECKHARDT	m	Shoot to kill.
+SAFECRACKER	?	... Empty.
+HOOD I	m	Just like the file cabinets.
+HOOD II	m	I don't get it. If this place is cleaned out already, what do we need five men?
+ECKHARDT	m	What are you trying to do, blow the collar?
+GORDON	m	You men are dismissed. We'll take over from here. Any man who opens fire on Jack Napier... will answer to me. You. Stick around.
+COP	m	Freeze!
+ECKHARDT	m	Nice work, Commissioner.
+GORDON	m	I'm in charge here. Not Carl Grissom.
+COP	m	LOOK!
+GORDON	m	My God... it's
+VOICE	m	HOLD IT!
+HOOD V	m	Let him go or I'll do it.
+HOOD V	m	Nobody makes a move. We go out clean.
+JACK'S VOICE	m	ECKHARDT!!
+GORDON	m	NO!!
+COP	m	LOOK!
+GORDON	m	HOLD YOUR FIRE!
+COP	m	... Who
+GORDON	m	I don't know, but he's one hell of a showman.
+KNOX	m	Commissioner. Do us both a favor. Don't tell me some
+VICKI	f	Guess who's got a date with Bruce Wayne.
+KNOX	m	Bruce Wayne? Date? He called you up and asked you for a date?...
+MIRANDA	f	You mean Mister One-Nighter?
+KNOX	m	Yeah. "Mister One-Nighter." Because that's the average length of his relationships with women.
+MIRANDA	f	The current record is almost two weeks. That cover girl -- what's her name? You must've shot her, Vicki --
+KNOX	m	Tell her about the peanuts.
+VICKI	f	Peanuts?
+KNOX	m	Yeah. Peanuts. Which is how he goes through
+MIRANDA	f	Like Planter's Peanuts.
+VICKI	f	Plain or roasted? Alex, I'm very flattered that you've gone out and done all this research.
+KNOX	m	Why? Aw, come on, Vicki, I'm a reporter. I'm curious. I do this for a living. -- What'd you tell him?
+VICKI	f	I told him yes. You're awfully sweet to be concerned, but it's
+KNOX	m	... What was
+MIRANDA	f	That was one of the most gracious fuck-yous it's ever been my pleasure to watch. -- What a nice girl.
+KNOX	m	Miranda, I'm busy. Go be productive.
+VICKI	f	Do you sail?
+BRUCE	m	Too much work. I'm not really the physical type. -- Thank you, Alfred.
+VICKI	f	You do a very convincing imitation. Mm, this is tasty. What's yours? ... Ginger ale?
+BRUCE	m	Two drinks and I start swinging from the rooftops. Tell me, Vicki. There's something I'm very curious about. What took you down to Corto Maltese?
+VICKI	f	... I guess I needed a change.
+BRUCE	m	You were one of the most successful magazine photographers in the city. Everyone wanted you.
+VICKI	f	Have you ever been to Corto Maltese?
+BRUCE	m	Not since the shooting started.
+VICKI	f	We went there once when I was little. I played on the beach. And at nights -- they had a band -- I danced with my father on the hotel patio. That was Corto Maltese. When the war broke out I had to go back. And I promised myself that this time... I wouldn't look away.
+BRUCE	m	What did you see?
+VICKI	f	... Terror.
+BRUCE	m	There's terror everywhere. Some types are just more --
+VICKI	f	I'm sorry. I didn't mean to -- I know it all seems a million miles away, out here on the water, with all this --
+BRUCE	m	Insulation?
+VICKI	f	Bruce, really, when I say these things I don't mean to criticize
+BRUCE	m	I think you see things very clearly.
+VICKI	f	I'm happy to talk about something else. I don't want to be depressing.
+BRUCE	m	Do you assume that if I know you better I won't like you as much?
+VICKI	f	I'm sorry, Bruce, I have to ask. Are you like this with the other women you know? -- Because I just can't seem to get a handle on this conversation.
+BRUCE	m	Vicki, if I say anything cryptic, or... ambiguous, I think you should put the most flattering possible interpretation on it. Because even if it doesn't sound that way...  that's how I'll mean it.
+VICKI	f	-- but it's not
+BRUCE	m	Would you like me to take you home?
+VICKI	f	God. You
+BRUCE	m	Maybe we should just kiss.
+VICKI	f	... We could try that.
+DOCTOR	m	Well, Mr. Napier, let's see how we did.
+JACK	m	Mirror.
+DOCTOR	m	You understand the facial muscles were completely severed -- -- you can see what I have to work with here -- I'm sure that with proper recon-- recon-- reconstructive surgery --
+GRISSOM	m	That you, sugar bumps? Who the hell are you?
+JACK	m	It's me. "Sugar Bumps."
+GRISSOM	m	Jack? Thank God. I can't believe it's you. I heard you'd been --
+JACK	m	Is that what you "heard"?
+GRISSOM	m	Sooner or later you would've tried to take me, Jack. You may get me now, but your life won't be worth a dime.
+JACK	m	I've died once already. It wasn't so bad. -- In fact I
+GRISSOM	m	Jack, listen -- we'll cut a deal --
+JACK	m	JACK? JACK? DO I LOOK LIKE A JACK??
+GRISSOM	m	Jack -- I'm warning you. WIPE THAT
+JACK	m	HA! That's the best part. I CAN'T!!
+JOKER	m	What a view. Our little city. It always brings a smile to my face. Guess it's
+VICKI	f	I didn't mean to scare you. I just had to come in here and see it that was really you
+BRUCE	m	I don't sing very well.
+VICKI	f	Then there's one thing in the world you don't do very well. And I know what it is. -- Now you'll have to kill me. Poor thing. You should stay off that horse.
+KNOX	m	...Peanut.
+COPY BOY	m	Here's that morgue file you wanted.
+KNOX	m	Come on. Gimme some
+DOORMAN	m	Miss Hunt! No need to sneak in. The rent's been taken care of.
+ALICIA	f	... The rent? Paid?
+VOICE	m	Honey -- I'm home!
+JOKER	m	So that's how it is, gents. Until Grissom decides it's safe to come up for air... I'm running the show.
+GANG BOSS	m	So why don't we hear this from Grissom?
+RACKETEER	m	I got something I'd like to know. How come you're wearing that stupid
+JOKER	m	'Cause I got an army, chum. And I got
+ROTELLI	m	I don't like taking orders, from Grissom. And I especially don't like taking orders from Grissom's
+JOKER	m	I've considered that possibility.
+ROTELLI	m	And what happens if we say no?
+JOKER	m	Nobody wants a war, Carmine. If we can't do business, we shake hands and part friends.
+ROTELLI	m	That's it?
+JOKER	m	That's it. Looks like Carmine got a little hot under the collar.
+CRIMELORD	?	... You're
+JOKER	m	That's what they said about Lee Iacocca. Now GET OUT OF HERE. -- And
+VICKI	f	... To tell you the truth, I'd just about given up waiting.
+BRUCE	m	I said I'd call you the minute I got free. And I did. -- And here we are.
+VICKI	f	Hm hmm. Lunch. Not even dinner.
+BRUCE	m	Vicki. Do you want the whole truth? All coyness aside? I wish I had more time to give you. Every day I don't see you, I miss you. Now. Are you going to waste this lovely afternoon being all mad at me?
+VICKI	f	Okay, I'm a sucker. You sound so much like someone I used to...  Bruce? I know this is silly, but -- you're not
+VICKI	f	All street mimes should be executed.
+BRUCE	m	... Looks like a
+VICKI	f	BRUCE!!
+BRUCE	m	Oh my God... are you all right?
+ANCHORWOMAN	f	... live from Halliday Plaza, where a gangland-style execution claimed the life of racketeer Philly Ricorso. Ricorso's death is the third in a rash of underworld killings...  Commissioner, you've heard the rumors. Are these murders the work of the mysterious 'Batman'?
+JOKER	m	All
+ALFRED	m	I'm sorry, Miss Vale. I've given him your messages. That's all I can do.
+VICKI	f	Please tell him... I'm not trying to make his life difficult. I'd just -- I'd just like to know what's going
+KNOX	m	Hiya, peanut. I got something I'd like you to see.
+KNOX	m	Okay, here we go.
+VICKI	f	Oh my God... I've seen this picture.
+KNOX	m	I guess so. Pulitzer Prize, 1963.
+VICKI	f	His face. Allie, look at his face.
+KNOX	m	Yep. He watched the whole thing happen. -- Recognize the beat cop?
+VICKI	f	Oh, Bruce...
+KNOX	m	Something like this -- what do you suppose this could drive a guy to?
+VICKI	f	Alexander, you are on drugs.
+KNOX	m	He walks out on his own party. Half an hour later, the Caped Crusader turns up in full bat-drag. Sees an execution, freaks out in an alleyway. No place to
+VICKI	f	You're pissing me off, Allie. I know exactly why you're doing this.
+KNOX	m	Oh? Why is that, Vicki?
+VICKI	f	He's best friends with Jim Gordon and Harvey Dent. They would
+KNOX	m	... Okay, Vicki, I have a confession to make.
+VICKI	f	Alexander... I
+KNOX	m	Right. And
+VICKI	f	This is pointless. I'm leaving.
+KNOX	m	Your little chum is out of his mind. Next time you call him up and he can't go
+JOKER	m	How's that first shipment coming?
+VOICE ON PHONE	m	Right on schedule. Oh, we got that address for you -- 79 East End,
+JOKER	m	Mmm. How'd you find it?
+VOICE ON PHONE	m	Called her agent.
+CLAIRE	f	... of course, after Corto Maltese, this must all seem pretty tame.
+VICKI	f	Not to me. I need a job.
+CLAIRE	f	Now Vicki. Everyone
+VICKI	f	Then "everyone" must know something I don't.
+CLAIRE	f	Oh. Really.
+PATSY	f	The fashion world was stunned today by the sudden deaths of top models Kelly Brinkley and Christie Emberg. Cause of death has been attributed to a violent allergic reaction, although authorities have not yet ruled out the possibility of drug use. Dave?
+DAVE	m	In Gotham, plans continue for the city's 300th birthday celebration. The four-day event will conclude with the unveiling, in Gotham Harbor, of the newly restored 'Lady Gotham'...  This bulletin just in. Nine more mysterious deaths at a beauty parlor in -- Patsy! This is hardly the --
+MODELS	?	...
+DIRECTOR	m	WHERE'S IT COMING FROM??
+TECHNICIAN	m	I DON'T KNOW!
+JOKER	m	... new improved
+JOKER	m	I know what you're saying. Where can I
+ALFRED	m	... Sir!
+JOKER	m	Baby's got a tummyache? Here's something that'll fix him
+VOICE	m	She's outside the Fluegelheim.
+ALICIA	f	Jack? Who was that?
+JOKER	m	Get dressed. We're going out.
+VICKI	f	I'm meeting Mr. Wayne. Is he here?
+MAITRE D'	m	No, but your table is ready.
+WAITER	m	Miss Vale, this just arrived for you.
+JOKER	m	Okay, boys, let's broaden our minds. I kinda like this one. Leave it.
+JOKER	m	I think it's safe to take that off. You're quite beautiful.
+VICKI	f	... Thank you.
+JOKER	m	Unfortunate, but I think we can work around it. You're Vicki Vale. I guess you know who
+VICKI	f	And you want a --
+JOKER	m	A visual record, yes. A before-and- after kind of thing. This could
+VICKI	f	Maybe we should start with a portrait of the artist. People might like to see the face behind the makeup.
+JOKER	m	...
+VICKI	f	I've seen worse.
+JOKER	m	Strong stomach, huh? I like that in a woman. -- Maybe we can do business after all.
+VOICE	m	Jack?
+JOKER	m	Christ, it's my
+ALICIA	f	You said I could look at the pictures before you -- before you --
+JOKER	m	Shucks, honey, I forgot.
+VICKI	f	... Why the mask?
+JOKER	m	Alicia! Come here, have a seat. Show Miss Vale why you wear the mask. You see, Miss Vale, Alicia's beautiful. One in a million. A work of
+VICKI	f	You SCUM! You SICK FILTH!... You DID THAT to her!
+JOKER	m	What? I
+VICKI	f	I'll see you
+JOKER	m	Miss Vale, was it something I said? Do you want to sniff my flower?
+VICKI	f	NO!
+JOKER	m	Come on, Miss Vale... STOP AND SMELL
+BATMAN	m	GET IN THE CAR!
+BATMAN	m	Ignition!
+COMPUTER	m	Ignition.
+JOKER	m	I WANT HIM!! I WANT HIM!!
+VICKI	f	Look! Police!
+BATMAN	m	I called them.
+VICKI	f	Shouldn't we --
+GOON	m	There they are! Dead ahead!
+JOKER	m	ALL UNITS! SOUTHBOUND ON RIVERVIEW!
+VICKI	f	What about her? What about the girl?
+BATMAN	m	He
+VICKI	f	Can't we --
+BATMAN	m	Too many people. Come on!
+COMPUTER	m	Shields.
+GOON AT WHEEL	m	Are they ours?
+JOKER	m	... I don't know. We'd better get out of here. Westbound on 36th. DO YOU COPY??
+GOON I	m	We got 'em!
+JOKER	m	Take 'em! I want his
+BATMAN	m	How much do you weigh?
+VICKI	f	... A hundred and eight?
+BATMAN	m	HANG ON!
+GOON I	m	...
+GOON II	m	Jesus.
+GOON III	m	Wait a minute.
+GOON IV	m	... What
+GOON III	m	Some kind of
+GOON I	m	He's human after all. -- Take that mask off.
+GOON I	m	Well?... Who is this guy?
+GOON II	m	I dunno. You seen him before?
+GOON III	m	Maybe he's got some kind of I.D.
+GOON IV	m	Good idea. Let's check his wallet.
+GOON I	m	We'll worry about it later. Plug him. In the head.
+GOON III	m	Goddam, it's the redhead!
+GOON II	m	Did you hit her?
+GOON I	m	Who cares? Wax that freak.
+BATMAN	m	... Not even a 'thank you'?
+VICKI	f	Well -- I think you might consider thanking
+BATMAN	m	That's because you lied about your weight. Thank you. I'll have to ask you for that film.
+VICKI	f	I just wanted to distract them. I wasn't trying to get a picture of
+BATMAN	m	Please.
+VICKI	f	I won't let you have it. I know you can break my neck and take it. But the Joker's on that same roll. I --
+BATMAN	m	The Joker is a murderer. And
+VICKI	f	Look, I appreciate what you did for me. But this is my job. And I'm keeping those pictures.
+BATMAN	m	All right, here's a compromise. I'll develop the photos. You keep the Jokers and I'll keep the rest.
+VICKI	f	How do I know you won't keep them all?
+BATMAN	m	Because I'll take you with me.
+VICKI	f	... Where are you going to take me?
+BATMAN	m	Shields open.
+COMPUTER	m	Shields open.
+BATMAN	m	Ignition.
+COMPUTER	m	Ignition.
+COP	m	There's somebody
+BATMAN	m	STOP!
+VICKI	f	... How long have I been out?
+BATMAN	m	Quite a while. I took the scenic route.
+VICKI	f	Well, I've certainly enjoyed it. What's that?
+BATMAN	m	Garage door.
+VICKI	f	I meant to ask you. Up on the roof -- how did you know my name? I'm serious. How did you know?
+VICKI	f	What is this stuff? Kevlar?
+BATMAN	m	Better. It's not on the market yet.
+VICKI	f	It doesn't protect your head, though.
+BATMAN	m	That's why I wear a target on my
+VICKI	f	How'd you find this place?
+BATMAN	m	Stumbled across it when I was a boy. They don't come down here. They're afraid of the lights.
+VICKI	f	I don't like bats. Not that kind.
+BATMAN	m	They used to terrify me. But I forced myself to keep coming back, and -- -- I guess I became the thing I feared the most. I'll do your photos now.
+VICKI	f	Who pays for all this?
+BATMAN	m	I have sponsors.
+VICKI	f	The computers?
+BATMAN	m	I'm running a check on the tainted products. There
+VICKI	f	No more makeup. -- Looks like we'll
+BATMAN	m	I've tracked all the records. Every shipment, every warehouse, every loading dock. Nothing. No opportunities for tampering. Somehow the Joker is supplying tainted ingredients... at the source.
+VICKI	f	Wait. You can just tap into any corporate database you want? Anywhere?
+BATMAN	m	Oh, no. I let the FBI do that. Then I tap into the FBI. -- Your photos are ready.
+VICKI	f	You could've killed him, you know. You could have killed the Joker.
+BATMAN	m	I had to save
+VICKI	f	... Bruce?
+BATMAN	m	Are you talking to me? Maybe we've had enough for one night. I'll take you home. Do you want to do it this time? Don't be afraid. I'm here.
+BRUCE	m	Vicki... ?
+BRUCE	m	Vicki, I've been thinking about you. I know it's late. I'm sorry. I -- Are you there?
+VICKI	f	Yes, Bruce -- I'm here --
+BRUCE	m	I'm sorry about the way things went between us. I'd very much like to see you again.
+VICKI	f	Well, Bruce... I don't think... that would be possible.
+BRUCE	m	I wish you'd reconsider. I didn't stand you up today. The museum was closed when I got there.
+VICKI	f	I, uh...
+BRUCE	m	Vicki? Vi --
+KNOX	m	Vicki, it all fits. The stuff you're telling me -- the car, the equipment --
+VICKI	f	I just can't --
+KNOX	m	The FBI. You know who's got the FBI computer contract? Wayne Technologies. The guy's bats all right. He's
+VICKI	f	But he's not.
+KNOX	m	Not what?
+VICKI	f	He's not crazy.
+KNOX	m	Vicki. We got a wealthy millionaire here... who dresses up like a bat. He goes out at night and swings around -- in his cape -- on a
+VICKI	f	Allie...
+KNOX	m	Gimme a break. If he wants to chat, he can talk to his
+VICKI	f	He has to tell someone. And I'm the one. He's trying to tell me.
+KNOX	m	Well, when he does you know my number.
+BRUCE	m	Don't sell. It won't last. We'll ride it out.
+WAILING COLLEAGUE	f	... a nine-million-dollar
+BRUCE	m	Vicki?... This is Batman. I thought I'd call and see how you're doing.
+VICKI	f	... I know it's you, Bruce. I'm not going to talk to you unless we can discuss it.
+BRUCE	m	Who's this "Bruce"? Are you trying to make me jealous?
+VICKI	f	I'm serious, Bruce. We have to --
+FINANCIER	m	Hi, Bruce.
+DENT	m	... We deal.
+ADVISER	m	Harvey, please. I mean -- If your first official act as D.A. is to cut a deal with a
+DENT	m	Screw that, Ed. We've got a market panic of national proportions. -- We've got 786 people
+POLITICO	m	Harvey's right. We've got the 300th anniversary gala coming up. The networks won't even send in a crew.
+ADVISER	m	Harvey, the police are working round the clock, the feds are coming in. This thing could break any minute now. Tell him, Jim.
+GORDON	m	Cut the deal.
+NEWS ANCHOR	m	... at City Hall, where the mayor is waiting to open negotiations with the clown-faced terrorist known as the Joker. It is now eight minutes past the appointed deadline, and still no word from --
+REPORTER I	m	Look at 'em sweat. Can't wait for the next Gallup Poll.
+REPORTER II	m	Hey Knox, cheer up. It ain't the Batman but it's pretty choice.
+JOKER	m	Joker here. Can we talk?
+MAYOR	m	"While this administration remains vehemently opposed to terrorism in any form, we are prepared to negotiate any reasonable demands which will guarantee the safety of the populace."
+JOKER	m	Huh.
+MAYOR	m	All right, all right. Here's the deal. Total amnesty... and the sum of ten million dollars, payable in --
+JOKER	m	Ten million dollars. Ten million dollars. Ten mi-- YOU CHEAPSKATES! I've just wiped out the
+MAYOR	m	No, wait, please! We'll talk. Just tell us what you
+JOKER	m	Goddammit, I expect to be treated like an ARTIST. GET OFF MY SCREEN!! I might just think up some demands. And I'm gonna talk to all my friends, and see what they want, too. And then maybe we'll get together -- have a little party -- exchange
+ALFRED	m	Yes?
+KNOX	m	Alexander Knox. Gotham
+ALFRED	m	Mr. Wayne is out for the day.
+KNOX	m	Actually, I wanted to talk to Batman. Pass that on to Mr. Wayne, would you?
+BRUCE	m	I've been expecting to hear from you.
+KNOX	m	Well, that's how it is, chum. She tells me everything.
+BRUCE	m	What is it you want?
+KNOX	m	Simple. You know the score. One column -- and I can bring all this tumbling down. I can take you off the streets once and for all. I want you to hang up the suit. And I want you to stay away from Vicki.
+BRUCE	m	I can't do that. Not while the Joker's still out there.
+KNOX	m	Then stay away from Vicki. That's all I want, man. I just want your word. See, I don't know how it happened -- she's a smart girl and you are an extraordinarily screwed-up guy -- but she's in love with you.
+BRUCE	m	There's something I don't understand. If you've got the story, why haven't you printed it?
+KNOX	m	Because I -- Because she'd never speak to me again. Come on, Bruce. Be straight. What have you got to offer? You gonna marry her? Batman and Mrs. Batman? Gimme a break, huh? Who's gonna be Best Rodent?
+BRUCE	m	Do you want a drink?
+KNOX	m	Yeah, a drink. "Civilized."  Man-to- man, right?
+BRUCE	m	Alfred, bring something for Mr. Knox. -- I'll have one too.
+VICKI	f	... So we just pretend none of this ever happened. We never met. We -- You're going to get yourself killed, Bruce. You know that, don't you?
+BRUCE	m	It wouldn't matter much.
+VICKI	f	I don't understand it. You can do so much good for people.
+BRUCE	m	Money makes money, Vicki. The foundation runs itself. -- I'm extraneous to the process.
+VICKI	f	You're one man. You can't save everybody.
+BRUCE	m	What it I could save a handful? -- What if I could save one?
+VICKI	f	Bruce, at the rate you're going, you can't even save yourself.
+BRUCE	m	Sometimes... I don't know if there's enough of me left to save.
+VICKI	f	Oh, God. I've got to have some coffee or
+BRUCE	m	Are you expecting anyone? Who's there?
+DELIVERY BOY	m	Package tor Miss Vale.
+BRUCE	m	Set it down by the door. On the left-hand side.
+VICKI	f	BRUCE!
+BRUCE	m	Very thoughtful. Don't touch it.
+VICKI	f	Oh, Bruce. Don't tell me you carry it
+BRUCE	m	I feel naked without it. Not a bomb. But it could be rigged. Wait in the next room.
+BRUCE	m	... They're
+VICKI	f	"It worked for Van Gogh. Let's make up. I'll need you soon." --
+BRUCE	m	That does it. It's going to be this weekend.
+ALICIA	f	I thought you ought to know -- he's coming for you...
+BRUCE	m	Keep her on the line!
+VICKI	f	... Where are you calling from?
+VICKI	f	I'm sorry, she hung up. What are --
+BRUCE	m	Finding out where she is.
+VICKI	f	How can you do that if she's already off the line?
+BRUCE	m	I've had an automatic tracer on this number ever since he tracked you to the museum.
+BRUCE	m	Got it!
+VICKI	f	What now!
+BRUCE	m	Hang on. I have to leave a message.
+THUG I	m	Hi, Miss Vale. Let's not put up a fight, huh? 'Cause we'd hate to have to --
+BRUCE	m	There's a garage in this building? I've got to take him out now. Pick an apartment and
+BRUCE	m	Oh, hell!
+GOON	m	Hey, boss, something's up. The elevator's working.
+JOKER	m	DAMMIT! You can't get good help these days. -- Let's move out.
+JOKER	m	Slow down, you
+DRIVER	m	Boss! Jesus! They've --
+JOKER	m	They'll be sorry.
+JOKER	m	MOVE! Can't you
+DRIVER	m	It's some kind of detour. They're backed up for blocks!
+JOKER	m	Oh my God. How does he
+EMCEE	m	-- the most spectacular, most death- defying aerial stunt ever devised. Tonight -- for the first time anywhere -- THE FLYING GRAYSONS!
+PILOT	m	Ready to go, Dick?
+DICK	m	What's all the ruckus down there?
+JOKER	m	Head for the truck!
+JOKER	m	I
+DICK	m	NO! NOOOOOOOO!!!!
+DICK	m	LET ME GO! LET ME --
+JOKER	m	Like your boyfriend. He's kinda
+BATMAN	m	Take me. Let the boy go.
+JOKER	m	Gosh, I could kill you, but then you'd miss my
+BATMAN	m	What are you talking about?
+JOKER	m	Batman! Don't you even recognize your old pal Jack? After all...  You
+DICK	m	HE KILLED MY PARENTS! HE KILLED
+REPORTER	m	... on a tip attributed to the mysterious Batman. The apartment was booby-trapped with the Joker's laughing gas, leaving 17 policemen dead. Also found dead at the scene was Alicia Hunt, 26, a former model --
+DICK	m	... Where am I?
+BRUCE	m	My name is Bruce Wayne. You're welcome to stay here as long as you want.
+DENT	m	We'll send a team into Ace the moment the warrant comes through.
+BRUCE	m	He'll be ready when you do. Remember what happened at the apartment.
+DENT	m	All right, Bruce, what do you suggest?
+BRUCE	m	I suggest a nice big
+DENT	m	Good. A bomb. On a blind tip from Bruce Wayne. -- We
+BRUCE	m	Then for God's sake, Harvey, cancel the anniversary celebration.
+DENT	m	We've
+BRUCE	m	Do you still think the Joker cares about
+DENT	m	I don't know. I'm just a D.A. I don't have access to all
+DICK	m	... Your butler wouldn't gimme a ride so I figured I'd hoof it.
+BRUCE	m	Sorry. I can't let you leave.
+DICK	m	You can't keep me here, man. That's kidnapping.
+BRUCE	m	If I let you leave, you'll do the same thing again. You'll go after the Joker... and you'll wind up dead.
+BRUCE	m	I don't care what's in your mind. You're staying.
+DICK	m	... You're
+ALFRED	m	FREEZE!
+BRUCE	m	It's all right, Alfred. Everything's under control.
+ALFRED	m	... Very good, sir.
+JOKER	m	Thankya, thankya. Ladies and germs, I'm here to tell you... we have had one
+JOKER	m	Look at that, folks. We got 'em
+BRUCE	m	All this apparatus, Vicki... this house, and the money, and the power... it was never mine. It was something I inherited. Bruce Wayne was something I inherited. All I ever hoped for was someone who could see through Bruce -- who could see
+VICKI	f	I'm not frightened of you, Bruce. I'm frightened
+BRUCE	m	In all these years... why couldn't I see how it would turn out?
+BRUCE	m	Where's the boy?
+ALFRED	m	Upstairs. He's quite docile.
+BRUCE	m	I know that feeling. It won't last. He's a long way ahead of where I was at his age. I want you to treat him just as if he were me. Promise.
+ALFRED	m	Yes, sir.
+BRUCE	m	He'll be taken care of financially. Beyond that... you know what to do. Don't let all this go to waste. Alfred? -- Thank you.
+DISPATCHER	m	Boston, Philly: loading bay one.
+COMPUTER	m	... Detonate.
+GOVERNOR GILROY	m	As Governor of this great state, it is now my honor to unveil for you a very special lady -- a lady who stands tall for life and liberty -- America's
+JOKER	m	HAPPY BIRTHDAY, Gotham. Here's a little token of my esteem. HAVE FUN... 'cause THE PARTY'S ON ME!
+KNOX	m	VICKI!
+VICKI	f	Yeah.
+KNOX	m	What do you say? Let's head for the lights.
+KNOX	m	So much for Underdog.
+VICKI	f	ALLIE!! THE WINDOWS!!
+KNOX	m	WHAT HAPPENED?!?
+VICKI	f	Oh my God.
+KNOX	m	Jesus Christ, the guy's a genius.
+VICKI	f	LOOK! IT'S BRUCE!!
+KNOX	m	Great.
+KNOX	m	GIMME A HAND UP HERE!
+JOKER	m	No... NOOOOO!!!
+JOKER	m	There.
+KNOX	m	GET THE CAR!
+KNOX	m	HOLY SHIT!!
+VICKI	f	You okay?
+KNOX	m	Yeah. Yeah. Little winded. DID YOU
+VICKI	f	God
+KNOX	m	Holy
+VICKI	f	ALLIE!!
+KNOX	m	Jesus, Vicki.
+JOKER	m	He'll be back... he'll be back!!
+VOICE	m	Yo.
+DICK	m	HEY! COME ON!
+DICK	m	Now we're even, huh? Even up.
+BATMAN	m	How did you...
+DICK	m	I
+BATMAN	m	The Joker. Is he --?
+DICK	m	Forget it. Relax. ... He's
+BATMAN	m	DICK!
+JOKER	m	Gotham cathedral. Come and get me.
+JOKER	m	I'm in the belltower. Don't land.
+PILOT	m	E.T.A. two minutes. Hang on.
+JOKER	m	... Batman? Batman? Batman? I thought you'd be more comfortable here in the belfry. Before I kill you I'd like to see who you are. Would that be okay? Oh my, aren't we pretty. I know you! You're the rich boy!! My goodness, what in the world made you
+BATMAN	m	Mad... man...
+JOKER	m	Well now, you're not exactly the picture of mental health, are you.
+BATMAN	m	... Murderer...
+JOKER	m	Bruce, we're both murderers. Think how many people you've killed by letting me live. I have to do it now, Bruce, but it won't even hurt. Now relax. The bat's in his belfry, all's right with the world...  Why,
+BRUCE	m	No... sense... of humor?
+CO-PILOT	m	PULL UP!! PULL --
+ANCHORWOMAN	f	As the details of the Joker's heinous plan become known, a city's gratitude goes out to the mysterious Batman. His whereabouts remain unknown, but Batman -- if you're alive -- if you're listening -- thank you.
+VICKI	f	I loved you too.
+ALFRED	m	No, Mr. Wayne is in Thailand. I'm afraid he's quite unreachable.
+VICKI	f	I don't know why I'm doing this. I half wish you'd stay a cripple.
+BRUCE	m	Ohhhh... you don't mean that.
+VICKI	f	I don't, but... I
+BRUCE	m	Vicki. Do you love half of me? Or all of me?
+VICKI	f	I guess you did it, didn't you. You saved everyone. Almost.
+BRUCE	m	I don't know how to explain this so it makes sense... but
+

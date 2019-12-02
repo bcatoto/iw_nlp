@@ -1,0 +1,499 @@
+PLAIN-CLOTHES DETECTIVE	m	Wait Outside please.
+POLICE OFFICER	m	(to the superintendent, pointing to a pile of mail) What's the date of the last letter?
+SUPERINTENDENT	?	The 16th from what I can see... Wait...
+PLAIN-CLOTHES DETECTIVE	m	(to the fire officer) Can you try?
+JANITOR	m	...no as far as I know. During the whole time, they had a nurse, but it's been a while since I last saw her. My wife has been...
+PLAIN-CLOTHES DETECTIVE	m	(to the firemen who are now curious enough to come and stand by the
+DOOR)	?	Did you open the windows?
+GEORGES	m	They used a screwdriver or something like that...it doesn't look very professional...
+ANNE	f	But who would do something like that?
+GEORGES	m	No idea. Why do people break in? Because they want to steal something.
+ANNE	f	From us?
+GEORGES	m	(laughs briefly out loud) Hey, why not? If I thought about it, I could come up with at least three or four people we know who've been burgled.
+ANNE	f	What time is it? Can't we call the superintendent?
+GEORGES	m	I'll do that tomorrow morning. Anyway, they didn't see anything.
+GEORGES	m	Don't let it spoil your good mood now.
+ANNE	f	Or the police?
+GEORGES	m	Come on, give me your coat.
+ANNE	f	Imagine if we were here, in our beds, and someone broke in.
+GEORGES	m	Why should I imagine that?
+ANNE	f	But it's terrible! I think I'd die of fright.
+GEORGES	m	So would I.
+GEORGES	m	Shall we have a drink?
+ANNE	f	I'm tired.
+GEORGES	m	I still fancy a drink.
+GEORGES	m	They must have been professionals.
+GEORGES	m	Did I tell you, you looked good tonight? What's got into you?
+ANNE	f	Weren't those semiquavers in the presto incredible? What staccato! Don't you agree?
+GEORGES	m	Something wrong?
+ANNE	f	No.
+GEORGES	m	(on the phone) What about next week? No but still, it would make sense to get it done soon. It might give people silly ideas. And anyway, it's too ugly to look at... Wednesday? What time? OK... Will you bring the paint with you too, to paint over it? But at least some primer...Yes, OK. Thank you.
+GEORGES	m	You can depend on that guy.
+ANNE	f	(who comes back to the table with the egg) I hope so. The last time, he kept us waiting for ages, if you remember.
+GEORGES	m	(laughs while acquiescing) Yes, that's true. (Reacting when she places the egg in his egg cup) Thanks. If I call a regular professional, we'll still be waiting two months time.
+ANNE	f	(more to herself) Really?
+GEORGES	m	The Frodons waited three days when their toilet was blocked. Not exactly pleasant.
+GEORGES	m	The saltcellar is empty.
+GEORGES	m	I don't know if he's going to bring us the CD. Maybe he won't come at all. In any case, he didn't mention it. I'd like to buy it. It was really good and I don't want to wait long for it. We could go to Virgin this afternoon and buy it. What do you say?
+GEORGES	m	Hmmm? Anne? What's the matter?
+GEORGES	m	What's going on? What's the matter?
+GEORGES	m	Helllloooo!!! Cuckoo!!! I'm here!
+GEORGES	m	(serious now) Anne! What's going on?
+GEORGES	m	Anne, what's the matter?
+GEORGES	m	Anne...what's...
+GEORGES	m	Anne...
+GEORGES	m	(close to tears) Anne...Darling...please!
+GEORGES	m	Anne?
+ANNE	f	What are you doing?
+ANNE	f	You left the water running.
+GEORGES	m	(both aghast and furious) Hey, what's going on? Are you completely crazy? Is this supposed to be a joke, or what's going on?
+ANNE	f	What did you say?
+GEORGES	m	Is this a joke? Is this meant to be a joke?
+ANNE	f	What joke? I don't get it! Why are you talking to me like that? What's got into you?
+GEORGES	m	Anne! Please! Stop this game. It's not funny.
+ANNE	f	What game, for Christ's sake? What on earth's the matter?!!
+GEORGES	m	What's the matter? Why didn't you react?
+ANNE	f	To what?
+GEORGES	m	To what? To me, to everything.
+ANNE	f	When?
+GEORGES	m	Just now. A moment ago.
+ANNE	f	Please tell me what's wrong. What am I supposed to have done?
+GEORGES	m	I don't know what to say. Do you really not know what just happened?
+ANNE	f	But what DID happen?
+GEORGES	m	(almost reluctantly bowing his head as he speaks) You were sitting there, staring at me. You didn't answer me when I asked you what the matter was.
+GEORGES	m	I put this tea towel on your face, and you didn't react.
+GEORGES	m	Look... There's still dampness on your collar.
+ANNE	f	When... When was it?
+GEORGES	m	Just now, a few minutes ago.
+ANNE	f	So...??
+GEORGES	m	There's no "So". I went into the bedroom to get dressed. I wanted to get help.
+ANNE	f	Help?
+GEORGES	m	Yes, and then you turned off the tap.
+ANNE	f	Yes. Because you left it on.
+ANNE	f	I don't understand.
+GEORGES	m	Neither do I.
+GEORGES	m	Don't you think it's best if I call Dr. Bertier?
+ANNE	f	Why? What can he do?
+GEORGES	m	I don't know. Examine you.
+ANNE	f	I'm fine. There's nothing wrong with me.
+GEORGES	m	Anne, please!! That's absurd. We can't pretend that nothing happened.
+ANNE	f	But what DID happen?
+ANNE	f	I'm here. I'm having my breakfast, and you're telling me things happened that I don't understand.
+GEORGES	m	Can you explain how the tea towel got there?
+ANNE	f	No, I can't!
+GEORGES	m	Who turned on the tap?
+ANNE	f	You did!
+GEORGES	m	Can you remember that?
+ANNE	f	(more and more desperate, close to tears) No I can't! Do you want to torture me? Leave me in peace!
+GEORGES	m	Don't you think it would be better to fetch Dr. Bertier?
+ANNE	f	No!
+EVA	f	You know how he is. Once he's got something into his head, he has to go through with it. In the end, everybody was delighted. And besides, it didn't hurt our financial situation. We're playing until the 28th.
+EVA	f	Then we have 10 days to rest, then we go to Stockholm for four days, and then to Kumo in Finland. Heaven knows where that is. At the North Pole. But Geoff's already been there few times, and he loves it. We're playing the "Dowland Transcriptions" there and then we're back in London.
+GEORGES	m	What about the children?
+EVA	f	Liz is at boarding school and John is living his own life. He's twenty- six years old.
+GEORGES	m	What does he do?
+EVA	f	He's a student. We rarely see him. He's got his own ideas. Life Geoff. They don't really get along. Geoff wants to advise him on everything, and John doesn't like that at all.
+GEORGES	m	Is he good?
+EVA	f	I think so. He's less impulsive. Very industrious.
+GEORGES	m	That sounds rather derogatory.
+EVA	f	No!! He's not like Geoff. Quiet, but stubborn. I think he'll do all right. At the last Conservatory concert, he played the solo part in the Haydn Concerto. It was very good. Geoff was there and congratulated him at the end.
+GEORGES	m	And you?
+EVA	f	What do you mean?
+GEORGES	m	Did you both make up?
+EVA	f	(with a little laugh) My God, you know him, don't you? Over the winter, he suddenly discovered his passion for a viola player who'd been in our ensemble for years. What can I tell you? It was a huge drama, and the poor little darling wound up trying to commit suicide. That scared him and he came back to me in full remorse. I've got used to it now. What's a bit embarrassing is that the ensemble, you can't keep any secrets from anyone.
+GEORGES	m	Do you love him?
+EVA	f	Yes, I think so.
+EVA	f	What's aphasia?
+GEORGES	m	What can I say? The carotid artery was blocked. They did an ultrasound scan, two in fact, and they said they had to operate on her. She was scared. She was confused and scared. You know she has always been afraid of doctors. They said the risk was very low and that if they didn't operate, she'd be certain to have a serious stroke.
+EVA	f	And what do they say now?
+GEORGES	m	Just that it didn't go well. It's one of the 5% that go wrong.
+GEORGES	m	It's pretty upsetting.
+GEORGES	m	Usually at this time, I take a nap. My blood sugar is somewhere down in my socks.
+EVA	f	I'm so sorry.
+GEORGES	m	Yeah.
+EVA	f	What can I do for you?
+GEORGES	m	Nothing. It was nice of you to come despite all of your stress.
+GEORGES	m	No, really. There's nothing you can do. We'll see how things go when she's back here in the apartment. We'll manage. Maybe I'll get a caretaker in, or maybe I'll manage on my own. We'll see. We've been through quite a lot in our time, your mother and I. All this is still a bit new.
+EVA	f	(with a little laugh) It's funny. I don't know if I should say it. Maybe it'll embarrass you. But when I came here a short while ago, I suddenly remembered how I always used to listen to the two of you making love when I was little.
+EVA	f	For me, at the time, it was reassuring. It gave me a feeling that you loved each other, and that we'd always be together.
+GEORGES	m	Here. Thank you very much. It's for both of you. You can just put the things down here. There, beside the window, right. We'll be okay on our own. Thanks a lot.
+GEORGES	m	(to the superintendent) Thank you, Mr. Mery.
+SUPERINTENDENT	?	If you need anything, just call downstairs. If we can help at all...
+GEORGES	m	Right now everything's fine. I'll let your wife know as soon as we need anything.
+SUPERINTENDENT	?	It's nice to have you back, Mrs. Laurent.
+ANNE	f	Yes. Thank you, Mr. Mery. Thank you.
+ANNE	f	Yes, thanks.
+SUPERINTENDENT	?	Yes... So... Goodbye then, ma'am. Welcome home again. Goodbye, Sir.
+GEORGES	m	Goodbye, Mr. Mery.
+SUPERINTENDENT	?	Goodbye.
+GEORGES	m	(with a nervous smile) Where do you want...
+ANNE	f	In the living room.
+GEORGES	m	Shall I make some tea?
+ANNE	f	(with a faint smile) First come sit with me.
+ANNE	f	Can you help me into the chair?
+GEORGES	m	Of course.
+ANNE	f	It's best if you put my arm around your neck and your right arm around me, that way it'll be easy.
+ANNE	f	Thanks.
+GEORGES	m	(softly almost to himself) I'm glad you're back.
+ANNE	f	(in a voice just as soft) Me too.
+ANNE	f	Promise me one thing.
+GEORGES	m	What?
+ANNE	f	Please never take me back to the hospital.
+GEORGES	m	What?
+ANNE	f	You promise?
+GEORGES	m	Anne...
+ANNE	f	You promise?
+GEORGES	m	Anne, I...
+ANNE	f	Don't talk right now. And don't give me any lectures. Please.
+GEORGES	m	What can I say, it's...
+ANNE	f	Nothing. Just don't say anything.
+GEORGES	m	There.
+ANNE	f	Thank you. Thank you, Darling.
+GEORGES	m	Everything OK?
+ANNE	f	Everything's fine.
+ANNE	f	You don't have to hold my hand all the time now. I can look after myself, you know.
+ANNE	f	And don't feel guilty. That would be pointless. And a drag. For me too.
+GEORGES	m	I don't feel guilty.
+ANNE	f	That's good.
+ANNE	f	Go over there now. I'm not a cripple. You can easily leave me alone for two minutes. I won't collapse.
+GEORGES	m	(with a slight smile)
+ANNE	f	Did you buy the new book on Harnoncourt?
+GEORGES	m	I've already read it.
+ANNE	f	And?
+GEORGES	m	Do you want it? I'll get it for you.
+ANNE	f	Sure.
+ANNE	f	Don't worry. It isn't that important.
+GEORGES	m	I thought I'd left it over there in the other room, but I'd already put it away. Tidy people just can't help being tidy.
+ANNE	f	(taking the book) Thanks.
+ANNE	f	Right now, take care of yourself. And don't wait to see how I hold the book in my hand, OK?
+GEORGES	m	OK.
+SUPERINTENDANT'S WIFE	f	Unfortunately the strawberries were already moldy. I'll go and get you some fresh ones tomorrow from the market. My husband will bring you the bottled water this afternoon. I'm not supposed to carry anything heavy: my back, you know...
+GEORGES	m	Sure, no problem.
+SUPERINTENDENT'S WIFE	f	It came to 76 euros and 40 cents. There's the till receipt and here's your change: 23 euros 60.
+GEORGES	m	Thank you very much. Keep the change. Thanks.
+SUPERINTENDENT'S WIFE	f	Thank you, sir.
+GEORGES	m	Yes. I will.
+SUPERINTENDENT'S WIFE	f	Is your wife well? ...
+GEORGES	m	Yes, she's OK. She's recovering.
+SUPERINTENDENT'S WIFE	f	Fine. Give her my regards. My husband and I are very glad she's back.
+GEORGES	m	Yes, we are too. Bye, Mrs. M�ry, thanks so much.
+SUPERINTENDENT'S WIFE	f	Goodbye, sir.
+GEORGES	m	... some banal romance or other about a nobleman and a lower middle- class girl who couldn't have each other and who then, out of sheer magnanimity, decide to renounce their love - in fact I don't quite remember it any more. In any case, afterwards I was thoroughly distraught, and it took me a bit of time to calm down. In the courtyard of the house where grandma lived, there was a young guy at the window who asked me where I'd been. He was a couple of years older than me, a braggart who of course really impressed me. "To the movies", I said, because I was proud that my grandma had given me the money to go all alone to the cinema.
+GEORGES	m	"What did you see?" I started to tell him the story of the movie, and as I did, all the emotion came back. I didn't want to cry in front of the boy, but it was impossible; there I was, crying out loud in the courtyard, and I told him the whole drama to the bitter end.
+ANNE	f	So? How did he react?
+GEORGES	m	No idea. He probably found it amusing. I don't remember. I don't remember the film either. But I remember the feeling. That I was ashamed of crying, but that telling him the story made all my feelings and tears come back, almost more powerfully than when I was actually watching the film, and that I just couldn't stop.
+ANNE	f	That's cute. Why didn't you ever tell me before?
+GEORGES	m	There are still a few stories you don't know.
+ANNE	f	Aha...? Don't tell me you're going to ruin your image in your old age?
+GEORGES	m	You bet I won't. But what is my image?
+ANNE	f	Sometimes you're a rotter. But you're nice.
+GEORGES	m	Can I take you for a drink?
+ANNE	f	Listen to this! My horoscope. Motto: You have lots of verve, but need to be more serious! Love: High-class conversation is what you need. Work: You're motivated again. But proceed with care. Health: Loosen up by doing exercises. It'll give you renewed pizzazz.
+GEORGES	m	You've only yourself to blame if you read stuff like that.
+GEORGES	m	Tomorrow afternoon is Pierre's funeral.
+ANNE	f	You have to go.
+GEORGES	m	I fear I must. I don't want to go at all.
+ANNE	f	Who does like going to funerals?
+GEORGES	m	Oh, I know a few people who do. Annette can never wait to get all dolled up again. And Fran�ois has...
+ANNE	f	You're mean. What would you say if no one came to your funeral?
+GEORGES	m	(dryly) Nothing, presumably.
+ANNE	f	Have you talked to Jeanne since I was in the hospital? I mean, does she know I can't come?
+GEORGES	m	Of course.
+ANNE	f	What did she say?
+GEORGES	m	She was shocked.
+ANNE	f	How?
+GEORGES	m	(a bit irritated) My God, what are people like when they're shocked? She couldn't believe it, she was speechless. I don't remember any more. In any case, not exactly. I've spoken to a lot of people since.
+ANNE	f	Sorry.
+GEORGES	m	No, I'm sorry. I didn't mean to be unkind, but I just don't see the point of talking about it all the time.
+ANNE	f	Do I talk about it all the time?
+GEORGES	m	No. Sorry.
+ANNE	f	Don't worry.
+GEORGES	m	What ... ?!
+ANNE	f	(once she's seated in the
+WHEELCHAIR)	?	Why are you back already? What time is it?
+ANNE	f	Forgive me, I was too slow.
+GEORGES	m	Anne...
+ANNE	f	Can you wheel me into the living room?
+GEORGES	m	Yes.
+GEORGES	m	You're always good at surprises.
+ANNE	f	Yes. Why are you home earlier?
+GEORGES	m	I didn't come home earlier. I took a taxi. In August, there isn't a lot of traffic.
+ANNE	f	That's true. How was the funeral?
+GEORGES	m	Anne...!
+ANNE	f	How was it, go on, tell me!
+GEORGES	m	It was rather bizarre. The priest was an idiot. Then one of Pierre's co-workers made a speech that was embarrassingly emotional. His old secretary came with a radio- cassette player and after the speech she put on "Yesterday" by the Beatles. You can't imagine. Everybody turned round to look at her. Apparently, it wasn't planned. His grandchildren were there. Of course they giggled as soon as the music began. Then the urn was put on a huge stretcher that was obviously designed for a coffin, and out we went into the rain. They placed the urn on a small electric cart that crawled along for what seemed like an eternity to the tiny hole they had dug. A lot of people had to stifle their laughter. It must have been terrible for Jeanne. I have...
+ANNE	f	There's just no point in going on living. I know it can only get worse. Why should I inflict it on us? On you and me.
+GEORGES	m	You're not inflicting anything on me.
+ANNE	f	You don't have to lie, Georges.
+GEORGES	m	Imagine you were me. Didn't you ever think something like this could happen to one of us?
+ANNE	f	Of course I did. But imagination and reality have little in common.
+GEORGES	m	But things are getting better every day. We'll...
+ANNE	f	Georges, I don't want to carry on. You're making such efforts to make everything easier for me. But I don't want to go on. For my own sake. Not yours.
+GEORGES	m	I don't believe you. I know you. You think you're a burden on me. But what if things were the other way around? What would you do then?
+ANNE	f	I don't know. I can't be bothered to think about being you. I'm tired. You tire me. Everything tires me. I can't talk. I want to go to bed.
+GEORGES	m	(somewhat perplexed, but pleased) Oh hello! Nice to see you.
+SOLOIST	m	Forgive me for dropping in on you like this, Professor. I tried to reach you by phone a couple of times, but no luck.
+GEORGES	m	I'm sorry. I only pick up the phone when I've stored the caller's number and I can see who's calling. Why didn't you leave a message? Anyway, do come in...
+SOLOIST	m	I just couldn't manage to come by after the concert. I was so sorry, because I was so pleased you came along.
+GEORGES	m	Come with me.
+SOLOIST	m	... And now, an unexpected opportunity has arisen because Fran�ois Mitry called me - you know him, he's my agent - to say he'd arranged for me to meet the boss of the Th��tre des Champs-Elys�es tonight to talk about their new concert series.
+SOLOIST	m	So I flew to Paris this morning, and while I was in my hotel, I thought, I'll just give it a try and drop in. After all, it's virtually just around the corner.
+SOLOIST	m	Isn't she at home?
+GEORGES	m	Yes, she is. I'll go and get her in a minute. Have a seat.
+SOLOIST	m	I hope I'm not disturbing you too much.
+GEORGES	m	No, not at all. I'm happy that you came. We were so thrilled by your concert. We hoped we'd see you again soon. Please do have a seat. Can I can get you something? A cup of tea?
+SOLOIST	m	No, no, thank you very much.
+GEORGES	m	Hold on, I'll just freshen up the flowers; in this heat they wilt so fast...
+SOLOIST	m	I've only just bought them. They should keep quite...
+ANNE	f	Martin! What a delight. How lovely to see you!
+SOLOIST	m	Mrs. Laurent! Lovely to see you too.
+ANNE	f	Don't get up. Come on, sit yourself down and don't look so shocked.
+ANNE	f	I'm so proud of you. We were both in raptures after your concert. Georges wanted to buy your new CD the very next morning.
+SOLOIST	m	Oh God! I wanted to bring you the CD, but I left in such a hurry that I forgot it. I'm so sorry. I'll get one today and drop it by.
+ANNE	f	No, no, don't worry. We want to make a contribution to your success. Even if it's only twenty euros.
+SOLOIST	m	You've already contributed so much. I owe you so much, Madame.
+ANNE	f	You owe it to your hard work and your talent.
+SOLOIST	m	(shaking his head a little) Do you remember, when you first gave me the Bagatelles to play? I was twelve at the time, and in my youthful arrogance I said: "But why the Bagatelles?" And you really gave me a piece of your mind.
+SOLOIST	m	So what happened?
+ANNE	f	My right side is paralyzed, that's all. It can happen when you get older.
+SOLOIST	m	And how...?
+ANNE	f	Let's talk about something else, shall we?
+SOLOIST	m	Sure ...
+ANNE	f	Don't be offended. But I want to enjoy the lovely interlude you've given us with your visit.
+SOLOIST	m	Of course.
+GEORGES	m	You haven't told us yet what's been going on since the Paris concert.
+SOLOIST	m	Well, actually I've spent most of the time in London studying. Then I went to Copenhagen for two performances, that was Schubert too. My whole life revolves around Schubert at the moment. The concerts with the Impromptus and the Moments Musicaux, and for my bread-and-butter work I'm developing the sonatas. Not the late ones, I think I still need a couple more years for those.
+ANNE	f	Could you do me a favor?
+SOLOIST	m	Really?
+ANNE	f	Would you play F�r Elise?
+SOLOIST	m	Um, I don't know if I remember it very well. Beethoven, it's been a long time since I've... But if you want...
+ANNE	f	Give it a try.
+SOLOIST	m	OK.
+ANNE	f	What's the matter?
+GEORGES	m	(shocked, and hence furious) Good God, what are you doing?
+GEORGES	m	Have you lost your senses?! I don't believe it! How stupid!
+GEORGES	m	Look at that! Did you need to do that? Can't you call me when you need something?
+ANNE	f	(meekly) I'm sorry.
+GEORGES	m	Yes, so am I.
+ANNE	f	Sorry.
+GEORGES	m	The lamp is broken too.
+GEORGES	m	Yes? Who's there?
+ANNE	f	Georges? What's going on? Who is it?
+ANNE	f	Georges? What's going on?
+ANNE'S VOICE:	f	Georges, what's going on?
+ANNE'S VOICE	f	Calm down will you! There's nothing there. It's nothing.
+ANNE	f	What was it?
+GEORGES	m	(still with labored breathing) I didn't understand... I thought I'd gone mad... It was something impossible...
+ANNE	f	What was?
+GEORGES	m	Eva. They're coming on the 12th.
+ANNE	f	Why?
+GEORGES	m	No idea. Apparently she's coming with Geoff.
+ANNE	f	When is it?
+GEORGES	m	I don't know exactly. What day is it today? I'll go and look.
+ANNE	f	I don't want that.
+GEORGES	m	What?
+ANNE	f	Geoff doesn't need to come.
+ANNE	f	I don't need any comments on my predicament. I can only take his British humor in small doses.
+GEORGES	m	Dear Madame Laurent, Dear Monsieur Laurent, it was beautiful and yet sad to see you. My heartfelt wishes that things will get better. With deep gratitude, your former pupil, Martin.
+ANNE	f	Stop the CD.
+ANNE	f	Where are the family albums?
+GEORGES	m	The family albums? I don't know, there, in the other room. Why?
+ANNE	f	Can you get them for me?
+GEORGES	m	What, now?
+GEORGES	m	Why, Anne?
+ANNE	f	I'd like to look at them.
+ANNE	f	Please!
+ANNE	f	Thanks.
+GEORGES	m	(a bit irritated) You're welcome.
+ANNE	f	That's nice.
+GEORGES	m	(self-consciously, softly) What?
+ANNE	f	Life...so long... What a long life...
+ANNE	f	Stop watching me.
+GEORGES	m	(caught in the act) I wasn't watching you.
+ANNE	f	Of course you were. I'm not that dumb yet.
+GEORGES	m	You're soaked through.
+ANNE	f	What do you mean?
+GEORGES	m	Hold on.
+GEORGES	m	I'll be right back.
+GEORGES	m	It's no big deal. Come on.
+GEORGES	m	Come on, darling. It's nothing serious. Things like that happen..
+ANNE	f	I can't... take it any more.
+GEORGES	m	My love. My darling.
+EVA	f	... thinking about whether it wouldn't be better to invest the money in an apartment block. If inflation gets going again, property is the only sure thing. Right now, savings accounts pay 1.75% at best. Four years ago, Geoff bought some stocks with a small sum of money and the whole thing collapsed. So now we're obviously worried. Unfortunately, in the meantime, other people have had the same idea, and property prices are going through the roof. Since we came back from Scandinavia, I spend all my spare time looking through newspaper ads.
+EVA	f	It takes time, that's all. We'll find something in the end.
+ANNE	f	(slowly) Yes yes I have... I have... the grandmother... woman with house... not... the house then ... money
+EVA	f	I don't understand you, I'm afraid.
+ANNE	f	... yes... now... it's all... house sel... sel... sel... was... in two strokes of... so quickly... god it's hard... to say... sell... money gone... left... there too...
+GEORGES	m	... three times a week... I'm not experienced enough. We'll see if that's enough.
+GEOFF	m	How much is she asking?
+GEORGES	m	It's paid by the hour. We'll see.
+GEOFF	m	And her?
+GEORGES	m	Anne?
+GEORGES	m	It's hard to say. Sometimes I get the feeling she's totally unaware of the state she's in. And then I feel the opposite. It's... I don't know.
+GEOFF	m	And what about the doctor? What does he say?
+GEORGES	m	He's...
+EVA	f	She only talks gibberish. I don't know what...
+GEOFF	m	Hey, dear...
+GEOFF	m	...come here, sit down, it's OK.
+EVA	f	Nothing is OK.
+EVA	f	What's going on, actually? You can't just leave her lying on her bed like that! She's unrecognizable! It's ridiculous!
+GEORGES	m	We can't do anything for the moment. Calm down, darling. She's getting medical treatment, they give her the necessary medication, and there are no other options right now.
+EVA	f	What does that mean, "no other options"? Why isn't she in a hospital?
+GEORGES	m	She had a second stroke. Bertier examined her and felt we could spare her all the hospital inpatient procedures.
+GEORGES	m	Anyway, they wouldn't keep her, they'd send her to a care home. What they do in those places, we can do here.
+GEORGES	m	And she won't be put in a care home. I promised her that.
+GEOFF	m	Don't you think you're taking on too much?
+GEORGES	m	Have you got a better idea?
+EVA	f	I can't believe that these days there's no way of handling this efficiently.
+GEORGES	m	No one's stopping you from finding out.
+GEORGES	m	Believe me, I love your mother as much as you do. So please, don't treat me as if I was a total idiot incapable of doing the obvious.
+EVA	f	I didn't say that. I'm simply questioning whether what I see going on here is the answer to everything!
+GEOFF	m	Don't you want to get a second opinion?
+GEORGES	m	Now you two had better stop, OK? Another doctor did come. He said Bertier was right. From Monday, a nurse will come three times a week. Now can we talk about something else?
+EVA	f	Like what?
+GEORGES	m	There, my love, I hope you like it.
+ANNE	f	OK...
+GEORGES	m	I added a little orange juice. I find it tastes quite good.
+GEORGES	m	Come on, Anne, you have to eat some more. You've only swallowed three mouthfuls.
+GEORGES	m	Please, darling. A bit more.
+ANNE	f	...Mom to the concert...
+GEORGES	m	Yes?
+ANNE	f	...Mom to the concert... no dress...
+GEORGES	m	Mom has no dress for the concert?
+ANNE	f	...Mom to concert... no ... uuu... no...
+GEORGES	m	Yes?
+ANNE	f	(in a monotone) Help! Help! Help! Help! Help! Help!...
+NURSE	f	... we could take turns. She'd come from 8 till 12 and I'd do 2 until 6, or 3 to 7. That would certainly relieve the pressure on you.
+GEORGES	m	I'll think about it.
+NURSE	f	She just has to know in time so she can arrange it in her schedule.
+GEORGES	m	Yes, of course, I'll let you know in the next few days.
+NURSE	f	Very well. I have to go now...
+NURSE	f	Thanks for the coffee.
+GEORGES	m	My pleasure. I'll see you out.
+NURSE	f	You mustn't take it too seriously. Usually they always say something. She might just as well say "Mom, Mom, Mom". It's just mechanical.
+GEORGES	m	(nodding, softly) I know.
+NURSE	f	Goodbye, sir.
+GEORGES	m	Goodbye.
+GEORGES	m	(slowly, softly) I'd like to hire a second nurse. The two could take turns. That would make everything a bit simpler. What do you think?
+ANNE	f	(softly) ...Help...Help...
+GEORGES	m	Would you mind putting them in the kitchen.
+GEORGES	m	I'm ba-aack!
+GEORGES	m	Thanks very much.
+SUPERINTENDENT	?	Can I do anything else for you, sir?
+GEORGES	m	No, thanks, Mr. M�ry. You've been a big help.
+SUPERINTENDENT	?	Oh, it's nothing, sir.
+SUPERINTENDENT	?	Thanks a lot, sir.
+GEORGES	m	I'll let you know if I need you again.
+SUPERINTENDENT	?	With pleasure, sir.
+SUPERINTENDENT	?	May I say something, sir?
+GEORGES	m	What is it?
+SUPERINTENDENT	?	My wife and I, we're very impressed by the way you're managing everything. I take my hat off to you.
+GEORGES	m	(taking the mobile phone from the pocket of his jacket) That's very kind of you. Thanks. See you soon.
+SUPERINTENDENT	?	Give my regards to your wife.
+GEORGES	m	I certainly will. Thanks.
+GEORGES	m	Hello Eva, how are you?... Things are fine.
+GEORGES	m	(insistently)...Sur le pont ...
+ANNE	f	... Ssssur...
+GEORGES	m	...Sur le pont...
+ANNE	f	po ... pont ... sss
+GEORGES	m	...Sur le pont ... Sur le pont ...
+ANNE	f	... Ssssur le pont ...
+GEORGES	m	(smiling to encourage her): ... Sur le pont d'Avignon...
+ANNE	f	... ssur... le ..
+GEORGES	m	... pont... Sur le pont d'Avignon... (he begins to sing): Sur le pont d'Avignon on y danse, on y danse, sur le pont d'Avignon tout le monde y danse en rond...
+GEORGES	m	Sur le pont d' Avignon, on y danse, on y danse ...
+GEORGES	m	(singing to encourage Anne, accompanied by the sounds that she produces): Sur le pont d'Avignon on y danse, on y danse ... Sur le pont d'Avignon tout le monde y danse en rond ...
+SECOND NURSE	m	... there we are...now we're all beautiful again...so everybody will admire us...there...you see... wait...
+NURSE	f	... as you wish, sir. I don't know what you were expecting. I gave up another job to come and work here. You should have thought it over before deciding whether you wanted a second nurse or not.
+GEORGES	m	But I've only just found out how incompetent you are.
+NURSE	f	What's that supposed to mean?
+GEORGES	m	I don't want to discuss it with you. Anyway, you wouldn't understand.
+NURSE	f	No one has ever complained.
+GEORGES	m	Good for you. (To get rid of her) How much do I owe you?
+NURSE	f	(after a brief calculation) Seven hundred and eighty euros.
+NURSE	f	I've never had anything like this happen to me before. Who do you think you are?! I've been doing this job for ten years. I don't need you to teach me how to do it.
+GEORGES	m	Do you have twenty euros?
+NURSE	f	No.
+GEORGES	m	Then take the eight hundred euros. You can go now.
+NURSE	f	You're a nasty old man. I feel sorry for you.
+GEORGES	m	I hope from the bottom of my heart that one day someone treats you the way you treat your patients, and that you too will have no way of defending yourself. Now get out.
+NURSE	f	Go fuck yourself, you old fart!
+GEORGES	m	... Please, open your mouth... go on... open it... Anne! Please!... come on... stop that!...
+GEORGES	m	If you don't drink, you'll die.
+GEORGES	m	Is that what you want?
+GEORGES	m	Come on, Anne, please.
+GEORGES	m	Goddammit!
+GEORGES	m	Anne! ... You can't force me to let you die of thirst. If you persist, I'll call Bertier and he'll put you in hospital. They can force-feed you there. Is that what you want?
+GEORGES	m	I promised to spare you that. But you must help me. I'm out of my depth.
+GEORGES	m	Please, Anne!
+GEORGES	m	Drink that, now!
+GEORGES	m	There!
+GEORGES	m	Good.
+ANNE	f	Help... help...
+GEORGES	m	Please, forgive me.
+ANNE	f	(softly) Help... Help... Help... Help...
+GEORGES	m	Who's there?
+EVA'S VOICE	f	It's me.
+GEORGES	m	Eva?
+EVA'S VOICE	f	(a bit irritated) Yes.
+GEORGES	m	Just a minute.
+GEORGES	m	Hello.
+EVA	f	Hello. What was going on?
+GEORGES	m	I was in the toilet. Sorry.
+GEORGES	m	Come in.
+GEORGES	m	Why this unannounced visit? Where have you come from?
+EVA	f	What's going on with Mom?
+GEORGES	m	Nothing. What should be going on?
+EVA	f	Well... (gesture toward the
+GEORGES	m	Don't you want to sit down first?
+GEORGES	m	So why are you in Paris?
+EVA	f	What's going on with Mom? Why don't you answer the phone? After our last conversation, I left four messages on your answering machine. Why don't you call back?
+GEORGES	m	Sorry. I didn't listen to it. Forgive me.
+EVA	f	Don't you realize we're worried?
+GEORGES	m	Your worries are no use to me.
+GEORGES	m	No, don't get me wrong. I'm not criticizing you. I just don't have the time to deal with your worries, that's all.
+EVA	f	Dad...
+GEORGES	m	No. Let's stop this conversation right there. I'm taking care of your mother. It's a full-time job. And I'm not saying that to complain, just to explain why I didn't answer your phone calls and why I don't want to have any pointless discussions on the subject. Your mother is just as could have been expected: bad the whole time.
+GEORGES	m	She is turning more and more into a helpless child, and it's sad and humiliating, for her and for me. And she doesn't want to be seen in that state either. Even the last time you visited, she didn't want you to come. You two have your own life. Nothing wrong with that. But let us have our life too. Even though it's a lousy one. OK?
+EVA	f	Dad, what's the matter?
+GEORGES	m	Nothing's the matter; your visit caught me by surprise. And I'm annoyed that you show up here to check that everything's OK. Who do you think you are?
+EVA	f	I...
+GEORGES	m	Stay here, will you!
+GEORGES	m	(softly, but insistently) Please!
+EVA	f	Tell me, what's going on? Have you gone crazy?
+GEORGES	m	Please, sit down.
+EVA	f	I don't want to sit down. What's going on here?
+GEORGES	m	Nothing's going on. I want to spare us all a pointless drama. I presume your mother is asleep. She mostly sleeps the whole day. And then she wakes up at night. If you really want to, we'll go and see her in a little while. Now, sit down. OK?
+GEORGES	m	We do our speech exercises every day, or we sing together. Most of the time, I wake up around 5. At that time, she's still awake. Then we change her incontinence pad. I rub cream on her to avoid sores. Then, around 7, I try to persuade her to eat and drink. Sometimes it works, sometimes not. Sometimes she tells me things from her childhood, then for hours she calls for help, and then an instant later she's giggling away to herself, or crying. Nothing of any of that is worth showing to anyone.
+EVA	f	You can't stop me from seeing her.
+GEORGES	m	No.
+EVA	f	It's me, Mom.
+EVA	f	Can I do something for you? Mom...
+ANNE	f	Mom... Mom... Mom... Mom... Mom...
+GEORGES	m	The tea isn't very hot any more.
+GEORGES	m	But it does make you feel better.
+EVA	f	Thanks.
+GEORGES	m	It was silly of me to lock the door. I'm sorry. You took me by surprise, that's all. I'm sorry.
+EVA	f	What's going to happen now?
+GEORGES	m	(with a little ironic laugh) What's going to happen now? The nurse comes twice a week, and every two weeks Dr. Bertier and the hairdresser come. That's what you want to know, right? Things will go on as they have done up until now. They'll go from bad to worse. Things will go on, and then one day it will all be over.
+EVA	f	You can't go on like this, Dad.
+GEORGES	m	Can't I? What do you suggest?
+EVA	f	Can't we have a serious talk, you and me?
+GEORGES	m	What do you call "a serious talk"? What do you want to suggest? Do you want to have Mom live with you? Do you want to pack her off to a care home? Do you? What do you want? Go on, talk to me "seriously"!
+ANNE	f	(in a rush)... short... short dress... only I... only I... all long... it was... (with a small gesture to imitate a bell): ding... dong...
+GEORGES	m	Yes, it swung to and fro.
+ANNE	f	(still rushed) ... yes... to ... fro ... you... very serious... like that... (she imitates a serious countenance, continues in a low voice): like that... serious...
+GEORGES	m	(unable to keep from laughing a little) Yes. I think I was pretty uptight.
+ANNE	f	(smiling) yes... up... tight...
+ANNE	f	... it was n...nice...
+ANNE'S VOICE	f	(loud) Help... Help... Help... Help... Help...
+GEORGES	m	(trying to calm her like a sick child) What is it?..
+GEORGES	m	Are you in pain?... What's the matter?... Is your pad full?
+GEORGES	m	No... So what's hurting you?
+GEORGES	m	It's all right... it's all right ... I'm here... everything's fine... we'll... Hold on, I'll tell you a story... but you must be quiet, I can't talk too loud, it wears me out... Here we go: when I was little... well, I wasn't as little as all that... it was toward the end of primary school, so I was about ten, Dad and Mom sent me to a holiday camp. They thought it would do me good to spend the summer with kids my own age... We were lodged in an old castle in the midst of a magnificent wooded landscape... I think it was in the Auvergne... I don't know... in any case it was the opposite of what I'd expected... We had to get up at 6 and go for a morning swim. Not far from the castle, there was a pond fed by an icy mountain stream. We entered it running, in a double file. You know, I was never very sporty. They had a program to keep us on the go all day, probably to nip any potential pubescent impulses in the bud ... But the worst thing was the food. The third day after our arrival, there was rice pudding for lunch. I hate rice pudding. We sat at long tables in a huge hall. I didn't want to eat the stuff and the housemaster said to me: You won't get up until you've cleared your plate. So after the meal everybody left the room, and I remained seated, in tears. I had made a secret pact with Mom. I was to send her a postcard every week.
+GEORGES	m	If I was pleased with the place I was to draw some flowers on it, or if not, some stars. She kept the card; it was covered all over in stars. After three hours, I was allowed to leave the table. I went up to my room, got into bed and had a fever of 42 degrees. It was diphtheria. They took me to the nearest hospital where I was put in an isolation ward, which meant that Mom, when she came to visit me, could only wave at me through a window. At some point I lost that postcard. It's a pity.
+ANNE	f	I'm almost done.
+ANNE'S VOICE	f	You can put your shoes on if you want.
+ANNE	f	Thanks.
+ANNE	f	Aren't you taking a coat?
+

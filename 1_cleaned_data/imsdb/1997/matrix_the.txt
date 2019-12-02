@@ -1,0 +1,838 @@
+MAN	m	Hello?
+SCREEN	m	Call trans opt:  received. 2-19-96  13:24:18  REC:Log>
+WOMAN	f	I'm inside.  Anything to report?
+CYPHER	m	Let's see.  Target left work at
+SCREEN	m	Trace program:  running.
+CYPHER	m	He caught the northbound Howard  line. Got off at Sheridan.   Stopped at 7-11.  Purchased six- pack of beer and a box of Captain  Crunch.  Returned home.
+TRINITY	f	All right, you're relieved.  Use the usual exit.
+CYPHER	m	Do you know when we're going to make contact?
+TRINITY	f	Soon.
+CYPHER	m	Just between you and me, you don't  believe it, do you?  You don't  believe this guy is the one?
+TRINITY	f	I think Morpheus believes he is.
+CYPHER	m	I know.  But what about you?
+TRINITY	f	I think Morpheus knows things that I don't.
+CYPHER	m	Yeah, but if he's wrong --
+TRINITY	f	Did you hear that?
+CYPHER	m	Hear what?
+SCREEN	m	Trace complete.  Call origin:
+TRINITY	f	Are you sure this line is clean?
+CYPHER	m	Yeah, course I'm sure.
+TRINITY	f	I better go.
+CYPHER 	m	Yeah.  Right.  See you on the other side.
+RADIO	m	Attention all units.  Attention all units.
+BIG COP	m	Police!  Freeze!
+BIG COP	m	Get your hands behind your head!
+BIG COP	m	Hands behind your head!  Now!  Do it!
+AGENT SMITH	m	Lieutenant?
+LIEUTENANT	m	Oh shit.
+AGENT SMITH 	m	Lieutenant, you were given  specific orders --
+LIEUTENANT	m	I'm just doing my job.  You gimme  that Juris-my dick-tion and you  can cran it up your ass.
+AGENT SMITH	m	The orders were for your protection.
+LIEUTENANT	m	I think we can handle one little girl.
+LIEUTENANT	m	I sent two units.  They're  bringing her down now.
+AGENT SMITH	m	No, Lieutenant, your men are dead.
+TRINITY	f	Shit.
+MAN	m	Operator.
+TRINITY	f	Morpheus!  The link was traced!  I don't know how.
+MORPHEUS	m	I know.  Stay calm.
+TRINITY	f	Are there any agents?
+MORPHEUS	m	Yes.
+TRINITY	f	Goddamnit!
+MORPHEUS	m	You have to focus.  There is a  phone.  Wells and Laxe.  You can make it.
+TRINITY	f	All right --
+MORPHEUS	m	Go.
+COP	m	Motherfucker -- that's impossible!
+TRINITY	f	Get up, Trinity.  You're fine. Get up -- just get up!
+AGENT SMITH	m	Did you get anything from the room?
+AGENT JONES	m	Their next target.  The name is Neo.
+AGENT SMITH	m	We'll need a search running.
+AGENT JONES	m	It's already begun.
+SCREEN	m	JACKON:  I heard Morpheus has been on this board. SUPERASTIC:  Morpheus doesn't even exist and the Matrix is nothing  but an advertising gimmick 4 a new game. TIMAXE:  All I want to know is Trinity really a girl? LODIII:  87% of all women on line are really men. QUARK:  The Matrix is a euphemism  for the government. SUPERASTIC:  No, The Matrix is the system controlling our lives. TIMAXE:  You mean MTV. SUPERASTIC:  I mean Sega.
+NEO	m	Fuckin' idiots don't know shit.
+SCREEN	m	Do you want to know what the Matrix is, Neo?
+SCREEN	m	SUPERASTIC:  Who said that? JACKON:  Who's Neo? GIBSON:  This is a private board. If you want to know, follow the white rabbit.
+NEO	m	What the hell...
+SCREEN	m	TIMAXE:  Someone is hacking the hackers! FOS4:  It's Morpheus!!!!! JACKON:  Identify yourself. Knock, knock, Neo.
+VOICE	m	Hey, Tommy-boy!  You in there?
+NEO	m	What do you want, Anthony?
+ANTHONY	m	I need your help, man.  Desperate. They got me, man.  The shackles of  fascism.
+NEO	m	You got the money this time?
+DUJOUR	f	You can really get that thing off, right now?
+ANTHONY	m	I told you, honey, he may look  like just another geek but this  here is all we got left standing  between Big Brother and the New World Order.
+ANTHONY	m	Look at 'em.  Automatons.  Don't  think about what they're- doing or why.  Computer tells 'em what to do and they do it. Thc banality of evil.
+ANTHONY	m	Thanks, neighbor.
+DUJOUR	f	Why don't you come to the party with us?
+NEO	m	I don't know.  I have to work tomorrow.
+DUJOUR	f	Come on.  It'll be fun.
+NEO	m	Yeah, yeah.  Sure, I'll go.
+TRINITY	f	Hello, Neo.
+NEO	m	How did you know that --
+TRINITY	f	I know a lot about you.  I've been wanting to meet you for some time.
+NEO	m	Who are you?
+TRINITY	f	My name is Trinity.
+NEO	m	Trinity?  The Trinity?  The Trinity that cracked the I.R.S. Kansas City D-Base?
+TRINITY	f	That was a long time ago.
+NEO	m	Gee-zus.
+TRINITY	f	What?
+NEO	m	I just thought... you were a guy.
+TRINITY	f	Most guys do.
+NEO	m	Do you want to go sorewhere and talk?
+TRINITY	f	No.  It's safe here and I don't have much time.
+NEO	m	That was you on the board tonight. That was your note, wasn't it?
+TRINITY	f	I had to gamble that you would see and they wouldn't.
+NEO	m	Who wouldn't?
+TRINITY	f	I can't explain everything to you. I'm sure that it's all going to seem very strange, but I brought you here to warn you, Neo.  You are in a lot of danger.
+NEO	m	What?  Why?
+TRINITY	f	They're watching you.  Something happened and they found out about you.  Normally, if our target is exposed we let it go.  But this time, we can't do that.
+NEO	m	I don't understand --
+TRINITY	f	You came here because you wanted to know the answer to a hacker's question.
+NEO	m	The Matrix.  What is the Matrix?
+TRINITY	f	Twelve years ago I met a man, a great man, who said that no one could be told the answer to that question.  That they had to see it, to believe it.
+TRINITY	f	He told me that no one should look for the answer unless they have to because once you see it, everything changes.  Your life and the world you live in will never be the same.  It's as if you wake up one morning and the sky is falling.
+TRINITY	f	The truth is out there, Neo.  It's looking for you and it will find you, if you want it to.
+TRINITY	f	That's all I can tell you right now.  Good-bye, Neo.  And good luck.
+NEO	m	Wait.  Who was it?  Who was the man?
+TRINITY	f	You know who.
+NEO	m	Shitshitshit.
+RHINEHEART	m	You have a problem, Mr. Anderson. You think that you're special. You believe that somehow the rules do not apply to you.
+RHINEHEART	m	Obviously, you are mistaken.
+RHINEHEART	m	This company is one of the top software companies in the world because every single employee understands that they are a part of a whole.  Thus, if an employee has a problem, the company has a problem.
+RHINEHEART	m	The time has come to make a  choice, Mr. Anderson.  Either you choose to be at your desk on time from this day forth, or you choose to find yourself another job.  Do I make myself clear?
+NEO	m	Yes, Mr. Rhineheart.  Perfectly clear.
+TALL EMPLOYEE	m	What did he say?
+NEO	m	If I was late again, I'm going to be fired.
+TALL EMPLOYEE	m	Well, it was nice working with you.
+VOICE	m	Thomas Anderson?
+NEO	m	Yeah.  That's me.
+FEDEX	m	Have a nice day.
+NEO	m	Hello?
+MORPHEUS	m	Hello, Neo.  This is Morpheus.
+MORPHEUS	m	I had hoped for this conversation to take place under less adverse conditions, but you can never count on hope, can you, Neo?
+NEO	m	... no.
+MORPHEUS	m	I've been watching you, Neo, and I want to meet you.  I don't know if you're ready to see what I want to show you, but unfortunately, we have run out of time.  They're coming for you, Neo.  And I'm not sure what they're going to do.
+NEO	m	Who's coming for me?
+MORPHEUS	m	Stand up and see for yourself.
+NEO	m	Right now?
+MORPHEUS	m	Yes.  Now.
+MORPHEUS	m	Do it slowly.  Slowly.  The elevator.
+NEO	m	Holy fuckin' shit!
+MORPHEUS	m	Yes.
+NEO	m	What the fuck do they want with me?!
+MORPHEUS	m	I'm not sure.  But, if you don't want to find out, you better get out of there.
+NEO	m	How?!
+MORPHEUS	m	I can guide you out, but you have to do exactly what I say.
+MORPHEUS	m	The cubicle across from you is empty.
+NEO	m	But what if...?
+MORPHEUS	m	Go!  Now!
+MORPHEUS	m	Stay here for a moment.
+MORPHEUS	m	A little longer...
+MORPHEUS	m	When I tell you, go to the end of the row to the first office on the left, stay.as low as you can.
+MORPHEUS	m	Now.
+MORPHEUS	m	Good.  Now there is a window. Open it.
+NEO	m	How do you know all this?
+MORPHEUS	m	The answer is coming, Neo.
+MORPHEUS	m	Outside, there's a scaffold.  You can use it to get to the roof.
+NEO	m	No! It's too far away.
+MORPHEUS	m	There's a small ledge.  It's a short climb.  You can make it.
+NEO	m	No way, no way, this is crazy.
+MORPHEUS	m	Don't be controlled by your fear, Neo.  There are only two ways out of this building.  One is that scaffold.  The other is in their custody.  You take a chance either way.  I leave it to you.
+NEO	m	This is insane!  Why is this happening to me?  What did I do? I'm nobody.  I didn't do anything. Fuck! Fuck!  Fuck!
+NEO	m	I'm going to die.
+NEO	m	This is insane.  I can't do this! Forget it!
+NEO	m	I didn't do anything!
+TRINITY	f	Shit.
+AGENT SMITH	m	As you can see, we've had our eye on you for some time now, Mr. Anderson.
+AGENT SMITH	m	It seems that you have been living two lives.  In one life, you are Thomas A. Anderson, program writer for a respectable software company.  You have a social security number, you pay your taxes and you help your land lady carry out her garbage.
+AGENT SMITH	m	The other life is lived in computers where you go by the hacker alias Neo, and are guilty of virtually every computer crime we have a law for, including the unauthorized use of the D.M.V. system for the removal of automobile boots.
+AGENT SMITH	m	One of these,lives has a future. One of them does not.
+AGENT SMITH	m	I'm going to be as forthcoming as I can be, Mr. Anderson.  You are here because we need your help.
+AGENT SMITH	m	We know that you have been contacted by a certain individual. A man who calls himself Morpheus. Whatever you think you know about this man is irrelevant to the fact that he is wanted for acts of terrorism in more countries than any other man in the world.  He is considered by many authorities to be the most dangerous man alive.
+AGENT SMITH	m	My colleagues believe that I am wasting my time with you, but I believe you want to do the right thing.  It is obvious that you are an intelligent man, Mr. Anderson, and that you are interested in the future.  That is why I believe you are ready to put your past mistakes behind you and get on with your life.
+AGENT SMITH	m	We are willing to wipe the slate clean, to give you a fresh start and all we are asking in return is your cooperation in bringing a known terrorist to justice.
+NEO	m	Yeah.  Wow.  That sounds like a real good deal.  But I think I have a better one.  How about I give you the finger --
+NEO	m	And you can cram that file up your Secret Service sphincter.
+AGENT SMITH	m	You disappoint me, Mr. Anderson.
+NEO	m	You ain't seen nothing yet.
+AGENT SMITH	m	The irony of your situation is that you have no choice.
+NEO	m	You can't scare me with this gestapo crap.  I know my rights. I want my phone call.
+AGENT SMITH	m	And tell me, Mr. Anderson, what good is a phone call iy you are unable to speak?
+AGENT SMITH	m	You are going to help us, Mr. Anderson, whether you want to or not.
+MORPHEUS.	?	This line is tapped, so I must be brief.
+NEO	m	The agents --
+MORPHEUS	m	They got to you first, but they've underestimated how important you are.  If they knew what I know, you would probably be dead.
+MORPHEUS	m	I don't know what you are thinking right now but I want you to understand that I will not give up on you until you give up on me.
+MORPHEUS	m	Do you still want to meet?
+NEO	m	... Yes.
+MORPHEUS	m	Take the Howard line south.
+APOC	m	Come with me.
+TRINITY	f	We got him.  Call the chop-shop.
+TRINITY	f	Listen to me, Neo.  You have to, trust us.
+NEO	m	What are you doing?
+TRINITY	f	This has to be done for your protection and ours.
+TRINITY	f	You can't understand right now, but if you're not one of us, you're one of them.
+GIZMO	m	Va va va voom.  Still the hottest software around.
+TRINITY	f	Hello, Gizmo.
+GIZMO	m	This is really the guy?  The guy that Morpheus thinks --
+TRINITY	f	Yeah.
+GIZMO	m	But he's so old.
+TRINITY	f	Are you going to help us or aren't you?
+GIZMO	m	Hacksaw.  Load up the copper-top and let's get the hell outta here.
+GIZMO	m	Okay, first we take a little look under the hood.
+GIZMO	m	You're going to feel a little prick.
+NEO	m	What are you doing?
+TRINITY	f	We think you're bugged.  We can't take you to Morpheus until you're clean.
+GIZMO	m	There it is.
+GIZMO	m	Hit him with 10 ccs of local.
+GIZMO	m	Here, kitty, kitty, kitty.
+GIZMO	m	Gotcha!
+GIZMO	m	Shit.
+TRINITY	f	What's happening?
+GIZMO	m	I don't know.  They've never done that before.
+GIZMO	m	Hold him down.
+NEO	m	Jesus!  God!
+TRINITY	f	Do something!
+GIZMO	m	I got it!  Maybe we can stun it.
+TRINITY	f	Are you crazy?  That will kill him.
+GIZMO	m	It'll work.  Come on, do it or Hacksaw will.
+NEO	m	Do what?
+TRINITY	f	Clear.
+NEO	m	Oh, shit --
+GIZMO	m	Hit him again!
+GIZMO	m	Got it!
+TRINITY	f	Neo, are you okay?
+TRINITY	f	It's over.  We got it.
+GIZMO	m	Nasty little bugger, ain't it?
+TRINITY	f	Thanks for your help, Gizmo.
+GIZMO	m	I just hope the man knows what he's doing.
+GIZMO	m	Goddamn, what I wouldn't give for a copy of that software.
+TRINITY	f	Gizmo, you don't have the hardware to handle this software.
+TRINITY	f	Let's go.  He's waiting.
+TRINITY	f	This is it.
+TRINITY	f	Let me give one piece of advice. Be honest.  He knows more than you can possibly imagine.
+MORPHEUS	m	At last.
+MORPHEUS	m	Welcome, Neo.  As you no doubt have guessed, I am Morpheus.
+NEO	m	It's an honor.
+MORPHEUS	m	Please.  Come.  Sit.
+MORPHEUS	m	Thank you, Trinity.
+MORPHEUS	m	I imagine, right now, you must be feeling a bit like Alice, tumbling down the rabbit hole?
+NEO	m	You could say that.
+MORPHEUS	m	I can see it in your eyes.  You have the look of a man who accepts what he sees because he is expecting to wake up.
+MORPHEUS	m	Ironically, this is not far from the truth.  But I'm getting ahead of myself.  Can you tell me, Neo, why are you here?
+NEO	m	You're Morpheus, you're a legend. Most hackers would die to meet you.
+MORPHEUS	m	Yes.  Thank you.  But I think we both know there's more to it than  that.  Do you believe in fate, Neo?
+NEO	m	No.
+MORPHEUS	m	Why not?
+NEO	m	Because I don't like the idea that I'm not in control of my life.
+MORPHEUS	m	I know exactly what you mean.
+MORPHEUS	m	Let me tell you why you are here. You are here because you have the gift.
+NEO	m	What gift?
+MORPHEUS	m	I've watched you, Neo.  You do not use a computer like a tool.  You use it like it was part of yourself.  What you can do inside a computer is not normal.  I know. I've seen it.  What you do is magic.
+NEO	m	It's not magic.
+MORPHEUS	m	But it is, Neo.  It is.  How else would you describe what has been happening to you?
+MORPHEUS	m	We are trained in this world to accept only what is rational and logical.  Have you ever wondered why?
+MORPHEUS	m	As children, we do not separate the possible from the impossible which is why the younger a mind is the easier it is to free while a mind like yours can be very difficult.
+NEO	m	Free from what?
+MORPHEUS	m	From the Matrix.
+MORPHEUS	m	Do you want to know what it is, Neo?
+MORPHEUS	m	It's that feeling you have had all your life.  That feeling that something was wrong with the world.  You don't know what it is but it's there, like a splinter in your mind, driving you mad, driving you to me.  But what is it?
+MORPHEUS	m	The Matrix is everywhere, it's all around us, here even in this room. You can see it out your window, or on your television.  You feel it when you go to work, or go to church or pay your taxes.  It is the world that has been pulled over your eyes to blind you from the truth.
+NEO	m	What truth?
+MORPHEUS	m	That you are a slave, Neo.  That you, like everyone else, was born into bondage... ... kept inside a prison that you cannot smell, taste, or touch.  A prison for your mind.
+MORPHEUS	m	Unfortunately, no one can be told what the Matrix is.  You have to see it for yourself.
+NEO	m	How?
+MORPHEUS	m	Hold out your hands.
+MORPHEUS	m	This is your last chance.  After this, there is no going back.
+MORPHEUS	m	You take the blue pill and the story ends.  You wake in your bed and you believe whatever you want to believe.
+MORPHEUS	m	You take the red pill and you stay in Wonderland and I show you how deep the rabbit-hole goes.
+MORPHEUS	m	Remember that all I am offering is the truth.  Nothing more.
+MORPHEUS	m	Follow me.
+CYPHER	m	Shit.
+TRINITY	f	I knew he would.
+CYPHER	m	Morpheus, I know what you believe but I think this is a mistake. We're rushing him.  He's old.  I'm afraid he might pop.
+MORPHEUS	m	Haven't I always told you, Cypher, not to let fear control your life. Apoc, are we on-line?
+APOC	m	Almost.
+NEO	m	Apoc?  You wrote the Four Horsemen Virus.
+APOC	m	That's right.
+MORPHEUS	m	Neo, time is always against us. Will you take a seat there?
+MORPHEUS	m	I imagine you know sonething about virtual reality.
+NEO	m	A little.
+MORPHEUS	m	Tell me about it.
+NEO	m	Essentially, it's a hardware system that uses an apparatus; headgear, gloves and whatever to make you feel that you are in a computer program.
+MORPHEUS	m	If the virtual reality apparatus, as you called it, was wired to all of your senses and controlled them completely, would you be able to tell the difference between the virtual world and the real world?
+NEO	m	You might not, no.
+MORPHEUS	m	No, you wouldn't.
+NEO	m	You did all this?
+MORPHEUS	m	The pill you took is part of a trace program.  It's going to make things feel a bit strange.
+NEO	m	Shit...
+NEO	m	What is this?  Mescaline?
+MORPHEUS	m	Just relax, Neo.
+NEO	m	Uh-oh...
+TRINITY	f	It's going into replication.
+MORPHEUS	m	Apoc?
+APOC	m	Still nothing.
+MORPHEUS	m	Tank, we're going to need the signal soon.  Stay calm, Neo.
+NEO	m	It's cold.
+NEO	m	It's all over me --
+TRINITY	f	I got a fibrillation!
+CYPHER	m	I knew it, I knew it...
+MORPHEUS	m	Shit!  Apoc?
+APOC	m	Targeting... almost there.
+TRINITY	f	He's going into arrest!
+CYPHER	m	He's gonna pop!
+APOC	m	Lock!  I got him!
+MORPHEUS	m	Now, Tank now!
+MORPHEUS	m	Welcome to the real world, Neo.
+MAN	m	Do you think Morpheus is right? Do you think he could be the One?
+WOMAN	f	It doesn't matter now.  But if he's wrong...
+NEO	m	... am I dead?
+TRINITY	f	Far from it.
+DOZER	m	He needs a lot of work.
+MORPHEUS	m	I know.
+NEO	m	What are you doing?
+MORPHEUS	m	Your muscles have atrophied. We're rebuilding them.
+NEO	m	Why do my eyes hurt?
+MORPHEUS	m	You've never used them before.
+MORPHEUS	m	Rest, Neo.  The answers are coming.
+NEO	m	Morpheus, what's happened to me? What is this place?
+MORPHEUS	m	More important than what is when?
+NEO	m	When?
+MORPHEUS	m	You believe the year is 1997 when in fact it is much closer to 2197. I can't say for certain what year it is because we honestly do not know.
+NEO	m	That's not possible.
+MORPHEUS	m	I promised you the truth, Neo, and the truth is that the world you were living in was a lie.
+NEO	m	How?
+MORPHEUS	m	I'll show you.
+MORPHEUS	m	This is my ship, the Nebuchadnezzar.  It's a hovercraft.  Small like a submarine.  It's dark.  It's cramped and cold.  But it's home.
+MORPHEUS	m	This is the main deck.  You know most of my crew.
+MORPHEUS	m	The ones you don't know.  That's Mouse and Switch.  The two big guys are Tank and Dozer.
+MORPHEUS	m	And this, this is the Core.  This is where we broadcast our pirate signal and hack into the Matrix.
+MORPHEUS	m	Help him, Trinity.
+MORPHEUS	m	Do you remember when I asked you about an apparatus that could turn a virtual reality into reality?
+MORPHEUS	m	It's right here.
+MORPHEUS	m	And it's accessed here.
+MORPHEUS	m	This will feel a little weird.
+MORPHEUS	m	This is the Construct.
+MORPHEUS	m	It is our loading program.  We can load anything from clothes, to weapons, to training simulations. Anything we need.
+MORPHEUS	m	Sit down.
+NEO	m	Right now, we're inside a computer program?
+MORPHEUS	m	Wild, isn't it?
+NEO	m	This isn't real?
+MORPHEUS	m	What is real?  How do you define real?  If you're talking about your senses, what you feel, taste, smell, or see, then all you're talking about are electrical signals interpreted by your brain.
+MORPHEUS	m	This is the Chicago you know. Chicago as it was at the end of the twentieth century.  This Chicago exists only as part of a neural-interactive simulation that we call the Matrix.
+MORPHEUS	m	You have been living inside Baulliaurd's vision, inside the map, not the territory.  This is Chicago as it exists today.
+MORPHEUS	m	'The desert of the real.'
+MORPHEUS	m	We are, right now, miles below the earth's surface.  The only place humans can survive outside the Matrix is underground.
+NEO	m	What happened?
+MORPHEUS	m	It started early in the twenty- first century, with the birth of artificial intelligence, a singular consciousness that spawned an entire race of machines.
+MORPHEUS	m	At first all they wanted was to be treated as equals, entitled to the same human inalienable rights. Whatever they were given, it was not enough.
+MORPHEUS	m	We don't know who struck first. Us or them.  But sometime at the end of the twenty-first century the battle was joined.
+MORPHEUS	m	The war raged for generations and turned the face of our planet from green and blue to black and red.
+MORPHEUS	m	It scorched and burned the sky. Without the sun, the machines sought out a new energy source to survive.
+MORPHEUS	m	They discovered a new form of fusion.  All that was required to initiate the reaction was a small electric charge.  Throughout human history we have been dependent on machines to survive.  Fate, it seems, is not without a sense of irony.
+MORPHEUS	m	The human body generates more bio- electricity than a 120-volt battery and over 25,000 B.T.U.'s of body heat.
+MORPHEUS	m	We are, as an energy source, easily renewable and completely recyclable, the dead liquified and fed intravenously to the living.
+MORPHEUS	m	All they needed to control this new battery was something to occupy our mind.
+MORPHEUS	m	And so they built a prison out of our past, wired it to our brains and turned us into slaves.
+NEO	m	No!  I don't believe it!  It's not possible!
+MORPHEUS	m	I didn't say that it would be easy, Neo.  I just said that it would be the truth.
+NEO	m	Stop!  Let me out!  I want out!
+NEO	m	Get this thing out of me!
+TRINITY	f	Easy, Neo.  Easy.
+NEO	m	Don't touch me!  Get away from me!
+CYPHER	m	He's going to pop!
+NEO	m	I can't go back, can I?
+MORPHEUS	m	No.  But if you could, would you really want to?
+MORPHEUS	m	I feel that I owe you an apology. There is a rule that we do not free a mind once it reaches a certain age.  It is dangerous. They have trouble letting go.. Their mind turns against them. I've seen it happen.  I broke the rule because I had to.
+MORPHEUS	m	When the Matrix was first built there was a man born inside that had the ability to change what he wanted, to remake the Matrix as he saw fit.  It was this man that freed the first of us and taught us the secret of the war; control the Matrix and you control the future.
+MORPHEUS	m	When he died, the Oracle at the temple of Zion prophesied his return and envisioned an end to the war and freedom for our people.  That is why there are those of us that have spent our entire lives searching the Matrix, looking for him.
+MORPHEUS	m	I did what I did, because I believe we have been brought here for a reason, Neo.  You are here to serve a purpose, just as I am here to serve mine.
+NEO	m	I told you I don't believe in fate.
+MORPHEUS	m	But I do, Neo.  I do.
+MORPHEUS	m	Get some rest.  You're going to need it.
+NEO	m	For what?
+MORPHEUS	m	Your training.
+TANK	m	Morning.  Did you sleep?
+NEO	m	No.
+TANK	m	You will tonight.  I guarantee it. I'm Tank.  I'll be your operator.
+NEO	m	You don't have...
+TANK	m	Any holes?  Nope.  Me and my brother Dozer, we are 100 percent pure, old fashioned, home-grown human.  Born free.  Right here in the real world.  Genuine child of Zion.
+NEO	m	Zion?
+TANK	m	Zion is the place, man.  You'll see it one day.  Last human city. All we got left.
+TANK	m	Goddamn, I got to tell you I'm fairly excited to see what you are capable of.  I mean if Morpheus is right and all.  We're not supposed to talk.about any of that, but if you are, well then this is an exciting time.  We got a lot to do so let's get to it.
+TANK	m	We're supposed to load all these operations programs first, but this is some major boring shit. Why don't we start something a little fun?
+TANK	m	How about sore combat training?
+NEO	m	Jiujitsu?  I'm going to learn jujitsu?
+NEO	m	No way.
+NEO	m	Holy shit!
+TANK	m	Hey, Mikey, he likes it!  Ready for more?
+NEO	m	Hell yes!
+MORPHEUS	m	How is he?
+TANK	m	Ten hours straight.  He's a machine.
+NEO	m	This is incredible.  I know Kung Fu.
+MORPHEUS	m	Show me.
+MORPHEUS	m	This is a sparring program, similar to the programmed reality of the Matrix.  Consider this your first lesson.
+MORPHEUS	m	Attack me.
+MOUSE	m	Morpheus is fighting Neo!
+MORPHEUS	m	Good.  Adaption.  Improvisation. But your weakness isn't your technique.
+MORPHEUS	m	How did I beat you?
+NEO	m	You -- You're too fast.
+MORPHEUS	m	Do you think my being faster, stronger has anything to do with my muscles in this place?
+MORPHEUS	m	Do you believe that's air you are breathing now?
+MORPHEUS	m	If you can free your mind, the body will follow.
+MORPHEUS	m	Again.
+CABLE	m	Jeezus Keerist!  That boy is fast!
+MOUSE	m	You ever seen anyone that fast that soon, Tank?
+TANK	m	Never.
+APOC	m	Morpheus is right.  He's got to be the one.
+MOUSE	m	I don't believe it!
+MORPHEUS	m	You are angry with me.
+NEO	m	I, uh... maybe.
+MORPHEUS	m	It's all right.  It's natural.
+NEO	m	I feel better.
+MORPHEUS	m	Good, good.  Anger is a gift, Neo, but it's a heavy one.
+MORPHEUS	m	Tank, load the jump program.
+MORPHEUS	m	You have to learn to let go of that anger.  You must let go of everything.
+MORPHEUS	m	You must empty yourself to free your mind.
+NEO	m	Shit.
+NEO	m	Okie dokie.
+NEO	m	Yeah.  Free my mind.  Right.  No problem.
+CABLE	m	He's gonna make it.
+APOC	m	No way.  Not possible.
+MOUSE	m	No one's ever made their first jump.
+SWITCH	m	What if he does?
+APOC	m	He won't.
+TANK	m	It's never been done.
+TRINITY	f	Come on.
+MORPHEUS	m	Everyone falls the first time.
+MORPHEUS	m	If you never know failure, how can you know success?
+MOUSE	m	What does it mean?
+CABLE	m	It doesn't mean anything.
+CYPHER	m	Everyone falls, right, Trinity?
+NEO	m	I thought it wasn't real.
+NEO	m	If you are killed in the Matrix, you die here?
+MORPHEUS	m	The body cannot live without the mind.
+TRINITY	f	Neo, I saved you some dinner --
+CYPHER	m	Whoa!  Shit, Neo, you scared the bejeezus out of ne.
+NEO	m	Sorry.
+CYPHER	m	No, it's all right.
+NEO	m	What are you doing?
+CYPHER	m	Midnight watch.
+NEO	m	Is that... ?
+CYPHER	m	The Matrix?  Yeah.
+CYPHER	m	You want a drink?
+CYPHER	m	I'll tell you, I feel for you, man.  I really do.  Most of us were still young, just punks, when Morpheus jacked us.  But you, you had a real life.
+CYPHER	m	Good shit, huh?  Dozer makes it. It's good for two things: degreasing engines and killing brain cells.
+CYPHER	m	Did he tell you why he did it?
+CYPHER,	?	I'll be the didn't tell you that this wasn't the first time he thought he found the One.
+CYPHER	m	Let me give you a piece of advice. Between you and me, if Morpheus says you can fly, I wouldn't go jumping out any windows to find out if he's right.  Understand?
+CYPHER	m	Welcome to the real world!
+CYPHER	m	That's what he said to me nine years ago.
+CYPHER	m	The real world.  Ha, what a joke.
+CYPHER	m	You know what real is?  I'll tell you what real is.
+CYPHER	m	Real is just another four-letter word.
+AGENT SMITH	m	Do we have a deal, Mr. Reagan?
+CYPHER	m	Mmm, so, so fucking good.
+CYPHER	m	You know, I know that this steak doesn't exist.  I know when I put it in my mouth, the Matrix is telling my brain that it is juicy and delicious.  After nine years, do you know what I've realized?
+CYPHER	m	Ignorance is bliss.
+AGENT SMITH	m	Then we have a deal?
+CYPHER	m	I don't want to remember nothing. Nothing!  You understand?  And I want to be rich.  Someone important.  Like an actor.  You can do that, right?
+AGENT SMITH	m	Whatever you want, Mr. Reagan.
+CYPHER	m	All right.  You get my body back in a power plant, reinsert me into the Matrix and I'll get you what you want.
+AGENT SMITH	m	Access codes to Zion.
+CYPHER	m	I told you, I don't know them. But I can give you the man who does.
+AGENT SMITH	m	Morpheus.
+NEO	m	Jeez, I was wondering about that.
+TANK	m	What?
+NEO	m	Why I was bald here but not in the Matrix.
+TANK	m	R.S.I.
+NEO	m	Residual self image.
+TANK	m	Good.  Now what's this?
+NEO	m	Life systems monitor, glucose levels.
+TANK	m	What's that?
+NEO	m	Main power supply to the core.
+TANK	m	How about this?
+NEO	m	Mainframe self-destruct.  Uses all remaining power to generate an...
+TANK	m	Electromagnetic pulse.  Our best weapon against the machines.  The problem is if someone is still in the Matrix when that thing goes off, they're not coming back.
+MORPHEUS	m	How's he doing?
+TANK	m	We just finished the operation programs and he's showing great retention.
+MORPHEUS	m	Good.  I want everyone alerted to 12-hour stand-by.  We're going in. Neo, it's time for you to know why you're here.
+NEO	m	What's he talking about?
+TANK	m	He's taking you into the Matrix to see her.
+NEO	m	See who?
+TANK	m	The Oracle.
+MORPHEUS	m	We're in.
+MORPHEUS	m	Mouse and Cable hold the exit. Let's go.
+NEO	m	Did you have to do this?
+TRINITY	f	Yeah.
+NEO	m	What did she tell you?
+TRINITY	f	Lots of things.
+NEO	m	Any of them true?
+TRINITY	f	Some of them.
+GIZMO	m	Were they good or bad?
+TRINITY	f	There's no point in worrylng. Whatever is going to happen is going to happen.
+MORPHEUS	m	We should be back in an hour.
+MORPHEUS	m	Do you now understand what it means when we say, if you're not one of us, you're one of them?
+NEO	m	The agents.  They're sentient programs.  They can commandeer any software hardwired to the mainframe.
+MORPHEUS	m	Anyone that is still in a power plant.  That is why we try to be invisible in the Matrix.
+NEO	m	The best hacking is always traceless.
+MOJO	m	Morpheus, been a long time coming.
+MORPHEUS	m	You're looking well, Mojo.
+MOJO	m	You bringing us geriatrics now. Morpheus?
+MOJO	m	Guess you are locking for a miracle.
+MOJO	m	All right, it's cool.  Go on back.
+REX	m	You're late.
+NEO	m	What -- what happened?
+MORPHEUS	m	This is the temple.  It is a part of Zion's mainframe.  It's hidden inside the Matrix so that we can access it.
+PRIESTESS	f	Hello, Morpheus.  We've been expecting you.
+MORPHEUS	m	Okay, you're on your own.  Go with them.
+PRIESTESS	f	Wait here.  Among the other Potentials.
+SPOON BOY	m	Your spoon does not bend because it is just that, a spoon.  Mine  bends because there is no spoon, just my mind.
+SPOON BOY	m	Link yourself to the spoon. Become the spoon and bend yourself.
+NEO	m	There is no spoon.  Right.
+PRIESTESS	f	The Oracle will see you now.
+NEO	m	Hello?
+VOICE	m	Just come on in.
+NEO	m	Hello?
+WOMAN	f	I know.  You're Neo.  Be right with you.
+NEO	m	You're the Oracle?
+ORACLE	m	Bingo.  I got to say I love seeing you non-believers.  It's really a relief.  All that pomp and circumstances just plain tucker me out.  Almost done.  Smell good, don't they?
+NEO	m	Yeah.
+ORACLE	m	I'd ask you to sit down, but you're not going to anyway.  And don't worry about the vase.
+NEO	m	What vase?
+ORACLE	m	The vase.
+NEO	m	Shit, I'm sorry.
+ORACLE	m	I said don't worry about it.  I'll get one of my kids to fix it.
+NEO	m	How did you know...?
+ORACLE	m	What's really going to bake your noodle later on is, would you still have broken it if I hadn't said anything.
+ORACLE	m	You're cuter than I thought.  I see why she likes you.
+NEO	m	Who?
+ORACLE	m	Not too bright, though.
+ORACLE	m	You know why Morpheus brought you to see me?
+NEO	m	I think so.
+ORACLE	m	So? What do you think?  You think you're the one?
+NEO	m	I don't know.
+ORACLE	m	You know what that means?  It's Latin.  Means, 'Know thyself.'
+ORACLE	m	Well, let's have a look at you.
+ORACLE	m	Open your mouth.  Say, 'ahhh.'
+ORACLE	m	Hmmm.  You sure got the gift, but it's tricky.  I'd say the bad news is, you're not the one.  Still got a lot to learn.  Maybe next life.
+NEO	m	What's the good news?
+ORACLE	m	Same as the bad news, you're not the one.
+NEO	m	Is that it, then?
+ORACLE	m	No.  Here.
+ORACLE	m	You better take a cookie.  Got a big day ahead of you.
+ORACLE	m	Make a believer out of you yet.
+MORPHEUS	m	You don't have to tell me anything, Neo, because I already know what she said.
+NEO	m	You do?
+MORPHEUS	m	I brought you so that you could hear it for yourself.  I knew it would help.
+MORPHEUS	m	No one will ever ask you because it is a gift from her.  It is for you and you alone.
+TRINITY	f	Here they come.
+TANK	m	Weird.  This area never has this much activity.
+MOUSE	m	Welcome to Movie-Phone.
+TANK	m	They're on their way.
+MOUSE	m	Right.
+MOUSE	m	Let's get to work.
+NEO	m	Whoa.  Deja vu.
+TANK	m	Oh, shit!  Oh, shit!
+TRINITY	f	What did you just say?
+NEO	m	Nothing.  Just had a little deja vu.
+TRINITY	f	What happened?  What did you see?
+NEO	m	A black cat went past us and then I saw another that looked just like it.
+TRINITY	f	How much like it?  Was it the same cat?
+NEO	m	It might have been.  I'm not sure.
+NEO	m	What is it?
+TRINITY	f	A deja vu is usually a glitch in the Matrix.  It happens when they change something.
+TANK	m	It's a trap!
+MORPHEUS	m	Come on!
+CABLE	m	Did you just feel something weird?
+MOUSE	m	Yeah...
+MOUSE	m	What's going on?
+TANK	m	They cut the hard-line!  It's a trap!  Get out!
+CABLE	m	Oh, no.
+TANK	m	No, no, no.
+CABLE	m	Morpheus!  It's a trap --
+TRINITY	f	Oh, God.
+CYPHER	m	That's what they changed.  We're trapped.  There's no way out.
+MORPHEUS	m	Give me your phone.
+TRINITY	f	They'll be able to track it.
+MORPHEUS	m	We have no choice.
+MORPHEUS	m	Tank, find a structural drawing of this building and find it fast.
+TANK	m	Got it.
+MORPHEUS	m	I need the main wet-wall.
+TANK	m	Now left and that's it in front of you.
+MORPHEUS	m	Good.
+AGENT SMITH	m	Eighth floor.  They're on the eighth floor.
+AGENT BROWTJ	m	Eighth floor!  Move!
+AGENT BROWN	m	Where are they?
+COP	m	They're in the walls!
+AGENT SMITH	m	Are orders that hard to follow? I'll say it again.  Morpheus must be taken alive.  Understand?
+AGENT SMITH	m	How like a rodent.
+COP	m	I got him!  I got him!
+MORPHEUS	m	Come on!
+TANK	m	Nerve gas.
+AGENT SMITH	m	We have them now.
+MORPHEUS	m	You have to get Neo out. Understand?  That's all that matters now.
+TRINITY	f	Morpheus, don't --
+MORPHEUS	m	He must get out.  Do you understand me?
+COPS	m	There he is!  That's him!
+COP	m	He's heading for the street!
+AGENT SMITH	m	So, we meet at last.
+MORPHEUS	m	And you are?
+AGENT SMITH	m	Smith.  I am Agent Smith.
+MORPHEUS	m	You all look the same to me.
+AGENT SMITH	m	I've been waiting for this noment.
+MORPHEUS	m	Oh, so have I.
+AGENT SMITH	m	You can't win.
+MORPHEUS	m	I already have.
+AGENT SMITH	m	Take him.
+TANK	m	No!
+AGENT JONES	m	The others were lost.
+AGENT SMITH	m	You've taken care of Reagan?
+AGENT SMITH	m	Then the others do not matter.
+TRINITY	f	We need a phone.
+TANK	m	We gotta find the others.  They're still alive.
+TANK	m	Operator.
+CYPHER	m	I need an exit!  Fast!
+TANK	m	Cypher?  I thought they had you?
+CYPHER	m	There was an accident.  A fucking car accident.  All of a sudden. Boom.  They're all dead.  I still got the shakes but, Jesus, someone's going to make a believer out of me.
+DOZER	m	There he is.
+TANK	m	I got you.
+CYPHER	m	Just get me outta here.
+TANK	m	Nearest exit is Franklin and Erie. An old appliance store.
+CYPHER	m	An actor.  Definitely.
+TANK	m	Operator.
+TRINITY	f	Tank, it's me.
+TRINITY	f	We need an exit!
+TANK	m	Gotcha.  You're not far from Cypher.
+TRINITY	f	Cypher, I thought --
+TANK	m	So did we.  That boy's got nine lives.  I sent him to Franklin and Erie.
+TRINITY	f	Got it.
+TANK	m	Got him.
+DOZER	m	System check looks fine.
+DOZER	m	You okay?
+CYPHER	m	Goddamn gas.  My lungs are killing me.
+CYPHER	m	We got any pain killers?
+DOZER	m	The first aid kit's over here.
+DOZER	m	No!
+SWITCH	m	God, I love that sound.
+TRINITY	f	You first,.Neo.
+TRINITY	f	What happened?
+NEO	m	I don't know.  It just went dead.
+CYPHER	m	Hello, Trinity.
+TRINITY	f	Cypher?  Where's Tank?
+CYPHER	m	He had an accident.
+TRINITY	f	An accident?  What about Dozer? Is Dozer there?
+CYPHER	m	You know, for a long time, I thought I was in love with you, Trinity.  I used to dream about you...
+CYPHER	m	You are a beautiful woman.  Too bad things had to work out like this.
+TRINITY	f	You killed them.
+APOC	m	What?!
+SWITCH	m	Oh God.
+CYPHER	m	In a way you're very lucky.  Most people never know why they die. One minute they're alive, the next they're dead.  No warning. Nothing.  That's why I thought maybe I should tell you.  It seemed the least I could do.
+CYPHER	m	You see, the truth, the real,truth is that the war is over.  It's been over for a long time.  And guess what?  We lost!  Did you hear that?  We lost the war!
+TRINITY	f	What about Zion?
+CYPHER	m	Zion?  Zion is a part of this delusion.  More of this madness. That's why this has to be done. It has to end.  Now and forever.
+TRINITY	f	Oh rny God.  This is abzut Zion. You gave them Morpheus for the access codes to Zion.
+CYPHER	m	You see, Trinity, we humans have a place in the future.  But it's not here.  It's in the Matrix.
+TRINITY	f	The Matrix isn't real!
+CYPHER	m	Oh, I disagree, Trinity.  I disagree.  I think the Matrix is more real than this world.  I mean, all I do is pull a plug here.  But there, you watch a man die.
+CYPHER	m	You tell me which is more real.
+CYPHER	m	Welcome to the real world, right?
+TRINITY	f	Somehow, some way, you're going to pay for this.
+CYPHER	m	Pay for it?  I'm not even going to remember it.  It'll be like it never happened.  The tree falling in the forest.  It doesn't make a sound.
+TRINITY	f	Goddamn you, Cypher!
+CYPHER	m	Don't hate me, Trinity.  I'm just the messenger.  And right now I'm going to prove that the message is true.
+CYPHER	m	If Morpheus was right, then there's no way I can pull this plug, is there?
+CYPHER	m	If he is the One, then in the next few seconds there has to be some kind of miracle to stop me. Because if he dies like the others that means Morpheus was wrong. How can he be the One if he's dead?
+TANK	m	How's it feel, Cypher?  Knowing you're about to die?
+NEO	m	It's Tank!  He's alive.
+TRINITY	f	We should, we should hurry.
+NEO	m	Yeah.  Right.
+TRINITY	f	Tank, you're hurt.
+TANK	m	I'll be all right.
+TRINITY	f	Dozer?
+TRINITY	f	I'm sorry, Tank.
+AGENT JONES	m	There is a problem.  Reagan has failed to secure the hardware.
+AGENT SMITH	m	Never send a human to do a machine's job.
+AGENT JONES	m	But if Reagan has failed, why haven't they pulled the plug?
+AGENT SMITH	m	Haven't you learned by now, that it is impossible to understand why they do the things they do?
+AGENT SMITH	m	Continue as planned.  Trace his signal to locate their position and deploy an extermination unit.
+NEO	m	What are they doing to him?
+TANK	m	They're cracking his mind.
+NEO	m	How?
+TANK	m	They inject virus-like serums to break down the system.  It's like cracking a computer.  All it takes is time.
+NEO	m	How much time?
+TANK	m	Depends on the mind.  But eventually, it will crack and his alpha pattern will change from this to this.
+TANK	m	When it does, Morpheus will tell them anything they want to know.
+NEO	m	The access codes to Zion.
+TANK	m	If an agent got inside Zion's mainframe he could do anything. Disable the defense system. It would be the end of us.
+TANK	m	We can't let that happen.  We have to do it, Trinity.  Zion has to be protected.
+TRINITY	f	Goddamnit!  Goddamnit!
+TANK	m	We have to pull the plug.
+TRINITY	f	No!
+TANK	m	We don't have any other choice.
+TANK	m	Trinity, what are you doing?
+TRINITY	f	I'm going in after him.
+TANK	m	Morpheus could conform at any minute --
+TRINITY	f	If he does I'm sure you'll do what has to be done.
+TANK	m	You saw that place.  It's suicide.
+TANK	m	I know what Morpheus means to you --
+TRINITY	f	No.  No, I don't think you do.  If you did, then you would know that I'm not letting him go.  Not without a fight, Tank.
+TRINITY	f	Not without a fight.
+AGENT SMITH	m	Have you ever stood and stared at it, Morpheus?  Marveled at its beauty.  Its genius.  Billions of people just living out their  lives... oblivious.
+AGENT SMITH	m	Did you know that the first Matrix was designed to be a perfect human world?  Where none suffered, where everyone would be happy.  It was a disaster.  No one would accept the program.  Entire crops were lost.
+AGENT SMITH	m	Some believed we lacked the programming language to describe your perfect world.  But I believe that, as a species, human beings define their reality through suffering and misery.
+AGENT SMITH	m	The perfect world was a dream that your primitive cerebrum kept trying to wake up from.  Which is why the Matrix was re-designed to this:  the peak of your civilization.
+AGENT SMITH	m	I say 'your civilization' because as soon as we start thinking for you, it really becomes our civilization, which is, of course, what this is all about.
+AGENT SMITH	m	Evolution, Morpheus.  Evolution.
+AGENT SMITH	m	Like the dinosaur.  Look out that window.  You had your time.
+AGENT SMITH	m	The future is our world, Morpheus. The future is our time.
+TRINITY	f	What do you think you're doing?
+NEO	m	You need help.  I'm coming with you.
+TRINITY	f	No.  No way.  Morpheus sacrificed himself so you could escape. There's no way you're going back in.
+NEO	m	Morpheus did what he did because he believed that I'm something that I'm not.
+TRINITY	f	What?
+NEO	m	I'm not the One, Trinity.  The Oracle told me.
+NEO	m	She said I had a gift but I still had a lot to learn.  She told me maybe next life.
+TRINITY	f	Did you tell Morpheus?
+NEO	m	Why?  It wouldn't mean anything. He'd still believe what he wanted to believe.  But Morpheus is the one that matters.  He's more important than me and we both know it.
+NEO	m	I may not be what Morpheus thinks I am, but if I don't try to help him, then I'm not even what I think I am.
+TRINITY	f	What are you?
+NEO	m	His friend.
+AGENT SMITH	m	I'd like to share a revelation that I've had during my time here. It came to me when I tried to classify your species.  I've realized that you are not actually mammals.
+AGENT SMITH	m	Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment.  But you humans do not.  You move to an area and you multiply and multiply until every natural resource is consumed and the only way you can survive is to spread to another area.
+AGENT SMITH	m	There is another organism on this planet that follows the same pattern.  Do you know what it is? A virus.
+AGENT SMITH	m	Human beings are a disease, a cancer of this planet.  You are a plague.  And we are... the cure.
+TANK	m	Okay.  Store's open.  What do you need?
+TRINITY	f	Guns.  Lots of guns.
+TANK	m	Coming right up.
+TRINITY	f	No one has ever done anything like this.
+NEO	m	Yeah?
+NEO	m	That's why it's going to work.
+AGENT SMITH	m	Why isn't the serum working?
+AGENT BROWN	m	Perhaps we are asking the wrong questions.
+AGENT JONES	m	Or he doesn't know.
+AGENT SMITH	m	Of course he knows.  He's resisting.
+AGENT BROWN	m	How?
+AGENT SMITH	m	I don't know.  If I knew...
+AGENT SMITH	m	Leave me with him.
+AGENT SMITH	m	Now!
+TANK	m	Hold on, Morpheus.  They're coming for you.  They're coming.
+AGENT SMITH	m	Can you hear me, Morpheus?  I'm going to be honest with you.
+AGENT SMITH	m	I hate this place.  This zoo. This prison.  This reality, whatever you want to call it, I can't stand it any longer.  It's the smell, if there is such a thing.  I feel saturated by it.  I can taste your stink and every time I do, I fear that I've somehow been infected by it.
+AGENT SMITH	m	Repulsive, isn't it?
+AGENT SMITH	m	I must get out of here, I must get free.  In this mind is tlie key. My key.
+AGENT SMITH	m	Once Zion is gone, there's no need for me to be here.  Do you understand?  I need the codes.  I have to get inside Zion.  You have to tell me how.
+AGENT SMITH	m	Tell me!  Tell me!
+AGENT BROWN	m	What were you doing?
+AGENT JONES	m	You don't know.
+AGENT SMITH	m	Know what?
+AGENT JONES	m	I think they're trying to save him.
+NEO	m	There is no spoon.
+AGENT JONES	m	Lower level --
+AGENT BROWN	m	They are actually attacking.
+AGENT SMITH	m	Find them and destroy them!
+PILOT	m	I repeat, we are under attack!
+NEO	m	Trinity!
+NEO	m	... help.
+AGENT JONES	m	Only human...
+TRINITY	f	Dodge this, motherfucker!
+NEO	m	Thanks.
+TRINITY	f	You're hit --
+NEO	m	I'm fine.
+NEO	m	Can you fly that thing?
+TRINITY	f	Not yet.
+TANK	m	Operator.
+TRINITY	f	Tank, I need a pilot program for a military M-109 helicopter.
+TRINITY	f	Hurry!
+TRINITY	f	Let's go.
+SERGEANT	m	Sir!  Sir!  There was gunfire -- we've lost communication with the roof!
+AGENT JONES	m	Remain at your posts.
+SERGEANT	m	But, sir -- the fire -- we should evacuate!
+AGENT JONES	m	You will do as you are ordered!
+SERGEANT	m	Yes, sir.
+AGENT SMITH	m	No.
+NEO	m	Get up, Morpheus!  Get up!
+AGENT SMITH	m	Nooo!
+NEO	m	He won't make it.
+NEO	m	Gotcha!
+TRINITY	f	Shit-shit-no!
+NEO	m	Oh fuck.
+TANK	m	He's the One.  He's got to be...
+MORPHEUS	m	I knew it!  I goddamn knew it!
+TRINITY	f	Morpheus!
+MORPHEUS	m	Do you believe me now?  He's the One!  Who else could have done this?
+NEO	m	Morpheus, I know you won't believe me but the Oracle told ne I'm not the One.
+MORPHEUS	m	It doesn't matter if I don't believe you --
+MORPHEUS	m	What matters is that you don't believe her.
+TRINITY	f	Tank, get us out of here.
+TANK	m	Got one ready.  An underground El station.  State and Balbo.
+TRINITY	f	See ya soon.
+TANK	m	See ya soon.
+AGENT BROWN	m	The trace was completed.
+AGENT JONES	m	We have their position.
+AGENT BROWN	m	The extermination unit is in place.
+AGENT JONES	m	Order the strike.
+AGENT SMITH	m	They're not out yet.
+NEO	m	Don't!
+OLD MAN	m	I'm sorry -- I didn't mean!
+NEO	m	Get outta here.  Okay?  Run!  Go!
+TRINITY	f	What happened?  Was that --
+NEO	m	It was nobody.
+NEO	m	Let's go!  You first, Morpheus.
+TRINITY	f	Morpheus is right, you know.  It doesn't matter what he believes or even what the Oracle believes. What matters is what you believe.
+NEO	m	I believe...
+NEO	m	I want to kiss you.
+TRINITY	f	I want to kiss you too...
+TRINITY	f	But I want it to be real.
+TRINITY	f	Neo!
+TANK	m	What the hell just happened?
+TRINITY	f	An Agent!  You have to send me back!
+TANK	m	I can't!
+AGENT SMITH	m	You're empty.
+NEO	m	So are you.
+AGENT SMITH	m	You can't win.
+NEO	m	I already have.
+TRINITY	f	Jesus, he's killing him!
+TRINITY	f	Send me back, Tank!  Anywhere!
+TANK	m	I'm looking, Trinity!  I'm looking!
+TRINITY	f	What is it... oh no.
+TRINITY	f	Sentinels.
+AGENT SMITH	m	Do you hear that, Mr. Anderson?
+AGENT SMITH	m	That is the sound of inevitability.
+AGENT SMITH	m	It is the sound of your death.
+AGENT SMITH	m	Goodbye, Mr. Anderson.
+NEO	m	My name is Neo.
+TRINITY	f	You can't use that until Neo is out!
+MORPHEUS	m	I know.  Don't worry, he'll make it.
+TANK	m	Operator.
+NEO	m	Mr. Wizard, Get me the fuck out of here!
+NEO	m	Hurry, Tank!  I got some serious pursuit!
+TRINITY	f	Neo, you better get your ass back here!
+NEO	m	I'm trying, Trinity.  I'm trying.
+TANK	m	I got one!
+TANK	m	Wabash and Lake.  A hotel.
+TANK	m	Room 303.
+TANK	m	I'm going to make the call.
+MORPHEUS	m	Do it!
+TRINITY	f	Where is he?
+TANK	m	Almost there.
+MORPHEUS	m	He's going to make it.
+TRINITY	f	Hurry, Neo.
+AGENT SMITH	m	Check him.
+TRINITY	f	No-no-no!  Neo, you're not dead! You can't be dead!
+AGENT BROWN	m	He's gone.
+AGENT SMITH	m	I told you, you couldn't win.
+TRINITY	f	You're right here.  I'm holding  you, Neo.  I'm not letting you go. Do you hear me?  I won't let you go.
+TRINITY	f	Goddamnit, Neo!  Don't give it up! Not now!
+TRINITY	f	Not now!
+TRINITY	f	Now get up!
+AGENT SMITH	m	Nooooo!
+TRINITY	f	Now!
+TRINITY	f	Neo?
+NEO	m	Hi.  It's me.  I know you're out there.  I know you're working as fast as you can to catch me.
+NEO	m	I thought I should call and let you know how things stand.
+NEO	m	I know you're real proud of this world you've built, the way it works, all the nice little rules and such, but I've got some bad news.
+NEO	m	I've decided to make a few changes.
+BOY	m	Mommy!  Mommy!
+MOMMY	f	What?
+BOY	m	That man!  That man flies!
+MOMMY	f	Don't be silly, honey.  Men don't fly.
+

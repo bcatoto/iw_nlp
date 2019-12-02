@@ -1,0 +1,229 @@
+WERECHICKEN  	?	(A CROWING HOWL)
+WERECHICKEN 	?	(ANOTHER HOWL, nearer now) The chickens' heads jerk up toward the sound.
+WERECHICKEN 	?	(GURGLING, HEAVY BREATHING)
+ZEKE	m	Sump'n's stirrin' up the chickens, Maude.
+MAUDE	f	Jes' set easy, Zeke. (she rises; heads for door) I'll take a look-see.
+WERECHICKEN 	?	(GURGLING, HEAVY BREATHING)MAUDE (as she goes) Here, chick-chick-chick-chick.
+MAUDE	f	What's got you girls so durned upset? There a coyote sneakin' 'round?
+WERECHICKEN 	?	(Low, gutteral CLU-UCK)
+MAUDE	f	(GASP!)WERECHICKEN (Frightening SHRIEK)
+TV WEREWOLF	m	(eerie HOWL)
+ZEKE	m	(without looking up) Everythin' okay out there, Maude?
+MAUDE-CHICKEN	?	(CLUCKS)
+ZEKE 	m	What say?
+MAUDE-CHICKEN 	?	(more CLUCKS)
+ZEKE	m	(SCREAMS)ZEKE  (YELLING) Get away!' Scat!  Shoo!
+MAUDE-CHICKEN 	?	(loud SQUAWKING)
+ZEKE 	m	(from distance) Help!... He-elp!
+PETER 	m	Egon, could you hold off on the weather balloon bit for a minute?
+PETER 	m	It's Your night to take out the trash.
+RAY	m	And Winston's in the kitchen doing your dishes.
+EGON	m	(preoccupied; through above) Be with you in ... (checks watch) ...one minute, fifty-three seconds.
+PETER AND RAY	m	(AD-LIB REACTIONS as they bounce off balloon)
+SLIMER 	m	(big muffled SQUEAL)
+PETER	m	(pissed; sarcastic) Thanks, Slimer.  I really needed that!
+SLIMER	m	Sorreee!
+RAY	m	(irritated) Egon!  The phone!
+EGON	m	(preoccupied with remote controls) In a minute, Ray.
+WINSTON	m	(sarcastic) Nevermind, Egon, wouldn't want you to strain yourself. (picks up phone) Ghostbusters Central.
+WINSTON	m	Calm down... Where are you?... (a BEAT as he listens) We'll be right there.
+WINSTON	m	Ready for this one?  Some farmer says his wife was eaten by a giant chicken.
+PETER	m	Hey, even a half-baked false alarm sounds better than doing Egon's chores. (he drops trash bags) Let's roll!
+EGON	m	I think I've finally perfected it.  Watch this, guys. (a BEAT, he looks around over shoulder) Guys?
+RAY	m	It sure feels strange not having Egon with us.
+PETER	m	(sarcastic) Why?  Lately even when he's with us, he's not with us.
+WINSTON	m	But wouldn't it be somethin' if he sells that weather balloon idea of his?  He'll be a rich man!
+PETER	m	Good.  Then he can hire a maid to do his share of the chores.
+MAUDE-CHICKEN	?	(Egg-laying CLUCKS)
+MAUDE-CHICKEN	?	(SQUAWKS and CLUCKS)
+ZEKE	m	Had big blood-red eyes, it did.  Biggest dang chicken I ever seen.  Mebbe six feet tall.
+WINSTON	m	Shouldn't be hard to find.
+RAY	m	Did it have any distinguishing marks?
+PETER	m	Ray!  It's six feet tall!
+PETER 	m	(over shoulder as he goes) Thank you, Sir.  We'll put out a missing chicken report right away.
+PETER	m	(as they go) This one's easy, guys.  Old Zeke's been watchin' too many horror movies and eating too much greasy popcorn.
+RAY	m	No, Peter, I think we're dealing with a bonafide werechicken here.
+WINSTON	m	A werechicken?
+PETER	m	Get serious, Ray.
+RAY	m	Then explain those!
+SLIMER	m	(SNIFFS as he goes)
+SLIMER 	m	Ow!
+SLIMER	m	(amazed GASP!)
+RAY	m	(excited) What'd I tell you, Peter?  A werechicken egg!  Gimme a hand, Winston!
+PETER	m	Look, if this is a werechicken egg,
+PETER 	m	...how come there's no PKE reading?
+RAY	m	(looking at meter in Peter's hand) I dunno... that is strange.
+WINSTON	m	Let's get it back to Headquarters and run some tests.  Then maybe we'll have some answers.
+RAY	m	Oh no, I'm not leavin'.  The werechicken that laid this has gotta be around here someplace -- and I'm gonna find it.
+PETER	m	(throws up his hands with heavy SIGH) I'll take it.  C'mon, Slimer.
+PETER  	m	(shaking his head; as he goes) Werechickens.
+WERECHICKEN  	?	(BREATHING & SLOBBERING)PETER (through above) Yo, balloon man, we've got some real work for you:  How about analyzing this?
+EGON	m	Interesting.  That's the second biggest egg I've ever seen.
+PETER	m	I don't wanna hear about it, Egon.  We've had a long night in a not-too-fragrant barnyard, so I'm taking a shower and hitting the sheets.
+WINSTON	m	(tired) Ray, it's gettin' pretty late.  Maybe there really isn't any...
+RAY	m	(holds up one hand) Shh!
+RAY	m	(low voice) It's in there.
+WINSTON	m	(unclipping his blaster) Then let's get it!
+WINSTON	m	(WHISPER)
+	?	Man, this place is creepy.
+RAY	m	(WHISPER)
+	?	It's in here -- I can feel it.
+WINSTON	m	Look out!
+RAY & WINSTON	m	(relieved SIGHS)
+WERECHICKEN 	?	(HEAVY BREATHING)RAY (whisper) Something's close.  Very close.
+WERECHICKEN 	?	(HEAVY BREATHING)WERECHICKEN (HEAVY RASPY BREATHING)WERECHICKEN   (HEAVY PANTING)RAY  It is a werechicken!
+WINSTON	m	Man, he is ugly!
+WERECHICKEN	?	(ROARS angrily)
+RAY	m	Bad choice of words, Winston.
+WERECHICKEN	?	(loud SHRIEKING SQUAWK)
+WERECHICKEN	?	(SHRIEKS)SPIRIT (big ROAR)
+RAY	m	Trap out!
+WINSTON	m	Hang on!  That's it!
+RAY	m	We've almost got him!
+CHICKEN	m	(Normal CLUCKING)
+RAY	m	(looking at chicken) Well, that takes care of one werechicken.
+RAY 	m	Now to find the six-footer that ate Zeke's wife.
+WINSTON	m	Ray, I just had a thought...
+WINSTON 	m	What if that six-foot werechicken is Zeke's wife?
+EGON	m	(straining) Thanks for the help, Slimer, but I don't have time to examine this egg tonight.  I have to prepare for my weather balloon demonstration tomorrow morning.
+EGON 	m	(through above) But it'll be safe in here.
+SLIMER	m	Yeah.
+SLIMER	m	(big YAWN) G'night, Egon.
+EGON	m	Goodnight, Slimer.
+SLIMER	m	(SNORING)SLIMER Fooooood.
+SLIMER	m	(licking his lips) Yummy!
+SLIMER	m	(SQUEALS, then GRUNTS)
+SLIMER	m	(HUMMING through above)
+SLIMER	m	(still HUMMING)
+BABY WERECHICKEN	f	(SNARLING, CACKLING)SLIMER (startled SCREAM)
+PETER	m	(AD LIB SINGING)PETER (startled YELL; then:) Slimer!  How 'bout some privacy??
+SLIMER	m	(pointing, eyes wide) Monster!  Inna kitchen!
+PETER	m	Monster?
+SLIMER	m	(nods) Uh-huh!  Uh-huh! (imitates werechicken)EGON (looking around) Ow!
+BABY WERECHICKEN  	f	(CACKLING fading into distance)
+EGON 	m	(dazed) What?
+EGON-CHICKEN	?	(Weird CLUCK)
+PETER	m	(CALLS)
+	?	Egon? (to Slimer) Well, Slimer, I don't see anything here that looks like a monster.
+EGON-CHICKEN	?	(CHICKEN HOWL)SLIMER (SQUEALS as he goes)
+PETER	m	Holy cow!!
+EGON-CHICKEN	?	(LOUD GROWL)END ACT ONE -----------
+EGON-CHICKEN	?	(SNARLING as he goes)
+PETER	m	(horrified) What'd you do to Egon, you bird-brain!
+RAY 	m	Peter!  Wait!
+PETER	m	(surprised as he looks around) Hey!
+EGON-CHICKEN 	?	(SNARLS)PETER (irritated; through above) What's wrong with you guys?  That thing ate Egon!
+RAY	m	Peter, that is Egon!  The egg hatched, he was bitten and now he's a werechicken!
+PETER	m	(looking at door) You're kidding! (a BEAT, then) Come to think of it, there was a certain resemblance.
+WINSTON	m	(looking toward door) What happened?  He's so quiet all of a sudden.
+RAY	m	It's the moon!
+RAY 	m	Tonight's the first --
+RAY 	m	-- lunar eclipse in ten years!
+PETER	m	Ray, what's this have to do with Egon being a chicken?
+RAY	m	(turning to others) Werechickens only appear during a full moon, and for the next few minutes, the moon's not full.
+RAY	m	(tentative) Egon?
+EGON	m	Ray, what is going on?
+EGON 	m	And why am I naked?
+SLIMER	m	(as he enters) Egon!PETER Sit down, Egon, we have some good news and some bad news.
+EGON	m	(as he sits) Bad news first.
+WINSTON	m	You've been turned into a werechicken!
+EGON	m	A werechicken?
+RAY	m	(flipping through book) Were-aardvarks ... were-bears werechickens! (reads) "The werechicken appears during the full moon.  Anyone it bites will turn into another werechicken." (he looks at Egon) That egg Peter brought in, it hatched and...
+EGON	m	(through above) I remember the bite clearly.  How long will I stay like this?
+RAY	m	(looking in Tobin's Guide) According to this, there is an antidote. But we've gotta move fast -- the eclipse only lasts three minutes!
+RAY	m	(reading through above) "One tablespoon paprika, one clove of garlic, some parsley for color, cup of gelatin..."
+EGON	m	(weakly) I don't feel well.
+PETER	m	(through above) Take it easy, Egon.  You're gonna be fine. (SHOUTS O.S.; worried) Hurry it up, guys!
+RAY	m	(reading hurriedly) "And one tablespoon of chickenbane."
+SLIMER	m	(aghast) No chickenbane!
+RAY	m	Then we've gotta go with this!  C'mon!
+PETER 	m	(YELLS)
+	?	Come on, Ray!!
+PETER  	m	(YELLS o.s.) He's changing again!
+RAY	m	(breathless) Quick, Egon, drink this!
+EGON	m	(swallowing, GULPING sounds)
+WINSTON	m	We're too late!
+PETER	m	What happened?
+RAY	m	The potion only partly worked, because of the missing chickenbane.
+PETER	m	Well, we hafta do something!
+EGON	m	Don't get your feathers ruffled, Peter. There's a logical solution to every problem.
+BABY WERECHICKEN 	f	(HOWL)SLIMER (SQUEALS as he goes)
+WINSTON	m	What was that?
+RAY	m	The werechicken that bit Egon.  It's still out there somewhere.
+PETER	m	(to others) Let's stop that thing before it makes drumsticks out of anyone else! (to Egon) Un, no offense, Egon.
+PETER	m	(into radio mike) All quiet on the chicken front.  How about down there?
+RAY	m	Not a peep.
+WINSTON	m	(gives Ray a dirty look) No pun intended.
+PEOPLE	m	(SCREAMING as they exit)
+WINSTON	m	That's it!
+BOX BOY	m	(breathless) It's in there!  A big chicken!  It's gotta be ten feet tall!
+WINSTON	m	Ten feet tall?
+BOX BOY	m	(nods) Maybe fifteen, I dunno.  Big! (he runs o.s.) I'm outta here!
+RAY	m	(to Winston) Let's split up.
+WINSTON	m	How could we lose a fifteen foot-tall chicken?
+BUTCHER 	m	(frightened SCREAM)
+RAY	m	We didn't!  Come on!
+BUTCHER	m	A giant chicken just came through here -- it was thirty feet tall!
+WINSTON	m	Thirty feet tall?
+BUTCHER 	m	Yeah!  Look what it did to those cars!
+PETER 	m	(into radio) It's how big?  Okay, Ray, I admit you were right about these Werechickens,...
+PETER 	m	...but I definitely don't buy them growing to the size of buildings.
+SLIMER	m	(covers mouth, LAUGHTER FIZZING through his closed, flapping lips. "How absurd.")
+SLIMER	m	(SCREAMS)WERECHICKEN (deafening HOWL)
+PETER	m	(into mike) Ray, you were right!  The chicken's here, and he's a walking high-rise!
+RAY	m	(into radio) On our way, Peter.
+JANINE 	f	(big SCREAM)
+EGON	m	(startled CLUCK)
+JANINE	f	Egon!  What happened?
+EGON	m	It's a long story, Janine.   Can you get my coat, please?  I'm due at the weather board in forty-five...
+	?	...minutes.
+JANINE	f	But what ...? (thinks better of asking) Nevermind.
+JANINE	f	Are you sure you wanna go to a meeting like -- this?
+EGON	m	Trust me.  I'm of sound mind at least.
+EGON	m	(CLUCKING as he goes)
+CROWD	m	(panicky WALLA)
+PETER	m	(into radio) It's heading down 34th toward the Empire State Building.
+RAY 	m	Check!  We're almost there.
+WERECHICKEN 	?	(HOWLS)PETER Take over, Slimer!
+SLIMER	m	Roger!
+WERECHICKEN	?	(enraged HOWLS)
+RAY	m	Let's reel him in!
+SPIRIT	m	(angry HOWLS)
+WINSTON	m	(loud) Trap's full!  Somebody forgot to empty it!
+RAY	m	(YELLS)
+	?	Whose job was it?
+RAY AND WINSTON	m	EGON'S!
+RAY 	m	It's gonna blow!
+WINSTON 	m	(over walkie-talkie) Peter, get outa here!
+WERECHICKEN	?	(HOWLS)PETER So how're we gonna, put that big bird on ice, guys'
+RAY	m	(SNAPS finger) Peter, that's not a bed idea!  Chicken freezes at very low temperatures!
+WINSTON	m	Yeah, but how do you freeze a 50-foot chicken in August?
+RAY, WINSTON & PETER	m	Egon's weather balloon!
+EGON	m	Distinguished members of the Weather Board, my weather balloon has the clu-cluck-clu- capability --
+EGON 	m	... of entering the upper atmosphere where clu-cluck-clu cloud formations occur.
+BOARD	m	(puzzled MUTTERING WALLA)
+EGON 	m	There, it can electronically alter weather cut-cut-cut-con-ditions to produce sun, rain, or...snow.
+BOARD MEMBERS	m	(excited WALLA)
+EGON	m	(to Board members) I, er, can explain this, but --
+SLIMER	m	(WHISPERING MUTTERS)EGON What?
+WERECHICKEN	?	(distant SQUAWKS)
+WEATHER BOARD MEMBERS	m	(SCREAMING)PETER (loud over engine) Egon, can we freeze that big chicken with your weather balloons
+EGON	m	(holds up wings) Yes, but you'll have to work the controls.
+PETER	m	(nods) Piece of cake.
+WERECHICKEN	?	(hideous CROW)
+WINSTON	m	What's it doing?
+RAY	m	It looks like it's about to lay an --
+WINSTON	m	(with dread) I don't want to hear it.
+EGON	m	Okay, Peter, the balloon's in position. Turn the lever to the extreme left.
+WERECHICKEN	?	(angry SQUAWKS)
+RAY AND WINSTON	m	They did it!  All-right!!
+MAUDE 	f	(calls) Anyone for dessert?
+EGON	m	(raising hand) You bet, Maude.
+PETER	m	Lemme guess -- more chickenbane soup!
+EGON	m	I'm actually starting to like it.
+MAUDE	f	No more werechicken problems for us, eh, Egon?WERECHICKEN  (HOWL)WINSTON Uh-oh.
+RAY	m	It came from the lab!
+WERECHICKEN 	?	(another HOWL)
+SLIMER	m	(HOWLS)WINSTON (big SIGH) It's just Slimer groovin' to his new James Brown tape.
+SLIMER	m	(a la James Brown) I feel good! I knew that I would So good, so good, so good! (big James Brown HOWL as we --)PETER (long-suffering) Tell me, how do I get out of this chicken outfit?
+

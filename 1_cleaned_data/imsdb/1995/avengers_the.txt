@@ -1,0 +1,761 @@
+EMMA	f	How now brown cow ... The rain in Spain falls mainly on the plain ... The quick brown fox jumped over the lazy --
+VOICE	m	Password affirmative. Thank you, Doctor.
+PETER	m	Ready, darling?
+EMMA	f	Ready as I'll ever be ...
+VALENTINE	f	Atmospheric pressure checked, antenna ready...  Thermal chamber ready ... Compression module  set ... Temperature control on course between  one and one forty ... Water turbulence steady ...
+PETER	m	Anything else?
+VALENTINE	f	Good luck ... Peter ... Emma.
+EMMA	f	Thanks, Valentine ...
+PETER	m	Just a minute, darling. My brother's a  worry wart. I better have a word ... Valentine --
+PETER	m	Something to remember me by.
+PETER	m	See you in an hour ...
+EMMA	f	One sunny day ...
+VALENTINE	f	Readings still normal ...
+PETER	m	Losing control -- malfunction in thermal chamber -- for Christ's -- Emm --!
+COUNTDOWN	m	Five -- four --  three -- two -- one ... Three -- two -- one ... Three -- two -- one ...
+VALENTINE	f	Emma, Peter, get out! It's going to explode!
+VALENTINE	f	Emma ...
+VALENTINE	f	Get out! Leave him -- ! Emma!
+EMMA	f	Peter!
+VALENTINE	f	Don't wait for him -- he's not --
+PETER	m	Emma ... Emma ...
+ANNOUNCER	f	... The War Office today approved military  expenditure for the nation's new defense alert  system. A spokesman  said he would raise the  matter at the forthcoming World  Council of  Ministers, but that a state of vigilance was  still necessary in the uncertain climate.
+STEED	m	Brenda -- ?
+MOTHER	f	Steed -- ?!
+STEED	m	Mother. I thought you were burglars.
+MOTHER	f	Brenda and I thought we'd drop in.
+BRENDA	f	See how you're getting on ...
+STEED	m	Something in the wind?
+MOTHER	f	Weather's turning nasty.
+STEED	m	You didn't come to talk about the weather, surely.
+MOTHER	f	Oh yes I did. I want you to meet somebody. I expect you'll like her.
+STEED	m	'Her'?
+MESSENGER	m	Dr. Peel?
+EMMA	f	Thank you ...
+EMMA	f	'Please answer the Telephone.'
+WOMAN	f	Boodles Club, the Mall, 2:30 p.m. Mr. John Steed ... Boodles Club, the Mall, 2:30 p.m. Mr. John Steed ...
+EMMA	f	Kippers ...?
+PORTER	m	May I help you, madam ...
+EMMA	f	Mr. John Steed, please.
+PORTER	m	I'm afraid that's impossible.
+EMMA	f	Impossible?
+PORTER	m	You are female?
+EMMA	f	As you see.
+PORTER	m	Then you can't come in.
+EMMA	f	I have an appointment.
+PORTER	m	No women. Not in Boodles. Not since 1922.
+EMMA	f	Really -- what happened in 1922?
+EMMA	f	Thank you so much. I can find Mr. Steed myself ...
+STEED	m	Doctor Peel, I presume?
+EMMA	f	And you must be Steed. Please don't get up.
+STEED	m	I was about to throw in the towel.
+EMMA	f	I had a spot of bother at the door.
+STEED	m	I shouldn't wonder. Not a woman inside Boodles since --
+EMMA	f	1922. Why the kippers?
+STEED	m	Red herring would have been too obvious, don't you think?
+EMMA	f	So what was all this -- some sort of test?
+STEED	m	Congratulations, you've penetrated a  bastion of male privilege. I guessed  you weren't a stickler for Tradition,  doctor.
+EMMA	f	Whereas you are.
+STEED	m	Dyed in the wool. But I can admire  someone who doesn't play by the  rules.
+EMMA	f	Rules are made to be broken.
+STEED	m	Not by me. Play by the rules, Doctor, or the game is nothing.
+EMMA	f	And just what is the game?
+STEED	m	I say, this is all terribly formal.   Must I go an calling you Dr. Peel?
+EMMA	f	Under the circumstances, you may  call me Mrs. Peel.
+STEED	m	Much better.
+EMMA	f	And now that we've settled the matter  of honorifics, will you kindly explain  why you wished me to meet you?
+STEED	m	I didn't. Mother did.
+EMMA	f	Mother?
+STEED	m	I expect you'll like him.
+STEED	m	Tea time -- four o'clock.  Mustn't be late. A word of warning. Don't take the macaroon. Mother's favorite.
+MOTHER	f	That's better. I much prefer a womb with view, don't you, Mrs. Peel?
+MOTHER	f	Shall I be mother?
+MOTHER	f	I expect you're wondering where you are.
+EMMA	f	Don't tell me: You're the shadow secret  service. You're so hushhush, even the  legit secret service knows nothing about  it. Am I right?
+MOTHER	f	Close. We're so hush-hush, even we know nothing about it. Now let's see, there's coconut cake,  date and walnut; I recommend the  rum baba ...
+EMMA	f	Hmmm ...
+MOTHER	f	Looks like rain, Steed...
+STEED	m	... Showers followed by sunny periods.
+EMMA	f	We're not here to talk about the weather, surely.
+MOTHER	f	Oh, yes we are.
+BRENDA	f	Macaroon?
+MOTHER	f	We've had a series of bizarre weather reports.   We kept them hush-hush and sent agents into  the field for data. Case number one:  April 14, 3:35 P.M., Special Agent Simkins  investigating mysterious fires in corn circles.   A field outside the village of Little Snoring,  one of the hottest days of the year. Trapped  by a sudden blizzard. Found frozen to death  in a giant ice cube -- like a mammoth in  perma-frost. Case two: Pilot Raymond Shaw, May 6, 11:28 A.M.  Took off from a deserted airstrip near Stoke Poges,  investigating bizarre atmospheric reports. A freak  rainstorm downed him. Knocked unconscious by a  flying fish, falling from 15,000 feet. Twenty-five  inches of rain in eight minutes, over an area the size  of a cricket pitch ... ... Case three: June 2, 5:43 P.M. Defense Chief  Major Courtnay. Remains discovered in a turnip  field near Ashby de la Zouche. Our boffins  recorded a sudden blast of heat. Scorched earth,  temperature of 1000 degrees. Spontaneous  combustion. Not much of him left ...
+MOTHER	f	My number two. Special assignments.   She's --
+EMMA	f	Let me guess -- 'Father'?
+FATHER	m	All happy families here, Mrs. Peel. 
+EMMA	f	You're --
+FATHER	m	God, you're quick.
+MOTHER	f	Have a look at these, Mrs. Peel --
+STEED	m	Ah ... From Trubshaw's.  My shoemaker.
+EMMA	f	A kipper. Or a red herring? What were  they investigating?
+FATHER	m	A series of bizarre shifts in local weather  patterns ...
+STEED	m	Global warming?
+FATHER	m	Jungle plants in the Arctic? A lush  English village transformed overnight  into African scrubland? Blizzards in summer?
+EMMA	f	How curious ...
+MOTHER	f	Something strange is happening. And  whoever knows about it doesn't want  us to find out.
+FATHER	m	Your mission is simple. Find out how and why these agents died.
+EMMA	f	I'm no spy -- where do I fit in?
+MOTHER	f	Your research into climate engineering was  state-of-the-art. Your experiments could  have revolutionized our knowledge of global  warming -- had they succeeded. We need  your expertise.
+STEED	m	Perhaps I'd better start calling you doctor  again, Mrs. Peel --
+EMMA	f	I'm not sure I'm ready to return to work.   I've been out of action for some time. I'll  consider your proposal.
+FATHER	m	One moment, Mrs. Peel. There's another  special reason we wanted you to join our  happy family; rather curious, actually ...
+MOTHER	f	Eye witness reports. Strangers in the area.   One description tallied in all three places.   Recognize her?
+EMMA	f	Me, isn't it?
+FATHER	m	Think of it as special assignment, Mrs. Peel.   With a twist. You're our chief suspect.
+EMMA	f	You're saying I have no choice.
+MOTHER	f	Father will be your controller. Steed here  will show you the ropes.
+EMMA	f	Ropes?
+STEED	m	Think she really killed those agents?
+MOTHER	f	She may not know. Theory goes she may be very ill.
+STEED	m	Amnesia?
+MOTHER	f	Possibly. Split personality ...
+STEED	m	Insane ... ?
+MOTHER	f	Who knows? If Dr. Darling is right,  you should watch out.
+STEED	m	Why?
+MOTHER	f	She may try to kill you.
+STEED	m	Perhaps I ought to talk with Dr.  Darling.
+DR. DARLING	f	One key point: Mrs. Peel is a widow: she's obsessively devoted to the memory  of her husband the scientist Peter Peel.  You may find her a little ... remote.
+DR. DARLING	f	They were a team. Met at Cambridge.  Working on a top secret research mission  into weather conditions, code name The Prospero Project, when Peel died.
+MOTHER	f	Something went wrong. System malfunction.   Explosion. Mrs. Peel had a narrow escape.   Suspected sabotage. Nothing proven. File  still open.
+STEED	m	How come you took so much interest in her, Dr. Darling?
+DR. DARLING	f	Her husband was one of ours.
+STEED	m	Peel? Did she know?
+MOTHER	f	Still doesn't. Better safe than sorry.  She  was in a dangerous game, Steed. High  stakes. She may prove to be a risk.  If  she is, there's only one solution.  Termination.
+STEED	m	Anyone particular in mind?
+MOTHER	f	You.
+STEED	m	You're a lady of hidden talents, Mrs. Peel ...
+EMMA	f	I've no intention of hiding them ...
+STEED	m	Scientist ... ... marksman ... ... swordsman ... ... To what do you attribute your  overachievements?
+EMMA	f	My father always wanted a boy.
+STEED	m	Really?  I fail to see the connection.
+EMMA	f	I had a feeling you would. Touche!
+STEED	m	I take your point.
+EMMA	f	Do you?
+STEED	m	Yes indeed. I need protection.
+EMMA	f	I thought we were on our way.
+STEED	m	Oh, absolutely, but Trubshaw's a man  worth meeting. No point setting out  half shod.
+EMMA	f	Or half cocked.
+STEED	m	I couldn't agree more. Thank you,  Trubshaw.
+TRUBSHAW	?	Very good, Mr. Steed.
+EMMA	f	Steed, we really must be --
+STEED 	m	Ahh. Perfect fit. The luxury of a  hand-made shoe. As unique as a face  or a fingerprint. Or should I say DNA?
+EMMA	f	You can but I wish you wouldn't ...
+STEED	m	Thank you, Trubshaw ...
+EMMA	f	That place is so absurd, so out of date ...
+STEED	m	Do you really think so?
+STEED	m	Press that button, would you? Tea?
+STEED	m	Sorry. Didn't mean to interrupt your flow of oratory ...
+EMMA	f	You know what I mean. This car -- and you. Nobody walks around like that. Milk?
+STEED	m	Not all Tradition is bad, Mrs. Peel. No thank you.
+EMMA	f	But why? What's the point?
+STEED	m	A Gentleman has to have a code. This is part of mine. A uniform. Think of it as my suit of shining armor.
+EMMA	f	And I suppose you're the knight.
+STEED	m	The most unpredictable piece on the board. And always ready to protect his queen.
+EMMA	f	That's predictable. When I find a queen in need of protection I'll let you know.
+STEED	m	I'm hoping you will.
+EMMA	f	Sir August Merryweather ... why are we seeing him first?
+STEED	m	As per mother's instructions.
+EMMA	f	Do we always follow Mother's instructions?
+STEED	m	For a man in my position --
+EMMA	f	Just what is your position, if you don't  mind my asking.  How did a stuffed  shirt like you get into this line of work?
+STEED	m	They call me in when they've reached a  dead end. Freelance. Like yourself.
+EMMA	f	I have no choice. Why should you risk your life?
+STEED	m	After our fencing match, I was rather  hoping you would do the risking.   More tea?
+EMMA	f	No thanks.
+STEED	m	I meant me.
+STEED	m	According to Mother, Sir August owns  half of the Highlands. A millionaire.   Former head of Special Projects at the  Ministry. Now ...
+EMMA	f	An eccentric recluse?
+STEED	m	Not so much eccentric. More barking  mad. He has a wife called June. And  a daughter somewhere -- Julie.
+EMMA	f	June, July ... August?
+STEED	m	The family does seem to be somewhat  meteorologically inclined.
+EMMA	f	Any other vices?
+STEED	m	All of a piece, really. A fanatical  weatherman. Chairman of BROLLY. British Royal Organisation For Lasting Liquid Years. Thinks British  weather has been tampered with  by ... aliens.
+EMMA	f	So ... I distract him while you snoop  around? How?
+STEED	m	Small talk.  Try the weather.
+EMMA	f	Original ...
+BUTLER	m	This way, miss ...
+EMMA	f	Missus ...
+EMMA	f	Sir August ... ? Sir August ... ?
+VOICE	m	Eh? In here!
+EMMA	f	I've come to apply for membership in Brolly --
+SIR AUGUST	m	You don't get rain like you used to in  England. A good shower that's the ticket.   Stiffens resolve, puckers the spirit, quells  the namby-pamby in a man.
+EMMA	f	I so agree. How did you acquire a  taste for it?
+SIR AUGUST	m	Out in India. So character-forming for the  British. Not the heat. Good Lord, no. The  rain, dash it. A good monsoon. Fifteen  inches overnight. A whole week of lovely  rain. I remember one summer in Jaipur ...
+SIR AUGUST	m	You
+EMMA	f	Have we met?
+SIR AUGUST	m	You mean you don't recall??
+SIR AUGUST	m	Ah, Lady June ...
+LADY JUNE	f	Dear August.  Loves his showers. Like a baby. Scones, Mrs. Peel?
+EMMA	f	Thank you, Lady -- June ...
+SIR AUGUST	m	Ah, beautiful. Just as he promised.
+EMMA	f	Promised? Who promised?
+SIR AUGUST	m	There, look!
+SIR AUGUST	m	Imagine being caught out in a blow  like that!
+STEED	m	I say, this is a bit much.
+STEED	m	'The Merry Widow'...?
+VOICE	m	... Hello ... Hello? ... Who the hell...? Who is this? ... You must leave the test area. I repeat, leave the area ... Help is on the way ...
+.STEED	?	Mrs. Peel. Good of you to drop by.  And I see you're wearing your -  riding outfit?
+STEED	m	Manners, Mrs. Peel.
+STEED	m	Ah, Brenda ... Mrs. Peel?
+EMMA	f	You should be dead.  How do you feel?
+STEED	m	Strange.
+EMMA	f	You were very lucky.  Four shots to  the heart. I found you after I slipped  away from Sir August. Mother brought  you here. Not me you should thank.
+STEED	m	I wasn't about to.
+EMMA	f	I mean your man Trubshaw.  Your bullet-proof waistcoat.  I thought  you were just overdressed.
+STEED	m	I might say the same.
+EMMA	f	Mother and Dr. Darling have me  under observation. They think I  tried to kill you.
+STEED	m	Why should they think that?
+EMMA	f	You told them. You said I arrived  on a camel, shot you four times.  Left you for dead.
+STEED	m	Frankly that's how I remember it.
+EMMA	f	But that's absurd. I may not be  over-fond of you, Steed, but it's  not my style.
+STEED	m	Perhaps your memory plays tricks, Mrs. Peel.
+EMMA	f	That's possible. Sir August was convinced  he'd met me before. But I'd never met him.   Another odd thing. When it rained, he said  it was just as someone had promised.
+STEED	m	Did he say who?
+EMMA	f	No. But he must know. Incidentally,  my double left you with this.
+STEED	m	An invitation. To a 'formal picnic'...?
+EMMA	f	Did you say formal? I must dress.
+STEED	m	I must say, you look more your old self --
+EMMA	f	You mean my other self ...
+STEED	m	Either way ... may I ask: why you dress in that fashion?
+EMMA	f	I should have thought that was obvious ... I'm in mourning.
+STEED	m	I can't wait to see afternoon.
+EMMA	f	Where's the picnic?
+VOICE	m	Ladies, gentlemen and bears ...
+VOICE	m	Today is history. The first day of the future.  I welcome you to the first general meeting  of the Wonderland Corporation, now allied  with our colleagues from Brolly ...
+VOICE	m	You have all given time, money and expertise  to achieve our goal. But we are reaching a  new phase of our operation. From today,  many of you will no longer be needed. I have  to warn you ...
+VOICE	m	A cuckoo.  The first sign of spring, and ...  A cuckoo in our nest. Our organization is  no longer secret. Agents are investigating  us. Their names are John Steed and Emma  Peel. I believe we have a traitor among us  ... perhaps more than one ...
+VOICE	m	That remains to be seen. When we find  the traitors, they will be dealt with severely. These agents.  Where are they?
+VOICE	m	Here. In this building. By our estimate, they  will enter this room in thirty-five point five  seconds precisely ...
+VOICE	m	I am sorry the party is over.  But we  shall meet again. To each of you a gift. A token of my appreciation.
+STEED	m	For you, Mrs. Peel.
+EMMA	f	Another invitation. 38 Marlborough Terrace ...
+STEED	m	Hm ... A Veuve-Cliquot '56 ... But he bites the end of his Monte Cristos ... ? Clearly, we're dealing with a maniac.
+STEED	m	Colonel Crabtree. International Satellite Systems. Formerly of the Ministry.
+EMMA	f	How on earth can you tell?
+STEED	m	Elementary, Mrs. Peel. Trubshaw isn't the only shoemaker still practicing his trade ...
+EMMA	f	Very good, Steed ...
+EMMA	f	What's that?
+STEED	m	What on earth?
+EMMA	f	Any ideas?
+STEED	m	Well, he was a fellow of the Royal Zoological Society ...
+EMMA	f	Is that written in his shoe?
+STEED	m	Common knowledge, Mrs. Peel ...
+EMMA	f	She had this in her mouth. There, there...
+STEED	m	Not again.  There's got to be another. way to go about this.
+STEED	m	Now, now ... 'I can't give you anything but love, baby...'
+VOICE	m	Naughty teddy ...
+MAN	m	No! You can't ...
+VOICE	m	Ask not for whom the telephone rings, it rings for thee ...
+MAN	m	But I've got rid of her.  She's ...
+VOICE	m	Go to the window ... To the window.
+EMMA	f	Major D'Arcy ... ?
+EMMA	f	Well, well. If it isn't me ...
+STEED	m	For you, Mrs. Peel.
+EMMA	f	Thanks ... I see what you mean about letting me do the risking ... Hello?
+SIR AUGUST	m	Mrs. Peel ... Come quickly. Brolly's been betrayed! I'll tell you everything ... The weather's getting worse and worse ... they're after me ... coming for me ... come quickly!
+EMMA	f	Sir August...? What now?
+STEED	m	Ask Mother.
+SIR AUGUST	m	Mrs. Peel -- ?
+VOICE	m	Ask not for whom the telephone rings ...
+SIR AUGUST	m	No, please! I beg you ...
+VOICE	m	Walk over to the window ...
+SIR AUGUST	m	Let it be rain, please let it be --
+VOICE	m	Stay by the window. By the window.
+FATHER	m	Emergency alert ...
+FATHER	m	A cyclone hit Banffshire last night. Completely unpredicted ...
+EMMA	f	Where's Mother?
+FATHER	m	Mobile HQ. In a blue funk.  Can't  take chances. I'm looking after  things while he's hiding out ...
+FATHER	m	You're probably wondering how I  can drive 'blind.' Simple. A new  prototype from the boys in X division.   Micro-sensors in the system read  signals and road information. Converts  the info into miles per hour.  Ultra-sensitive.  Ultra-smart.
+STEED	m	We know one thing. That suspect was not Mrs. Peel.
+FATHER	m	So you say ...
+EMMA	f	You don't believe him?
+FATHER	m	It's Mother you have to convince. He's very agitated.  Wait here.
+EMMA	f	But
+STEED	m	Don't bother.  Here's a bus ...
+BRENDA	f	Fares, please,
+MOTHER	f	Welcome to mobile H.Q. Weather's  turning quite nasty. Sir August was  blown to smithereens. Along with  half of Banffshire.  The Ministry's  worried.
+EMMA	f	He tried to warn us ...
+STEED	m	We had a lead to Wonderland Weather but we got there too late. Someone tipped them off ...
+MOTHER	f	Too late anyway. Today's escapade  was only for starters. This is no  ordinary weather. It's manmade. A  kind of weather bomb.
+STEED	m	Impossible.
+EMMA	f	Not quite. This is my field.
+STEED	m	Is there anything that isn't?
+EMMA	f	The Prospero Project was started by  my husband. It was an early attempt  to solve the problems of global warming.   In theory, climate engineering is entirely  feasible. We thought of injecting a  chemical cocktail into the atmosphere  by laser and satellite. A 'quick fix'...
+STEED	m	Filling in mother nature's blind spots ... ?
+EMMA	f	Exactly. There'd been earlier attempts  to pump carbon dioxide into deep sea.   Propane gas mostly. In small quantities  it captures chlorine. Protects the ozone  layer. But it proved impractical.  Too bulky ...
+STEED	m	But if someone miniaturized the process...
+EMMA	f	That's what we were working on.
+STEED	m	Sounds as if someone's hijacked your research.
+MOTHER	f	Would it be possible to use it for military purposes?
+EMMA	f	Directed by laser. Bounced by satellite. Quite possible.
+STEED	m	Where would they aim for?
+MOTHER	f	London. The World Council of Ministers  meets soon on global defence. If you can  control the weather, you control the world.
+EMMA	f	After the cold war ...
+STEED	m	The hot and cold war ...
+BAILEY	?	New orders. The penultimate phase.  Now fully operational ...
+BAILEY	?	We're not yet open for business, I'm afraid.
+STEED	m	Shame. I was recommended. By a friend.
+BAILEY	?	Really?
+STEED	m	Sir August Merryweather? I was looking for something relaxing. Say, a Tuscan hillside in June?
+BAILEY	?	Normally, we'd be eager to oblige --
+STEED	m	Seriously?
+BAILEY	?	Of course. Natural weather delivered to your door on demand. Down your phoneline. For limited periods.
+STEED	m	You don't say. How real does it feel?
+BAILEY	?	As real as you wish. Hot or cold. Humid or dry. Anything you like. Within reason.
+STEED	m	There are limits?
+BAILEY	?	The technology is brand new. Soon  it will be more powerful. We  anticipate a huge demand. Leave us  your number. We'll be in touch.
+STEED	m	No need. I'll call again.
+EMMA	f	My car. I'll drive.
+STEED	m	A day in the country ...
+EMMA	f	Three agents killed by bad weather...
+STEED	m	... And by you, Mrs. Peel ...
+EMMA	f	Then a mad millionaire. Head of a secret  defense establishment. A group of  eccentrics obsessed by weather ...
+STEED	m	... And by you, Mrs. Peel. Everything  points to you.  No sisters?  No  undiscovered twin?
+EMMA	f	Not that I know of.  Explanation?
+STEED	m	According to Dr. Darling, you're a  psychopathic personality with  schizophrenic delusions, suffering from  recurring amnesia based on traumatic  repression, leading to outbursts of  anti-social and violent behavior.  Q.E.D.
+EMMA	f	Is that what you think?
+STEED	m	Oh, well ... Just my type, Mrs. Peel.
+STEED	m	Do you always drive this fast?
+EMMA	f	Have I trespassed on a male prerogative? We're being followed. I saw him at Trubshaw's ...
+EMMA	f	Hold on ...
+STEED	m	Turn!
+OLD LADY	m	Are you alright, young man?
+STEED	m	I think so, thank you so much ...
+BAILEY	?	Reach for the sky, pardner.
+OLD LADY	m	Oh, dear --
+OLD LADY	m	Cocky little bastard. I hope he was a baddy.
+STEED	m	I feel sure of it.
+OLD LADY	m	I'm Alice. Mother said you'd be on your way. Mrs. Peel with you?
+STEED	m	She was ...
+OLD LADY	m	You with Mother or Father?
+STEED	m	Both, actually.
+OLD LADY	m	Good. Glad to see they're together at last.   They don't get along. Promotion. Top job.   Most unfair. Quite a fuss at the Ministry.
+STEED	m	You don't say. Like looking for a needle in a ...
+STEED	m	What, Lady Disdain? Are you yet breathing?
+EMMA	f	Barely.
+STEED	m	You will let me know if you find that queen who's in need of protection, won't you?
+EMMA	f	This must be the last straw.
+STEED	m	Here's the one that broke the camel's back.
+EMMA	f	Someone didn't want us to get to the party.
+STEED	m	I expect we'll have to gatecrash.
+OLD LADY	m	I may be able to help you.
+STEED	m	Wonderland Weather Ltd.
+OLD LADY	m	This way ...
+OLD LADY	m	Over here ...
+EMMA	f	Aha ... Yes ... It's clear now. A trapezoid shape, dictated by twin diagonal paths and a single curving path. A late Seventeenth Century design, originally for King William of Orange, copied... Ah ...
+STEED	m	... Mrs. Peel? I think I'm seeing double again.
+VOICE	m	Now this is more like it ...
+EMMA	f	Steed ... !
+STEED	m	Mrs. Peel ... ?
+STEED	m	Mrs. Peel ... ?
+STEED	m	Mrs. Peel ... ! Mrs. Peel ...
+STEED	m	Your lipstick ...
+STEED	m	Not again.
+OLD LADY	m	It's a trap. Tell Mother, beware. Tell Father.
+VOICE	m	I wouldn't shake that too hard. The weather might turn nasty.
+EMMA	f	Quite a collection.
+VOICE	m	If nature gives a man a collector's mind,  it doesn't matter what he collects.   Butterflies. Old China. Penny farthings.  A true collector grows more obsessive  as the years pass.
+EMMA	f	Your voice -- it's so familiar ...
+VOICE	m	We have met ...
+EMMA	f	Peter ... ?
+EMMA	f	I must be dreaming ...
+PETER	m	Listen... Very much alive.
+PETER	m	Darling, it's me...
+EMMA	f	Peter ...
+EMMA	f	Impossible ... how?
+PETER	m	For you ... all for you ...
+PETER	m	Don't be afraid, darling.
+PETER	m	Don't run away. I forgive you,  Emma. I know you left me. But  I still love you. Do you still have  my ring? I need it.
+EMMA	f	Steed!
+STEED	m	Oh, no. First time, shame on you. Third time, shame on me.
+DR. DARLING 	f	Diagnosis confirmed.  Mrs. Peel is  suffering from delusions and  hallucinations. An extreme personality  disorder. She imagines her husband  Peter Peel has come back to her ...
+DR. DARLING 	f	A classic syndrome, to overcome her  subconscious guilt at her other crimes.   We've attached her to the dreamscape  machine. We'll soon see what her  unconscious looks like...
+EMMA	f	Where am I?
+STEED	m	The Winslow Home for Retired Lepidoptorists. I'm so sorry I struck you, Mrs. Peel. Please forgive me. I thought you were someone else ...
+EMMA	f	Was I?
+STEED	m	I expect that's for you to know and me to find out ...
+EMMA	f	It was Peter -- I saw him ...
+MOTHER	f	This man -- did you see him?
+STEED	m	No. Her husband, she says. Alice tried to warn us. A trap. Tell Mother beware. Tell Father That's all.
+DR. DARLING	f	I want you to say the first thing that comes into your head when I say these words. Do you understand ... ? Blue ...
+EMMA	f	... bottle ...
+DR. DARLING	f	Red ...
+EMMA	f	... head ...
+DR.  DARLING	f	White ...
+EMMA	f	Knight ...
+DR. DARLING	f	Black...
+EMMA	f	... death ...
+DR. DARLING	f	Love...
+EMMA	f	... death ...
+DR. DARLING	f	Flower ...
+EMMA	f	... power ...
+DR. DARLING	f	Nature ...
+EMMA	f	... preserve...
+DR. DARLING	f	Secret ...
+EMMA	f	... love...
+DR. DARLING	f	Hope...
+EMMA	f	... love ...
+DR. DARLING	f	Fear ...
+EMMA	f	... love ...
+DR. DARLING	f	Peter ...
+EMMA	f	... Piper picked a peck of pickled  peppers how many pecks of pickled  peppers did Peter Peel -- ?
+EMMA	f	How long have I been here?
+DR. DARLING	f	Three days.
+EMMA	f	Do you get paid by the hour?
+MOTHER	f	You are here under observation,  Mrs. Peel. You must answer Dr.  Darling's questions
+EMMA	f	I resign.
+MOTHER	f	You need treatment, Mrs. Peel.  You can't resign.
+EMMA	f	Watch me.
+MOTHER	f	Don't open that, Mrs. Peel!
+EMMA	f	What are you trying to do to me?
+MOTHER	f	We want to help...!
+EMMA	f	I thought I was a widow. My husband ... the only man I ever loved ... is dead. For the rest of my life I have to live with that.
+MOTHER	f	The death of Peter Peel was a great loss. To us all ...
+EMMA	f	To you ... ?
+STEED	m	I think you owe Mrs. Peel an explanation ...
+MOTHER	f	Peter Peel was a first class agent. A senior operative. 'X' department Special operations.   He was engaged in top secret research.   Top priority.  Government approved.
+EMMA	f	The Institute ... the funding ...
+MOTHER	f	A cover ... for us. I'm sorry...
+EMMA	f	So all that time. Our work, our research  was for you ... for this? And the  accident --
+DARLING	f	It was no accident.
+EMMA	f	The official investigation ...
+MOTHER	f	... was written by me. It was sabotage, Mrs. Peel.
+EMMA	f	Who?
+MOTHER	f	Quite frankly ... it could have been you.
+STEED	m	You're accusing Mrs. Peel of killing her own husband?
+MOTHER	f	Her husband suspected someone very  close to the operation. On the day he  died, he was setting a test. To prove to himself -- to us that his  wife was beyond suspicion. He had to  be certain. He said he was going to  give Mrs. Peel something ...
+MOTHER	f	... I want you to remember. Did Peter give you anything on-that  day?
+EMMA	f	No.
+DR. DARLING	f	He said if it vanished, he'd know it was ... you who betrayed him. He took a huge risk. The ultimate test.
+EMMA	f	So I'm still ...
+MOTHER	f	Under suspicion. Everyone died in  the explosion, Mrs. Peel. You were  the only survivor ...
+MOTHER	f	This is an official matter, Mrs. Peel. No need to take it personally. Where are you going?
+EMMA	f	To find out who killed my husband.
+MOTHER	f	The doors and walls are monitored,  Mrs. Peel. This is a very secure  establishment.
+EMMA	f	So am I.
+DR. DARLING	f	She must remain here. She's highly dangerous.
+MOTHER	f	Pity. I was growing fond of Mrs. Peel. Unfortunately --
+STEED	m	Guilty until proven innocent?
+MOTHER	f	Mother and Father know best.
+MOTHER	f	Something quick. Nothing too ... messy.
+RADIO ANNOUNCER	m	'... Sunny intervals leading to sudden storms and gale warnings for all areas. ... Outbursts of rain, scattered hailstorms and freezing fog greeted the World Council of Ministers as they arrived in London for their conference ...'
+EMMA	f	You followed me.
+STEED	m	Orders.
+EMMA	f	To kill me?
+STEED	m	Nothing personal.
+EMMA	f	A long way down.
+STEED	m	Careful. You might fall.
+EMMA	f	I could save you the trouble.
+STEED	m	No trouble.
+EMMA	f	Because you always obey orders ...
+STEED	m	Always. Except ...
+EMMA	f	Yes ... ?
+STEED	m	... when I don't. It comes down to one  thing, Mrs. Peel. Trust.
+EMMA	f	And do you trust me?
+STEED	m	I could be convinced, if ... I knew who  poisoned me in the maze. That kiss ...
+EMMA	f	It wasn't me; you have my word.
+STEED	m	I need proof.
+STEED	m	It was longer. On the lips.
+STEED	m	Much longer.  Approximately ... fifteen seconds.
+EMMA	f	... Ready?
+EMMA	f	... Four ... seven ... ni-...
+EMMA	f	Mmm ... what are you doing?
+STEED	m	Keeping a stiff upper lip?
+EMMA	f	Is that all?
+EMMA	f	So I'm in the clear?
+EMMA	f	But you did suspect me.
+STEED	m	Not for a moment.
+EMMA	f	You're playing games.
+STEED	m	Aren't we all, Mrs. Peel?
+EMMA	f	I thought you played by the rules.
+STEED	m	I thought you didn't.
+EMMA	f	I'm playing to win.
+STEED	m	Winning isn't everything.
+EMMA	f	Please don't tell me it's how you play the game.
+STEED	m	After you -- Mrs. Peel ...
+EMMA	f	No, after you.
+STEED	m	You don't trust me?
+EMMA	f	As far as you trust me.
+EMMA	f	When it happens, Steed, you'll be the first to know ...
+EMMA	f	Who could that be?
+STEED	m	No -- don't answer it ...
+STEED	m	That's it. The phones trigger the explosions --
+STEED	m	Get down -- get down -- it's going to explode -- !
+CHOIRBOY	m	It's your mother.
+STEED	m	Mother? How did you find me?
+STEED	m	I told Mother I took care of you.
+EMMA	f	You lied.
+STEED	m	I equivocated. But you're not their big worry at present. It's Dr. Darling:  he's disappeared ...
+DR. DARLING	f	We are in the final phase. I shall require  you to be especially obedient. There  must be no failures.
+STEED	m	Drat. Someone wants to implicate you in this affair, Mrs. Peel. Any idea who?
+EMMA	f	No idea who. No idea why ...
+STEED	m	Teddy bears, cuckoo clocks, toys All children's things ...
+EMMA	f	... Or grown-ups, who still like to be children.
+STEED	m	Quite. Any childhood friends? Enemies?
+EMMA	f	Not to speak of. Peter and I were both loners. There was nobody.
+STEED	m	Very well. I have a friend who might be of assistance. He's at the Ministry. We'd better be careful.
+EMMA	f	I'm a wanted woman, I know ...
+STEED	m	His name's Jones. 'Invisible' Jones.
+EMMA	f	Why's he called 'Invisible'?
+STEED	m	You'll find out.
+EMMA	f	Aren't you coming?
+STEED	m	I'll catch you up. Don't worry; he's expecting you.
+INVISIBLE JONES	m	Tell Miss Proudfoot, no calls. Colonel Jones at your service, Mrs. Peel. Just a moment --
+INVISIBLE JONES	m	Talk to the pipe, Mrs. Peel. That usually helps. Don't worry about me being invisible. Other than that I'm perfectly normal.
+EMMA	f	I see.
+INVISIBLE JONES	m	Or rather, you don't. Learnt the tricks in camouflage. Till this accident made a prang of things. How can I help you, Mrs. Peel?
+STEED	m	I say, Trubshaw, Steed here ... Barometer's falling fast. Mrs. Peel and I find ourselves in need of foul weather gear. Yes, I'd say gentlemen's snuff for starters. And then --
+INVISIBLE JONES	m	Ah, here we are. Steed asked me to play a hunch:  Valentine Peel.
+EMMA	f	Peter's brother?  But --
+INVISIBLE JONES	m	Half-brother to be precise.
+INVISIBLE JONES	m	Now let's see ... Eton, Cambridge ...  research into robotics and plastics.   Overtaken by Peter's work on the  physics of climate change ...
+EMMA	f	I know all this.
+INVISIBLE JONES 	m	Do you also know that during your  final experiment, your halfbrother- in-law was under surveillance?
+EMMA	f	Surveillance? By whom?
+INVISIBLE JONES	m	Father. She gave him an 'all clear'  after a security test by Dr. Darling.
+EMMA	f	Who's now vanished.
+INVISIBLE JONES	m	Makes two of us.
+EMMA	f	Are you suggesting that Dr. Darling  and Valentine were somehow in this  together? But that's absurd.
+STEED	m	We must hurry, Mrs. Peel ...
+EMMA	f	Hurry?  What for?  I'm just now --
+STEED	m	You didn't tell her?
+INVISIBLE JONES	m	I was getting to it.
+EMMA	f	Getting to what?
+INVISIBLE JONES	m	The World Council of Ministers meets  tomorrow to convene the new global  defense initiative --
+EMMA	f	I fail to see --
+STEED	m	There's a reception this evening. Colonel  Jones thinks it advisable we attend.
+EMMA	f	Have we been invited?
+INVISIBLE JONES	m	Under the circumstances Mother didn't  see fit, but I think I can get you in ...
+EMMA	f	Well, I can't possibly go like this.
+STEED	m	I had a feeling. That's why we're  in a hurry ...
+STEED	m	May I have the honor, Mrs. Peel?
+EMMA	f	You may, Mr. Steed.
+MOTHER	f	Inside that hall are some of the Most powerful figures in the world. Tight security. Our only option.
+FATHER	m	I'll see to it personally.
+STEED	m	What's that you're wearing?
+EMMA	f	It's called Black Leather.
+STEED	m	Intoxicating. Here, have one of these.
+EMMA	f	What is it?
+STEED	m	Limpet bomb. Small, very compact. From Trubshaw's.
+EMMA	f	When all this is over, we simply must get you out of that suit.
+STEED	m	You first.
+EMMA	f	Shall we?
+MINISTER	m	... In the uncertain climate that threatens  this global initiative, no magic umbrella  can shield us.
+MINISTER	m	Only our own vigilance. Security and  stability are our watchwords.
+EMMA	f	Trubshaw again? What now?
+STEED	m	Snuff. I must insist you try some.
+STEED	m	They're playing your song, Mrs. Peel.
+EMMA	f	'The Merry Widow?' I might have known. Where's the reception?
+STEED	m	Oh, hello ...
+FATHER	m	We want Mrs. Peel.
+STEED	m	Dead, I'm afraid.
+FATHER	m	You disobeyed an order, Steed.   Mrs. Peel is dangerous; she cannot  be trusted.
+STEED	m	I think she can. Can you?
+FATHER	m	I shall summon security.
+STEED	m	Bad news. Father's looking for you.   Where are those bloody ministers?
+EMMA	f	Have a look at this.
+STEED	m	It's almost May, for heaven sake.
+EMMA	f	Gentlemen, ladies. Forgive the breach  of protocol. An emergency --
+STEED	m	Quick --it'll protect you --
+STEED	m	After him, Mrs. Peel!
+STEED	m	Go -- !
+MAN	m	Goodbye, Mrs. Peel!
+EMMA	f	Anyone ever tell you you look like a housefly?
+EMMA	f	Anyone else need a lift?
+MAN	m	Can't you throw her off?
+VOICE	m	Where'd she go?
+CO-PILOT	m	Happy landings, Mrs. Peel.
+STEED	m	I thought it was Cinderella who lost her slipper ...
+EMMA	f	This time the shoe's on the other foot. You said a hand-made shoe was as good as a photo-fit or D.N.A.? Well, all we have to do is find the shoe that fits ...
+TRUBSHAW	?	It should be easy. A Trubshaw client has his shoes delivered personally. The Ministry should be able to confirm our delivery.
+STEED	m	I'll be back ...
+EMMA	f	Where are you going?
+STEED	m	Laying in supplies, Mrs. Peel weather  may get very nasty and I've no umbrella ...
+EMMA	f	You needn't bother. I can't drag you  further into this. After all, I am still  the chief suspect.
+STEED	m	No bother. Mother and Father think I've joined you. I might as well.
+EMMA	f	But --
+STEED	m	Oh, and by the way, I think it's about  time you got rid of that chip on your  shoulder.
+EMMA	f	If you'd been through what I have, you wouldn't --
+STEED	m	A microtag. One of Mother's little toys. There you are. Free at last.
+EMMA	f	Prince Charming, I presume. Your name is ...
+EMMA	f	Oh my God ...
+STEED	m	Where's Mrs. Peel?
+TRUBSHAW	?	She just left, sir. In a hurry.
+STEED	m	What?
+TRUBSHAW	?	She said you'd understand.
+VOICE	m	Ah, here we are ...
+INVISIBLE JONES	m	'X' marks the spot. The shoes were  delivered to ... an island in Hyde Park. Surrounded by the Serpentine. On the  site of a former Ministry installation...
+EMMA	f	... and now?
+INVISIBLE JONES	m	Privately owned by ...
+EMMA	f	Let me guess:  Wonderland Weather.
+INVISIBLE JONES	m	Very good, Mrs. Peel ...
+EMMA	f	I shall need a small plane.
+INVISIBLE JONES	m	You're not venturing alone, surely.
+EMMA	f	I'm going to find out who killed my husband. Will you take these documents to Steed?
+INVISIBLE JONES	m	Of course.
+EMMA	f	Tell him I said ... goodbye.
+BRENDA	f	Steed for you.
+MOTHER	f	Where's Mrs. Peel?
+STEED	m	I was hoping you could tell me.
+MOTHER	f	You're getting yourself into terrible  trouble, my son. Weather's turning  very nasty -- and so am I.
+STEED	m	I'm going to follow up on a hunch of  my own. If I'm right, Mrs. Peel is  innocent and you have a mole.
+MOTHER	f	Where?
+STEED	m	In your operation.
+MOTHER	f	I'm warning you for the last time,  Steed: whoever's behind all this,  looks like Mrs. Peel, walks like  Mrs. Peel and kills like Mrs. Peel.
+MOTHER	f	Steed?? Find Mrs. Peel.
+VOICE	m	Congratulations, Mrs. Peel. You have  been a worthy opponent. You have  tracked us down. You are within an  ace of winning.
+EMMA	f	This isn't a game.
+VOICE	m	Quite right, but we still make the rules.
+EMMA	f	Rules are made to be broken.
+VOICE	m	People, too.
+EMMA	f	Then who wins?
+VOICE	m	You and I. Together. But first you  must confront your greatest enemy. Who could that be, Mrs. Peel?   The answer is obvious ...
+VOICE	m	Yourself.
+FATHER	m	Emma in Wonderland. Welcome, Mrs. Peel. We've been expecting you. We hope  you'll enjoy your stay with us.  Decontamination is almost complete.
+EMMA	f	Decontamination -- ?
+FATHER	m	And you've a new wardrobe. He does want you to look attractive. He tells me you're very beautiful.
+FATHER	m	Relax, Mrs. Peel. We're hundreds of feet below ground. The Ministry made it impregnable. No one can save you.
+DR. DARLING	f	Emma, my dear. How lovely you look.
+EMMA	f	Would that I could say the Same.
+DR. DARLING	f	Ah, but you haven't see the real me. Watch closely ...
+EMMA	f	Peter ...
+PETER	m	Darling Emma --
+EMMA	f	It was you ... all the time?
+PETER	m	Not really. Not quite. I'm afraid you still don't see ...
+TEACHER	m	Valentine Peel ...
+OLD TEACHER	m	Yes, I remember him quite well ...
+OLD TEACHER	m	This is where he used to spend his days. We have an old photograph somewhere ...
+TEACHER	m	Absolute wizard with makeup. His favorite roll from Shakespeare. Prospero ...
+STEED	m	'The Prospero Project...'
+TEACHER	m	... From The Tempest. A banished duke, ousted by his brother, marooned on a magic island. Who controlled the weather.
+STEED	m	'O Brave New World that hath such people in it.'
+EMMA	f	You.
+VALENTINE	f	Darling Emma -- yes, we:  the true  genius behind the Prospero Project ...
+EMMA	f	But you died -- in the explosion ...
+VALENTINE	f	Oh, no. I arranged the explosion.
+VALENTINE	f	A slight miscalculation -- my face  was burned beyond recognition. Fortunately my research into plastics  came in handy ...
+EMMA	f	Dr. Darling, Peter ... all you ...
+VALENTINE	f	An unholy trinity ...
+EMMA	f	You killed my husband.
+VALENTINE	f	For starters. Of course I had to kill  the Teddy Bears, as well ...
+EMMA	f	Too many cooks --
+VALENTINE	f	Spoil the majority shareholders. In  Wonderland Weather. I planned  everything, even the Ministry  recruiting you ...
+EMMA	f	But I found you. All the clues led me here ...
+VALENTINE	f	Of course. I planned that, too.
+EMMA	f	But -- why?
+VALENTINE	f	You disappoint me, Emma.  Can't you guess? For you. It was all for you ...
+EMMA	f	'Our revels now are ended.'
+VALENTINE	f	Oh, no, Emma. They've only just begun ...
+INVISIBLE JONES	m	The shoes were delivered to an island  in the Serpentine - former Ministry  installation ... she said to tell you
+STEED	m	I said it's not goodbye yet. Listen, I'm going to need some help. In a hurry ...
+VALENTINE	f	Think of this as your second wedding feast ...
+EMMA	f	I'm already married ...
+VALENTINE	f	Come, come, you're a widow -- a most attractive widow. Now I think  of it, we'll need a bridesmaid. Here.
+VALENTINE	f	My latest model. A compound of  plastics and sensor chips. A big  improvement on the old X404s. The poor thing is quite fond of me.  Emma, say hello to Emma.
+VALENTINE 	f	You know, I believe she's actually  jealous.
+EMMA	f	Valentine, listen to me ...
+VALENTINE	f	Right, bridesmaid. Now what have I left out? Oh, yes, I know: the ring.
+EMMA	f	Ring?
+VALENTINE	f	How silly of me -- let me make you comfortable first ...
+VALENTINE	f	That's better. I say, isn't this  where you came in? It's impenetrable, by the way ...
+EMMA	f	You're mad.
+VALENTINE	f	Entirely. On the other hand Mad people get things done. Let me show you --
+FATHER	m	Steed
+STEED	m	How did you guess?
+FATHER	m	You reek of Mrs. Peel's Black Leather ...
+STEED	m	It was you who gave Valentine Peel his security clearance ... you're the mole who betrayed the Ministry.
+FATHER	m	Mother betrayed me. She was  going to replace me with a younger  Father.  Errand boy that's all I was.   'Find Steed...'
+STEED	m	Well, you found me. Have a sniff of  this, why don't you? Careful, the  scent can be overpowering ...
+VALENTINE	f	People expect weather to be free.  They're used to it. I call that a  denial of freedom. No freedom of  choice. An abuse of human rights.  They buy water, electricity, gas.  Why shouldn't they be able to buy  their own weather if they want to?  If they have a little incentive ...
+EMMA	f	Such as?
+VALENTINE	f	Destruction of their local weather  systems. I can zap a thousand  Chernobyls into the air.
+EMMA	f	The result would be ...
+VALENTINE	f	Chaos. Transport paralysis. Crop  failure.  Economic disaster.   Frostbite or sunburn ... on a  massive scale.  You've seen a few samples...
+EMMA	f	Then what's stopping you?
+VALENTINE	f	One very small thing. A diamond 'cyclone' chip. A thousand times more information on a fraction of the size. If I possess that, my powers would be unlimited. My dear half-brother was developing it. But he suspected sabotage. He gave the chip to ... you, 'Mrs.' Peel. I want you. But also your ring.
+VALENTINE	f	The missing piece of the jigsaw. I tried to get you to give it to me  as Peter; I tried to steal it from  you as Dr. Darling. As myself I'll  be a bit less subtle. With this ring my plan will be complete.
+EMMA	f	How Wagnerian ... Do you mean  to say you've waited all these  years because you couldn't create  a chip on your own? That would  have amused Peter.
+VALENTINE	f	Speaking of Peter, there's more good  news: You won't even have to change  your last name. You'll always be Mrs. Peel.
+EMMA	f	What are my choices?
+VALENTINE	f	Choices?
+EMMA	f	I'll never marry you.
+VALENTINE	f	One out of two isn't bad. I'll keep you  alive, darling Emma. In a year or five,  you may change your mind. If you're  still in it.
+VALENTINE	f	This little toy gave me back my face. It can replace yours. What do you think? Medusa? Madame Defarge? Maggie Thatcher?
+FATHER	m	Dr. Darling, this is Father. We have an intruder. I repeat --
+VALENTINE	f	Ah. That will be Steed. He followed  you. Please excuse me. I have work  to do. My most spectacular  performance. A ballet of clouds. It  was made for you. I want to give you  a heart, Emma. I want all of London  to see it. And now with this ... They will. And for an encore: the biggest cyclone  in history will wipe the City from the  face of the earth. Shape of things to come, my darling.
+STEED	m	Blast. What to do? Mrs. Peel!
+STEED	m	The things I do for England ...
+EMMA	f	You must let me go ...
+EMMA	f	Don't you understand? If he has me, he'll have no use for you ... he'll destroy you ...
+EMMA	f	No...
+STEED	m	Oh, dear.
+STEED	m	Someone's going to pay for this.
+VALENTINE	f	Start the countdown. Action stations. Five minutes ...
+FATHER	m	Congratulations. The clouds are on course ...
+VALENTINE	f	To explode. London will be ashes.
+FATHER	m	Not yet! They haven't heard our terms ... !
+VALENTINE	f	Are you insane? Stop the program and you activate the auto-destruct!
+FATHER	m	But all those people -- !
+VALENTINE	f	My cloud ballet! My cyclone!
+MOTHER	f	Dense cloud formation moving south- west. On course for the center of the  city. A fog floating in from the river.  The prediction is ... unstable chemical  reaction. Enforce the curfew ...  Emergency stand by ... !
+VALENTINE	f	My dear. I wouldn't want you to miss the grand finale ...
+VALENTINE	f	Find her. Kill her ...
+VALENTINE	f	John Steed.
+STEED	m	Valentine Peel. I see you've gone  back to using your original face.
+VALENTINE	f	The last one you'll ever see.
+STEED	m	Perish the thought.
+VALENTINE	f	Did they tell you at Eton that I was fencing champion, too?
+STEED	m	They said you were a very naughty  boy.
+VALENTINE	f	You're better than I expected.
+STEED	m	I was at Harrow ...
+VALENTINE	f	But did they teach you this?
+STEED	m	Bang-bang ... you're dead.
+VALENTINE	f	You wish.
+STEED	m	One shot -- for emergencies.
+VALENTINE	f	That's not playing by the rules.
+STEED	m	Rules are made to be broken.
+VALENTINE	f	If you say so.
+STEED	m	I do.
+VALENTINE	f	You said ... one shot.
+STEED	m	Did I? My mistake.
+VALENTINE	f	I wouldn't do that, if I were you.
+STEED	m	Mrs. Peel -- !
+VALENTINE	f	Bullet-proof waistcoats -- just the  thing. I get mine from Trubshaw's.  We'll be off now, won't we, darling? We wouldn't want to miss the fireworks. Figure it out if you can,  Steed ...
+STEED	m	You must be joking ...
+VALENTINE	f	Fool ...
+STEED	m	That will do.
+VALENTINE	f	Aren't you forgetting about something?
+STEED	m	You are, and it's behind you.
+VALENTINE	f	Come, come. You don't really expect me to fall for --
+VALENTINE	f	Let go, you ... idiot ...
+STEED	m	I think she really likes you ... Where's Mrs. Peel?
+VALENTINE	f	Ugh ...
+STEED	m	Emma!
+STEED	m	Emma ...
+EMMA	f	Steed?
+STEED	m	Mrs. Peel?
+EMMA	f	What kept you?
+STEED	m	The plot. Hello, we must be going ...
+EMMA	f	Quick!
+STEED	m	'The owl and the pussycat went to sea -'
+EMMA	f	'... in a beautiful pea green boat...'
+STEED	m	A fine night, Mrs. Peel ...
+EMMA	f	Still a bit chilly ...
+STEED	m	English weather. You know, after  all we've been through, I should  say we deserve a long holiday ...
+EMMA	f	Have you any place in mind?
+STEED	m	As a matter of fact I have ...
+EMMA	f	I don't recall Siberia being this warm, Steed.
+STEED	m	It's the latest thing, Mrs. Peel.
+EMMA	f	Our little paradise -- just made for two?
+STEED	m	Not quite.
+STEED	m	Our chaperon.
+EMMA	f	Pity your mother came, too ...
+STEED	m	Still a little warm, Trubshaw. Is this the '28? A little more ice, I think ...
+MOTHER	f	About your next assignment, Mrs. Peel ...
+EMMA	f	Next assignment?
+EMMA	f	Ah ... sun tan lotion. Any shops nearby?
+STEED	m	Must be. Trubshaw's busy. I'll send Mother ...
+MOTHER	f	Ahem. As I was saying, perhaps another macaroon ...
+EMMA	f	Thank you, Steed.
+STEED	m	Thank you, Mrs. Peel.
+

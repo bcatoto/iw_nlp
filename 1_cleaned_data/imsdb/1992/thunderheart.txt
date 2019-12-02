@@ -1,0 +1,744 @@
+CARL	m	Hey.
+RAY	m	Hey. Nice tie.
+CARL	m	Don't get too attached.
+RAY	m	Ya got the paper?
+CARL	m	Yeah.
+RAY	m	You're my hero, Carl.
+CARL	m	Heroes ain't supposed to shake. I'm  shakin', man, look at me.
+RAY	m	Breathe, Carl. Four, nice, deep ones.
+RAY	m	Anyone stops us going in, we're with  the Bowen-Hamilton Textile Company.  We have rug samples.
+CARL	m	Rug samples.
+RAY	m	We are one-dimensional, boring  peddlers of fine carpet, Carl.
+BLACK MAN	m	Hey, look who's here.
+RAY	m	Louis, my man, what's happenin'?
+FENCE MAN	m	Clean ones?
+RAY	m	Immaculate.
+FENCE MAN	m	What ya got there, seventy-five  thousand?
+CARL	m	A hundred and ten. Count it.
+LOUIS 	m	Have the girl count it, we can't sit  around here countin' bonds, we got  things to do here.
+FENCE MAN	m	SALLLLY!
+LOUIS	m	F.B.I.! Get your face on the fuckin'  floor! MOVE!
+RAY	m	Slam dunk.
+LOUIS	m	Beauty. Beauty...
+CARL	m	Jesus Christ, Larry, what the fu--  Larry. That's not even your name, is  it? What's your real name, you fucking  scumbag?
+RAY	m	Don't have one, Carl. I have a number,  man. Just like the numbers on those  treasury checks. You stole from your  own country, Carl. Shame on you.
+LOUIS	m	Sugar Ray.
+LOUIS	m	They want ya Home. Upstairs wants to  see ya.
+LOUIS	m	Make sure ya spell my name right.
+CARL	m	We just spent four months together...  I thought he was my friend... what  the fuck, man? He had dinner at my mother's.
+INTERCOM	m	SA Levoi, Sir.
+TULLY	?	Please.
+TULLY	?	Ray...
+RAY	m	Mister Tully.
+TULLY	?	Do you want a coffee?
+RAY	m	No. No, no. Thank you.
+TULLY	?	Levoi, Cooch. Raymond Levoi, Criminal  Division.
+COOCH	m	Oh, yeah -- right.
+TULLY	?	Ray this is --
+RAY / TULLY	m	Frank Couture.
+TULLY	?	That's right.
+COUTURE	m	Hello, Ray.
+RAY	m	It's an honor.
+TULLY	?	Ray, we're taking you off the street.  We need you out in South Dakota.
+RAY	m	South Dakota... Did I do something unsatisfactory,  Sir?
+COOCH	m	No, Ray. You're gonna have to blame  that on your grandmother.
+TULLY	?	Interesting bloodline you have, Ray. French, Scots-Irish, Italian, ...and  one-eighth American Indian.
+COOCH	m	Sioux Indian, right?
+RAY	m	I'm not that sure. Yeah, I think --
+TULLY	?	-- yes, Teton Sioux. Father's side.
+TULLY	?	Ray, there's been a homicide out in  an area known as The Badlands. Indian  Reservation.
+COOCH	m	It's not the first. There's been  several. And our field office in  Rapid City is getting a lot of heat...  none of the investigations have turned  up jack shit.
+TULLY	?	The main problem is, Ray, these people  are extremely distrustful of  outsiders, non-Indians. Relations  have not been amicable.
+COOCH	m	Different culture. Hard to penetrate.  The Indians don't like white cops  poking around. And that's why we're  in a position where we have to bring  in an American Indian agent.
+TULLY	?	With an Indian representative out  there, we hope to keep hostilities  dormant; this is a COINTELPRO,  Selective Operations Unit, and it'll  be easier on Agent Couture if you  can gain the people's trust and maybe --
+RAY	m	Woh, excuse me, Sir... I see what  you're saying... I've got a little  Indian blood, that's true. But -- I am not an... an Indian. I can't  just go in and --
+TULLY	?	-- your father was part Sioux.
+RAY	m	I didn't know him, Sir. He passed  away when I was six.
+COOCH	m	Seven.
+COOCH	m	Don't worry about it, Ray. As long  as the people have proof that we  sent them one of their own, no one's  gonna ask you to weave baskets or  make it rain.
+RAY	m	Eight murders in less than a year.  All of them Indian. All of them  unsolved. Is the law a non-entity  out here or what?
+COOCH	m	Those are two agents who went into a  reservation a few years ago to serve  a warrant. They were executed at  close range. That one there is a  police officer killed by the Mohawks  up in Canada more recently.
+RAY	m	Jesus...
+COOCH	m	The agents who have worked out here  say its like going into Nam.  Unfamiliar terrain, foreign language,  foreign customs... and you never  know when you might walk into a few  rounds. They hold a lot of old anger  for the white man out here.
+RAY	m	Were you in Nam?
+COOCH	m	Airborne. That's where they used to  get us agents from. Now we get 'em  from Carnegie-Melon, Ivy League.  Accountants and computer whiz-kids.  Yuppies with guns. That's scary shit.
+RAY	m	Not as scary as a Hoover man with a  computer.
+COOCH	m	Hey, hey, hey. J. Edgar would've  loved you. He'd love anybody who  joined the bureau to, what was it?  "To enforce the laws of my country  and protect her interests"?
+RAY	m	You crashed my file?
+COOCH	m	No. I consulted it. We're going into  Indian Country, I wanna know what  kind of individual is covering my  ass. Don't you?
+RAY	m	You've been in the bureau for thirty  years. You survived The Hoov, the  Black Panthers and Abscam. I don't  see any bullet holes. That's good  enough for me.
+COOCH	m	Who found him?
+MILES	m	Indian kids. Hunting fossils.
+COOCH	m	Okay. I think Agent Levoi and I can  proceed from here. What are your  call signals?
+SHERMAN	m	PX-10 and 11. Anything we can do to  help you out, just radio.
+COOCH	m	Good. Thanks, Guys.
+RAY	m	Leo Fast Elk... Thirty seven...  single... Member of the Tribal  Council.
+COOCH	m	Looks like Fast Elk wasn't fast enough  to outrun that load. What do you  make of the damage?
+RAY	m	Six rounds. 357.
+COOCH	m	That's what it looks like, doesn't  it? But that's what a ten gauge,  choke-bored, shotgun will look like  when it hits your lower back from  five feet away.
+RAY	m	Somebody was serious about doing  this guy, that's for sure.
+COOCH	m	Ray.
+COOCH	m	Good morning.
+COOCH	m	Taking ol' Leo somewhere?
+CROW HORSE	m	Leo's been out here too long, man.  I'm taking him to ceremonial burial.
+RAY	m	This is a restricted area.
+COOCH	m	Check him out, Ray.
+COOCH	m	Nice piece. You come back here to  cover your tracks, Geronimo? What's  your name?
+CROW HORSE	m	It ain't Geronimo.
+COOCH	m	Who are you?
+CROW HORSE	m	I think maybe you guys got off the  wrong exit, yeah? This is the Bear  Creek Indian Reservation.
+COOCH	m	I know where I am. I'm on federal  land, doing a federal investigation,  and if you don't wanna cooperate you  can take a ride in a federal car,  and spend the rest of the day in a  little room, answering federal  questions. It's your call. Who are  you?
+CROW HORSE	m	I'm a full blood Oglala Sioux, born  and raised on this reservation.
+COOCH	m	You're a wise-ass. Ray check his  wallet.
+RAY	m	I did.
+COOCH	m	Who the fuck is he?
+RAY	m	-- a fucking cop.
+RAY	m	Walter Crow Horse. Tribal Police.
+COOCH	m	He's a fucking cop.
+CROW HORSE	m	We got the wire ya was comin'. You're  the Indian official, yeah?
+COOCH	m	No. No, that's Ray, here. Ray, uh... Ray... Little Weasel.
+CROW HORSE	m	Leo's gotta get to burial, Brother.  He's gotta make the journey.
+COOCH	m	What journey?
+CROW HORSE	m	Tell him, Ray.
+RAY	m	Leo has to take the journey, Cooch.
+COOCH	m	We'll have to give Leo a refund.  Because he's gotta go to the M.E. In  case you don't know, Officer,  violation of the Major Crimes Act on --
+CROW HORSE	m	-- an Indian Reservation is within  the jurisdiction of the Federal Bureau  of Intimidation. I know that.
+COOCH	m	Good. Thank you.
+CROW HORSE	m	I said when can Leo be taken to  ceremony?
+RAY	m	After we've completed our  investigation.
+CROW HORSE	m	That's a nice suit.
+COOCH	m	Somebody must be doing something  somewhere in your jurisdiction,  Officer Crow Foot.
+CROW HORSE	m	You ain't gonna cut his hands off  and send 'em to Washinton, are ya?  They done that to one of our girls  once. Leo did quillwork, he's gonna  need his hands.
+RAY	m	Leo's gonna need his hands, Cooch.  He does quillwork.
+COOCH	m	I think Leo's retired from quillwork  for the moment.
+CROW HORSE	m	Respect the dead, Hoss. Because when --
+COOCH	m	-- did you understand me when I said  that --
+CROW HORSE	m	-- violation of the Major Crimes Act  on an Indian Reservation is within  the jurisdiction of the Federal Bureau  of Instigation. I know that.
+COOCH	m	Goodbye.
+COOCH	m	What the hell you doing?!
+CROW HORSE	m	His mother needs a piece of his hair.  It's for the Keeping of the Souls  Ceremony. Has to be kept for four days.
+COOCH	m	Keeping of the souls. Do they still  burn their dead or something?
+RAY	m	Beats the hell outta me.
+COOCH	m	Sorry, Ray. You're gonna have to  wait in the car. I'll bring you out  a cheeseburger.
+VOICE 	m	Hey!
+CLEAR MOON	?	You made it. Was-te.
+COOCH	m	You must be... President Clear Bone.
+CLEAR MOON	?	Clear Moon. Moon. You must be the Sioux.
+COOCH	m	No. That's Ray here. Ray...
+RAY	m	Ray Levoi, Sir. Pleasure.
+CLEAR MOON	?	It's about time they sent us one of  our own. Was-te.
+CLEAR MOON	?	Things are no good here. It is like  war zone. We need an official who  understands what is good for the  Indian people. Who knows Indian way.
+RAY	m	I thought we were staying on the  reservation.
+CLEAR MOON	?	Yes. Rooms thirteen and fourteen are  on Indian land.
+RAY	m	I see.
+CLEAR MOON	?	Are you hungry? I have some nice raw  kidney in the truck.
+RAY	m	Oh, I'm set, Sir. I'm set.
+COOCH	m	He's starving, Mr. Clear Moon. Get  him some raw kidney. He hasn't had  any Indian food in days...
+WHITE LOCAL	m	Where you goin'? Back to the res?
+WHITE LOCAL	m	What ya doin'? You drunk?
+COOCH	m	Let's take a walk.
+COOCH	m	What's goin' on here? I can't walk across the goddamn street  without some breed-ass fallin' all  over me?
+COOCH	m	Watch out now, he wants a kiss, Ray,  wants a kiss --
+COOCH	m	Go ahead, skin, get your ass back on  your sacred land. Get outta here.
+COOCH	m	Get outta here. Drive.
+DENNIS	m	So what type of salesmen are you  gentlemen anyway?
+RAY	m	Liquor. We heard they like their  drink on the reservation, and we  were gonna see if we couldn't unload  some surplus on the way to Nebraska.
+COOCH	m	Now keep that between us, Dennis,  cuz I don't know what kinda Johnny  Law they got here.
+DENNIS	m	Hey, Brooks, come over here. I want  you to meet a coupla fellas from  Denver.
+DENNIS	m	Liquor salesmen. Be nice to them,  maybe they'll give you a sample of  some of that gin you like. He likes that Russian shit that --
+BROOKS	m	They ain't liquor salesmen. They're
+COOCH	m	Brooks, what's a perceptive fellow  like you, doing in a joint like this?  Let me buy you a glass of some of  that Russian shit you like.
+DENNIS	m	FBI? What you investigatin'?
+COOCH	m	A murder. On the reservation.
+DENNIS	m	Again. Figures, man.
+BROOKS	m	You'll never find out who did it.
+COOCH	m	You underestimate me, Brooks.
+BROOKS	m	No. You underestimate these grass  niggers. They're killing each other.  That's all they do. Get drunk and  kill each other. Then cover for each  other. Who gives a damn really as  long as they stay on their  reservation. You ask me, the  government shouldn't care one  particle.
+DENNIS	m	You know how in your big cities, you  got your niggers and you got your  Puerto Ricans? Well out here we got  Indians. That's just the way it is.
+COOCH	m	The only good Indian is a dead Indian,  does that old adage still hold true  out here?
+BROOKS	m	That set-to you saw out front, was  nothin' more than a message we were  sendin' to the sonsabitches that are  divertin' water from the river.
+DENNIS	m	We got rights. We got a ranch just  up here.
+RAY	m	Did any of you gentlemen know Leo  Fast Elk?
+BROOKS	m	You fellas are here to investigate a  Indian crime, you should keep to  Indian land, and talk to them, not  us. But you wanna drink here and  shoot stick here, that's your right,  and we respect that. Come on, Son, we're up on the table.
+DENNIS	m	You fellas wanna play doubles?
+RAY	m	Water. Worth killing for out here,  I'd think.
+COOCH	m	Get the plate numbers off everyone  of these cars.
+RAY	m	I already did.
+RAY	m	Couldn't sleep.
+COOCH	m	Good.
+RECORDER	m	-- out here we got our Indians. And  that's the way it is.
+COOCH	m	By the time you get to the main  village, sun'll be up. I want you to  fraternize. Socialize. Penetrate.  Infiltrate. Eat some raw kidney, and  get these Indians talking. I'm gonna  Powwow with Big Chief Clear Moon and  find out more about Leo.
+RAY	m	Done.
+RAY	m	Hobert Standing-Buffalo-That-Walks- Dreamer. Hello, I'm looking for Hobert Standing- Buffalo-That-Walks... Dreamer.
+RAY	m	Good morning. I'm looking for Hobert- Buffalo-Dreaming... Hobert Standing-Buffalo-That-Walks--
+RAY	m	--Dreamer.
+RAY	m	Sir?
+CROW HORSE	m	Ray Little Weasel. FBI. I like the  way ya sneaked up on me. Must be  Indian.
+RAY	m	What are you --
+CROW HORSE	m	Watch out!
+RAY	m	What?!
+CROW HORSE	m	You're steppin' on sign.
+RAY	m	Hey. Hey, you, listen up --
+CROW HORSE	m	-- Leo wasn't killed here. He was  dumped here. Out of a vehicle. Bald  tread. Muffler held on with baling  wire.
+CROW HORSE	m	The man you want... stepped outta  the car, dragged Leo out, laid him  down. Then walked over here and made  a circle in the earth with a stick.  I can't find the stick. He stuck an  eagle plume in the circle, got back  in his car, dustin' his own prints  with a pine bough for about six feet,  but he missed a print, right here,  see. He got in his car and went Hell- bent-for-Holy-Sunday outta here. He  ditched that pine bough three miles  across the flat, in the Little Bear  River, it floated down to  Thundershield Gap. The car hit paved  road, and was outta here.
+CROW HORSE	m	The killin' was done where Leo's  mother lives. But he was driven here  into these Badlands.
+CROW HORSE	m	Big sonuvabuck. Based on the depth  of that print, pressure releases...  I'd say he goes two-ten, two-fifteen --
+RAY	m	Bullshit.
+CROW HORSE	m	-- Well, maybe two-seventeen.
+RAY	m	You're trying to tell me you can  read all that from a track?
+CROW HORSE	m	No. Not just a track. You gotta listen  to the trees, man. To the leaves. To  this sand, you FBI's kicked all up.  You gotta listen to the earth.
+RAY	m	Is that right? Well, listen to this:  drag your ass. This is a restricted  area.
+CROW HORSE	m	No, this is the home of the Oglala  Sioux and I want the dog-fucker who  killed Leo. Whether you get him or I  get him, I just want him. Shit's  been goin' on too long.
+RAY	m	You've got no jurisdiction.
+CROW HORSE	m	You got no know-how. About Indian  Way. Or about Jack Shit for that  matter.
+RAY	m	Maybe you're not aware of this, Crow  Horse, but I just flew in from a  place called the Twentieth Century  where we have such things as  electrostatic tracking methods,  psycholingusitics, DNA fingerprinting;  I don't have to crawl around with  the scorpions and talk to the fucking  trees to get answers. Leo was killed  right here.
+CROW HORSE	m	Go back to the M.E., take a look  inside Leo's exit wounds and tell me  how chicken feed got in there. Trust  me, there ain't chickens in the  Badlands. His mother's place is --
+RAY	m	-- his mother never lived here. She  was from up in North Dakota.
+CROW HORSE	m	I'm talkin' his spiritual mother.  Maisy Blue Legs.
+RAY	m	His spiritual mother...
+CROW HORSE	m	To us Indians, our spiritual relatives  are as close as family. I've got  seven mothers on this reservation.  Sisters. Brothers. You ain't one of  them.
+RAY	m	Thank God. Now listen to me, asshole.  I'm giving you a break. But if my  partner finds out you're here, you're  gonna be reading rat tracks in Sioux  Falls Maximum Security.
+CROW HORSE	m	Easy. Easy... I'm goin'.
+CROW HORSE 	m	Hey, Little Weasel.
+CROW HORSE	m	You weigh one sixty-three, yeah? Not  a beer drinker. You're one of these  tofu and pilaf characters. Pack your  gun, under your coat -- left shoulder.  But you got backup; a little .32,  .38 maybe, in a ankle holster that  gives you a right foot drag, Shoes  are too tight at the toe but, man,  they look cool. And that's what  counts.
+RAY	m	Crow Horse.
+RAY	m	Fuck you.
+RAY	m	Mrs... Blue Legs? Can I ask you a  few questions --
+MAISY	f	-- go away. Leave us alone...
+RAY	m	Ma'am, Please --
+RAY	m	Mrs. Blue Legs. I'm Indian.
+RAY	m	I'm Sioux.
+RAY	m	Yeah, right.
+RAY	m	Shit. Mrs. Blue Legs! It's okay!
+RADIO 	m	X21, give me a 20.
+RAY	m	Black Tail District, X22. You ready  for this? Leo wasn't killed in the  Badlands. I... I found the location.
+COOCH	m	Maisy Blue Legs place?
+RAY	m	How'd you know?
+COOCH	m	I got one up on ya.
+RAY	m	Go ahead.
+COOCH	m	I've got the doer. I know who he is.
+COOCH	m	Meet me at base. Over.
+RAY	m	Cooch. You're my hero.
+COOCH 	m	Jimmy Looks Twice.
+RAY	m	Who is he?
+COOCH	m	One of the leaders of the Warriors  of All Red Nations. Militant  organization.
+COOCH 	m	The progressive Indians don't like  them because they want everybody to  go back to the old Indian ways, and  the old way Indians don't like them  because they use violence to get  attention.
+RAY	m	White eagle feather through the  circle. That's their symbol.
+COOCH	m	That's right.
+RAY	m	They obviously wanted it to be known  that they offed Leo. Some kind of  statement.
+COOCH	m	Jimmy Looks Twice put Leo's head  through a glass door of the tribal  offices three months ago. And  threatened him several times since.  President Clear Moon and the regional  FBI feel he made good on that threat.
+RAY	m	I'd just like five minutes alone  with the motherfucker who hung that  flag upside down.
+COOCH	m	Easy, Cowboy. No vendettas on my  ship. Now: remember what I told you  about Nam? Watch the grass, watch  the trees, watch the shit house, be  on your toes, and if we get committed,  don't hesitate to empty that sucker.
+RAY	m	Alright. Alright.
+COOCH	m	It's show time.
+RAY	m	What the hell is that?
+RAY	m	On the ground.
+VOICE 	m	Mitakue Oyasin!
+COOCH	m	This is the FBI! Come on out of there  nice and slow. Let's move it! Hands  on your head!
+RAY	m	Hands on your head, Sir. Come on,  come on...
+LOOKS TWICE	m	What are you doing?
+COOCH	m	James Looks Twice?
+LOOKS TWICE	m	That's right. What are you doing  here? This is a religious ceremony  you're desecrating.
+RAY	m	We're FBI, James. We just need to  ask you a few questions.
+LOOKS TWICE	m	We are in the middle of a sweat lodge  ceremony. Do you drag people out of  your churches when they're in the  middle of prayer?
+COOCH	m	Let's take a walk, Jimmy. Come on.
+RAY	m	Go ahead. You can all go home.
+COOCH	m	We just wanna take a look around  your place, Jimmy. We're not here to  bust your balls.
+LOOKS TWICE	m	What's this about?
+COOCH	m	Your good friend Leo Fast Elk.
+LOOKS TWICE	m	You think I killed him? Cuz he was  an apple? Well, let me tell you  something about Leo, Man --
+COOCH	m	-- don't "man" me, Jimmy. Where's  the key?
+COOCH	m	Ray, use the federal master key.
+LOOKS TWICE	m	No. Don't do that. Don't deface the  property, man. The key's in there.
+LOOKS TWICE	m	Inside... in the coffee can.
+COOCH	m	There's no coffee can in --
+COOCH	m	Jesus... Jesus...
+COOCH	m	Get him...
+COOCH	m	Assault on federal officers. Suspect  has left the area. One officer down.  Issue a Fugitive Alert immediately.  Over.
+RADIO	m	Has the officer been shot, X-22?
+COOCH	m	No, the officer's been bitten by a  fucking badger, okay? Get a Fugitive  Alert fucking now! Over.
+CROW HORSE	m	You're an easy man to track, Ray. Ya  walk like a penguin with a hard-on.
+RAY	m	Is that right? What are the trees  saying today?
+CROW HORSE	m	They're sayin' that nobody's gonna  talk to you cuz they don't give away  one of their own. But they did say  there's somebody way across the Little  Walking River who wants to talk to  you.
+CROW HORSE	m	He sent me to find ya. He says he's  got information.
+RAY	m	Let's go.
+CROW HORSE	m	Grandpa Samuel Reaches. Heavy duty  medicine.
+RAY	m	Medicine. As in medicine man?
+RAY	m	Why does he wanna see me?
+CROW HORSE	m	Good question. Hardly sees anybody  anymore. Hasn't left this place in  twenty years. Did you bring some  tobacco?
+CROW HORSE	m	When you go see an elder, you always  bring some tobacco as a gift.
+RAY	m	What did he say?
+CROW HORSE	m	He wants to know if you ever watch  the Cookie Monster. He says the Cookie  Monster is not to be trusted -- a  trickster.
+CROW HORSE	m	He says there's something wrong with  Big Bird -- he's crazy, He says you stopped the Inipi ceremony  last night...?
+CROW HORSE	m	But he is not unhappy with you because  he knows you.
+RAY	m	He knows me?
+CROW HORSE	m	He says he saw you in a vision some  time ago.
+CROW HORSE	m	I guess he had this vision some time  ago, in the Moon of the Popping Trees --  uh, back in the winter. He says you  come from Wasi'cu city in the East  but that your people... way back...  are of the Minniconjou Sioux. But  you yourself don't know that.
+CROW HORSE	m	He says he knew you'd be coming to  Bear Creek. He was told. It is the  will of Tunkasilia -- the grandfather  that you come here. He says let's  smoke the caanunpa the sacred pipe,  symbol of truth. So that there will  be no lies between us.
+RAY	m	What's he smoke in that?
+CROW HORSE	m	Sacred herbs. Tobacco. Don't worry,  we don't smoke no Mexican agriculture  in The Pipe. That's a white man's  myth. This is a sacrament.
+GRANDPA	m	Mltaku Oyasin.
+CROW HORSE	m	You don't smoke with him, it means  you're hiding something.
+CROW HORSE	m	He says Wakan. Sacred. Five hundred  year old turtleshell rattle, passed  down from the Grandfathers. Heavy  duty.
+CROW HORSE	m	He says, it is good. The Spirits are  here. The Spirits want to know what  you're doing here?
+RAY	m	Tell him I'm trying to find the man  who murdered Leo Fast Elk. Ask him  if he knows where he is.
+RAY	m	What did he say?
+CROW HORSE	m	He said he doesn't know.
+RAY	m	He just did the Gettysburg Address  in Sioux. What did he say?
+CROW HORSE	m	Uh... Grandpa likes to trade; no one  stops by here without gettin' stuck  in the old Indian barter. He, uh...  he likes your shades.
+RAY	m	What was he saying?
+CROW HORSE	m	Why should I tell you.
+RAY	m	Because he was talking to me.
+RAY	m	Does he know something?
+CROW HORSE	m	The old man saw an owl. Over there  in the dry wash. Last week.
+RAY	m	And...
+CROW HORSE	m	He saw an owl.
+RAY	m	So what?
+CROW HORSE	m	The owl is a messenger. When one  shows itself to a Sioux... it means  someone's gonna die. The owl told  him about Leo.
+RAY	m	The owl told him about Leo. That's  incredible. I guess we just broke  the back of this investigation, didn't  we? Evidence doesn't get any harder  than that -- not for my money. Is  there anyway we can seduce this owl  into Federal Court?
+CROW HORSE	m	He also said "listen to the water."
+RAY	m	Listen to the water. Listen to the  owl. He also said, don't trust the  fucking Cookie Monster.
+CROW HORSE	m	Go back to your DNA finger-printin'.
+CALLER	m	Was-te Yelo! Let's have five more  veterans. Five more veterans. Hoka  Hey!
+CHASING HAWK	m	What is that that you honor there,  uncles? After all the Wasi'cu country  has done to you, after all he still  does to you, you honor that flag?!  That flag has been desecrated by the  United States, because they have not  honored what that flag represents!
+CHASING HAWK 	m	To them, we are the Bank of America.  Whenever they get into a little  difficulty, they go to The Bank,  withdraw a little land, withdraw a  little oil --
+MILES	m	Okay. Here we go.
+COOCH	m	Who's this guy?
+SHERMAN	m	Anderson Chasing Hawk. Second in  command behind Jimmy.
+SHERMAN	m	Magedelana Eagle Bear. Eagle's claws  and a bear's balls.
+MILES	m	She keeps an AR-15 assault rifle in  her truck. And she'll use it.
+RAY	m	Mr. Clear Moon.
+CLEAR MOON	?	Our police are afraid of them. Please  get them out of here.
+CLEAR MOON	?	They're going to kill me next. That's  what I hear. These new Indians are  destroying everything. Our people  are a quiet people.
+RAY	m	They can lead us to Jimmy. Just let  them go. We're tightening the net on  him. We know he's on the reservation.
+CLEAR MOON	?	Help us.
+AGENT SHERMAN	m	Where's Jimmy? We thought he'd be  dancing today.
+YELLOW BIRD	m	Are you the Washington Redskin?
+AGENT MILES	m	Say hello to Richard Yellow Bird,  Ray.
+COOCH	m	Ray, get to Jimmy's place and keep  it tight. I'm gonna get a tail on  his Warriors.
+RAY	m	X22. Read.
+RADIO	m	Go ahead, Ray.
+RAY	m	I have a pick-up truck. No plates.  Subject -- Indian -- entering  suspect's house. Over.
+RADIO	m	Okay, Ray. I'm coming in. If he starts  to leave the area, move in. And hold  him. Over.
+RAY	m	FBI, freeze, Motherfucker -- drop  it, drop it!
+RAY	m	Turn around, put your hands on the  roof of the truck.
+MAGGIE	f	You're the Indian FBI.
+RAY	m	That's right. Turn around.
+MAGGIE	f	The people are glad they sent you.  They usually send in guys who come  at ya with highbeams, screamin' "drop  it, Motherfucker", stick a gun in  your face, frisk ya down. Even if ya  got a child with ya. No, it's good  to have ya. It's gonna be was-te  times on the res.
+MAGGIE	f	I was gonna warn ya about messin'  with somebody's medicine bundle but  I forgot you know all about that  stuff.
+RAY	m	This Jimmy's?
+MAGGIE	f	You're not gonna catch him. He can  shape-shift into different animals.  Bear. Elk. Porcupine.
+RAY	m	Is that like an hereditary thing,  Magdelana, or can one take classes?
+MAGGIE	f	Jimmy didn't kill Leo. Why do you  wanna do this?
+RAY	m	He tried to kill him twice before.  That's a good place to start don't  ya think? Leo was on the other side,  wasn't he?
+MAGGIE	f	-- Leo was an apple, that's right.  Red on the outside, white on the  inside. And Jimmy hated him. Kicked  his ass a coupla times. But he didn't  kill him.
+RAY	m	Who did?
+MAGGIE	f	You're the FBI. That's your job,  isn't it? Ya know how many of our  Warrior brothers got killed out here?  I never saw any investigating then.  Why now? What's going down here?
+RAY	m	A Fugitive Alert for a murder suspect.  Before somebody else gets a shotgun  blast in the spine.
+MAGGIE	f	Try the Fort Laramie Treaty. All  over again.
+RAY	m	Look. You and I can stand here in a  culture clash til the sun comes up,  talking about what's right and what's  wrong. You're from the reservation.  It's a different world.
+MAGGIE	f	I'm from Minneapolis. Fifth Street.  I did four years at Dartmouth before  I ever set foot on this res. So I  know about the other world, Ray.
+MAGGIE	f	Are you gonna keep that medicine  bundle or are you gonna respect its  power?
+MAGGIE	f	Thank you.
+RAY	m	When you see Jimmy, tell him the  sooner he turns himself back into a  human being and gives himself in...  the sooner we back off this  reservation. Okay?
+MAGGIE	f	Grandpa Reaches says you come from  heavy Indian blood. I used to think  Grandpa was gettin' senile. Now I  know he is.
+RAY	m	Move it, Magdelana.
+COOCH	m	Ray, you alright?
+AGENT SHERMAN	m	What do we got, Ray?
+RAY	m	It was just Eagle Bear. I questioned  and released her.
+COOCH	m	What'd she say?
+RAY	m	She talks a lot of shit. We're not  doing our job. Jimmy's innocent.  "What's the FBI really doing here."  Some shit about the Fort Laramie  Treaty.
+RAY	m	She took something from the house.  What she called a medicine bundle.  Most likely Jimmy's.
+COOCH	m	Let's see it.
+RAY	m	I gave it back to her.
+AGENT SHERMAN	m	Why?
+RAY	m	If it is Jimmy's, she's taking it to  him. We'll have a runner. But I  borrowed a little mojo...
+COOCH	m	Way to go, Raymond. Miles, take that  to lab. Sherman, I want you to go  back to base and produce some written  material. Something that indicates  that our girl Maggie is leaking  information to us. And make sure  that material finds its way into the  hands of the Warrior Movement.
+COOCH	m	You gentlemen missed that medicine  basket. Go back through the house,  and make sure you missed nothing  else. And lay some wire, too. Let's  do it.
+COOCH	m	That's good goddamn work, Ray. Let  the salmon run. Let 'em run Upriver.
+RAY	m	Why we setting Eagle Bear up as an  informant?
+COOCH	m	Her own people start to suspect her,  it creates discord from within. The  Warriors don't know who to trust,  they start infighting, and Jimmy  loses his support.
+COOCH	m	Her oil pan is shot.
+RAY	m	Cooch. What's the Fort Laramie Treaty?
+COOCH	m	Jesus, I don't know. You tell me.  You're the Indian.
+COOCH	m	Get a tail on her, Ray.
+RAY	m	Cooch. Where the fuck did they send us?
+COOCH	m	A long way from home. You be careful  out there.
+RAY	m	For all I know, you're Jimmy. And  you're just waiting for a shot at my  jugular. Drink, Jimmy. Milk is good  for you --
+CROW HORSE	m	Don't be mad. That was just an old  traditional gesture that means hello,  how are you.
+RAY	m	I see. Forgive my cultural ignorance.
+RAY	m	Have a nice day.
+CROW HORSE	m	Jimmy didn't do it, Ray. I checked  it out. You can stop taggin' my  sister.
+RAY	m	She's your sister?
+RAY AND CROW HORSE	m	Spiritual sister.
+RAY	m	Gotchya. We just nailed a genetic  match between the eagle feather left  at the murder site and one in Jimmy's  medicine bundle. It came from a white  eagle. Same bird.
+CROW HORSE	m	So did this one. Wambli is a rare  and sacred creature. When someone  finds a dead one, the feathers get  around the res. We share everything.  A lot of power in the eagle feathers.  But you think that's bullshit too,  don't --
+RAY	m	-- Leo Fast Elk was sitting in the  outhouse at Maisy Blue Legs when a  car pulled into the yard. He came  out, approached the vehicle then saw  that the man behind the wheel was  Jimmy. He tried to get back into the  trailer, but the car came highballing  at him. He started running for the  open grass. With the car moving,  Jimmy hung his shotgun out the window,  took aim -- missed once, hitting the  shitter -- fired again, and severed  Leo's spine. Leo fell, rolled, and  came to a stop in the grass. And  some chicken feed. Stale chicken  feed with four days mold. Electromagnetic printing.
+CROW HORSE	m	Was-te. 'Cept for one thing. Jimmy  Looks Twice was nowhere near there.  Ya see, when Jimmy was twelve years  old, his mother and father was killed  in a car wreck right down there near  Elk Mountain.
+RAY	m	I don't see the connection.
+CROW HORSE	m	The connection is, it did a head  number on him. He's petrified of  cars. Won't drive. I've known him  all my life, and he's never gotten  behind the wheel of a vehicle. He  rides passenger and he rides horses,  and that's it. The man that shot Leo  down was behind the wheel of a moving  car.
+RAY	m	That's not solid.
+CROW HORSE	m	You want solid? That one, single,  print he left in the Badlands -- the  one the FBI missed and then stepped  all over -- it belongs to a man who  walks heels first. Like a white man.  Jimmy has a serious Ind'n walk --  ball of the foot first. The man who  murdered Leo walked like a Wasi'cu.
+RAY	m	You're saying a white guy did it...
+CROW HORSE	m	When Leo was dumped out there in the  Badlands, he was dropped on his back.  Our man made an effort to turn him  over, onto his face. It's an old  Ind'n belief that if a dead man is  turned face down, his spirit won't  leave. And in the killer's case, it  won't come back and jump all over  his shit. That's an Ind'n thing a  white man wouldn't know.
+CROW HORSE	m	And that's the way it is. Write it  down.
+CROW HORSE	m	You laugh all you want, Breed. Sunset  tonight, I get my man.
+RAY	m	Alright, Crow Horse. I'm listening.  I'm listening to the trees, to the  stones. Who is it?
+CROW HORSE	m	Damned if I know.
+CROW HORSE	m	But the Old One. He did a Yuwipi  ceremony last night.
+RAY	m	The old man? He's gonna tell you who  killed Leo?
+CROW HORSE	m	Go catch Jimmy, Ray. Really. He's  gettin' away. Go ahead, go get him.  I'm late.
+RAY	m	Hey. Hey, those are my sunglasses  you're wearing.
+CROW HORSE	m	Grandpa traded with me. Goodbye.
+CROW HORSE	m	He says, back behind Red Deer Table,  where the Elk-People-used-to-live...  there are strange creatures from  another world who eat stones... and  who will kill anyone who crosses  into this place.
+CROW HORSE	m	He says, in the Yuwipi ceremony last  night, he saw you... going back into  the land beyond Red Deer Table. I  was with you. But that was all the  Spirits let him see so he doesn't  know if you were killed or not. But  he thinks you probably were.
+CROW HORSE	m	Go to the land where the Elk-People- used-to-live and you will find the  answers you came here looking for.  But you must go as two. That is the  vision. I have spoken. And this is  so.
+CROW HORSE	m	He wants to trade. He likes your watch.
+RAY	m	I can't do that, It's a Rolex.
+CROW HORSE	m	A what?
+RAY	m	I'm sorry, this is -- -- this is very, very expensive.  It's -- Tell him this is an expensive watch.
+CROW HORSE	m	He says, you need to go on Indian  time. He says your watch is ruining  your life anyway.
+CROW HORSE	m	Red Deer Table, Ray.
+RAY	m	Don't tell me: heavy duty.
+CROW HORSE	m	Heavy, heavy duty. Taku Wakan. Wanagi  Spirits. It's one of those few places  we'd never go to as kids. Still don't.  Some of the old people say Crazy  Horse is buried back there. We have  to go Ray. Together. Like his vision.
+RAY	m	Walter. When I fill out my 302, do I  say that evil spirits are killing  everybody on the reservation?
+CROW HORSE	m	Ray --
+RAY	m	-- no. No offense to the old man. I  appreciate you trying to help. But I  put my ass on the line coming out  here, man.
+CROW HORSE	m	What'd you expect to hear?
+RAY	m	Not Native American myths and legends.  I'm with the FBI, Walter, remember?  Not National Geographic.
+CROW HORSE	m	What you call myths, we call our  history.
+RAY	m	It's not real.
+CROW HORSE	m	What's real to you? Wall Street?  Capital Hill? Now they are myths.
+RAY	m	I can't be dicking around here. That's  all I'm saying. I don't carry  crystals, I don't wanna come back in  another life. I just wanna do my  job, and do it right, and get the  fuck outta here.
+CROW HORSE	m	You ain't no Indian. You're a Sal  Mineo Indian.
+GRANDPA 	m	Knock it off!
+GRANDPA	m	Will ya knock it off? You're actin'  like a couple of old women.
+GRANDPA	m	For cryin' out loud. Knock it off.
+RAY	m	He speaks English.
+CROW HORSE	m	Only when he's really pissed off.
+GRANDPA	m	Come inside. Watch TV.
+CROW HORSE	m	Don't accuse nothin' of not bein'  real, Little Weasel. Cuz the only  thing around here that ain't real is  you.
+RAY	m	Take care of yourself, Walter.
+CROW HORSE	m	Likewise.
+SA SHERMAN	m	We've gotten word that Jimmy has  been trying to hook up with Maggie  Eagle Bear... but some of the Warriors  have been sending word to Jimmy that  she may be an FBI operative. So he  doesn't know where to go.
+COOCH	m	Bingo. It's working.
+SHERMAN	m	He's out of room. All the reservation  exits have been watchdogged. We got  him. I give it twelve hours.
+RAY	m	Well we better use those twelve hours  to apprehend the right man.
+COOCH	m	The right man? Talk to me, Ray.
+RAY	m	Whoever dusted Leo, dusted him from  the driver's seat of a moving car  then drove those eight miles to the  Badlands. Jimmy Looks Twice has never  been behind the wheel of a car. It's  a known fact out here that he's  petrified of driving. His parents  were killed in a car wreck.
+SHERMAN	m	That's not very solid.
+RAY	m	There was also a print found in the  Badlands that indicated diagetic  locomotion. Heels first. Jimmy's  walking pattern doesn't match. He  has a distinct Indian walk.
+SA MILES	m	Indian walk? You been smoking hooch  in the peace pipe, Ray?
+RAY	m	They don't smoke hooch in The Pipe,  Miles. They smoke something called  kinickinick, it's like a tobacco.
+SA SHERMAN	m	Well, you're right about X21 being a  Washington Redskin, that's for sure.  What else, Ray?
+COOCH	m	You boys want a soda?
+SA MILES	m	Oh, yeah, a Coke. You buying?
+COOCH	m	No, Ray's buying. Sherman? Coke?
+SHERMAN	m	Oh... no. No, Cooch, I'm working on  a coffee here. Indian walk?
+COOCH	m	Genetic ditto on evidence found at  the site with evidence you found in  his belongings. An incontrovertible  motive. And definite footprints on  Jimmy Looks Twice at Maisy Blue Legs  house.
+RAY	m	When did we get that?
+COOCH	m	Today. And now you -- there's a dog  in the van --
+RAY	m	-- I know. I fed it, and I can't get  rid of --
+COOCH	m	You weren't sent here to go off on  your own detail, Ray. You were sent  here to assist in a Selective  Operations Unit. These regional agents  are inept -- that's why they were  sent out here to The Graveyard, to  Indian Country. I need you behind  me, Ray. Not pulling against me.
+RAY	m	I'm not trying to pull against you,  Cooch. I've just been having  nightmares about the way Leo was  killed.
+COOCH	m	Your first homicide, that's gonna  happen, Ray...
+RAY	m	I just wanna make sure no one else  gets done in that way because we  were in bed with the wrong doer.
+COOCH	m	Ray. I never get into bed with  somebody unless I know for sure.  Just the way I was raised.
+RAY	m	Alright. Alright...
+COOCH	m	Yeah, alright, alright -- fuck you --  give a yuppie a badge and he wants  to take over the world. Go get a  tail on Eagle Bear, and stay with  her. Cuz Jimmy's gonna show. And I  want you to make the collar.
+COOCH	m	Ray.
+COOCH	m	I'll sleep around a little.
+RAY	m	Thanks, Cooch.
+COOCH	m	And get rid of the dog.
+RAY	m	Motherfucker.
+COOCH	m	Bastards...
+RAY	m	All I could think of was... not here.  I don't wanna eat it on an Indian  Reservation, three thousand miles  from home.
+COOCH	m	He's out there. He's out there playing  Sitting Bull with us. I want the  motherfucker so bad I'm getting a  bleeding ulcer.
+RAY	m	It may have been Maggie's way of  saying "get off my ass."
+COOCH	m	She's that subtle?
+RAY	m	Eagle's claws and a bear's balls  that's what her profile says.
+COOCH	m	Well, she's running now, too. These  fucking people like to run, don't --
+RAY	m	-- Cooch. Woh. Stop.
+COOCH	m	Tread matches. It's the car.
+RAY	m	Yes.
+COOCH	m	But this doesn't make any sense,  Ray. If it's just been sitting in  this dry wash for seven days... why  the hell didn't we find it?
+RAY	m	Because this isn't a dry wash.
+RAY	m	It's the Little Walking River.
+RAY	m	And it was full of water when I drove  by here three days ago. Full. I  mean... a river.
+COOCH	m	The Little Walking River. You're  right. This is part of it. So whoever  sunk this car didn't compensate for  drought. Goddamn.
+RAY	m	Listen to the water...
+CROW HORSE	m	Agent Little Weasel, Federal Bura of  your Imagination.
+RAY	m	Jesus Christ. You're hammered. What  are you doing?
+CROW HORSE	m	You're right about the old man. His  power's long dried up. He's supposed  to be a medicine man but he won't go  see the people. He says we changed,  and we don't listen. Well, he don't  go out and talk no more. I haven't  had a drink in three years but I  just turned my sobriety chip into  that man behind the bar, and this  Hoss is gettin' watered.
+RAY	m	Cut the shit. You shouldn't be in  here, Man.
+CROW HORSE	m	Cuz I'm a skin?
+RAY	m	Cuz you're a cop.
+CROW HORSE	m	Not no more.
+RAY	m	What are you talking about?
+CROW HORSE	m	You tell me. You tell me who went to  the B.I.A. -- Bureau of Indian  Annihilation and said I was messin'  with your case, man. I don't give a  goddamn about your case.
+RAY	m	And I don't give a goddamn about  whether you wear a badge or not,  Crow Horse, but I didn't cut you.
+CROW HORSE	m	Still after Jimmy?
+RAY	m	They found prints at Blue Legs' place.
+CROW HORSE	m	Yeah. Jimmy's prints are there. But  they cross over Benjamin Black Star's  prints. And he wasn't there until  six o'clock the mornin' after to get  eggs from the chickens. So Jimmy  wasn't there til the next day. Follow?
+CROW HORSE	m	Look, man... you better bust Jimmy  and get out before somebody shoots  up more than your car next time.
+RAY	m	Next time I'll be ready. You get the  word to who ever it is.
+CROW HORSE	m	I can't, Hoss. I don't talk to FBI's.
+CROW HORSE	m	You think you was sent here cuz you're  a good cop?
+RAY	m	No. I was sent here cuz I'm Indian.  And a good cop.
+CROW HORSE	m	You ever think that maybe you was  sent here cuz the FBI's need one  good reason to take out the entire  Warrior Movement. And what better  reason than one of their men, gettin'  blown away on the res. A low-rent,  expendable public servant sent in to  take a bullet for his country.
+RAY	m	I'm sick of your shit --
+RANCHER 	m	I'm sick of the two of ya timber  niggers spewin' off.
+CROW HORSE	m	Sorry, we don't speak United States.
+RANCHER'S SON	m	Yeah, well I do. Get the Jesus up,  and get the Jesus out or I'm gonna  go out to my truck and come back  with my hardware.
+RAY	m	Woh, hold on there, Jack, you're --
+RANCHER'S SON	m	-- don't "jack" me, Squanto. I'll  bury your lazy ass right here.
+RANCHER'S SON	m	I'm talkin' to --
+BROOKS	m	No! No, you butt holes! He ain't  skin! He AIN'T SKIN!
+CROW HORSE	m	Yeah he's In'dn. Miniconjou Sioux.
+RANCHER'S SON	m	You ain't Indian?
+OLDER RANCHER	m	What's so damn funny?
+CROW HORSE	m	Well, it's just that the cavalry  used to always threaten the Lakota.  The cavalry ain't around anymore.  The Lakota still are.
+RANCHER'S SON	m	I got no trouble tellin' where you  come from, Fat Red.
+BAR MAN	m	Sorry. On the house.
+RAY	m	No plates. No registration. Serial  numbers removed. And all prints washed  off by the river. That's great. This  is turning out to be a walk in the  park, do you know that?
+RADIO	m	Come back?
+RAY	m	Never mind.
+RADIO	m	Ray. X22.
+RAY	m	I read, Cooch.
+RADIO	m	Remember that upside down flag back  at Jimmy's house? Somebody took it  down.
+RAY	m	Good.
+RADIO	m	They took it down, set fire to it,  and threw it on the doorstep of room  13 at the Buffalo Butte Motel. Your  room.
+RADIO	m	We traced the number of the truck  that dumped it, and it belongs to  one Maggie Sanders, also known as  Maggie Eagle Bear. She's been all  over the res, riling up the  traditionals, telling them not to  break, and to keep Jimmy in hiding.  She's a problem now. And she's yours.  Get her off the reservation.
+LITTLE GIRL	f	Are they all right under here?
+MAGGIE	f	Two-hundred and sixty-seven men,  women, old people. And little ones  like you. Many killed running along  that road you see there.
+LITTLE BOY	m	Where were they runnin' to?
+MAGGIE	f	A place called The Stronghold. They died for a dream. But you live.  You are their great-great  grandchildren and you live. We have  to honor their dream. Of protecting  the Mother Earth. And being proud of  being Indian.
+LITTLE BOY	m	My mother told me that they call us  Indians cuz Columbus was lookin' for  India when he discovered our country.
+MAGGIE	f	Yeah, well, let me tell you something,  Henry: just be glad he wasn't looking  for Turkey.
+MAGGIE	f	Richard. Sing the Honoring Song with  them. I'll be right back.
+MAGGIE	f	We're praying at the grave. Do you  wanna join us?
+RAY	m	No, Maggie. But you're gonna have to  join me for a ride. I'm taking you  to Rapid City.
+MAGGIE	f	So much power. I see it in your eyes.  This... hunger for power. Or for  what you think is power.
+RAY	m	You burned an American flag today.  And left it for me...
+MAGGIE	f	-- You desecrated it, it had to be  burned.
+RAY	m	I desecrated it?
+MAGGIE	f	You forced an innocent man to run  like an animal. You've tried to poison  my people's hearts against me with  your manipulation, with letters I  never wrote... you've been watching  me eat, work, raise my family...  wash myself in the river. And now  you're here, arresting me at a sacred  place. In your eyes, that's power.
+MAGGIE	f	So I plant this tree for you. And I  take all this stuff that you've laid  on me and my people, and I put it in  this hole with this pine cone. And I bury it. Cuz ya know what it  is, Ray? Bullshit. And shit is  fertilizer. And The Mother will turn your lies  into something that lives.
+MAGGIE	f	That's what power is, in the Indian  way. Take me to Rapid, Ray. I'm the enemy.
+RAY	m	If I told you... that I think Jimmy's  innocent... but I'm in over my head...  would you believe me?
+MAGGIE	f	See those Black Hills out there,  Ray? When the people lost the land  in 1868, the government took  everything but those hills. They  allowed us to keep those Black Hills,  to live there. Signed a treaty. Until  they found gold. Then they told us  we had to leave because of National  interest. They broke that treaty.  Anyone who fought or spoke out against  it, wound up dead or in jail. And  the people wound up here. On a  reservation.
+MAGGIE	f	While up there, in the Black Hills...  they carved the faces of four  presidents.
+MAGGIE	f	Your relatives must've taught you  something.
+RAY	m	NO.
+RAY	m	What?
+MAGGIE	f	Wa-shee is like... a dumpling. Like  tallow we put in stew. I think he  was calling you chubby boy.
+RAY	m	Great.
+RAY	m	You ever see that car before?
+RAY	m	Who's it belong to?
+RAY	m	Help me, Maggie...
+RAY	m	I didn't see you today, Maggie. Goodbye.
+MAGGIE	f	Goodbye... Wa-shee.
+RAY	m	Anyone who fought or spoke out against  it... wound up dead or in jail.
+RAY	m	That was 1868, Maggie...
+COOCH	m	Jesus, you alright?
+RAY	m	Yeah. I... I fell asleep. I can't  believe it. I --
+COOCH	m	Never turn your radio off! I thought  I was gonna find you scalped! Damn  it!
+RAY	m	Sorry, Cooch. I lost Eagle Bear --
+COOCH	m	-- never mind Eagle Bear. We've got  Jimmy nailed. Let's go!
+COOCH	m	HANDS ON YOUR HEAD!
+SHERMAN	m	Where is he, Sam? Where's Jimmy?
+SHERMAN	m	He's a medicine man, Ray. The  "spiritual leader" of the Warriors.  That right, Sam?
+COOCH	m	Trailer's clean, let's go.
+SHERMAN	m	You been the one making it rain like  that, out there, Sam?
+RAY	m	Hey, put that down.
+SHERMAN	m	Can you make Jimmy outrun an M-16,  Sam?
+RAY	m	Sherman!
+MILES	m	EASY, MEN! HEY! --
+RADIO	m	HE'S ON THE ROOF! HE'S ON THE FUCKING
+LOOKS TWICE	m	Brother, the old man told me about  you. Listen to me: what was Leo trying  to tell me? He wanted to meet me at  Maisy --
+FED	m	Save your speeches for prison, Jimmy.
+COOCH	m	Damn. That's one hard running Indian.
+COOCH	m	It's over, Ray. I aged five years.  But it's over. At least I'm gonna  look like I'm ready for the advisory  desk. Let's go get a beer.
+RAY	m	Look... I'm not who you think I am. I'm sorry.
+GRANDPA	m	Out back that way... is a placed  called Wounded Knee.
+GRANDPA	m	I was one years old there when our  people were shot down. My mother hid  me in the snow in a blanket. One of  those killed was a Holy Man called  Wakiyan Cante -- Thunder Heart. They  killed him while he was running for  The Stronghold. It is his blood --  the same blood that spilled on the  grass and snow at Wounded Knee --  that runs through your heart like a  buffalo.
+GRANDPA	m	Thunder Heart has come. Sent here to  a troubled place to help his people.  That's what I am told. Maybe you're  right and I am mistaken. Your mind  is young, mine is old. If so, so be  it. Ho Hecetu Yelo. I'll speak no  more.
+COOCH	m	Buffalo burgers and cold beer,  Raymond. Don't worry about the sign  out front... you don't have to be  Indian anymore.
+COOCH	m	You have a fever. You okay?
+COOCH	m	Listen: when we get back tomorrow,  you're gonna find Tully laying a  promotion on you. S.A.C. He wants to  prove that his yuppie agents are  making good. He's offering you New  York. Tell him you want Atlanta.
+RAY	m	Why?
+COOCH	m	Cuz I want New York.
+RAY	m	Cooch. They sent us out here because  the place was being neglected. Now,  all of a sudden, there's two five  man SWAT teams out there tonight.  Bell Huey choppers flying all over  the place. Federal occupation to  catch one guy. Why, Cooch? What's  going on?
+COOCH	m	National security, Ray. Get some  sleep. Tomorrow, we fly.
+RAY	m	I'm looking for Richard Yellow Bird.
+YELLOW BIRD	m	The Washington Redskin. Thought you'd  be gone by now.
+YELLOW BIRD	m	What ya want?
+RAY	m	Must be a bitch getting around in  that wheelchair. How long you been  in it?
+YELLOW BIRD	m	Since I got a iron pipe put across  my knees, man. Fight with three  wasi'cus, ya know.
+RAY	m	At Sioux Falls Pen?
+YELLOW BIRD	m	No, that was Leavenworth. This -- was Sioux Falls. What ya want?
+RAY	m	Leavenworth a tough joint?
+YELLOW BIRD	m	You ever try solitary confinement?
+RAY	m	No. Can't say that I have, Richard.  Richard do you know why I'm here?
+YELLOW BIRD	m	Washington sent ya. I know that.
+RAY	m	Yes, Washington sent me, Richard.  They sent me here because this whole  thing has been fucked. Do you know  what I mean when I say this whole  thing has been fucked, Richard?
+RAY	m	An arrangement was made between you...  and us. Do you remember that  arrangement?
+YELLOW BIRD	m	I'm here, ain't I?
+RAY	m	Not for long, Richard. You got early  parole under the stipulation that  you would help us in a situation,  and you didn't deliver.
+YELLOW BIRD	m	What the fuck you talkin' about?
+RAY	m	Get up out of the chair, Richard.
+YELLOW BIRD	m	What's with you people? Why do ya  have to fuck with my head all the  time? I came through, man.
+RAY	m	Get up out of the chair, and walk  toward the backdoor, Richard.
+YELLOW BIRD	m	I get thrown in solitary until I  don't know my own fuckin' name, and  then you people tell me I can beat  nine years if I help you. I helped  you!
+RAY	m	Get up!
+YELLOW BIRD	m	They said I'd never see FBI again,  and I'm livin' with you fuckers. I  don't feed ya information on the  Warriors, it's back to the pen. I  don't do this, back to the pen. Your  word against my word. Against a con  Indian's word. I really got a chance,  man, right?
+RAY	m	They sent me here, Richard because  they said you didn't hold up your  end of the arrangement, and I have  to transport you back to Leavenworth.
+YELLOW BIRD	m	What the fuck, man? What do you people  want? I did what you wasi'cu's told  me to do.
+RAY	m	Leo Fast Elk... is alive.
+YELLOW BIRD	m	No way. No fuckin' way.
+RAY	m	How the hell do you know?
+YELLOW BIRD	m	I blew his back out with a buffalo  gun, that's how I know! Now you're  gonna say I didn't, so you can throw  me back in solitary?
+RAY	m	The men who came to see you at  Leavenworth. The one's who made the  arrangement... who were they? Maybe  I can talk to them.
+YELLOW BIRD	m	Miles. Three other suits. That's all  I know 'em as -- suits. Were you  there?
+RAY	m	You turned Leo over on his face. But  the coyotes must've turned him back  over, man, cuz his spirit is out.  It's out, and it knows.
+YELLOW BIRD	m	What do you know about spirits? You  ain't no In'dn.
+RAY	m	Leo knew something heavy and was  trying to tell Jimmy. But you must  not know how serious it was or you  would have delivered. Do you realize  what Leo could have told Jimmy?! Do  you?!
+YELLOW BIRD	m	I took him out before he got the  chance. He didn't say nothin' about  Tashka Sha. And now his spirit is in  the dirt. Forever.
+RAY	m	What's Tashka Sha, speak English,  speak English!
+YELLOW BIRD	m	Red Deer Table! What's with you,  man?
+YELLOW BIRD	m	Wait a minute. Wait -- what are you  doin'? You ain't a FBI. You ain't  the law. Let me see your --
+RAY	m	I'm the fucking law!
+RAY	m	Keep talking, Yellow Bird...
+YELLOW BIRD	m	All I know... is I did what I did...  and I ain't in solitary, gettin'  pumped up with downer, gettin' beat  to shit. But I tell you what, Suit.  Take me back. Cuz I can't take this  shit no more.
+YELLOW BIRD	m	Man, I don't know who the fuck I am  no more.
+RAY	m	You and me both.
+RAY	m	Maggie!
+CROW HORSE	m	Five-hundred year old turtleshell  rattle...
+RAY	m	Crow Horse, listen --
+CROW HORSE	m	Where's Maggie? Where'd ya take her.
+RAY	m	Nowhere. I'm trying to find her.
+CROW HORSE	m	You got Jimmy. Let her go.
+RAY	m	Crow Horse, listen. You have to come  with me.
+CROW HORSE	m	Why? So you can get rid of me, too?
+RAY	m	No. So we can do what the old man  said. Red Deer Table, Walter. We  have to go.
+CROW HORSE	m	Maybe the old man's visions are still  strong.
+RAY	m	Do they come in dreams, these visions?
+CROW HORSE	m	Oh yeah. Dreams. Sometimes durin'  sickness. Vision quest. Sweat Lodge.  Ya never know when.
+RAY	m	Just before we caught Jimmy... I had  a dream that I was being chased. And  I was running with other people. Old- fashion Indian people. I got shot in  the back. Like Leo.
+CROW HORSE	m	Where was this?
+RAY	m	At Wounded Knee. I mean, that's where  I was, and that's where the dream  was. Why?
+CROW HORSE	m	You were running with the old ones.  At The Knee. Heavy duty.
+RAY	m	Well, it was just a dream, I --
+CROW HORSE	m	Sonuvabuck! What's with you, Man?  Who are you?
+RAY	m	What do you mean?
+CROW HORSE	m	Nothin'. Forget it.
+CROW HORSE	m	You had a vision. You had yourself a  vision. A man waits a long time for  a vision. Might go his whole lifetime  and never get one. And along comes  some instant Indian with a Mastercard  and brand-new shoes, has himself a  vision.
+RAY	m	Sorry.
+CROW HORSE	m	I'm a full-blood Oglala.
+RAY	m	We've driven a long way. Where is  this place?
+CROW HORSE	m	Maybe it was just a dream. Ya know,  just one of them, what do ya call  'em, fitful dreams?
+RAY	m	Yeah. Fitful dreams.
+CROW HORSE	m	Bullshit. You had a vision. You got  sign from the old ones.
+RAY	m	What the hell do you want me to do?!
+CROW HORSE	m	Stop.
+RAY	m	What's that?
+CROW HORSE	m	Ain't prayer flags, that's for sure.
+RAY	m	Jesus. Oil?
+CROW HORSE	m	Uranium. Test holes. Somebody came  in from the Nebraska side, and did  some shotgun testin'. They're gettin'  ready to suck this baby dry.
+RAY	m	1868...
+CROW HORSE	m	What?
+RAY	m	That's what we're doing here. National  interest. National security. Only  this time it's not gold. It's uranium.
+CROW HORSE	m	We're standin' on broken treaty  ground, Ray. This ain't supposed to  be here. It'll poison the water.
+RAY	m	Leo knew about it. Tried to tell  Jimmy, get the Warriors involved.
+CROW HORSE	m	So they took care of Leo.
+RAY	m	Listen to the water... the river  keeps goin' down then rising again.
+CROW HORSE	m	They're drainin' our water table.  That's our life, man...
+RAY	m	No. No...
+RAY	m	This Clear Moon's house?
+CROW HORSE	m	Yeah. It's time to beat the drum.  You better wait here. He don't trust  the white man.
+CROW HORSE	m	Alright. Shit's comin' down. He's  callin' council fire. All the old  chiefs and the warriors, too. I gotta  be at Grandpa's place in two hours.  We need to get the tribe together.  We need to block this thing.
+RAY	m	What we need... is Richard Yellow  Bird.
+CROW HORSE	m	I thought it was a rare case of a  brother getting a break in the courts.  We did an honorin' song for him and  everything.
+RAY	m	He's looking at a few hundred years  in Leavenworth. He's not gonna come  out without a fight.
+RADIO	m	X21. Read. X21...
+RAY	m	X21. Come back.
+RADIO	m	Ray. What's your 20?
+RAY	m	Reservation.
+RADIO	m	What are you doing on the reservation?
+RAY	m	I'm on my way back in. Over.
+CROW HORSE	m	Ray. Ray, don't let go now, Man.  Ray...
+RAY	m	You go to the council fire. I'm going  back in.
+CROW HORSE	m	Ray.
+CROW HORSE	m	Ray!
+COOCH	m	Couldn't sleep, Ray?
+RAY	m	No...
+RAY	m	I had to finish something with Crow  Horse.
+COOCH	m	That's where you were. You had to go  back and have it out with the Indian  law...
+COOCH	m	You fucking hot head, we can get in  trouble for that.
+RAY	m	Why didn't you tell me what we were  doing here?
+RAY	m	We're running a cover-up and you  didn't --
+COOCH	m	You ever put your hands on me again  and you'll be doing the books for a  baitshop in the fucking Everglades,  Mister.
+RAY	m	You didn't tell me about Red Deer  Table --
+COOCH	m	-- what the hell is Red Deer Table?
+RAY	m	What is it? It's genocide, that's  what it is. It's a Pay Zone for some  U.S. corporation and a Dead Zone for  the people here. Uranium, Cooch.
+COOCH	m	Jesus Christ. What are you doing?  What the hell were you doing out  there?
+COOCH	m	This was a Selective Operations Unit,  Agent Levoi. There is classified  information pertaining to our national  security. You don't question that,  you don't go digging into that shit --  that's insubordination. Jesus Christ --
+RAY	m	-- if they mine uranium there, these  people will have no place left to  go...
+COOCH	m	We were sworn in on the Constitution  to protect federal matters, Ray. I  don't know about uranium, I don't  know about Red Dog Table -- all I  know is we did our job. It's over.
+RAY	m	We neutralized anybody with a voice.  Leo, Jimmy... Eagle Bear. Anyone who  was standing in the way of the land.  Is that it?
+COOCH	m	No. We neutralized enemies of the  United States. Anti-American radicals  who have killed federal officers out  here!
+COOCH	m	Jesus, Ray. You think I don't like  the Indians? Not true. These were  noble people but their day is gone.  They're a conquered nation. They  want all of America back but they  can't even keep the garbage out of  their own front yards. It's sad,  Ray. But it's just the way it is. We  have to function as a colonial police  force out here.
+MILES	m	You gentlemen ready -- hi, Ray.
+COOCH	m	Yeah, we're ready.
+CLEAR MOON	?	Ah, there you are. The Sioux.
+CLEAR MOON	?	You got the troublemakers off our  land. Good, Was-te.
+COOCH	m	RAY!
+COOCH	m	No, damn it. You call teams in and  this is gonna be a fucking media  event. Get me three cars, six agents,  block all reservation exits. It's  under control.
+RAY	m	Crow Horse!
+RAY	m	Crow Horse!
+CROW HORSE	m	Ain't no Council Fire, Brother. Clear  Moon...
+RAY	m	I know. Come on. We gotta get off  the reservation or we're dead.
+CROW HORSE	m	Hoka Hey. It's a good day to die.
+RAY	m	Bullshit, let's get outta here,
+CROW HORSE	m	Grandpa...
+RADIO	m	X21, please read. Ray. Ray. X21,  please read. This is Cooch. Please  come in, Ray. Where are you?
+RAY	m	He's gone.
+CROW HORSE	m	He hasn't left this place in twenty  years. They got him.
+COOCH	m	X21. Ray. Ray, please come in.
+MILES	m	We have a renegade agent, Cooch? He  gets off the reservation...
+COOCH	m	-- he's not getting off the  reservation.
+CROW HORSE	m	They got us sealed. What are we gonna  do?
+RAY	m	We're going for The Stronghold.
+RADIO	m	Ray. Can you hear me? You are fucked.  There's no way out of this. If you  won't listen to your own laws, then  listen to this: This is President Clear Moon. This  nation does not want your sympathy.  You cannot use this reservation as a  sanctuary. Stop where you are now.
+RADIO	m	Whatever you are trying to do is  futile, Raymond. You have nothing.  Nothing.
+RAY	m	Yellow bird... is gonna sing.
+RADIO	m	Yellow Bird committed suicide at  three o'clock this morning. Some  gung-ho agent from D.C. pushed him  into a corner. You're playing a losing  game. Pull over.
+RECORDER	m	How the hell do you know? I blew his back out with a buffalo  gun, that's how I know. And now you're  gonna say I didn't and put me back  in solitary?!
+RADIO	m	You people tol' me I could beat nine  years if I helped you. I helped you! I could beat nine years if I helped  you. I helped you!
+RAY	m	Fuck you.
+RAY	m	Walter.
+CROW HORSE	m	That's it. The Stronghold. Get us in  there, we got a chance.
+RAY	m	We're in there. We're in there --
+COOCH	m	DROP IT.
+COOCH	m	Crow Horse, get your face in the  dirt. Ray... come forward. Let it  go. Let's just let it go...
+COOCH 	m	Come on, Ray. Come forward.
+RAY	m	No way, Cooch.
+COOCH	m	Ray. I'm coming to talk to you. I'm  gonna walk you out of here. And we're  gonna get the hell outta this place.
+RAY	m	You're right, Cooch. It's over.
+CHASING HAWK	m	All the exits are blocked. There's  two more fed cars tryin' to get in.  And some press.
+COOCH	m	Ray...
+RAY	m	Let the press through.
+CROW HORSE	m	The people are already talkin' about  their vote for a new tribal prez.  They wanna vote for Jimmy.
+RAY	m	What about the water...
+CROW HORSE	m	You bought her some time, Kola. Ain't  never gonna be over... but you bought  her some time.
+RAY	m	Some Indian time?
+CROW HORSE	m	Indian time.
+CROW HORSE	m	Where ya gonna go, Ray?
+RAY	m	I'll have to see what the visions  say about that one.
+CROW HORSE	m	You didn't have another vision...
+CROW HORSE	m	Yeah, right here.
+RAY	m	You take care.
+CROW HORSE	m	If you ever need a place to come  back to and listen to the trees a  little... we'll be here.
+CROW HORSE	m	Ain't no word in Sioux for goodbye.
+CROW HORSE 	m	We will be here.
+

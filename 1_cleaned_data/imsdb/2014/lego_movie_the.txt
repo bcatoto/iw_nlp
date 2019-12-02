@@ -1,0 +1,824 @@
+NARRATOR	m	No one knows where it came from. There had been others. Mysterious relics of another world. But only one with the power to stop the world.
+NARRATOR	m	Many vied for its dark magic. A few brave souls endeavoured to hide it from those who would use it for ill. Until finally, thankfully it was lost to history.
+NARRATOR	m	Ours is a story of a world that knows not where it comes from. That cannot imagine what it is capable of. Perhaps you can relate. I know I can.
+INDY	?	The Black Falcon. I should've known.
+BLACK FALCON	m	Hey Indy. Uch. Who built this place? Must have been a bunch of lazy hippies, sitting around a table agreeing with each other.
+INDY	?	It was built by the ancients. With more wisdom and artistry than you can ever know.
+BLACK FALCON	m	The Kragle...
+INDY	?	That belongs to the Maker. It must be protected!
+BLACK FALCON	m	What a lame boyscout thing to say! You're standing before the most powerful object in the world and you don't want to use it? You're a real nerd, Indiana Jones.
+INDY	?	The MasterBuilders will learn of this.
+BLACK FALCON	m	And what do you know of them?
+INDY	?	Only that they will be your undoing.
+BLACK FALCON	m	Adieu, Dr. Jones. That's French for ciao.
+INDY	?	The Black Falcon has the Kragle.
+KRAV M'GA	m	Gemini. Find the Chosen One.
+GEMINI	m	Okay.
+INDY	?	They followed me...
+KRAV M'GA	m	GO! NOW!
+DORIS	f	Emmet!
+DORIS	f	Did you clean your room?! The cleaning woman is coming today!
+DORIS	f	Because I want her to know what a nice rule-following son I have!
+EMMET	m	Mom!
+DORIS	f	Aw, it is clean.
+EMMET	m	It's always clean!
+DORIS	f	Just like I taught you.
+EMMET	m	What's the point of having my own apartment across the hall from your apartment if you're going to check up on me like I still live at home?
+DORIS	f	I just love you and want my son to be safe and happy. Can't you work from home? Like a sociopath or children's book author?
+EMMET	m	Mom. I've spent my whole life here. I need to go out there and follow my dream of fitting in and being like everybody else.
+DORIS	f	My boy. All grown up. Maybe soon you'll meet a girl and be married!
+EMMET	m	Mom, please!
+DORIS	f	I'm just saying, it's been how many years since Lucy?
+EMMET	m	(changing the subject) Mom... I had the dream again.
+KIDS	m	That's the guys who drew a face. / What a weirdo. / He doesn't know how to follow instructions. / He's not invited to my birthday.
+DORIS	f	I hated that day. The kids were so mean, the school tried to expel you... I promised myself I'd never let anything like that happen to you again. And it hasn't. So you need to let your memory of that day go. It never happened.
+EMMET	m	I just want to be normal, Mom.
+DORIS	f	Listen. You're my son. And you're the most normal, regular, average person I know.
+EMMET	m	You mean it?
+DORIS	f	Yeah.
+EMMET	m	Are you crying?
+DORIS	f	No. Yes. Emmet...
+DORIS	f	Don't forget dinner.
+EMMET	m	Promise.
+DORIS	f	Be safe.
+EMMET	m	Of course.
+DORIS	f	Don't make waves.
+EMMET	m	I never do.
+DORIS	f	And follow the instructions.
+EMMET	m	Always.
+DORIS	f	If they weren't so firm and flush with your head, I would pinch your cheeks right now.
+EMMET	m	Love you, Mom.
+DORIS	f	Love you.
+RADIO DJ	m	It's another beautiful day in Legopolis and on Empura Radio. Reminding you don't forget to re- elect President Iamnotarobot for President of the City on Tuesday. Now, for the 258th consecutive week at #1, here's the No News Gnus with their hit "Everything is Awesome."
+EMMET	m	Yeah. I love this song! And so does everyone else!
+EMMET	m	Hello.
+BARRISTA	m	What'll it be?
+EMMET	m	I'm Emmet.
+EMMET	m	You creative types! So delightfully sardonic!
+BARRISTA	m	I push one of two buttons on a machine. I would hardly call that creative. I would call that following instructions.
+EMMET	m	But it says Kreative right on your shirt! With an extra "kreative" spelling aberration! I totally don't get it!
+FOREMAN	m	Alright, kid. Here's the rules.
+EMMET	m	Ooh, great.
+FOREMAN	m	Stay on your feet--
+EMMET	m	Mmm hmm.
+FOREMAN	m	Stick to the instructions--
+EMMET	m	Uh huh.
+FOREMAN	m	And don't get creative!
+EMMET	m	Oh, Steve, don't worry. I'm not some kind of foofy weirdo, Steve!
+FOREMAN	m	It's Sean.
+FOREMAN	m	The pieces get sent down from corporate bundled together with the instructions. Take the one with your section on it and follow it to the letter. Keep track of all the pieces. If you lose one of the special ones it'll seriously drive you crazy.
+FOREMAN	m	Today you'll be putting together an artists' loft.
+EMMET	m	Is it for an artist?
+FOREMAN	m	Oh, no. It's for an accountant.
+EMMET	m	Oh, great.
+FOREMAN	m	Pretty soon, the whole city will look like this. All part of some big master plan from Central.
+EMMET	m	Wow...
+EMMET	m	What if I mess up or lose my place or something?
+FOREMAN	m	Just do what everyone else does. Keep your head down, follow instructions, and you could get promoted. Central's got some big project coming up overseas.
+EMMET	m	Overseas? I don't know. I'm not big on travel.
+FOREMAN	m	Whatever, kid.
+EMMET	m	One more question.
+EMMET	m	Thank you. For making my dreams come true.
+FOREMAN	m	Is that a question?
+EMMET	m	So.
+EMMET	m	I think I know why I like that song so much.
+LUNCH CONSUMER	m	Why's that?
+EMMET	m	Because everything is awesome.
+LUNCH CONSUMERS	m	Oh yeah. / Good point. / I never thought of it like that.
+FOREMAN	m	Kid! What the heck is that?!
+EMMET	m	Oh, uh. I don't know. What?
+FOREMAN	m	That's not the instructions.
+EMMET	m	I don't know what happened. I was just looking out at the clouds, and-- It was an accident.
+FOREMAN	m	We got a loose brick! Code Danger!
+EMMET	m	Code Danger? What's so dangerous?
+EMMET	m	Oh.
+POLICEMAN	m	Loose brick!
+POLICEMAN'S PARTNER	m	Loose brick!
+POLICE CHIEF	m	Stop that building!
+EMMET	m	--unbelievably sorry. I am honestly the last person who would do something like thi--
+EMMET	m	--eriously, a model citizen. I got straight As. I vote! Even in the off-year elections, for school board and stuff--
+EMMET	m	--swear, I'm not special at all. Just ask my mom! I'm a totally average normal person!
+BAD COP	m	Oh yeah? What size coffee do you drink?
+EMMET	m	Super grande.
+BAD COP	m	Dammit! I can't break him.
+EMMET	m	You don't need to break me! I'm just a regular old totally
+EMMET	m	I'm Emmet. What's your name?
+CONVICT	m	17.
+TV ANCHOR	m	...we're still following the story of the construction worker who got a little creative on his first day on the job. The subject was described as looking and acting exactly like everybody else... Police have taken the nondescript suspect into custody, and he is being held in the city jail.
+EMMET	m	Mom? What are you doing here?
+DORIS	f	I'm breaking you out.
+EMMET	m	But, that's breaking the rules. You told me never to do that.
+DORIS	f	Well I'm temporarily reversing my position for reasons of convenience.
+EMMET	m	What?
+DORIS	f	The rules are different now.
+EMMET	m	But I did something really bad.
+DORIS	f	No you didn't.
+EMMET	m	Mom. You taught me to be a person of principle, and I stand by my principles of doing whatever authority tells me to.
+DORIS	f	Great. Fine. Would you mind holding my purse?
+EMMET	m	Sure.
+EMMET	m	Wh-- what are you doing?
+DORIS	f	Saving your life.
+EMMET	m	You can't protect me my whole life.
+DORIS	f	You wanna bet? Come on.
+EMMET	m	Mom, I'm going back to jail to repay my debt to society. A society that I would like to be a part of.
+DORIS	f	You have to trust me--
+EMMET	m	You have to trust me! I'm my own person. You have to let me grow up and make my own choices--
+DORIS	f	I tried, and look what happened!
+EMMET	m	Maybe if you didn't mother me so much I'd have been a little better equipped. Ever think of that?
+DORIS	f	As a matter of fact I did. All the time.
+EMMET	m	Ugh. You know what you are, Mom? You want to really know? A real pain in the elbow!
+DORIS	f	Emmet!
+EMMET	m	LEAVE ME ALONE!
+DORIS	f	EMMET!!!
+EMMET	m	Mom? Mom!!!!
+GEMINI	m	Where did she go?!
+EMMET	m	What's happening?!
+EMMET	m	How did you--
+EMMET	m	My mom got kidnapped by ninjas then a lady turned a mailbox into a motorcycle and now we have to catch up to them! Oh, hi, Larry.
+BARRISTA	m	Get in, I guess?
+BARRISTA	m	What's with the purse?
+EMMET	m	It's my mom's.
+DORIS	f	What do you want with me?!
+NINJA #1	m	You know what we want.
+DORIS	f	You have the wrong person!
+NINJA #1	m	Do we?
+EMMET	m	Mom! I'm sorry! Don't worry, I'm going to save you!
+GEMINI	m	Stop, Emmet! You're going to screw everything up!
+EMMET	m	No, I'm not! How do you know my name?
+LARRY	m	What the FLIPPING FLIP IS
+EMMET	m	You're breaking the speed limit, you know. Not to mention several other laws, as a well as a few other things that are not written into law per se, but are accepted social practices.
+GEMINI	m	Emmet.
+EMMET	m	Lucy?
+LUCY	f	It's Gemini now.
+EMMET	m	Are you a DJ?
+LUCY	f	No.
+EMMET	m	So, uh, how have the last seven years been?
+LUCY	f	Okay.
+DORIS	f	Emmet?! Don't you dare hurt him.
+EMMET	m	So. I have a lot of questions.
+LUCY	f	Is this really the best time to talk?
+EMMET	m	Well, so far...
+LUCY	f	Fine. Shoot.
+EMMET	m	Why did those ninjas take my mom? Why are there ninjas? Are they robotic ninjas? Where have you been the last seven years? When did you gain magical superpowers? Why did you change your name to Gemini? Sounds pretty foofy if you ask me. Also, have you been following me around this whole time? Because that's pretty weird considering last time I saw you was when you dumped me for absolutely no reason.
+BARRISTA	m	You guys used to date? Nice.
+LUCY	f	Hardly.
+EMMET	m	Oh try all of 8th grade!
+BARRISTA	m	Burn.
+BARRISTA	m	How do you do that?
+LUCY	f	By the way, I'm seeing someone now, so don't get any ideas.
+EMMET	m	I never have any ideas.
+EMMET	m	Oh, thank goodness, the police are here.
+EMMET	m	Never mind.
+LUCY	f	You don't get it, do you?
+EMMET	m	Get what?
+LUCY	f	They're here for the Chosen One.
+EMMET	m	The Chosen One? What the heck is that? Wait, you mean me?! I keep telling everyone- I'm just a regular guy!
+LUCY	f	Not you. Your mom.
+EMMET	m	Oh. Really?
+LUCY	f	I was sent to get her, but they got to her first.
+EMMET	m	You're sure I'm not the Chosen One?
+LUCY	f	Emmet, your mother is the most powerful being in the universe.
+EMMET	m	But-- how-- she has cankles!
+LUCY	f	Don't we all.
+LUCY	f	She and I belong to an ancient brotherhood of MasterBuilders, who create from our imaginations, not instructions, forced underground by evil forces. She has long been in hiding to protect you from those forces. I was sent to summon her, but when I showed up she was too busy breaking you out of prison.
+EMMET	m	Okay I did not understand a lot of that.
+LUCY	f	Just hold the wheel.
+BARRISTA	m	So. What's happening?
+LUCY	f	How... Emmet! Jump!
+EMMET	m	Mom! I'm sorry. I'm so sorry.
+LUCY	f	It didn't break. How?
+EMMET	m	She's gone. I can't believe she's gone... because she tried to protect me...?
+BAD COP	m	Send everyone you can out hunting for that kid and whoever is trying to help him. You hear me?! He's wanted... broken or together.
+LARRY	m	I need a coffee.
+EMMET	m	Who exactly are these evil forces my mom was trying to protect me from? And why are the cops in league with robot ninjas?
+LUCY	f	You have a lot of questions.
+EMMET	m	I'm just getting warmed up.
+LUCY	f	They all work for the Black Falcon.
+EMMET	m	The Black Falcon?
+LUCY	f	Otherwise known as Rodrigo Falcone, the C.E.O. of Empura?
+EMMET	m	Empura? I love their stuff.
+LUCY	f	He is also the self-declared Emperor of all known LEGO realms. He kidnapped your mom because she is the only one who can stop him from destroying us all.
+EMMET	m	My mom. My mom?
+LUCY	f	Emmet, did your mom have a safe deposit box, a safe, something where she would have hidden something very valuable?
+EMMET	m	No. The only thing she had that was worth anything was her purse. She takes it with her everywhere. Unfortunately it's now melted to my arm. Ow!
+LUCY	f	(pulling out items) No...no...no...no...no...no... No...no...no...no...no...no...
+EMMET	m	Well, I guess it's not in there--
+LUCY	f	No...no...no...no...no...no...
+LUCY	f	It's not in there.
+LUCY	f	What's her birthday?
+EMMET	m	November twenty-second.
+LUCY	f	Of course. Your birthday. January six.
+EMMET	m	You remember?
+LUCY	f	Not by choice.
+LUCY	f	The MasterPiece.
+EMMET	m	What is this thing? It's... beautiful.
+LUCY	f	Some say it's the first piece ever. No one knows exactly what it does, but it is said the Chosen One will use it to one day save the world.
+EMMET	m	And by that you mean my mom.
+LUCY	f	There's an inscription.
+EMMET	m	One will come from land afar, With hand besmirched in shape of star. One to confront a great forsaker, And build a bridge to meet the Maker. This one will make the world right, But first there'll be an awesome fight.
+LUCY	f	The prophecy of the Chosen One...
+EMMET	m	Who is my Mom.
+LUCY	f	Yes. We have to get this to your mom so she can fulfill her destiny and stop the Black Falcon before he destroys us all.
+EMMET	m	And if it weren't for me, she'd be here and everything would be okay.
+CREATURE	?	Finn? I thought I told you not to touch anything...
+EMMET	m	What was that?
+LUCY	f	What was what?
+LUCY	f	We have to go. NOW.
+EMMET	m	Where are we going?!
+LUCY	f	We're going to take the MasterPiece to someone who can help.
+EMMET	m	The MasterBuilders council?
+LUCY	f	No. They're gone. All of them.
+EMMET	m	Then who?
+LUCY	f	Vitruvius. He was once a great MasterBuilder, now he's...retired. But he's our only hope.
+EMMET	m	Can't you do it on your own? You were all like, heh-hoo-hiya!
+LUCY	f	I can't, I'm...still in training. I'm not a full-fledged MasterBuilder yet. Technically, I'm an intern.
+EMMET	m	Well well well--
+EMMET	m	You're not going to cross the city limits, are you?
+LUCY	f	Don't be a putz, Emmet.
+EMMET	m	Everyone knows you're not allowed to go Out of Town. It's dangerous, uncharted and no one should ever go that's what everybody says. Can't we just explain the situation to President Iamnotarobot?
+LUCY	f	Iamnotarobot is one of the Black Falcon's robot henchmen. Ever notice how metallic he looks?
+EMMET	m	Come on. He's just very fair skinned. It says "Iamnotarobot" in his very name! Besides, he's way better than Councilman Strawman. That guy is the pits.
+LUCY	f	Don't be na�ve.
+EMMET	m	What's na�ve?
+LUCY	f	That.
+LUCY	f	Look, just give me the MasterPiece and I'll take it from here.
+EMMET	m	My mom gave it to me and I'm not giving it to anyone unless their name is My Mom.
+LUCY	f	Well then I guess you're going to have to cross that line.
+EMMET	m	Well then I guess I am.
+LUCY	f	Well then go ahead and do it.
+EMMET	m	Well then go ahead and do it I shall.
+LUCY	f	Dude!
+EMMET	m	Okay, okay.
+LUCY	f	Not everything is what it seems...
+EMMET	m	Who are those guys?
+LUCY	f	Annoying short whiners. Plus they reproduce like crazy. It's a real problem.
+EMMET	m	Where are we? Where are all the buildings? And coffee shops?
+LUCY	f	Legopolis is only one realm in the Black Falcon's dominion. He built walls around all of them so he can keep them separate. If the walls came down, he'd have a hard time controlling the results. The MasterBuilders built secret passages through the walls so we could travel between lands.
+EMMET	m	Who are they?
+LUCY	f	The Black Falcon's sentries. They're looking for us.
+EMMET	m	So he controls all these worlds?
+LUCY	f	Shh!
+ASSISTANT	m	The Black Falcon will see you now.
+BLACK FALCON	m	Doris! Did someone get you a water?
+DORIS	f	You'll never get away with this.
+BLACK FALCON	m	"You'll never get away with this!" What a clich�! You don't even know what it is I'm trying to get away with. Maybe you should listen more.
+DORIS	f	I'm all ears.
+BLACK FALCON	m	Truly? Because listening and hearing are not the same thing.
+DORIS	f	I'm listening.
+BLACK FALCON	m	Excellent. Behold, the Kragle!
+DORIS	f	The car in the city. That's why it didn't break...
+BLACK FALCON	m	Very good. But there's a lot more to my plan than that. Check it:
+BLACK FALCON	m	Here is your typical family. You there. Move your arm a little higher. A little higher... NO NO NO that's too high!!! Ugh you are all PATHETIC LOSERS!
+BLACK FALCON	m	Perfect! Wonderful. Don't move an inch. You see how hard it is for me? I have to make all these plans and rules and enforce them on people. It's whack-a-mole. I get one thing perfect, and then another thing gets messed up. Ay ay ay I get so tired!
+DORIS	f	You never did understand the way of the Maker.
+BLACK FALCON	m	Sure I do. There's one right way to do everything, and I know it, and everyone else is wrong and is trying to screw me up! Until now.
+BLACK FALCON	m	You. Introduce yourselves to me.
+"DAD"	m	I'm sorry?
+BLACK FALCON	m	Like, you say to me "Hello Black Falcon, I'm Dale, and this is my wife Mary and our children Mark and Lisa."
+"DAD"	m	But you just said it.
+BLACK FALCON	m	Well, just-- you say it now.
+"DAD"	m	Hello Black Falcon, I'm Dale, this
+BLACK FALCON	m	My wife Mary.
+"DAD"	m	My wife, Mary.
+BLACK FALCON	m	And our children...
+"DAD"	m	And our kids--
+BLACK FALCON	m	Children.
+"DAD"	m	And our children Mark and Lisa.
+BLACK FALCON	m	All together now.
+"DAD"	m	< SIGH > Hello Black Falcon I'm Dale, this is my wife Mary and our children Mark and Lisa.
+BLACK FALCON	m	Well, hello, Dale, Mary, Mark and Lisa. I'm Black Falcon, and I'm very FREEZE TO MEET YOU!
+BLACK FALCON	m	Exactly how I planned! BAHAHAHA! And it's totally permanent!
+DORIS	f	You want to do this to the whole world?
+BLACK FALCON	m	Big mistake, Doris. Thanks to that call, he's going to get his butt kicked. He'll fit in, alright. Into a coffin!
+DORIS	f	Leave him out of this!
+BLACK FALCON	m	I would, but I'm pretty sure he has the MasterPiece. It wasn't in your apartment, and it's not on you. But your son seems to have interesting taste in handbags.
+BLACK FALCON	m	So, just to tie up all the loose ends, I'll have to kill him and take the MasterPiece so the prophecy will never come true.
+DORIS	f	No! Don't, please! I'll do what you want, please don't hurt him.
+BLACK FALCON	m	Oh, don't worry, dear. You'll do what I want regardless. I'll simply use my very special electromagnetic machine to extract your thoughts and steal your ideas like I've done for all the other imprisoned MasterBuilders.
+DORIS	f	No!
+BLACK FALCON	m	Yes. Send her to the THINK TANK!!!
+EMMET	m	Is it much farther?
+LUCY	f	Do you ever say something that isn't a stupid question?
+EMMET	m	What's that supposed to mean?
+LUCY	f	I guess not.
+LUCY	f	That's Dragon.
+EMMET	m	Who could live here?
+LUCY	f	A blind man.
+VITRUVIUS	m	Hello! What? Hi!
+EMMET	m	I see.
+EMMET	m	Lovely place.
+VITRUVIUS	m	Thank you. I am deprived of my sight, but my hearing is so acute that I can still perceive the physical world using echolocation.
+EMMET	m	Like an old bat...
+VITRUVIUS	m	Precisely. I see with my ears. Now, how can I help you, extremely tall and fat stranger?
+EMMET	m	My mother has been kidnapped and it's all my fault.
+VITRUVIUS	m	Mmm...Hard pass. Not interested.
+LUCY	f	His mother is the Chosen One. I was sent to summon her. The Black Falcon got to her first. He has the Kragle.
+VITRUVIUS	m	Oh my. That is grave news indeed. But I'm afraid I'm retired. I'm sure the active MasterBuilders are more than adequate.
+LUCY	f	The other MasterBuilders are gone.
+VITRUVIUS	m	I guess I'm not redundant anymore.
+EMMET	m	Why is he being so weird?
+VITRUVIUS	m	The Black Falcon was my student.
+TEEN DORIS	f	Hey Rod. What's that?
+VITRUVIUS	m	They were probably right.
+EMMET	m	You taught my parents...
+VITRUVIUS	m	Your mother went into hiding to protect you. Your father never had a chance...
+LUCY	f	Vitruvius, you can still help us.
+VITRUVIUS	m	That's flattery, my dear. We both know you're only here because you have no other place to go.
+EMMET	m	We're here because we don't know what to do and you might. Sir, all I've ever wanted was to get along with everyone and be a part of the world and now I don't know if there's going to be a world to be a part of. That is, unless you help me fix it. And I bet if you do, they'll forget all about what they used to think of you.
+VITRUVIUS	m	I wish I could, young man, but he has the Kragle, and he has the Chosen One, and if he has the Chosen One, he has the MasterPiece. And without that, there is no--
+LUCY	f	Hope?
+VITRUVIUS	m	The Kragle is the most powerful relic of the Maker.
+EMMET	m	Who is this Maker you guys keep talking about?
+VITRUVIUS	m	The Maker. The being who put us all together and watches over us. Only by following the inspiration of the Maker can one become a true MasterBuilder.
+EMMET	m	Okay that sounds super weird.
+VITRUVIUS	m	It is, but then all the best things are.
+EMMET	m	And what's the Kragle again?
+VITRUVIUS	m	Every so often, the Maker drops a piece down to us that is unique, unlike any other. This crystal table is but one example. Some of them, in the wrong hands, can be weaponized. The Kragle, if harnessed, could--
+EMMET	m	--destroy the world?
+VITRUVIUS	m	Yes. The Black Falcon has taken your mother, the one person who can stop him, and imprisoned her.
+VITRUVIUS	m	If we can travel across sea and land, penetrate his heavily- guarded fortress, unkidnap Master Doris, and bring the MasterPiece safely to her, she can use it to destroy the Kragle, and set the world right.
+EMMET	m	Oh is that all we have to do? That doesn't sound too hard. Oh wait, I forgot to mention, I am saying this with a sarcastic inflection.
+LUCY	f	That's super constructive, thank you.
+VITRUVIUS	m	We need to assemble a team of all remaining MasterBuilders hiding throughout the lands. We'll scour the countryside high and low, overturning rocks, hiding from sentries, avoiding the major roads and air..
+LUCY	f	We don't have that kind of time!
+VITRUVIUS	m	Or we could send out a mass email to the MasterBuilders list, and have whichever ones are remaining meet us at the midpoint.
+EMMET	m	Better.
+VITRUVIUS	m	And then, we sail for the Land of Unused Parts! Anybody got a ship?
+EMMET	m	How long has your boyfriend had his own ship?
+LUCY	f	Why do you care?
+EMMET	m	I just think it's interesting that you're attracted to someone with his own vessel. Fairly superficial to date a guy with his own yacht.
+LUCY	f	It's not exactly a yacht.
+NECKBEARD	?	Ahoy! Welcome to the Sea Cow!
+EMMET	m	Huh. Not what I expected.
+EMMET	m	Really not what I expected.
+NECKBEARD	?	Arr! Come give your weary boyfriend a kiss!
+EMMET	m	Wow.
+EMMET	m	Okay. That's-- okay.
+LUCY	f	Gosh, where are my manners? Emmet, this is Neckbeard, my boyfriend. Neckbeard, this is Emmet. We used to date a million zillion years ago. It meant nothing to me. You have heard of Vitruvius, of course.
+NECKBEARD	?	You're the teacher that made the Black Falcon who he is, then?
+VITRUVIUS	m	That was a long time ago.
+NECKBEARD	?	Farrr be it for a pirate to judge a man with an unsavory reputation.
+EMMET	m	That's surprisingly gracious--
+NECKBEARD	?	Stay away from me lady.
+EMMET	m	Alright. Sure.
+NECKBEARD	?	Say that to my face.
+EMMET	m	Alright. Sure.
+NECKBEARD	?	I was once the most feared MasterBuilder in all the lands. I lost the rest of me body fighting off a hundred of the Black Falcon's men. You cross me, and I'll make it an even fight, if you follow.
+EMMET	m	Thank you for your clarity.
+LUCY	f	He has an incredible mind.
+NECKBEARD	?	Everyone hop aboard. Meet me crew. This be Orangebeard, Brownbeard and Nobeard, and me First Mate, Chewbacca. You can call him Allbeard.
+NECKBEARD	?	The route be stuffed to the gills with Empura shipping activity. It's heavily patrolled. We'll have to be keeping an eye open, and when the time be right, make ourrrr move.
+EMMET	m	What's our move?
+NECKBEARD	?	I'm sorry, did the Captain say you could finish swabbing the deck?
+VITRUVIUS	m	Lucy. Welcome.
+EMMET	m	It's Emmet.
+VITRUVIUS	m	Ah. You got your sea legs, yet?
+EMMET	m	Yes. What are you doing?
+VITRUVIUS	m	Making.
+EMMET	m	What's it for?
+VITRUVIUS	m	What is anything for? It's what we were all meant to do. What the Maker has fated us to do.
+EMMET	m	Okay, here's what I don't get. If our lives really are predetermined by some all-controlling dude, what is the point of doing anything?
+EMMET	m	OW! Why did you do that?!
+VITRUVIUS	m	The Maker fated me to.
+EMMET	m	Or you did it yourself because you're a crazy person.
+VITRUVIUS	m	Ah. Now, you're learning.
+EMMET	m	I could just never make something like that. How did you even get the idea?
+VITRUVIUS	m	I didn't. I just opened a window for it to fly through.
+VITRUVIUS	m	Birds are, incidentally, one of the most creative of all the animals. They build nests. Create elaborate courtship rituals, make gifts for one another. And of course, their beautiful songs.
+EMMET	m	Teach me.
+VITRUVIUS	m	Open your throat and make a  sound.
+EMMET	m	No. Teach me to do what you do.
+VITRUVIUS	m	How can I teach you something you already know? It's already inside you. You've walled it up, but it still shines through. That terrific disaster you caused at the instruction site? That was no accident.
+EMMET	m	I'm not sure I follow...
+VITRUVIUS	m	They say every night the Maker puts a blanket over the world, a blanket with tiny holes. Some call them stars, but I call them MakerPeepers.
+EMMET	m	MakerPeepers?
+VITRUVIUS	m	MakerPeepers. Emmet, there was a time, before you were born, when making new things came as naturally to everyone as breathing. The world was messy and wild, and that made it beautiful. But then, everything became rigid and prefabricated, so everyone just stopped thinking of new things. Making has been outsourced to Empura. The Black Falcon has paved over the world that was.
+VITRUVIUS	m	And yet, somehow, light still shines through the cracks.
+EMMET	m	Oh no! Wait! It got out...
+VITRUVIUS	m	Isn't that marvelous? You have an idea, and then off it goes!
+BAD COP	m	That's them. Man your weapons. Full steam ahead.
+ROBOVIKING	?	We don't use steam. We row.
+BAD COP	m	Fine. Full row ahead.
+NECKBEARD	?	They're a-comin'! Dive!
+EMMET	m	What are they doing?
+VITRUVIUS	m	Collaborating.
+LUCY	f	Vitruvius, follow my lead.
+NECKBEARD	?	Mateys! Be me hands and legs! Start taking the ship apart!
+EMMET	m	But we'll sink!
+LUCY	f	That's the idea.
+NECKBEARD	?	Put the four-piece over there. No! The skinny one. Come on!
+EMMET	m	I don't get it-- What do I do?
+LUCY	f	Build a hatch.
+EMMET	m	Like for an attic?
+LUCY	f	Like for a submarine.
+LUCY	f	That's as far as you got?!
+EMMET	m	Well...
+NECKBEARD	?	Heading?
+CHEWBACCA	m	Arrrrrrrr.
+NECKBEARD	?	Get deeper. If we're too high their sensorrrs will detect us.
+BAD COP	m	Nothing? But they were right here.
+ROBOVIKING	?	Wait. There's something on the scanner.
+NECKBEARD	?	Dive! Dive! Dive!
+ROBOVIKING	?	Nothing. There's nothing.
+BAD COP	m	Let me see that... DAMMIT!
+ROBOVIKING	?	Hey, watch it man, I built that.
+EMMET	m	Hey Lucy, you gotta see--
+GROWN UP	m	Where are my dang keys? Finn, have you been playing in here?
+KID	m	No.
+GROWN UP	m	You sound like you are lying. Are you lying?
+KID	m	No.
+GROWN UP	m	Okay, this is my very special area, where I play with something
+VERY NOT-ABLE-TO-BE-TOUCHED-BY-	f	anyone, because it is the most awesome thing I have ever made.
+KID	m	Uncle Ted, why don't you have a girlfriend?
+GROWN UP	m	Because you need money for girlfriends. Although they refuse to admit that. Although they admit it implicitly when they leave you for a banker.
+KID	m	Why don't you have a job?
+GROWN UP	m	Look, you can do anything you want with this big bin of parts, okay? Just promise me you aren't going to play in my special areas anymore.
+KID	m	Okay.
+GROWN UP	m	Is that a real okay or a fake one?
+KID	m	Real.
+GROWN UP	m	Okay. That's my man.
+VITRUVIUS	m	Legotopia. The last free kingdom in the universe.
+VITRUVIUS	m	Thank you.
+EMMET	m	Does the Black Falcon know about this place?
+VITRUVIUS	m	It's been hidden for ages by the fog and its remote location. Plus they have elaborate security measures.
+DOOR FACE	m	Who goes there?
+EMMET	m	Oh, uh, I'm Emmet. This is my ex- girlfriend Lucy, also a blind man, a pirate head, and a loud dog. We're here to save the world.
+DOOR FACE	m	Well, I've never heard of you, but come on in!
+LUCY	f	That's the security?
+KING KARL	m	Hi! I'm Karl, and Welcome to my Krazy Kastle. Krazy with a K!
+EMMET	m	For Kreativity...
+KING KARL	m	Exaktly!
+EMMET	m	Why did you build all this stuff?
+KING KARL	m	Well...Why not?
+KING KARL	m	If you can conceive it, we will achieve it. Build anything whenever you feel it.
+EMMET	m	You know we really don't have time--
+KING KARL	m	Invent a game, like Roller Cricket. Or buy Bullfighting Tennis tickets...
+KING KARL	m	Just wide!
+NECKBEARD	?	This is me favorite sport.
+KING KARL	m	We only teach art and music in school so kids feel unencumbered. No spelling, reading, science or math, we just make up all the numbers!
+KING KARL	m	Make any idea thought or spoken. Rules were meant to be broken!
+EMMET	m	No, rules were meant to be followed.
+CHORUS	m	We have everything and nothing and something's all we've got. Why, you ask? What you should ask is... Why not?!!!!
+EMMET	m	You guys are really weird.
+KING KARL	m	Cool, man, thank you.
+EMMET	m	This is crazy. You can't have a society without rules. I mean, your castle doesn't look very structurally sound at all!
+KING KARL	m	Who is this guy?
+LUCY	f	Emmet. He doesn't get out much.
+VITRUVIUS	m	Emmet, these people are not MasterBuilders. They do not create with purpose, they create just to create. But they can also be very inspiring, because the only way to accomplish the impossible is to break the rules of what is possible.
+EMMET	m	I wish that made sense to me.
+VITRUVIUS	m	It will if you let it. (turning to Karl) King Karl, I wish we came to you with better news.
+KING KARL	m	As do I. The others arrived just before you, which gave us a chance to rehearse the song. Follow me.
+NECKBEARD	?	Ar! What a bounty! I be starrrving!
+KING KARL	m	Meet your team.
+BATMAN	m	Hey, I'm Batman. Got the email. On my Batphone. Which I invented. Gets emails. On a phone.
+EMMET	m	Hello.
+DUPLO	m	DUPLO!
+LUCY	f	And where do you come from?
+DUPLO	m	DUPLO!
+LUCY	f	Okay. Um, he's a MasterBuilder?
+KING KARL	m	No. But he wants to help.
+DUPLO	m	DUPLO HELP!
+BATMAN	m	I'm a MasterBuilder. I built a lot of gadgets. Want to see my gadgets?
+LUCY	f	No thank you.
+BENNY	m	I'm also a MasterBuilder.
+EMMET	m	Cool!
+BENNY	m	I'm Benny. Benny "Blue" Chu. Where are you from? I'm from space. There's not a lot of oxygen up there. One time I was fixing my ship in space and there was a crack in my helmet. They say I should've died or gotten Space Madness but I didn't die. I'm here, right? Ha ha! Have you seen my spaceship? I rebuilt it but it doesn't fly for some reason.
+EMMET	m	Um, maybe if it didn't have two fronts and no back, and it didn't have five wings.
+BENNY	m	I love wings. Wings are great, right?
+NECKBEARD	?	He seems a little distracted.
+BENNY	m	What? Where?
+LUCY	f	Is this everyone?
+BENNY	m	Oh, no. There's one more. My co- pilot Moppy. He's really organized.
+BENNY	m	Hi Moppy. Hi everybody. Did you meet my friend Benny? He's the best. That's too nice of you, Mopper. He can really help you with your quest. Well, I don't know. He gets real lonely sometimes. Moppy! It's true. He was all alone in space. He tried to look for his space friends but couldn't find them. No one is left but me. Him.
+EMMET	m	What did you say you do again?
+BENNY	m	Oh, I'm a Space Cadet. First Class.
+EMMET	m	Ah.
+VITRUVIUS	m	We are all that remain of the once proud society of MasterBuilders. Except for Duplo. And Emmet. He's not a MasterBuilder, he's just the son of one. And Lucy, who is still an intern.
+BATMAN	m	Hello.
+VITRUVIUS	m	Along with a blind man, a pirate head, a crazy spaceman, and Batman...
+VITRUVIUS	m	Together, we form a fellowship of the MasterPiece. A shining beacon of possibility, and the only thing that can counteract the power of the Kragle. If we can get this into the hands of the Chosen One--
+BAD COP	m	Or didn't you know that as a former student of MasterBuilder academy, the Black Falcon was cc'd on your mass email?
+KING KARL	m	I'm sorry, I had to let them in.
+LUCY	f	King Karl! You betrayed us! You betrayed everything you stand for!
+KING KARL	m	Tsk, I know. Turns out Legotopia had run up like a bunch of debt. Something about lots of spending and no revenue. Empura promised to fund the whole place. Honestly, I'm super sorry.
+EMMET	m	This guy is supposed to be inspiring? More like conspiring... with a bunch of mean jerks who have my mom! You're just as bad as them, you big mean jerk!
+KING KARL	m	Come on. Guys.
+KING KARL	m	Where are you taking them? Not to the dungeon, right? You said--
+BAD COP	m	Do I look like a medieval constable? No, they're going someplace much worse. Take them to... the conference room!
+BAD COP	m	Okay we're good to teleconference.
+BAD COP	m	Just, point the camera at you.
+BAD COP	m	No, the other way. There. That's close enough.
+BAD COP	m	Sir.
+VITRUVIUS	m	Black Falcon! Prepare to meet the Maker!
+LUCY	f	No no he's just on teleconference.
+VITRUVIUS	m	What?
+LUCY	f	It's like a phone. A telegram. He's not actually in the room.
+VITRUVIUS	m	Like a crystal ball?
+LUCY	f	Sure.
+DORIS	f	Emmet!
+EMMET	m	Mom! I'm coming! I won't let you down. Any more than I already have!
+EMMET	m	Mom! No!
+BLACK FALCON	m	These are all the lands I control! They are perfect! And they are going to be that way forever! Now that you can't mess any of them up! Ha ha ha ha ha ha ha ha!
+LUCY	f	So wait. What was the purpose of this call then?
+EMMET	m	You're a MasterBuilder, too?
+KING KARL	m	I dabble. You were right. I'd rather be poor and free than comfortable and stuck.
+BAD COP	m	Back up! Repeat. I need back up.
+KING KARL	m	Bring it on.
+KING KARL	m	Prepare for battle!
+KING KARL	m	On my mark.
+BAD COP	m	(into C.B.) Charge.
+KING KARL	m	Charge!
+KING KARL	m	Retreat!
+KING KARL	m	You have to go.
+EMMET	m	We can't leave you here.
+KING KARL	m	It's my place to be here. Go!
+BENNY	m	Everyone get in my spaceship!
+EMMET	m	Over there!
+LUCY	f	We have to go now!
+DUPLO	m	DUPLO HELP!
+EMMET	m	I built that chair! Check it out. That's my chair. Pretty good.
+LUCY	f	That's far more impressive than this entire Rocket-Copter.
+EMMET	m	Well, it was my idea to get in the catapult.
+LUCY	f	A credit hog. Great.
+BATMAN	m	Where'd this thing come from?
+EMMET	m	No idea.
+NECKBEARD	?	Bogey on our six!
+BENNY	m	Hey look at that over there--
+LUCY	f	Benny! Focus!
+NECKBEARD	?	There!
+EMMET	m	My chair!!!!
+BATMAN	m	I say we camp here for the night in this creepy Old West Ghost Town.
+LUCY	f	What's up?
+EMMET	m	Can't sleep. Kind of still upset about everything, you know?
+LUCY	f	Upset about what?
+EMMET	m	Well, I got in a fight with my mom that caused her to get kidnapped and the whole world is about to get frozen, if you must know, unless you were asking that sarcastically, which I now realize you were.
+LUCY	f	Sorry.
+LUCY	f	We'll find her.
+EMMET	m	I hope so.
+LUCY	f	I know it. I know you.
+EMMET	m	I thought you said I didn't have a creative bone in my body.
+LUCY	f	You don't.
+EMMET	m	That's nice, thank you.
+LUCY	f	I'm just trying to help.
+EMMET	m	You know what you are, Lucy?
+LUCY	f	What?
+EMMET	m	A real pain in the elbow.
+EMMET	m	What?
+LUCY	f	You may not have a creative bone in your body, but you have a lot of really really earnest bones. You always did.
+EMMET	m	Thank you?
+LUCY	f	I mean, that day when we were kids, and you drew the face in art class, you inspired me. I thought maybe there was more out there in the world, and maybe you felt the same. That's why I asked you out. But then you ended up like everyone else and broke my heart, you know? That I was going one way and you didn't go with me.
+EMMET	m	Think of how I felt. My mom trained me to follow the herd. To lay low. All I ever wanted was to fit in, to have friends. And the funny thing is, maybe I was trying too hard, but, my whole life, I never did have any real friends.
+LUCY	f	We're being so dramatic. It was eighth grade!
+EMMET	m	That's the most dramatic time in anyone's life, right? It's what made The Black Falcon such a world class dingaling.
+LUCY	f	It made a lot of us dingalings.
+EMMET	m	Yeah.
+LUCY	f	You know, whenever I doubt myself, I look into this prism I found long ago...
+EMMET	m	It's... beautiful.
+LUCY	f	I know. It's a relic of the Maker. When I'm feeling low, I look at it, and it always makes me feel like there still is beauty in the world, and we all have a purpose. You know what I mean?
+EMMET	m	Yeah. I do.
+LUCY	f	Well, good night.
+EMMET	m	Yeah. Okay.
+TED	m	Finn? What did you do to the spaceship? It's in pieces! I told you not to play with this and you broke it! It took me years to build all this! 74.
+TED	m	And what's it doing in the Old West Town? And is that Batman? It doesn't belong here!
+FINN	m	I'm sorry, Uncle Ted. I just wanted to play.
+TED	m	Well, life isn't all play. Sometimes it's serious and it gets screwed up and you don't feel like playing. You just wish for once everything was in the right place.
+FINN	m	Okay.
+VITRUVIUS	m	I don't suppose this is the restroom?
+EMMET	m	No. Definitely not. (then, stopping him) Hey, Can I ask you something? I keep having these strange dreams about a squishy bumpy giant--
+VITRUVIUS	m	Visions of the Maker. Quite unusual.
+EMMET	m	What does it mean? Do I have a fate?
+VITRUVIUS	m	We all have a fate. But MasterBuilding is about channeling the power of the Maker, and taking that fate into our own hands. I guess it could mean what you choose to make it mean.
+EMMET	m	Why do you always talk in weird riddles? I just want answers.
+VITRUVIUS	m	Then why don't you try building something for yourself?
+EMMET	m	I'm sorry, that's lame.
+MECHA-BIRD	?	That's lame. That's lame.
+VITRUVIUS	m	Not bad. You're learning now.
+EMMET	m	No I'm not. I'm just copying what you did.
+VITRUVIUS	m	A dilettante borrows. A true artist steals.
+EMMET	m	That makes no sense!
+VITRUVIUS	m	And all this does?
+LUCY	f	How the heck are we going to do this?
+EMMET	m	It's okay. I have a plan.
+LUCY	f	Really?
+EMMET	m	This R2 unit had the plans for Empura Tower stored in its memory bank.
+LUCY	f	That's convenient.
+EMMET	m	Looking over it last night, I noticed the tower follows the same construction principles as the condos I was building back in Legopolis.
+EMMET	m	Wait.
+LUCY	f	What about this?
+LUCY	f	Darn.
+VITRUVIUS	m	How about this?
+VITRUVIUS	m	What, is it because I'm blind?
+BATMAN	m	Check this out: 78.
+NECKBEARD	?	AHOY!
+LUCY	f	Stop it! Everyone!
+VITRUVIUS	m	Creativity in groups is hard.
+LUCY	f	We don't have time for that.
+EMMET	m	Or we can just wing it.
+SERVICE NINJA	m	Well, I don't know, I've lived alone a long time, and sharing space with you is a new thing for me...no it's not like that... Hey, we didn't order any--
+LUCY	f	(man voice, into phone) I love you please move in with me.
+EMMET	m	The Black Falcon's office!
+BATMAN	m	My office is bigger.
+LUCY	f	Emmet.
+NECKBEARD	?	Arr, his appointment book be saying he be scheduled for a massage at four.
+BATMAN	m	He'll get a flipping massage alright.
+DAD	m	Language! There are kids here.
+BATMAN	m	Who are these nerds?
+SON	m	We, uh, can't move.
+LUCY	f	They won't budge.
+DAUGHTER	f	The bad guy is going to freeze everyone.
+MOM	f	Kids? Are you okay?
+DAD	m	They're alright, baby.
+SON	m	I miss you, mom.
+EMMET	m	Me too. This is really sad. How can you keep living like this?
+DAD	m	Well, yeah, we can't be together. We can't touch or see each other. But in here-- and if I could, I'd be pointing to my head-- I'm not stuck. In my brain we're sharing a delicious meal together.
+MOM	f	Thank you sweetie.
+DAUGHTER	f	Pass the mustard.
+LUCY	f	That's pretty elaborate.
+DAD	m	They can freeze you. They can tell you what to do. But they can't stop our secret weapon. Ideas. Now go give `em hell.
+EMMET	m	Wait. Batman, give me your Batperiscope.
+EMMET	m	Now at least you can see each other.
+NINJA	m	You have grown a beard.
+NINJA	m	It's very nice.
+NINJA	m	Is there something in your throat, sir?
+NINJA	m	Very much.
+NINJA	m	At your service, commander.
+NINJA	m	Sir?
+NINJA	m	Yes, sir.
+NINJA	m	Yes, sir-- ow!
+ROBOSKELETON	?	Black Falcon? You're supposed to be at your massage.
+EMMET	m	Mom...
+DORIS	f	What? Emmet?
+EMMET	m	It's me, Mom. I've here to save you, so you can save the world.
+VITRUVIUS	m	Rodrigo Falcone. My old student. It's time you went back to SCHOOL! RUN!
+BLACK FALCON	m	The old dog still has a few tricks. But I guess your friends didn't tell you that I was flanked by like a hundred soldiers. Now!
+BLACK FALCON	m	Get the rest of them!
+LUCY	f	Why won't anything in this hallway break off?!
+BATMAN	m	It's Kragle-frozen! Batcrap!
+NECKBEARD	?	Lucy.
+LUCY	f	Yes?
+NECKBEARD	?	I want you to know, I love you.
+LUCY	f	Me too...
+NECKBEARD	?	And even if the world be ending, and we all get frozen, I'd feel better about the whole situation if I could get frozen with you as my bride.
+LUCY	f	Are you really doing this?
+NECKBEARD	?	Lucy. Will you take me hand in marriage? Metaphorically.
+LUCY	f	Um...
+NECKBEARD	?	Lucy!
+EMMET	m	Mom! Hurry!
+EMMET	m	No!
+DORIS	f	No!
+BATMAN	m	We can't win this. We've got to hide and make a new plan.
+NECKBEARD	?	(knows he's right) Arrr!
+BAD COP	m	Take these perps to the Black Falcon's office. The rest of you, follow me. Looks like we'll be playing a little game of hide and seek. Did you really think you were going to come up here and save the day? You're a follower, my friend. You don't have the stuff. And you. You must be real proud of this one, huh? He's a credit to the family. Just like his talentless father.
+EMMET	m	Mom, I'm so sorry.
+DORIS	f	I know sweetie.
+EMMET	m	Just- tell me everything's going to be okay.
+DORIS	f	I wish I could, son.
+EMMET	m	Mom... Why didn't you -- why didn't you teach me what you knew?
+DORIS	f	I wanted you to be safe. I thought you would be happier. When I saw you with that funny drawing, it was so marvelous. And then I thought of what your life would be, how everyone would treat you. I just couldn't let that happen.
+EMMET	m	I know you're the Chosen One, but-- I just wish you had let me choose for myself.
+DORIS	f	I...I don't know what to say.
+EMMET	m	They got promoted...
+EMMET	m	But you didn't do anything. Look down there.
+BATMAN	m	That does not look good.
+NECKBEARD	?	When do we get to the part about coming up with a plan?
+BENNY	m	I've got a plan.
+NECKBEARD	?	Uh-oh.
+NECKBEARD	?	What about Lucy and the others?
+BENNY	m	We'll come back for them. After we stop that Kragle.
+BENNY	m	Can we go in the blue one?
+BAD COP	m	There they are!
+NECKBEARD	?	What does it matter?
+BENNY	m	I fly better in blue.
+BAD COP	m	No! Re-open the door! Everyone in ships! Go!
+ROBONINJA	?	Dude, you don't have to yell.
+HOBBIT	m	Every time!--
+BLACK FALCON	m	Bahahahahahahaha!!
+DORIS	f	It's too horrible to bear.
+VITRUVIUS	m	What is? Describe it to me. I feel really really left out!
+EMMET	m	The world is ending.
+BATMAN	m	Go down to the city! What are you doing?
+BENNY	m	Calling for help from my space friends!
+NECKBEARD	?	What, a bunch of mops? There be no space friends! Just go!
+BENNY	m	Alright, you don't have to be mean about it.
+LARRY	m	< SIGH > Of course.
+LARRY	m	I think a big dinobot is freezing everything with mucusy sneezes.
+LARRY	m	I don't know. Complain?
+LARRY	m	I mean, it's not like we can do anything.
+MECHABIRD	?	...We can do anything! ...We can do anything!
+LARRY	m	Wait a minute...
+LARRY	m	I don't know exactly. I'm just going with it. No offense. Who the heck did that?
+LUCY	f	That guy?!
+BLACK FALCON	m	Do I smell something burning? It smells like a tire fire in here.
+LUCY	f	Excuse me.
+EMMET	m	Ow!
+EMMET	m	Mom. Go. Do whatever you're supposed to do!
+DORIS	f	I... don't know what to do. So tired...
+LUCY	f	She's too weak. You have to do it.
+EMMET	m	Do what? What can I do?
+LUCY	f	I believe in you, Emmet. I was mad because you disappointed me for a while, but since it wasn't your fault, I'm willing to give you a mulligan on it.
+EMMET	m	A what?
+LUCY	f	A mulligan. It's from golf.
+EMMET	m	You play golf?
+LUCY	f	The point is, you've spent your whole life wanting to fit in and have friends, by pretending to be something you're not. But now that you've let the real you shine through, you've made some friends who like you for who you are. And even if they're just a crazy spaceman and a pirate head and a blind man and an intern--
+EMMET	m	You like me?
+LUCY	f	I do.
+EMMET	m	Neckbeard likes me?
+LUCY	f	...Sure.
+EMMET	m	But... I'm not the Chosen One.
+LUCY	f	You wanted to make your own choices, right? So choose yourself.
+EMMET	m	Nuh uh.
+EMMET	m	This.
+DORIS	f	What is it, Emmet?
+EMMET	m	I don't know. It just came to me.
+VITRUVIUS	m	You have channeled the Maker and chosen your fate. You have chosen to be the Chosen One.
+BLACK FALCON	m	Whoa. That was weird.
+LARRY	m	What the heck is that?!
+BENNY	m	Wow, that thing is really big.
+NECKBEARD	?	Uh, Benny...
+LUCY	f	What do we do?
+DORIS	f	Go after him.
+LARRY	m	Quick, everyone! Run behind it! Get away from the mist!
+DOCTOR	m	It's a b--
+EMMET	m	So...not square.
+EMMET	m	The Maker. It's all real...
+TED	m	What the heck are you?!
+EMMET	m	What the heck are you?!
+TED	m	I'm a person.
+EMMET	m	I'm a person. You on the other hand are a giant squishy beast.
+TED	m	You're a talking toy. This is considerably less cute than I have been led to believe.
+EMMET	m	So ugly...
+EMMET	m	What are these?!
+EMMET	m	AHHHHHH!!!
+TED	m	Calm down! Where did you come from?
+EMMET	m	Did you build that?
+TED	m	Yeah, but it's seriously messed up.
+EMMET	m	Are you the Maker?
+TED	m	The what? FINN!!!
+FINN	m	What?
+TED	m	Are you seeing this?
+FINN	m	Yeah.
+EMMET	m	Two Makers?
+TED	m	How did this-- what is-- my sets,
+FINN	m	The guys. They needed my help.
+TED	m	Against what?
+FINN	m	Against the Kragle.
+TED	m	The what?
+EMMET	m	The Kragle. The thing that is freezing everything together.
+TED	m	Oh. Krazy Glue?
+EMMET	m	Good Lord.
+TED	m	What? I'm using this to glue my set together. So it won't get messed up by the kid.
+EMMET	m	But then-- it can never change.
+TED	m	Exactly. It's the only thing in my life that's perfect. 102.
+TED	m	I can't find a job that doesn't make me hate myself. My girlfriend dumped me for a rich trustafarian... dingaling, is what he is, and I'm watching my sister's kid while she has a fun time partying in the Hamptons with her annoying brood of hot girlfriends who won't have a thing to do with me, and the only thing I have in my life that makes any sense, that I have any control over is that perfect world right there.
+EMMET	m	But... nothing is perfect unless it can change. You can make something, you know, and it can be great, for a while, but then... then someone maybe adds to it, makes something new out of it. And that keeps happening until it becomes something that a single person could never envision. Truth is, creating alone is never as good as creating with others.
+TED	m	See. No. That's not true- because with others, they don't see things the same way, so--
+EMMET	m	I know. You want to control everything. I get it. But if you succeed, in the end, all you'll ever have is what you've got.
+TED	m	What else could I have?
+EMMET	m	Who knows? That's the best part.
+TED	m	Use this.
+EMMET	m	What is it?
+TED	m	What is it? It's the ca--
+FINN	m	Cone of Power. It's called the Cone of Power.
+TED	m	Okay. The Cone of Power.
+FINN	m	Put it on the Kragle to stop it.
+TED	m	Yeah. Try that.
+EMMET	m	Thank you. It was nice to meet you both, disgusting squishy giant Maker creature and smaller, messier giant Maker creature.
+FINN	m	Nice to meet you.
+EMMET	m	I should go save the world now.
+TED	m	Let's play.
+BENNY	m	Hello!
+EMMET	m	Thanks for dropping in.
+BATMAN	m	I hope we're not imposing.
+BATMAN	m	There's too many of them!
+NECKBEARD	?	They're coming at us from all sides!
+BENNY	m	Guy! Look up! My space friends! They got my message!
+HAN SOLO	m	Anything for you, Benny!
+INDY	?	Hey, you look familiar.
+NECKBEARD	?	Lucy!
+LUCY	f	Neckbeard! We need to talk...
+LARRY	m	I could build such a better ship than that.
+DORIS	f	Emmet!
+LUCY	f	Doris, are you okay back there?
+LUCY	f	Doris?! Why did she do that?
+VITRUVIUS	m	The connection between a mother and son is a powerful thing.
+LUCY	f	But it's certain death.
+VITRUVIUS	m	On the contrary. It's connections like those that give the best chance to survive...
+DORIS	f	Get your hands off my flipping son.
+EMMET	m	Mom... Wow. Just... wow.
+DORIS	f	I'm the Chosen One, remember?
+EMMET	m	I guess that makes two of us.
+DORIS	f	I was wrong, Emmet. (BAM!) All this time I was trying to keep you from getting hurt, so I told you not to make waves. (POW!) I'm just so glad that I get to see the beautiful waves you finally get to make.(SOCKO!)
+EMMET	m	(WHAM!) I love you, Mom. (CRACK!)
+EMMET	m	Lucy? How did you do that?
+LUCY	f	I used a few connections.
+DORIS	f	Emmet, now's your chance!
+EMMET	m	You're right. I don't belong here...
+EMMET	m	I belong here!
+EMMET	m	Rest in pieces.
+< EXPLOSION NOISES >	m	109.
+DOCTOR	m	--oy!
+FATHER	m	Thank God!
+LUCY	f	What the heck just happened?
+EMMET	m	Something totally foofy.
+NECKBEARD	?	Ahoy there.
+

@@ -1,0 +1,776 @@
+POE	?	Well, because of you now we have a chance. The General's been after this for a long time.
+POE	?	We've got company.
+POE	?	You have to hide.
+POE	?	Come on, BB-8! Hurry!
+POE	?	I see 'em!
+POE	?	You take this. It's safer with you than it is with me. You get as far away from here as you can. Do you hear me? (BB-8 BEEPS, hesitates) I'll come back for you! It will be alright.
+SENIOR TROOPER	m	Stay here.
+KYLO REN	m	Look how old you've become.
+KYLO REN	m	You know what I've come for.
+KYLO REN	m	The map to Skywalker. We know you've found it, and now you're going to give it to the First Order.
+KYLO REN	m	I'll show you the dark side.
+KYLO REN	m	You're so right.
+POE	?	So who talks first? You talk first?
+KYLO REN	m	The old man gave it to you.
+POE	?	It's just very hard to understand you with all the...
+KYLO REN	m	Search him.
+POE	?	... Apparatus.
+STORMTROOPER #1	m	Nothing, sir.
+KYLO REN	m	Put him on board.
+CAPTAIN PHASMA	m	Sir, the villagers.
+KYLO REN	m	Kill them all.
+CAPTAIN PHASMA	m	On my command!
+STORMTROOPER #2	m	Nothing here. Go ahead!
+POE	?	All right. All right!
+CAPTAIN PHASMA	m	FN-2187. Submit your blaster for inspection.
+FN-2187	?	Yes, Captain.
+CAPTAIN PHASMA	m	And who gave you permission to remove that helmet?
+FN-2187	?	I'm sorry, Captain.
+CAPTAIN PHASMA	m	Report to my division at once.
+UNKAR	m	What you've brought me today is worth... Hmmm... One quarter portion.
+WOMAN	f	Tal'ama parqual!
+WOMAN	f	Parqual zatana!
+WOMAN	f	Shhhh.
+WOMAN	f	That's just Teedo. Wants you for parts. He has no respect for anyone. Your antenna's bent. (considers BB-8 for the first time,
+ANTENNA)	?	Where do you come from? Classified. Really? Me too. Big secret. (points to horizon) Niima Outpost is that way, stay off Kelvin Ridge.
+WOMAN	f	Keep away from the Sinking Fields in the north, you'll drown in the sand. (stands, heads off)
+WOMAN	f	Don't follow me. Town is that way. (he BEEPS again) No!
+WOMAN	f	In the morning, you go. You're welcome.
+KYLO REN	m	I had no idea we had the best pilot in the Resistance on board. Comfortable?
+POE	?	Not really.
+KYLO REN	m	I'm impressed. No one has been able to get out of you what you did with the map.
+POE	?	Might wanna rethink your technique.
+KYLO REN	m	Where is it?
+POE	?	The Resistance will not be intimidated by you.
+KYLO REN	m	Where... is it?
+KYLO REN	m	It's in a droid. A BB unit.
+GENERAL HUX	m	Well then. If it's on Jakku, we'll soon have it.
+KYLO REN	m	I leave that to you.
+WOMAN	f	Don't give up. He still might show up. Whoever it is you're waiting for. Classified. I know all about waiting.
+WOMAN	f	For my family. They'll be back. One day. Come on.
+UNKAR	m	These five pieces are worth... Let me see here... One half portion.
+WOMAN	f	Last week they were a half portion each.
+UNKAR	m	What about the droid?
+WOMAN	f	What about him?
+UNKAR	m	I'll pay for him.
+UNKAR	m	Sixty portions.
+WOMAN	f	Actually... the droid's not for sale. Come on.
+UNKAR	m	Follow the girl and get that droid.
+STORMTROOPER	m	Ren wants the prisoner.
+STORMTROOPER	m	Turn here.
+STORMTROOPER	m	Listen carefully: you do exactly as I say, I can get you out of here.
+POE	?	If -- what--?
+FN-2187	?	This is a rescue, I'm helping you escape. Can you fly a TIE fighter?
+POE	?	You with the Resistance--?!
+FN-2187	?	What? No no no! I'm breaking you out. Can you fly a TIE fighter?
+POE	?	I can fly anything. Why, why are you helping me?
+FN-2187	?	Because it's the right thing to do.
+POE	?	(it hits him) You need a pilot.
+FN-2187	?	I need a pilot.
+POE	?	We're gonna do this.
+FN-2187	?	(unsure but hopeful) ... Yeah?
+FN-2187	?	Okay, stay calm, stay calm.
+POE	?	I am calm.
+FN-2187	?	I'm talking to myself. Not yet. Okay, go. This way.
+POE	?	I always wanted to fly one of these things. Can ya shoot?
+FN-2187	?	Blasters, I can!
+POE	?	Okay, same principal! Use the toggle on the left to switch between missiles, cannons, and mag pulse -- use the site on the right to aim, triggers to fire!
+FN-2187	?	This is very complicated
+POE	?	I can fix this.
+POE	?	I got it!
+POE	?	Woooahhh! This thing really moves. All right, we gotta take out as many cannons as we can or we're not gonna get very far!
+FN-2187	?	All right!
+POE	?	I'm gonna get us in position, just stay sharp!
+POE	?	Up ahead! Up ahead! You see it? I've got us dead centered. It's a clean shot.
+FN-2187	?	Okay, got it.
+FN-2187	?	YES! You see that?! DID YOU SEE
+POE	?	I saw it! Hey, what's your name?
+POE	?	FN-whaa?
+FN-2187	?	That's the only name they ever gave me!
+POE	?	Well I ain't using it! FN, huh? Finn. I'm gonna call you Finn! That all right?
+FINN	m	"Finn." Yeah, "Finn", I like that! I like that!
+POE	?	I'm Poe. Poe Dameron.
+FINN	m	Good to meet you, Poe!
+POE	?	Good to meet you too, Finn!
+LIEUTENANT MITAKA	m	Sir, they've taken out our turbolasers--
+GENERAL HUX	m	Use the ventral cannons.
+LIEUTENANT MITAKA	m	Yes, sir. Bringing them online --
+GENERAL HUX	m	Yes, and he had help. From one of our own.
+KYLO REN	m	... The one from the village. FN-
+LIEUTENANT MITAKA	m	Sir. Ventral cannons hot.
+GENERAL HUX	m	Fire.
+POE	?	One's coming towards you. My right, your left. Do you see it?
+FINN	m	Hold on! I see it!
+POE	?	Nice shot.
+FINN	m	Where are you going?
+POE	?	We're going back to Jakku. That's where.
+FINN	m	No no no! We can't go back to Jakku! We need to get outta this system!
+POE	?	I got to get to my droid before the First Order does!
+FINN	m	What - a droid?!
+POE	?	That's right. He's a BB unit! Orange and white: one of a kind.
+FINN	m	I don't care what color he is! No droid can be that important!
+POE	?	This one is, pal.
+FINN	m	We need to get as far away from the First Order as we can! We go back to Jakku, we die!
+POE	?	That droid's got a map that leads straight to Luke Skywalker!
+FINN	m	Oh, you gotta be kidding me!!! I--
+CAPTAIN PHASMA	m	FN-2187 reported to my division, was evaluated and sent to Reconditioning.
+GENERAL HUX	m	No prior signs of non-conformity?
+CAPTAIN PHASMA	m	This was his first offense.
+TECHNICIAN #1	m	General. They've been hit.
+GENERAL HUX	m	Destroyed?
+TECHNICIAN #1	m	Disabled. They were headed back to Jakku -- the fighter's projected to crash in the Goazon badlands.
+GENERAL HUX	m	They were going back for the droid -- send a squad to the wreckage.
+FINN	m	Poe! Poe!
+FINN	m	Poe!!! POE!
+GENERAL HUX	m	Supreme Leader Snoke was explicit. Capture the droid if we can, but destroy it if we must.
+KYLO REN	m	How capable are your soldiers, General?
+GENERAL HUX	m	I won't have you question my methods.
+KYLO REN	m	They're obviously skilled at committing high treason. Perhaps Leader Snoke should consider using a clone army.
+GENERAL HUX	m	My men are exceptionally trained -- programmed from birth--
+KYLO REN	m	Then they should have no problem retrieving the droid. Unharmed.
+GENERAL HUX	m	Careful, Ren. That your "personal interests" not interfere with orders from Leader Snoke.
+KYLO REN	m	I want that map. For your sake, I suggest you get it.
+FINN	m	Water... water... water..
+FINN	m	-- Awgh, GAH!
+WOMAN	f	(To BB-8) Who? Him?
+WOMAN	f	What's your hurry, thief?
+FINN	m	What--?! Thief?
+FINN	m	OW! HEY! What?!
+WOMAN	f	The jacket! This droid says you stole it!
+FINN	m	I've had a pretty messed up day, alright?! So I'd appreciate it you stop accusing me -- OW!!! (BB-8 has ZAPPED him
+WOMAN	f	Where'd you get it? It belongs to his master.
+FINN	m	It belonged to Poe Dameron. That was his name, right?
+FINN	m	He was captured... by the First Order! I helped him escape but our ship crashed. Poe didn't make it. (sees BB-8 is sad,
+ROLLS OFF)	m	Look, I tried to help him. I'm sorry...
+WOMAN	f	So you're with the Resistance?
+FINN	m	Obviously. Yes. I am. I'm with the Resistance, yeah. I'm with the Resistance.
+WOMAN	f	I've never met a Resistance fighter before.
+FINN	m	Well, this is what we look like. Some of us. Others look different.
+WOMAN	f	BB-8 says he's on a secret mission, he has to get back to your base.
+FINN	m	Apparently he's carrying a map that leads to Luke Skywalker, and everyone's after it.
+WOMAN	f	Luke Skywalker? I thought he was a myth.
+WOMAN	f	What is it?
+WOMAN	f	(re: her hand) What are you doing?!
+FINN	m	Come on!
+FINN	m	Come on, BB-8!
+WOMAN	f	Let go of me!
+FINN	m	No, we gotta move!
+WOMAN	f	(pulls her hand back) I know how to run without you holding my hand! BB-8 stay close! This way!
+STORMTROOPER	m	Call in the air strike!
+WOMAN	f	They're shooting at both of us!
+FINN	m	Yeah, they saw you with me! You're marked!
+WOMAN	f	Well, thanks for that!
+FINN	m	I'm not the one who chased you down with a stick! Does anyone have blasters around here?!
+WOMAN	f	Are you okay?
+WOMAN	f	Stop taking my hand!
+WOMAN	f	Hey!
+FINN	m	-- Are you okay?
+WOMAN	f	Yeah. (extends her hand) Follow me.
+FINN	m	We can't outrun them!
+WOMAN	f	We might in that quad-jumper!
+FINN	m	We need a pilot!
+WOMAN	f	We've got one!
+FINN	m	You?! (then, indicates one
+OFF-CAMERA)	?	What about that ship?
+WOMAN	f	That one's garbage!
+WOMAN	f	The garbage'll do!
+WOMAN	f	Gunner position's down there!
+FINN	m	Y'ever fly this thing?
+WOMAN	f	No! This ship hasn't been flown in years!
+FINN	m	Great. (reacts to seat) Whoa! I can do this, I can do this--
+WOMAN	f	I can do this, I can do this--
+FINN	m	Whoa! Hey! Oh! Stay low! Stay low!
+FINN	m	Stay low! It confuses their tracking!
+WOMAN	f	BB-8, hold on!
+WOMAN	f	What are you doing back there? Are you ever gonna fire back?!
+FINN	m	I'm working on it! Are the shields up?
+WOMAN	f	Not so easy without a co-pilot!
+FINN	m	Try sitting in this thing!
+FINN	m	We need cover, quick!
+WOMAN	f	We're about to get some! I hope.
+FINN	m	Damn it!
+FINN	m	Come on... come on...
+WOMAN	f	Nice shot!
+FINN	m	I'm getting pretty good at this!
+FINN	m	The cannon's stuck in forward position, I can't move it! You gotta lose 'em!
+WOMAN	f	Get ready!
+FINN	m	Okay! For what?
+WOMAN	f	Oh no!
+FINN	m	Whooo!
+WOMAN	f	You're ok. He's with the Resistance. He's going to get you home. We both will. I don't know your name.
+FINN	m	Finn. What's yours.
+WOMAN	f	I'm Rey.
+FINN	m	Rey...
+WOMAN	f	Help me with this! Quick!
+FINN	m	Whoa! What's going on?
+LIEUTENANT MITAKA	m	Sir. We were unable to acquire the droid on Jakku.
+KYLO REN	m	The droid... stole a freighter?
+LIEUTENANT MITAKA	m	Not exactly, sir. It had help.
+KYLO REN	m	Anything else?
+LIEUTENANT MITAKA	m	The two were accompanied by a girl.
+KYLO REN	m	What girl?
+WOMAN	f	It's the motivator! Grab me a Harris wrench -- check in there!
+FINN	m	How bad is it?!
+WOMAN	f	If we wanna live, not good!
+FINN	m	They're hunting for us now, we gotta get outta this system!
+WOMAN	f	BB-8 said the location of the Resistance Base is "need to know" -- if I'm taking you there, I need to know!
+FINN	m	(Throws a tool) This?
+FINN	m	You gotta tell us where the base is. I don't speak that. Alright, between us, I'm not with the Resistance, okay? (BB-8 backs up) -- I'm just trying to get away from the First Order -- but you tell us where your base is, I'll get there first -- deal?! (BB-8 COCKS his head) Droid, please.
+WOMAN	f	Pilex driver, hurry!
+WOMAN	f	So where's your base?
+FINN	m	(searching, to BB-8) Go on BB-8, tell her. Please!
+WOMAN	f	The Ileenium system?
+FINN	m	Yeah, the Ileenium system, that's the one -- get us there as fast as you can.
+WOMAN	f	I'll drop you two at Ponemah Terminal. I need the bonding tape, hurry!
+FINN	m	(searching for tape) What about you?
+WOMAN	f	I gotta get back to Jakku!
+FINN	m	(loses his mind) BACK TO JAK--?! Why does everyone always wanna go back to Jakku?! !
+WOMAN	f	No, that one! No. No. The one I'm pointing to! No. NO. NO. If we don't patch it up, the propulsion tank will overflow and flood the ship with poisonous gas!
+FINN	m	This?
+WOMAN	f	Yes!
+FINN	m	Hey. Rey. You're a pilot -- you can fly anywhere! Why go back?! You got a family? You got a boyfriend? Cute boyfriend?
+WOMAN	f	None of your business, THAT'S WHY!
+FINN	m	... That can't be good.
+WOMAN	f	-- No it can't be --
+WOMAN	f	Someone's locked onto us -- all controls are overridden.
+WOMAN	f	Get off. Get off! See anything?
+FINN	m	... Oh no.
+FINN	m	It's the First Order.
+WOMAN	f	What do we do-- there must be
+FINN	m	You said poisonous gas --
+WOMAN	f	-- Yeah, but I fixed that --
+FINN	m	Can you unfix it?
+WOMAN	f	C'mon BB-8.
+FINN	m	I got it.
+WOMAN	f	Oooh...
+FINN	m	I'm okay. BB-8 get off me...
+WOMAN	f	You think this'll work on the Stormtroopers?
+FINN	m	Yeah. Their masks filter out smoke, not toxins.
+FINN	m	Hurry!
+WOMAN	f	I'm hurrying!
+HAN	m	Chewie, we're home.
+HAN	m	Where are the others? Where's the pilot?
+WOMAN	f	...I'm the pilot...
+HAN	m	You?
+WOMAN	f	No, it's true: we're the only ones on board.
+FINN	m	You can understand that thing?
+HAN	m	And "that thing" can understand you too, so watch it. Come on outta there.
+HAN	m	Where'd you get this ship?
+WOMAN	f	Niima Outpost.
+HAN	m	Jakku?! That junkyard?
+FINN	m	Thank you! Junkyard!
+HAN	m	Told ya we should've double-checked the Western Reaches! Who had it, Ducain?
+WOMAN	f	I stole it from Unkar Plutt. He stole it from the Irving Boys, who stole it from Ducain.
+HAN	m	Who stole it from me! Well, you tell him Han Solo just stole back the Millennium Falcon for good.
+WOMAN	f	This is the Millennium Falcon? You're Han Solo?
+HAN	m	I used to be.
+FINN	m	Han Solo? The Rebellion General?
+WOMAN	f	No, the smuggler!
+FINN	m	Wasn't he a war hero?!
+WOMAN	f	This is the ship that made the Kessel Run in fourteen parsecs...!
+HAN	m	Twelve! Fourteen.
+HAN	m	Hey! Some moof-milker put a compressor on the ignition line!
+WOMAN	f	Unkar Plutt did. I thought it was a mistake too, puts too much stress on
+HAN	m	-- Stress on the hyperdrive-- (who is she? Then:) Chewie, throw 'em in a pod, we'll drop them at the nearest inhabited planet.
+WOMAN	f	Wait! No -- we need your help!
+HAN	m	My help?
+WOMAN	f	This droid has to get to the Resistance base as soon as possible!
+FINN	m	He's carrying a map to Luke Skywalker.
+FINN	m	You are the Han Solo that fought with the Rebellion. You knew him.
+HAN	m	Yeah, I knew him. I knew Luke.
+HAN	m	Don't tell me a Rathtar's gotten
+FINN	m	Wait -- a what?! Did you just say Rathtars? Hey!
+FINN	m	You're not hauling Rathtars on this freighter, are you?
+HAN	m	I'm hauling Rathtars.
+HAN	m	Oh great. It's the Guavian Death Gang -- they must've tracked us from Nantoon.
+WOMAN	f	What's a Rathtar?
+FINN	m	Y'ever heard of the Trillia Massacre?!
+WOMAN	f	No.
+FINN	m	Good.
+HAN	m	I got three of 'em going to King Prana.
+FINN	m	THREE?! How'd you get them on board?
+HAN	m	I used to have a bigger crew.
+HAN	m	Get below deck and stay there until I say so -- don't even think about taking the Falcon.
+WOMAN	f	What about BB-8?
+HAN	m	He stays with me -- until I get rid of the gang, then you can have him back and be on your way.
+FINN	m	What about the Rathtars... where are you keeping them?
+HAN	m	There's one.
+WOMAN	f	What are you gonna do?
+HAN	m	Same thing I always do: talk my way out of it. Yes, I do. Every time.
+BALA-TIK	?	Han Solo. You are a dead man.
+HAN	m	Bala-Tik. What's the problem?
+BALA-TIK	?	The problem is we loaned you fifty thousand for this job.
+WOMAN	f	Can you see them?
+FINN	m	No.
+BALA-TIK	?	I heard you also borrowed fifty thousand from Kanjiklub.
+HAN	m	You know you can't trust those little freaks! How long've we known each other?
+WOMAN	f	They have blasters...
+FINN	m	A lot of 'em.
+BALA-TIK	?	The question is how much longer will we know each other? Not long. We want our money back now.
+HAN	m	Ya think hunting Rathtars is cheap? I spent that money.
+BALA-TIK	?	Kanjiklub wants their investment back, too.
+HAN	m	I never made a deal with Kanjiklub!
+BALA-TIK	?	Tell that to Kanjiklub.
+HAN	m	Tasu Leech. Good to see you.
+TASU LEECH	m	Wrong again, Solo. It's over for you.
+HAN	m	Boys. You're both gonna get what I promised! Have I ever not delivered for you before?
+BALA-TIK	?	Yeah.
+TASU LEECH	m	Twice!
+HAN	m	What was the second time?
+BALA-TIK	?	Your game is old. There's no one in the galaxy left for you to swindle.
+TASU LEECH	m	Nowhere left for you to hide.
+BALA-TIK	?	That BB unit... the First Order is looking for one just like it. And two fugitives.
+HAN	m	First I've heard of it.
+RAZOO QIN-FEE	m	Search the freighter.
+WOMAN	f	Wait wait wait wait. If we close the blast doors in that corridor, we can trap both gangs!
+FINN	m	Close the blast doors from here?
+WOMAN	f	Resetting the fuses should do it.
+HAN	m	... I got a bad feeling about this...
+WOMAN	f	Oh no.
+FINN	m	Oh no, what?
+WOMAN	f	Wrong fuses.
+BALA-TIK	?	Kill them! And take the droid!
+FINN	m	This was a mistake!
+WOMAN	f	Huge!
+WOMAN	f	What do they look like?
+FINN	m	They look like that.
+FINN	m	This way!
+WOMAN	f	Are you sure?
+WOMAN	f	Finn!
+FINN	m	It had me! But the door--!
+WOMAN	f	That was lucky!
+HAN	m	I got the door. Cover us!
+HAN	m	Chewie! You okay?
+HAN	m	(looks at bowcaster) Wow. Come on! Come on!
+WOMAN	f	Han!
+HAN	m	You, close the door behind us! You take care of Chewie!
+HAN	m	Hey, where are you going?
+WOMAN	f	Unkar Plutt installed a fuel pump too -- if we don't prime that we're not going anywhere.
+HAN	m	I hate that guy.
+WOMAN	f	And you could use a co-pilot.
+HAN	m	I got one, he's back there.
+HAN	m	Watch the thrust, we're goin' out of here at lightspeed --
+WOMAN	f	From inside the hangar? Is that even possible?
+HAN	m	I never ask that question until after I've done it.
+HAN	m	This is not how I thought this day was gonna go -- angle the shields -- Hang on back there!
+FINN	m	No problem!
+HAN	m	Come on baby, don't let me down!
+HAN	m	What?!
+WOMAN	f	Compressor.
+BALA-TIK	?	Inform the First Order that Han Solo has the droid they want. And it's aboard the Millennium Falcon.
+SNOKE	m	... Leading them to the last Jedi. If Skywalker returns, the new Jedi will rise.
+GENERAL HUX	m	Supreme Leader, I take full responsibility for th--
+SNOKE	m	General! Our strategy must now change.
+GENERAL HUX	m	The weapon. It is ready. I believe the time has come to use it. We shall destroy the government that supports the Resistance, the Republic. Without their friends to protect them, the Resistance will be vulnerable, and we will stop them before they reach Skywalker.
+SNOKE	m	Go. Oversee preparations.
+GENERAL HUX	m	Yes, Supreme Leader.
+SNOKE	m	There's been an awakening. Have you felt it?
+KYLO REN	m	Yes.
+SNOKE	m	There's something more. The droid we seek is aboard the Millennium Falcon. In the hands of your father, Han Solo.
+KYLO REN	m	He means nothing to me.
+SNOKE	m	Even you, master of the Knights of Ren, have never faced such a test.
+KYLO REN	m	By the grace of your training, I will not be seduced.
+SNOKE	m	We shall see. We shall see.
+HAN	m	Electrical overload!
+WOMAN	f	I can fix that!
+HAN	m	The coolant's leaking!
+WOMAN	f	Try transferring auxiliary power to the secondary tank--
+HAN	m	-- Secondary tank, I got it!
+FINN	m	Chewie, come on! I need help with this giant hairy thing! Stop moving! Chewie!
+HAN	m	You hurt Chewie, you're gonna deal with me!
+FINN	m	Hurt him?! He almost killed me six times! (Chewie GRABS HIM by the collar, ROARS) Which is fine.
+HAN	m	This hyperdrive blows there's gonna be pieces of us in three different systems.
+HAN	m	What'd you do?
+WOMAN	f	I by-passed the compressor.
+HAN	m	Move, Ball.
+HAN	m	Nah, don't say that, you did great. Just rest.
+HAN	m	Good job, kid. And thanks.
+FINN	m	You're welcome.
+HAN	m	So, fugitives, huh?
+WOMAN	f	The First Order wants the map.
+WOMAN	f	(re: Finn and BB-8) Finn is with the Resistance... ... I'm just a scavenger.
+HAN	m	Let's see whatcha got.
+WOMAN	f	Go ahead.
+HAN	m	This map's not complete. It's just a piece. Ever since Luke disappeared, people have been looking for him.
+WOMAN	f	Why'd he leave?
+HAN	m	He was training a new generation of Jedi. One boy, an apprentice turned against him, destroyed it all. Luke felt responsible... He walked away from everything.
+FINN	m	Do you know what happened to him?
+HAN	m	There're a lot of rumors. Stories. The people who knew him the best think he went looking for the first Jedi temple.
+WOMAN	f	The Jedi were real?
+HAN	m	I used to wonder that myself. Thought it was a bunch of mumbo-jumbo -- magical power holding together good, evil, the dark side and the light. 'Crazy thing is, it's true. The Force, the Jedi, all of it. It's all true.
+HAN	m	No, you rest. (To Rey and Finn) You want my help? You're getting it. Gonna see an old friend. She'll get your droid home. This is our stop.
+WOMAN	f	... I didn't know there was this much green in the whole galaxy...
+FINN	m	Hey, Solo -- I'm not sure what we're walking into here --
+HAN	m	D'you just call me "Solo"?
+FINN	m	Sorry. Han-- Mr. Solo. You should know, I'm a big deal in the Resistance. Which puts a real target on my back. Are there any conspirators here? First Order sympathizers?
+HAN	m	Listen big deal, you've got another problem. Women always figure out the truth.
+HAN	m	Always.
+HAN	m	You might need this.
+WOMAN	f	I think I can handle myself.
+HAN	m	I know you do. That's why I'm giving it to you. Take it.
+HAN	m	You know how to use one of these?
+WOMAN	f	Yeah, you pull the trigger.
+HAN	m	There's a little bit more to it than that. You got a lot to learn. You got a name?
+WOMAN	f	Rey.
+HAN	m	Rey. I've been thinkin' about bringing on some more crew, Rey. A second mate. Someone to help out. Someone who can keep up with Chewie and me, appreciates the Falcon.
+WOMAN	f	Are you offering me a job?
+HAN	m	I wouldn't be nice to you. It doesn't pay much.
+WOMAN	f	You're offering me a job.
+HAN	m	I'm thinking about it.
+HAN	m	Well?
+WOMAN	f	If you were, I'd be flattered. But I have to get home.
+HAN	m	Jakku?
+WOMAN	f	I've already been away too long.
+HAN	m	Chewie, check out the ship as best you can.
+HAN	m	It's too bad. Chewie kind of likes you.
+FINN	m	Solo, why are we here again?
+HAN	m	To get your droid on a clean ship.
+WOMAN	f	Clean?
+HAN	m	Do you think it was luck that Chewie and I found the Falcon? If we can find it on our scanners, the First Order's not far behind. Want to get BB-8 to the Resistance? Maz Kanata is our best bet.
+FINN	m	We can trust her, right?
+HAN	m	Relax, kid. She's run this watering hole for a thousand years. Maz is a bit of an acquired taste, so let me do the talking. And whatever you do, don't stare...
+HAN	m	Any of it.
+MAZ	m	Han Solo!
+HAN	m	(Sotto) Oh boy. (Louder, waving) Hey, Maz!
+MAZ	m	Where's my boyfriend?
+HAN	m	Chewie's working on the Falcon.
+MAZ	m	I like that Wookiee. I assume you need something. Desperately. Let's get to it.
+GA-97	?	Alert the Resistance. Their missing droid is here!
+BAZINE	m	Inform the First Order... I've found the droid.
+KYLO REN	m	Forgive me. I feel it again. The pull to the light. Supreme Leader senses it. Show me again, the power of the darkness, and I will let nothing stand in our way. Show me, Grandfather, and I will finish what you started.
+MAZ	m	A map to Skywalker himself? You're right back in the mess.
+HAN	m	Maz, I need you to get this droid to Leia.
+MAZ	m	Hmm. No. You've been running away from this fight for too long. Han, nyakee nago wadda. Go home!
+HAN	m	Leia doesn't want to see me.
+FINN	m	Please, we came here for your help.
+WOMAN	f	What fight?
+MAZ	m	The only fight: against the dark side. Through the ages, I've seen evil take many forms. The Sith. The Empire. Today, it is the First Order. Their shadow is spreading across the galaxy. We must face them. Fight them. All of us.
+FINN	m	There is no fight against the First Order! Not one we can win. Look around. There's no chance we haven't been recognized already. I bet you the First Order is on their way right--
+FINN	m	What's this? What are you doing?
+FINN	m	Solo, what is she doing?
+HAN	m	I don't know, but it ain't good.
+MAZ	m	If you live long enough you see the same eyes in different people. I'm looking at the eyes of a man who wants to run.
+FINN	m	(eyes on Maz) You don't know a thing about me. Where I'm from. What I've seen.
+FINN	m	You don't know the First Order like I do. They'll slaughter us. We all need to run.
+MAZ	m	You see those two? They'll trade work for transportation to the Outer Rim. There, you can disappear.
+WOMAN	f	Finn!
+FINN	m	Come with me.
+WOMAN	f	What about BB-8? We're not done yet. We have to get him back to your base.
+FINN	m	I can't.
+HAN	m	Keep it, kid.
+MAZ	m	Who's the girl?
+FINN	m	I was told you could get me to the Outer Rim.
+WOMAN	f	What are you doing?
+FINN	m	(to Big Head) Don't leave without me.
+WOMAN	f	You can't just go. I won't let you.
+FINN	m	I'm not who you think I am.
+WOMAN	f	Finn, what are you talking about?
+FINN	m	I'm not Resistance. I'm not a hero. I'm a Stormtrooper. Like all of them, I was taken from a family I'll never know. And raised to do one thing... But my first battle, I made a choice. I wasn't going to kill for them. So I ran.
+FINN	m	Right into you. And you looked at me like no one ever had. I was ashamed of what I was. But I'm done with the First Order. I'm never going back. Rey, come with me.
+WOMAN	f	Don't go.
+FINN	m	Take care of yourself. Please.
+YOUNG GIRL	f	No, come back!
+UNKAR PLUTT	m	Quiet, girl!
+WOMAN	f	What was that? I shouldn't have gone in there.
+MAZ	m	That lightsaber was Luke's. And his father's before him and now, it calls to you!
+WOMAN	f	I have to get back to Jakku.
+MAZ	m	Han told me. (reaches out, hold
+WOMAN'S HAND)	f	Dear child. I see your eyes. You already know the truth. Whomever you're waiting for on Jakku, they're never coming back. But... there's someone who still could.
+WOMAN	f	Luke.
+MAZ	m	The belonging you seek is not behind you. It is ahead. I am no Jedi, but I know the Force. It moves through and surrounds every living thing. Close your eyes. Feel it.
+MAZ	m	The light. It's always been there. It will guide you. The saber. Take it.
+WOMAN	f	I'm never touching that again. I don't want any part of this.
+GENERAL HUX	m	Today is the end of the Republic! The end of a regime that acquiesces to disorder! At this very moment, in a system far from here the New Republic LIES to the GALAXY while secretly supporting the treachery of the loathsome Resistance. This fierce machine which you have built, upon which we stand, will bring an end to the Senate! To their cherished fleet! All remaining systems will bow to the First Order! And will remember this... as the last day of the Republic!
+FINN	m	The First Order, they've done it. Where's Rey?
+WOMAN	f	What are you doing? You have to go back. (he BEEPS again)
+WOMAN	f	BB-8. No, you can't -- you have to go back, you're too important. They'll help you.
+MAZ	m	I've had this for ages...
+MAZ	m	Kept it locked away.
+HAN	m	Where'd you get that?
+MAZ	m	A good question for another time. Take it! Find your friend!
+MAZ	m	Those beasts! They're here!
+STORMTROOPER	m	FN-417, hold position!
+WOMAN	f	Safety!
+STORMTROOPER #4	m	Sir, the droid was spotted heading west, with a girl.
+WOMAN	f	You have to keep going, stay out of sight, I'll try to fight 'em off. (BB-8 BEEPS; bravely through her fear) I hope so, too.
+HAN	m	Come on, Chewie!
+MAZ	m	Rey and BB-8, they need you. Now go.
+FINN	m	I need a weapon.
+MAZ	m	You have one!
+HAN	m	Hey, can I try that?
+HAN	m	I like this thing.
+STORMTROOPER	m	Traitor!
+HAN	m	You okay, Big deal?
+FINN	m	Thanks!
+STORMTROOPER	m	Don't move! TK-338, we have targets in custody!
+STORMTROOPER	m	We have incoming at two-eight-point- six! Move! Dispatch! Move! Scramble all squads! Repeat, scramble all squads! Anti-air cover en route to our position!
+HAN	m	It's the Resistance.
+POE	?	Go straight ahead and don't let these dogs scare you!
+HAN	m	Quick!
+FINN	m	Woohoo! YEAH! That's one helluva pilot!
+KYLO REN	m	The girl I've heard so much about.
+STORMTROOPER	m	Request air support!
+KYLO REN	m	The map. You've seen it.
+STORMTROOPER #5	m	Sir, Resistance fighters! We need more troops.
+KYLO REN	m	Pull the division out. Forget the droid. We have what we need.
+STORMTROOPER	m	Pull back the tree line!
+FINN	m	No, no, no, no... WOMAN!!
+FINN	m	He took her! Did you see that? He took her. She's gone!
+HAN	m	Yeah, yeah, I know...
+C-3PO	?	Goodness! Han Solo! It is I, See- Threepio! (sees Han, stops) You probably don't recognize me because of the red arm. (sees Leia,
+INCREASINGLY AWKWARD)	?	Look who it is! Did you see who? Oh. Excuse me, Prin-- uh, General. Sorry. Come along, BB-8. Quickly. Yes, I must get my proper arm reinstalled.
+HAN	m	You changed your hair.
+LEIA	f	Same jacket.
+HAN	m	No, new jacket.
+HAN	m	... I saw him. Leia, I saw our son. He was here.
+FINN	m	Poe. Poe Dameron.
+FINN	m	You're alive!
+POE	?	So are you!
+FINN	m	What happened to you?
+POE	?	What happened? I got thrown from the crash, woke up at night -- no you, no ship, nothing--
+POE	?	BB-8 says that you saved him.
+FINN	m	No, no, no. It wasn't just me.
+POE	?	You completed my mission, Finn. That's my jacket?
+FINN	m	Oh here.
+POE	?	No, no, no. Keep it. It suits you. You're a good man, Finn.
+FINN	m	Poe -- I need your help.
+POE	?	General Organa. Sorry to interrupt, this is Finn, he needs to talk to
+LEIA	f	(takes Finn's hand) And I need to talk to him. That was incredibly brave, what you did. Renouncing the First Order, saving this man's life --
+FINN	m	(surprised she knows) Thank you, ma'am -- but a friend of mine was taken prisoner--
+LEIA	f	Han told me about the girl, I'm sorry.
+POE	?	Finn's familiar with the weapon that destroyed the Hosnian system. He worked on the base.
+LEIA	f	We're desperate for anything you can tell us.
+FINN	m	That's where my friend was taken -- I've got to get there, fast.
+LEIA	f	And I will do everything I can to help, but first you must tell us all you know. That sounds very scary. You must be so brave.
+C-3PO	?	General, I regret to inform you, but this map recovered from BB-8 is only partially complete. And even worse, it matches no charted system on record. We simply do not have enough information to locate Master Luke.
+LEIA	f	I can't believe I was so foolish to think that I could just find Luke and bring him home.
+HAN	m	Leia...
+LEIA	f	Don't do that.
+HAN	m	Do what? She heads off.
+LEIA	f	Anything. Flummoxed, Han follows looking at C-3PO.
+C-3PO	?	Princesses.
+HAN	m	I'm trying to be helpful!
+LEIA	f	When did that ever help? And don't say the Death Star.
+HAN	m	I am afraid not. R2-D2 has been in low power mode ever since Master Luke went away. Sadly, he may never be his old self again.
+HAN	m	Listen to me, will you? I know every time you... every time you look at me, you're reminded of him.
+LEIA	f	You think I want to forget him? I want him back!
+HAN	m	There was nothing we could've done. (hard for him to say) There was too much Vader in him.
+LEIA	f	That's why I wanted him to train with Luke. I just never should have sent him away. That's when I lost him. That's when I lost you both.
+HAN	m	We both had to deal with it in our own way. I went back to the only thing I was ever good at.
+LEIA	f	We both did.
+HAN	m	We lost our son, forever.
+LEIA	f	No. It was Snoke.
+LEIA	f	He seduced our son to the dark side. But we can still save him. Me. You.
+HAN	m	If Luke couldn't reach him, how could
+LEIA	f	Luke is a Jedi... you're his father. There's still light in him. I know it.
+GENERAL STATURA	m	General, the reconnaissance report on the enemy base is coming.
+WOMAN	f	Where am I?
+KYLO REN	m	You're my guest.
+WOMAN	f	Where are the others?
+KYLO REN	m	You mean the murderers, traitors and thieves you call friends? (Rey stares at him) You'll be relieved to hear that I have no idea.
+WOMAN	f	That happens when you're being hunted by a creature in a mask.
+KYLO REN	m	Tell me about the droid.
+WOMAN	f	(a nervous beat) He's a BB unit with a selenium drive and a thermal hyperscan vindicator --
+KYLO REN	m	He's carrying a section of a navigational chart. We have the rest, recovered from archives of the Empire. We need the last piece. And somehow, you convinced the droid to show it to you. You. A scavenger --
+WOMAN	f	-- Get out of my head --
+KYLO REN	m	I know you've seen the map. It's in there... and now you'll give it to me. Don't be afraid. I feel it too.
+WOMAN	f	I'm not giving you anything.
+KYLO REN	m	We'll see.
+WOMAN	f	... You... you're afraid... that you will never be as strong as... Darth Vader!
+KYLO REN	m	She's strong with the Force, untrained but, stronger than she knows.
+SNOKE	m	And the droid?
+SNOKE	m	Then the Resistance must be destroyed before they get to Skywalker.
+GENERAL HUX	m	We have their location. We tracked their reconnaissance ship to the Ileenium system.
+SNOKE	m	Good. Then we will crush them once and for all. Prepare the weapon.
+KYLO REN	m	Supreme Leader. I can get the map from the girl. I just need your guidance.
+SNOKE	m	If what you say about this girl is true, bring her to me.
+WOMAN	f	You will remove these restraints. And leave this cell, with the door open.
+TROOPER GUARD #2	m	What did you say?
+WOMAN	f	You will remove these restraints. And leave this cell, with the door open.
+TROOPER GUARD #2	m	I'll tighten those restraints, scavenger scum!
+WOMAN	f	You will remove these restraints. And leave this cell, with the door open.
+TROOPER GUARD #2	m	I will remove these restraints. And leave this cell, with the door open.
+WOMAN	f	And you will drop your weapon.
+TROOPER GUARD #2	m	And I'll drop my weapon.
+GENERAL HUX	m	Begin charging the weapon!
+STARKILLER TECHNICIAN	m	Yes, sir. Weapon charging.
+POE	?	The scan data from Snap's reconnaissance flight confirms Finn's report.
+SNAP	m	They've somehow created a hyper lightspeed weapon built within the planet itself.
+BRANCE	m	A laser cannon?
+SNAP	m	We're not sure how to describe a weapon of this scale.
+MAJOR EMATT	m	It's another Death Star.
+POE	?	I wish that were the case, Major.
+POE	?	This was the Death Star.
+POE	?	This is Starkiller Base.
+HAN	m	So it's big.
+ADMIRAL ACKBAR	m	How is it possible to power a weapon of this size?
+FINN	m	It uses the power of the sun. As the weapon is charged, the sun is drained until it disappears.
+LEIA	f	(eyes on datacard) The First Order: they're charging the weapon again, now. (then, heart sinking) Our system is the next target.
+C-3PO	?	Oh my. Without the Republic fleet, we're doomed.
+HAN	m	Okay, how do we blow it up? (all eyes on him) There's always a way to do that.
+LEIA	f	Han's right.
+ADMIRAL STATURA	m	(at first hesitant) In order for that amount of power to be contained, that base would need some kind of thermal oscillator...
+FINN	m	There is one.
+FINN	m	Precinct 47. Here.
+ADMIRAL STATURA	m	If we can destroy that oscillator, it might de-stabilize the core and cripple the weapon.
+MAJOR EMATT	m	... Maybe the planet.
+POE	?	We'll go in there and we'll hit that oscillator with everything we got.
+ADMIRAL ACKBAR	m	They have defensive shields that our ships cannot penetrate.
+HAN	m	We disable the shields. Kid, you worked there, what do you got?
+FINN	m	(beat, then:) I can do it.
+HAN	m	I like this guy.
+FINN	m	I can disable the shields. But I have to be there, on the planet--
+HAN	m	We'll get you there.
+LEIA	f	Han, how?
+HAN	m	If I told you, you wouldn't like it.
+POE	?	So we disable the shields, take out the oscillator and we blow up their big gun. All right. Let's go!
+HAN	m	Chewie, check that donal capitator. Come on. Let's go. -- Finn, be careful with those - they're explosives.
+FINN	m	Now you tell me?
+LEIA	f	No matter how much we fought, I've always hated watching you leave.
+HAN	m	That's what I did it. So you'd miss me.
+LEIA	f	I did miss you.
+HAN	m	It wasn't all bad, was it? Huh? Some of it was...good.
+LEIA	f	... Pretty good.
+HAN	m	Some things never change.
+LEIA	f	True. You still drive me crazy.
+LEIA	f	If you see our son again, bring him home.
+STORMTROOPER	m	Sir, sensors triggered in hangar 718. We're searching the area.
+KYLO REN	m	She's just beginning to test her powers. The longer it takes to find her, the more dangerous she becomes.
+FINN	m	How are we getting in?
+HAN	m	Their shields have a fractional refresh rate. Keeps anything traveling slower than lightspeed from getting through.
+FINN	m	We're gonna make our landing approach at lightspeed?!
+HAN	m	Alright, Chewie, get ready.
+HAN	m	And Now!
+HAN	m	I get any higher, they'll see us!
+OFFICER	m	Sir, she was not found in hangar 718 but all troops are on alert.
+KYLO REN	m	Put every hangar on lock-down. She's going to try to steal a ship to--
+FINN	m	The flooding tunnels are over that ridge. We'll get in that way.
+HAN	m	What was your job when you were based here?
+FINN	m	Sanitation.
+HAN	m	Sanitation? Then how do you know how to disable the shields?
+FINN	m	I don't. I'm just here to get Rey.
+HAN	m	People are counting on us! The galaxy is counting on us--!
+FINN	m	Solo, we'll figure it out! We'll use the Force!
+HAN	m	That's not how the Force works--!
+HAN	m	Oh really, you're cold?
+FINN	m	Come on!
+GENERAL HUX	m	Report.
+STORMTROOPER FN-9330	m	Hey!
+HAN	m	The longer we're here, less luck we're going to have. The shields?
+FINN	m	I have an idea about that.
+FINN	m	Remember me?
+FINN	m	Not anymore. The name's Finn, and I'm in charge. I'm in charge now, Phasma. I'm in charge.
+HAN	m	Bring it down. Bring it down.
+FINN	m	Follow me.
+FINN	m	You want me to blast that bucket off your head? Lower the shields.
+CAPTAIN PHASMA	m	You're making a big mistake.
+FINN	m	Do it.
+FINN	m	Solo, if this works, we're not going to have a lot of time to find Rey.
+HAN	m	Don't worry kid, we won't leave here without her.
+CAPTAIN PHASMA	m	(to Finn, cruel) You can't be so stupid as to think this will be easy. My troops will storm this block and kill you all.
+FINN	m	I disagree. What do we do with her?
+HAN	m	Is there a garbage chute? Trash compactor?
+FINN	m	Yeah, there is...
+OFFICER	m	General, their shields are down!
+C-3PO	?	Thank the Maker!
+LEIA	f	Han did it! Send them in!
+ADMIRAL STATURA	m	Give Poe full authorization to attack.
+GULCH	m	Black Leader, go to sub-lights. On your call.
+POE	?	Roger, base -- red squad, blue squad, take my lead.
+YOLO ZIFF	m	Dropping out of lightspeed.
+POE	?	Almost in range! Hit the target dead center, as many runs as we can get!
+SNAP	m	Approaching target.
+GENERAL HUX	m	Dispatch all squadrons...
+COLONEL DATOO	m	Yes, General.
+POE	?	Let's light it up!
+ELLO ASTY	m	But no damage!
+POE	?	Yeah, we gotta keep hitting it! Another bombing run! Remember, when that sun is gone, that weapon will be ready to fire! But as long as there's light, we got a chance.
+POE	?	Guys, we got a lot of company!
+FINN	m	We'll use the charges to blow that blast door. I'll go in and draw fire, but I'm gonna need cover.
+HAN	m	You sure you're up for this?
+FINN	m	Hell no -- I'll go in find and try to find Rey -- (improvising, fast) -- The troopers'll be on our tail. We have to be ready for that. There's an access tunnel that'll leads -- (Han starts pointing with his chin to
+FINN)	?	Why are you doing that? Why are you doing -- this? I'm trying to come up with a plan.
+ADMIRAL ACKBAR	m	The Oscillator's still standing.
+OFFICER	m	X-wings coming back for another round of attacks!
+HAN	m	Are you all right?
+WOMAN	f	Yeah.
+HAN	m	Good.
+FINN	m	What happened -- did he hurt you?
+WOMAN	f	Finn. What are you doing here?!
+FINN	m	We came back for you.
+FINN	m	What'd he say?
+WOMAN	f	(shrugs, smiles, though nearly in tears) ... That it was your idea.
+WOMAN	f	Thank you.
+FINN	m	How did you get away?
+WOMAN	f	I can't explain it. And you wouldn't believe it.
+HAN	m	Escape now. Hug later.
+SNAP	m	I got one behind me. See it?
+JESS	?	Yeah, I'm on it!
+JESS	?	Furillo's been hit!
+SNAP	m	Watch out for ground fire!
+HAN	m	They're in trouble. We can't leave. (to Finn, re: Chewie) My friend here has a bag full of explosives. Let's use 'em.
+VOBER DAND	m	Two more X-wings down. That's half our fleet destroyed.
+C-3PO	?	And their weapon will be fully charged in 10 minutes! It would take a miracle to save us now.
+HAN	m	That girl knows her stuff.
+HAN	m	We'll set the charges at every other column.
+HAN	m	You're right. That's a better idea. (checks his detonator) You take the top. I'll go down below. Detonator. We'll meet back here.
+KYLO REN	m	Find them.
+HAN	m	Ben!
+KYLO REN	m	Han Solo. I've been waiting for this day for a long time.
+HAN	m	Take off that mask. You don't need it.
+KYLO REN	m	What do you think you'll see if I do?
+HAN	m	The face of my son.
+KYLO REN	m	Your son is gone. He was weak and foolish, like his father. So I destroyed him.
+HAN	m	That's what Snoke wants you to believe but it's not true. My son is alive.
+KYLO REN	m	No. The Supreme Leader is wise.
+HAN	m	Snoke is using you for your power. When he gets what he wants, he'll crush you -- you know it's true.
+KYLO REN	m	It's too late.
+HAN	m	No it's not. Leave here with me. Come home. We miss you.
+KYLO REN	m	I'm being torn apart. I want to be free of this pain.
+KYLO REN	m	I know what I have to do, but I don't know if I have the strength to do it. Will you help me?
+HAN	m	Yes. Anything.
+KYLO REN	m	Thank you.
+FINN	m	Solo.
+WOMAN	f	No, no.
+ADMIRAL ACKBAR	m	The Oscillator's been damaged but is still functional.
+FINN	m	The Falcon's this way.
+KYLO REN	m	We're not done yet.
+WOMAN	f	You're a monster!
+KYLO REN	m	It's just us now. Han Solo can't save you.
+FINN	m	Rey! Rey! Rey... Rey... Oh no. Oh no no no...
+FINN	m	Come get it.
+NIV LEK	m	We just lost R-1!
+JESS	?	We're overwhelmed! What do we do? It isn't working!
+YOLO ZIFF	m	Black Leader, there's a brand new hole in that oscillator. Looks like our friends got in!
+POE	?	Red Four! Red Six! Cover us!
+ELLO ASTY	m	Roger!
+POE	?	Everybody else, hit the target hard! Give it everything you got!
+POE	?	I need some help here! I need some help!
+JESS	?	Watch out!
+ELLO ASTY	m	I'm hit!
+POE	?	All teams - I'm going in! Pull up and cover me!
+NIV LEK	m	Copy that, Black Leader! Good luck, Poe!
+STARKILLER TECHNICIAN	m	Weapon at full capacity in thirty seconds.
+GENERAL HUX	m	Prepare to fire.
+KYLO REN	m	You need a teacher! I can show you the ways of the Force!
+WOMAN	f	The Force.
+COLONEL DATOO	m	Lieutenant, get back to your station!
+YOUNG TECHNICIAN	m	(stops, fleetingly) Just look. We won't survive -- even Hux has gone!
+GENERAL HUX	m	The fuel cells have ruptured. The collapse of the planet has begun.
+SNOKE	m	Leave the base at once and come to me with Kylo Ren. It is time to complete his training.
+WOMAN	f	Finn! Finn...
+POE	?	All teams! I got eyes on them!
+SNAP	m	Yes!
+POE	?	Our job's done here. Let's go home!
+MEDIC	m	Easy, easy. He's hurt. We've got a heartbeat.
+C-3PO	?	R2-D2! You've come back! You found what? How dare you call me that!
+CONTINUES BEEPING)	m	Find Master Luke how? Come, R2! We must go tell the others at once!
+LEIA	f	Tell me.
+POE	?	Yeah, all right, buddy, hold on --
+C-3PO	?	Oh! The map! It is complete!
+LEIA	f	(hand on her heart) -- Luke --
+C-3PO	?	(to R2-D2) Oh my dear friend. How I've missed you.
+WOMAN	f	We'll see each other again. I believe that. Thank you, my friend.
+LEIA	f	Rey.
+LEIA	f	May the Force be with you.
+

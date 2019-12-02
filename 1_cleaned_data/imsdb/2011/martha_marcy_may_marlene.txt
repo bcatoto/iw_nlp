@@ -1,0 +1,738 @@
+LUCY	f	Hello. Hello?
+MARTHA	f	Hi!
+LUCY	f	Martha?
+MARTHA	f	Yeah.
+LUCY	f	Oh my god! Where are you?
+MARTHA	f	I'm not sure. Upstate I think.
+LUCY	f	You're in New York?
+MARTHA	f	I think. Yeah.
+LUCY	f	When did you get back?
+LUCY	f	Martha? What's wrong? What's happened?
+MARTHA	f	I don't know. I should go back.
+LUCY	f	Go back where?
+MARTHA	f	I have to go, I can't stay gone.
+LUCY	f	No, no, no. Don't go. What are you talking about?
+MARTHA	f	Sorry for calling.
+LUCY	f	Martha! Don't hang up. Please! Do not hang up. Do you want me to come get you?
+MARTHA	f	I can't wait that long.
+LUCY	f	What do you mean? Tell me where you are and I'll come right now.
+MARTHA	f	It's okay, you don't have to-
+LUCY	f	I want to see you Martha. Please.
+LUCY	f	Martha!
+WATTS	m	What are you doin'?
+WATTS	m	We were worried about you.
+MARTHA	f	I'm fine.
+WATTS	m	Patrick's worried about you.
+MARTHA	f	I just wanted to come into town.
+WATTS	m	I could've brought you.
+MARTHA	f	I wanted to walk.
+WATTS	m	Through the woods?
+WAITRESS	?	Can I get you something?
+WATTS	m	No.
+WAITRESS	?	You done?
+MARTHA	f	Yeah.
+WATTS	m	You not gonna eat that?
+WATTS	m	You ready to go?
+WATTS	m	Come on!
+MARTHA	f	Not right now.
+WATTS	m	No?
+WATTS	m	I'll get this.
+LUCY	f	It's nice to see you.
+MARTHA	f	You too.
+LUCY	f	What's going on?
+MARTHA	f	Not much.
+LUCY	f	You alright?
+MARTHA	f	Yeah.
+LUCY	f	You sure?
+MARTHA	f	Yeah.
+LUCY	f	You were pretty upset on the phone.
+MARTHA	f	Sorry. I over reacted.
+LUCY	f	To what?
+LUCY	f	What happened?
+MARTHA	f	We had a fight.
+LUCY	f	Who?
+MARTHA	f	Me and this guy.
+LUCY	f	Who?
+LUCY	f	Your boyfriend?
+LUCY	f	Did he hurt you?
+MARTHA	f	No!
+LUCY	f	Are you sure?
+MARTHA	f	No. I'm fine.
+LUCY	f	Did you guys break up?
+LUCY	f	How long were you together?
+MARTHA	f	A while.
+LUCY	f	How long?
+MARTHA	f	I don't know. Maybe a year, maybe more or less.
+LUCY	f	And you were here the whole time?
+LUCY	f	You've been back in New York for over a year and you haven't called me?
+MARTHA	f	I'm sorry.
+LUCY	f	Well, I'm glad you're here now.
+LUCY	f	I made you some tea.
+MARTHA	f	Thanks.
+LUCY	f	Ted should be up from the city soon. He'll cook us some dinner.
+MARTHA	f	I'm pretty tired, is it okay if I just go to bed?
+LUCY	f	Of course. Get some sleep, you'll be as good as new tomorrow.
+TED	m	Well?
+LUCY	f	She seems okay.
+TED	m	What did she say?
+LUCY	f	Not much, she's pretty tired.
+TED	m	Where's she been?
+LUCY	f	She had some boyfriend, they were living in the Catskills.
+TED	m	What?
+LUCY	f	It's okay.
+TED	m	Not really Lucy.
+LUCY	f	It's fine. She's here now.
+TED	m	Well, how long's she staying?
+LUCY	f	I don't know.
+TED	m	I told you she was fine. You spend all that time worrying.
+LUCY	f	Martha? Why are you on the floor?
+MARTHA	f	I'm sorry.
+LUCY	f	It's okay, you were in a deep sleep. Come have some breakfast.
+TED	m	Martha! Welcome!
+MARTHA	f	Hi.
+TED	m	Great to finally meet you. You sleep alright?
+MARTHA	f	Yeah.
+LUCY	f	How do you like the house?
+TED	m	It's just a rental.
+LUCY	f	Well I love it.
+MARTHA	f	It's nice. I didn't know there was a lake.
+LUCY	f	Yeah. Do you still like to swim?
+MARTHA	f	You don't live in the city anymore?
+LUCY	f	We do. This is for weekends and holidays.
+LUCY	f	Ted's finishing a new building down town and when it's done we're taking one of the new apartments. You want to see pictures?
+TED	m	Do you think she's excited to have you back?
+LUCY	f	This is the view, the interiors are obviously not finished. It's nice right? 13.
+LUCY	f	We were supposed to move in the spring but construction halted, so, it'll just be a little while longer.
+TED	m	Yep, just a little while longer.
+LUCY	f	Okay, sorry, no more work talk.
+LUCY	f	Aren't you hungry?
+MARTHA	f	Not really, sorry.
+TED	m	Well, you've got to eat.
+LUCY	f	It's okay, I can fix you something later.
+MARTHA	f	Where are we?
+LUCY	f	Connecticut.
+MARTHA	f	How far are we?
+LUCY	f	From what?
+MARTHA	f	Yesterday.
+LUCY	f	You mean where I picked you up?
+LUCY	f	About 3 hours. Why?
+MARTHA	f	Just wondered.
+ZOE	f	Put out your cigarette.
+MARTHA	f	Why?
+ZOE	f	Just do it.
+MARTHA	f	Is that him?
+ZOE	f	Yeah. Hey!
+PATRICK	m	Is this Martha?
+MARTHA	f	Hi!
+PATRICK	m	How're you doing?
+MARTHA	f	Great. You've got a really nice place here.
+PATRICK	m	It's as much yours as it is mine.
+PATRICK	m	I thought you quit?
+ZOE	f	I did.
+PATRICK	m	It's disgusting.
+ZOE	f	I know. I'm sorry.
+PATRICK	m	Don't apologize to me, it's your body.
+PATRICK	m	Look after this girl properly Zoe, she deserves some real care for once in her life.
+ZOE	f	I will.
+MARTHA	f	She's been great, everyone's been great.
+PATRICK	m	Good. You look like a Marcy May.
+MARTHA	f	Marcy was my grandmothers name.
+PATRICK	m	Well, there you go.
+MARTHA	f	Sure.
+MARTHA	f	You coming?
+TED	m	Brilliant choice of swim wear.
+LUCY	f	Martha! What are you doing?
+MARTHA	f	What?
+LUCY	f	Would you put some clothes on, you can't swim naked.
+MARTHA	f	Why?
+LUCY	f	You just can't. There are kids around and people come by.
+MARTHA	f	So?
+LUCY	f	So you can't. We don't, just don't. I have a bathing suit you can borrow.
+LUCY	f	Martha! I've been trying to wake you. You should get up or you won't sleep through the night.
+LUCY	f	You should eat.
+MARTHA	f	I will. I'm just going to sleep a little more first okay?
+LUCY	f	Okay. I'm sorry I got frustrated with you before.
+MARTHA	f	It's okay.
+TED	m	She's not coming?
+LUCY	f	She's in a really deep sleep. I can't wake her.
+TED	m	She seems a bit off, no?
+LUCY	f	She's just really tired. She's had a bad breakup. I want to give her a couple days to get situated, you know?
+TED	m	Has she always been like this?
+LUCY	f	A pain in my ass, yes.
+MAX	m	Hey Marcy.
+MARTHA	f	Hey Max. Where do they go at night?
+MAX	m	I don't know, I never get invited.
+MAX	m	You want to have a drink with me?
+MAX	m	They won't be back for a few hours.
+MARTHA	f	I shouldn't. I'm not going to drink for awhile, I think it's a good idea for me.
+MAX	m	Alright.
+MARTHA	f	Patrick'll know.
+MAX	m	It's cool, I'm good at hiding it.
+KATIE	f	We switch off jobs each day so we all know how to do different things. Do you knit?
+MARTHA	f	No. I can learn though.
+KATIE	f	It's okay, you'll find your role. It takes time for people to find their role in a new family.
+KATIE	f	We sell blankets in town. We still need some money, but when the farm's up and running we'll be self sufficient and we'll never have to worry about it again.
+MARTHA	f	When do you think that'll happen?
+KATIE	f	Hopefully by the end of the summer but we'll see. It's hard to get machinery and live stock without cash.
+MARTHA	f	That'll be nice.
+KATIE	f	Shoot.
+PATRICK	m	How's everything going so far Marcy May?
+MARTHA	f	Good.
+PATRICK	m	You like it here?
+MARTHA	f	Yeah, it's really nice.
+PATRICK	m	I want you to feel at home.
+MARTHA	f	I do. Thanks.
+PATRICK	m	People have abandoned you your whole life. I don't blame you for not trusting anyone.
+MARTHA	f	What?
+PATRICK	m	If you ever want to have a meaningful relationship, you need to let your guard down.
+PATRICK	m	It's not your fault, but it's there. If you feel safe here, and I think you do, let us in. We just want to help you.
+ZOE	f	Yeah, we think you're fucking awesome.
+PATRICK	m	If you're going to live here then really be apart of things.
+LUCY	f	Good morning. How are you feeling today?
+MARTHA	f	Good.
+LUCY	f	There's this great juice shop in town, I got us a couple of juices. 22.
+LUCY	f	This one is Kale with ginseng. It gives me energy, so I thought it might help you. Martha takes a sip. It tastes terrible but she drinks it.
+LUCY	f	I got pineapple orange too if that's better.
+MARTHA	f	Maybe that's better. Sorry, thanks.
+LUCY	f	I also got a box of these protein bars just in case you want to snack.
+MARTHA	f	Why is the house so big?
+LUCY	f	It's not that big.
+MARTHA	f	For two people, it's huge.
+LUCY	f	We like to entertain. Our friends come up for weekends and sometimes we have parties. It's just good to have space.
+MARTHA	f	So no one else lives here?
+LUCY	f	Of course no one else lives here.
+MARTHA	f	You're married?
+LUCY	f	Yeah.
+MARTHA	f	When?
+LUCY	f	Earlier this year, in the spring.
+LUCY	f	I tried to get in touch with you, apparently you got rid of your cell phone?
+MARTHA	f	I lost it.
+LUCY	f	You never got a new one?
+MARTHA	f	I got used to not having it.
+TED	m	Cocktail anyone?
+LUCY	f	No thanks.
+TED	m	Martha?
+MARTHA	f	Was it a big wedding?
+LUCY	f	No, about forty people. Mostly his family.
+MARTHA	f	Did Aunt Dora come?
+LUCY	f	Yeah.
+MARTHA	f	Did she smoke like chimney and complain about everything.
+LUCY	f	She's not that bad.
+MARTHA	f	You never had to live with her.
+TED	m	You lived with Dora?
+MARTHA	f	She lived with me after mom died.
+TED	m	Where were you?
+LUCY	f	College.
+LUCY	f	Well I'm sure she'd love to know you're okay.
+MARTHA	f	She hates me.
+LUCY	f	She doesn't hate you. Look at me.
+MARTHA	f	I hate her.
+LUCY	f	Relax, I don't have any pictures of you. Jesus you're gorgeous. It's annoying.
+LUCY	f	There you go!
+LUCY	f	Don't shake it, that's a myth.
+MARTHA	f	Is it true married people don't fuck?
+LUCY	f	What? No!
+LUCY	f	Put this on.
+MARTHA	f	You're kidding.
+LUCY	f	Your clothes are disgusting Martha, just try it.
+MARTHA	f	Why does it matter?
+LUCY	f	It just feels good to put on something nice and comfortable.
+LUCY	f	It looks good you little shit.
+MARTHA	f	Whatever makes you happy mama bear.
+LUCY	f	You're making fun of me and I think it looks really good.
+LUCY	f	It's no good?
+TED	m	It's good, it's just, a bit dry.
+LUCY	f	It's not dry.
+LUCY	f	It just needs a little salt. What are you laughing about I cooked for you your whole life.
+MARTHA	f	You microwaved chicken nuggets and fish sticks. Ted and Martha continue to laugh. Lucy gets up from the table. She comes back with salt and dumps it on the food.
+TED	m	She seems better today.
+LUCY	f	Yeah. I wish I didn't have to go  tomorrow.
+TED	m	Let me take you.
+LUCY	f	No, I don't want to leave her alone. You'll be nice to her right?
+TED	m	I'm always nice.
+LUCY	f	Right.
+KATIE	f	I know you feel like something bad just happened Marcy May, but you have to trust me, that was not bad, it was truly good. We've all been in this situation, and we wouldn't all still be here if what happened in that room was bad. We all love each other very much, we are all together on this, you have to trust us. Do you believe me?
+ZOE	f	You're so lucky, I'd give anything to have my first time again.
+MARTHA	f	Really?
+ZOE	f	Yeah, it's so special.
+MARTHA	f	I can't remember anything, I just woke up on the floor and felt this pain -
+ZOE	f	That's the cleansing. It's good. It means it's working if you can't remember things. You're cleansing yourself of the past and the toxins. Martha is distant.
+ZOE	f	You need to share yourself, don't be so selfish.
+MARTHA	f	I'm not.
+ZOE	f	So smile then, enjoy this amazing night. It only happens once. Zoe rests her forehead against Martha's forehead. They curl up together in a very intimate way. Martha smiles. Zoe kisses her on the lips. Martha is caught off guard. She laughs. They have a second peck on the lips before closing their eyes to sleep.
+PATRICK	m	This one's called Marcy's song.
+PATRICK	m	Well she, she's just a picture. Who lives on my wall Well she, she's just a picture And the reason, reason, reason it is so small. With a smile so inviting and a body so tall, She, she's just a picture Just a picture
+THAT'S ALL	m	Well you stand there, stand there with the nightshade, Her dripping ripping down your hands And you ask me, ask me about the
+LIGHTNING	m	And the lady, lady, lady she understands It's a dream for the future and the water for the sands And the strangeness is wandering Through many callin' lands
+TED	m	What are you doing?
+MARTHA	f	Cleaning. I thought I'd help out more.
+TED	m	Alright. I'm going to take the boat out, do you want to come?
+MARTHA	f	Is Lucy coming?
+TED	m	She had to run to the city.
+MARTHA	f	Oh.
+TED	m	I'll teach you how to drive the boat, come on.
+MARTHA	f	It's okay.
+TED	m	Come on.
+TED	m	You want one?
+TED	m	Beautiful day.
+MARTHA	f	Yeah.
+TED	m	How have things been with you and Lucy?
+MARTHA	f	Fine.
+TED	m	Is it strange to spend time together?
+MARTHA	f	No. Why?
+TED	m	It's been a long time.
+MARTHA	f	I don't know, it's normal I guess. She hasn't changed much.
+MARTHA	f	Where is she?
+TED	m	At the doctor.
+MARTHA	f	Why?
+TED	m	She's getting a check up. We're trying to have a baby.
+TED	m	What?
+MARTHA	f	I can't imagine it Lucy holding a child.
+TED	m	Why?
+MARTHA	f	She wouldn't know what to do with it. Do you want a baby?
+TED	m	I want what Lucy wants. If she's happy, I'm happy.
+MARTHA	f	So you're unhappy!
+TED	m	No. She's good. She's relieved to have you back. You had her worried.
+MARTHA	f	Why?
+TED	m	You disappeared. You haven't called in two years!
+MARTHA	f	I lost track I guess.
+TED	m	It's good to let people know where you are Martha. People worry.
+MARTHA	f	I didn't think Lucy would worry about me.
+TED	m	Well, she did.
+MARTHA	f	Can I go swimming?
+TED	m	You don't need to ask.
+PATRICK	m	You jump yet?
+MARTHA	f	No.
+PATRICK	m	Go on.
+WATTS	m	You ready?
+MARTHA	f	I can't.
+WATTS	m	Sure you can. She hits the water, everything goes dark. The frame fills with tiny bubbles, she comes up for air exhilarated. She continues to swim, the camera follows her under water. The darkness of the water makes the screen go black.
+LUCY	f	What? What?
+LUCY	f	Martha, what are you doing?
+MARTHA	f	Nothing!
+LUCY	f	Jesus, you can't just come in like that.
+MARTHA	f	Sorry.
+LUCY	f	God damn it, what's wrong?
+MARTHA	f	It's been hard to sleep alone.
+TED	m	All you do is sleep.
+LUCY	f	Stay, just stay.
+LUCY	f	Why would you think it was okay to come in like that?
+MARTHA	f	I don't know. It's a big bed, you guys were on the other side.
+LUCY	f	You can't come into our room when we're having sex, that's not normal! It's  private.
+MARTHA	f	Sorry.
+LUCY	f	Don't apologize, I just want you to understand why it's not okay.
+MARTHA	f	Okay.
+LUCY	f	Do you?
+MARTHA	f	Yeah.
+LUCY	f	Well?
+MARTHA	f	Because it's privte and it's not normal.
+LUCY	f	Just lie down Martha.
+TED	m	This is just brilliant.
+LUCY	f	I'm sorry you slept out here. Thanks for being patient.
+TED	m	I don't have much choice do I?
+LUCY	f	I just want to make sure she's okay.
+TED	m	I get two weeks a year to come out here and try to relax before I have to go back to work!
+LUCY	f	I know.
+TED	m	I am under so much pressure right now-
+LUCY	f	I know you are.
+TED	m	I have a month to get this building up and running or the bank takes it.
+LUCY	f	That has nothing to do with Martha.
+TED	m	My point is, I don't need the extra stress.
+LUCY	f	I'm her only family. She needs to be able to depend on me right now. It's complicated Ted.
+TED	m	As complicated as it might be, we can't just keep ignoring the fact that her behavior is fucking insane.
+MARTHA	f	Do you ever hear things hitting the roof at night?
+LUCY	f	No. Maybe it's the pine cones. Where did you pick up gardening?
+MARTHA	f	We had a garden where I lived?
+LUCY	f	You're good.
+MARTHA	f	I'm good at some things.
+LUCY	f	I know you are.
+LUCY	f	Was he ever physical with you?
+MARTHA	f	Who?
+LUCY	f	Your boyfriend.
+MARTHA	f	What do you mean?
+LUCY	f	Did he ever, hit you?
+MARTHA	f	No.
+LUCY	f	You had a bruised ear, and when you called me you were hysterical.
+LUCY	f	Are you sure?
+MARTHA	f	Yes.
+LUCY	f	You can tell me.
+MARTHA	f	He never hit me.
+LUCY	f	I wish you felt more comfortable talking to me.
+MARTHA	f	I do.
+LUCY	f	So talk.
+MARTHA	f	There's nothing to talk about. I had a boyfriend, he lied to me, I left. That's it, everything doesn't have to be a big
+KATIE	f	Don't stare!
+MARTHA	f	You okay?
+ZOE	f	Yeah. He's right. I don't know why I'm so weak.
+MARTHA	f	You're not. You'll quit.
+MARTHA	f	Who's that?
+KATIE	f	Her name's Sarah I think.
+KATIE	f	You should handle her.
+MARTHA	f	You think?
+KATIE	f	You're ready. Zoe can help but you'll be great.
+MARTHA	f	Whose car was that?
+LUCY	f	I don't know. Why?
+MARTHA	f	Just curious.
+LUCY	f	There's a hiking trail, people leave  their cars there all the time.
+LUCY	f	Sorry.
+YOUNG MAN	m	It's okay.
+LUCY	f	You're going to hurt someone.
+LUCY	f	Can you go get me a large jug of water.
+MARTHA	f	What's wrong with the tap?
+LUCY	f	I like bottled.
+MARTHA	f	It's a waste.
+LUCY	f	Will you get it or not?
+MARTHA	f	Did you know that guy?
+LUCY	f	What guy?
+MARTHA	f	The guy in the store.
+LUCY	f	The one you almost ran into? No.
+MARTHA	f	He was looking at me like he knew me. Did you say something to him?
+LUCY	f	Like what?
+MARTHA	f	I don't know, you tell me.
+LUCY	f	What are you talking about?
+MARTHA	f	He was staring at me like he knew me, did you talk to him about me?
+LUCY	f	No. Jesus. The guy was checking you out  Martha! Relax. (Lucy starts the car.)  42.
+LUCY	f	If you don't want guys to drool all over you, then wear more clothes-
+MARTHA	f	Just drive the car Lucy.
+LUCY	f	What?
+MARTHA	f	Drive the car!
+LUCY	f	I don't think we should have the party.
+TED	m	It's labor day, we always have it.
+LUCY	f	Things are just too stressful right now.
+TED	m	I've already invited clients.
+LUCY	f	I'm sure people would understand-
+TED	m	They wouldn't.
+LUCY	f	I just think it would be best.
+TED	m	For who, Martha?
+LUCY	f	For all of us.
+TED	m	It's not an option! We're having the  party.
+LUCY	f	And that's the end of it, because you say  so.
+TED	m	Yes!
+MARTHA	f	We share all of this, if it fits, you can  wear it.
+SARAH	f	Cool.
+MARTHA	f	This is where we sleep. You can take any  bed that's open or you can sleep  downstairs.
+SARAH	f	I'm hungry, can we eat?
+MARTHA	f	We don't eat until the evening.
+SARAH	f	Really?
+MARTHA	f	You'll get used to it. Your body doesn't  need that much food. You're taught to  overconsume.
+SARAH	f	He's beautiful. Whose the mother?
+MARTHA	f	Katie's, but we all help out.
+SARAH	f	Is Patrick the father?
+MARTHA	f	Uh huh.
+SARAH	f	They look just like him. All the kids here are boys?
+MARTHA	f	He only has boys.
+SARAH	f	You're good with them.
+MARTHA	f	You want to hold him?
+SARAH	f	No Thanks. I don't have to take care of them do I?
+MARTHA	f	Not if you don't want to. There are  plenty of jobs to be done. You'll find your role. It takes time for  people to find their role in a new  family.
+ZOE	f	I called my dad today to ask for money.
+MARTHA	f	Does Patrick know?
+ZOE	f	He asked me to. Sometimes, if there's  something we really need I'll call.
+MARTHA	f	How was it?
+ZOE	f	Fine, they're not bad people.
+MARTHA	f	Did he give you the money?
+ZOE	f	Yeah. He thinks I'm on drugs.
+MARTHA	f	Do you tell him you're not?
+ZOE	f	No, that's why he gives it to me. I guess  he'd rather pay for it than think I'm  sucking dick for it.
+SARAH	f	I've done drugs. Not a lot but I've tried  everything pretty much, except heroin.
+ZOE	f	It's good to try everything at least  once. You find out who you are that way.  What about drinking, do you drink?
+SARAH	f	I have, but I don't.
+ZOE	f	Good, we don't drink. It just makes you  angry and less focused.
+MARTHA	f	Don't get the wrong idea Sarah. We don't  talk to our old families.
+SARAH	f	I wouldn't call my Dad anyway, no matter  how much he paid me.
+PATRICK	m	Hey.
+MARTHA	f	Hi Patrick, Did you meet Sarah yet?
+PATRICK	m	Sally, yeah.
+KATIE	f	That's enough.
+KATIE	f	Half is fine.
+LUCY	f	I'll do these if you want to go to bed.
+MARTHA	f	I don't mind.
+LUCY	f	Get some sleep.
+MARTHA	f	Okay.
+MARTHA	f	Oh, hi.
+SARAH	f	Hi.
+SARAH	f	What do I have to do?
+MARTHA	f	Nothing you don't want to. Drink this, it will help you relax.
+MARTHA	f	It's herbal. It's the start of your cleansing.
+MARTHA	f	We've all done it so you know there's nothing to worry about.
+SARAH	f	Do I have to wear this robe?
+MARTHA	f	I know it seems a bit silly, but it's a part of it.
+MARTHA	f	You look amazing. It's your special night with him, enjoy it, you'll be great.
+SARAH	f	Thanks.
+MARTHA	f	Shouldn't we start cooking?
+LUCY	f	I just made some potato salad. Ted's cooking the fish.
+MARTHA	f	I thought we were going to cook.
+LUCY	f	We cooked last night.
+MARTHA	f	Oh, yeah.
+MARTHA	f	Do you ever have this thing where you can't tell if something's a memory or if it's something you've dreamed?
+LUCY	f	Not really.
+LUCY	f	Do you blame me for anything?
+MARTHA	f	No. Like what?
+LUCY	f	No, Martha, I think the world of you, I'm  just wondering if I should have come back  and kept you in school and helped you go  to college, you had so much potential.
+MARTHA	f	I don't need your guidance, I never did.  I'm a teacher and a leader, you just never let me be that but now I know I am, I know who I am.
+LUCY	f	Teacher and a leader? What are you talking about? I always encouraged you to  do more, but you shut me out.
+MARTHA	f	Just because we're sisters doesn't mean we need to talk about everything that comes into your head. Dinner's ready.
+TED	m	So what are your plans Martha?
+MARTHA	f	For what?
+TED	m	Life.
+MARTHA	f	I don't know.
+TED	m	Are you thinking about what you can do for work?
+MARTHA	f	No.
+TED	m	You're at an age where you need to start thinking about a career.
+MARTHA	f	Why?
+TED	m	It's a part of adult life.
+MARTHA	f	There are other ways to live.
+TED	m	Really?
+MARTHA	f	Sure.
+TED	m	Like what?
+MARTHA	f	I don't know. People don't need careers, people should just exist.
+LUCY	f	He's just saying we should start talking about what you're interested in. Maybe we can help you get some ideas together.
+TED	m	I have moments when I would love to move to France and just exist but it doesn't work that way.
+MARTHA	f	You can do that if you want to.
+TED	m	It's not that simple.
+MARTHA	f	It's not your fault but you learned that success is measured by money and possessions. It's just not the right way to live.
+TED	m	And what do you think the right way to live is? Being a hysterical mess and causing your family pain. You're eating my food and sleeping under my roof so watch your mouth. You're rude.
+MARTHA	f	You don't know anything about it.
+WOMAN	f	Hello...Hello.
+MARTHA	f	Who's this?
+WOMAN	f	Who's this? Zoe?
+MARTHA	f	She not there?
+WOMAN	f	She's not.
+MARTHA	f	Where is she?
+WOMAN	f	Who is this?
+MARTHA	f	Who is this?
+WOMAN	f	It's Marlene Lewis. Who's this.
+MAX	m	Watts said I'm supposed to teach you how  to defend yourselves but I think you're  hopeless.
+ZOE	f	I'm surprised your dumb ass even knows  how to load it.
+MAX	m	Please, I'm like Doc fuckin' Holiday.
+MAX 	m	God, you are so hot when you shoot, makes  my willy hard.
+ZOE	f	What happened Doc? I should be teaching  you.
+MARTHA	f	Alright, my turn.
+ZOE	f	Alright Max, was this just an excuse to  grope Marcy.
+MAX	m	I'm teaching her how to shoot.  Then you just squeeeeeeeeeze.
+PATRICK	m	Focus. Take a deep breath. Think about  someone who wronged you. Feel it, feel  how they made you feel in your stomach.  Take a deep breath, feel it all moving  out into your hands. Let it build. It's  transferring to the gun, building in the  gun. Now release.
+PATRICK	m	Feels good right?
+PATRICK 	m	Now try that.
+MARTHA	f	What do you mean?
+PATRICK	m	Shoot it.
+MARTHA	f	They're living animals.
+PATRICK	m	So, shoot Max then.
+PATRICK 	m	Go on!
+MAX	m	Fuck this.
+PATRICK	m	Don't walk away from me Max.
+PATRICK 	m	The cat has terminal cancer, it's in  excruciating pain.
+MARTHA	f	I can't.
+PATRICK	m	Max has no substance, he's just here to  free load and be around the girls but  you're a teacher and leader, you just  don't see it because no one let you  believe it before me. You're a leader a  Marcy, now prove it.
+PATRICK 	m	The cat reminds you of some fluffy thing  you think you used to love. You're  holding on to some false emotion that  stops you from doing what's right.
+PATRICK 	m	I could spend my life being selfish,  living alone, using this gift for me but  I've sacrificed myself to be what you all  need me to be. You need to trust me.
+MARTHA	f	I trust you.
+PATRICK	m	Then you shouldn't need me to explain  everything.
+PATRICK 	m	What did you do?
+MAX	m	You said it was sick.
+PATRICK	m	One of them was sick, Zoe knew which one  it was!
+MARTHA	f	You okay?
+MAX	m	I'm fine. I'll probably leave this place soon  anyways.
+MARTHA	f	Where are you going to go?
+MAX	m	I got places. My cousin lives in  Bennington, he said I could go up there  and make like, $500 a week selling weed.
+MARTHA	f	You don't want to do that.
+MAX	m	I don't care what I do. I'm sick of all  these rules.
+MARTHA	f	Max, they're not rules. It's just common  sense.
+MAX	m	It feels like rules. They won't let me do  anything. I can't even go on the house  runs. I'd be great at taking shit.
+MARTHA	f	It's not about taking shit.
+MAX	m	Sounds like it's about taking shit to me.
+MARTHA	f	And that's why you don't get to come.  You just don't get it. You need to quit drinking.
+MAX	m	I'm not drinking.
+MARTHA	f	You're still living with all the shit you  carried out there. You're the only one,  let it go.
+MAX	m	I'll try.
+MARTHA	f	No. You can't try. You have to stop. They  love you, they just want you to be  stronger.
+MAX	m	I'm strong, they'll see.
+MARTHA	f	You'll be okay.
+TED	m	Jesus Christ you scared me.
+MARTHA	f	Sorry.
+TED	m	Did I wake you?
+MARTHA	f	No. I can't sleep.
+TED	m	Me neither. I was going to watch a movie. You want to watch?
+MARTHA	f	I should try to sleep.
+TED	m	It always helps me. It's better than lying in bed awake.
+TED	m	I'm sorry about before, Martha.
+MARTHA	f	It's alright. It's your house.
+TED	m	You want me to make some breakfast?
+TED	m	Hey!
+TED	m	What's wrong?
+LUCY	f	You can not be serious right now.
+TED	m	What?
+TED	m	Lucy!
+LUCY	f	One minute you're going after Martha at the dinner table, then you're curling up together on the couch?
+TED	m	No one was curling up with anybody.
+LUCY	f	You really do think I'm stupid don't you?
+TED	m	Jesus, I couldn't sleep, I was watching a movie, she came out and sat down and started watching with me. What am I supposed to do, tell her to leave?
+TED	m	You're being ridiculous.
+LUCY	f	You can lose your temper at will but when I get pissed off, I'm being crazy or ridiculous! I couldn't possibly be mad for a reason.
+TED	m	Are you accusing me of something? Because if you are, I'd like you to say it out loud so you can hear how absurd it sounds.
+LUCY	f	Fuck you. I just want you to think about how walking in on that might make me feel.
+TED	m	You ask me to make more of an effort. I try to do that and you get upset. I can't win.
+LUCY	f	You're unbelievable.
+MARTHA	f	You shouldn't smoke.
+LUCY	f	What? I don't smoke.
+MARTHA	f	Especially if you're trying to have a kid.
+LUCY	f	Maybe you should mind your own business.
+LUCY	f	I can't deal with talking to anyone right now.
+MARTHA	f	What's you name?
+BARTENDER	m	I'm sorry?
+MARTHA	f	What's your name?
+BARTENDER	m	Mike.
+BARTENDER	m	Can I get you something?
+MARTHA	f	I used to like this.
+BARTENDER	m	Straight?
+MARTHA	f	I thought you weren't supposed to drink Mike.
+BARTENDER	m	I'm not drinking.
+MARTHA	f	You think you're so fucking smart.
+LUCY	f	Hey, what happenind?
+MARTHA	f	We all need to leave.
+LUCY	f	What?
+MARTHA	f	He's a fucking liar. We all need to leave.
+LUCY	f	What are you talking about?
+MARTHA	f	We have to leave. We all have to leave. I know him.
+LUCY	f	Who?
+LUCY	f	What the fuck is wrong with you?
+MARTHA	f	You don't want to live with this Lucy.
+LUCY	f	Martha.
+TED	m	Calm down.
+LUCY	f	What are you talking about?
+MARTHA	f	They're here.
+LUCY	f	Breath.
+MARTHA	f	Don't touch me, you're not listening to me!
+LUCY	f	Martha please try to breath. I don't know what you're talking about.
+MAN	m	What the fuck.
+WATTS	m	Hey, we can go.
+MAN	m	What do you want?
+WATTS	m	Nothing.
+WATTS	m	No need for that, we are leaving.
+PATRICK	m	Calm down, if you calm down no one will get hurt.
+MAN	m	What do you want?
+PATRICK	m	We're not stealing, we don't want anything.
+MAN	m	Just get out.
+PATRICK	m	We're just looking at the house. It's nice. We didn't realize you were home. We wouldn't have come in otherwise.
+MAN	m	Just Leave.
+PATRICK	m	I would but I can't be sure you won't call the police.
+MAN	m	I won't. You didn't take anything so just go, I just want my family to be safe.
+PATRICK	m	Safe? Why wouldn't anyone be safe. Unless you call the police, everything will be fine.
+MAN	m	Okay, I won't. You have my word, please just go.
+MAN	m	Get the fuck out of my house.
+PATRICK	m	Look at me.
+PATRICK	m	You okay?
+MARTHA	f	Uh huh.
+PATRICK	m	You know that death is the most beautiful part of life, right? Death is beautiful because everyone fears death. And fear is the greatest human emotion of all because it creates complete awareness. When you're scared it forces you to be completely aware of your surroundings and the moment you're in. It brings you to NOW and that makes you truly present. And when you are truly present, that's nirvana, that's pure love. So, death is pure love.
+LUCY	f	It's too hot, let it cool for a minute.
+MARTHA	f	Thanks mom. I'm sorry I ruined the party.
+LUCY	f	Everything was fine.
+MARTHA	f	Is it over?
+LUCY	f	Yes, you slept through the night.
+MARTHA	f	That's good.
+LUCY	f	Are you going to drink the tea?
+MARTHA	f	I don't want it.
+MARTHA	f	We have to do something.
+WATTS	m	He's fine. Right Max?
+MAX	m	Yeah, I'm cool.
+MARTHA	f	Watts!
+WATTS	m	There's nothing to do Marcy, you need to get inside. Max is strong, he'll be fine. Right?
+MAX	m	Yeah, I'm good Marcy. Stop.
+MARTHA	f	How long do you think we'll be down here?
+ZOE	f	It'll just be a few days. Just to be safe.
+MARTHA	f	Do you feel alright? If you hit your head  you shouldn't sleep.
+MAX	m	I'm fine.
+MARTHA	f	Do you know why we're down here?
+MAX	m	No. Do you?
+MARTHA	f	What do you think it was?
+MAX	m	I don't know. It doesn't matter.
+MARTHA	f	Do you still think about leaving?
+MAX	m	No. It's cool now, I don't really have  anywhere to go. Why, would you?
+MARTHA	f	No. I just wanted to see about you.
+MARTHA	f	Hello?
+VOICE	m	Hi, is Watts there?
+MARTHA	f	Who's this?
+VOICE	m	Jane. Is Watts there?
+MARTHA	f	Can I help you?
+VOICE	m	Who's this?
+MARTHA	f	It's Marlene Lewis. What's your last name Jane.
+VOICE	m	Heller, sorry, do I have the right number?
+MARTHA	f	I don't know, do you?
+MARTHA	f	It's a Jane.
+WATTS	m	Hey. How are you? Sure, yeah, let's do it, I'll be around there on Friday. No, that was my cousin Marlene, yeah, I'll see you in a bit then. Great, I'm glad you called.
+WATTS	m	Hey.
+KATIE	f	Nothing till they're done. You know better.
+MARTHA	f	I know. Sorry Katie.
+MARTHA	f	What?
+LUCY	f	Who's Katie?
+MARTHA	f	Oh, nothing.
+MARTHA	f	Lucy?
+LUCY	f	Yeah.
+MARTHA	f	Is this from the past or is this now?
+LUCY	f	What?
+MARTHA	f	I don't remember waking up this morning.
+LUCY	f	Why don't you go sit down, I'll finish up.
+TED	m	What's going on?
+LUCY	f	Who the fuck knows.
+TED	m	She needs to see someone.
+LUCY	f	I know.
+TED	m	I'll start looking into places tomorrow. We can arrange for her to be somewhere by Wednesday.
+LUCY	f	Places?
+TED	m	I don't think she should stay with us anymore. We can't do anything for her when she's like this.
+LUCY	f	I don't want to talk about it anymore.
+MARTHA	f	Zoe?
+ZOE	f	Yeah.
+MARTHA	f	I can't stop feeling terrible for that poor man.
+ZOE	f	I know. It happens though, we're never really dead or alive, we just exist, so he's still existing, but it's in a parallel time. Just don't think about it, it's in the past.
+ZOE	f	Martha, it's me, can I come in?
+PATRICK	m	Haven't you learned anything?
+MARTHA	f	I have.
+PATRICK	m	I felt like we had a connection.
+MARTHA	f	We do!
+PATRICK	m	That's not what you're showing me.
+PATRICK 	m	Maybe I asked too much from you too soon. You have potential but you're just not there yet. I'll expect less of you fro now on.
+MARTHA	f	I'm sorry.
+PATRICK	m	Shhh. It's okay.
+PATRICK	m	You're my favorite, I won't lose you.
+LUCY	f	Are you alright?
+LUCY	f	What the fuck happened?
+TED	m	She kicked me down the stairs. Jesus Christ, what's it going to take, Lucy.
+LUCY	f	You could have killed him.
+MARTHA	f	I was confused.
+LUCY	f	About what, what are you so confused about?
+MARTHA	f	I thought he was someone else.
+LUCY	f	You thought he was someone else? What is wrong with you? I'm not doing this anymore, I'm not doing this anymore. I beat myself up over you for years and I'm sick of it, I'm sick of chasing you down and worrying about you. I need to move on.
+MARTHA	f	I'm sorry.
+LUCY	f	You need help Martha.
+MARTHA	f	I know.
+LUCY	f	What happened to you?
+LUCY	f	What happened to you?
+MARTHA	f	I don't know.
+LUCY	f	We're going to get you proper help.
+MARTHA	f	Are you going to send me away?
+LUCY	f	I don't know how to help you anymore.
+MARTHA	f	Please don't. Please don't.
+LUCY	f	I can't help you.
+MARTHA	f	Please, I can't be alone, please.
+LUCY	f	We're trying to start a family and I don't trust you to be here.
+MARTHA	f	Lucy?
+LUCY	f	What?
+LUCY	f	What?
+MARTHA	f	You're going to be a terrible mother.
+LUCY	f	Do you have any money left?
+LUCY	f	Of course you don't. We'll make sure everything is taken care of.
+LUCY	f	Going swimming?
+MARTHA	f	Yeah.
+LUCY	f	It's a bit chilly.
+MARTHA	f	I don't mind.
+LUCY	f	I think we both said some things last night that we didn't mean.
+MARTHA	f	Yeah.
+LUCY	f	We scheduled an appointment for you tomorrow morning.
+MARTHA	f	What's it like there?
+LUCY	f	It looks nice.
+LUCY	f	We're heading back to the city in about an hour. You'll be ready to go?
+MARTHA	f	Yep.
+TED	m	Jesus Christ.
+LUCY	f	Are you okay?
+TED	m	Yeah.
+LUCY	f	Fucking idiot. What was he doing?
+

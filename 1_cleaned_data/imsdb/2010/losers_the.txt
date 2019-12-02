@@ -1,0 +1,858 @@
+JENSEN	m	And get cheated again?
+POOCH	m	The Pooch don't cheat. The Pooch may lie, the Pooch may steal--
+JENSEN	m	--the Pooch may refer to himself in the third person--
+POOCH	m	--but the Pooch will not cheat.
+JENSEN	m	The Pooch can rest easy, I was referring to Cougar.
+ROQUE	m	Cards.
+JENSEN	m	Got a feeling about this one, Roque.
+ROQUE	m	Your mama had that feeling too.
+ROQUE	m	Raise you.
+POOCH	m	 That the one with the hollow points?
+ROQUE	m	Yup.
+POOCH	m	Oh, shit, I'm definitely in then.
+JENSEN	m	This even me up?
+ROQUE	m	Exactly how many knives do you have, anyway?
+POOCH	m	Cougar - your bet.
+CLAY	m	It's time...
+CLAY	m	Authenticate and backtrace.
+POOCH	m	 Send us out to the middle of nowhere to "wait for instructions"...
+JENSEN	m	 We're good, this baby came out of the Kandahar Spook Station, controller's codename is Max.
+ROQUE	m	 This is an Agency gig?
+CLAY	m	We don't get to pick what needs to be done. (reading from tablet) Quaeda-wannabe name of Fadhil is running a terrorist assembly line out around the Khyber Pass--
+JENSEN	m	I'm shocked. Shocked, I say.
+CLAY	m	We find it, we paint it for a laser targeted bomb. No muss, no fuss.
+ROQUE	m	For that we had to put on a blindfold and turn around three times?
+POOCH	m	You'd rather take on fifty mujas with AK's?
+ROQUE	m	I got eyes on Fadhil.
+CLAY	m	Paint it.
+POOCH	m	Call me Michelangelo.
+JENSEN	m	Dropkick, this is Pinball, confirmed eyes on, target is designated. Roger, target acquired, exfil chopper is enroute. ETA to fireworks is eight minutes.
+JENSEN	m	Roger, we'll break out the earplugs. (to the others) So who wants to get a game? We got eight minutes-
+COUGAR	m	Boss?
+CLAY	m	Call it in.
+JENSEN	m	 Dropkick, children are at target site, repeat, we have eyes on children at target site - advise.
+ROQUE	m	Maintain position? Colonel-
+JENSEN	m	 Dropkick, we strongly recommend cancellation of payload delivery-
+CLAY	m	Mission Controller is Agency, Codename Max, repeat, Codename Max, so get him on the horn and-
+CLAY	m	Cougar?
+CLAY	m	Dropkick, this is Pinball, targeting equipment has suffered system failure, am calling an abort.
+CLAY	m	Who is this? This is a secure
+MILITARY NETWORK--	m	MAX (O.S.)
+CLAY	m	Max? There are children on site-
+CLAY	m	Shit! Jensen, call the General at the Firebase, get him to abort-
+JENSEN	m	Can't, they're jamming us-
+ROQUE	m	Then contact the plane directly-
+JENSEN	m	(trying all channels) Negative, we're screwed! There's nothing we can do...
+CLAY	m	There's something we can do.
+ROQUE	m	Five against a fortress, and we've got maybe six minutes before an airstrike sets the world on fire.
+CLAY	m	So?
+ROQUE	m	So, I'll drive.
+POOCH	m	I guess we're going with the fifty mujas with AK's option after all!
+CLAY	m	Pooch and Jensen, get a truck for the kids, the rest of us will be out in five-
+ROQUE	m	 -airstrike's in four and change-
+CLAY	m	-out in four. On me!
+CLAY	m	(to Roque and Cougar) Get 'em out.
+SOMETHING HORRIFIC	m	...shooooot meeee...
+CLAY	m	You're American?
+SOMETHING HORRIFIC	m	...Max sent you...
+CLAY	m	 How do you know that name?
+SOMETHING HORRIFIC	m	...was IA Field Ops hunting rogue agents... Max caught me...
+CLAY	m	Max is rogue?
+SOMETHING HORRIFIC	m	You're off-mission aren't you?
+CLAY	m	Fadhil.
+SOMETHING HORRIFIC	m	Max doesn't care about Fadhil... He's cleaning up the mess. You're his mop. I'm the mission....
+CLAY	m	I can get you out-
+SOMETHING HORRIFIC	m	Already dead... Kill ME-
+COUGAR	m	Mercy.
+COUGAR	m	Run.
+POOCH	m	Jesus, you stop for coffee in there?
+ROQUE	m	What kind of blast radius we looking at?
+ROQUE	m	DRIVE. MUCH. FASTER.
+JENSEN	m	I think we're in the clear-
+POOCH	m	Uh, Coug?
+JENSEN	m	Yeah, that was great, wasn't it? My favorite part was when we were completely on fire. What was yours?
+POOCH	m	Exfil incoming. How are we gonna explain the kids, Colonel?
+POOCH	m	Colonel? (Clay looks up) The kids. What do we tell 'em?
+CLAY	m	Lieutenant, you're to evac these civvies to the Firebase immediately-
+BLACKHAWK PILOT	m	Negative, our orders are to transport a five-man team only.
+CLAY	m	You really want to leave twenty three kids in the desert to die?
+BLACKHAWK PILOT	m	Not enough room for them and you...
+CLAY	m	Then it's them.
+POOCH	m	Cute little buggers. Hope they can make it to our court-martial.
+ROQUE	m	Relax, Pooch, we're not going to be court-martialed - if anything, we're going to die of thirst wandering the desert, right Colonel?
+CLAY	m	 Jensen, see if you can cut into that Blackhawk's chatter--I want to know if he rats us out.
+POOCH	m	So, how we getting back? Hitchhike? Magic carpet? I say magic carpet...
+ROQUE	m	 Guess they hustled up some air support after all - that's a Pakistani MiG up there...
+JENSEN	m	Guys... This is bad... Fox One.
+POOCH	m	Auto-rotate, go with it, you can still put her down if you-
+CLAY	m	NO!
+FENNEL	?	What are you talking about "MAX?"
+CLAY	m	He set up the Operation-
+FENNEL	?	There was no operation! You were never radioed orders!
+CLAY	m	I talked to him!
+FENNEL	?	You kill a friendly Afghan warlord, probably lose us the support of half the tribes in the region, and your alibi is "MAX?" Wait - are you saying you're Max?
+CLAY	m	What?
+FENNEL	?	Colonel, Max is an Agency code for a rogue agent or operation-
+CLAY	m	What are you talking-
+WADE	m	"Max" is catch-all for exactly what you've been accused of. Terminology's been around since the 50's.
+CLAY	m	We didn't kill those kids, Wade.
+WADE	m	I believe you.
+FENNEL	?	Stay here. We'll be back.
+POOCH	m	Wade left his suitcase.
+ROQUE	m	Ah, shit...
+CLAY	m	(nodding to the case) Jensen?
+JENSEN	m	I'm not good with bombs, man-
+CLAY	m	I don't care--Roque, Pooch, get those bars off!
+JENSEN	m	Oh, shit. Oh, shit...
+CLAY	m	Time?
+JENSEN	m	It's a remote detonator--enough for them to get clear, maybe ten
+JENSEN	m	I told you, I'm not good with bombs! How are those bars coming?
+POOCH	m	Hurry...
+ROQUE	m	Shut up.
+POOCH	m	Hurry...
+ROQUE	m	Shut up...
+ROQUE	m	 You lost again.
+CLAY	m	We lost again.
+ROQUE	m	You placed the bet.
+CLAY	m	You gave me the money.
+ROQUE	m	Well, that was stupid of me, wasn't it?
+ROQUE	m	That makes, what, three in a row?
+CLAY	m	Four.
+ROQUE	m	You know where you're messing up? You're putting all our money on the dogs with the best odds.
+CLAY	m	Yeah, I've just gone crazy with that approach.
+ROQUE	m	Never play a longshot, you're never gonna win.
+ROQUE	m	We're at a dogtrack at 10 a.m. - could this get any more sleazy?
+CLAY	m	Maybe if we were drinking.
+ROQUE	m	You're not drinking?
+CLAY	m	We'll stay two more days, try to get some of the cash back.
+ROQUE	m	Then what?
+CLAY	m	Miami. Jai-Alai.
+ROQUE	m	I can't take much more of this.
+CLAY	m	We're on the run. It occasionally
+ROQUE	m	I'm serious. Grinding out lunch money on five dollar sports bets, wincing everytime some overly Aqua- netted cow stares at my face for more than two seconds- I'm at the point where I'm thinking we ought to try to reach out to the Company...
+CLAY	m	All we did was say the word "Max" and they blew up a building. CIA even gets a whiff of where we're at, they'll call in an airstrike. (shakes his head) Until we figure out how we can take Max down and get clear, we lay low.
+ROQUE	m	Due respect, you're nobody's Colonel anymore.
+CLAY	m	Anytime you want to move along you go right ahead-
+ROQUE	m	Like the others? Least I still talk to them. You pushed them away. "Max this, Max that" - we never even saw the guy, Clay-
+CLAY	m	We heard his voice. Guy with a voice is a guy with a throat. And if he's got a throat...
+ROQUE	m	 We're hiding out in the parking lot of a goddamn McDonald's--You actually think we're in any position to take on some shadowy CIA super- spook?
+ROQUE	m	No, it's a stellar plan - we can use this as our base of ops! (gestures to the
+PLAYGROUND)	?	Pooch can run the motor pool out of the ball pit and Jensen can set up communications by the slide!
+CLAY	m	Go.
+ROQUE	m	I was there too. I remember. But he won. We lost. Maybe it's time for a new game.
+AISHA	f	Men.
+AISHA	f	How's the steak?
+CLAY	m	Meaty.
+CLAY	m	Want a bite?
+AISHA	f	I don't eat red meat.
+CLAY	m	Why not?
+AISHA	f	Slows me down.
+CLAY	m	Okay.
+AISHA	f	You got nice arms.
+CLAY	m	(turning to her) I know you?
+AISHA	f	Relax, slugger... I like arms. That's all.
+CLAY	m	Do I not look relaxed?
+AISHA	f	No. Think we can change that?
+AISHA	f	 Wow, it's everything a girl could dream of. Got a bathroom?
+CLAY	m	No, I specifically requested the only hotel room in the world that doesn't have a bathroom.
+AISHA	f	You lookin' to turn a "yes" into a "no" here?
+AISHA	f	So what brings you to Florida?
+CLAY	m	Convention.
+CLAY	m	...Air conditioners.
+AISHA	f	They have whole conventions devoted to air conditioners?
+CLAY	m	You'd be surprised.
+AISHA	f	Bet I would. Where were we?
+CLAY	m	You were about to tell me how much you enjoy spending time at the dog track...
+AISHA	f	Saw me there did you?
+CLAY	m	Uh-huh...
+AISHA	f	Didn't see me at the McDonald's though...
+AISHA	f	I have a proposition for you...
+AISHA	f	Just hear me out. I don't want to hurt you.
+CLAY	m	You're not going to.
+AISHA	f	Yes, I am.
+AISHA	f	Room's on fire.
+CLAY	m	Noticed. What do you want?
+AISHA	f	Your life. Back.
+CLAY	m	You want to clarify that?
+AISHA	f	Max. I can help you.
+CLAY	m	I'm listening.
+CLAY	m	How'd you find me?
+AISHA	f	It's not too tough if you know where to look. You guys aren't exactly subtle.
+CLAY	m	How'd you know I was alive?
+AISHA	f	Counted the number of teeth found in the safehouse debris in Karachi. Not nearly enough for five men.
+CLAY	m	Who else knows?
+AISHA	f	That you're alive? Just me.
+CLAY	m	So what's to stop me from putting a bullet in your head?
+AISHA	f	You want Max and I can tell you how to get him.
+CLAY	m	Max is up to something big, isn't he? Agency wouldn't have sent you otherwise.
+AISHA	f	Nice try, but I'm working alone here. If I wasn't, I wouldn't need your help. Ready for the important part?
+AISHA	f	There is a plane.
+CLAY	m	Okay.
+AISHA	f	This plane contains a truck.
+CLAY	m	Okay.
+AISHA	f	This truck contains a cargo.
+CLAY	m	Right.
+AISHA	f	This cargo is very important.
+CLAY	m	Is this a riddle?
+AISHA	f	 This cargo belongs to Max. You steal the cargo, Max comes looking for it, you grab Max.
+CLAY	m	What a brilliant plan, and oh, so simple too. What's the cargo?
+CLAY	m	Right. So you want me to steal some super secret cargo known only to you and the bad guy, and I'm supposed to do this because you know the name Max and look good in a pair of jeans? Sorry, sister.
+AISHA	f	Hey! (he turns back) You really think I look good in these jeans?
+CLAY	m	Bye...
+AISHA	f	Cargo's heroin. Max uses it to fund his off the books ops. And it comes straight from the poppy fields of the late Jamal al-Fadhil. (knowing full well) Oh... does that name mean something to you?
+AISHA	f	He used you to kill Fadhil and take over his operation, that's right. What did you think you were doing there in the first place? Fighting for truth and justice?
+CLAY	m	How do I know I can trust you?
+AISHA	f	Check my background. I'm an ex- Company hitter. First job was a junior field officer in Shanghai. You can Google it under Shanghai Hilton Decapitation.
+CLAY	m	I mostly Google porn. Then?
+AISHA	f	Two Chinese and an Italian arms dealer in Bangkok. With my hands.
+CLAY	m	Show-off. Then?
+AISHA	f	Then I stopped auditioning for you. This is a check for ten grand-
+CLAY	m	We're not mercenaries.
+AISHA	f	Operational capital, that's all. (holding out the check) You've been waiting three years for a shot at this guy. You're not gonna get another. You want Max, this is it.
+AISHA	f	Intel on the shipment. You check it out, you check me out, you decide - are you in or not?
+SHORT SCIENTIST	m	You know we cannot do this... We cannot do what you ask...
+MAX	m	Tell me - is this a moral issue or a financial issue?
+FAT SCIENTIST	f	A moral issue.
+MAX	m	 Really? You object morally to this deal?
+FAT SCIENTIST	f	Yes. I'm sorry. Please leave...
+MAX	m	Okay, here's what I'm hearing. I'm hearing "No." I'm hearing "Leave," and I'm hearing "I'm sorry." Is that what I'm hearing?
+FAT SCIENTIST	f	Please... you must leave...
+MAX	m	Right. Okay, so that is what I'm hearing. Now, I want you to listen. Listen carefully because I want you to hear this. Wade?
+MAX	m	What the hell was that?
+WADE	m	You gave me the nod.
+MAX	m	A "hit him in the face" nod, not a "throw him out the window" nod.
+WADE	m	I thought that's what you wanted.
+MAX	m	At most--at most that was a "break his fingers" nod. (slams his fist) I mean Jesus, Wade, the man was scientific genius. Granted his weight signaled that he had certain impulse control issues, but that's no reason to throw his fat ass out a fifty story window.
+WADE	m	Sorry...
+MAX	m	(as if to a child) I think I speak for everyone here when I say that your actions were excessive and, yes, more than just a little wasteful...
+MAX	m	...then again, it seemed to have had the desired effect - toss Short Round out next.
+SHORT SCIENTIST	m	Wait!
+MAX	m	The hell you say. I need one to test and one to use.
+SHORT SCIENTEST	m	One to test?
+MAX	m	Of course one to test - you think I trust you?
+SHORT SCIENTIST	m	We will need much money.
+MAX	m	You will have much money.
+MAX	m	Call our people at Goliath, tell them we'll have a special package arriving on the 17th.
+CLAY	m	Better than a ball pit...
+ROQUE	m	You sure you're thinking clear on this? (off Clay's look) I know you. When you slip, it's always cause of a woman.
+CLAY	m	Name one time that-
+ROQUE	m	 Carla.
+CLAY	m	Carla wasn't the problem, Carla's husband was the problem-
+ROQUE	m	Carla's husband wasn't the one who
+CLAY	m	Okay. Yes. She shot me. But only in the leg.
+ROQUE	m	What about Emma?
+CLAY	m	Emma doesn't count, we never slept together.
+ROQUE	m	Because she put a bomb in your car.
+CLAY	m	I admit, that took some of the romance out of the relationship.
+ROQUE	m	And now this chick, first time you meet her, burns down our hotel. Also, she kills people for a living. These are not good signs...
+CLAY	m	I'm clear, Roque.
+ROQUE	m	You better be. Or we're done.
+POOCH	m	Damn. We missed you too.
+POOCH	m	So what's this I hear about Clay gettin' us killed over a girl?
+POOCH	m	Jesus, Lady! Ten outta ten for stealth and shit, but next time could you just knock?
+ROQUE	m	How long you been back there?
+AISHA	f	Long enough. She put a bomb in your car?
+CLAY	m	She was volatile. Aisha, meet Pooch, Roque, and Cougar.
+AISHA	f	Really? You can't hang out with anyone just named "Phil"?
+JENSEN	m	Hail, hail, the gang's all here! Colonel. Roque. Pooch. Silent Bob. Hottie. I'm gonna need a moment alone with the boys if you don't mind, but I'd like to reserve the right to awkwardly hit on you later?
+AISHA	f	I'd expect no less. Have fun...
+CLAY	m	What do you have on her?
+JENSEN	m	Besides a pants-busting crush? Her intel checks out. The cargo will be arriving here in two days.
+ROQUE	m	 Wow, I completely trust her now.
+CLAY	m	What else?
+JENSEN	m	Grew up in Afghanistan, Mom was a local, Dad was white devil... oh, and CIA's got a kill order out on her. 37.
+JENSEN	m	As does Hamas, Sien Fein, MOSAAD-- pretty much everyone with the exception of PETA wants this chick amscrayed.
+POOCH	m	Why?
+JENSEN	m	Last CIA email flagged with her name says she was digging for information about a special project... (looks up at them) "Codename: MAX".
+POOCH	m	They want to wet her cause she's lookin' into Max. That sounds familiar...
+ROQUE	m	 Could those files-
+JENSEN	m	(finishing his question) -have been planted for us to find? (shaking his head) CIA timestamp, digital watermark... Someone would've had to go to a lot of trouble, and I mean a lot, to fool me.
+CLAY	m	I say we go with her. Pooch?
+POOCH	m	I'm in.
+CLAY	m	Jensen?
+JENSEN	m	Hell yeah. Cougs?
+ROQUE	m	For now.
+JENSEN	m	Hot damn! Back with the Colonel, doing another bid for God and
+ROQUE	m	Country turned her back on us, and God can screw. This one's for us.
+CLAY	m	And anyone who calls me "Colonel" better be ready to take a beating or an order. We ain't soldiers anymore.
+POOCH	m	 So what's the plan, my civilian brothers?
+CLAY	m	Sleep. We start tomorrow.
+JENSEN	m	Start where?
+CLAY	m	We're going bird hunting.
+MAX	m	90 percent of the globe is tooling up to whack us and we're too busy losing our nerve to notice. It's Us versus Them and right now my money would be on them...
+MAX	m	We need to give them a ten megaton reality check. (ala John Lee Hooker) Boom Boom Boom Boom...
+MAX	m	I think it's safe to say it works!
+MAX	m	Jeez, talk about hard to impress...
+WADE	m	The Company's with you on this?
+MAX	m	Kinda... Sorta...
+MAX	m	You know the drill, they don't like to know how the sausages get made. What do you care?
+WADE	m	I don't. Just want to make sure everyone gets paid.
+MAX	m	The money's coming from our Afghanistan operation. And what the Company doesn't know won't hurt them.
+WADE	m	Unless they're within the blast radius.
+MAX	m	We're gonna saving our country, Wade. The United States of America will benefit greatly from what we're doing.
+WADE	m	I was born in Quebec.
+MAX	m	Jesus, fine - we're saving North America, does that make you happy? Just get it done.
+JENSEN	m	(into radio; drawls) Roger that Cav 415, we have a report of a civilian vehicle breakdown on U.S. 70, sector nine, grid four. Please assist as required.
+DRIVER	m	Army of one, my ass. Goddamn Triple A service...
+SOLDIER 1	m	Need a hand, buddy?
+POOCH	m	Appreciate it.
+SOLDIER 1	m	AAOW! Something just bit me!
+SOLDIER 1	m	(staring at the dart) Is this...?
+CLAY	m	Go.
+CLAY	m	Make the call.
+JENSEN	m	Base One, this is Cavalier 415! We have been in a collision with a civilian vehicle! Carvey's dead an' Freeman's hurt bad! He's messed up his neck! He can't move! Oh god, it's horrible! We need medevac immediate! HE'S GOT KIDS, BASE
+JENSEN	m	Robert De Niro who?
+POOCH	m	Sleeping like babies.
+ROQUE	m	What about their ride?
+CLAY	m	Flip it.
+POOCH	m	What do you think's up with that "don't call me Colonel" stuff?
+JENSEN	m	Classic loss of identity. Clay defined himself by his place in the military structure. 44.
+JENSEN	m	It was his way of measuring the good he did in the world. Without it, he's just another loser like the rest of us.
+JENSEN	m	You know there's a website where you can download MP3's of donkeys farting? How cool is that?
+CLAY	m	All right, everyone get into character...
+JENSEN	m	Lot of work to bum a ride.
+ROQUE	m	Shut up, Jensen.
+JENSEN	m	You shut up, Roque. You're dead, I'm the spinal injury - Spinal injury can talk, dead can't.
+ROQUE	m	Stop talking or I'll break your neck for real.
+JENSEN	m	Seriously, you have to get more into your role! Dead guy! No talking! Dead guy!
+CLAY	m	Here we go...
+PILOT	m	 Base One, this is Medevac Delta. We have visual on Cavalier 415.
+EMT	m	Alright buddy, we're gonna get you patched up in no time...
+JENSEN	m	Y-you ever treat anyone who'd been gut shot...
+EMT	m	Sure, in Iraq. What a mess...
+JENSEN	m	Means you know what's coming to you if try to play hero. Now, lose the radio mic, Bones.
+PILOT ONE	m	What are they jawing about out there? We're burning fuel--
+POOCH	m	You heard of car-jacked? You've just been chopper-jacked, my man.
+PILOT ONE	m	You're robbing the US Army?
+POOCH	m	When he says it out loud, it does sound kinda ridiculous...
+CLAY	m	Where's my wild goose?
+JENSEN	m	We're all set here. Ready to take a giant step for... well, for guys who steal stuff, I guess.
+CLAY	m	Hit it.
+JENSEN	m	Beautiful. Let 'em chase that.
+POOCH	m	Time to move.
+DRUGGED SOLDIER	m	...Well, shit.
+POOCH	m	...no, what you want is a gas turbine generator running a force- fed rectifier unit, hook it up to the fuel tank...
+JENSEN	m	So, you grew up in the Hindu Kush, huh? That must've been rough.
+AISHA	f	(watching the chopper) Uh-huh...
+JENSEN	m	Got any hobbies?
+AISHA	f	When I was a girl, I collected human ears. I had over three dozen pairs when a feral dog came into our camp one night and took them. The dog was good eating, though.
+JENSEN	m	I'm gonna go somewhere else now.
+AISHA	f	Are small arms gonna be a problem?
+POOCH	m	It's taken care of - we lined the hull with half inch steel plate.
+ROQUE	m	Which brings us to our next question...
+ROQUE	m	What's your angle in this?
+CLAY	m	Roque...
+AISHA	f	I'm giving you a chance to get even. That's all you need to know.
+ROQUE	m	I'm gonna shoot her, Clay.
+CLAY	m	No, you're not.
+ROQUE	m	Yes, I am.
+CLAY	m	No.
+ROQUE	m	Right now.
+CLAY	m	See?
+ROQUE	m	She's coming with us. And if anything feels like a set-up, I put a bullet in her skull. Sound fair?
+AISHA	f	Oh, completely. Now, if you'll excuse me, it's time for prayers.
+ROQUE	m	You're Muslim?
+AISHA	f	You know, you are a sharp one--and don't let any of these other boys tell you different.
+ROQUE	m	I don't like this.
+CLAY	m	I picked up on that.
+POOCH	m	I'm with Roque, man. Agency thinks we're dead. We show up alive and kickin', start waving our dicks around in public, they're gonna make it their business to bury us. They'll call us terrorists, all
+CLAY	m	What do you think we are now? (to all of them) Best case scenario, this gets us face to face with Max-
+ROQUE	m	What if it doesn't? What if we never get face to face with him. Are you gonna be able to live with that? Ever?
+POOCH	m	Hell, let's just say it out loud... We do this, we're declaring war on the Central Intelligence Agency.
+COUGAR	m	They started it.
+FENNEL	?	As of this moment, the truck is designated an extraterritorial zone of immunity. Under no circumstances whatsoever are you or your men to allow the package to leave the truck before it's secure in the compound - to do so would be considered an act of treason and punishable as such.
+LIDDY	f	Understood and acknowledged, sir.
+WADE	m	Ten men ride with the package and another ten ride chase.
+WADE	m	Let's go.
+CLAY	m	Are we wired?
+JENSEN	m	Like Belushi. Target is westbound. Heading for the bridge...
+SWAT DRIVER	m	Shit, I'm losing it!
+WADE	m	Form a defensive perimeter around the truck!
+FENNEL	?	They're out of their minds, there's no way off this bridge...
+WADE	m	Masks on! Secure the package!
+SWAT GUY	m	Where are they? I can't see them-
+FENNEL	?	Code RED! We are under attack! Need Chopper Support right now!
+WADE	m	Cavalry's here!
+WADE	m	Move! Point cover! Go, go!
+FENNEL	?	What the hell? It's welded shut!
+SWAT GUY	m	 The windows too! We're sealed in!
+FENNEL	?	We're down, okay! You go the second the ramp lowers! Hit them hard, three round bursts, center mass!
+AISHA	f	Open the valve.
+FENNEL	?	These guys are about to get the surprise of their lives...
+FENNEL	?	What the hell they trying to do, drown us?
+SOLDIER 1	m	Sir, that smell! It's- gasoline!
+FENNEL	?	Eat the ground, or they blow your head off!
+CLAY	m	I don't think so.
+FENNEL	?	First and only warning, Clay!
+CLAY	m	Gasoline. Muzzle flash. Think about it.
+CLAY	m	Things'll kill you.
+CLAY	m	Good boys. Now, let's see what kind of cargo you got in there.
+FENNEL	?	Clay, no bullshit - you open that box and we all die.
+CLAY	m	I'm already dead, remember?
+JENSEN	m	Goliath the oil company?
+AISHA	f	It must be how he moves the drugs...
+ROQUE	m	Great. The super evil bad guy is in bed with the world's largest oil company. That's just fabulous.
+POOCH	m	You want me to go ask Fennel the combination?
+JENSEN	m	Nah, I can bypass no problem.
+JENSEN	m	Voila! Ten million dollars of horse, comin' up!
+POOCH	m	Is that...?
+CLAY	m	Yeah.
+POOCH	m	Is that...?
+CLAY	m	Yeah. Jensen, you're up.
+JENSEN	m	Huh?
+CLAY	m	The bomb.
+JENSEN	m	 But I'm not good with bombs...
+CLAY	m	Get better.
+JENSEN	m	Okay. Okay. Nukes. That's a nuke. Who makes nukes? Department of Defense. DOD Mainframe. I gotta hack the
+JENSEN	m	 It would really be good if you didn't talk right now- get that casing off for me.
+POOCH	m	What if that sets it off?
+CLAY	m	Then we die thirty seconds early - do it.
+POOCH	m	I got wires - red, blue, green, white, yellow-
+JENSEN	m	 Okay, just hold position!
+POOCH	m	There's also pink-
+JENSEN	m	Hold position!
+AISHA	f	Are you trying to make this more dramatic?
+JENSEN	m	Almost... Almost... Shit!
+AISHA	f	What?
+JENSEN	m	Computer crashed!
+POOCH	m	Are you kidding me?
+JENSEN	m	Yes, cause this is the time for
+JENSEN-	?	60.
+JENSEN	m	I told you, I'm not good at bombs!
+CLAY	m	Do you have time to reboot?
+POOCH	m	Okay, someone pick a color!
+AISHA	f	 Pull out all the wires.
+ROQUE	m	What?
+AISHA	f	You ever hear of a clock radio that exploded cause you unplugged it--pull out all the wires.
+JENSEN	m	Opening it without the code must have triggered the timer...
+POOCH	m	You think?
+ROQUE	m	Did you know?
+AISHA	f	I just saved our lives-
+ROQUE	m	 Did you know?
+AISHA	f	Of course not!
+ROQUE	m	 Where the hell are you-
+CLAY	m	Fennel.
+FENNEL	?	Max thinks the country's lost it's way, gone soft in the War on Terror! This is his solution!
+CLAY	m	Elaborate.
+FENNEL	?	He wanted us to nuke a U.S. target, pin it on the ragheads and boom - freedom is on the march again! The same people who want us to pull back will be screaming to turn the place into a parking lot!
+POOCH	m	What was the target?
+FENNEL	?	The Mall of America! Christ!
+FENNEL	?	I'm serious! It's his sense of humor! He told us we could choose between there and Epcot Center...
+JENSEN	m	 Holy shit, it's like we were framed by Dr. No...
+AISHA	f	What about Goliath?
+JENSEN	m	Yeah, what would an oil company want with the Middle East?
+FENNEL	?	 The ships that service their offshore oil rigs are exempt from US Customs! It's how Max gets the drugs in and out of the country-
+ROQUE	m	This is conspiracy theory bullshit-
+FENNEL	?	It's not! There's proof!
+CLAY	m	Where?
+FENNEL	?	Max's heroin operation - Goliath keeps accounts of the shipments!
+JENSEN	m	Come on, dude, they'd be morons to keep records of shit like this-
+FENNEL	?	It's on a stand-alone hard drive! It's their insurance policy against Max - they know he's crazy, this way they have something on him!
+CLAY	m	So this hard drive - it contains evidence of what Max has been doing?
+FENNEL	?	Yes!
+CLAY	m	Can you get us this drive?
+FENNEL	?	I don't know where it is! They don't let me have access! But-
+FENNEL	?	No, wait! Please don't kill-
+CLAY	m	I say we hit Goliath headquarters.
+ROQUE	m	And do what - go after this non- existent hard drive?
+CLAY	m	We find out if it exists. If it does, we steal it and trade it for immunity.
+ROQUE	m	That's your plan?
+CLAY	m	You got a better one? 64.
+CLAY	m	Max gives us back our lives or we upload the data to the net, show the American people what's being done in their names.
+ROQUE	m	Why risk our lives again when we already have something to trade?
+CLAY	m	You want to give it back to him?
+ROQUE	m	I want to at least discuss it before signing up for another suicide mission on the say-so of some flunky-
+CLAY	m	It's not happening.
+ROQUE	m	So you want to take down Goliath now? Then who? McDonald's? American Airlines? Microsoft?
+CLAY	m	You don't want Max to pay?
+ROQUE	m	I want my life back! This is supposed to be us getting clear - not saving the world!
+ROQUE	m	We're not the goddamn good guys anymore! I love you guys, but I had a life before this shit, and I sure as hell am not going to risk getting it back because you came down with a case of the Dudley Damn Do-Rights!
+CLAY	m	Don't raise your voice at me-
+ROQUE	m	I will raise whatever the hell I want - you got a death wish because you got beat by a voice on a radio-
+ROQUE	m	I'm gonna cut your head off...
+POOCH	m	I say we hit Goliath. Jensen?
+JENSEN	m	Goliath. Cougs?
+CLAY	m	Aisha?
+ROQUE	m	She doesn't get a vote-
+AISHA	f	(staring at Roque) Goliath.
+POOCH	m	 Put it away...
+CLAY	m	You want your life back, you're gonna have to steal it. We hit them in two days.
+JENSEN	m	Don'tcha hate it when Mom and Dad fight?
+POOCH	m	So what do we do about the nuke? Did I just actually say that?
+AISHA	f	I have an idea...
+MATCH WITH:	m	67.
+WADE	m	That's gonna be a quick trial...
+MAX	m	Wonderful guy, salt of the earth, he'll be missed--who took my bomb, Wade?
+WADE	m	You're not gonna like it...
+MAX	m	Because I've been such a fan of how things have gone up till now?
+MAX	m	Who the hell are these people?
+WADE	m	Colonel Clay and his unit. You had them killed three years ago?
+MAX	m	I also had several African nations overthrown three years ago, I'm a
+WADE	m	The Jamal al-Fadhil situation?
+MAX	m	Shit.
+WADE	m	Yeah.
+MAX	m	Okay, they need to get dead. Get me a six man fire team ready in twelve hours.
+WADE	m	So what's the plan?
+MAX	m	What's the plan? The plan is - get me a six man fire team ready in twelve hours.
+WADE	m	Okay.
+MAX	m	Are we now clear on the plan or do you want to try a third go-around?
+MAX	m	Because what I'm going to need you to do is get me a six man fire team ready in twelve hours. You get that, right?
+WADE	m	I get it.
+MAX	m	And Wade?
+MAX	m	We're gonna need a new bomb.
+SHORT SCIENTIST	m	We appreciate you meeting us in a single story facility.
+WADE	m	No problem. 69.
+WADE	m	I look at that entire incident as your standard "getting to know" each other business orientation.
+SHORT SCIENTIST	m	I agree. Now that we know each other, know, please, that if you come near me with any more of that Yankee Doodle tough guy bullshit, you will be fed to my dogs.
+WADE	m	Fair enough, Doc. Can we now move past the verbal aggression and get into some business?
+SHORT SCIENTIST	m	You want another device. One billion dollars is now the price. One billion dollars cash.
+WADE	m	That's going to be difficult.
+SHORT SCIENTIST	m	Life the way you people want to live it is very difficult, Mr. Wade. You want less difficult move to my country, study Hinduism. Meditate. Cultivate serenity. Much less difficult. You want to buy atomic bombs... I'm afraid that is a more difficult way of life.
+WADE	m	He wants one billion in cash.
+MAX	m	Touchy, touchy. Jeez, what are you related to them?
+WADE	m	Actually, one of them, yes.
+MAX	m	By blood?
+WADE	m	(he's had it) A brother-in-law, I said I'd kill him, what are we doing?
+MAX	m	It's not what we're doing, it's what Clay is going to do for us...
+WADE	m	And that is?
+MAX	m	 Get us our billion dollars...
+CLAY	m	I was just going over the plan.
+CLAY	m	You want to go over the plan?
+CLAY	m	Let's go over the plan...
+AISHA	f	So, what really happened to you in Afghanistan?
+CLAY	m	 That's not for you.
+CLAY	m	Why do you want Max dead?
+AISHA	f	He's a bad man. Isn't that enough?
+CLAY	m	No.
+AISHA	f	When you tell me about Afghanistan? I'll tell you about Max.
+CLAY	m	Fine. It's hot. There's lots of sand. Your turn.
+AISHA	f	Why were you alone when I found you?
+CLAY	m	The guys got sick of it.
+AISHA	f	Sick of what?
+CLAY	m	Of hearing about Max. Of hearing me say we had to do something when there wasn't anything to do. They wanted to be around their families. Jensen has a sister. Pooch has a wife and daughters.
+AISHA	f	And he hasn't told them he is alive?
+CLAY	m	Would you? The people you loved the most, would you put them in that kind of danger?
+AISHA	f	So Roque has no one.
+CLAY	m	He's got me.
+AISHA	f	And you have...
+CLAY	m	Enough hate to get us both through the day. He stuck with me when no one else would. And I ain't the easiest guy to stick with.
+AISHA	f	If you two really fought, he would kill you, I think.
+CLAY	m	You think.
+AISHA	f	I'm almost sure of it.
+CLAY	m	Why?
+AISHA	f	Because you care what happens to the others. You wouldn't put them at risk to save yourself.
+CLAY	m	And you think that's a weakness.
+AISHA	f	I know it is. Law of the jungle.
+CLAY	m	We're not in the jungle.
+AISHA	f	Oh, yes we are...
+ROQUE	m	Well, that's just great.
+POOCH	m	We're not going anywhere until you two squash this shit.
+CLAY	m	Pooch, we're on a schedule here-
+CLAY	m	Sorry I hit you.
+POOCH	m	Good. Roque?
+POOCH	m	Roque?
+ROQUE	m	Sorry I threatened to cut your head off.
+POOCH	m	Verrrry good. Now don't you two feel better? No.
+POOCH	m	I don't give a shit, I do. (starts the van) Now, let's go watch Jensen single- handedly knock over the largest oil company on the planet...
+JENSEN	m	 I got jungle fever, you've got jungle fever, we've got jungle fever, we're in love...
+JENSEN	m	 ...she's gone black-boy crazy, I've gone white-girl hazy, ain't no thinking maybe, we're in love...
+JENSEN	m	Yo! Package for Henderson!
+RECEPTIONIST	m	Excuse me one moment- I'll take that, thank you.
+JENSEN	m	No can do, chica, gotta put it in his hands. He's gotta sign.
+RECEPTIONIST	m	(back on phone) I'm sorry--could you say that again?
+JENSEN	m	Babydoll, I'm on the clock here!
+RECEPTIONIST	m	Forty fifth floor.
+JENSEN	m	 I got jungle fever, you've got jungle fever, we've got jungle fever, we're in love...
+JENSEN	m	 Mr. Henderson, please.
+SECRETARY	f	Who's calling, please?
+JENSEN	m	Richard Hertz from Internal Security.
+SECRETARY	f	One moment, please...
+JENSEN	m	Ladies... hi.
+JENSEN	m	Liking the angle of the dangle?
+HENDERSON	m	This is Henderson.
+JENSEN	m	Good afternoon, Mr. Henderson, Richard Hertz from Internal Security. If you'd be kind enough to make your way down to the lobby?
+HENDERSON	m	Uh... Can I ask what this is about?
+JENSEN	m	It's a matter of a somewhat sensitive nature involving an 78.
+JENSEN	m	individual exposing himself to women in the elevators--best discussed in person. If you'd just head on down...
+JENSEN	m	Hi, I'm Skippy from tech support. Is Henderson around? I'm supposed to install a firewall on his system-
+SECRETARY	f	Oh, you just missed him by like two seconds. Can you come back in like an hour or so?
+JENSEN	m	Oooooh - no can do. Upstairs breathing down my neck. They want security upgraded for the senior managers all of a sudden.
+JENSEN	m	Five minutes and I'll be out of your hair!
+SECRETARY	f	Security?
+JENSEN	m	According to this, the drive exists, Clay.
+CLAY	m	You're sure?
+JENSEN	m	Abso-tootly.
+CLAY	m	Is it in the building?
+JENSEN	m	No, somewhere off-site. It's gotta be a remote location, stand-alone. I'm checking their security logs-- wherever they've detailed the most guys is probably where it'll be...
+JENSEN	m	Whoa! Take it easy. You're the-
+JENSEN	m	Get me out of here, Clay... There's a fire exit thirty yards north of your position.
+JENSEN	m	I'm warning you, man, I'm a lethal weapon...
+JENSEN	m	It was this secret government project. They did stuff to me. Spooky stuff. Anal stuff. Turned me into a dangerous Telekinetic. (wiggles index fingers) As the old saying goes - you don't start none... there won't be none.
+BIG SECURITY 1	m	Telekinetic your way out of this...
+JENSEN	m	Bang.
+JENSEN	m	Boom.
+BIG SECURITY 2	m	You broke my ribs...
+THIRD GUARD	m	Please- d-don't shoot...
+JENSEN	m	Face down, or I'll make your hearts stop beating with my mind.
+JENSEN	m	Thanks, Coug...
+COUGAR	m	De Nada.
+MAX	m	By your boys?
+WADE	m	They're not "my boys". I don't like this. I say we grab Clay and kill the rest.
+MAX	m	 If you can find them-
+WADE	m	I can.
+MAX	m	(into phone; JAPANESE) Okay. Put a fire team together.
+WADE	m	You're sure? You're not going to call me in two hours and have me kill them? (off Max's look) I'm on it...
+JENSEN	m	Everything on Goliath - security, personnel history, the works.
+CLAY	m	Where's the drive being kept?
+JENSEN	m	Port of New York, baby. Total stand alone facility, and they're spending 30K a day on onsite security - you don't drop that kinda green to just guard oil.
+ROQUE	m	What are we up against?
+JENSEN	m	Let me check, I--oh, shit...
+CLAY	m	What's "oh, shit"?
+JENSEN	m	They've hired Par-Sec.
+CLAY	m	 Oh, shit...
+AISHA	f	Who's Par-Sec?
+JENSEN	m	Paradigm Security Services. Ex- Special Forces.
+POOCH	m	Basically guys like Cougar but without the warm and cuddly side.
+CLAY	m	Goliath must have brought them in after we hit their truck...
+JENSEN	m	Our drive is being guarded by military trained, trigger repressed, blood thirsty, stone cold killers... Am I the only one who's thinking maybe we just chill out and go to Six Flags?
+CLAY	m	Comb that drive for every last scrap of info. We're on a plane for New York tomorrow...
+CLAY	m	Oh, hi.
+ROQUE	m	Thought you guys'd be back at the hotel.
+POOCH	m	Couldn't sleep.
+ROQUE	m	Me neither. Grabbed a coffee from the machine - you want one?
+POOCH	m	No thanks.
+JENSEN	m	You won't believe how detailed these files are. Every Goliath executive they've ever insured, their policies, their payouts-
+ROQUE	m	Life insurance?
+JENSEN	m	Yeah.
+ROQUE	m	What's the biggest payout?
+JENSEN	m	 Gotta be wrongful death...
+ROQUE	m	Pretty much what we're gonna be risking. What are you doing up?
+POOCH	m	Jensen hacked a satellite for me earlier.
+ROQUE	m	The hell you need a satellite for?
+POOCH	m	When we first went over in 2001, Jolene and my oldest Tina wanted to do the yellow ribbon thing, right? Only problem was there was no yellow ribbon to be found - all the stores had been cleaned out.
+ROQUE	m	Military neighborhood...
+POOCH	m	No doubt. And Tina's four at the time, and what she can't understand is why the ribbon's gotta be yellow. So Jolene sings her the song, right? To show her where the idea comes from. And when she's all done, Tina, four years old, looks my wife dead in her eye and says "that's the dumbest song I ever heard." So my wife and my four year old ended up tying a frilly purple ribbon round the old oak tree in our yard to bring Daddy home...
+ROQUE	m	 Thought that counts, right?
+POOCH	m	Yeah...
+POOCH	m	Jolene dated a guy last summer. Didn't turn into anything and I sure as hell can't blame her, but that man was in my house, Roque. I know you're not a hundred percent on this op, but if it can get me back to them...
+ROQUE	m	I hear you, man.
+JENSEN	m	 Okay, biggest payout on a Goliath exec ever - 14 million and it was wrongful death - Vice President of Operations in Afghanistan, three years ago, paid to his daughter...
+JENSEN	m	We're going to need to drive fast...
+CLAY	m	You really want to know about Afghanistan?
+JENSEN	m	You think she's gonna kill him?
+JENSEN	m	Yeah, I think so too...
+AISHA	f	And this man you found in the basement - he was your true target?
+CLAY	m	Max's true target. Yeah.
+AISHA	f	And you spoke with him?
+CLAY	m	He knew we were off mission. He knew Max wanted him dead...
+AISHA	f	Did he beg?
+CLAY	m	Excuse me?
+AISHA	f	The man in the basement. Did he beg for his life?
+CLAY	m	He begged to die--why are you asking me this?
+JENSEN	m	Freeze!
+JENSEN	m	She's his daughter, Clay! The guy in the basement's daughter and she's got a gun and it's pointed... (realizing; not happy) ...at my dick! Her gun is pointed at my dick!
+AISHA	f	 Would you rather I pointed it at your head?
+JENSEN	m	I know it makes no sense, but actually yes.
+CLAY	m	Wait.
+ROQUE	m	Shit, she's got back-up!
+COUGAR	m	Run.
+ROQUE	m	Go, go, go!
+POOCH	m	Think that got her?
+CLAY	m	She ain't that lucky. Jensen, status!
+JENSEN	m	My dick remains unshot!
+ROQUE	m	Here they come...
+CLAY	m	Somebody shoot something!
+JENSEN	m	I think Cougar's got a plan! Coug, do you have a plan? (to the others) He's got a plan!
+POOCH	m	(trying to steer) Stop yelling at the sniper!
+WADE	m	They got away.
+MAX	m	So? 91.
+MAX	m	(off Wade's look) We know exactly where they're going, Wade. Port of New York, for their big final awesome stand against the forces of evil where they die.
+SHORT SCIENTIST	m	Do you have the money?
+MAX	m	Jesus, always with the money! So impersonal! How are you? How have you been?
+SHORT SCIENTIST	m	I recently attended the funeral of my best friend who you had thrown out a window. How have you been?
+MAX	m	Can't complain. I'm thinking of getting satellite radio in my car...
+SHORT SCIENTIST	m	I think you're a freak. Too much Ronald McDonald. Too much fantasy football.
+MAX	m	Hey, I'm all about the bombs, baby.
+SHORT SCIENTIST	m	We have your ordinance. You have twenty four hours to get the money.
+MAX	m	Time to go make a withdrawal...
+SHORT SCIENTIST	m	New change of plan. You stay.
+MAX	m	I've got to go get your money.
+SHORT SCIENTIST	m	He'll get your money. You stay right here.
+MAX	m	God, are you short.
+SHORT SCIENTIST	m	Twenty three hours, fifty nine minutes...
+MAX	m	Get it done.
+MAX	m	How much do you weigh? Seriously.
+SHORT SCIENTIST	m	I do not think you are funny.
+MAX	m	Where the hell is my bomb?
+SHORT SCIENTIST	m	You do not get it till I get the money.
+MAX	m	For a guy who's all about transcending materialism, you talk about money so much!
+SHORT SCIENTIST	m	If you keep talking, Pop-Amm will cut your mouth out of your face.
+MAX	m	Fine...
+POOCH	m	She burned us, Clay.
+CLAY	m	 I know...
+POOCH	m	The whole op is compromised-
+CLAY	m	I know.
+JENSEN	m	Hey, fallen comrade here! Blood flowing out of his body... Precious, precious blood...
+CLAY	m	 Cougar?
+JENSEN	m	What's that for?
+POOCH	m	So we split up again. Right?
+POOCH	m	Right?
+ROQUE	m	Pooch...
+POOCH	m	 Goddammit, Clay, whatever she knows, Max knows! It's over!
+CLAY	m	 Okay. We split up. Some of us should go international. I'll do that if nobody else wants to-
+ROQUE	m	So we just run again?
+CLAY	m	There's nothing else we can do...
+ROQUE	m	There's something we can do.
+CLAY	m	Excuse me?
+ROQUE	m	Three years is enough. If there's a drive at that port that we can use to get clear-
+CLAY	m	What part of "he knows we're coming for it" do you not get? They're gonna be waiting for us. Par-Sec is gonna waiting for us...
+ROQUE	m	So figure out a way around them; you're good at that shit, Clay!
+ROQUE	m	We run now, we're gonna be running forever. This is our one chance to get our lives back... To steal them back. And I'm prepared to do anything to any one to make that happen.
+ROQUE	m	Never play a longshot, you're never gonna win.
+CLAY	m	Pooch, what's the minimum time to scout the patrols, get an accurate head count on-site at the Port?
+POOCH	m	48 hours, but Aisha knows that-
+CLAY	m	So we hit them in twelve.
+POOCH	m	Twelve hours from now? You mean-- you want us to go in blind?
+ROQUE	m	Last thing they'll expect...
+POOCH	m	Yeah, cause it's dumb.
+CLAY	m	Jensen's already got the layout, and Cougar can spot on site. Right?
+CLAY	m	Jensen?
+JENSEN	m	Yeah, cause gettin' shot is awesome, I'm totally up for doing it again...
+CLAY	m	Pooch?
+POOCH	m	Last time we went in blind on an op, we lost everything...
+CLAY	m	So?
+POOCH	m	So let's go get it back.
+CLAY	m	You ready?
+CLAY	m	Roque?
+ROQUE	m	I'm ready.
+CLAY	m	 We're in. Status.
+POOCH	m	The Pooch is good.
+COUGAR	m	Squelch.
+CLAY	m	Jensen, we're coming. You ready?
+JENSEN	m	And the crowd goes wild...
+JENSEN	m	What's the password?
+JENSEN	m	Drive should be in the Computer Room, two skylights over.
+CLAY	m	Roque and I will set the charges here but we won't detonate until you have the drive.
+ROQUE	m	You can't settle for stealing the drive, you gotta blow up Goliath's shit too.
+CLAY	m	What can I say, I hold a grudge. Get gone.
+CLAY	m	Be ready to move the second Cougar hits the fire alarm...
+POOCH	m	Wade's here.
+CLAY	m	Are you kidding me?
+JENSEN	m	I'm above the computer room, maybe thirty seconds from the drive...
+CLAY	m	Something's not right. Something...
+CLAY	m	What?
+ROQUE	m	I think you should see this.
+CLAY	m	You think... Aisha?
+ROQUE	m	No. Not Aisha.
+ROQUE	m	You know, for a revenge driven conspiracy nut, you're pretty fucking gullible...
+POOCH	m	Jensen, you get it? Jensen?
+WADE	m	Hello, Clay. Been awhile. Roque.
+CLAY	m	When...?
+ROQUE	m	After the truck. I got tired of waiting for you to save us, so I up and saved myself. Reached out like I said and cut a deal - I set this up, I go free.
+CLAY	m	Traitor...
+ROQUE	m	You gave me no choice. It was always gonna end like this, Clay. Us captured or dead. It was always a dead end. You made sure of it.
+CLAY	m	 Bullshit...
+ROQUE	m	Not bullshit. You were gonna keep planning missions and ways to hit Max until it got us all killed.
+CLAY	m	No...
+ROQUE	m	Yes, Clay. Yes. Only difference with this situation is at least I get to walk away.
+CLAY	m	We all could have walked... used the drive...
+ROQUE	m	Don't you get it yet? There is no drive. There never was...
+ROQUE	m	Fennel made it up to save himself. When I told Wade, he planted the info at Goliath to lead you here.
+ROQUE	m	You really thought there was a happy ending coming? Pooch was gonna get his family back, we were gonna get to be soldiers again? (leans down; softly) We lost the moment we went off mission. This is just the logical conclusion of that playing out. You didn't want to hear it. 103.
+ROQUE	m	You just wanted your revenge. Your face-to-face with the big bad wolf. I'm sorry, buddy, but it's the way of the world...
+ROQUE	m	Guys like us don't beat guys like him.
+CLAY	m	Kill me now... Maybe you live through this.
+WADE	m	Oh, we're not gonna kill you. Someone's gotta get away with the cash. Your crew? I'm definitely wasting them. But you?
+WADE	m	You're about to steal a billion dollars from the Central Intelligence Agency.
+WADE	m	It's for our replacement nuke. When a billion goes missing, people tend to ask who took it. Max really does love to frame you...
+WADE	m	Take him away. Drop him in Newark. I'll see you at Turner Airfield.
+ROQUE	m	Wait.
+ROQUE	m	I'm sorry it had to end this way.
+CLAY	m	You're going to die very badly.
+CLAY	m	(answering the question) Roque.
+LEAD GUARD	m	On your knees.
+POOCH	m	Get on with it...
+LEAD GUARD	m	That's a nice hat. What are you smiling at?
+JENSEN	m	Shouldn't have gone after the hat...
+JENSEN	m	Can you stand?
+POOCH	m	I've been shot in both legs, what kind of dumbass question is that?
+JENSEN	m	Oh, so we're Mr. Grumpy now? You're not the only one who's been shot recently, you know!
+AISHA	f	Did you kill my father?
+JENSEN	m	Clay?
+CLAY	m	Kind of in the middle of something here, Jensen-
+AISHA	f	Did you kill him?
+JENSEN	m	There was no drive, Clay-
+CLAY	m	(eyes on Aisha)
+JENSEN	m	There was no drive and Roque's gone and Par-Sec's regrouping and Pooch could bleed out-
+AISHA	f	Did you kill him?
+COUGAR	m	He asked us. It was mercy. But you're his family, so I understand.
+COUGAR	m	But only me.
+AISHA	f	Wear it. Remember him.
+JENSEN	m	Okay, excellent, very tribal--We need to go.
+CLAY	m	Can you stand?
+POOCH	m	This is stupid question day, isn't it? It's stupid question day and someone forgot to tell me...
+CLAY	m	Let's go.
+CLAY	m	They won. We lost. Way it goes.
+POOCH	m	Way it always goes.
+POOCH	m	Guess we should just head home. Oh, wait, that's right. We don't have homes.
+COUGAR	m	Where to, Colonel?
+WADE	m	Your friends jack-rabbitted. Should we be worried?
+ROQUE	m	Clay doesn't take risks. It's why I'm here and he's not.
+WADE	m	You're sure?
+WADE	m	Can I ask you something? Why'd you stick with those losers for so long?
+ROQUE	m	They were good guys.
+WADE	m	No such thing. I'll go call Max.
+CLAY	m	Hi, Wade!
+ROQUE	m	Declan, start the plane...
+POOCH	m	Next time, remind me - car crash first, then get shot...
+JENSEN	m	Sounds less painful that way...
+CLAY	m	Cougar and I are going after that plane. The rest of you, get Wade.
+JENSEN	m	Me and legless Pooch are on it! Where the hell is she going?
+POOCH	m	You call me legless Pooch again, you're gonna be Headless Jensen.
+JENSEN	m	What, it's a cool name! It makes you sound like a pirate! (off his look) Fine, let's go kill Wade...
+PILOT	m	We don't have enough runway to take off - we're going to have to turn around and come back to get up to speed!
+ROQUE	m	Fine, just get us in the air!
+ROQUE	m	I'm out!
+CLAY	m	I'm out.
+CLAY	m	Get me closer...
+JENSEN	m	Yoo-hoo! Wade! (a'la the Warriors) Come out and plaaaayyy-
+JENSEN	m	 Hey, Wade's coming at you! I...
+JENSEN	m	I think I just found our way out of here...
+ROQUE	m	Gotta admit, I always wondered how this would play out.
+CLAY	m	Aisha thinks you kill me.
+ROQUE	m	It's a distinct possibility...
+ROQUE	m	You don't have a knife?
+CLAY	m	Don't need one.
+ROQUE	m	Bit of as longshot for you...
+CLAY	m	 No. It's not.
+ROQUE	m	Now I really am gonna cut your head off...
+CLAY	m	Rifle...
+CLAY	m	Outstanding.
+JENSEN	m	Not to rain on everyone's we killed all the bad guys parade, but we should probably get gone - legless Pooch has a Learjet all gassed up for us in the Hangar. (off Pooch's look) It's a cool name-
+CLAY	m	Hello?
+MAX	m	We good?
+CLAY	m	Not by a longshot. You're not having a real great day, Max.
+MAX	m	Who is this?
+CLAY	m	Just a voice on the phone.
+MAX	m	Where's Wade?
+CLAY	m	Working on the engines.
+MAX	m	Clay.
+CLAY	m	It's Colonel.
+MAX	m	Colonel, yes. Well done.
+CLAY	m	Thank you.
+MAX	m	I understand you've always wanted to meet face to face. I'm sure that could be arranged...
+CLAY	m	I don't think the guys you're about to stiff for a billion dollars are going to allow that to happen. (looks to the others) We win. You lose. Goodbye.
+CLAY	m	Lear jet?
+POOCH	m	 Ready when you are.
+AISHA	f	I wanted to find and punish those responsible for my father's death. Max, his men, everyone.
+CLAY	m	That why you slept with me?
+AISHA	f	That and the cardio.
+CLAY	m	You coming?
+AISHA	f	I'm coming.
+CLAY	m	Good cause there's no way I could walk it...
+SHORT SCIENTEST	m	Time is up, Stretch.
+MAX	m	Stretch. That's a good one.
+SHORT SCIENTEST	m	Because you are so much taller than I.
+MAX	m	Yeah, no, I get it...
+MAX	m	You gentlemen consider yourselves to be soldiers or businessmen?
+

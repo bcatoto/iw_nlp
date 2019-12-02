@@ -38,10 +38,12 @@ def preprocess(movie, gender):
 
 def main():
 
-    for year in range(1975, 2006):
+    for year in range(1975, 2016):
+        print('Preprocessing movies in %d...' % (year))
+
         # Creates year folders if they don't exist; clears them if they do
-        clear_dir(DESTFOL, 'fem', year)
-        clear_dir(DESTFOL, 'male', year)
+        clear_dir('%s/fem/%d' % (DESTFOL, year))
+        clear_dir('%s/male/%d' % (DESTFOL, year))
 
         # Preprocesses data by gender, year, and movie
         females = read_folder_dict('%s/fem/%d' % (SRCFOL, year), year)
@@ -51,6 +53,8 @@ def main():
         males = read_folder_dict('%s/male/%d' % (SRCFOL, year), year)
         for movie in males:
             preprocess(movie, 'male')
+
+        print('----------------------------------------')
 
 if __name__ == '__main__':
     main()

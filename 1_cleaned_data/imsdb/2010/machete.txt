@@ -1,0 +1,574 @@
+TORREZ	m	Officer Cruz! Stand down! Do not attempt to take the safehouse alone! Officer Cruz! You hear me!?
+OFFICER ERHMAN	m	Torrez sounds mad. You going to answer him?
+TORREZ	m	Machete, you son of a bitch! I told you to wait! Set up a perimeter and wait for further orders. You hear me, Pendejo!?
+OFFICER ERHMAN	m	What are you doing? We're going to set up a perimeter right? You heard the boss.
+MACHETE	m	This is the boss.
+OFFICER ERHMAN	m	Hijo de puta!
+MACHETE	m	Get dressed. RNewman / Endeavor Draft 3.
+CHICA	f	It's too hot for clothes.
+CHICA	f	Hey... what's your name?
+CHICA	f	Oh... wow.
+MACHETE	m	We need to go. Now.
+CHICA	f	In what? That? RNewman / Endeavor Draft 4.
+CHICA	f	That looks like me.
+CHICA	f	What's this long, hard thing?
+MACHETE	m	My machete.
+CHICA	f	Is it sharp?
+CHICA	f	Good.
+CHICA	f	I got him.
+CHICA	f	Pobrecito.
+GIRL	f	Como hice? (Sub: How'd I do?)
+TORREZ	m	Bueno... pero no tanto. (Sub: Good... but not that good.) RNewman / Endeavor Draft 5.
+TORREZ	m	You had to stick your neck where it didn't belong, amigo.
+MACHETE	m	Torrez?
+DRUGLORD	m	No, not Torrez. El Santo Muerte, pendejo. (I'm Saint Death, pendejo.)
+DRUGLORD	m	Quemalo. Quemalo todo. (Sub: Burn it. Burn it all.)
+MAN	m	I see em!
+VON	m	Welcome to America.
+ELEKTRA	f	Jesus, Sis. How long have you known this one? Twenty minutes?
+NAKED MAN	m	What the fuck? You're a twin? Hot.
+SIS	?	Mind your own business.
+ELEKTRA	f	I'm trying to. I've got to get ready for work. And you're in my room.
+NAKED MAN	m	Whoa, whoa. Why don't you join us?
+ELEKTRA	f	What a charmer. You sure know how to pick `em, Sis.
+SIS	?	Fuck off. Get out.
+NAKED MAN	m	What?
+SIS	?	You've been kicked off the island. Get the fuck out.
+NAKED MAN	m	Talk nice. And you--get that robe off and get up here.
+ELEKTRA	f	Sure thing. I like a man who takes control.
+NAKED MAN	m	What the fuck? RNewman / Endeavor Draft 8.
+ELEKTRA	f	You're under arrest, dick.
+NAKED MAN	m	You're a cop?
+ELEKTRA	f	Yeah, this is Agent Elektra Rivers, Homeland Security. I could use some unis at the corner of Newning and Drake for an assault. Suspect in custody.
+NAKED MAN	m	You're fucking hot.
+ELEKTRA	f	(clicking phone shut) Yeah. Thanks. I gotta get dressed now.
+NAKED MAN	m	Can I watch?
+ELEKTRA	f	Suit yourself.
+SIS	?	Have a nice day, bitch.
+ELEKTRA	f	You too, slut.
+RADIO ANNOUNCER	m	State Senator John McLaughlin is once again under investigation for his ties to an extremist militia organization in the capitol city--
+LUZ	f	Cafe! Taquitos! Tarjetas de llamada! (Sub: Coffee! Tacos! Long- distance calling cards!)
+MOCO	m	Q-vole, Luz! Dos taquitos de papas con, por fa. Y cafe. (Sub: What's up, Luz? Two potato and egg tacos, please. And coffee.)
+LUZ	f	Pancho vamanos! Leave him alone.
+MOCO	m	It's OK Luz. You gotta feed your little man, he's hungry. RNewman / Endeavor Draft 10.
+LUZ	f	He's a fat fuck, don't do nothing and eats all day, like my last husband.
+MOCO	m	Orale, you ain't getting married again with that attitude.
+LUZ	f	Thank god. Why buy the pig when I can get the chorizo for free?
+MOCO	m	Puta.
+LUZ	f	Be careful mi amor,and don't leave no scraps.
+MOCO	m	Thanks Luz, Hasta luego.
+LUZ	f	Via con dios.
+LUZ	f	Looking for something?
+LUZ	f	Ma�ana me pages. (Sub: You can pay me tomorrow.) RNewman / Endeavor Draft 11.
+HANDLER	m	He wants you.
+HANDLER	m	$500 if you lose. $2000 if you win.
+HANDLER	m	Hey, you, wetback! You're gonna kiss off $500 for five minutes?
+RICO	m	A hundred on the new guy!
+RICO	m	Orale! Come on! RNewman / Endeavor Draft 12.
+BRUNO	m	Hey man, that was some good work back there. Let me borrow some money.
+BRUNO	m	Hand it over.
+GANGSTER ONE	m	Don't make us carve you up farmer.
+LUZ	f	I do the carving around here pendejos.
+BRUNO	m	What the fuck is this? Get back to the kitchen chica.
+LUZ	f	Come to mami. RNewman / Endeavor Draft 13.
+BENZ	m	You.
+BENZ	m	Not you, Ragged Dick. Him.
+BENZ	m	Get in.
+BENZ	m	You speak English?
+MACHETE	m	$70 a day for yardwork. Hundred for roofing. One-twenty-five for septic. Sewage.
+BENZ	m	$125?
+MACHETE	m	I cost the most, because I'm the best there is.
+BENZ	m	Naturally.
+BENZ	m	You can call me Benz. RNewman / Endeavor Draft 14.
+MACHETE	m	Like the car.
+BENZ	m	You're sharp. That's right. Just like the car.
+MACHETE	m	What are you looking for, Mr. Benz?
+BENZ	m	Have you ever killed anyone before?
+BENZ	m	Drink?
+BENZ	m	Like angels pissing down my throat.
+BENZ	m	Do you know this man?
+BENZ	m	State Senator John McLaughlin, Independent from Cocksucker County. As you know, illegal immigrants such as yourself are being forced out of our country at an alarming rate. If he had his druthers, he'd ship you back to old Meh-Hee-Co. That's his platform: Ship `em back. RNewman / Endeavor Draft 15.
+BENZ	m	But first, he'd make you build a wall along the border for no pay. Not so much as a thank you then get the fuck out.
+BENZ	m	What?
+MACHETE	m	That doesn't sound like your problem.
+BENZ	m	That's where you're wrong, friend. What our senator fails to realize is that this country runs on illegal labor. Thrives on it. Keeps costs down, keeps the wheels moving. Bust that, and the world stops turning. You've chaos and shit.
+MACHETE	m	What do you want me to do?
+BENZ	m	For the good of both our peoples, our new senator must die. And for that I will pay you $150,000 cash.
+BENZ	m	You like the machete, huh? Strictly low-tech, but good close-up, or if you're trying to make a particularly brutal point. But it's entirely unsuited to our purposes. Here. Have a look at this. RNewman / Endeavor Draft 16.
+BENZ	m	(specific dialogue about the weapon, the laser-sight on it, the ammo it uses, then) Cheer up, Charlie. This is your golden ticket.
+LUZ	f	You still owe me, amigo. Two tacos y cafe. What's this?
+MACHETE	m	Collateral.
+REPORTER	m	But isn't this anti-immigration platform a hard sell in this part of the country, where so many voters have strong ethnic backgrounds?
+MCLAUGHLIN	m	Not at all. Those voters are here legally. RNewman / Endeavor Draft 17.
+MCLAUGHLIN	m	It cheapens their experience, their hard work, to have people jumping the border, taking advantage of loopholes in our system. It makes a mockery of everything they've worked for and turns it into a big steaming pile of--
+BENZ	m	Thank you, that'll be all.
+BENZ	m	Who the fuck is this?
+MCLAUGHLIN	m	It's Mario. He's my goddamn hairdresser.
+BENZ	m	Get out. Get the fuck out.
+MCLAUGHLIN	m	I've got to look good for my constituency.
+BENZ	m	You're in here with a reporter and a fucking shampoo queen, for Christ sake.
+MCLAUGHLIN	m	Mario's the best.
+BENZ	m	People want to know you're one of them. From now on, No manicures, no massages, no English tailored suits.
+MCLAUGHLIN	m	Who died up your ass, Benz? I'm elected, you sonofabitch. The people have spoken, by a slim margin maybe, but they picked me. RNewman / Endeavor Draft 18.
+BENZ	m	And they'll be picking through your trash looking for a reason to fuck you up. I'm doing everything I can to make your Von problem go away. Don't add more fuel to the fire.
+MCLAUGHLIN	m	Von... that fat sonofabitch. What does he say?
+BENZ	m	I don't give a damn. As long as he lays low and doesn't take a step out of his little tree fort, he and his boys can play soldier till Hell freezes over.
+MAN	m	Maybe we shouldn't be doing this, Von. Not with the heat we're under.
+VON	m	"Congress shall make no law abridging the right of the people peaceably to assemble, and to petition the Government for a redress of grievances." Do you know what that's from?
+MAN	m	The Constitution?
+VON	m	The First Fuckin Amendment "Congress shall make no law abridging the right of the people peaceably to assemble, and to petition the Government for a redress of grievances." I would like to assemble peaceably as I have some grievances to redress. Now is that all right with you? RNewman / Endeavor Draft 19.
+WOMAN	f	You!
+WOMAN	f	You're not Cisco. You're new here, aren't you? Well, one of the toilets in the ladies' is busted again, and you need to clean it up snappy.
+MACHETE	m	This is Cisco's floor. I'm on 11.
+WOMAN	f	But this is an emergency!
+MACHETE	m	Find Cisco.
+SPEAKER	m	We're at a crossroads in this great land, and one man has the vision to see us into the future.
+MILITIA MAN	m	Our man's up next.
+VON	m	It's a great day in America, Amen.
+SPEAKER	m	Please join me in welcoming our great State Senator John McLaughlin!
+MCLAUGHLIN	m	Make no mistake, my friends: We are at WAR. Every time an illegal sneaks across the border by dark of night it is an act of aggression against the United States. And I submit to you, it is an overt act of TERRORISM. These people are
+GUARD	m	Roger. I'm on my way.
+GUARD	m	Hey!
+MCLAUGHLIN	m	The fuck was that?
+BENZ	m	I'd say it was a fucking gift from the Gods.
+MCLAUGHLIN	m	What are you talking about?
+BENZ	m	Get ready for your numbers to rise like Lazarus. A thousand bucks says it was some bean-eating wetback just took a potshot at you. It will put the fear of God into the ethics commission. Now we get you to the hospital, you make your bedside speech and you're set.
+MCLAUGHLIN	m	Fix me a goddamn drink.
+PATROLMAN	?	Go ahead Jorge, I'll grease your chips all over this fucking alley!
+PATROLMAN	?	It's going to turn into a lynch mob if we don't get him out of here now.
+PATROLMAN	?	This is fucking big. This guy took a shot at a Representative.
+COP	m	Senator.
+PATROLMAN	?	Same fucking thing. He could die, and we caught him.
+COP	m	Yeah, we did. They're gonna hang him like Saddam.
+PATROLMAN	?	We're fuckin' heroes, buddy.
+COP	m	I'm gonna call it in. Unless you want to do it.
+PATROLMAN	?	No. You go ahead. You're good at it. RNewman / Endeavor Draft 24.
+COP	m	What the fuck is that supposed to mean? That I'm not good at the action stuff? Just the pussy stuff?
+PATROLMAN	?	Did I fuckin' say that?
+COP	m	Did you fuckin' mean it?
+PATROLMAN	?	Look, you and me both apprehended this fuckin' suspect. We frisked him and we cuffed him and now we're bringin' him downtown. We're gonna get a medal for this.
+COP	m	I didn't frisk him.
+PATROLMAN	?	Yeah, you did.
+COP	m	I'm telling you. I didn't frisk him. You must have done it.
+PATROLMAN	?	I didn't frisk him. I thought you--
+COP	m	Jesus fuck! What's wrong, man?
+PATROLMAN	?	Oh, fuck!
+COP	m	Slow down, man! RNewman / Endeavor Draft 25.
+COP	m	Holy shit!
+ELEKTRA	f	Hey, turn that up, would you?
+TV REPORTER	m	...at the scene of an incredible accident just moments after the attempt on State Senator McLaughlin's life and we're not sure if this individual was in custody or was hit by the vehicle but he appears to be injured--
+TV REPORTER	m	Holy fuck!
+ELEKTRA	f	I'm watching it.
+BOSS	m	Don't watch it. Get on it now! I want that suspect.
+ELEKTRA	f	What do you know?
+BOSS	m	I only know what you know, and right know, you don't know dick.
+ELEKTRA	f	I'm gone, relax.
+SNIPER	m	I think he's toast.
+BENZ	m	Don't think. Know. Check the hospital. Check the morgue. Fucking verify.
+SNIPER	m	Now that's what I call a fuckable ass.
+NURSE	f	(quietly in Spanish) They don't know you're here yet. You were brought in as a Juan Doe. Innocent bystander.
+NURSE	f	Here he is, Doc.
+DOC FELIX	m	Good girl.
+NURSE	f	Hey Doc... I can feel your eyeballs in my uterus.
+DOC FELIX	m	Let's investigate that.
+SECURITY GUARD	m	You're going to tell me who you're working for or I'll bury your spic ass and have your wife turning tricks for tacos by breakfast. RNewman / Endeavor Draft 28.
+DOC FELIX	m	Hey, buddy. This is a patient of mine. He's in a fragile state. He's got a bullet in his cranium.
+SECURITY GUARD	m	This wetback tried to kill the Senator, Doc! It's all over the TV.
+DOC FELIX	m	Yeah? In that case you better let me keep him alive so you can beat the truth out of him. And collect the reward.
+SECURITY GUARD	m	You're alright, Doc. You know how it is, they take our welfare money. There ain't none left for us decent folk... Now you get him lucid so I can torture him good.
+DOC FELIX	m	Lucid. That's a good word. Go get a coffee and donut out in the lobby. I'll come get you when he's ready.
+SECURITY GUARD	m	I'll be waiting.
+DOC FELIX	m	(IN PERFECT SPANISH) Now these are my friends. (taps the needles) They will cheer you up special until these bullet holes feel like little butterfly kisses.
+DOC FELIX	m	...is for me.
+MACHETE	m	Another way out?
+DOC FELIX	m	Wait, I got something.
+MACHETE	m	Thanks.
+DOC FELIX	m	Vaya con Dios.
+MCLAUGHLIN	m	This act... this cowardly act... RNewman / Endeavor Draft 32.
+MCLAUGHLIN	m	will not end my struggle, to keep our country safe from those who would destroy it. God bless everyone who stood with me today, I will return to the fight. And God Bless America.
+BENZ	m	No further statements. We only hope that the perpetrator is brought to swift justice in an American court.
+ELEKTRA	f	Elektra Rivers, Department of Homeland Security.
+BENZ	m	This is a state matter. We've already talked to--
+ELEKTRA	f	DHS has jurisdiction over everyone so give it a rest, Mr--
+BENZ	m	Booth. Michael Booth.
+MCLAUGHLIN	m	I don't know what I can do to help you in here, Agent Rivers. You want to find the bastard did this, go look for him.
+ELEKTRA	f	I appreciate that, sir, and I
+MCLAUGHLIN	m	You can't assure dick. Just ask what you want and then you can be on your way. RNewman / Endeavor Draft 33.
+ELEKTRA	f	Is the shooter known to you, I mean, did you have any warnings or communication before today?
+MCLAUGHLIN	m	No.
+ELEKTRA	f	My expertise is in profiling and assessing risks of potentially dangerous individuals who are in this country illegally.
+BENZ	m	Looks like you missed one.
+ELEKTRA	f	Would you like additional DHS officers assigned to your security detail?
+BENZ	m	The senator is trying to project an image of resilience, not fear. Now I'm sure you'll agree, the Senator has had a very trying day.
+ELEKTRA	f	Here's my card, in case you change your mind. Or you think of anything else.
+BENZ	m	You'll be the first person I call.
+LUZ	f	Hijo de la chingada. What happened to you?
+HENCHMAN	m	Booth isn't going to like this. What are we going to tell him?
+SNIPER	m	"Oops."
+LUZ	f	You'll be safe here.
+MACHETE	m	Did you open it?
+LUZ	f	No. RNewman / Endeavor Draft 35.
+LUZ	f	Nothing worth nothing here, unless you were going to make a pinata. Now lie back.
+LUZ	f	You know what this is, right?
+LUZ	f	Works every time. When the sun rises, you'll be good.
+MACHETE	m	I don't know about that.
+LUZ	f	Cuidado, chico. You might burn yourself.
+MACHETE	m	Why are you helping me?
+LUZ	f	You know why Machete.
+MACHETE	m	You know me?
+LUZ	f	No, but I know the myth of the last honest cop in Mexico.
+MACHETE	m	The myth might be better.
+LUZ	f	Cada uno lleva su cruz (sub. We each have our cross to bear) RNewman / Endeavor Draft 36.
+ELEKTRA	f	Good. Now I can get some answers.
+ELEKTRA	f	McGraw? McGraw, are you here?
+ELEKTRA	f	Goddamnit! You're fucking my sister?
+MCGRAW	m	Your sister? Holy shit. I thought it was you.
+ELEKTRA	f	Fuckin' liar.
+ELEKTRA	f	Did you at least get me the files?
+MCGRAW	m	Sure I did.
+ELEKTRA	f	Well, where the hell are they? RNewman / Endeavor Draft 37.
+MCGRAW	m	Uh... uh... uhh...
+ELEKTRA	f	Never mind. I see `em.
+ELEKTRA	f	If you need me, I'll be in the bath. Slut.
+SIS	?	Bitch.
+JUNE	f	The nerve. An honest, dedicated American like John. What on earth were they thinking?
+BENZ	m	They weren't, dear. They weren't.
+JUNE	f	I worry more about April. What kind of world are we leaving her?
+APRIL	f	I think Cole is going to ask me to marry him.
+JUNE	f	Oh, honey that's--
+APRIL	f	But I don't want to marry him.
+JUNE	f	Terrible. RNewman / Endeavor Draft 38.
+APRIL	f	I mean, look at me. I'm not ready for that kind of commission.
+BENZ	m	Commitment.
+APRIL	f	That either. I have priorities.
+JUNE	f	Good for you.
+BENZ	m	School, career. Those come first.
+APRIL	f	I'm talking about my modeling.
+BENZ	m	You're a beautiful girl, April, but that's a tough nut to crack.
+APRIL	f	No it isn't. Do you know how many hits I've gotten on my website?
+BENZ	m	You have a website? She has a website. You know about this?
+APRIL	f	I know what the online public wants, and they want me. All of me. Cole's just going to have to wait.
+BENZ	m	We'll talk about this later. I'll be in my office.
+JUNE	f	(whispering to April) Are there cute guys on there? You need me to inspect them I think. RNewman / Endeavor Draft 39.
+APRIL	f	No way! You're such a slut, Mom! You're a Cougar slut!
+BENZ	m	I hope you've got something to celebrate.
+SNIPER	m	He's off the grid. Sonofabitch disappeared.
+BENZ	m	I picked him up here. Find out if anyone's seen him. He couldn't have done it on his own. He has help. Find the help.
+TORREZ	m	He's alive.
+DRUGLORD	m	Go.
+DRUGLORD	m	All of you.
+DRUGLORD	m	Where?
+TORREZ	m	Texas.
+DRUGLORD	m	Take all the men you need. But bring him back alive. I want to kill him with my own hands.
+ELEKTRA	f	"Problems with authority. Prone to violence. Fatalistic, ruled by a sense of destiny and purpose."
+ELEKTRA	f	(v.o.) "Father was a preacher who butted heads with the local drug baron."
+ELEKTRA	f	(v.o.) "Inherited sense of destiny from father."
+ELEKTRA	f	(v.o.) "Subject was the first to find him."
+ELEKTRA	f	(v.o.) "Subject developed Old Testament- style concepts of vengeance at an early age. Sense of righteousness." RNewman / Endeavor Draft 42.
+TEAMMATE	m	Throw the ball back, Pendejo!
+KILLER 5	m	What do you want, little maricon? What you going to do with that knife? You think that scares me? You think...
+ELEKTRA	f	(v.o.) "Subject's macabre killing methods traced to childhood tragedy."
+ELEKTRA	f	(v.o.) "Recommendation: Total lockdown."
+BOSS	m	You look like you've seen a ghost.
+ELEKTRA	f	No. But I read the ghost's file. My local contact Mcgraw got it from the hot sheets down south.
+BOSS	m	Local contact?
+ELEKTRA	f	Ex-boyfriend. Whatever.
+BOSS	m	And?
+ELEKTRA	f	He's dangerous.
+BOSS	m	I knew there was a reason we kept you on here. It's your brilliant insights.
+ELEKTRA	f	I'm working on it.
+BOSS	m	Get him. The hammer's coming down on us hard for this, so if you fuck up, it's not just your ass on the chopping block, it's mine.
+ELEKTRA	f	You want me to put this background on the air?
+BOSS	m	I could give a fuck. Just get him.
+MACHETE	m	Bless me, Padre, for I have sinned. It's been a long fucking time since my last confession.
+PADRE	m	I was wondering when you were going to show yourself. They're combing the city for you. How long before they get your file and track down your stepbrother, the priest?
+MACHETE	m	Sorry, bro. I mean, Padre.
+PADRE	m	You were wrong to come here. How long have you been here anyway?
+MACHETE	m	Few weeks.
+PADRE	m	Why didn't you come to me before?
+MACHETE	m	Didn't need you before.
+PADRE	m	What do you think I can do for you? Give you absolution? You have to be sorry for your sins, first.
+MACHETE	m	I'm not sorry.
+PADRE	m	I'm not surprised.
+MACHETE	m	They used me.
+PADRE	m	They use all of us. Welcome to the real world.
+MACHETE	m	They need to pay. RNewman / Endeavor Draft 46.
+PADRE	m	In money or blood?
+MACHETE	m	Either. Both.
+PADRE	m	I am a man of faith. I took a vow of peace. You want me to help you kill all these men?
+MACHETE	m	Yes, bro. I mean, Padre.
+PADRE	m	I'll see what I can do.
+LUZ	f	Hey Culero, leave them alone. They don't like pork.
+SNIPER	m	I'm no cop. You seen this guy?
+LUZ	f	Have you seen him?
+LUZ	f	Cono,this won't end pretty. RNewman / Endeavor Draft 47.
+SNIPER	m	Call me when he shows or I'll carve that pretty face of yours into a seven layer burrito got that puta!?
+MACHETE	m	When I get the money, I'll give some to the church.
+PADRE	m	You think Jesus wants your blood money, Judas?
+PADRE	m	How much blood money are we talking about?
+MACHETE	m	A hundred-fifty thousand.
+PADRE	m	Jesus, Mary and Joseph! I want you to say ten Our Fathers, ten Hail Marys and ten Glory Be's, and I want you to light a candle for Dad.
+PADRE	m	I had them installed last year. Too many things were walking away from the altar, the collection plate. Check this out. RNewman / Endeavor Draft 48.
+PADRE	m	No time for that now. You need to see this. I Tivo'd it earlier.
+MACHETE	m	Stop it.
+MACHETE	m	That one. He's the one who hired me. Benz.
+PADRE	m	That's Michael Booth. McLaughlin's aide or something. Cabrones, los dos. Why would he hire you to kill his boss?
+MCLAUGHLIN	m	.....that I may return to the senate and fight on.
+NEWS ANCHOR	m	(voice-over on TV) Polls show McLaughlin's numbers are surging since the assassination attempt and officials say they've put a hold on the ethics committee investigation into McLaughlin's ties to the Freedom Force militia. Meanwhile, police continue to scour the city for the perpetrator. If you have any information on the whereabouts of this man--
+MACHETE	m	Where does he live?
+PADRE	m	Machete, you can't just kill everyone! RNewman / Endeavor Draft 49.
+MACHETE	m	I'll leave some for you.
+PADRE	m	That's not what I meant.
+GUY	m	What are you looking for, gringo?
+SNIPER	m	This guy.
+GUY	m	Looks like my sister's boyfriend's cousin's mother's son.
+SNIPER	m	You're sharp. You're liable to get cut.
+SNIPER	m	Safety first.
+SNIPER	m	Lead's ran cold. He's underground. Probably back in the homeland by now.
+SNIPER	m	Ho-ly shit. Who knew that your Mexican day laborer was a goddamn Federale?! RNewman / Endeavor Draft 50.
+BENZ	m	Yeah.
+MACHETE	m	My money.
+BENZ	m	Holy Mother of Christ. You've got some balls. You missed, asshole.
+MACHETE	m	Or else.
+BENZ	m	Or else what?...Hello?
+APRIL	f	Hey, you're not the usual boy!
+MACHETE	m	He called in sick.
+JUNE	f	That little bastard promised me a ride on his leafblower.
+APRIL	f	Don't be shy. RNewman / Endeavor Draft 51.
+APRIL	f	Why don't you come in? The water's fine.
+JUNE	f	That's right. Come on in, sugar! We like variety around here, no matter what the boys say. You want a wine cooler?
+APRIL	f	Oh, momma! He's got the good stuff!
+BENZ	m	June? April?
+MACHETE	m	Or else this.
+BENZ	m	Where is my wife and daughter!?! RNewman / Endeavor Draft 52.
+PADRE	m	Holy...
+VON	m	Well, well, Look what's come asking for Papa Von's help.
+BENZ	m	It's beyond my reach, Von. I need you on this now.
+VON	m	You needed me from the get go, but let's not piss on what's past.
+BENZ	m	He's got my wife and daughter.
+VON	m	Sweet Jesus. I bet he's got a big imagination what to do with a couple cutie pies like that. Makes me ill just thinking about it. You must have broken off a dick in his ass. First he comes after your boss, then he comes after your family. Who's next?
+BENZ	m	Just find him.
+VON	m	Ain't you worried about staining the Senator bringing us into this? RNewman / Endeavor Draft 53.
+BENZ	m	Don't you read the papers? McLaughlin's a goddamn saint, a fucking martyr. I've seen to that.
+VON	m	What do you think he meant by that?
+VON	m	Boys! We're goin hunting.
+MACHETE	m	Drive.
+ELEKTRA	f	You can put the gun away. I'm not going to give you any trouble.
+MACHETE	m	You're a cop.
+ELEKTRA	f	Homeland Security. I guess that makes you a terrorist.
+MACHETE	m	How did you find me?
+ELEKTRA	f	Come on. Give me some credit. It's not every ex-Federale-turned- assassin that has a local priest on the family payroll. RNewman / Endeavor Draft 54.
+MACHETE	m	Turn here.
+ELEKTRA	f	So are you going to tell me why you did it? Destiny, maybe?
+MACHETE	m	It was just a job.
+ELEKTRA	f	A job? Who hired you? The undocumented workers' union?
+MACHETE	m	Michael Booth.
+ELEKTRA	f	Sonofabitch. Can you prove that?
+MACHETE	m	Maybe. Turn here.
+MACHETE	m	Give me ten dollars.
+ELEKTRA	f	What? Why?
+MACHETE	m	Ten bucks.
+MACHETE	m	Stop the car.
+MACHETE	m	Wait.
+LUZ	f	You get around. RNewman / Endeavor Draft 55.
+MACHETE	m	For the tacos and coffee.
+LUZ	f	Yeah, they came looking for you. I told them nothing, as far as I know you're a myth.
+ELEKTRA	f	"Feelings of righteousness and purpose."
+MACHETE	m	Drive.
+ELEKTRA	f	Sure thing, Boss.
+ELEKTRA	f	Sonofabitch!
+ELEKTRA	f	What the fuck, man? RNewman / Endeavor Draft 56.
+ELEKTRA	f	My gun!
+ELEKTRA	f	You're shot.
+MACHETE	m	No hospital.
+ELEKTRA	f	Let me bring you to a safehouse. I can negotiate your safety. We'll bring Booth down together.
+MACHETE	m	Onions.
+ELEKTRA	f	You want onions?! Oh shit, you're delirious, dying. Don't die please.
+MACHETE	m	Onions!
+ELEKTRA	f	What? What do you do with...
+MACHETE	m	Come here.
+ELEKTRA	f	What, is this some "old Aztec" shit that's supposed to heal you?
+MACHETE	m	Yes. RNewman / Endeavor Draft 57.
+ELEKTRA	f	What do I do with this?
+ELEKTRA	f	Wait, you want this gunk squirted in there...I don't...
+MACHETE	m	Do it.
+ELEKTRA	f	I....can't.
+ELEKTRA	f	Fuck.
+ELEKTRA	f	Ahhhh!
+APRIL	f	Mom? Where are we? I'm scared.
+JUNE	f	Me, too, honey. RNewman / Endeavor Draft 58.
+APRIL	f	What is this place?
+ELEKTRA	f	That was disgusting.
+ELEKTRA	f	Do you mind not breaking knives in the house? It's kind of one of my rules. I mean...
+ELEKTRA	f	Oh shit. All right. I'm going to tell him what you told me. Wish me luck.
+MACHETE	m	Luck.
+ELEKTRA	f	Yeah.
+BOSS	m	Where the hell have you been?
+ELEKTRA	f	I had a little fender bender.
+BOSS	m	Goddamnit! I said where have you been?
+ELEKTRA	f	Calm down! I have him right now. RNewman / Endeavor Draft 59.
+BOSS	m	You do?
+ELEKTRA	f	Yes, but it's complicated. He's innocent. Sort of.
+BOSS	m	Sonofabitch. What kind of Stockholm Syndrome bullshit are you trying to pull?
+ELEKTRA	f	Just listen. Michael Booth orchestrated the assassination attempt on McLaughlin's life.
+BOSS	m	His own advisor?
+ELEKTRA	f	That's right. This was all some kind of hare-brained scheme to call off the ethics investigation. I think I can get Machete to testify.
+BOSS	m	You do, huh? Well that doesn't matter because no charges are going to be filed against Booth.
+ELEKTRA	f	What?
+BOSS	m	The order's come down from top brass: No more black eyes on DHS. Bring in the Mexican. Dead or alive. Now are you gonna DO your fucking job or are you gonna LOSE your fucking job?
+BOSS	m	Agent Rivers! Agent Rivers! Answer me, goddamnit! RNewman / Endeavor Draft 60.
+PADRE	m	What do you want me to do with this? We can't keep them locked up forever.
+VON	m	The day is upon us, my friends. We'll take down the interloper, and anyone who gets in our way.
+VON	m	Do you believe in freedom?!
+VON	m	Will you die for freedom!
+VON	m	If that's what it takes to make you free, I will kill you with my own bare hands, Amen. RNewman / Endeavor Draft 61.
+VON	m	Heal up, brothers. Heal up good. The day is upon us.
+SNIPER	m	Oh shit.
+SNIPER	m	Yeah.
+BENZ	m	You seeing this?
+SNIPER	m	Yeah.
+BENZ	m	We have to find him. We have to find him now! I'm going to rip his heart out with my teeth!
+SNIPER	m	Where's your boyfriend?
+LUZ	f	You again? You keep coming back up like bad menudo.
+LUZ	f	Who's that? Your mother?
+SNIPER	m	Where is he keeping them?
+SNIPER	m	You're not gonna think it's funny when I cut you a new twat. RNewman / Endeavor Draft 63.
+LUZ	f	Hijo de Puta!
+LUZ	f	You're coming with me Maricons!
+SNIPER	m	Wait...
+HENCHMAN	m	Fuck that, you wait.
+HENCHMAN	m	Man...what happened?
+SNIPER	m	Moron. RNewman / Endeavor Draft 64.
+BENZ	m	Anything?
+SNIPER	m	She wasn't very cooperative.
+BENZ	m	What the hell is that supposed to mean?
+SNIPER	m	They're in a church. I know where.
+HENCHMAN	m	Please, Father. Have mercy.
+PADRE	m	God has mercy. I don't. RNewman / Endeavor Draft 65.
+SNIPER	m	Where is he?
+PADRE	m	In your nightmares.
+PADRE	m	You're afraid to get your hands dirty, so you make others carry out your sins.
+BENZ	m	You want to be a martyr? I'm good at making martyrs.
+PADRE	m	Like McLaughlin? RNewman / Endeavor Draft 66.
+BENZ	m	That's right. In our own way, we can all be like Christ. Too bad for you, you chose the worst way.
+PADRE	m	You're so drunk with power, you ordered the hit on your own boss.
+BENZ	m	This is the boss.
+BENZ	m	Now for the last time... where are my wife and daughter?
+ELEKTRA	f	I came back to look for you, and I found him like... this. RNewman / Endeavor Draft 67.
+ELEKTRA	f	"The more things change--"
+MACHETE ELEKTRA	m	(in Spanish) (in Spanish)
+ELEKTRA	f	That's what my Grandma used to say.
+MACHETE	m	The guards told me that before they beat me.
+ELEKTRA	f	I'm sorry.
+MACHETE	m	You came to arrest me?
+ELEKTRA	f	Not me. I'm out. But others will.
+MACHETE	m	Out? RNewman / Endeavor Draft 68.
+ELEKTRA	f	They don't care about Booth. They just want to wipe you out. You're an embarrassment to the feds. I guess I am, too.
+ELEKTRA	f	You could have killed me.
+MACHETE	m	The day's still young.
+ELEKTRA	f	I want to help you.
+MACHETE	m	Help me find Booth.
+ELEKTRA	f	First things first, I need a drink.
+ELEKTRA	f	Shit my heel is broke.
+MACHETE	m	Give it here.
+ELEKTRA	f	It's nice having a man around. It's been a while.
+ELEKTRA	f	How long awhile you ask? Well, About two years. RNewman / Endeavor Draft 69.
+ELEKTRA	f	Oh that got your attention? Hmm, Actually you're better than my last boyfriend. He never listened. I don't know why I got so desperate. Don't want to grow old alone I guess. You ever get that feeling you're alone and that you'll never meet that one person...
+ELEKTRA	f	Are you listening to me?
+MACHETE	m	Si.
+ELEKTRA	f	Give me that bottle.
+ELEKTRA	f	So what happens now, when you get him, that's it? It's over?
+ELEKTRA	f	Did you hear that? Stay here.
+ELEKTRA	f	Oh wow...is that a machete in your pocket or...
+MACHETE	m	You're borracha. RNewman / Endeavor Draft 70.
+ELEKTRA	f	I'm gonna fuck your brains out old man!
+ELEKTRA	f	Wow that was...
+ELEKTRA	f	Oh my god...did I wake the neighbors? RNewman / Endeavor Draft 71.
+ELEKTRA	f	This is one of ours. He works for the agency.
+MACHETE	m	Come on!
+SNIPER	m	Machete you can come quietly and we won't hurt the girl.
+SNIPER	m	You can trust me. I've brought one of your old friends to vouch for me.
+ERHMAN	?	Hola Machete amigo, long time!
+MACHETE	m	Not long enough.
+ELEKTRA	f	My friend and I need a little help.
+MAN	m	It's him.
+SNIPER	m	You punk kids! That's it!
+LUZ	f	Cabron, I told you it wouldn't end pretty. (to the guys) Bring him inside. RNewman / Endeavor Draft 73.
+SNIPER	m	You, I got you, what...
+LUZ	f	It pays to have friends, Pendejo. They got your ass when you need it.
+SNIPER	m	No! No!
+MACHETE	m	Looking for someone?
+SNIPER	m	Oh my God... Please... No. Please!
+BENZ	m	Goddamn A T & T. RNewman / Endeavor Draft 74.
+MCLAUGHLIN	m	Where the fuck have you been?
+BENZ	m	Taking care of business.
+MCLAUGHLIN	m	My business is here. Did you see those crews out there? They expect a statement. (noticing Booth's ragged
+APPEARANCE)	?	Jesus, what happened to you?
+BENZ	m	Nothing. Just had a little talk with a priest.
+MCLAUGHLIN	m	Well, what am I going to tell `em?
+BENZ	m	Whatever you tell them, I'm sure it'll be golden. (off McLaughlin's blank
+LOOK)	?	Just feed them the line about standing steadfast in the face of terrorism, continuing the fight. You know it by heart.
+MCLAUGHLIN	m	I do. All right. Once this is done, you need to take a vacation. You need some air.
+BENZ	m	Maybe.
+MCLAUGHLIN	m	No doubt about it. You're losing your marbles, Booth. RNewman / Endeavor Draft 75.
+MCLAUGHLIN	m	It's showtime.
+MCLAUGHLIN	m	I'd just like to thank the all of you for your support during this difficult time.
+MCLAUGHLIN	m	My will to fight has only just begun. We must not let the terrorists win this battle for our land, our America! Thank you.
+REPORTER	m	Congressman, there are reports implicating your advisors as having orchestrated the shooting. Would you care to comment? RNewman / Endeavor Draft 76.
+MCLAUGHLIN	m	Do what now?
+BENZ	m	You want to be a martyr? I'm good at making martyrs.
+PADRE	m	Like McLaughlin?
+BENZ	m	That's right.
+PADRE	m	You're so drunk with power, you ordered the hit on your own boss.
+MCLAUGHLIN	m	No further comment. Thank you.
+MCLAUGHLIN	m	Could somebody fucking help me? I think I'm having a heart attack.
+MCLAUGHLIN	m	What did you do, Booth? You jeopardized my career with that wetback! He could have fucking killed me!
+BENZ	m	Not with that scope.
+MCLAUGHLIN	m	You stupid sonofabitch. You pull something like this, without consulting me?! You fucked me. You are a stupid sonofabitch. The press is going to demand answers! You got another brilliant solution for that?
+BENZ	m	Von! Von!
+MACHETE	m	Follow him.
+MAN	m	Shouldn't you--?
+VON	m	Let him stew awhile.
+VON	m	Von here.
+BENZ	m	Where are you, goddamnit!? I'm bringing him up.
+VON	m	Up? Up where?
+BENZ	m	Up your fat, fishbelly ass! RNewman / Endeavor Draft 79.
+VON	m	Fine. Bring him here. Papa Von's got a big surprise a-waiting.
+ELEKTRA	f	Shit. I don't even want to know who she's fucking now.
+ELEKTRA	f	Fucking shit, bitch. Make him pay for a goddamn hotel.
+ELEKTRA	f	Sis?
+TORREZ	m	She was just a warmup. Now I'm ready for dessert.
+BENZ	m	Shut the gate quick! He's after me!
+BENZ	m	He killed McLaughlin. He's coming after me.
+VON	m	And you led him right to Papa Von. That's some kind of thank you.
+BENZ	m	I saw to it that McLaughlin gave you the keys to this fortress. You owe us.
+VON	m	The senator, maybe. But what exactly do I owe you, turncoat?
+BENZ	m	What are you talkin--
+VON	m	You held the hand that held the gun, Booth. Just as good as you killed him.
+VON	m	Put the traitor in the brig.
+BENZ	m	You can't do this to me, Von! You need me!
+BENZ	m	Glory, glory, hallelujah.
+TORREZ	m	Machete!
+TORREZ	m	You never learned to stay down, pendejo. I killed you once. I can do it again.
+TORREZ	m	All roads lead to Hell, eh, Machete?
+TORREZ	m	Most people die in the fire, but you survived, you unlucky bastard.
+MACHETE	m	I was born in the fire. It wasn't luck. RNewman / Endeavor Draft 83.
+TORREZ	m	Faith? Yeah, faith got you a good job picking melons. While I bought the world.
+MACHETE	m	What good is it...
+TORREZ	m	Machete, we were friends. We stood for something...
+MACHETE	m	I'm still standing...Puta.
+MACHETE	m	What's the problem officer?
+MACHETE	m	Let me give you my ID.
+ELEKTRA	f	What's your name?
+MACHETE	m	Machete.
+ELEKTRA	f	I called in some favors. Look at this. All the right papers; a real identity. You could start over, be a real person.
+MACHETE	m	Why do I want to be a real person... when I'm already a myth?
+ELEKTRA	f	Where will you go?
+MACHETE	m	Torrez was just an errand boy. I'm going to find the man who sent the message.
+ELEKTRA	f	I'll ride with you. RNewman / Endeavor Draft 85.
+MOTHER	f	Say a prayer to El Machete to protect you.
+MILITIA MAN	m	Did you get `em?
+2ND MINUTEMAN	m	I don't know. They're like brown jackrabbits. Let's see if they'll show their little white tails.
+MILITIA MAN	m	Holy shit! RNewman / Endeavor Draft 86.
+MACHETE	m	Light a candle... Say a prayer...
+

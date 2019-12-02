@@ -1,0 +1,859 @@
+CUSTOMER	m	Do you have the book On The Road by  Jack Kerouac?
+TOURIST	m	Do you have a copy of On The Road by  Jack Kerouac?
+TOURIST	m	Thanks.
+CHARLIE	m	Sherri! What are you doing?
+SHERRI	f	I'm leaving you.
+CHARLIE	m	Oh, thank God... I thought you were  robbing our own home, because frankly,  that's insane. I mean, what could  you possibly gain by robbing your  own home? I don't mean to meddle,  but isn't it better to rob other  peoples' homes? Start accumulating  their wealth as opposed to just  reaccumulating your own wealth.
+SHERRI	f	That's not funny, Charlie. I'm really  leaving.
+CHARLIE	m	What?! Just because we had a fight  last night?
+SHERRI	f	We've had a fight every night for  two months. Ever since I brought up  the subject of marriage, you've found  fault with everything I do. Why  couldn't we have gotten married,  Charlie?
+CHARLIE	m	I'm too young to get married. I'm only twenty-nine and a half. We  love living together.
+SHERRI	f	It's been two years now. I need  something more.
+CHARLIE	m	See, Sherri, this is frustrating for  me, okay. When we first started going  out I thought we agreed that we  weren't the sort of people who got  married.
+SHERRI	f	That's like saying we're not the  sort of people who are going to grow  old. We're not going to fall into  that "growing old" trap. Face it,  you've got a problem with commitment,  Charlie. Take a look at your other  girlfriends. Every time you get close  to a commitment there's something  wrong with them.
+CHARLIE	m	Hey, I broke up with them for good  reasons.
+SHERRI	f	What about Sandy?
+CHARLIE	m	Sandy was an alcoholic.
+SHERRI	f	No-no-no. You thought she was an  alcoholic. She just drank more than  you drank. What about Jill?
+CHARLIE	m	She hated my family.
+SHERRI	f	You thought she hated your family.  Nobody hates your family. Everybody  loves your family. What about Julie?
+CHARLIE	m	She smelled like soup.
+SHERRI	f	What does that mean?
+CHARLIE	m	She smelled exactly like Campbell's  Beef Vegetable soup. She was dirty,  physically dirty.
+SHERRI	f	Well, Charlie, I wonder what you're  gonna say were my problems? Are you  gonna tell your friends that I was a  junkie, that I wasn't supportive  enough or that I smelled like relish?  Charlie, I loved you. It could have  worked out. Think about it.
+CHARLIE	m	Tony, Teenage Fan Club, they're  Scottish you know?
+TONY	m	Oh.
+CHARLIE	m	I had that dream again.
+TONY	m	Oh, is that the one where you suspect  that a fat man in a diaper, on a  lazy susan has interfered with your  plans for the evening?
+CHARLIE	m	No, but I have had that one. No, in  this one I'm in love...
+TONY	m	Yeah.
+CHARLIE	m	And I say to myself, 'I've finally  found somebody that I'm truly  comfortable with.' You know when  you're so comfortable that you'll  let them put makeup on you to see  what you would look like if you were  a girl. Anyways you know what I do  in the dream next?
+TONY	m	You propose?
+CHARLIE	m	No. I die.
+TONY	m	But Charlie, you're a normal suburban  guy at heart, from a normal suburban  family. Didn't you tell me you always  wanted to get married and have a  family.
+CHARLIE	m	Yes, but, I'm afraid, okay? There  are seven main rites of passage in a  man's life. Birth, first day of  school, last day of school. Marriage.  Kids. Retirement. Death. I'm at  marriage. I'm two rites of passage  away from death.
+TONY	m	I'm sorry, I wasn't listening.
+TONY	m	Christ. It's the cops.
+CHARLIE	m	Tony, you are a cop.
+TONY	m	I know. Isn't it awful? I work with  those guys. They're assholes.
+TONY	m	Salve zio mio.
+UNCLE	m	Allora? Che catzo fai, Charlie?
+CHARLIE	m	Hi, Uncle Giuseppi.
+UNCLE	m	Tony, come' stai bello il tuo pappa  e' in galera per la terza volta.
+UNCLE	m	I'll have the waitress bring you  cappuccino.
+CHARLIE	m	What did your uncle say?
+TONY	m	He says my Dad's back in jail again.
+CHARLIE	m	Ah, I'm sorry, man.
+TONY	m	You know, it's funny I don't even  feel related to my parents anymore.  I feel like your mom and dad are  more like my parents. I feel more  Scottish than Italian.
+CHARLIE	m	Tony Spiletti, I don't think you  could get more Italian than that.  Unless of course your name was Tony  Italian Guy.
+CHARLIE	m	I'm so bummed. Sherri was great,  wasn't she? I'm an asshole, aren't
+TONY	m	Yes.
+CHARLIE	m	You've got to help me get through  this night.
+TONY	m	You've just got to get back on the  horse.
+CHARLIE	m	Waitress, I'm sorry, there seems to  be a mistake. I ordered the large  cappuccino.
+CHARLIE	m	Do you think these cups could be  larger? They're practically bowls.
+CHARLIE	m	I feel like I'm having Campbell's  Cuppuccino.
+TONY	m	Join us in a cup of coffee? There's  enough room?
+GIRLS	f	Sure!
+SUSAN	f	My name's Susan and this is June. We  think you're funny.
+TONY	m	My name's Tony. This is my friend  Charlie.
+CHARLIE	m	Look, Tony, I'm going home. See you  later, girls.
+TONY	m	You really don't understand, do you?  When a girl comes over to your table  and says, 'I think you're funny.' It  means you've pretty much been given  the keys to the city. Charlie, this  is big.
+CHARLIE	m	Perhaps you've confused me with  someone who gives a shit. Here's  what's gonna happen, Tony. We'll end  up going out with them tonight, maybe  even home with them. Well go out for  two months. Soon she'll move in,  we'll be happy, She'll want more of  a commitment. I'll be terrified and  I'll do something to ruin it. Just  like I did with Sherri.
+JUNE	f	Poor, guy... He seemed so nice.
+TONY	m	I just broke up with somebody as  well. She left me high and dry.
+HARRIET	f	Goddamn shoplifter. But I got him! You're next.
+CHARLIE	m	I've come at a bad time.
+HARRIET	f	No stay!
+CHARLIE	m	No, no, really... Obviously you've  got things you have to do. You've  got to dismember the rest of his  bloody torso. Dig a makeshift shallow  grave. Cover the body with quick  lime. Really so much to do, so little  time and I'm only in the way here,  I'm just gonna go. Good luck.
+HARRIET	f	Oh, this! Oh, no, this is what he  stole. This isn't a piece of him or  anything. This is Icelandic Shank.
+CHARLIE	m	I bet it goes well with a nice  Chianti. Fittfittfitt.
+HARRIET	f	Can I help you?
+CHARLIE	m	Yes. Do you have haggis?
+HARRIET	f	Yes, we do. It's over here in our  Scottish Cuts section. One?
+CHARLIE	m	Yes! I've never been able to find  haggis anywhere, except at my parents'  house. They're Scottish.
+HARRIET	f	That'll be fifteen, seventy-nine.  Will there be anything else?
+CHARLIE	m	Yes. I know it's a long shot, but  you wouldn't by any chance happen to  have any Prussian Venison?
+HARRIET	f	Now where in the world would I get  Prussian Venison?
+CHARLIE	m	Mom, Dad, I'm here.
+STUART 	m	We're in here, son.
+STUART	m	Come give your old man a kiss or  I'll kick your teeth in.
+MAY	f	Charlie, put on Charlie Pride, would  ya? Oh, I love Charlie Pride.
+STUART	m	May, shut it.
+CHARLIE	m	Hey, William.
+STUART	m	SCORES! MAGIC GOAL!
+TONY	m	Aye -- magic.
+STUART	m	Let's have a look at the re-play.  William, move your head. Look at the  size of that ooy's heed. I'm not  kidding. It's like an orange on a  tooth pick.
+MAY	f	Stuart, you're going to give the boy  a complex.
+STUART	m	I'm not kidding. That's a huge  noggin'. It has it's own weather  system. It's a virtual planetoid. Heed! Move!
+MAY	f	Is that enough potatoes, Charlie?
+CHARLIE	m	Enough to recreate Devil's Tower in  "Close Encounters".
+STUART	m	Do I smell haggis?
+CHARLIE	m	Aye, you do.
+MAY	f	I'll put it in the frig.
+CHARLIE	m	Dad, what are you doing to Tony now?  Why do you abuse his mind like this?
+STUART	m	That's the latest report from Lyndon  H. LaRouche, outlining how the Queen  and the Rothschilds masterminded the  Soviet overthrow, so that they could  reclaim lands they had annexed during  the Holy Roman Empire.
+TONY	m	You know a lot of this makes sense.
+CHARLIE	m	I think you're suffering from the  Stockholm Syndrome, where the hostages  start to relate to their captors.
+STUART	m	Listen, Sonny Jim, it's a known fact  there's a society of the five  wealthiest people in the world, called  the Pentaverate, who run everything  and meet three times a year at a  secret country mansion in Colorado,  known as "The Meadows."
+CHARLIE	m	And that's obviously why we haven't  heard about it in the newspapers.
+STUART	m	That's right. They fuckin' own the  papers, smartass. And everything  else. Why do you think Scotland's  not been able to get independence?  Because the Queen the Pentavirate  and those English dome heads in West  Minster won't have it.
+CHARLIE	m	Who are the other members of this  pentaverate?
+STUART	m	The Queen, the Rothchilds, the Gettys,  the Vatican, and Colonel Sanders  before he went tits up. Oh, I hated  the Colonel with his wee beady eyes.  And that smug look on his face.
+CHARLIE	m	Dad how can you hate "the Colonel?"
+STUART	m	Because the Colonel puts an addictive  chemical in it that makes you crave  it fortnightly.
+CHARLIE	m	Interesting... coo-coo
+MAY	f	Would anyone like a juice? Charlie,  did I tell you, we bought a Juice  Tiger?
+CHARLIE	m	A Juice Tiger?
+MAY	f	Aye, it's a juicer. It's part of my  National Enquirer, Garth Brooks diet.  Would you like potato juice?
+CHARLIE	m	Thank you, no.
+MAY	f	Sherri's late.
+CHARLIE	m	Yeah, uh, Sherri and I broke up.
+MAY	f	Oh, you didn't. Sherri was the  daughter your father was never able  to give me.
+CHARLIE	m	I'm just not ready for marriage. I'm  twenty-nine and my poems haven't  even been published yet.
+STUART	m	But it's not just the poetry is it  son? You're afraid if you get married  you'll lose your muse. Look at me, I  was a strapping young butcher, at  the height of my creative powers.  When it came to de-boning a side of  beef, there was nobody that could  touch me. Then I married your mother.  And people would still stand in awe  as I filleted a shoulder of lamb.
+MAY	f	Maybe it's just as well not to get  married, look at the news. Where did  I put it?
+STUART	m	Heed. Move that melon of yours into  the bathroom and get the paper for  your mother.
+CHARLIE	m	That's not news, Dad. That's bullshit.  I wouldn't wipe my ass with that  paper.
+STUART	m	What are you talking about? It's the  fifth highest circulating paper in  the United States, I'll have you  know.
+MAY	f	Oh, here it is. Mrs. X. The Honeymoon  Murderer. She marries men under fake  identities, and then murders them.  She killed some German martial arts  expert, and some plumber named Ralph  Elliot. Her whereabouts are unknown.
+STUART	m	Scores! Two nil. Magic!
+TONY	m	Ah, beautiful goal. We HOLD on the  TV set.
+MAY	f	Ah, you're steaming.
+TONY	m	See you later, Mrs. MacKenzie.
+MAY	f	Oh, you've turned into a sexy Italian  bastard.
+CHARLIE	m	See you later, mom. See you later, Dad.
+STUART	m	Fine. Go! You've stayed your hour.
+WILLIAM	m	Take me with you.
+MAN	m	Excuse me. You wouldn't happen to  have...
+MAN	m	Thanks.
+HARRIET	f	Oh, hi haggis, right?
+CHARLIE	m	It was a big hit.
+HARRIET	f	I remember you told me you were  Scottish, but do you really like  haggis.
+CHARLIE	m	No. I think it's repellent in every  way. In fact, I think most Scottish  cuisine is based on a dare.
+HARRIET	f	Can I help you? Sorry, I'm really busy.
+CHARLIE	m	Look, um, my dad's a butcher, do you  need a hand?
+HARRIET	f	Well, actually, Yes.
+HARRIET	f	Can you get me four Belgian  porterhouses? Do you know what a  porterhouse looks like?
+CHARLIE	m	I'm meat literate.
+CUSTOMER 	m	Yes, do you have any fresh blubber?
+CHARLIE	m	I'll check. You want blubber, right?
+CUSTOMER	m	Yeah.
+CUSTOMER	m	My parents are coming to town. You  know how parents are. They'll drive  you nuts.
+HARRIET	f	Look, I'm really grateful. Can I  offer you some meat as payment?  Please, help yourself to some meat.
+CHARLIE	m	I'm trying to be a vegetarian.
+HARRIET	f	Trying to be a vegetarian?
+CHARLIE	m	Yeah, the problem is I really love  hot-dogs.
+HARRIET	f	I think the meat industry invented  hot-dogs to stop people from becoming  vegetarians. There's got to be  something I can do to repay you.
+CHARLIE	m	You could take me to a nice romantic  dinner.
+CHARLIE	m	This reminds me of my ex-girlfriend.
+HARRIET	f	I hate talking about old  relationships.
+CHARLIE	m	Then let's not and say we did.
+HARRIET	f	That was easy -- What a nice guy.  You've probably never done a mean  thing in your life.
+CHARLIE	m	You'd be surprised.
+HARRIET	f	I'd like to hear. Name me something bad you've done in  your life.
+CHARLIE	m	Are you kidding me?
+HARRIET	f	No. Did you ever steal anything? You  ever hit someone?
+CHARLIE	m	Well, I've been in fights. Let me  think.
+HARRIET	f	Not one bad thing, Charlie?
+CHARLIE	m	Tell me something bad you've done.  And it better be bad. I mean, evil.
+HARRIET	f	How evil?
+CHARLIE	m	Really evil. Like how many people have you brutally  murdered?
+HARRIET	f	"Brutal" is such a subjective word.  I mean, what's brutal to one person  might be totally reasonable to  another.
+CHARLIE	m	This just reminded her of that scene  in "Brian's Song".
+HARRIET	f	Actually, he just proposed to her.  Those are tears of joy.
+HARRIET	f	Prost.
+MAN	m	Danke, Fraulein.
+CHARLIE	m	You're very smart. It's a shame I'm  going to have to destroy you.
+HARRIET	f	Do bright women intimidate you?
+CHARLIE	m	No, not at all.
+HARRIET	f	Really, what do you look for in women  you date?
+CHARLIE	m	Well, I know everyone always say  "sense of humor", but I'd have to go  with breast size. How about you? In a guy.
+HARRIET	f	Income of course, and then... ...savings.
+CHARLIE	m	Me likey how you thinkey.
+HARRIET	f	I'll make us some tea.
+CHARLIE	m	Hey, you know what this apartment  needs? A really large oversized poster  of Atlantic City.
+HARRIET	f	I used to live there. That's where I  had my first supermarket job.
+HARRIET 	f	I only have chamomile. I hope that's  all right.
+HARRIET	f	It's North-South. For health reasons. See... I had  this friend, he was a martial arts  expert. Anyways, he used to sleep  North-South. I don't know... It's a  martial arts thing and it just sort  of became a habit with me.
+CHARLIE	m	You know Scotland has it's own martial  arts. It's called FUCKU. It's mostly  head butting and kicking people when  they're on the ground.
+HARRIET	f	Late?
+CHARLIE	m	No. No. Not for me.
+HARRIET	f	Who for then?
+CHARLIE	m	Who for then what?
+HARRIET	f	Well, you looked at your watch and  said it wasn't late for you... I  wondered who it was late for.
+CHARLIE	m	Not me. No, Sir. Not here. Maybe it is late.
+CHARLIE	m	Look, the truth is, yes, I had a  great time, and I'd like to kiss  you, but if we do kiss, then we'll  kiss on the couch and if we kiss on  the couch, then we'll kiss in the  bedroom, and once you're in the  bedroom -- Well, the thing is, I  always rush it. And this time I feel  like maybe I should wait. Maybe we  should let it build naturally and  grow, instead of just immediately  spending the night together.
+HARRIET	f	I want to spend the night together.
+CHARLIE	m	I have no problem with that.
+HARRIET	f	Yes! Yes!
+HARRIET	f	Yes Ralph. I will. Ralph.
+HARRIET 	f	Now now Ralph!
+CHARLIE	m	Harriet...? Harriet...? You were having a dream, or...? You  kept saying the name Ralph.
+HARRIET	f	Ralph?
+CHARLIE	m	Ralph. I heard you say it.
+HARRIET	f	That's odd. Just today I was thinking  about, her. She's a friend.
+CHARLIE	m	Is she nice --? Ralph...
+HARRIET	f	Yeah. She's great.
+CHARLIE	m	You know... with this drought in  California total strangers are urged  to shower together.
+ROSE	f	Go away.
+CHARLIE	m	Oh God. I'm sorry. Jesus. Excuse me.
+CHARLIE	m	Hi. I'm really sorry. I must have  scared the... I'm Harriet's friend,  Charlie, and you must be... Ralph?
+ROSE	f	I'm Harriet's sister, Rose. And this  is Harriet's note.
+ROSE	f	'Dear Charlie, I didn't want to wake  you, make yourself at home, thanks  for making me smile.' Harriet.
+CHARLIE	m	That's a very nice note.
+ROSE	f	I'll make you some breakfast.
+CHARLIE	m	Gee, I'd love to but I'm running  late.
+ROSE	f	What would you say to blueberry  pancakes, bacon, fresh squeezed grape  juice and Kona coffee?
+ROSE	f	I'm sorry I didn't have any of those  other things.
+CHARLIE	m	Hey, that stuff'll kill you while  Fruit Loops are light and probably  reasonably high in Fiber. I like  Apple Jacks too.
+ROSE	f	Got 'em.
+CHARLIE	m	So this is your apartment?
+ROSE	f	Yes. She's been here the past three  months... ever since she came back  from Miami. I used to visit her  occasionally. She didn't speak of  me?
+CHARLIE	m	She told me about a martial arts guy  and there was some discussion about  Ralph...
+ROSE	f	She spoke of them...?
+CHARLIE	m	She spoke of the martial arts guy  and screamed about Ralph...
+ROSE	f	Well, you know Harriet.
+CHARLIE	m	Actually, I really don't.
+ROSE	f	But you did have sex with her?
+CHARLIE	m	Hello.
+ROSE	f	Yet you still don't know her. See, that's the problem with sex.  It's not very revealing.
+CHARLIE	m	My, look at the time.
+ROSE	f	You should be careful, Charlie.
+CHARLIE	m	I am... usually. I just... You should  know, this is very unusual that I  would do this so soon, in this day  and age particularly, but... We just  really hit it off. We did. And...
+ROSE	f	I'm gonna go now. I won't tell Harriet  that anything happened.
+CHARLIE	m	But... nothing did happen.
+ROSE	f	Exactly. Or she would be jealous.  And when she gets jealous, we both  know what she's capable of.
+CHARLIE	m	No, we don't. You do, like I said, I  just met her.
+ROSE	f	You'll be okay, Charlie. Just be  careful.
+FRED	m	Hey, Charlie. How you doin'?
+CHARLIE	m	Good. Good. Look, Fred... You got a lot of girlfriends, right?  You know any girls named Ralph?
+FRED	m	Ralph? Gee, Charlie. Isn't that a  guy's name?
+CHARLIE	m	Well, not necessarily, but... Never  mind. Thanks, Fred.
+CHARLIE	m	Hey Penny, I wanted to ask you --  you know some girls named Ralph,  right? I mean, that's a girl's name  also, isn't it?
+PENNY	f	I don't think so, Charlie... Uh...
+CHARLIE	m	Forget it. Thanks.
+TONY 	m	You know I've lived in this city all  my life and I've never been to  Alcatraz.
+PARK RANGER	m	Hello, everyone I'm a park ranger  and I will be leading you on the  tour. All the park rangers here at  Alcatraz were at one time guards,  myself included. My name is John  Johnson, but everyone here calls me  Vicki. Will you please follow me?
+TONY	m	You're glowing, Charlie. The man's  in love.
+CHARLIE	m	Sssh... Stop it. I'm trying to listen.
+PARK RANGER	m	This is the main cell block area.  Home to such famous criminals as Al  Capone, Micky Cohen, Joseph "Dutch"  Critzer, and Robert Stroud, the famous  Bird Man of Alcatraz. Follow me,  please.
+PARK RANGER	m	This is the cell for solitary  confinement, that over the years has  come to be known as Times Square.
+TONY	m	So did you and Harriet?... you know...
+CHARLIE	m	Sssh I don't want to talk about it.
+TONY	m	With that look, you don't have to  talk about it. The grin alone could  get you five to seven years.
+CHARLIE	m	Tony, get your mind out of the gutter.  All you need to know is that she's a  sweet, kind and loving person.
+PARK RANGER	m	Now this is something none of the  other tour guides will tell you. In  this particular cell block Machine  Gunn Kelly had, what we call in the  prison system, a "bitch." And one  day, in a jealous rage, Kelly took a  makeshift knife, or "shiv," and cut  out his "bitch's" eyes.
+CHARLIE	m	Look, what can I tell you. I'm  smitten. I'm in deep smit. I dunno.  I just don't wanna talk about it,  because then I start analyzing and  that's not good for me.
+TONY	m	Good. I think that's good. Just let  it happen.
+CHARLIE	m	Exactly. That's what's gonna be  different this time. Something strange  happens, let it go. It's not my  business... Like Ralph. She says  Ralph in her sleep.
+TONY	m	Who's Ralph?
+CHARLIE	m	I don't know who Ralph is. Moreover,  I don't want to know.
+TONY	m	Good.
+PARK RANGER	m	And as if blinding his "bitch" wasn't  enough retribution for Kelly, the  next day he and four other inmates  took turns pissing into the "bitch's"  ocular cavity.
+CHARLIE	m	Exactly. Tony, I'm happy. Don't let me screw  this one up.
+ROSE	f	Did you have a nice date last night?
+HARRIET	f	Rose, I don't really --
+ROSE	f	He disturbed me while I was naked in  the shower this morning.
+HARRIET	f	Yeah, he stayed over?
+ROSE	f	I didn't mind. Charlie and I laughed  about it over breakfast.
+HARRIET	f	That's good.
+ROSE	f	He said you had great sex last night.
+HARRIET	f	He did? Yeah.
+ROSE	f	He seems really stuck on you. I hope  for you that it lasts.
+HARRIET	f	Rose he's a sweet, kind and loving  person. We like each other, but I  don't want to think any further.  It's taken me a long time to get  back to dating, and I want to take  things real steady this time.
+ROSE	f	Well, you can trust me not to tell  him anything.
+HARRIET	f	He was quite happy not to talk about  the past.
+ROSE	f	I did a sketch of him.
+HARRIET	f	That's good.
+ROSE	f	Think I've caught him?
+HARRIET	f	The eyes are good.
+ROSE	f	Charlie really liked it.
+HARRIET	f	It's a good likeness.
+ROSE	f	Boy, I really hope it works out.
+HARRIET	f	Rose, I don't wanna screw this one  up.
+CHARLIE	m	Hey, uh... Ralph...?
+DELIVERY GUY	m	I'm Gilbert.
+CHARLIE	m	Shit.
+HARRIET	f	Charlie, they're beautiful. I'll put  them right in water.
+CHARLIE	m	You look great.
+HARRIET	f	I was just getting dressed. What do you think of this skirt?
+CHARLIE	m	Honestly? I'd leave it off.
+HARRIET	f	So then you think I could go to a  poetry concert like this?
+CHARLIE	m	Let's forget the poetry concert.  It's already been nine hours since I  last made love to you.
+HARRIET	f	Come on we're meeting your best  friend. I wanna look good. The second  I go to the ladies room he's gonna  tell you what he really thinks of  me.
+HARRIET	f	Come on, Charlie. We have to be there  in fifteen minutes.
+CHARLIE	m	Fifteen minutes. Perfect.
+CHARLIE	m	Maybe later.
+ROSE 	f	I thought of calling you.
+CHARLIE	m	Aaaahhh!
+ROSE	f	To warn you, Charlie. There are just some things you should  know, about Harriet.
+CHARLIE	m	About Harriet?
+ROSE	f	About her past.
+CHARLIE	m	I don't wanna know. I mean, look  everyone has some skeletons in their  past. I only care about the future.  Not the past.
+ROSE	f	Here's the thing. I may have to tell  Harriet.
+CHARLIE	m	Tell her what?
+ROSE	f	That we're lovers.
+CHARLIE	m	We're not lovers.
+ROSE	f	I know, and it's a damn shame.
+HARRIET	f	I hope I'm not interrupting.
+CHARLIE	m	No, not at all. We were just talking  about... Rose and I met yesterday,  so...
+HARRIET	f	So I heard.
+HARRIET	f	So, don't you think we look alike?
+ROSE	f	Oh, we do not. Harriet was always  prettier than me. And a heck of a  lot more popular. She always had  boyfriends. The only thing I ever  got was good grades.
+CHARLIE	m	Good grades are good.
+HARRIET	f	She's just being kind. Show Charlie  one of your photographs, Rose. Rose  is a great artist.
+ROSE	f	No, Harriet. I don't want to. They're  not good.
+HARRIET	f	You're so modest. If I weren't here  to brag for you, I just don't know... Show it to him, Rose. Do it.
+CHARLIE	m	It's beautiful...
+ROSE	f	Thanks.
+CHARLIE	m	What is it?
+ROSE	f	I dunno.
+CHARLIE	m	What do you call it?
+ROSE	f	I dunno.
+CHARLIE	m	A lot artists don't like to title  their work. They feel it biases the  viewer.
+ROSE	f	It is titled. It's called "I dunno".
+HARRIET	f	We should get going, Charlie. Thanks,  Rose... See you later.
+ROSE	f	Bye, Charlie.
+CHARLIE	m	Rose, great to see you. We should  all go out together some time. The  three of us. That would be great.  That would be... interesting.
+CHARLIE	m	I think you're going to love Alan  Ginsberg. He's great.
+HARRIET	f	Oh, I know all about him.
+TONY 	m	Hey Charlie!
+TONY	m	Sorry we're late.
+TONY	m	You must be Harriet. I've heard a  lot about you.
+CHARLIE	m	This is Harriet.
+TONY	m	Oh. Sorry. Of course. I apologize. Charlie described you  as much older. And heavier.
+HARRIET	f	Oh, he did...?
+CHARLIE	m	Thank you, Tony. This is my best  friend.
+TONY	m	And this is Susan. Charlie, you  remember her from Uncle Giuseppi's.
+CHARLIE	m	Yes, I do.
+SUSAN	f	You're funny...
+TONY	m	I give Susan one night.
+ARCADE MAN	m	One more and you get your pick.
+CHARLIE	m	You do it.
+HARRIET	f	No, Charlie. I'm the worst.
+TONY	m	Come on, you'll be great...
+ARCADE MAN	m	Hey!
+HARRIET	f	Sorry... I told you Charlie.
+CHARLIE	m	No, no, you're okay, you're just  having control problems.
+CHARLIE	m	I know this is really, really cheesy,  but in a way this is one of the places  in San Francisco I'm most proud of.
+HARRIET	f	Yeah, let's go in.
+THRESHOLD KEEPER	m	Boo.
+OWNER	m	Hi. I'm Bill, welcome to my wax  museum.
+HARRIET	f	I feel so safe with you right now.  You're never going to leave me, are  you? I feel like I could be here  forever.
+HARRIET	f	Ralph! No, Ralph!
+CHARLIE	m	Well, this is it.
+HARRIET	f	It'll be fine.
+CHARLIE	m	Mom, Dad, we're here.
+MAY	f	Ah, Charlie is this the wee Harriet.  Ah, she's beautiful.
+HARRIET	f	Thank you.
+MAY	f	She's so sweet. I hope you keep her. Stuart, come out here. You tube.
+STUART	m	Ah, it's the wee Harriet.
+MAY	f	Stuart, put your pants on.
+STUART	m	Hold your horses. Heed! Pants!
+CHARLIE	m	Dad, what's Al Pacino doing on the  Scottish wall of fame?
+STUART	m	Oh, that's for Tony. So, Charlie  tells me you're a butcher. Let's  talk meat.
+CHARLIE	m	Dad, no one wants to talk shop.  Especially butcher shop.
+STUART	m	Come here.
+CHARLIE	m	Ah! Dad, dad I have a back zit, man  it kills.
+HARRIET	f	I'm sorry. I just... You just  surprised me. I'm sorry.
+STUART	m	I like this one Charlie. She's quite  a filly.
+HARRIET	f	I'm really embarrassed.
+STUART	m	Don't be embarrassed about having a  good strong butcher's grip. Do you  link your own sausage?
+MAY	f	Oh, ignore him. Come have a look at  some photos of Charlie when he was a  wee'n.
+CHARLIE	m	Oh Mom, don't start with the pictures.
+MAY	f	Ah, Charlie, lighten up. You've got  a pickle up your ass.
+CHARLIE	m	I'm gonna use the bathroom. You be  okay alone with them?
+HARRIET	f	Fine. Don't worry about it. Hurry.
+STUART	m	Make sure there's paper, Charlie.
+MAY	f	Make sure you leave the seat down.
+CHARLIE	m	Ma, just show her the pictures.
+STUART	m	And light a match.
+MAY	f	He always leaves the seat up. He's  gotta learn.
+MAY	f	This is Charlie with his Uncle Ecky.  He's a policeman in Canada. And our  cousins Ruth and Jack. He's just got  a restraining order from his wife.  She's a lovely girl. This is Billy.  He's a member of parliament. He  drinks.
+HARRIET	f	What a nice family you have.
+HARRIET 	f	Charlie was the cutest baby.
+STUART 	m	You okay in there, Charlie? You didn't  fall in, did you?
+CHARLIE	m	Jesus...
+HARRIET	f	I can't believe the resemblance  between you and Charlie, Mrs.  MacKenzie.
+HARRIET 	f	You have the same smile. It's so  incredible.
+CHARLIE	m	So, that was some move you put on my  Dad, there. Did you study Karate,  or...?
+HARRIET	f	No. Not officially. I dated a guy  for a while who ran a studio.
+CHARLIE	m	Oh, the martial arts expert. The  north-south guy. Here in San  Francisco?
+HARRIET	f	Actually, Miami.
+CHARLIE	m	Was that before Atlantic City, or  after?
+HARRIET	f	Oh, that was years ago. Atlantic  City was recent. I didn't care for  Atlantic City. A town full of gamblers  and lounge singers.
+DESK SERGEANT	m	Hey Charlie!
+CHARLIE	m	Is Tony back there?
+CAPTAIN	m	O.K., Tony. Do you have the K673  form completed yet, that street vendor  incident on Powell Street?
+TONY	m	Yes, Captain.
+CAPTAIN	m	Tony, do you mind my saying that you  seem a little down?
+TONY	m	Captain. It's about my work. About  being a policeman.
+CAPTAIN	m	Tony, if there's anything wrong, I'm  here to listen.
+TONY	m	I know. And that's what's irritating,  you're too nice.
+CAPTAIN	m	Too nice!?
+TONY	m	Yes, You're my captain for gods sakes.  You should be constantly on my case,  like the captain on Starsky and Hutch.  Once a week you should routinely  haul my ass into your office, accuse  me of being a maverick and complain  to me that you're sick and tired of  defending my screwball antics to the  commissioner.
+CAPTAIN	m	Well, as you may know, Tony. I don't  report to a commissioner. I report  to a committee, some of whom are  appointed, some elected and the  remainder co-opted on a bi-annual  basis. A quorum --
+TONY	m	Police work should be all about  running around, following up crazy  hunches that turn out to be right,  going out on a limb.
+CAPTAIN	m	Well Tony, I've never seen it that  way. For me police work is all about  following procedure and remaining  accountable to the general public.
+TONY	m	Captain! When I joined the police  force, I thought I was going to be  Serpico and unfortunately I ended up  being Toma. I would have settled for  Beretta.
+CAPTAIN	m	That's interesting Tony. I'm perturbed  that you should be so disillusioned.
+CHARLIE	m	Hey, Tony, I gotta talk to you.
+CAPTAIN	m	Oh, hello, Charlie. Look, I'm in the  way here. You guys probably have  something you want to talk about,  and Tony, if you've still got stuff  you want to sort out, please, you  know where the suggestion box is.
+CHARLIE	m	Nice guy. Hey, what's up?
+TONY	m	I'm having doubts about being a cop  again. It's not like how it is on  cop shows. All I do is fill out papers  and reports.
+CHARLIE	m	Let me get this straight, your Captain  hasn't threatened to have you up on  charges so fast you won't know what  hit you?
+TONY	m	No! He's never once said to me that  he was going to "throw the book at  me so hard it'll knock my ass from  here till Tuesday." Anyways what's  up?
+CHARLIE	m	Have you heard of this case? Mrs. X?  She murders her husbands on their  honeymoons and then changes her  identity and marries again.
+TONY	m	I never heard of it. So what?
+CHARLIE	m	Curious, that's all. I read about  it, and... I think I'm dating Mrs. X.
+TONY	m	Two words, Charlie. Get therapy.  They have doctors that deal  specifically with this illness.
+CHARLIE	m	Everything's adding up, Tony. One of  the victims was a martial arts expert.  Last night at dinner, she put a  martial arts move on my dad.
+TONY	m	There about twenty thousand people  in San Francisco who are martial  arts experts. Should I arrest all of  them too?
+CHARLIE	m	If they also say Ralph in their sleep  I think it'd be a good start. Ralph Elliot. A plumber from San  Francisco. Missing since his  honeymoon.
+TONY	m	You're just getting scared. Like the  dream, you feel Harriet could be the  one, so you start to suspect her of  things, 'cause deep down you're scared  that if she is the one, you'll marry,  and marriage to you is death.
+CHARLIE	m	Hey, don't analyze my dreams, okay?  They're my dreams. Analyze your own  dreams. It's not a marrying thing, Tony.  It's a murdering thing. Harriet lived in Atlantic City, right?  Well so did this guy, right around  the same time she left town.
+TONY	m	"Larry Leonard, a crooner who made a  name for himself for being able to  sing in six different languages the  song "Only You". Does she know the song "Only You?"
+CHARLIE	m	I don't know. It hasn't come up yet.
+TONY	m	Charlie, move past it. You're running  your life by the National Enquirer.
+CHARLIE	m	What? It's the fifth highest  circulating newspaper in the United  States. Mrs. X. Please. Look it up.
+KATHY	f	There's no record of any deaths. All  three of these guys were reported  missing around the time of their  honeymoon, but so were the wives. No  pictures of any of the brides. For  all we know they just picked up and  moved away.
+CHARLIE	m	And Ralph Elliot, too?
+TONY	m	Charlie, you're talking about three  guys over a seven year span. That's  hardly news. No deaths. Elopement in  this state, as of this day, is still  not illegal.
+CHARLIE	m	Yeah well murder is. And this article  says that these men were murdered by  the same woman.
+KATHY	f	Mr. MacKenzie, we've found that,  most National Enquirer articles are  actually based on our own police  reports. They take the facts and  fabricate a story around them.
+TONY	m	It's true, Charlie. You gotta realize  that. I mean, personally, I would  lie to you, but Kathy... has this  crazy notion of always telling the  truth. You feel better now?
+CHARLIE	m	It guess so. It's just... if I had a  photo of Harriet, I could show it to  the relatives or friends of Mrs. X's  victims to identify her.
+TONY	m	Charlie, listen to me! There is no  Mrs. X! Drop it! Okay?
+ROSE	f	You're back. But Harriet's not here  yet.
+CHARLIE	m	Maybe I could wait.
+ROSE	f	Sure. That would be fine.
+CHARLIE	m	Inside? I was hoping...
+ROSE	f	I'm glad you asked. I didn't want to  be so forward. I mean, if you're  waiting inside, then you feel  obligated to entertain me and keep  up the conversation just to be polite,  and really your head might be totally  elsewhere and then there's the chance  that you would really want to talk  and it's me who'd be busy, but in an  attempt not to be rude, I sit there  and listen to some story that you  don't really want to tell and I don't  really have time to hear. You know?
+CHARLIE	m	I couldn't agree with you more.
+ROSE	f	I think about a lot of things.
+CHARLIE	m	Look, if you have work to do, you go  right ahead. I mean, to tell you the truth, I'd  love to see your work.
+ROSE	f	Okay! What would you like me to do?
+CHARLIE	m	No, I don't want to see you work. I  was talking about your work. Your  photographs. That one that I saw was  so, wonderful, and...
+ROSE	f	Harriet's far more talented than I  am.
+CHARLIE	m	Well, I'm sure it's so subjective  anyway and... Rose, show me your photos.
+CHARLIE	m	Hey, these are some interesting photos  here. Very impressive. Nice shots of  Sauselito and... some good bondage  shots. A lot of people wouldn't think  to mix the two subjects, but they're  really a natural together. Hey, you wouldn't happen to have any  pictures of Harriet by chance, would  you?
+ROSE	f	Well, I don't think she'd wanna do  this sort of...
+CHARLIE	m	No, no, not that. Just, in general  some photos. Any little snapshot  would do.
+ROSE	f	I doubt I'd have any. Harriet hates  being photographed.
+HARRIET 	f	Rose -- did I see Charlie's car out  in front?
+ROSE	f	We're in here, Harriet.
+HARRIET	f	What are you guys doing?
+CHARLIE	m	Oh, nothing. Just looking through  some of Rose's work.
+ROSE	f	...Charlie wanted a photo of you.
+CHARLIE	m	And that. That too.
+HARRIET	f	Why of me, Charlie?
+CHARLIE	m	Well, sentimental reasons. Something  to remind me of you when we're not  together.
+HARRIET	f	There, can you remember that?
+CHARLIE	m	Okay, it's just, I was gonna give  one to my parents, too, and... Another time would be fine. It's  hardly a matter of life and death.
+CHARLIE	m	Where you been?
+HARRIET	f	Downstairs. I have a surprise for  you.
+CHARLIE	m	Great. I just wanna do a quick twenty  minutes on the Stair Master before  bed.
+CHARLIE	m	I'll do forty tomorrow.
+HARRIET	f	I got something much healthier for  you than that.
+CHARLIE	m	What is it?
+HARRIET	f	It's a health shake. Eggs, malt,  cinnamon, oranges. It's great. I  mixed it up downstairs.
+CHARLIE	m	Oh, look, I'm full. Dinner and...  No...
+HARRIET	f	You'll like it Charlie.
+CHARLIE	m	No, really, thanks.
+HARRIET	f	You won't try it. I spent twenty  minutes making it.
+CHARLIE	m	Ummm. Smells good. Maybe I'll take  some to the office tomorrow. I'm gonna brush my teeth. Be right  back.
+HARRIET	f	I'm gonna take a quick shower.
+CHARLIE	m	Harriet, where did the shake go?
+HARRIET	f	What do you care? I drank it. You could have at least tried it.  You make me feel bad sometimes,  Charlie. I don't know why.
+HARRIET	f	Sorry. I'm a little sensitive. You  didn't want to drink my milkshake.  So what -- right?
+CHARLIE	m	Harriet, why don't we shut the light  off.
+CHARLIE	m	Maybe we should turn the light back  on. Yeah that's better.
+HARRIET	f	Charlie, what's the matter?
+CHARLIE	m	Nothing.
+HARRIET	f	Charlie...
+CHARLIE	m	Well, it's just... The TV. You can't even watch the  news these days without getting  depressed.
+HARRIET	f	I know, Charlie. And it's not just  that. Look at the things people are  doing. Partners killing each other...  I mean, you hear a story like that,  and... who can you really trust these  days?
+CHARLIE	m	What do you mean?
+HARRIET	f	It's like, have you ever stood with  someone at the edge of a cliff, or  the edge of a subway platform, and  you think, just for a split second,  "What if I pushed him?"
+CHARLIE	m	Well, I don't really take the subway  ever, so...
+HARRIET	f	I'm just making a point of how many  times we trust people with our lives.  I mean, look at us. If you didn't  trust me, you would never be able to  fall asleep.
+CHARLIE	m	Why do you say that?
+HARRIET	f	Look at you, you're sleeping. Look  how vulnerable you are. I mean, I  could do anything at that point.
+CHARLIE	m	What could you do?
+HARRIET	f	Anything. You're lying on your side,  asleep, I could... stick a needle in  your ear.
+CHARLIE	m	Aahhh!
+HARRIET	f	I'm just making a point of what a  good relationship we have. Goodnight,  sweetheart.
+HARRIET	f	Well, good night.
+CHARLIE	m	Good night.
+CHARLIE	m	Well... good night.
+HARRIET	f	Good night.
+LADY	f	Thank you very much, young man. I've  gotta get all this stuff back to my  children.
+CHARLIE	m	Your children?
+LADY	f	When I say my children I mean my  cats. You see my children moved out  years ago, so all I've got is my  cats. I have over one hundred of  them.
+CHARLIE	m	That's a lot of cats.
+HARRIET 	f	Charlie.
+LADY	f	You see this red toy? That's for the  Captain, he's finicky. and this blue  one? That's for Marco Polo.
+CHARLIE	m	Do you have a name for all of your  cats?
+LADY	f	Oh, yes.
+LADY	f	Let me see! There's Winston Churchill,  Reda Sovine, Thomas Edison, Andrew  Carnegie...
+CHARLIE	m	...He was Scottish.
+LADY	f	Wasn't he Irish?
+CHARLIE	m	Actually he was Scottish. Trust me,  I know these things.
+LADY	f	Now that you say it, he was Scotch.
+CHARLIE	m	Noooooo!
+CHARLIE	m	Nooooooo, Scotch is a drink. Scots  are a people. Sorry, that just always  bugged me.
+LADY	f	I'm sorry, I didn't know it meant so  much to you.
+CHARLIE	m	Hi, Harriet.
+ASSISTANT	m	Yes, Sir, can I help you?
+CHARLIE	m	I'd like to put in an announcement  of my parents forty-fifth wedding  anniversary.
+ASSISTANT	m	Sure, it's $4.50 per word, and you've  got a choice of standard or bold.
+CHARLIE	m	Bold, and here, I've written it out.
+OBITUARY ASSISTANT #1	m	Hi, Frank, busy week?
+OBITUARY ASSISTANT #2	m	I've only got two. It's dead around  here.
+OBITUARY ASSISTANT #2	m	Well, I've got this one guy, a  tourist. He had a heart attack on a  cable car.
+OBITUARY ASSISTANT #1	m	Looks like he left his heart in San  Francisco.
+MARRIAGE ASSISTANT	m	Hey, that's a real person you're  talking about.
+OBITUARY ASSISTANT #1	m	You're right, I'm sorry.
+OBITUARY ASSISTANT #2	m	Well, there's this other guy Elliot,  Ralph. Plumber, disappeared four  months ago. Body found in a sewer.
+OBITUARY ASSISTANT #1	m	I guess he took his work too  seriously, and his life went down  the drain.
+CHARLIE	m	Did they mention anything about his  wife?
+OBITUARY ASSISTANT #1	m	You're right, I feel bad. Point taken.  I'm mean, these are real people we're  talking about.
+CHARLIE	m	No, I'm serious. Did he mention the  wife?
+OBITUARY ASSISTANT #1	m	You made your point. I was wrong to  make a joke about a person's life.
+CHARLIE	m	I really want to know about his wife.
+OBITUARY ASSISTANT #1	m	O.K., you win. I'm a bad, bad person.
+OBITUARY ASSISTANT #2	m	Frank take it easy.
+OBITUARY ASSISTANT #1	m	No, he's right! I'm for shit, I'm one insensitive  asshole.
+CHARLIE	m	Is there any mention of the wife? At  all?
+OBITUARY ASSISTANT #1	m	NO! THERE'S NO MENTION OF THE WIFE!
+HARRIET	f	Hi.
+CHARLIE	m	I'm sorry. I think you're a terrific woman. I just don't think we should see  each other anymore.
+HARRIET	f	Why not? And tell me the truth.
+CHARLIE	m	The truth. Okay. The truth is...
+CHARLIE	m	The truth is... I'm afraid that you  are... You're going to laugh.
+HARRIET	f	I don't think so.
+CHARLIE	m	Okay... the truth is that I'm afraid  you're going to ki... leave me.
+HARRIET	f	I'm going to "cleave you?" What does  that mean?
+CHARLIE	m	Leave me. Not "cleave me." Reject  me. And so I decided to take matters  into my own hands and get it over  with by...
+HARRIET	f	Rejecting me.
+CHARLIE	m	Purely preventive... It's not anything  you've done.
+HARRIET	f	I know that... So why are you leaving  me?
+CHARLIE	m	Harriet, maybe I'm not meant to be  in a relationship.
+CHARLIE	m	I never wanted to hurt you.
+HARRIET	f	You haven't. At least you left early  on. So, that's it, then. I've got a lot  of work to do. Now, where were we?
+CHARLIE	m	Two hours and four minutes. Tony, I  need you, and two hours and four  minutes later you show up.
+TONY	m	Sorry. I know it was irresponsible  to stay at the drug bust until it  was over, but... What happened?
+CHARLIE	m	I'm gonna tell you, but when I do,  just say nothing. Don't judge me.  Just be my friend. Okay?
+TONY	m	Fine. Okay.
+CHARLIE	m	I broke up with Harriet.
+TONY	m	You're an asshole.
+CHARLIE	m	What's your point?
+TONY	m	I'm sorry, I just... why?
+CHARLIE	m	Tony, she's a killer. The...  everything.
+TONY	m	But nothing's proven. The only thing  you're actually sure she did so far  is she's treated you like a King.
+CHARLIE	m	I dunno, Tony, I just...
+TONY	m	Besides, everyone has something going  on with them. I mean, you can't find  everything in one person. I mean,  she's bright, she's funny, she's  independent. So maybe, and it's really  just a maybe, she kills her husbands.  Marriage is give and take, Man. You  take the good with the bad.
+SHERRI	f	Hey, Charlie.
+CHARLIE	m	Hi. How're you doing. Good, huh?
+SHERRI	f	I'm okay. This is Michael. Michael,  this is Charlie MacKenzie.
+YOUNG GUY	m	I know. Why don't you two talk. I'm  going over there to buy some  magazines.
+CHARLIE	m	That good looking and he can read!
+SHERRI	f	I'm teaching him. I heard you have a  new girlfriend.
+CHARLIE	m	We broke up. There were problems.
+SHERRI	f	Problems?
+CHARLIE	m	Difficulties.
+SHERRI	f	Let me guess... She's a murderer.
+CHARLIE	m	Why did you just say that?
+SHERRI	f	What else is left?
+CHARLIE	m	Hello...
+TONY	m	Not that it matters anymore, but I  thought you should know -- someone  just turned themselves in for the  murder of Ralph Elliot.
+CHARLIE	m	Really? Did she confess to the other  murders?
+TONY	m	Just the plumber so far, but she'll  come along. A little old lady from Pacific  Heights. Said he overcharged her on  a leaking sink.
+CHARLIE	m	Really. Leaky sink, huh?
+TONY	m	Anyway, crime to stop. Gotta go.  I'll catch you later.
+CHARLIE	m	Harriet, it's me, Charlie.
+HARRIET 	f	Go away, Charlie.
+CHARLIE	m	I've gotta talk to you, cause I miss  you, and I made a mistake... and if  you give me another chance I'll  change. I will. I promise. I'll get  help, or therapy, or... Yeah, that'll  be great. Therapy. Even twice a week.  I'll check with my insurance to see  if I'm covered, but forget that.  Harriet...
+HARRIET	f	You really hurt me.
+CHARLIE	m	I'll make it up to you, can we at  least talk.
+HARRIET	f	Sure, talk.
+ROSE 	f	Hi, Charlie.
+CHARLIE	m	AAAhhhhhh.
+ROSE	f	Trust your first instincts, Charlie.  You never do. It's your big mistake.  That and the haircut.
+CHARLIE	m	I don't want to lose you.
+HARRIET	f	You didn't lose me. You rejected me.
+CHARLIE	m	I'm unrejecting you.
+HARRIET	f	How do I know you won't reject me  again?
+CHARLIE	m	I love you.
+HARRIET	f	I love you. But you blew it, Charlie,  you blew it.
+STEWARDESS	f	I don't mean to be a pain, but I'm a  stewardess, and I have an early flight  out in the morning. Can you please  keep your music down?
+HARRIET	f	I thought it was coming from here.
+STEWARDESS	f	But someone keeps shouting your name  over and over.
+CHARLIE	m	HARRIET, HARRIET HARD-HEARTED
+HARRIET	f	I've been there for almost a year. I  only planned on stay with her for a  few weeks, but she gets upset every  time I say I'm moving.
+CHARLIE	m	You were close as kids?
+HARRIET	f	I pretty much raised her. You know  the scene. Depressed mother...  withdrawn father. My dad was a photographer too.
+CHARLIE	m	Really?
+HARRIET	f	He hated it. Trudging off to those  weddings every Saturday night. Other  people's celebrations he called it.  He said sometimes they didn't even  offer him a glass of soda. He had a  small studio, and every year at  Christmas he'd take a picture of me  and Rose and put it in the window on  a little card that said "Seasons  Greetings." Awful pictures. It's  like... I could see his pain in my  face. Anyway, me and my sister worked  with our "childhood issues" in  different ways. She became a  photographer and I became phobic  about having my picture taken. It's  quite a family.
+CHARLIE	m	Where are they now? Your parents?
+HARRIET	f	Dead. Car accident.
+ROSE 	f	Harriet, its for you.
+HARRIET	f	Charlie, I want you to meet a friend  of mine. Say hi to Ralph.
+CHARLIE	m	Ralph?
+CHARLIE	m	Oh, like Ralph, the lady carpenter  in Green Acres!
+HARRIET	f	This is Charlie.
+CHARLIE	m	I love you!
+RALPH	m	It's nice to meet you.
+CHARLIE	m	Nice? It's more than nice. It's great  to meet you. It's fantastic to meet  you. I just, I can't tell you how  glad I am. Ralph. Really. I am.
+RALPH	m	Well, thank you, I've heard a lot of  nice things about you too, and...
+CHARLIE	m	Oh, Ralphie, I love you.
+HARRIET	f	I'll leave you guys alone. Have a  great time.
+CHARLIE	m	I'm naked, aren't I?
+HARRIET	f	Why, yes, you are.
+CHARLIE	m	I should really get dressed now.
+CHARLIE	m	Call me.
+RALPH	m	Friendly guy.
+THE GROUP	m	Happy Anniversary to you...
+MAY	f	Okay, everyone come and get a piece  of cake and some milk.
+CHARLIE	m	Hey Dad, I got an anniversary present  for you...
+STUART	m	I'm proud of you, son. I'm proud of  you. I just wanna propose a toast. To my  wife. Forty five years ago today May  and I got married. Some of you were  there, some of you weren't born yet,  some of you are now dead, but... We  both said, "I do" and we haven't  agreed on a single thing since. But,  I'm glad I married you May cause...  It could have been worse and  besides... I still love you.
+CHARLIE	m	Harriet, I wanna talk to you.
+HARRIET	f	Boy, you really made some impression  with Ralph. She can't get over you.
+CHARLIE	m	I'm just so happy for you to have  friends like Ralph. What a great  friend to have.
+HARRIET	f	Is everything all right, Charlie?  You're perspiring.
+CHARLIE	m	Harriet... marry me.
+HARRIET	f	What?
+CHARLIE	m	I want to have a wedding. With you.
+HARRIET	f	No.
+CHARLIE	m	Please.
+HARRIET	f	I don't know, Charlie. It's so good  like it is. Why don't we just live  together first?
+CHARLIE	m	Because, I love you and I want you  to marry me and be with me for 45  years. I want you to have my children,  and I want to have your children. I  know that sounds like a lot of  children, and they might not all get  along, but... I'm finally ready to  trust you and to make a commitment.  Marry me, Harriet, please. Be my  wife.
+STUART	m	I'd like to thank Charlie for throwing  us this party. I hope some day you  have the same great 45 years that  we've had.
+HARRIET	f	Yes.
+CHARLIE	m	You will?
+HARRIET	f	Let's get married, Charlie.
+MAY	f	Harriet, come here a minute. I want  you and Uncle Angus to play a song  together.
+TONY	m	Hey, sorry I'm so late. What's  happening?
+CHARLIE	m	Nothing. Nothing at all. Just two  little things... That woman over there in the corner...  She's Harriet's friend, and her name  is Ralph.
+TONY	m	No shit.
+CHARLIE	m	And secondly... That woman over  there... That's Harriet, and we're getting  married.
+TONY	m	Fantastic... What did I tell you.  She's a great girl. And the last  thing in the world she'd be is a  murderer.
+SCOTTISH MINISTER	m	Now, Mr. MacKenzie, if you will take  this woman to be your wife, through  thick and thin, for better or for  worse, please say: "I do"...
+CHARLIE	m	I do...
+SCOTTISH MINISTER	m	Now Harriet, if you will take this  man, through good times and bad, for  ever and ever, as your husband, please  say "I Do"...
+HARRIET	f	I do.
+SCOTTISH MINISTER	m	Now Charlie... Kiss the beautiful  bride!
+STUART	m	Let's get pissed.
+STUART	m	You know Golden Gate park was designed  by a Scotsman, MacClaren, which is  who MacClaren park was named after.
+AUNTIE MOLLY	f	Charlie, get this down your neck.
+CHARLIE	m	Auntie Molly if I have another one  I'll end up underneath the table  with my kilt over my head.
+TONY	m	Where's Harriet?
+CHARLIE	m	I don't know. Oh, there she is.
+CHARLIE	m	A little hungry, were you?
+HARRIET	f	What are you...!
+HARRIET	f	Sorry. The flash just...
+CHARLIE 	m	Wait 'til you see this place, Harriet.
+CHARLIE	m	This is Teenage Fan Club. They're  from Scotland.
+HARRIET	f	They're great.
+CHARLIE	m	We'll have the whole lodge to  ourselves practically.
+HARRIET	f	I can't wait, Charlie.
+CHARLIE	m	I wish you could be me, so you could  know how great it feels to be with  you.
+HARRIET	f	It sounds wonderful
+CHARLIE	m	Do you think that would be a good  line for a poem?
+HARRIET	f	Honestly? It sounds a little Hallmark.
+CHARLIE	m	Yeah, it's a little Seals and Croft.  I have a habit of sabotaging  relationships, and there were a  million times during me and you that  I could have blown this, and I just  thank God that I didn't...
+CAPTAIN	m	O.K., Spiletti, I got word from  upstairs that you been pokin' your  nose into that Ralph Elliot case.
+TONY	m	Yes, Captain.
+CAPTAIN	m	Don't "yes, Captain" me, Spiletti.  You're outta line. This is strictly  homicide.
+TONY	m	Captain, I got this friend...
+CAPTAIN	m	Friend? Yeah, we all got friends,  Spiletti. I'm warning you, Stay away  from this one. Back off, Italian  boy. You're getting too close to  this one.
+TONY	m	Captain, I know what I'm doing. Trust  me. What's the news.
+CAPTAIN	m	I can't believe I'm doing this, but  that girl who confused to Ralph  Elliot's murder also confessed to  other murders.
+TONY	m	I knew she would! I knew it!
+CAPTAIN	m	Yeah, apparently she also confessed  to killing Abe Lincoln, Julius Caesar,  and Warren G. Harding. She's a nut,  Spiletti!
+TONY	m	Oh, my god! I gotta go!
+CAPTAIN	m	Yeah, screw this one up Spiletti and  you'll be writing parking tickets  for the rest of your days.
+TONY	m	I won't let you down, Captain.
+TONY	m	That's much better Captain.
+CAPTAIN	m	You think so? Well, thank you very  much.
+HARRIET	f	You want anything?
+CHARLIE	m	Lamb chops, creamed spinach, stuffed  tomatoes and a Hershey Bar.
+CHARLIE	m	If they don't have all that, I'll  just take the Hershey bar.
+CHARLIE	m	What do you keep looking behind us  for? Is someone following you, or...?
+HARRIET	f	They were. I think they're gone.
+CHARLIE	m	What do you mean, they were?
+HARRIET	f	The gas station guy. I thought he  was chasing us for a while, but I  guess he stopped.
+CHARLIE	m	The gas station guy? Why would the  gas station guy chase us.
+HARRIET	f	I don't know, Charlie. I guess for  not paying.
+CHARLIE	m	What do you mean not paying? You  didn't pay him for the gas.
+HARRIET	f	I forgot to pay... I didn't want to  be away from you for any longer.
+CHARLIE	m	So, you just left.
+HARRIET	f	Yes. And you're an accomplice.
+CHARLIE	m	I'm not sure I understand.
+HARRIET	f	Look, Charlie, don't you get it?  We're a team.
+CHARLIE	m	I can play that game. I'll get the  next gas station. Like Bonnie & Clyde.
+ROSE	f	Oh, hi!
+TONY	m	What is it with the women in your  family?
+ROSE	f	I was just doing a murder series in  honor of the wedding.
+TONY	m	Hey, this is real blood.
+ROSE	f	Yes, Harriet, give it to me. She's a  butcher. ...She owns a butcher shop.
+TONY	m	I need a picture of Harriet.
+ROSE	f	Sorry. No can do.
+TONY	m	You took a picture at the party. I  saw it.
+ROSE	f	It didn't come out.
+TONY	m	Look, Rose. I need a photo.
+ROSE	f	The picture didn't come out. It was unflattering. In made her  look ten pounds heavier. She's my sister.
+TONY	m	She's been implicated in a crime. I  need the photo to eliminate her as a  suspect.
+ROSE	f	And if she's not innocent. If she's,  you know, "quirky?"
+TONY	m	If she's "quirky" we'll save Charlie's  life.
+HARRIET	f	It's like a castle, Charlie. It's so  beautiful.
+VALET	m	Welcome to the Dry Creek. You just  beat the rainstorm. Two hours later  and the roads'd probably be closed.
+CHARLIE	m	Great. If you could help us with the  luggage, we have these two in the  back seat and...
+CHARLIE	m	Harriet? What are you doing honey?
+DESK CLERK	m	Welcome, Sir. We have you with us  for four nights, Mr. MacKenzie. Dinner  reservations are at eight-thirty.
+CHARLIE	m	Great. Sounds terrific.
+DESK CLERK	m	Also, you might wanna prepare some  candles by the bed. We're expecting  the rainstorm to get even worse. We  might even lose the power tonight.
+CHARLIE	m	Did you hear that, Harriet? A storm.  I can't think of anything more  romantic than the two of us trapped  in our room in the middle of a rain  storm. You okay, Harriet?
+HARRIET	f	Just a little head-ache. Excuse me, is there a drug store in  the hotel? I want to get some aspirin.
+DESK CLERK	m	Right beyond those trees, Ma'm.  Anything you need.
+HARRIET	f	Thanks. Don't go anywhere. I'll be  right back.
+DESK CLERK	m	You think she's really got a head- ache?
+CHARLIE	m	What?
+DESK CLERK	m	Ah, nothing. Here's your key. You're  in the Oak Room.
+WALTER	m	That's Ralph Elliot's wife, alright.  She had shorter hair in those days.
+MASTER CHO	m	Mrs. Richter gain much weight since  then, but it's definitely her.
+RANDY	m	That's his little lollipop, alright.  Boy he loved her. I'll tell you, she  was a lot of fun. Smart. A doll face  to boot.
+TONY	m	Circuits are out from the storm.
+TONY	m	Keep trying the hotel. Tell the chief  I just chartered a plane up to Oregon.
+CAPTAIN	m	See that Spiletti -- A gray hair!  Every day, Spiletti, I find another  one. And that's all due to you. Get  out there, and catch me some bad  guys!
+TONY	m	Not now, Captain.
+CAPTAIN	m	Sorry.
+CHARLIE	m	This is the best honeymoon I could  ever imagine, Harriet. If we had to  pack and go home right now, I'd still  think it was the greatest honeymoon  ever.
+CHARLIE	m	Don't you agree, Harriet? Harriet?
+CHARLIE	m	What? What are you crying? What is  it?
+HARRIET	f	It's nothing. It's just... I was  just thinking... We're married now.  And I always wanted to try and have  kids, and...
+CHARLIE	m	So do I. Look, there's nothing more  I'd like to do than have, kids, or...
+HARRIET	f	It's just, I get scared that certain  things will happen, or...
+CHARLIE	m	What are you talking about? You're  gonna be a great Mom. I know you  will.
+HARRIET	f	It's not that, Charlie.
+CHARLIE	m	What then?
+HARRIET	f	You're gonna laugh.
+CHARLIE	m	Tell me. Of course I'm not gonna  laugh. Kids is a big thing. It's  hard. I'm sure I have the same fears.
+HARRIET	f	If we have kids, Charlie, things  happen. Kids are healthy and fine,  and some aren't, and I don't know if  I could live with myself if I gave  birth to a child with webbed feet.
+CHARLIE	m	Webbed feet?
+HARRIET	f	You're laughing.
+CHARLIE	m	No, I'm not laughing.
+HARRIET	f	You think that's silly?
+CHARLIE	m	No, no. That's a natural fear. I've  thought about that fear.
+HARRIET	f	It really worries me, Charlie.
+CHARLIE	m	Well, look, they have, doctors -- I  assume -- that deal, only with, webbed  feet. And, God Forbid, and I'm talking  strictly hypothetically, should that  happen, we'll find one.
+HARRIET	f	You're the greatest Charlie.
+CHARLIE	m	Thanks. We should get ready for  dinner.
+DENNIS	m	Out your left side, you can see the  Sierra Nevada, which is the largest  mountain range west of the Rockies...
+TONY	m	Great. Rockies. I don't care. Oregon.  Move.
+CHARLIE	m	You almost ready? The first seating  is in five minutes.
+HARRIET	f	I just wanna look good for you,  Charlie. That's all.
+CHARLIE	m	I'm sure you look great. I'm sure  you look...
+HARRIET	f	Do I look okay, Charlie?
+CHARLIE	m	Yes. Well...
+HARRIET	f	What's wrong?
+CHARLIE	m	Nothing. You kind of look like Tammy  Faye Baker right now.
+HARRIET	f	Oh, yeah.
+DENNIS 	m	As we prepare to land, we can see  off to our left Lake Shanony, which  is...
+TONY 	m	Just land. Don't worry about Lake  Shanony. I don't give a shit about  Lake Shanony.
+MAN'S VOICE 	m	A toast to our new friends, Charlie  and Harriet...
+BAND LEADER	m	...we're honored to be here for this  very special day in...
+CONCIERGE	m	I'm sorry to interrupt, Sir. There's  a phone call for you from town. They say it's quite urgent.
+CHARLIE	m	Hello?
+TONY	m	Charlie, you okay?
+CHARLIE	m	Great. Couldn't be better.
+TONY	m	Charlie, listen to me! It's her!  Harriet is Mrs. X! She killed Ralph  and the two other men!
+CHARLIE	m	Look, that's great -- it just so  happens though, that I met... Ralph, and much to my delight, not  only is she alive, but she's female.  I thought I told you.
+TONY	m	Rose had a picture. It checked out.  It's her, Charlie. She is the  murderer.
+HARRIET	f	Charlie, your food is getting cold.
+CHARLIE	m	So, what do I do?
+TONY	m	I called the police. All the roads  are closed, but they're on their  way. In the mean time just...
+CHARLIE	m	Hello? Hello?
+HARRIET	f	What's a matter, Charlie?
+CHARLIE	m	The phone just went dead. I was on  the phone and it went dead.
+CONCIERGE	m	That's quite common, sir. I'm sure  the lines'll be out in the whole  city 'til tomorrow. Enjoy your meal,  Sir.
+HARRIET	f	What happened, Charlie?
+CHARLIE	m	Nothing... Nothing happened. Just  the lines are down. Phone lines.
+BAND LEADER	m	...so to these two young people, we  wish them a long and happy life  together and would like to play their  song. The Platters -- "Only You".
+MR. LEVENSTEIN	m	How about the traditional Bride &  Groom dance?
+OTHER COUPLE	m	Come on. It's a tradition.
+MR. LEVENSTEIN	m	Excuse me. Could I cut in on your  dance?
+CHARLIE	m	Of course. Sure...
+CHARLIE	m	I need your help! You have to help  me! I've married a...!
+HARRIET	f	Hello, Charlie.
+WAITER	m	Let's take 'em to their room.
+CONCIERGE	m	Yeah, I'm sure they've had enough of  these crowds for one night.
+CHARLIE	m	My dinner. I didn't finish my dinner  yet.
+HARRIET	f	Smile, Charlie. Act like you're having  a good time.
+RENT-A-CAR GIRL	f	I'm sorry, Sir. The roads are all  closed. We can't rent any cars this  evening.
+TONY	m	You have to rent me something. I've  gotta get up there. My friend's in  danger...
+CONCIERGE	m	Have a good night, you two.
+CHARLIE	m	Come on in. Stay for a nightcap.
+BELLBOY	m	No, you two wanna be alone. See you.
+CHARLIE	m	Stay for a nightcap!
+BELLBOY	m	Sir, I really don't think I should
+HARRIET	f	Don't go, Charlie.
+TONY	m	Excuse me, Sir, I'm with the San  Francisco Police Department. I'm on  official business and I'm afraid I  have to commandeer your vehicle.
+MAN	m	No.
+TONY	m	What do you mean no?!
+MAN	m	I happen to know for a fact that you  don't have the power to commandeer  my vehicle.
+TONY	m	This is true. Please can I commandeer your vehicle?
+MAN	m	Well, where are you going?
+TONY	m	To The Dry Creek Lodge.
+MAN	m	I'll give you a lift.
+TONY	m	Well, I don't want a lift, I really  want to commandeer the vehicle. Please  just let me commandeer the vehicle.
+MAN	m	Why don't you just let me drive you  there? Really, I don't mind, it's on  my way.
+TONY	m	You're not going to bend on the  commandeering thing are you?
+MAN	m	No.
+TONY	m	Well, if we get stopped will you at  least let me say that I commandeered  the vehicle, but I let you drive?
+MAN	m	I'm uncomfortable with that.
+TONY	m	Please?
+MAN	m	All right.
+HARRIET	f	I heard you on the phone before,  Charlie. There's something I've got  to tell you.
+CHARLIE	m	Harriet, I...
+HARRIET	f	I've been married before.
+CHARLIE	m	I already know.
+HARRIET	f	About my husbands?
+CHARLIE	m	Yes. And I was meaning to have a  word with you. We could get an  annulment.
+HARRIET	f	AAAhhhhhhh!
+CHARLIE	m	Aaaaah, Rose, I never thought I'd be  so glad to see you.
+CHARLIE	m	Maybe the phones are working again  by now.
+CHARLIE	m	'Dear, Harriet. I just can't handle  the commitment. I'm leaving you.'  Signed, 'Charlie.'
+CHARLIE	m	What the hell is this? I didn't write  this?
+CHARLIE	m	What the fuck?!
+ROSE	f	Charlie. Why did you marry Harriet?  I warned you not to marry her, didn't  I? I warned all of them. But none of  them listened to me. They all went  ahead and married her. She's the  pretty one. Where's Harriet? What  have you done with my sister, Harriet?
+CHARLIE	m	Nothing, Rose.
+ROSE	f	If you've done something to my sister,  Harriet, I swear to God I'll kill  you.
+HARRIET	f	Where are you, Charlie? What's going  on?
+MAN	m	Could you stop doing that please?
+CHARLIE	m	Call the police!
+CHARLIE	m	Call the police!
+ROSE	f	Charlie, did you like your note? I  thought it was pretty accurate. I  did all the husbands' notes. I can  forge anyone's handwriting, I can  write in anyone's style. See, I'm an  artist. Harriet isn't an artist.  Sure she could get a husband, but  she could never have done this. And  you know what I'm most proud of?
+CHARLIE	m	What's that, Rose?
+ROSE	f	Harriet never knew. She thought they  all just left her. I protected her.  She's my sister.
+TONY	m	Charlie!
+HARRIET	f	Tony, is that you? It's me, Harriet.  I'm in here.
+HARRIET	f	Tony, Rose is trying to kill Charlie.  They're out on the ledge.
+TONY	m	Get on the floor and put your hands  behind your back.
+HARRIET	f	Sure, anything. You've got to save  Charlie.
+HARRIET	f	Look! It's Charlie!
+TONY	m	Nice try.
+HARRIET	f	I swear to you... It was Charlie...  Look! Now there's Rose!
+TONY	m	No you don't.
+HARRIET	f	I beg you... Look! It is Rose.
+TONY	m	Oh no, not again. Aaaaah! Rose.
+TONY	m	I hate to bother you on your  honeymoon, Charlie, but...
+CHARLIE	m	Thank God. I'm sorry I doubted you,  but I thought you were the killer,  but you were acting pretty strange?
+HARRIET	f	I thought you were going to leave  me, like the others. Thank God they  were just murdered. I thought they  were always leaving me.
+CHARLIE 	m	My dad was right. You don't lose  your muse once you're married. Nothing  changed, except I gained a great  son, Stuart.
+CHARLIE	m	MARRIED MAN
+CROWD AND CHARLIE	m	THIS POEM SUCKS.
+CHARLIE	m	Thank you very much.
+BAY CITY ROLLERS	m	S-A-T-U-R-D-A-Y NIGHT
+

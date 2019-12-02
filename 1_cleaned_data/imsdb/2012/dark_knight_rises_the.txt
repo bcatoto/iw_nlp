@@ -1,0 +1,1151 @@
+GORDON	m	But I knew Harvey Dent. I was...his friend. And it will be a very long time before someone inspires us the way he did. I believed in Harvey Dent.
+CIA MAN	m	Dr. Pavel, I'm CIA.
+DRIVER	m	He wasn't alone.
+CIA MAN	m	You don't get to bring friends. They are not my friends.
+DRIVER	m	Don't worry, no charge for them.
+CIA MAN	m	Why would I want them?
+DRIVER	m	They were trying to grab your prize. (Smiles.) They work for the mercenary. The masked man.
+CIA MAN	m	Bane?
+CIA MAN	m	Get 'em on board - I'll call it in.
+CIA MAN	m	What are you doing in the middle of my operation?
+CIA MAN	m	Wiseguy, huh? At least you can talk. Who are you?
+THIRD PRISONER	m	We are nothing. We are the dirt beneath your feet. And no one cared who I was until I put on the mask...
+BANE	m	Who we are does not matter. What matters is our plan.
+CIA MAN	m	If I pull this off, will you die?
+BANE	m	It would be extremely painful.
+CIA MAN	m	You're a big guy -
+BANE	m	For you.
+CIA MAN	m	Was being caught part of your plan?
+BANE	m	Of course. Dr. Pavel refused our offer in favor of yours. We had to know what he told you about us.
+CIA MAN	m	Why not just ask him?
+BANE	m	He would not have told us.
+CIA MAN	m	You have methods.
+BANE	m	Him, I need healthy. You present no such problem.
+SERGEANT	m	Sir?
+CIA MAN	m	Well congratulations, you got yourselves caught. What's the next step of your master plan?
+BANE	m	Crashing this plane...
+BANE	m	With no survivors.
+BANE	m	Friend. They expect one of us in the wreckage.
+HOODED MAN 2	m	Have we started the fire?
+BANE	m	The fire rises.
+BANE	m	Calm, Doctor. Now is not time for fear...
+BANE	m	That comes later.
+MAYOR	m	This city has seen a historic turnaround. No city is without crime. But this city is without organized crime because the Dent Act gave law enforcement teeth in its fight against the mob. Now people are talking about repealing the Dent Act. And to them I say...not on my watch. I want to thank the Wayne Foundation for hosting this event. I'm told Mr. Wayne couldn't be here tonight, but I'm sure he's with us in spirit...
+CONGRESSMAN	m	Commissioner.
+GORDON	m	Congressman.
+CONGRESSMAN	m	Ever lay eyes on Wayne at one of these things?
+FOLEY	m	No one has. Not in years.
+CONGRESSMAN	m	Sweetheart, not so fast with the chow.
+MAID	m	(turns, tight smile) Shrimp balls?
+CONGRESSMAN	m	Jesus, Gordon, is that your speech? We're gonna be here all night.
+GORDON	m	Maybe the truth about Harvey isn't so simple, Congressman.
+GORDON	m	The truth...?
+CONGRESSMAN	m	Thank Christ for that...
+GORDON	m	Maybe right now all you need to know is that there are a thousand inmates in Blackgate Prison as a direct result of the Dent Act. These are violent criminals, essential cogs in the organized crime machine that terrorized Gotham for so long. Maybe, for now, all I should say about Harvey Dent's death is this...it has not been for nothing.
+GORDON	m	The second shift reports in?
+FOLEY	m	On your desk. But you should put in some more time with the Mayor -
+GORDON	m	That's your department.
+CONGRESSMAN	m	Anyone shown him the crime stats?
+FOLEY	m	He goes by his gut, and it continues to bother him, whatever the numbers.
+CONGRESSMAN	m	Must be popular with the wife.
+FOLEY	m	Not really. She took the kids and moved to Cleveland.
+CONGRESSMAN	m	He'll have plenty of time for visits. Mayor's dumping him in the spring.
+FOLEY	m	Really? He's a hero.
+CONGRESSMAN	m	War hero. This is peacetime. Stay smart, the job's yours.
+MAID 2	m	They say he never leaves the East Wing.
+MAID 3	m	I heard he had an accident - that he's disfigured.
+ALFRED	m	Mr. Till, why are your people using the main stairs?
+ALFRED	m	Where's Mrs. Bolton?
+MAID	m	She's up at the bar, sir. Can I help?
+ALFRED	m	The East drawing room. Unlock the door, place the tray on the table, lock the door again. Nothing more.
+ALFRED	m	I'm sorry, Miss Tate, but I've tried. He won't see you.
+MIRANDA	f	It's important, Mr. Pennyworth.
+ALFRED	m	Mr. Wayne is as determined to ignore important things as trivial ones.
+DAGGETT	m	Everyone knows Wayne's holed up in there with eight-inch nails, peeing into Mason jars. (To Alfred.) Good of you to let me on the grounds.
+ALFRED	m	The Dent Act is about all Gotham. Even you, Mr. Daggett. Miss Tate, always a pleasure.
+DAGGETT	m	Why waste your time talking to the man who threw away your investment on some save-the-world vanity project? He can't help you get your money back. But I can.
+MIRANDA	f	I could try explaining that a save-the-world project, vain or not, is worth investing in, whatever the return. I could try, Mr. Daggett, but you understand only money and the power you think it buys, so why waste my time, indeed?
+MAID	m	I'm, I'm terribly sorry, Mr. Wayne. It is Mr. Wayne, isn't it?
+MAID	m	Although you don't have the long nails... (Nervous laugh.) Or facial scars...
+WAYNE	m	Is that what they say about me?
+MAID	m	It's just that...nobody sees you...
+WAYNE	m	That's a beautiful necklace. Reminds me of the one that belonged to my mother. It can't be the same one - her pearls are in this safe - - which the manufacturer clearly explained is uncrackable.
+MAID	m	Oops. No one told me it was uncrackable.
+WAYNE	m	I'm afraid I can't let you take those.
+MAID	m	Look, you wouldn't hit a woman any more than I would beat up a cripple. Of course, sometimes exceptions have to be made. Goodnight, Mr. Wayne.
+MAID	m	Can I have a ride?
+CONGRESSMAN	m	You read my mind.
+ALFRED	m	Miss Tate was asking to see you again.
+WAYNE	m	She's very persistent.
+ALFRED	m	And quite lovely, in case you were wondering.
+WAYNE	m	I wasn't.
+ALFRED	m	What are you doing?
+WAYNE	m	Examining print dust. We've been robbed.
+ALFRED	m	And this is your idea of raising the alarm?
+WAYNE	m	She took the pearls. Tracking device and all.
+ALFRED	m	She?
+WAYNE	m	One of the maids, perhaps you should stop letting them in this side of the house.
+ALFRED	m	Perhaps you should learn to make your own bed, then. Why are you dusting for prints?
+WAYNE	m	I'm not. She was.
+BLAKE	m	I didn't want to bother you up here, but they're looking for you.
+GORDON	m	What's the problem, son?
+BLAKE	m	Congressman Gilly's wife's been calling. He hasn't made it home from the Wayne Foundation event.
+GORDON	m	That's a job for the police?
+BLAKE	m	Sir, I've been a cop for a year and I've only logged half a dozen arrests. When you and Dent cleaned the streets you cleaned 'em good. Pretty soon we'll be chasing overdue library books.
+BLAKE	m	But here you are. Like we're still at war...
+GORDON	m	Old habits.
+BLAKE	m	Or instinct.
+GORDON	m	What's your name, son?
+BLAKE	m	Blake, sir.
+GORDON	m	You have something you want to ask me, Officer Blake?
+BLAKE	m	It's that night. This night, eight years ago. The night Dent died.
+GORDON	m	What about it?
+BLAKE	m	The last confirmed sighting of the Batman. He murders those people, takes out two SWAT teams, breaks Dent's neck...then just vanishes?
+GORDON	m	I'm not hearing a question, son.
+BLAKE	m	Don't you want to know who we was?
+GORDON	m	I know exactly who he was. (Turns to Blake.) He was Batman.
+ALFRED	m	Master Wayne?
+ALFRED	m	You haven't been down here in a long time...
+WAYNE	m	Just trying to find out more about our jewel thief. I ran her prints from the photos she handled - - but she was wearing someone else's fingerprints. She's good.
+ALFRED	m	She may be. But we have the trace on the necklace.
+WAYNE	m	We do, so I cross-referenced the address she went back to with police data on high-end B-and-E's... Selina Kyle. The databases are full of close calls, tips from fences...
+WAYNE	m	She's good, but the ground is shrinking beneath her feet.
+ALFRED	m	We should send the police before she fences the pearls.
+WAYNE	m	She won't. She likes them too much. And they weren't what she was after.
+ALFRED	m	What was she after?
+WAYNE	m	My fingerprints. There was printer toner mixed with graphite on the safe. Gives you a good pull, and it's untraceable.
+ALFRED	m	Fascinating. Maybe you should exchange notes over coffee.
+WAYNE	m	Now you're trying to set me up with a jewel thief?
+ALFRED	m	At this point, sir, I would set you up with a chimpanzee if I thought it would bring you back into the world.
+WAYNE	m	There's nothing out there for me.
+ALFRED	m	And that's the problem. You hung up the cape and cowl, but never moved on. You won't get out there and find a life. Find someone -
+WAYNE	m	I did find someone, Alfred.
+ALFRED	m	I know. And then you lost them. That's part of living, sir. But you're not living - you're waiting. Hoping for things to go bad again. Remember when you left Gotham? Before all this. Before Batman. Seven years you were gone. Seven years I waited. Hoping that you wouldn't come back. Every year I took my holiday. I'd go to Florence. There's a caf� by the Arno... Any fine evening I would sit there and order a Fernet Branca... I had a fantasy. I liked to imagine that one day I'd look across the tables, and see you. Sitting there with your wife. Perhaps some kids. You wouldn't say anything to me, or me to you, but we'd both know...that you'd made it. That you were happy. I never wanted you to come back to Gotham. I knew there was nothing there for you but pain and tragedy, and I wanted more for you than that. I still do.
+DWP MAN	m	They wash up a couple times a month. More when in gets colder - homeless sheltering in the tunnels. We had to pull him to clear the basin, but other than that we didn't touch him...
+ROSS	m	What?
+BLAKE	m	Name's Jimmy. He's at St. Swithin's. (Off look.) The boys home where I...I coach some ball.
+FATHER REILLY	m	Jimmy hadn't been here for months.
+BLAKE	m	Why?
+FATHER REILLY	m	You know why, Blake - he aged out. We don't have the resources to keep boys on after sixteen -
+BLAKE	m	The Wayne Foundation gives money for that -
+FATHER REILLY	m	Not for two years now.
+BLAKE	m	He has a brother here, right?
+FATHER REILLY	m	Mark. I'll tell him.
+BLAKE	m	I'd like to, if that's okay.
+BLAKE	m	I'm sorry.
+BLAKE	m	What was he doing in the tunnels?
+MARK	m	Lot of guys been going down the tunnels when they age out. Say you can live down there. Say there's work down there.
+BLAKE	m	What kind of work are you gonna find in the sewers?
+MARK	m	More than you can find up here, I guess.
+STRYVER	?	You brought a date?
+SELINA	f	I like having someone around to open doors for me.
+SELINA	f	Right hand. No partials.
+STRYVER	?	Very nice.
+SELINA	f	Not so fast, handsome. You got something for me?
+STRYVER	?	Oh, yes.
+SELINA	f	I don't know what you're going to do with Mr. Wayne's prints...but I'm guessing you'll need his thumb.
+SELINA	f	You don't count so good, huh?
+STRYVER	?	I count fine.
+STRYVER	?	In fact, I'm counting to ten right now...
+SELINA	f	Okay, okay -
+SELINA	f	My friend is waiting outside. Just hit 'send'...
+JEN	f	Place is a little dead.
+SELINA	f	(takes envelope, tense) It'll liven up in a minute, trust me.
+JEN	f	Everything okay?
+SELINA	f	Great. Catch you later.
+SELINA	f	It would've been a lot easier to just give me what we agreed.
+STRYVER	?	We can't have loose ends. And even in that dress, no one's going to miss you.
+SELINA	f	No. But my friend over there...?
+SELINA	f	Every cop in the city's missing him.
+STRYVER	?	Cute. But they're not gonna be looking in a place like this.
+SELINA	f	I don't know... You did just use his cell phone.
+SWAT	m	It's alright, Miss. Just stay down
+SELINA	f	Keep some pressure on that, sweetheart.
+CONGRESSMAN	m	Call me?
+SELINA	f	There's a man in there - he's bleeding!
+BLAKE	m	It's okay, Miss. It's okay.
+BLAKE	m	I've got the Congressman - bullet to the leg, but he's okay.
+GORDON	m	Manhole!
+GORDON	m	You three, down with me. You two, head down to cover the next exit -
+SWAT	m	Where -?
+GORDON	m	Get the DWP down here, now!
+COP	m	Where's the DWP guy?
+BLAKE	m	They went down there?
+FOLEY	m	(shaking his head) And Gordon took SWAT in after them.
+BLAKE	m	Come on, we gotta get down there -
+COP	m	That was a gas explosion, kid -
+BLAKE	m	Gas? This is a sewer!
+FOLEY	m	No one goes in there till we know what's down there.
+BLAKE	m	We know what's down there, sir. The Police Commissioner!
+FOLEY	m	Somebody get the hothead out of here. And get me a DWP guy!
+THUG 1	m	This one's alive. (Looks closer.) Jesus. It's the Police Commissioner.
+THUG 2	m	What do we do?
+THUG 1	m	Take him to Bane.
+BANE	m	Why are you here?
+THUG 1	m	Answer him!
+BANE	m	I'm asking you.
+THUG 1	m	It's the Police Commissioner.
+BANE	m	And you brought him down here?
+THUG 2	m	We didn't know what to do. We -
+BANE	m	You panicked. And your weakness costs three lives.
+THUG 1	m	No, he's alone -
+BANE	m	Search him. Then I will kill you.
+THUG 2	m	He's dead.
+BANE	m	Then show me his body.
+THUG 2	m	That water runs to any one of the outflows - we'd never find him.
+BANE	m	Give me your GPS.
+BANE	m	Follow him.
+THUG 2	m	Follow him?
+BANE	m	Track him. Make sure both bodies will not be found. Then brick up the south tunnel.
+BLAKE	m	I need to see Bruce Wayne.
+ALFRED	m	I'm sorry, Mr. Wayne doesn't take unscheduled calls. Even from police officers.
+BLAKE	m	And if I go get a warrant, in the investigation of Harvey Dent's murder? Would that still count as unscheduled?
+WAYNE	m	What can I do for you, officer?
+BLAKE	m	Commissioner Gordon's been shot.
+WAYNE	m	I'm sorry to hear that -
+BLAKE	m	He chased a gunman down into the sewers. When I pulled him out he was babbling about an underground army. A masked man called 'Bane'.
+WAYNE	m	Shouldn't you be telling this to your superior officers?
+BLAKE	m	I did. One of them asked if he saw any giant alligators down there. He needs you. He needs the Batman.
+WAYNE	m	If Commissioner Gordon thinks I'm the Batman he must be in a bad way
+BLAKE	m	He doesn't know or care who you are. (Off look.) But we've met before. When I was a kid. At the orphanage. See, my mom died when I was small. Car accident, I don't really remember it. But a couple of years later my dad was shot over a gambling debt. I remember that just fine. (Looks at Wayne.) Not a lot of people who know what it feels like, do they? To be angry. In your bones. People understand, foster parents understand. For a while. Then they expect the angry kid to do what he knows he can never do. To move on. To forget.
+BLAKE	m	So they stopped understanding and sent the angry kid to a boys' home - St. Swithin's. Used to be funded by the Wayne Foundation. See, I figured it out too late. You have to hide the anger. Practice smiling in the mirror. Like putting on a mask. You showed up one day in a cool car, pretty girl on your arm.
+BLAKE	m	We were so excited - Bruce Wayne, billionaire orphan. We made up stories about you. Legends. The other boys' stories were just that. But when I saw you I knew who you really were... (Beat.) I'd seen that look on your face. Same one I taught myself.
+BLAKE	m	I don't know why you took the fall for Dent's murder, but I'm still a believer in the Batman. Even if you're not.
+WAYNE	m	Why did you say your boys' home used to be funded by the Wayne Foundation?
+BLAKE	m	Because the money stopped. Might be time to get some fresh air and start paying attention to the details. Some of those details might need your help.
+WAYNE	m	You checked that name? 'Bane' -
+ALFRED	m	Ran it through some databases. He's a mercenary. No other known name. Never been seen or photographed without a mask. He and his men were behind a coup in West Africa that secured mining operations for our friend John Daggett.
+WAYNE	m	Now Daggett's brought them here?
+ALFRED	m	It would seem so. I'll keep digging.
+WAYNE	m	Why did the Wayne Foundation stop funding boys' homes in the city?
+ALFRED	m	The Foundation is funded from the profits of Wayne Enterprises... (Off look.) There have to be some.
+WAYNE	m	Time to talk to Mr. Fox, I think.
+ALFRED	m	I'll get him on the phone -
+WAYNE	m	No. Do we still have any cars around the place?
+ALFRED	m	One or two.
+WAYNE	m	And I need an appointment at the hospital. About my leg.
+ALFRED	m	Which hospital, sir?
+WAYNE	m	Whichever one Jim Gordon's in.
+MIRANDA	f	I'm only asking for explanations because I think I can help.
+FOX	m	I'll pass along your request. Next time I see him.
+MIRANDA	f	He doesn't talk to you either?
+FOX	m	Let's just say that Bruce Wayne has his...eccentricities.
+MIRANDA	f	Mr. Fox, are you aware that John Daggett is trying to acquire shares in Wayne Enterprises?
+FOX	m	I was not. But it wouldn't do him any good - Mr. Wayne still retains a clear majority.
+FOX	m	Bruce Wayne. As I live and breathe.
+FOX	m	What brings you out of cryo-sleep Mr. Wayne?
+WAYNE	m	I see you haven't lost your sense of humor...even if you have lost most of my money.
+FOX	m	Actually, you did that yourself. See, if you funnel the entire R and D budget for five years into a fusion project that you then mothball, your company is unlikely to thrive.
+WAYNE	m	Even with -
+FOX	m	A wildly sophisticated CEO, yes. Wayne Enterprises is running out of time. And Daggett is moving in.
+WAYNE	m	What're my options?
+FOX	m	If you're not willing to turn your machine on -
+WAYNE	m	I can't, Lucius.
+FOX	m	Then sit tight. Your majority keeps Daggett at arm's length while we figure out a future for the energy program with Miranda Tate - she's supported your project all the way. She's smart, and quite lovely.
+WAYNE	m	You too, Lucius?
+FOX	m	We all just want what's best for you, Bruce. Show her the machine.
+WAYNE	m	I'll think it over.
+FOX	m	Anything else?
+WAYNE	m	No, why?
+FOX	m	These conversations always used to end with some...unusual requests.
+WAYNE	m	I retired.
+FOX	m	Let me show you some stuff, anyway.
+WAYNE	m	I figured you'd have shut this place down.
+FOX	m	It was always shut down, officially.
+WAYNE	m	But all this new stuff?
+FOX	m	After your father died, Wayne Enterprises set up fourteen different defense subsidiaries. I've spent years shuttering them and consolidating all the prototypes under one roof. My roof.
+WAYNE	m	Why?
+FOX	m	Stop them falling into the wrong hands. Besides, I thought someone might get some use out of them...
+FOX	m	Sure I can't tempt you to something? Pneumatic crampons? Infrared lenses? Least let me get you something for that leg.
+WAYNE	m	It's fine the use it gets these days.
+FOX	m	Well, then I have just the thing for an eccentric billionaire who doesn't like to walk...
+WAYNE	m	Now you're just showing off.
+FOX	m	Defense Department project for tight-geometry urban pacification. Rotors configured for maneuvering between buildings without recirculation.
+WAYNE	m	What's it called?
+FOX	m	It has a long and uninteresting Wayne Enterprises designation. So I took to calling it the Bat. And yes, Mr. Wayne, it does come in black.
+FOX	m	Works great except for the autopilot.
+WAYNE	m	What's wrong with that?
+FOX	m	Software-based instability. Take a better mind than mine to fix it.
+WAYNE	m	Better mind?
+FOX	m	I was trying to be modest. A less busy mind. Yours, perhaps.
+WAYNE	m	I told you. I retired, Lucius.
+DOCTOR	m	I've seen worse cartilage in knees
+WAYNE	m	That's good -
+DOCTOR	m	No, that's because there is no cartilage in your knee. And not much of any use in your elbows and shoulders. Between that and the scar tissue on your kidneys, residual concussive damage to your brain tissue and general scarred-over quality of your body... (Takes a deep breath.) I cannot recommend that you go heli-skiing. About the only part of your body that looks healthy is your liver, so if you're bored I recommend you take up drinking, Mr. Wayne.
+GORDON	m	We were in this together. Then you were gone...
+WAYNE	m	The Batman wasn't needed anymore. We won.
+GORDON	m	Built on a lie. Our lie. Now there's evil rising from where we tried to bury it. Nobody will listen... The Batman has to come back.
+WAYNE	m	What if he doesn't exist anymore?
+GORDON	m	He must. He must.
+SELINA	f	Get out.
+YUPPIE	m	She took my wallet!
+SELINA	f	Now.
+SELINA	f	I told you not to try it with the assholes, Jen.
+JEN	f	They're all assholes.
+SELINA	f	Okay, the assholes who hit.
+JEN	f	I don't know what he's so upset about, he only had sixty bucks in here.
+SELINA	f	Probably the watch.
+YOUNG WOMAN	f	Watch?
+PAPARAZZI	m	Another stiff too old to climb out of his sports car.
+PAPARAZZI 2	m	No, that's Bruce Wayne! Hey, Wayne, where you been hiding?
+WAYNE	m	I'm not sure if my assistant put me on the guest list -
+GREETER	?	Right through here, Mr. Wayne...
+WAYNE	m	Miss Tate, isn't it?
+MIRANDA	f	Even before you became a recluse, you never came to these things...
+WAYNE	m	True. Proceeds go to the big fat spread, not the cause. It's not about charity, it's about feeding the ego of whichever society hag laid it on.
+MIRANDA	f	Actually, this is my party, Mr. Wayne.
+WAYNE	m	Oh.
+MIRANDA	f	And the proceeds will go where they should, because I paid for the big fat spread myself.
+WAYNE	m	That's very generous of you.
+MIRANDA	f	You have to invest to restore balance to the world. Take our clean-energy project...
+WAYNE	m	Sometimes the investment doesn't pay off. Sorry.
+MIRANDA	f	You have a practiced apathy, Mr. Wayne. But a man who doesn't care about the world doesn't spend half his fortune on a plan to save it... (Gentle.) And isn't so wounded when it fails that he goes into hiding...
+MIRANDA	f	Have a good evening, Mr. Wayne.
+WAYNE	m	Mind if I cut in?
+WAYNE	m	You don't seem very happy to see me.
+SELINA	f	You were supposed to be a shut-in.
+WAYNE	m	Felt like some fresh air.
+SELINA	f	Why didn't you call the police?
+WAYNE	m	I have a powerful friend who deals with this kind of thing. (Admires her cat ears.) Brazen costume for a cat burglar.
+SELINA	f	Yeah? Who are you pretending to be?
+WAYNE	m	Bruce Wayne, eccentric billionaire. Who's your date?
+SELINA	f	His wife's in Ibiza. She left her diamonds behind, though. Worried they'd get stolen.
+SELINA	f	(flash of anger)
+WAYNE	m	Or our achievements.
+SELINA	f	The mistakes stick better. Trust me.
+WAYNE	m	You think that justifies stealing?
+SELINA	f	I take what I need to from those who have more than enough. I don't stand on the shoulders of people with less.
+WAYNE	m	Robin Hood?
+SELINA	f	I'd do more to help someone than most of the people in this room. Than you.
+WAYNE	m	Maybe you're assuming too much.
+SELINA	f	Or maybe you're being unrealistic about what's really in your pants other than your wallet.
+WAYNE	m	Ouch.
+SELINA	f	You think all this can last?
+SELINA	f	There's a storm coming, Mr. Wayne. You and your friends better batten down the hatches, because when it hits you're all gonna wonder how you ever thought you could live so large and leave so little to the rest of us.
+WAYNE	m	Sounds like you're looking forward to it.
+SELINA	f	I'm adaptable.
+WAYNE	m	These pearls do look better on you then they did in my safe... But I still can't let you keep them.
+RICH TWIT	m	You scared her off.
+WAYNE	m	Not likely.
+WAYNE	m	I must have lost my ticket -
+VALET	m	Your wife said you were taking a cab home, sir.
+WAYNE	m	My wife?
+ALFRED	m	Just you, sir?
+ALFRED	m	Don't worry, Master Wayne. Takes a little time to get back into the swing of things.
+WAYNE	m	Remember those 'unusual requests' I used to make?
+ALFRED	m	You've got the wrong leg, sir.
+WAYNE	m	You start with the good limb so it learns your optimum muscle patterns. Now we tighten it up.
+ALFRED	m	It is terribly painful?
+WAYNE	m	You're welcome to try it, Alfred.
+ALFRED	m	Happy watching, thank you, sir.
+WAYNE	m	Not bad - Not bad at all.
+ALFRED	m	Master Wayne, if you're considering going back out there you need to hear some rumors surrounding Bane.
+WAYNE	m	I'm all ears.
+ALFRED	m	There is a prison. In a more ancient part of the world. A pit. Where men are thrown to suffer and die. But sometimes, a man rises from the darkness. Sometimes...the pit sends something back.
+WAYNE	m	Bane.
+ALFRED	m	Born and raised in a hell on earth.
+WAYNE	m	Born in a prison?
+ALFRED	m	No one knows why. Or how he escaped. But they know who trained him one he did.... Your
+MAN	m	mentor.
+ALFRED	m	He plucked Bane from a dark corner of the earth and trained him in the blackest disciplines of combat, deception and endurance. Just like you.
+WAYNE	m	Bane was a member of the League of Shadows.
+ALFRED	m	Until he was excommunicated. And a man considered too extreme for is not to be trifled with.
+WAYNE	m	I didn't realize I was known for trifling with criminals.
+ALFRED	m	That was then. And you can strap up your leg and put the mask back on. But it won't make you what you were.
+WAYNE	m	Which was?
+ALFRED	m	Someone whose anger at death made him value all life. Even his own.
+WAYNE	m	If this man is all the things you say he is, then this city needs me.
+ALFRED	m	Yes, this city needs Bruce Wayne. Your resources, your knowledge...not your body. Not your life. That time has passed.
+WAYNE	m	I tried helping as Bruce Wayne, Alfred. And I failed.
+ALFRED	m	You can fail as Bruce Wayne. As Batman, you can't afford to.
+WAYNE	m	That's what you're afraid of - that if I go back out there I'll fail.
+ALFRED	m	No. I'm afraid that you want to.
+TRADER 2	m	You can't short the stock because Bruce Wayne goes to a party -
+TRADER 1	m	Wayne coming back is change. Change is either good or bad.
+TRADER 2	m	On what basis?
+TRADER 1	m	I flipped a coin.
+TRADER 3	m	No. Rye. I told 'em rye. Alright, I'll take it.
+TRADER 1	m	This is a stock exchange, there's no money you can steal -
+BANE	m	Why else would you people be here?
+BANE	m	Enter your password. Or I send these men to your home.
+BLAKE	m	Move it, now! We've got a situation.
+CONSTRUCTION WORKER	m	Where can I move it?!
+BLAKE	m	That way!
+BLAKE	m	Get in your vehicle and stay there!
+SECURITY CHIEF	m	You've gotta get in there!
+FOLEY	m	This is a hostage situation -
+SECURITY CHIEF	m	It's a robbery! They've got direct access to the online trading desk.
+FOLEY	m	I'm not risking my men for your
+SECURITY CHIEF	m	It's not our money, it's everyone's!
+ALLEN	m	Really? Mine's in my mattress.
+SECURITY CHIEF	m	If you don't shut these guys down, the stuffing in that mattress might be worth a whole lot less, pal.
+FOLEY	m	Cut the fiber line - shut down the cell tower. That'll slow them down.
+SHOESHINE MAN	m	They cut the fiber. Cell's working.
+BANE	m	For now. How much longer does the program need?
+SHOESHINE MAN	m	Eight minutes.
+BANE	m	Time to go mobile.
+ALLEN	m	Get the barriers up - no more in and out on this street!
+SNIPER	m	I've got something -
+ROOKIE COP	m	Shoot the tires!
+VETERAN COP	m	No shot!
+FOLEY	m	Back off, back off! They've got hostages!
+ROOKIE COP	m	What's going on with the lights?
+VETERAN COP	m	It can't be...
+ROOKIE COP	m	The hell was that?!
+VETERAN COP	m	Oh boy. You're in for a show tonight, son.
+FOLEY	m	Let's roll, they've spotted the Batman!
+FOLEY	m	Call everyone in - every car patrol, beat cop, off-duty, too! Pull 'em in, close every street! Now!
+FOLEY	m	I'm gonna do what Gordon never could.
+BLAKE	m	What's that?
+FOLEY	m	I'm gonna take down the Batman.
+BLAKE	m	Sir, what about the armed robbers?
+SPOTTER	m	One bike's pulled off, no hostage -
+SPOTTER	m	Should we pursue?
+FOLEY	m	Negative! Stay on the Batman!
+BLAKE	m	But he's getting away!
+FOLEY	m	Who do you want to catch? Some robber, or the son-of-a-bitch who killed Harvey Dent?
+TV ANNOUNCER	m	People aren't saying much - frankly, they're too busy - but all signs suggest that what we're
+CATWOMAN	f	Well, what do you know?
+DAGGETT	m	After eight years he has to pick tonight...
+STRYVER	?	He's drawing the cops off Bane...
+FOLEY	m	How did you let him go?!
+COP	m	He's got a lot of firepower -
+FOLEY	m	And you don't?! We're not letting one nut with a bad attitude and some fancy gadgets run this town down, you hear me?!
+COP	m	He's heading back downtown...
+FOLEY	m	Then he's as dumb as he dresses - close it down, gentlemen!
+FOLEY	m	Like a rat in a trap, gentlemen...
+VETERAN COP	m	You might have the wrong animal there, sir -
+BLAKE	m	Are you sure that was him?
+ANNOUNCER	f	Police are keeping quiet about the prospect of a return by the Batman, but eyewitness accounts seem the clearly suggests the type of...
+STRYVER	?	Bane says the Batman interfered, but the task was accomplished.
+DAGGETT	m	What about the men they arrested?
+STRYVER	?	He says, and I quote, they would die before talking.
+DAGGETT	m	Where does he find these guys? Open the champagne...
+DAGGETT	m	And can we get some girls in here?
+CATWOMAN	f	Cat got your tongue?
+DAGGETT	m	You dumb bitch.
+CATWOMAN	f	Nobody ever accused me of being dumb.
+DAGGETT	m	Dumb to show up here tonight.
+CATWOMAN	f	I want what you owe me -
+DAGGETT	m	'I want' never gets...
+STRYVER	?	Nice outfit...those heels make it tough to walk?
+CATWOMAN	f	I don't know, do they?
+CATWOMAN	f	So where is it?
+DAGGETT	m	Where's what?
+CATWOMAN	f	The program. The 'Clean Slate'.
+DAGGETT	m	Oh, yeah - the ultimate tool for a master thief with a record. I don't have it.
+CATWOMAN	f	Where is it?
+DAGGETT	m	The 'Clean Slate'? Type in a name and date of birth and within a couple hours that person ceases to exist in any database? Little too good to be true.
+CATWOMAN	f	You're lying. Rykin Data took it to prototype stage -
+DAGGETT	m	That's why I bought them. But they had nothing. It was a gangland myth.
+CATWOMAN	f	Stay back!
+CATWOMAN	f	I'm not bluffing!
+BATMAN	m	They just don't care.
+CATWOMAN	f	You've got to be kidding.
+BATMAN	m	No guns. No killing.
+CATWOMAN	f	Where's the fun in that?
+BATMAN	m	Come on!
+CATWOMAN	f	My mother warned me about getting into cars with strange men -
+BATMAN	m	This isn't a car.
+CATWOMAN	f	See you around -
+BATMAN	m	You're welcome.
+CATWOMAN	f	I had it under control.
+BATMAN	m	Those weren't street thugs - they were trained killers. I saved your life. In return I need to know what you did with Bruce Wayne's fingerprints.
+CATWOMAN	f	Wayne wasn't kidding about a 'powerful friend'. I sold his prints to Daggett. For something that doesn't even exist.
+BATMAN	m	I doubt many people get the better of you.
+CATWOMAN	f	Hey, when a girl's desperate...
+BATMAN	m	What were they going to do with them?
+CATWOMAN	f	I don't know. But Daggett seemed pretty interested in that mess at the stock market.
+BATMAN	m	Miss Kyle -? So that's what that feels like.
+ALFRED	m	Very inconspicuous. Shall I tell the neighbors you got yourself a new leaf-blower?
+WAYNE	m	We bought all the neighbors.
+ALFRED	m	From the look of the television coverage, you seem to have your taste for wanton destruction back.
+WAYNE	m	(pulls out USB drive) I retrieved this.
+ALFRED	m	Shouldn't the police be gathering the evidence?
+WAYNE	m	They don't have the tools to analyze it.
+ALFRED	m	They would if you gave them to them
+WAYNE	m	One man's tool is another man's weapon.
+ALFRED	m	In your mind, perhaps. But there aren't many things you couldn't turn into a weapon.
+WAYNE	m	Alfred. Enough. The police weren't getting it done -
+ALFRED	m	Perhaps they would've if you haven't made a sideshow of yourself.
+WAYNE	m	Perhaps you're upset you were wrong.
+ALFRED	m	Wrong?
+WAYNE	m	You thought I didn't have it in me.
+ALFRED	m	You don't. You lead a bloated police force on a merry chase with some fancy new toys from Fox. What about when you come up against him. What then?
+WAYNE	m	I'll fight harder, I always have.
+ALFRED	m	When you had something to fight for. What are you fighting for now? Not your life.
+ALFRED	m	Take a good look. At his speed, his ferocity, His training. I see the power of belief. Of the fanatic. I see the League of Shadows resurgent.
+WAYNE	m	You said he was excommunicated.
+ALFRED	m	By . Who leads them
+MAN	m	now?
+WAYNE	m	 was the League of
+MAN	m	Shadows. And I beat him. Bane's just a mercenary, and we have to find out what he's up to.
+WAYNE	m	Trades of some kind. Coded...
+ALFRED	m	Is that -?
+WAYNE	m	Mine. Courtesy of Selina Kyle. Get this to Fox - he can crack the code and tell us what trades they were executing.
+ALFRED	m	I'll get this to Fox. But no more.
+ALFRED	m	I've sewn you up and set your bones...but I won't bury you. I've buried enough members of the Wayne family.
+WAYNE	m	You'd abandon me?
+ALFRED	m	You see only one end to your story. Leaving is all I have to make you understand: you aren't Batman anymore - you have to find another way. You used to talk about finishing. About life beyond that awful cave -
+WAYNE	m	Rachel died knowing we'd decided to be together. That was my life beyond this cave and I can't just move on. She didn't. She couldn't.
+ALFRED	m	What if he had? What if she wasn't intending to make a life with you?
+WAYNE	m	She was, I can't change that -
+ALFRED	m	What if, before she died, she'd written a letter? Explaining that she'd chosen Harvey Dent over you?
+ALFRED	m	And what if, to spare you pain...I'd burned that letter?
+WAYNE	m	Why would you say such a thing?
+ALFRED	m	Because I have to make you understand.
+WAYNE	m	You're lying.
+ALFRED	m	Because you are as precious to me as you were to your own mother and father and I swore to them that I would protect you and I haven't.
+WAYNE	m	You're lying!
+ALFRED	m	I've never lied to you. Except when I burned Rachel's letter.
+WAYNE	m	How dare you use Rachel to stop me!
+ALFRED	m	I'm using the truth, Master Wayne. Maybe it's time we all stopped trying to outsmart the truth and just let it have its day. I'm sorry.
+WAYNE	m	Sorry?! You expect to destroy my world, then shake hands?!
+ALFRED	m	No. I know what this means -
+WAYNE	m	What does it mean, Alfred?!
+ALFRED	m	It means your hatred. It means losing the person I've cared for ever since I heard his first cries echo through this house. But it might also mean saving your life. And that is more important.
+WAYNE	m	Goodbye, Alfred.
+ALFRED	m	Goodbye, Bruce.
+WAYNE	m	Alfred?
+FOX	m	Answering your own door?
+WAYNE	m	Yes. Could you decode the trades on that drive?
+FOX	m	I didn't need to. Page three.
+FOX	m	It seems you made a series of large put options on the futures exchange. Verified by thumb print. The options expired at midnight last night.
+FOX	m	Long term we may be able to prove fraud, but for now...you're completely broke. And Wayne Enterprises is about to fall into the hands of John Daggett.
+WAYNE	m	The weapons - we can't let Daggett get his hands on Applied Sciences -
+FOX	m	Applied Sciences is shut up tight, and off the books. The energy project is a different story.
+WAYNE	m	Miranda Tate. We need to convince the board to get behind her. Let's show her the reactor -
+FOX	m	We're meeting her there in thirty-five minutes. You better get dressed.
+MIRANDA	f	You brought me out here to show me a rubbish dump, Mr. Fox?
+FOX	m	Bear with me, Miss Tate.
+FOX	m	Keep your hands and feet inside the car at all times.
+MIRANDA	f	This is it, isn't it?
+FOX	m	The reactor is beneath the river so that it could be instantly flooded in an event of a security breach.
+MIRANDA	f	Is Bruce Wayne really that paranoid?
+FOX	m	I'm gonna plead the fifth on that one.
+WAYNE	m	I thought you might like to see what your investment built.
+MIRANDA	f	No radiation, no fossil fuels. Free, clean energy for an entire city.
+WAYNE	m	If it worked. It doesn't.
+WAYNE	m	Ignition, yes. But no chain reaction.
+MIRANDA	f	You've built a lot of security around a damp squib. About three years ago a Russian scientist published a paper on weaponized fusion reactions. One week later your reactor started developing problems... (Looks at Wayne.) I think this machine works.
+WAYNE	m	Miranda, if it were operational, the danger to Gotham would be too great.
+MIRANDA	f	Would it make you feel better to know that the Russian scientist died in a plane crash six months ago?
+WAYNE	m	Someone else will work out what Dr. Pavel did. Someone else will figure out how to turn this power source into a nuclear weapon. I need you to take control of Wayne Enterprises and this reactor.
+MIRANDA	f	And to do what with it?
+WAYNE	m	Nothing. Until we can find a way to guarantee its safety.
+MIRANDA	f	And if we can't?
+WAYNE	m	Decommission it. Flood it.
+MIRANDA	f	Destroy the world's best chance for a sustainable future?
+WAYNE	m	If the world's not ready. Yes.
+MIRANDA	f	Bruce, if you want to save the world you have to start trusting it.
+WAYNE	m	I'm trusting you.
+MIRANDA	f	Doesn't count. You have no choice.
+WAYNE	m	I could've flooded this chamber any time in the last three years. I'm choosing to trust you, Miranda, and that's not the easiest thing for me. Please.
+FOX	m	We have a board meeting to get to.
+DAGGETT	m	I'd like to point out that we have a non-board member here. Highly irregular, even if it is his family name above the door...
+FREDERICKS	m	Bruce Wayne's family built this
+BOARD MEMBER 2	m	And he himself has run it -
+DAGGETT	m	Into the ground, sir. Anybody disagree? Check the value of your shares this morning. Gambling on crazy futures didn't just lose Mr. Wayne his seat, it's lost us all a lot of money. He needs to leave.
+FOX	m	I'm afraid he has a point, Mr. Wayne.
+WAYNE	m	I understand. Ladies and gentlemen.
+DAGGETT	m	Let's get down to business.
+FOX	m	Right away.
+REPORTER	m	Wayne, how's it feel to be one of the people?!
+COMPANY VALET	m	I'm sorry, sir, they had paperwork
+DAGGETT	m	How the hell did Miranda Tate get the inside track on the Wayne board?! Was she meeting with Wayne? Was she sleeping with Wayne?
+STRYVER	?	Not that we know of -
+DAGGETT	m	Clearly you don't 'know of' anything, do you?! Where's Bane?!
+STRYVER	?	We told him it was urgent -
+DAGGETT	m	Then where is the masked -
+BANE	m	...and he shall appear.
+DAGGETT	m	What the hell's going on?
+BANE	m	The plan is proceeding as expected.
+DAGGETT	m	You see me running Wayne Enterprises?! (Moves towards Bane.) Your stock exchange hit didn't work, friend. And now you've got my construction crews working all hours around the city? How's that supposed to help my company absorb Wayne's?
+BANE	m	Leave us.
+DAGGETT	m	You stay right there! I'm in charge!
+BANE	m	Do you feel in charge?
+DAGGETT	m	I've paid you a small fortune -
+BANE	m	And that gives you power over me?
+DAGGETT	m	What is this?
+BANE	m	Your money and infrastructure have been important. Till now.
+DAGGETT	m	What are you?
+BANE	m	Gotham's reckoning. Come to end the borrowed time you've all been living on...
+DAGGETT	m	You are true evil...
+BANE	m	I am necessary evil.
+BLAKE	m	When you began...why the mask?
+WAYNE	m	To protect the people closest to me.
+BLAKE	m	You're a loner with no family.
+WAYNE	m	There are always people you care about. You just don't realize how much until they're gone. (Collects himself.) The idea was to be a symbol. Batman could be anybody, that was the point.
+BLAKE	m	It was damn good to see him back.
+WAYNE	m	Not everybody agrees.
+BLAKE	m	They'll figure it out in the end.
+WAYNE	m	Got anything on Bane's whereabouts?
+BLAKE	m	Yeah, I've got five hundred pages of tunnel records and a flashlight. I could use some help.
+WAYNE	m	You know what? Drop me in Old Town...
+WAYNE	m	Don't wait. I'll get a cab.
+BLAKE	m	You got money?
+WAYNE	m	(smiles, sheepish) Actually, no.
+SELINA	f	He's not a mark.
+SELINA	f	And he doesn't have a cent to his name, anyway.
+SELINA	f	Yeah, it's not much. (Smiles.) But it's more that you've got right now.
+WAYNE	m	Actually, they're letting me keep the house.
+SELINA	f	The rich don't even go broke same as the rest of us, huh?
+WAYNE	m	(spots her bag) Vacation?
+SELINA	f	Let's just say that I've incurred the wrath of some people less susceptible to my charms than you.
+WAYNE	m	My powerful friend hopes to change your mind about leaving.
+SELINA	f	And how would he do that?
+WAYNE	m	By giving you what you want.
+SELINA	f	It doesn't exist.
+WAYNE	m	He says it does. He wants to meet. Tonight.
+SELINA	f	Why?
+WAYNE	m	He needs to find Bane. He thinks you'd know how.
+SELINA	f	Tell him I'll think about it.
+SELINA	f	Mr. Wayne? I'm sorry they took all your money.
+WAYNE	m	No, you're not.
+FOLEY	m	Can we help you, officer?
+BLAKE	m	John Daggett's body was found in a dumpster an hour ago. I thought you might like to know.
+GORDON	m	Why?
+BLAKE	m	Because Daggett's name is all over the permits I pulled to map the tunnels under Gotham.
+BLAKE	m	MTA maintenance, sewer construction...
+GORDON	m	Where did you get to with the tunnel searches?
+FOLEY	m	Remind me to tell the detail to keep hotheads out. (To Gordon.) We've had teams down there, but it's a huge network -
+GORDON	m	Get more men, work a grid. I want him found.
+FOLEY	m	Yeah, yeah - the masked man. We're on it.
+GORDON	m	This is good work. Lose the uniform - you're working for me now. We could use some hotter heads around here.
+BLAKE	m	This could just be a coincidence.
+GORDON	m	You're a detective now, son, you're not allowed to believe in coincidence anymore.
+WAYNE	m	No. I'm on my own now.
+MIRANDA	f	Do you have keys?
+WAYNE	m	Never needed them...
+MIRANDA	f	Let's find a window.
+MIRANDA	f	Fox worked the board like you've never seen - I'm in, Daggett's out and he's not happy.
+WAYNE	m	Hope you don't like me for your money.
+MIRANDA	f	Suffering builds character.
+MIRANDA	f	I'll take care of your parents' legacy, Bruce.
+MIRANDA	f	Who's this?
+MIRANDA	f	Where's Alfred?
+WAYNE	m	He left. Taking everything.
+MIRANDA	f	What's that?
+WAYNE	m	I think my power's been shut off.
+WAYNE	m	You're pretty good at that.
+MIRANDA	f	When I was a child we had almost nothing. But on the nights we had a fire, we felt very rich indeed.
+WAYNE	m	I assumed your family was wealthy.
+MIRANDA	f	Not always. Not when I was young.
+MIRANDA	f	An old mistake.
+WAYNE	m	I've made a few myself.
+MIRANDA	f	More than a few... (Smiles.) We could leave. Tonight. Take my plane. Go anywhere we wanted.
+WAYNE	m	Someday perhaps. Not tonight.
+CATWOMAN	f	Don't be shy.
+CATWOMAN	f	Wayne says you can get me the 'Clean Slate'.
+BATMAN	m	That depends.
+CATWOMAN	f	On what?
+BATMAN	m	On what you want it for. I acquired it to keep it out of the wrong hands.
+CATWOMAN	f	Still don't trust me, huh? How can we change that?
+BATMAN	m	Start by taking me to Bane.
+CATWOMAN	f	You asked.
+CATWOMAN	f	From here, Bane's men patrol the tunnels...and they are not your average brawlers.
+BATMAN	m	Neither am I.
+CATWOMAN	f	He's behind you.
+MERCENARY	m	Who?
+CATWOMAN	f	Just a little further.
+CATWOMAN	f	I had to find a way to stop them trying to kill me.
+BATMAN	m	You've made a serious mistake.
+BATMAN	m	Bane.
+BANE	m	Let's not stand on ceremony here, Mr. Wayne.
+BANE	m	Peace has cost you strength. Victory has defeated you.
+BANE	m	Theatricality and deception are powerful agents...to the uninitiated.
+BANE	m	But we are initiated, aren't we, Bruce? The League of Shadows. And you betrayed us...
+BATMAN	m	Us? You were excommunicated. From a gang of psychopaths.
+BANE	m	Now I am the League of Shadows, here to fulfill 's
+MAN	m	destiny...
+BANE	m	You fight like a younger man. Nothing held back. No reserves. Admirable. But mistaken.
+BANE	m	You think darkness is your ally. But you merely adopted the dark. I was born in it. Formed by it...
+BANE	m	I didn't see the light until I was already a man. And by then it was nothing to me but blinding...
+BANE	m	The shadows betray you, because they belong to me...
+BANE	m	I will show you where I've made my home while preparing to bring justice. Then...I will break you.
+BATMAN	m	No...
+BANE	m	Your precious armory. Gratefully accepted. We will need it.
+BANE	m	I wondered which would break first - your spirit...
+BLAKE	m	Get Commissioner Gordon. Tell him I've got a line on the Congressman's kidnapping.
+UNIFORM	m	Excuse me, Miss. I need to see your ticket and identification, please.
+SELINA	f	Would you mind?
+BLAKE	m	I showed your picture to the Congressman and guess what?
+SELINA	f	Don't tell me, still in love?
+BLAKE	m	Head over heels. Pressing charges, though. You've made some mistakes, Ms. Kyle.
+SELINA	f	Girl's gonna eat.
+BLAKE	m	You have an appetite. Why run? You can't hide from us with this record.
+SELINA	f	Maybe it's not you I'm running from.
+BLAKE	m	Who then? Bane? What do you know about him?
+SELINA	f	That you should be as afraid of him as I am.
+BLAKE	m	We can offer you protection...
+BLAKE	m	When I spotted you, I was looking for a friend...Bruce Wayne.
+BLAKE	m	Did they kill him?
+SELINA	f	I'm not sure.
+WAYNE	m	Why didn't you just kill me?
+BANE	m	You don't fear death. You welcome it. Your punishment is to be more severe.
+WAYNE	m	You're a torturer...
+BANE	m	Yes. But not of your body. Of your soul.
+WAYNE	m	Where am I?
+BANE	m	Home. Where I learned the truth about despair. As will you. (Rises.) There is a reason that this prison is the worst hell on earth... Hope. Every man who has rotted here over the centuries has looked up to the light and imagined climbing to freedom. So simple. So easy. And, like shipwrecked men turning to sea water from uncontrollable thirst, many have died trying. I learned that there can be no true despair without hope. (Turns to Wayne.) So as I terrorize Gotham, I will feed its people hope to poison their souls. I will let them believe they can survive so that you can watch them clamber over each other to stay in the sun... You will watch as I torture an entire city to cause you pain you thought you could never feel again. Then, when you have truly understood the depths of your failure, we will fulfill R�'s al
+A	m	Gh�l's destiny. We will destroy
+U	m	Gotham. And when it is done...when Gotham is ashes...then you have my permission to die.
+GUARD	m	We're locking her up in here?
+WARDEN	m	The Dent Act allows non-segregation based on extraordinary need. First time she broke out of women's correctional she was sixteen.
+HUGE INMATE	m	Little closer, baby...
+SELINA	f	Why, honey, you wanna hold my hand?
+WARDEN	m	She'll be just fine.
+FOX	m	I don't see the need for a board meeting on the energy project -
+MIRANDA	f	Bruce got a lot of things right. Keeping the board in the dark wasn't one of them...
+BANE	m	This meeting is called to order.
+BANE	m	Chair and President. I also need one ordinary member - Mr. Fox, would you care to nominate?
+FREDERICKS	m	No. I volunteer.
+FOX	m	Where are you taking us?
+BANE	m	Where you buried your resources. The bowels of Gotham.
+GORDON	m	So you think our friend is gone again?
+BLAKE	m	This time...he might not be coming back.
+FOLEY	m	Okay, Commissioner, you were right.
+GORDON	m	What's happened?
+FOLEY	m	Your masked man kidnapped the Wayne Enterprises board. He let most of them go, but took three down into the sewers.
+GORDON	m	No more patrols, no more hide and seek. Send every available cop down there to smoke him out.
+FOLEY	m	The Mayor won't want panic -
+BLAKE	m	So it's a training exercise.
+FOLEY	m	I'm sorry for not taking you
+GORDON	m	Don't apologize for believing the world's in better shape then it is...just fight to make it true.
+GORDON	m	Not you. You're telling me the Batman's gone. So you chase up the Daggett leads, any way you can.
+PRISONER	m	He asks if you would pay us to let you die. I told him you have nothing.
+WAYNE	m	Do it for the pleasure.
+PRISONER	m	They pay me more than that to keep you alive.
+PRISONER	m	He will try the climb.
+WAYNE	m	Has anyone made it?
+PRISONER	m	Of course not.
+WAYNE	m	What does he say?
+PRISONER	m	He says there is one who did. A child...
+PRISONER	m	A child who had been born in this hell...
+WAYNE	m	Bane.
+PRISONER	m	An old legend. Nothing more.
+WAYNE	m	Don't.
+PRISONER	m	Whatever they want you to see...it's happening soon.
+BANE	m	Turn it on.
+BANE	m	I only need one other board member. There are eight more waiting upstairs.
+FOX	m	I won't do it.
+MIRANDA	f	Alright, stop.
+MIRANDA	f	Lucius, you'll kill this man and yourself, and barely slow them down.
+BANE	m	Do your work. Take them to the surface. People of their status deserve to see the next era of western civilization.
+REPORTER	m	We're seeing literally thousands of police heading into the sewers -
+MAYOR	m	A training exercise, that's all. If you'll excuse me, I've got tickets to watch our boys thrash Rapid City.
+BLAKE	m	I've been to half Daggett's cement plants, logged locations they've poured for underground construction...
+BLAKE	m	Honestly, Commissioner, I don't know anything about civil engineering.
+GORDON	m	But you know about patterns. Keep looking.
+BANE	m	(to his men) Pull the core out of the reactor. You can't. This is the only power source capable of sustaning it - if you move it, the core will decay in a matter of months.
+BANE	m	Five, by my calculations.
+BANE	m	For the sake of your family, Dr. Pavel, I hope so.
+WORKER	m	Boss is about to leave.
+BLAKE	m	Hey.
+BLAKE	m	That was you outside the stock exchange, right?
+DRIVER	m	When?
+BLAKE	m	When? When half the city's cops were trying to pull onto Castle Street and your truck shut them out.
+DRIVER	m	Oh yeah. You're that cop -
+BLAKE	m	Detective, now.
+BLAKE	m	And as a detective...I'm not allowed to believe in coincidences
+BLAKE	m	What were you doing?! What?!
+BLAKE	m	Commissioner, I'm at the Fourteenth Street plant with two dead witnesses and a lot of questions. Call me - Commissioner, they've got Polyisobutylene here... (Looks around.) And motor oil. They weren't making cement, they were making explosives -
+BLAKE	m	Oh, God.
+BLAKE	m	Patch me into Foley!
+DISPATCH	?	Foley's overseeing the operation -
+BLAKE	m	They're heading into a trap!
+FOLEY	m	Foley.
+BLAKE	m	It's a trap! Pull everyone out! Bane's been pouring concrete laced with explosives -
+FOLEY	m	Where?
+BLAKE	m	There's a ring around the tunnels - they're gonna blow it and trap the cops underground!
+FOLEY	m	Pull out! Pull 'em out!
+BANE	m	Let the games begin.
+BANE	m	Gotham, take control of your city...
+BLAKE	m	Foley?
+FOLEY	m	Jesus, Blake! Every cop in the city's down in those tunnels!
+BLAKE	m	Not every cop...
+GORDON	m	Get my coat, son.
+BANE	m	This is the instrument of your liberation...
+ANALYST	m	Satellite shows a radiation spike...
+ANALYST 2	m	Whatever it is...it's nuclear.
+BANE	m	Identify yourself to the world.
+CIA ANALYST	f	Pavel was confirmed dead - plane crash on an Agency pull-out of Uzbekistan... But it certainly looks like him -
+BANE	m	Tell the world what this is.
+BANE	m	And who can disarm this device?
+BANE	m	Thank you, Doctor.
+BANE	m	The bomb is armed, the bomb is mobile, the identity of the triggerman is a mystery. One of you holds the detonator - we come not as conquerors, but as liberators to return control of this city to the people. At the first sign of interference from the outside world or of people attempting to flee, this anonymous Gothamite, this unsung hero, will trigger the bomb. For now, martial law is in effect. Return to your homes, hold your families close, and wait. Tomorrow you claim what is rightfully yours.
+GENERAL	m	Pull back the fighters, start high-level reconnaissance flights. And get the President on the line.
+LEAD MERCENARY	m	Tanks and planes cannot stop us detonating our device. Send an emissary to discuss terms of access for supplies and communication.
+CAPTAIN	m	How many of you are there, son? (Nothing.) You don't have enough men to stop twelve million people leaving that island.
+LEAD MERCENARY	m	We don't. But you do.
+CAPTAIN	m	Why in the hell would we help you keep your hostages?
+LEAD MERCENARY	m	If people start crossing this bridge Gotham gets blown to hell.
+PRESIDENT	m	The people of our greatest city are resilient. They have proven this before, they will prove this again...
+PRESIDENT	m	We do not negotiate with terrorists, but we do recognize realities...
+PRESIDENT	m	As the situation develops, one thing must be understood above all others... People of Gotham, we have not abandoned you.
+BLAKE	m	What does that mean?
+GORDON	m	It means we're on our own. I have to get in front of a camera -
+BLAKE	m	Sir, they'll kill you the second you show your face -
+GORDON	m	The Mayor's dead. I'm the symbol of law and order. Bane says he's giving Gotham back to the people - they need to know that I could lead.
+BLAKE	m	Bane's not gonna let that happen -
+GORDON	m	Then he'll show his true colors.
+BLAKE	m	And you'll be dead.
+BANE	m	Behind you stands a symbol of oppression. Blackgate Prison...
+BANE	m	Harvey Dent. Held up to you, and over you, as a shining example of justice and good...
+BLAKE	m	We're gonna keep moving you, till we can get you in front of a camera
+BANE	m	But they supplied you a false idol. A straw man. To placate. To stop you tearing down this corrupt city...
+BANE	m	Let me tell you the truth about Harvey Dent. In the words of Gotham's Police Commissioner, James Gordon...
+BANE	m	'The truth about Harvey Dent is simple in only one regard - it has been hidden for too long. After his devastating injuries, Harvey's mind has recovered no better than his mutilated face. He was a broken, dangerous man, not the crusader for justice that I, James Gordon, have portrayed him to be for the last eight years. Harvey's rage was indiscriminate. Psychopathic. He held my family at gunpoint, then fell to his death in the struggle over my son's life. The Batman did not murder Harvey Dent - he saved
+BANE	m	my boy. Then took the blame for Harvey's appalling crimes, so that I could, to my shame, build a lie around this fallen idol.'
+BANE	m	'The things we did in Harvey's name brought desperately needed security to our streets... But I can no longer live with my lie. It is time to trust the people of Gotham with the truth, and it is time for me to resign.' Do you accept this man's resignation?
+BANE	m	Do you accept the resignation of all the liars?! All the corrupt?!
+BLAKE	m	These men, locked up in Blackgate for eight years, denied parole under the Dent Act. Based on a lie.
+GORDON	m	A lie to keep a city from burning to the ground. Gotham needed a hero, someone to believe in -
+BLAKE	m	Not as much as it does now. But you betrayed everything you stood for.
+GORDON	m	(looks at Blake) There's a point. Far out there. When the structures fail you. When the rules aren't weapons anymore, they're shackles, letting the bad get ahead. Maybe one day you'll have such a moment of crisis. And in that moment, I hope you have a friend like I did. To plunge their hands into the filth so you can keep yours clean.
+BLAKE	m	Your hands look pretty filthy to me, Commissioner.
+BANE	m	We take Gotham from the corrupt. The rich. The oppressors of generations who've kept you down with the myth of opportunity. And we give it to you, the people. Gotham is yours - none shall interfere. Do as you please...
+BANE	m	But start by storming Blackgate and freeing the oppressed... Step forward, those who would serve...
+PRISONER	m	He says you must first straighten your back.
+WAYNE	m	How would he know?
+PRISONER	m	He was the prison doctor. A morphine addict who incurred the displeasure of powerful people. Including your masked friend.
+WAYNE	m	How?
+PRISONER	m	Many years ago, during a time of plague, Bane was attacked by other prisoners. The doctor's fumbling attempts to repair the damage left him in perpetual agony. The mask holds his pain at bay.
+WAYNE	m	Is Bane the child you spoke of? Was he born here?
+PRISONER	m	The legend is that there was a mercenary working for the local warlord who fell in love with his daughter. They married in secret.
+PRISONER	m	When the warlord found out, he condemned the mercenary to this pit. But then exiled him instead.
+PRISONER	m	The mercenary understood that the warlord's daughter had secured his release, but he couldn't know the true price of his freedom. She had taken his place in the pit.
+PRISONER	m	And she was with the child. The mercenary's child.
+PRISONER	m	One day the doctor forgot the lock the cell...
+PRISONER	m	Innocence cannot flower underground. It was to be stamped out. But the child had a friend. A protector...
+PRISONER	m	...who showed the others that this innocence was their redemption. The mother was not so lucky.
+PRISONER	m	This is Bane's prison now. Bane would not want this story told. You have a protruding vertebra...I'm going to force it back...
+WAYNE	m	How -?
+PRISONER	m	You stay like this. Until you stand.
+MAN	m	Did you not think I'd return, Bruce?
+MAN	m	I told you I was immortal.
+WAYNE	m	I watched you die.
+MAN	m	There are many forms of immortality.
+MAMAN	f	Once I had a wife. My great love. She was taken from me...
+MANWAYNE	?	You were the mercenary. Bane is your child. Your heir.
+MANMAN	m	An heir to ensure the League of Shadows fulfills its duty to restore balance to civilization.
+WAYNE	m	No...
+MAN	m	You yourself fought the decadence of Gotham for years. With all your strength and resources, all your moral authority. And the only victory you could achieve was a lie. Finally you understand... Gotham is beyond saving...
+MAN	m	And must be allowed to die.
+BLAKE	m	For the bus in case there's a chance to evacuate. Keep it in here - people are siphoning parked cars.
+FATHER REILLY	m	Really?
+BLAKE	m	How do you think I got it?
+FATHER REILLY	m	Right. Any news? Is the
+BLAKE	m	Less you know, Father. How're the boys?
+FATHER REILLY	m	Power's been on more, so they get some TV. Blake, you be careful out there. They're hunting down cops like dogs.
+JEN	f	Who's that?
+SELINA	f	This was someone's home.
+JEN	f	Now it's everyone's home.
+JEN	f	'Storm's coming', remember? This is what you wanted.
+SELINA	f	No. It's what I thought I wanted.
+PRISONER	m	Why build yourself?
+WAYNE	m	I'm not meant to die in here.
+PRISONER	m	Here? There? What's the difference?
+PRISONER	m	I told you it could not be done.
+WAYNE	m	You told me a child did it...
+PRISONER	m	No ordinary child... A child born in hell. A child forged by suffering, hardened by pain... Not a man from privilege.
+FOLEY	m	You have ID?
+SPECIAL FORCES 1	m	Of course not.
+FOLEY	m	How can we trust you?
+SPECIAL FORCES 1	m	Commissioner Gordon? Captain Jones, Special Forces.
+GORDON	m	Captain, glad to have you here.
+CAPTAIN JONES	m	How many of you are there?
+GORDON	m	Dozens. I'd rather not say exactly. But the men trapped underground number almost three thousand.
+CAPTAIN JONES	m	What kind of shape they're in?
+GORDON	m	They've been getting water, food.
+CAPTAIN JONES	m	Could we break them out?
+BLAKE	m	Yes, sir - take out the mercenaries guarding the outflow south of Ackerman Park, blow the rubble, you've got a hole big enough for ten at a time. I'm in contact with my partner - they're waiting for the day.
+SPECIAL FORCES 2	m	Men who haven't seen daylight for three months?
+BLAKE	m	Men with automatic weapons who haven't seen daylight in three months.
+CAPTAIN JONES	m	What about the bomb? The satellites can't see any radiation hot spots...
+CAPTAIN JONES	m	What about the triggerman?
+GORDON	m	No leads. It's a bluff - Bane wouldn't give control of that bomb to someone else.
+CAPTAIN JONES	m	We can't take that chance. Until we have the triggerman, we just track the device, smuggle men over -
+BLAKE	m	While Gotham lives under a warlord, like in some failed state?
+CAPTAIN JONES	m	Dial it back, officer. This situation is unprecedented. We can't do anything to risk millions of lives.
+BLAKE	m	Aren't you gonna tell him?!
+GORDON	m	Captain, things are more complicated than you think. There's somebody you need to meet. Blake?
+BLAKE	m	I was up here looking for a vantage point. Found the people who run the corporation who owns it living here.
+CAPTAIN JONES	m	Which corporation?
+BLAKE	m	Captain, meet Mr. Fox. Mr. Fox, I'd like you to brief the Captain.
+FOX	m	Miss Tate is fully aware of the situation.
+MIRANDA	f	And as CEO of Wayne Enterprises, I have to take responsibility for it.
+CAPTAIN JONES	m	Why?
+MIRANDA	f	Because, Captain, we built it.
+CAPTAIN JONES	m	You built the bomb?
+FOX	m	It was built as a fusion reactor. The first of its kind. Bane turned the core into a bomb, then disconnected it from the reactor.
+BLAKE	m	And here's the important part.
+FOX	m	As the device's fuel cells decay, it's becoming increasingly unstable...until the point of detonation.
+BLAKE	m	The bomb's a time bomb.
+FOX	m	And it will go off. In twenty-three days.
+BLAKE	m	Bane's revolution is a sham. He's watching Gotham rearrange its deckchairs while the whole ship's going down. Your appeasement plan might not be as practical as you thought.
+CAPTAIN JONES	m	Could you disarm it?
+FOX	m	I don't know, But I could reconnect it to the reactor. Stabilize it.
+CAPTAIN JONES	m	We'd have to let the Pentagon know.
+SPECIAL FORCES 2	m	They'll be monitoring our
+CAPTAIN JONES	m	We have no choice. Let's move away from this location, then call it in.
+BLAKE	m	Fox, somebody sold us out!
+FOX	m	Take Miranda -
+CAPTAIN JONES	m	I'll die before I talk...
+BANE	m	I'm on your schedule, Captain.
+MERCERNARY	?	There were people living upstairs.
+BANE	m	Give them over for judgement. (Indicates bodies.) Hang them where the world will see.
+PRISONER	m	He says the leap to freedom is not about strength.
+WAYNE	m	My body makes the jump.
+BLIND PRISONER	m	Survival is the spirit. The soul.
+WAYNE	m	My soul's as ready to escape as my body.
+BLIND PRISONER	m	Fear is why you fail.
+WAYNE	m	I'm not afraid. I'm angry.
+SKINNY PRISONER	m	Shouldn't you get him down?
+PRISONER	m	He'll keep.
+BLIND PRISONER	m	You do not fear death. You think this makes you strong. This makes you weak.
+WAYNE	m	Why?
+BLIND PRISONER	m	How can you move faster then possible? Fight longer than possible? If not from the most powerful impulse of the spirit. The fear of death. The will to survive.
+WAYNE	m	I do fear death. I fear dying in here while my city burns with no one there to save it.
+BLIND PRISONER	m	Then make the climb.
+WAYNE	m	How?
+BLIND PRISONER	m	As the child did. Without the rope. (Dry laugh.) Then fear will find you again.
+PRISONER	m	Supplies for your journey?
+STRYVER	?	I want to see Bane! There's been a mistake! Take me to Bane!
+STRYVER	?	There's been a mistake! Where's Bane?!
+CRANE	m	You are Philip Stryver, executive vice-president of Daggett Industries? (Off nod from Stryver.) The same Philip Stryver who for years lived like a prince off the blood and sweat of people less powerful?
+STRYVER	?	Call Bane! I'm one of you!
+CRANE	m	Bane has no authority here. This is merely a sentencing hearing. The choice is yours, death or exile.
+STRYVER	?	Exile.
+CRANE	m	Sold...to the man in the cold sweat!
+BLACKGATE INMATE	m	Follow the tick ice. Try to swim - you're dead in minutes.
+STRYVER	?	Has anyone made it?
+GORDON	m	Where the hell are they? It's not like we have a lot of time, here.
+COP	m	How long?
+GORDON	m	The bomb goes off tomorrow. We've got about eighteen hours to do something.
+COP	m	To do what?
+GORDON	m	We mark that truck. Get a GPS on it, then we can start thinking about how to take it down.
+GORDON	m	That's it?
+GORDON	m	Foley. Where's Foley, dammit?!
+BLAKE	m	You shouldn't be out on the streets
+FOLEY'S WIFE	f	Jim. He's not here -
+GORDON	m	You're sending your wife to the door when the city's under occupation?!
+FOLEY	m	Wait in the kitchen, honey.
+GORDON	m	What did you do, bury your uniform in the backyard?
+FOLEY	m	Jim, you saw what they did to those Special Forces.
+GORDON	m	You forgotten all the years we went out on patrol with every gangbanger wanting to plant one as soon as our backs were turned?
+FOLEY	m	This is different and you know it. These guys run the city - the government's done a deal with them
+GORDON	m	Deal?! Bane's got their balls in a vice. That's not a deal -
+FOLEY	m	You move against Bane, the triggerman's gonna hit the button -
+GORDON	m	You think he's given control of that bomb to one of 'the people'?! You think this is part of some revolution? There's one man with his finger on the button - Bane.
+FOLEY	m	We have to keep our heads down until they can fix this. If you still had family here maybe you'd -
+GORDON	m	This only gets fixed from inside the city, Foley. (Calmer.) Look, I'm not asking you to walk down Grand in your dress blues. But we've got to do something before this maniac blows us all to hell.
+FOLEY	m	I'm sorry Jim. I gotta -
+GORDON	m	Keep your head down? What's that gonna do tomorrow, when that thing blows?
+FOLEY	m	You don't know that's going to happen.
+MIRANDA	f	How about me, instead?
+GORDON	m	Miss Tate, I can't ask you -
+MIRANDA	f	My company built it.
+GORDON	m	Bruce Wayne built it.
+MIRANDA	f	And he wanted to destroy it. It was me who didn't listen. Please.
+GORDON	m	Let's go.
+GANGBANGER	m	You steal from us, you little bastard?
+SELINA	f	You boys know you can't come into my neighborhood without asking politely.
+SELINA	f	Never steal anything from someone you can't outrun, kid.
+KID	m	Now you're gonna take it.
+SELINA	f	Just tax.
+SELINA	f	You came back. I thought they'd killed you.
+WAYNE	m	Not yet.
+SELINA	f	If you're expecting an apology -
+WAYNE	m	It wouldn't suit you. I need your help.
+SELINA	f	And why would I help you?
+WAYNE	m	For this. The 'Clean Slate'.
+SELINA	f	You're gonna trust me with that? After what I did to you?
+WAYNE	m	I admit I felt a little let down. But I still think there's more to you. In fact, I think for you - (indicates USB) this isn't a tool, it's an escape route. You want to disappear. Start fresh.
+SELINA	f	Start fresh? I can't even get off this island.
+WAYNE	m	I can give you a way off. Once you've gotten me to Lucius Fox. I need you to find out where they're holding him. Then take me in.
+SELINA	f	Why do you need Fox?
+WAYNE	m	To save this city.
+SELINA	f	Who says it needs saving? Maybe I like it this way.
+WAYNE	m	Maybe you do. But tomorrow that bomb's going off.
+SELINA	f	Get your powerful friend on the case.
+WAYNE	m	I'm trying. But I need Fox.
+GORDON	m	Stay further up the block. (Points at Men.) They're gonna cross the street and try and slow the truck down. As it approaches, hit this button. If the needle hits two hundred - give me the signal and I mark the truck. Okay?
+BLAKE	m	Heads up.
+GORDON	m	Got it.
+MERCENARY	m	Commissioner Gordon, you're under arrest.
+GORDON	m	On whose authority?
+MERCERNARY	?	The people of Gotham.
+BASEMENT THUG 1	m	Find this one a spot, he's got a big day tomorrow.
+BASEMENT THUG 2	m	We all do. It's not every day you bag Bruce Wayne...
+MIRANDA	f	Bruce?
+FOX	m	You picked a hell of a time to go on vacation, Mr. Wayne.
+WAYNE	m	How long until the core ignites?
+FOX	m	That bomb goes off in twelve hours.
+WAYNE	m	Unless we can connect it to the reactor.
+FOX	m	If you can get it there. I'll find a way to plug it back in. (Indicates Miranda.) Can you get Miranda out?
+WAYNE	m	Not tonight. I'm sorry.
+MIRANDA	f	Do what's necessary.
+WAYNE	m	Tonight I need you.
+FOX	m	What for?
+WAYNE	m	To get me back in the game.
+CATWOMAN	f	Sorry to spoil things, boys, but Bane wants these guys himself...
+WAYNE	m	I won't forget about you.
+MIRANDA	f	I know.
+FOX	m	I like your girlfriend, Mr. Wayne.
+CATWOMAN	f	He should be so lucky.
+WAYNE	m	Any move I make against Bane or the bomb - the triggerman sets it off.
+FOX	m	They can't be using radio or cell - too much interference. Infrared doesn't have the range. It could only be micro-burst long wave...
+WAYNE	m	Could you block it?
+FOX	m	Yes. I need the EMP cannon-guidance mount from the Bat. You remember where you parked?
+CRANE	m	The charges are espionage and attempted sabotage... Do you have anything to say in your defense?
+GORDON	m	No lawyer, no witnesses. What sort of due process is this?
+CRANE	m	More than you give Harvey's prisoners, Commissioner. Your guilt is determined, this is merely a sentencing hearing. What's it to be, death or exile?
+GORDON	m	Crane, if you think we are going willingly out onto that ice, you've got another think coming.
+CRANE	m	Death, then?
+GORDON	m	Looks that way.
+CRANE	m	Very well... Death... (Smiles.) By exile.
+BANE	m	Bring her to me.
+LUCIUS	m	I think it's time to talk about my year-end bonus...
+FOX	m	She fly pretty well?
+WAYNE	m	Even without the autopilot...
+FOX	m	Autopilot? That's what you're there for.
+FOLEY'S KIDS	m	Dad! Check it out!
+FOLEY'S WIFE	f	Honey, take a look!
+MERCENARY	m	Sir?
+MERCENARY	m	You think it's really him?
+BANE	m	Impossible...
+BATMAN	m	This blocks the remote detonator signal to the bomb. Get it onto the truck by sunrise. They might hit the button when it starts.
+GORDON	m	When what starts?
+BATMAN	m	War.
+BLAKE	m	You missed a spot.
+BATMAN	m	If you're working alone, wear a mask.
+BLAKE	m	No one cares who I am.
+BATMAN	m	The mask is not for you. It's to protect the people you care about.
+BLAKE	m	Huh. And you always seem to know where those people are. How is that?
+BATMAN	m	I lost someone once. Since then I break into their homes when they're sleeping and implant a tracking device on the back of their neck.
+BATMAN	m	On three - one, two, three -
+BLAKE	m	No offense, but you got anything bigger in that belt?
+BATMAN	m	That's to warn the men on the other side.
+BLAKE	m	But how do we -?
+BLAKE	m	Okay.
+BLAKE	m	What now?
+BATMAN	m	All-out assault on Bane...but you need to get the people you care about across the bridge.
+BLAKE	m	Why?
+BATMAN	m	In case we fail. Lead an exodus across the bridge. Save as many lives as you can.
+BLAKE	m	Don't you need me here?
+BATMAN	m	You've given me an army. Now go.
+BLAKE	m	Thank you.
+BATMAN	m	Don't thank me yet.
+BLAKE	m	I might not get a chance later.
+CATWOMAN	f	Oh, you shouldn't have...
+BATMAN	m	The mid-town tunnel's blocked by debris, but the cannons give you enough firepower to make a path for people.
+BATMAN	m	To start it, you -
+CATWOMAN	f	I got it.
+BATMAN	m	We've got forty-five minutes to save this city -
+CATWOMAN	f	No, I've got forty-five minutes to get clear of the blast radius, because you don't stand a chance against these guys.
+BATMAN	m	With your help I might.
+CATWOMAN	f	I'll open that tunnel, then I'm gone.
+BATMAN	m	There's more to you than that.
+CATWOMAN	f	Sorry to keep letting you down. Come with me. Save yourself. You don't owe these people anymore - you've given them everything...
+BATMAN	m	Not everything. Not yet.
+FOLEY	m	There's only one police in this city.
+BANE	m	Open fire.
+GORDON	m	Come on, come on...
+BANE	m	You came back. To die with your city.
+BATMAN	m	No. I came back to stop you.
+GORDON	m	That's impossible... Come on! Cut over to Fifth!
+BLAKE	m	Knock on doors, spread the word - the bomb's going to blow! Get out by the South Street tunnel, or over the bridge! Do two blocks, then get back to the bus!
+BANE	m	Stay back. He is mine -
+BATMAN	m	Give me the trigger! You'd never give it to an ordinary citizen -
+BANE	m	I broke you. How have you come back?
+BATMAN	m	You thought you were the only one who could learn the strength to escape?
+BANE	m	I never escaped -
+MAN	m	rescued me. That is why I must fulfill his plan. That is why I must avenge his murder.
+BATMAN	m	The child of  made the
+A	m	Gh�l...
+MIRANDA	f	I am. And though I am not 'ordinary', I am a citizen...
+MIRANDA/TALIA	?	My mother named me Talia before she was killed. The way I would've been killed if not for my protector...Bane.
+BANE	m	Goodbye.
+TALIA	f	I climbed out of the pit... I found my father and brought him back to exact terrible vengeance - but by that time...the prisoners and the doctor had done their work to my friend...my protector...
+TALIA	f	The League took us in. Trained us...
+TALIA	f	He saw only a monster who could never be tamed. Whose very existence was a reminder of the hell he'd left his wife to die in. He excommunicated Bane from the League of Shadows. His only crime was that he loved me. I could not truly forgive my father... Until you murdered him.
+BATMAN	m	He was trying to kill millions of innocent people -
+TALIA	f	'Innocent' is a strong word to throw around Gotham, Bruce. I honor my father by finishing his work. Vengeance against the man who killed him is simply a reward for my patience... You see, it's the slow knife...the knife that takes its time, the
+TALIA	f	knife that waits years without forgetting, then slips quietly between bones...that's the knife - - that cuts deepest.
+BATMAN	m	Your knife may have been too slow...
+MERCENARY	m	The truck's under attack -
+TALIA	f	Gordon. (To Batman.) You gave him a way to block my signal. No matter - (Looks at watch.) He's bought Gotham eleven minutes. (Shouts at Mercenary.) Prepare a convoy. We must secure the bomb until it detonates.
+TALIA	f	Not yet... I want him to feel the heat. (To Batman.) Feel the fire of twelve million souls you failed. Goodbye, my friend.
+BANE	m	You'll have to imagine the fire - We both know I need to kill you now.
+CATWOMAN	f	The whole no-guns thing? I don't feel as strongly about it as you do.
+UNIFORM	m	Stay there! What are you doing?!
+BLAKE	m	Blake, MCU - I'm getting these boys to safety -
+UNIFORM	m	Safety?! You're gonna get us all killed. Anyone crosses this bridge they blow the city -
+BLAKE	m	It's gonna blow anyway. We need this bridge open right now.
+UNIFORM	m	No one leaves the island. Orders -
+BLAKE	m	Whose orders? Bane's?
+UNIFORM	m	Police Department's.
+BLAKE	m	Haven't you heard the shooting? The Batman's battling it out with Bane
+UNIFORM	m	The Batman's dead. Look, Officer -
+BLAKE	m	It's Detective -
+UNIFORM	m	Well, Detective, you take one more step, we have to shoot you. Two more steps, we have to blow the bridge.
+BLAKE	m	(to the boys) Wait for me back at the bus.
+BATMAN	m	I need you on the ground, me in the air, we have to force that convoy east, to the entrance to the
+BLAKE	m	Your orders are out of date! The situation's changed! Listen, I'm a cop like you. And I'm walking out there. Please don't shoot me.
+UNIFORM	m	Son-of-a-bitch! (To his partner.) Blow it! Before he reaches the line
+UNIFORM	m	Get down! We're blowing the bridge!
+BLAKE	m	You idiots! You sons of bitches! You're killing us!!
+BLAKE	m	Father! Get the boys on the bus -
+FATHER REILLY	m	But there's nowhere to go, son.
+TUMBLER DRIVER	m	They're trying to force us onto
+TALIA	f	Pushing us to the entrance of the reactor. They're going to try and reconnect the core.
+TUMBLER DRIVER	m	Can they?
+GORDON	m	Give me a hand! Let's get a cable on it and drag it out! Come on, we're almost there -
+TALIA	f	Fox showed me how to operate the reactor core. Including the emergency flood -
+TALIA	f	There is no way to stop this bomb. Prepare yourselves... (Looks up at Batman.) My father's work is done.
+GORDON	m	What're you doing?
+BATMAN	m	Two minutes. I can fly it out over the bay...
+CATWOMAN	f	Rig it out to fly over the water, then bail -
+BATMAN	m	No autopilot.
+CATWOMAN	f	You could've gone anywhere. Been anything. But you came back here.
+BATMAN	m	So did you.
+CATWOMAN	f	I guess we're both suckers.
+GORDON	m	So this is the part where you vanish, only this time you don't come back?
+BLAKE	m	Come on! On the bus!
+FATHER REILLY	m	What're you doing?
+BLAKE	m	Protection from the blast -
+FATHER REILLY	m	It's an atom bomb -!
+BLAKE	m	You think they need to hear that in their last seconds? You think I'm going to let them die without hope?
+GORDON	m	I never cared who you were -
+BATMAN	m	And you were right.
+GORDON	m	But shouldn't the people know the hero who saved them?
+BATMAN	m	A hero can be anyone. That was always the point. Anyone. A man doing something as simple and reassuring as putting a coat around a little boy's shoulders to let him know that the world hadn't ended...
+GORDON	m	Bruce Wayne?
+BLAKE	m	Heads down! Heads down, now!
+FATHER REILLY	m	Blake, they need to make their peace.
+BLAKE	m	They're children! They have no peace to make - Get down! This is it!
+LITTLE BOY	m	No. That's Batman!
+GORDON	m	'I see that I hold a sanctuary in their hearts, and in the hearts of their descendants, generations hence. It is a far, far better thing that I do, than I have ever done...' 'It is a far, far better rest that I go to than I have ever known.'
+ALFRED	m	I'm so sorry. I failed you. You trusted me, and I failed you.
+GORDON	m	Can I change your mind about quitting the force?
+BLAKE	m	No. What you said about structures. About shackles. I can't take it. The injustice. (Gestures at gardens.) I mean...no one's ever going to know who saved an entire city.
+GORDON	m	They know. (Off look.) It was Batman.
+LAWYER	m	Nonetheless, there are considerable assets to dispose of... The contents of the house are to be
+LAWYER	m	The house and grounds are left to the city of Gotham, on condition that they never be demolished, altered, or otherwise interfered
+LAWYER	m	My clerk will help anyone with the smaller correspondences and instructions...
+BLAKE	m	Blake, John.
+CLERK	m	Nothing here.
+BLAKE	m	Try my legal name.
+CLERK	m	Yup, here it is.
+CLERK	m	You should use your full name. I like that name... Robin.
+LAWYER	m	Any word on the missing item?
+CLERK	m	No, not yet.
+LAWYER	m	Well, they'd better leave no stone unturned... We can't just put a string of pearls on the manifest as 'lost'.
+TECH 1	m	Why worry about the stabilization software? This whole autopilot system's obsolete -
+FOX	m	Please, I just need to know what I could've done to fix it.
+TECH 2	m	But Mr. Fox, it's already been fixed. (Typed on panel.) Software patch...six months ago.
+FOX	m	Check the user ident on the patch...
+TECH 2	m	Huh. Bruce Wayne.
+WAITER	m	Lei e solo?
+ALFRED	m	Si, Fernet Branca, per cortesia.
+

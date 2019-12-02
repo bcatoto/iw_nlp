@@ -1,0 +1,675 @@
+HAROLD GREEN	m	So at Jenkins' Ferry, we decided warn't taking no reb prisoners. And we didn't leave a one of `em alive. The ones of us that didn't die that day, we joined up with the 116th U.S. Colored, sir. From Camp Nelson Kentucky.
+LINCOLN	m	What's your name, soldier?
+HAROLD GREEN	m	Private Harold Green, sir.
+IRA CLARK	f	I'm Corporal Ira Clark, sir. Fifth Massachusetts Cavalry. We're waiting over there.
+LINCOLN	m	(to Harold Green:) How long've you been a soldier?
+HAROLD GREEN	m	Two year, sir.
+LINCOLN	m	Second Kansas Colored Infantry, they fought bravely at Jenkins' Ferry.
+HAROLD GREEN	m	Us 2nd Kansas boys, whenever we fight now we -
+IRA CLARK	f	Another three dollars subtracted from our pay for our uniforms.
+HAROLD GREEN	m	That was true, yessir, but that changed
+IRA CLARK	f	Equal pay now. Still no commissioned Negro officers.
+LINCOLN	m	I am aware of it, Corporal Clark.
+IRA CLARK	f	Yes, sir, that's good you're aware, sir. It's only that -
+HAROLD GREEN	m	(to Lincoln, trying to change the subject:) You think the Wilmington attack is gonna be -
+IRA CLARK	f	Now that white people have accustomed themselves to seeing Negro men with guns, fighting on their behalf, and now that they can tolerate Negro soldiers getting the same pay - in a few years perhaps they can abide the idea of Negro lieutenants and captains. In fifty years, maybe a Negro colonel. In a hundred years - the vote.
+LINCOLN	m	What'll you do after the war, Corporal Clark?
+IRA CLARK	f	Work, sir. Perhaps you'll hire me.
+LINCOLN	m	Perhaps I will.
+IRA CLARK	f	But you should know, sir, that I get sick at the smell of bootblack and I can't cut hair.
+LINCOLN	m	I've yet to find a man could cut mine so it'd make any difference.
+HAROLD GREEN	m	You got springy hair for a white man.
+LINCOLN	m	Yes, I do. My last barber hanged himself. And the one before that. Left me his scissors in his will.
+CONTEMPT)	?	Naw, we didn't fight there. We just signed up last month. We saw him two years ago at the cemetery dedication.
+LINCOLN	m	Could you hear what I said?
+MECHANICALLY:)	?	"Four score and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the
+LINCOLN	m	That's good, thank you for -
+LINCOLN	m	Thank you, that's -
+LINCOLN	m	(to the two white
+SOLDIERS:)	?	You fellas best find your company. Thank you, sir. God bless you!
+LINCOLN	m	God bless you.
+IRA CLARK	f	"That we here highly resolve that these dead shall not have died in
+LINCOLN	m	I could be bounded in a nutshell and count myself a king of infinite space...were it not that I have bad dreams. I reckon it's the speed that's strange to me. I'm used to going a deliberate pace.
+LINCOLN	m	I should spare you. I shouldn't tell you my dreams.
+MARY	f	I don't want to be spared if you aren't! And you spare me nothing.
+MARY	f	Perhaps perhaps it's the assault on Wilmington port. You dream about the ship before a battle, usually.
+LINCOLN	m	(rapping lightly on his
+FOREHEAD:)	?	How's the coconut?
+MARY	f	Beyond description.
+MARY	f	Almost two years, nothing mends. Another casualty of the war. Who wants to listen to a useless woman grouse about her carriage accident?
+LINCOLN	m	I do.
+MARY	f	Stuff! You tell me dreams, that's all, I'm your soothsayer, that's all I am anymore, I'm not to be trusted with - Even if it wasn't a carriage accident, even if it was an attempted assassination -
+LINCOLN	m	It was most probably an -
+MARY	f	It was an assassin. Whose intended target was you.
+LINCOLN	m	How's the plans for the big shindy progressing?
+MARY	f	I don't want to talk about parties! You don't care about parties.
+LINCOLN	m	Not much but they're a necessary -
+MARY	f	I know...I know what it's about. The ship, it isn't Wilmington Port, it's not a military campaign! It's the amendment to abolish slavery! Why else would you force me to
+MARY	f	You're going to try to get the amendment passed in the House of Representatives, before the term ends, before the Inauguration.
+LINCOLN	m	Don't spend too much money on the flubdubs.
+MARY	f	No one's loved as much as you, no one's ever been loved so much, by the people, you might do anything now. Don't, don't waste that power on an amendment bill that's sure of defeat.
+MARY	f	Did you remember Robert's coming home for the reception?
+MARY	f	I knew you'd forget.
+MARY	f	That's the ship you're sailing on. The Thirteenth Amendment. You needn't tell me I'm right. I know I am.
+LINCOLN	m	It's late, Mrs. Keckley.
+ELIZABETH KECKLEY	f	(holding out the bodice:) She needs this for the grand reception.
+LINCOLN	m	Good night.
+ELIZABETH KECKLEY	f	(concerned, a little
+EXASPERATED:)	?	Did you tell her a dream?
+TAD	m	Papa...
+LINCOLN	m	Hmm?
+TAD	m	Papa I wanna see Willie.
+LINCOLN	m	Me too, Taddie. But we can't.
+TAD	m	Why not?
+LINCOLN	m	Willie's gone. Three years now. He's gone.
+LINCOLN	m	The part assigned to me is to raise the flag, which, if there be no fault in the machinery, I will do, and when up, it will be for the people to keep it up.
+LINCOLN	m	That's my speech.
+AUDIENCE	m	"We are coming, Father Abra'am, three hundred thousand more, From Mississippi's winding stream and from New England's shore..." We leave our plows and workshops, our wives and children dear, With hearts too full for utterance, With but a silent tear. We're coming Father Abra'am..."
+SEWARD	m	Even if every Republican in the House votes yes - far from guaranteed, since when has our party unanimously supported anything? - but say all our fellow Republicans vote for it. We'd still be twenty votes short.
+LINCOLN	m	Only twenty.
+SEWARD	m	Only twenty!
+LINCOLN	m	We can find twenty votes.
+SEWARD	m	Twenty House Democrats who'll vote to abolish slavery! In my opinion -
+LINCOLN	m	To which I always listen.
+SEWARD	m	Or pretend to.
+LINCOLN	m	With all three of my ears.
+SEWARD	m	We'll win the war soon - It's inevitable, isn't it?
+LINCOLN	m	Ain't won yit.
+SEWARD	m	You'll begin your second term with semi-divine stature. Imagine the possibilities peace will bring! Why tarnish your invaluable luster with a battle in the House? It's a rats' nest in there, the same gang of talentless hicks and hacks that rejected the amendment ten months back. We'll lose.
+LINCOLN	m	I like our chances now.
+SEWARD	m	Consider the obstacles that we'd face. The aforementioned two-thirds majority needed to pass an amendment: we have a Republican
+LINCOLN	m	Fifty-six.
+SEWARD	m	We need Democratic support. There's none to be had.
+LINCOLN	m	Since the House last voted on the amendment there's been an election. Sixty-four Democrats lost their House seats in November. That's sixty-four Democrats looking for work come March.
+SEWARD LINCOLN	m	about re-election, they can vote however it suits `em.
+LINCOLN	m	I said nothing of buying anything. We need twenty votes was all I said. Start of my second term, plenty of positions to fill.
+JOHN NICOLAY	m	Mr. President, may I present Mr. and Mrs. Jolly who've come from Missouri to -
+LINCOLN	m	Mr. Jolly. Ma'am. This by the fire's Secretary of State Seward.
+LINCOLN	m	Jeff City.
+LINCOLN	m	I heard tell once of a Jefferson City lawyer who had a parrot that'd wake him each morning crying out, "Today is the day the world shall end, as scripture has foretold." And one day the lawyer shot him for the sake of peace and quiet, I presume, thus fulfilling, for the bird at least, its prophecy!
+PREPARED SPEECH:)	m	They's only one tollbooth in Jeff City, t' the southwest `n this man Heinz Sauermagen from Rolla been in illegal possession for near two yar, since your man General Schofield set him up there. But President Monroe give that tollgate to my granpap and Quincy Adams give my pap a letter saying it's our'n for keeps. Mrs. Jolly got the - (to his wife:) Show Mr. Lincoln the Quincy Adams letter.
+LINCOLN	m	That's unnecessary, Mrs. Jolly. Just tell me what you want from me.
+SEWARD	m	Madame. Do you know about the proposed Thirteenth Amendment to the Constitution -
+SEWARD	m	Do you?
+SEWARD	m	You know that it abolishes slavery?
+SEWARD	m	And is that why you favor it?
+SEWARD	m	If the war finished first, before we end slavery, would -
+SEWARD	m	But if it did. The South is exhausted. If they run out of bullets and men, would you still
+LINCOLN	m	Jeff City? That's, uh, Congressman Burton?
+LINCOLN	m	(to Mrs. Jolly:) Republican. Undecided on the question of the amendment, I believe. Perhaps you could call on him and inform him of your enthusiasm.
+SEWARD	m	Madam? If the rebels surrender next week, would you, at the end of this month, want Congressman Burton to vote for the Thirteenth Amendment?
+SEWARD	m	And why's that?
+SEWARD	m	(to Lincoln, quietly:) The people! I begin to see why you're in such a great hurry to put it through.
+LINCOLN	m	(to Mr. Jolly:) Would you let me study this letter, sir, about the tollbooth? Come back to me in the morning and we'll consider what the law says.
+LINCOLN	m	And be sure to visit "Beanpole" and tell him that you support passage of the Amendment. As a military necessity.
+NICOLAY	m	(to the Jollys:) Thank you.
+LINCOLN	m	Oh, Nicolay? When you have a moment.
+SEWARD	m	If procuring votes with offers of employment is what you intend, I'll fetch a friend from Albany who can supply the skulking men gifted at this kind of shady work. Spare me the indignity of actually speaking to Democrats. Spare you the exposure and liability.
+LINCOLN	m	Pardon me, that's a distress signal, which I am bound by solemn oath to respond to.
+TAD	m	Tom Pendel took away the glass camera plates of slaves Mr. Gardner sent over because Tom says mama says they're too distressing, but-
+LINCOLN	m	You had nightmares all night, mama's right to -
+TAD	m	But I'll have worse nightmares if you don't let me look at the plates again!
+LINCOLN	m	Perhaps.
+SEWARD	m	We can't afford a single defection from anyone in our party...not even a single Republican absent when they vote. You know who you've got to see.
+LINCOLN	m	Send over to Blair House. Ask Preston Blair can I call on him around five o'clock.
+SEWARD	m	(a shudder, a swallow of
+BRANDY:)	?	God help you. God alone knows what he'll ask you to give him.
+LINCOLN	m	If the Blairs tell `em to, no Republican will balk at voting for the amendment.
+MONTGOMERY BLAIR	m	No conservative Republican is what you mean -
+PRESTON BLAIR	m	All Republicans ought to be conservative, I founded this party - in my own goddamned home - to be a conservative antislavery party, not a hobbyhorse for goddamned radical abolitionists and -
+MONTGOMERY BLAIR	m	You need us to keep the conservative side of the party in the traces while you diddle the radicals and bundle up with Thaddeus Stevens's gang. You need our help.
+LINCOLN	m	Yes, sir, I do.
+MONTGOMERY BLAIR	m	Well, what do we get? Oh of course you weren't.
+PRESTON BLAIR	m	You don't mind, boy, do you?
+LINCOLN	m	He spends his days with soldiers.
+TAD	m	They taught me a song!
+PRESTON BLAIR	m	Did they? Soldiers know all manner of songs. How's your brother Bob?
+TAD	m	He's at school now, but he's coming to visit in four days! For the shindy!
+PRESTON BLAIR	m	At school! Ain't that fine! Good he's not in the army!
+TAD	m	Oh he wants to be, but mama said he
+PRESTON BLAIR	m	Dangerous life, soldiering.
+PRESTON BLAIR	m	Now your daddy knows that what I want, in return for all the help I give him, is to go down to Richmond like he said I could, soon as Savannah fell, and talk to Jefferson Davis. Give me terms I
+MONTGOMERY BLAIR	m	Conservative members of your party want you to listen to overtures from Richmond. That above all.
+PRESTON BLAIR	m	Our Republicans ain't abolitionists. We can't tell our people they can vote yes on abolishing slavery unless at the same time we can tell `em that you're seeking a negotiated peace.
+LEO	m	Yes'm.
+BLANKET:)	?	Let's fix this up...
+PRESTON BLAIR	m	Where's my hat?
+LINCOLN	m	Thunder forth, God of War!
+STANTON	m	We'll commence our assault on Wilmington from the sea. Why is this burnt? Was the boy playing with it?
+LINCOLN	m	It got took by a breeze several nights back.
+STANTON	m	This is an official War Department map!
+SEWARD	m	And the entire cabinet's waiting to hear what it portends.
+WELLES	m	A bombardment. From the largest fleet the Navy has ever assembled.
+LINCOLN	m	Old Neptune! Shake thy hoary locks!
+WELLES	m	Fifty-eight ships are underway, of every tonnage and firing range.
+STANTON	m	We'll keep up a steady barrage. Our first target is Fort Fisher. It defends Wilmington Port.
+JAMES SPEED	m	A steady barrage?
+STANTON	m	A hundred shells a minute.
+STANTON	m	Till they surrender.
+WILLIAM FESSENDEN	m	Dear God.
+WELLES	m	Yes. Yes.
+LINCOLN	m	Wilmington's their last open seaport. Therefore...
+STANTON	m	Wilmington falls, Richmond falls after.
+SEWARD	m	And the war... is done.
+JOHN USHER	m	Then why, if I may ask are we not concentrating the nation's attention on Wilmington? Why, instead, are we reading in the
+HERALD -	m	(he smacks a newspaper on
+THE TABLE)	m	- that the anti-slavery amendment is being precipitated onto the House floor for debate - because your eagerness, in what seems an unwarranted intrusion of the Executive into Legislative prerogatives, is compelling it to it's... to what's likely to be its premature demise? You signed the Emancipation Proclamation, you've done all that can be expected -
+JAMES SPEED	m	The Emancipation Proclamation's merely a war measure. After the war the courts'll make a meal of it.
+JOHN USHER	m	When Edward Bates was Attorney General, he felt confident in it enough to allow you to sign -
+JAMES SPEED	m	Different lawyers, different opinions. It frees slaves as a military exigent, not in any other -
+LINCOLN	m	I don't recall Bates being any too certain about the legality of my Proclamation, just it wasn't downright criminal. Somewhere's in between. Back when I rode the legal circuit in Illinois I defended a woman from Metamora named Melissa Goings, 77 years old, they said she murdered her husband; he was 83. He was choking her; and, uh, she grabbed ahold of a stick of fire-
+LINCOLN	m	No one was keen to see her convicted, he was that kind of husband. I asked the prosecuting attorney if I might have a short conference with my client. And she and I went into a room in the courthouse, but I alone emerged. The window in the room was found to be wide open. It was believed the old lady may have climbed out of it. I told the bailiff right before I left her in the room she asked me where she could get a good drink of water, and I told her Tennessee. Mrs. Goings was seen no more in Metamora. Enough justice had been done; they even forgave the bondsman her bail.
+JOHN USHER	m	I'm afraid I don't -
+LINCOLN	m	I decided that the Constitution gives me war powers, but no one knows just exactly what those powers are. Some say they don't exist. I don't know. I decided I needed them to exist to uphold my oath to protect the Constitution, which I decided meant that I could take the rebels' slaves from `em as property confiscated in war. That might recommend to suspicion that I agree with the rebs that their slaves are property in the first place. Of course I don't, never have, I'm glad to see any man free, and if calling a man property, or war contraband, does the trick... Why I caught at the opportunity. Now here's where it gets truly slippery. I use the law allowing for the seizure of property in a war knowing it applies only to the property of governments and
+THEN:)	?	- then Negroes in those states are slaves, hence property, hence my war powers allow me to confiscate `em as such. So I confiscated `em. But if I'm a respecter of states' laws, how then can I legally free `em with my Proclamation, as I done, unless I'm cancelling states' laws? I felt the war demanded it; my oath demanded it; I felt right with myself; and I hoped it was legal to do it, I'm hoping still.
+LINCOLN	m	Two years ago I proclaimed these people emancipated - "then, thenceforward and forever free." But let's say the courts decide I had no authority to do it. They might well decide that. Say there's no amendment abolishing slavery. Say it's after the war, and I can no longer use my war powers to just ignore the courts' decisions, like I sometimes felt I had to do. Might those people I freed be ordered back into slavery? That's why I'd like to get the Thirteenth Amendment through the House, and on
+LINCOLN	m	As the preacher said, I could write shorter sermons but once I start I get too lazy to stop.
+JOHN USHER	m	It seems to me, sir, you're describing precisely the sort of dictator the Democrats have been howling about.
+JAMES SPEED	m	Dictators aren't susceptible to law.
+JOHN USHER	m	Neither is he! He just said as much! Ignoring the courts? Twisting meanings? What reins him in from, from...
+LINCOLN	m	Well, the people do that, I suppose. I signed the Emancipation Proclamation a year and half before my second election. I felt I was within my power to do it; however I also felt that I might be wrong about that; I knew the people would tell me. I gave `em a year and half to think about it. And they re- elected me. And come February the first, I intend to sign the Thirteenth Amendment.
+LINCOLN	m	Well, Mr. Representative Ashley! Tell us the news from the Hill.
+JAMES ASHLEY	m	Well! Ah! News -
+LINCOLN	m	Why for instance is this thus, and what is the reason for this thusness?
+JAMES ASHLEY	m	I...
+SEWARD	m	James, we want you to bring the anti-slavery amendment to the floor for debate -
+JAMES ASHLEY	m	I am, of course - But - Immediately?
+SEWARD	m	And we're counting on robust radical support, so tell Mr. Stevens we expect him to put his back into it, it's not going to be easy, but we trust -
+JAMES ASHLEY	m	It's impossible. No, I am sorry, no, we can't organize anything immediately in the House. I have been canvassing the Democrats since the election, in case any of them softened after they got walloped. But they have stiffened if anything, Mr. Secretary. There aren't nearly enough votes -
+LINCOLN	m	We're whalers, Mr. Ashley!
+JAMES ASHLEY	m	Whalers? As in, um, whales?
+LINCOLN	m	We've been chasing this whale for a long time. We've finally placed a harpoon in the monster's back. It's in, James, it's in! We finish the deed now, we can't wait! Or with one flop of his tail he'll smash the boat and send us all to eternity!
+SEWARD	m	On the 31st of this month. Of this year. Put the amendment up for a vote.
+BLUFF WADE	m	Whalers?
+JAMES ASHLEY	m	That's what he said.
+BLUFF WADE	m	The man's never been near a whale ship in his life! Withdraw radical support, force him to abandon this scheme, whatever he's up to - He drags his feet about everything, Lincoln; why this urgency? We got it through the Senate without difficulty because
+SCHUYLER COLFAX	m	I imagine we'd rejoice to see that. Why are we co-operating with, with him? We all know what he's doing and we all know what he'll do. We can't offer up abolition's best legal prayer to his games and tricks.
+BLUFF WADE	m	He's said he'd welcome the South back with all its slaves in chains.
+JAMES ASHLEY	m	Three years ago he said that! To calm the border states when we were-
+THADDEUS STEVENS	m	I don't.
+THADDEUS STEVENS	m	Trust? I'm sorry, I was under the misapprehension your chosen profession was politics. I've never trusted the President. I never
+THADDEUS STEVENS	m	Nothing surprises you, Asa, therefore nothing about you is surprising. Perhaps that is why your constituents did not re-elect you to the coming term. (collecting his cane and
+STANDING:)	?	It's late, I'm old, I'm going home. Retain, even in opposition, your capacity for astonishment.
+SEWARD	m	The President is never to be mentioned. Nor I. You're paid for your discretion.
+SEWARD	m	No. Nothing strictly illegal.
+ROBERT LATHAM	m	It's not illegal to bribe Congressmen. They starve otherwise.
+RICHARD SCHELL	m	I have explained to Mr. Bilbo and Mr. Latham that we're offering patronage jobs to the Dems who vote yes. Jobs and nothing more.
+SEWARD	m	That's correct.
+SEWARD	m	The President would be unhappy to hear you did that.
+SEWARD	m	The money I managed to raise for this endeavor is only for your fees, food, and lodgings.
+RICHARD SCHELL	m	Shall we get to work?
+SCHUYLER COLFAX	m	The House recognizes Fernando Wood, the honorable representative from New York.
+FERNANDO WOOD	m	Estimable colleagues. Two bloody years ago this month, his Highness, King Abraham Africanus the First - our Great Usurping Caesar, violator of habeas corpus and freedom of the press, abuser of states' rights -
+RICHARD SCHELL	m	Perhaps he'll jump.
+THADDEUS STEVENS	m	A point of order, Mr. Speaker, if you please? When will Mr. Wood -
+FERNANDO WOOD	m	Mr. Speaker, I still have the floor and the gentleman from Pennsylvania is out of order!
+THADDEUS STEVENS	m	- when will Mr. Wood conclude his interminable gabble? Some of us breathe oxygen, and we find the mephitic fumes of his oratory a lethal challenge to our pleural capacities.
+FERNANDO WOOD	m	We shall oppose this amendment, and any legislation that so affronts natural law, insulting to God as to man! Congress must never declare equal those whom God created unequal!
+THADDEUS STEVENS	m	Slavery is the only insult to natural law, you fatuous nincompoop!
+GEORGE PENDLETON	m	Order! Procedure! Mr. Speaker, Mr. Wood has the floor! Instruct us, Oh Great Commoner, what is unnatural, in your opinion? Niggrahs casting ballots? Niggrah representatives? Is that natural, Stevens? Intermarriage?
+THADDEUS STEVENS	m	What violates natural law? Slavery, and you, Pendleton, you insult God, you unnatural noise.
+JAMES ASHLEY	m	Mr. Colfax! Please, use your gavel! They are - (to the Democrats:) You are out of order! Direct the sergeant of arms to suppress this! (back to the Democrats:) We are in session!
+TOM PENDEL	m	Please don't encourage this! Don't encourage this!
+TAD	m	You're back you're back you're back you're back you're -
+ROBERT	m	I am. Your goat got big.
+ROBERT	m	Here, help me get one of these to my room. (a nervous glance at the door to Mary's bedroom
+SUITE:)	?	Is she in there?
+TAD PETITIONER	m	you...
+PETITIONER	?	Please, please.
+MARY	f	He's here... (calling down the hall:) He's here, Mrs. Cuthbert! He's here! Robbie... Oh Robbie! Robbie!
+ROBERT	m	Hi, mama. Hey. Hey...
+MARY	f	Oh!
+MARY	f	Go tell your father Robert's home!
+TAD	m	Mr. Nicolay says daddy's secluded with Mr. Blair.
+MARY	f	Tell him anyway.
+MARY	f	You forget to eat, exactly like him.
+ROBERT	m	No...
+MARY	f	You'll linger a few days extra, after the reception, before you go back to school.
+ROBERT	m	Well, I don't know if I'm gonna go back to -
+MARY	f	We'll fatten you up before you return to Boston.
+ROBERT	m	All right, mama.
+MARY	f	All right. (beaming at him,
+ADORINGLY:)	?	Oh Robbie...
+PRESTON BLAIR	m	Jefferson Davis is sending three delegates: Stephens, Hunter and Campbell: Vice President of the Confederacy, their former Secretary of State, and their Assistant
+LINCOLN	m	I intend to, Preston. And in return, I must ask you -
+LINCOLN	m	Not now!
+LINCOLN	m	Oh. Bob. I'm sorry. Welcome home.
+ROBERT	m	Thank you.
+LINCOLN	m	(dismissing Robert,
+UNINTENTIONALLY ABRUPT)	?	Just give us a moment please, Robert. Thank you.
+PRESTON BLAIR	m	I will procure your votes for you, as I promised. You've always kept your word to me. Those Southern men are coming. (taking Lincoln's hand) I beg you, in the name of Gentle
+LINCOLN	m	I understand, Preston.
+ROBERT LATHAM	m	- so the total of representatives voting three weeks from today is reduced to 182, which means 122 yes votes to reach the requisite two- thirds of the House. Assuming all Republicans vote for the amendment...?
+ROBERT LATHAM	m	The Good Lord on High would despair of their souls.
+SEWARD	m	Thank you for that pithy explanation, Mr. Bilbo.
+RICHARD SCHELL	m	We've abandoned these 39 to the Devil that possesses them.
+RICHARD SCHELL	m	The remaining lame ducks, on whom we've been working with a purpose -
+ROBERT LATHAM	m	Charles Hanson.
+ROBERT LATHAM	m	Giles Stuart.
+ROBERT LATHAM	m	And lastly...
+CLAY HAWKINS	m	T-tax collector for the Western Reserve. Th-th-that pays handsomely.
+CLAY HAWKINS	m	Uh, boats, they, they make me sick.
+SEWARD	m	And lastly, Democratic yes vote number six. Hawkins from Ohio.
+LINCOLN	m	Six.
+SEWARD	m	Well, thus far. Plus Graylor's abstention. From tiny acorns and so on.
+LINCOLN	m	What'd Hawkins get?
+JOHN NICOLAY	m	Postmaster of the Millersburg Post Office.
+LINCOLN	m	He's selling himself cheap, ain't he?
+SEWARD	m	He wanted tax collector of the Western Reserve - a first-term congressman who couldn't manage re- election, I felt it unseemly and they bargained him down to Postmaster. Scatter `em over several rounds of appointments, so no one notices. And burn this ledger, please, after you're done.
+LINCOLN	m	Time for my public opinion bath. Might as well let `em in.
+LINCOLN	m	Seven yeses with Mr. Ellis! Thirteen to go!
+SEWARD	m	One last item, an absurdity, but - My associates report that among the Representatives a fantastical rumor's bruited about, which I immediately disavowed, that you'd allowed bleary old Preston Blair to sojourn to Richmond to invite Jeff Davis to send commissioners up to Washington with a peace plan.
+SEWARD	m	I, of course, told them you would never...Not without consulting me, you wouldn't...Because why on earth would you?
+ALEXANDER STEPHENS	m	(with polite dignity:) Much obliged.
+SEWARD	m	Why wasn't I consulted?! I'm Secretary of State! You, you, you informally send a reactionary dottard, to - What will happen, do you imagine, when these peace commissioners arrive?
+LINCOLN	m	Time is a great thickener of things, Willum.
+SEWARD	m	Yes, I suppose it is - Actually I have no idea what you mean by that.
+LINCOLN	m	Get me thirteen votes. (in a thick Kentucky
+ACCENT:)	?	Them fellers from Richmond ain't here yit.
+ROBERT	m	The only reason they don't throw things and spit on me is `cause you're so popular. I can't concentrate on, on British mercantile law, I don't care about British mercantile law. I might not even want to be a lawyer -
+LINCOLN	m	It's a sturdy profession, and a useful one.
+ROBERT	m	Yes, and I want to be useful, but now, not afterwards!
+LINCOLN	m	I ain't wearing them things, Mr. Slade, they never fit right.
+WILLIAM SLADE	m	The missus will have you wear `em. Don't think about leaving `em.
+ROBERT	m	You're delaying, that's your favorite tactic.
+LINCOLN	m	I've found that prophesying is one of life's less prophet-able occupations!
+TAD	m	Why do some slaves cost more than others?
+ROBERT	m	If they're still young and healthy, if the women can still conceive, they'll pay more -
+LINCOLN	m	Put `em back in the box. We'll return them to Mr. Gardner's studio day after next. Be careful with `em, now. (tugging at his gloves:) These things should've stayed on the calf.
+TAD	m	(to Slade, putting the
+PLATES AWAY:)	f	When you were a slave, Mr. Slade, did they beat you?
+WILLIAM SLADE	m	I was born a free man. Nobody beat me except I beat them right back.
+ELIZABETH KECKLEY	f	Mr. Lincoln, could you come with me-
+WILLIAM SLADE	m	Mrs. Keckley was a slave. Ask her if she was beaten.
+TAD LINCOLN	m	Tad.
+ELIZABETH KECKLEY	f	I was beaten with a fire shovel when I was younger than you. You should go to Mrs. Lincoln. She's in Willie's room.
+ROBERT	m	She never goes in there.
+JOHN HAY	m	The reception line is already stretching out the door.
+ROBERT	m	I'll be the only man over fifteen and under sixty-five in this whole place not in uniform.
+TAD	m	I'm under fifteen and I have a uniform.
+MARY	f	My head hurts so. I prayed for death the night Willie died. The headaches are how I know I didn't get my wish. How to endure the long afternoon and deep into the night.
+LINCOLN	m	I know.
+MARY	f	Trying not to think about him. How will I manage?
+LINCOLN	m	Somehow you will.
+MARY	f	Somehow. Somehow. Somehow... Every party, every... And now, four years more in this terrible house reproaching us. He was a very sick little boy. We should've cancelled that reception, shouldn't we?
+LINCOLN	m	We didn't know how sick he was.
+MARY	f	I knew, I knew, I saw that night he was dying.
+LINCOLN	m	Three years ago, the war was going so badly, and we had to put on a face.
+MARY	f	But I saw Willie was dying. I saw
+LINCOLN	m	Molly. It's too hard. Too hard.
+WILLIAM SLADE	m	(with a glance in Mary's) She's just ten feet yonder. I'd like to keep my job.
+MARY	f	Senator Sumner, it has been much too long.
+CHARLES SUMNER	m	"Oh, who can look on that celestial face and -"
+MARY	f	And...?
+JAMES ASHLEY	m	James Ashley, ma'am, we've met several times -
+MARY	f	(her Southern accent becoming more lustrous:) Praise Heavens, praise Heavens, just when I had abandoned hope of amusement, it's the Chairman of the House Ways and Means Committee!
+MARY	f	The past is the past, it's a new year now and we are all getting along, or so they tell me. I gather we are working together! The White House and the other House? Hatching little plans together?
+ROBERT	m	Mother?
+MARY	f	What?
+ROBERT	m	You're creating a bottleneck.
+MARY	f	Oh! Oh, I'm detaining you, and more important, the people behind you! How the people love my husband, they flock to see him, by their thousands on public days! They will never love you the way they love him. How difficult it must be for you to know that. And yet how important to remember it.
+THADDEUS STEVENS	m	Ah, shit on the people and what they want and what they're ready for! I don't give a goddamn about the people and what they want! This is the face of someone who has fought long and hard for the good of the people without caring much for any of `em. And I look a lot worse without the wig. The people elected me! To represent them! To lead them! And I lead! You ought to try it!
+LINCOLN	m	I admire your zeal, Mr. Stevens, and I have tried to profit from the example of it. But if I'd listened to you, I'd've declared every slave free the minute the first shell struck Fort Sumter; then the border states would've gone over to the confederacy, the war would've been lost and the Union along with it, and instead of abolishing slavery, as we hope to do, in two weeks, we'd be watching helpless as infants as it spread from the American South into South America.
+THADDEUS STEVENS	m	Oh, how you have longed to say that to me. You claim you trust them - but you know what the people are. You know that the inner compass that should direct the soul toward justice has ossified in white men and women, north and south, unto utter uselessness through tolerating the evil of slavery. White people cannot bear the thought of sharing this country's infinite abundance with Negroes.
+LINCOLN	m	A compass, I learnt when I was surveying, it'll - it'll point you True North from where you're standing, but it's got no advice
+LINCOLN	m	Robert's going to plead with us to let him enlist.
+MARY	f	Make time to talk to Robbie. You only have time for Tad.
+LINCOLN	m	Tad's young.
+MARY	f	So's Robert. Too young for the army.
+LINCOLN	m	Plenty of boys younger than Robert signing up...
+MARY	f	Don't take Robbie. Don't let me lose my son.
+MARY	f	Go away! We're occupied!
+JOHN NICOLAY	m	Secretary Stanton has sent over to tell you that as of half an hour ago, the shelling of Wilmington harbor has commenced.
+STANTON	m	They cannot possibly maintain under this kind of an assault. Terry's got ten thousand men surrounding the Goddamned fort! Why doesn't he answer my cables?
+STANTON	m	They've taken 17,000 shells since yesterday!
+WELLES STANTON	m	Fisher's ours and Wilmington MAJOR ECKERT has fallen!
+STANTON	m	Send another damn cable!
+STANTON	m	The problem's their commander, Whiting. He engineered the fortress himself. The damned thing's his child; he'll defend it till his every last man is gone. He is not thinking rationally, he's -
+LINCOLN	m	That's what Ethan Allen called to the commander of Fort Ticonderoga in 1776. "Come on out, you old rat!" `Course there were only forty- odd redcoats at Ticonderoga. But, but there is one Ethan Allen story that I'm very partial to -
+STANTON	m	No! No, you're, you're going to tell a story! I don't believe that I can bear to listen to another one of your stories right now!
+STANTON	m	I need the B&O sideyard schedules for Alexandria! I asked for them this morning!
+LINCOLN	m	It was right after the Revolution, right after peace had been concluded, and Ethan Allen went to London to help our new country conduct its business with the king. The English sneered at how rough we are, and rude and simple-minded and on like that, everywhere he went, till one day he was invited to the townhouse of a great English lord. Dinner was served, beverages imbibed, time passed, as happens, and Mr. Allen found he needed the
+LINCOLN	m	Now, Mr. Allen discovered on entering the water closet that the only decoration therein was a portrait of George Washington. Ethan Allen done what he came to do and returned to the drawing room. His host and the others were disappointed when he didn't mention Washington's portrait. And finally His Lordship couldn't resist, and asked Mr. Allen had he noticed it, the picture of Washington. He had. Well, what did he think of its placement, did it seem appropriately located to Mr. Allen? Mr. Allen said it did. His host was astounded! Appropriate? George Washington's likeness in a water closet? Yes, said Mr. Allen, where it'll do good service: the whole world knows nothing'll make an Englishman shit quicker than the sight of George Washington.
+LINCOLN	m	I love that story.
+CHARLES BENJAMIN	m	Fort Fisher is ours. We've taken the port.
+WELLES	m	And Wilmington?
+MAJOR ECKERT	m	We've taken the fort, but the city of Wilmington has not surrendered.
+STANTON	m	How many casualties?
+FERNANDO WOOD	m	Heavy losses.
+GEORGE PENDLETON	m	And more to come.
+FERNANDO WOOD	m	Sours the national mood. That might suffice to discourage him -
+GEORGE PENDLETON	m	To what? To bring this down? Not in a fight like this. This is to the death.
+FERNANDO WOOD	m	It's gruesome!
+GEORGE PENDLETON	m	Are you despairing, or merely lazy? This fight is for The United States of America! Nothing "suffices". A rumor? Nothing! They're not lazy! They're busily buying votes! While we hope to be saved by "the national mood?!"
+FERNANDO WOOD	m	George, please. Stay on course.
+GEORGE PENDLETON	m	Bring Stevens to full froth. I can ensure that every newspaperman from Louisville to San Francisco will be here to witness it and print it.
+SCHUYLER COLFAX	m	The floor belongs to the mellifluent gentleman from Kentucky, Mr. George Yeaman.
+GEORGE YEAMAN	m	I thank you, Speaker Colfax.
+RICHARD SCHELL	m	Think how splendid if Mr. Yeaman switched.
+ROBERT LATHAM	m	(shaking his head:) Too publicly against us. He can't change course now.
+GEORGE YEAMAN	m	And, and! We will be forced to enfranchise the men of the colored race - it would be inhuman not to! Who among us is prepared to give Negroes the vote?
+FERNANDO WOOD	m	Bless my eyes, if it isn't the Post Master of Millersburg Ohio!
+GEORGE PENDLETON	m	Mr. LeClerk felt honor-bound to inform us. Of your disgusting betrayal. Your prostitution.
+FERNANDO WOOD	m	Is that true, Postmaster Hawkins? Is your maidenly virtue for sale?
+CLAY HAWKINS	m	My neighbors hear that I voted yes for nigger freedom and no to peace, they will kill me.
+CLAY HAWKINS	m	(turning back to Bilbo:) I want to do right! But I got no courage!!!
+SEWARD	m	Eleven votes?! Two days ago we had twelve!! What happened?
+RICHARD SCHELL	m	They are ruining us.
+RICHARD SCHELL	m	Among the few remaining representatives who seem remotely plausible there is a perceptible increase in resistance.
+SEWARD	m	Perhaps you push too hard.
+SEWARD	m	Get back to it, and good day, gentlemen.
+RICHARD SCHELL	m	We are at an impasse.
+ROBERT LATHAM	m	Tell Lincoln to deny the rumors. Publicly.
+RICHARD SCHELL	m	Tell us what you expect of us.
+SEWARD	m	I expect you to do your work! And to have sufficient sense and taste not to presume to instruct the President. Or me.
+RICHARD SCHELL	m	Is there a Confederate offer or not?
+GRANT	m	I suggest you work some changes to your proposal before you give it to the President.
+ALEXANDER STEPHENS	m	Did Mr. Lincoln tell you to tell us this, General Grant?
+GRANT	m	It says..."securing peace for our two countries." And it goes on like that.
+ALEXANDER STEPHENS	m	I don't know what you -
+GRANT	m	There's just one country. You and I, we're citizens of that country. I'm fighting to protect it from armed rebels. From you.
+ALEXANDER STEPHENS	m	But Mr. Blair told us, he, he told President Davis we were -
+GRANT	m	A private citizen like Preston Blair can say what he pleases, since he has no authority over anything. If you want to discuss peace with President Lincoln, consider revisions.
+ALEXANDER STEPHENS	m	If we're not to discuss a truce between warring nations, what in heaven's name can we discuss?
+GRANT	m	Terms of surrender.
+SEWARD	m	"...will have a bad influence. I will be sorry should it prove impossible for you to have an interview with them. I am awaiting your instructions. U.S. Grant, Lieutenant General Commanding Armies United States"
+LINCOLN	m	After four years of war and near 600,000 lives lost. He believes we can end this war now. My trust in him is marrow deep.
+SEWARD	m	You could bring the delegates to Washington. In exchange for the South's immediate surrender, we could promise them the amendment's defeat. They'd agree, don't you think? We'd end the war. This week.
+SEWARD	m	Or. If you could manage, without seeming to do it, to -
+SEWARD	m	The peace delegation might encounter delays as they travel up the James River. Particularly with the fighting around Wilmington. Within ten days time, we might pass the Thirteenth Amendment.
+LINCOLN	m	Now, here's a sixteen year old boy. They're going to hang him...
+LINCOLN	m	(he reads a little
+FURTHER:)	?	He was with the 15th Indiana Calvary near Beaufort, seems he lamed his horse to avoid battle. I don't think even Stanton would
+JOHN HAY	m	Ummm... I don't know, sir, I don't know who you're, uh... What time is it?
+LINCOLN	m	It's three forty in the morning.
+JOHN NICOLAY	m	(not waking up:) Don't... let him pardon any more deserters...
+JOHN HAY	m	Mr. Stanton thinks you pardon too many. He's generally apoplectic on the subject -
+LINCOLN	m	He oughtn't to have done that, crippled his horse, that was cruel, but you don't just hang a sixteen year old boy for that -
+JOHN HAY	m	Ask the horse what he thinks.
+LINCOLN	m	- for cruelty. There'd be no sixteen year old boys left. (a beat, then:) Grant wants me to bring the secesh delegates to Washington.
+JOHN HAY	m	So... There are secesh delegates?
+LINCOLN	m	(scribbling a note, signing the petition:) He was afraid, that's all it was. I don't care to hang a boy for being frightened, either. What good would it do him?
+LINCOLN	m	War's nearly done. Ain't that so? What use one more corpse? Any more corpses?
+JOHN HAY	m	Do you need company?
+LINCOLN	m	"Lieutenant General Ulysses S. Grant, City Point. I have read your words with interest."
+LINCOLN	m	"I ask that, regardless of any action I take in the matter of the visit of the Richmond commissioners, you maintain among your troops military preparedness for battle, as you have done until now."
+LINCOLN	m	"Have Captain Saunders convey the commissioners to me here in Washington." "A. Lincoln." And the date.
+SAMUEL BECKWITH	m	Yes sir.
+LINCOLN	m	(a beat, then:) You think we choose to be born?
+SAMUEL BECKWITH	m	I don't suppose so.
+LINCOLN	m	Are we fitted to the times we're born into?
+SAMUEL BECKWITH	m	I don't know about myself. You may be, sir. Fitted.
+LINCOLN	m	What do you reckon?
+HOMER BATES	m	I'm an engineer. I reckon there's machinery but no one's done the fitting.
+LINCOLN	m	You're an engineer, you must know Euclid's axioms and common notions.
+HOMER BATES	m	I must've in school, but...
+LINCOLN	m	I never had much of schooling, but I read Euclid, in an old book I borrowed. Little enough ever found its way in here - (touching his cranium) - but once learnt it stayed learnt.
+LINCOLN	m	That's a rule of mathematical reasoning. It's true because it works; has done and always will do. In his book, Euclid says this is "self-evident." D'you see? There it is, even in that two-thousand year old book of mechanical law: it is a self- evident truth that things which are equal to the same thing are equal to each other. We begin with equality. That's the origin, isn't it? That balance, that's fairness, that's justice.
+LINCOLN	m	Read me the last sentence of my telegram.
+SAMUEL BECKWITH	m	"Have Captain Saunders convey the commissioners to me here in Washington."
+LINCOLN	m	A slight emendation, Sam, if you would.
+LINCOLN	m	"Have Captain Saunders convey the gentlemen aboard the River Queen as far as Hampton Roads, Virginia, and there wait until..." "...further advice from me. Do not proceed to Washington."
+SCHUYLER COLFAX	m	The World, the Herald and the Times, New York, Chicago, the Journal of Commerce, even your hometown paper's here.
+JAMES ASHLEY	m	Say you believe only in legal equality for all races, not racial equality, I beg you, sir. Compromise. Or you risk it all.
+FERNANDO WOOD	m	I've asked you a question, Mr. Stevens, and you must answer me. Do you or do you not hold that the precept that "all men are created equal" is meant literally?
+THADDEUS STEVENS	m	The true purpose of the amendment, Mr. Wood, you perfectly-named, brainless, obstructive object?
+FERNANDO WOOD	m	You have always insisted, Mr. Stevens, that Negroes are the same as white men are.
+THADDEUS STEVENS	m	The true purpose of the amendment -
+FERNANDO WOOD	m	That's not so! You believe that Negroes are entirely equal to white men. You've said it a thousand
+GEORGE PENDLETON	m	(leaping to his feet) For shame! For shame! Stop prevaricating and answer Representative Wood!
+JAMES ASHLEY	m	He's answered your questions! This amendment has naught to do with race equality!
+MARY	f	(whispering to Mrs.
+KECKLEY:)	?	Who'd ever've guessed that old nightmare capable of such control? He might make a politician someday -
+ELIZABETH KECKLEY	f	I need to go.
+GEORGE PENDLETON	m	Your frantic attempt to delude us now is unworthy of a representative. It is, in fact, unworthy of a white man!
+THADDEUS STEVENS	m	(giving in to his anger:) How can I hold that all men are created equal, when here before me - (pointing to Pendleton:) - stands stinking the moral carcass of the gentleman from Ohio, proof that some men are inferior, endowed by their Maker with dim wits impermeable to reason with cold pallid slime in their veins instead of hot red blood! You are more reptile than man, George, so low and flat that the foot of man is incapable of crushing you!
+GEORGE PENDLETON	m	HOW DARE YOU!
+THADDEUS STEVENS	m	Yet even you, Pendleton, who should have been gibbetted for treason long before today, even worthless unworthy you ought to be treated equally before the law! And so again, sir, and again and again and
+GEORGE PENDLETON	m	MR. SPEAKER, WILL YOU PERMIT THIS
+THADDEUS STEVENS	m	I'm sorry you're nauseous, Asa, that must be unpleasant. I want the amendment to pass. So that the Constitution's first and only mention of slavery is its absolute prohibition. For this amendment, for which I have worked all of my life and for which
+ROBERT	m	I'm not going in.
+LINCOLN	m	You said you wanted to help me.
+ROBERT	m	This is - This is just a clumsy attempt at discouragement. I've been to army hospitals, I've seen surgeries, I went and visited the malaria barges with mama.
+LINCOLN	m	She told me she didn't take you inside.
+ROBERT	m	I snuck in after - I've seen what it's like. This changes nothing.
+LINCOLN	m	At all rates, I'm happy to have your company.
+LINCOLN	m	Morning, Jim.
+ARMY SURGEON	m	Hello, Mr. President.
+LINCOLN	m	Good to see you again.
+LINCOLN	m	Well, boys, first question: You getting enough to eat?
+FIRST PATIENT	m	Hello, sir.
+LINCOLN	m	What's your name, soldier?
+FIRST PATIENT	m	Robert.
+LINCOLN	m	Robert. Good to meet you, Robert.
+SECOND PATIENT	m	Nice to meet you.
+LINCOLN	m	What's your name?
+SECOND PATIENT	m	Kevin.
+LINCOLN	m	Tell me your names as I go past. I like to know who I'm talkin' to. Kevin.
+THIRD PATIENT	m	Mr. President. John.
+LINCOLN	m	John. I've seen you before.
+FOURTH PATIENT	m	Mr. President...
+ROBERT	m	I have to do this! And I will do it and I don't need your permission to enlist.
+LINCOLN	m	That same speech has been made by how many sons to how many fathers since the war began? "I don't need your damn permission, you miserable old goat, I'm gonna enlist anyhow!" And what wouldn't those numberless fathers have given to be able to say to their sons - as I now say to mine - "I'm commander-in-chief, so in point of fact, without my permission, you ain't enlisting in nothing, nowhere, young man."
+ROBERT	m	It's mama you're scared of, not me getting killed.
+ROBERT	m	I have to do this! And I will! Or I will feel ashamed of myself for the rest of my life. Whether or not you fought is what's gonna matter. And not just to other people, but to myself. I won't be you, pa. I can't do that. But I don't want to be nothing.
+LINCOLN	m	We can't lose you.
+LINCOLN	m	He'll be fine, Molly. City Point's far from the front lines, from the fighting, he'll be an adjutant running messages for General Grant.
+MARY	f	The war will take our son! A sniper, or a shrapnel shell! Or typhus, same as took Willie, it takes hundreds of boys a day! He'll die, uselessly, and how will I ever forgive you? Most men, their firstborn is their favorite, but you, you've always blamed Robert for being born, for trapping you in a marriage that's only ever given you grief and caused you regret!
+LINCOLN	m	That's not true -
+MARY	f	And if the slaughter of Cold Harbor is on your hands same as Grant, God help us! We'll pay for the oceans of spilled blood you've sanctioned, the uncountable corpses we'll be made to pay with our son's dear
+LINCOLN	m	Just, just this once, Mrs. Lincoln, I demand of you to try and take the liberal and not the selfish point of view! You imagine Robert will forgive us if we continue to stifle his very natural ambition?!
+MARY	f	(with a mocking smile:) And if I refuse to take the high road, if I won't take up the rough old cross, will you threaten me again with the madhouse, as you did when I couldn't stop crying over Willie, when I showed you what heartbreak, real heartbreak looked like, and you hadn't the courage to countenance it, to help me -
+MARY	f	THEN DO IT! Do it! Don't you threaten me, you do it this time! Lock me away! You'll have to, I swear, if Robert is killed!
+LINCOLN	m	I couldn't tolerate you grieving so for Willie because I couldn't permit it in myself, though I wanted to, Mary. I wanted to crawl under the earth, into the vault with his coffin. I still do. Every day I do. Don't... talk to me about grief. I must make my decisions, Bob must make his, you yours. And bear what we must, hold and carry what we must. What I carry within me - you must allow me to do it, alone as I must. And you alone, Mary, you alone may lighten this burden, or render it intolerable. As you choose.
+MARY	f	You think I'm ignorant of what you're up to because you haven't discussed this scheme with me as you ought to have done. When have I ever been so easily bamboozled? I believe you when you insist that amending the constitution and abolishing slavery will end this war. And since you are sending my son into the war, woe unto you if you fail to pass the amendment.
+LINCOLN	m	Seward doesn't want me leaving big muddy footprints all over town.
+MARY	f	No one ever lived who knows better than you the proper placement of footfalls on treacherous paths. Seward can't do it. You must. Because if you fail to secure the necessary votes, woe unto you, sir. You will answer to me.
+ELIZABETH KECKLEY	f	I know the vote is only four days away; I know you're concerned. Thank you for your concern over this, and I want you to know: They'll approve it. God will see to it.
+LINCOLN	m	I don't envy him his task. He may wish He'd chosen an instrument for His purpose more wieldy than the House of Representatives.
+ELIZABETH KECKLEY	f	Then you'll see to it.
+LINCOLN	m	Are you afraid of what lies ahead? For your people? If we succeed?
+ELIZABETH KECKLEY	f	White people don't want us here.
+LINCOLN	m	Many don't.
+ELIZABETH KECKLEY	f	What about you?
+LINCOLN	m	I...I don't know you, Mrs. Keckley. Any of you. You're ...familiar to me, as all people are. Unaccommodated, poor, bare, forked creatures such as we all are. You have a right to expect what I expect, and likely our expectations are not incomprehensible to each other. I assume I'll get used to you. But what you are to the nation, what'll become of you once slavery's day is done, I don't know.
+ELIZABETH KECKLEY	f	What my people are to be, I can't say. Negroes have been fighting and dying for freedom since the first of us was a slave. I never heard any ask what freedom will bring. Freedom's first. As for me: My son died, fighting for the Union, wearing the Union blue. For freedom he died. I'm his mother. That's what I am to the nation, Mr. Lincoln. What else must I be?
+ROBERT LATHAM	m	Oh, it is? What you got goin'?
+ROBERT LATHAM	m	Go away! That watch fob, is that gold?
+ROBERT LATHAM	m	Nines paired!
+SEWARD	m	Gentlemen. You have a visitor.
+LINCOLN	m	I wouldn't bet against it, Mr...?
+LINCOLN	m	Mr. Bilbo. Gentlemen.
+ROBERT LATHAM	m	Sir...
+LINCOLN	m	The Secretary of State here tells me that, uh, you got eleven Democrats in the bag. That's encouraging.
+ROBERT LATHAM	m	Oh, you've got no cause to be encouraged. Sir. Uh...
+RICHARD SCHELL	m	Are we being...fired?
+LINCOLN	m	"We have heard the chimes of midnight, Master Shallow." I'm here to alert you boys that the great day of reckoning is nigh upon us.
+RICHARD SCHELL	m	The Democrats we've yet to bag, sir. The patronage jobs simply won't bag `em. They require more...convincing, Mr. President.
+LINCOLN	m	Mm-hmm. Do me a favor, willya?
+LINCOLN	m	Snagged my eye in the paper this morning. Governor Curtin is set to declare a winner in the disputed Congressional election for the -
+LINCOLN	m	What a joy to be comprehended. Hop on a train to Philadell, call on the Governor -
+SEWARD	m	(looking askance at
+BILBO'S APPEARANCE:)	?	Send Latham. Or Schell.
+LINCOLN	m	No, he'll do fine, just polish yourself up first.
+ROBERT LATHAM	m	The incumbent is claiming he won it. Name of, uh...
+LINCOLN	m	That's him.
+RICHARD SCHELL	m	Coffroth. He is a Democrat.
+SEWARD	m	Pity poor Coffroth.
+THADDEUS STEVENS	m	It opens!
+ALEXANDER COFFROTH	m	Coffroth, Mr. Stevens, Alexander Coffroth, I'm, I'm -
+THADDEUS STEVENS	m	Are we representatives of the same state?
+ALEXANDER COFFROTH	m	Y-yes sir! We sit only three desks
+THADDEUS STEVENS	m	I haven't noticed you. I'm a Republican, and you, Coughdrop, are a Democrat?
+ALEXANDER COFFROTH	m	Well, I... Um, that is to say... I -
+THADDEUS STEVENS	m	The modern travesty of Thomas Jefferson's political organization to which you have attached yourself like a barnacle has the effrontery to call itself The Democratic Party. You are a Dem-o-crat. What's the matter with you? Are you wicked?
+ALEXANDER COFFROTH	m	Well, I felt, um, formerly, I -
+THADDEUS STEVENS	m	Never mind, Coffsnot. You were ignominiously trounced at the hustings in November's election by your worthy challenger, a
+ALEXANDER COFFROTH	m	No, sir, I was not, um, trounced! Uh, he wants to steal my seat! I didn't lose the election -
+THADDEUS STEVENS	m	What difference does it make if you lost or not?! The governor of our state, is...? A Democrat?
+ALEXANDER COFFROTH	m	No, he's a... (baffled, terrified:) A, um, a Ruh...
+THADDEUS STEVENS	m	Re.
+ALEXANDER COFFROTH	m	Re.
+THADDEUS STEVENS	m	Pub.
+ALEXANDER COFFROTH	m	Pub.
+THADDEUS STEVENS	m	Li.
+ALEXANDER COFFROTH	m	Li.
+THADDEUS STEVENS	m	Can.
+ALEXANDER COFFROTH	m	Can. Republican.
+THADDEUS STEVENS	m	I know what he is. This is a rhetorical exercise. And Congress is controlled by what party? Yours?
+ALEXANDER COFFROTH	m	I know what I must do, sir! I will immediately become a Republican and vote yes for -
+THADDEUS STEVENS	m	NO! Coffroth will vote yes but Coffroth will remain a Democrat until after he does so.
+ALEXANDER COFFROTH	m	Why wait to switch? I'm happy to
+THADDEUS STEVENS	m	We want to show the amendment has bipartisan support, you idiot. Early in the next Congress, when I tell you to do so, you will switch parties. Now congratulations on your victory, and get out.
+LINCOLN	m	Now give me the names of whoever else you been hunting.
+ROBERT LATHAM	m	George Yeaman.
+RICHARD SCHELL	m	Yes. Yeaman.
+LINCOLN	m	I got it.
+ROBERT LATHAM	m	Kentucky.
+GEORGE YEAMAN	m	I can't vote for the amendment, Mr. Lincoln.
+LINCOLN	m	I saw a barge once, Mr. Yeaman, filled with colored men in chains, heading down the Mississippi to the New Orleans slave markets. It sickened me, `n more than that, it brought a shadow down, a pall around my eyes. Slavery troubled me, as long as I can remember, in a way it never troubled my father, though he hated it. In his own fashion. He knew no smallholding dirt farmer could compete with slave plantations. He took us out from Kentucky to get away from `em. He wanted Indiana kept free. He wasn't a kind man, but there was a rough moral urge for fairness, for freedom in him. I learnt that from him, I suppose, if little else from him. We didn't care for one another, Mr. Yeaman.
+GEORGE YEAMAN	m	I... Well, I'm sorry to hear that -
+LINCOLN	m	Lovingkindness, that most ordinary thing, came to me from other sources. I'm grateful for that.
+GEORGE YEAMAN	m	I hate it, too, sir, slavery, but - but we're entirely unready for emancipation. There's too many
+QUESTIONS -	?	96.
+LINCOLN	m	We're unready for peace too, ain't we? When it comes, it'll present us with conundrums and dangers greater than any we've faced during the war, bloody as it's been. We'll have to extemporize and experiment with what it is when it is.
+LINCOLN	m	I read your speech, George. Negroes and the vote, that's a puzzle.
+GEORGE YEAMAN	m	No, no, but, but, but - But Negroes can't, um, vote, Mr. Lincoln. You're not suggesting that we enfranchise colored people.
+LINCOLN	m	I'm asking only that you disenthrall yourself from the slave powers. I'll let you know when there's an offer on my desk for surrender. There's none before us now. What's before us now, that's the vote on the Thirteenth Amendment. It's going to be so very close. You see what you can do.
+WILLIAM HUTTON	m	I can't make sense of it, what he died for. Mr. Lincoln, I hate them all, I do, all black people. I am a prejudiced man.
+LINCOLN	m	I'd change that in you if I could, but that's not why I come. I might be wrong, Mr. Hutton, but I expect... Colored people will most likely be free, and when that's so, it's simple truth that your brother's bravery, and his death, helped make it so. Only you can decide whether that's sense enough for you, or not.
+LINCOLN	m	My deepest sympathies to your family.
+PRESTON BLAIR	m	We've managed our members to a fare- thee-well, you've had no defections from the Republican right to trouble you, whereas as to what you promised - Where the hell are the commissioners?!
+JAMES ASHLEY	m	Oh God... It's true! You, you...lied to me, Mr. Lincoln! You evaded my requests for a denial that, that there is a Confederate peace offer because, because there is one! We are absolutely guaranteed to lose the whole thing -
+LINCOLN	m	I can't listen to this anymore! I can't accomplish a goddamned thing of any human meaning or worth until we cure ourselves of slavery and end this pestilential war, and whether any of you or anyone else knows it, I know I need this! This amendment is that cure! We're stepped out upon the world's stage now, now, with the fate of human dignity in our hands! Blood's been spilt to afford us this moment!
+LINCOLN	m	Now now now! And you grousle and heckle and dodge about like pettifogging Tammany Hall hucksters! See what is before you! See the here and now! That's the hardest thing, the only thing that accounts! Abolishing slavery by constitutional provision settles the fate, for all coming time, not only of the millions now in bondage but of unborn millions to come. Two votes stand in its way, and these votes must be procured.
+SEWARD	m	We need two yeses, three abstentions, or four yeses and one more abstention and the amendment will pass -
+LINCOLN	m	You got a night and a day and a night and several perfectly good hours! Now get the hell out of here and get `em!
+JAMES ASHLEY	m	Yes but how?
+LINCOLN	m	Buzzards' guts, man.
+LINCOLN	m	I am the President of the United States of America, clothed in immense power! You will procure me these votes.
+SCHUYLER COLFAX	m	Mr. Ashley, the floor is yours.
+JAMES ASHLEY	m	On the matter of the joint resolution before us, presenting a Thirteenth Amendment to our national Constitution, which was passed last year by the Senate, and which has been debated now by this estimable body for the past several weeks. Today we will vote...
+GEORGE PENDLETON	m	I've just received confirmation of what previously has been merely rumored! Affidavits from loyal citizens recently returned from
+FERNANDO WOOD	m	(to Ashley, fake shock:) Are there Confederate commissioners in the Capitol?
+JAMES ASHLEY	m	I don't... I have no idea where they are or if they've arrived or -
+FERNANDO WOOD	m	If they've arrived?!
+GEORGE PENDLETON	m	I appeal to my fellow Democrats, to all Republican representatives who give a fig for peace! Postpone this vote until we have answers from the President himself!
+FERNANDO WOOD	m	Postpone the vote!
+AARON HADDAM	m	(in a powerful voice:) Gentlemen. The conservative faction of border and western Republicans cannot approve this amendment, about which we harbor grave doubts, if a peace offer is being held hostage to its success. Joining with our Democratic colleagues, I second the motion to postpone.
+ROBERT LATHAM	m	Quick, man! Quick!
+LINCOLN	m	This is precisely what Mr. Wood wishes me to respond to?
+LINCOLN	m	Word for word? This is precisely the assurance that he demands of me?
+LINCOLN	m	Give this to Mr. Ashley.
+JOHN HAY	m	I feel, um, I have to say, Mr. Lincoln, that this - (annoyed, impatient, to
+BILBO:)	?	Could you please just step outside?!
+JOHN HAY	m	Making false representation to Congress is, it's, um -
+JOHN NICOLAY	m	It's, it's -
+LINCOLN	m	Impeachable. I've made no false representation.
+JOHN HAY	m	But there are - 104.
+LINCOLN	m	Give me the note, Johnnie.
+LINCOLN	m	Please deliver that to Mr. Ashley.
+JAMES ASHLEY	m	From the President:
+GEORGE PENDLETON	m	"So far as I know-"?! That means nothing! Are there commissioners from the South or aren't there?!
+JAMES ASHLEY	m	The President has answered you, sir! Your peace offer is a fiction!
+GEORGE PENDLETON	m	That is not a denial, it is a lawyer's dodge!
+JAMES ASHLEY	m	Mr. Haddam? Is your faction satisfied?
+AARON HADDAM	m	The conservative Republican faction's satisfied, and we thank Mr. Lincoln. I move to table Mr. Wood's motion.
+SCHUYLER COLFAX	m	Tabled!
+JAMES ASHLEY	m	Speaker Colfax, I order the main question.
+SCHUYLER COLFAX	m	A motion has been made to bring the bill for the Thirteenth Amendment to a vote. Do I hear a second?
+SCHUYLER COLFAX	m	So moved, so ordered. The Clerk will now - (a rap of the gavel) Quiet please.
+AUGUSTUS BENJAMIN	m	Nay!
+ARTHUR BENTLEIGH	m	Nay!
+JOHN ELLIS	m	Aye!
+DEMOCRATIC SENATOR	m	What?! Shameful!
+WALTER APPLETON	m	I vote no!
+JOSIAH BURTON	m	Beanpole Burton is pleased to vote yea!
+NEHEMIAH CLEARY	m	No.
+JAMES ASHLEY	m	Mr. Martinson has delegated me to say he is indisposed and he abstains.
+JAMES ASHLEY	m	Also indisposed, also abstaining.
+HAROLD HOLLISTER	m	No.
+WILLIAM HUTTON	m	William Hutton, remembering at this moment his beloved brother, Fredrick, votes against the amendment.
+SOLDIER	m	Webster Allen votes no.
+SERGEANT	m	Webster Allen, Illinois, Democrat, votes...no.
+SERGEANT	m	Halberd Law, Indiana, Democrat, votes...no.
+SERGEANT	m	Archibald Moran...yes.
+SERGEANT	m	Ambrose Bailer...yes.
+GEORGE YEAMAN	m	(rising to his feet) I said aye, Mr. McPherson.
+FERNANDO WOOD	m	TRAITOR! TRAITOR!
+SCHUYLER COLFAX	m	Order!
+CLAY HAWKINS	m	Goddamn it, I'm voting yes.
+EDWIN LECLERK	m	No. (then, standing abruptly:) Oh to hell with it, shoot me dead too. Yes!
+ALEXANDER COFFROTH	m	(proud of himself and happy about the reward
+HE'LL GET:)	?	I. Vote. Yes.
+SERGEANT	m	James Brooks...nay.
+MEYER STRAUS	m	Nay.
+JOSEPH MARSTERN	m	Nay.
+HOWARD GUILEFOYLE	m	Yea.
+AVON HANREADY	f	Nay.
+RUFUS WARREN	m	Yea.
+SCHUYLER COLFAX	m	Mr. Clerk, please call my name, I want to cast a vote.
+GEORGE PENDLETON	m	I object! The Speaker doesn't vote!
+SCHUYLER COLFAX	m	The Speaker may vote if he so chooses.
+GEORGE PENDLETON	m	It is highly unusual, sir -
+SCHUYLER COLFAX	m	This isn't usual, Mr. Pendleton, this is history.
+SCHUYLER COLFAX	m	(a look of surprise that this needs to be asked, then, stating the
+OBVIOUS:)	?	Aye, of course.
+THADDEUS STEVENS	m	The bill, Mr. McPherson, may I...?
+THADDEUS STEVENS	m	I'll return it in the morning. Creased, but unharmed.
+THADDEUS STEVENS	m	A gift for you.
+THADDEUS STEVENS	m	I wish you'd been present.
+LYDIA SMITH	f	I wish I'd been.
+THADDEUS STEVENS	m	It was a spectacle.
+LYDIA SMITH	f	You can't bring your housekeeper to the House. I won't give them gossip. This is enough. This is... It's more than enough for now.
+THADDEUS STEVENS	m	Read it to me again, my love.
+THADDEUS STEVENS	m	And adopted.
+LYDIA SMITH	f	Adopted. "An Amendment to the Constitution of the United States. Section One: Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction."
+LYDIA SMITH	f	"Congress shall have power to enforce this amendment by appropriate legislation."
+ALEXANDER STEPHENS	m	Let me be blunt. Will the southern states resume their former position in the Union speedily enough to enable us to block ratification of the Thirteenth Amendment?
+LINCOLN	m	I'd like peace immediately.
+ALEXANDER STEPHENS	m	Yes, and...?
+LINCOLN	m	I'd like your states restored to their practical relations to the Union immediately.
+ALEXANDER STEPHENS	m	If this could be given me in writing, as Vice President of the Confederacy, I'd bring that document with celerity to Jefferson Davis.
+SEWARD	m	Surrender and we can discuss reconstruction.
+ALEXANDER STEPHENS	m	Surrender won't be thought of unless you've assured us, in writing, that we'll be readmitted in time to block this amendment.
+SEWARD	m	You'll not be conquered people, Mr. Hunter. You will be citizens, returned to the laws and the guarantees of rights of the Constitution.
+ALEXANDER STEPHENS	m	Which now extinguishes slavery. And with it our economy. All our laws will be determined by a Congress of vengeful Yankees, all our rights'll be subject to a Supreme Court benched by Black Republican radicals. All our traditions will be obliterated. We won't know ourselves anymore.
+LINCOLN	m	(a nod, then:) We ain't here to discuss reconstruction, we have no legal basis for that discussion. But I don't want to deal falsely. The Northern states'll ratify, most of `em. As I figure, it remains for two of the Southern states to do the same, even after all are readmitted. And I been working on that.
+ALEXANDER STEPHENS	m	Tennessee and Louisiana.
+LINCOLN	m	Arkansas too, most likely. It'll be ratified. Slavery, sir, it's done.
+LINCOLN	m	If we submit ourselves to law, Alex, even submit to losing freedoms - the freedom to oppress, for instance - we may discover other freedoms previously unknown to us. Had you kept faith with democratic process, as frustrating as that can be -
+ALEXANDER STEPHENS	m	How've you held your Union together? Through democracy? How many hundreds of thousands have died during your administration? Your Union, sir, is bonded in cannonfire and death.
+LINCOLN	m	It may be you're right. But say all we done is show the world that democracy isn't chaos, that there is a great invisible strength in a people's union? Say we've shown that a people can endure awful sacrifice and yet cohere? Mightn't that save at least the idea of democracy, to aspire to? Eventually, to become worthy of? At all rates, whatever may be proven by blood and sacrifice must've been proved by now. Shall we stop this bleeding?
+LINCOLN	m	Once he surrenders, send his boys back to their homes, their farms, their shops.
+GRANT	m	Yes sir, as we discussed.
+LINCOLN	m	Liberality all around. No punishment. I don't want that. And the leaders - Jeff and the rest of `em - if they escape, leave the country while my back's turned, that wouldn't upset me none.
+GRANT	m	By outward appearance, you're ten years older than you were a year ago.
+LINCOLN	m	Some weariness has bit at my bones. I never seen the like of it before. What I seen today. Never seen the like of it before.
+GRANT	m	You always knew that, what this was going to be. Intimate, and ugly. You must've needed to see it close when you decided to come down here.
+LINCOLN	m	We've made it possible for one another to do terrible things.
+GRANT	m	And we've won the war. Now you have to lead us out of it.
+MARY	f	You've an itch to travel?
+LINCOLN	m	I'd like that. To the West by rail.
+MARY	f	(shaking her head no:) Overseas.
+LINCOLN	m	The Holy Land.
+MARY	f	(a laugh, then:) Awfully pious for a man who takes his wife out buggy-riding on Good Friday.
+LINCOLN	m	Jerusalem. Where David and Solomon walked. I dream of walking in that ancient city.
+MARY	f	All anyone will remember of me is I was crazy and I ruined your happiness.
+LINCOLN	m	Anyone thinks that doesn't understand, Molly.
+MARY	f	When they look at you, at what it cost to live at the heart of this, they'll wonder at it. They'll wonder at you. They should. But they should also look at the wretched woman by your side, if they want to understand what this was truly like. For an ordinary person. For anyone other than you.
+LINCOLN	m	We must try to be happier. We must. Both of us. We've been so miserable for so long.
+LINCOLN	m	I did say some colored men, the intelligent, the educated, and veterans, I qualified it.
+JAMES ASHLEY	m	Mr. Stevens is furious, he wants to know why you qualified it -
+SCHUYLER COLFAX	m	No one heard the intelligent or the educated part. All they heard was the first time any president has ever made mention of Negro voting.
+LINCOLN	m	Still, I wish I'd mentioned it in a better speech.
+JAMES ASHLEY	m	Mr. Stevens also wants to know why you didn't make a better speech.
+JOHN NICOLAY	m	Mrs. Lincoln's waiting in the carriage. She wants me to remind you of the hour, and that you'll have to pick up Miss Harris and Major Rathbone.
+LINCOLN	m	Am I in trouble?
+WILLIAM SLADE	m	No, sir.
+LINCOLN	m	Thank you, Mr. Slade.
+LINCOLN	m	I suppose it's time to go, though I would rather stay.
+LEONARD GROVER	m	The President has been shot.
+STANTON	m	Now he belongs to the ages.
+LINCOLN	m	Yet, if God wills that it continue until all the wealth piled by the bondman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said "the judgments of the Lord are true and righteous altogether."
+LINCOLN	m	With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle, and for his widow and his orphan, to do all which may achieve and cherish a just and a lasting peace among ourselves and with all nations.
+

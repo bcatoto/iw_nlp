@@ -1,0 +1,605 @@
+MARY	f	Crap. The puzzle answers all run together.
+MARY	f	Four letter word for... vomit. She takes a deep breath to calm her nerves. it doesn't help.
+MARY	f	Not "barf". For sure not "barf". That's too easy. "Puke" is okay, but maybe a bit pedestrian (that means boring)... I like "hurl". I do. I like the way it rolls off your tongue -- the word, I mean. But my all time favorite is none of those. She puts her head between her knees, tries to keep it together.
+MARY	f	Four letter word for vomit? S-P-E- W. Spew... Sp-ew. A door nearby opens but Mary doesn't budge. A POLICE OFFICER walks out. A 40ish female TEACHER pokes her head out the door, signals to Mary.
+TEACHER	m	We're ready for you now. (a plastic Kroger shopping Mary jumps up, grabs her purse bag).
+MARY	f	Jesus help me.
+TEACHER	m	Here's a treat, students. Our final guest for Career Day, Miss Mary Horowitz, is the crossword constructor for the Atlanta Citizen. You know the crossword puzzles you see every week in the newspaper? It's her job to create them. Isn't that fun? Mary stares at the Teacher, whispers.
+MARY	f	You weren't supposed to tell them.
+TEACHER	m	Pardon me?
+MARY	f	I made a crossword puzzle to help them guess what my job is. You ruined it.
+TEACHER	m	Oh, I'm so sorry.
+TEACHER	m	Maybe you could tell them a bit about what your job is like?
+GARBAGE	m	Mary drops thu p file out her the bottom She p lls bag, reads with re
+MARY	f	People do crossword puzzles all the time but they don't often think of the person who made all the words fit together, and who thought up the clues, and who made sure the little black squares at the top mirror the ones at the bottom. She pulls one of the crosswords out of the garbage can, holds it up, turns it upside down, forces a nervous smile.
+MARY	f	Crossword constructors usually have above average intelligence, with knowledge of just about every subject you can imagine. And it helps if they can spell. The card in Mary's hand reads "LAUGH". She laughs. Nobody else does. She looks at the cards again, instantly gets serious, sweeps her hand through the air.
+MARY	f	Imagine, for a moment, a world without crossword puzzles. A world- Mary notices one Kid with his hand up. It totally throws her off.
+TEACHER	m	Daniel, you have a question?
+DANIEL	m	You make a living doing that? Just making puzzles? The Atlanta Citizen only comes out on Fridays. One puzzle a week can't make you enough to live on. A LARGE KID in the front row pipes up.
+MARY	f	My parents -
+DANIEL	m	You live with your parents? The Kids all laugh their asses off. Mary just stares at them.
+TEACHER	m	Children! The Teacher shoots the Kids a warning look, then notices Mary hyperventilating.
+TEACHER	m	Are you okay? Mary grasps for breath, struggles to speak.
+MARY	f	Water.
+TEACHER	m	Water. Just hang on. The Teacher rushes out. The kids all stare at Mary.
+MARY	f	Yep, I live at home... She forces herself to get it together, totally faking it.
+MARY	f	But so do all of you, so there... And sure, I only create one crossword puzzle a week but I have deadlines, I have stress, I have demands on me so huge you would not believe. The newspaper business is hell. I mean it. Hell. Somebody's got to write about all the horrors that go on in this world.
+MARY	f	Me! My crossword puzzle is always good news. it enlightens. it r andma's entertains. It keeps your g mind alive so she remembers to send you five bucks on your birthday. Think about that as you lie in bed tonight picking your nose and crying yourself to sleep. I know I will. The Kids just stare at her. She leans against the teacher's desk, tries to look relaxed but fails miserably.
+MARY	f	My job matters, you know. In media circles I am, as the Dutch say, geliefd. That means I have plenty of friends. Hoards, in fact. Scads even. The kids aren't buying it.
+MARY	f	That's a pretty blouse. The Teacher smiles back. Awkward.
+MARY	f	Twelve letter phrase for smashing success! She heads down the walkway toward the bus stop.
+MARY	f	As one would say in old Paris... Coup de maitre! talking - now to him.
+MARY	f	It means "master stroke", even though the direct translation is actually "master blow"... Leave it to the French to pass off an unpleasant slave activity as an everyday expression. The Custodian doesn't know what the hell she's talking about. Mary continues on to the bus stop.
+MARY	f	I sometimes suffer from benign positional vertigo. Could you please not drive until I'm - f He ignores her, starts driving. Mary struggles toward the back o f the bus, grabbing g goes.
+MARY	f	Excuse me... pardonnez-moi... begnadiyen sie mich... She lurches for an empty seat and just about dislodges her shoulder on the center pole. Finally settled, she peeks under her sweater at the shoulder damage.
+MARY	f	Hello hematoma. She smiles at an angry ELDERLY LADY sitting across from her. The lady gives her the "don't talk to me" glare, then stares out the window. Mary fidgets in her seat.
+MARY	f	Hi Betty. Betty just rings up the papers.
+MARY	f	Did you see the review of "Hairspray" in the Journal yesterday? They used the word "spectacular" -- always a good sign. Maybe you'd like to go see it with rne? I have a coupon for five dollars off. Betty shoves the newspapers back across the counter, points at them, then speaks in barely recognizable English.
+BETTY	f	Nine dollar twenty. Mary fishes in her bag for money.
+MARY	f	We could bring your dad if you want. I don't think the show is ageist. That means he won't feel like a loser for being old. As she takes her time paying, Mr. Takihashi madly gestures about Mary holding up the line. Betty barks at her.
+BETTY	f	Pecha kucha! Do Itta! Betty takes Mary's money, waves her on and helps the next customer.
+MARY	f	So no then? That's a no? Betty ignores her. Mary waits, loads the newspapers into her bag.
+50'S	?	Steve heads to an open van where a disheveled, mid producer ANGUS MCCORMACK checks his watch.
+ANGUS	m	Where the hell is he?
+STEVE	m	Probably doing his nails. 40ish reporter HARTMAN HUGHES rushes to the van on his face. napkin tucked in his shirt collar, bread crumbs
+HARTMAN	m	What do you mean "the big one"? Terrorists, natural disaster, what?
+ANGUS	m	Pandemic. Hartman's eyes light up.
+ANGUS	m	Half of the Midwest and spreading. Nobody's safe. Steve tries on a gas mask.
+HARTMAN	m	Please let it be the bird flu.
+STEVE	m	Bird flu is for pussies. This thing's unstoppable.
+HARTMAN	m	How's it spreading? Angus looks at Steve.
+STEVE	m	Squirrels. Hartman can barely contain his excitement.
+HARTMAN	m	Oh my God, they're everywhere!
+STEVE	m	Exactly.
+HARTMAN	m	Al Qaeda connection?
+ANGUS	m	Always a possibility.
+STEVE	m	Who wishes he was in Iraq now?
+HARTMAN	m	Not me!. Hartman grabs a gas mask and rushes to the van's side mirror.
+HARTMAN	m	I need blush. No, wait. I'll go pasty. It'll look like I could be the first media victim. "Hartman Hughes, no such thing as too close to the story". Hartman looks back at Steve and Angus. They're just standing there, unable to keep a straight face. Hartman deflates.
+HARTMAN	m	Assholes! I knew it was too good to be true. He throws his gas mask down, storms off.
+ANGUS	m	Hartman, come on. Hartman gets in the elevator, hollers out to them.
+HARTMAN	m	I had a perfectly good bologna sandwich going on upstairs. Wasted! Angus and Steve watch the elevator door close, shrug it off.
+STEVE	m	Next E-coli story breaks, he'll be fine.
+MARY	f	Crap.
+MARY	f	"Brilliant" is what they said. Never in the history of St. Margaret's Career Day have the children's brains been so inordinately stimulated as they were today by my presentation.
+MARY	f	"Inspired", the teacher told me.
+MARY	f	"Engrossing" one child exclaimed.
+MARY	f	I'm sure that's what he meant. And "ebullient"-
+MARY	f	Dad, some of the greatest orators of all time had their heads chopped off for their labors. I'm lucky to escape with a simple flesh wound. Mary hands over the last newspaper, heads out to the hallway. Her mother yells to her.
+MARY	f	I told you I'm not going.
+MARY	f	Mrs. Alchessi has gliomatosis cerebri.
+MARY	f	A brain tumor characterized by, among other things, dementia. She's nuts. Mary walks up the stairs.
+MARY	f	I'm normal. Silence from her parents. Mary marches back into the living room.
+MARY	f	In fact, I'm normalis extremes. That's the kind of normal that doesn't get more normal.
+MARY	f	I'll go. Mary bolts up the stairs to her room. Mr. and Mrs. Horowitz look at each other, surprised, happy.
+MARY	f	Carol, tonight I have a date. A blind one. Not the guy, I mean the situation. We are, as yet, unknown to one another... It's nerve wracking, I know. Try not to have a spontaneous epileptiform seizure. The doorbell rings. Mary freezes, listens for the muffled voices downstairs. She sits on the corner of her bed and breathes rapidly into a paper bag. There's a knock on her bedroom door. Mary folds up the bag, puts it in her pocket for later, then opens the door a crack. It's her mother.
+MARY	f	I'd rather not. Mrs. Horowitz opens the door wider, takes a look at Mary, looks like she's going to cry.
+MARY	f	i already did. Repeatedly.
+MARY	f	Please don't mean on the inside.
+MARY	f	Let's hope all that does it for him.
+STEVE	m	Mary, hi. I'm Steve. She puts up a finger - "just a second". She turns around and runs back upstairs. Steve looks at Mrs. Horowitz, confused.
+STEVE	m	Great. Thanks. She just stares at him and smiles.
+MARY	f	Gods. You may have noticed that I'm wearing clean socks. Translation: I'm really trying and thus should be amply rewarded. Thanks for your support. She gets up, has a second thought, gets back onto her knees.
+MARY	f	And by support I don't mean, you know - She hikes up her bra.
+MARY	f	I mean your assistance, your furtherance, your advocacy of my efforts to get out there and... do what I'm supposed to do. She concentrates hard, opens her eyes. Now she's ready.
+STEVE	m	Ready? Mary nods a bunch of times.
+STEVE	m	Mrs. Horowitz. Goodnight. (calling into living room) Sir.
+STEVE	m	Sorry about this blind date thing. My mother -
+MARY	f	I never went to kindergarten! He looks at her, totally confused.
+MARY	f	They skipped me to the forth grade.
+STEVE	m	Okay. She gets in the car, fastens her seatbelt. Steve hesitates then heads to the driver's side, gets in.
+MARY	f	I missed finger painting. He has no clue what to say.
+STEVE	m	Sorry?
+MARY	f	Me too. She lunges for his lips but the seatbelt snaps her back inches short.
+STEVE	m	Whoa! Undeterred by the whiplash, Mary undoes her seatbelt and tries again, this time making contact with Steve's lips. He's more than a little startled but kisses her back anyway, all the while straining to see the Horowitz house.
+STEVE	m	Mary... uh, what about your mother? She straddles him and keeps kissing.
+MARY	f	You're not her type. And she's married.
+STEVE	m	No, we're right in front of your house and... She undoes her sweater.
+STEVE	m	And I have no problem with that whatsoever. She kisses his neck. He looks up with a "thank you, God".
+MARY	f	Steve?
+STEVE	m	Mary.
+MARY	f	Is it Steven with a V or Stephen with a P-H?
+MARY	f	I thought so. There are almost a million Stevens with a V in the country, you know. It's much more popular than the P-H way, almost twice as popular in fact. I think it's the Brits who prefer the P-H. They love their P-H's over there. Not as much as they love their fish and chips but still, they love them. It was the media thing, you know, that's why our moms wanted us to get together. You work in the media, so do I. We really have to hand it to our moms, Steve, we do, and not just for raising us, or for thriving during a time when women painstakingly struggled for equality, but I mean we should hand it to them for being visionaries and predicting our all encompassing compatibility. We're professionally compatible, yes, but it's occurring to me at this particular moment that we're also sexually compatible, and I don't know if you noticed like I noticed but we're also both wearing blue. What are the chances of that? Actually, if I really think about it, the chances are probably pretty good. Blue is one of the most popular three colors, however, yours is- She leans forward and checks the fabric tag on the neck of his jacket. She can't quite read it. She reaches up and flips on the interior light. Steve's just about blinded. She grabs the tag, reads.
+MARY	f	Nylon. And mine... She grabs her own tag and reads it, just about elbowing Steve in the eye.
+MARY	f	Polyester! See? Both synthetic fibres! And the chances of that are much smaller than the chances of us just wearing blue. Steve looks at Mary - suddenly fully aware of her craziness.
+MARY	f	Do you like crosswords?
+STEVE	m	Sure. She just about jumps out of her pants with excitement.
+MARY	f	Me too! And semantics, the study of the meaning of words? You love words, right?
+STEVE	m	What's not to love.
+MARY	f	I know! She can hardly believe her good fortune. Her mind reels just as fast as her lips.
+MARY	f	Steve with a V, you know what we are? We're didymous. Two of a kind. Two rare earth elements brought together by Norns, that's Scandinavian for The Destinies. You want to make out for ten to fifteen minutes more then go get a six pack of Twinkies and Mountain Dew and stay up all night and talk? Steve is frozen. No escape - then it hits him. He jumps a bit, pulls out his cell phone.
+STEVE	m	Sorry. I have to get this.
+MARY	f	I didn't hear it ring.
+STEVE	m	Vibrate.
+MARY	f	I didn't feel it
+STEVE	m	You didn't? (into phone) This is Steve... What? Really? Now? If I don't have a choice...
+STEVE	m	Work. I have to go to... Boston. This happens all the time. You know how it is. Wherever news happens... Mary gets off of him, slides back into her seat, buttons her sweater.
+MARY	f	It's okay. When you get back we can have plenty of quality time.
+STEVE	m	Sure. I'll call you. He leans over, opens her door.
+MARY	f	Steve, this has been a night to remember.
+STEVE	m	No kidding. You certainly are - He searches for any word that will do. Mary jumps in.
+MARY	f	Normal.
+STEVE	m	You read my mind. Never happier, she jumps out of the car. As he drives away, she pulls the paper bag out of her pocket, breathes into it.
+MARY	f	Mom, sometimes that's all you need to know he's the one! Mary smiles big, takes the rest of the stairs up two at a time. Mrs. Horowitz is about to follow her.
+MARY	f	Eleven letter word for serendipity. She screams into her pillow.
+MARY	f	The perfect answer: S-E-R-E-N-D-I-P- I-T-Y. Serendipity. Why would you ever need a better word than that? She sits up, grabs her notebook, starts to draw out a new crossword puzzle.
+SOLOMAN	m	Let's split the gardening feature into two weeks. Keep them in suspense. He steps back, looks at the whole layout.
+SOLOMAN	m	Looks good. How are we doing here?
+SOLOMAN	m	Five minutes to spare. Look at that. The Assistant points to a blank corner of page 26. Soloman's surprised, and not particularly impressed.
+SOLOMAN	m	Horowitz.
+A	m	A long haired GUY gets up from his seat, puts his coat on. male EXECUTIVE sits down and spots the newspaper opened to the crossword puzzle.
+GUY	m	Don't even bother, man. I don't know what the deal is, but it looks
+SOLOMAN	m	Steve? Mary sits and smiles.
+SOLOMAN	m	Every single answer is "Steve"? Who the hell is Steve anyway? No wait, I don't care, but I do care that you pissed off our readers. Mary's smile falls a bit.
+SOLOMAN	m	I thought you knew better than to pull something like this. It's He's too frustrated, the words aren't coming
+MARY	f	Creativo? That's Italian for "creative".
+SOLOMAN	m	No.
+MARY	f	How about -
+SOLOMAN	m	Mary. We're letting you go.
+MARY	f	Oh. She looks like she's going to cry. She picks bag, fidgets.
+MARY	f	Maybe I could make it up to you by doing a fishing themed crossword. I know how you love the piscatology. Soloman shakes his head -- it's done. Mary hesitates then finally gets up.
+MARY	f	Okay. I'll just give you some time then. We'll talk next week.
+ASSISTANT	m	Don't you mean "Steverance"? They both laugh.
+THE	m	waiting for her. She sits down beside him. He holds up Atlanta Citizen crossword.
+MARY	f	Indeed.
+MARY	f	Finished with the Times? She goes to take the paper. He stops her.
+MARY	f	How do you think? She looks at him -- worry all over his face. She hesitates for a moment then sucks it up.
+MARY	f	Because if you're thinking that they loved it, that they thought it was imaginative and bold and evocative... you would be right.
+MARY	f	He works a lot, you know. Travels all the time. 'Tis possible he has not yet espied it. She picks up the crossword, admires it.
+MARY	f	But when he does, I'm sure he'll say, "that Mary Horowitz... is a catch. Where oh where has she been all my empty life? From here onward my life will be divided into 'before I met Mary' and 'after I met Mary' with the second part being far superior. I am lonely no more. The missing letter in my puzzle has at last been found."
+MARY	f	I'm not.
+ANGUS	m	We're going to hit rush. We'll have to take the second flight. Exec. Producer DAN CORBITT walks in, heads straight for his desk.
+CORBITT	?	You're set. KDFW's on site now. Angus and Steve start to get up.
+CORBITT	?	Hang on. They sit. Corbitt grabs the remote control, turns the TV on.
+CORBITT	?	Anybody want to tell me about this? He fast forwards through footage of Hartman reporting from a greenhouse. Corbitt slows it to normal speed, mutes it. They watch as Hartman interviews an attractive female BOTANIST holding a test tube with a seedling in it. Hartman keeps pointing to the seedling - which happens to be right in front of the Botanist's generous breasts. The camera gets closer and closer - each time it pulls away Hartman points to the seedling again to force the camera in close - basically turning the piece into a giant boob-fest.
+ANGUS	m	Take a look at those... plants. Corbitt pauses it on the worst shot, looks at Steve.
+CORBITT	?	We can't use this. Hartman fakes disgust.
+HARTMAN	m	Of course not. Nice camera work, Stevie. Steve glares at Hartman. Corbitt points at the frozen shot on the TV screen, looks at Steve.
+CORBITT	?	You want to go back to the Weather Channel, try that again. Corbitt checks his watch, points them out the door.
+CORBITT	?	Get out of here. Don't embarrass me in Dallas. Hartman, Angus and Steve walk out. Steve nods to Hartman - thanks asshole. In the hallway, Steve's cell phone rings. He answers it.
+STEVE	m	What?... Mom, let me call you back.
+STEVE	m	What page? He finds Mary's crossword. He looks at it closely, totally confused. It takes him more than a second to get it. He laughs -- then suddenly reality sets in.
+STEVE	m	Jesus.
+MARY	f	Four letter word for am I going to wait my whole life for Steve to call? She suddenly stops writing.
+MARY	f	Nope. She flails out of the tub like a salmon heading upstream, grabs a towel barely big enough to cover her. Without any effort to dry off, she runs out of the bathroom.
+MARY	f	Ow ow ouch. She gets off the banister, slops the rest of the way down the stairs, jumps into the doorway of the living room.
+MARY	f	The news is Steve's life! It's not just what he does, it's who he is, imbedded deep down in his polymer of nucleotides. I should be out there by his side. That's what girlfriends do, isn't it? Let him concentrate on his work. I'll concentrate on the relationship. It won't be easy, I know, but neither is quantum physics or... the Heisenberg Uncertainty Principle or... paper mache, but I've managed to do fine with those, haven't I? She looks at her parents. They sit at a table playing bridge with MR. and MRS. HANCOCK.
+MARY	f	Top of the evening. Mr. Hancock checks out Mary's bare legs as she stands in a puddle of bath water. Mrs. Hancock lifts her husband's chin, snaps him out of it.
+MARY	f	Exactly! And all I have to do is go to him, be near him, and do my best to radiate... me. Mr. Horowitz doesn't like the sound of this.
+MARY	f	Wherever news happens, Dad. Wherever news happens.
+MARY	f	Abe, Catherine, I'm off. I don't know where I'm going - The Greyhound Bus DRIVER hollers from behind her.
+DRIVER	m	Dallas.
+MARY	f	Geographically yes, I know. Figuratively, philosophically, spiritually, much less so. My entire life is before me. The world is my ostrea edulis... That means the edible kind of oyster.
+MARY	f	Mom, two handles, two handles, they both hold stuff, what's the difference? Mrs. Horowitz goes to explain, gives up.
+MARY	f	Disrespect. Do you mean unmannerly, tactless, vulgar? Because he's a straight man, Dad, and some things can't be helped. But if you mean inconsiderate to me, contemptuous toward me, insulting, irreverent, uncivil -
+DRIVER	m	Let's go already! She steps up one more step, yells out to her parents and the
+MARY	f	I don't know when I'll be back but I do know this- The door shuts in her face.
+MARY	f	(to herself) I'm not coming back alone.
+HARTMAN	m	Paula, what started out as a routine rehearsal here at the Dallas Medieval Times turned deadly when an employee allegedly turned on his fellow performers. Twenty- four hours later, at least thirty employees are still being held hostage by the assailant, their lives hanging in the balance. He listens to his earpiece, nods.
+HARTMAN	m	The castle you see behind me is one of eight medieval Times dinner theatre restaurants. Guests who cross the drawbridge enjoy a medieval style feast while watching the main attraction: knights engaging in a battle of strength and skill. The restaurant promises "fun, feasting and fighting" but it appears that this time, fun was in short supply. A few feet away, Angus frantically takes notes as he talks to a MAINTENANCE WORKER, then slips a piece of paper to Hartman.
+HARTMAN	m	Paula, devastating news just in. We have one confirmed death - an Andalusian - a purebred Spanish horse. One of many that perform in the show, and the first innocent victim of a rogue knight's rage... He takes a moment to fake compose himself, barely getting the words out.
+HARTMAN	m	At times like this, I like to think there's a heaven just for horses. A rolling meadow, lush grasses, unlimited supply of... those things horses like to lick - or is that cows? Nevertheless, a beautiful, peaceful place. He turns and looks toward to the Medieval Times.
+HARTMAN	m	May you long roam in that heaven, noble horse - Angus hands him another note. Hartman scans it, instantly kills the fake anguish.
+HARTMAN	m	But not quite yet. We're the first to report, the horse is not dead, Paula. Not dead. The horse is alive and well after having merely fainted, as it was trained to do for the show. One happy, blessed miracle...
+HARTMAN	m	Dammit, Angus. Get it a bit closer to right before you hand it to me. Josh moves in, removes Hartman's mic.
+STEVE	m	But then we wouldn't have heard about horse heaven. Josh and Angus laugh.
+HARTMAN	m	It's that kind of genius that won me the Southeast Idaho Christian Family Coalition's Journalist of the Year award, you ingrates.
+MARY	f	Omaha... Einstein... cholera... grenade... Bach... oui... potbelly... Oreo. The man drops the crossword, glares at her.
+MARY	f	Sorry. She looks away, starts biting her nails, then spots a sign on the freeway, calls-out to the Driver and anybody else who will listen.
+MARY	f	Bessemer, Alabama! Named after Sir Henry Bessemer, a Brit. Guess what he did? Perfected the way steel is made, of course.
+MARY	f	You know what else is in Bessemer? The city, I mean? Hitler's typewriter. It's crazy, I know. That guy was such an asshole.
+DRIVER	m	We'll just take five minutes here. He steps off the bus. Mary turns to the man next to her.
+MARY	f	Can you watch my stuff? He glares at her -- you have got to be kidding. Mary grabs her backpack and Kroger bag and steps off the bus.
+HARTMAN	m	(on TV) Perhaps the greatest obstacle the hostage negotiators face is the suspect's refusal to communicate using modern day technology. In keeping with his role as a medieval knight, he's insisting on an eleventh century messenger to deliver all communication. The screen splits with a female news ANCHOR.
+ANCHOR	m	What are we talking about here, Hartman? Carrier pigeons?
+MARY	f	Homing pigeons. A few of the Diners overhear.
+HARTMAN	m	Actually, homing pigeons. The Diners look at Mary.
+MARY	f	Carrier pigeons, despite their name, are more or less useless when it comes to actually carrying anything. Homing pigeons are better for messenger work... The Diners lose interest. Mary catches the eye of a WANDERER at the end of the counter. He's hanging on her every word.
+MARY	f	You know who used them all the time? Genghis Khan. Loved the pigeons, scared to death of pooches though. The Wanderer just stares at her.
+MARY	f	You know, dogs, canines, de honden? Still nothing. She looks back at the TV.
+ANCHOR	m	Have the negotiators located any homing pigeons? Where do you even get them in this day and age?
+HARTMAN	m	You can buy them on the internet for twenty-five bucks a pop. Mary looks at the Diners, smiles, points to the TV.
+MARY	f	My boyfriend is probably holding that camera right now. The Diners ignore her and just eat their pie. Mary realizes the time, runs out of the rest stop.
+MARY	f	Crap! Crap, crap, crap! She looks down the road -- no sign of the bus anywhere. She takes her paper bag out of her pocket, breathes into it. A TRUCK DRIVER passes her with coffee in hand, on his way to his rig.
+MARY	f	Do you know when the next bus to Dallas goes through here?
+MARY	f	I missed mine. She breathes double time into the paper bag. He takes pity on her.
+MARY	f	You ever killed animals? He looks at her, surprised but amused.
+MARY	f	Set a garbage can full of kittens on fire or anything like that? Now he's disturbed.
+MARY	f	Humans?
+MARY	f	Touche, sir. Touche. Mary thinks some more.
+MARY	f	Do you have a .light? Matches, Zippo, blow torch, et al?
+MARY	f	May I see your license? Why not. He pulls his license out of the visor, flashes it. Mary steps up and grabs it, looks at it closely.
+MARY	f	Norman James Durwood.
+MARY	f	Mary Magdalene Horowitz.
+MARY	f	Norm, if you're going to rape and murder me, you'll have to cut me up into a million chunks and scatter this appendage - She holds her arm up, shows him.
+MARY	f	Will lead homicide detectives right to you. She smiles at him warmly, puts the marker back in her bag.
+MARY	f	And you already told me you don't have a light to burn the flesh off. Norm can't believe this. Before he can say a word, Mary moves around to the passenger side, hops up into the truck. She notices some snacks on the dash.
+MARY	f	Moon Pies! Want to go halfsies? At a loss, Norm motions for Mary to help herself. As she unwraps a Pie, he reluctantly starts up the truck.
+ANGUS	m	Rebecca wants you to come for dinner when we're back home. Her cousin from Florida -
+STEVE	m	Forget it.
+ANGUS	m	What?
+STEVE	m	It's a set up.
+ANGUS	m	She's hot.
+STEVE	m	I don't care. Never again. My mom set me up with this chick -
+ANGUS	m	You let you mother set you up? What the hell is wrong with you? There's a commotion in the distance. Every photographer on the grounds focuses on the castle. Reporters jump into position. Hartman touches up his make-up, roots through his bag. He yells out to Steve, Angus and Josh.
+HARTMAN	m	Which one of you bastards hid my bronzing shimmer? The police surrounding the castle take aim. Dead silence as the Medieval Times drawbridge lowers. A KNIGHT walks out, arms raised as high as his squeaking armor will allow, which is not very high, but high enough to get the point across -- Surrender.
+MARY	f	And my other rule about crossword puzzles is this. No pencils. Doing a crossword with a pencil is like screaming with your lips duct taped together. It's weak.
+NORM	m	Quiet time might be good right about now.
+MARY	f	Oh. She thinks about it, whispers.
+MARY	f	Do you mean quiet as in softly hushed like this? Or do you mean quiet, as in silent? He nods. Mary squeezes her lips together, holds them. It lasts for about a second.
+MARY	f	Norm?
+NORM	m	What?
+MARY	f	Thanks for not raping me.
+NORM	m	My pleasure.
+MARY	f	Eight letter word for "screwed". Mary crosses to the Medieval Times parking lot, steps over the police line blowing in the wind.
+MARY	f	F-A-S-T-E-N-E-D. Fastened.
+MARY	f	All roads lead to Oklahoma, Papa.
+MARY	f	My road, dad. My road. You don't commit to a relationship and then give up because you'd rather be at home curled up in front of the fireplace with a thesaurus. This is what people are supposed to do - go out on a limb for love. My limb just happens to be in Oklahoma. It's only 850 miles away from home. No big deal.
+HARTMAN	m	"God wouldn't have given my child the third leg if he didn't want her to keep it." But for now, the fate of that precious child's third leg is the hands of a judge... This is Hartman Hughes reporting, live from Oklahoma City. Steve signals they've cut, lowers his camera. Hartman calls out to Angus.
+HARTMAN	m	What if next time I say Baby Peggy is like the wishbone of her parents' dispute? Hartman acts out a wishbone pull. Steve's disgusted.
+STEVE	m	Yeah, go ahead and suggest that. Corbitt will love it. Steve turns and looks toward the edge of the fenced off hospital grounds. Dozens of PROTESTORS are camped out - a sorry assortment of oddballs standing at the fence, waving their signs: "SPARE THE LEG", and "HONOR THE FATHER". Many of them carry drawings of a three legged baby wearing a halo. Steve braces himself and heads for the crowd. Half way across, he spots a loner walking from the parking lot. He's 35, chubby, his shirt buttoned one button off so it hangs lower on the left. This is HOWARD. In one hand: a pro-leg sign. In his other hand: a carton of chocolate milk. Howard stops to lick up the chocolate milk spilling all over his arm. Steve catches up with him.
+STEVE	m	Mind if I ask you a few questions on camera?
+HOWARD	m	Me?
+STEVE	m	How do you feel about what's going on here?
+HOWARD	m	I haven't made up my mind yet. Both parties have valid arguments.
+STEVE	m	Please God, no. He looks for a place to hide but she's running ridiculously fast. It's too late. She's only a few feet away.
+MARY	f	Steve! She jumps into his arms but he's only got one arm free and isn't about to use it to catch her. She slides down his leg to the ground but quickly picks herself up.
+MARY	f	I'm here! Surprised?
+STEVE	m	Surprised?
+MARY	f	Astounded, flabbergasted, bushwacked - He pulls Mary off to the side, away from everybody.
+STEVE	m	What are you doing?
+MARY	f	Talking to you. And noticing how the Oklahoma climate agrees with your complexion.
+STEVE	m	Tell me you didn't come all the way here just to see me.
+MARY	f	Of course not... I went to Dallas looking for you first. And you know why? Steve grabs his head. This is not happening.
+MARY	f	Because you're inimitable and I'm intransigent.
+STEVE	m	No, we're not. I don't know what that means but trust me. We're so not.
+MARY	f	It means you're awesome and I'm unstoppable.
+STEVE	m	Great. Listen, Mary, you seem like a nice girl, and the ten minutes we spent together were --
+MARY	f	Mind blowing. At a complete loss, he just goes along.
+STEVE	m	Sure, but I'm working here. Working.
+MARY	f	I know. I'm just here to support you, show you I care, and also ask why you aren't following that guy pretending to be a nurse but obviously not wearing sterilizable, non-slip footwear. Steve looks toward the hospital, spots the Man.
+MARY	f	If I was Baby Peggy's dad, that's how I'd avoid the press too. Steve takes off running. Mary yells out to him.
+MARY	f	I'll be right here in case you want to make out later on! Steve looks back, a bunch of people stare. Mary waves to him then watches until he's out of sight. A SECURITY GUARD approaches her.
+PROTESTORS	?	Near, far, wherever you are, we believe that the leg should stay on... Mary watches, paralyzed with awe, like seeing herself in the mirror for the first time ever. At last, she has found her people.
+ELIZABETH	f	I like your boots.
+MARY	f	Thanks. I found them in an alley. Elizabeth looks at the boots again, impressed. She stands up.
+ELIZABETH	f	Are you pro-leg or anti-leg?
+MARY	f	Neither really.
+ELIZABETH	f	This is the pro-leg group over here. We're supporting Baby Peggy's dad in his fight to save the baby's third leg. She points to the end of the fenced off area where only a few
+ELIZABETH	f	Those are the anti-leggers. They're all for the amputation.
+MARY	f	I'm just here because my boyfriend is working the story. He's with CNN, the world's news leader, the most trusted name in news, the place where more -
+ELIZABETH	f	The pro-leggers have better snacks.
+MARY	f	I'm definitely pro-leg.
+STEVE	m	She's on me what, thirty seconds after meeting me, and the chick will not shut up the whole time. I had to fake a work call, gave her the -
+ANGUS	m	(imitating Steve) Wherever news goes...
+STEVE	m	I think I'm in the clear, then she does this crossword - she works for the Citizen - she does this crossword all about me, and as if that's not crazy enough, she shows up here.
+ANGUS	m	Here?
+STEVE	m	Over by the fence. Red boots. Can't miss her.
+ANGUS	m	Is she hot?
+STEVE	m	Jesus, Angus. When a psychotic chick's swinging a machete at your throat, who cares if she's hot?
+ANGUS	m	I've been married to the same woman for seventeen years. I care.
+STEVE	m	Crazy, man. The chick is cra-zy. Hartman sits up, totally awake and never happier. He points at Steve.
+HARTMAN	m	Priceless! This is priceless! Steve cringes.
+STEVE	m	Hughes, don't. Don't even.
+MARY	f	Thanks, Bruno. He walks away. Mary takes a sip of the hot chocolate, burns her mouth.
+MARY	f	Crap. She grabs her tongue with her fingers. Hartman appears right in front of her.
+HARTMAN	m	M'lady. She's a bit stunned and star struck. He offers his hand.
+HARTMAN	m	Hartman Hughes. Mary lets go of her tongue, uses her saliva covered hand to shake his.
+MARY	f	Mary.
+HARTMAN	m	Mary'. Mary, Mary, Mary. He takes his hand back, discretely wipes it on his pants.
+HARTMAN	m	Steve told me you were beautiful. He was going on and on and on and on about it. I had to come see for myself. Great boots.
+MARY	f	Thank y- He puts an arm around her, pulls her away from the crowd.
+HARTMAN	m	Listen, Mary, I've been working with Steve for about a year now. The guy is like a brother to me. A YOUNG PROTESTOR recognizes Hartman.
+HARTMAN	m	Girls follow us around everywhere we go. Who do you think they're after? Hartman reflects on it, smiles.
+HARTMAN	m	Me, of course me, but every once in a while some of them try to land Steve. It's true. Sure he'll go for a few skanks here and there but it's all just a sad attempt to hide his fear. All he wants is to love but he's afraid of opening up, afraid of putting himself out there, afraid of somebody like you, Mary - yes you - afraid of you breaking his heart. Can you blame him? She's a bit stunned and confused by all of this.
+MARY	f	No?
+HARTMAN	m	No! Promise me this. Promise you'll stick around long enough to help him get over that fear. He tells you to go away, don't. He says he thinks you're crazy? You're not. He's crazy, Mary. Crazy not to let down his walls and tell you how he really feels. Can I count on you to hang in there no matter what?
+MARY	f	Of course. I don't want to interfere in his work but I just need to be here for him and - He grabs her, hugs her in so her words are all muffled - and yet she keeps talking.
+HARTMAN	m	Good girl. The SECURITY GUARD walks past, gestures that they should be behind the fence. Hartman holds up his press pass to get rid of the Guard, then lets go of Mary. He points her toward the protestors, starts backing away.
+HARTMAN	m	I'll tell Steve to come find you when we wrap for the day. What side are you on?
+MARY	f	Pro-leg. She shows him her button featuring a cartoon of a very happy three legged baby. Hartman laughs.
+HARTMAN	m	You might want to jump camps. No way they're going let that baby keep the third leg and live like a freak. Trust me. He waves and turns around, starts heading for the press camp. Mary calls out to him.
+MARY	f	She'd just be like the tree frogs. Hartman turns around. What?
+MARY	f	A trematode parasite causes polymely (that means extra limbs) in tree frogs. It happens all the time. In some ponds there's like a quarter of the tree frogs with extra legs. Totally natural. Hartman looks at her like she's a nutcase.
+HARTMAN	m	What's going on? Josh rushes to get the mic on Hartman.
+JOSH	m	The parents of the kid got back together. Surgery's cancelled.
+HARTMAN	m	No amputation?
+STEVE	m	Tell me you weren't talking to Mary.
+HARTMAN	m	Who?
+STEVE	m	Go to hell, Hughes. scans it Angus hands Hartman the press release. Hartman quickly.
+HARTMAN	m	It's over? The kid keeps the leg.
+ANGUS	m	For now. Hartman checks his teeth in a hand mirror.
+HARTMAN	m	'Til she gets it caught in a car door.
+HARTMAN	m	And like the noble tree frog whose extra leg is nothing if not natural, so Baby Peggy begins the rest of her three legged life... This is Hartman Hughes reporting live from Oklahoma City. Hartman pulls out his ear piece. Angus, Josh and Steve all look at him, a bit surprised.
+STEVE	m	Tree frog? Where do you get this shit? Hartman taps the side of his head -- it's all up here.
+HARTMAN	m	A little thing called astutitude, my friends. Steve and Angus look at each other -- is that even a word?
+MARY	f	There you go, George. Just a little nasolacrimal duct cleaning. Nothing to be ashamed of. Elizabeth runs up to Mary, hugs her.
+ELIZABETH	f	You see? When you sing loud enough and when your signs are big enough, people listen! Mary spots some of the news vans pulling away.
+MARY	f	Steve!
+ELIZABETH	f	Go, go on. I'll watch your stuff. Mary drops her bags, runs toward the media camp.
+MARY	f	Steve! STEVE!
+HARTMAN	m	Angus, hold up.
+STEVE	m	No, go. Fast. Hartman rolls down his window.
+STEVE	m	Don't. Hartman sticks his head out the window.
+STEVE	m	Hughes, I swear I'll kill you. Hartman waves to Mary to catch up. Angus sees her in the mirror as he drives.
+ANGUS	m	Is that her? She's hot.
+STEVE	m	Angus, come on man, get me out of here.
+ANGUS	m	She's really hot.
+STEVE	m	Who cares? Jesus, you guys - Angus hits the brakes. Steve hides behind the seat just as Mary catches up with the van.
+HARTMAN	m	Hi beautiful. Mary tries to get a look at Steve but can only see part of his back hunched over behind the seat.
+MARY	f	Steve? Are you okay? Is he okay? Angus leans over to her window.
+ANGUS	m	I don't think we've met. Angus. Mary shakes Angus' hand. He can't take his eyes off her.
+HARTMAN	m	Steve's not feeling well.
+MARY	f	Oh no.
+HARTMAN	m	I'm sure he'll be fine by the time we get to New Mexico.
+ANGUS	m	Your eyes are striking. Steve punches him through the seat. Mary's oblivious.
+MARY	f	Thank you.
+HARTMAN	m	Steve really wants you to follow us. It would mean a lot to him.
+STAYS	?	Steve cringes, goes to speak up but stops himself and hidden.
+HARTMAN	m	He was going to go ask you himself but look at the poor bastard. So sick he can't even sit up straight.
+MARY	f	What if it's a viral zoonotic disease? He should see a doctor.
+HARTMAN	m	Exactly what I told him, but the only person he wants touching his infected flesh is you. Mary looks at Steve, worried.
+MARY	f	But wait, what if - up. Hartman grabs her face, squishes her lips to shut her
+HARTMAN	m	Hey now, we need you to be strong for him. Leachinan trial, Santa Fe, can you remember that? Mary nods, unable to speak.
+HARTMAN	m	We'll meet you there, God willing.
+MARY	f	Will you take care of him?
+HARTMAN	m	Like he's my own. She backs away from the window. Angus waves to her and starts driving.
+ANGUS	m	Nothing wrong with that one.
+JOSH	m	Except for those boots.
+STEVE	m	You're an asshole, Hughes. Hartman laughs.
+MARY	f	Elizabeth! I have to meet Steve at his next job, in New Mexico. He's sick, not as in rad, although he is that too, but more like unwell, infirm, perhaps barfy. Hopefully nothing serious but you never can be too sure and besides, healthy or not, he needs me.
+ELIZABETH	f	Sign my book before you go? Elizabeth hands her the ratty hand decorated book and a pen.
+MARY	f	The trip's not too long, right through all kinds of interesting sites like, for example, El Santuario de Chimayo: The Lourdes of America. Know what that is? A sacred sand pit near a burrito stand. What could be better than that? Mary looks away from Elizabeth, fidgets a bit.
+MARY	f	Want to go? Unless you're busy, I mean. You probably have something better to do. Elizabeth thinks about it.
+ELIZABETH	f	Not really. Mary is stunned. She takes a minute to realize it's real, gets excited. From behind her:
+ELIZABETH	f	Mary, have you met Howard? Mary shakes her head. Howard offers his hand. It's got dried chocolate milk all over it. She takes it.
+ELIZABETH	f	Mary, Howard. Howard, Mary. Mary, Howard's got a car, you know. He can drive us. Mary looks at him, thinks about it.
+MARY	f	What kind of car do you have?
+HOWARD	m	Plymouth Colt.
+MARY	f	What year?
+HOWARD	m	Eighty-nine. Mary quickly scans her memory.
+MARY	f	Replace the recalled seat belts?
+HOWARD	m	Yes. Mary thinks about it, smiles.
+MARY	f	Let's grab souvenirs! Elizabeth and Howard each pick up a Baby Peggy sign off the ground. Mary grabs as many as she can hold -- way, way too many. A bunch of them slide off but she perseveres.
+HOWARD	m	You can have that. I have more.
+MARY	f	Thanks. Mary puts the apple in her Kroger bag.
+MARY	f	Howard, if you get sleepy and want to trade off driving for a while, just wake me up and I'll take over.
+MARY	f	Persimmon. AKA, the mabolo, the date-plum, the velvet apple. Genus: Diospyros.
+HARTMAN	m	But the octogenarian Leachman may not have been as innocent as her representatives claimed, at least according to the evidence found at the murder scene. Hartman reads from his notes.
+HARTMAN	m	Whips, hot wax, bamboo skewers, a spanking bench, and perhaps most damaging, a henna tattoo across Ms. Leachman's chest that read "Mrs. Juan Carlos Velasquez".
+HOWARD	m	Guilty or not? They all think about it. A greasy haired Shaman CLYDE steps up behind them.
+CLYDE	m	Everybody deserves the benefit of the doubt. He looks at Mary, smiles.
+CLYDE	m	Everybody. As he joins the Leachman fans, Mary thinks about it.
+MARY	f	Be has a point.
+ELIZABETH	f	Yay! I love Cloris Leachman.
+HOWARD	m	Who doesn't?
+MARY	f	I have to go find Steve. How do I look? Unwashed hair, bed head, and there's a chunk of a Twinkie caked onto Mary's ear. Elizabeth picks the Twinkie off, smooths down Mary's hair.
+ELIZABETH	f	Perfect.
+MARY	f	I'll be back. Save me a sign! And if Cloris comes out, tell her I loved her in "My Little Pony: The Movie". Mary runs off as Howard and Elizabeth join the crowd of fans.
+HARTMAN	m	Hi gorgeous. What'd you do to your hair?
+MARY	f	Slept on it in the car. Where's Steve? Is he okay?
+HARTMAN	m	Never better. Come in and wait. He'll be back soon.
+HARTMAN	m	You all know Mary? Steve's girlfriend? Mary shakes hands around the table, greets them all in their native tongues.
+MARY	f	Hello... Bonjour... Hola... Jolly afternoon... She gets to Angus. He kisses her hand.
+ANGUS	m	My dear, sit. He shoves the BBC guy out of the way to make room for Mary next to him. Vince shuffles the cards.
+VINCE	m	Mary, you in?
+MARY	f	Poker? Technically I'm familiar but I've never actually played. With people, I mean.
+MARY	f	"There are few things that are so unpardonably neglected in our country as poker." Guess who said that one. She looks around the table. The guys, except Angus, are starting to lose their patience.
+MARY	f	Mark Twain. And you know what else-
+MARY	f	Sorry. Mary looks at her cards, thinks about it for way too long, then grabs a handful of coins from her Kroger bag, slaps them on the table.
+MARY	f	Send it, ladies! Steve steps into the tent, spots Mary, turns to run back out.
+HARTMAN	m	Don't go, Steve! Look who's here. Mary jumps up - just about knocks the table over, then sustains a number of injuries trying to leap over chairs. At last she makes it to Steve, hugs him.
+MARY	f	Thank God you're okay!
+TO	m	He holds her back at arm's length, looks at her, goes speak then stops himself, pulls her outside the tent.
+STEVE	m	You have to stop stalking me.
+MARY	f	I'm not. It's more like picking travel destinations based on where you happen to be working.
+STEVE	m	Stalking.
+MARY	f	Hartman told me you wanted me here. Now that I am, what better opportunity for us to get to know each other better.
+STEVE	m	This is crazy.
+MARY	f	Hartman said you'd say that.
+STEVE	m	Go home, Mary.
+MARY	f	And he said you'd say that too. It's just your fear talking. Steve just about loses it.
+STEVE	m	He's not my friend, he's not your friend. He's just an asshole who thinks it's fun to string you along and make my life hell. He yells toward the tent.
+STEVE	m	Hughes! Get out here!
+MARY	f	You know how sometimes you see a pinguid (that means fat and greasy) guy with an attractive girl and you think how the heck did he pull that off? People won't think that when they look at us. We're perfectly matched. She can hardly contain her excitement.
+HARTMAN	m	For the hundredth time, Steve, no, I am not interested in a threesome with you and your new girlfriend. Steve points to Mary.
+STEVE	m	Tell her the truth. About all the crap you told her.
+HARTMAN	m	Okay. Fine. Hartman goes to Mary, grabs her hand.
+HARTMAN	m	Everything I said about Steve, about his feelings for you, his hopes, his dreams, his fears, his unexplainable odor, forget about it. Forget everything I said. None of it was true. Mary's stunned, devastated. She looks like she's going to cry. Hartman and Steve look at each other - what now? Hartman shoves him forward. Steve reluctantly puts a comforting hand on her shoulder.
+HARTMAN	m	Because nothing I said comes close to the enormity of Steve's real feelings for you!
+HARTMAN	m	It's a love that defies words! Steve jumps him. Hartman fights back. Mary's horrified.
+MARY	f	Stop it, you guys! Stop! "Victory attained by violence is tantamount to a defeat, for it is momentary." You know who said that? Gandhi. And me. Just now. The fight continues. Mary half covers her eyes.
+VINCE	m	Nice one.
+VINCE	m	Come on, the guy wears makeup. The guys all start pulling out cash to place bets. Mary spots the cash changing hands.
+MARY	f	No! This isn't about money! It's about courage, love, honor and all things virtuous and pure. Steve, kick him in the leberknoedel! Hartman looks up at her, hurt. The distraction costs him. Steve knees him then follows with a jab to his face.
+JOURNALISTS	?	Ohhhh! Hartman drops to his knees, tries to pull himself together.
+STEVE	m	Tell her!
+HARTMAN	m	Okay, alright. Hartman wipes his lip, looks up at Mary.
+HARTMAN	m	Mary, millions of people believe what I tell them every night. Why shouldn't you? Steve dives at him. Hartman swings and gets him right in the nose. One of their cell phones ring, then another, then all the guys' phones go off.
+ANGUS	m	Verdict's in. They all rush off to the court house, leaving a stunned Mary standing alone.
+MARY	f	He fought for me. Happiest moment of her life. Eyewitness testimony, fingerprints on every inch of the body, the murder weapon still warm in her Chanel handbag - And finally at the end of the line, Hartman - his hair a mess, his lip cut, his mood sour. A few feet away filming, Steve's nose bleeds down his chin and shirt.
+HARTMAN	m	And as she left the court room today a free woman, the cheers of her devoted fans carrying her forward -
+MARY	f	Please! Somebody help him! Apply a vasoconstrictor, a nasal tampon, anything! At the absolute least, direct pressure and a clean tissue! Steve puts the camera back in place. Hartman recovers fast.
+HARTMAN	m	As you can see, Cloris Leachman's fans have become surprisingly violent despite her victory here today. Add this to the list of the most dangerous locations for journalists. Iraq, Somalia, Lebanon, Sri Lanka... and just about any place Cloris Leachman fans gather. Hartman wipes blood from his lip.
+HARTMAN	m	Hartman Hughes putting his life at risk to report live from Santa Fe, New Mexico. They cut. Hartman grabs a hand mirror, points to his face, yells out to Steve.
+HARTMAN	m	This is my gift, understand, my instrument. Makes no difference if you're walking around looking like Quasimodo. Ignoring Hartman, Steve walks over to Angus.
+STEVE	m	How long do you figure until - Steve's phone rings. He cringes, answers it.
+CORBITT	?	Who the hell was that?
+STEVE	m	This girl. She's been following me... She's not my girlfriend... He listens, clenches his teeth, hands the phone to Angus. As Angus listens, Steve grabs his equipment, waits in dread. Angus hangs up the phone, hands it back to Steve.
+STEVE	m	I'm done?
+ANGUS	m	Consider yourself temporarily saved by the storm. It's worse than they thought. We've got to move. Steve grabs his equipment. They start walking.
+ANGUS	m	He'll probably fire you after.
+STEVE	m	Any luck, the storm will kill me first.
+CLYDE	m	Shhhh.
+MARY	f	What? I didn't -
+CLYDE	m	Shhhh. He puts his hands on the sides of her head. Mary's confused and a bit freaked out.
+CLYDE	m	In here. So loud. Always thinking, thinking, thinking. Mary goes to speak, stops herself. Clyde keeps his hands still on her head, looks into her eyes.
+CLYDE	m	You already found what you're looking for. Mary's eyes soften and she's suddenly calm. A moment of peace. Suddenly, Mary spots Hartman, Steve and Angus rush past. She breaks away from Clyde, rushes along the fence to catch up.
+MARY	f	Wait! Steve! Hartman spots her.
+HARTMAN	m	Sorry, darling, we're on to the next story.
+MARY	f	No, wait! Attendee! She runs to the end of the fence, jumps it, runs after them.
+STEVE	m	Considering you probably just cost me my job, maybe you don't want to talk to me right now.
+MARY	f	But I do! If you're in trouble because of me I can fix it, I can explain to your boss. He or she probably just doesn't understand our relationship.
+STEVE	m	We don't have a relationship.
+MARY	f	Sure we do, it's just in the pupa stage right now.
+STEVE	m	Mary, go home! She looks at him, hurt.
+STEVE	m	Go home. He jumps in the CNN truck as Angus starts it up. Mary looks around, helpless.
+MARY	f	Six letter word for "over my lifeless, rigormortic and maggot infested, i.e. dead, body am I giving up now"... D-O-G-G- motherfucking-E-D. Dogged. She gets out her Chapstick, liberally applies it, dabs a bit on her temples as well.
+MARY	f	Normally I don't condone swearing. I think it's something people do when they don't have the vocabulary to express themselves properly, but even I, with my plenitudinous vocab, must admit -- every once in a while, it's okay to get a bit peppery -
+MARY	f	I got him in trouble, Dad. I have to go find him and make it right. There's three places they could be headed. She pulls a note pad out of her pocket, looks it over.
+MARY	f	For each story, I've worked out an equation of potential human casualties, estimated property damage, availability of endlessly repeatable images, with bonus points for anything involving reporters in galoshes. There's no doubt in my mind. They're heading to the storm in Galveston.
+MARY	f	Ridiculous? Mom! How many times did you propose to dad?
+MARY	f	I rest my case! If you gave up the first time dad said no then I wouldn't exist. Telling me to give up so soon on my potential husband- to-be, birth father of my twelve future children and adoptive father of my gerbil Carol -- you might as well be saying that you wish you had given up too and that you never married dad and that I'd never been born. Is that what you're saying?
+MARY	f	Sure you don't want to come along?
+ELIZABETH	f	I wish, but I only left enough cat food out for two days. I'll miss you guys! Elizabeth hugs them both, jumps on the bus. Howard and Mary watch as she struggles to her seat with all the signs.
+HOWARD	m	This storm could be bad. Sure you want to drive into it?
+MARY	f	How bad could it be?
+HARTMAN	m	(yelling his head off) And this time, the warnings were hard to ignore. One Galvestonian told us "tornados, we can handle. Hurricanes we can handle. Bugs we can handle. Put 'em all together and that's a storm I don't need to see". A wise man indeed. Something off to the side catches Hartman's eye -- it's a picnic table blowing down the street.
+HARTMAN	m	Oooh! Get that! Steve gets the shot then pretends to make adjustments to his camera while he discretely scans the area, on the lookout for Mary.
+MARY	f	And when I met Steve, I knew right away we had a lot in common. We're both in the media, we both love crosswords, we both love words. We both felt this unexplainable connection, no matter how much his instinct might be to fight it. That's okay. We just have to get to know each other better, that's all. She uses the wipe on her face, gets a bit on her lip and the taste is awful. She rolls down the window, closes her eyes and gently sticks her face out to rinse with rain water. The car hits a flooded patch of the road. A wave of mud washes up and smacks Mary right in the face.
+MARY	f	Crap. She starts the handy wipe bath all over again. A nervous Howard speaks up.
+HOWARD	m	I saw Steve talking to you... He wasn't very nice. Mary makes herself busy putting the handy wipe in her Kroger bag then looks out the window.
+MARY	f	If there's one thing I learned from crossword puzzles it's that you can't give up.
+MARY	f	I have to give it one more try. I have to fix the mess I made with his work, then maybe he and I -- For the first time, she doesn't seem so sure. Howard notices.
+HOWARD	m	You know what my favorite part of doing crosswords is? When you know something you didn't think you knew. Mary thinks about it, then turns back to looking out the window.
+MARY	f	Me too.
+HARTMAN	m	Paula, this pier was closed to the public twenty-four hours ago, and for good reason. Steve inches a bit closer for the shot, his footing unstable. Josh moves in and hangs on to Steve to keep him steady.
+HARTMAN	m	As I stand here, I can actually feel the structure moving under my feet. The only thing between me and the limitless depths of the sea is this two-by-four railing that - The railing flies off. Hartman drops to his knees and crawls to the other railing then hangs on for dear life. Steve and Josh struggle to hang on to the camera and each other.
+HARTMAN	m	And Paula I have to tell you, not only has my hearing been permanently damaged by the sheer force of the rain hitting my eardrums, but at this point, I'm beginning to wonder if I'll even make it out alive. He raises his head up for the big finish, gets hammered by the wind and rain.
+HARTMAN	m	This is Hartman Hughes, reporting live from Galveston, Texas. Steve and Josh start backing up off the pier with Hartman crawling behind them. Steve yells back to him.
+STEVE	m	You had to get the pier shot. Had to. Just about got us all killed. Happy? Hartman points in the water, yells.
+STEVE	m	You're such an asshole. Steve walks off the pier mad as hell.
+HARTMAN	m	Come on, that was funny. You have to admit... Stevie?
+HOWARD	m	Hang on. He hits the brakes, starts backing up as quickly as possible. Mary looks ahead -- sees what looks like a tornado up ahead.
+MARY	f	Oh my God. Howard backs under an overpass, points to a protected area up the cement embankment.
+HOWARD	m	We'll just have to wait for this to pass, then we'll keep going. It'll be okay. They look down to the road just in time to see Howard's car picked up and blown right through the underpass, landing on its side in a ditch fifty yards away.
+MARY	f	Crap!
+STEVE	m	Who the hell are you? What are you doing?
+STEVE	m	You seen her?
+ANGUS	m	She's too smart to come here during this. Steve looks around like he's crazy.
+STEVE	m	No, she's here somewhere. I can feel it.
+MARY	f	I spy with my little eye a chemical element from group two of the periodic table.
+HOWARD	m	Barium... I spy with my little
+-	?	eye... a transition metal She barely has the energy to get the word out.
+MARY	f	Cobalt. Mary points to a steel belted tire on the ground, lays back and shuts her eyes. Howard takes something out of his - it's a pocket, puts it in her hand. Mary looks at it shrivelled, sculpted apple head. She smiles, hardly able to keep her eyes open.
+MARY	f	Mother Teresa.
+HOWARD	m	My best seller. I'm an apple sculptor. She's quiet for once. Howard watches her drift off.
+HOWARD	m	I went to school for physics but got bored. Now I just make these and sell them on appleheadsrule.com. I was going to give that one to my girlfriend in Bangor but I can make her another one. She'd probably prefer a Stephen Hawking one anyway. Science is her life. Not like my girlfriend in Tacoma. She's really into Jesus. Same as my other girlfriend in Duluth. He waits for a response - nothing.
+HOWARD	m	Maybe I'll meet them in person one day. They're just so far away and I don't get out much, not farther than the apple orchard or the post office anyway.
+MARY	f	But you're out now. He's a bit surprised she was listening.
+HOWARD	m	I saw the people on TV fighting for Baby Peggy. It wasn't far from my house, and the people there looked nice enough, so I went. I thought I had everything I needed at home but then I thought, maybe there's more.
+MARY	f	Maybe there is.
+HOWARD	m	Can I tell you something? Mary nods.
+HOWARD	m	I like your eyeballs.
+MARY	f	They're fuscous, that means -
+HOWARD	m	Brownish gray. I know. They both smile.
+MARY	f	You know what I'd call this?
+HOWARD	m	Quagmire?
+MARY	f	Imbroglio, Howard. That means we're screwed.
+CORBITT	?	Storm's over. What else is happening? The Exec shrugs and yawns.
+BUSINESSMAN	m	Sloooowww news day.
+TEACHER	m	(speaking while signing to the kids) Who's ready for some fun? The deaf kids start running down the hill, straight for the petting zoo.
+HARTMAN	m	Tornadocane my ass. Where the hell were the cicadas? Retards in a mine shaft, now that's a story.
+STEVE	m	They're deaf, asshole. They spot Mary and Howard up ahead in the ditch, next to the car on its side.
+HARTMAN	m	Look, it's your girlfriend.
+STEVE	m	We're not stopping. Hartman grabs a piece of paper, writes fast.
+ANGUS	m	We can't just leave them.
+STEVE	m	Highway patrol's down here every hour. It's not like they'll rot in the ditch. As they get closer, Hartman rolls down his window, folds up the piece of paper.
+STEVE	m	What the hell are you doing?
+HARTMAN	m	Getting some fresh air. It helps my pores. Steve tries to grab the paper.
+STEVE	m	Hughes!
+HARTMAN	m	Yes, Steven?
+STEVE	m	You're not telling her where we're going.
+HARTMAN	m	Aren't I?
+ANGUS	m	Christ, you two. You'll get us killed. Angus leans into the front seat, tries to steady the steering wheel.
+STEVE	m	Asshole! Hartman laughs, rubs his arm in pain.
+MARY	f	"Eunice, Louisiana. Please..." She stops reading, looks a bit uneasy. Howard steps forward, grabs the note.
+HOWARD	m	"Please meet..." He looks at Mary, disgusted, continues reading.
+HOWARD	m	M-E-A-T. "Please meat me there. XO Steve".
+MARY	f	See? He needs me, if only to help with his spelling.
+HOWARD	m	No kidding. She rushes to the car, Howard joins her. They push the car ey with everything they have, it tips back onto its wheels. Th jump in the car and start it up.
+HARTMAN	m	And what went through your mind when you realized they were gone? The Teacher just bawls. Hartman turns to the camera.
+HARTMAN	m	Grief too strong for words. That's the best way to describe this tragic, tragic scene. One minute, a merry day at the fair. The next minute, helpless babes savagely sucked into the menacing abyss. The Teacher bawls even harder. Hartman gives her a "there there" then continues talking to camera.
+HARTMAN	m	And here's how hopeless the rescue looks at this moment. The earth surrounding hole is far too perilous for anybody to approach on foot. Moving heavy rescue equipment in too close could mean death for the rescuers as well. Its cold down there, wet, dark, probably a few snakes and rats moving around. I don't know what the hell happened but I smell a lawsuit.
+HARTMAN	m	To some, a simple crane. To the trapped, innocent, special children -- the answer to their prayers. The cable lowering the bucket jerks and stops. The crowd gasps. Hartman stays on camera.
+HARTMAN	m	Or is it? The cable jerks and begins moving again.
+HARTMAN	m	Only time will tell. Through the crowd, Steve sees a WOMAN who looks like Mary from the back. fie freezes, then realizes it's not her. Total relief.
+MARY	f	Please let those kids be okay.
+RESCUER	m	Hey! Buddy! Back it up. Steve backs up, refocuses on the hole as the cable rises. - it's one of the Kids Finally, a smiling little face appears being carried up by the Fireman.
+FIREMAN	m	They're all okay! The rescuers cheer. The Teachers bawl.
+HARTMAN	m	Elation here in Louisiana but the danger, far from over as rescuers bring these children up one grubby little face at a time. Hartman looks off to the side, holds up a finger like he's trying not to cry. He signals Steve to cut.
+HARTMAN	m	Remind me next time to mention Jesus. Still on the lookout for Mary, Steve's not even listening.
+MARY	f	George, Lydia! What's going on? Lydia hugs her.
+FIREMAN	m	That's the last of them! As he hands the kid to safety, the cable jerks. He gets out of the basket just in time before the whole thing - basket and cable -- snaps off and drops into the hole.
+HARTMAN	m	A happy ending that's left parents across this country wondering - how can I keep my family safe from abandoned mines? Are there abandoned mines in my backyard? Is my child's school built on top of an abandoned mine? Steve spots Mary, running toward him.
+STEVE	m	No, no, no.
+HARTMAN	m	And how, oh how, can these death traps be avoided? Mary drops right into the abandoned mine.
+STEVE	m	Mrs. Horowitz.
+STEVE	m	You and your husband stay put, Mrs. Horowitz.
+STEVE	m	She better be. Hartman looks away, guilty.
+MARY	f	Eight letter word for... my life has come to this. There's a bit of shuffling around in the dark.
+MARY	f	Not destiny, that's only seven letters. Not fortuity - that sounds more like when good things happen to people like finding a quarter in the sofa or something. I mean the not so great stuff that's bound to befall some people more than others. Fate's nasty cousin, I mean. Suddenly Mary's face lights up with her mini keychain flashlight.
+MARY	f	F-O-R-E-D-0-0-M. Foredoom.
+A	m	Mary shines the light on her knee. Her previous cut is now gaping wound, blood is all over the place.
+MARY	f	Crap.
+RESCUER	m	Can we lower a phone down in there?
+HARTMAN	m	Behind inc... Oh what's the point? Hartman walks away moping.
+ANGUS	m	Corbitt wants you to go on air to talk about Mary. An interview with the boyfriend.
+STEVE	m	I'm not her boyfriend!
+ANGUS	m	Close enough. Come on, we need this. Hartman steps up, listens in.
+ANGUS	m	Fox has already got their hands on everything but her panty size.
+HARTMAN	m	Fox scooped us? Our Mary? The bastards. Steve glares at him.
+ANCHOR	m	That has to be bad news for Mary Horowitz, wouldn't you say?
+MARY	f	I am not afraid. I am not fearful, pusillanimous, nor am I affrighted. Suddenly in the light - a face. Mary screams her head off. The face doesn't budge - it's a LITTLE DEAF GIRL.
+MARY	f	Oh my God, they forgot one! You scared the crap out of me. The girl just stares at her.
+MARY	f	I'm sorry, can you hear me, I mean at all? Do you have sensorineural hearing loss or conductive? "Deaf people can do anything except hear." You know who said that? Doctor Jordan, first deaf President of Gallaudet U. Maybe you'll go there one day. That is, unless we perish down here. Mary smiles. The Little Deaf Girl just stares back.
+MARY	f	And then there's black lung disease, also a problem in coal mines. Chronic cough, breathlessness, cyanosis - that's where your skin turns purple -- There's a CLINK behind Mary. She turns her light onto the area, sees the flashlight and note hanging from the thin rope. Mary grabs the flashlight, turns it on, reads the note.
+UNFOLDS	?	The rescue team gathers around. The Young Rescuer the note, reads it slowly and loudly.
+RESCUER	m	"P.S. Did anybody lose a little deaf girl?"
+RESCUER	m	"I found one. She's fine... Other than not being able to hear, I mean."
+STEVE	m	Thank Christ. Now if they can only get her out of there. Angus hangs up his phone.
+ANGUS	m	Corbitt wants you on in five. Steve sees he has no choice. He nods. Hartman puts an arm around him.
+HARTMAN	m	I'll be gentle.
+ELIZABETH	f	Howard! She hugs him.
+HOWARD	m	She'll be okay. She will. Howard looks behind him at the ever growing crowd.
+HOWARD	m	All this. For her. He manages a sad smile.
+MARY	f	Rhinolith, that's the real word. Rhino is nose, lithos means stone. Nose stone. You know what that is? Snot.
+SCIENTIST	m	I knew Mary Horowitz in college. She caught me trying to cheat off her physics midterm, lectured me for an hour and when she finally stopped talking I asked her out. She said no, said it was because I was, get this - hebetudinous. Can you believe? He walks away, bitter, gets back to work on NASA rockets.
+RESEARCHER	m	We dated for a while but she ended it. Said she couldn't stand this - He points around 'to the library - you could hear a pin drop.
+RESEARCHER	m	Whatever that means.
+MARY	f	And Archimedes, there's another one. He was into math, philosophy, all kinds of stuff, then one day he was working out an equation in the sand and somebody stabbed him. Crappy, I know.
+HARTMAN	m	Steve, tell us about Mary, your fiance struggling for her life at the bottom of the abandoned mine as we speak. Steve glares at him. Hartman motions for him to go on.
+STEVE	m	Mary... she's smart, incredibly smart. She talks a lot. Never boring, I'll tell you that much. He thinks about her, gets lost in it.
+STEVE	m	Mary Horowitz doesn't pretend to be anything she's not. She's passionate, beautiful, real... and she definitely doesn't deserve to be where she is now.
+HOWARD	m	They don't even know her.
+MARY	f	Happenstance, I love that word too. And you know what else - Mary coughs. Before she has a chance to catch her breath, a rope with a small bag attached quickly drops next to her, the bag hitting the floor. Mary unties the bag and looks inside to find water and sandwiches.
+MARY	f	No dessert. Crappy. Did you know that the word dessert comes from an old French word that means "clear the table"? Sometimes I feel like dinner is just doing time so I can get to the point, and of course the point always involves sugar. Who needs - The Little Deaf Girl covers her ears, vocalizes as much as she's able.
+MARY	f	I know. She sits down.
+MARY	f	I know. She notices the Little Girl's shoes are soaked. Mary moves next to her, takes off her rubber boots and puts them on the Little Girl. Mary puts an arm around her, holds her close at - softly, her side, then speaks like she's a different person to herself, the Little Girl unable to read her lips.
+MARY	f	I'm not good at... silence. "Mary doesn't do quiet", that's how my grandmother always said it. "What's that hush?" she'd holler at a party. "It's Mary about to talk", then she'd laugh and laugh and laugh. Everybody would... But I knew something they didn't - that if you keep talking, if you keep on talking, you don't hear people telling you that you're different. You don't hear people saying they don't like you. And if you're talking, you just might not hear it when some kid... calls you a freak. Mary's eyes start to well.
+MARY	f	I just wanted to be normal, that's all. Steve said I was. She thinks about it, laughs a bit.
+MARY	f	I'm beginning to think newsmen can't entirely be trusted. She buttons up the Little Girl's sweater.
+MARY	f	The truth is normal is -- not me. She seems surprised she said it out loud. There's relief in it.
+MARY	f	My friends, the people I've met over the past week, they're not normal either. They're more interesting, more original, more real, more rare. She suddenly gets it, brightens up.
+MARY	f	That's where I fit. - and for She thinks about it, in silence. The sadness fades the first time, she's comfortably quiet. She smiles at the Little Deaf Girl. The Little Deaf Girl smiles back. And they sit -- Mary totally calm. Mary hears something in the distance - a gentle PLINK PLINK PLINK she couldn't have heard while talking. She picks up the flashlight, moves toward the noise. In a corner of the mine, a water drip hits on some old rusted mining tools, including two rusty vice grips. The Little Girl coughs. Mary looks back at her, concerned.
+MARY	f	Little Deaf Girl, it's time for us to go home.
+ELIZABETH	f	What's taking so long?
+HARTMAN	m	They've lowered food and water into the depths of this abandoned mine. The last task of this archaic crane that finally blew its motor. We've been told the new rescue equipment won't make it until daybreak. Until then, all we can do is wait, hope, and of course pray. There's a commotion at the rescue site. Doug zooms in.
+MARY	f	After I got kicked out of Girl Scouts, while the other girls were learning how to sell cookies, I was at home reading the biography of Sir Edmund Hillary. Mary motions for the Little Deaf Girl to jump on piggyback. She jumps up onto Mary's back, still in the red rubber boots. Mary starts jugging up the rope, the vice grips and rope pieces acting like ladder steps. They start rising up slowly. Not an easy task. Mary struggles every step.
+NORM	m	Good for her. Good for her.
+HARTMAN	m	First interview is ours. Here comes our girl. Steve, you ready? Grab her arid kiss her then let me start with the questions. Doug focuses in on Steve. Hartman holds the crowd back so Mary can get to him. Mary runs toward them -- and keeps on running, right past Steve's open arms. She heads for her friends at the fence - Howard, Elizabeth, Carlos, George, Lydia, all of the other Protestors. She swan dives right into them. They catch her.
+HOWARD	m	You're okay.
+MARY	f	I am. Cameras go off all around them.
+MARY	f	In solving the puzzle of life there's one thing you must do. She points to the side of the road. The bus pulls over.
+MARY	f	Find somebody just as normal as you. Mary stands up, gets off the bus.
+MARY	f	if not a whole bunch. Howard, Elizabeth, George, Lydia, Carlos, Clyde, a few old Ladies, a bunch of other Protestors file off the bus. Mary keeps talking to the bus driver.
+MARY	f	And don't be a slave to your loins. Trust me on that one. Mary taps the side of her head.
+MARY	f	You need to let this be the boss of you. Cornprende ?
+HOWARD	m	That bus driver looked like Francis Galton. Did you see that?
+MARY	f	He's my favorite behavioral geneticist in the world. They continue on through an open yard.
+HOWARD	m	In retrospect, and I say this with some hesitation because I don't like to have actual regrets so I'll just say I'm beginning to perpend -
+MARY	f	Good one.
+HOWARD	m	I'm beginning to perpend whether or not eating three bags of caramel corn for lunch was the smartest thing to do. Honestly I'm this close to spewing... Mary reaches the end of the path and stops, waits for everybody else to catch up. They're in complete awe of the monstrous Georgian estate before them.
+MARY	f	My grandma left it to me. My parents won't stay here. And for me it was always too... quiet. She looks at her new friends.
+MARY	f	Not anymore. They head toward the house.
+

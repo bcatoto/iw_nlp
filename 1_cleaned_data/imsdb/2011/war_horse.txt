@@ -1,0 +1,712 @@
+FARMER	m	Come on, easy, girl. Easy, girl. Easy.
+FARMER 2	m	This is a stubborn one, huh?
+FARMER 3	m	There we go. Who's a clever girl?
+FARMER 2	m	Easy does it. Easy does it. Come on, steady does it.
+AUCTION MAN 1	m	Mornin', pop. Put your mark here. Good luck.
+AUCTION MAN 2	m	Get the colt...
+AUCTION MAN 3	m	Whoa! Whoa!
+DAD	m	Now that's a beauty.
+SI EASTON	m	Forget it, Ted. He's half thoroughbred and not got a day's work in him. (points to a plow horse next to
+JOEY)	?	Now, there... There's your ticket.
+DAD	m	But look at him, Si. Look at that creature.
+SI EASTON	m	Don't be daft. You need something solid to plow a field.
+DAD	m	(fixed on Joey) Yeah, but he's something else, that one.
+AUCTIONEER	?	Alright gentlemen - settle down - settle down - horses on my right - men with money in their pockets on my left - it's the perfect combination. Is Fred Goddard here?
+FRED	m	YES! I's here.
+AUCTIONEER	?	Good - more money than sense. Dave Hill?
+DAVE	m	I'm here. Yes!
+AUCTIONEER	?	Bugger off, you tight bastard - you've been coming here for 20 years - never bought so much as a pork scratching.
+AUCTIONEER	?	Okay - first up today - a gorgeous young horse - prettiest thing I've seen since my wife on our wedding day. Let's get going, shall we? Who wants this wonderful creature.
+DAD	m	One guinea.
+AUCTIONEER	?	One guinea, one guinea, one guinea...
+AUCTIONEER	?	Any advance on one guinea? Any advance on one guinea?
+LYONS	m	Two guineas.
+DAD	m	Three!
+SI EASTON	m	Ted Narracott - it's completely the wrong animal.
+DAD	m	Si Easton - I'm not gonna let that bastard see me off.
+LYONS	m	Five guineas.
+DAD	m	Six!
+SI EASTON	m	Oh for the love of...!
+LYONS	m	Seven.
+DAD	m	Greedy sod thinks he can just buy anybody.
+SI EASTON	m	Stop it - he's your landlord - you can't be picking fights with him.
+LYONS	m	Ten guineas.
+SI EASTON	m	You haven't got the money. Let's go home - let's have a pint.
+DAD	m	Eleven guineas, sir, from as good a man as any in this town.
+AUCTIONEER	?	Do I hear twelve guineas? Twelve guineas?
+SI EASTON	m	That's top price for a workin' animal. Ted! Save it for the shire!
+DAD	m	There are big days and there are small days. Which will it be?
+AUCTIONEER	?	Do I hear any advance on eleven guineas?
+DAVID LYONS	m	Just let him go, dad, I don't care for him, he's too... jumpy.
+LYONS	m	Shall we say - twenty five?
+SI EASTON	m	Well, he's got you there. Nice try, Ted.
+ANDREW	m	You were great, Mr N. Gave him a run for his money.
+AUCTIONEER	?	Going, going...
+DAD	m	Thirty. Thirty guineas!
+AUCTIONEER	?	Thirty guineas. Thirty guineas. Going going gone - to Mister Ted Narracott.
+SI EASTON	m	What have you done, Ted? What have you done?
+LYONS	m	Quite a beast, there. But what you gonna do with him - on a working farm? I hope you got the rent, Ted. I'll be around for it when it comes due.
+SI EASTON	m	You're a fool, Ted. And our Rosie'll never forgive you.
+ALBERT	m	That's Mooney's colt!
+ALBERT	m	You bought him?
+DAD	m	I won't tell you a lie - though I would love to. Thirty guineas.
+DAD	m	He's a strong one, Rosie. Look at the way he holds his head!
+ALBERT	m	No.
+ALBERT	m	No. No, please don't take him back.
+DAD	m	We can't take him back till he's broken in.
+ALBERT	m	I'll train him.
+ALBERT	m	Please, Mum. Please let me. I can do it.
+DAD	m	We have to keep him. We've no choice.
+DAD	m	It was Lyons.
+ALBIE	m	Don't worry, Mum - I'll raise him - and I'll raise him good.
+ALBERT	m	Right. Let's make a start then.
+ALBERT	m	It's oats. Very tasty, that is. It's beef and gravy to us!
+ALBERT	m	Come on...
+ALBERT	m	I bet you're missing your mother. Look at you... first time without your mum. First time away from home. But you're not alone, are you. In fact. Cos I'm `ere...
+ALBERT	m	It's alright. It's alright.
+ALBERT	m	I'm gonna call you Joey. Understand? Joey. That's you. And I'm Albert. It's alright, You're mine now. You're mine.
+ALBERT	m	Whoa. I want you to stay there, Joey. Stay. That's it. Good boy. That's it, you've got it.
+ANDREW	m	Hey, look at him, Albie. He's playing "Grandma's Footsteps."
+ALBERT	m	Right, come on, Joey. Back you go. Come on. Back you go.
+ALBERT	m	You're all right. That's it. Good boy. Right. You've gotta stay there, understand?
+ALBERT	m	That's it. Good boy. You've got it. Good boy.
+ANDREW	m	Good boy. Good. Now call him. Whistle.
+ALBERT	m	Come now, Joey. Come on.
+ALBERT	m	You can come now, Joey.
+ANDREW	m	Don't think he fancies your owls.
+ALBERT	m	No, I read it in a story. It's how the Indians used to summon their horses.
+ALBERT	m	Now, Joey, when I whistle, you've gotta come, understand?
+ANDREW	m	My dad had a dog who stayed when you called him. He used to run up behind you when you weren't looking, and uh...
+ALBERT	m	He's not a dog. He's just puzzling it through.
+ANDREW	m	Brilliant. Look at you.
+LYONS	m	There's only fifteen here.
+DAD	m	The rest will come.
+LYONS	m	You know by rights I could take this farm back today, don't you? And I'm a great believer in my rights.
+DAD	m	It will come.
+LYONS	m	If you drank less beer and bought fewer horses you might be able to look your landlord in the eye, Narracott.
+DAD	m	I said I'll pay you. We got to plant the bottom field.
+LYONS	m	Bottom field's rock hard. Only stones down there.
+DAD	m	No, we're going to plow it. Just give me `til the autumn. I'll pay every penny I owe you. With interest.
+LYONS	m	How you going to plow it? Not with that fancy animal of yours?
+DAD	m	He'll do it.
+LYONS	m	You'll not get that one in a harness, let alone pulling a plow. Even drunk on a Tuesday night, you know that. And I can't wait for the money - there's a war coming.
+DAD	m	I promise you that field will be plowed. We'll plant it with turnips. And the money will be yours when harvest comes.
+LYONS	m	Very well - if that fancy plows that field I'll give you till October to set things straight.
+ALBERT	m	What if he doesn't?
+LYONS	m	I'll take the horse on the day he fails.LYONS And I'll take your father's farm and give it to working men who can hold their pints and hold their heads high in decent company.
+ALBERT	m	No, please. Sir, you can't do that.
+LYONS	m	Now, now, now, lad. What - are you bladdered as well?! Ted Narracott - I got you down in my book!
+ALBERT	m	You can't harness him.
+DAD	m	He's got to be collared.
+ALBERT	m	No, you can't. Look, you're scaring him, Dad. You're scaring him. He... He can't take a plow!
+DAD	m	He's got to plow!
+ALBERT	m	He won't be able to do it - he's too young - he's not even been backed yet....
+ALBERT	m	It's alright, boy. It's alright. It's alright. It's alright.
+DAD	m	He's worth nothing to me! If he won't take the collar, he's not worth a damn thing!
+ALBERT	m	Dad?
+DAD	m	Move aside.
+ALBERT	m	Dad. Stop.
+ALBERT	m	You were right what you said, Dad. "He'll do it," you told Lyons, "He'll plow that field." And he will! You'll see. He'll show you. We'll show you. We'll get it done.
+MUM	f	Let go. Let go.
+MUM	f	Go back to the house.
+ALBERT	m	How are you today, Joey? I don't know much about life, boy, but I do know that there are big days and there are small days. And most days are small days, and, well, they don't matter much to anyone - but this - well, this is a big one. This is our big day. Well, it's cold out there. So I'm going to take this off - (he takes off his coat) Well, if it's tough for you - it should be tough for me, too...
+ALBERT	m	Now, I'm gonna teach you how to plow and you're gonna learn. Is that understood? And then we can be together, which is how I believe things are meant to be.
+ALBERT	m	Boy. Steady, boy. Here we go. Here we go.
+ALBERT	m	Easy, easy... Look at me, Joey. See? See? You've just gotta put your nose through.
+ALBERT	m	That's it. See? You've got it. You've got it. Good boy. There...
+SI EASTON	m	Too large, too rocky, matted with grass roots. Even a sturdy plow horse'd never manage it alone.
+ANDREW	m	Yet he will, I say.
+SI EASTON	m	You'd swear he'd sprout wings and fly if Albert had told you so. (smiling at his son:) It's a fine thing, loyal to your mate. Even if he is a bit barmy. A team of two might manage, given a month and good weather.
+LYONS	m	Ted too squeamish to watch, is he?
+SI EASTON	m	`Course he's watching.
+LYONS	m	Well, you've raised him up a true Narracott, Ted, picture of his father, he is: not a dollop of ordinary sense but that thick stubbornness that'll lead him to insist on the impossible.
+LYONS	m	Wasn't a farmer in Devon didn't admire you, myself among `em, leaving your brothers that fine farm and setting yourself at this stoney patch of unpromising ground. You've fettle enough for twenty men, but with a gimpy leg and the drinking - for the pain, isn't it, that you drink?
+LYONS	m	- yeah, none of us could have anticipated an ending better than this. Makes me question the wisdom of the charity that urged me to rent you this place, not only looking at you, me old pal, but that pretty little wife of yours, thought you were a spark, she did.
+LYONS	m	And now your son's sinking into the selfsame bog that's swallowing you.
+ALBERT	m	See Joey - I got the collar, too!
+ALBERT	m	Come on, boy. Walk on. That's it. Walk on! Walk on, Joey. Come on, boy, walk on.
+LYONS	m	You'd be better off startin' at the top of the hill and goin' down! Gravity's the only friend you're gonna have today, young lad.
+ALBERT	m	Walk on, Joey! Walk on! Come on, Joey, walk on. Walk on, boy.
+ALBERT	m	Walk on. Come on, walk on.
+TED	m	It'll take the whip to move him.
+LYONS	m	Bravo! You've reached the top of the hill! Off you go again, boy! You'll make even better time comin' down!!
+ALBERT	m	Good boy. Good lad. Good lad. Now walk on. Good boy.
+ANDREW	m	Albie, we're all with ya!
+LYONS	m	Look look look! The plow hasn't even cut yet!
+ALBERT	m	Do you know - I believe we can do it, Joey. I knew when I first saw you that you'd be the best of us. That's why he bought you. He knows you've all the courage he never had. I knew when I first saw you that you'd be the one who'd save us.
+ALBERT	m	Whoa. Whoa.
+LYONS	m	You've got no chance, lad. He'll not turn over half an acre. Give it up now. You've done well. You've tried hard. You're more of a man than your father.
+SI EASTON	m	Come on now, Mr. Lyons, that's a bit rough, isn't it?
+LYONS	m	Well, he'll destroy that horse.
+LYONS	m	I'll be over Thursday. Give you a day to close it up.
+NEIGHBOUR	m	Your wool. I'm sorry, Rosie.
+ALBERT	m	Now, boy! You've got to do it, Joey. You don't know, so I'm gonna have to do the knowing for you when the rest of our lives depend on this! So get set to pull - and pull straight! And pull hard!
+ALBERT	m	Now, boy! Go!
+ALBERT	m	Walk on, Joey! Walk on! That's it! Good boy, Joey! Good boy!
+ANDREW	m	Walk on! Walk on! Walk on! Walk on, Joey!
+ANDREW	m	Go around it!!
+ALBERT	m	Whoa, Joey! Whoa, Joey! Joey! Joey, whoa whoa whoa! Joey, stop! You'll break the blade -
+ANDREW	m	Will you look at you?
+LYONS	m	I'd not let a child of mine slip in the mud alongside a plow blade. He could lose a foot!
+ROSIE NARRACOTT	f	You'll likelier lose an eye, Mr. Lyons, if you carry on prating at me how to manage my son! Or my plow, or my horse, or my field, or my farm!
+ANDREW	m	Get it done, Albie! Get it done!
+ROSIE	f	Oh, my pair of fools. My mighty fools.
+ROSIE	f	You're as battered and bloodied as he is.
+ALBERT	m	And where's Dad?
+ROSIE	f	Still in the bottom field.
+ALBERT	m	Stumbling about, I suppose.
+ROSIE	f	It's not the drink, Albert, that makes him stumble -
+ALBERT	m	He drinks, mum.
+ROSIE	f	Well, so might you if you'd been where he's been, seen what he's seen!
+ALBERT	m	Well, he don't talk to me about it.
+ROSIE	f	He don't talk about it because he can't. There aren't words for some things. Come here...
+ROSIE	f	The mice've been at it. Sit down.
+ROSIE	f	And that is the Queen's South Africa Medal. Every man who fought in the Boer War got one of those. But this...
+ROSIE	f	That's the Distinguished Conduct Medal.
+ALBERT	m	Not dad's?
+ROSIE	f	Well it ain't mine, dear. He got that after the fighting at Transvaal. After he'd been hurt, and he'd saved some other lads, and well... I don't know what else, he won't tell me either. But the first day he got home he just... tossed them out. First day he could walk, he threw `em straight in the dustbin, and wouldn't hear a word I said not to.
+ROSIE	f	See, what you done today, you and Joey, you're chuffed up now, and so you should be, my splendid boy. It's good to be proud when you done something good. But what he done, in Africa, whatever it was, he takes no pride in it. Hard as it surely was, and however much pain it's cost him, he refuses to be proud of killing, I suppose.
+ALBERT	m	I'd be proud. If I'd gone off to war. If I'd gone and saved my mates, and -
+ROSIE	f	Well, whether or not you think you'd do the same thing as him... Think how brave he is for refusing to be proud.
+ROSIE	f	Oh, your dad makes mistakes. And he drinks to forget the mistakes that he's made - but he never gave up and he does that for us. And today, you showed the world it's all been worth it.
+ROSIE	f	You keep looking after Joey and he'll always be looking after you.
+ALBERT	m	Sergeant, Seventh Battalion, Imperial Yeomanry. (amazed, to Joey:) You see this, Joey? It's been through an entire war.
+ALBERT	m	I'm not stealing it. I'll give it back to him, someday.
+DAVID	m	Um, I'm the only boy that drives in the village. No one else drives but me.
+YOUNG WOMAN	f	Oh, yeah?
+DAVID	m	That's right and this is my dad's car. You're lucky that you're in it. I'm not normally allowed to drive it `cause it's so -
+YOUNG WOMAN	f	Is he a friend of yours?
+ALBERT	m	Come on, boy, let's show her how to fly!
+ALBERT	m	Well...you're clearly not gonna be a jumper.
+ALBERT	m	We can try planting something else, or we could hire ourselves out to Uncle Bob.
+ALBERT	m	How else we gonna pay Mr. Lyons' rent?
+DAD	m	I used to believe that God gave each man his fair portion of bad luck. I don't feel that any more. I've had more than my share. You'll stop loving me, Rose. And I won't blame you when you do.
+ROSE	f	Well, I might hate you more - but I'll never love you less.
+MOTORBIKE RIDER	m	It's war!
+ALBERT	m	Look smart, Joey lad, it's the Tavistock Fair!
+ALBERT	m	What has he done with him?
+RECRUITING OFFICER	m	Last name first. First name, middle name, last.
+DAD	m	Take my word for it - finest horse in the parish. Goes like a racer, strong, decent, very fine.
+SAM PERKINS	m	No curbs, no splints, good feet and teeth. He's as sound as a bell, sir.
+CAPTAIN NICHOLLS	m	And how much are you charging, sir - for this strong, decent, and very fine animal?!
+DAD	m	Forty.
+CAPTAIN NICHOLLS	m	I'll give you twenty and not a penny more.
+DAD	m	Twenty is no good to me, Captain. Thirty five and he's yours.
+CAPTAIN NICHOLLS	m	I don't even know how he rides.
+DAD	m	Oh, he rides... Splendidly. You'll be astonished. I promise you that. (his heart's in his throat, fighting back
+GRIEF)	?	Finest horse in all of Devon. Finest horse I ever seen.
+CAPTAIN NICHOLLS	m	Thank you.
+ALBERT	m	You can't! You can't, he's mine! I trained him!
+DAD	m	Albert.
+ALBERT	m	You can't have him. He's my horse, sir.
+CAPTAIN NICHOLLS	m	I'm afraid it's too late, lad. I've just paid thirty guineas for him.
+ALBERT	m	Please, I'll get you money. I will, I'll get you money. I'll...I'll work for it! I'll work for it. He won't obey anyone else. He won't be any good in the war, neither. He...he shies at every sound!
+CAPTAIN NICHOLLS	m	I'm sorry.
+ALBERT	m	Well, if Joey's going, I'm going, too. I'm volunteering.
+CAPTAIN NICHOLLS	m	I see. What's your name, lad?
+ALBERT	m	Albert, sir.
+CAPTAIN NICHOLLS	m	And how old are you, Albert?
+ALBERT	m	Nineteen, sir.
+CAPTAIN NICHOLS	m	Is that the truth?
+ALBERT	m	No sir. But, but I look nineteen and I'm bigger than most nineteen-year- olds, sir! And I'm strong, sir! And I...I'm not afraid of anything.
+CAPTAIN NICHOLLS	m	I don't doubt your qualifications, Albert, but the law is very clear about the proper age for soldiering, and your father's done what he had to do. You know that. Thirty guineas isn't nearly enough to purchase a horse as fine as your Joey, I know that. But it's all I've got. Will you lease him to me, Albert, to be my own mount? (he removes his cap,
+EARNEST)	?	I promise you, man to man, that I'll look after him as closely as you've done, I'll respect him and all the care that you've taken with him. And if I can - I'll return him to your care.
+ALBERT	m	It's all right, boy...
+SAM PERKINS	m	All right, turn it in, eh? That's enough. He's a horse, not a dog. Now, on your way. Come on.
+DAD	m	Do you want to lose the farm, Rose?
+ROSIE	f	It's the way you did it.
+DAD	m	But we're at war.
+ROSIE	f	Aren't we just.
+ALBERT	m	Joey...
+SAM PERKINS	m	Here now, I've told you - sling your hook!
+CAPTAIN NICHOLLS	m	Let him be, Perkins.
+ALBERT	m	This isn't the end. This isn't the end, my brother... I, Albert Narracott, solemnly swear we will be together again. Wherever you are, I will find you. And I will bring you home!
+SAM PERKINS	m	Whoa. Steady, steady. Steady now, come on. Walk on! Walk on now, come on!
+GROOM	m	Whoa whoa whoa. Easy easy...
+SAM PERKINS	m	Whoa whoa whoa, Joey! Stop muckin' about, you hear? Yer in the army now, son.
+CAPTAIN NICHOLLS	m	Gently, Perkins. I don't want to sour him.
+SAM PERKINS	m	There'll be nothing gentle about the war, sir. And there'll be nothing gentle about this one either!
+CHARLIE WAVERLY	m	Scares the living daylights out of me.
+CAPTAIN NICHOLLS	m	Who?
+CHARLIE WAVERLY	m	Perkins. Glad he's on our side.
+MAJOR STEWART	m	Not bad. Not bad at all. Still not a patch on my Topthorn.
+CAPTAIN NICHOLLS	m	I wouldn't be so sure. I think he's got potential. He's certainly got the bit between his teeth.
+CHARLIE WAVERLY	m	I actually think my Blenheim is faster than the pair of them.
+MAJOR STEWART	m	Clear off!
+SAM PERKINS	m	Yes, sir!
+MAJOR STEWART	m	No excuses, no mistakes - every horse groomed and fit for presentation! I want a full practice charge tomorrow.
+SAM PERKINS	m	Sir.
+MAJOR STEWART	m	Thought you two had bottled out.
+CHARLIE WAVERLY	m	As if.
+MAJOR STEWART	m	All right, then, let's see what you two jokers are made of, shall we?
+CAPTAIN NICHOLLS	m	This is what quiet confidence looks like.
+CHARLIE WAVERLY	m	I'll wait for you two at the Duke of York.
+MAJOR STEWART	m	Over to you, Captain Nicholls.
+CAPTAIN NICHOLLS	m	Draw...swords!
+MAJOR STEWART	m	Whoa. Whoa.
+CAPTAIN NICHOLLS	m	Nice of you to turn up.
+MAJOR STEWART	m	He's got speed...I'll give him that. But has he got stamina?
+CAPTAIN NICHOLLS	m	He has everything.
+MAJOR STEWART	m	What are you up to?
+CAPTAIN NICHOLLS	m	I'm writing a letter.
+MAJOR STEWART	m	With a picture in it?
+CAPTAIN NICHOLLS	m	It's to the boy who owned Joey. I want to show him how wonderful he's looking.
+MAJOR STEWART	m	Before we take him away across the Channel to face a million Germans guns.
+CAPTAIN NICHOLLS	m	Yes. Before that...
+MAJOR STEWART	m	4 a.m. start tomorrow - travelling with the Dragoon Guards and the Royals. Transport detachment - they'll need to be at the docks at 5 am. Check all kit. Battle orders: no polishing - buttons, helmet buckles, stirrup irons - let `em all go dull. I want nothing to flash in the sun and give us away.
+CAPTAIN NICHOLLS	m	Of course.
+MAJOR STEWART	m	Charlie...
+CHARLIE WAVERLY	m	Jamie.
+CAPTAIN NICHOLLS	m	Charlie.
+CHARLIE WAVERLY	m	What do you think of the cap?
+CAPTAIN NICHOLLS	m	I'm not sure it's going to make a lot of difference to the Germans.
+CHARLIE WAVERLY	m	Oh, I don't know about that. Think about it - you're a Boche, just working out which of two chaps to shoot - and you thought - "Good Lord - one of them really is wearing a very stylish cap indeed!" You might shoot the other one instead.
+CAPTAIN NICHOLLS	m	Or, alternatively, think - "I fancy that cap" and kill you first of all.
+CHARLIE WAVERLY	m	Hadn't thought of that.
+MAJOR STEWART	m	Excellent.
+CAPTAIN NICHOLLS	m	Numbers?
+CAPTAIN NICHOLLS	m	Twice our size...
+MAJOR STEWART	m	In regiments of horse and men, the advantage is ours.
+MAJOR STEWART	m	Right. Good. So - today it is. Charlie - tell the men.
+CHARLIE WAVERLY	m	Salisbury formation?
+MAJOR STEWART	m	Salisbury formation. We'll charge through them and secure the ground behind.
+MAJOR STEWART	m	Excellent work, Sergeant Major. Time spent on reconnaissance is rarely wasted.
+CAPTAIN NICHOLLS	m	Thank you, Singh. Jamie!
+MAJOR STEWART	m	Not having scruples, are you, Jim?
+CAPTAIN NICHOLLS	m	No. I understand the surprise is everything. But if it must be done, let's do it quickly.
+CHARLIE WAVERLY	m	Never been better. Literally, never better.
+MAJOR STEWART	m	Prepare to mount! Mount!
+CAPTAIN NICHOLLS	m	Thank you, Standley. Hey, Joey. My bonny boy. You're all right, aren't you, Joey? Hey?
+MAJOR STEWART	m	Gentleman. It is an honour to ride beside you. Make the Kaiser rue the day he dared to cross swords with us. Let every man make himself, his King, his country, and his fallen comrades proud! Be brave. Fear God. Honor the King!
+TROOPERS	m	(in unison shout) Fear God. Honor the King!
+MAJOR STEWART	m	Draw swords!
+CAPTAIN NICHOLLS	m	Good luck, my friends.
+MAJOR STEWART	m	Forward, to walk! Walk...march!
+GERMAN SOLDIER	m	Kavallerie!
+CAPTAIN NICHOLLS	m	CHARGE!
+GERMAN OFFICER	m	What? Did you think that a garrison on open ground would go undefended? Look at yourself! Who do you think you are?!!
+GERMAN OFFICER	m	If they're injured, shoot them.
+GERMAN OFFICER	m	The others you round up and take to base camp - they will pull guns.
+THIRD OFFICER	m	You'll never get fancy horses like these to pull guns.
+GERMAN OFFICER	m	Then shoot them also.
+GUNTHER	m	Sir - perhaps we could use some of them with the ambulances - to get the injured men off the field.
+GERMAN OFFICER	m	Will they take the harness?
+GUNTHER	m	I'd like to try, sir.
+MICHAEL	m	It won't work - they're cavalry
+GUNTHER	m	Let's try.
+MICHAEL	m	You won't get the harness on.
+GUNTHER	m	Come on, Michael.
+GUNTHER	m	Whoa, whoa. Easy, now, easy now, Englishman... Whoa, whoa, whoa. Easy now, easy.
+MICHAEL	m	Gunther! It's hopeless - we can't help them.
+GUNTHER	m	Well, well, look at you. Whoever taught you this has just saved your life.
+SI EASTON	m	Hello the farm!
+ROSIE	f	(looking up, wiping her
+BROW)	?	Hello, Si Easton!
+SI EASTON	m	I was at the post office and while I was there, Mrs. Allen said a parcel had come for Albert, from the, from the, from over there - and I thought I could go up that way in the morning. And - here it is.
+ALBERT	m	Well, who'd be sending me a parcel over there?
+DAD	m	Well, open it and see.
+ALBERT	m	It's a sketchbook... (gasp of realization) That's Captain Nicholls' sketchbook! See that? That's a picture of Joey!
+ROSIE	f	It's a picture of Joey. Well, I never!
+ALBERT	m	And there's a letter...
+ROSIE	f	Well, go on then, go on.
+ALBERT	m	All right. "Dear Albert Narracott.
+ALBERT	m	Captain Nicholls, who died...Captain Nicholls, who died in action today left you this. Yours, Sergeant Sam Perkins.
+ROSIE	f	You weren't to know it was bad news.
+ALBERT	m	He was riding Joey when he died.
+ROSIE	f	You don't know that he was riding him...
+ALBERT	m	"In action," it says.
+GUNTHER	m	They're pushing through?
+GUNTHER	m	Yes, sir. Perhaps I can keep my brother here with me, he's also very good with horses. Get moving. We leave tonight.
+MICHAEL	m	It's all right, Gunther.
+GUNTHER	m	You are not going. I'll tell them you are only fourteen, that you're a boy.
+MICHAEL	m	Father signed me in. He knew my age -and so do they.
+MICHAEL	m	Mother obviously never taught you how to fold a shirt.
+GUNTHER	m	Of course she did. I just wasn't listening. But you need to listen now! I promised her, I made her a solemn promise, that you would be safe with me. With me, Michael!!
+GUNTHER	m	They'll never make a head count. There are too many of us. You can stay here - slip underneath the bed - until they move out.
+MICHAEL	m	Then what?
+MICHAEL	m	Gunther, it will be fine. And when all the machines break down and they call up the horses, I'll see you at the front. We'll be together again.
+MICHAEL	m	Gunther...
+GUNTHER	m	I'm giving this to you. For luck.
+GUNTHER	m	To keep you safe.
+GERMAN OFFICER	m	Get back in line! Line!
+MICHAEL	m	I'm hungry. Did you bring food?
+GUNTHER	m	I'm sorry.
+MICHAEL	m	Will Father be ashamed?
+GUNTHER	m	He will pretend to be. Maybe at first he will be. But in the end, he will be glad.
+MICHAEL	m	And us? What about us?
+MICHAEL	m	I was ready to go. I was proud to go. (after a beat, in a very
+SMALL VOICE)	m	I wanted to go.
+MICHAEL	m	The food in Italy is good.
+GUNTHER	m	Yes.
+MICHAEL	m	What about the women?
+GUNTHER	m	Not as good as the food.
+MICHAEL	m	Because...they've eaten too much of the food?
+GUNTHER	m	You are too young for war. And you're too young for women!
+MICHAEL	m	I don't feel so young. Not anymore.
+MICHAEL	m	Michael.
+MICHAEL	m	What?
+GUNTHER	m	Go to sleep - we have a big night of riding ahead. Goodnight, Michael.
+MICHAEL	m	Night night, Gunther.
+GERMAN SOLDIER	m	Hei! In die windm�hle!
+GUNTHER	m	Go, go, go...
+MICHAEL	m	Okay.
+GUNTHER	m	Yes, sir.
+GUNTHER	m	A promise.
+EMILIE	f	Grandp�re.
+EMILIE	f	It's closer today.
+GRANDFATHER	m	The wind plays tricks with the noise - it's moving away from us.
+EMILIE	f	I can hear it, Grandp�re, and there is no wind. You shouldn't lie to me.
+GRANDFATHER	m	Here. There is no wind here. But over there - a wind so strong it will lift you off the ground...
+EMILIE	f	You lie about everything. You say you aren't worried but it's clear you are. I know the war is approaching but you say, "Oh, it's just a trick of the wind."
+GRANDFATHER	m	Did I say that?
+EMILIE	f	You started lying when Mama and Papa went away.
+EMILIE	f	They're dead. But you won't say so. Do you think I'll die if you tell me the truth?
+GRANDFATHER	m	The truth is -
+GRANDFATHER	m	- you should speak to your elders with respect.
+EMILIE	f	If you tell me the truth about the war, I will tell you the truth about the big horses I've been keeping in the windmill.
+GRANDFATHER	m	(standing, putting his hands on his hips) Now - who is the one telling lies!
+GRANDFATHER	m	In the windmill?
+EMILIE	f	Yes. They were standing in the windmill waiting for Don Quixote. This is Fran�ois (Joey) and this is Claude (Topthorn).
+GRANDFATHER	m	Yeah.
+EMILIE	f	I named them after two boys who broke my heart last Summer.
+GRANDFATHER	m	They must belong to someone. Horses like this don't just appear from a fairy-tale.
+EMILIE	f	Yes - I know, Grandp�re. They are not unicorns - so I will be fair and wait -- one day.
+GRANDFATHER	m	Emilie... Emilie...
+EMILIE	f	And if no one comes to get them by night-time, then they belong to me.
+GRANDFATHER	m	Emilie. Look at me. You cannot ride.
+EMILIE	f	Mother used to tell me how my bones would give way with the slightest bump or fall.
+GRANDFATHER	m	Yes. That's right. So it is settled?
+GRANDFATHER	m	Good girl.
+EMILIE	f	It will only be settled when I decide which one to ride first.
+GRANDFATHER	m	But it's - Over my dead body!
+EMILIE	f	At least I won't have long to wait.
+EMILIE	f	I was in love with a boy called Fran�ois - who had your lovely eyes. Unfortunately he was in love with a girl called Marie, who had your teeth. She fell for a boy called Claude - who broke my heart. And who I intend to marry one day.
+EMILIE	f	Today we learn to jump. Did you know the French cleared one meter eighty- five at the Paris Olympics to win the gold medal? Today we will beat that record.
+EMILIE	f	This is your jump. When I call you....be very brave and leap over it.
+EMILIE	f	Leap over it! Watch me.
+EMILIE	f	And now it's your --
+EMILIE	f	He doesn't think we can do it. But we will show him, won't we?
+EMILIE	f	(Her voice shaking) No need to be afraid. (Emilie looking down at how far off the ground
+SHE IS)	f	You are...very tall.
+GRANDFATHER	m	You'll kill yourself.
+EMILIE	f	Only if you get in my way to make me fall.
+GRANDFATHER	m	Oh please, come off the ladd--
+GRANDFATHER	m	Find somewhere to hide them. And do it quickly!!!
+GERMAN OFFICER	m	Halt! Und aussteigen!
+GRANDFATHER	m	My name is Bonnard - this is my land. Why are you here?
+SOLDIERS	m	Food for the soldiers at the front. Everyone must give their share.
+GRANDFATHER	m	They are taking everything. Where are the horses?
+EMILIE	f	What horses?
+GERMAN SOLDIER	m	What is it?
+GRANDFATHER	m	Leave it if you don't know what it's for.
+GERMAN SOLDIER	m	A pot is a pot. We'll find some use for it. Sir, where's the livestock?
+GRANDFATHER	m	I make jam. We have no animals.
+GERMAN SOLDIER	m	But there's fresh hay in your barn.
+EMILIE	f	We use it to replace the mattress stuffings.
+GERMAN SOLDIER	m	Her grandfather?
+GRANDFATHER	m	Yes.
+GERMAN SOLDIER	m	Where are her parents?
+EMILIE	f	They're dead. They died.
+GERMAN SOLDIER	m	What is that?
+GRANDFATHER	m	The wind. It plays tricks in the attic.
+BRANDT	m	There is no wind.
+GRANDFATHER	m	An old house creaks. Go - close the shutters.
+GERMAN SOLDIER	m	She's sickly, no?
+GRANDFATHER	m	If you or any of your friends harm her, as old as I am, I will kill you.
+GERMAN SOLDIER	m	You know, I was going to give you back your pot. But now I'm going to keep it. For soup.
+BRANDT	m	We will be back in the new season.
+EMILIE	f	Tell me what happened to them. To my mother and father.
+EMILIE	f	You said you would tell me how they died. On my birthday. And tomorrow's my birthday! They died fighting, didn't they? But when the soldiers
+EMILIE	f	- you do nothing. You are a coward, aren't you?
+GRANDFATHER	m	Yes. Yes. It was your parents who were brave. I make jams.
+EMILIE	f	And you've never done a brave thing in your life?
+GRANDFATHER	m	Maybe there are different ways to be brave. Did you know the French have the best carrier pigeons? And this could be the difference in the war - our messages getting through.
+EMILIE	f	I don't want to hear about the birds.
+GRANDFATHER	m	They are released at the front and told to go home - this is all they know. But to get there they must fly over a war. Can you imagine such a thing? Here you are flying over so much pain and terror - and you know you can never look down. You have to look forward or you'll never get home. I ask you - what could be braver than that?
+EMILIE	f	What is that?
+GRANDFATHER	m	A present.
+EMILIE	f	I hope you have not bought me a disgusting dress that I then have to wear like last year.
+GRANDFATHER	m	It was disgusting?
+EMILIE	f	Yes. I looked like an ugly nun.
+EMILIE	f	Give me your hand. (she takes it in hers) Grandp�re, we have no money. When the war is over, then you can buy me jewels and carriages.
+GRANDFATHER	m	Anything you say, my sweet one. Anything-you-say! You are, of course, the boss. It's just an old thing I found - don't worry yourself - leave it, I'll put it back.
+GRANDFATHER	m	It was your mother's. I hid it, so as not to encourage you. Emilie, I want you to ride very slowly, very carefully. And promise me you won't go far --
+EMILIE	f	Of course. Okay, I promise.
+GRANDFATHER	m	To the top of the hill and straight back again.
+EMILIE	f	I promise.
+EMILIE	f	My hero.
+GRANDFATHER	m	Slowly...slowly...
+GRANDFATHER	m	Emilie!
+GRANDFATHER	m	Emilie!
+EMILIE	f	No! Let go of me! No!
+GRANDFATHER	m	She is my granddaughter! Emilie, stop! Don't hurt her, please! Don't hurt her.
+EMILIE	f	You don't need them! There are so many others!
+GRANDFATHER	m	Please, take the bigger one and leave the smaller one. You are breaking my granddaughter's heart.
+BRANDT	m	The war has taken everything from everyone.
+GRANDFATHER	m	What will happen to them?
+BRANDT	m	They will pull artillery until they
+EMILIE	f	Fran�ois!
+BRANDT	m	- or until the war is over.
+GRANDFATHER	m	It will never be over!
+BRANDT	m	You have your answer then.
+BRANDT	m	Heiglemann - these are yours.
+FRIEDRICH	m	Yes, sir.
+BRANDT	m	They look strong - should last a month or two.
+FRIEDRICH	m	You are beautiful.
+FRIEDRICH	m	It's a pity they found you.
+FRIEDRICH	m	Such a pity...
+ARTILLERY OFFICER	m	Pull together!
+ARTILLERY SOLDIER	m	Halt! Halt! Stop!
+FRIEDRICH	m	Stop! Stop!
+BRANDT	m	Heiglemann, bring up another one!
+ARTILLERY OFFICER	m	Heiglemann, bring up another horse!
+BRANDT	m	That one!
+BRANDT	m	No, no. The big black one!
+FRIEDRICH	m	He's a good horse, sir. But if you move him up to the heavy gun, he will be no use at all. Prince is already losing condition. His leg, sir.
+BRANDT	m	You have given them names?
+FRIEDRICH	m	Yes, sir.
+BRANDT	m	You should never give a name to anything you are certain to lose.
+FRIEDRICH	m	His leg is not good enough, sir.
+BRANDT	m	Private, you will do as you are told. Hook him up.
+FRIEDRICH	m	As you see, sir, this one is stronger.
+BRANDT	m	Hook him up.
+OFFICER	m	Halt! Halt! Take the horses away!
+ARTILLERY OFFICER	m	Shell!
+SERGEANT MARTIN	m	Valuables in the bucket, lads. If you live, you'll get them back. If you live, you'll get them back. Good lads.
+ANDREW	m	Maybe it's a drill, Albie. Maybe it's a drill like last time.
+DAVID	m	Love letter?
+ALBERT	m	That's my business.
+DAVID	m	I hear you and your mate were doing bird imitations again. You gonna write a letter to your horse?
+DAVID	m	After you find your horse, I've lost my needle in a haystack, and I could use some help.
+DAVID	m	Anything valuable. Anyone who comes back gets to share it out.
+ALBERT	m	Stay here.
+ALBERT	m	Remember that day me and Joey raced you in your car?
+DAVID	m	I remember you somersaulting through the air.
+ALBERT	m	Who was that girl you were with?
+DAVID	m	There was a girl?
+ALBERT	m	There was. Don't you remember?
+DAVID	m	It was just some girl, I suppose. I don't recall which one. I do remember you falling on your bum in a ditch.
+DAVID	m	You see? Always entertaining, Narracott, I'll give you that.
+ANDREW	m	You did that? You fell on your bum?
+SERGEANT MARTIN	m	Be ready! Be ready! Let's go, men, get ready to go! Get ready to move out! Stay in position!
+DAVID	m	Hold your nerve, boys. Remember, it's not far to go. There's a way through. (he moves down the line) Run fast, keep your wits about you, keep your eyes open and God and the King will keep an eye on you. Company will fix bayonets! Fix bayonets!
+ALBERT	m	You know what it reminds me of out there?
+ANDREW	m	What?
+ALBERT	m	That bloody impossible lower field the day me and Joey plowed it. Best day of my life that was and you were there.
+ANDREW	m	And this here is the worst day of my life, about to begin, and you're here cheering me on. Us two, always. And him.
+DAVID	m	Once you're in no man's land, go to the flanks. Stay on the flanks.
+SOLDIER	m	Yes, sir.
+DAVID	m	Come on, boys, come on. To the ladder!
+ALBERT	m	Stick close to the gentry, that's our ticket, yeah? We have the pluck but they have the luck.
+DAVID	m	You, too, Narracott. And you, too.
+DAVID	m	Come on, on your ladders, boy. On your ladders. In you go, in you go. That's it.
+SERGEANT MARTIN	m	Listen to your sergeant!
+SOLDIERS	m	Yes, sir!
+SERGEANT	m	Do you understand me? Do you understand what I'm telling you, son? You take this rifle and you shoot them dead. Understand?
+SERGEANT	m	Up there, son. Up your ladder. Up your ladder to your work!
+ALBERT	m	It's good. Andrew, it's good. Andrew! Nobody's retreating today. Andrew! Andrew! Nobody. Is retreating. Today.
+DAVID	m	I'm shot! No!
+DAVID	m	Just leave me. Leave me!
+ALBERT	m	You'll be all right here. You'll be safe. Someone'll come for ya.
+DAVID	m	Albert. Albert, listen...
+ALBERT	m	It's all right. It's all right. We're Devon boys, yeah?
+DAVID	m	Yeah...
+RANDOM SOLDIER	m	Get down!
+ANDREW	m	NO!
+ANDREW	m	Albie.
+ALBERT	m	We made it. We made it.
+ALBERT	m	Andrew, this way out!
+SOLDIER	m	Gas! Gas! Gas!
+ANDREW	m	Albie...
+GERMAN OFFICER	m	Hey, there's no stopping here. Keep them moving.
+FRIEDRICH	m	Sir, there's something wrong. This one needs to rest.
+GERMAN OFFICER	m	There's no rest for them. Move them along. Move them along!
+FRIEDRICH	m	Please, please, please. Stay on your feet. No, please. No no no...
+FRIEDRICH	m	Please please... Stay on your feet.
+FRIEDRICH	m	Come on. Please please...
+GERMAN OFFICER	m	They're coming! Leave it, private!
+FRIEDRICH	m	Go to hell!
+FRIEDRICH	m	Run. Run! Run! Run!
+SOLDIER	m	What the hell is it?
+GEORDIE SOLDIER	m	It looks like a cow.
+SOLDIER	m	What the hell would a cow be doing out there?
+SOLDIER 2	m	That definitely isn't a cow.
+SOLDIER	m	(handing over periscope) Well, what is it?
+SECOND GERMAN	m	It can't be a horse. Nothing alive could be out there.
+THIRD GERMAN	m	It isn't a horse. It isn't a horse.
+SECOND GERMAN	m	Yes - it's a horse.
+THIRD GERMAN	m	It's a horse.
+PETER	m	Yeah, it's a horse.
+BRITISH CAPTAIN	m	Well, bugger me. It's a horse.
+GEORDIE SOLDIER	m	Lads, we should call him.
+BRITISH SOLDIER	m	How do you call a horse?
+PETER	m	He's caught on the wire.
+GEORDIE SOLDIER	m	Oh sod it...
+BRITISH CAPTAIN	m	What do you think you're doing? Get back, do you hear me? Corporal, that's an order! Get back!
+BRITISH SOLDIER	m	Listen to him, sir. We can't leave him.
+PETER	m	What's he doing?
+SECOND GERMAN	m	It's a trap.
+PETER	m	No, I don't think so. I think he's trying to help.
+THIRD GERMAN	m	Scare him back into his hole.
+GEORDIE	m	It's a white flag, ent it? You see the white flag!? I'm just after tending to this here horse, is all!
+BRITISH CAPTAIN	m	Get back, you stupid git!
+GEORDIE	m	The Lord is my shepherd, I shall not want, he leadeth me into green pastures, he lay me down beside the still waters...
+GEORDIE	m	Poor beastie. Poor babbie. It's alright. It's alright. Don't buck and wriggle so, you're only shredding yourself.
+GEORDIE	m	You'll blind yourself.
+GEORDIE	m	Bugger me worthless - I didn't think to bring gloves or something to cut
+GEORDIE	m	OW! DAMN! OW!!
+PETER	m	I thought perhaps you might need these.
+PETER	m	For the barbed wire?
+GEORDIE	m	Yeah, yeah I... Ummm, thanks. Cheers. Cheers...
+GEORDIE	m	Thanks.
+PETER	m	That...That's a very long strand. When you cut it, it's going to release this -
+PETER	m	- and this, and this, and they'll coil back rather violently, which I'm afraid will only wound the poor fellow further.
+GEORDIE	m	You speak good English.
+PETER	m	I speak English well. (re: the cutters) May I?
+PETER	m	What if we cut his head free first? So he won't try to stand up and blind himself? And then -
+GEORDIE	m	Pity you didn't bring a second pair. Then I could cut the wire here -
+PETER	m	WE NEED MORE WIRE CUTTERS!
+PETER	m	His blind spot. The cutters won't frighten him. If you could cut here, holding this wire -
+PETER	m	I could -
+GEORDIE	m	Say no more, I'm right behind you.
+GEORDIE	m	And you understand what's happening, do you not, O Best Beloved? That you must lay so very nice and still. There's a lad, you're a remarkable horse, you are, helping us help you. There's a lad. There's a remarkable lad.
+GEORDIE	m	So how's things in yonder trench?
+PETER	m	Delightful. We read, we knit sweaters, and we train our rats to perform circus tricks.
+GEORDIE	m	Well, if ever you need any more rats, we can always send ours over. `Cause we've more than we need, strictly speaking. Besides, they scare off all the pretty girls.
+PETER	m	Our girls aren't afraid of rats.
+GEORDIE	m	Big strapping German girls, eh? Kind what gives robust massages?
+PETER	m	Every Thursday! And they bring rum cake on your birthday.
+GEORDIE	m	Look at that horse! Look at the muscles he's got, them long legs. They're made for running, horses. Runnin' away from danger.
+PETER	m	Running away is all they have.
+GEORDIE	m	Yet we taught `em opposite. Running into the fray.
+PETER	m	War horse.
+GEORDIE	m	Yeah. War horse. And there he is. What a strange beast you've become.
+PETER	m	And now?
+GEORDIE	m	I take him back with me, yeah?
+PETER	m	Since I supplied the cutters, the horse is mine. This is fair, no?
+GEORDIE	m	In a pig's eye. He's English, plain to see.
+PETER	m	Oh, you mean because he's so filthy?
+GEORDIE	m	Because he's so smart. And you're none too clean yourself.
+PETER	m	We could box. And the winner gets the horse.
+GEORDIE	m	No, thanks, pet. Must be careful not to start a war. (patting his pockets:) Do you have a coin of any sort?
+PETER	m	Coin toss?
+GEORDIE	m	Yeah.
+GEORDIE	m	All right, Fritz - you're on.
+PETER	m	My name is not Fritz - it is Peter.
+GEORDIE	m	Peter - I'm Colin.
+PETER	m	You call it, Colin.
+GEORDIE	m	Heads.
+PETER	m	That's the face of my Kaiser and he does not look pleased with me. The horse is yours.
+GEORDIE	m	Gone quiet, hasn't it?
+PETER	m	Yes.PETER But wait half an hour and we'll be shooting again.
+GEORDIE	m	I'm a terrible shot, Pete, don't believe I'll ever hit the target.
+PETER	m	Thanks.
+PETER	m	Cheerio, mate. You'll take good care of him, yes?
+GEORDIE	m	I will.
+PETER	m	Our strange beast.
+GEORDIE	m	And you take care of your own strange self.
+PETER	m	Colin! A pair of German cutters - in memory of your handsome friend from Dusseldorf.
+GEORDIE	m	Thanks.
+GEORDIE	m	I'll use `em back in the garden in South Shields. You keep your head down, now, Pete me lad!
+PETER	m	Remarkable! A remarkable horse!
+SERGEANT MARTIN	m	We're full up. Move on.
+DAVID	m	The gas got him - we had to wait till morning.
+MEDICAL OFFICER	m	This can't be all of us.
+SERGEANT MARTIN	m	This is all. (bellowing to the men) All walking wounded, away to the dressing station! Away to the dressing station!
+DOCTOR	m	What's this doing here?
+GEORDIE	m	We need a vet, sir.
+DOCTOR	m	There are no vets. We've scarcely any horses left.
+GEORDIE	m	He's cut all over, but this leg here's got the worst of it.
+DOCTOR	m	It's probably tetanus. It's no good.
+GEORDIE	m	Please, sir -
+DOCTOR	m	I've all these men to take care of, corporal, you can see that, can't you?
+GEORDIE	m	Please, sir, this horse can pull through anything.
+ALBERT	m	What is it?
+AN ORDERLY	m	It's a horse they found, wandering about in No Man's Land. (easing him back onto a
+COT)	?	Down you go.
+ALBERT	m	What kind of an horse?
+AN ORDERLY	m	Bloody miraculous kind of an horse, be my guess. Nothing makes it out of No Man's Land.
+ALBERT	m	Miraculous horse...
+GEORDIE	m	(to the doctor:) He was alive, y'see, sir, where nothing survives, so to me and me mates, to the men, sir, he's - Well, we have high hopes for him -
+DOCTOR	m	You should shoot him now.
+GEORDIE	m	Oh, but I can't.
+DOCTOR	m	It'd be a mercy, lad, that leg's not going to mend.
+DOCTOR	m	Sergeant. Put him out of his misery.
+SERGEANT FRY	m	Ladies, if you please.
+SOLDIER	m	Go on. Do it again.
+ALBERT	m	Joey?
+ALBERT	m	Hello, Joey. Hello boy. Where you been then, hey? Where in the world you been?
+DOCTOR	m	(to the Geordie:) Do you know this man?
+DOCTOR	m	What's your name?
+ALBERT	m	Narracott, Private Albert Narracott, sir.
+DOCTOR	m	This is a random horse, Narracott, and too badly injured. (to the orderly) Is this man in your care?
+AN ORDERLY	m	Yes, sir.
+ALBERT	m	He's not random at all, sir! He's my horse, I raised him, in Devon. Sir, look at his legs! He's got four white socks, he's brown all over - (points to his own
+FOREHEAD)	?	- and he has a white mark here - like so...
+DOCTOR	m	Take him back.
+AN ORDERLY	m	Come on, son.
+GEORDIE	m	Wait! You can't see `cause of the mud.
+GEORDIE	m	Four white socks!
+SERGEANT FRY	m	All right, break it up. Clear off, the lot of ya.
+ALBERT	m	You see, sir? He's not random at all.
+DOCTOR	m	We will attend to your horse. Patch him up best we can. Treat him like the soldier he is.
+ALBERT	m	Thank you, sir.
+SERGEANT FRY	m	Gentlemen! Gentlemen! It falls on me to give you some important news. At eleven o'clock today, in two minutes time - the War will come to an end.
+ALBERT	m	I don't understand, sir.
+MAJOR TOMPKINS	m	Officers' horses only. All other horses are to be auctioned immediately.
+SERGEANT FRY	m	That is a complete and bloody outrage. It's the lad's horse, sir, from Devon. He raised him up from a pup, he did. Trained him right up to the day when the army came to town.
+MAJOR TOMPKINS	m	These aren't my orders, sergeant. You'll have to take him to market. That's all.
+GEORDIE	m	We've all clubbed together. It's everything we have. There's twenty-nine pounds there. Buy him back.
+ALBERT	m	Does the Major know?
+GEORDIE	m	The Major put in ten.
+GEORDIE	m	Mum's the word where the Major's concerned. Your friend on the crutches over there -
+GEORDIE	m	- even asked the Major to say that Joey was his, an officer's horse, so that he could go back with the others.
+SERGEANT FRY	m	Come on, Narracott! Get a move on. We don't want to miss the show.
+AUCTIONEER	?	Seven pounds! Seven pounds there! Seven pounds! Eight pounds here!
+AUCTIONEER	?	Eight pounds! Ten pounds here! Any advance? Sold!
+GEORDIE	m	You're alright. Nobody's gonna bid more than fifteen for a thoroughbred. They want work horses.
+AUCTIONEER	?	Next one. We start at four pounds. Four pounds.
+THE BUTCHER	m	Eleven.
+SERGEANT FRY	m	It's the butcher from Cambrai. He's been bidding for the best all morning.
+AUCTIONEER	?	Eleven. Eleven pounds. Eleven pounds.
+SERGEANT FRY	m	Let me handle this, private. (he calls out) ) Fifteen, and let that be an end to it.
+AUCTIONEER	?	Fifteen pounds.
+BUTCHER	m	Sixteen.
+AUCTIONEER	?	Sixteen pounds.
+SERGEANT FRY	m	Seventeen.
+BUTCHER	m	Twenty of your English pounds. And let THAT be the end of it, my friend.
+AUCTIONEER	?	Twenty pounds.
+SERGEANT FRY	m	Twenty Five.
+AUCTIONEER	?	Twenty five pounds.
+BUTCHER	m	Twenty Six.
+AUCTIONEER	?	Twenty six pounds.
+SERGEANT FRY	m	Twenty seven.
+BUTCHER	m	Twenty eight.
+AUCTIONEER	?	Twenty eight pounds.
+SERGEANT FRY	m	Twenty nine.
+BUTCHER	m	And thirty.
+AUCTIONEER	?	Any advance at thirty pounds?
+FINAL BIDDER	m	One hundred pounds.
+GRANDFATHER	m	And sir, if you bid against me, I will sell the coat on my back and bid to one hundred and ten. And if you bid against me again, I will sell my farm and bid to a thousand.
+AUCTIONEER	?	One hundred pounds. Going, going, gone.
+ALBERT	m	Sir, I'll give you all your money. Everything you paid when we get back to England. I'll give you twice -
+GRANDFATHER	m	You don't know anything about him.
+ALBERT	m	Oh, but you're wrong, sir, I know everything!
+GRANDFATHER	m	Yes, you found him! I heard you found a horse in the wire between the armies -
+GEORDIE	m	No, I found him, he raised him -
+GRANDFATHER	m	When I heard about the miracle horse, I traveled three days because I knew whose horse it was. My granddaughter's. She saved his life! He was everything to her.
+GEORDIE	m	Where is your granddaughter?
+GRANDFATHER	m	The war has taken everything from everyone. He is all that I have left of her.
+ALBERT	m	Don't be worried, boy, when I go. I won't worry over you none. Hey, I found you, didn't I, and you found me.
+ALBERT	m	And we'll both... we'll both know that we made it through. Now go on.
+ALBERT	m	We're the lucky ones. Always have been. Lucky since the day I met you.
+ALBERT	m	God be with you, sir.
+GRANDFATHER	m	Do you know what this is?
+ALBERT	m	It's my father's. It's his regimental pennant. How did you come by this, sir?
+GRANDFATHER	m	You may have this.
+ALBERT	m	Thank you ever so much for this, sir...
+GRANDFATHER	m	(with a sigh) ... And this.
+GRANDFATHER	m	No no, not necessary. He belongs to you. That is, of course, what my little girl would have wanted. And she was the boss.
+ALBERT	m	What was her name?
+GRANDFATHER	m	Emilie. (turns back with a smile) Her name is Emilie.
+

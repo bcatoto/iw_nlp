@@ -1,0 +1,451 @@
+TERMINATOR	m	Nice night for a walk.
+SECOND PUNK	m	Washday tomorrow, huh?  Nothing clean, right?
+TERMINATOR	m	Nothing clean.  Right.
+LEADER	m	This guy's a couple bricks short.
+TERMINATOR	m	Your clothes.  Give them to me.
+TERMINATOR	m	Now.
+SECOND PUNK	m	Fuck you, asshole.
+DERELICT	m	Say, buddy...did you see a real bright light?
+FIRST COP	m	Hold it, right there!
+REESE	m	What day is it?  The date...
+COP	m	Thursday...uh...May twelfth.
+REESE	m	What year?
+SARAH	f	Watch this for me, big buns.
+BREEN	m	Sarah?
+SARAH	f	Yes, Chuck?
+BREEN	m	Come to the office, please.
+SARAH	f	Mission control to Chuck, come in...
+BREEN	m	You're late.
+SARAH	f	Aren't I worth waiting for?
+BREEN	m	Not really.  Do you think you can get here on time if I put you on the floor as a waitress?
+SARAH	f	I don't know.  I kinda had my heart set on being a cashier the rest of my life.
+BREEN	m	The pay's the same but you'll make more in tips.
+SARAH	f	Thanks, Chuck.  I need the money.  Can I still work the hours around my classes?
+BREEN	m	Mmm.  Same schedule's okay.
+SARAH	f	Alright!
+BREEN	m	Can you handle it?
+SARAH	f	It's not brain surgery, Chuck.
+BREEN	m	Here you go.  You're a Bob's Girl now.  Nancy will check you out.
+SARAH	f	I won't let the fat kid down.
+SARAH	f	Hi, I'm Sarah and I'll be you waitress. I'm so wholesome, I could puke.
+TERMINATOR	m	...the Remington 1100 Autoloader...
+CLERK	m	Anything else?
+TERMINATOR	m	A phased plasma pulse-laser in the forty watt range...
+CLERK	m	Just what you see, pal.
+TERMINATOR	m	The Uzi 9 millimeter.
+CLERK	m	You know your weapons, buddy.
+CLERK	m	Any one of them's ideal for home defense. Which'll it be?
+TERMINATOR	m	All.
+CLERK	m	Maybe I'll close early. Cash or charge?
+CLERK	m	Sorry, I can't sell the ammo with the guns.  You'll have to---Hey!
+CLERK	m	You can't to that...
+TERMINATOR	m	Wrong.
+MAN	m	Hey, man...
+CUSTOMER	m	Honey, can I get that coffee now?
+SARAH	f	Yes sir, just a second.
+SARAH	f	Who gets the Burly Burger?
+CUSTOMER TWO	m	I ordered Barbecue Beef.
+CUSTOMER THREE	m	Does mine come with fires?
+CUSTOMER FOUR	m	He's got the Barbecue Beef, I've got a Chili-Beef Deluxe.
+SARAH	f	Okay, who gets the Burly Beef?
+CUSTOMER AT NEXT TABLE	m	Miss, we're ready to order.
+SARAH	f	Oh, sorry.  That's not real leather, is it?
+NANCY	f	Look at it this way: in a hundred years, who's gonna care?
+TERMINATOR	m	Sarah Connor?
+WOMAN	f	No, she's upstairs.  Who shall I say is--
+WOMAN	f	What do you think you're-- My God!
+WOMAN	f	Oh my God...Sarah!
+WRONG SARAH CONNOR	m	What is it, Mom?
+TAKE-OUT CUSTOMER	m	Gimme a falafel with yogurt dressing and, uh, Baco-bits.
+REESE	m	Gimme a falafel with, uh, yogurt and Baco-bits.
+COUNTERMAN	?	That'll be one-sixty.
+COUNTERMAN	?	Hey!  Son-of-a-bitch.
+SARAH	f	I haven't seen you in here lately, Mr. Miller.
+MR. MILLER	m	What's it to ya?
+SARAH	f	You must have a girlfriend.
+MR. MILLER	m	That's none of your business.
+SARAH	f	Aha!  Is she young?
+MR. MILLER	m	Compared to me she is.  How come you're not at the cash anymore?  They catch ya steal- ing?
+SARAH	f	What's it to ya?
+SARAH	f	I'm on break, Chuck.  Carla's got my station.
+NANCY	f	Hurry up.  It's about you... I mean sort of...Come on!
+WAITRESS	?	Hey, Sarah.  This is weird.
+TV ANCHORWOMAN	f	...and a police spokesman at the scene refused to speculate on a motive for the execution- style slaying of the Encino housewife.  He did however say that an accurate description of the suspect has been compiled from several witnesses.  Once again, Sarah Connor, thirty-five, mother of two, brutally shot to death in her home this afternoon.
+NANCY	f	You're dead, honey.
+MARCO	m	Hi. I've seen you around. You're cute.  Cute I remember.
+SARAH	f	I'm Sarah.  Ginger's roommate.
+MARCO	m	Yeah, right.  I'm Marco.
+GINGER	f	...and three aaand four!  And that's it ladies!  Now, didn't that feel good?
+GINGER	f	Let's think positive or next time I'll play the FM version.
+SARAH	f	...yeah, really?  Say some- thing in Italian.
+GINGER	f	You're wasting your time, kiddo. Let's go.
+SARAH	f	I don't believe you did that.
+SARAH	f	I had him hooked.  He was just about to ask me out. I could tell.
+GINGER	f	That guy's a jerk.  I did you a favor.
+SARAH	f	I'll do the same for you sometime.
+GINGER	f	You think somebody's gonna do this for you?  Look at those shriveled bi's.  And you haven't worked lat's or ab's since Wednesday.
+MATT	m	Hello, sweetheart.  Had a rough day?
+GINGER	f	Come here, wimp.
+SARAH	f	Hi, Matt.
+MATT	m	Heeey!  It's my favorite Sarah.  Hi, babe.
+GINGER	f	Alright, warm-ups are over. Back to work, Bunky.
+MATT	m	'Bye beautiful.  You too, Ginger.
+WEIGHTLIFTER	m	Bunky?
+BOY	m	Hey, mister...?
+SISTER	f	See, I told you he wasn't dead.  You owe me Baskin Robbins.
+BOY	m	Come on.  Just come on.
+SARAH	f	Hello?
+VOICE	m	First I'm going to rip the buttons off your blouse, one by one...then run my tongue along your neck, down to your bare, gleaming breasts...
+SARAH	f	Ginger!  It's Matt.
+MATT	m	...and then slowly pull your jeans off inch by inch and lick your belly in circles, further and further down... then I'll pull off your panties with my teeth...
+SARAH	f	Who is this?
+MATT	m	Oh my God!  Sarah!  Oh, shit. Jesus, I'm sorry.  I thought you were...Can I talk to Ginger?
+SARAH	f	Sure, Bunky.
+GINGER	f	Hello?
+MATT	m	First I'm gonna rip the buttons off your blouse...
+SARAH	f	What do you think?
+GINGER	f	Great.
+SARAH	f	How about this?
+GINGER	f	Great.
+SARAH	f	You're a big help.
+GINGER	f	Alright, the beige one.
+SARAH	f	I hate the beige one.
+GINGER	f	Don't wear the beige one.
+SARAH	f	This guy's probably a schmuck and I don't care what I wear.
+SARAH	f	You think the beige?
+VUKOVICH	?	Give me the short version.
+TRAXLER	?	Six shots at less than ten feet.  Weapon was a large caliber--
+VUKOVICH	?	No shit.
+TRAXLER	?	Come on. man.  Don't track it all over.  It's un- professional.
+TRAXLER	?	Okay, let's see...Got a pos- itive on her.  She's Sarah Connor, works as a legal--
+VUKOVICH	?	That can't be right.  That's the name of the one Valley Division mopped up this after- noon.
+TRAXLER	?	Here's her driver's license.
+VUKOVICH	?	You gotta be kidding me.  The new guys'll be short-stroking it over this one.  A one-day pattern killer.
+TRAXLER	?	I hate the weird ones.
+GINGER	f	Better than mortal man deserves.
+SARAH	f	Ginger, have you seen Pugsley?
+GINGER	f	Not lately.  Did you check messages?
+SARAH	f	I thought you did.
+SARAH	f	Come here young man.  Mind your mother.
+GINGER	f	Totally nauseating.
+VOICE	m	Hi, Sarah...Stan Morsky. Uh, something's come up and it looks like I won't be able to make it tonight.  I'm really sorry.  Call you in a day or so. Sorry.  'Bye.
+GINGER	f	That bum.  So what if he has a Porsche, he can't treat you like that...it's Friday night for crissakes.
+SARAH	f	I'll live.
+GINGER	f	I'll break his kneecaps.
+SARAH	f	You still love me, don't you, Pugsley?
+SARAH	f	I'm going to a movie, kiddo. See ya'.  You and Matt have a good time.
+GINGER	f	We will, kiddo.
+REPORTER	m	...Lieutenant, are you aware that these two killings occurred in the same order as their listings in the phone book?
+VUKOVICH	?	No comment.
+TRAXLER	?	That stuff's two hours cold.
+VUKOVICH	?	I know.
+TRAXLER	?	I put a cigarette out in it.
+VUKOVICH	?	Did you reach the next girl yet?
+TRAXLER	?	No.  Keep getting an answer- ing machine.
+VUKOVICH	?	Send a unit.
+TRAXLER	?	I already did.  No answer at the door and the apartment manager's out.  I'm keeping them there.
+VUKOVICH	?	Call her.
+TRAXLER	?	I just called.
+VUKOVICH	?	Call her again.
+VUKOVICH	?	Got a cigarette?
+GINGER'S VOICE	m	Hi there. Ha ha ha, fooled you. You're talking to a machine, but don't by shy, it's okay.  Machines need love too, so talk to it and Ginger, that's me, or Sarah will get back to you.  Wait for the beep.
+TRAXLER	?	Same shit.
+VUKOVICH	?	I can hear it now, it's gonna be the goddamned 'Phone Book Killer'.
+TRAXLER	?	I hate the press cases. Especially the weird press cases.  Where you going?
+VUKOVICH	?	To make a statement. I'm gonna give them the name.  Maybe the jackals can help us out for once.
+VUKOVICH	?	If they can get this on the tube by eleven, she may just call us. How do I look?
+TRAXLER	?	Like shit, boss.
+ANCHORMAN	m	...police had no further comment on the apparent similarity between the shooting death of an Encino woman earlier today...
+ANCHORMAN	m	...and this almost identical killing two hours ago of a Venice resident with virtually the same name.  Sarah Ann Connor, a 24 year old legal secretary, was pronounced dead at the scene in her beachfront apartment...
+CUSTOMER	m	Hey, can we change this and catch the ball scores.
+BARTENDER	m	Sure.
+SARAH	f	Leave it where it is!
+ANCHORMAN	m	...no other connections between the two victims has been estab- lished. On a lighter note, these was cause for celebration at the L.A. Zoo today, as...
+VOICE	m	You have reached the Los Angeles Police Department Emergency Number. All lines are busy.  If you need a police car sent out to you, please stay on the line...
+DISPATCHER	m	...two eleven in progress at Seven-Eleven market, Third and Tamarac.  One suspect believed to be armed...
+GINGER	f	Shoo.  Go on.  I'll make a belt out of you.
+MATT	m	Whoah!
+GINGER'S VOICE	m	Hi there. Ha ha ha, fooled you.  You're talking to a machine...
+GINGER'S VOICE	m	...but don't be shy, it's okay. Machines need love too...
+GINGER'S VOICE	m	...so talk to it and Ginger, that's me, or Sarah will get back to you. Wait for the beep.
+SARAH'S VOICE	f	Ginger, this is Sarah...
+SARAH'S VOICE	f	...I'm in this sleazy bar called Stoker's on Pico but I'm too scared to leave.  I'm really scared, kiddo...
+SARAH	f	The number here is 468-9175. Call me, kiddo.  I need you. It's Stoker's on Pico. Bye.
+SARAH	f	...look, Lieutenant...uh, Vukovich, don't put me on hold and don't transfer me to another department...
+VUKOVICH	?	I won't.  Now just relax. Where are you? Yeah, I know it...on Pico. Are you alright?
+SARAH	f	Yes, but I don't want to leave.  I think this guy's following me.
+VUKOVICH	?	Alright, Ms. Connor.  Listen carefully.  You're in a public place, you'll be safe 'til we get there.  Stay visible. Don't go outside or in the restroom.  I'll be there in a few minutes.
+VUKOVICH	?	Let's roll.
+VUKOVICH	?	Let's see how this guy likes playing hard-ball.
+WAITRESS	?	Anything else?
+COP	m	...I don't know, it looks like it might spread to this furniture warehouse across the alley, the paint on the wall's starting to blister up...
+COP	m	Better get another truck round to this side.
+SARAH	f	This is a mistake.  I haven't done anything.
+REESE	m	No. But you will.  It's very important that you live.
+SARAH	f	I can't believe this is happen- ing.  How could than man get up after you...
+REESE	m	Not a man.  A Terminator. Cyber Dynamics Model 101.
+DISPATCHER	m	...Suspect vehicle sighted on Motor at Pico, southbound. Units Two-Zero-Six and Five- Seven, attempt intercept. Unit One-Four-Three, come in.
+TERMINATOR	m	This is One-Four-Three.  West- bound on Olympic, approaching Overland.
+PILOT	m	Air-unit Two.  We're on him. Westbound Santa Monica at 405.
+SARAH	f	A machine?  You mean, like a robot?
+REESE	m	Not a robot.  Cyborg. Cybernetic Organism.
+SARAH	f	But...he was bleeding.
+REESE	m	Just a second.  Keep your head down.
+PILOT	m	Lost him.
+REESE	m	Good cover. Alright.  Listen. The Terminator's an infil- tration unit.  Part man, part machine.  Underneath, it's a hyperalloy combat chassis, mircoprocessor-controlled, fully  armored. Very tough...
+REESE	m	But outside, it's living human tissue.  Flesh, skin, hair...blood.  Grown for the cyborgs.
+SARAH	f	Look, Reese, I know you want to help, but...
+REESE	m	Pay attention.  The 600 series had rubber skin. We spotted them easy.  But these are new.  They look human.  Sweat, bad breath, everything.  Very hard to spot.  I had to wait 'til he moved on you before I could zero him.
+SARAH	f	Hey, I'm not stupid, y'know. They can't build anything like that yet.
+REESE	m	No.  Not yet.  Not for about forty years.
+SARAH	f	So, it's from the future, is that right?
+REESE	m	One possible future.  Four your point of view.  I don't know the tech stuff.
+SARAH	f	And you're from the future too?
+REESE	m	Right.
+SARAH	f	Right...
+REESE	m	Cyborgs don't feel pain.  I do.  Don't...do that...again.
+SARAH	f	Just let me go.
+REESE	m	Listen.  Understand.  That Terminator is out there.  It can't be reasoned with, it can't be bargained with...it doesn't feel pity of remorse or fear... and it absolutely will not stop. Ever.  Until you are dead.
+SARAH	f	Can you stop it?
+REESE	m	Maybe.  With these weapons... I don't know.
+DISPATCHER	m	Suspect vehicle located at parking lot, Cedar and Glen- haven...
+SARAH	f	Reese...why me?  Why does it want me?
+REESE	m	There's so much...
+SARAH	f	Tell me.  Just start at the beginning.
+REESE	m	There was a war.  A few years from now.  Nuclear war.  The whole thing.  All this--
+REESE	m	--everythingis gone.  Just gone.  There were survivors. Here.  There.  Nobody knew who started it. It was the machines.
+SARAH	f	I don't understand...
+REESE	m	Defense network computer. New. Powerful.  Hooked into everything. Trusted to run it all.  They say it got smart...a new order of intelli- gence.  Then it saw all people as a threat, not just the ones on the other side.  Decided out fate in a microsecond...extermination.
+REESE	m	Didn't see the war.  I was born after, in the ruins.  Grew up there.  Starving.  Hiding from the H-K's.
+SARAH	f	The what?
+REESE	m	Hunter Killers.  Patrol machines. Build in automated factories. Most of us were rounded up, put in camps...for orderly disposal.
+REESE	m	Burned in by laser scan. Some of us were kept alive... to work.  Loading bodies.  The disposal units ran night and day. We were that close to going out forever...
+REESE	m	...but there was one man...who taught us to fight.  To storm the wire of the camps.  To smash those metal mother- fuckers into junk.  He turned it around...he brought us back from the brink. His name is Connor.  John Connor... your son, Sarah.  Your unborn son.
+REESE	m	...it had no choice. The defensive grid was smashed. We'd taken the mainframes... We'd won.  Taking out Connor then would make no difference.  Skynet had to wipe out his entire exist- ence.  We captured the lab complex.  Found the...what- ever it was called...the time-displacement equipment. The Terminator had already gone through.  They sent two of us to intercept, then zeroed the whole place. Sumner didn't make it.
+SILBERMAN	m	Then how are you supposed to get back?
+REESE	m	Can't.  Nobody goes home. Nobody else comes through. It's just him and me.
+REESE	m	...It's just him and me.
+SILBERMAN	m	Why didn't you bring any weapons?  Something more advanced.  Don't you have ray guns?
+SILBERMAN	m	Show me a piece of future technology.
+REESE	m	You go naked.  Something about the field generated by a living organism.  Nothing dead will go.
+SILBERMAN	m	Why?
+REESE	m	I didn't build the fucking thing.
+SILBERMAN	m	Okay.  Okay.  But this... cyborg...if it's metal...
+REESE	m	Surrounded by living tissue.
+SILBERMAN	m	Of course.
+SILBERMAN	m	This is great stuff.  I could make a career out of this guy. You see how clever this part is...how it doesn't require a shred of proof.  Most paranoid delusions are intricate...but this is brilliant.
+SILBERMAN	m	Why were the other two women killed?
+REESE	m	Most official records were lost in the war.  The computer knew almost nothing about Connor's mother.  Her name. Where she lived, just the city. No scanner pictures.  The Terminator was just being systematic.
+REESE	m	You've heard enough.  Decide. Are you going to release me?
+SILBERMAN	m	I'm afraid that's not up to me.
+REESE	m	Then why am I talking to you? Get out.
+SILBERMAN	m	I can help you...
+REESE	m	Who is in authority here?
+REESE	m	You still don't get it. He'll find her.  That's what he does.  All he does...
+REESE	m	You can't stop him. He'll wade through you...
+REESE	m	...reach down her throat, and pull her fucking heart out...
+SILBERMAN	m	Sorry.
+SARAH	f	So Reese is crazy.
+SILBERMAN	m	In technical terminology, he's a loon.
+SARAH	f	But...
+VUKOVICH	?	Sarah, this is body armor. Out TAC guys wear it.  It'll stop a 12 gauge round.  This other individual must've had one under his coat.
+SARAH	f	But what about him punching through the windshield?
+TRAXLER	?	Probably on PCP, broke every bone in his hand and won't feel it for hours.  There was this guy once that...
+VUKOVICH	?	Why don't you just stretch out here and get some sleep.  It'll take your mom a good hour to get here from Redlands.
+SARAH	f	I can't sleep.
+VUKOVICH	?	Go ahead.  You're safe.  There're thirty cops in this building.
+SARAH	f	Okay.
+TRAXLER	?	What? Ed, come on...the guy's a wacko.
+VUKOVICH	?	He'd better be.
+TERMINATOR	m	I'm a friend of Sarah Connor. I was told she is here.  Can I see her, please?
+SERGEANT	m	You can't see here.  She's making a statement.
+TERMINATOR	m	Where is she?
+SERGEANT	m	Look.  It's gonna be a while. You wanna wait.  There's a bench.
+TERMINATOR	m	I'll come back.
+VUKOVICH	?	Stay here.
+TRAXLER	?	Ed!  Ed...?
+REESE	m	Sarah?
+REESE	m	You cold?
+SARAH	f	Freezing.
+REESE	m	Come here.
+SARAH	f	Reese...you got a first name?
+REESE	m	Kyle.
+SARAH	f	Kyle, what's it like when you go through time?
+REESE	m	White light.  Pain.  Like being ripped inside out... slowly.  Like being born, maybe.
+SARAH	f	You're wet.  Oh my god.
+REESE	m	I caught one, back there.
+SARAH	f	Caught one?  You mean you got shot?
+REESE	m	It's not bad.
+SARAH	f	We gotta get you to a doctor.
+REESE	m	It's okay.  Forget it.
+SARAH	f	Forget it?  Are you crazy? Let me see it.
+SARAH	f	Jeez.  You idiot.  Take this off.
+REESE	m	See.  Missed everything. Passed through the meat.
+SARAH	f	This is gonna make me puke. Talk about something.
+REESE	m	What?
+SARAH	f	Just talk.  Tell me about my son.  Is he tall?
+REESE	m	About my height.  He has your-- ...damn...he has your eyes.
+SARAH	f	What's he like?
+REESE	m	You trust him.  He's got that strength.  You'd die in a second for John.
+SARAH	f	Well, at least I know what to name him.  I don't suppose you'd know who the father is? So I don't tell him to get lost when I meet him.
+REESE	m	John never said much about him.  He dies.  Even before the war...
+SARAH	f	Stop!  I don't want to know. Hold still.  So...it was John that ordered you here?
+REESE	m	I volunteered.
+SARAH	f	You volunteered?
+REESE	m	It was an honor.  A chance to meet the legend.  Sarah Connor.  Who taught her son to fight...organize, prepare. From when he was a kid.  When you were in hiding, before the war.
+SARAH	f	You talk about things I haven't done yet in the past tense.  It's making me crazy.  I can't think. Are you sure you've got the right person?
+REESE	m	I'm sure.
+SARAH	f	Come on, me? The mother of the future?  Am I tough? Organized?  I can't even balance my checkbook.  I cry when I see a cat that's been run over... and I don't even like cats.
+REESE	m	Ow!  No, it's okay.  It's better tight.
+SARAH	f	And anyway, what do I know about guerrilla warfare?
+REESE	m	You'll learn.
+SARAH	f	Look, Reese, I didn't ask for this honor and I don't want it. Any of it.
+REESE	m	John gave me a message for you.  Made me memorize it. 'Sarah"...this is the message... 'Sarah, thank you.  For your courage through the dark years. I can't help you with what you must soon face, except to tell you that the future is not set... there is no such thing as Fate, but what we make for ourselves by our own will.  You must be stronger than you imagine you can be.  You must survive, or I will never exist.'  That's all.
+REESE	m	Good field-dressing.
+SARAH	f	You like it?  It's my first.
+REESE	m	Sleep.  It'll be light soon.
+SARAH	f	Okay.  Talk some more.
+REESE	m	About what?
+SARAH	f	About where you're from.
+REESE	m	Alright. You stay down by day, but at night you can move around. The H-K's use infra-red so you still have to watch out. But they're not too bright. John taught us ways to dust them them.  That's when the infiltra- tors started to appear.  The Terminators were the newest, the worst...
+SENTRY	m	Terminator!
+SARAH	f	I was dreaming about dogs.
+REESE	m	We used them to spot Terminators.
+SARAH	f	Your world...it's pretty terrifying.
+SARAH	f	Put that away.  I'll get one.
+SARAH	f	This works...really.
+DRIVER	m	...and when it breaks right off the point they get some pretty rad tubes up there. Not awesome, but I mean, worth the drive, if you're hardcore like me.
+REESE	m	Rad tubes?
+SARAH	f	He's a surfer.
+DRIVER	m	You from back East of something?
+SARAH	f	No, he's from the future.
+DRIVER	m	Whoah.  I hear that. Listen, I had a rough night.  I gotta stop and bag some Z's.
+DRIVER	m	You can still ride if you wanna hang out for a couple hours.
+SARAH	f	Thanks.
+REESE	m	Bag some Z's?
+SARAH	f	Let's get cleaned up, Kyle.
+REESE	m	Yours is over there.
+LITTLE GIRL	f	Can you get my balloon?
+REESE	m	Aren't you afraid to be out in the open like this?
+LITTLE GIRL	f	Huh?
+SARAH	f	...I know, Mom.  This is the soonest I could...I know. Mom...Mom, I can't talk long. No, I'm okay. I was on TV?  Really? Oh no, I hate that picture... why didn't you give them my graduation picture? I'm okay, really.  Listen, I want you to pack some stuff and go up to the cabin for a few days.  Just don't...no, don't ask any questions. Just do it.  I gotta get going...gotta go.  Bye, bye.
+SARAH	f	Thanks a lot.
+REESE	m	What's that?
+SARAH	f	That's where we're going.
+REESE	m	Why?
+SARAH	f	Look.  I found it.  Isn't that it?  Cyber Dynamics Corporation?
+REESE	m	What about it?
+SARAH	f	Didn't you say that they're going to develop this revolutionary new thing...
+REESE	m	Molecular-memory.
+SARAH	f	Whatever...they become the hotshot computer guys so they get the job to build El Computer Grande...Skynet...for the government.  Right?
+REESE	m	That's the way it was told to me.
+SARAH	f	Well, we're gonna uninvent the bastard.  Eighty-six it.  We'll blow up the place...burn it down.  Something.
+REESE	m	Tactically dangerous.  We lay low.
+SARAH	f	Reese.  Think it through. We can prevent the war. Nobody else is gonna do it. If we go to anybody official we wind up back in jail and then that walking cuisinart has got us again.  We have to so it ourselves.
+REESE	m	That's not my mission.
+SARAH	f	Listen.  Understand.  I'm not a military objective, Reese.  I'm a person... You don't own me.
+REESE	m	Let's go.  Time to move out.
+SARAH	f	Fuck you!  Let go of me!
+REESE	m	Sarah!
+SARAH	f	Let...go...bastard...
+SARAH	f	Oh, that's real smart. Go on, shoot me. That's brilliant.
+SARAH	f	Jesus Christ, Reese.  Can't you see I'm scared?
+SARAH	f	I can't spend my life waiting for that thing to catch up with me...always looking over my shoulder, wondering if I left some tiny clue behind...
+SARAH	f	Reese?
+SARAH	f	Kyle?
+REESE	m	I'm wrong here.  I wasn't meant to see this...
+REESE	m	It's...like some dream. This...this...
+REESE	m	...and you...all so...beauti- ful.  It hurts, Sarah.  More than death.
+REESE	m	Don't you understand...it's all gone!
+SARAH	f	We can change it, Kyle.  We have to try.
+SARAH	f	There's no fate but what we make for ourselves. Right? Come on.  Let's go, kiddo. Whaddya say?
+MAN	m	Hey, buddy, you got a dead cat in there of what?
+TERMINATOR	m	Fuck you, asshole.
+REESE	m	Is this enough?
+SARAH	f	Yes.  And I don't want to know where you got it.
+SARAH	f	We need a room...with a kitchen.
+SARAH	f	I'm dying for a shower.  You could use one too.  And we'd better check that bandage.
+REESE	m	Later.  I'm going out for materiel.  Keep this.
+SARAH	f	...No, Mom, I can't tell you where I am.  I was told not to say.
+SARAH'S MOM	f	But honey, I need to know where I can reach you or I'll be worried sick.  It turns out I can't stay up here...the electricity's off...and I don't know just where I'll be.
+SARAH	f	Okay, here's the number.  Are you ready?
+SARAH'S MOM	f	Go ahead.
+SARAH	f	It's 408-972-1439.  Room 14.
+SARAH'S MOM	f	I got it.
+SARAH	f	Okay, I've gotta go.  I'm sorry I can't tell you very much now, Mom.  I love you.
+TERMINATOR	m	I love you too, sweetheart.
+TERMINATOR	m	Hello. Tell me your address there.
+SARAH	f	Let's see.  Corn syrup. Ammonia.  Moth balls... Mmm.  What's for dinner?
+REESE	m	Plastique.
+SARAH	f	What's that?
+REESE	m	Nitroglycerin, basically. Bit more stable.  I learned howto make it when I was a kid.
+REESE	m	Make sure there's none on the threads, like this.  Now screw the end-cap on...very gently.
+SARAH	f	You must have had a fun child- hood.
+REESE	m	That's good.  Now, seven more like that while I make fuses.
+SARAH	f	I was thinking, there's so much I've got to show you when we get through this. It's mind boggling, the pos- sibilities...Disneyland, the beach, movies...matinees with popcorn and foot-long hot dogs...
+REESE	m	Hot dogs?
+SARAH	f	I want to buy you a hot dog so bad,Kyle...all the things you've never seen and done.  You're here, but wherever you go, and whatever you touch, you bring the war with you.
+REESE	m	My whole life has been combat.
+SARAH	f	I want it to be over for you.
+REESE	m	Not possible.
+SARAH	f	I want it to be over for me too. I feel like I slipped over some invisible line, that I'm in your world now.  Everything's the same, but I see it differently. It's like, there's you and me, and him...but nobody else can understand or help or even touch us.
+REESE	m	We'll head out at 0200. That gives you four hours to sleep if you want.  I'll finish.
+SARAH	f	He'll find us, won't he?
+REESE	m	Probably.  Sarah, if I get zeroed...
+SARAH	f	Don't say that.
+REESE	m	If I do, you have to get away, disappear without a trace. Different country, different name, everything.  In case they send another one.
+SARAH	f	It'll never be over, will it? Look at me, I'm shaking. Some legend, huh?  You must be pretty disappointed.
+REESE	m	No.  I'm not.
+SARAH	f	Kyle, the women in your time...what were they like?
+REESE	m	Good fighters.
+SARAH	f	That's not what I meant. Was there someone special?
+REESE	m	Someone?
+SARAH	f	A girl.  You know.
+REESE	m	No. Never.
+SARAH	f	I'm sorry.
+SARAH	f	So much pain.
+REESE	m	Pain can be controlled. You disconnect it.
+SARAH	f	And so you feel nothing.
+REESE	m	It's better that way.
+SARAH	f	Oh, Kyle.
+REESE	m	John Connor gave me a picture of you once.  I never knew why.  It was very old. Torn. Faded.  You were young, like you are now.  You weren't smiling...just a little sad... I always wondered what you were thinking at that second.
+REESE	m	I memorized every line, every curve...
+REESE	m	Sarah, I came across time for you.  I love you. I always have.
+REESE	m	I'm sorry.  I shouldn't have said...
+SARAH	f	Kyle...
+SARAH	f	I bet you're ticklish.
+REESE	m	Ticklish?
+REESE	m	What are you doing?
+SARAH	f	You'll beg for mercy in a second.
+REESE	m	I don't think I like this.
+SARAH	f	You're not supposed to.
+REESE	m	Listen to the dogs.
+REESE	m	Light it now.
+RIDER	m	Don't try to move, buddy.
+REESE	m	Switch places with me.
+SARAH	f	Kyle...oh God...
+SARAH	f	What are you doing?
+REESE	m	Cover...our footsteps...
+REESE	m	Leave me here.
+SARAH	f	I'm not leaving you anywhere you jerk.  Haven't you figured it out?  Kyle, John is our son.
+SARAH	f	There isn't going to be anybody else...I don't want anybody else.  Listen to me!
+SARAH	f	Move!  Reese! Let's go. Move you ass!
+SARAH	f	Come on!
+REESE	m	Run!
+SARAH	f	You're...terminated...fucker!
+COP	m	Look, I told you not to touch anything until we're done.  You got that?
+MANAGER	m	Sure thing, officer.
+ASSISTANT	m	What is it?
+MANAGER	m	Microcomputer chassis.  But I've never seen stuff like this anywhere.
+ASSISTANT	m	Weird.  Jap stuff, maybe?
+MANAGER	m	Keep it out of sight and get it down to R and D Monday, first thing.
+ASSISTANT	m	Good idea.
+SARAH	f	...and the hardest thing is deciding what I should tell you and what not to.  Well, anyway, I've got a while yet before you're old enough to understand the tapes.  They're more for me at this point... to help get it all straight.
+SARAH	f	Should I tell you about your father?  That's a tough one. Will it change your decision to send him here...knowing? But if you don't send Kyle, you could never be.  God, you can go crazy thinking about all this...I suppose I'll tell you...I owe him that. And maybe it'll be enough if you know that in the few hours we had together we loved a lifetime's worth...
+ATTENDANT	?	He says you are very beautiful, Senora, and he is ashamed to ask five American dollars for this picture, but if he does not, his father will beat him.
+SARAH	f	That's a pretty good hustle, kid.  Four.  Quatro.
+ATTENDANT	?	Mil trescientos...fifteen dollars American.
+SARAH	f	What did he say?
+ATTENDANT	?	There is a storm coming in.
+SARAH	f	I know.
+

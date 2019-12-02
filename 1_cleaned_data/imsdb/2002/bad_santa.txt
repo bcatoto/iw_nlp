@@ -1,0 +1,658 @@
+TRAINER	m	Coax... a... smile... from... the  child. Remember, parents don't want photos  where their child isn't smiling.  Some children may not want to smile.  It is your job to coax a smile out  of them. A good line to remember is: "Santa thinks everybody should be  happy. Can you smile for Santa?" A  camera can only copy a child's smile --  it will take you to put it there.
+TRAINER	m	If the child will not smile, the  Photo Elf will go ahead and take the  picture anyway. Now, it is a good  Santa's job to smile as well -- I  know with the big white beard your  smile will be partially hidden, so  you must learn to smile with your  eyes. They show warmth and can be  very expressive.
+TRAINER	m	Remember you have been chosen for  the starring role of Santa Claus.  Your portrayal of this beloved  character will have a major impact  on every child you meet. Keep in  mind at all times that to them, you  aren't a man dressed up like Santa,  you are Santa.
+MOTHER	f	Hurry boys, we're gonna miss Santa!  She drags them across the street  toward the looming art-deco monolith  that is the big-city department store.
+OLDER CHILD	m	There!
+INTERCOM	m	Attention shoppers: the store will  be closing in five minutes. We hope  tomorrow is a pleasant Christmas and  thank you for shopping with us, your  friends.
+PHOTO ELF	m	My, what a darling picture! Are you  certain you only want the single?  Additional photos come in handy as  gifts for grandma and grandpa or a  wonderful remembrance for friends.
+MOM	f	That's all right, I'll just take the  single.
+SANTA	f	Uh-huh... yeah... done.
+BRATTY KID	f	I saw you in another mall.
+SANTA	f	Right... Good for you.
+BRATTY KID	f	You're not really Santa. If you were  Santa you could do magic.
+SANTA	f	You want magic?
+SANTA	f	There, I just made you disappear.
+SANTA	f	...That it?
+SANTA	f	...Thank fuckin' Christ.
+SECURITY GUARD	m	Merry Christmas, Willie.
+SANTA	f	Up your ass.
+SECURITY GUARD	m	Have it your way, Willie.
+SANTA	f	Don't tell me which way to have it.
+WILLIE	m	Ready.
+MARCUS	m	Jesus.
+MARCUS	m	How's it goin'?
+WILLIE	m	I'm finished when I'm finished.
+MARCUS	m	I'm goin' downstairs... I need a melon-bailer and a loofah.
+WILLIE	m	Got it.
+MARCUS	m	Fuck the loofah, let's go.
+LOIS	?	Marcus, did you get the loofah?
+MARCUS	m	Drive.
+WILLIE	m	FUCK YOU, YOU FUCKING PIECE OF SHIT!
+WILLIE	m	Fuck you! Fuck you! Fuck you!
+WILLIE	m	Goddamn it!
+WILLIE	m	Yeah baby!
+WILLIE	m	I got messages. Go wash yourself.
+STRIPPER	m	I'm a dancer, I sweat.
+WILLIE	m	Well you smell like a bum's nutsack.
+STRIPPER	m	Fuck you.
+WILLIE	m	Yeah, yeah.
+VOICE	m	Mr. Soke, this is Andrew Kaplan again from the collection agency -- BOOP!
+ANOTHER VOICE	m	Willie, I don't care man, I'm not  looking to blame anyone, but that  diamond isn't a real stone, man. I  took it to -- BOOP!
+WOMAN'S VOICE	f	Uh, hello, this is Helen Axelrod --  you ran into my car last week? Well  I called State Farm but they have no  record of any insurance policy for  you and -- BOOP!
+MARCUS' VOICE	m	Willie, it's Marcus. It's that time  of year again. Pack your shit.  Phoenix.
+MARCUS	m	Jesus Christ! Can you maybe keep it  together for just ten minutes?!
+MARCUS	m	For crying out loud, chew a few of  these... you drunken, fuckin'  imbecile!
+CHIPESKA	?	Harrison, please I Just let me  explain. Financially, the --
+HARRISON	m	You get what you pay for, Chipeska!  Five Christmases I've given my heart --  my soul -- my love to these kids,  and now what? Now you flip me for  some stranger who'll do it for peanuts  and happens to work with a real  midget! Lemme tell you something:  nobody cares! Nobody comes here for  the elf, Santa's the attraction! I  do Burl Ives songs; does this schmoe  even play guitar?
+CHIPESKA	?	Harrison, it's not the money or the  midget. Believe me, if it was, I --  I don't think they like "midget". I  think you're supposed to call them --
+HARRISON	m	Aw, forget it!
+HARRISON	m	...Hacks!
+CHIPESKA	?	Hi. Bob Chipeska. I, please, I, uh --  please don't listen to him. Great  resume and photo by the way.
+MARCUS	m	Thanks... you know, we been at this  a long time an' all, so we like to  think we do a good job...
+CHIPESKA	?	You two are the best men for the  job. Truly. So do not let his...  unpleasantness affect your performance  in any way.
+MARCUS	m	Oh no, we're fine, w --
+WILLIE	m	Performance?
+CHIPESKA	?	Yea. Your performance... you know,  the...
+WILLIE	m	Performance. Like sexual?
+CHIPESKA	?	Excuse me?
+MARCUS	m	Willie no, he --
+WILLIE	m	You saying there's something wrong  with my gear?
+MARCUS	m	Willie...
+CHIPESKA	?	I'm sorry. Your gear?
+WILLIE	m	You know... fuck stick.
+MARCUS	m	OKAY! We're gonna head upstairs now.
+MARCUS	m	Such a card.
+CHIPESKA	?	He's not gonna say "fuck stick" in  front of the children, is he?
+MARCUS	m	No, no, no. Joke. Adult joke. For  us. Adults.
+MARCUS	m	...Joke.
+MARCUS	m	Merry Christmas! Santa's coming!
+MARCUS	m	What the fuck you doing, "fuck stick"  in front of the boss?
+WILLIE	m	I don't like that guy.
+MARCUS	m	You don't like any guy. You think I  can't find another portly motherfuck  can run a water drill?
+MARCUS	m	Don't tempt my hand. You blow this  and we're broke for the year. So  stop acting like you know something  because, pal of mine, you don't know  squat. You're gum on my shoe.
+WILLIE	m	Yeah, yeah.
+MARCUS	m	Now put on your fuckin' hat and get  out there.
+MARCUS (CONT'D	m	...And try to act professional. For  Chrissake!
+KID	m	Loser!
+WILLIE	m	All right, wuddya want?
+HEAVYSET BOY	m	Nintendo Deer Hunter 3.
+WILLIE	m	Fine. Next.
+WILLIE	m	YOWWWCH! Watch the toenails willya?
+WILLIE	m	...Wuddya want?
+LITTLE GIRL	f	...Santa?
+WILLIE	m	Yeah, c'mon, c'mon, wuddya want?
+LITTLE GIRL	f	Um... Barbie?
+WILLIE	m	Fine. Next.
+WILLIE	m	...What do you want?
+BOY	m	Fraggle-stick car.
+WILLIE	m	Fuck is that? Fine, whatever, next.
+WILLIE	m	...Next. Next!
+WILLIE	m	...Next, goddamnit! Let's move it  along -- this is not the DMV!
+MARCUS	m	It's okay. C'mon.
+MARCUS	m	What's your name?
+MARCUS	m	...You can tell me...
+MARCUS	m	...How about Santa? If you don't  tell him, you won't get a present.
+MARCUS	m	...That's right. Let's tell Santa.
+WILLIE	m	What do you want? C'mon, wuddya want?  A snot rag?
+WILLIE	m	...Another fuckin' mongoloid. Marcus I get him outta here before  he pisses on me.
+WILLIE	m	...Let it go, you little bastard.
+KID	m	It's not real.
+WILLIE	m	It was real. The hair fell out when  I got sick.
+KID	m	How'd you get sick?
+WILLIE	m	I loved a woman who wasn't clean.
+KID	m	Mrs. Santa?
+WILLIE	m	No, her sister. Let the fucking thing go.
+KID	m	What's it like at the North Pole?
+WILLIE	m	Like the suburbs.
+KID	m	Which one?
+WILLIE	m	Apache Junction. What the fuck do  you care?
+WILLIE	m	Get the hell off my lap.
+KID	m	You are really Santa, right?
+WILLIE	m	No. No, I'm an accountant. I wear  this as a fucking fashion thing.
+KID	m	Okay.
+WILLIE	m	Get that kid out of here, he's  freaking me out.
+WILLIE	m	I gotta get a drink on. See ya  tomorrow.
+MARCUS	m	Just don't come in to work stinkin'  of booze again.
+WILLIE	m	Don't worry about me. Get going,  you'll be late for your Wizard of Oz  Candy Bar Guild thing.
+MARCUS	m	Lollipop Guild, asshole. Jesus, two  year olds flip me shit better'n you.
+WILLIE	m	You tryin' to say something to me?
+MARCUS	m	Yeah. I'm gonna stick my whole fist  up your ass.
+TROUBLEMAKER	m	Listen here buddy, let me make  yourself perfectly clear. We don't  like your kind coming around here in  your red silk and satin clothes with  your hunger for same-sex  relationships. Consider yourself  warned.
+WILLIE	m	Well fu-uck you!
+TROUBLEMAKER	m	I know that's what you'd like to do!
+WILLIE	m	Up yours, yufff --
+VOICE	m	Don't.
+TROUBLEMAKER	m	Oh saved by a woman, mister No-Pussy- Please man!
+SUE	f	He ain't worth it, sugar. He got hit  on last week. Didn't sit too well.
+TROUBLEMAKER	m	WHAT ARE YOU STARING AT!?
+TROUBLEMAKER	m	...This is not Flagstaff!
+SUE	f	Another Grandad, Santa?
+WILLIE	m	Yep.
+SUE	f	Got a name?
+WILLIE	m	Oh yeah.
+SUE	f	What do you do? I mean, after the  holidays?
+WILLIE	m	Nothing 'til March. Then I'm the  Easter Bunny.
+SUE	f	...Another?
+WILLIE	m	Why not. Buy you one?
+SUE	f	Why not.
+SUE	f	...Not a big talker.
+WILLIE	m	Nah.
+SUE	f	Buy you one?
+WILLIE	m	Why not.
+SUE	f	You're pretty regular, for a Santa.
+WILLIE	m	It's my job, no big deal. I'm an  eating, drinking, shitting, fucking  Santa Claus.
+SUE	f	Prove it.
+WILLIE	m	Which?
+WILLIE	m	Yes! Yes! Yes!
+SUE	f	Fuck me, Santa! Fuck me, Santa!
+WILLIE	m	At least lemme take off the hat!
+SUE	f	NO!
+SUE	f	I got a thing for Santa Claus, I  don't know, I guess it's from early  childhood.
+WILLIE	m	Yeah, so's my thing for tits.
+SUE	f	Maybe because my parents were Jewish  and never celebrated Christmas. Santa  was sort of forbidden, you know?
+SUE	f	I like you. Most of the people around  here are pretty uptight. My name is  Sue. Here's my number.
+SUE	f	...Don't mothball that suit!
+TROUBLEMAKER	m	I AM NOT GAY!!
+WILLIE	m	Whoa-Jesus! All right buddy, that's  it...
+TROUBLEMAKER	m	Buddy? I said, I am not gay!
+WILLIE	m	Look, what's the problem pal, you go  off your meds?
+TROUBLEMAKER	m	...Yes, but this isn't about that!  You are queer as a ten dollar bill.
+WILLIE	m	Now you listen. My brother lost an  arm fighting you people in Vietnam,  so I want you to take a good hard  look at this face...
+WILLIE	m	...'cause it's the last fuckin' thing  you're gonna see before I knock your  head off and sh --
+TROUBLEMAKER	m	Who is the bitch now, fat man?!
+PIPING VOICE	m	Leave Santa alone!
+TROUBLEMAKER	m	Please little boy, I am doing this  for all of us!
+TROUBLEMAKER	m	I think he has finished his cruising  for tonight, hm?
+WILLIE	m	You.
+WILLIE	m	This one time I take you home.
+KID	m	Uh-huh.
+WILLIE	m	I'm not your fuckin' dada.
+KID	m	Uh-huh.
+WILLIE	m	It's not as if you helped out with  that nut-job.
+KID	m	Uh-huh.
+WILLIE	m	And you're right there to grab his  fuckin' balls.
+KID	m	Uh-huh.
+WILLIE	m	Right height.
+KID	m	Yeah.
+WILLIE	m	Twist 'em.
+KID	m	Why do you need a car?
+WILLIE	m	...Fuck you talkin' about?
+KID	m	This car.
+WILLIE	m	Whuh. Which turn is it?
+KID	m	Sage Terrace. Where's your sleigh?
+WILLIE	m	Repairs. In the shop.
+KID	m	Where're the reindeer?
+WILLIE	m	I stable 'em. Is it gonna be left or  right?
+KID	m	That way. Where's the stable?
+WILLIE	m	Next to the shop.
+KID	m	How do they sleep?
+WILLIE	m	Who -- the reindeer? Standing up.
+KID	m	But the noise, how do they sleep?
+WILLIE	m	What noise?
+KID	m	From the shop.
+WILLIE	m	They, uh, they only work during the  day.
+KID	m	I thought it was always night at the  North Pole.
+WILLIE	m	Not now. Now it's always day.
+KID	m	Then how do they sleep?
+WILLIE	m	Well, they -- WILL YOU PUH-LEEEZ
+WILLIE	m	...What is it with you? Somebody  drop you on your fucking head?
+KID	m	On my head?
+WILLIE	m	What, are they gonna drop you on  somebody else's head?
+KID	m	How can they drop me onto my own  head?
+WILLIE	m	Not onto your own h -- ARE YOU FUCKING
+WILLIE	m	Nice digs. Daddy home?
+KID	m	He's on a adventure 'sploring  mountains. He been gone a long time.
+WILLIE	m	Exploring mountains? When's he coming  back?
+KID	m	Next year.
+WILLIE	m	What about Mommy?
+KID	m	She lives in God's house with Jesus  and Mary and the Ghost and the long- eared donkey and Joseph and the  talking walnut.
+WILLIE	m	Who the fuck takes care of you then?
+KID	m	Granma.
+WILLIE	m	Really... What's her name?
+KID	m	Granma.
+WILLIE	m	Uh-huh. Is Granny spry?
+KID	m	Granma, Santa's here. Are you spry?
+GRANDMA	f	Roger! You're home. Let me fix you  some sandwiches.
+WILLIE	m	So you're tellin' me no one else is  here?
+WILLIE	m	...No aunts, no uncles, no cousins?
+WILLIE	m	...Butler, security guard? Nothin'?
+KID	m	Nuh-uh.
+WILLIE	m	Daddy got a safe?
+KID	m	You need money to fix your sleigh?
+WILLIE	m	Huh? Yeah, whateverthefuck...
+KID	m	You want milk and cookies?
+WILLIE	m	Daddy got a car?
+KID	m	Bye Santa!
+GIN	?	"Fuck stick"?
+CHIPESKA	?	Yes, I thought it was strange too,  but you know, I, I, I, I, uh, I, his  little friend promised he wouldn't  say it in front of the children.  Which is fine because, you know,  urn, there's an adult world and a  child's world and that's okay. I'm  not a censor.
+GIN	?	Little friend?
+CHIPESKA	?	Yes, a, a, a dwarf. Or midget... a,  a, I don't know what he's called  exactly but... a little guy. Little.  Billy Barty. God rest. But thin  fingers. Not the fat sausage fingers.
+GIN	?	"Little people," that's what they  like.
+CHIPESKA	?	Ah, yes, right.
+GIN	?	So "fuck stick," that's all?
+CHIPESKA	?	Well, no, there was something else...
+CHIPESKA	?	...A couple of days ago I was in  Women's Big & Tall? --
+CHIPESKA	?	and I heard these, urn, you know,  these... noises.
+FEMALE VOICE	f	Oh yeah! Oh yeah!
+WILLIE'S VOICE	m	Yeah! Yeah! You ain't gonna shit  right for a week!
+CHIPESKA	?	Now don't get me wrong. I was against  the Clinton impeachment. What a man  does with his penis -- Oval Office,  Women's Big & Tall -- it's not for  the American people to say.
+GIN	?	Right.
+CHIPESKA	?	But when you're dealing with children,  a tender sensibility, a position of  trust -- then perhaps, someone who  has screaming orgasms with large  women --
+GIN	?	Mm.
+CHIPESKA	?	Though I can't fire him for that.
+GIN	?	No.
+CHIPESKA	?	Sizisra. They'd say.
+GIN	?	Sure.
+CHIPESKA	?	Not true. I am no siziat. But I can  see the picket line now.
+GIN	?	Yeah, a big fuckin' fat one.
+CHIPESKA	?	They'd all say, If it had been a  supermodel or, uh...
+GIN	?	Heeyeah. Unfair practices. A lot of  special pleading. Bitch, bitch, bitch.  Fuckin' broads.
+CHIPESKA	?	But -- I can't help it -- the guy  makes me uneasy.
+GIN	?	Well sure. Santa fuckin' someone in  the ass.
+CHIPESKA	?	So maybe there's something I could  fire him for.
+GIN	?	Yeah. Yeah. I getcha.
+CHIPESKA	?	Do you? Do you think you could find  something?
+GIN	?	Oh shit yeah. There's always  something.
+MARCUS	m	...Motherfucker... Oh, you lousy  fucking motherfuck...
+MARCUS	m	That's just the kinda shit that's  gonna get us pinched!
+WILLIE	m	She said she was eighteen.
+MARCUS	m	You promised no arcades! You said  you'd only hustle Big & Tall!
+WILLIE	m	Ah, it's like shooting fish in a  barrel -- there's no sport,
+MARCUS	m	How many times, you fuck? "The bigger  the store, the bigger the take."  Well, we can't work the big stores  with your big fucking train wrecks!
+WILLIE	m	You got some nerve you little shit  ya! You my mom now?! You shat me out  your womb, is that it? You gotta  take care of me!? Well I can take  care of myself and I don't need no  lectures! I know how to keep a low  profile!
+MARCUS	m	What the fuck is this?!
+WILLIE	m	Mind your own fucking business.
+MARCUS	m	You cocksucker!
+MARCUS	m	...EVER HEAR OF THE OPEN-BOTTLE LAW?!
+WILLIE	m	Opal, come here.
+OPAL	f	Screw you, Willie -- last time I  didn't shit right for a week.
+WILLIE	m	No, not that -- come here!
+WILLIE	m	Who the fuck's in my room, did you  see someone go into my fuckin' room?
+OPAL	f	Yeah some guy askin' 'boutcha --  looked like a cop.
+WILLIE	m	Ah fuck.
+MARCUS	m	What guy?! You get a look at him?
+WILLIE	m	No, I think it's a cop though. You  think someone's onto us?
+MARCUS	m	Is there anything in the room?  Anything professional?
+WILLIE	m	No. Clothes.
+MARCUS	m	Just ditch. You got anywhere to sack  out for a while?
+KID	m	Santa!
+WILLIE	m	Yeah.
+KID	m	You're bringing my present early?
+WILLIE	m	NO.
+KID	m	But I never told you what I wanted.
+WILLIE	m	I said I didn't bring it, dipshit.
+KID	m	Okay. Good. I want a stuffed elephant.  A pink one.
+WILLIE	m	Yeah, well...
+WILLIE	m	...wish in one hand and shit in the  other, see which fills up faster.
+KID	m	Okay.
+WILLIE	m	I'm gonna be staying here a while.  Things are all fucked up at the North  Pole. Mrs. Santa, she... she walked  in on me fuckin' her sister. So I'm  out on my fuckin' ass. She's taking  half of everything... This'll do.
+WILLIE	m	...I'm gonna crash here. You and me,  like, you know, bachelors.
+KID	m	Do you and Mrs. Santa have kids?
+WILLIE	m	No. Thank the fuck Christ.
+KID	m	What about the elves?
+WILLIE	m	Yeah, well, them. They stay with  Mrs. Santa. I get 'em on weekends.  Run me a bath, will ya?
+KID	m	What about the reindeer?
+WILLIE	m	Don't start with the fucking reindeer.
+KID	m	...What're their names?
+WILLIE	m	...Who?
+KID	m	The elves.
+WILLIE	m	Oh, fuck... I -- I can't remember... Sneezy, and  Dopey --
+KID	m	That's the Seven Dwarves.
+WILLIE	m	Shit, is that not...? I just -- fuck,  I don't know, I'll just say, Hey,  Bub -- Look, I...
+WILLIE	m	...FUCK ME! I DON'T KNOW THIS FUCKING
+KID	m	-- How old are they?
+KID	m	You want cookies?
+WILLIE	m	No.
+KID	m	Warm milk?
+WILLIE	m	No.
+KID	m	Should I fix you some sandwiches?
+WILLIE	m	What is with the fixing sandwiches?  No.
+KID	m	Okay. You want anything else?
+WILLIE	m	No. As soon as the bed stops moving  I'm going to sleep...
+KID	m	Okay.
+WILLIE	m	...Wake me up... when the little  hand is on the...
+KID	m	Okay.
+SALESWOMAN	f	Can I help you, ma'am?
+LOIS	?	Just looking.
+SALESMAN	m	Help you with anything, ma'am?
+LOIS	?	Just looking.
+WILLIE	m	Fuck me? Fuck you!
+MARCUS	m	You can't just take up with some  kid! You don't know who's around,  what they do!
+WILLIE	m	You got some nerve you little shit  ya. You my mom now?! You shat me out  your --
+MARCUS	m	You said that last night you stupid  fuck!
+WILLIE	m	Ah, shit! Fuck you!
+MARCUS	m	You are by far the dumbest most  pathetic piece of maggot-eaten shit  that has ever slid from God's gilded  ass! What if the kid has one of those  fucking play-dates they have now?
+WILLIE	m	You shittin' me?! He doesn't have  fucking friends! Not even an imaginary  one! Unless he got ditched by him!  He's just a fuckin' misfit! Lives  with his grandma who sits drooling  in front of the TV! Every once in a  while she gets up to play soccer  with her tits! What, she's gon' rat  me out? She don't know her ass from  last Tuesday!
+MARCUS	m	You fuck her?
+WILLIE	m	Jesus! Why is everything sex with  you?
+MARCUS	m	With me? I fuck one person, I ain't  out there serial fornicating, trying  to float my liver! Drinkin' myself  silly 'cause I can't stand what a  piece of shit I am!
+WILLIE	m	What're you, fuckin' Sigmund Sawed- Off Freud? The shrunken fuckin'  shrink?
+MARCUS	m	Yeah, that's right, shit-for-brains,  talk about my height. Make it about  something safe. 'Cause you're an  emotional fucking cripple. Your soul  is dog shit. Every single fuckin'  thing about you is ugly.
+WILLIE	m	Yeah? Well... fuck you.
+MARCUS	m	I've seen anal warts more attractive  than you.
+WOMAN	f	Oh, look who's here Jimmy! It's Santa!  Let's tell him what you want for  Christmas.
+WOMAN	f	Are you insane?!! How dare you talk  like that in front of a child! The  management is going to hear about  this... I'm going to have you fired!
+WILLIE	m	That's a threat? You think you can  make my life any worse, you go ahead,  be my fucking guest!
+KID	m	King me.
+WILLIE	m	FUCK YOU! YOU FUCKING CHEATER!
+WILLIE	m	Son of a BITCH! ...you LOUSY...
+SUE	f	YES! YES! YES SANTA YES!
+WILLIE	m	Refill?
+SUE	f	Mm.
+SUE	f	Nice place you got. Needs a bit of a  woman's touch, but it's really nice.
+WILLIE	m	It's okay. Just renting.
+SUE	f	Thanks... So how long will you --  urn...
+SUE	f	...How long you gonna be here?
+WILLIE	m	Through the holidays.
+SUE	f	So what's the thing, you like kids?
+WILLIE	m	Fuck no! Whaddya think I'm some kind  of pervert?
+SUE	f	Wha? I'm talking about you being  Santa.
+WILLIE	m	Oh. No, see, the thing is... I'm not  really Santa.
+SUE	f	Oh. ...Well -- still -- I gotta thing  for you anyway -- c'mere...
+SUE	f	So I'll see you soon I guess, right?
+WILLIE	m	Yeah, I'm gonna send you some flowers.  Real good expensive ones.
+WILLIE	m	Whuh...
+GRANDMA	f	Roger! You're home! Let me fix you  some sandwiches.
+WILLIE	m	What the...
+WILLIE	m	What the fuck did you do?
+WILLIE	m	...Lemme look at it. What the fuck  happened?
+KID	m	...I cut myself by mistake.
+WILLIE	m	I forgot to tell ya, that'll sting.  Okay now!
+WILLIE	m	...Well fuck.
+WILLIE	m	...Don' t you want me to wrap it in  a T-shirt or something?
+MARCUS	m	You're late.
+WILLIE	m	Kids, lemmme tell ya...
+WILLIE	m	...They'll run ya ragged.
+JESSE	m	Morning boys.
+MARCUS	m	Morning Jesse.
+JESSE	m	Ho! Ho! Ho!
+WILLIE	m	Up your ass.
+WILLIE	m	GOD dammit!
+MARCUS	m	You tear your ball again?
+WILLIE	m	No, it's okay.
+MARCUS	m	Let's do the other thing.
+MARCUS	m	There.
+GUARD	m	Alright Gin, come on.
+PRISONER	m	Who are you?
+GIN	?	Your name Roger Merman?
+PRISONER	m	Yes, but --
+GIN	?	Doing three-to-six for embezzlement?
+PRISONER	m	...Many accounting questions are not  cut-and-dried --
+GIN	?	You live at 41 Sage Terrace?
+PRISONER	m	Is it Granma? Is my son alright?
+GIN	?	They're fine. Do you have any house  guests?
+PRISONER	m	...House guests?
+GIN	?	Thanks much for your time. God bless.
+PRISONER	m	...Who are you? WHO ARE YOU?
+GIN	?	Well, it's fucked.
+CHIPESKA	?	...Yeah?
+GIN	?	Yeah. Fucked. Frankly.
+CHIPESKA	?	He's...
+GIN	?	Clean.
+CHIPESKA	?	Oh.
+GIN	?	As a fuckin' whistle.
+CHIPESKA	?	Nothing?
+GIN	?	No. Nothing. I mean, shit, he curses,  yeah. But never around children.
+CHIPESKA	?	Oh.
+GIN	?	No criminal record, no parking tickets  f'Christ's sake, no bad habits, even.  Sex, yeah. But man is a sexual being.
+CHIPESKA	?	Yeah.
+GIN	?	Fuckin' Darwinian. Can't do shit  about that, Jack.
+CHIPESKA	?	NO.
+GIN	?	Wouldn't want to.
+CHIPESKA	?	Yeah. No. Of course not. I'm not  advocating celibacy.
+GIN	?	Hope not. End of the human fuckin'  race.
+CHIPESKA	?	Yes.
+GIN	?	Fucks large women. What can I say.
+VOICES	m	Loser! Dipshit!
+VOICE	m	Wedgie!
+CHILD	m	Pokemon.
+WILLIE	m	Done.
+MARCUS	m	Next!
+KID	m	Santa here?
+MARCUS	m	Oh jeez.
+WILLIE	m	Is that your underwear?
+KID	m	Part of it.
+WILLIE	m	Where's the rest? Never mind. What  do you want?
+KID	m	I was thinking I wanted a purple  stuffed elephant, not pink, but now  I changed my mind.
+WILLIE	m	What.
+KID	m	Now I don't want an elephant at all.  I want a gorilla named Davy for  beating up the skateboard kids who  pull on my underwear and he could  take his orders from the talking  walnut so it wouldn't be my bad thing.
+WILLIE	m	...You know when I was your age, I  didn't need no fuckin' gorilla, and  I wasn't any bigger than you. One  day I came crying home to Dad because  four kids had beat me up, and you  know what he did?'
+KID	m	He make it all better?
+WILLIE	m	No. He kicked my ass. You know why?
+KID	m	You went bathroom on Mommy's dishes?
+WILLIE	m	What the fuck? No.
+KID	m	He try to teach you not to cry and  be a man.
+WILLIE	m	Nope, it was because he was a mean,  drunk son of a bitch. When he wasn't  busy busting my ass, he was puttin'  out cigarettes on my neck.
+KID	m	Uh-huh...
+WILLIE	m	The world's fuckin' unfair -- it  don't give ya nothing. You can wish  all you want but you gotta take what  you need. Stand up for yourself...  stop being such a pussy and kick  those kids in the balls or something. Or don't, I don't give a shit. Just  leave me the hell out of it.
+KID	m	'Kay. Thanks, Santa.
+WILLIE	m	Okay, go ahead...
+WILLIE	m	...Get the fuck outta here...
+KID	m	'Kay...
+MARCUS	m	Time for the next lucky boy or girl  to --
+MARCUS	m	What gives? Where's the grandson?
+GIN	?	Open the rope there, Marcus.
+MARCUS	m	I know you?
+GIN	?	Not yet.
+WILLIE	m	Santa don't do grab-ass, cowboy.
+GIN	?	Act natural.
+WILLIE	m	Huh? What?
+WILLIE	m	...What the fuck?!
+GIN	?	You are Willie Tugboat Soke and you  are Marcus "The Prince" Skidmore. On  Christmas Eve, you're gonna rob this  store blind. What say we go somewhere  private?
+GIN	?	Research, that's how. I'm a department  store detective Sherlock, that's  what I do. Seven cities in seven  years. Pretty impressive. The stores  change, your names change. You always  get away clean. Yeah, pretty darn  impressive. But let's face facts --  you all are a couple of half-bucket  small-timers. Because of your physical  attributes you've found a niche. I  respect that. But you've also been  caught. By me. So this is the way  how we gonna do things. I don't want  to take over, I don't even want to  change your scam. Whatever you guys  do, it works. All I want is a taste.  When the deed is done, we part ways.  I buy a ranch in Havasu, you take  your little medicine show back on  the road.
+MARCUS	m	How much?
+GIN	?	Half.
+WILLIE	m	Now you listen here, you --
+MARCUS	m	Easy! Easy! Just back off, Willie. I  can handle this.
+MARCUS	m	Okay. Thirty percent. There's three  of us. Thirty percent. That's fair.
+GIN	?	Half.
+MARCUS	m	I meant thirty-three.
+GIN	?	Half.
+MARCUS	m	And a third.
+GIN	?	Half.
+MARCUS	m	Thirty-five.
+GIN	?	Half.
+MARCUS	m	Forty.
+GIN	?	Half.
+MARCUS	m	Forty-two?
+GIN	?	Half.
+MARCUS	m	Forty-two five.
+GIN	?	Half.
+MARCUS	m	Fooooooorty... eight.
+GIN	?	Half.
+MARCUS	m	Forty-nine?
+GIN	?	Half.
+MARCUS	m	Well...
+MARCUS	m	...what's one point.
+GIN	?	Down the middle on the dough, and  any merchandise you take I look over  and cherry-pick.
+MARCUS	m	No! Money's one thing, but �--
+GIN	?	It ain't Chinese menu, jagoff. I  tell yea how the way it's gonna be.  This is pricks ficks.
+WILLIE	m	...Pricks ficks?
+MARCUS	m	Ah, he's a fuckin' moron.
+WILLIE	m	Yeah, well I guess that's how you  got the upper hand.
+MARCUS	m	Fuck you.
+WILLIE	m	Negotiating.
+MARCUS	m	Fuck you -- you don't like it, next  year, fuck off. I can always get  another box jockey.
+WILLIE	m	Yeah, and I can get another midget.
+MARCUS	m	Yeah? Where? You see us hangin' off  of fuckin' trees? Like fuckin' crab  apples? And even if we did, you'd  never front your own racket. 'Cause  you got no discipline and zero fuckin'  initiative. You'd fall apart without  me. You're just too fuckin' pathetic --
+WILLIE	m	Yeah, yeah.
+MARCUS	m	-- too fuckin' pathetic for words,  you fuckin' loser. And you fuckin'  know it.
+GRANDMA	f	Roger! You're home. Let me fix you  some sandwiches.
+WILLIE	m	Ah, fuck it.
+KID	m	...Santa?
+WILLIE	m	Yeah.
+KID	m	What're you doing?
+WILLIE	m	Ah, nothin'.
+KID	m	You goin' to work today?
+WILLIE	m	Not really.
+KID	m	You just gonna sit there?
+WILLIE	m	Yeah. Lemme alone.
+WILLIE	m	-- Kid.
+KID	m	Yeah.
+WILLIE	m	Later today, when the paramedics  come and bag up Santa...
+WILLIE	m	...make sure the cops get this letter.  It tells about all the bad things  that -- that -- what the fuck happened  to your eye?
+KID	m	Umm...
+WILLIE	m	Well goddamnit...
+KID	m	I didn't know he did that.
+WILLIE	m	I think I've turned a corner.
+MARCUS	m	Yeah? You fucking Petites now?
+WILLIE	m	No no. No; I beat the crap out of  some kids today -- but, you know,  for a purpose. It really made me  feel pretty good about myself --  like I did something constructive  for a change. Accomplished somethin'.
+MARCUS	m	...You need many years of therapy.  Many, many, many, many, many... many  fucking years of therapy.
+LOIS	?	Just looking...
+WILLIE	m	...Hello?
+WILLIE	m	...Granma?
+WILLIE	m	Granma...
+WILLIE	m	...Oh jeez.
+SUE	f	Oh my God...
+GRANDMA	f	Roger!
+GRANDMA	f	...You're home. Let me fix you some  sandwiches.
+WILLIE	m	No thanks.
+SUE	f	Hello little boy.
+KID	m	Hello. Santa?
+WILLIE	m	...yes?
+KID	m	I know that Christmas Eve is in a  couple days and you have to fly around  and give presents to the world and  after that you won't be around no  more.
+WILLIE	m	...Yes?
+KID	m	So I thought I'd give you your present  now.
+WILLIE	m	What the fuck is it?
+KID	m	A wooden pickle.
+WILLIE	m	Why'd you paint it brown?
+KID	m	Not paint. It's blood from when I  cut my hand when I was making it for  you.
+WILLIE	m	...Thanks.
+KID	m	You're welcome. Good night Santa.  Good night Mrs. Santa's sister.
+SUE	f	That was very nice. He's really a  nice kid, isn't he?
+WILLIE	m	Hold on a minute.
+SUE	f	What?
+WILLIE	m	Nothin'... it's just... I'm... well...  I'm sorta... fucking... touched.
+WILLIE	m	...I don't know if I can fuck...
+SUE	f	That's okay. That's okay.
+WILLIE	m	BABY, I DON'T KNOW IF I CAN FUCK!
+SUE	f	There, there... There, there...
+KID	m	SANTA!
+KID	m	You wanna see my report card?
+KID	m	Think I did good?
+WILLIE	m	Who the fuck is Thurman? This is  you? Your name's Thurman?
+KID	m	Yeah.
+WILLIE	m	Thurman Merman?!
+KID	m	Yeah.
+WILLIE	m	Jesus.
+KID	m	You think I did good?
+WILLIE	m	Whaddya you care what I think, anyway? What do I fuckin' know? Better than  I ever did. I never got any B's,
+KID	m	I thought maybe since at least I did  good in school, you'll bring me a  present this year. 'Cause last  Christmas and the one before that  you didn't bring no presents...
+WILLIE	m	Oh...
+KID	m	...Even though I'm a dipshit loser.
+WILLIE	m	Jesus Fucking Christ, Kid! Why do  talk about yourself like that? What  the fuck is that about?! What's with  you anyway? I ain't Fucking Santa  Claus! Look at me, I am living fucking  proof that there ain't no Santa Claus!
+KID	m	I know there's no Santa. I just  thought maybe you'd wanna give me a  present 'cause we're friends.
+WILLIE	m	Oh...
+WILLIE	m	Look, kicking the shit out of those  kids, that's as generous as I can  get.
+WILLIE	m	JESUS FUCKING CHRIST, I GOTTA GO TO
+MARCUS	m	No.
+WILLIE	m	You fuckin' spic!
+GIN	?	Sweet Jews for Jesus...
+MARCUS	m	Holy motherfuck. What do you think  you're doing?
+WILLIE	m	I pissed my pants!
+MARCUS	m	You son of a bitch!
+GIN	?	Alright, let's get him out of here.  I'll go smooth this over with  Chipeska. Food poisoning, something.
+MARCUS	m	What do you mean, get him out of  here?
+GIN	?	Take him to his car.
+MARCUS	m	In case you hadn't noticed, I'm a  motherfuckin' dwarf. So unless you  got a forklift handy, maybe you should  lend a hand.
+GIN	?	That figures, you wantin' all kinds  of set-asides and special treatment  'cause of your handicap. You're all  the same.
+MARCUS	m	Special treatment? I'm three fucking  feet tall, asshole -- it's a matter  of physics! Draw me a sketch how I  get him to the car!
+GIN	?	Bitch, bitch.
+MARCUS	m	Sketch it up, fuckin' moron. Fuckin'  Leonardo da Vinci.
+GIN	?	What did you call me, thigh-high?
+MARCUS	m	I called you a fuckin' guinea Homo.  From the fifteenth fuckin' century.
+GIN	?	I could stick you up my ass, smallfry.
+MARCUS	m	Yeah? You sure it ain't too sore  from last night?
+GIN	?	You got some lip on you, midget.
+MARCUS	m	Well it was on your wife's pussy  last night. Why don't you dust that  thing once in a while. Asshole.
+MARCUS	m	There he is... that lousy,  leatherfaced, dago motherfucker...
+GIN	?	Jesus, Mother Mary and Joseph! What  in the name of the holy lord Fuck is  the problem now?
+MARCUS	m	Sorry, the van stalled. Give us a  jump will ya?
+GIN	?	Well, I'll be dipped in dogshit!...  What am I, your auto mechanic now?
+GIN	?	Help yourself, small fry.
+MARCUS	m	It's hard for me to reach...
+GIN	?	Jesus Christ, give me those!
+MARCUS	m	Thanks.
+GIN	?	Alright, TRY IT!
+MARCUS	m	Oh my, what a terrible accident!
+LOIS	?	Is he dead?
+MARCUS	m	No, but it looks like you broke most  of his ribs.
+MARCUS	m	I'd say maybe... fifty percent of  them? Or do you think thirty percent?
+LOIS	?	I needed more of a running start --  I couldn't build up any speed.
+MARCUS	m	Motherfuck!
+MARCUS	m	Shit!
+MARCUS	m	Put it in reverse.
+WILLIE	m	'Tendo it is.
+WILLIE	m	...Everything I touch turns to shit  and dies.
+MARCUS	m	What are you, drinking Sterno now?  'Cause you're sounding like my Aunt  Tilly right before she smeared her  own shit on the bedroom walls and we  had to lock her up and she spent the  rest of her life with a shaved head  and eating lunch through a tube up  her nose...
+MARCUS	m	...You better be in shape by this  evening, fat man. After tonight, I  don't give a shit. But this is the  time to reach deep down and suck it  up.
+MARCUS	m	...Lovely boy.
+INTERCOM	m	Attention shoppers, the store will  be closing in five minutes. We wish  you all a Merry Christmas, Happy  Chanukah and a joyous Kwanza.
+WILLIE	m	Barbie it is...
+WILLIE	m	...That it?
+MARCUS	m	Let's go.
+MARCUS	m	...Oh Christ.
+WILLIE	m	Let's do it.
+JESSE	m	Merry Christmas, Willie.
+WILLIE	m	Up your ass.
+MARCUS	m	All right...
+WILLIE	m	Oh shit...
+MARCUS	m	What? What-What-WHAT-WHAT?
+WILLIE	m	It's a Kitnerboy Redoubt.
+MARCUS	m	So?
+WILLIE	m	...You know Andy Pitts?
+MARCUS	m	Yeah, Andy Pizzarelli?
+WILLIE	m	No, Andy Lapitski. Andy Pizzarelli  is Andy Blue Balls.
+MARCUS	m	Huh-uh, since he got married they  call him An -- WHAT'S YOUR FUCKING
+WILLIE	m	Andy Lapitski can get into anything.  Anything. They say he's been in  Margaret Thatcher's pussy.
+MARCUS	m	Yeah? YEAH?
+WILLIE	m	In the joint he told me that the  Kitnerboy...
+WILLIE	m	...cannot be cracked.
+MARCUS	m	ARE YOU FUCKIN' SHITTIN' ME?! Are  you tellin' me after I've propped  you up and held you together and  smiled for all those kids and danced  for all those fucking housewives in  a fucking lime-green fucking velvet  elf costume YOU CANNOT GET IN THAT
+WILLIE	m	No... I'm saying it's gonna take me  a minute.
+WILLIE	m	Piece of cake.
+WILLIE	m	...I'll be right back. I gotta grab  one thing.
+WILLIE	m	Shit... which did he say?
+WILLIE	m	Well, I don't think that store dick  is gonna want this.
+MARCUS	m	Store dick don't want shit.
+WILLIE	m	Wuddya mean, fucking guy's greedier  than...
+WILLIE	m	...greedier than fuck.
+MARCUS	m	Store dick dead. Store dick don't  want shit.
+MARCUS	m	...Fuck the fuckin' store dick.
+WILLIE	m	Dead, huh...
+WILLIE	m	...I didn't even know he was sick.
+MARCUS	m	Willie. This has been a long time  comin'.
+WILLIE	m	Uh-huh.
+MARCUS	m	Every year you're worse. Every year,  less reliable. More booze. More  bullshit. More butt-fucking.
+WILLIE	m	Sure. The three B'a.
+MARCUS	m	You gotta be able to rely, Willie.
+WILLIE	m	You're monsters.
+MARCUS	m	Believe me, Willie: there's no joy  in this for me.
+WILLIE	m	Oh, I don't mean layin' me out. I  understand that. But just look at  ya. All the shit... grabbin' all  this shit -- do you really need all  this junk? ...This is Christmas?
+MARCUS	m	Oh please. Don't gimme that trite  "commercialism" crap. This is what  we do, Willie. We get the shit.  Christmas time, we get the shit.  Because we are men. And Lois. It is  Christmas, Willie, and we are men,  and Lois.
+LOIS	?	...Wuddya waitin' for, honey? Plug  him.
+MARCUS	m	Good-bye, Willie.
+MEGAPHONE VOICE	m	Drop the gun, munchkin!
+MARCUS	m	Huh? !
+MEGAPHONE VOICE	m	And you, Santa! -- drop the elephant!
+MARCUS	m	...Where did you come from?
+CHIEF	m	Tipped off.
+WILLIE	m	Shit!
+WILLIE	m	...Fuckin' kid!
+CHIEF	m	All three of you are in so much shit  it's almost unbelievable.
+LOIS	?	Gevalt.
+MARCUS	m	Oh yeah? Well come'n get us, coppers!  Ha-ha-ha-ha!
+WILLIE	m	Fuck me...
+WILLIE	m	...fuck me fuck me fuck me...
+WILLIE	m	...It's Christmas... and the fucking  kid is getting his present.
+MEGAPHONE VOICE	m	Halt, put your hands up!
+WILLIE	m	Up your ass!
+POLICE VOICE	m	All right, boys -- nail him!
+COP	m	Somebody put a zipper on those fuckin'  kids!
+WILLIE	m	Dear kid. I hope that you got my  present and that there wasn't too  much blood on it, although there was  blood on the present you gave me  which didn't keep me from enjoying  it, so maybe the blood doesn't matter  so much I guess.
+WILLIE	m	...Anyway, just in case they took it  as evidence I am also sending you a  T-shirt. I hope it's the right size.  I am healing up good and they tell  me that I will soon be one hundred  percent even with eight bullets dug  out of me because they didn't hit  any vital organs, just my liver which  is fucked anyway, ha-ha-ha. Anyways...
+WILLIE	m	...Thank you for giving that letter  to the cops. I forgot I asked you to  do it but it's a good thing you did  or Santa's little helper would've  plugged his ass. And now the cops  know I wrote it, which is gonna keep  my ass out of jail. That, plus  everyone agreeing that the Phoenix  police department shooting an unarmed  Santa was even more fucked-up than  Rodney King. The cops are treating  me like fucking royalty now which is  new in my experience. They are gonna  make me a sensitivity counselor so  that tragedies like this will never  again embarrass the whole fucking  department. Whatever.
+WILLIE	m	...As for my little helper, I am  sorry to have to tell you that him  and his prune-faced mail-order-wife  are gonna be exploring mountains  with your dad. I hope your dad doesn't  go sucking shit from them like I  did. Meanwhile, I told the cops you  had no one to take the fuck care of  you, so they set it up with Mrs.  Santa's sister watching you till  your Dad gets back in one year and  three months. They made her a Guardian  Pro-Temp or some such shit... anyway,  she makes better money than bartending  and seems to like you and your house  and Jacuzzi.
+WILLIE	m	...So I'll be staying in Phoenix  now, telling the police how screwed- up they are which is not a bad job  as jobs go. They're supposed to let  me out of this hospital room soon so  I'll see you when I come over to  fuck Mrs. Santa's sister in the  Jacuzzi. Until then, don't take no  shit from nobody. Least of all  yourself. Anyways... see ya soon...
+WILLIE	m	...Santa.
+

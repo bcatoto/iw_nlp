@@ -1,0 +1,795 @@
+TJ	m	This car has to go back.
+TJ	m	This car has to go back to where it came from. Put it back on the truck.
+TJ	m	Stop unhooking it. There's been a mistake.
+LARRY	m	(to tow truck driver) Hey, Bill.
+TJ	m	This car has to go back where it came from.
+LARRY	m	I beg your pardon?
+TJ	m	It was brought here by mistake.
+LARRY	m	And where was it supposed to go?
+TJ	m	It wasn't supposed to go anywhere. It needs to go back where it came from. The guy who sold it to you made a mistake.
+LARRY	m	What's the deal with this car again, Tony?
+TONY	m	Ah let's see, we bought this car yesterday afternoon from a Paul Forney-
+TJ	m	That's my dad. It wasn't his to sell.
+LARRY	m	Well, it's his name on the pink slip, son. And that means it's his to sell if he wants.
+TJ	m	Yeah, but I'm just telling you it was a mistake, OK, so it needs to go back where it came from.
+LARRY	m	Thanks, Bill. You got that work order there?
+LARRY	m	Get out of the car, son.
+LARRY	m	Dustin, get him outta there, will ya?
+DUSTIN	m	Come on dude, get out of the car.
+DUSTIN	m	C'mon. Open it.
+DUSTIN	m	Ow, fuck. What the fuck you doing? Open it.
+DUSTIN	m	Put down the fuckin' window. I'm serious.
+LARRY	m	I'd get out of here kid, before he works himself loose.
+GRANDMA	f	There's still plenty of applesauce boys.
+TJ	m	I don't get why what I think doesn't matter.
+DAD	m	It couldn't stay in the front of the house anymore, TJ. I'm not having this conversation again.
+TJ	m	Yeah, why not?
+DAD	m	It's there everyday and I have to look at it.
+TJ	m	When do you look at it? When was the last time you got off the couch?
+DAD	m	It's not healthy.
+TJ	m	Neither are all the pills you're taking, but I don't tell you not to take them.
+DAD	m	I don't wanna talk about it anymore.
+TJ	m	I do.
+DAD	m	I don't. And that's it.
+GRANDMA	f	It's OK dear. He just needs time. It's his first day back tomorrow. Lets try and be patient.
+GRANDMA	f	One thing at a time dear. One thing at a time.
+DAD	m	Yeah, I know, mom.
+TJ	m	Can I have some money so I can buy lunch today?
+DAD	m	Yeah.
+DAD	m	Hope you have a nice day Teej.
+HESHER	m	The fuck you think you're doing!?
+HESHER	m	The fuck you think you're doing!?
+TJ	m	Nothing.
+HESHER	m	You got five seconds or I'm gonna cut your fuckin' nose off.
+TJ	m	I was just, I was just going to school. I, I didn't know anyone was here.
+HESHER	m	Bullshit. You're gonna fuckin' -
+HESHER	m	You just fucked me.
+KID 1	m	Hey, TJ. You're back. Welcome back.
+KID 2	m	Hey, Teej. Welcome back, man.
+KID 2	m	How you feeling, man?
+TJ	m	Fine.
+KID 2	m	I came by your house a while ago, see if you wanted to come skateboarding or something, but it looked like the place was empty. Have you moved or something?
+KID 1	m	Yeah, I tried calling you a bunch of times, but it kept saying there was a new number or something.
+TJ	m	Yeah, we moved in with my Grandma for a little while.
+KID 1	m	Oh OK, cool... I didn't want to call cause I didn't know. (changing the subject) You want some of my bagel?
+TJ	m	No. Thanks.
+KID 1	m	Hey, can I be the first one to sign your cast?
+TJ	m	Ah, if you want I guess, but I'm getting it off tomorrow, so there's no point really.
+KID 1	m	OK, cool. Well, welcome back, man.
+KID 2	m	Yeah, welcome back, dude.
+MRS ELSBERRY	f	Cerisola? Cimino? Cody? Cooper? Early? Edgerton? Fletcher? Forney. TJ Forney's back. Welcome back, TJ.
+COACH	m	McDonald? Mohajer? Nanden? Paonessa? Saunders? Sumner?
+DUSTIN	m	S'up now, punk? You don't look so tough now, do you?
+TJ	m	Leave me alone.
+DUSTIN	m	How about you suck my cock?
+DUSTIN	m	Huh? Suck my cock.
+DUSTIN	m	Suck my cock.
+DUSTIN	m	Suck my cock.
+TJ	m	Yeah, yeah, I heard you. Suck your cock. Then why don't you pull it out?
+DUSTIN	m	What'd you say, bitch?
+DUSTIN	m	Don't fuckin' talk back to me.
+KIDS	m	Fight, fight, fight...
+COUNSELLOR	m	Look, TJ. I know you've been through a lot and it's gonna take time to readjust, but as you know, the school can't tolerate this kind of behavior.
+COUNSELLOR	m	I'm willing to give you the benefit of the doubt this time, but you can't be starting fights.
+TJ	m	I didn't start anything. He pushed me.
+COUNSELLOR	m	What he did or didn't do isn't important. What's important is what you do, and how you react. Do you understand?
+TJ	m	Not really.
+COUNSELLOR	m	Which part don't you understand?
+TJ	m	I don't understand the part about how it's not important that he pushed me and he punched me and he kicked me and he told me to suck his cock and now I'm the bad guy sitting in the office.
+COUNSELLOR	m	Hey, hey, hey. I do not wanna hear that kind of language in my office.
+TJ	m	Yeah, but I didn't -
+COUNSELLOR	m	Listen, I'm gonna cut you some slack, but you're gonna have to meet me halfway here.
+COUNSELLOR	m	I should really be suspending you, but I won't if you can promise me you'll put in a real effort... (noticing TJ looking
+ELSEWHERE)	?	Are you listening?
+TJ	m	Yeah, OK.
+GRANDMA	f	Hi, pumpkin.
+TJ	m	Hey.
+GRANDMA	f	How was your day?
+TJ	m	Pretty much sucked.
+GRANDMA	f	Why sweetheart?
+TJ	m	I don't know. It just sucked.
+TJ	m	Do you want me to turn on the light for you?
+GRANDMA	f	Do I look like I'm sitting in darkness here?
+TJ	m	I don't know, maybe, a little.
+GRANDMA	f	Maybe I need new glasses?
+GRANDMA	f	Actually, I don't even know if these are mine.
+TJ	m	Whose are they?
+GRANDMA	f	Geez, I don't know.
+TJ	m	Well, can you see better with them?
+GRANDMA	f	Jesus, I don't know.
+GRANDMA	f	You know my mother always told me that I'd damage my eyes if I read by poor light and I always think about that when I'm reading, but I've gotten this far, so why am I still worrying about it? Why am I even reading? There's something more I need to learn?
+GRANDMA	f	I guess there's always something more to learn.
+GRANDMA	f	Is is your dad up yet?
+TJ	m	No. Why, has he been sleeping all day?
+GRANDMA	f	Well, you know, sometimes people get knocked off course a little when bad things happen. But they come good in the end.
+GRANDMA	f	Here's some milk to wet your whistle.
+DAD	m	Thanks mom.
+DAD	m	Hey Teej.
+TJ	m	Hey.
+GRANDMA	f	Take some applesauce, sweetheart.
+DAD	m	What's the time?
+TJ	m	It's six o'clock. Have you been sleeping all day?
+DAD	m	I just had to lay down for a bit.
+DAD	m	How was school?
+TJ	m	Fine. When are you going back to work?
+DAD	m	That's a good question.
+TJ	m	Are you gonna answer it?
+DAD	m	I don't know. I'm not ready yet.
+TJ	m	I'm not ready yet either.
+GRANDMA	f	TJ, would you please pass me the salt?
+GRANDMA	f	Did you know that when Albert Einstein interviewed people for a job, he would take them out for lunch and if they put salt on their food before tasting it, he would not give them the job.
+GRANDMA	f	I've always liked that.
+DOCTOR	m	(referring to the smell) Whoa, that's like an eight week old dirty sock. OK, so how does that feel? You wanna turn your wrist like this for me?
+DOCTOR	m	And like this.
+DOCTOR	m	Any pain or discomfort?
+TJ	m	I don't know. It feels kinda weird, I can't tell.
+DOCTOR	m	It will feel strange for a few days, but should start to feel normal again soon. Alright, lookin' good. I s'pose I should write you a note for school.
+DOCTOR	m	How's your Dad doing?
+TJ	m	Not great. I don't know. You should probably just ask him yourself.
+MRS ELSBERRY	f	If we consider that dreams serve a metaphoric function in narrative fiction, as they do in life, what metaphoric function would you suggest the dreams here are serving?
+DUSTIN	m	You're fuckin' dead.
+VOICE	m	Hey! I said stop it!
+NICOLE	f	Leave him alone!
+DUSTIN	m	What the fuck are you doing lady?
+NICOLE	f	What are you doing?!
+DUSTIN	m	I'm not finished, you fuck.
+NICOLE	f	Are you alright?
+TJ	m	I don't know. Am I bleeding?
+NICOLE	f	I don't think so. Am I?
+TJ	m	I don't know.
+NICOLE	f	I can't believe he called me lady. Do I look like a lady to you?
+TJ	m	I don't know, I guess?
+NICOLE	f	Thanks. I mean do I look old? Well anyway, at least I can say I've been in a fight.
+NICOLE	f	I can't believe he called me lady.
+TJ	m	I think your ice cream's melting.
+NICOLE	f	Oh shit.
+NICOLE	f	Ah, fuck it.
+NICOLE	f	Hey, so I'm kinda like a hero now, aren't I?
+TJ	m	What?
+NICOLE	f	Well actually, I basically just didn't want to have to go home and then spend the rest of the day feeling bad about the fact that I didn't help you and then hear about you on the news being beat to death in the parking lot. So you know, really I'm just - I did it for me. I'm just selfish. And I'm sorry, I'm sorry I'm like that.
+NICOLE	f	Oh, gas station.
+NICOLE	f	Whoaaa... sorry, sorry.
+NICOLE	f	Perfect landing.
+NICOLE	f	You like black or red?
+TJ	m	Ah, I don't know, black?
+NICOLE	f	Black? Really? Are you sure?
+TJ	m	OK, red?
+NICOLE	f	OK.
+NICOLE	f	Red it is.
+NICOLE	f	It's super sour isn't it? You don't have to eat it if you don't like it.
+TJ	m	It's really sour.
+NICOLE	f	I know, that's the point. I used to hate this crazy sour stuff, I don't know what happened. I just recently acquired a taste for it. I don't even really know what's in it, but I pretty much eat it all the time. And I'm sure it's making me fat. I just don't want to end up like those fat old ladies you sometimes see, you know, the really fat ones?
+NICOLE	f	I don't know why I'm telling you this. Anyway, I was secretly hoping that you loved these -
+NICOLE	f	So you could eat 'em for me. But now I can see you don't like em' and I'm kinda glad cuz it means more for me. I guess I'm sort of a hypocrite in a way.
+TJ	m	OK, thanks for the ride. I really appreciate it.
+NICOLE	f	Hey!
+NICOLE	f	You want your bike?
+TJ	m	Shit.
+TJ	m	Thanks.
+GRANDMA	f	Hi, TJ. What you doing around the back?
+TJ	m	I just, I dunno. I was just dumping my bike.
+TJ	m	Hey, Dad!
+GRANDMA	f	Your Dad's gone to the supermarket, honey. Everything OK?
+TJ	m	Ah, yeah, OK.
+HESHER	m	Where's the laundry room?
+TJ	m	My dad'll be home soon.
+HESHER	m	Where's the laundry room?
+TJ	m	Why?
+HESHER	m	You've got two seconds to tell me where the laundry room is before I tear your fuckin' head off and skull fuck you.
+TJ	m	It's through there. But why? You can't - my dad's gonna be home soon.
+TJ	m	What are you doing? You can't -
+HESHER	m	I swear to god. I'll cut your face off.
+TJ	m	You can't smoke in here.
+TJ	m	You can't smoke.
+TJ	m	What are you doing? You can't smoke in here.
+TJ	m	Will you please put it out?
+HESHER	m	Can I put it out in your mouth?
+TJ	m	What?! Wait.
+GRANDMA	f	I'm gonna make a cake. Do you remember my cherry cake story?
+GRANDMA	f	I used to make a cherry cake all the time and it always came out just wonderful. One time I invited my doctor and his wife and I wanted to make an impression. I asked him to come see your dad in a play and he came and I said, 'would you like to come back to the house?'
+GRANDMA	f	And he said, or his wife said, 'yes they'd like to come back.' So earlier that day I made a cherry cake and I used a - I didn't know it till afterwards, I used a new product - instead of Crisco, I used Fluffo. They never made it again that Fluffo.
+TJ	m	Grandma, can I hear the rest of your story later? I'm kinda busy.
+GRANDMA	f	Oh, of course honey.
+DAD	m	TJ, who's this?
+HESHER	m	My name's Hesher. Call me Hesher.
+DAD	m	What's he doing?
+TJ	m	He's doing laundry.
+DAD	m	Why is he smoking in the house?
+TJ	m	I don't know.
+DAD	m	Did you tell him he can't?
+TJ	m	Yes.
+HESHER	m	How come you only have four channels?
+GRANDMA	f	Hello there.
+HESHER	m	Hello, old lady.
+DAD	m	Can I help you with something?
+HESHER	m	Nope, I'm good.
+HESHER	m	Motherfucker.
+TJ	m	So, ah, what are you doing now?
+HESHER	m	Huh?
+HESHER	m	This your room?
+TJ	m	(huh?) That's the garage.
+GRANDMA	f	Does your friend want to eat some dinner dear?
+TJ	m	He's not hungry.
+GRANDMA	f	Are you sure?
+TJ	m	Yeah, I'm sure.
+DAD	m	What's he doing in the garage?
+TJ	m	I don't know. I said he could practice his guitar in there.
+GRANDMA	f	That's great honey, it's nice having a bit of music in the house again. Is he a new friend?
+TJ	m	Yeah, sort of.
+GRANDMA	f	You know your grandfather played the harmonica for many years.
+GRANDMA	f	Hesher, would you like a glass of orange juice.
+GRANDMA	f	Morning, TJ.
+TJ	m	Hi, Grandma.
+GRANDMA	f	Oh, I'm sorry, honey. We're out of milk. I can cook you up some eggs if you like, dear.
+TJ	m	No, thanks. I don't have time.
+GRANDMA	f	Would you like to come for a walk with me today?
+TJ	m	I can't, Grandma. I gotta go to school.
+GRANDMA	f	No, I mean later. This afternoon.
+TJ	m	I don't know. Can you ask me when I get home?
+GRANDMA	f	OK, honey.
+LARRY	m	Yes?
+TJ	m	I need to talk to you.
+LARRY	m	Oh, yeah? What about?
+TJ	m	I want to get the car back.
+LARRY	m	Yeah, I figured that. You made it pretty clear the last time you were here, and I thought I made it pretty clear that I couldn't give it to you.
+TJ	m	What do I need to do to get it back?
+LARRY	m	The car's not for sale.
+TJ	m	I want to get it back, though. How much do you want for it?
+LARRY	m	I don't know. We're talking at least eighteen hundred dollars, not including taxes, registration, ADM, or dealer's fees. On top of that, you'd need a driver's license. I'm guessing you don't have one of those. You'd need valid car insurance. I'm guessing you don't have that either. But even if you did have these things, I still couldn't sell it to you because the car's not street legal. There's a million reasons why I can't sell it to you.
+LARRY	m	Look kid, I appreciate your enthusiasm, I really do, but I don't know what to tell you. You can't have the car. End of story.
+LARRY	m	Do you mind if I get back to it here?
+DUSTIN	m	You're lucky I'm at work right now.
+NICOLE	f	Hi Sir, how are you today? Oh, hey.
+TJ	m	Hey.
+NICOLE	f	How's it goin'?
+TJ	m	I got you a replacement ice cream.
+NICOLE	f	Oh my god. That's so sweet, thanks.
+TJ	m	I paid for it over there.
+NICOLE	f	Oh, OK.
+NICOLE	f	Thanks.
+TJ	m	Sure, OK. See ya.
+NICOLE	f	See ya.
+NICOLE	f	(to next customer) Hi.
+GRANDMA	f	- and his wife said, yes they'd like to come back to the house.' So earlier that day I made a cherry cake and I used a new product - I didn't know it till afterwards- I used Fluffo. They never made it again that Fluffo. It was an imitation brand. I served the cake and there was silence. And then -
+GRANDMA	f	You put the cake in your mouth and it stuck to the roof of your mouth. They could hardly swallow it.
+GRANDMA	f	Hi sweetheart.
+GRANDMA	f	So who's coming for a walk with me tomorrow morning?
+GRANDMA	f	TJ?
+TJ	m	I can't Grandma. I have school tomorrow.
+GRANDMA	f	Ok, well you're always invited.
+HESHER	m	So what?
+HESHER	m	So what school? Go on a walk with your Grandma.
+GRANDMA	f	He's right TJ, it'd be very good for you to get some fresh air.
+HESHER	m	Your Grandma goes walking in the morning by herself? You can't get your ass outta bed like an hour earlier? She could get raped.
+HESHER	m	I read about this shit all the time. Grandmas get raped. You ever hear about that guy who killed like 13 old ladies.
+TJ	m	What?
+HESHER	m	Fuckin' Google it, dude. The Granny Killer, he killed like hella old ladies by strangling them with their dirty panties. (taking a mouthful) Not all of them necessarily got fucked, but they all got penetrated by like the dude's fingers and I don't know, other shit too.
+DAD	m	That's enough.
+HESHER	m	I just think your Grandma asks you to go on a walk, you should go with her so she doesn't get raped.
+GRANDMA	f	Why would anyone rape me?
+HESHER	m	I don't know, they do it, Grandma. There's some sick fucks out there.
+DAD	m	That's enough.
+KID 1	m	Hey, Teej. What are you doing? Come sit with us, we're in our spot.
+TJ	m	What? Uh, Ok.
+TJ	m	I'll meet you there in a second.
+TJ	m	What are you doing here?
+HESHER	m	Pissing.
+TJ	m	What are you doing at my school?
+HESHER	m	I'm putting out a fire.
+DUSTIN	m	You fucked my car, you little prick.
+DUSTIN	m	Eat the cake.
+DUSTIN	m	Fuckin' eat it.
+DUSTIN	m	It's your birthday. Eat your fuckin' cake.
+DAD	m	You ready?
+TJ	m	I don't wanna go.
+DAD	m	It'll be good for us, Teej. C'mon. We'll be late.
+TJ	m	I really don't want to go.
+DAD	m	I don't think anyone ever 'wants to go' to these things. It's supposed to be good for us. That's the whole point.
+DAD	m	C'mon. Give me a hand here.
+MERYL	f	OK, so welcome everyone to the Transformational Grief Group. My name is Meryl. We should start off by going around the circle and introducing ourselves and briefly explaining why we are here. Hi Miss, would you please start us off?
+COLEEN	f	We are the Bolder family. I am Coleen and this is my husband Jack. Our daughter Cynthia was murdered last year. (she chokes a bit) She was the victim of a violent attack that was unfair and sick.
+COLEEN	f	We are here because we need help. We lost our baby and we are broken.
+JACK	m	Hi, my name is Jack. As my wife said, we're here hoping for some answers and just some help with the pain.
+MERYL	f	Thank you, Coleen and Jack. Welcome.
+MERYL	f	(to Dad and TJ) Sir.
+DAD	m	Ah, OK. Sure. My name is Paul Forney. This is my son, TJ. We're here today because we lost my wife, TJ's mother, a bit more than two months ago now. And ah, I don't know, we're still trying to come to terms with things and, you know, just find some guidance of some kind, I guess, and, ah, yeah, so...
+MERYL	f	OK, great. Welcome, Paul. TJ? Would you like to introduce yourself, say a few words to the group?
+TJ	m	Not really.
+MERYL	f	OK. That's OK. (to the person next to TJ) Nicholas, would you like to introduce yourself to the group?
+GRANDMA	f	Hi, honey. How was your special group?
+TJ	m	Fine.
+TJ	m	Fuck you!
+HESHER	m	Fuck you.
+TJ	m	Fuck you. You let that fuck stick my head in a toilet and you don't do anything about it? You stand there and fucking watch him do it?
+TJ	m	You stay in my grandma's house? You're taking a bath in my fucking grandma's bath?
+TJ	m	Say something!
+HESHER	m	Listen to me.
+HESHER	m	I'm gonna put some clothes on, then you're gonna meet me in my van.
+TJ	m	Where are we going?
+TJ	m	Where are we going?
+HESHER	m	Touch my stereo again, I'll seriously fucking hurt you.
+TJ	m	What are we doing?
+TJ	m	What are we -
+TJ	m	What are you doing?
+TJ	m	Hey, seriously. What are you doing?
+TJ	m	(loud whisper - too loud) Come on. This is insane. Let's get out of here.
+TJ	m	C'mon, man. Let's just go.
+TJ	m	Open the door! It's locked!
+WOMAN	f	Hey, get back here!
+HESHER	m	Get in.
+TJ	m	You fucking ditched me.
+HESHER	m	Get in the van, dude.
+TJ	m	What the fuck's wrong with you?!
+HESHER	m	What?
+TJ	m	What's wrong with you?
+HESHER	m	What's the problem? That's the guy who put you in the toilet.
+TJ	m	Yeah, but -
+HESHER	m	Something's coming.
+HESHER	m	It's for you.
+COP	m	Are you Thomas Forney?
+TJ	m	(toothbrush in mouth) Yeah.
+COP	m	We'd like to ask you some questions.
+TJ	m	What about?
+COP	m	We'd like you to come down to the station with us.
+TJ	m	What for?
+HESHER	m	Cops.
+COP	m	OK, so we're gonna have to let you go now. We may very well be calling on you again very soon, but in the meantime, let this be a warning to you. Regardless of what evidence we do or don't find, you've come to our attention today. Our attention isn't good.
+TJ	m	But I didn't do anything.
+COP	m	You hearing me here? These are very serious crimes we've been presented with. Let's just say someone had been in that car, and they'd burned - to death. We'd be talking about manslaughter, possibly murder. Have you thought about that? You'd be sitting here with detectives from Homicide right now. These are felony offences we're talking about, son. Serious jail-time offences.
+DAD	m	Did you do it?
+TJ	m	Not really.
+DAD	m	Not really?
+TJ	m	I didn't do it.
+DAD	m	What does `not really' mean?
+DAD	m	Tell me what `not really' means.
+TJ	m	It means I didn't do it.
+DAD	m	No, it doesn't. Why would you say 'not really'?
+TJ	m	I didn't.
+DAD	m	You did. I heard you.
+TJ	m	I said I didn't do it.
+DAD	m	Yeah, before that. I asked if you did it. You said `not really'.
+TJ	m	I can't remember what I said.
+DAD	m	Why would you do something like that?
+HESHER	m	Howdy.
+HESHER	m	So what'd the pigs want?
+TJ	m	What the fuck do you think!?
+HESHER	m	Did they give you a cavity search?
+TJ	m	What?
+HESHER	m	Did any of the cops put their fingers in your butthole?
+TJ	m	Just fuck off, OK.
+HESHER	m	What'd they do?
+TJ	m	They took my fucking finger prints!
+HESHER	m	So what?
+TJ	m	So what!? I can get into serious trouble.
+HESHER	m	Oh, is that right?
+TJ	m	Yeah, that's right! They don't take this shit lightly.
+HESHER	m	Oh, they don't?
+TJ	m	People could have been hurt! If someone was killed it would have been considered murder.
+HESHER	m	Really? Murder? That's badass shit.
+TJ	m	Please just leave me alone.
+HESHER	m	OK, but first show me your best impression of a dumpling.
+TJ	m	What?
+HESHER	m	You know, a dumpling, the Chinese little thingies you eat -
+HESHER	m	Come on, like this -
+HESHER	m	OK, your turn.
+TJ	m	No.
+HESHER	m	OK.
+HESHER	m	Do you think she is totally bald or do you think she's more of a landing strip kind of chick or more of a 70's jungle bitch.
+TJ	m	What are doing here?
+HESHER	m	You're stalking that chick, dude.
+TJ	m	No, I'm not.
+HESHER	m	Yeah, you are. I've been stalking you for half an hour. You gonna try to fuck her?
+TJ	m	What? No.
+HESHER	m	Can't fuck her from here, dude. Gotta be way closer.
+TJ	m	Shut up about it.
+HESHER	m	You wanna poke her clam?
+TJ	m	Shut up.
+HESHER	m	You wanna poke her clam or what?
+TJ	m	Please stop saying that.
+HESHER	m	You want to poke her clam, dude. Nothing wrong with that. Don't be ashamed about it. Humans have been poking vagina for hundreds of years. Longer even.
+HESHER	m	Bro, there's nothing wrong with wanting a little pussy.
+HESHER	m	Where you going?
+TJ	m	Home.
+HESHER	m	I'll give you a ride.
+TJ	m	No thanks.
+HESHER	m	OK, but if you come with me it'll take 5 minutes and if you ride it will take you about 15.
+HESHER	m	Come on dude, don't be silly, let's just car pool.
+TJ	m	Fine, just don't talk to me.
+HESHER	m	I won't say shit.
+HESHER	m	Look dude, I'm really sorry about the fire the other night -
+HESHER	m	That was totally out of control. Foolish and irresponsible actually.
+HESHER	m	I want you to have this -
+TJ	m	Get that away from me.
+HESHER	m	Dude are you gay? I can't work you out.
+TJ	m	Hey, what are you doing?
+TJ	m	Stop the car, I want to get out.
+HESHER	m	Shush.
+HESHER	m	You get out of this van, I'll rip your dick off and fuck her for you.
+HESHER	m	Whoops.
+NICOLE	f	I'm sorry. I didn't -
+DRIVER	m	You just messed up the back of my car you stupid idiot. You need to pay attention when you're driving a fucking car -
+HESHER	m	I saw the whole thing. The chick here was stopped and you reversed right into her.
+DRIVER	m	What?
+HESHER	m	I don't know what your fucking problem is, dude. Why would you just reverse into her? That's fuckin' retarded.
+DRIVER	m	What are you talking about?
+DRIVER	m	Are you out of your mind?
+HESHER	m	You better start making like you're gonna pay her for the damage.
+DRIVER	m	I didn't back into her. I don't know what you're talking about.
+HESHER	m	You calling me a fucking liar, dude!?
+DRIVER	m	No, I, I, I'm just saying I don't know what's going on here.
+HESHER	m	You're calling me a fucking liar is what's going on here.
+HESHER	m	Let's go.
+DRIVER	m	Look, I don't want any trouble, sir.
+HESHER	m	Fight me cocksucker!
+DRIVER	m	This is ridiculous -
+HESHER	m	Come back here and find out how ridiculous it is!
+HESHER	m	OK. See you later.
+TJ	m	Come on man, let's just go.
+HESHER	m	Your sexy girlfriend's in trouble. We're not going anywhere.
+HESHER	m	You know, TJ?
+TJ	m	Hey.
+NICOLE	f	Sometimes, you know, a day is bad and then when you think it couldn't get any worse you suddenly discover whole new ways it can get worse.
+NICOLE	f	No, thanks.
+HESHER	m	This one time I had like four hella drunk chicks in the back of the van, and we were going for it and I had one hand on this one girl's tit and my other hand on this other chick's twat, but there was like still two other girls wanting to get off so like I had my foot rubbing on one girl's asshole while I'm trying to eat the other girl out, and I was going crazy man. It was too much. I couldn't work out which chick was which and I'm making one girl cum but then I'm forgetting about the others and my tongue's hurting and my fingers are getting tired and like eventually I was just like 'Fuck this. This is too much' and I just stepped back. I just stepped back. And before you know it these girls are all working on each other, you know. They're all fingering each other and eating each other out, you know, and I jerk myself off and everyone's a winner, you know?
+NICOLE	f	Was that some kind of perverted metaphor for me? About how I should just step back and let things work themselves out?
+HESHER	m	A what?
+NICOLE	f	What the hell was that?
+HESHER	m	I saw a mouse.
+NICOLE	f	What?
+NICOLE	f	Are you OK?
+TJ	m	I have dirt in my mouth.
+NICOLE	f	Who's that guy?
+HESHER	m	We're here. Come on, let's go.
+NICOLE	f	We're where?
+HESHER	m	My uncle's house.
+NICOLE	f	What was that back there?
+HESHER	m	What was what?
+NICOLE	f	That other house?
+HESHER	m	Wrong house.
+NICOLE	f	What the fuck!?
+HESHER	m	What? You're dirty.
+NICOLE	f	Yeah, and now I'm wet.
+HESHER	m	You're dirty and wet. I'm coming in...
+HESHER	m	Now I'm dirty and wet too.
+NICOLE	f	Cut it out.
+HESHER	m	R2! Shut down all the fucken' trash compactors on the detention level!
+HESHER	m	...All the fucking trash compactors... (underwater, then up again) ...on the detention level!...
+HESHER	m	Oh, shit. More trash coming in!
+HESHER	m	Oh shit!
+NICOLE	f	So, how do you know this guy?
+TJ	m	I don't know, he's sort of moved into my grandma's house with us.
+NICOLE	f	What, like he's renting a room or something?
+TJ	m	No, not really, I don't know, it's kinda a long story.
+NICOLE	f	Do you realize that the equivalent to you flicking that ant would be like one of us getting hit in the face by a giant wrecking ball at 100 miles an hour and getting thrown into the next yard?
+TJ	m	Sorry, I...
+NICOLE	f	Do you think the other ants are gonna wonder where that ant's gone? Do you think their gonna miss her?
+NICOLE	f	Jesus Christ.
+HESHER	m	Jump in the fi-re.
+HESHER	m	FUCK YOU BITCHES!!!
+HESHER	m	Shit, look at that.
+HESHER	m	I got a doctor's appointment.
+TJ	m	What? It burns when I urinate...
+NICOLE	f	Did he just leave us? I think we should get out of here.
+TJ	m	My shoes are so squishy.
+NICOLE	f	So, what's his name?
+TJ	m	Hesher.
+NICOLE	f	Hesher?... Is that a name?
+TJ	m	I don't know. I guess?
+NICOLE	f	Does he have a last name?
+TJ	m	I don't know.
+NICOLE	f	How old is he?
+TJ	m	I don't know.
+NICOLE	f	Do you know anything about him?
+TJ	m	Not really.
+NICOLE	f	That was so lucky you guys were behind me when that guy got all mad about his car. I was freaking out. I don't really have any insurance right now. I just can't afford it. There's no way I could afford to fix that guy's car. How do people do this stuff? I mean, I have a job. It's kind of a joke though. I've been there for like a year and I'm still only doing like five hours a week. Why aren't they giving me any more hours? Do you think it's because they think I suck? Did you think I sucked when I served you at the checkout?
+TJ	m	No?
+NICOLE	f	I don't even get paid enough to really cover my rent. I'm gonna have to start selling shit pretty soon.
+TJ	m	Here, I got two bucks.
+NICOLE	f	The sad thing is I could actually use it.
+NICOLE	f	Oh, no. Please tell me that's not a ticket...
+NICOLE	f	Fuck, fuck, fuck it.
+NICOLE	f	Ah, shit. Fuck it.
+NICOLE	f	What have I done to deserve this chain reaction of shit all the time? Sometimes I wonder if I were to die right now, if anyone would care, or even notice.
+TJ	m	I would.
+NICOLE	f	That's nice of you to say, but I doubt it.
+TJ	m	I would. If you died right now. I'd notice.
+TJ	m	Mainly because I'd be sitting in a car with a dead lady.
+NICOLE	f	Please don't call me lady.
+NICOLE	f	Let's get out of here.
+NICOLE	f	You wanna steer or push?
+GRANDMA	f	Hi TJ.
+TJ	m	Hey Grandma.
+HESHER	m	So did you fuck her?
+TJ	m	What?! No?!
+DAD	m	Where were you today?
+TJ	m	What?
+DAD	m	Counselling - 3:30, I'm there by myself.
+TJ	m	Oh, sorry. I forgot.
+DAD	m	Yeah, that's real nice. This thing is for you just as much as it is for me. I waited outside school for 45 minutes.
+TJ	m	Yeah, well, I told you I don't want to go.
+DAD	m	Maybe you should let me know before you don't show up next time.
+TJ	m	I did. I told you I didn't want to go. I told you a hundred times.
+DAD	m	No you didn't.
+TJ	m	Yes I did. You're just not listening.
+DAD	m	No you didn't. What you told me was that you didn't want to go. You didn't tell me that you were just not going to show up.
+TJ	m	What difference does it make?
+DAD	m	For me a big difference. It means, I'm sitting on a fucking beanbag in a room full of losers by myself.
+GRANDMA	f	Boys please, I'm not feeling well.
+DAD	m	Can you pass me my pills?
+HESHER	m	(discreetly, to TJ) Did you finger her twat?
+TJ	m	Shut the fuck up.
+DAD	m	TJ.
+TJ	m	What?
+DAD	m	Language. I don't wanna hear it.
+TJ	m	Did you hear what he just said?
+DAD	m	I don't care. If I hear it again, you're going to your room.
+TJ	m	My room!? You gonna start punishing me now?
+DAD	m	Maybe I need to. If it's not the language, then it's your lack of responsibility... or I'm having to escort you down to the police station.
+TJ	m	Shit, dad. I'm really sorry you had your ass dragged off the couch. I'm sorry you had to put some fucking underpants on for the first time in months.
+DAD	m	TJ.
+TJ	m	What?!
+DAD	m	That's enough.
+TJ	m	Oh, what, soon as I'm right, that's enough?!
+DAD	m	TJ! I don't want to hear one more word from you!
+TJ	m	Fine. Fuck this.
+DAD	m	That make you feel better?
+GRANDMA	f	Did I miss something?
+HESHER	m	Not really. Paul came in and said some dumb shit which TJ got angry about and so TJ smashed his plate and then Paul smashed his plate too but I got a feeling he smashed his one cuz he couldn't actually think of anything to say cuz he kinda knew TJ had a point and so now he feels bad about it and so he's gone somewhere. (takes another mouthful) I don't know where.
+GRANDMA	f	Those boys have been through a lot.
+GRANDMA	f	Sometimes I wonder if they're ever gonna smile again
+GRANDMA	f	I just wish there was something more I could do.
+HESHER	m	This is delicious.
+GRANDMA	f	Thank you, dear.
+HESHER	m	What's green and slimy and smells like bacon?
+GRANDMA	f	I don't know, dear.
+HESHER	m	What's green and slimy and smells like bacon?
+GRANDMA	f	A worm? I don't know. I'm going to lie down. I'm not feeling well. I'm very nauseated.
+HESHER	m	Oh, OK.
+HESHER	m	Did you figure it out yet?
+GRANDMA	f	Figure what out, dear?
+HESHER	m	What's green and slimy and smells like bacon?
+GRANDMA	f	No, not yet dear. Can you do me a favor?
+HESHER	m	Sure, what?
+GRANDMA	f	Will you please hand me that red tin on the cabinet dear?
+HESHER	m	Kermit the frog's finger.
+GRANDMA	f	What?
+HESHER	m	Think about it... Miss Piggy.
+HESHER	m	Woah, what's that?
+GRANDMA	f	Oh, I'm feeling very nauseated. They're medical cigarettes that help me with the nausea. Will you light a match for me, dear?
+HESHER	m	Hang on a second. Can I see that?
+HESHER	m	No shit.
+HESHER	m	I'll be right back.
+HESHER	m	May I?
+GRANDMA	f	What is that?
+HESHER	m	It's a bong. The water filters the smoke. It's probably the most healthy way to smoke weed.
+HESHER	m	OK, so basically cover the hole here with your thumb then suck on the top and once the chamber fills with smoke, take your finger off the hole and suck in.
+HESHER	m	Then try and hold the smoke in for as long as possible, OK bro?
+GRANDMA	f	Umm, OK.
+HESHER	m	Ok, lift your finger.
+GRANDMA	f	Oh, wow... That was a big one.
+HESHER	m	Yeah, that was good. Hit it again.
+GRANDMA	f	I think I'm OK, dear.
+GRANDMA	f	Honey, how old are you?
+HESHER	m	Who wants to know?
+GRANDMA	f	I don't know. You seem a little older than TJ.
+HESHER	m	Who?
+GRANDMA	f	Oh, stop it. Aren't you a little old to be hanging around TJ all the time?
+HESHER	m	Aren't you?
+GRANDMA	f	No, I'm his grandmother.
+HESHER	m	Yeah, I guess you have a point... OK, well I used to have a mouse. No, wait... hang on a minute. I used to have a snake. And do you know what snakes eat?
+GRANDMA	f	Actually, there's no limit to the food items that you can even think of that a snake might eat. Whatever is available in abundance would become the prey for the snakes. Depending on their growth, their diet -
+HESHER	m	Yeah, OK, OK well, actually they eat mice.
+GRANDMA	f	They do eat mice. A lot of times snakes eat other snakes because they're the right shape -
+HESHER	m	Yeah, OK, well anyway... I used to have a snake and I fed it mice. But one time I fed this little fuckin' mouse to my snake and that mouse was tough. I dropped that mouse in the snake's tank and the snake wouldn't go near him, and any time he tried that mouse would just smack him with his little, you know...
+HESHER	m	With his little mouse hand. So instead of eating the mouse the snake just curled up crying in the corner and the mouse ruled that fuckin' cage. And this went on for weeks, the snake wouldn't go near him. That tiny mouse used to sit in a little miniature lawn chair scratching his balls and shelling peanuts and this snake was just too scared to go near it. And cuz the snake was scared of that mouse I had to feed him other mice, but every time I dropped another mouse in the tank, it'd hide behind the brave mouse. And so eventually the snake starved to death. I had a cage full of mice.
+GRANDMA	f	So is TJ the mouse?
+HESHER	m	Maybe he is.
+GRANDMA	f	Well then, what am I?
+HESHER	m	You're an old lady.
+GRANDMA	f	No, I'm a grandmother.
+HESHER	m	Yes you are. And you know what grandmother? I'm gonna go on a walk with you in the morning.
+GRANDMA	f	Oh, that's nice. Where are you going?
+HESHER	m	I'm not going anywhere. I'm going with you. Around the block, I guess.
+GRANDMA	f	Oh, OK, well have a nice time. I'll see you when you get back.
+HESHER	m	No, I'm going with you.
+GRANDMA	f	Ohh, OK, caauuse iii...
+LARRY	m	Yeah, why don't you just have him send them over... Sure... Scott, can you hold on a minute? What do you want?
+TJ	m	Can I talk to you?
+LARRY	m	I'm on the phone here. Can you see that?
+TJ	m	I need to talk to you.
+LARRY	m	I'm on the phone. Wait outside. I'll be with you in a minute.
+DUSTIN	m	The fuck are you doing here?
+TJ	m	I came to talk to him.
+DUSTIN	m	What about?
+TJ	m	It's none of your business.
+DUSTIN	m	What do you wanna talk to him about?
+DUSTIN	m	What do you want to talk about?
+TJ	m	Just leave me alone.
+LARRY	m	What?
+TJ	m	I got the money.
+LARRY	m	What money?
+TJ	m	The money for the car.
+LARRY	m	What money for the car?
+TJ	m	You said if I got eighteen hundred dollars I could have the car back.
+LARRY	m	Are you kidding me? I said, 'even if you had eighteen hundred dollars, I still couldn't sell it to you.' Even if you had five million dollars, I couldn't sell it to you. It's not even here any more anyway, so that's it.
+TJ	m	What? What do you mean-
+LARRY	m	Kid. Leave me alone. I feel like I've had this conversation with you too many times already, but I can tell you we won't be having it again because the car's gone.
+TJ	m	What are you talking about?
+LARRY	m	It's all over. It's gone. It's not here.
+TJ	m	Where's it gone?!
+LARRY	m	Kid. It's over. Good bye.
+TJ	m	Where's it gone?
+DUSTIN	m	And what makes you think I'm gonna tell you?
+HESHER	m	Grandma?
+DAD	m	Teej.
+HESHER	m	FUCK!
+TJ	m	What's going on?
+DAD	m	Teej. Grandma, she's not.. she's not waking up.
+TJ	m	What!?
+DAD	m	She won't wake up.
+TJ	m	What do you mean?
+TJ	m	Oh, Jesus.
+TJ	m	What happened?
+DAD	m	I don't know, she just, she just didn't wake up.
+HESHER	m	I gotta get the fuck out of here before I hurt someone.
+TJ	m	Ah, hi. It's TJ here. I, ah, I'm sorry to bug you, but um, I don't know, I guess I wanted to talk to you right now. I don't know. I have a present for you too, so maybe I'll just come drop it off or something, or ah, yeah... Um, OK. Bye.
+TJ	m	What are you doing?
+DAD	m	I don't know. Getting some fresh air, I guess.
+TJ	m	It's starting to rain.
+DAD	m	Yeah.
+HESHER	m	Hey, hey... wait.
+HESHER	m	Hey! The fuck are you doing?
+TJ	m	Fuck you. Fuck you fuck you fuck you.
+HESHER	m	Stop hitting my van.
+TJ	m	Fuck you. And you're a fucking whore. I hope you die. And when you do, no one's gonna fuckin' notice. Cuz you're a fat fucking prostitute.
+HESHER	m	Dude, chill out for a second.
+TJ	m	Get the fuck away from me! I'll smash you in the face, I swear to God. Back the fuck up.
+TJ	m	I never want to see you or your ugly fucking face again. That goes for both of you fucking assholes.
+FUNERAL DIRECTOR	m	After the service we have complimentary lemonade in our wake room, but should you wish to upgrade to soda and sandwiches we can arrange that. People typically like to have a light bite after the service.
+DAD	m	Are you OK?
+TJ	m	Will you just leave me alone.
+HESHER	m	I wanna talk to you.
+TJ	m	Get your fucking hands away from me! I told you, I never want to see you again.
+HESHER	m	I fuckin' told you, leave my van out of this!
+TJ	m	Let go of me! Fuckin' let go of me.
+DAD	m	What in God's name -
+HESHER	m	Don't fuckin' touch m-
+HESHER	m	Fuck you both! Motherfuckers!
+TJ	m	Where's my car?
+DUSTIN	m	What are you doing!?
+TJ	m	Where's my fucking car?
+DUSTIN	m	Are you crazy?!
+TJ	m	You make me ask one more time, your toe's coming off. I swear to God.
+DUSTIN	m	It's gone to the wrecker's.
+TJ	m	What?
+DUSTIN	m	The wrecking yard.
+TJ	m	Bullshit.
+DUSTIN	m	Why would I be lying?
+TJ	m	Because you're a fucking asshole. Tell me where it is.
+DUSTIN	m	It's gone to the wrecker's. I swear to God.
+DUSTIN	m	I'm not lying. It went to the wrecking yard on Sunrise near Red Bridge, yesterday afternoon. It's there now.
+DUSTIN	m	I swear to God, man. It's at the wrecking yard on Sunrise.
+TJ	m	If you're lying, I'm gonna cut off every one of your fingers.
+DUSTIN	m	You finished? Want to tell me something else while you're visiting?
+HESHER	m	Hello.
+DUSTIN	m	What the fuck?
+TJ	m	What the fuck is wrong with you?
+HESHER	m	What?
+DUSTIN	m	Oh my god, my nose!
+TJ	m	What the fuck is wrong with you?
+HESHER	m	I just saved you.
+TJ	m	You cut his nose off.
+HESHER	m	Only a bit, it's just a cut.
+TJ	m	You just cut his nose off!
+HESHER	m	What are you talking about?
+TJ	m	Hold this against your face.
+TJ	m	You gotta stop the bleeding.
+DUSTIN	m	Oh my god!
+HESHER	m	What's your problem?
+TJ	m	I want you outta my life. I'm serious. I never want to see you again. How many times do I have say it?
+TJ	m	Hi. (yells into house) Pizza's here, I need money.
+TJ	m	(yells into the house) OK, pizza's here. Alright, let's do it.
+MOM	f	Teej, c'mon sweetheart. We have to go. We're going to be late.
+TJ	m	What about the pizza?
+MOM	f	We'll eat it in the car.
+MOM	f	Honey, will you grab the present?
+DAD	m	Holy crap, what is this thing?
+DAD	m	Ah, slight problem.
+MOM	f	We'll take my car.
+DAD	m	Sure thing.
+DAD	m	I think we should keep the new one and give them our old one.
+MOM	f	That's a great idea. I'll be sure to let them know that our dirty old microwave is a gift from you.
+DAD	m	Good. I'm not even sure they know who I am.
+MOM	f	Honey, they're my friends. Please.
+DAD	m	OK, I just don't understand why they get so many presents.
+MOM	f	A microwave and a bottle of scotch is hardly a lot of presents.
+DAD	m	And flowers.
+TJ	m	(mouth full of pizza) Mom can you turn on the radio?
+MOM	f	Sure honey. How about some oldies?
+TJ	m	Oldies but goodies.
+MOM	f	Honey?
+MARIO	m	Ricky! Ricky! Kill it, man.
+RICKY	m	What?
+MARIO	m	Kill it! There's someone in the car!
+MARIO	m	What the hell are you doing?
+TJ	m	I don't know.
+MARIO	m	What were you doing in there?
+TJ	m	I don't know. I'm sorry.
+MARIO	m	This car's about to get crushed. If I didn't see you, you would be dead.
+TJ	m	I know.
+MARIO	m	What were you thinking, man?
+DAD	m	Where have you been?
+TJ	m	Sorry.
+DAD	m	Where have you been?
+TJ	m	I'm sorry. I lost track of time.
+DAD	m	You lost track of time? It's ten in the morning!
+TJ	m	I'm sorry.
+DAD	m	I've been up all night. How is that fair to me?
+TJ	m	I don't know.
+DAD	m	Just go to your room.
+TJ	m	Hesher's not here.
+NICOLE	f	I came to see you.
+TJ	m	Why? What do you want?
+NICOLE	f	I wanted to tell you something.
+NICOLE	f	I didn't know if I should come here or not, but I couldn't stop thinking about it. I thought maybe if I came you'd still just be really angry at me and hate me, but then I thought if I didn't you'd think I didn't care and you'd hate me anyway, so I figured I might as well come, just in case, so here I am.
+TJ	m	Yeah, well what do you want?
+NICOLE	f	I want to apologize. I feel bad about what happened. I didn't take your feelings into consideration -
+TJ	m	Yeah, well, whatever. It doesn't really matter. I have to go.
+NICOLE	f	Yes it does. It does to me. I like you, TJ. We're friends.
+NICOLE	f	I understand if you don't want to be my friend. I didn't mean to hurt your feelings. Sometimes I just... I don't know. I just wanted to come around and say all that, but maybe you still hate me and so it doesn't matter, but I just came round to say that, but I've said it now, so I should just go. So, OK, bye.
+TJ	m	I'm sorry I broke your lamp.
+NICOLE	f	It's OK.
+TJ	m	And I'm sorry I called you a fat prostitute.
+NICOLE	f	It's OK.
+TJ	m	You're not fat.
+NICOLE	f	But I'm a prostitute?
+TJ	m	I dunno. Maybe.
+FUNERAL DIRECTOR	m	Excuse me, Mr. Forney, may I have a word?
+DAD	m	Ah, sure.
+FUNERAL DIRECTOR	m	I know that we discussed your preferences for some aspects of today's service, including your choice of the cedar casket which the insurance company had covered. Unfortunately we were out of those and instead we've chosen a mahogany casket. Now there is an extra charge for the mahogany which I need to clear with you before we proceed. Is that
+DAD	m	Ah, I guess.
+FUNERAL DIRECTOR	m	OK, great, thank you. If you could just sign here.
+FUNERAL DIRECTOR	m	We are gathered here today to mourn the loss and commemorate the life of Madeleine Frances Forney. (to arriving late comers) Ah, if you could please take your seats as quickly as possible that'd be great. Thank you. (he waits a beat) Madeleine was a beloved wife, mother, grandmother and friend. And now Mrs Agnes Rosowski, a dear friend and neighbor, will say a few quick words.
+MRS ROSOWSKI	f	I did not know Madeleine long enough, but from the moment I moved into the neighborhood so many years ago, she treated me as though I was part of the family.
+FUNERAL DIRECTOR	m	OK, thank you, Agnes...
+MRS ROSOWSKI	f	TJ, I think you should say something.
+TJ	m	Sorry.
+FUNERAL DIRECTOR	m	OK, so at this point we should conclude today's service with a moment's silence, after which lemonade will be served in the...
+HESHER	m	Actually, I'd like to add to TJ's speech. I think I know where he was going with that.
+FUNERAL DIRECTOR	m	I'm sorry, sir...
+DAD	m	What are you doing here?
+HESHER	m	Hey, hey, hey...
+HESHER	m	What are you doing? Get your fuckin' hands off that box.
+FUNERAL DIRECTOR	m	I'm sorry, sir we really need to-
+HESHER	m	Um...
+FUNERAL DIRECTOR	m	I'm sorry, sir-
+HESHER	m	You touch me again, I'll rip your fucking head off and skull fuck you.
+HESHER	m	Ah, OK. Listen. I know you guys don't want me here and I don't want to fucking be here, but I'm not here for me, I'm fuckin' here for her-
+HESHER	m	- and I'm not fuckin' here to say goodbye or have my farewell or whatever the fuck you assholes call it - this is not how I want to say goodbye to someone I like - in this shit-hole with these-
+HESHER	m	- fuckin' assholes.
+DAD	m	OK, this is enough-
+HESHER	m	Yeah, well why don't you shut up for a second and listen cause I'm going to say what I want to say and then you'll never see me again. Alright?!
+HESHER	m	I'm here cause she's been trying to tell you guys something, but you don't want to listen... so I'm gonna fuckin' break it down.
+HESHER	m	I pulled the gas tank from an old Chevy and I wanted to fuckin' blow it up, so I did. I didn't think about the millions of bits of metal that were gonna fly in every direction. I almost killed myself. I woke up in a hospital. I couldn't remember what happened and then this doctor at the end of my bed said 'son', and I said, 'don't call me son you fuckin' cunt', then he said, 'you blew off your nut'. Some shrapnel had penetrated my left scrotal sack and ripped the furry sucker right off. My left fucking nut was gone, just like that.
+HESHER	m	I went crazy. I assaulted a nurse, a doctor or two, I can't remember. I got arrested. I got sent to juvie. But all I could think about day and night was my missing fuckin' nut. I couldn't eat or sleep, I just wanted my fucking nut back. I had to get out of there and find it, so I busted out of juvie and went lookin' for it. I looked for days, but didn't find shit.
+HESHER	m	And then one night I was taking a shit and I was just staring down at my balls, looking at my flabby piece of sack where my left nut used to be and then I noticed my right nut, for like the first time. My right nut was just sitting there, totally happy, just hanging out.
+HESHER	m	All this time I'd been driving myself crazy thinking about my missing nut and not thinking about the nut I still had all along. And I realized, I've still got a nut. I've still got one good nut. God or the Devil or whoever left me with one good nut. At least I didn't lose both my nuts. I've still got one good nut and it works, and my dick works too.
+HESHER	m	You lost your mom. You lost your wife. I lost a nut.
+HESHER	m	Fuck this.
+HESHER	m	Leave her alone. We're not finished yet.
+FUNERAL DIRECTOR	m	Unfortunately sir, we need to be.
+HESHER	m	I told Grandma I was going on a walk with her and I'm gonna do it!
+HESHER	m	You promised Grandma you'd go on a walk with her. This is your last chance.
+OFFICER	m	You'll get him to bed now, won't you?
+DAD	m	That's the plan.
+HESHER	m	Get your hands off me, pig.
+DAD	m	That's the plan.
+TJ	m	Come in.
+DAD	m	Morning, Teej.
+TJ	m	Hey. Look at you.
+DAD	m	I know. It feels weird. I can feel air on my face.
+TJ	m	I hardly recognize you.
+DAD	m	I think Hesher's gone.
+TJ	m	Gone where?
+DAD	m	I don't know. But I think you should come take a look at this.
+

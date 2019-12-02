@@ -1,0 +1,587 @@
+DARK-HAIRED WOMAN	f	What are you doing? You don't stop here ... 
+DRIVER	m	Get out of the car. 
+DETECTIVE HARRY MCKNIGHT	m	You feel it? 
+DETECTIVE NEAL DOMGAARD	m	Yeah. 
+DETECTIVE NEAL DOMGAARD	m	Sammy thinks the Caddy had stopped along the shoulder ... man up the road said he saw two cars drag racin'...then you got that blind corner. 
+DETECTIVE HARRY MCKNIGHT	m	Two men... two guns in the Caddy. 
+DETECTIVE NEAL DOMGAARD	m	The boys found this on the floor in back of the Caddy. 
+DETECTIVE HARRY MCKNIGHT	m	Yeah, they showed me 
+DETECTIVE NEAL DOMGAARD	m	Could be unrelated. 
+DETECTIVE HARRY MCKNIGHT	m	Could be...any of those dead kids wearin' pearl earrings? 
+DETECTIVE NEAL DOMGAARD	m	No. Could be someone's missin' maybe. 
+DETECTIVE HARRY MCKNIGHT	m	That's what I'm thinkin'. 
+HERB	m	Why did you want to go to breakfast if you're not hungry? 
+DAN	m	I just wanted to come here. 
+HERB	m	To Denny's? I wasn't going to say anything, but why Denny's? 
+DAN	m	This Denny's. 
+HERB	m	Okay. Why this Denny's? 
+DAN	m	It's kind of embarrassing but, 
+HERB	m	Go ahead. 
+DAN	m	I had a dream about this place. 
+HERB	m	Oh boy. 
+DAN	m	You see what I mean... 
+HERB	m	Okay, so you had a dream about this place. Tell me. 
+DAN	m	Well ... it's the second one I've had, but they were both the same......they start out that I'm in here but it's not day or night. It's kinda half night, but it looks just like this except for the light, but I'm scared like I can't tell ya. Of all people you're standing right over there by that counter. You're in both dreams and you're scared. I get even more frightened when I see how afraid you are and then I realize what it is - there's a man...in back of this place. He's the one ... he's the one that's doing it. I can see him through the wall. I can see his face and I hope I never see that face ever outside a dream. 
+HERB	m	So, you came to see if he's out there? 
+DAN	m	To get rid of this god-awful feeling. 
+HERB	m	Right then. 
+DAN	m	Around here. 
+HERB	m	Dan! ... Dan! You all right? ... Dan! 
+OLD LADY	m	It's time to say goodbye, Betty. It's been so nice travelling with you. 
+BETTY	f	Thank you, Irene. I was so excited and nervous. It was sure great to have you to talk to. 
+IRENE	f	Now, remember I'll be watching for you on the big screen. 
+BETTY	f	Okay Irene. Won't that be the day. 
+IRENE	f	The best of luck to you, Betty. Take care of yourself and be careful. 
+BETTY	f	Okay I will. Thanks again. 
+CAB DRIVER	m	Where to? 
+BETTY	f	1612 Havenhurst. 
+CAB DRIVER	m	Got it! 
+MANAGER	m	Hi there...ten bucks says you're Betty. 
+BETTY	f	I am, Mrs. Lanois. It is Mrs. Lanois isn't it? 
+MRS. LANOIS	f	In all my living glory, baby. 
+BETTY	f	Pleased to meet you. 
+MRS. LANOIS	f	You can call me Coco ... everybody does. Stay there, I'll get the key. 
+BETTY	f	Okay, Coco. 
+COCO	?	I guess it was your grandfather, was it ... he called me to check in, said you were on your way and for you to call when you get in. Nice man... farmer I hear. 
+BETTY	f	Yes, he is. He raises corn. 
+COCO	?	Damn lot of corn raised in Hollywood these days too. 
+BETTY	f	Well, I ... 
+COCO	?	You don't have to tell me. It's written all over that pretty face of yours.. You came here to be an actress. I just hope you'll remember there's never been a great poem called "tits and ass." 
+BETTY	f	I... 
+COCO	?	You probably don't remember her, but Louise Bonner lives right over there in number 29. When she isn't drunk she runs a damn good acting class. 
+BETTY	f	Have many famous actors and actresses lived here? I was meaning to ask you that. 
+COCO	?	Honey, all the great ones came through here at one time or another. 
+BETTY	f	I guess I've come to quite a place. 
+COCO	?	Sweetheart, you don't know the half of it. 
+BETTY	f	No, I don't. 
+COCO	?	That's good. They're allowed, but I don't like 'em...for obvious reasons. One man used to live here that had a prize fighting kangaroo. You wouldn't believe what that kangaroo did to this courtyard ... let's see your Aunt's apartment ... it's a good one. 
+BETTY	f	I can hardly wait, Coco. 
+BETTY	f	It's unbelievable! 
+COCO	?	I told ya. 
+BETTY	f	Wow! 
+COCO	?	Now I guess you and your Aunt have an understanding. So here's the key and you need anything, just give a holler. Everybody in this building's pretty much okay with me or they wouldn't be here. If you want, later I'll introduce you around. No hard feelings if you don't, and don't forget the rooftop garden. It's just up the stairs we passed. It's open to all the tenants. You can see the Hollywood sign from there. 
+BETTY	f	Oh Coco thank you. Thank you so much. 
+COCO	?	You got it! See you later honey. 
+BETTY	f	Oh my! 
+DARK-HAIRED WOMAN	f	That's okay. 
+BETTY	f	I'm Ruth's niece. My name's Betty. I'm sure she told you I was coming. 
+DARK-HAIRED WOMAN	f	There was an accident. I came here. 
+BETTY	f	I understand. I saw the dress. I...I'm sorry.   Are you all right? 
+DARK-HAIRED WOMAN	f	A car ... a car accident. 
+BETTY	f	Are you okay? 
+DARK-HAIRED WOMAN	f	I think so. I was just taking a shower. 
+BETTY	f	Oh my god. I'm sorry. I'll let you get back to that. I'm going to get unpacked. 
+DARK-HAIRED WOMAN	f	My name is Rita. 
+BETTY	f	Hi...do you work with my Aunt? 
+RITA	f	No ..........I. 
+BETTY	f	I...I mean......I...it's none of my business. 
+RITA	f	She has pretty red hair... she is very kind I think. 
+BETTY	f	She sure is. She's letting me stay here while she's working on a movie that's being made in Canada, but I guess you know that.  I couldn't afford a place like this in a million years. Unless of course I'm discovered and become a movie star. Of course, I'd rather be known as a great actress than a movie star, but sometimes people end up being both and that is, I guess you'd say, sort of why I came here. I'm sorry, I'm just so excited to be here..I mean I just came here from Iowa and now I'm in this dream place. You can imagine how I feel. 
+RITA	f	I think I've been hurt. 
+BETTY	f	Oh... 
+RITA	f	No. 
+BETTY	f	But, this could be serious. 
+RITA	f	No...I need to sleep. 
+BETTY	f	If you have a concussion you shouldn't sleep. 
+RITA	f	It will be okay if I sleep. I need to lie down and sleep. 
+BETTY	f	All right, but...I'm going to check on you. 
+JOE	m	So man, that's unheard of ... an accident like that ... who coulda foreseen that. 
+ED	m	Unreal ... so, you're looking good. Whatcha doin' these days? 
+JOE	m	Well, not much Ed. Just doin' some stuff for this guy. 
+ED	m	Making ends meet, huh. 
+JOE	m	Hardly. 
+ED	m	Yeah, look at my digs ... times are tough. 
+JOE	m	Oh, things aren't so bad. Gee, I hope you're not goin' to get in any trouble. 
+ED	m	It was just a thing. The story made you laugh. 
+JOE	m	Yeah, that's a funny story. 
+ED	m	Yeah, the history of the world in phone numbers. 
+VOICES	m	What the hell .... what happened? What's this cord doing here? It's the vacuum. It's the vacuum what did it. 
+ADAM	m	So what's the problem? 
+RAY	m	There is no problem. 
+ADAM	m	So why did you idiots bring me here? ... I'm in the middle of making a picture. 
+MR. DARBY	m	What was it last time? 
+RAY	m	He isn't gonna like it. 
+MR. DARBY	m	We'll see. 
+ADAM	m	Hello ... who're we talkin' about here? 
+ROBERT SMITH	m	You see Adam... there are some suggestions which are to be brought forward ... and I know you said you would entertain suggestions and that's all anybody here is asking you to do. 
+ADAM	m	What're you talking about? 
+ROBERT SMITH	m	An open mind ... You're in the process of re-casting your lead actress and I'm... (looks around) We're asking you to keep an open mind. 
+RAY	m	Ah... the Castigliane brothers. Let me introduce you around ... please ... sit down. (after they've already seated themselves) ... this is Mr. Darby whom you know and this is the director Adam Kesher and his manager Robert Smith 
+MR. DARBY	m	May I offer you gentlemen anything? 
+LUIGI CASTIGLIANE	m	Espresso. 
+VINCENZO CASTIGLIANE	m	Nothing.  
+ADAM	m	Uh  what's the photo for? 
+MR. DARBY	m	One espresso ... no, that's it. I think you're going to enjoy your espresso this time... I've been doing quite a bit of research knowing how hard you are to please... this one comes highly recommended. 
+ADAM	m	What's the photo for? 
+RAY	m	A recommendation... a recommendation to you Adam. 
+VINCENZO CASTIGLIANE	m	Not a recommendation. 
+LUIGI CASTIGLIANE	m	This is the girl. 
+ADAM	m	What girl? For what? What is this Ray? 
+RAY	m	We'd be happy to put her in the pile for considerations ... you'd be pleased to know there's quite a lot of interest in this role. 
+ADAM	m	Interest?! There's six of the top actresses that want this thing. 
+LUIGI CASTIGLIANE	m	This is the girl. 
+ADAM	m	Ray...you better take care of this. 
+ROBERT SMITH	m	Hold on ... hold on, Adam. 
+ADAM	m	Hold on!!!!!!!! There's no way, there's no way!!! 
+LUIGI CASTIGLIANE	m	Napkin. 
+ESPRESSO MAN	m	Pardon? 
+LUIGI CASTIGLIANE	m	Napkin. 
+ESPRESSO MAN	m	Of course. Excuse me. 
+LUIGI CASTIGLIANE	m	Is shit! 
+RAY	m	I'm sorry. That was a highly recommended... 
+MR. DARBY	m	That's considered one of the finest espressos in the world , Sir. 
+ADAM	m	Wait a minute!! What's going on here? 
+ADAM	m	There's no way that girl is in my movie! 
+LUIGI CASTIGLIANE	m	That is the girl. 
+ADAM	m	Hey!!!!! That girl is not in my film!!! 
+VINCENZO CASTIGLIANE	m	It is no longer your film. 
+ADAM	m	You'd better fix this, Ray!!! 
+RAY	m	I'll speak to someone. 
+ADAM	m	And you'd better speak to someone too ... or find yourself another client!! This smells like a set-up to me! And by the way, Ray, I don't know who these guys are kidding, but every foot of film I've shot is in a vault at the lab that only I can access. No one's getting that film!! 
+ROBERT SMITH	m	This is a catastrophe... you told me they might insist on a girl, that's all. 
+ADAM	m	Why didn't you tell me, Robert? That's what I mean ... you set me up! I woulda never come here. I'm leaving. I'm a director you don't want to lose ... you guys better fix this!! 
+RAY	m	Well...I didn't know that was going to happen. 
+ADAM	m	Did the Castigliane brothers get out of that limo? 
+ATTENDANT	?	They two guys in dark suits? 
+ADAM	m	Castigliane brothers? 
+LIMO DRIVER	m	Beat it! 
+ADAM	m	O.K. 
+BETTY	f	No Grandpa, you wouldn't believe it. It's more beautiful than I ever dreamed ... no she left me a lot of food. The refrigerator's full ... Aunt Ruthie said she'd call me when she got settled... it was real smooth. I sat next to a lady who gave up her first class seat to a boy with a broken leg. She was so nice to me. She invited me to her house sometime. It's in Bel Air which is a place where people have a lot of money... I will. Everybody's telling me to be careful, but I sure love it here Grandpa. Thank you for helping me get here ... yeah, it's long distance. I love you. Say hello to Grams. Give her a big kiss for me. Okay, I love you Grandpa ... bye. 
+RITA	f	I'm... sorry. I ... 
+BETTY	f	What is it Rita? 
+RITA	f	I'm...I'm... oh no... I thought when I woke up... I thought sleep would do it ... 
+BETTY	f	What's wrong? 
+RITA	f	I don't know who I am. 
+BETTY	f	What do you mean? You're Rita. 
+RITA	f	I'm not. I don't know what my name is. I don't know who I am!! 
+BETTY	f	This is your purse. Your name must be in your purse. 
+RITA	f	I ... yes, but ... I ... 
+BETTY	f	Open it! 
+WOMAN'S VOICE	f	Who is it please? 
+RAY	m	Raymond Harris ... 20743. 
+RECEPTIONIST	m	You may go right in, Ray. 
+RAY	m	Good afternoon Mr. Roque. (pronounced Rowk). 
+RAY	m	I know they said... 
+MR. ROQUE	m	Then? 
+RAY	m	Then... I guess it's so .... alright, but that means we should ... 
+MR. ROQUE	m	Yes? 
+RAY	m	Shut everything down ... Is that something that...do you want us to shut everything down? 
+LIMO DRIVER	m	The other car is here sirs. Please allow me. 
+BILLY	m	Yeah, sure. Look what happened to them. 
+JOE	m	No, no, no, I told you. They're fine. They're all real happy. 
+BILLY	m	My next delivery is up that way, so I'll be getting down to it real soon. 
+JOE	m	You're so easy. 
+BILLY	m	Gotta keep an eye on her, that's all. 
+JOE	m	Yeah, what for? 
+BILLY	m	Keep her from gettin' in trouble, that's all. 
+JOE	m	What's  the matter now? 
+BILLY	m	Nothing... I don't like being out in the open like this. 
+JOE	m	It must be just so pathetic being you. Sure Billy, grab your dog we'll eat in the van. 
+LANEY	f	Not here...no thanks. 
+JOE	m	Not a coke or anything? 
+LANEY	f	No ... thanks though... I'll take a cigarette if you have one. 
+JOE	m	Sure, reach in my shirt pocket there. 
+LANEY	f	No.  I haven't seen any. 
+JOE	m	A brunette? ... maybe beat up? 
+LANEY	f	No... 
+JOE	m	You'll keep your eyes open for me won't you baby? 
+LANEY	f	Sure. 
+JOE	m	You bet you will. 
+MR. ROQUE	m	Yes? 
+THE MAN	m	Hello. 
+MR. ROQUE	m	She's still missing. 
+HAIRY-ARMED MAN	m	Talk to me... 
+THE MAN	m	Same. 
+BETTY	f	Well...  what do you think about then? I mean...  well what do you think about? 
+RITA	f	What do you mean? 
+BETTY	f	Well ... if you don't remember anything, I mean what goes through your mind then if you don't remember anything? 
+RITA	f	Nothing. I do remember the car crash... I told you... I remember the glass ... I think about that sometimes ... I remember walking here, sort of. Now I remember this place and you. That's about it. 
+BETTY	f	How do you remember how to talk? 
+RITA	f	I don't know. 
+BETTY	f	You don't remember anything else? 
+RITA	f	No There is something...something there I can't tell... I can't describe it. There are things there.... but I'm... here. 
+BETTY	f	The money. You don't know where it came from? 
+RITA	f	Unh, unh. 
+BETTY	f	When you think about them... the money... the key ... does it make you remember anything? 
+RITA	f	The money... I don't know about the money... the key... it makes me feel ... afraid. 
+ADAM	m	Office... 
+SECRETARY	f	Adam Kesher's office. 
+ADAM	m	It's me. Where's Cynthia? 
+SECRETARY	f	She's on the set. I'll connect you Mr. Kesher. 
+VOICE	m	Stage One. 
+SECRETARY	f	Paul, I have Mr. Kesher for Cynthia. 
+PAUL	m	Right baby, all Hell's broke loose down here. I'll try to find her. 
+CYNTHIA	f	Adam, where are you? 
+ADAM	m	What's going on, Cynthia? 
+CYNTHIA	f	They've closed the set. They sent everybody home. 
+ADAM	m	What did you say? 
+CYNTHIA	f	They fired everyone. 
+ADAM	m	Who fired everyone? 
+CYNTHIA	f	Ray did ... and then they closed the set.... everybody's gone. You'd better get down here Adam! 
+ADAM	m	No. 
+CYNTHIA	f	You've got to talk to Ray you've got to fix this. 
+ADAM	m	I'm going home. 
+CYNTHIA	f	Home! Meet me at the office. We've got to do something ... you've got to do something Adam! 
+ADAM	m	I'm going home Cynthia. 
+CYNTHIA	f	Adam, this isn't like you. Please come to the office. There must be something we can do. 
+ADAM	m	I'm going home. I'll call you later. 
+BETTY	f	I wonder where you were going. 
+RITA	f	Mulholland Drive. 
+BETTY	f	Mulholland Drive? 
+RITA	f	That's where I was going... Mulholland Drive. 
+BETTY	f	Maybe that's where the accident was. There must be a police report. We could call. 
+RITA	f	No.... I don't... 
+BETTY	f	We could call anonymously from a pay phone... just to see if there was an accident. 
+RITA	f	Okay... but just...just to see. 
+BETTY	f	Just to see if there was an accident on Mulholland Drive. 
+RITA	f	Okay. 
+BETTY	f	Come on... let's find you something to wear. 
+BETTY	f	It's terrible ... My Aunt dresses like Miss Marple. She's kind of a frumpy woman detective in British movies. 
+JAPANESE GARDENER	m	Ah, Mister ... you remember me. I am Taka. your gardener. For long time I not see you. I pleased to see you. 
+ADAM	m	Hello Taka. It's 'cause I'm never home in the day time. It's good to see you again. The garden looks great. 
+ADAM	m	Lorraine... Lorraine ... you home? 
+LORRAINE	f	Now, you've done it! 
+GENE	m	Just forget you ever saw it. It's better that way. 
+LORRAINE	f	What the hell are you even doing here? 
+LORRAINE	f	That bastard! 
+GENE	m	He's probably upset Lorraine. 
+LORRAINE	f	WHAT.. ARE ... YOU ... DOING!!!??? 
+GENE	m	That's not a way to treat your wife, buddy. I don't care what she's done. 
+LORRAINE	f	Throw him out! 
+BETTY	f	Hollywood Police Department please. 
+OPERATOR	m	Is this an emergency? 
+BETTY	f	No, no, I just want the number. 
+OPERATOR	m	Hold for the number. 
+VOICE	m	Hollywood Police Department 
+BETTY	f	I'm inquiring about an accident that happened last night on Mulholland Drive. 
+VOICE	m	Hold please. I'll connect you to traffic. 
+SERGEANT BAXTER	m	Traffic. Sergeant Baxter speaking. 
+BETTY	f	Hi. I'm inquiring ...well, I heard a sound last night that sounded like a car crash and I want to know if there was an accident on Mulholland Drive. 
+SERGEANT BAXTER	m	Yes, there was. 
+BETTY	f	Can you tell me what happened? 
+SERGEANT BAXTER	m	No. I can't. 
+BETTY	f	Was anyone hurt? 
+SERGEANT BAXTER	m	May I have your name please? 
+BETTY	f	There was an accident. He wouldn't tell me anything else, but that was your accident Rita. I just know it was. Maybe there's something about it in the papers. Come on I'll buy you a cup of coffee and we can see. 
+RITA	f	There's nothing? 
+BETTY	f	Not that I can see. 
+DIANE	f	You're welcome. Will that be all? You want your check? 
+BETTY	f	Just the coffee. Rita, you want something? 
+RITA	f	No. Just the coffee. 
+BETTY	f	We'll take our check. 
+RITA	f	Shhhh. 
+DIANE	f	Thank you. Come in again. 
+BETTY	f	You're welcome. We will. 
+RITA	f	I remember something... I remember something! 
+RITA	f	
+BETTY	f	Strange to be calling yourself. 
+RITA	f	Maybe it's not me. 
+BETTY	f	Call the number. 
+WOMAN'S VOICE	f	Hi ... this is me. Leave me a message. 
+RITA	f	It's not my voice ... but I know her. 
+BETTY	f	Maybe the voice isn't Diane Selwyn. Maybe that's your roommate or if it is Diane Selwyn she can tell you who you are. 
+RITA	f	Maybe...maybe ... maybe. 
+KENNY	m	Adam Kesher...he... 
+LORRAINE	f	Yeah, right ... get lost! 
+KENNY	m	This is Adam Kesher's house. Where... 
+LORRAINE	f	Like hell it is! Get out ... NOW!!! 
+GENE	m	I guess you don't understand English. She asked to leave. Here's the door. 
+BETTY	f	It's right about here on Sierra Bonita. That's not too far away. 
+BETTY	f	What's wrong with that? 
+RITA	f	I'm not sure about this. 
+BETTY	f	I know you're afraid of something. We'll be careful. Tomorrow we'll go over there and we'll find out. 
+BETTY	f	It'll be okay. 
+LOUISE	f	Where is Ruth? 
+BETTY	f	Ruth's gone on a film. I'm her niece Betty.   Who are you? 
+LOUISE	f	Someone is in trouble. Who are you? Why are you in Ruth's apartment? 
+BETTY	f	I'm her niece. She's letting me stay here. My name is Betty. 
+LOUISE	f	No it isn't. That's not it. That's not what she said. Something bad's happening. Where's Ruth? 
+BETTY	f	I'm sorry, but I don't know who you are and I'm... 
+COCO	?	Louise... what're are you doing Louise? 
+LOUISE	f	Where have you been Coco? God, I've been trying to find you all afternoon since 3:00 o'clock. That one is in my room and she won't leave. I want you to get her out. I want you to get her out now. 
+COCO	?	This is Louise Bonner. I'm sure she meant well. This is Betty, Ruth's niece. In fact and fortunately I was just coming to see Betty. Betty's a young actress and I'm delivering faxed pages of a scene for her audition tomorrow. Here they are honey. Now come along Louise and I'll take you home. Sorry about this. Sometimes it happens. 
+LOUISE	f	No, she said it was someone else in trouble. 
+COCO	?	Stop it, Louise. Let's get you home ... goodnight Betty. 
+BETTY	f	Whoa! 
+ADAM	m	Yes...what is it? 
+HOTEL MANAGER	m	I'm sorry Mr. Kesher, but there seems to be some problem concerning your credit card. 
+ADAM	m	... What?? 
+HOTEL MANAGER	m	The fact is Mr. Kesher a representative of your bank called us. 
+ADAM	m	How...  how'd they know I was here? 
+HOTEL MANAGER	m	I don't know. All we do is take an impression of the credit card and until you check out it just sits in our files. 
+ADAM	m	So, what did they say? 
+HOTEL MANAGER	m	Well, Sir, I'm afraid they said you're overdrawn at your bank and your line of credit has been cancelled. 
+ADAM	m	Unbelievable. Look... here. I don't know what's going on. That's so much baloney. I've got enough cash for one night, okay? 
+HOTEL MANAGER	m	That's fine, Mr. Kesher. You can pay cash when you check out. I'm sorry. it was my duty to inform you. 
+ADAM	m	Fine. I'll check out in the morning. 
+HOTEL MANAGER	m	Have a good evening, Mr. Kesher. 
+ADAM	m	Someone's shut off my money! 
+CYNTHIA	f	I know.  Where are you Adam? 
+ADAM	m	What do you mean "you know"? 
+CYNTHIA	f	Someone called me. When they couldn't get you they told me you were as good as broke. I didn't believe then, so I made some calls. 
+ADAM	m	And? 
+CYNTHIA	f	You're broke! 
+ADAM	m	But I'm not broke. 
+CYNTHIA	f	I know, but you're broke. Where are you? 
+ADAM	m	Beverly Hills Hotel. I've got enough cash in my pocket for one night. 
+CYNTHIA	f	Do you know somebody called the The Cowboy? 
+ADAM	m	The Cowboy?? 
+CYNTHIA	f	Yeah, the Cowboy. This guy, the Cowboy, wants to see you. Jason said he thought it would be a good idea. 
+ADAM	m	Oh, Jason thought it would be a good idea for me to meet the Cowboy. Should I wear my ten gallon hat and my six shooters? 
+CYNTHIA	f	Something tells me this guy is connected with what's happening, Adam, and I think you should do it and I think you should do it right away. 
+ADAM	m	Cynthia...what's going on? 
+CYNTHIA	f	It's been a very strange day. 
+ADAM	m	And getting stranger. Where do I meet this Cowboy? I mean do I have to ride out to the range? 
+CYNTHIA	f	Sort of, funny boy. If I tell him the meeting's on you're to go to the top of Beachwood Canyon. There's a corral up there where he'll be. 
+ADAM	m	You gotta be kidding? 
+CYNTHIA	f	Will you meet with him? 
+ADAM	m	Yeah, sure. It is that kind of a day. When? 
+CYNTHIA	f	I'll call him, then call you back...If you want you could stay at my place. 
+ADAM	m	Cynthia... that would not be a good idea. 
+CYNTHIA	f	I'm just offering a place to stay. 
+ADAM	m	I understand, Cynthia and thank you for the offer. I'll find a place. Now go ahead and give the Cowboy a yodel and get back to me. 
+CYNTHIA	f	Okay, but you don't know what you're missing. 
+ADAM	m	Git along little dowgie and call me back. 
+COWBOY	m	Howdy! 
+ADAM	m	Howdy to you. 
+COWBOY	m	Beautiful night. 
+ADAM	m	Yeah. 
+COWBOY	m	Sure want to thank ya for drivin' all the way up to see me from that Beverly Hills Hotel. 
+ADAM	m	No problem. What's on your mind? 
+COWBOY	m	Well now, here's a man who wants to get right to it. Kinda anxious to get to it are ya? 
+ADAM	m	Whatever. 
+COWBOY	m	A man's attitude ... a man's attitude goes some ways toward how a man's life will be. Is that somethin' you agree with? 
+ADAM	m	Sure. 
+COWBOY	m	Now... did you answer cause you thought that's what I wanted to hear or did you think about what I said and answer cause you truly believe that to be right? 
+ADAM	m	I agree with what you said...truly. 
+COWBOY	m	What did I say? 
+ADAM	m	That a man's attitude determines to a large extent how his life will be. 
+COWBOY	m	So since you agree I guess you could be a person who does not care about the good life. 
+ADAM	m	How's that? 
+COWBOY	m	Well, just stop for a little second and think about it. Will ya do that for me? 
+ADAM	m	Okay, I'm thinking. 
+COWBOY	m	No. You're too busy being a smart aleck to be thinkin'. Now I want ya to think and quit bein' such a smart aleck. Can ya do that for me? 
+ADAM	m	Look ... where's this going? What do you want me to do? 
+COWBOY	m	There's sometimes a buggy. How many drivers does a buggy have? 
+ADAM	m	One. 
+COWBOY	m	So let's just say I'm drivin' this buggy and you fix your attitude and you can ride along with me. 
+ADAM	m	Okay. 
+COWBOY	m	Now I know a few things. I know you have had a rough day. You're probably thinkin' I don't know the half of it, but in actual fact I know every part of it. The business of gittin' thrown off your movie, the heartache of seeing your wife with another man... losin' access to that precious film vault... 
+ADAM	m	It will work out. 
+COWBOY	m	Good then, but, just in case, that bank's gonna stay closed a bit longer. You understand that? 
+ADAM	m	I understand. 
+COWBOY	m	You're an understandin' fella. 
+ADAM	m	So, this is the last time I see you then unless I do bad? 
+COWBOY	m	No, this one doesn't count. It's part of the original one. So then ... until we meet again. 
+ADAM	m	Okay. 
+BETTY	f	"You're still here?" 
+RITA	f	"I came back. I thought that's what you wanted." 
+BETTY	f	"Nobody wants you here!" 
+RITA	f	"Really?" 
+BETTY	f	"My parents are right upstairs! They think you've left..." 
+RITA	f	"So... surprise"... 
+BETTY	f	"I can call them... I can call my dad... " 
+RITA	f	"But you won't..." 
+BETTY	f	"You're playing a dangerous game here. If you're trying to blackmail me... it's not going to work." 
+RITA	f	"You know what I want...it's not that difficult." 
+BETTY	f	"Get out! Get out before I call my dad ... he trusts you ... your his best friend. This will be the end of everything... " 
+RITA	f	"What about you? What will your dad think about you?" 
+BETTY	f	"Stop! Just Stop! That's what you said from the beginning. If I tell what happened... they'll arrest you and put you in jail, so get out of here before..." 
+RITA	f	"Before what?" 
+BETTY	f	"Before I kill you." 
+RITA	f	"Then they'd put you in jail." 
+BETTY	f	Cry, cry, cry, and then I say with big emotion, "I hate you... I hate us both!" 
+RITA	f	But you are  
+BETTY	f	Thank you dahling! 
+COCO	?	Hello ... Ruthie... How's the great up north? ... Oh, I'm sorry to hear it ... what? Well, I haven't seen her if she's in there. Now, Ruthie there's nothing to worry about. I saw Betty last night and she was just fine. Yes, and I gave them to her. She's a real nice kid, Ruthie. Now stop worrying, will ya. I'll go over and have a look around. I will. I've got the production office number. I'll find you. Now keep your socks on up there and take lots of "C." Goodbye honey. 
+BETTY	f	Oh, no wonder I'm starving. I'm going to fix a sandwich. You want one? 
+RITA	f	I'm all right. 
+BETTY	f	You've got to eat something. You're just nervous about going over to see if you're Diane Selwyn. 
+COCO	?	Hi! Who are you? 
+RITA	f	Uh...Betty!? 
+COCO	?	Can I see you outside a minute Betty? 
+COCO	?	Your Aunt called me. 
+BETTY	f	I was afraid of that. 
+COCO	?	She wants to know who's staying in her apartment. 
+BETTY	f	It's just for a night or two, until she finds her own place. I tried to explain that to Aunt Ruth, but the connection was bad and her plane was leaving and she got it all mixed up. I kept telling her it was my friend and she kept saying she didn't know any Ritas ... 
+COCO	?	Sweetie, look at me straight. 
+BETTY	f	Coco...she's very nice. We went to school together. 
+COCO	?	So I guess your Grandpa and Grandma know her. 
+BETTY	f	Not really. I met her in junior college and she was from this other town. 
+COCO	?	Honey... I was married to a director for thirty years. He had an uncanny ability to read people. Maybe some of it rubbed off on me or maybe I had it all along ... you're a good kid... What you're telling me is a load of horse - pucky but it comes from a good place. I'll trust you to sort this out. Now I'm not going against Ruth. She's got enough to worry about up there in Canada. If she asks- I'm going to say everything is okay, and you make sure it is. If you need any help you know where to find me. 
+BETTY	f	You're really something Coco...thank you. 
+COCO	?	Don't make me out to be a sucker. Louise Bonner says there's trouble in there. You remember last night. Sometimes she's wrong, but if there is trouble - get rid of it. 
+RITA	f	Is everything all right? Is it bad for you that I'm here? 
+BETTY	f	Everything is A-okay, but I've gotta get that sandwich! 
+DETECTIVE HARRY MCKNIGHT	m	Nice wallets. 
+DETECTIVE NEAL DOMGAARD	m	Handstitched Italian. Filled with phony credit cards ... off the two guys in the Caddy. 
+DETECTIVE HARRY MCKNIGHT	m	The one of 'em still alive? 
+DETECTIVE NEAL DOMGAARD	m	Yeah... just .... Dr. Scott's got 'im. You remember Dr.Scott. 
+DETECTIVE HARRY MCKNIGHT	m	Oh yeah. 
+DETECTIVE NEAL DOMGAARD	m	Well he said...  you know in his way... you know what I mean? Besides the guy gettin' rolled up under the kids car which busted him up pretty bad, there was this little knife-like torn piece of metal, you know, off the car body, rolled out and slid up through this guy's neck and just kinda slit his aorta, you know, but they didn't find it right away, so the guy's losin' a lot of blood, you know, to the brain - all this time cause it was just like this thin little puncture wound on the surface of his neck that kinda sealed itself, he said, while inside the aorta is bleedin' pretty steady all that time. So, Dr. Scott's laughin' you know like he does 'cause he knows we want to talk to this guy. He's laughin' you know and shakin'... Son of a bitch couldn't stop laughin'... It was kinda contagious 'cause pretty soon we were all laughin'...the nurse was laughin'. You know how he is. 
+DETECTIVE HARRY MCKNIGHT	m	Find out who they are? 
+DETECTIVE NEAL DOMGAARD	m	Nope, not yet. Their fingerprints don't match up anywhere. 
+DETECTIVE HARRY MCKNIGHT	m	Interesting. 
+DETECTIVE NEAL DOMGAARD	m	Yeah ... and they both use the same address. 
+DETECTIVE HARRY MCKNIGHT	m	Where at? 
+DETECTIVE NEAL DOMGAARD	m	Palmdale. 
+DETECTIVE HARRY MCKNIGHT	m	Damn, that's a long drive. 
+BETTY	f	I hope I'm back in a couple of hours. Don't drink all the coke. 
+RITA	f	Good luck! 
+BETTY	f	When I get back I'll have the cab waiting, so be ready to go. 
+RITA	f	Okay. 
+BETTY	f	Sorry to trouble you, Coco. 
+COCO	?	It's all right gorgeous. Something wrong? 
+BETTY	f	No, no. I'm on my way to my audition. Before I go I wanted to ask you if you could remember the man's name ... Aunt Ruthie's friend who helped put this together. It completely went out of my mind. 
+COCO	?	His name's Wally Brown .... great guy. Been in the business since forever. 
+BETTY	f	Thanks Coco. It'd be so embarrassing 
+COCO	?	Naw! He wouldn't have cared. Just give him a good performance and he'll be happy and I've got a feeling you'll do just that. 
+BETTY	f	Thanks Coco. I'll let you know. 
+COCO	?	Get going. You don't want to be late. 
+BETTY	f	Right. See ya. 
+COCO	?	Good luck, honey! 
+PARAMOUNT GUARD	m	And where do we think we're going, Miss? 
+BETTY	f	To my audition. 
+PARAMOUNT GUARD	m	And who are we auditioning for today? 
+BETTY	f	Wally Brown. 
+PARAMOUNT GUARD	m	And do we know which of the fifty-seven buildings Wally Brown is in? 
+BETTY	f	No, we don't. 
+PARAMOUNT GUARD	m	Well, now we've got to figure that out first don't we? 
+BETTY	f	Yes, Sir. 
+PARAMOUNT GUARD	m	Mr.Wallace Brown is in the Executive Building on the second floor. We want to go in and turn right at the first street. Then we want to walk three blocks down past Stage 17 to the white Executive Building. Once we're on the second floor the receptionist will take us from there. Now do we have name? 
+BETTY	f	Betty Elms. 
+PARAMOUNT GUARD	m	Let's see if we have a pass for Betty Elms ... and we do. Here we go. And good luck Miss. Elms. 
+BETTY	f	Thank you... thank you very much. 
+RECEPTIONIST	m	Number 43, on the left. 
+BETTY	f	Thank you. 
+RECEPTIONIST	m	May I help you? 
+BETTY	f	My name is Betty Elms. I'm here to audition for... Mr. Brown 
+RECEPTIONIST	m	Good. Perfect timing. Have a seat and I'll get Mr. Brown. 
+WALLY	m	Betty Elms? 
+BETTY	f	Yes. 
+WALLY	m	I'm Wally Brown. Your Aunt is a very dear friend of mine so it's particularly nice to meet you. 
+BETTY	f	Very pleased to meet you. 
+WALLY	m	Come in. I'd like you to meet everyone. 
+SARAH JAMES	f	Why thank you, Wally. Hello Betty. 
+BETTY	f	Pleased to meet you. 
+SARAH JAMES	f	This is Nicki, my assistant. 
+WALLY	m	And this is Martha, Martha Johnson, who you met out front. 
+BETTY	f	Hi. 
+WALLY	m	Well. Shall we get to it? Would you like a water or a coffee before we begin? 
+BETTY	f	No, no, I'm fine. 
+WALLY	m	Well then, take a seat everyone. Betty why don't you join Jimmy and we'll play the scene. Is there anything you'd like to say Bob... something to Betty before they begin? 
+BOB	m	No ... it's not a contest, see, the two of them with themselves, so don't play it for real until it gets real. 
+BETTY	f	Okay. 
+JIMMY	m	Just tell me where it hurts, baby. 
+BETTY	f	What? 
+JIMMY	m	I want to play this one close, Bob. Like it was with that girl, what's her name, with the black hair. That felt good. Whaddya think? 
+BOB	m	That'd be good, Jimmy. Just don't rush that line again. I told you... the line where you say, "Before what?" 
+JIMMY	m	I was playin' off 'em. They say, "They'll arrest you"... and stuff like that.. "put you in jail"... they say it like that. They all say it the same way, so I react like that. 
+BETTY	f	Betty. 
+JIMMY	m	Yeah ... Betty. You don't rush it. I don't rush it. We play it close, just like in the movies. 
+WALLY	m	Bob? 
+BOB	m	And ... ACTION! 
+BETTY	f	You're still here? 
+JIMMY	m	I came back. I thought that's what you wanted. 
+BETTY	f	Nobody wants you here. 
+JIMMY	m	Really? 
+BETTY	f	My parents are right upstairs! They think you've left. 
+JIMMY	m	So ... surprise! 
+BETTY	f	I can call them... I can call my dad. 
+JIMMY	m	But you won't. 
+BETTY	f	You're playing a dangerous game here. if you're trying to blackmail me... it's not going to work. 
+JIMMY	m	You know what I want...it's not that difficult. 
+BETTY	f	Get out... Get out before I call my dad. He trusts you... you're his best friend. This will be the end of everything. 
+JIMMY	m	What about you? What will your dad think about you? 
+BETTY	f	Stop... just stop! That's what you said from the beginning. If I tell what happened... they'll arrest you and put you in jail, so get out of here before... 
+JIMMY	m	Before what? 
+BETTY	f	Before I kill you. 
+JIMMY	m	Then they'd put you in jail. 
+BETTY	f	I hate you... I hate us both! 
+SARAH JAMES	f	I'm going to take her over there. 
+NICKI	f	Big time! 
+WALLY	m	Wow! 
+BETTY	f	Well, there it was. 
+JIMMY	m	There it was it was! Baby, you got a way! 
+WALLY	m	Bob? 
+BOB	m	Very good. Really. I mean it was forced maybe but still humanistic. Yeah, very good, really. 
+WALLY	m	Well, thank you Betty, and I mean that. That was very impressive. You've done your Aunt proud and I'm going to tell her the first chance I get. We'll speak again soon I'm sure, and thank you so much for coming in. 
+BETTY	f	Well, thank you. 
+SARAH JAMES	f	Thank you, Wally. I'm sure you all have a lot to talk about. We'll walk Betty out. 
+WALLY	m	Well, yes indeed. Our pleasure, Sarah, and don't you be a stranger. We'd love to see you around here again real soon. 
+SARAH JAMES	f	Well come along, Betty. 
+BETTY	f	Thank you again, Mr. Brown. It was nice meeting all of you. 
+SARAH JAMES	f	Oh God, that was awful! 
+NICKI	f	How about that Jimmy Katz? 
+SARAH JAMES	f	Oh god! Jimmy Katz never had a day. Jimmy Katz never had a minute. Poor Wally. 
+BETTY	f	They seem very nice to me, and Wally... Mr. Brown is a very close friend of my Aunt's, so. . . 
+SARAH JAMES	f	Settle down, Betty. Don't get me wrong. I love Wally. I ought to. I was married to him for ten years. 
+ADAM	m	Cut it! 
+CAROL	f	Oh, man, are you kidding? I love this script! Where do I sign? 
+ADAM	m	Look... I love you, but there's no way they're gonna let me cast this thing until I've seen everyone. I'll let you know as soon as I can. 
+CAROL	f	I know you will ... cause my manager's gonna bug you day and night ... me too. 
+ADAM	m	It'll be my pleasure. Now, get out of here. 
+CAROL	f	Oh, you're just so cruel... don't forget me. I'm the girl that's going to play this part. 
+ADAM	m	See ya later. 
+HANK	m	Camilla Rhodes. 
+ADAM	m	Is she ready? 
+HANK	m	All ready. 
+ADAM	m	Bring her out. 
+HANK	m	Camilla Rhodes next! 
+ADAM	m	Playback! 
+HANK	m	Yeah? 
+ADAM	m	Get Jason over here. 
+HANK	m	Cindy ... Adam wants to see Jason. 
+JASON	m	Did you want to tell me something, Adam? 
+ADAM	m	This is the girl! 
+RAY	m	Excellent choice, Adam. 
+BETTY	f	Oh ... oh...I have to be somewhere. I promised a friend. 
+BETTY	f	C'mom. There's nothing to be afraid of. 
+CORNELL DUMONT	m	Hey! 
+BETTY	f	Sol? 
+CORNELL DUMONT	m	No ... not you... I'm sorry... I forget your name. 
+RITA	f	Rita. 
+CORNELL DUMONT	m	Yeah. Well, I haven't seen Sol lately. Tell him to come by the club. 
+BETTY	f	And what's your name? 
+CORNELL DUMONT	m	Cornell Dumont. 
+BETTY	f	Ask him who Sol is ... 
+BETTY	f	Why didn't you ask him? Sol knows you! 
+RITA	f	But I don't know, Sol. I never heard of Sol. I'd just get in trouble. That's why we shouldn't go see about Diane Selwyn... it's better not to get in trouble. 
+BETTY	f	You're not going to get in trouble. You're going to find out who you are. Finding out who you are gets you out of trouble. 
+BETTY	f	It should be around here... 
+RITA	f	Don't stop! 
+BETTY	f	What is it? What do you see?! 
+RITA	f	Those men in front, in the car. 
+BETTY	f	Do you know them?! 
+RITA	f	No... but... 
+BETTY	f	Keep going. Go around to the back. 
+BETTY	f	Selwyn ... number 12. 
+RITA	f	Oh no ... don't. 
+MIDDLE-AGED WOMAN	f	Yes? 
+BETTY	f	Diane? 
+MIDDLE-AGED WOMAN	f	Number 17. 
+BETTY	f	But it said #12. 
+MIDDLE-AGED WOMAN	f	I switched apartments with her. She's in #17. Just walk down that way. It's just to the right. 
+BETTY	f	Well ... we'll leave her a note. 
+MIDDLE-AGED WOMAN	f	I'll go with you. She's still got some of my stuff. 
+BETTY	f	I guess you're not Diane. 
+RITA	f	I don't think... 
+BETTY	f	C'mon help me in. I'll open the front door. 
+RITA	f	No. 
+BETTY	f	PUSH!!! 
+BETTY	f	Rita... I know what you're doing. 
+RITA	f	What ... I..HAVE... to do. 
+BETTY	f	I know what you have to do, but let me do it. 
+BETTY	f	You look like someone else. 
+WILKINS	m	Hello. Adam. How's it going? No, it's okay. Yeah, I'm working, but... they wanted this script a week ago. What? What's wrong with your house? The poolman? Sure, you can have the couch. No, it's no problem..it's just I gotta ... I gotta work. Any chance you could bring some food. No, I got plenty of money - I just haven't gone out for awhile. Groovy man! 
+BETTY	f	What are you doing? 
+RITA	f	You've been so good to me ... now we know why ... why I was so afraid. We know what kind of trouble I'm in. I shouldn't... ask you... I only have this to offer. I'll give you this if I can stay here for awhile. I don't know what else to do. 
+BETTY	f	Rita... I want you to stay here and you don't have to give me that money. 
+RITA	f	But I want to. 
+BETTY	f	No. We shouldn't touch that money. We don't know about that money. That might be dangerous money. You have to start all over again. You look like a brand new person and you can be a brand new person... whoever you want to be. 
+RITA	f	It sounds kind of nice ... being somebody brand new. 
+BETTY	f	Hey, let's introduce the brand new you to Hollywood. We haven't seen the roof garden yet. 
+BETTY	f	Here I am Hollywood! My name's Betty. 
+RITA	f	Here I am Hollywood! My name is ... Rita. 
+THE END	m	
+

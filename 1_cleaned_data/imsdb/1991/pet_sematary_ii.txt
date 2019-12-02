@@ -1,0 +1,501 @@
+DIRECTOR	m	Cut! Thank you, Renee. Can we throw some light on the set?
+GENVIEVE	f	I'm sorry...
+FIRST A.D.	m	Water in the pool's running low, fill her up!
+PUPPETEER	m	I can't see shit down there! I'm working blind!
+RENEE	f	This is great, I could've spent four months on a romantic comedy with Warren Beatty, and instead, I've got a horny zombie trying to cop a feel!
+RENEE	f	Uhgh, there's water everywhere... Can I get a cigarette?
+RENEE	f	Geoff? Anybody see my boy?
+GEOFF	m	Right here, Mom...
+RENEE	f	How long have you been here?
+GEOFF	m	Couple minutes. I saw the last shot. That was pretty cool.
+RENEE	f	How did it go with your father last night?
+GEOFF	m	Good. He said he'd be over for dinner at eight... I mean... he misses you, Mom...
+RENEE	f	I miss him too...
+RENEE	f	I just don't want you to get your hopes up, okay? We're trying to work things out, but...
+GEOFF	m	I know, Mom.
+RENEE	f	You know everything, don't you?
+FIRST A.D.	m	Okay, people! Quiet! We're going to try this another time!
+GEOFF	m	Guess it's showtime.
+RENEE	f	Yep.
+DIRECTOR	m	Alright, Renee. Last time. I promise. We nail this and you won't have to do this ever again.
+RENEE	f	That's what you said the first time...
+OPERATOR	m	Rolling. Speed...
+SLATE BOY	m	"Castle of Terror." Scene 69A. Take thirteen.
+DIRECTOR	m	Action!
+ELECTRICIAN	m	Jesus! We've crossed over into 220! Shut down the generator!
+GEOFF	m	Mom!!!!
+CHASE	m	I think this is probably for the best. He's a very old dog. He has arthritis. He has cataracts in his eyes...
+CHASE	m	He's had a good life... ...haven't you, boy?
+INTERCOM	m	Doctor Matthews, your son is on line one. He says it's an emergency...
+PARAMEDIC #1	m	Run me down a line of normal saline.
+PARAMEDIC	m	We have a bradycardic rhythm at
+PARAMEDIC #3	m	White female. Approximately thirty five years old. Electrocution...
+PARAMEDIC #2	m	She's in V-fib.
+PARAMEDIC	m	Clear.
+GEOFF	m	No...
+GEOFF	m	You have to bring her back...
+CHASE	m	Oh Jesus...
+GEOFF	m	Dad...
+PARAMEDIC #1	m	We're losing her...
+HANDLER #1	m	Is it true she grew up around here?
+HANDLER #2	m	Yeah. Over in Ludlow.
+HANDLER #1	m	Huh. Never met a movie star before.
+HANDLER #3	m	Well you're a little late for an autograph.
+PRIEST	m	...I am the resurrection and the life, saith the Lord...
+PRIEST	m	...She that believeth in me, though she were dead, yet shall she live; and whosoever liveth and believeth in me, shall never die...
+GUS	m	Let's keep it back, folks. Try to show her a little respect...
+GUS	m	Hey! What did I just say?
+REPORTER	m	Ass-hole...
+PRIEST	m	I know that my redeemer liveth, and that he shall stand at the latter day upon the earth.
+GUS	m	Did she always have reporters following her around like this?
+CHASE	m	Pretty much so.
+GUS	m	I hear you moved into town.
+CHASE	m	I wanted to get Geoff out of L.A. Just start things over, you know?
+GUS	m	I remember when Renee left. She couldn't wait to get out of Ludlow. She used to say that life moved too slow here...
+CHASE	m	That's Renee alright.
+GUS	m	I suppose so.
+MOVER	m	We've got six more of these. You sure you want them all in the attic?
+CHASE	m	...Geoff, what if we just give the clothes to Goodwill? We'll keep the rest. Just the clothes.
+GEOFF	m	You're the one who wanted to move. Nobody would've touched them if you didn't want to move here...
+CHASE	m	All the 'Renee' boxes go in the attic. Sorry.
+MARJORIE	f	Hi. I'm Marjorie Hargrove. Your new housekeeper.
+MARJORIE	f	Is something wrong?
+CHASE	m	Uh... no. You just... look different than you sounded on the phone. Please, come in.
+MARJORIE	f	I'm real excited about working for you Mr. Matthews...
+CHASE	m	Well we're glad to have you, Marjorie. You can call me Chase, by the way.
+MARJORIE	f	I've always admired Ms. Hallow. That scene she did in Blue Midnight, where her lover meets her at the train station... I must've watched that movie four times.
+MARJORIE	f	Oh. I'll get that...
+MARJORIE	f	This is gorgeous. She wore this at the Emmys, didn't she?
+GEOFF	m	Hey, don't touch her stuff. It made her crazy when people touched her stuff.
+CHASE	m	This doesn't look so bad...
+GEOFF	m	How long ago did this guy retire?
+CHASE	m	It's been a few years.
+GEOFF	m	A few?
+CHASE	m	What's wrong?!
+GEOFF	m	Nothing. I just got spooked by a bunch of furballs.
+CHASE	m	Great, now I've opened an orphanage too.
+GEOFF	m	Well, I'll take one. If it's okay...
+GEOFF	m	She looks like a tiger.
+CHASE	m	Tell you what, you do some sweeping up here, and she's yours.
+VOICE	m	Drew, you get a handle on that dog, now!
+DREW	m	Sorry. He gets kinda hyper...
+GUS	m	Hell, he thought it was lunch. How ya doin', Chase? You haven't met my boy. Drew, where the hell are your manners.
+GEOFF	m	He's a cool lookin' dog.
+GEOFF	m	What's his name?
+DREW	m	Zowie.
+GUS	m	Damn dog stuck his nose in on my rabbits and they ganged up on him. I swear that dog's an idiot.
+DREW	m	Is he gonna be okay?
+CHASE	m	Let's have him hop up here.
+GUS	m	When I was young I thought cats were the girls and dogs were the boys.
+CHASE	m	There are three more girls where that one came from looking for homes.
+GUS	m	Not our home.
+CHASE	m	Thee facial lacerations should heal up pretty quickly. I'll give you som antibiotic cream--
+GUS	m	--Drew, he's your dog. Are you listening to this?
+CHASE	m	His left eye is scratched, corneal abrasion. Eyedrops will help, but it's going to take som time. Try to keep him away from those rabbits, huh?
+GUS	m	I hear you've got Marjorie Hargrove working for you now.
+CHASE	m	How'd you know that?
+GUS	m	It's a small town, Chase.
+GUS	m	Hey Geoff, did you know your mother and I used to be high- school sweethearts?
+GEOFF	m	Really?
+GUS	m	Homecoming. Prom. Whole nine yards. Course that was a lifetime ago.
+CHASE	m	What's a lunch cost these days? You want ten?
+GEOFF	m	Sure.
+CHASE	m	You nervous? New town, new school. I know it must be pretty hard for you...
+GEOFF	m	I'll be fine, Dad.
+CHASE	m	Geoff... you have to help me out here a little...
+CHASE	m	Are you sure you don't want me to pick you up. It's a long ride.
+GEOFF	m	That's what my bike's for...
+CLYDE	m	Check it out. That's the new kid. The son of that movie star.
+MRS. GORDON	f	People, this is Geoff Matthews. He'll be joining our class for the rest of the school year...
+DOUG	m	Hey, what's Hollywood like? Do you know Eddie Murphy?
+GEOFF	m	No.
+MRS. GORDON	f	Why don't we save that for later, Doug?
+SUSAN	f	What about Julia Roberts?
+MRS. GORDON	f	Susan! That'll be enough.
+CLYDE	m	What's the hurry, Junior? Where you off to?
+CLYDE	m	Too bad about your Mom. Papers said it was pretty gross, getting fried like that. Guess you saw it, huh?
+CLYDE	m	So, what are you hiding there?
+STEVIE	m	When you bring a friend to school you're supposed to introduce him.
+GEOFF	m	Her name's Tiger.
+CLYDE	m	Tiger? Don't you think that's kind of a pussy name? Can I hold her? I promise I'll be real careful.
+CLYDE	m	Hey, Geoff. You ever seen a kitten run?
+GEOFF	m	I've seen her run around the house.
+CLYDE	m	No, I mean really run... Like this!
+GEOFF	m	Shit...
+CLYDE	m	Having fun yet?
+GEOFF	m	Just give me the cat, all right?
+CLYDE	m	I would but... there was a little accident... She was trying to get away. You know, running down my leg... and her head got too close to the  spokes. Pretty gross. What's left of her is up in the Pet Sematary. A zip-lock bag might help... ...but I happen to be out of them at the moment.
+DREW	m	Come on, Clyde, just tell him where the cat is...
+CLYDE	m	...I TOLD HIM where the cat is! Now shut up, fuck-face!
+CLYDE	m	You heard about the Creed murders yet? And the place where the dead come back to life?
+CLYDE	m	It's just back there. Just down that path...
+DREW	m	Clyde... it's not funny anymore.
+CLYDE	m	Oh? So you got a problem? What're you gonna do, fat-ass? You gonna sic big, bad, old Gus after me?
+CLYDE	m	What do you think, Geoff? Maybe you could dig up your Mom and take her back there. Maybe if you pray real hard, she'll come back.
+GEOFF	m	Just give me the cat, ass-hole.
+CLYDE	m	Excuse me, maybe I'm a little hard of hearing... but did you just call me an ass-hole?
+CLYDE	m	You mad, Geoff? Cause if you are, you should take a shot at me...
+CLYDE	m	Come on, you pussy! What's the matter with you?
+CLYDE	m	Fuckin' ass-hole.
+CLYDE	m	This way, fat-boy.
+DREW	m	I've never seen anybody punch Clyde before.
+GEOFF	m	He pissed me off.
+DREW	m	Sorry about your mom. I couldn't handle not having my mom around. Just having Gus...
+GEOFF	m	My dad's not so bad.
+DREW	m	I swear, sometimes I wish Gus was dead...
+GEOFF	m	You shouldn't ever say that about your parents, not even your Dad.
+DREW	m	Stepdad. Gus is my stepdad.
+GEOFF	m	What was all that stuff about dead people coming back to life?
+DREW	m	Nothing. It's just an old ghost story. Let's get out of here...
+CHASE	m	Hey! How was your first day at school?
+GEOFF	m	It sucked.
+MARJORIE	f	Now is that any way to talk to your father?
+GEOFF	m	You're not my mother.
+CHASE	m	Sorry.
+GUS	m	Way to go, Romeo...
+GUS	m	Drew, I don't remember inviting Zowie in for dinner.
+DREW	m	Just until he heals up?
+AMANDA	f	Gus, please...
+GUS	m	God damn, you're good.
+GUS	m	You're breaking the law here, Drew.
+AMANDA	f	Really, Gus. It won't bother me.
+GUS	m	Your mom's spent the last hour cooking. Stop being a little jerk and show her some appreciation.
+GUS	m	Not that much appreciation. I thought we were gonna tone down that flabby ass.
+DREW	m	Hey, I'm so sorry I'm not the stud that you are.
+AMANDA	f	Knock it off, guys...
+GUS	m	You watch that mouth of yours, Drew buddy.
+GUS	m	Damn it, Drew. That dog is history!
+DREW	m	Don't shoot him!
+GUS	m	What, Drew? What did you say?!
+AMANDA	f	Jesus, Gus, what have you done?
+GUS	m	Ah, come on, Amanda, stop looking at me like that. He's had ample warning about that dog.
+GEOFF	m	I was just going by your house. Where's your bike?
+DREW	m	Zowie's dead.
+DREW	m	I have to bury him. I don't want to go out there alone.
+GEOFF	m	Is this a good spot?
+DREW	m	I'm not burying him here...
+GEOFF	m	Why not?
+DREW	m	There's a better place...
+DREW	m	It's back here somewhere, through the Indian woods. I know we can find it...
+GEOFF	m	Hey, wait up!
+GEOFF	m	Drew, where are we going?
+DREW	m	This is it... I wasn't sure if it even really existed.
+GEOFF	m	What did?
+DREW	m	The old Indian burial ground.
+GEOFF	m	Come on, that's just a bullshit story. You said so yourself...
+DREW	m	What if it's not bullshit? If I bury Zowie there, and it works... ...he'll come back alive.
+GEOFF	m	Drew, I know your dog died, but... get a grip, man, you're freaking me out.
+DREW	m	Look, if there was even one chance in a million it'd work, wouldn't you want to try?
+GEOFF	m	Look, let's just get this over with.
+DREW	m	If this doesn't work... don't ever tell anyone I did this, okay? You gotta promise...
+GEOFF	m	You want me to help?
+DREW	m	You have to bury your own. That's the way the Indians did it. It's like a rule...
+DREW	m	What if he really does come back?
+DREW	m	I've never had anyone die before... ...but I guess you get over it. I mean, eventually...
+GEOFF	m	You never get over it.
+GEOFF	m	It's getting pretty late. We better go.
+DREW	m	Yeah...
+DREW	m	So long, Zowie...
+GUS	m	Get in.
+GUS	m	Your momma's worried sick over you. You take off in the middle of the night, you don't show up for school. What're you trying to prove?
+DREW	m	I'm not trying to prove anything. I was burying my dog.
+GUS	m	Life is full of lessons. No one's above it. Not you. Not me... Now get in the car.
+AMANDA	f	Zowie?
+GUS	m	Drew, you unlock this door! Right now!
+AMANDA	f	Unlock it, Drew!
+DREW	m	What did I do now?
+AMANDA	f	Open the door, Drew.
+GUS	m	Where do you come off lying like that? "I'm burying my dog." You think a lie like that's never gonna catch up to you?
+DREW	m	Zowie...
+GUS	m	Say your goodbyes. Zowie's going outside. You're grounded, buddy. That's the new law.
+AMANDA	f	I never knew an open wound could smell so bad... Honey, he should have been looked at this morning. I don't know what you were thinking. It's a wonder he's still alive.
+CHASE	m	Geoff...
+CHASE	m	Geoff!
+GEOFF	m	What?
+CHASE	m	You alright?
+GEOFF	m	Dad... do you think... ...you think you and Mom would've gotten back together?
+CHASE	m	I think so.
+CHASE	m	Your Mom and I loved each other, Geoff. Don't ever think that we didn't.
+GEOFF	m	I still can't believe she's dead...
+GEOFF	m	Who was that?
+CHASE	m	Remember Zowie, Drew's dog? He got hurt again. I'm going over to take a look at him.
+GEOFF	m	I'm going with you.
+CHASE	m	How'd it happen?
+DREW	m	Some psycho hunter probably got trigger happy...
+CHASE	m	I'm going to give Zowie a local anaesthetic so I can clean up the wound. I'd like to take him home tonight for observation.
+AMANDA	f	Fine.
+DREW	m	Can you keep him at your place until he gets better?
+CHASE	m	Sure...
+GEOFF	m	Maybe he wasn't dead when we buried him.
+DREW	m	He was dead. You know he was.
+DREW	m	You can't tell anyone, Geoff. Ever.
+VOICE	m	Sleep tight, darling. I'll be with you soon.
+GEOFF	m	Mom!!!
+DREW	m	What's the deal?
+CHASE	m	I don't know. He's had three days. His immune system should've responded by now...
+CHASE	m	I can't seem to find a pulse... it must be so weak, it's not registering...
+GEOFF	m	We'll take him back to the kennels, Dad.
+GEOFF	m	You think my Dad'll figure out why he's not getting better?
+DREW	m	You think he'd believe it if he did?
+GEOFF	m	How can he not have a heartbeat?
+DREW	m	Maybe it takes a while...
+MARJORIE	f	So who're you going as, Wayne Gretzky?
+GEOFF	m	I'm going as Jason.
+MARJORIE	f	Jason? Who's he play for?
+GEOFF	m	He doesn't. He hacks people up.
+GEOFF	m	I'm late.
+CHASE	m	Hey! Where're you off to?
+GEOFF	m	I'm going out, Dad!
+CHASE	m	Out?
+MARJORIE	f	He's probably going up to the Pet Sematary. Kids've been going out there on Halloween night for years.
+CHASE	m	What do they do up there?
+MARJORIE	f	Oh, you know... drink beer, tell ghost stories. They try and spook each other out, talking about zombies and things... It's no big deal, Chase. I did it when I was young.
+AMANDA	f	Hold still. Hold still.
+AMANDA	f	You make sure you're home by ten. If Gus finds out I let you go...
+DREW	m	I'll be home, Mom. Don't worry. I won't let Gus blow up again...
+AMANDA	f	Drew, I know Gus isn't your father, but you never even knew your real father. He walked out on the both of us, and you remember that. Gus isn't that way. He has it in him to love us both. You just have to give him a chance...
+VOICE	m	Geoff, honey. Mommy's here...
+CLYDE	m	Look at this, Junior here practically shit his pants.
+CLYDE	m	Maybe you're too chicken to hang out with the rest of the boys. You gonna run home to Daddy now?
+GEOFF	m	Fuck off.
+AMANDA	f	You're home early.
+GUS	m	Nope. Just ran out of smokes.
+GUS	m	Where's the boy?
+AMANDA	f	Uh... in his room...
+GUS	m	DREW!
+GUS	m	God damn it, Amanda! You want me to be a father to the boy, and as soon as I lay down the law, you let him break it!
+GUS	m	Where is he?
+GUS	m	WHERE IS YOUR SON!?
+AMANDA	f	The Pet Sematary.
+CLYDE	m	...yeah, that old Louis was one sick fuck... digging up little Gage like so, maggots pouring out of that kid's eyes...
+CLYDE	m	Ellie was the only Creed that lived. Then one night a few months later, Ellie freaks out, and she hacks up her grandparents with an axe! Police found her licking their brains off the blade... They locked her up in a psycho ward and all she said were two words: 'Pet Sematary. Pet Sematary.'
+CLYDE	m	Oh yeah! Almost forgot! Here's the best part. Two nights ago she escapes. Word is, she was heading for Maine. Man I hope she doesn't show up out here. Shit, we wouldn't even notice her, not if she's wearing a costume. She could be one of us...
+CLYDE	m	Oh my Goddd!!!
+CLYDE	m	It's... It's...
+CLYDE	m	Shit! It's Drew's Dad. It's fuckin' Gus!
+GUS	m	You boys better not be drinking!
+DREW	m	Oh man, he's gonna kick my ass...
+CLYDE	m	Thanks for fucking up our Halloween, dumbshit!
+GUS	m	Drew, you get your ass out here! Front and center!
+GUS	m	Get out here, Joker.
+GUS	m	You out here making a fool of me?
+GUS	m	I'm warning you, buddy! You don't play by the rules, I'm gonna shadow your ass for eternity!
+GUS	m	You little shit!
+GUS	m	You get out of here, Geoff Matthews! This is between me and my boy!
+GUS	m	Call off your dog, Drew.
+GUS	m	Drew, call him off!
+DREW	m	Zowie...
+GUS	m	DREW!
+DREW	m	Oh, God. Oh, God...
+GEOFF	m	Is he dead?
+GEOFF	m	Is he breathing? Can you hear him breathing?
+DREW	m	Oh man, Geoff... we killed him... we killed him... What're we gonna do?
+GEOFF	m	We could bring him back.
+AMANDA	f	Jesus, Drew, do you know what time it is? Did Gus ever find you?
+AMANDA	f	Drew? Drew, what happened?
+DREW	m	Nothing happened, Mom. We just ditched Gus, that's all...
+CHASE	m	Were you drinking?
+CHASE	m	Drew's Mom called hours ago, the rest of the kids were back by ten. Where the hell were you boys?
+GEOFF	m	Just out.
+CHASE	m	"Out." Well that's great, Geoff. Look, I've been letting you get away with a lot these past few weeks, but I'm not going to stand for crap like this. I don't care if it's Halloween... it's a school night, and if you do this again...
+GEOFF	m	I'm really tired, Dad... can I just go to sleep?
+CHASE	m	Go on... we'll talk about this in the morning.
+GUS	m	Drew!
+GUS	m	Drew, buddy. I lost my keys.
+DREW	m	Gus?
+DREW	m	H-how'd you get in?
+GUS	m	Found 'em.
+GUS	m	I'm makin' a mess of your mother's kitchen floor... I need a shower...
+AMANDA	f	Gus, hon. I'm sorry about tonight. You coming to bed?
+AMANDA	f	God, you're ice cold... ...and you smell! Lord, what did you get yourself into?
+AMANDA	f	My God, Gus, what happened?
+AMANDA	f	Gus... stop it! What's wrong with you?!
+AMANDA	f	Gus!!!
+GEOFF	m	Well?
+DREW	m	Picture this... Gus comes down to breakfast and he doesn't say a word. He even kind of smiles, like he forgot he hates me. And then you know what he does? He serves me an extra helping of pancakes... I asked him if I was still grounded... "no." I asked him if you could spend the night, and he nods. It's like we're a family. A real family.
+DREW	m	It's weird...
+GEOFF	m	What do you mean?
+DREW	m	It's like he's not Gus anymore. He's different. You know, like Zowie...
+MESSAGE MACHINE	m	...Doctor Matthews, this is Elliot Rudman at the university. I've looked over the blood specimen you sent us on canine Zowie...
+VOICE	m	Knock, Knock, Doc.
+MOTHER	f	We saw your sign. Are there any kitties left?
+CHASE	m	Take your pick. They're in the boarding area. You can go on back.
+CHASE	m	Elliot, it's Chase...
+CHASE	m	I didn't get that...
+RUDMAN	m	...I said next time it might help if you took the blood sample while the animal was still alive...
+CHASE	m	What?
+RUDMAN	m	I don't know what you expected to find, Matthews. There's nothing wrong with the antigens, nothing to indicate an unusual death...
+CHASE	m	Wait, there must be some mix-up. He was... the dog is alive.
+RUDMAN	m	Not this dog. There wasn't enough oxygen in those red cells to pump life into a flea.
+RUDMAN	m	You took over for Doctor Yolander?
+CHASE	m	Yes... why?
+RUDMAN	m	Because the last person that sent me blood from a dead animal was Yolander...
+TODDLER	m	Where are the kitties?
+CHASE	m	Look, this is ridiculous...
+CHASE	m	Jesus...
+CLYDE	m	Hey!
+DREW	m	Saved by the bell...
+GEOFF	m	Can I sleep over at Drew's tonight?
+CHASE	m	Yeah... that's fine... Listen, Drew, I got the tests back on Zowie. He's not well. Don't ask me how, but he got out this afternoon...
+CHASE	m	If he finds his way home, call me, no matter what the hour, okay? And don't try to approach him. Whatever he's got might be  infectious. Understand?
+CHASE	m	Can I have the address for Quentin Yolander?
+YOLANDER	f	You'd be so much more interesting with blue eyes...
+YOLANDER	f	I'm immortalizing a poodle. State your business!
+CHASE	m	Doctor Yolander. This is Chase Matthews. I've moved into your offices in Ludlow...
+CHASE	m	...I sent a blood sample out for analysis. They tell me I sent them the blood of a dead animal...
+CHASE	m	...a dog...
+YOLANDER	f	Why are you bothering me about this? Can't you leave it be?
+CHASE	m	I... um...
+CHASE	m	...the pathologist... he said that you had reported a similar  incident... with a cat...
+YOLANDER	f	The Creed cat, that's right. Bastard's name was "Church". Let me guess. Your dog's tissue isn't healing, pupils aren't dilating... maybe you can't find a heartbeat?
+CHASE	m	Exactly! I thought it might be some sort of blood condition... immune deficiency or...
+YOLANDER	f	There's no "blood condition." The dog isn't sick, it's dead. And so was Creed's cat. And so was his wife the night she was killed for the second time...
+YOLANDER	f	You want some advice, friend? You get in your car, you pick up your family... and you get the hell out of that town.
+CHASE	m	Well... uh... thanks...
+DREW	m	I guess we're having rabbit for dinner.
+AMANDA	f	God damnit, Gus! This isn't funny!
+GEOFF	m	What was that all about? You think he's trying to scare us?
+DREW	m	I don't know but I'm not taking any chances...
+RENEE	f	Chase. I miss you so much...
+CHASE	m	Renee...
+CHASE	m	Oh God...
+RENEE	f	I can come back, Chase...
+CHASE	m	No... Too heavy.
+CHASE	m	...can't breathe... I can't...
+MARJORIE	f	I didn't mean to... I was going to empty the hamper...
+CHASE	m	It's okay.
+MARJORIE	f	What happened to you?
+CHASE	m	I had a little run-in with Zowie.
+MARJORIE	f	You sure did...
+MARJORIE	f	Here, let me do that...
+MARJORIE	f	I hope he doesn't have rabies.
+CHASE	m	He doesn't. I don't know what he has, but I'm hoping to God it's not infectious...
+CHASE	m	Marjorie... what do you know about the Creed murders?
+MARJORIE	f	Did you ever play that game where you pass a story down a row of people and see how screwed up it gets by the time it's done? People say Louis Creed's son came back from the dead and it drove him crazy... He killed his wife and himself, and that's the end of story. Anything else belongs in the National Enquirer.
+MARJORIE	f	Sorry. Now tell me what that has to do with Zowie?
+CHASE	m	I wish I knew.
+LIBRARIAN	m	What are you looking for, Hon.
+CHASE	m	Do you have anything on the Creed murders? I can't find the  microfilm from that period...
+LIBRARIAN	m	We don't keep anything on file from that far back.
+CHASE	m	But you've got files from the previous years...
+LIBRARIAN	m	We have nothing on the Creed murders, sir. Can I get you something else?
+GEOFF	m	Do you think everyone that came back would be like Gus?
+DREW	m	I don't know... ...maybe it depends on what you were like before you...
+GEOFF	m	Dies?
+DREW	m	I gotta go back and do my chores...
+GEOFF	m	Go later...
+DREW	m	I can't. Gus'd kill me if I showed up late.
+DREW	m	See you at school Monday?
+DREW	m	You ever think about running away?
+GEOFF	m	All the time.
+DREW	m	See ya!
+CLYDE	m	Well look who's here!
+CLYDE	m	Oops!
+CLYDE	m	Guess your Dad's not here to save you now, is he?
+CLYDE	m	You ever seen a tire take off a nose?
+CLYDE	m	Neither have I.
+CLYDE	m	Might even kill ya. Wheel might chew right into your brains. You could visit your mom.
+CLYDE	m	Jesus Christ, Gus!
+GUS	m	Go home.
+GUS	m	I said... GO HOME!!
+CLYDE	m	Come on, Gus, I was just fucking with him... What're you gonna do? Give me a ticket? I mean, shit, Gus...
+CLYDE	m	You can't lay a finger on me...
+CLYDE	m	Gus... what are you doing?
+GUS	m	I'm just fucking with you...
+CLYDE	m	Stop it, man! Stop it!!!
+GUS	m	Whoops.
+DREW	m	Oh man...
+GUS	m	This is the Police, come out of the house with your hands up!
+DREW	m	No, Zowie! It's me!
+DREW	m	Stay back!
+GUS	m	Forget something, Drew buddy?
+GUS	m	You have the right to remain silent...
+GUS	m	...while I bash your fucking head in!
+GUS	m	You have the right to a lawyer, but you won't need one...
+GUS	m	...cause you'll be dead!
+GUS	m	Do you understand these rights, Drew buddy?!
+GUS	m	...OR ARE YOU JUST TOO FUCKING
+DREW	m	Gus killed Clyde, Mom! He's trying to kill me!
+GUS	m	Drew, buddy! Daddy's not done yet!
+DREW	m	Go Mom! Go!!!
+DREW	m	Mom!!!
+NEWSCASTER	?	... Friends and neighbors came to pay respects for Drew and Amanda Gilbert, who died in a head-on collision Saturday...
+MARJORIE	f	Those poor people. I saw Gus this morning... he looked terrible.
+CHASE	m	Geoff, dinner's ready! Geoff?!
+GEOFF	m	I'm not hungry.
+NEWSCASTER	?	...in other news, the disappearance of a Ludlow youth remains a mystery. Clyde Parker was last seen on Saturday afternoon. His motorcycle was found off Highway 62...
+CHASE	m	Geoff... what are you doing?
+GEOFF	m	I'm getting things ready for Mom.
+CHASE	m	Mom is dead, Geoff. You know that...
+GEOFF	m	She doesn't have to be.
+CHASE	m	What are you talking about?
+GEOFF	m	I can bring her back. The same way Drew and me brought Zowie back...
+CHASE	m	Geoff, this is crazy. Zowie didn't die.
+GEOFF	m	He did. We buried him. There's a place out in the woods... if you bury something there, it comes back alive.
+GEOFF	m	We tried it on Zowie first. And then we did it again, when Zowie killed Gus. Drew didn't want Gus to be dead, so we brought him back, too...
+MARJORIE	f	Doctor Matthews, you've got a call. It's the caretaker at the funeral home. Something about your wife's grave...
+CHASE	m	Look, Geoff. Just... just relax, okay. I'm going to take this call and I'll be right back. Okay?
+CHASE	m	What?! Christ, I'll be right there...
+CHASE	m	Marjorie, I need you to stay late. Geoff is really upset and I have to take care of this. Don't let him leave the house, alright?
+RENEE	f	I need you, Geoff...
+CARETAKER	m	...sorry to disturb you, Doctor Matthews, but I thought you'd want to come have a look for yourself. It's the damndest thing...
+CHASE	m	Jesus... Gus did this?!
+CARETAKER	m	He stuck around after the funeral. Told me he had an order to exhume your wife. I didn't think much of it until I saw him drag the body out of the coffin... He put your wife in his truck and drove off right through Amanda and Drew's headstones...
+CARETAKER	m	I swear, nothing this weird has happened since Louis Creed dug up his boy... You want me to notify the authorities?
+CHASE	m	Doctor Yolander, this is Chase Matthews, we spoke the other day...
+YOLANDER'S VOICE	m	You didn't leave town, did you.
+YOLANDER	f	You sorry bastard. You stayed. I have nothing more to say to you, Matthews...
+CHASE'S VOICE	m	Look, just tell me one thing. Did I treat an animal that had been brought back to life? Did I?!
+YOLANDER	f	What do you think?
+YOLANDER	f	Believe what you saw, Matthews. The dog was dead.
+CHASE	m	My God... ...how is that possible? You have to help me, Doctor Yolander. I don't know what I'm dealing with here! They've dug up my wife...
+YOLANDER'S VOICE	m	I'm retired from my practice, Matthews. It's your practice now, and it's your problem. God help you...
+CHASE	m	Wait! Don't hang up!
+CHASE	m	Shit!
+GUS	m	You bury your own, Geoff.
+MARJORIE	f	Geoff?
+MARJORIE	f	Geoff? You okay up there?
+CHASE	m	Jesus...
+CHASE	m	Gus, what are you doing?!
+GUS	m	I was building a doggy door.
+CHASE	m	God damn it Gus, you dug up my wife! What the fuck is going on around here?!
+GUS	m	A little drilling. A little killing.
+CHASE	m	Holy shit!
+GUS	m	God I hate when that happens...
+GUS	m	You got a permit for that?
+GUS	m	Didn't think so.
+GUS	m	No brain, no pain, Chase. Think about it...
+GUS	m	Just remember, Chase... I had Renee first... and now I'm gonna have her last...
+CHASE	m	Geoff!
+MARJORIE	f	Jesus, Geoff! Don't sneak up on me like that!
+RENEE	f	Did you really think you could be like me?
+RENEE	f	Such a young face... but you've got potential...
+RENEE	f	We'll do the eyes first. You always start with the eyes...
+GEOFF	m	Marjorie? You know you're not supposed to be in the attic.
+GEOFF	m	Mom...
+RENEE	f	I came back for you, Geoff. We're going to be together again.
+CHASE	m	Marjorie?
+RENEE	f	Hello, Chase.
+CHASE	m	Oh my God...
+RENEE	f	We can try again, Chase. We can make it work this time.
+CHASE	m	No...
+RENEE	f	Don't you love me anymore, Chase?
+CHASE	m	You're not Renee... Renee's dead... Geoff! Get over here now!
+RENEE	f	Geoff, honey, why don't you go downstairs. Your father and I need a moment alone. Do it for me?
+RENEE	f	Geoff...
+RENEE	f	I love you.
+CLYDE	m	Hey, Junior. Wanna play?
+CHASE	m	Geoff!
+CLYDE	m	Oops! Looks like Daddy got a boo- boo...
+CLYDE	m	Now, where were we?
+CLYDE	m	Here it comes, buddy! HERE IT
+CLYDE	m	Eat it, ass-hole...
+GEOFF	m	EAT THIS!!!
+RENEE	f	Don't leave me again, Geoff!
+RENEE	f	Don't leave me alone!
+RENEE	f	NO, GEOFF! NO!!!
+GEOFF	m	All set?
+CHASE	m	All set.
+CHASE	m	So where're we going?
+GEOFF	m	Anywhere but here.
+
