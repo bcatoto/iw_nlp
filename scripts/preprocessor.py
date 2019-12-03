@@ -14,24 +14,23 @@ REMOVE_WORDS = ['yeah', 'maybe', 'huh', 'uh']
 def preprocess(movie, gender):
     title = movie['title']
 
-    regex = re.compile('([^\s\w]|_)+')
-    text = regex.sub('', movie['text'].lower())
-    print('%s: Finished simplifying text...' % (title))
-
     nlp = spacy.load('en_core_web_sm')
-    doc = nlp(text)
+    doc = nlp(movie['text'])
     print('%s: Finished processing text...' % (title))
 
     lemma = []
     for token in doc:
         if not token.is_stop and token.text not in REMOVE_WORDS and \
-            token.lemma_ is not '-PRON-' and token.pos_ is not 'PROPN' and \
+            token.lemma_ != '-PRON-' and token.pos_ != 'PROPN' and \
             len(token.text) > 2:
             lemma.append(token.lemma_)
     print('%s: Finished extracting lemmatized forms...' % (title))
 
-    write_file('%s/%s/%s/%s' % (DESTFOL, gender, movie['year'], title),
-        ' '.join(lemma))
+    regex = re.compile('([^\s\w]|_)+')
+    text = regex.sub('', ' '.join(lemma).lower())
+    print('%s: Finished simplifying text...' % (title))
+
+    write_file('%s/%s/%s/%s' % (DESTFOL, gender, movie['year'], title), text)
     print('%s: Finished printing.' % (title))
 
 #-------------------------------------------------------------------------------
@@ -39,7 +38,7 @@ def preprocess(movie, gender):
 def main():
 
     for year in range(1975, 2016):
-        print('Preprocessing movies in %d...' % (year))
+        print('Parsing movies in %d...' % (year))
 
         # Creates year folders if they don't exist; clears them if they do
         clear_dir('%s/fem/%d' % (DESTFOL, year))
@@ -54,7 +53,7 @@ def main():
         for movie in males:
             preprocess(movie, 'male')
 
-        print('----------------------------------------')
+        print('-----------------------------')
 
 if __name__ == '__main__':
     main()

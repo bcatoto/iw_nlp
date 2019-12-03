@@ -6,8 +6,8 @@ from helper import clear_dir, read_folder_dict, write_file
 from bs4 import BeautifulSoup
 
 TABS = False
-NUM_NAME = 35
-NUM_LINE = 23
+NUM_NAME = 29
+NUM_LINE = 16
 
 FOL = '../0_scraped_data'
 REMOVE_NAME = ['(V.O.)', '(VO)', '(O.S.)', '(OS)', '(CONT\'D)', '(CONT)']
@@ -147,7 +147,7 @@ def parse(info):
 def main():
     for year in range(1975, 2016):
         # Creates year folders if they don't exist; clears them if they do
-        clear_dir('%s/txt/%d' % (DESTFOL year))
+        clear_dir('%s/txt/%d' % (FOL, year))
 
         print('Parsing movies in %d...' % (year))
 
