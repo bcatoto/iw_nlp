@@ -1,6 +1,6 @@
 # Natural Language Processing Independent Work
 
-This is a semester-long project that focuses on analyzing women's role in films over time using NLP and topic-modelling algorithms. The data used in this project comes from the [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).
+This is a semester-long project that focuses on analyzing women's role in films over time using NLP and topic-modelling algorithms. The data used in this project comes from the [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). The project cultimated in a paper where the findings of the project were analyzed: [Evaluating Women’s Roles in Movies with Topic Modeling](https://drive.google.com/file/d/1dV3GBINZ4i8i2df-jmNQloxk-rXfFyuv/view?usp=sharing).
 
 All programs can be found in the `scripts` folder.
 
