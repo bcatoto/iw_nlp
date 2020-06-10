@@ -44,3 +44,7 @@ The program also prints to standard output the number of characters of each gend
 ## Preprocessed Data
 
 This stage of my project reads in all the data and preprocesses the text using [spaCy](https://spacy.io/).
+
+## Evaluation
+
+Used [topic-interpretabiity](https://github.com/jhlau/topic_interpretability) by [jhlau](https://github.com/jhlau) to analyze the consistency and interpretability of results from topic modelling.
