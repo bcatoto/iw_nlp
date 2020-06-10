@@ -1,0 +1,3 @@
+NUMBER OF WORDS SPOKEN
+	Male:			1304441
+	Female:		448960

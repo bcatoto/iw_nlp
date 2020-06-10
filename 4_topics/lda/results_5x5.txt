@@ -1,0 +1,574 @@
+1975, Female
+Topic 0: love know fence guy kid
+Topic 1: change want patient go kiss
+Topic 2: brave ight away turn ask
+Topic 3: know like yes want rain
+Topic 4: naive healthy mighty television spanish
+
+1975, Male
+Topic 0: far thy curious sword pill
+Topic 1: talk kid alright man hey
+Topic 2: talk charity bed iron lunch
+Topic 3: regional unequivocal afoot lad band
+Topic 4: strand certainly number pizza interest
+
+1976, Female
+Topic 0: white lady man travel hey
+Topic 1: dazur money accent large play
+Topic 2: lie job right shred anybody
+Topic 3: know want tell think good
+Topic 4: know run cost bathroom yes
+
+1976, Male
+Topic 0: simon agent fare pain fund
+Topic 1: insane lead champion cell rollin
+Topic 2: replacement wrong bar cook false
+Topic 3: retreat barely fuckin run husband
+Topic 4: know get like want man
+
+1977, Female
+Topic 0: raid complexion shell blooded industrial
+Topic 1: hear service weakness specification friend
+Topic 2: know yes defenseless think mean
+Topic 3: tour adventure very sister chocolate
+Topic 4: insect turn have burial move
+
+1977, Male
+Topic 0: oclock short essence definite interference
+Topic 1: know go think hurry militia
+Topic 2: express range this far member
+Topic 3: go know ship exactly father
+Topic 4: brave estimate gospel sure sumbitch
+
+1978, Female
+Topic 0: think bug darn get forget
+Topic 1: go know tell want girl
+Topic 2: ate fucking murderer stair minimum
+Topic 3: get bean right everybody pull
+Topic 4: new race tie cent well
+
+1978, Male
+Topic 0: come go get let yes
+Topic 1: spend female throat naturally nose
+Topic 2: command stylized bid electric nerve
+Topic 3: heck abide suppose replace community
+Topic 4: know go get want like
+
+1979, Female
+Topic 0: involved fight life want thing
+Topic 1: know ted get want lot
+Topic 2: know good think want man
+Topic 3: upside part strength slip mess
+Topic 4: event outside actress patience midnight
+
+1979, Male
+Topic 0: oath goddam earlier cock star
+Topic 1: ahead area power pizza captain
+Topic 2: like go get look right
+Topic 3: chance businessman dialect casualty exist
+Topic 4: criminal charming baffle painful hmmm
+
+1980, Female
+Topic 0: uncle shame assume loser eye
+Topic 1: know stay away help come
+Topic 2: well kill talk kid dinner
+Topic 3: good like yes time fish
+Topic 4: living mirror penalty education walk
+
+1980, Male
+Topic 0: intelligence appearance beam help argument
+Topic 1: wife understand vacation kind 15000
+Topic 2: know want good right get
+Topic 3: unwilling pig fleet draw dump
+Topic 4: equitable wheel hire outa greed
+
+1981, Female
+Topic 0: film curious glad separate care
+Topic 1: lottery supply hear anxious ready
+Topic 2: hunger like conceive lovestruck man
+Topic 3: think get access go know
+Topic 4: group blind suggest quarter familiarity
+
+1981, Male
+Topic 0: dirty feel graze pleased wash
+Topic 1: know careful go love come
+Topic 2: lose ferrum look disintegrate undertake
+Topic 3: family bright brain local rid
+Topic 4: find choice despise fulfill man
+
+1982, Female
+Topic 0: smell access capsule bucket floor
+Topic 1: pray station row gently longer
+Topic 2: error week chance corp girl
+Topic 3: ted sir boy check bury
+Topic 4: guy call thank care year
+
+1982, Male
+Topic 0: sir betcha scan catch rumor
+Topic 1: mission ship eyeball empathy bomb
+Topic 2: case jury doctor court mattress
+Topic 3: scarecrow cut quiet technical brother
+Topic 4: france sir user join snow
+
+1983, Female
+Topic 0: know member miss power marry
+Topic 1: nickname shoulder fool act buy
+Topic 2: encounter corn awful orbit buy
+Topic 3: far diving saving smart scared
+Topic 4: like go think want come
+
+1983, Male
+Topic 0: professionalism shy victory cold poseur
+Topic 1: know go like come get
+Topic 2: trade slayer angel unemployed second
+Topic 3: confiscate farm confess beachfront dame
+Topic 4: magnitude nothing suppose pachuco chortle
+
+1984, Female
+Topic 0: love want party handicapped come
+Topic 1: ski angel thanks fry sugar
+Topic 2: party want let unpredictable photon
+Topic 3: want dream happen sign flippin
+Topic 4: vol kid try human chicken
+
+1984, Male
+Topic 0: spice yes duet life wear
+Topic 1: destination break dont robber great
+Topic 2: ago stone crash sleep ship
+Topic 3: busy work guest screw anymore
+Topic 4: party char brokerage sulu turd
+
+1985, Female
+Topic 0: agne captain hide disappoint year
+Topic 1: fucking clean victim connection doctor
+Topic 2: booger school guy lot brussel
+Topic 3: manage poverty chipper traffic strike
+Topic 4: help virginity school grandmother mom
+
+1985, Male
+Topic 0: folk freelance seed ferment island
+Topic 1: school ask probably parent record
+Topic 2: cop amish anybody dig open
+Topic 3: program smuggle vision picture oak
+Topic 4: painter eradication worm champion modern
+
+1986, Female
+Topic 0: right zuul thank read kill
+Topic 1: shit grass wind lost whale
+Topic 2: scare meat flounder he sour
+Topic 3: ask passage home love mother
+Topic 4: risk innocent organic whale humpback
+
+1986, Male
+Topic 0: kind canister sacred secretor truck
+Topic 1: fuck guess involve large drug
+Topic 2: whale wake cabin smokin cat
+Topic 3: honor bite instinct repaint car
+Topic 4: shit healthy plan poem century
+
+1987, Female
+Topic 0: scare describe close instead whatsure
+Topic 1: stormy client meet syndicate collection
+Topic 2: stuff wedding house safe call
+Topic 3: dance gruner clear borrow rope
+Topic 4: dream water idea begin tea
+
+1987, Male
+Topic 0: plate poverty zone downtown lack
+Topic 1: bomb sun raid power newsprint
+Topic 2: mom swan vampire decent child
+Topic 3: report somebody millionaire moment white
+Topic 4: continue stock dutch sport chopper
+
+1988, Female
+Topic 0: man yes great darling honey
+Topic 1: idea dame paper teddy bathroom
+Topic 2: impact girl meeting exactly handedly
+Topic 3: therapy string doom dream use
+Topic 4: pancreas tonight case desperate laundry
+
+1988, Male
+Topic 0: werechicken wanta heavy sit dodge
+Topic 1: baby dive wanta bat throw
+Topic 2: interrogation gesture island hop favourite
+Topic 3: rabbit incontrovertible running commitment delivery
+Topic 4: attribute league voucher cooperate fed
+
+1989, Female
+Topic 0: late baby hey child dream
+Topic 1: honey present push pool high
+Topic 2: captain operational pattern president heartbreak
+Topic 3: knox habit afford sunny build
+Topic 4: bud voice cold past leash
+
+1989, Male
+Topic 0: fuck preacher school slate slime
+Topic 1: detective lie surprise plane but
+Topic 2: gin pleasure early marker knight
+Topic 3: alright bat seventeen statistically prang
+Topic 4: mom cancel machination carpe flexible
+
+1990, Female
+Topic 0: goodnight nail record wait strain
+Topic 1: fugitive ago howd near terrible
+Topic 2: hey car kit care daddy
+Topic 3: pray soul antidote habit slide
+Topic 4: flame afterlife kill sake angel
+
+1990, Male
+Topic 0: molly eye army client dream
+Topic 1: scissor doctor dad touch scarce
+Topic 2: murder worth gun lucke wet
+Topic 3: voice white wolf write meatloaf
+Topic 4: peanut something fast screen company
+
+1991, Female
+Topic 0: fuck peyote movie clothe pen
+Topic 1: early woman wrestler alot compliment
+Topic 2: smile create fuck skull classified
+Topic 3: shoot 1960 steal psycho gus
+Topic 4: thee naive heart trouble meet
+
+1991, Male
+Topic 0: ï½ sister white dope mishap
+Topic 1: surfer president surf agent interrogation
+Topic 2: hostage mom responsible alright sake
+Topic 3: bowling theo future bock pride
+Topic 4: business cuban amiss pocketbook sauce
+
+1992, Female
+Topic 0: nun game beat send power
+Topic 1: save son type fuck pure
+Topic 2: thirty slayer neat writing scare
+Topic 3: flesh daddy expect deal advice
+Topic 4: sin theo book needy wear
+
+1992, Male
+Topic 0: nun rape dog pistol contract
+Topic 1: mountain beard flat risky youappreciate
+Topic 2: eminence device betray castle island
+Topic 3: technical wewould lounge aplenty mortal
+Topic 4: fish theo reservation parole trailer
+
+1993, Female
+Topic 0: alive watch ultimately alright lake
+Topic 1: wyatt early tutor football do
+Topic 2: stay cowgirl save marry girl
+Topic 3: voice aware outside run month
+Topic 4: dye investigate bird mayday act
+
+1993, Male
+Topic 0: mom dad marry father slip
+Topic 1: wyatt piano parent meat paint
+Topic 2: fuckin pussy ï½ detail hideous
+Topic 3: cocaine tribe dinosaur stroke honor
+Topic 4: voice plane virus event pilot
+
+1994, Female
+Topic 0: fly ache relationship taxi deck
+Topic 1: backer riot mastermind rotten money
+Topic 2: power mortal fill rock wall
+Topic 3: honey somebody 67 lie new
+Topic 4: refuge dolly anymore wanna weak
+
+1994, Male
+Topic 0: rat fucking buddy illusionist loose
+Topic 1: vampire martini succeed nervous capacity
+Topic 2: sailor easily ribbon unable ï½ï½
+Topic 3: cigarette sell film theater honey
+Topic 4: interview shh permission blatantly affair
+
+1995, Female
+Topic 0: future everybody daddy speech pool
+Topic 1: virus different ï½ hacker movie
+Topic 2: fuckin thy jewelry bag tape
+Topic 3: roll sound king mlord steed
+Topic 4: dear boom sex sir disinherit
+
+1995, Male
+Topic 0: clip illusionist illusion alpha wire
+Topic 1: virus woody do hacker casino
+Topic 2: camera scene acknowledge sight bat
+Topic 3: 67 sera ï½ï½ colleague layer
+Topic 4: movie king speech social campaign
+
+1996, Female
+Topic 0: car follow house respirator ship
+Topic 1: weather doorway mornin suffer idealist
+Topic 2: cleanly natured weird daddy ouch
+Topic 3: snake affair suppose dear buttock
+Topic 4: shit message stop fuck school
+
+1996, Male
+Topic 0: competitor 1939 sling depth sail
+Topic 1: selfish police rip scary platform
+Topic 2: heh cunt waylay endorsement chew
+Topic 3: lion fuckin do reckon heck
+Topic 4: 113 asshole paint migrate ï½
+
+1997, Female
+Topic 0: doctor 007 negotiator gun defendant
+Topic 1: daddy madam file hire necklace
+Topic 2: ugly weird bus cow weekend
+Topic 3: tank grace trail handle cat
+Topic 4: prom andy shut headache mace
+
+1997, Male
+Topic 0: citizen bus operator gold army
+Topic 1: grace wedding i11 horse monster
+Topic 2: gravity hull starck reserve tri
+Topic 3: apartment election humiliating madam vote
+Topic 4: lieutenant clichï½ review deer barge
+
+1998, Female
+Topic 0: sire bus fake humor drop
+Topic 1: daddy bag carry mom contd
+Topic 2: military dear yard surprised squish
+Topic 3: noise rob rooster island mile
+Topic 4: boat blood attack town poor
+
+1998, Male
+Topic 0: fuckin contd electrical alternatively regard
+Topic 1: sphere cheeseburger rectangle honeymoon blah
+Topic 2: casino itï½s morgue wander volume
+Topic 3: engine looter truck bus cleaver
+Topic 4: soldier ant bank virus statement
+
+1999, Female
+Topic 0: daddy wally prom cute lovemaking
+Topic 1: doc nanobot costume cigarette upstairs
+Topic 2: war clue officer outta stock
+Topic 3: violin suitcase boat detective reek
+Topic 4: thousand suspend music license cook
+
+1999, Male
+Topic 0: itï½s donï½t dyou heï½s requisite
+Topic 1: defendant paradoxical inconvenient advocate tranquil
+Topic 2: dude josie prom violin ticket
+Topic 3: apple superhero i11 gold pig
+Topic 4: memory fuckin puppeteer physical portal
+
+2000, Female
+Topic 0: attitude fire gamble girlfrlend do
+Topic 1: millennium glow conscious fuckin top
+Topic 2: movie script bloody itï½s excuse
+Topic 3: dad idiot sick ass hero
+Topic 4: truck letter noise woody gun
+
+2000, Male
+Topic 0: gene mutant following condition bility
+Topic 1: war casino boost ship army
+Topic 2: security fuckin ash tit delivery
+Topic 3: itï½s witch satch package whatta
+Topic 4: stupider officially bloody annie screw
+
+2001, Female
+Topic 0: dinosaur leopold romantic ring admit
+Topic 1: assault evil minimum state wound
+Topic 2: ape animal accomplice sensational apart
+Topic 3: brother goddamn tie sick gold
+Topic 4: law fat totally attendant pass
+
+2001, Male
+Topic 0: birthday range rudeness pink alibi
+Topic 1: jewish teasing purr wealth ythink
+Topic 2: communist railroad island barber dough
+Topic 3: ape monkey gold reilly plane
+Topic 4: ship chump electricity shrivel page
+
+2002, Female
+Topic 0: girl face adorable fact reach
+Topic 1: sound trevor hate underneath new
+Topic 2: dollar picture forget pocket ship
+Topic 3: jewish variable bitch farm job
+Topic 4: booth hoist seriously comfort mechanic
+
+2002, Male
+Topic 0: pianist certificate ghetto radio hunt
+Topic 1: school sir precog ship fuckin
+Topic 2: booth scanner genetically ludicrous nike
+Topic 3: defiant heredity classy drug conception
+Topic 4: harvest straight wife ferocious sister
+
+2003, Female
+Topic 0: jewish class sensitive mention son
+Topic 1: name sword trust violinist weird
+Topic 2: sea pirate premonition expect ham
+Topic 3: correct engineer outta voodoo belt
+Topic 4: beef video doctor entail knowledge
+
+2003, Male
+Topic 0: seven cop mislead truck tape
+Topic 1: obsessed constance focus overwhelmingly personally
+Topic 2: ship treasure pirate bite counselor
+Topic 3: jewish japanese birthday doctor ghetto
+Topic 4: sword birthday tiger boil erection
+
+2004, Female
+Topic 0: phone speak eye act bodyguard
+Topic 1: inflict shave behalf opinion watcher
+Topic 2: hey home sumo call complete
+Topic 3: car drive penis party diffrent
+Topic 4: bird tree helpful radiologist book
+
+2004, Male
+Topic 0: mom father par killer city
+Topic 1: prison therapist wall fact clank
+Topic 2: lady majorly casino yesssssss party
+Topic 3: cab wine jazz erase lining
+Topic 4: delicious victim outlandish size stare
+
+2005, Female
+Topic 0: hot cute thick guilt cool
+Topic 1: father hold doctor hey divorce
+Topic 2: bettor bounty bitch meantime worker
+Topic 3: beat idiot tonight sure pace
+Topic 4: reed desperation microscope hug seek
+
+2005, Male
+Topic 0: close drink ive married dig
+Topic 1: beat itï½s absolutely tick hike
+Topic 2: happy envious hat record pill
+Topic 3: partake haircut billionaire porno handicapper
+Topic 4: fuck shoot distraught curry cop
+
+2006, Female
+Topic 0: could quickly know imagine cheat
+Topic 1: hall deserve embarrass grocery idea
+Topic 2: tape unarmed calculate low rail
+Topic 3: local magic feel bear bother
+Topic 4: know think like let get
+
+2006, Male
+Topic 0: know look get man like
+Topic 1: wish competition kick grin household
+Topic 2: extremely aqueduct completely imagine inform
+Topic 3: stop rum bad dould assumingit
+Topic 4: brand ramrod illusion tick level
+
+2007, Female
+Topic 0: tattoo agriculture slut search re
+Topic 1: know like go think get
+Topic 2: head slaughter find pardon huge
+Topic 3: use partie stupid bill shove
+Topic 4: yes befuddle preliminary decent aunt
+
+2007, Male
+Topic 0: shrek testin owe aged far
+Topic 1: smiley village registration bitch limb
+Topic 2: softball mall bush boat amuse
+Topic 3: know like go get think
+Topic 4: dunno needin doctor expect cost
+
+2008, Female
+Topic 0: literary explain vegetarian like lp
+Topic 1: age sign afraid right coke
+Topic 2: reaction desk ball gawp water
+Topic 3: help raise cold room ghoul
+Topic 4: thriller cigarette bed pool buzz
+
+2008, Male
+Topic 0: glamour private huge limousine anger
+Topic 1: man try like frown available
+Topic 2: doom assistant treat business follow
+Topic 3: beauty gradually production secret misheard
+Topic 4: notoriety impress academic sadly grow
+
+2009, Female
+Topic 0: insulting fold admire company defend
+Topic 1: upside meaning elbow quarter confused
+Topic 2: word room lift compatible husband
+Topic 3: look position mom attend carrier
+Topic 4: type lucky knowledge handy struggle
+
+2009, Male
+Topic 0: prick bar estate explain foul
+Topic 1: bliss seamless clamp cancel horse
+Topic 2: murder differently imagine priority breathe
+Topic 3: rescue burger counterproductive hunting shop
+Topic 4: look like know think go
+
+2010, Female
+Topic 0: go know look want like
+Topic 1: beer disorientated hit high like
+Topic 2: appreciate onion slave faster profoundly
+Topic 3: sound slow fiance continually awake
+Topic 4: color scan dance git dump
+
+2010, Male
+Topic 0: cousin astutely sniffle saned grocery
+Topic 1: secret know conversationalist million ass
+Topic 2: condom pecker urination stirrup trick
+Topic 3: know go look think like
+Topic 4: trash age kidnapper oyster team
+
+2011, Female
+Topic 0: war grandpï½re sense doin smart
+Topic 1: cake class informant death present
+Topic 2: driver glance nod colin tough
+Topic 3: train window jail cal campaign
+Topic 4: sir cancer astral eg eventually
+
+2011, Male
+Topic 0: rifle fireman dry nothing quietly
+Topic 1: cal werewolf honor moon opposite
+Topic 2: colin horse wrestle cancer bomb
+Topic 3: gay snore priest matinee hysterically
+Topic 4: driver baseball clive terrifying pitch
+
+2012, Female
+Topic 0: choose leap southern church heartbreak
+Topic 1: fairy letter ineffectually hmm snatch
+Topic 2: 41711 sorry forgive old break
+Topic 3: merely unattainable disappear branch sly
+Topic 4: celeste grab boyfriend addition transponder
+
+2012, Male
+Topic 0: boy unhappiness fuck plane restroom
+Topic 1: 41711 9612 fucking ride nope
+Topic 2: relax evident humiliating watchman mathematic
+Topic 3: celeste philly dressing ment quim
+Topic 4: someplace ship rejoice waver mattress
+
+2013, Female
+Topic 0: know go like locate look
+Topic 1: dense dyou hair wow hairy
+Topic 2: handsome number use want eye
+Topic 3: daddy sniff celeste stick come
+Topic 4: cotton wonderful corpse haystack gym
+
+2013, Male
+Topic 0: previous fighter apprehensive day sunrise
+Topic 1: morning chimera annoyingly invasion space
+Topic 2: know get want cave go
+Topic 3: speak know copy speech spring
+Topic 4: drain decision partial guess appearance
+
+2014, Female
+Topic 0: oclock night learn mess frankly
+Topic 1: machine game public fast provide
+Topic 2: know think like go tell
+Topic 3: 18th favour hate shade bedroom
+Topic 4: know emmet hey worth life
+
+2014, Male
+Topic 0: blanket efficient anoint pit bond
+Topic 1: go know like get want
+Topic 2: alcohol drone early askin wrench
+Topic 3: quit fired sir crack collar
+Topic 4: kiersey okra courageous reveal picture
+
+2015, Female
+Topic 0: child stand make highway position
+Topic 1: room west enjoy eat 30th
+Topic 2: ask take thief yes hour
+Topic 3: away system goal wrench choice
+Topic 4: know sign little solar clear
+
+2015, Male
+Topic 0: battle sit simply son letter
+Topic 1: lawyer booster gravity helmet important
+Topic 2: 850 pilot soda longve temperature
+Topic 3: know want go good come
+Topic 4: usually seventeen consequence battery official
+

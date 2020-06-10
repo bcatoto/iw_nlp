@@ -34,7 +34,6 @@ def read_data(movies, characters, females, males, unknowns):
 
         movie = Movie(id, title, year, rating, votes, genres)
         movies.append(movie)
-    print('Finished reading in movies...')
 
     # Stores character metadata
     for line in inChars:
@@ -58,7 +57,6 @@ def read_data(movies, characters, females, males, unknowns):
             males.append(character)
         else:
             unknowns.append(character)
-    print('Finished reading in characters...')
 
     # Stores lines with corresponding character
     for line in inLines:
@@ -74,7 +72,6 @@ def read_data(movies, characters, females, males, unknowns):
         text = fields[4]
 
         characters[charID].add_line(text)
-    print('Finished reading in lines...')
 
     inMovies.close()
     inChars.close()
@@ -83,11 +80,6 @@ def read_data(movies, characters, females, males, unknowns):
 #-------------------------------------------------------------------------------
 
 def cornell():
-    # Creates year folders if they don't exist; clears them if they do
-    for year in range(1975, 2016):
-        clear_dir('%s/fem/%d' % (DESTFOL, year))
-        clear_dir('%s/male/%d' % (DESTFOL, year))
-
     movies = []
     characters = []
     females = []
@@ -117,7 +109,6 @@ def cornell():
 
         outFem.close()
         outMale.close()
-        print('Finished parsing %s...' % (movie.title()))
 
     # Counts
     maleLines = 0
@@ -139,35 +130,45 @@ def cornell():
         unkLines += unk.line_count()
         unkWords += unk.word_count()
 
-    print('----------------------------------------')
     print('CORNELL MOVIE DIALOG DATABASE:')
     print('NUMBER OF CHARACTERS')
-    print('\tMale:\t\t%d' % (len(males)))
+    print('\tMale:\t\t\t%d' % (len(males)))
     print('\tFemale:\t\t%d' % (len(females)))
     print('\tUnknown:\t%d' % (len(unknowns)))
     print()
 
     print('NUMBER OF LINES SPOKEN')
-    print('\tMale:\t\t%d' % (maleLines))
+    print('\tMale:\t\t\t%d' % (maleLines))
     print('\tFemale:\t\t%d' % (femLines))
     print('\tUnknown:\t%d' % (unkLines))
     print()
 
     print('NUMBER OF WORDS SPOKEN')
-    print('\tMale:\t\t%d' % (maleWords))
+    print('\tMale:\t\t\t%d' % (maleWords))
     print('\tFemale:\t\t%d' % (femWords))
     print('\tUnknown:\t%d' % (unkWords))
+    print('----------------------------------------')
 
 #-------------------------------------------------------------------------------
 
 def imsdb():
-    for year in range(1975, 2016):
-        print('Parsing movies in %d...' % (year))
+    fem = 0
+    male = 0
+    unk = 0
 
+    maleLines = 0
+    femLines = 0
+    unkLines = 0
+
+    maleWords = 0
+    femWords = 0
+    unkWords = 0
+
+    for year in range(1975, 2016):
         movies = read_folder_dict('%s/%d' % (IMSDB_SRCFOL, year), year)
 
         for movie in movies:
-            characters = {}
+            characters = []
             title = movie['title']
             lines = movie['text'].split('\n')
 
@@ -182,27 +183,62 @@ def imsdb():
                 if len(fields) < 3:
                     continue
 
+                name = fields[0]
                 gender = fields[1]
+                line = fields[2]
 
                 if gender == 'f':
-                    outFem.write(fields[2] + ' ')
+                    outFem.write(line + ' ')
+                    femLines += 1
+                    femWords += len(line.split(' '))
                 elif gender == 'm':
                     outMale.write(fields[2] + ' ')
+                    maleLines += 1
+                    maleWords += len(line.split(' '))
+                else:
+                    unkLines += 1
+                    unkWords += len(line.split(' '))
+
+                if name not in characters:
+                    characters.append(name)
+                    if gender == 'f':
+                        fem += 1
+                    elif gender == 'm':
+                        male += 1
+                    else:
+                        unk += 1
 
             outFem.close()
             outMale.close()
 
-            print('Finished %s...' % (title))
-        print('----------------------------------------')
+    print('INTERNET MOVIE SCRIPT DATABASE:')
+    print('NUMBER OF CHARACTERS')
+    print('\tMale:\t\t\t%d' % (male))
+    print('\tFemale:\t\t%d' % (fem))
+    print('\tUnknown:\t%d' % (unk))
+    print()
+
+    print('NUMBER OF LINES SPOKEN')
+    print('\tMale:\t\t\t%d' % (maleLines))
+    print('\tFemale:\t\t%d' % (femLines))
+    print('\tUnknown:\t%d' % (unkLines))
+    print()
+
+    print('NUMBER OF WORDS SPOKEN')
+    print('\tMale:\t\t\t%d' % (maleWords))
+    print('\tFemale:\t\t%d' % (femWords))
+    print('\tUnknown:\t%d' % (unkWords))
 
 #-------------------------------------------------------------------------------
 
 def main():
-    if 'cornell' in argv:
-        cornell()
+    # Creates year folders if they don't exist; clears them if they do
+    for year in range(1975, 2016):
+        clear_dir('%s/fem/%d' % (DESTFOL, year))
+        clear_dir('%s/male/%d' % (DESTFOL, year))
 
-    if 'imsdb' in argv:
-        imsdb()
+    cornell()
+    imsdb()
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,31 @@
+CORNELL MOVIE DIALOG DATABASE:
+NUMBER OF CHARACTERS
+	Male:			2049
+	Female:		966
+	Unknown:	6020
+
+NUMBER OF LINES SPOKEN
+	Male:			170566
+	Female:		71243
+	Unknown:	62594
+
+NUMBER OF WORDS SPOKEN
+	Male:			1820834
+	Female:		712699
+	Unknown:	677992
+----------------------------------------
+INTERNET MOVIE SCRIPT DATABASE:
+NUMBER OF CHARACTERS
+	Male:			10135
+	Female:		2965
+	Unknown:	1496
+
+NUMBER OF LINES SPOKEN
+	Male:			166647
+	Female:		62274
+	Unknown:	14098
+
+NUMBER OF WORDS SPOKEN
+	Male:			2074331
+	Female:		711476
+	Unknown:	184112

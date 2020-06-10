@@ -1,0 +1,3280 @@
+[1.0] scared laugh who sunlight
+	System Chosen Intruder Word = who
+	True Intruder Word = who
+
+[1.0] alive dynamite compile large
+	System Chosen Intruder Word = dynamite
+	True Intruder Word = dynamite
+
+[1.0] party white doctor concern
+	System Chosen Intruder Word = party
+	True Intruder Word = party
+
+[1.0] value congregation crap characteristic
+	System Chosen Intruder Word = congregation
+	True Intruder Word = congregation
+
+[1.0] vitamin decision chord campaign
+	System Chosen Intruder Word = decision
+	True Intruder Word = decision
+
+[1.0] grateful meaningful sand bunch
+	System Chosen Intruder Word = grateful
+	True Intruder Word = grateful
+
+[1.0] illegal disappear dynamite bye
+	System Chosen Intruder Word = dynamite
+	True Intruder Word = dynamite
+
+[1.0] joint medication 19 tit
+	System Chosen Intruder Word = medication
+	True Intruder Word = medication
+
+[1.0] feed wound testimony poor
+	System Chosen Intruder Word = wound
+	True Intruder Word = wound
+
+[1.0] building citizen hurt lawyer
+	System Chosen Intruder Word = building
+	True Intruder Word = building
+
+[1.0] outdate eloquent mmm colorful
+	System Chosen Intruder Word = mmm
+	True Intruder Word = mmm
+
+[1.0] annum reduce wild simon
+	System Chosen Intruder Word = reduce
+	True Intruder Word = reduce
+
+[1.0] realise oughtta wave thum
+	System Chosen Intruder Word = wave
+	True Intruder Word = wave
+
+[1.0] tower involvement lousy imposition
+	System Chosen Intruder Word = lousy
+	True Intruder Word = lousy
+
+[1.0] kooky vietnamese discuss atta
+	System Chosen Intruder Word = discuss
+	True Intruder Word = discuss
+
+[1.0] stake yea fond propeller
+	System Chosen Intruder Word = stake
+	True Intruder Word = stake
+
+[1.0] disgusted coast dilemma plugget
+	System Chosen Intruder Word = disgusted
+	True Intruder Word = disgusted
+
+[1.0] movie cram bless housebroke
+	System Chosen Intruder Word = cram
+	True Intruder Word = cram
+
+[1.0] difficulty sweat unequivocal optional
+	System Chosen Intruder Word = sweat
+	True Intruder Word = sweat
+
+[1.0] entirely behavior excuse fifty
+	System Chosen Intruder Word = entirely
+	True Intruder Word = entirely
+
+[1.0] dollar child rare jungle
+	System Chosen Intruder Word = child
+	True Intruder Word = child
+
+[1.0] franï½aise look husband alien
+	System Chosen Intruder Word = look
+	True Intruder Word = look
+
+[1.0] tooth volunteer corner proper
+	System Chosen Intruder Word = volunteer
+	True Intruder Word = volunteer
+
+[1.0] father fascinating dream lump
+	System Chosen Intruder Word = fascinating
+	True Intruder Word = fascinating
+
+[1.0] purse clinic privilege barrel
+	System Chosen Intruder Word = clinic
+	True Intruder Word = clinic
+
+[1.0] make forty uptight mothering
+	System Chosen Intruder Word = uptight
+	True Intruder Word = uptight
+
+[1.0] oclock moment day run
+	System Chosen Intruder Word = moment
+	True Intruder Word = moment
+
+[1.0] italian tummy bye afraid
+	System Chosen Intruder Word = tummy
+	True Intruder Word = tummy
+
+[1.0] junkie street filing stand
+	System Chosen Intruder Word = junkie
+	True Intruder Word = junkie
+
+[1.0] smoke movie floor sick
+	System Chosen Intruder Word = smoke
+	True Intruder Word = smoke
+
+[1.0] strange madam deadly alley
+	System Chosen Intruder Word = strange
+	True Intruder Word = strange
+
+[1.0] frazzled dispatcher strange turf
+	System Chosen Intruder Word = strange
+	True Intruder Word = strange
+
+[1.0] bus breath fun self
+	System Chosen Intruder Word = fun
+	True Intruder Word = fun
+
+[1.0] rough alley nation dial
+	System Chosen Intruder Word = alley
+	True Intruder Word = alley
+
+[1.0] dangerous hello quadrant knot
+	System Chosen Intruder Word = dangerous
+	True Intruder Word = dangerous
+
+[1.0] try week teacher cryin
+	System Chosen Intruder Word = teacher
+	True Intruder Word = teacher
+
+[1.0] sized moment dolphin sir
+	System Chosen Intruder Word = moment
+	True Intruder Word = moment
+
+[1.0] damned pack sticker cook
+	System Chosen Intruder Word = pack
+	True Intruder Word = pack
+
+[1.0] gettin olive lookit love
+	System Chosen Intruder Word = gettin
+	True Intruder Word = gettin
+
+[0.0] note so pink comment
+	System Chosen Intruder Word = pink
+	True Intruder Word = so
+
+[1.0] panic nervous laugh model
+	System Chosen Intruder Word = panic
+	True Intruder Word = panic
+
+[1.0] highway narcolepsy apart course
+	System Chosen Intruder Word = apart
+	True Intruder Word = apart
+
+[1.0] fall gosh stare week
+	System Chosen Intruder Word = fall
+	True Intruder Word = fall
+
+[1.0] want rest feeling emotion
+	System Chosen Intruder Word = want
+	True Intruder Word = want
+
+[1.0] fact yuh guarantee look
+	System Chosen Intruder Word = yuh
+	True Intruder Word = yuh
+
+[1.0] money adventure braver profile
+	System Chosen Intruder Word = money
+	True Intruder Word = money
+
+[1.0] depressed lotta bit dynamite
+	System Chosen Intruder Word = bit
+	True Intruder Word = bit
+
+[1.0] truth safety moderate reward
+	System Chosen Intruder Word = moderate
+	True Intruder Word = moderate
+
+[1.0] long fine save quick
+	System Chosen Intruder Word = long
+	True Intruder Word = long
+
+[1.0] mayonnaise hope tomorrow chance
+	System Chosen Intruder Word = tomorrow
+	True Intruder Word = tomorrow
+
+[0.0] open total interested duane
+	System Chosen Intruder Word = open
+	True Intruder Word = total
+
+[1.0] embarrassed environment sock thank
+	System Chosen Intruder Word = sock
+	True Intruder Word = sock
+
+[1.0] insight green mallet conduct
+	System Chosen Intruder Word = insight
+	True Intruder Word = insight
+
+[1.0] tension datum bantha disease
+	System Chosen Intruder Word = datum
+	True Intruder Word = datum
+
+[1.0] twenty betray flow rendezvous
+	System Chosen Intruder Word = twenty
+	True Intruder Word = twenty
+
+[1.0] peel uh restaurant paran
+	System Chosen Intruder Word = peel
+	True Intruder Word = peel
+
+[1.0] fair busy meaning idea
+	System Chosen Intruder Word = fair
+	True Intruder Word = fair
+
+[1.0] analyst force technological taxi
+	System Chosen Intruder Word = technological
+	True Intruder Word = technological
+
+[1.0] pant incredible metal nearsighted
+	System Chosen Intruder Word = pant
+	True Intruder Word = pant
+
+[1.0] fact about fan mellow
+	System Chosen Intruder Word = about
+	True Intruder Word = about
+
+[1.0] station uncharted close sale
+	System Chosen Intruder Word = close
+	True Intruder Word = close
+
+[1.0] supercargo man about sail
+	System Chosen Intruder Word = supercargo
+	True Intruder Word = supercargo
+
+[1.0] market knife range map
+	System Chosen Intruder Word = range
+	True Intruder Word = range
+
+[1.0] spot care weigh course
+	System Chosen Intruder Word = spot
+	True Intruder Word = spot
+
+[1.0] half scout youkeep babysitte
+	System Chosen Intruder Word = scout
+	True Intruder Word = scout
+
+[1.0] drag bus scratch dude
+	System Chosen Intruder Word = bus
+	True Intruder Word = bus
+
+[1.0] fast behalf lousy arm
+	System Chosen Intruder Word = lousy
+	True Intruder Word = lousy
+
+[1.0] morning dance vibration poppy
+	System Chosen Intruder Word = vibration
+	True Intruder Word = vibration
+
+[1.0] bean sneak rocket clean
+	System Chosen Intruder Word = rocket
+	True Intruder Word = rocket
+
+[1.0] spring folk stupid gentleman
+	System Chosen Intruder Word = folk
+	True Intruder Word = folk
+
+[1.0] bay invite credit deal
+	System Chosen Intruder Word = invite
+	True Intruder Word = invite
+
+[1.0] word stock television hailer
+	System Chosen Intruder Word = stock
+	True Intruder Word = stock
+
+[1.0] mating mass kingdom alarming
+	System Chosen Intruder Word = mating
+	True Intruder Word = mating
+
+[1.0] cattle deposit coma recognize
+	System Chosen Intruder Word = cattle
+	True Intruder Word = cattle
+
+[1.0] eye sound fuckin virtually
+	System Chosen Intruder Word = eye
+	True Intruder Word = eye
+
+[1.0] abandon tooth purse club
+	System Chosen Intruder Word = purse
+	True Intruder Word = purse
+
+[1.0] swamp phantom township know
+	System Chosen Intruder Word = township
+	True Intruder Word = township
+
+[1.0] arrive example attraction unlisted
+	System Chosen Intruder Word = attraction
+	True Intruder Word = attraction
+
+[1.0] bid agony message main
+	System Chosen Intruder Word = agony
+	True Intruder Word = agony
+
+[1.0] rubber restaurant purple cobble
+	System Chosen Intruder Word = restaurant
+	True Intruder Word = restaurant
+
+[1.0] involve stuffy vessel visit
+	System Chosen Intruder Word = stuffy
+	True Intruder Word = stuffy
+
+[1.0] trampin simple prank 327
+	System Chosen Intruder Word = trampin
+	True Intruder Word = trampin
+
+[1.0] introduce big understand 230
+	System Chosen Intruder Word = introduce
+	True Intruder Word = introduce
+
+[1.0] natural common involve liberty
+	System Chosen Intruder Word = natural
+	True Intruder Word = natural
+
+[1.0] get mercy month quickly
+	System Chosen Intruder Word = mercy
+	True Intruder Word = mercy
+
+[1.0] way mornin cannibal shall
+	System Chosen Intruder Word = mornin
+	True Intruder Word = mornin
+
+[1.0] picture able control quiet
+	System Chosen Intruder Word = control
+	True Intruder Word = control
+
+[1.0] look party simple offer
+	System Chosen Intruder Word = simple
+	True Intruder Word = simple
+
+[1.0] succeed tonight report cock
+	System Chosen Intruder Word = report
+	True Intruder Word = report
+
+[1.0] use relationship hesitate billy
+	System Chosen Intruder Word = hesitate
+	True Intruder Word = hesitate
+
+[1.0] bag suck atone detat
+	System Chosen Intruder Word = atone
+	True Intruder Word = atone
+
+[0.0] risk permission help officially
+	System Chosen Intruder Word = help
+	True Intruder Word = permission
+
+[1.0] hold illegal surely bedbug
+	System Chosen Intruder Word = illegal
+	True Intruder Word = illegal
+
+[1.0] kiss man couple parasite
+	System Chosen Intruder Word = man
+	True Intruder Word = man
+
+[1.0] vapor fertility holy borrow
+	System Chosen Intruder Word = holy
+	True Intruder Word = holy
+
+[1.0] takeoff men soo lucky
+	System Chosen Intruder Word = takeoff
+	True Intruder Word = takeoff
+
+[1.0] watch prefer vapor lotta
+	System Chosen Intruder Word = prefer
+	True Intruder Word = prefer
+
+[1.0] courier deposit reduction gratitude
+	System Chosen Intruder Word = courier
+	True Intruder Word = courier
+
+[1.0] prejudice discussion birth getter
+	System Chosen Intruder Word = discussion
+	True Intruder Word = discussion
+
+[1.0] lottery warm justify greed
+	System Chosen Intruder Word = justify
+	True Intruder Word = justify
+
+[1.0] telephone custody evacuate remember
+	System Chosen Intruder Word = custody
+	True Intruder Word = custody
+
+[1.0] starboard trunk darling sky
+	System Chosen Intruder Word = darling
+	True Intruder Word = darling
+
+[1.0] performance rendezvous bill mental
+	System Chosen Intruder Word = rendezvous
+	True Intruder Word = rendezvous
+
+[1.0] discourage telegram danger nerf
+	System Chosen Intruder Word = discourage
+	True Intruder Word = discourage
+
+[1.0] hyperdrive money glass funny
+	System Chosen Intruder Word = hyperdrive
+	True Intruder Word = hyperdrive
+
+[1.0] instinct nerf point like
+	System Chosen Intruder Word = point
+	True Intruder Word = point
+
+[1.0] leader street idea small
+	System Chosen Intruder Word = leader
+	True Intruder Word = leader
+
+[1.0] tellin drive flower uncover
+	System Chosen Intruder Word = drive
+	True Intruder Word = drive
+
+[1.0] extreme wonder daddy garbage
+	System Chosen Intruder Word = extreme
+	True Intruder Word = extreme
+
+[1.0] lucky learn glad nice
+	System Chosen Intruder Word = learn
+	True Intruder Word = learn
+
+[1.0] interfere state lord transmitter
+	System Chosen Intruder Word = interfere
+	True Intruder Word = interfere
+
+[1.0] safe speak fuckin sixth
+	System Chosen Intruder Word = speak
+	True Intruder Word = speak
+
+[1.0] patience adapt marker night
+	System Chosen Intruder Word = patience
+	True Intruder Word = patience
+
+[1.0] occupy borrow news princess
+	System Chosen Intruder Word = news
+	True Intruder Word = news
+
+[1.0] sponge hide breakin hour
+	System Chosen Intruder Word = sponge
+	True Intruder Word = sponge
+
+[1.0] border ple reel mmm
+	System Chosen Intruder Word = reel
+	True Intruder Word = reel
+
+[1.0] allow warn conscious shit
+	System Chosen Intruder Word = conscious
+	True Intruder Word = conscious
+
+[1.0] unobserved film left altogether
+	System Chosen Intruder Word = left
+	True Intruder Word = left
+
+[1.0] murder life motel disintegration
+	System Chosen Intruder Word = motel
+	True Intruder Word = motel
+
+[1.0] bear shoo nah able
+	System Chosen Intruder Word = bear
+	True Intruder Word = bear
+
+[1.0] castle eye belong door
+	System Chosen Intruder Word = castle
+	True Intruder Word = castle
+
+[1.0] baby answer head alive
+	System Chosen Intruder Word = answer
+	True Intruder Word = answer
+
+[1.0] staff infantile escape live
+	System Chosen Intruder Word = staff
+	True Intruder Word = staff
+
+[1.0] pleasure patient patient pretty
+	System Chosen Intruder Word = patient
+	True Intruder Word = patient
+
+[1.0] weak obsess separate dress
+	System Chosen Intruder Word = separate
+	True Intruder Word = separate
+
+[1.0] goodbye late cook sell
+	System Chosen Intruder Word = late
+	True Intruder Word = late
+
+[1.0] song visit eat kingmaker
+	System Chosen Intruder Word = eat
+	True Intruder Word = eat
+
+[1.0] loyalty formula quarter lab
+	System Chosen Intruder Word = formula
+	True Intruder Word = formula
+
+[1.0] bureaucrat place round poem
+	System Chosen Intruder Word = bureaucrat
+	True Intruder Word = bureaucrat
+
+[1.0] brad plenty deal shiver
+	System Chosen Intruder Word = plenty
+	True Intruder Word = plenty
+
+[1.0] hateful trice cinnamon toy
+	System Chosen Intruder Word = cinnamon
+	True Intruder Word = cinnamon
+
+[1.0] spine own memory shock
+	System Chosen Intruder Word = spine
+	True Intruder Word = spine
+
+[1.0] purchase state mysterium save
+	System Chosen Intruder Word = purchase
+	True Intruder Word = purchase
+
+[1.0] meal matter issue personality
+	System Chosen Intruder Word = matter
+	True Intruder Word = matter
+
+[1.0] superstitious public skin follow
+	System Chosen Intruder Word = skin
+	True Intruder Word = skin
+
+[1.0] helm typing person delighted
+	System Chosen Intruder Word = typing
+	True Intruder Word = typing
+
+[1.0] forensic get sort disbelieve
+	System Chosen Intruder Word = get
+	True Intruder Word = get
+
+[1.0] nature regulation precisely tyrian
+	System Chosen Intruder Word = regulation
+	True Intruder Word = regulation
+
+[0.0] fear form question justice
+	System Chosen Intruder Word = form
+	True Intruder Word = question
+
+[1.0] steal pretend docking surprised
+	System Chosen Intruder Word = docking
+	True Intruder Word = docking
+
+[1.0] paper efficiency nearly government
+	System Chosen Intruder Word = paper
+	True Intruder Word = paper
+
+[1.0] rest cut slime sad
+	System Chosen Intruder Word = slime
+	True Intruder Word = slime
+
+[1.0] angel ging quiet structure
+	System Chosen Intruder Word = quiet
+	True Intruder Word = quiet
+
+[0.0] world theatre life immobilize
+	System Chosen Intruder Word = world
+	True Intruder Word = theatre
+
+[1.0] fear script lot anarchist
+	System Chosen Intruder Word = lot
+	True Intruder Word = lot
+
+[1.0] week sad whack fight
+	System Chosen Intruder Word = whack
+	True Intruder Word = whack
+
+[1.0] got process simple orgasm
+	System Chosen Intruder Word = got
+	True Intruder Word = got
+
+[1.0] lawyer climb handedly hypocrite
+	System Chosen Intruder Word = handedly
+	True Intruder Word = handedly
+
+[1.0] hello accomplish seventeen earn
+	System Chosen Intruder Word = seventeen
+	True Intruder Word = seventeen
+
+[1.0] asleep refuse invest outpost
+	System Chosen Intruder Word = asleep
+	True Intruder Word = asleep
+
+[1.0] bring complain torpedo ejection
+	System Chosen Intruder Word = complain
+	True Intruder Word = complain
+
+[1.0] malfunction ammo voice sniff
+	System Chosen Intruder Word = malfunction
+	True Intruder Word = malfunction
+
+[1.0] justice booking bypass slave
+	System Chosen Intruder Word = bypass
+	True Intruder Word = bypass
+
+[1.0] erase hay age switch
+	System Chosen Intruder Word = hay
+	True Intruder Word = hay
+
+[1.0] representation lower avoid cake
+	System Chosen Intruder Word = lower
+	True Intruder Word = lower
+
+[1.0] logical snoop navigational penguin
+	System Chosen Intruder Word = logical
+	True Intruder Word = logical
+
+[1.0] fly stencil chickenshit aviator
+	System Chosen Intruder Word = stencil
+	True Intruder Word = stencil
+
+[1.0] grandfather type handle norwegian
+	System Chosen Intruder Word = handle
+	True Intruder Word = handle
+
+[1.0] stare inoperative numeral devotion
+	System Chosen Intruder Word = stare
+	True Intruder Word = stare
+
+[1.0] college transport usno sayest
+	System Chosen Intruder Word = usno
+	True Intruder Word = usno
+
+[1.0] station up unquestioned pleasure
+	System Chosen Intruder Word = unquestioned
+	True Intruder Word = unquestioned
+
+[1.0] democracy some interrupt think
+	System Chosen Intruder Word = some
+	True Intruder Word = some
+
+[1.0] romantic campfire thirty pain
+	System Chosen Intruder Word = romantic
+	True Intruder Word = romantic
+
+[1.0] cab pint excuse tell
+	System Chosen Intruder Word = cab
+	True Intruder Word = cab
+
+[1.0] divide pint mmmm bloody
+	System Chosen Intruder Word = divide
+	True Intruder Word = divide
+
+[1.0] head abdicate remove plane
+	System Chosen Intruder Word = abdicate
+	True Intruder Word = abdicate
+
+[1.0] hell entitled checkbook freedom
+	System Chosen Intruder Word = checkbook
+	True Intruder Word = checkbook
+
+[1.0] move boy tough warfare
+	System Chosen Intruder Word = boy
+	True Intruder Word = boy
+
+[1.0] belt carry hood hot
+	System Chosen Intruder Word = belt
+	True Intruder Word = belt
+
+[1.0] chamber deal wonder file
+	System Chosen Intruder Word = wonder
+	True Intruder Word = wonder
+
+[1.0] blackmail glory wear care
+	System Chosen Intruder Word = blackmail
+	True Intruder Word = blackmail
+
+[1.0] throw confess feeling lordship
+	System Chosen Intruder Word = confess
+	True Intruder Word = confess
+
+[1.0] send because walled courage
+	System Chosen Intruder Word = because
+	True Intruder Word = because
+
+[1.0] mess greedy stone outside
+	System Chosen Intruder Word = stone
+	True Intruder Word = stone
+
+[1.0] crane summer triquitraque dialect
+	System Chosen Intruder Word = summer
+	True Intruder Word = summer
+
+[1.0] understand naked lance wise
+	System Chosen Intruder Word = understand
+	True Intruder Word = understand
+
+[1.0] title talk drive pimple
+	System Chosen Intruder Word = drive
+	True Intruder Word = drive
+
+[1.0] 400foot pick tape errand
+	System Chosen Intruder Word = pick
+	True Intruder Word = pick
+
+[1.0] camera unit darkness ahold
+	System Chosen Intruder Word = camera
+	True Intruder Word = camera
+
+[1.0] maintain agree rough imagination
+	System Chosen Intruder Word = agree
+	True Intruder Word = agree
+
+[1.0] explain instability vulcan intend
+	System Chosen Intruder Word = explain
+	True Intruder Word = explain
+
+[1.0] surgery dunno hotshot passionfruit
+	System Chosen Intruder Word = hotshot
+	True Intruder Word = hotshot
+
+[1.0] reality slightly fascinating turkish
+	System Chosen Intruder Word = reality
+	True Intruder Word = reality
+
+[1.0] report fuckface brown joint
+	System Chosen Intruder Word = fuckface
+	True Intruder Word = fuckface
+
+[1.0] strange water training unsheathed
+	System Chosen Intruder Word = training
+	True Intruder Word = training
+
+[1.0] lot cold slow truck
+	System Chosen Intruder Word = slow
+	True Intruder Word = slow
+
+[1.0] usual furious wedding ant
+	System Chosen Intruder Word = furious
+	True Intruder Word = furious
+
+[1.0] tube amusement parrot bachelor
+	System Chosen Intruder Word = tube
+	True Intruder Word = tube
+
+[1.0] wheel matinee cold lotta
+	System Chosen Intruder Word = cold
+	True Intruder Word = cold
+
+[1.0] state hour figure psychiatrist
+	System Chosen Intruder Word = state
+	True Intruder Word = state
+
+[1.0] obviously careful watch happy
+	System Chosen Intruder Word = obviously
+	True Intruder Word = obviously
+
+[1.0] provocation passage vehicle filter
+	System Chosen Intruder Word = passage
+	True Intruder Word = passage
+
+[1.0] movie possession transfer scene
+	System Chosen Intruder Word = movie
+	True Intruder Word = movie
+
+[1.0] 1500 favouritism actually individual
+	System Chosen Intruder Word = actually
+	True Intruder Word = actually
+
+[1.0] weakness different dozen inclined
+	System Chosen Intruder Word = dozen
+	True Intruder Word = dozen
+
+[0.0] sweep one regulation car
+	System Chosen Intruder Word = car
+	True Intruder Word = sweep
+
+[1.0] team im famossissimo pancake
+	System Chosen Intruder Word = team
+	True Intruder Word = team
+
+[1.0] play wave acid equally
+	System Chosen Intruder Word = play
+	True Intruder Word = play
+
+[1.0] extermination pursuer draw burtt
+	System Chosen Intruder Word = pursuer
+	True Intruder Word = pursuer
+
+[1.0] blow liquid hotly miraculous
+	System Chosen Intruder Word = blow
+	True Intruder Word = blow
+
+[1.0] black mixed virgin tired
+	System Chosen Intruder Word = mixed
+	True Intruder Word = mixed
+
+[1.0] boring surrogate yesterday tired
+	System Chosen Intruder Word = surrogate
+	True Intruder Word = surrogate
+
+[1.0] sorely frustration howm environment
+	System Chosen Intruder Word = howm
+	True Intruder Word = howm
+
+[1.0] squat rustle especially form
+	System Chosen Intruder Word = especially
+	True Intruder Word = especially
+
+[1.0] saloon cheer demote saint
+	System Chosen Intruder Word = saloon
+	True Intruder Word = saloon
+
+[1.0] owe bleed chocolate put
+	System Chosen Intruder Word = bleed
+	True Intruder Word = bleed
+
+[1.0] angel age cleaner slate
+	System Chosen Intruder Word = cleaner
+	True Intruder Word = cleaner
+
+[1.0] witte security pastry cleaner
+	System Chosen Intruder Word = witte
+	True Intruder Word = witte
+
+[1.0] avoid bishop hip menstruate
+	System Chosen Intruder Word = avoid
+	True Intruder Word = avoid
+
+[1.0] hatch husband vault weight
+	System Chosen Intruder Word = husband
+	True Intruder Word = husband
+
+[1.0] appetit shower corridor hypnotic
+	System Chosen Intruder Word = corridor
+	True Intruder Word = corridor
+
+[1.0] wondrous hmm point carcinoma
+	System Chosen Intruder Word = point
+	True Intruder Word = point
+
+[1.0] bag straight daughter admire
+	System Chosen Intruder Word = daughter
+	True Intruder Word = daughter
+
+[1.0] person perfect conditioning carrion
+	System Chosen Intruder Word = conditioning
+	True Intruder Word = conditioning
+
+[1.0] interfere outsider nymph firework
+	System Chosen Intruder Word = outsider
+	True Intruder Word = outsider
+
+[1.0] obedience saying quiet calculator
+	System Chosen Intruder Word = saying
+	True Intruder Word = saying
+
+[0.0] tend sense group schmuck
+	System Chosen Intruder Word = tend
+	True Intruder Word = sense
+
+[1.0] trucking goal cassette heroin
+	System Chosen Intruder Word = cassette
+	True Intruder Word = cassette
+
+[1.0] recount fantasy surfer compass
+	System Chosen Intruder Word = recount
+	True Intruder Word = recount
+
+[1.0] dare yesterday insult wrap
+	System Chosen Intruder Word = insult
+	True Intruder Word = insult
+
+[1.0] scream weirdo favor sperm
+	System Chosen Intruder Word = favor
+	True Intruder Word = favor
+
+[1.0] lawyer ive beach kiddy
+	System Chosen Intruder Word = ive
+	True Intruder Word = ive
+
+[1.0] difference knife superior baby
+	System Chosen Intruder Word = difference
+	True Intruder Word = difference
+
+[1.0] evil neurotic press little
+	System Chosen Intruder Word = evil
+	True Intruder Word = evil
+
+[1.0] sword log yhear sensitive
+	System Chosen Intruder Word = log
+	True Intruder Word = log
+
+[1.0] run later oh hunting
+	System Chosen Intruder Word = later
+	True Intruder Word = later
+
+[1.0] successful high cost homosexual
+	System Chosen Intruder Word = cost
+	True Intruder Word = cost
+
+[1.0] locate street connection generally
+	System Chosen Intruder Word = connection
+	True Intruder Word = connection
+
+[1.0] diving airlock sarcasm left
+	System Chosen Intruder Word = diving
+	True Intruder Word = diving
+
+[1.0] saw cancer sensitive tend
+	System Chosen Intruder Word = saw
+	True Intruder Word = saw
+
+[1.0] biblical promise undressed appointment
+	System Chosen Intruder Word = promise
+	True Intruder Word = promise
+
+[1.0] whacko crystallize behalf specific
+	System Chosen Intruder Word = behalf
+	True Intruder Word = behalf
+
+[1.0] compliment toast indigenous sea
+	System Chosen Intruder Word = toast
+	True Intruder Word = toast
+
+[1.0] nope electricity forensic fabulous
+	System Chosen Intruder Word = nope
+	True Intruder Word = nope
+
+[1.0] impressed suit report druck
+	System Chosen Intruder Word = impressed
+	True Intruder Word = impressed
+
+[1.0] general thread platoon neutralize
+	System Chosen Intruder Word = thread
+	True Intruder Word = thread
+
+[1.0] structural battalion civilian safety
+	System Chosen Intruder Word = battalion
+	True Intruder Word = battalion
+
+[1.0] settling mention quadrant 124
+	System Chosen Intruder Word = quadrant
+	True Intruder Word = quadrant
+
+[1.0] suspicion office talking alarm
+	System Chosen Intruder Word = office
+	True Intruder Word = office
+
+[1.0] magic hypnosis differently goodbye
+	System Chosen Intruder Word = magic
+	True Intruder Word = magic
+
+[1.0] kind fashioned bunch center
+	System Chosen Intruder Word = bunch
+	True Intruder Word = bunch
+
+[1.0] tax reporter respect guest
+	System Chosen Intruder Word = reporter
+	True Intruder Word = reporter
+
+[1.0] elusive vampire ruint release
+	System Chosen Intruder Word = ruint
+	True Intruder Word = ruint
+
+[1.0] dig shocked country untrue
+	System Chosen Intruder Word = country
+	True Intruder Word = country
+
+[1.0] jacket brief compliment species
+	System Chosen Intruder Word = jacket
+	True Intruder Word = jacket
+
+[1.0] incapable claim trofoe dumb
+	System Chosen Intruder Word = trofoe
+	True Intruder Word = trofoe
+
+[1.0] criminal untrue steal furiousi
+	System Chosen Intruder Word = steal
+	True Intruder Word = steal
+
+[1.0] ineffectual ohmygod collector smart
+	System Chosen Intruder Word = collector
+	True Intruder Word = collector
+
+[1.0] pattern mysterious prayer blast
+	System Chosen Intruder Word = prayer
+	True Intruder Word = prayer
+
+[1.0] enemy reporter murderer heavy
+	System Chosen Intruder Word = reporter
+	True Intruder Word = reporter
+
+[1.0] punker paint pen reasonable
+	System Chosen Intruder Word = pen
+	True Intruder Word = pen
+
+[1.0] especially health prepare anger
+	System Chosen Intruder Word = prepare
+	True Intruder Word = prepare
+
+[1.0] nick totally warning rendezvous
+	System Chosen Intruder Word = warning
+	True Intruder Word = warning
+
+[1.0] analyst popping crystal arrest
+	System Chosen Intruder Word = popping
+	True Intruder Word = popping
+
+[1.0] greatly faking belong greatness
+	System Chosen Intruder Word = faking
+	True Intruder Word = faking
+
+[1.0] sandbag ring agree something
+	System Chosen Intruder Word = agree
+	True Intruder Word = agree
+
+[1.0] rage okey pirate dangerously
+	System Chosen Intruder Word = pirate
+	True Intruder Word = pirate
+
+[1.0] excrement tch diet vanish
+	System Chosen Intruder Word = tch
+	True Intruder Word = tch
+
+[1.0] policeman sensor inquest whisky
+	System Chosen Intruder Word = inquest
+	True Intruder Word = inquest
+
+[1.0] significantly spin outer warm
+	System Chosen Intruder Word = significantly
+	True Intruder Word = significantly
+
+[1.0] wit lie ego teach
+	System Chosen Intruder Word = ego
+	True Intruder Word = ego
+
+[0.0] candy advice hand word
+	System Chosen Intruder Word = word
+	True Intruder Word = hand
+
+[1.0] kindergarten anatomically poor medic
+	System Chosen Intruder Word = kindergarten
+	True Intruder Word = kindergarten
+
+[1.0] large totally hold costume
+	System Chosen Intruder Word = large
+	True Intruder Word = large
+
+[1.0] cover catcher normal pay
+	System Chosen Intruder Word = catcher
+	True Intruder Word = catcher
+
+[1.0] embarrassed driver round fabulous
+	System Chosen Intruder Word = driver
+	True Intruder Word = driver
+
+[1.0] driver mom japanese milk
+	System Chosen Intruder Word = driver
+	True Intruder Word = driver
+
+[1.0] watch thoroughly proud mythology
+	System Chosen Intruder Word = thoroughly
+	True Intruder Word = thoroughly
+
+[1.0] explanation face contract entirely
+	System Chosen Intruder Word = explanation
+	True Intruder Word = explanation
+
+[1.0] tomorrow explanation light cross
+	System Chosen Intruder Word = explanation
+	True Intruder Word = explanation
+
+[1.0] cape improved eager anonymous
+	System Chosen Intruder Word = cape
+	True Intruder Word = cape
+
+[1.0] missing virus 944 traffic
+	System Chosen Intruder Word = 944
+	True Intruder Word = 944
+
+[1.0] stuff mayol rearrange chickenshit
+	System Chosen Intruder Word = mayol
+	True Intruder Word = mayol
+
+[1.0] alert tape arrogant prison
+	System Chosen Intruder Word = alert
+	True Intruder Word = alert
+
+[1.0] wound woulda chairman blaze
+	System Chosen Intruder Word = chairman
+	True Intruder Word = chairman
+
+[1.0] earl original driver coulda
+	System Chosen Intruder Word = driver
+	True Intruder Word = driver
+
+[1.0] bullshitting shoulda whisper dangerous
+	System Chosen Intruder Word = shoulda
+	True Intruder Word = shoulda
+
+[1.0] decoration hoo 180 proper
+	System Chosen Intruder Word = hoo
+	True Intruder Word = hoo
+
+[1.0] convince squeeze bloody broaden
+	System Chosen Intruder Word = convince
+	True Intruder Word = convince
+
+[1.0] bat sarcastic casualty bite
+	System Chosen Intruder Word = sarcastic
+	True Intruder Word = sarcastic
+
+[1.0] boring polymerize junior damn
+	System Chosen Intruder Word = boring
+	True Intruder Word = boring
+
+[1.0] poll interact prom confused
+	System Chosen Intruder Word = poll
+	True Intruder Word = poll
+
+[1.0] river ball bill checklist
+	System Chosen Intruder Word = ball
+	True Intruder Word = ball
+
+[1.0] deed sail sing drop
+	System Chosen Intruder Word = deed
+	True Intruder Word = deed
+
+[1.0] doest nearly confuse liver
+	System Chosen Intruder Word = confuse
+	True Intruder Word = confuse
+
+[1.0] grease meet bullet vibe
+	System Chosen Intruder Word = meet
+	True Intruder Word = meet
+
+[1.0] pal connect sexual distraught
+	System Chosen Intruder Word = sexual
+	True Intruder Word = sexual
+
+[0.0] company rig parent fly
+	System Chosen Intruder Word = company
+	True Intruder Word = parent
+
+[1.0] instrument deck crown scholarship
+	System Chosen Intruder Word = instrument
+	True Intruder Word = instrument
+
+[1.0] respect permit pig asleep
+	System Chosen Intruder Word = permit
+	True Intruder Word = permit
+
+[1.0] instruct personally eager unemployed
+	System Chosen Intruder Word = instruct
+	True Intruder Word = instruct
+
+[1.0] reveal bucket propose damnit
+	System Chosen Intruder Word = bucket
+	True Intruder Word = bucket
+
+[1.0] television bomb killer maintain
+	System Chosen Intruder Word = television
+	True Intruder Word = television
+
+[1.0] peaceably booze volunteer specifically
+	System Chosen Intruder Word = volunteer
+	True Intruder Word = volunteer
+
+[1.0] disaster shirt compress county
+	System Chosen Intruder Word = compress
+	True Intruder Word = compress
+
+[1.0] horn sis asshole whatd
+	System Chosen Intruder Word = horn
+	True Intruder Word = horn
+
+[1.0] acting incident tidal impulse
+	System Chosen Intruder Word = incident
+	True Intruder Word = incident
+
+[1.0] rag intelligent speciman hellve
+	System Chosen Intruder Word = intelligent
+	True Intruder Word = intelligent
+
+[1.0] barn pat tremendous lipstick
+	System Chosen Intruder Word = pat
+	True Intruder Word = pat
+
+[1.0] recollection piffle volunteer ditch
+	System Chosen Intruder Word = volunteer
+	True Intruder Word = volunteer
+
+[1.0] near army shoe review
+	System Chosen Intruder Word = army
+	True Intruder Word = army
+
+[1.0] sea pay lawyer bein
+	System Chosen Intruder Word = sea
+	True Intruder Word = sea
+
+[1.0] envy long everyday brace
+	System Chosen Intruder Word = envy
+	True Intruder Word = envy
+
+[1.0] wha recuperate useless hope
+	System Chosen Intruder Word = recuperate
+	True Intruder Word = recuperate
+
+[1.0] sweetheart odd lucky kinduv
+	System Chosen Intruder Word = odd
+	True Intruder Word = odd
+
+[1.0] delighted distinctive head gorilla
+	System Chosen Intruder Word = distinctive
+	True Intruder Word = distinctive
+
+[1.0] accessory principal necessarily speed
+	System Chosen Intruder Word = principal
+	True Intruder Word = principal
+
+[1.0] bastard behave sake law
+	System Chosen Intruder Word = sake
+	True Intruder Word = sake
+
+[1.0] distract bundle powerful cookie
+	System Chosen Intruder Word = bundle
+	True Intruder Word = bundle
+
+[1.0] nature gravedigger sell normal
+	System Chosen Intruder Word = gravedigger
+	True Intruder Word = gravedigger
+
+[1.0] plea burglar net official
+	System Chosen Intruder Word = net
+	True Intruder Word = net
+
+[1.0] solid future momentum cooperate
+	System Chosen Intruder Word = momentum
+	True Intruder Word = momentum
+
+[1.0] visual hall millionaire shade
+	System Chosen Intruder Word = visual
+	True Intruder Word = visual
+
+[1.0] dad permiso cover dishwasher
+	System Chosen Intruder Word = cover
+	True Intruder Word = cover
+
+[1.0] bathroom fraid lark dumb
+	System Chosen Intruder Word = lark
+	True Intruder Word = lark
+
+[1.0] ability honey expertise street
+	System Chosen Intruder Word = ability
+	True Intruder Word = ability
+
+[1.0] bum folk gem branch
+	System Chosen Intruder Word = folk
+	True Intruder Word = folk
+
+[1.0] saving pregnant sex tasteful
+	System Chosen Intruder Word = sex
+	True Intruder Word = sex
+
+[1.0] contact wake going discover
+	System Chosen Intruder Word = contact
+	True Intruder Word = contact
+
+[1.0] borrow control oak cobra
+	System Chosen Intruder Word = oak
+	True Intruder Word = oak
+
+[1.0] descendant slash traffic dyou
+	System Chosen Intruder Word = slash
+	True Intruder Word = slash
+
+[1.0] struggle miss apart possessive
+	System Chosen Intruder Word = struggle
+	True Intruder Word = struggle
+
+[1.0] rock 115 retail dummy
+	System Chosen Intruder Word = retail
+	True Intruder Word = retail
+
+[1.0] woman regularly coaster undertake
+	System Chosen Intruder Word = regularly
+	True Intruder Word = regularly
+
+[1.0] his hump bar puppy
+	System Chosen Intruder Word = hump
+	True Intruder Word = hump
+
+[1.0] redhaire wrist salesman undercover
+	System Chosen Intruder Word = wrist
+	True Intruder Word = wrist
+
+[1.0] irrationalï½ duck brutal stummick
+	System Chosen Intruder Word = brutal
+	True Intruder Word = brutal
+
+[1.0] battery kidding murderer downstairs
+	System Chosen Intruder Word = kidding
+	True Intruder Word = kidding
+
+[1.0] guess bizarre bank promised
+	System Chosen Intruder Word = bizarre
+	True Intruder Word = bizarre
+
+[1.0] gus soon ahem objection
+	System Chosen Intruder Word = gus
+	True Intruder Word = gus
+
+[1.0] dial nance ace inalienable
+	System Chosen Intruder Word = dial
+	True Intruder Word = dial
+
+[1.0] colon scientist moist imitate
+	System Chosen Intruder Word = moist
+	True Intruder Word = moist
+
+[1.0] bare arrogance passport slap
+	System Chosen Intruder Word = arrogance
+	True Intruder Word = arrogance
+
+[1.0] aptly bark shred dentist
+	System Chosen Intruder Word = shred
+	True Intruder Word = shred
+
+[1.0] pocket foundation onboard unconscious
+	System Chosen Intruder Word = foundation
+	True Intruder Word = foundation
+
+[1.0] effect domicile wistfully outdoor
+	System Chosen Intruder Word = wistfully
+	True Intruder Word = wistfully
+
+[1.0] suck demonstration current voice
+	System Chosen Intruder Word = suck
+	True Intruder Word = suck
+
+[1.0] elegance noble endure wench
+	System Chosen Intruder Word = endure
+	True Intruder Word = endure
+
+[1.0] prominent snigger press biological
+	System Chosen Intruder Word = prominent
+	True Intruder Word = prominent
+
+[1.0] bedstand sentimental hallway resistance
+	System Chosen Intruder Word = bedstand
+	True Intruder Word = bedstand
+
+[1.0] company presence high grasp
+	System Chosen Intruder Word = presence
+	True Intruder Word = presence
+
+[1.0] bout beeper star wifeand
+	System Chosen Intruder Word = star
+	True Intruder Word = star
+
+[1.0] pressing happy crack explain
+	System Chosen Intruder Word = happy
+	True Intruder Word = happy
+
+[1.0] bigot diary coke clown
+	System Chosen Intruder Word = coke
+	True Intruder Word = coke
+
+[1.0] ihave remind whore awful
+	System Chosen Intruder Word = remind
+	True Intruder Word = remind
+
+[1.0] future straight driver gym
+	System Chosen Intruder Word = driver
+	True Intruder Word = driver
+
+[1.0] sale enemy thrash game
+	System Chosen Intruder Word = thrash
+	True Intruder Word = thrash
+
+[1.0] feeling mix acquire charge
+	System Chosen Intruder Word = acquire
+	True Intruder Word = acquire
+
+[1.0] absence insure twice sexin
+	System Chosen Intruder Word = insure
+	True Intruder Word = insure
+
+[1.0] asmuch pop fully donation
+	System Chosen Intruder Word = fully
+	True Intruder Word = fully
+
+[1.0] brain puppet sober travelagent
+	System Chosen Intruder Word = puppet
+	True Intruder Word = puppet
+
+[1.0] isthmus polarize sakelittle lower
+	System Chosen Intruder Word = sakelittle
+	True Intruder Word = sakelittle
+
+[1.0] neighborhood lambada refer textbook
+	System Chosen Intruder Word = lambada
+	True Intruder Word = lambada
+
+[1.0] designer deem tool truck
+	System Chosen Intruder Word = designer
+	True Intruder Word = designer
+
+[1.0] kitten untraceable badge rapist
+	System Chosen Intruder Word = badge
+	True Intruder Word = badge
+
+[1.0] staple news investigative mink
+	System Chosen Intruder Word = staple
+	True Intruder Word = staple
+
+[1.0] thirteen creature ram confi
+	System Chosen Intruder Word = thirteen
+	True Intruder Word = thirteen
+
+[1.0] treat warm cunny depressed
+	System Chosen Intruder Word = warm
+	True Intruder Word = warm
+
+[1.0] slap owl banana senny
+	System Chosen Intruder Word = banana
+	True Intruder Word = banana
+
+[1.0] 7eleven hmmm electricity sun
+	System Chosen Intruder Word = electricity
+	True Intruder Word = electricity
+
+[1.0] answer snowboard singe japanese
+	System Chosen Intruder Word = answer
+	True Intruder Word = answer
+
+[1.0] revealing deny message tasty
+	System Chosen Intruder Word = deny
+	True Intruder Word = deny
+
+[1.0] shadow active wall suffering
+	System Chosen Intruder Word = active
+	True Intruder Word = active
+
+[1.0] mattress anguish career justify
+	System Chosen Intruder Word = anguish
+	True Intruder Word = anguish
+
+[1.0] postman ply normal consenting
+	System Chosen Intruder Word = ply
+	True Intruder Word = ply
+
+[1.0] warrant stride strengthen reach
+	System Chosen Intruder Word = strengthen
+	True Intruder Word = strengthen
+
+[1.0] colleague wrist installation adrenaline
+	System Chosen Intruder Word = installation
+	True Intruder Word = installation
+
+[1.0] master acknowledge platform daddy
+	System Chosen Intruder Word = master
+	True Intruder Word = master
+
+[1.0] legislature rhythm perspire bonus
+	System Chosen Intruder Word = perspire
+	True Intruder Word = perspire
+
+[1.0] bobbie tomato island short
+	System Chosen Intruder Word = tomato
+	True Intruder Word = tomato
+
+[1.0] reliable level commissioner intelligently
+	System Chosen Intruder Word = commissioner
+	True Intruder Word = commissioner
+
+[1.0] coldly legislator visual tour
+	System Chosen Intruder Word = coldly
+	True Intruder Word = coldly
+
+[1.0] to gangbuster monitor frequency
+	System Chosen Intruder Word = to
+	True Intruder Word = to
+
+[1.0] secondary particularly personally porpoise
+	System Chosen Intruder Word = secondary
+	True Intruder Word = secondary
+
+[1.0] resist cat halt focus
+	System Chosen Intruder Word = resist
+	True Intruder Word = resist
+
+[1.0] honie correct jackpot pre
+	System Chosen Intruder Word = honie
+	True Intruder Word = honie
+
+[1.0] recruit ness spontaneously mail
+	System Chosen Intruder Word = ness
+	True Intruder Word = ness
+
+[1.0] clog solo gruff termination
+	System Chosen Intruder Word = gruff
+	True Intruder Word = gruff
+
+[1.0] vast bush bourbon rush
+	System Chosen Intruder Word = vast
+	True Intruder Word = vast
+
+[1.0] physics hockey overseas blast
+	System Chosen Intruder Word = overseas
+	True Intruder Word = overseas
+
+[1.0] company jealous hotter lick
+	System Chosen Intruder Word = hotter
+	True Intruder Word = hotter
+
+[1.0] poop housekeeper number mystery
+	System Chosen Intruder Word = number
+	True Intruder Word = number
+
+[1.0] busboy enrollment dress quarantine
+	System Chosen Intruder Word = busboy
+	True Intruder Word = busboy
+
+[1.0] beckon stub anytime swift
+	System Chosen Intruder Word = beckon
+	True Intruder Word = beckon
+
+[1.0] solve prince action hermaphrodite
+	System Chosen Intruder Word = solve
+	True Intruder Word = solve
+
+[1.0] mislead accidently paper crucify
+	System Chosen Intruder Word = accidently
+	True Intruder Word = accidently
+
+[0.0] stub increase situation eighty
+	System Chosen Intruder Word = situation
+	True Intruder Word = increase
+
+[1.0] pocket garter kindle browsing
+	System Chosen Intruder Word = pocket
+	True Intruder Word = pocket
+
+[1.0] trance mirage hint freeze
+	System Chosen Intruder Word = mirage
+	True Intruder Word = mirage
+
+[1.0] ego 101 ï½ surfing
+	System Chosen Intruder Word = ego
+	True Intruder Word = ego
+
+[1.0] pleasure fanatical foothill length
+	System Chosen Intruder Word = pleasure
+	True Intruder Word = pleasure
+
+[1.0] breakthrough skip hush floor
+	System Chosen Intruder Word = breakthrough
+	True Intruder Word = breakthrough
+
+[1.0] appoint underneath wow religious
+	System Chosen Intruder Word = underneath
+	True Intruder Word = underneath
+
+[1.0] eleven skilled orientation gloat
+	System Chosen Intruder Word = skilled
+	True Intruder Word = skilled
+
+[1.0] vcr appoint understanding refugee
+	System Chosen Intruder Word = vcr
+	True Intruder Word = vcr
+
+[1.0] kindergarten lasagne witness cottony
+	System Chosen Intruder Word = kindergarten
+	True Intruder Word = kindergarten
+
+[1.0] define reverse bite sheriff
+	System Chosen Intruder Word = bite
+	True Intruder Word = bite
+
+[1.0] gross impact jammed cart
+	System Chosen Intruder Word = gross
+	True Intruder Word = gross
+
+[1.0] trickery vent comeback anchor
+	System Chosen Intruder Word = vent
+	True Intruder Word = vent
+
+[1.0] tragedy ingenue quarantine strudel
+	System Chosen Intruder Word = quarantine
+	True Intruder Word = quarantine
+
+[1.0] rollerblade chronological concert abominably
+	System Chosen Intruder Word = concert
+	True Intruder Word = concert
+
+[1.0] stone mama recommend rebel
+	System Chosen Intruder Word = recommend
+	True Intruder Word = recommend
+
+[1.0] enforce volunteer longer show
+	System Chosen Intruder Word = enforce
+	True Intruder Word = enforce
+
+[1.0] copyright chop copycat thinking
+	System Chosen Intruder Word = copycat
+	True Intruder Word = copycat
+
+[1.0] sit sixteen sweetie high
+	System Chosen Intruder Word = sixteen
+	True Intruder Word = sixteen
+
+[1.0] communist bitty faith fuckin
+	System Chosen Intruder Word = faith
+	True Intruder Word = faith
+
+[1.0] sit deck robot normal
+	System Chosen Intruder Word = robot
+	True Intruder Word = robot
+
+[1.0] elbow beep emma breakdown
+	System Chosen Intruder Word = emma
+	True Intruder Word = emma
+
+[1.0] worm radio ride ardour
+	System Chosen Intruder Word = worm
+	True Intruder Word = worm
+
+[1.0] release concert absolutely thought
+	System Chosen Intruder Word = concert
+	True Intruder Word = concert
+
+[1.0] blockbuster reflect carmine clearance
+	System Chosen Intruder Word = reflect
+	True Intruder Word = reflect
+
+[1.0] hopeless absentee checker therapist
+	System Chosen Intruder Word = absentee
+	True Intruder Word = absentee
+
+[0.0] civil in tread dazzle
+	System Chosen Intruder Word = civil
+	True Intruder Word = in
+
+[1.0] preppe meantime uncomprehending observation
+	System Chosen Intruder Word = meantime
+	True Intruder Word = meantime
+
+[1.0] technique houseclean autopsy root
+	System Chosen Intruder Word = houseclean
+	True Intruder Word = houseclean
+
+[1.0] samurai pressed elevated clientele
+	System Chosen Intruder Word = elevated
+	True Intruder Word = elevated
+
+[1.0] charity loud confront dissect
+	System Chosen Intruder Word = loud
+	True Intruder Word = loud
+
+[1.0] beau counsel blammo accuse
+	System Chosen Intruder Word = counsel
+	True Intruder Word = counsel
+
+[1.0] dad illegal creaky photo
+	System Chosen Intruder Word = dad
+	True Intruder Word = dad
+
+[1.0] gain pint snow implied
+	System Chosen Intruder Word = snow
+	True Intruder Word = snow
+
+[1.0] dim unravel nocturnal truth
+	System Chosen Intruder Word = unravel
+	True Intruder Word = unravel
+
+[1.0] automatic shit blackmailer bulb
+	System Chosen Intruder Word = automatic
+	True Intruder Word = automatic
+
+[1.0] ought aircraft professional propose
+	System Chosen Intruder Word = aircraft
+	True Intruder Word = aircraft
+
+[1.0] engage audition operation plan
+	System Chosen Intruder Word = engage
+	True Intruder Word = engage
+
+[1.0] fourth damn ground smoke
+	System Chosen Intruder Word = fourth
+	True Intruder Word = fourth
+
+[1.0] turban closer announcement welcome
+	System Chosen Intruder Word = turban
+	True Intruder Word = turban
+
+[1.0] establish mature stalk weekend
+	System Chosen Intruder Word = stalk
+	True Intruder Word = stalk
+
+[1.0] forever bathroom fragment microwave
+	System Chosen Intruder Word = fragment
+	True Intruder Word = fragment
+
+[1.0] anus alongside doorway everybody
+	System Chosen Intruder Word = doorway
+	True Intruder Word = doorway
+
+[1.0] weather turban jam yuck
+	System Chosen Intruder Word = turban
+	True Intruder Word = turban
+
+[1.0] redemption weak communication smack
+	System Chosen Intruder Word = weak
+	True Intruder Word = weak
+
+[1.0] 24th subway wraith manyd
+	System Chosen Intruder Word = subway
+	True Intruder Word = subway
+
+[1.0] typical untrue kilogram subject
+	System Chosen Intruder Word = kilogram
+	True Intruder Word = kilogram
+
+[1.0] capsize tune album fix
+	System Chosen Intruder Word = tune
+	True Intruder Word = tune
+
+[1.0] dispersive potty onceï½ harbor
+	System Chosen Intruder Word = dispersive
+	True Intruder Word = dispersive
+
+[1.0] jib elevator cabinet data
+	System Chosen Intruder Word = cabinet
+	True Intruder Word = cabinet
+
+[1.0] thrust conscience badly redemption
+	System Chosen Intruder Word = badly
+	True Intruder Word = badly
+
+[1.0] wetter border electricity darei
+	System Chosen Intruder Word = electricity
+	True Intruder Word = electricity
+
+[1.0] nowready idiot amaretto spy
+	System Chosen Intruder Word = amaretto
+	True Intruder Word = amaretto
+
+[1.0] possibility foreign bedrock band
+	System Chosen Intruder Word = possibility
+	True Intruder Word = possibility
+
+[1.0] term tradition counseling oclock
+	System Chosen Intruder Word = counseling
+	True Intruder Word = counseling
+
+[1.0] rye confess flight competition
+	System Chosen Intruder Word = confess
+	True Intruder Word = confess
+
+[1.0] singing bark suggest peritoneum
+	System Chosen Intruder Word = singing
+	True Intruder Word = singing
+
+[1.0] droll theywere claw prepared
+	System Chosen Intruder Word = claw
+	True Intruder Word = claw
+
+[1.0] trailer nakedness allow resort
+	System Chosen Intruder Word = nakedness
+	True Intruder Word = nakedness
+
+[1.0] towel debt bizarre male
+	System Chosen Intruder Word = towel
+	True Intruder Word = towel
+
+[1.0] immigrant gradual horrifying vastness
+	System Chosen Intruder Word = gradual
+	True Intruder Word = gradual
+
+[1.0] ground devastate prior unwell
+	System Chosen Intruder Word = devastate
+	True Intruder Word = devastate
+
+[1.0] wretched trot scene scary
+	System Chosen Intruder Word = trot
+	True Intruder Word = trot
+
+[1.0] civility carry sex grandmother
+	System Chosen Intruder Word = sex
+	True Intruder Word = sex
+
+[1.0] supportive bland sequel beast
+	System Chosen Intruder Word = bland
+	True Intruder Word = bland
+
+[0.0] assassination dual ithttheereess discover
+	System Chosen Intruder Word = ithttheereess
+	True Intruder Word = assassination
+
+[1.0] activity transcendent fumble confer
+	System Chosen Intruder Word = transcendent
+	True Intruder Word = transcendent
+
+[1.0] breaker dawn containment rebel
+	System Chosen Intruder Word = breaker
+	True Intruder Word = breaker
+
+[1.0] youth evasion vase sould
+	System Chosen Intruder Word = youth
+	True Intruder Word = youth
+
+[1.0] dawn invent painful ironic
+	System Chosen Intruder Word = painful
+	True Intruder Word = painful
+
+[1.0] rage filthy nitrogenizer sensational
+	System Chosen Intruder Word = rage
+	True Intruder Word = rage
+
+[1.0] loyalist nooo gunny broker
+	System Chosen Intruder Word = nooo
+	True Intruder Word = nooo
+
+[1.0] limo pact concurrently wedding
+	System Chosen Intruder Word = concurrently
+	True Intruder Word = concurrently
+
+[1.0] policy lick attacker restaurant
+	System Chosen Intruder Word = lick
+	True Intruder Word = lick
+
+[1.0] nearly village funeral control
+	System Chosen Intruder Word = village
+	True Intruder Word = village
+
+[1.0] harder affect master carry
+	System Chosen Intruder Word = master
+	True Intruder Word = master
+
+[1.0] summer trut butter complex
+	System Chosen Intruder Word = butter
+	True Intruder Word = butter
+
+[1.0] decent beam unfair pajama
+	System Chosen Intruder Word = unfair
+	True Intruder Word = unfair
+
+[1.0] bud gameï½s dodge traitor
+	System Chosen Intruder Word = gameï½s
+	True Intruder Word = gameï½s
+
+[1.0] bottle blood toy relish
+	System Chosen Intruder Word = toy
+	True Intruder Word = toy
+
+[1.0] boyfriend puke humor crooked
+	System Chosen Intruder Word = humor
+	True Intruder Word = humor
+
+[1.0] bitch darkroom suitcase lately
+	System Chosen Intruder Word = darkroom
+	True Intruder Word = darkroom
+
+[1.0] shooter marlon bear bathroom
+	System Chosen Intruder Word = shooter
+	True Intruder Word = shooter
+
+[1.0] acquaint gas argument maelstrom
+	System Chosen Intruder Word = argument
+	True Intruder Word = argument
+
+[1.0] kurtzweilwhat diabetic ubiquitous escort
+	System Chosen Intruder Word = ubiquitous
+	True Intruder Word = ubiquitous
+
+[1.0] telephone delirium flawlessly doingim
+	System Chosen Intruder Word = delirium
+	True Intruder Word = delirium
+
+[1.0] god greeting suburban movin
+	System Chosen Intruder Word = suburban
+	True Intruder Word = suburban
+
+[1.0] carpet crowbar horny whatsoever
+	System Chosen Intruder Word = horny
+	True Intruder Word = horny
+
+[1.0] decay judiciary spear intact
+	System Chosen Intruder Word = judiciary
+	True Intruder Word = judiciary
+
+[1.0] superstition farrouhk gammon stiffen
+	System Chosen Intruder Word = superstition
+	True Intruder Word = superstition
+
+[1.0] saline yoichiï½s incapable wanker
+	System Chosen Intruder Word = yoichiï½s
+	True Intruder Word = yoichiï½s
+
+[1.0] flawlessly design cryin narcotics
+	System Chosen Intruder Word = flawlessly
+	True Intruder Word = flawlessly
+
+[1.0] coolio wool vagina sketch
+	System Chosen Intruder Word = coolio
+	True Intruder Word = coolio
+
+[1.0] back hero 930 tooth
+	System Chosen Intruder Word = 930
+	True Intruder Word = 930
+
+[1.0] obstetrical cleaning livelong talent
+	System Chosen Intruder Word = obstetrical
+	True Intruder Word = obstetrical
+
+[1.0] discourage chump bowl eeeh
+	System Chosen Intruder Word = chump
+	True Intruder Word = chump
+
+[1.0] namun sisterly instability gasket
+	System Chosen Intruder Word = instability
+	True Intruder Word = instability
+
+[1.0] effect handover patronizing you11
+	System Chosen Intruder Word = handover
+	True Intruder Word = handover
+
+[1.0] begin release truer exhilarating
+	System Chosen Intruder Word = truer
+	True Intruder Word = truer
+
+[1.0] stalk yard roman because
+	System Chosen Intruder Word = stalk
+	True Intruder Word = stalk
+
+[1.0] shipment angle straw gasket
+	System Chosen Intruder Word = angle
+	True Intruder Word = angle
+
+[1.0] syndrome bianca tuna tossing
+	System Chosen Intruder Word = tuna
+	True Intruder Word = tuna
+
+[1.0] brush musician nap standing
+	System Chosen Intruder Word = brush
+	True Intruder Word = brush
+
+[0.0] wagon national decapitate because
+	System Chosen Intruder Word = national
+	True Intruder Word = wagon
+
+[1.0] stinki altitude refute ranting
+	System Chosen Intruder Word = altitude
+	True Intruder Word = altitude
+
+[1.0] untie telling slam unbelievably
+	System Chosen Intruder Word = telling
+	True Intruder Word = telling
+
+[1.0] rolling fortnight silicon dementia
+	System Chosen Intruder Word = silicon
+	True Intruder Word = silicon
+
+[1.0] shocking solicit paradigm shithead
+	System Chosen Intruder Word = solicit
+	True Intruder Word = solicit
+
+[1.0] japanese pure dispatcher mindfuck
+	System Chosen Intruder Word = dispatcher
+	True Intruder Word = dispatcher
+
+[1.0] soundstage enlist tastic mace
+	System Chosen Intruder Word = soundstage
+	True Intruder Word = soundstage
+
+[1.0] click dull hardwire demand
+	System Chosen Intruder Word = click
+	True Intruder Word = click
+
+[1.0] sheba entrance haltingly faceless
+	System Chosen Intruder Word = haltingly
+	True Intruder Word = haltingly
+
+[1.0] adventure handhold admirer eternity
+	System Chosen Intruder Word = admirer
+	True Intruder Word = admirer
+
+[1.0] courage sherry motherfucker bulletproof
+	System Chosen Intruder Word = motherfucker
+	True Intruder Word = motherfucker
+
+[1.0] steel shake consist attitude
+	System Chosen Intruder Word = steel
+	True Intruder Word = steel
+
+[1.0] carrion chromium ring breast
+	System Chosen Intruder Word = carrion
+	True Intruder Word = carrion
+
+[1.0] herd homily lean havenï½t
+	System Chosen Intruder Word = homily
+	True Intruder Word = homily
+
+[1.0] homily stress distributor jammed
+	System Chosen Intruder Word = homily
+	True Intruder Word = homily
+
+[1.0] about mindless ratty nervous
+	System Chosen Intruder Word = mindless
+	True Intruder Word = mindless
+
+[1.0] burst buffoon bolivian intention
+	System Chosen Intruder Word = buffoon
+	True Intruder Word = buffoon
+
+[1.0] retail dewey freezer domini
+	System Chosen Intruder Word = retail
+	True Intruder Word = retail
+
+[1.0] russian sunshine whatsa psychological
+	System Chosen Intruder Word = russian
+	True Intruder Word = russian
+
+[1.0] traumatic 200 louis box
+	System Chosen Intruder Word = louis
+	True Intruder Word = louis
+
+[1.0] sou sense factory smash
+	System Chosen Intruder Word = factory
+	True Intruder Word = factory
+
+[1.0] complicity presently proof fisherman
+	System Chosen Intruder Word = presently
+	True Intruder Word = presently
+
+[1.0] inequality fluke cuisine instructive
+	System Chosen Intruder Word = inequality
+	True Intruder Word = inequality
+
+[1.0] straw sandwich penetration scary
+	System Chosen Intruder Word = sandwich
+	True Intruder Word = sandwich
+
+[1.0] presentation audio considerably originally
+	System Chosen Intruder Word = presentation
+	True Intruder Word = presentation
+
+[1.0] junior suckere dull technicality
+	System Chosen Intruder Word = dull
+	True Intruder Word = dull
+
+[1.0] weirdness president bourbon cd
+	System Chosen Intruder Word = president
+	True Intruder Word = president
+
+[1.0] juncture fame vital tingling
+	System Chosen Intruder Word = juncture
+	True Intruder Word = juncture
+
+[1.0] fortress overrun emerge luxury
+	System Chosen Intruder Word = fortress
+	True Intruder Word = fortress
+
+[1.0] fri wuz growin itï½s
+	System Chosen Intruder Word = fri
+	True Intruder Word = fri
+
+[1.0] toxin junior kay bribery
+	System Chosen Intruder Word = kay
+	True Intruder Word = kay
+
+[1.0] statement writer fiction hallway
+	System Chosen Intruder Word = fiction
+	True Intruder Word = fiction
+
+[1.0] perverse erudite scared relax
+	System Chosen Intruder Word = perverse
+	True Intruder Word = perverse
+
+[1.0] serve command dickhead soak
+	System Chosen Intruder Word = command
+	True Intruder Word = command
+
+[0.0] soul basis hideously begin
+	System Chosen Intruder Word = begin
+	True Intruder Word = basis
+
+[1.0] pooper transfer responsibility outside
+	System Chosen Intruder Word = responsibility
+	True Intruder Word = responsibility
+
+[0.0] last kneel size novel
+	System Chosen Intruder Word = last
+	True Intruder Word = kneel
+
+[1.0] surprised sport admit lady
+	System Chosen Intruder Word = surprised
+	True Intruder Word = surprised
+
+[1.0] dissipate hideous volar board
+	System Chosen Intruder Word = hideous
+	True Intruder Word = hideous
+
+[1.0] hotel strange shipwreck sexual
+	System Chosen Intruder Word = hotel
+	True Intruder Word = hotel
+
+[1.0] easy inch similar mph
+	System Chosen Intruder Word = similar
+	True Intruder Word = similar
+
+[1.0] nephew training anger plenty
+	System Chosen Intruder Word = training
+	True Intruder Word = training
+
+[1.0] maze imperialism codependent sonofagun
+	System Chosen Intruder Word = codependent
+	True Intruder Word = codependent
+
+[1.0] pukin intercede emerge heavy
+	System Chosen Intruder Word = pukin
+	True Intruder Word = pukin
+
+[1.0] plague syndrome anytime receipt
+	System Chosen Intruder Word = syndrome
+	True Intruder Word = syndrome
+
+[1.0] strega recess 360 stu
+	System Chosen Intruder Word = recess
+	True Intruder Word = recess
+
+[1.0] thrill notch mastermind experiment
+	System Chosen Intruder Word = notch
+	True Intruder Word = notch
+
+[1.0] value success nasty resemble
+	System Chosen Intruder Word = success
+	True Intruder Word = success
+
+[1.0] cone precious capital contemptuous
+	System Chosen Intruder Word = precious
+	True Intruder Word = precious
+
+[1.0] blast describe splatter tellin
+	System Chosen Intruder Word = splatter
+	True Intruder Word = splatter
+
+[1.0] taxidermy reissue felony unfortunate
+	System Chosen Intruder Word = taxidermy
+	True Intruder Word = taxidermy
+
+[1.0] dependable bleed clone fork
+	System Chosen Intruder Word = dependable
+	True Intruder Word = dependable
+
+[1.0] weigh heal sip tail
+	System Chosen Intruder Word = weigh
+	True Intruder Word = weigh
+
+[1.0] management surveillance silly early
+	System Chosen Intruder Word = management
+	True Intruder Word = management
+
+[1.0] beneath eighteen compliment creepy
+	System Chosen Intruder Word = compliment
+	True Intruder Word = compliment
+
+[1.0] minimum today confusing irony
+	System Chosen Intruder Word = minimum
+	True Intruder Word = minimum
+
+[1.0] finally fish swimmin fuck
+	System Chosen Intruder Word = fish
+	True Intruder Word = fish
+
+[0.0] furthermore concept give purple
+	System Chosen Intruder Word = give
+	True Intruder Word = furthermore
+
+[1.0] effort expect circulate follow
+	System Chosen Intruder Word = circulate
+	True Intruder Word = circulate
+
+[1.0] toddler motel freeze zoo
+	System Chosen Intruder Word = freeze
+	True Intruder Word = freeze
+
+[1.0] accelerator fog eachother chew
+	System Chosen Intruder Word = accelerator
+	True Intruder Word = accelerator
+
+[1.0] refugee pace craziness torture
+	System Chosen Intruder Word = refugee
+	True Intruder Word = refugee
+
+[1.0] account cat bladder harryï½
+	System Chosen Intruder Word = cat
+	True Intruder Word = cat
+
+[1.0] anyways delighted false interface
+	System Chosen Intruder Word = anyways
+	True Intruder Word = anyways
+
+[1.0] sin scheme bond barbaric
+	System Chosen Intruder Word = sin
+	True Intruder Word = sin
+
+[1.0] terrain technically clothe alert
+	System Chosen Intruder Word = clothe
+	True Intruder Word = clothe
+
+[1.0] stress bedsheet confluence cello
+	System Chosen Intruder Word = bedsheet
+	True Intruder Word = bedsheet
+
+[1.0] access bombad cockaroach fishing
+	System Chosen Intruder Word = bombad
+	True Intruder Word = bombad
+
+[1.0] grinder strike tall merchandise
+	System Chosen Intruder Word = strike
+	True Intruder Word = strike
+
+[1.0] exile heavin horseshit dimension
+	System Chosen Intruder Word = horseshit
+	True Intruder Word = horseshit
+
+[1.0] oui diminishing ladder disentangle
+	System Chosen Intruder Word = ladder
+	True Intruder Word = ladder
+
+[0.0] exercise twitch lieutenant of
+	System Chosen Intruder Word = exercise
+	True Intruder Word = lieutenant
+
+[1.0] execute acquiesce squeeze cessation
+	System Chosen Intruder Word = execute
+	True Intruder Word = execute
+
+[1.0] boychick farm needle approval
+	System Chosen Intruder Word = boychick
+	True Intruder Word = boychick
+
+[1.0] nightclub dysfunctional heartless vasectomy
+	System Chosen Intruder Word = dysfunctional
+	True Intruder Word = dysfunctional
+
+[1.0] hearten heck heck rifle
+	System Chosen Intruder Word = heck
+	True Intruder Word = heck
+
+[1.0] edge ill forensic lurk
+	System Chosen Intruder Word = ill
+	True Intruder Word = ill
+
+[1.0] assign trial confusing genius
+	System Chosen Intruder Word = confusing
+	True Intruder Word = confusing
+
+[1.0] ineffective law stroke frame
+	System Chosen Intruder Word = stroke
+	True Intruder Word = stroke
+
+[1.0] sober intellectual mister visit
+	System Chosen Intruder Word = mister
+	True Intruder Word = mister
+
+[1.0] telegenic visit esther loot
+	System Chosen Intruder Word = telegenic
+	True Intruder Word = telegenic
+
+[1.0] preciate swagger period wallpaper
+	System Chosen Intruder Word = period
+	True Intruder Word = period
+
+[1.0] gunfire fudge wealthy grocer
+	System Chosen Intruder Word = gunfire
+	True Intruder Word = gunfire
+
+[1.0] unpleasantness shine square payment
+	System Chosen Intruder Word = unpleasantness
+	True Intruder Word = unpleasantness
+
+[1.0] sheriff stoic hunting beat
+	System Chosen Intruder Word = hunting
+	True Intruder Word = hunting
+
+[1.0] stayin attention groundsi slogan
+	System Chosen Intruder Word = groundsi
+	True Intruder Word = groundsi
+
+[1.0] dash phony 1936 japanese
+	System Chosen Intruder Word = dash
+	True Intruder Word = dash
+
+[1.0] cast beacon resource polar
+	System Chosen Intruder Word = resource
+	True Intruder Word = resource
+
+[1.0] justify earmuff perform skip
+	System Chosen Intruder Word = justify
+	True Intruder Word = justify
+
+[1.0] correspondent gator deter disciple
+	System Chosen Intruder Word = correspondent
+	True Intruder Word = correspondent
+
+[1.0] swift twrip sle roadside
+	System Chosen Intruder Word = sle
+	True Intruder Word = sle
+
+[1.0] secret clearly traumatic appease
+	System Chosen Intruder Word = traumatic
+	True Intruder Word = traumatic
+
+[1.0] ability barely party promotion
+	System Chosen Intruder Word = ability
+	True Intruder Word = ability
+
+[1.0] curb book massive filthy
+	System Chosen Intruder Word = curb
+	True Intruder Word = curb
+
+[1.0] cousin odd frightfully tired
+	System Chosen Intruder Word = frightfully
+	True Intruder Word = frightfully
+
+[1.0] celebrate transport slam expect
+	System Chosen Intruder Word = celebrate
+	True Intruder Word = celebrate
+
+[1.0] goofus screw strong mumpish
+	System Chosen Intruder Word = screw
+	True Intruder Word = screw
+
+[1.0] poke darle force win
+	System Chosen Intruder Word = force
+	True Intruder Word = force
+
+[1.0] awake kitchen musician sermon
+	System Chosen Intruder Word = musician
+	True Intruder Word = musician
+
+[1.0] action brother lemonade maintenance
+	System Chosen Intruder Word = brother
+	True Intruder Word = brother
+
+[1.0] island vineyard fly situation
+	System Chosen Intruder Word = vineyard
+	True Intruder Word = vineyard
+
+[1.0] amateur journal highly outbound
+	System Chosen Intruder Word = amateur
+	True Intruder Word = amateur
+
+[1.0] im sour attack hail
+	System Chosen Intruder Word = im
+	True Intruder Word = im
+
+[1.0] homeless goatee liable crying
+	System Chosen Intruder Word = liable
+	True Intruder Word = liable
+
+[1.0] mental cordon snuff huddle
+	System Chosen Intruder Word = cordon
+	True Intruder Word = cordon
+
+[1.0] bait earlier darkroom lower
+	System Chosen Intruder Word = darkroom
+	True Intruder Word = darkroom
+
+[1.0] salmon steering mite crimefighter
+	System Chosen Intruder Word = mite
+	True Intruder Word = mite
+
+[1.0] destine 184000 neighborhood compensation
+	System Chosen Intruder Word = neighborhood
+	True Intruder Word = neighborhood
+
+[1.0] stick massacre 16th menu
+	System Chosen Intruder Word = stick
+	True Intruder Word = stick
+
+[1.0] act overripe fashion peel
+	System Chosen Intruder Word = act
+	True Intruder Word = act
+
+[1.0] bunch awesome build interested
+	System Chosen Intruder Word = bunch
+	True Intruder Word = bunch
+
+[1.0] stable entitle vow hobble
+	System Chosen Intruder Word = entitle
+	True Intruder Word = entitle
+
+[1.0] mold learner charm silver
+	System Chosen Intruder Word = learner
+	True Intruder Word = learner
+
+[1.0] slip fix agenda magnificent
+	System Chosen Intruder Word = fix
+	True Intruder Word = fix
+
+[1.0] sharp courthouse loss inform
+	System Chosen Intruder Word = loss
+	True Intruder Word = loss
+
+[1.0] step appointment kill physics
+	System Chosen Intruder Word = appointment
+	True Intruder Word = appointment
+
+[1.0] glow learner comfort lettuce
+	System Chosen Intruder Word = learner
+	True Intruder Word = learner
+
+[1.0] payback couple vacation hate
+	System Chosen Intruder Word = vacation
+	True Intruder Word = vacation
+
+[1.0] homework occasion total unfortunate
+	System Chosen Intruder Word = total
+	True Intruder Word = total
+
+[1.0] ride sin new regret
+	System Chosen Intruder Word = new
+	True Intruder Word = new
+
+[1.0] street funny follow cold
+	System Chosen Intruder Word = follow
+	True Intruder Word = follow
+
+[1.0] rifle 1295 card stabilize
+	System Chosen Intruder Word = rifle
+	True Intruder Word = rifle
+
+[1.0] cordwood cramp dmv mill
+	System Chosen Intruder Word = dmv
+	True Intruder Word = dmv
+
+[1.0] fro hardass focus consecutive
+	System Chosen Intruder Word = hardass
+	True Intruder Word = hardass
+
+[1.0] roller recording admirer fuzzy
+	System Chosen Intruder Word = recording
+	True Intruder Word = recording
+
+[1.0] wedlock curry lingerie basement
+	System Chosen Intruder Word = wedlock
+	True Intruder Word = wedlock
+
+[1.0] vibrator asparagus expel rubble
+	System Chosen Intruder Word = expel
+	True Intruder Word = expel
+
+[1.0] ordinary orde merger transverse
+	System Chosen Intruder Word = merger
+	True Intruder Word = merger
+
+[1.0] prototype invitation 58 gynecologist
+	System Chosen Intruder Word = invitation
+	True Intruder Word = invitation
+
+[1.0] regular school pub write
+	System Chosen Intruder Word = pub
+	True Intruder Word = pub
+
+[1.0] instinctively percent digit advertising
+	System Chosen Intruder Word = instinctively
+	True Intruder Word = instinctively
+
+[1.0] esteem restaurant fuel magic
+	System Chosen Intruder Word = restaurant
+	True Intruder Word = restaurant
+
+[1.0] dreadful yield station computer
+	System Chosen Intruder Word = yield
+	True Intruder Word = yield
+
+[1.0] get try lick worry
+	System Chosen Intruder Word = try
+	True Intruder Word = try
+
+[1.0] article anything unarmed weve
+	System Chosen Intruder Word = anything
+	True Intruder Word = anything
+
+[1.0] permanent daughter sort serve
+	System Chosen Intruder Word = sort
+	True Intruder Word = sort
+
+[1.0] felel fray perfom charge
+	System Chosen Intruder Word = perfom
+	True Intruder Word = perfom
+
+[1.0] mean god speed chattel
+	System Chosen Intruder Word = speed
+	True Intruder Word = speed
+
+[1.0] walk answer rivalry silly
+	System Chosen Intruder Word = answer
+	True Intruder Word = answer
+
+[1.0] consider news crucial simple
+	System Chosen Intruder Word = consider
+	True Intruder Word = consider
+
+[1.0] gentleman house hiding rotate
+	System Chosen Intruder Word = hiding
+	True Intruder Word = hiding
+
+[1.0] expression seal sink honor
+	System Chosen Intruder Word = seal
+	True Intruder Word = seal
+
+[1.0] tooth basically cartridge range
+	System Chosen Intruder Word = cartridge
+	True Intruder Word = cartridge
+
+[1.0] ecuadorean jagged save segment
+	System Chosen Intruder Word = save
+	True Intruder Word = save
+
+[0.0] notion pointless save new
+	System Chosen Intruder Word = notion
+	True Intruder Word = save
+
+[1.0] exist rusted recall accurately
+	System Chosen Intruder Word = recall
+	True Intruder Word = recall
+
+[1.0] wall squadere clock earth
+	System Chosen Intruder Word = squadere
+	True Intruder Word = squadere
+
+[1.0] joint medication gun bum
+	System Chosen Intruder Word = medication
+	True Intruder Word = medication
+
+[1.0] youll religion unemployable sweet
+	System Chosen Intruder Word = religion
+	True Intruder Word = religion
+
+[1.0] comeback admit decision hunt
+	System Chosen Intruder Word = decision
+	True Intruder Word = decision
+
+[1.0] velvet foolish curve tear
+	System Chosen Intruder Word = foolish
+	True Intruder Word = foolish
+
+[1.0] protective stress shrug break
+	System Chosen Intruder Word = stress
+	True Intruder Word = stress
+
+[1.0] fantastic harder generate carb
+	System Chosen Intruder Word = generate
+	True Intruder Word = generate
+
+[1.0] cookie naggy sport yell
+	System Chosen Intruder Word = cookie
+	True Intruder Word = cookie
+
+[1.0] story feeling overweight money
+	System Chosen Intruder Word = story
+	True Intruder Word = story
+
+[1.0] waggin environment cootch water
+	System Chosen Intruder Word = waggin
+	True Intruder Word = waggin
+
+[1.0] curly morning prescription spring
+	System Chosen Intruder Word = curly
+	True Intruder Word = curly
+
+[1.0] politely space happen disappointing
+	System Chosen Intruder Word = space
+	True Intruder Word = space
+
+[1.0] storm abortion power ship
+	System Chosen Intruder Word = abortion
+	True Intruder Word = abortion
+
+[1.0] momma end fraternity go
+	System Chosen Intruder Word = fraternity
+	True Intruder Word = fraternity
+
+[1.0] waggin curly build shove
+	System Chosen Intruder Word = curly
+	True Intruder Word = curly
+
+[1.0] maneuver something schedule tough
+	System Chosen Intruder Word = something
+	True Intruder Word = something
+
+[1.0] protect movin vaginal neck
+	System Chosen Intruder Word = movin
+	True Intruder Word = movin
+
+[1.0] congratulation stain slash 200
+	System Chosen Intruder Word = congratulation
+	True Intruder Word = congratulation
+
+[1.0] shirt musical denial hurls
+	System Chosen Intruder Word = denial
+	True Intruder Word = denial
+
+[1.0] usually demand gawk sum
+	System Chosen Intruder Word = demand
+	True Intruder Word = demand
+
+[1.0] curse bro hastily royalty
+	System Chosen Intruder Word = hastily
+	True Intruder Word = hastily
+
+[1.0] division roadie question sure
+	System Chosen Intruder Word = roadie
+	True Intruder Word = roadie
+
+[1.0] fund pause bruise chaser
+	System Chosen Intruder Word = fund
+	True Intruder Word = fund
+
+[1.0] untaped march maneuver profanity
+	System Chosen Intruder Word = maneuver
+	True Intruder Word = maneuver
+
+[1.0] heap cringe gate nearby
+	System Chosen Intruder Word = heap
+	True Intruder Word = heap
+
+[1.0] superhuman message vice write
+	System Chosen Intruder Word = superhuman
+	True Intruder Word = superhuman
+
+[1.0] train dart stagger drop
+	System Chosen Intruder Word = stagger
+	True Intruder Word = stagger
+
+[1.0] hire pound lovely grace
+	System Chosen Intruder Word = lovely
+	True Intruder Word = lovely
+
+[1.0] case surprised go sexiest
+	System Chosen Intruder Word = go
+	True Intruder Word = go
+
+[1.0] sober hold year slide
+	System Chosen Intruder Word = hold
+	True Intruder Word = hold
+
+[1.0] feel pant reaction inscribe
+	System Chosen Intruder Word = pant
+	True Intruder Word = pant
+
+[1.0] great irritated keep poetry
+	System Chosen Intruder Word = irritated
+	True Intruder Word = irritated
+
+[1.0] romantic hilariously pay forget
+	System Chosen Intruder Word = romantic
+	True Intruder Word = romantic
+
+[1.0] falling internship cute work
+	System Chosen Intruder Word = falling
+	True Intruder Word = falling
+
+[1.0] burger snap draw slight
+	System Chosen Intruder Word = draw
+	True Intruder Word = draw
+
+[1.0] coat attack porn leaning
+	System Chosen Intruder Word = porn
+	True Intruder Word = porn
+
+[1.0] inability place pig glamour
+	System Chosen Intruder Word = pig
+	True Intruder Word = pig
+
+[1.0] year thousand anytime meet
+	System Chosen Intruder Word = thousand
+	True Intruder Word = thousand
+
+[1.0] shoot exhibition post food
+	System Chosen Intruder Word = exhibition
+	True Intruder Word = exhibition
+
+[1.0] basically repressed content hum
+	System Chosen Intruder Word = repressed
+	True Intruder Word = repressed
+
+[1.0] lerrrr pretentious shoulder want
+	System Chosen Intruder Word = shoulder
+	True Intruder Word = shoulder
+
+[1.0] carry british ravish imperiously
+	System Chosen Intruder Word = ravish
+	True Intruder Word = ravish
+
+[1.0] crash hover lift thats
+	System Chosen Intruder Word = lift
+	True Intruder Word = lift
+
+[1.0] person pronounce quip complete
+	System Chosen Intruder Word = quip
+	True Intruder Word = quip
+
+[1.0] mask cave survey apologise
+	System Chosen Intruder Word = mask
+	True Intruder Word = mask
+
+[1.0] yep handbag loser scad
+	System Chosen Intruder Word = handbag
+	True Intruder Word = handbag
+
+[1.0] man recover endlessly follow
+	System Chosen Intruder Word = recover
+	True Intruder Word = recover
+
+[1.0] clear stability thousand natural
+	System Chosen Intruder Word = clear
+	True Intruder Word = clear
+
+[1.0] scatter housing dishevel temple
+	System Chosen Intruder Word = housing
+	True Intruder Word = housing
+
+[1.0] fuck climate budge later
+	System Chosen Intruder Word = climate
+	True Intruder Word = climate
+
+[1.0] married mortality sure watch
+	System Chosen Intruder Word = sure
+	True Intruder Word = sure
+
+[1.0] complexion chip brown entire
+	System Chosen Intruder Word = chip
+	True Intruder Word = chip
+
+[1.0] street street shit reward
+	System Chosen Intruder Word = street
+	True Intruder Word = street
+
+[1.0] sour skip rule assure
+	System Chosen Intruder Word = sour
+	True Intruder Word = sour
+
+[1.0] lift have ear wait
+	System Chosen Intruder Word = lift
+	True Intruder Word = lift
+
+[1.0] smitten intrigued backpedal hardcover
+	System Chosen Intruder Word = intrigued
+	True Intruder Word = intrigued
+
+[1.0] entire dollar surprisingly maintenance
+	System Chosen Intruder Word = surprisingly
+	True Intruder Word = surprisingly
+
+[1.0] impersonal hissing purse gasp
+	System Chosen Intruder Word = purse
+	True Intruder Word = purse
+
+[1.0] smell blaze aisle sympathetic
+	System Chosen Intruder Word = blaze
+	True Intruder Word = blaze
+
+[1.0] flu watch feel pounce
+	System Chosen Intruder Word = watch
+	True Intruder Word = watch
+
+[1.0] strike castle opportunity everybody
+	System Chosen Intruder Word = castle
+	True Intruder Word = castle
+
+[1.0] underwhelm whiplash campground search
+	System Chosen Intruder Word = campground
+	True Intruder Word = campground
+
+[1.0] greasy search postcard true
+	System Chosen Intruder Word = greasy
+	True Intruder Word = greasy
+
+[1.0] piss landscaping rain waggish
+	System Chosen Intruder Word = landscaping
+	True Intruder Word = landscaping
+
+[1.0] albeit dig burritoe cold
+	System Chosen Intruder Word = dig
+	True Intruder Word = dig
+
+[1.0] scream hurls mouth advertise
+	System Chosen Intruder Word = scream
+	True Intruder Word = scream
+
+[1.0] pathetic vampire motivation indicate
+	System Chosen Intruder Word = motivation
+	True Intruder Word = motivation
+
+[1.0] eat key tentatively warn
+	System Chosen Intruder Word = eat
+	True Intruder Word = eat
+
+[1.0] swing reply apologize free
+	System Chosen Intruder Word = reply
+	True Intruder Word = reply
+
+[1.0] ideal aged dive menudo
+	System Chosen Intruder Word = aged
+	True Intruder Word = aged
+
+[1.0] country stoick warmer combine
+	System Chosen Intruder Word = country
+	True Intruder Word = country
+
+[1.0] height reluctance gently sickness
+	System Chosen Intruder Word = gently
+	True Intruder Word = gently
+
+[1.0] merge embarrassment chip pub
+	System Chosen Intruder Word = chip
+	True Intruder Word = chip
+
+[1.0] supermarket yep paradox worker
+	System Chosen Intruder Word = yep
+	True Intruder Word = yep
+
+[1.0] breast establish seven andy
+	System Chosen Intruder Word = seven
+	True Intruder Word = seven
+
+[1.0] weigh response away love
+	System Chosen Intruder Word = weigh
+	True Intruder Word = weigh
+
+[1.0] certify undie visit vicious
+	System Chosen Intruder Word = certify
+	True Intruder Word = certify
+
+[1.0] fraternization tumble token murder
+	System Chosen Intruder Word = fraternization
+	True Intruder Word = fraternization
+
+[1.0] intelligent sniff oxygen hang
+	System Chosen Intruder Word = sniff
+	True Intruder Word = sniff
+
+[1.0] caldera abridge unflinching build
+	System Chosen Intruder Word = caldera
+	True Intruder Word = caldera
+
+[1.0] what grandchild venom personally
+	System Chosen Intruder Word = grandchild
+	True Intruder Word = grandchild
+
+[1.0] medical resistance self project
+	System Chosen Intruder Word = resistance
+	True Intruder Word = resistance
+
+[1.0] clink lap hill rejuvenation
+	System Chosen Intruder Word = clink
+	True Intruder Word = clink
+
+[1.0] unbuckle mail senator broken
+	System Chosen Intruder Word = senator
+	True Intruder Word = senator
+
+[1.0] uncomfortable different unearthly stone
+	System Chosen Intruder Word = uncomfortable
+	True Intruder Word = uncomfortable
+
+[1.0] oww straighten uncertainly ach
+	System Chosen Intruder Word = uncertainly
+	True Intruder Word = uncertainly
+
+[1.0] prosaic colour accustom sexy
+	System Chosen Intruder Word = colour
+	True Intruder Word = colour
+
+[1.0] unrelenting cancel purse decoration
+	System Chosen Intruder Word = cancel
+	True Intruder Word = cancel
+
+[1.0] skillet effortlessly shooting clive
+	System Chosen Intruder Word = effortlessly
+	True Intruder Word = effortlessly
+
+[1.0] bloody edge dig broke
+	System Chosen Intruder Word = dig
+	True Intruder Word = dig
+
+[1.0] senior lay harmonica candyglass
+	System Chosen Intruder Word = harmonica
+	True Intruder Word = harmonica
+
+[1.0] randy schizophrenia loopy dougie
+	System Chosen Intruder Word = schizophrenia
+	True Intruder Word = schizophrenia
+
+[1.0] catharsis romance 15 sittin
+	System Chosen Intruder Word = romance
+	True Intruder Word = romance
+
+[1.0] overdress lesson aflame wax
+	System Chosen Intruder Word = aflame
+	True Intruder Word = aflame
+
+[1.0] âfrench rid flesh basis
+	System Chosen Intruder Word = flesh
+	True Intruder Word = flesh
+
+[1.0] cheat mid30 sabbath aerosol
+	System Chosen Intruder Word = cheat
+	True Intruder Word = cheat
+
+[1.0] looovee dash honourable herd
+	System Chosen Intruder Word = looovee
+	True Intruder Word = looovee
+
+[1.0] curl uncover tanning cake
+	System Chosen Intruder Word = tanning
+	True Intruder Word = tanning
+
+[1.0] entiendo squishy snigger lantern
+	System Chosen Intruder Word = snigger
+	True Intruder Word = snigger
+
+[1.0] abruptly 19th into slay
+	System Chosen Intruder Word = 19th
+	True Intruder Word = 19th
+
+[1.0] 395 research deli hunt
+	System Chosen Intruder Word = deli
+	True Intruder Word = deli
+
+[1.0] square hackneye canister revolver
+	System Chosen Intruder Word = canister
+	True Intruder Word = canister
+
+[1.0] freezes unwrap calamitous devastating
+	System Chosen Intruder Word = freezes
+	True Intruder Word = freezes
+
+[1.0] wing toilet smooth honorary
+	System Chosen Intruder Word = toilet
+	True Intruder Word = toilet
+
+[1.0] movesâ shield loaf tanning
+	System Chosen Intruder Word = shield
+	True Intruder Word = shield
+
+[1.0] doctor foue diagram stubborn
+	System Chosen Intruder Word = foue
+	True Intruder Word = foue
+
+[1.0] wrap avoid teenager torment
+	System Chosen Intruder Word = wrap
+	True Intruder Word = wrap
+
+[1.0] yellow hour praise sell
+	System Chosen Intruder Word = hour
+	True Intruder Word = hour
+
+[1.0] doing 13th calm soothsayer
+	System Chosen Intruder Word = doing
+	True Intruder Word = doing
+
+[1.0] sustainable freak nod boob
+	System Chosen Intruder Word = sustainable
+	True Intruder Word = sustainable
+
+[1.0] impatiently consciously freshman partner
+	System Chosen Intruder Word = consciously
+	True Intruder Word = consciously
+
+[1.0] flicker brewski tighter what
+	System Chosen Intruder Word = flicker
+	True Intruder Word = flicker
+
+[1.0] fashioned outstretched sorrow expert
+	System Chosen Intruder Word = fashioned
+	True Intruder Word = fashioned
+
+[1.0] busy arrangement dinner saint
+	System Chosen Intruder Word = busy
+	True Intruder Word = busy
+
+[1.0] suggestion bonus speech curtain
+	System Chosen Intruder Word = speech
+	True Intruder Word = speech
+
+[1.0] folk land suck capacity
+	System Chosen Intruder Word = suck
+	True Intruder Word = suck
+
+[1.0] shoe trinket honeymoon parlay
+	System Chosen Intruder Word = trinket
+	True Intruder Word = trinket
+
+[1.0] virgin making unready holiday
+	System Chosen Intruder Word = making
+	True Intruder Word = making
+
+[1.0] dunno rile ocean achievement
+	System Chosen Intruder Word = rile
+	True Intruder Word = rile
+
+[1.0] indecency sunglass bite priority
+	System Chosen Intruder Word = sunglass
+	True Intruder Word = sunglass
+
+[1.0] goddamned bow parole unequal
+	System Chosen Intruder Word = parole
+	True Intruder Word = parole
+
+[1.0] mechanism dna indigenous aaaaahhhhhh
+	System Chosen Intruder Word = dna
+	True Intruder Word = dna
+
+[1.0] mend lash brotherhood brake
+	System Chosen Intruder Word = lash
+	True Intruder Word = lash
+
+[1.0] simple discourage convoy empty
+	System Chosen Intruder Word = discourage
+	True Intruder Word = discourage
+
+[1.0] totally consistent jazz rd
+	System Chosen Intruder Word = totally
+	True Intruder Word = totally
+
+[1.0] great uncle throw rid
+	System Chosen Intruder Word = uncle
+	True Intruder Word = uncle
+
+[1.0] occupy casualty jordanian sky
+	System Chosen Intruder Word = jordanian
+	True Intruder Word = jordanian
+
+[1.0] absurd unlucky living swear
+	System Chosen Intruder Word = unlucky
+	True Intruder Word = unlucky
+
+[1.0] roll pocket try fuel
+	System Chosen Intruder Word = roll
+	True Intruder Word = roll
+
+[1.0] taigaa suddenly expression lady
+	System Chosen Intruder Word = suddenly
+	True Intruder Word = suddenly
+
+[1.0] cry fact lunch grandson
+	System Chosen Intruder Word = cry
+	True Intruder Word = cry
+
+[1.0] catch waiting problem policeman
+	System Chosen Intruder Word = waiting
+	True Intruder Word = waiting
+
+[1.0] halfway neonate tricky reside
+	System Chosen Intruder Word = halfway
+	True Intruder Word = halfway
+
+[1.0] sincerity finger understanding meaning
+	System Chosen Intruder Word = understanding
+	True Intruder Word = understanding
+
+[1.0] nonsense blackout moustache lil
+	System Chosen Intruder Word = moustache
+	True Intruder Word = moustache
+
+[1.0] cuttin betray verify alaykum
+	System Chosen Intruder Word = cuttin
+	True Intruder Word = cuttin
+
+[1.0] sand cow trail return
+	System Chosen Intruder Word = sand
+	True Intruder Word = sand
+
+[1.0] deposit ste jord max
+	System Chosen Intruder Word = jord
+	True Intruder Word = jord
+
+[1.0] chorus erm safe lucky
+	System Chosen Intruder Word = erm
+	True Intruder Word = erm
+
+[1.0] pulley storm air sincerity
+	System Chosen Intruder Word = air
+	True Intruder Word = air
+
+[1.0] disaster harder lava blowback
+	System Chosen Intruder Word = harder
+	True Intruder Word = harder
+
+[1.0] calm woulda manner interview
+	System Chosen Intruder Word = calm
+	True Intruder Word = calm
+
+[1.0] restaurant anybody yearling exchange
+	System Chosen Intruder Word = restaurant
+	True Intruder Word = restaurant
+
+[1.0] understanding camp daaa triple
+	System Chosen Intruder Word = daaa
+	True Intruder Word = daaa
+
+[1.0] graciousness humor correct foul
+	System Chosen Intruder Word = correct
+	True Intruder Word = correct
+
+[1.0] comfortable preferably class yacht
+	System Chosen Intruder Word = class
+	True Intruder Word = class
+
+[1.0] eighteenth knock stair actually
+	System Chosen Intruder Word = knock
+	True Intruder Word = knock
+
+[1.0] directly portfolio dark lonely
+	System Chosen Intruder Word = dark
+	True Intruder Word = dark
+
+[0.0] choice die machine animal
+	System Chosen Intruder Word = animal
+	True Intruder Word = choice
+
+[1.0] shape quality lay grand
+	System Chosen Intruder Word = quality
+	True Intruder Word = quality
+
+[1.0] learn arm persecute pot
+	System Chosen Intruder Word = arm
+	True Intruder Word = arm
+
+[1.0] hoover astound kinda ruin
+	System Chosen Intruder Word = hoover
+	True Intruder Word = hoover
+
+[1.0] blue book jump rapist
+	System Chosen Intruder Word = jump
+	True Intruder Word = jump
+
+[1.0] species half soon soft
+	System Chosen Intruder Word = half
+	True Intruder Word = half
+
+[1.0] emmet lightheade extravagant realm
+	System Chosen Intruder Word = lightheade
+	True Intruder Word = lightheade
+
+[1.0] precious restraint reveal songy
+	System Chosen Intruder Word = precious
+	True Intruder Word = precious
+
+[1.0] dime wash shake parent
+	System Chosen Intruder Word = dime
+	True Intruder Word = dime
+
+[1.0] suspect adapt security away
+	System Chosen Intruder Word = suspect
+	True Intruder Word = suspect
+
+[1.0] unify finger remind mmm
+	System Chosen Intruder Word = unify
+	True Intruder Word = unify
+
+[1.0] identify retainer accident finger
+	System Chosen Intruder Word = identify
+	True Intruder Word = identify
+
+[1.0] quest verify heat tractor
+	System Chosen Intruder Word = quest
+	True Intruder Word = quest
+
+[1.0] secondary street terrif federal
+	System Chosen Intruder Word = secondary
+	True Intruder Word = secondary
+
+[1.0] aint reach single pant
+	System Chosen Intruder Word = single
+	True Intruder Word = single
+
+[1.0] waifs disagree smooth distillery
+	System Chosen Intruder Word = waifs
+	True Intruder Word = waifs
+
+[1.0] permission smoke job yall
+	System Chosen Intruder Word = permission
+	True Intruder Word = permission
+
+[1.0] friend tuition flatter home
+	System Chosen Intruder Word = flatter
+	True Intruder Word = flatter
+
+[1.0] control auxiliary dead year
+	System Chosen Intruder Word = control
+	True Intruder Word = control
+
+[1.0] control launch happy bye
+	System Chosen Intruder Word = control
+	True Intruder Word = control
+
+[1.0] die renounce hurry launch
+	System Chosen Intruder Word = hurry
+	True Intruder Word = hurry
+
+[1.0] replace nervous kill people
+	System Chosen Intruder Word = nervous
+	True Intruder Word = nervous
+
+[0.0] need begin truck hopefully
+	System Chosen Intruder Word = truck
+	True Intruder Word = begin
+
+[1.0] hear flight area tear
+	System Chosen Intruder Word = hear
+	True Intruder Word = hear
+
+[1.0] flood little time eva
+	System Chosen Intruder Word = time
+	True Intruder Word = time
+
+[1.0] trigger oooh industry creature
+	System Chosen Intruder Word = trigger
+	True Intruder Word = trigger
+
+[1.0] ridiculous late particular load
+	System Chosen Intruder Word = particular
+	True Intruder Word = particular
+
+[1.0] 500 corner cash pollute
+	System Chosen Intruder Word = corner
+	True Intruder Word = corner
+
+[1.0] 52 coolant soil accept
+	System Chosen Intruder Word = 52
+	True Intruder Word = 52
+
+[1.0] official computer helluva obliged
+	System Chosen Intruder Word = official
+	True Intruder Word = official
+
+[1.0] utility blue training downblock
+	System Chosen Intruder Word = utility
+	True Intruder Word = utility
+
+[1.0] mask trash practice journey
+	System Chosen Intruder Word = practice
+	True Intruder Word = practice
+
+[1.0] coach prep night patch
+	System Chosen Intruder Word = prep
+	True Intruder Word = prep
+
+[0.0] wrist strong plea translate
+	System Chosen Intruder Word = strong
+	True Intruder Word = wrist
+
+[1.0] apartment personally guide interesting
+	System Chosen Intruder Word = apartment
+	True Intruder Word = apartment
+
+[1.0] chin backup feather lightspeed
+	System Chosen Intruder Word = backup
+	True Intruder Word = backup
+
+[1.0] ground spotlight city villager
+	System Chosen Intruder Word = ground
+	True Intruder Word = ground
+

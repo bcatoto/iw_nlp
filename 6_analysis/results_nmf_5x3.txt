@@ -1,0 +1,233 @@
+1975, Female
+Topic 1: darling yes touch
+Topic 3: love kiss want
+Topic 4: war captain die
+
+1975, Male
+Topic 3: shark boat water
+
+1976, Female
+Topic 1: man lady gentleman
+Topic 2: kiss love doctor
+Topic 4: know kill run
+
+1976, Male
+
+1977, Female
+
+1977, Male
+Topic 1: man land fort
+
+1978, Female
+
+1978, Male
+Topic 4: ship engine thing
+
+1979, Female
+Topic 2: sir signal system
+Topic 3: flat engineer steady
+Topic 4: know boat war
+
+1979, Male
+Topic 2: captain enterprise pattern
+
+1980, Female
+
+1980, Male
+
+1981, Female
+
+1981, Male
+Topic 1: knight sword king
+Topic 4: werewolf know moon
+
+1982, Female
+
+1982, Male
+Topic 1: case doctor nurse
+Topic 3: ship power program
+
+1983, Female
+Topic 3: shark come water
+
+1983, Male
+
+1984, Female
+
+1984, Male
+Topic 4: nightmare sleep dream
+
+1985, Female
+
+1985, Male
+Topic 1: cop police story
+Topic 2: island colony camp
+Topic 3: future machine school
+
+1986, Female
+Topic 3: whale right bear
+
+1986, Male
+Topic 3: cellar spirit cabin
+
+1987, Female
+
+1987, Male
+Topic 0: detective partner continue
+Topic 2: wedding marry bed
+
+1988, Female
+Topic 1: baseball game great
+Topic 3: magician magic stone
+
+1988, Male
+Topic 0: partner wife terrorist
+
+1989, Female
+Topic 4: receive captain transmission
+
+1989, Male
+Topic 4: tape gang detective
+
+1990, Female
+Topic 4: solid vibration record
+
+1990, Male
+Topic 3: book write misery
+
+1991, Female
+
+1991, Male
+Topic 2: ship technology torpedo
+Topic 3: file firm office
+
+1992, Female
+Topic 1: sin needy nun
+
+1992, Male
+
+1993, Female
+Topic 2: game football play
+Topic 3: voice piano wife
+
+1993, Male
+Topic 0: partner cocaine cop
+Topic 2: plane storm flight
+Topic 3: voice piano lesson
+
+1994, Female
+
+1994, Male
+Topic 0: ship 67 boat
+Topic 1: film script director
+
+1995, Female
+
+1995, Male
+Topic 3: virus computer hacker
+
+1996, Female
+Topic 0: mom school daddy
+Topic 3: car message crash
+
+1996, Male
+Topic 1: ship signal captain
+
+1997, Female
+Topic 1: madam pilot planet
+
+1997, Male
+Topic 1: gravity airlock starck
+Topic 2: wedding gag bride
+Topic 3: citizen carman squad
+
+1998, Female
+Topic 0: mom daughter alright
+Topic 1: island boat mainland
+
+1998, Male
+
+1999, Female
+
+1999, Male
+Topic 3: gold sand desert
+
+2000, Female
+Topic 1: letter gun bullet
+Topic 2: bloody thief sort
+Topic 3: black light witch
+
+2000, Male
+Topic 2: army war general
+Topic 3: fuckin plane ship
+
+2001, Female
+
+2001, Male
+
+2002, Female
+
+2002, Male
+Topic 4: school mother parent
+
+2003, Female
+Topic 4: death murder client
+
+2003, Male
+
+2004, Female
+
+2004, Male
+Topic 4: party wine happy
+
+2005, Female
+
+2005, Male
+Topic 4: native animal primitive
+
+2006, Female
+
+2006, Male
+
+2007, Female
+
+2007, Male
+
+2008, Female
+
+2008, Male
+
+2009, Female
+
+2009, Male
+
+2010, Female
+Topic 4: contact 911 message
+
+2010, Male
+
+2011, Female
+
+2011, Male
+Topic 0: client cancer cal
+Topic 1: horse bull plow
+Topic 3: henri werewolf sword
+
+2012, Female
+
+2012, Male
+Topic 4: witch zombie movie
+
+2013, Female
+
+2013, Male
+
+2014, Female
+
+2014, Male
+
+2015, Female
+
+2015, Male
+Topic 1: launch mission go
+Topic 4: truck driver business

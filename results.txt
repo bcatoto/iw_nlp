@@ -1,660 +1,660 @@
 Female, LDA, 1975
-Topic 0: raise phone weather hey attention
-Topic 1: brad yes like love want
-Topic 2: know want go like tell
+Topic 0: yes night touch darling like
+Topic 1: know want like go tell
+Topic 2: know go want like tell
 
 Female, NMF, 1975
-Topic 0: know want go tell like
-Topic 1: brad darling yes creature night
-Topic 2: captain love know die thing
+Topic 0: know want go tell love
+Topic 1: darling yes touch creature night
+Topic 2: away turn run vote head
 
 Male, LDA, 1975
-Topic 0: man say talk captain ill
-Topic 1: alright janet mean life brad
-Topic 2: man talk ill say okay
+Topic 0: man okay yeah water kill
+Topic 1: man yeah say talk okay
+Topic 2: yeah talk okay hey madam
 
 Male, NMF, 1975
-Topic 0: okay talk ill man mean
-Topic 1: alright janet brad creature transexual
-Topic 2: man shall captain sir king
+Topic 0: yeah okay talk man mean
+Topic 1: alright creature fiancee sensual probably
+Topic 2: shall man sir sword word
 
 Female, LDA, 1976
-Topic 0: man lady buy think know
-Topic 1: want think go paper bed
-Topic 2: know want think tell go
+Topic 0: know run go kill want
+Topic 1: know think want tell go
+Topic 2: man lady seven dollar corner
 
 Female, NMF, 1976
 Topic 0: know think want tell people
-Topic 1: man lady corner son buy
-Topic 2: love go let want think
+Topic 1: man lady seven corner son
+Topic 2: love go let tell want
 
 Male, LDA, 1976
-Topic 0: guy fight hey night bad
-Topic 1: kill course love body beautiful
-Topic 2: hey bad fight cause green
+Topic 0: kill course cat beautiful stay
+Topic 1: guy yeah fight hey bad
+Topic 2: guy fight bad outta break
 
 Male, NMF, 1976
-Topic 0: guy night fight story fuck
-Topic 1: cat course green kill stay
-Topic 2: body love blood home doctor
+Topic 0: yeah fight guy home night
+Topic 1: cat course kill stay face
+Topic 2: story guy lawyer ask record
 
 Female, LDA, 1977
-Topic 0: know hope help time plan
-Topic 1: people man right know home
-Topic 2: know mean think right okay
+Topic 0: hope help plan information attack
+Topic 1: know yeah mean think right
+Topic 2: like help sound hang take
 
 Female, NMF, 1977
-Topic 0: know mean think right want
+Topic 0: know yeah mean think right
 Topic 1: hope reward weakness time plan
-Topic 2: yes father know leave people
+Topic 2: yes father leave know people
 
 Male, LDA, 1977
-Topic 0: guy hey force sure bad
-Topic 1: force ship hey sir cause
-Topic 2: french land war send people
+Topic 0: sir send war french fight
+Topic 1: ship sir droid system wait
+Topic 2: yeah hey because guy great
 
 Male, NMF, 1977
-Topic 0: force ship sir system droid
-Topic 1: cause hey guy hot okay
-Topic 2: french land war heart woman
+Topic 0: ship system droid sir power
+Topic 1: yeah hey guy because mile
+Topic 2: french fort war heart woman
 
 Female, LDA, 1978
-Topic 0: go want think come get
-Topic 1: know think go get want
-Topic 2: go want get like know
+Topic 0: go get right like fine
+Topic 1: know go think want like
+Topic 2: go know get want think
 
 Female, NMF, 1978
-Topic 0: know think go get want
-Topic 1: billy man fucking build figger
-Topic 2: go lighthouse want okay faster
+Topic 0: know go think get want
+Topic 1: man fucking figger build fuck
+Topic 2: go lighthouse okay want today
 
 Male, LDA, 1978
-Topic 0: know let look good thing
-Topic 1: know look want thing way
-Topic 2: know good fuck look year
+Topic 0: know good yes look want
+Topic 1: know let good look thing
+Topic 2: know look want yeah good
 
 Male, NMF, 1978
-Topic 0: know fuck billy good look
-Topic 1: shark boat know want look
-Topic 2: eye tonight clothe house say
+Topic 0: know fuck good yeah look
+Topic 1: shark boat know look want
+Topic 2: year eye tonight clothe house
 
 Female, LDA, 1979
-Topic 0: know chauncey like go good
-Topic 1: know think want get go
-Topic 2: know want chauncey go think
+Topic 0: think life save hour know
+Topic 1: know want go think get
+Topic 2: know go sir like want
 
 Female, NMF, 1979
-Topic 0: know billy want get think
-Topic 1: chauncey good know feel chance
-Topic 2: captain system sir strength grow
+Topic 0: know want get think go
+Topic 1: good typical eye work feel
+Topic 2: sir strength situation grow begin
 
 Male, LDA, 1979
-Topic 0: captain like go tell get
+Topic 0: like go thing look right
 Topic 1: like go get right tell
-Topic 2: go get tell mean like
+Topic 2: captain like go sir get
 
 Male, NMF, 1979
 Topic 0: go get like right okay
-Topic 1: garden like gardener man thank
-Topic 2: captain sir pattern officer attack
+Topic 1: garden like sir gardener thank
+Topic 2: captain pattern attack order sir
 
 Female, LDA, 1980
-Topic 0: get love yes eat think
-Topic 1: go good get yes come
-Topic 2: get say want real thank
+Topic 0: yes energy think ship right
+Topic 1: good go time wrong want
+Topic 2: go good yes get time
 
 Female, NMF, 1980
-Topic 0: fish doctor ted yes get
-Topic 1: sir good day frederick alright
-Topic 2: go kill tell mean help
+Topic 0: fish get ted yes good
+Topic 1: sir good day yes dear
+Topic 2: go kill help tell mean
 
 Male, LDA, 1980
-Topic 0: yes man thing thank sir
-Topic 1: yes man thing mean thank
-Topic 2: cat yes man rat crazy
+Topic 0: yes thing thank sir mean
+Topic 1: cat mean fight yes money
+Topic 2: yes thing man thank sir
 
 Male, NMF, 1980
-Topic 0: yes treve man thing sir
-Topic 1: elaine plane striker fly niner
+Topic 0: yes thing man sir thank
+Topic 1: niner pilot plane fly zero
 Topic 2: cat fight shot money mean
 
 Female, LDA, 1981
-Topic 0: know think go get want
-Topic 1: hell wrong fine time kill
-Topic 2: love child secret father blood
+Topic 0: true man father keep know
+Topic 1: know think go get want
+Topic 2: love father look secret child
 
 Female, NMF, 1981
-Topic 0: know go get want think
-Topic 1: true man keep hear love
+Topic 0: know go get like want
+Topic 1: true man father keep hear
 Topic 2: yes right think friend shall
 
 Male, LDA, 1981
-Topic 0: king love lose great need
-Topic 1: program dog hey guy game
-Topic 2: kill away friend girl bring
+Topic 0: program hey guy okay game
+Topic 1: kill love hear sword dog
+Topic 2: program need friend wait people
 
 Male, NMF, 1981
-Topic 0: program dog okay people ill
-Topic 1: king dragon power fight love
-Topic 2: friend girl bring water business
+Topic 0: program dog okay friend yeah
+Topic 1: sword king dragon power fight
+Topic 2: lose people play blood blind
 
 Female, LDA, 1982
-Topic 0: want get go think like
-Topic 1: know want think go tell
-Topic 2: know go think get tell
+Topic 0: go sir think know tell
+Topic 1: know want think go come
+Topic 2: want yes know go ted
 
 Female, NMF, 1982
 Topic 0: know think come want like
-Topic 1: te boy ted captain love
+Topic 1: ted boy love downtown nurse
 Topic 2: yes tell want say come
 
 Male, LDA, 1982
-Topic 0: yes say ill case try
-Topic 1: yes try ill say work
-Topic 2: elaine ill yes try work
+Topic 0: yes case say work thank
+Topic 1: yes yeah say try case
+Topic 2: sir ship try control yes
 
 Male, NMF, 1982
-Topic 0: hey ill girl okay yes
-Topic 1: elaine striker mercury ship computer
-Topic 2: case doctor hospital yes nurse
+Topic 0: yeah hey girl sir yes
+Topic 1: case doctor yes nurse hospital
+Topic 2: ship elaine computer mission unit
 
 Female, LDA, 1983
-Topic 0: come want okay like water
-Topic 1: look want think like come
-Topic 2: think like want come look
+Topic 0: think like want come look
+Topic 1: think like mean man come
+Topic 2: think like want need picture
 
 Female, NMF, 1983
 Topic 0: think like want come okay
-Topic 1: away feel main hurry moment
+Topic 1: away feel main hurry quiet
 Topic 2: power come beautiful want lie
 
 Male, LDA, 1983
-Topic 0: power want yes picture dark
-Topic 1: yes want run kill okay
-Topic 2: want okay talk yes hey
+Topic 0: power yes place father reach
+Topic 1: power yes reach boy yeah
+Topic 2: talk picture yes okay sorry
 
 Male, NMF, 1983
-Topic 0: want okay talk picture hey
-Topic 1: power dark father yes force
-Topic 2: yes want news history mother
+Topic 0: okay yeah talk picture hey
+Topic 1: power father dark yes strong
+Topic 2: yes history news mother simple
 
 Female, LDA, 1984
-Topic 0: go like get know want
-Topic 1: know like sir yes go
-Topic 2: know go like want think
+Topic 0: know go like want come
+Topic 1: know go right want think
+Topic 2: know come go get think
 
 Female, NMF, 1984
-Topic 0: know go want get like
-Topic 1: like zone park people love
-Topic 2: captain planet life form know
+Topic 0: know go get want like
+Topic 1: like park people love night
+Topic 2: sir planet life captain form
 
 Male, LDA, 1984
-Topic 0: go think tell let find
-Topic 1: go want think yes tell
-Topic 2: go think indy tell want
+Topic 0: think go want tell let
+Topic 1: go think want thing tell
+Topic 2: go want think yes tell
 
 Male, NMF, 1984
-Topic 0: want go think car tell
-Topic 1: indy stone palace pankot village
-Topic 2: yes sire shall duke worm
+Topic 0: want go think tell car
+Topic 1: stone village plane palace evil
+Topic 2: yes sir shall worm water
 
 Female, LDA, 1985
-Topic 0: go tell come get think
-Topic 1: yes think tell baby come
-Topic 2: go think get come tell
+Topic 0: go think come tell night
+Topic 1: go think come tell get
+Topic 2: tell go get think right
 
 Female, NMF, 1985
-Topic 0: go think get tell come
-Topic 1: marty night go school kid
-Topic 2: dead deal yes hurt meet
+Topic 0: go tell get think come
+Topic 1: dead ass year come find
+Topic 2: night school food ask nervous
 
 Male, LDA, 1985
-Topic 0: go right tell like good
-Topic 1: go like right good ill
-Topic 2: go like good right ill
+Topic 0: go like right yeah sure
+Topic 1: go right yes like thank
+Topic 2: go like right good tell
 
 Male, NMF, 1985
-Topic 0: go like right tell good
-Topic 1: marty sister case doctor difference
-Topic 2: lad jack like magic bird
+Topic 0: go like right tell yeah
+Topic 1: case difference investigation involved whatsoever
+Topic 2: lad like curse true ring
 
 Female, LDA, 1986
-Topic 0: know go think want like
-Topic 1: know think want go tell
-Topic 2: think like know go shit
+Topic 0: go know think like come
+Topic 1: know go come want think
+Topic 2: know go think want like
 
 Female, NMF, 1986
 Topic 0: know go want think like
-Topic 1: shit smoke piece chemical man
-Topic 2: mother soul free dead spirit
+Topic 1: shit smoke piece chemical dig
+Topic 2: mother soul free road dead
 
 Male, LDA, 1986
-Topic 0: yes tell ill time okay
-Topic 1: time tell yes hell life
-Topic 2: time tell ill yes talk
+Topic 0: yes time tell yeah talk
+Topic 1: yes time tell okay talk
+Topic 2: yeah tell okay time shit
 
 Male, NMF, 1986
-Topic 0: yes tell time ill love
-Topic 1: book spirit dark dead cabin
-Topic 2: fuck meter shit time fucking
+Topic 0: yes tell time yeah okay
+Topic 1: spirit dead cabin dark hell
+Topic 2: fuck shit yeah fuckin squad
 
 Female, LDA, 1987
-Topic 0: think go get want come
-Topic 1: want think go kill come
-Topic 2: come want get say go
+Topic 0: think go want get come
+Topic 1: think want go get right
+Topic 2: want come say work mean
 
 Female, NMF, 1987
 Topic 0: go think come want get
-Topic 1: bud buddy gordon gekko buy
-Topic 2: hot find man crazy year
+Topic 1: hot find man crazy year
+Topic 2: old age go sixteen home
 
 Male, LDA, 1987
-Topic 0: go think look tell thing
-Topic 1: go think look right ill
-Topic 2: go think look tell right
+Topic 0: go think man tell right
+Topic 1: go think look tell right
+Topic 2: go tell think look right
 
 Male, NMF, 1987
-Topic 0: go think look right ill
-Topic 1: bud go stock buy gekko
-Topic 2: shell toy play terrible woman
+Topic 0: go think look right tell
+Topic 1: shell play toy woman terrible
+Topic 2: stock go money buy sport
 
 Female, LDA, 1988
-Topic 0: know like get people think
-Topic 1: get know come think like
-Topic 2: know get think like want
+Topic 0: get know want help time
+Topic 1: think get know thing love
+Topic 2: know get like come think
 
 Female, NMF, 1988
 Topic 0: know get like come think
-Topic 1: baseball nuke crash think game
-Topic 2: distance upset meeting head set
+Topic 1: baseball game think great honey
+Topic 2: distance upset startled head set
 
 Male, LDA, 1988
-Topic 0: get good guy man hit
-Topic 1: get good man guy need
-Topic 2: get good look time love
+Topic 0: get good look man time
+Topic 1: get look good man time
+Topic 2: get time good see look
 
 Male, NMF, 1988
-Topic 0: get good look man ill
-Topic 1: hit crash get ball wanta
-Topic 2: box story complete pure remember
+Topic 0: get good look man time
+Topic 1: hit get wanta game ball
+Topic 2: baby story complete pure daddy
 
 Female, LDA, 1989
-Topic 0: like good want get year
-Topic 1: get want like come good
-Topic 2: like want get look right
+Topic 0: like want get look good
+Topic 1: like get good want right
+Topic 2: like come want get thing
 
 Female, NMF, 1989
-Topic 0: get like want come look
-Topic 1: baby janosz good bathtub thank
-Topic 2: see forward receive power good
+Topic 0: like get want come look
+Topic 1: baby good bathtub thank like
+Topic 2: receive easy power good forward
 
 Male, LDA, 1989
-Topic 0: yes find talk guy feel
-Topic 1: find ship great yes leave
-Topic 2: okay year little work guy
+Topic 0: guy okay talk year work
+Topic 1: okay yeah year guy work
+Topic 2: yeah hey okay work night
 
 Male, NMF, 1989
-Topic 0: talk guy love okay little
-Topic 1: vigo okay ghostbuster venkman stuff
-Topic 2: captain ship row enterprise yes
+Topic 0: yeah guy okay work talk
+Topic 1: yes row father ship find
+Topic 2: okay slime stuff city ship
 
 Female, LDA, 1990
-Topic 0: know like go think want
-Topic 1: know go get like think
-Topic 2: know go get right want
+Topic 0: know want go like think
+Topic 1: know like think go get
+Topic 2: know go get like think
 
 Female, NMF, 1990
 Topic 0: know go get like think
-Topic 1: pray soul help sleep inside
-Topic 2: city angel question truth time
+Topic 1: pray soul help sir god
+Topic 2: angel question honey time certain
 
 Male, LDA, 1990
-Topic 0: yes mean guy people thank
-Topic 1: guy yes money vivian car
-Topic 2: people ask boy help kill
+Topic 0: yes yeah mean guy people
+Topic 1: white day people ask help
+Topic 2: thank yes yeah voice hell
 
 Male, NMF, 1990
-Topic 0: mean money guy hell shit
-Topic 1: vivian voice company yes thank
-Topic 2: white dance horse soldier boy
+Topic 0: yeah mean money guy shit
+Topic 1: voice company yes buy hotel
+Topic 2: white dance boy soldier horse
 
 Female, LDA, 1991
-Topic 0: know like think want rise
-Topic 1: get go know think come
-Topic 2: know go think like get
+Topic 0: know think like go want
+Topic 1: know go like think want
+Topic 2: like know go get tell
 
 Female, NMF, 1991
-Topic 0: know go like get think
-Topic 1: rise smile know murderer brother
-Topic 2: crew take ship cycle marine
+Topic 0: know go like think want
+Topic 1: fuck go get carefully like
+Topic 2: ship take cycle ill cabin
 
 Male, LDA, 1991
-Topic 0: guy talk okay hey hell
-Topic 1: captain believe help fire dead
-Topic 2: guy fire talk hey okay
+Topic 0: yeah okay guy love hey
+Topic 1: guy yes talk office believe
+Topic 2: fire girl feel love boy
 
 Male, NMF, 1991
-Topic 0: okay guy hey love talk
-Topic 1: guy surf johnny agent bank
-Topic 2: ship book captain castle lieutenant
+Topic 0: okay yeah love guy hey
+Topic 1: surf guy bank surfer car
+Topic 2: ship aboard book fire yes
 
 Female, LDA, 1992
-Topic 0: know think come want like
-Topic 1: go good know leave radio
-Topic 2: know like go think want
+Topic 0: know like go think come
+Topic 1: know go like think want
+Topic 2: know go like get come
 
 Female, NMF, 1992
 Topic 0: know like go think want
-Topic 1: sin needy church use boy
-Topic 2: power kill people man go
+Topic 1: sin needy nun use boy
+Topic 2: power kill people go man
 
 Male, LDA, 1992
-Topic 0: good kill fucking people game
-Topic 1: kill yes need work fuck
-Topic 2: yes guy fuck good need
+Topic 0: kill guess good need yes
+Topic 1: sir order yes witness code
+Topic 2: good fuck guy yes kill
 
 Male, NMF, 1992
-Topic 0: fuck guy need kill good
-Topic 1: fucking nun game church fuck
-Topic 2: father yes majesty world land
+Topic 0: fuck need guy kill good
+Topic 1: nun fucking fuck game forgive
+Topic 2: world yes fort land war
 
 Female, LDA, 1993
-Topic 0: know right go look come
-Topic 1: go want know get think
+Topic 0: go know look right okay
+Topic 1: know go right like okay
 Topic 2: know go think like get
 
 Female, NMF, 1993
-Topic 0: know go get think want
-Topic 1: yes leave lunch home equipment
-Topic 2: stay feel luck like couple
+Topic 0: know go think like want
+Topic 1: stay yes leave lunch equipment
+Topic 2: okay stay go get like
 
 Male, LDA, 1993
-Topic 0: man yes say guy shit
-Topic 1: guy man shit say yes
-Topic 2: voice okay guy talk yes
+Topic 0: yeah guy man say yes
+Topic 1: okay guy yeah year say
+Topic 2: man yeah guy shit yes
 
 Male, NMF, 1993
-Topic 0: okay great say talk people
+Topic 0: yeah okay say talk great
 Topic 1: fuckin shit fuck ass motherfucker
-Topic 2: piano play game level word
+Topic 2: piano play word game learn
 
 Female, LDA, 1994
-Topic 0: think go tell yes right
-Topic 1: go think say love okay
-Topic 2: think go tell come yes
+Topic 0: go think get tell yes
+Topic 1: think go tell get right
+Topic 2: think yes come get go
 
 Female, NMF, 1994
-Topic 0: go think yes tell right
-Topic 1: power animal release leave remember
-Topic 2: victor think come brother need
+Topic 0: think go get yes right
+Topic 1: animal power release cruel cat
+Topic 2: leave doll death remember yes
 
 Male, LDA, 1994
-Topic 0: right man say yes okay
-Topic 1: right yes little need hey
-Topic 2: right man say shit ill
+Topic 0: right yes little yeah hey
+Topic 1: right man need say leave
+Topic 2: right yes say man need
 
 Male, NMF, 1994
-Topic 0: right okay guy yes little
-Topic 1: vampire life victor yes live
-Topic 2: captain power fresh datum observatory
+Topic 0: right yeah okay guy say
+Topic 1: life yes power child aye
+Topic 2: fresh participate novel cotton advance
 
 Female, LDA, 1995
-Topic 0: want like go come right
-Topic 1: go like want tell come
-Topic 2: go want right like tell
+Topic 0: like go want come tell
+Topic 1: go want like tell get
+Topic 2: go want get like need
 
 Female, NMF, 1995
-Topic 0: go want like get come
-Topic 1: love dear shall come yes
+Topic 0: go like want get come
+Topic 1: love dear come yes shall
 Topic 2: daddy speech right trust hero
 
 Male, LDA, 1995
-Topic 0: yes shit people okay kill
-Topic 1: guy okay hey yes day
-Topic 2: guy okay yes fuck hey
+Topic 0: yeah guy yes fuck okay
+Topic 1: yeah people thank kill guy
+Topic 2: yeah hey guy fuck shit
 
 Male, NMF, 1995
-Topic 0: guy okay fuck shit fuckin
-Topic 1: dear yes mother peel army
-Topic 2: daughter governor kill kiss girl
+Topic 0: yeah guy okay fuck shit
+Topic 1: dear yes sir army leave
+Topic 2: daughter kill kiss girl dead
 
 Female, LDA, 1996
-Topic 0: know like go get want
-Topic 1: know think like go want
-Topic 2: know think want come go
+Topic 0: know think go come like
+Topic 1: know like think go right
+Topic 2: know think like go want
 
 Female, NMF, 1996
 Topic 0: know think go want like
-Topic 1: like skin time die idea
-Topic 2: dear son desperate abandon visit
+Topic 1: like skin time idea die
+Topic 2: dear son desperate abandon youre
 
 Male, LDA, 1996
-Topic 0: okay man money fuck fucking
-Topic 1: man yes hey way guy
-Topic 2: fuck man way money boy
+Topic 0: yes man love yeah way
+Topic 1: man way fuck yeah shit
+Topic 2: man yeah fuck yes way
 
 Male, NMF, 1996
-Topic 0: man fuck okay money guy
-Topic 1: evil yes power love snake
-Topic 2: fucking rocket imprison field outside
+Topic 0: yeah man fuck okay fucking
+Topic 1: yes ship love evil man
+Topic 2: sir fucking rocket imprison the
 
 Female, LDA, 1997
-Topic 0: like want go think come
-Topic 1: want like go think tell
-Topic 2: go want think like get
+Topic 0: go think want like tell
+Topic 1: like want go think get
+Topic 2: think want like go get
 
 Female, NMF, 1997
-Topic 0: want go like think come
-Topic 1: johnny maam go get look
-Topic 2: love guy good life wedding
+Topic 0: want like go think come
+Topic 1: madam go think sir get
+Topic 2: love good life guy wedding
 
 Male, LDA, 1997
-Topic 0: kill okay hear hell sure
-Topic 1: okay yes guy little sure
-Topic 2: ship yes hey hear year
+Topic 0: sir yes hey yeah bug
+Topic 1: ship see yes crew okay
+Topic 2: okay yeah yes guy little
 
 Male, NMF, 1997
-Topic 0: okay guy yes little love
-Topic 1: ship horizon crew weir starck
-Topic 2: bug sir diz carman lieutenant
+Topic 0: okay yeah guy yes little
+Topic 1: ship crew gravity airlock starck
+Topic 2: sir bug citizen yes carman
 
 Female, LDA, 1998
-Topic 0: know go like come want
-Topic 1: know like want come think
+Topic 0: go think like know come
+Topic 1: know think like tell go
 Topic 2: know go like think want
 
 Female, NMF, 1998
-Topic 0: know go think like want
-Topic 1: yes love father brother man
-Topic 2: draw daddy dad love like
+Topic 0: know go like think want
+Topic 1: love yes sir father man
+Topic 2: right carry island blood boat
 
 Male, LDA, 1998
-Topic 0: get good man thing mean
-Topic 1: get good man ill okay
-Topic 2: parrish draw get moment man
+Topic 0: man get yeah love yes
+Topic 1: get man yes thing okay
+Topic 2: get man thing mean yes
 
 Male, NMF, 1998
-Topic 0: get thing good mean ill
-Topic 1: get fucking dude fuck okay
-Topic 2: parrish bill draw love yes
+Topic 0: get thing yeah fuck mean
+Topic 1: love yes king man day
+Topic 2: get okay storm tropical weekend
 
 Female, LDA, 1999
-Topic 0: think want get come tell
-Topic 1: think tell want get thing
-Topic 2: want think get look thing
+Topic 0: want think right tell good
+Topic 1: think want get tell come
+Topic 2: want come think get thing
 
 Female, NMF, 1999
 Topic 0: think want get tell come
-Topic 1: homer wally wilbur daddy movie
-Topic 2: book creature curse accord egyptian
+Topic 1: creature curse kill book accord
+Topic 2: man son ticket concert lovemaking
 
 Male, LDA, 1999
-Topic 0: okay guy ill let hear
-Topic 1: let okay guy need ill
-Topic 2: need let talk work guy
+Topic 0: yeah guy let okay hey
+Topic 1: yeah let okay need guy
+Topic 2: yeah let guy kill talk
 
 Male, NMF, 1999
-Topic 0: let guy okay need ill
-Topic 1: homer apple cider wally pickin
-Topic 2: dude ticket jam mom kiss
+Topic 0: yeah let okay need guy
+Topic 1: dude mom ticket fuckin shit
+Topic 2: apple cider wally ether knife
 
 Female, LDA, 2000
-Topic 0: know think go like want
-Topic 1: know mean like time want
-Topic 2: know think want get go
+Topic 0: know think get go like
+Topic 1: know want get like think
+Topic 2: know think go like want
 
 Female, NMF, 2000
-Topic 0: know go like think get
-Topic 1: nick want guy letter baby
-Topic 2: want need happen home like
+Topic 0: know like go think get
+Topic 1: want guy know baby letter
+Topic 2: want need home happen thing
 
 Male, LDA, 2000
-Topic 0: come man say time need
-Topic 1: man work time thing need
-Topic 2: come good time man thing
+Topic 0: come good man time thing
+Topic 1: time come man let need
+Topic 2: good come time man way
 
 Male, NMF, 2000
-Topic 0: come good time thing okay
-Topic 1: guy casino man fuck powwow
-Topic 2: army man war fight emperor
+Topic 0: come good time mean yeah
+Topic 1: fuck guy man casino ash
+Topic 2: army man war fight sir
 
 Female, LDA, 2001
-Topic 0: like go want tell get
-Topic 1: like go want get good
-Topic 2: go like tell want yes
+Topic 0: like go want get tell
+Topic 1: go like tell want get
+Topic 2: tell want go like get
 
 Female, NMF, 2001
 Topic 0: like want go get tell
-Topic 1: goddamn tell outside big book
-Topic 2: yes want woman understand tie
+Topic 1: goddamn tell outside knowledge book
+Topic 2: yes woman want understand tie
 
 Male, LDA, 2001
-Topic 0: say guy okay love fuck
-Topic 1: say guy fuck people okay
-Topic 2: say guy life okay try
+Topic 0: fuck shit say guy fucking
+Topic 1: love hey okay say guy
+Topic 2: say guy okay thank money
 
 Male, NMF, 2001
-Topic 0: guy say shit fuck way
-Topic 1: lila puff ape gabrielle human
-Topic 2: say money course thank ant
+Topic 0: guy shit say fuck fucking
+Topic 1: ape human love manner fork
+Topic 2: say money thank course bank
 
 Female, LDA, 2002
-Topic 0: look turn take stop hand
-Topic 1: get look think go want
-Topic 2: go think want come get
+Topic 0: look turn take go hand
+Topic 1: go think want come get
+Topic 2: want come go think yeah
 
 Female, NMF, 2002
 Topic 0: think go want get look
-Topic 1: picture dollar thousand tell xxxxxx
-Topic 2: come pack wladek henryk fight
+Topic 1: picture dollar thousand tell car
+Topic 2: come fight husband playing expect
 
 Male, LDA, 2002
-Topic 0: yes fuck eye sorry turn
-Topic 1: yes thing leave find happen
-Topic 2: yes way thing find happen
+Topic 0: yes thing happen find help
+Topic 1: yes way yeah take guy
+Topic 2: fuck yeah shit fucking fuckin
 
 Male, NMF, 2002
-Topic 0: guy yes fuck thing way
-Topic 1: wladek certificate pianist ghetto yes
-Topic 2: treadstone yes okay sign boat
+Topic 0: yes thing find way happen
+Topic 1: certificate ghetto pianist yes jewish
+Topic 2: fuck yeah fucking shit fuckin
 
 Female, LDA, 2003
-Topic 0: think good let ill time
-Topic 1: think die death mean let
-Topic 2: think good ill say let
+Topic 0: think need mean life let
+Topic 1: think good let say time
+Topic 2: think good time find let
 
 Female, NMF, 2003
-Topic 0: think good need let time
-Topic 1: jewish hanukkah hammer mordechai tov
-Topic 2: think talk crisis bye later
+Topic 0: think good yeah let need
+Topic 1: jewish son eat boojee let
+Topic 2: bye think talk crisis mid
 
 Male, LDA, 2003
-Topic 0: man guy let mean life
-Topic 1: man guy let talk mean
-Topic 2: talk let ill man guy
+Topic 0: guy man talk yeah work
+Topic 1: fuck yes okay yeah kill
+Topic 2: man yeah guy let mean
 
 Male, NMF, 2003
-Topic 0: guy man let mean talk
-Topic 1: yes charlotte japanese hello bye
-Topic 2: esther hanukkah hammer jewish mom
+Topic 0: guy man yeah let mean
+Topic 1: yes yeah bye hello japanese
+Topic 2: jewish mom esther alarm brother
 
 Female, LDA, 2004
-Topic 0: know like think want right
-Topic 1: know want think right like
-Topic 2: know like tell want talk
+Topic 0: know think want right like
+Topic 1: know like think want right
+Topic 2: know like think want right
 
 Female, NMF, 2004
 Topic 0: know like think want good
-Topic 1: evan dad know kid act
-Topic 2: phone car room leave cut
+Topic 1: dad know act kid bad
+Topic 2: phone room car leave cut
 
 Male, LDA, 2004
-Topic 0: get good say man thing
-Topic 1: man good get yes thing
-Topic 2: get good okay man let
+Topic 0: man get good kill fuck
+Topic 1: get man good let thing
+Topic 2: get good let man talk
 
 Male, NMF, 2004
-Topic 0: get good man okay talk
-Topic 1: evan kayleigh mom memory dad
-Topic 2: car crash airport accident traffic
+Topic 0: get good man let talk
+Topic 1: father memory mom dad blackout
+Topic 2: crash car airport accident traffic
 
 Female, LDA, 2005
-Topic 0: get hey like look guy
-Topic 1: like look get right tell
-Topic 2: mile good tell like get
+Topic 0: get like look time good
+Topic 1: like look tell right get
+Topic 2: like get good okay right
 
 Female, NMF, 2005
-Topic 0: beat like get right look
-Topic 1: chief father doctor need hide
-Topic 2: daddy play blow game talk
+Topic 0: like get right good time
+Topic 1: daddy doctor father play talk
+Topic 2: beat father alright find great
 
 Male, LDA, 2005
-Topic 0: good fuck right okay say
-Topic 1: right good okay let talk
-Topic 2: beat right good ill sure
+Topic 0: good right let fuck talk
+Topic 1: right yeah okay good let
+Topic 2: right good talk let game
 
 Male, NMF, 2005
-Topic 0: right okay good let man
+Topic 0: right good okay yeah let
 Topic 1: beat die father sure remember
-Topic 2: fuck parking desert fucking later
+Topic 2: fuck parking drive later room
 
 Female, LDA, 2006
-Topic 0: mean work win away true
-Topic 1: look hear say new rest
-Topic 2: look say mean work right
+Topic 0: look maybe hand woman true
+Topic 1: look mean say right feel
+Topic 2: look say let mean work
 
 Female, NMF, 2006
-Topic 0: look say mean stay right
-Topic 1: friend live thank miss room
-Topic 2: moment heart live sleep lady
+Topic 0: look say let mean work
+Topic 1: moment im heart live sleep
+Topic 2: live miss thank room friend
 
 Male, LDA, 2006
-Topic 0: king win happy feel speak
-Topic 1: guy get lot stop standard
-Topic 2: get trick book write ill
+Topic 0: guy get trick work lot
+Topic 1: get guy trick work run
+Topic 2: book write talk get yes
 
 Male, NMF, 2006
 Topic 0: get guy hey shit talk
-Topic 1: king speak shall happy land
-Topic 2: trick secret ill act method
+Topic 1: speak shall happy land fight
+Topic 2: trick secret act tank magic
 
 Female, LDA, 2007
-Topic 0: guy draft smile take sorry
-Topic 1: right great baby fucking body
-Topic 2: right let baby talk shit
+Topic 0: right baby let guy great
+Topic 1: let shit body stop hurt
+Topic 2: right yes talk see let
 
 Female, NMF, 2007
 Topic 0: right baby shit let fuck
-Topic 1: smile draft guy dance shirt
-Topic 2: body lady snow let sorry
+Topic 1: smile guy draft shirt dance
+Topic 2: body lady fill let sorry
 
 Male, LDA, 2007
-Topic 0: final far king body money
-Topic 1: guy friend kind shit girl
-Topic 2: guy woody wild draft start
+Topic 0: shit fuck guy kid cool
+Topic 1: money sir boy guy something
+Topic 2: guy draft start shit friend
 
 Male, NMF, 2007
-Topic 0: guy shit fuck movie pregnant
-Topic 1: final king far body alright
-Topic 2: money yessir sir tent sheriff
+Topic 0: shit fuck guy pregnant movie
+Topic 1: money sir something boy tent
+Topic 2: draft guy nod smile ride
 

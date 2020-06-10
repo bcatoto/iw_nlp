@@ -1,0 +1,984 @@
+1975, Female
+Topic 0: know go like
+Topic 1: kiss like yes
+Topic 2: yes right like
+Topic 3: boy know want
+Topic 4: know decent life
+Topic 5: mean thing yes
+Topic 6: shark boat beach
+Topic 7: go supper kiss
+Topic 8: love know honor
+Topic 9: home know go
+
+1975, Male
+Topic 0: man hell talk
+Topic 1: people phone talk
+Topic 2: need water hand
+Topic 3: alright break probably
+Topic 4: man meet ask
+Topic 5: alright creature sensual
+Topic 6: talk fuck jet
+Topic 7: castle shrubbery witch
+Topic 8: boat water man
+Topic 9: story you source
+
+1976, Female
+Topic 0: think know want
+Topic 1: know run let
+Topic 2: man lady score
+Topic 3: man like everybody
+Topic 4: kiss love doctor
+Topic 5: kill run yes
+Topic 6: work people taxi
+Topic 7: man want like
+Topic 8: know day break
+Topic 9: want mean change
+
+1976, Male
+Topic 0: know go think
+Topic 1: think let want
+Topic 2: get like fight
+Topic 3: get guy think
+Topic 4: get guy know
+Topic 5: fight good nothing
+Topic 6: know green cat
+Topic 7: get guy man
+Topic 8: fuck mean follow
+Topic 9: look real leave
+
+1977, Female
+Topic 0: know think go
+Topic 1: know get like
+Topic 2: nice mean great
+Topic 3: yes father leave
+Topic 4: hope attack come
+Topic 5: mean right yes
+Topic 6: truck turn walk
+Topic 7: hope attack come
+Topic 8: help escape father
+Topic 9: datum destroy time
+
+1977, Male
+Topic 0: sir know way
+Topic 1: know go come
+Topic 2: ship right go
+Topic 3: man know bandit
+Topic 4: man heart father
+Topic 5: know thing mean
+Topic 6: go ship droid
+Topic 7: land french fort
+Topic 8: think go get
+Topic 9: law east reason
+
+1978, Female
+Topic 0: go get know
+Topic 1: get man know
+Topic 2: fucking fuck get
+Topic 3: know mean land
+Topic 4: want sure listen
+Topic 5: totally think look
+Topic 6: man soft count
+Topic 7: girl yes hit
+Topic 8: think know get
+Topic 9: lighthouse go faster
+
+1978, Male
+Topic 0: know get go
+Topic 1: like know fuck
+Topic 2: shark boat water
+Topic 3: like go right
+Topic 4: ship engine thing
+Topic 5: know good yes
+Topic 6: yknow fly simple
+Topic 7: lock get year
+Topic 8: fuck know sentence
+Topic 9: hey go get
+
+1979, Female
+Topic 0: know want like
+Topic 1: ted thing think
+Topic 2: know want like
+Topic 3: know man yes
+Topic 4: dollar girl fuck
+Topic 5: ted mother thing
+Topic 6: know tell yes
+Topic 7: soldier shot coup
+Topic 8: sir report system
+Topic 9: hello get asleep
+
+1979, Male
+Topic 0: like go look
+Topic 1: child minute get
+Topic 2: captain sir enterprise
+Topic 3: sir captain go
+Topic 4: thing child mean
+Topic 5: right come hey
+Topic 6: garden gardener thank
+Topic 7: gun sin murder
+Topic 8: girl get go
+Topic 9: garden sir gardener
+
+1980, Female
+Topic 0: know time want
+Topic 1: yes good know
+Topic 2: go think know
+Topic 3: yes fish pilot
+Topic 4: help leave strange
+Topic 5: yes know away
+Topic 6: sir alright dear
+Topic 7: give spare daddy
+Topic 8: go time good
+Topic 9: mean sir serve
+
+1980, Male
+Topic 0: want know man
+Topic 1: know get right
+Topic 2: man fly yes
+Topic 3: yes good sir
+Topic 4: go good know
+Topic 5: cat want tell
+Topic 6: know go right
+Topic 7: like yes know
+Topic 8: sword earthling plasma
+Topic 9: yes sir evening
+
+1981, Female
+Topic 0: know come like
+Topic 1: get go like
+Topic 2: look little love
+Topic 3: think work want
+Topic 4: yes eat right
+Topic 5: go get know
+Topic 6: access laser get
+Topic 7: like way drink
+Topic 8: father knight secret
+Topic 9: drawing lottery true
+
+1981, Male
+Topic 0: know come want
+Topic 1: test man way
+Topic 2: know love man
+Topic 3: go get guy
+Topic 4: people youve series
+Topic 5: werewolf wolf moon
+Topic 6: knight sword king
+Topic 7: program access user
+Topic 8: dog go get
+Topic 9: man come shall
+
+1982, Female
+Topic 0: little thank people
+Topic 1: husband boy wish
+Topic 2: course thank read
+Topic 3: system thank need
+Topic 4: thank lot stacy
+Topic 5: ted boy downtown
+Topic 6: house night stop
+Topic 7: place forget wish
+Topic 8: call guy care
+Topic 9: clean job place
+
+1982, Male
+Topic 0: sir country world
+Topic 1: sir ship computer
+Topic 2: case doctor nurse
+Topic 3: ship head sir
+Topic 4: uncle swear tab
+Topic 5: dog anybody imitate
+Topic 6: sir ship death
+Topic 7: left crazy stuff
+Topic 8: bark strong dark
+Topic 9: machine job test
+
+1983, Female
+Topic 0: think go know
+Topic 1: love yes find
+Topic 2: mother talk work
+Topic 3: shark come get
+Topic 4: little away get
+Topic 5: story picture people
+Topic 6: remember write think
+Topic 7: let know get
+Topic 8: story war picture
+Topic 9: shark come water
+
+1983, Male
+Topic 0: know go think
+Topic 1: good shark work
+Topic 2: know good right
+Topic 3: want get know
+Topic 4: yes want good
+Topic 5: power know yes
+Topic 6: get hey computer
+Topic 7: get story want
+Topic 8: yes thank historian
+Topic 9: historian thank history
+
+1984, Female
+Topic 0: come yes find
+Topic 1: get want come
+Topic 2: want tell yes
+Topic 3: sir love hear
+Topic 4: girl party soon
+Topic 5: happen leave say
+Topic 6: gun way let
+Topic 7: car get come
+Topic 8: planet sector reading
+Topic 9: future beige get
+
+1984, Male
+Topic 0: hey work night
+Topic 1: pay course kind
+Topic 2: spice worm shall
+Topic 3: night money option
+Topic 4: stone wake plane
+Topic 5: sleep dream night
+Topic 6: car hey kid
+Topic 7: ship yes car
+Topic 8: professor damn hair
+Topic 9: computer zero defense
+
+1985, Female
+Topic 0: year little break
+Topic 1: fair unicorn heart
+Topic 2: stamp present close
+Topic 3: believe room mother
+Topic 4: world wish love
+Topic 5: saloon land man
+Topic 6: see lot figure
+Topic 7: school lot mom
+Topic 8: help alright prayer
+Topic 9: help land home
+
+1985, Male
+Topic 0: ask play morning
+Topic 1: course ask follow
+Topic 2: course alright hello
+Topic 3: colony awright team
+Topic 4: cop beach today
+Topic 5: school parent fall
+Topic 6: town head saloon
+Topic 7: cop ball later
+Topic 8: ask understand future
+Topic 9: dear boy prescription
+
+1986, Female
+Topic 0: look say mean
+Topic 1: look little daddy
+Topic 2: mean great matter
+Topic 3: bury cat place
+Topic 4: alright mean find
+Topic 5: dead play find
+Topic 6: right look honey
+Topic 7: pilot say live
+Topic 8: happen right idea
+Topic 9: watch alright school
+
+1986, Male
+Topic 0: help send woman
+Topic 1: love sir start
+Topic 2: guy love walk
+Topic 3: destroy somebody hand
+Topic 4: im fly left
+Topic 5: gage cat jud
+Topic 6: boy kid better
+Topic 7: whale system power
+Topic 8: im love ear
+Topic 9: shit fuck fuckin
+
+1987, Female
+Topic 0: stop sorry meet
+Topic 1: buy broker deal
+Topic 2: seven pay hand
+Topic 3: face child death
+Topic 4: war house married
+Topic 5: marry wedding die
+Topic 6: client business organize
+Topic 7: plate street syndicate
+Topic 8: alright buy make
+Topic 9: water plane mother
+
+1987, Male
+Topic 0: world sport airline
+Topic 1: sport airline father
+Topic 2: shark conch tag
+Topic 3: wolf dude date
+Topic 4: lesson gun bed
+Topic 5: vampire mom comic
+Topic 6: chopper guerrilla bastard
+Topic 7: stock rich company
+Topic 8: partner detective continue
+Topic 9: clearly wine poison
+
+1988, Female
+Topic 0: great baseball honey
+Topic 1: man long father
+Topic 2: wrong start sure
+Topic 3: dream yes meet
+Topic 4: game honey great
+Topic 5: information box mattress
+Topic 6: stop honey dream
+Topic 7: people dead house
+Topic 8: information box human
+Topic 9: yes thank new
+
+1988, Male
+Topic 0: because world car
+Topic 1: ass small car
+Topic 2: sir room human
+Topic 3: dive beat room
+Topic 4: hit damn game
+Topic 5: house town true
+Topic 6: self question code
+Topic 7: practice house town
+Topic 8: house soldier world
+Topic 9: partner refinery drug
+
+1989, Female
+Topic 0: actually sit anymore
+Topic 1: daddy minute school
+Topic 2: hey sing song
+Topic 3: baby bathtub hate
+Topic 4: stock sixpack forward
+Topic 5: house kind remember
+Topic 6: face half burn
+Topic 7: baby buggy date
+Topic 8: well hour particularly
+Topic 9: receive captain transmission
+
+1989, Male
+Topic 0: stuff slime city
+Topic 1: gun drink plane
+Topic 2: cut light got
+Topic 3: ship board anchor
+Topic 4: beat child roof
+Topic 5: black alright mookie
+Topic 6: ship spock starship
+Topic 7: suit ship sir
+Topic 8: crazy slime law
+Topic 9: gang witness case
+
+1990, Female
+Topic 0: yes guess stop
+Topic 1: kit dress rent
+Topic 2: year fine run
+Topic 3: hello late ice
+Topic 4: honey something kill
+Topic 5: colored spoil better
+Topic 6: probably shoot fun
+Topic 7: kit dress rent
+Topic 8: implant love wife
+Topic 9: disc reality factory
+
+1990, Male
+Topic 0: buy police father
+Topic 1: dream sir company
+Topic 2: seven track truth
+Topic 3: goddamn plan bitch
+Topic 4: street child coffee
+Topic 5: company buy hotel
+Topic 6: book write misery
+Topic 7: molly account outta
+Topic 8: army demon goddamn
+Topic 9: scissor drop show
+
+1991, Female
+Topic 0: money guess figure
+Topic 1: cat deal crash
+Topic 2: lecter woman sir
+Topic 3: sir shield enterprise
+Topic 4: theo dad cut
+Topic 5: marry authority appointment
+Topic 6: wrestler ï½ slip
+Topic 7: child heart dear
+Topic 8: eye hey home
+Topic 9: office fire roof
+
+1991, Male
+Topic 0: boss case involve
+Topic 1: treat summer ahh
+Topic 2: bank surfer summer
+Topic 3: bitch city story
+Topic 4: fuckin peace country
+Topic 5: bingo ahh summer
+Topic 6: whip lady scatter
+Topic 7: lamb case covet
+Topic 8: parole alright do
+Topic 9: gold cappuccino hawk
+
+1992, Female
+Topic 0: money kiss cosmetic
+Topic 1: wear school sweet
+Topic 2: convent nun sing
+Topic 3: stand catch blow
+Topic 4: dance game vampire
+Topic 5: chance care shoot
+Topic 6: game chess course
+Topic 7: instead actually scare
+Topic 8: run phone microvesicle
+Topic 9: club statue dream
+
+1992, Male
+Topic 0: marine transfer witness
+Topic 1: pistol sonofabitch nothing
+Topic 2: nigger fucka shmuck
+Topic 3: coz dog bye
+Topic 4: land earth sun
+Topic 5: nun rape chalice
+Topic 6: owe market shmuck
+Topic 7: dog coz dyou
+Topic 8: pop suspect happily
+Topic 9: kiss future dark
+
+1993, Female
+Topic 0: guy sort minute
+Topic 1: voice probably guy
+Topic 2: jail alive anymore
+Topic 3: cowgirl car girl
+Topic 4: football dad do
+Topic 5: fire car minute
+Topic 6: stay position base
+Topic 7: firm fire have
+Topic 8: early fucking fuck
+Topic 9: piano father strike
+
+1993, Male
+Topic 0: movie pussy cop
+Topic 1: marry mom dad
+Topic 2: voice relax wine
+Topic 3: fuckin nigger motherfucker
+Topic 4: plane flight storm
+Topic 5: football team player
+Topic 6: train cigar court
+Topic 7: parent paint painting
+Topic 8: lock starve note
+Topic 9: partner cop escape
+
+1994, Female
+Topic 0: baby pretend wanna
+Topic 1: money hello answer
+Topic 2: reed walk rock
+Topic 3: bloody father school
+Topic 4: honey lie husband
+Topic 5: rock fuck buy
+Topic 6: nightmare script hospital
+Topic 7: white round sugar
+Topic 8: card somebody god
+Topic 9: 67 wrong dominant
+
+1994, Male
+Topic 0: ship blow bitch
+Topic 1: nightmare funeral horror
+Topic 2: sister dance carry
+Topic 3: ribbon ship information
+Topic 4: parent office bed
+Topic 5: flight police telephone
+Topic 6: clown fucking elly
+Topic 7: test worried pretend
+Topic 8: group fucking therapy
+Topic 9: film footage scene
+
+1995, Female
+Topic 0: read move bear
+Topic 1: hide animal truth
+Topic 2: bank attract game
+Topic 3: virus worm hacker
+Topic 4: female deny reach
+Topic 5: walk fool bear
+Topic 6: alright folk jail
+Topic 7: king mlord fight
+Topic 8: star movie virgin
+Topic 9: sir patience allow
+
+1995, Male
+Topic 0: peace soldier policy
+Topic 1: dear sister forgive
+Topic 2: share naw boyfriend
+Topic 3: 67 ï½ï½ search
+Topic 4: movie ï½ grand
+Topic 5: completely computer cry
+Topic 6: cigar corn beef
+Topic 7: cigar literally celebration
+Topic 8: windshield speech drag
+Topic 9: general earth mission
+
+1996, Female
+Topic 0: mom dad phone
+Topic 1: flesh lie excuse
+Topic 2: fuck male suck
+Topic 3: honey asleep hour
+Topic 4: bet money scare
+Topic 5: stop mom hurt
+Topic 6: snake deal bald
+Topic 7: oclock wrong walk
+Topic 8: school mother private
+Topic 9: truth hour watch
+
+1996, Male
+Topic 0: charly tanker chapter
+Topic 1: apartment choice laugh
+Topic 2: reckon mama daddy
+Topic 3: accident moment police
+Topic 4: signal ship arrive
+Topic 5: crash police accident
+Topic 6: witch doctor alright
+Topic 7: cunt shite punt
+Topic 8: vampire border fuckin
+Topic 9: police movie scary
+
+1997, Female
+Topic 0: wedding favor bride
+Topic 1: madam planet pilot
+Topic 2: twin food bridesmaid
+Topic 3: bag jail atf
+Topic 4: date daddy prom
+Topic 5: compliment doctor emergency
+Topic 6: assignment code study
+Topic 7: animal ian virus
+Topic 8: headache lover dossier
+Topic 9: student vote poster
+
+1997, Male
+Topic 0: i11 camera video
+Topic 1: gravity airlock starck
+Topic 2: wedding gag bride
+Topic 3: citizen carman squad
+Topic 4: i11 sack gallery
+Topic 5: planet alien border
+Topic 6: horse grace branding
+Topic 7: hostage fuel tower
+Topic 8: galaxy flashy planet
+Topic 9: fare stone vacation
+
+1998, Female
+Topic 0: poem mom gunna
+Topic 1: mainland breath island
+Topic 2: daddy doctor dinner
+Topic 3: network bus cell
+Topic 4: carry bag fault
+Topic 5: record label collection
+Topic 6: ship bloody cat
+Topic 7: boat window pump
+Topic 8: vampire blood human
+Topic 9: bus costume scary
+
+1998, Male
+Topic 0: cell canyon riddick
+Topic 1: storm este tropical
+Topic 2: planet datum metaphasic
+Topic 3: merger goodnight pant
+Topic 4: hire cigarette smoke
+Topic 5: creature earthworm nest
+Topic 6: engine finnegan squid
+Topic 7: assignment sayin fin
+Topic 8: trunk partner scumbag
+Topic 9: ocean isnï½t delusion
+
+1999, Female
+Topic 0: daddy normal prom
+Topic 1: daddy wally homer
+Topic 2: creature curse accord
+Topic 3: ticket lovemaking someday
+Topic 4: donï½t canï½t didnï½t
+Topic 5: war soldier gold
+Topic 6: prom popular lame
+Topic 7: computer neutron historical
+Topic 8: certainly 125 debt
+Topic 9: daddy whitehouse traffic
+
+1999, Male
+Topic 0: clitoris dude canadian
+Topic 1: ticket dude fuckin
+Topic 2: apple cider ether
+Topic 3: curse sand namun
+Topic 4: donï½t didnï½t itï½s
+Topic 5: fuckin brace yknow
+Topic 6: mama daddy pie
+Topic 7: dude prom pact
+Topic 8: independence powder dispatch
+Topic 9: fiancï½e jazz boat
+
+2000, Female
+Topic 0: replace cos trouble
+Topic 1: letter gun bullet
+Topic 2: thief bloody spy
+Topic 3: mill script movie
+Topic 4: paint cop earring
+Topic 5: mutant melt assure
+Topic 6: witch tree goddamn
+Topic 7: ass quincy championship
+Topic 8: black peerless perform
+Topic 9: whisper refuse story
+
+2000, Male
+Topic 0: holiday pum prison
+Topic 1: ash security casino
+Topic 2: gladiator army arena
+Topic 3: design plane fuckin
+Topic 4: fuel atmosphere ship
+Topic 5: pool punish wit
+Topic 6: stab film detective
+Topic 7: naw bro suga
+Topic 8: rob song album
+Topic 9: fin kilometer lend
+
+2001, Female
+Topic 0: brother animal midget
+Topic 1: rescue donkey knight
+Topic 2: blonde law class
+Topic 3: stoner patsy jussy
+Topic 4: second drive sort
+Topic 5: dinosaur safe evolve
+Topic 6: goddamn cherry outside
+Topic 7: agent hell cop
+Topic 8: jewish synagogue candle
+Topic 9: ship choice plate
+
+2001, Male
+Topic 0: barber magazine pansy
+Topic 1: customer birthday tune
+Topic 2: ogre flower because
+Topic 3: travel horny flood
+Topic 4: fuckin shower director
+Topic 5: ogre dragon donkey
+Topic 6: ant actor kettle
+Topic 7: documentary host dunno
+Topic 8: ship badge chinese
+Topic 9: access card fingerprint
+
+2002, Female
+Topic 0: care eat person
+Topic 1: sir machine star
+Topic 2: trevor sound dream
+Topic 3: card girl tonight
+Topic 4: phone dot fuck
+Topic 5: agent cop hell
+Topic 6: great fuck matter
+Topic 7: nice pretty early
+Topic 8: truck possible behavior
+Topic 9: sequencing age level
+
+2002, Male
+Topic 0: game nerve accident
+Topic 1: grab window son
+Topic 2: game accident handle
+Topic 3: hunt vampire enemy
+Topic 4: equation sir machine
+Topic 5: idiot fourteen table
+Topic 6: school miracle mother
+Topic 7: ship sir captain
+Topic 8: continue droid army
+Topic 9: school join mad
+
+2003, Female
+Topic 0: fucking crazy special
+Topic 1: cool hate death
+Topic 2: trap marry wedding
+Topic 3: clean baby choice
+Topic 4: empire prom dad
+Topic 5: laurenyoull hereok tokyook
+Topic 6: video conscience victim
+Topic 7: high remind entire
+Topic 8: prove cop boyfriend
+Topic 9: fucking disturb tree
+
+2003, Male
+Topic 0: tape treasure special
+Topic 1: treasure principal mom
+Topic 2: doctor cell drug
+Topic 3: magazine parent beauty
+Topic 4: mom jewish esther
+Topic 5: tape constance capital
+Topic 6: pardon daddy boss
+Topic 7: tree water deserter
+Topic 8: devil awesome chick
+Topic 9: 180 onramp number
+
+2004, Female
+Topic 0: fuck shit school
+Topic 1: turn woman suppose
+Topic 2: dad act kid
+Topic 3: pretty hey gold
+Topic 4: sixth instrument flower
+Topic 5: room til wisdom
+Topic 6: file buy russian
+Topic 7: daddy cry cut
+Topic 8: bird sound light
+Topic 9: car drive walk
+
+2004, Male
+Topic 0: mom son marry
+Topic 1: sheriff yea mill
+Topic 2: marry fish father
+Topic 3: reach voice floor
+Topic 4: block justice death
+Topic 5: pull somebody cab
+Topic 6: memory father mom
+Topic 7: normal nap table
+Topic 8: bodyguard ransom kidnapping
+Topic 9: van officer relax
+
+2005, Female
+Topic 0: beat talk feel
+Topic 1: donï½t itï½s right
+Topic 2: beat bed hmm
+Topic 3: hold right let
+Topic 4: bounty hunter bitch
+Topic 5: love right place
+Topic 6: father island anthropological
+Topic 7: daddy princess bettor
+Topic 8: beat thing probably
+Topic 9: shit eat doctor
+
+2005, Male
+Topic 0: fuck game fucking
+Topic 1: great night wait
+Topic 2: wait dead gun
+Topic 3: beat lot wife
+Topic 4: beat father touch
+Topic 5: fuck kill room
+Topic 6: feel wait lose
+Topic 7: walk great money
+Topic 8: car lighting interrupt
+Topic 9: disk beer file
+
+2006, Female
+Topic 0: know think go
+Topic 1: let live hard
+Topic 2: know dont think
+Topic 3: know look say
+Topic 4: pathetic room set
+Topic 5: wall journey plain
+Topic 6: trick want look
+Topic 7: trick secret look
+Topic 8: stay fuck let
+Topic 9: guy know mean
+
+2006, Male
+Topic 0: know think want
+Topic 1: know get need
+Topic 2: look get guy
+Topic 3: get hey shit
+Topic 4: know like want
+Topic 5: yes friend need
+Topic 6: look trick magician
+Topic 7: trick magician stage
+Topic 8: book write get
+Topic 9: guy look grunt
+
+2007, Female
+Topic 0: know go like
+Topic 1: know go yes
+Topic 2: baby sorry let
+Topic 3: 70605 writer hog
+Topic 4: baby look go
+Topic 5: shrek body think
+Topic 6: know talk sorry
+Topic 7: shit fuck great
+Topic 8: shrek body know
+Topic 9: word know kill
+
+2007, Male
+Topic 0: know like go
+Topic 1: guy look think
+Topic 2: go know get
+Topic 3: movie think relationship
+Topic 4: like baby want
+Topic 5: go get shit
+Topic 6: shit guy like
+Topic 7: hog 70605 writer
+Topic 8: get go something
+Topic 9: fuck want man
+
+2008, Female
+Topic 0: know like get
+Topic 1: thing smile play
+Topic 2: model giddy day
+Topic 3: client brain way
+Topic 4: woman room think
+Topic 5: appear alia sure
+Topic 6: mind dear person
+Topic 7: ghoul stare land
+Topic 8: like sheet underwear
+Topic 9: start reflection sham
+
+2008, Male
+Topic 0: know think look
+Topic 1: fight flower follow
+Topic 2: think coat profile
+Topic 3: assistant watch feel
+Topic 4: order dead editor
+Topic 5: lead help laugh
+Topic 6: scratch far staff
+Topic 7: kneel throw frown
+Topic 8: throw chuckle building
+Topic 9: imperiously plenty page
+
+2009, Female
+Topic 0: know look like
+Topic 1: crossword bag bus
+Topic 2: look start arm
+Topic 3: know go want
+Topic 4: look head arm
+Topic 5: work answer find
+Topic 6: want go month
+Topic 7: crossword bag puzzle
+Topic 8: tonight seat answer
+Topic 9: elevator information warm
+
+2009, Male
+Topic 0: look like think
+Topic 1: look angus hell
+Topic 2: know vampire take
+Topic 3: know go like
+Topic 4: look step hand
+Topic 5: vampire know react
+Topic 6: vampire step stage
+Topic 7: think fire fuck
+Topic 8: know think want
+Topic 9: angus crossword yell
+
+2010, Female
+Topic 0: look go get
+Topic 1: guy olive love
+Topic 2: fuck hot tub
+Topic 3: know like go
+Topic 4: say help want
+Topic 5: dragon rev19 like
+Topic 6: 6909 door cindy
+Topic 7: fuck tell good
+Topic 8: dragon reach spin
+Topic 9: man destiny local
+
+2010, Male
+Topic 0: know go think
+Topic 1: tell people video
+Topic 2: 6909 look go
+Topic 3: child parent kill
+Topic 4: come fuck look
+Topic 5: fuck go guy
+Topic 6: look kiss take
+Topic 7: know right yes
+Topic 8: dragon rev19 2010
+Topic 9: number video coffin
+
+2011, Female
+Topic 0: wedding lillian bridesmaid
+Topic 1: lawyer friendly client
+Topic 2: honey court croquet
+Topic 3: cal bar sexy
+Topic 4: dance attraction star
+Topic 5: driver irene silence
+Topic 6: dent got race
+Topic 7: youth coffee cry
+Topic 8: jail bank funny
+Topic 9: delegate intern campaign
+
+2011, Male
+Topic 0: fairy inheritance because
+Topic 1: clive alien nerd
+Topic 2: killer cataleya address
+Topic 3: leader swim emotion
+Topic 4: debt warrior thief
+Topic 5: fighter tournament ship
+Topic 6: tunnel vault crime
+Topic 7: werewolf henri attewater
+Topic 8: bishop pool 100
+Topic 9: warrior sword crom
+
+2012, Female
+Topic 0: open fuck wait
+Topic 1: face eye door
+Topic 2: guy sorry hey
+Topic 3: favorite eye wish
+Topic 4: leg wheelchair bedroom
+Topic 5: 41711 money lie
+Topic 6: sir die end
+Topic 7: perry story dead
+Topic 8: fairy 9612 tooth
+Topic 9: letter fuck shit
+
+2012, Male
+Topic 0: city boy blow
+Topic 1: boy important school
+Topic 2: gun drink save
+Topic 3: ship pyramid engineer
+Topic 4: boy woman book
+Topic 5: fuck pull shit
+Topic 6: fuck fucking shit
+Topic 7: witch zombie dead
+Topic 8: notify low power
+Topic 9: wedding letter dance
+
+2013, Female
+Topic 0: know want go
+Topic 1: look come night
+Topic 2: go come tell
+Topic 3: guy house phone
+Topic 4: guy fuck courier
+Topic 5: kill want go
+Topic 6: child know shall
+Topic 7: look take home
+Topic 8: shall dear film
+Topic 9: go son know
+
+2013, Male
+Topic 0: look man know
+Topic 1: come get know
+Topic 2: get need know
+Topic 3: nigger slave write
+Topic 4: know get come
+Topic 5: man right boy
+Topic 6: copy visual think
+Topic 7: continue consider white
+Topic 8: cave eep come
+Topic 9: blah ring daughter
+
+2014, Female
+Topic 0: know like want
+Topic 1: know get go
+Topic 2: emmet son world
+Topic 3: paint art painting
+Topic 4: patient place land
+Topic 5: baby because tellin
+Topic 6: know little tell
+Topic 7: year copy decide
+Topic 8: start harm honey
+Topic 9: emmet break force
+
+2014, Male
+Topic 0: know go like
+Topic 1: painting eye art
+Topic 2: know place thing
+Topic 3: wormhole planet find
+Topic 4: want fuck know
+Topic 5: eye love hey
+Topic 6: fucking staff patient
+Topic 7: httyd 050514 dragon
+Topic 8: like want cancer
+Topic 9: beautiful world mean
+
+2015, Female
+Topic 0: know go want
+Topic 1: wait hand base
+Topic 2: go hour ask
+Topic 3: hand wait steal
+Topic 4: gun little know
+Topic 5: go yes day
+Topic 6: bit war thankfully
+Topic 7: wait hand hurry
+Topic 8: think drive away
+Topic 9: hour ask alive
+
+2015, Male
+Topic 0: go need day
+Topic 1: know good come
+Topic 2: launch mission alive
+Topic 3: know good come
+Topic 4: droid weapon shield
+Topic 5: truck driver course
+Topic 6: know yes truck
+Topic 7: know yes truck
+Topic 8: launch mission intercept
+Topic 9: brother coach win
+

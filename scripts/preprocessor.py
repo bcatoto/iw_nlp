@@ -7,7 +7,7 @@ import spacy
 
 SRCFOL = '../2_parsed_data'
 DESTFOL = '../3_preprocessed_data'
-REMOVE_WORDS = ['yeah', 'maybe', 'huh', 'uh']
+REMOVE_WORDS = ['yeah', 'maybe', 'huh', 'uh', 'okay']
 
 #-------------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ def preprocess(movie, gender):
 
     lemma = []
     for token in doc:
-        if not token.is_stop and token.text not in REMOVE_WORDS and \
+        if not token.is_stop and token.lemma_ not in REMOVE_WORDS and \
             token.lemma_ != '-PRON-' and token.pos_ != 'PROPN' and \
             len(token.text) > 2:
             lemma.append(token.lemma_)
@@ -33,9 +33,13 @@ def preprocess(movie, gender):
     write_file('%s/%s/%s/%s' % (DESTFOL, gender, movie['year'], title), text)
     print('%s: Finished printing.' % (title))
 
+    return len(lemma)
+
 #-------------------------------------------------------------------------------
 
 def main():
+    fem = 0
+    male = 0
 
     for year in range(1975, 2016):
         print('Parsing movies in %d...' % (year))
@@ -47,13 +51,17 @@ def main():
         # Preprocesses data by gender, year, and movie
         females = read_folder_dict('%s/fem/%d' % (SRCFOL, year), year)
         for movie in females:
-            preprocess(movie, 'fem')
+            fem += preprocess(movie, 'fem')
 
         males = read_folder_dict('%s/male/%d' % (SRCFOL, year), year)
         for movie in males:
-            preprocess(movie, 'male')
+            male += preprocess(movie, 'male')
 
         print('-----------------------------')
+
+    print('NUMBER OF WORDS SPOKEN')
+    print('\tMale:\t\t%d' % (male))
+    print('\tFemale:\t\t%d' % (fem))
 
 if __name__ == '__main__':
     main()

@@ -13,14 +13,33 @@ def clean_characters():
     outLines = open('%s/1_characters_clean.txt' % (FOL), mode='w',
         encoding='ISO-8859-1')
 
+    femCount = 0
+    maleCount = 0
+    unkCount = 0
+
     for line in inLines:
         fields = line.rsplit('\t')
 
         fields[4] = fields[4].lower() # gender
+        if fields[4] == 'f':
+            femCount += 1
+        elif fields[4] == 'm':
+            maleCount += 1
+        else:
+            unkCount += 1
+
         fields[5] = '0\n' if fields[5] == '?\n' else fields[5] # position
 
         newline = '\t'.join(fields)
         outLines.write(newline)
+
+    print('----------------------------------------')
+    print('CORNELL MOVIE-DIALOGS DATABASE:')
+    print('NUMBER OF CHARACTERS')
+    print('\tMale:\t\t%d' % (maleCount))
+    print('\tFemale:\t\t%d' % (femCount))
+    print('\tUnknown:\t%d' % (unkCount))
+    print()
 
     outLines.close()
     inLines.close()
